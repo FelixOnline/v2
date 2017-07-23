@@ -61,10 +61,6 @@ prose_form: &prose_form
     field:
       element: "hidden"
       value: "post"
-  - name: "title"
-    field:
-      element: "text"
-      placeholder: "Article Title"
   - name: "subtitle"
     field:
       label: "Subtitle"
