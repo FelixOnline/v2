@@ -8,9 +8,9 @@
   </div>
   
   <div class="site-nav">
-    {% for section in site.sections %}
+    {% for section in site.data.sections %}
       <span class="page-link">
-        {{ section.name }}
+        <a href="/sections/{{ section.value }}.html">{{ section.name }}</a>
       </span>
     {% endfor %}
   </div>

@@ -17,7 +17,7 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color;
   }
 
   // NEW
@@ -31,15 +31,19 @@
   border-top: 1px solid $grey-color-light;  
 
   .page-link {
-    color: $text-color;
     line-height: $base-line-height;
-
+    
     // NEW
     @include relative-font-size(0.9);
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 30px;
+      margin-right: 40px;
+    }
+
+    // NEW
+    a {
+      color: $text-color;      
     }
   }
 }
