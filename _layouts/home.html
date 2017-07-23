@@ -8,8 +8,8 @@ layout: default
 
   <h1>Headline Posts</h1>
   <p>Posts with headline: true in their config</p>
-  {% assign headline_posts = site.posts | where:"headline", true | limit: 3 %}
-  {% for post in headline_posts %}
+  {% assign headline_posts = site.posts | where:"headline", true %}
+  {% for post in headline_posts limit:3 %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
@@ -22,8 +22,8 @@ layout: default
     {% assign section_name = section | first %}
     <h2>{{ section_name }}</h2>
 
-    {% assign posts = site.categories[section_name] | where:"featured", true | limit: 3 %}
-    {% for post in posts %}
+    {% assign posts = site.categories[section_name] | where:"featured", true %}
+    {% for post in posts limit:3 %}
       <div>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
