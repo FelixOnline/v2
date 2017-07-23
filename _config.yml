@@ -1,18 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Felix
 email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -30,17 +16,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 # exclude:
 #   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 sections:
   - news
@@ -51,6 +28,77 @@ highlights:
   - comment
   - something-else
 
+prose_form: &prose_form
+  - name: "layout"
+    field:
+      element: "hidden"
+      value: "post"
+  - name: "title"
+    field:
+      element: "text"
+      placeholder: "Article Title"
+  - name: "subtitle"
+    field:
+      label: "Subtitle"
+      element: "text"
+      help: "The subtitle is like a title but more sub"
+      placeholder: "Subtitle"
+  - name: "published"
+    field:
+      label: "Published"
+      element: "checkbox"
+      value: false
+  - name: "headline"
+    field:
+      label: "Headline Article"
+      help: "Show the article on the homepage. Only the N most recent headline articles are shown on the homepage"
+      element: "checkbox"
+      value: false
+  - name: "featured"
+    field:
+      label: "Section Featured"
+      help: "Show the article in the section block on the homepage. Only the N most recent featured articles are shown on the homepage"
+      element: "checkbox"
+      value: false
+  - name: "highlight"
+    field:
+      element: "select"
+      label: "Highlight"
+      placeholder: "(optional) Choose highlight"
+      help: "Highlight the article as special for listing at the bottom of the page"
+      options:
+        - name: "Long read"
+          value: "long-read"
+        - name: "Comment"
+          value: "comment"
+        - name: "Some Section"
+          value: "something-else"
+  - name: "category"
+    field:
+      element: "select"
+      label: "Section"
+      placeholder: "Choose Section"
+      help: "Choose a section from the list. (category)"
+      options:
+        - name: "Arts"
+          value: "arts"
+        - name: "News"
+          value: "news"
+        - name: "Culture"
+          value: "culture"
+        - name: "Sport"
+          value: "sport"
+  - name: "tags"
+    field:
+      element: "multiselect"
+      label: "Tags"
+      placeholder: "Choose Tags"
+      alterable: true
+      help: "Choose from a list of tags or add a new one below"
+      options:
+        - name: "donald-trump"
+        - name: "us-election"
+
 prose:
   siteurl: "https://felixonline.github.io"
   ignore:
@@ -60,90 +108,5 @@ prose:
     - _config.yml
     - _layouts
   metadata:
-    news/_posts:
-      - name: "layout"
-        field:
-          label: "Layout"
-          help: "Select the layout for the page"
-          element: "select"
-          options:
-            - name: "Post"
-              value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          placeholder: "Article Title"
-    _posts: &posts
-      - name: "layout"
-        field:
-          label: "Layout"
-          help: "Select the layout for the page"
-          element: "select"
-          options:
-            - name: "Post"
-              value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          placeholder: "Article Title"
-      - name: "subtitle"
-        field:
-          label: "Subtitle"
-          element: "text"
-          help: "The subtitle is like a title but more sub"
-          placeholder: "Subtitle"
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: false
-      - name: "featured"
-        field:
-          label: "Featured"
-          help: "Show the article on the homepage. Only the N most recent featured articles are shown on the homepage"
-          element: "checkbox"
-          value: false
-      - name: "section-featured"
-        field:
-          label: "Section Featured"
-          help: "Show the article in the section block on the homepage. Only the N most recent featured articles are shown on the homepage"
-          element: "checkbox"
-          value: false
-      - name: "Highlight"
-        field:
-          element: "select"
-          label: "Homepage Highlight"
-          placeholder: "Choose Section"
-          help: "Highlight the article as special in some way for listing at the bottom of the page"
-          options:
-            - name: "Long read"
-              value: "long-read"
-            - name: "Comment"
-              value: "comment"
-            - name: "Some Section"
-              value: "something-else"
-      - name: "Section"
-        field:
-          element: "select"
-          label: "Section"
-          placeholder: "Choose Section"
-          help: "Choose a section from the list"
-          options:
-            - name: "Arts"
-              value: "arts"
-            - name: "News"
-              value: "news"
-            - name: "Culture"
-              value: "culture"
-            - name: "Sport"
-              value: "sport"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Tags"
-          placeholder: "Choose Tags"
-          alterable: true
-          help: "Choose from a list of tags or add a new one below"
-          options:
-            - name: "donald-trump"
-            - name: "us-election"
+    _posts:
+      *prose_form
