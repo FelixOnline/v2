@@ -37,7 +37,7 @@ layout: default
 
   <h1>Highlights</h1>
   <p>Individual articles selected for a given highlight</p>
-  {% for highlight in site.highlights %}
+  {% for highlight in site.data.highlights %}
     <h2>{{ highlight.name }}</h2>
     {% assign post = site.posts | where:"highlight", highlight.value | first %}
     <div>
