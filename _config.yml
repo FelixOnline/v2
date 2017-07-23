@@ -51,6 +51,14 @@ prose:
     - _config.yml
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          label: "Layout"
+          help: "Select the layout for the page"
+          element: "select"
+          options:
+            - name: "Post"
+              value: "post"
       - name: "title"
         field:
           element: "text"
