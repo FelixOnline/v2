@@ -96,8 +96,8 @@ prose_form: &prose_form
       alterable: true
       help: "Choose from a list of tags or add a new one below"
       options:
-        - name: "donald-trump"
-        - name: "us-election"
+        - charlie
+        - cats
   - name: "headline"
     field:
       label: "Headline Article"
