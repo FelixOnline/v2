@@ -6,20 +6,37 @@ layout: default
 
   <div class="headline-section">
     <h1>Headlines</h1>
-    {% assign headline_posts = site.posts | where:"headline", true %}
-    {% for post in headline_posts limit:3 %}
-      <div>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+
+    <div class="section">
+      <div class="main-image">
       </div>
-    {% endfor %}
-    <hr class="style-circle"></hr>
-  <div>
+
+      <div class="headline-summaries">
+        {% assign headline_posts = site.posts | where:"headline", true %}
+        {% for post in headline_posts limit:3 %}
+          <div class="summary">
+            <div class="title">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </div>
+
+            <div class="subtitle">
+              This is an interesting subtitle. These need to be quite long
+            </div>
+            <div class="byline">
+              <span class="author">Fred Fyles</span>
+              <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> 
+            </div>
+          </div>
+        {% endfor %}
+      </div>      
+    </div>
+    <hr class="style-circle"></hr>              
+  </div>
 
   <div class="sections">
     {% for section in site.data.sections %}
       {% assign posts = site.categories[section.value] | where:"featured", true %}
-
+      
       {% if posts %}
         <div class="section">
           <h1>

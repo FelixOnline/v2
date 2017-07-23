@@ -72,8 +72,60 @@
  */
 
 .headline-section {
+  
   h1 {
     text-transform: uppercase;
+  }
+
+  .main-image, .headline-summaries {
+    height: $headline-section-height;
+    float: left;
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+
+  .main-image {
+    border: 1px solid $grey-color;
+    background-color: $grey-color-light;
+    margin-right: $spacing-unit / 1.1;
+  }
+
+  .headline-summaries {    
+    .summary {
+      border-top: 1px solid $grey-color-light;
+      height: $headline-section-height / 3;
+
+      &:last-child {
+        border-bottom: 1px solid $grey-color-light;        
+      }
+
+      .title {
+        margin-top: 5px;        
+      }
+
+      a {
+        font-family: $heading-font-family;
+        color: $text-color;
+        @include relative-font-size(1.2);  
+      }
+
+      .subtitle {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        color: $grey-color-dark; 
+        font-style: italic;
+      }
+
+      span.date {
+        @include relative-font-size(0.8);
+        color: $grey-color-dark;
+      }
+
+      span.author {
+        @include relative-font-size(0.9);     
+        margin-right: 3px;
+      }
+    }
   }
 }
 
