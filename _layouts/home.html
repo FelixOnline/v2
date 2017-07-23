@@ -6,7 +6,6 @@ layout: default
 
   <div class="headline-section">
     <h1>Headlines</h1>
-    <p>Posts with headline: true in their config</p>
     {% assign headline_posts = site.posts | where:"headline", true %}
     {% for post in headline_posts limit:3 %}
       <div>
@@ -22,17 +21,20 @@ layout: default
       {% assign posts = site.categories[section.value] | where:"featured", true %}
 
       {% if posts %}
-        <h1>
-          <a href="/sections/{{ section.value }}.html">{{ section.name }}</a>
-        </h1>
+        <div class="section">
+          <h1>
+            <a href="/sections/{{ section.value }}.html">{{ section.name }}</a>
+          </h1>
 
-        {% for post in posts limit:3 %}
-          <div>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-          </div>
-        {% endfor %}
+          {% for post in posts limit:4 %}
+            <div class="post-block">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+              <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+            </div>
+          {% endfor %}
+        </div>
         <hr class="style-circle"></hr>
+        
       {% endif %}
     {% endfor %}
   </div>

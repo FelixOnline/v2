@@ -99,6 +99,18 @@ hr.style-circle:after {
     background: white;
 }
 
+.section {
+  @extend %clearfix;  
+}
+
+.post-block {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  margin-right: $spacing-unit / 2;
+  width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+  width:         calc(50% - (#{$spacing-unit} / 2));
+}
+
 /**
  * Page content
  */
