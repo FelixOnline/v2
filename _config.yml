@@ -41,3 +41,77 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+prose:
+  ignore:
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - _config.yml
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          placeholder: "Article Title"
+      - name: "subtitle"
+        field:
+          label: "Subtitle"
+          element: "text"
+          help: "The subtitle is like a title but more sub"
+          placeholder: "Subtitle"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: false
+      - name: "featured"
+        field:
+          label: "Featured"
+          help: "Show the article on the homepage. Only the N most recent featured articles are shown on the homepage"
+          element: "checkbox"
+          value: false
+      - name: "section-featured"
+        field:
+          label: "Section Featured"
+          help: "Show the article in the section block on the homepage. Only the N most recent featured articles are shown on the homepage"
+          element: "checkbox"
+          value: false
+      - name: "Highlight"
+        field:
+          element: "select"
+          label: "Section"
+          placeholder: "Choose Section"
+          help: "Highlight the article as special in some way for listing at the bottom of the page"
+          options:
+            - name: "Long read"
+              value: "long-read"
+            - name: "Comment"
+              value: "comment"
+            - name: "Some Section"
+              value: "something-else"
+      - name: "Section"
+        field:
+          element: "select"
+          label: "Section"
+          placeholder: "Choose Section"
+          help: "Choose a section from the list"
+          options:
+            - name: "Arts"
+              value: "arts"
+            - name: "News"
+              value: "news"
+            - name: "Culture"
+              value: "culture"
+            - name: "Sport"
+              value: "sport"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          placeholder: "Choose Tags"
+          alterable: true
+          help: "Choose from a list of tags or add a new one below"
+          options:
+            - name: "donald-trump"
+            - name: "us-election"
