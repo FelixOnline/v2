@@ -7,6 +7,4 @@ featured: true
 title: How To Lose Money With Imperial
 category: science
 ---
-## A New Post
-
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

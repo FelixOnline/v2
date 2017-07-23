@@ -7,6 +7,4 @@ featured: false
 title: The Lazy Way To Imperial
 highlight: something-else
 ---
-## A New Post
-
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

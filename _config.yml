@@ -15,8 +15,12 @@ plugins:
 
 # Content data and settings
 collections:
-  sections:
+  section:
     output: true
+    path: /:collection/:path/
+  tagged:
+    output: true
+    path: /:collection/:path/
 
 data:
   sections: &sections
@@ -136,7 +140,8 @@ prose:
     - _includes
     - _layouts
     - _sass
-    - _sections
+    - _section
+    - _tagged
     - assets
     - bin
   metadata:

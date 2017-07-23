@@ -7,6 +7,4 @@ featured: true
 title: Why Most People Will Never Be Great At Imperial
 category: science
 ---
-## A New Post
-
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

@@ -10,6 +10,7 @@ category: science
 tags:
   - another-tag
   - charlie
+  - corbyn
 highlight: comment
 ---
 This is the article content.

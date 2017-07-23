@@ -9,9 +9,7 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% assign posts = site.posts | where:"category", page.data_category %}
-
-    {% for post in posts %}
+    {% for post in site.tags[page.data_tag] %}
       <div>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>

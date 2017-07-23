@@ -15,7 +15,7 @@ layout: default
     {% endfor %}
     <hr class="style-circle"></hr>
   <div>
-  
+
   <div class="sections">
     {% for section in site.data.sections %}
       {% assign posts = site.categories[section.value] | where:"featured", true %}
@@ -34,7 +34,7 @@ layout: default
           {% endfor %}
         </div>
         <hr class="style-circle"></hr>
-        
+
       {% endif %}
     {% endfor %}
   </div>

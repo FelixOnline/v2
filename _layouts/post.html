@@ -12,14 +12,24 @@ layout: default
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
+      {% endif %}
+    </p>
+
+    <div>
+      {% if page.tags.size > 0 %}
+        Tagged with:
+        {% for tag in page.tags %}
+          {% if site.data.tags contains tag %}
+            <a href="/tagged/{{ tag }}"><em>{{ tag }}</em></a><!--
+            -->{% if forloop.last == false %},{% endif %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
 </article>
