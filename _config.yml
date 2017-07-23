@@ -132,9 +132,13 @@ prose:
     - .gitignore
     - Gemfile
     - Gemfile.lock
+    - _assets
     - _config.yml
-    - _layouts
     - _includes
+    - _layouts
+    - _sass
+    - _sections
+    - bin
   metadata:
     _posts:
       *prose_form
