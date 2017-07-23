@@ -11,7 +11,8 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+        {% assign author = site.author | where: "email", page.author | first %}
+        • <a href="{{ author.permalink }}">{{ author.name }}</a>
       {% endif %}
     </p>
 

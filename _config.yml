@@ -21,6 +21,9 @@ collections:
   tagged:
     output: true
     path: /:collection/:path/
+  author:
+    output: true
+    path: /:collection/:path/
 
 data:
   sections: &sections
@@ -79,6 +82,12 @@ prose_form: &prose_form
       element: "text"
       help: "The subtitle is like a title but more sub"
       placeholder: "Subtitle"
+  - name: "author"
+    field:
+      label: "author"
+      element: "text"
+      placeholder: "e.g. name@example.com"
+      help: "Enter an author email - email's must be unique. To link with Author profiles there should be a matching file in _authors"
   - name: "published"
     field:
       label: "Published"

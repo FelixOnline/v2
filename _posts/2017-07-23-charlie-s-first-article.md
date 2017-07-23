@@ -12,6 +12,7 @@ tags:
   - charlie
   - corbyn
 highlight: comment
+author: charlie@example.com
 ---
 This is the article content.
 
