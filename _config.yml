@@ -132,12 +132,12 @@ prose:
     - .gitignore
     - Gemfile
     - Gemfile.lock
-    - _assets
     - _config.yml
     - _includes
     - _layouts
     - _sass
     - _sections
+    - assets
     - bin
   metadata:
     _posts:
