@@ -11,7 +11,8 @@ layout: default
     {% assign section_name = section | first %}
     <h2>{{ section_name }}</h2>
 
-    {% for post in site.categories[section_name] limit: 3 %}
+    {% assign posts = site.categories[section_name] | where:"featured", true | limit: 3 %}
+    {% for post in posts %}
       <div>
         <a href="{{ post.url }}">{{ post.title }}</a>
         <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
@@ -22,7 +23,7 @@ layout: default
   <h1>Highlights</h1>
   {% for highlight in site.highlights %}
     <h2>{{ highlight }}</h2>
-    {% assign post = site.posts| where:"highlight", highlight | first %}
+    {% assign post = site.posts | where:"highlight", highlight | first %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
