@@ -50,6 +50,13 @@ prose_form: &prose_form
       help: "Leave unchecked while article is a draft"
       element: "checkbox"
       value: false
+  - name: "date"
+    field:
+      element: "text"
+      label: "Published Date"
+      placeholder: "Published Date"
+      help: "Enter the article's publication date in the format: YYYY-MM-DD HH:MM"
+      value: "CURRENT_DATETIME"
   - name: "category"
     field:
       element: "select"
