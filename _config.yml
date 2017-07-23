@@ -58,6 +58,7 @@ prose:
     - Gemfile
     - Gemfile.lock
     - _config.yml
+    - _layouts
   metadata:
     _posts:
       - name: "layout"
