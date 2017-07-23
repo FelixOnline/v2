@@ -6,7 +6,18 @@ layout: default
 
   {{ content }}
 
+  <h1>Headline Posts</h1>
+  <p>Posts with headline: true in their config</p>
+  {% assign headline_posts = site.posts | where:"headline", true | limit: 3 %}
+  {% for post in headline_posts %}
+    <div>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    </div>
+  {% endfor %}
+
   <h1>Sections</h1>
+  <p>List of all site sections showing the most recent featured posts for each</p>
   {% for section in site.categories %}
     {% assign section_name = section | first %}
     <h2>{{ section_name }}</h2>
@@ -21,9 +32,10 @@ layout: default
   {% endfor %}
 
   <h1>Highlights</h1>
+  <p>Individual articles selected for a given highlight</p>
   {% for highlight in site.highlights %}
-    <h2>{{ highlight }}</h2>
-    {% assign post = site.posts | where:"highlight", highlight | first %}
+    <h2>{{ highlight.name }}</h2>
+    {% assign post = site.posts | where:"highlight", highlight.value | first %}
     <div>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
