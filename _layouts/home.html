@@ -18,11 +18,13 @@ layout: default
 
   <h1>Sections</h1>
   <p>List of all site sections showing the most recent featured posts for each</p>
-  {% for section in site.sections %}
+  {% for section in site.data.sections %}
     {% assign posts = site.categories[section.value] | where:"featured", true %}
 
-    {% if posts | size > 0 %}
-      <h2>{{ section.name }}</h2>
+    {% if posts %}
+      <h2>
+        <a href="/sections/{{ section.value }}.html">{{ section.name }}</a>
+      </h2>
 
       {% for post in posts limit:3 %}
         <div>

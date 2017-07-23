@@ -14,45 +14,50 @@ plugins:
 #   - Gemfile
 
 # Content data and settings
-sections: &sections
-  - name: "News"
-    value: "news"
-  - name: "Comment"
-    value: "comment"
-  - name: "Science"
-    value: "science"
-  - name: "Arts"
-    value: "arts"
-  - name: "Music"
-    value: "music"
-  - name: "Film"
-    value: "film"
-  - name: "TV"
-    value: "tv"
-  - name: "Games"
-    value: "games"
-  - name: "Food"
-    value: "food"
-  - name: "Travel"
-    value: "travel"
-  - name: "Sport"
-    value: "sport"
-  - name: "Clubs & Socs"
-    value: "clubs-and-socs"
-highlights: &highlights
-  - name: "Longread"
-    value: "longread"
-  - name: "Comment"
-    value: "comment"
-  - name: "Something Else"
-    value: "something-else"
-tags: &tags
-  - uk-election-2017
-  - tech
-  - world
-  - uk
-  - business
-  - corbyn
+collections:
+  sections:
+    output: true
+
+data:
+  sections: &sections
+    - name: "News"
+      value: "news"
+    - name: "Comment"
+      value: "comment"
+    - name: "Science"
+      value: "science"
+    - name: "Arts"
+      value: "arts"
+    - name: "Music"
+      value: "music"
+    - name: "Film"
+      value: "film"
+    - name: "TV"
+      value: "tv"
+    - name: "Games"
+      value: "games"
+    - name: "Food"
+      value: "food"
+    - name: "Travel"
+      value: "travel"
+    - name: "Sport"
+      value: "sport"
+    - name: "Clubs & Socs"
+      value: "clubs-and-socs"
+  highlights: &highlights
+    - name: "Longread"
+      value: "longread"
+    - name: "Comment"
+      value: "comment"
+    - name: "Something Else"
+      value: "something-else"
+  tags: &tags
+    - uk-election-2017
+    - tech
+    - world
+    - uk
+    - business
+    - corbyn
 
 # Prose.io settings
 prose_form: &prose_form
