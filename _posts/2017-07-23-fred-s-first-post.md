@@ -8,10 +8,9 @@ title: fred's first post
 subtitle: the article subtitle
 category: news
 tags:
+  - uk-election-2017
   - corbyn
 ---
-## things
-
 paragraph text
 
 * list
@@ -21,5 +20,3 @@ paragraph text
 **things** [bold](https://google.com "thigns")
 
 _skjdfnvdf_ italic
-
-
