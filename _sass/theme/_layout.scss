@@ -72,14 +72,13 @@
  */
 
 .headline-section {
-
   h1 {
     text-transform: uppercase;
   }
 }
 
 hr.style-circle {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-bottom: 10px;
     height: 1px;
     border-top: 0px $grey-color-light;
@@ -100,15 +99,67 @@ hr.style-circle:after {
 }
 
 .section {
-  @extend %clearfix;  
+  @extend %clearfix; 
+  
+  .post-block-container {
+    margin-top: -$spacing-unit / 2;
+  }
 }
 
 .post-block {
   float: left;
-  margin-bottom: $spacing-unit / 2;
-  margin-right: $spacing-unit / 2;
+  margin-top: $spacing-unit;
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
+  height: 150px;  
+
+  &:nth-child(odd) {
+    margin-right: $spacing-unit / 2;
+  }
+
+  &:nth-child(even) {
+    margin-left: $spacing-unit / 2;    
+  }
+
+  .image, .info {
+    height: 100%;
+    float: left;
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+  
+  .image {
+    border: 1px solid $grey-color;
+    background-color: $grey-color-light;
+    margin-right: $spacing-unit / 4;
+  }
+
+  .info {
+    margin-left: $spacing-unit / 4;  
+    
+    a {
+      font-family: $heading-font-family;
+      color: $text-color;
+      @include relative-font-size(1.2);  
+      line-height: $base-line-height * 0.8;
+    }
+
+    .subtitle {
+      margin-top: 3px;
+      margin-bottom: 3px;
+      color: $grey-color-dark;      
+    }
+
+    span.date {
+      @include relative-font-size(0.8);
+      color: $grey-color-dark;
+    }
+
+    span.author {
+      @include relative-font-size(0.9);     
+      margin-right: 3px;
+    }
+  }
 }
 
 /**

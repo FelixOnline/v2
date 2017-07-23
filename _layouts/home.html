@@ -26,12 +26,25 @@ layout: default
             <a href="/sections/{{ section.value }}.html">{{ section.name }}</a>
           </h1>
 
-          {% for post in posts limit:4 %}
-            <div class="post-block">
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-            </div>
-          {% endfor %}
+          <div class="post-block-container">
+            {% for post in posts limit:4 %}
+              <div class="post-block">
+                <div class="image">
+                </div>
+                <div class="info">
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+  
+                  <div class="subtitle">
+                    This is an interesting subtitle. These need to be quite long
+                  </div>
+                  <div class="byline">
+                    <span class="author">Fred Fyles</span>
+                    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> 
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
         </div>
         <hr class="style-circle"></hr>
 
