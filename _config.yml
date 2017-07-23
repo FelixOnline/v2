@@ -15,10 +15,10 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
 # exclude:
 #   - Gemfile
 
+# Content data and settings
 sections:
   - news
   - arts
@@ -28,6 +28,7 @@ highlights:
   - comment
   - something-else
 
+# Prose.io settings
 prose_form: &prose_form
   - name: "layout"
     field:
@@ -46,8 +47,50 @@ prose_form: &prose_form
   - name: "published"
     field:
       label: "Published"
+      help: "Leave unchecked while article is a draft"
       element: "checkbox"
       value: false
+  - name: "category"
+    field:
+      element: "select"
+      label: "Section"
+      placeholder: "Choose Section"
+      help: "Choose a section from the list. (category)"
+      options:
+        - name: "News"
+          value: "news"
+        - name: "Comment"
+          value: "comment"
+        - name: "Science"
+          value: "science"
+        - name: "Arts"
+          value: "arts"
+        - name: "Music"
+          value: "music"
+        - name: "Film"
+          value: "film"
+        - name: "TV"
+          value: "tv"
+        - name: "Games"
+          value: "games"
+        - name: "Food"
+          value: "food"
+        - name: "Travel"
+          value: "travel"
+        - name: "Sport"
+          value: "sport"
+        - name: "Clubs & Socs"
+          value: "clubs-and-socs"
+  - name: "tags"
+    field:
+      element: "multiselect"
+      label: "Tags"
+      placeholder: "Choose Tags"
+      alterable: true
+      help: "Choose from a list of tags or add a new one below"
+      options:
+        - name: "donald-trump"
+        - name: "us-election"
   - name: "headline"
     field:
       label: "Headline Article"
@@ -56,7 +99,7 @@ prose_form: &prose_form
       value: false
   - name: "featured"
     field:
-      label: "Section Featured"
+      label: "Featured Article"
       help: "Show the article in the section block on the homepage. Only the N most recent featured articles are shown on the homepage"
       element: "checkbox"
       value: false
@@ -73,31 +116,6 @@ prose_form: &prose_form
           value: "comment"
         - name: "Some Section"
           value: "something-else"
-  - name: "category"
-    field:
-      element: "select"
-      label: "Section"
-      placeholder: "Choose Section"
-      help: "Choose a section from the list. (category)"
-      options:
-        - name: "Arts"
-          value: "arts"
-        - name: "News"
-          value: "news"
-        - name: "Culture"
-          value: "culture"
-        - name: "Sport"
-          value: "sport"
-  - name: "tags"
-    field:
-      element: "multiselect"
-      label: "Tags"
-      placeholder: "Choose Tags"
-      alterable: true
-      help: "Choose from a list of tags or add a new one below"
-      options:
-        - name: "donald-trump"
-        - name: "us-election"
 
 prose:
   siteurl: "https://felixonline.github.io"
