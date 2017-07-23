@@ -19,14 +19,45 @@ plugins:
 #   - Gemfile
 
 # Content data and settings
-sections:
-  - news
-  - arts
-  - sports
-highlights:
-  - long-read
-  - comment
-  - something-else
+sections: &sections
+  - name: "News"
+    value: "news"
+  - name: "Comment"
+    value: "comment"
+  - name: "Science"
+    value: "science"
+  - name: "Arts"
+    value: "arts"
+  - name: "Music"
+    value: "music"
+  - name: "Film"
+    value: "film"
+  - name: "TV"
+    value: "tv"
+  - name: "Games"
+    value: "games"
+  - name: "Food"
+    value: "food"
+  - name: "Travel"
+    value: "travel"
+  - name: "Sport"
+    value: "sport"
+  - name: "Clubs & Socs"
+    value: "clubs-and-socs"
+highlights: &highlights
+  - name: "Longread"
+    value: "longread"
+  - name: "Comment"
+    value: "comment"
+  - name: "Something Else"
+    value: "something-else"
+tags: &tags
+  - uk-election-2017
+  - tech
+  - world
+  - uk
+  - business
+  - corbyn
 
 # Prose.io settings
 prose_form: &prose_form
@@ -64,30 +95,7 @@ prose_form: &prose_form
       placeholder: "Choose Section"
       help: "Choose a section from the list. (category)"
       options:
-        - name: "News"
-          value: "news"
-        - name: "Comment"
-          value: "comment"
-        - name: "Science"
-          value: "science"
-        - name: "Arts"
-          value: "arts"
-        - name: "Music"
-          value: "music"
-        - name: "Film"
-          value: "film"
-        - name: "TV"
-          value: "tv"
-        - name: "Games"
-          value: "games"
-        - name: "Food"
-          value: "food"
-        - name: "Travel"
-          value: "travel"
-        - name: "Sport"
-          value: "sport"
-        - name: "Clubs & Socs"
-          value: "clubs-and-socs"
+        *sections
   - name: "tags"
     field:
       element: "multiselect"
@@ -96,8 +104,7 @@ prose_form: &prose_form
       alterable: true
       help: "Choose from a list of tags or add a new one below"
       options:
-        - charlie
-        - cats
+        *tags
   - name: "headline"
     field:
       label: "Headline Article"
@@ -117,12 +124,7 @@ prose_form: &prose_form
       placeholder: "(optional) Choose highlight"
       help: "Highlight the article as special for listing at the bottom of the page"
       options:
-        - name: "Long read"
-          value: "long-read"
-        - name: "Comment"
-          value: "comment"
-        - name: "Some Section"
-          value: "something-else"
+        *highlights
 
 prose:
   siteurl: "https://felixonline.github.io"
