@@ -43,6 +43,7 @@ plugins:
 #   - vendor/ruby/
 
 prose:
+  siteurl: "https://felixonline.github.io"
   ignore:
     - .gitignore
     - Gemfile
@@ -80,7 +81,7 @@ prose:
       - name: "Highlight"
         field:
           element: "select"
-          label: "Section"
+          label: "Homepage Highlight"
           placeholder: "Choose Section"
           help: "Highlight the article as special in some way for listing at the bottom of the page"
           options:
