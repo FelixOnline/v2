@@ -145,9 +145,10 @@ hr.style-circle:after {
     }
 
     .subtitle {
-      margin-top: 3px;
-      margin-bottom: 3px;
-      color: $grey-color-dark;      
+      margin-top: 4px;
+      margin-bottom: 4px;
+      color: $grey-color-dark; 
+      font-style: italic;
     }
 
     span.date {
