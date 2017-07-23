@@ -76,7 +76,7 @@ prose_form: &prose_form
       label: "Published"
       help: "Leave unchecked while article is a draft"
       element: "checkbox"
-      value: false
+      value: true
   - name: "date"
     field:
       element: "text"
@@ -112,7 +112,7 @@ prose_form: &prose_form
       label: "Featured Article"
       help: "Show the article in the section block on the homepage. Only the N most recent featured articles are shown on the homepage"
       element: "checkbox"
-      value: false
+      value: true
   - name: "highlight"
     field:
       element: "select"
