@@ -126,6 +126,7 @@ prose:
     - Gemfile.lock
     - _config.yml
     - _layouts
+    - _includes
   metadata:
     _posts:
       *prose_form
