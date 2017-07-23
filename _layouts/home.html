@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <h1>Sections</h1>
+  {% for section in site.categories %}
+    {% assign section_name = section | first %}
+    <h2>{{ section_name }}</h2>
+
+    {% for post in site.categories[section_name] | limit:3 %}
+      <div>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+      </div>
+    {% endfor %}
+  {% endfor %}
+
+  <h1>Highlights</h1>
+  {% for highlight in site.highlights %}
+    <h2>{{ highlight }}</h2>
+    {% assign post = site.posts| where:"highlight", highlight | first %}
+    <div>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    </div>
+  {% endfor %}
+
+</div>
