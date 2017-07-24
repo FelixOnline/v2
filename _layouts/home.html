@@ -70,14 +70,23 @@ layout: default
   </div>
 
   <div class="highlight-section">
-    <h1>Highlights</h1>
-    <p>Individual articles selected for a given highlight</p>
     {% for highlight in site.data.highlights %}
-      <h2>{{ highlight.name }}</h2>
-      {% assign post = site.posts | where:"highlight", highlight.value | first %}
-      <div>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+      <div class="highlight-post-block">
+        <h2>{{ highlight.name }}</h2>        
+        <div class="image">
+        </div>
+        {% assign post = site.posts | where:"highlight", highlight.value | first %}
+        <div class="info">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+
+          <div class="subtitle">
+            This is an interesting subtitle. These need to be quite long
+          </div>
+          <div class="byline">
+            <span class="author">Fred Fyles</span>
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> 
+          </div>
+        </div>
       </div>
     {% endfor %}
   </div>
