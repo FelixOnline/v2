@@ -85,8 +85,8 @@
   }
 
   .main-image {
-    border: 1px solid $grey-color;
-    background-color: $grey-color-light;
+    background-image: url("http://lorempixel.com/500/400/");
+    background-size: cover;
     margin-right: $spacing-unit / 1.1;
   }
 
@@ -189,8 +189,8 @@ hr.style-circle:after {
   }
   
   .image {
-    border: 1px solid $grey-color;
-    background-color: $grey-color-light;
+    background-image: url("http://lorempixel.com/400/300/");
+    background-size: cover;
     margin-right: $spacing-unit / 4;
   }
 
@@ -235,8 +235,8 @@ hr.style-circle:after {
 
   .image {
     height: 150px;    
-    border: 1px solid $grey-color;
-    background-color: $grey-color-light;
+    background-image: url("http://lorempixel.com/500/300/");
+    background-size: cover;
   }
 
   h2 {
