@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
 image_title: "tycho_eb_270217_joeokpako_lowres-52 2.jpg"
 image_caption: ""
 image_width: "540"

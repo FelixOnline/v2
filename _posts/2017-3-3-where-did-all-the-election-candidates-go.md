@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031415-felix-leadership elections.png"
+image_path: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
 image_title: "leadership elections.png"
 image_caption: ""
 image_width: "760"

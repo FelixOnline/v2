@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201704082251-im1413-a_scene_from_consent_photo_by_sarah_lee.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201704082251-im1413-a_scene_from_consent_photo_by_sarah_lee.jpg"
 image_title: "a_scene_from_consent_photo_by_sarah_lee.jpg"
 image_caption: "The cast of Consent | Sarah Lee"
 image_width: "1289"

@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031514-felix-04.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031514-felix-04.jpg"
 image_title: "04.jpg"
 image_caption: "Blanca Li Dance Company, Robot"
 image_width: "4724"

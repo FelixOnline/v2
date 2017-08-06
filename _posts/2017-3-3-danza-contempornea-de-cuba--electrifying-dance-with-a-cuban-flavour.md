@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031520-felix-The-Listening-Room-004.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031520-felix-The-Listening-Room-004.jpg"
 image_title: "The-Listening-Room-004.jpg"
 image_caption: "Danza Contemporánea de Cuba's production of Theo Clinkard's The Listening Room"
 image_width: "3818"

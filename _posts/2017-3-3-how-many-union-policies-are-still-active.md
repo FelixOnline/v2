@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031416-felix-tankards policy.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031416-felix-tankards policy.jpg"
 image_title: "tankards policy.jpg"
 image_caption: "Apparently it’s one of the largest collections in Europe"
 image_width: "760"

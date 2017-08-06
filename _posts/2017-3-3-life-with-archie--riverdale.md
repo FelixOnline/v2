@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031540-felix-riverdale_64.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
 image_title: "riverdale_64.jpg"
 image_caption: "Careful you don’t cut yourself on all that edge"
 image_width: "3000"

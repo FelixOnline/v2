@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031526-felix-20170225_221356.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
 image_title: "20170225_221356.jpg"
 image_caption: ""
 image_width: "5312"

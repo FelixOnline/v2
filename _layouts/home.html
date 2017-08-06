@@ -8,11 +8,11 @@ layout: default
     <h1>Headlines</h1>
 
     <div class="section">
-      <div class="main-image">
-      </div>
+      {% assign headline_posts = site.posts | where:"headline", true %}
+      {% assign first_headline = headline_posts | first %}
+      <div class="main-image" style="background-image: url({{ first_headline.image_path | replace: " ", "%20" }})"></div>
 
       <div class="headline-summaries">
-        {% assign headline_posts = site.posts | where:"headline", true %}
         {% for post in headline_posts limit:3 %}
           <div class="summary">
             <div class="section">
@@ -51,8 +51,7 @@ layout: default
           <div class="post-block-container">
             {% for post in posts limit:4 %}
               <div class="post-block">
-                <div class="image">
-                </div>
+                <div class="image" style="background-image: url({{ post.image_path | replace: " ", "%20" }})"></div>
                 <div class="info">
                   <a href="{{ post.url }}">{{ post.title }}</a>
   
@@ -77,9 +76,8 @@ layout: default
   <div class="highlight-section">
     {% for highlight in site.data.highlights %}
       <div class="highlight-post-block">
-        <h2>{{ highlight.name }}</h2>        
-        <div class="image">
-        </div>
+        <h2>{{ highlight.name }}</h2>
+        <div class="image" style="background-image: url({{ post.image_path | replace: " ", "%20" }})"></div>
         {% assign post = site.posts | where:"highlight", highlight.value | first %}
         <div class="info">
           <a href="{{ post.url }}">{{ post.title }}</a>

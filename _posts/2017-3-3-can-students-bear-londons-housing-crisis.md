@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
 image_title: "31924312876_df1d6e2825_o.jpg"
 image_caption: "Khan Sadiq solve the housing crisis?"
 image_width: "1280"

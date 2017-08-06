@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031607-felix-Screen Shot 2017-03-03 at 16.06.48.png"
+image_path: "http://felixonline.co.uk/img/upload/201703031607-felix-Screen Shot 2017-03-03 at 16.06.48.png"
 image_title: "Screen Shot 2017-03-03 at 16.06.48.png"
 image_caption: "Get you St Andrews cross out"
 image_width: "1640"

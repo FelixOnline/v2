@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031845-felix-IMG_7179.JPG"
+image_path: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
 image_title: "IMG_7179.JPG"
 image_caption: "The Royal Schoo of Mines"
 image_width: "3264"

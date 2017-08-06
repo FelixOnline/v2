@@ -11,7 +11,7 @@ tags:
   - uk-election-2017
   - corbyn
 
-image_path: "img/upload/201703031557-felix-food-waster-hero1.jpg"
+image_path: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
 image_title: "food-waster-hero1.jpg"
 image_caption: ""
 image_width: "1200"
