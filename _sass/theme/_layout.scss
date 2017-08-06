@@ -31,12 +31,8 @@
   border-top: 1px solid $grey-color-light;
 
   .page-link {
-<<<<<<< HEAD
     line-height: $base-line-height * 0.8;
     font-weight: bold;
-=======
-    line-height: $base-line-height;
->>>>>>> 288bce2cb0b10837d97935d22210bded2f778a41
 
     // NEW
     @include relative-font-size(0.8);
