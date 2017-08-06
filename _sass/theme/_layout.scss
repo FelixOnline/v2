@@ -28,13 +28,14 @@
   line-height: $base-line-height * $base-font-size * 2;
 
   // NEW
-  border-top: 1px solid $grey-color-light;  
+  border-top: 1px solid $grey-color-light;
 
   .page-link {
-    line-height: $base-line-height;
-    
+    line-height: $base-line-height * 0.8;
+    font-weight: bold;
+
     // NEW
-    @include relative-font-size(0.9);
+    @include relative-font-size(0.8);
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -43,7 +44,7 @@
 
     // NEW
     a {
-      color: $text-color;      
+      color: $text-color;
     }
   }
 }
@@ -55,24 +56,31 @@
   }
 }
 
+.icon {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  top: 11px;
+}
+
 
 
 /**
  * Site footer
  */
-.site-footer {  
+.site-footer {
   border-top: 1px solid $grey-color-light;
 }
 
 // NEW
 .footer-slogan {
-  padding: $spacing-unit * 0.4 0;  
+  padding: $spacing-unit * 0.4 0;
   font-family: $heading-font-family;
   font-style: italic;
-  text-align: center;  
-  border-bottom: 1px solid $grey-color-light;  
+  text-align: center;
+  border-bottom: 1px solid $grey-color-light;
 
-  color: $grey-color-dark;      
+  color: $grey-color-dark;
 }
 
 /**
@@ -80,7 +88,7 @@
  */
 
 .headline-section {
-  
+
   h1 {
     text-transform: uppercase;
   }
@@ -89,7 +97,7 @@
     h1 {
       margin-top: -10px;
     }
-  } 
+  }
 
   .main-image, .headline-summaries {
     height: $headline-section-height;
@@ -116,34 +124,34 @@
     margin-right: $spacing-unit / 1.1;
   }
 
-  .headline-summaries {    
+  .headline-summaries {
     .summary {
       border-top: 0.75px solid $grey-color-light;
       height: $headline-section-height / 3;
       font-family: $heading-font-family;
 
       &:first-child {
-        border-top: 0.75px solid $text-color;                
+        border-top: 0.75px solid $text-color;
       }
 
       &:last-child {
-        border-bottom: 0.75px solid $grey-color-light;        
+        border-bottom: 0.75px solid $grey-color-light;
       }
 
       @include media-query($on-palm) {
         &:last-child {
-          border-bottom: none;        
+          border-bottom: none;
         }
       }
 
       .section {
         margin-top: 8px;
         font-style: italic;
-        @include relative-font-size(0.9);  
+        @include relative-font-size(0.9);
       }
 
       .title {
-        @include relative-font-size(1.35);         
+        @include relative-font-size(1.35);
       }
 
       .title a {
@@ -163,8 +171,8 @@
 
       @include media-query($on-palm) {
         .title {
-          @include relative-font-size(1);      
-          line-height: $base-line-height * 0.9;   
+          @include relative-font-size(1);
+          line-height: $base-line-height * 0.9;
         }
 
         .title span.author {
@@ -176,7 +184,7 @@
 
     @include media-query($on-palm) {
       .summary {
-        height: $headline-section-height * 0.8 / 3;    
+        height: $headline-section-height * 0.8 / 3;
       }
     }
   }
@@ -205,15 +213,15 @@ hr.style-circle:after {
 }
 
 .section {
-  @extend %clearfix; 
-  
+  @extend %clearfix;
+
   .post-block-container {
     margin-top: -$spacing-unit / 2;
   }
 
   h1 {
     text-transform: uppercase;
-    
+
     a {
       color: $text-color;
     }
@@ -225,14 +233,14 @@ hr.style-circle:after {
   margin-top: $spacing-unit;
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
-  height: 150px;  
+  height: 150px;
 
   &:nth-child(odd) {
     margin-right: $spacing-unit / 2;
   }
 
   &:nth-child(even) {
-    margin-left: $spacing-unit / 2;    
+    margin-left: $spacing-unit / 2;
   }
 
   @include media-query($on-palm) {
@@ -251,7 +259,7 @@ hr.style-circle:after {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
   }
-  
+
   .image {
     background-image: url("http://lorempixel.com/400/300/");
     background-size: cover;
@@ -259,19 +267,19 @@ hr.style-circle:after {
   }
 
   .info {
-    margin-left: $spacing-unit / 4;  
-    
+    margin-left: $spacing-unit / 4;
+
     a {
       font-family: $heading-font-family;
       color: $text-color;
-      @include relative-font-size(1.2);  
+      @include relative-font-size(1.2);
       line-height: $base-line-height * 0.8;
     }
 
     .subtitle {
       margin-top: 4px;
       margin-bottom: 4px;
-      color: $grey-color-dark; 
+      color: $grey-color-dark;
       font-style: italic;
     }
 
@@ -281,7 +289,7 @@ hr.style-circle:after {
     }
 
     span.author {
-      @include relative-font-size(0.9);     
+      @include relative-font-size(0.9);
       margin-right: 3px;
     }
   }
@@ -292,7 +300,7 @@ hr.style-circle:after {
     float: none;
     margin-top: $spacing-unit;
     width: 100%;
-    height: 150px;  
+    height: 150px;
   }
 }
 
@@ -313,7 +321,7 @@ hr.style-circle:after {
   }
 
   .image {
-    height: 150px;    
+    height: 150px;
     background-image: url("http://lorempixel.com/500/300/");
     background-size: cover;
   }
@@ -323,20 +331,20 @@ hr.style-circle:after {
   }
 
   .info {
-    
+
     margin-top: $spacing-unit / 2;
 
     a {
       font-family: $heading-font-family;
       color: $text-color;
-      @include relative-font-size(1.2);  
+      @include relative-font-size(1.2);
       line-height: $base-line-height * 0.8;
     }
 
     .subtitle {
       margin-top: 4px;
       margin-bottom: 4px;
-      color: $grey-color-dark; 
+      color: $grey-color-dark;
       font-style: italic;
     }
 
@@ -346,7 +354,7 @@ hr.style-circle:after {
     }
 
     span.author {
-      @include relative-font-size(0.9);     
+      @include relative-font-size(0.9);
       margin-right: 3px;
     }
   }
