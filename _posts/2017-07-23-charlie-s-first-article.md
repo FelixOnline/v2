@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-date: '2017-07-23 15:53 +0100'
+date: '2017-01-23 15:53 +0100'
 headline: true
 featured: true
 title: Use Imperial To Make Someone Fall In Love With You
@@ -13,6 +13,7 @@ tags:
   - corbyn
 highlight: comment
 author: charlie@example.com
+image_path: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
 ---
 This is the article content.
 
