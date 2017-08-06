@@ -10,6 +10,8 @@
   <div class="site-nav">
     {% for section in site.data.sections %}
       <span class="page-link">
+        <object class="icon" type="image/svg+xml" data="assets/icons/{{ section.name | downcase }}1.svg">
+        </object>
         <a href="/section/{{ section.value }}.html">{{ section.name }}</a>
       </span>
     {% endfor %}
