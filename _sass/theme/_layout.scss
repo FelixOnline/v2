@@ -100,7 +100,7 @@
 
   @include media-query($on-palm) {
     .main-image, .headline-summaries {
-      height: $headline-section-height * 1.2;
+      height: $headline-section-height * 0.75;
       float: none;
       width: 100%;
     }
@@ -118,11 +118,16 @@
 
   .headline-summaries {    
     .summary {
-      border-top: 1px solid $grey-color-light;
+      border-top: 0.75px solid $grey-color-light;
       height: $headline-section-height / 3;
+      font-family: $heading-font-family;
+
+      &:first-child {
+        border-top: 0.75px solid $text-color;                
+      }
 
       &:last-child {
-        border-bottom: 1px solid $grey-color-light;        
+        border-bottom: 0.75px solid $grey-color-light;        
       }
 
       @include media-query($on-palm) {
@@ -131,37 +136,47 @@
         }
       }
 
-      .title {
-        margin-top: 5px;        
-      }
-
-      a {
-        font-family: $heading-font-family;
-        color: $text-color;
-        @include relative-font-size(1.2);  
-      }
-
-      .subtitle {
-        margin-top: 4px;
-        margin-bottom: 4px;
-        color: $grey-color-dark; 
+      .section {
+        margin-top: 8px;
         font-style: italic;
+        @include relative-font-size(0.9);  
       }
 
-      span.date {
-        @include relative-font-size(0.8);
-        color: $grey-color-dark;
+      .title {
+        @include relative-font-size(1.35);         
       }
 
-      span.author {
-        @include relative-font-size(0.9);     
-        margin-right: 3px;
+      .title a {
+        color: $text-color;
+      }
+
+      .title span.author {
+        margin-left: 4px;
+        color: $grey-color;
+      }
+
+      @media (min-width: $on-palm) and (max-width: 960px) {
+        .title span.author {
+          margin-left: 0px;
+        }
+      }
+
+      @include media-query($on-palm) {
+        .title {
+          @include relative-font-size(1);      
+          line-height: $base-line-height * 0.9;   
+        }
+
+        .title span.author {
+          margin-left: 0px;
+          display: block;
+        }
       }
     }
 
     @include media-query($on-palm) {
       .summary {
-        height: $headline-section-height * 1.2 / 3;        
+        height: $headline-section-height * 0.8 / 3;    
       }
     }
   }

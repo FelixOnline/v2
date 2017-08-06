@@ -15,18 +15,23 @@ layout: default
         {% assign headline_posts = site.posts | where:"headline", true %}
         {% for post in headline_posts limit:3 %}
           <div class="summary">
-            <div class="title">
-              <a href="{{ post.url }}">{{ post.title }}</a>
+            <div class="section">
+              {% if post.category %}
+                {{ post.category | capitalize }}
+              {% else %}
+                In the Current Issue
+              {% endif %}
             </div>
+             <div class="title">
+              <a href="{{ post.url }}">{{ post.title | capitalize }}</a>
+              <span class="author">By Fred Fyles</span>
+            </div> 
 
-            <div class="subtitle">
-              This is an interesting subtitle. These need to be quite long
-            </div>
-            <div class="byline">
-              <span class="author">Fred Fyles</span>
+            <!-- <div class="byline">
+              
               <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span> 
-            </div>
-          </div>
+            </div>  -->
+          </div> 
         {% endfor %}
       </div>      
     </div>
