@@ -10,6 +10,7 @@ url: "https://felixonline.github.io"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 # exclude:
 #   - Gemfile
 

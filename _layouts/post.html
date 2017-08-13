@@ -5,6 +5,7 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h2 class="post-subtitle">{{ page.subtitle | escape }}</h2>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -29,7 +30,17 @@ layout: default
     </div>
   </header>
 
-  <img src="{{ page.image_path }}">
+  {% if page.imported == true %}
+    <div>
+      This article was imported from Felix Online V1.
+      <a href="http://felixonline.co.uk/{{ page.old_path }}">Original Article</a>
+    </div>
+  {% endif %}
+
+  <figure>
+    <img alt="{{ page.image_caption }}" src="{{ page.image_path }}">
+    <figcaption>{{ page.image_caption }}</figcaption>
+  </figure>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
