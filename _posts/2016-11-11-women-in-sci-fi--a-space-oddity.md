@@ -1,0 +1,64 @@
+---
+layout: post
+title: >
+  Women in sci-fi | A space oddity?
+subtitle: >
+  Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
+date: "2016-11-11 13:44:59 +0000"
+id: "6420"
+old_path: /film/6420/women-in-sci-fi--a-space-oddity
+redirect_from:
+ - /film/6420/women-in-sci-fi--a-space-oddity
+category: film
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
+image_caption: >
+  Amy Adams in Arrival
+image_width: "1280"
+image_height: "720"
+image_attribution: "Paramount Pictures"
+image_attribution_link: ""
+video_url: ""
+
+author_id: ""
+author_name: ""
+author_image_path: ""
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+Around the halfway point of Denis Villeneuve’s latest sci\-fi thriller _Arrival_, which touches down this week, I found myself questioning the circular nature of time. But while the film itself – with its focus on language, neurology, and chronology – does try and upset our conventionally\-held notions of time \(to say any more would risk spoiling it\), my confusion was more simply explained as a regular case of déjà vu: haven’t we already seen this before?
+
+You see, what was brought to my mind most of all while watching _Arrival_ was Alfonso Cuarón’s 2013 film Gravity. Like _Arrival_, _Gravity_ was a big\-budget production – both films were visually resplendent, and I imagine _Arrival_ will pick up almost as many award nominations as _Gravity_ did – but what struck me the most was how in both films a decision was made that is rare in science fiction: both had a woman as the central protagonist. In _Arrival_, it’s Amy Adams’ Dr. Louise Banks who saves the day, a linguistic expert who is tasked with communicating with aliens who land across the planet. In _Gravity_, the stakes are a bit lower – globally speaking – as Sandra Bullock’s Dr. Ryan Stone needs only to save her own skin after a chain reaction of debris peppers her space\-craft mid\-flight.
+
+The comparisons extend further beyond gender politics – _Gravity_ and _Arrival_ share a sweeping soundtrack, a sense of wonderment at human progress, and an overt distrust of the Russians – but something about the choice to cast women in the centre of both films seemed bold, daring almost. It shouldn’t really, and yet, even today, women are rarely seen in cinematic leading roles, particularly in science fiction.
+
+A study released earlier this year from the Center for the Study of Women in Television and Film, a unit at San Diego State University, found that women made up only 22% of protagonists in the top\-grossing films of 2015, meaning male protagonists outnumbered them by more than 3:1. Furthermore, this represented a _recent historical high_: in 2014, only 12% of protagonists were women, indicating that – despite the widespread calls of gender equality in some sections of the industry – Hollywood lags far behind in terms of representation.
+TODO: image from 
+And thus, the huge success of _Gravity_ \(which made close to three quarters of a billion dollars\), and the presumed success of _Arrival_, should be more than welcome. But things aren’t really all they seem: to me, both Adams’ and Bullock’s characters mark not a breakout surge for the woman\-led sci\-fi film, but instead a return to the classical tropes surrounding women in media. Rather than something that should be unquestionably lauded, the portrayal of women in both _Gravity_ and _Arrival_ should be critically scrutinised before we claim it as a feminist victory.
+
+Firstly, it’s telling that while both protagonists are highly\-trained academics, neither work in what are classically called the ‘hard sciences’ – Banks is a world expert in linguistics, which is not counted among the STEM subjects; Stone is a biomedical engineer, a field associated with the life sciences, which are disproportionately studied by women. This might seem like a small niggle, but it highlights how rare it is to see women occupy the roles traditionally associated with men, such as physicists and mathematicians. Furthermore, in _Gravity_, Stone’s character is marked by her lack of experience, and spends much of the film flailing around in space. It’s a stark contrast to George Clooney’s character, a smooth operator who easily excels at space\-walking, and has to help Stone through the more ‘difficult’ aspects of space\-travel.
+
+However, the key problem is that neither Stone nor Banks are allowed to have a narrative that stands up on its own two feet – they both need a ‘hook’, as it were, to elicit sympathy from the viewer. While this is a common occurrence in science fiction \(despite the huge success of the _Half\-Life_ video game series, studio execs still need to be persuaded that we can empathise with ‘normal’ scientist\-cum\-ciphers\), in both _Arrival_ and _Gravity_ the female leads are cast in wholly maternal roles. In _Gravity_, Stone has lost her young daughter in an accident; in _Arrival_, much the same happens, with cancer taking away Banks’ daughter before her time. In both films, this is about as far as it goes in giving each character a back\-story, forcing both of them into the role of the grieving mother, who pours herself into her work to make up for their personal losses – in the case of _Arrival_, this happens in, quite literally, the first five minutes. Neither character is allowed to be simply a scientist who is good at her job; presumably the studio executives believed that this would be such an unengaging character, so unnerving, that a large dose of displaced maternal instinct needs to be injected in order to gain the audience’s trust. At least Cuarón had the good sense to resist throwing in a love story, which is more than can be said for _Arrival_.
+> > Both Adams’ and Bullock’s characters mark not a breakout surge for the woman\-led sci\-fi film, but instead a return to the classical tropes surrounding women in media
+While this might strike some as me looking for problems where there aren’t any, I think an instructive comparison can be made between these two films and _The Martian_, Ridley Scott’s 2015 science fiction comedy\-cum\-action film. _The Martian_, like _Gravity_ and _Arrival_, focuses largely on a single scientist \(Matt Damon\), who needs to use all his knowledge to overcome a major issue. In the case of _The Martian_, the problem is that Damon’s character, Dr. Mark Watney, has been stranded on Mars when a mission goes wrong. His solution? To ‘science the shit out of this’. In many ways, these films are quite similar, with the lone \(or near\-lone\) scientist going up against insurmountable obstacles, and triumphing thanks to the ingenuity of humankind.
+
+However, there is an important difference, and that is that Damon’s character in _The Martian_ is allowed to stand alone, without his narrative being bolstered by the perceived need for an emotional back\-story. Damon is free to blow stuff up, dance around the space module, and generally be a free agent; there is no dying child left behind on Earth, no poignant moment of communication with a spouse, nothing – in essence – acting as emotional baggage. In this way, Damon’s character fulfils the typical archetype of the man alone in the wilderness, a trope that dates all the way back to Henry David Thoreau’s mid\-19th Century work _Walden_, which espouses independence from others and a life of self\-sufficiency. In a controversial piece written for the _New Yorker_ magazine, Kathryn Schulz argues that _Walden_ was ‘the original cabin porn’, which espouses ‘a fantasy about escaping the entanglements and responsibilities of living among other people’. While Watney is able to eschew the duties that accompany living with others, Stone and Banks are never afforded this luxury; as women, they are bound by a heavily\-networked web of interpersonal relationships from which they cannot escape. The fact that producers of science\-fiction films feel they cannot divorce their female protagonists from this emotional mesh speaks to the deeply\-ingrained social roles that women are expected to fulfil: mothers; sisters; daughters.
+> > In sci\-fi, women are still expected to fulfil the social roles of mothers, sisters, and daughters
+But hasn’t this always been the case in science fiction? Haven’t women always been relegated to the side\-lines? Surely, with these films, even if women are put in reductive roles, at least they are protagonists? Well, the earliest history of science fiction film is indeed marked by a pronounced lack of women characters. Where they did feature, such as in _Le Voyage Dans La Lune_ \(1902\) and _Aelita: Queen of Mars_ \(1924\), they were cast as aliens – the most literal representation of the ‘Other’ that you can get. Similarly, in _Metropolis_, Fritz Lang’s 1927 master work, which set the conventions for science fiction cinema for the next century, Brigitte Helm plays both the socialist siren Maria and her evil robot double. Neither roles are particularly liberating: Maria is the perfect fräulein, a flawless mediator between the workers \(the hands\) and the ruling classes \(the head\), while her robot double is, naturally, completely dehumanised.
+
+As we enter the swinging sixties, things don’t get much better. _Stanley Kubrick’s 2001: A Space Odyssey_, the most important film in the genre, is remarkably free of women characters, and in the science fiction films that do offer key roles for women, they are often cast as mere eye\-candy, and little else. Think back to the 1968 camp classic _Barbarella_, which saw Jane Fonda as the title role, proudly holding up the image of the female adventurer who must wear impractically\-skimpy outfits – a tradition that continues to this very day. Director Roger Vadim spoke of his reluctance to ‘intellectualise’ the character, and this shows: Barbarella regularly adopts the role of damsel in distress, and when rescued offers to repay the men who come to her aid with athletic sex. For context, this was a film released half a decade after Betty Friedan’s _The Feminine Mystique_.
+TODO: image from 
+It wasn’t really until the 1970s when women really made their mark on sci\-fi. The decade kicked off with _The Andromeda Strain_, which saw Dr. Ruth Leavitt save the world from an extraterrestrial pathogen whilst navigating the male\-dominated world of hard\-nosed science. We then ended the decade with _Alien_, that classic landmark in both feminist film and the science\-fiction canon. With the focus on the alien itself, in all it’s H. R. Giger\-designed phallic glory, Sigourney Weaver was able to carve out the role of Ripley, the warrant officer on\-board the attacked ship. Not only does the film, with its visuals of grubs popping out of chests, toy very knowingly with the male fear of femininity and pregnancy, but the role of Ripley punched a hole in the traditional portrayal of women in science fiction. Here was a female protagonist who was tough, hard\-headed, and didn’t need any man to save her. The script initially had all the characters down as male, but the writers explicitly stated that “the crew is unisex and all parts are interchangeable for men or women”. Weaver embodied the role in a way that didn’t draw attention to her gender, and director Ridley Scott didn’t attempt to play up any maternal instincts – the result was a character that is inherently feminist, an icon of power and independence.
+
+The next two decades after _Alien_ saw a number of sci\-fi films that toyed with the idea of a female protagonist: 1986’s _Aliens_, which saw Weaver return to the screen to kick some alien butt yet again; 1991’s _Terminator 2_, whose Sarah Connor character can be seen as the archetype of _Mad Max: Fury Road_’s Furiosa; and 1997’s _Contact_, in which Jodie Foster plays a SETI scientist whose discovery of an alien message drives the film. Since then, things seem to have taken a step back, with films like _Ex Machina_ and_Under the Skin_ pushing women back in the alien/android box, and Spike Jonze’s _Her_ relegating the main female character to an off\-screen voice.
+
+Looked at against this historical context, we can see that the female characters at the front of _Arrival_ and _Gravity_ do not mark a new golden age of women in sci\-fi. While it is welcome to see women in front of the camera, they are forced into roles that live up to the old stereotypes of women: they are mothers or daughters first, and scientists second. What science fiction needs – indeed, what cinema needs in general – are female characters who are simply allowed to be. Ones that we are allowed to simply relate to, as themselves, in all their power and glory.

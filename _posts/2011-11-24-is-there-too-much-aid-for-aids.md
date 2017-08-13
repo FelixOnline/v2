@@ -1,0 +1,52 @@
+---
+layout: post
+title: >
+  Is there too much aid for AIDS?
+subtitle: >
+  Next Thursday is World AIDS Day. As Medsin Imperial holds a debate to mark the occasion, Red Elmahdi investigates the arguments surrounding aid and AIDS
+date: "2011-11-24 21:40:39 +0000"
+id: "1827"
+old_path: /news/1827/is-there-too-much-aid-for-aids
+redirect_from:
+ - /news/1827/is-there-too-much-aid-for-aids
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
+image_caption: >
+  
+image_width: "402"
+image_height: "604"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "pk1811"
+author_name: "Philip Kent"
+author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+For anyone who has an interest in the global AIDS pandemic and the prevention strategies underway to counter it, this summer proved to be a very exciting one. The results from a ground breaking international HIV prevention study proving the practical elimination of sexual transmission of HIV through the effective treatment of those infected with antiretroviral therapy were released this July and sent the AIDS community a tweet with possibilities. Shortly after, _The Economist_ published a title of ‘The End of AIDS?’ as its cover feature. After 30 years of searching for a solution the hopes of many in seeing the end of this devastating infection have been revived. The only issue is that the idea of treatment as prevention is costly. In fact, it’s the most costly prevention intervention ever seriously considered for HIV. A total of $6.9bn was given in international assistance to HIV/AIDS in 2010 – that represents almost 10% of total foreign aid given from governments to assist less fortunate countries for last year – that’s a large slice of the aid pie for one disease. So, should we really be demanding an increase in funding for this latest ‘elimination’ strategy?
+
+Antiretroviral therapy or ART is the treatment given to HIV positive people at risk of immunocompromise to prevent the development of AIDS diseases. It works by preventing replication of the HIV virus in the body and therefore reducing the levels of the virus and its destruction of immune cells. This also reduces the infectiousness of an HIV positive person and their risk of transmitting the virus on to others and this is the basic premise in treatment as prevention. For a few years now there has been an excitement bubbling below the surface amongst those working in HIV/AIDS. There have been models put forward by hopeful souls foreseeing the end of the epidemic in sub-Saharan Africa within half a century and reports from across the world including Spain, Taiwan and Canada claiming reductions in HIV infection rates since the widespread use of ART, but it wasn’t until Myron Cohen and his team at the HIV prevention trials network conducted a study which showed a 96% reduction in HIV transmission that people really began to take the idea of treatment as prevention seriously.
+
+On the face of it, the idea of increasing funding for treatment seems to be perfectly plausible and morally justifiable. Treating people who are HIV positive earlier in their infection isn’t such a huge leap from a clinical perspective as evidence shows that it’s likely to prolong their life. If this also practically eliminates the risk of onwards transmission onto sexual partners that is a massive bonus and makes it well worth the increase in investment. The problem is many of those around the world who are HIV positive and should be receiving treatment under [World Health Organisation](http://www.who.int/en/) recommended guidelines are not. Currently, only 37% of people in need of treatment in sub-Saharan Africa actually receive it despite one of the [Millennium Development Goals](http://www.un.org/millenniumgoals/) being universal access to treatment for HIV/AIDS for all by 2010. Treatment regimens in these settings are limited. There is a continuing issue with resistance to the antiretrovirals and the need for second line drugs in these cases complicates regimens further and steeply increases the price of antiretrovirals. We’re a long way off coverage for the most in need; expanding drug access to those who aren’t even sick looks like a distant dream when faced with the reality of these facts. If the current cut of the pie that goes to AIDS isn’t enough to fund treatment for those in need perhaps there should be more money going to AIDS treatment and, if this is the best prevention measure available to stop the spread of this virus, we should be whole heartedly pushing for an increase in funding for treatment as prevention.
+
+Asking the cynical questions, however, is important when dealing with the issue of AIDS funding and one of the cynical questions here is exactly who is it benefiting from this funding for treatment? There is no doubt that treatment is good for the patient and it now appears to be good from a public health perspective as well, if it reduces transmission, but it’s also very good for research institutions and drug companies. Expanding treatment to all those who are HIV positive means more investment in antiretroviral therapy development and much more money going to drug companies, the majority of whom are based in the high income countries that are kindly ‘donating’ all this money to prevent HIV/AIDS in the poorest countries in the world.
+
+Whatever happened to those other interventions to prevent HIV? The original HIV prevention messages promoting abstinence, consistent and correct condom use and remaining faithful to your sexual partners seem to have been drowned out by the excited screams of the treatment as prevention advocates. Many rightly argue that these messages have failed in greatly reducing rates of HIV infection but the fact is that condoms are almost 100% efficacious in stopping the transmission of HIV and aren’t anywhere near as expensive as a lifelong course of antiretrovirals. Can’t we persevere with these tools to tackle this disease instead of increasing funding at the expense of other causes?
+
+And these other causes are important. It is a sad fact in international aid, that funding for a cause is dependent on how conscious people are of it and not necessarily how worthy the cause is. The Schistosomiasis Control initiative (SCI) is an Imperial-based initative which treats Neglected Tropical Diseases or NTDs (so called because few people are aware of the impact they have on the very poorest in the world) in several countries in Africa. These devastating diseases result in huge amounts of long-term morbidity and mortality but are relatively unheard of. Treatment to cure a group of 7 of these infections, including Schistosomiasis, costs just 50p per person annually. 200 million of the most impoverished people in Africa are infected with Schistosomiasis and despite how easy and cost-effective it is to treat this and other NTDs they receive a fraction of the aid funding given to HIV/AIDS simply because they don’t grab the headlines and move people to activism in the same way.
+
+Perhaps the real issue with AIDS funding isn’t necessarily the amount that goes to it but the highly directive way in which aid to countries must be spent. Aid for AIDS comes in a variety of forms but primarily bilaterally, from one government to another, or multilaterally through organisations such as the Global Fund for HIV/AIDS, Tuberculosis and Malaria. The money received by national governments must go directly to funding HIV/AIDS programmes in the country with no scope for reallocation of these resources to other causes such as NTDs or wider healthcare needs. These other causes are all at least as worthy of investments as HIV/AIDS and some would argue, due to the number of people they affect, more worthy and in need of greater investment. Governments should be granted greater flexibility in the way they allocate aid resources and this can be achieved with the adequate checks in place to ensure it goes to the good of the population at large, whether this is investing in HIV/AIDS or other programmes.
+
+Perhaps it is not be a question over how the aid pie is cut but more a question of how big the pie is. If current aid levels aren’t enough to ensure treatment for those in need of it be it for HIV or NTDs surely the solution isn’t greater funding for one or the other but greater funding overall. Convincing governments of high income countries to increase overall aid funding at this time is, however, in itself a whole new challenge and a different aid debate.

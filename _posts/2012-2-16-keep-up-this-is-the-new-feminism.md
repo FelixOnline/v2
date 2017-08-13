@@ -1,0 +1,54 @@
+---
+layout: post
+title: >
+  Keep up: this is the new feminism
+subtitle: >
+  Veronica Gouvea comments on what feminism really means
+date: "2012-02-16 22:03:47 +0000"
+id: "2207"
+old_path: /comment/2207/keep-up-this-is-the-new-feminism
+redirect_from:
+ - /comment/2207/keep-up-this-is-the-new-feminism
+category: comment
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
+image_caption: >
+  Natasha Walter, author of Living Dolls: The Return of Sexism
+image_width: "460"
+image_height: "276"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "felix"
+author_name: "Lef Apostolakis  - Felix Editor"
+author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_twitter: "feliximperial"
+author_facebook: "http://www.facebook.com/FelixImperial"
+author_website_url: "http://on.fb.me/NUT015"
+author_website_title: ""
+
+comments:
+ - Even the phrase proof that we are more than capable of playing in the big leagues with all of the boys feels too much here  it shouldnt need to be stated that this is the case this is not a criticism of the article incidentally I really like the notion that we can effect change through equality and being normal rather than through loud angry discourse and debates over whether its worse to be raped if youre a man or a woman lets call it a tie and be done with it eh folksWaiting for the old mindset to die off might not work though as Felixs comment threads indicate that that particular genetic trait is wellinheritedI thought sexism was discrimination based on gender not solely discrimination against womenFeminism is the promotion of female rights and so isnt the opposite of sexism but is certaintly complementary to the opposing of sexism Also feminism isnt the only way to combat sexism pretty sure we could take a scalpel to our primarysecondary sexual charac
+imported: true
+---
+
+[Dear Sir](http://felixonline.co.uk/comment/2167/sexism-at-imperial-college/) – The word “feminism” is meant to be on opposite ends of the spectrum with “sexism”. Arguably it is the only means to combating sexism, but I hear this word being misused on a daily basis. If even the most forward-thinking students often disregard the true meaning of the word, how can it be used to combat sexism effectively? In order for this to happen, we must first ensure that we have a true understanding of what “feminism” entails. Modern feminism is nothing like the bra burning activism that took to the streets in the 60s, and it is certainly not that crap that Sarah Palin claims to support. Modern feminism is much more intricate and subtle; it’s not because we have lost our spirit, it’s because it can be. This type of feminism is led by strong women all over the world that are demonstrating with ease that their contribution to our advancement is just as important as any of their male counterparts (and no, I do not mean just in a reproductive sense…). Good examples of modern day feminists include the likes of Natasha Walter, who fully embodies this new, passive form of activism, and Facebook COO, Sheryl Sandberg, living proof that we are more than capable of playing in the “big leagues” with all of the boys.
+
+The article on sexism in last week’s issue of Felix convincingly presented a general critique of the lack of feminist efforts at Imperial, pointing out that we are doing more to promote sexism than to discourage it. The author condemned Women in Science, Engineering, and Technology (the only society on campus to carry out feminist activity) for the promotional material used for a club night. The material in fact aimed to challenge the stereotype of women in SET and to say that any woman can be ‘sexy’ and be in SET, but was unfortunately (and quite understandably…) interpreted as ‘objectifying women’. This can rather rightfully be taken for a misguided approach to try and reap the benefits of the constructed gender differences that we encounter daily in university life, but the bottom line is: how is marveling over a couple of beautiful belly dancers any different to the way the varsity rugby players flaunt their masculinity? Men do the same thing, auctioning off themselves, and just because it is WOMEN auctioning off WOMEN, it has caught your attention and this is a problem in itself. It’s a societal problem.
+
+The author may well be correct in deeming WSET’s angle inappropriate considering their platform, but I also believe that we should not live in fear of these stereotypes. Whether you believe that gender is entirely a social construct or not, social conditioning has led us to this current state of mind that unfortunately has resulted in a disproportional praising of a woman’s achievements and a likewise higher than normal “understanding” of the lack thereof. Any sensible human being would agree that this is unfair. So, the question remains: how can we change this? Accountably, there are multiple ways of going about this, but which is the most effective?
+
+What we are trying to fight in WSET is the root cause of the problem: getting more women into SET careers. In a way, “toying” with the current disputes does little to add to or remove from the root cause because it is an attempt at changing people’s mentality without any real experience. It is a broadly accepted view in philosophy that we only learn and develop through tangible change in the form of experience, and although the author raises some excellent points, what he fails to do is provide tangible solutions to the highlighted issues. Get angry? Is that really the answer?
+
+Most of the time, when sexist comments are made, they tend to be just to get a reaction out of the target audience, and I think the majority of us are intuitive enough to judge whether each case is malicious or not. Of course, in the former, ‘get angry’ is certainly the way to go, but in that regard I’d like to think that that is what the majority of us are doing anyway; and if it isn’t, then it’s what we all should be doing. In WSET we try to stick to the post-positivist approach to feminism: TOO MUCH CRITICISM, NOT ENOUGH SOLUTIONS.
+
+There are so many types of feminisms: Marxists who are critical of the status quo, linking women’s oppression to the exploitive nature of capitalism, liberals who value individuality and privacy, egalitarians who believe in no differences between men and women, existentialists who celebrate our natural differences, and also different waves (first, second, third) etc. At WSET we fight to maintain the ‘status quo’ by getting women into science, empowering women within science, and encouraging diversity through a variety of means that include providing visible role models for younger women: proven to be the most effective method to combat sexism. We believe that fighting for specific causes is more effective because realistically, what is fighting for ALL feminist causes going to do? Fighting for a cause is always better when the aims and objectives are clearly stated, and not broad and unachievable.  
+ Although in legal terms men and women are now equal, there are traces of old-fashioned sexism that are inevitable due to countless reasons including, but not exclusive to, the fact that it was as recent as 1965 that women in France required their husband’s permission to work abroad. This roughly coincides with the time that the parents of current 20-40 year olds began work. The unfortunate outcome: a trickle down effect and remnants of that mentality haunting us till this day. I am not trying to say that the issues we currently face will disappear along with that generation; they may or they may not. What I can say is that as we move towards a society relying more and more heavily on mental strength and moral fiber, the biological differences become obsolete with regards to progression. Yes, there is still sexism. Yes, as a woman you will be looked at and treated slightly differently than as a man at Imperial (and let’s be honest… generally in the positive sense), but this should no longer be something to fear. The war is over, now it’s time for us to pick up the pieces and put them back together with a new vision in mind. We need to focus on what we as individuals can do. Turning this back into a conflict will not resolve the remains of the battle, and the recent proposal to inaugurate a feminist society at Imperial falls directly in the eye of the storm.
+
+Although sexual violence is a major issue that deserves all of our attentions and efforts at Imperial, perhaps a feminist society is not the most progressive way to tackle such issues, especially since these issues are at the heart of our social responsibilities and should be targeted by all regardless. Instating such a society may possibly be counter-productive in terms of truly achieving common ground. Not that they wouldn’t have just cause for their platform. They would have plenty of just cause, and we would be happy to support all of their motions as I am sure the majority of you reading this would also agree, the debate is whether this would be the best platform to do so? Such a society should have been instated many years ago; which makes me question whether doing so now would simply add to the divide? For those who think that such a platform would provide legitimate ground for progressive work then please sign the petition at <http://www.ipetitions.com/petition/icwrs/> and help make this happen.
+
+In the words of Isabel Allende, “The time is right to make fundamental changes in our civilization, but for real change we need feminine energy in the management of the world. We need a critical number of women in positions of power and we need to nurture the feminine energy in men. I’m talking about men with young minds of course… old guys are hopeless, we have to wait for them to die off!” –couldn’t have put it any better.

@@ -1,0 +1,45 @@
+---
+layout: post
+title: >
+  #HotTakes of the Week
+subtitle: >
+  Only the hottest of takes
+date: "2016-03-11 11:50:01 +0000"
+id: "6034"
+old_path: /music/6034/hottakes-of-the-week
+redirect_from:
+ - /music/6034/hottakes-of-the-week
+category: music
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201603111149-felix-yeezus.png"
+image_caption: >
+  
+image_width: "1000"
+image_height: "1000"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: ""
+author_name: ""
+author_image_path: ""
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - Your company is very impressive urlhttpgaodongdongoverblogcom201601difficultenemieskeeptheweaponsneededtobeginabreakthroughortransformationhtmlBuy Blade And Soul GoldurlWhere were weurlhttpscheapgw2goldforsalewordpresscom20160310howdoyoufeelaboutthepveofbladesoulBladeSoul GoldurlYou re so smarturlhttpr4pgimgurcomr4pgurlToo bad we have to return them urlhttpschicisimocomroistoreroistoreurl
+imported: true
+---
+
+_No more CDs from me_
+
+Never to be one out of the headlines, this week **Kanye West** described the minimalist, clear jewel box packaging to his last album _Yeezus_ as an “an open casket to CDs r.i.p”. Apparently there will be no more CDs from him, with all future releases exclusive to digital platforms. It’s probably a sensible decision from Kanye and allows him to continue his evolution of the concept of the ‘album.’ Like the video game industry, Kanye seeks to release unfinished or early access pieces of art, with the ability to patch and fix his work post\-release. The CD, like all physical mediums, is dead. It’s time we moved on.
+
+_Untitled Unmastered_
+
+Surprise releases are now a common occurrence in the music world. Rather than hyping up albums for months, artists are deciding to release their music without expensive marketing campaigns, with the help of streaming services like Spotify and TIDAL. This week, **Kendrick** dropped _untitled unmastered_, a compilation of unreleased demos from the same sessions as _To Pimp A Butterfly_. While it’s not as polished \(hence the name\) and cohesive as his award\-winning record from last year, the politically\-charged and experimental collection of B\-sides is easily one of the best releases of the year so far. However, I’m not sure about the **Cee\-Lo Green** feature \(especially after those awful tweets last year\). The #HotTake EP of the week – this shit’s on fire!

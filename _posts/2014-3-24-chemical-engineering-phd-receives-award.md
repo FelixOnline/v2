@@ -1,0 +1,43 @@
+---
+layout: post
+title: >
+  Chemical Engineering PhD receives award
+subtitle: >
+  Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems.
+date: "2014-03-24 03:29:38 +0000"
+id: "4493"
+old_path: /news/4493/chemical-engineering-phd-receives-award
+redirect_from:
+ - /news/4493/chemical-engineering-phd-receives-award
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "jal08"
+author_name: "Joseph A L Letts"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: "jal08"
+author_facebook: ""
+author_website_url: "http://thenewsthatsnot.wordpress.com"
+author_website_title: "The News That's Not"
+
+comments:
+imported: true
+---
+
+Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems. Maria’s supervisor is the Head of the Department in Chemical Engineering, Professor Andrew Livingston.  
+Maria’s research focuses on polymeric membranes, where plastic microporous films can be used to remove impurities and toxic materials from pharmaceutical products. A conventional membrane would typically break down on exposure to organic solvents that are used during the process. The membranes that are solvent stable are inefficient to use as they only enable a small amount of chemical to go through them. However, the work undertaken by Maria enables a greater amount of solvent to pass through the membrane, thus the filtering speed is greater. The company Evonik has licenced two patents that were produced by Maria; Evonik are also sponsoring Maria’s Postdoctoral research, which focusses on creating filters that are larger so can be used in industry.
+
+The Director of the Graduate School, Professor Sue Gibson said that: “Maria’s outstanding research in this area has led to a significant scientific breakthrough which will have a major impact on industrial purification processes. The candidates for this year’s medal were very strong; however Maria’s determination, motivation and persistence throughout her research project make her a deserving winner. We are pleased to be able to recognise her achievements with this award.”
+
+Maria commented: “The Armstrong Medal is a very prestigious award and I am absolutely delighted to have been chosen as the winner. I knew that I was up against a lot of really interesting and exciting projects, so this was a very unexpected honour. I actually have a background in Chemistry so I had never worked with machines before I embarked upon my PhD. The support and guidance I received from Imperial – especially from my supervisor – in this area has been invaluable in allowing me to achieve this success. I look forward to continuing my research and am excited at the prospect of developing my ideas further.”

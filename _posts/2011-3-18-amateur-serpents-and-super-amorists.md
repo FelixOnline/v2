@@ -1,0 +1,49 @@
+---
+layout: post
+title: >
+  Amateur serpents and super amorists
+subtitle: >
+  Mozart’s famous opera Die Zauberflöte was produced last week on Gloucester Road with London Youth Opera and Imperial’s own choir
+date: "2011-03-18 08:31:46 +0000"
+id: "1113"
+old_path: /arts/1113/amateur-serpents-and-super-amorists
+redirect_from:
+ - /arts/1113/amateur-serpents-and-super-amorists
+category: arts
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
+image_caption: >
+  
+image_width: "1200"
+image_height: "1200"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "felix"
+author_name: "Lef Apostolakis  - Felix Editor"
+author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_twitter: "feliximperial"
+author_facebook: "http://www.facebook.com/FelixImperial"
+author_website_url: "http://on.fb.me/NUT015"
+author_website_title: ""
+
+comments:
+ - Dear KellyYour account made interesting reading Id love to have more on the actual performances of the cast Were there any other reviews in the London press I cant seem to find any onlineBest wishesLuis
+imported: true
+---
+
+I was apprehensive when I heard that, because the budget would not allow for period costume, this production was to be a contemporary version of the opera. That is not to say I know anything about opera, but for me part of its appeal is the historic context and atmosphere that it exudes. However, I was very pleasantly proven wrong.
+
+The opening scene of the traditional opera shows our gallant hero Tamino, the height of princely handsomeness battling a ferocious serpent. Again, for budget reasons this was actually a man in a shoddy dinosaur costume. Interspersed between the powerful operatic tenors opening notes were unenthusiastic roars that had the audience in stitches.
+
+The plot was too complex to be fittingly summarised here, but essentially the dashing prince falls in love with the daughter of the Queen of the Night, who turns out to be evil (I think they ought to have guessed by the name).
+
+After an attempt to save the daughter and several convoluted plot lines, kidnapping, becoming monks (etc. etc.) he and his lazy half-man-half-bird friend succeed in eliminating the evil queen and getting married. All in time for a late afternoon cup of tea.
+
+The performance was excellent and managed to be entertaining for two hours even though we were sitting on hard church pews. It was funny whilst still displaying the original integrity of the opera and displaying the astonishing talents of the entire cast.
+
+During the infamous ‘Queen of the Nights’ solo, I’m sure the stained glass windows were trembling in their frames, leaving the audience flabbergasted. While on the subject of windows, the venue was stunning, and the orchestra superlative.
