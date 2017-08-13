@@ -60,8 +60,6 @@ SQL
 
 count = 0
 client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
-  break if i > 1000
-
   r["comments"] ||= ""
 
   md = %w(---)
