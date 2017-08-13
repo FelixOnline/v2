@@ -1,0 +1,60 @@
+---
+layout: post
+title: >
+  University reform plans delayed
+subtitle: >
+  Confusion as government believed it could legally prevent universities charging £9,000
+date: "2011-02-27 12:00:55 +0000"
+id: "897"
+old_path: /news/897/university-reform-plans-delayed
+redirect_from:
+ - /news/897/university-reform-plans-delayed
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "felix"
+author_name: "Lef Apostolakis  - Felix Editor"
+author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_twitter: "feliximperial"
+author_facebook: "http://www.facebook.com/FelixImperial"
+author_website_url: "http://on.fb.me/NUT015"
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+The government has delayed the publication of its plans to reform universities after it discovered that it was unable to stop universities charging the £9,000 maximum rate of tuition fees. The Times Higher Education (THE) [revealed that ministers mistakenly believed](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=415292&c=1) the Office for Fair Access (Offa) could “impose” rates of tuition fees on universities. The government is now struggling to regain control and prevent universities from charging the highest rate of tuition fees. Greater competition is the government’s new strategy to regulate fees, with caps on student places being lifted and public loans being extended to students studying at private higher education institutions.
+
+In a recent speech, Sir Martin Harris (Director of Offa) said that the Treasury assumed that Offa had the legal power to restrain universities from charging the highest possible fees. The THE reported him as saying: “[The Treasury] thought that Offa was going to be in a position to have legal powers to impose certain fee levels […] it was obvious to me from Day One that [Offa] didn’t.”
+
+The announcement to delay publishing of the government’s reforms came in a speech made by universities minister, David Willetts, to the Universities UK Spring Conference on Friday. Willetts [told the conference](http://www.bis.gov.uk/news/speeches/david-willetts-uuk-spring-conference-2011) that they have delayed the publication of their plans, in part “to learn from how price setting works this Spring”.
+
+Instead of publishing their plans for reform in March as planned, the government is now expected to release the White Paper in June.
+
+Universities must submit their ‘access agreements’ to Offa by April, detailing the tuition fees they plan to charge in the 2012/13 academic year. The delay allows the government to wait and see what tuition fees universities set before publishing their proposed reforms.
+
+The shadow universities minister Gareth Thomas, [called the delay](http://www.bbc.co.uk/news/education-12577227) “further proof that the government’s plans are in trouble… Universities are having to plan their future whilst waiting for the government to make its mind up on a whole series of major questions.”
+
+Any university planning to charge more than £6,000 next year must negotiate their ‘access agreement’ with Offa to ensure that they continue to maintain fair and equal entry to students. However, NUS President Aaron Porter [criticized Offa,](http://www.google.co.uk/url?sa=t&source=web&cd=1&ved=0CBYQFjAA&url=http%3A%2F%2Fwww.nusconnect.org.uk%2Fnews%2Farticle%2Fnus%2F1166%2F&rct=j&q=nus%20weak%20toothless%20regulator&ei=UjxqTaj6I5KJhQeFhYTyDg&usg=AFQjCNFRiG2KguR8KxdhZ2FoZToBfM5Dtg&sig2=5i4rLMDFX5_erPE-sSDgqA) calling it a “weak and toothless regulator.”
+
+Other than its director, Sir Martin Harris, Offa is comprised of just three full-time and one part-time member of staff. It is unclear why ministers believed that an organization of this size would have such great legal power. In his recent speech, Harris admitted it is unlikely that Offa would refuse outright any university’s ‘access agreement’ this year.
+
+Imperial has [announced its intention](http://www.felixonline.co.uk/?article=805) to charge £9,000 in tuition fees. It has been reported that Oxford and Cambridge University will do the same.
+
+Willetts argues that charging £9,000 is unnecessary and previous government models have worked on the basis of degrees costing a total of £7,500 per year. Universities would need to show a “commensurate and very significant improvement in the education on offer”. He added, “it is difficult to see how such an increase could ever be justified, let alone at a time of fiscal restraint.”
+
+Without any legal power to control tuition fees under Offa however, the government will struggle to prevent university fees spiraling to the maximum rate. Willetts threatened to further cut government funding to those universities that did decide to go ahead and charge £9,000. Such “offsetting reductions” would negate any additional income generated by charging the higher rate to students.
+
+Willetts did reveal some elements to be included in the coming Higher Education White Paper. The main way in which the government now plans to regulate fees will be through competition. By cutting teaching grants and shifting the burden of cost for higher education onto the student, it will put private providers on the same playing field as publicly funded universities. Private providers are to have access to the government loans and grants system so that their students will not have to pay upfront fees either.

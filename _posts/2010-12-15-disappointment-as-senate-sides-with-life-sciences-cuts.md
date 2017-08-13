@@ -1,0 +1,55 @@
+---
+layout: post
+title: >
+  Disappointment as Senate sides with Life Sciences cuts
+subtitle: >
+  160 students turn out in the rain to lobby Imperial College Senate to protect teaching in the Life Sciences department to no avail
+date: "2010-12-15 17:35:35 +0000"
+id: "557"
+old_path: /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
+redirect_from:
+ - /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
+image_caption: >
+  
+image_width: "3888"
+image_height: "2592"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "jk708"
+author_name: "Jonathan Kim"
+author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"
+author_twitter: "jonnykim"
+author_facebook: "https://www.facebook.com/Jonny.Kim"
+author_website_url: "http://jkimbo.co.uk"
+author_website_title: "jkimbo.co.uk"
+
+comments:
+ - Ian Owens  a jokewhats to say this wont happen to every department in imperialpeople arent going to see Imperial as a respectable institution if it is unable to provide adequate teaching staff  when people come to LEARNIts about time Imperial appreciated that it is a UNIVERSITY and not a research institution Staff should be rewarded for being great teachers and not persecuted for focusing on teaching rather than research  It is the students these members are teaching now at the consequence of their jobs who will be the researchers tomorrow
+imported: true
+---
+
+The movement to [stop the Life Sciences cuts](http://www.facebook.com/home.php?sk=group_122828327782072) suffered a setback today as Imperial College Senate rejected the Imperial College Union [paper](http://www.imperialcollegeunion.org/data/files/imperial-college-senate-859.pdf) that called for a halt to the restructure. The [Senate](http://www3.imperial.ac.uk/secretariat/governance), which is made up of senior members of College management, including the Rector, failed to support the paper to the disappointment of students who [assembled outside the meeting](http://www.facebook.com/album.php?aid=313242&id=151335511288&saved) at the Rector's house. However pressure has continued to build this week as Mustafa Djamgoz, a Professor of Cancer Biology at Imperial and Chair of the Science Council at the College of Medicine, warned that the cuts could cause "long-term damage" and Union President Alex Kendall told Imperial College Union Council that he felt that the department was "lying" about the effect of the cuts on teaching.
+
+In his harshest criticism yet of the restructure, Alex Kendall said that the department were being underhand by not being forthcoming with evidence for the restructure and that "if they have evidence [that shows that teaching will be unaffected] but they don't send it to you, then they're lying". He also said that the department have no plan regarding teaching and that they are "just making it up as they go along". The department has previously said that it will carry out a teaching review in January after the restructure. The Head of the Life Sciences department Professor Ian Owens was unavailable for comment.
+
+Around 160 students held a noisy but peaceful protest outside the Senate meeting. Many wore red monkey masks and chanted "Save our plants!" as members of the Senate arrived for the meeting. There was light security outside the meeting but they were content to simply watch from a distance. Ian Owens did not face the students outside the Rector's house and was not present at the meeting. A number of staff observed from the back of the crowd, including some who are directly affected by the cuts.
+
+Despite the protest, however, College Senate was supportive of the cuts and rejected the Union paper calling for them to be halted. Only 7 members of the Senate supported the paper including the College Tutor Mrs Margaret Cunningham, Dr W Thomas Pike and Dr Krysia Broda from the Faculty of Engineering, Dr Tim Albrecht from the Faculty of Natural Sciences and Dr Michael McGarvey from the Faculty of Medicine. The crowd booed and jeered when the result was received via text from Alex Kendall and threatened that they would make their dissatisfaction obvious when the [National Student Survey](http://www.felixonline.co.uk/?article=174) came around. Kendall expressed his frustration at the outcome saying, "The meeting was a massive disappointment. Most people in the room avoided the issue outright. The Senate is supposed to be concerned with education but there was little sign of that at the meeting." He promised to continue to campaign against the cuts warning, "there are still many opportunities to fight these changes and we're not going to give up." He expressed his gratitude to the students at the protest saying that he was "incredibly moved to see that many people out in the rain, campaigning to defend teaching at Imperial."
+
+The department has defended its decision arguing that there is a pressing need to address its deficit. Imperial College London removed [£635,000](http://www.imperialcollegeunion.org/data/files/restructure-initial-plan-762.pdf) in funding this year as part of its College-wide decision to withdraw the so-called 'Flexibility Margin'. The aim is to "encourage Departments develop alternative plans for financial sustainability". As a result the Department of Life Sciences has a £1.5 million deficit for the period 2010/2011. The Department claims that "the proposals would lead to a significant improvement in [its] financial position" in a time period of approximately two years. It was [revealed last week](http://felixonline.co.uk/?article=547) that Imperial's operating surplus, or profit, for 2010 was [£41.3 million](http://www.imperial.ac.uk/workspace/finance/Public/annual_report/annual_report_09_10.pdf), compared with[ £16.7 million in 2009](http://www.imperial.ac.uk/workspace/finance/public/annual_report/annual_report_08_09.pdf) and [£27.1 million in 2008](http://www3.imperial.ac.uk/pls/portallive/docs/1/53741696.PDF).
+
+However yet more academics have come out against the cuts in what is a growing sign of discontent amongst both affected and unaffected staff. Professor Mustafa Djamgoz joins public criticism from Emeritus Professor John Mansfield and Dr Pietro Spanu in a letter to Ian Owens that has been made public. In it Professor Djamgoz says that "many of those 'remaining […] are unhappy with what's happening". He explains his initial reluctance to air his discontent publicly but says, "I have thought a lot about the […] restructuring. There are many things that just do not add up". The President of the Royal College of Science Association John Sanderson has also come out against the cuts, signing the online petition against the restructure.
+
+Academics from other institutions have also joined the chorus of criticism aimed at the department. Regius Professor of Botany and Head of Plant Sciences at University of Glasgow, Professor Mike Blatt, slammed the restructure in a [letter](http://www.facebook.com/home.php?sk=group_122828327782072&view=doc&id=125687737496131) to Ian Owens and Maggie Dallman, writing that it "does not conform with any obvious policy of supporting academic excellence and international competitiveness, nor does it show evidence of strategic long-term vision, and it appears certain to send all the wrong messages to both staff and students alike. In short, it is virtually guaranteed to undermine the reputation and therefore the future of Imperial College". Additionally The Director of the John Innes Centre, Professor Dale Sanders, [criticized the cuts](http://www.felixonline.co.uk/?article=547) saying that they would "exacerbate the shortage of well-educated and motivated graduates".
+
+Academics from a range of universities including Edinburgh, UCL, Durham, Glasgow, York, Reading, Lancaster, St Andrews, Oxford and Cambridge have signed the [online petition](http://www.petitiononline.com/lifesci/petition.html) which now has over 1600 signatures. One of the signatories, Dr John P. Carr of the Cambridge Plant Sciences department, described the cuts as "tantamount to intellectual vandalism" and called it a "ridiculous step for one of the world's major research universities". He expressed his anger about the issue saying, "students have basically been tricked into doing courses and PhDs that they wouldn't have done if they had known about the restructure". From a research point of view, he added, "Imperial's action is absurd when both the Royal Society and the Biotechnology and Biological Sciences Research Council (BBSRC) feel that [crop science] research is vital for UK and world food security." The Royal Society released a [report](http://royalsociety.org/Reapingthebenefits/) in October 2009 which called for universities to "reverse the decline in subjects such as agronomy, plant physiology, pathology and general botany, soil science, environmental microbiology, weed science and entomology." Last Thursday the Plant and Microbial Sciences section announced that they had "[sequenced the genome of a major fungal disease that affects barley](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_10-12-2010-11-9-20)". Professor Janet Allen, the BBSRC Director of Research [said](http://www.bbsrc.ac.uk/news/food-security/2010/101210-n-high-profile-plant-research.aspx), "It is testament to the excellence of UK bioscience research that these scientists have managed to publish this world-class research despite the difficulties of studying the organisms in question." In its [final outcome document](http://www.imperialcollegeunion.org/data/files/outcome-and-final-plan-766.pdf), the Review Panel that undertook the restructure consultation recognized "the potential strategic importance of plant science research activity" but felt that there wasn't a "sufficient critical mass of high impact research activity […] in the plant sciences area upon which to base an independent academic unit"
+
+The University and College Union (UCU) have indicated that it will be challenging the legal basis of the cuts. Students have begun to call for [Ian Owens to resign](http://www.facebook.com/home.php?sk=group_122828327782072&notif_t=group_activity). He is [rumoured](http://live.cgcu.net/news/2181) to be taking a two-year sabbatical once the restructure is complete but this has not yet been confirmed.
