@@ -1,15 +1,12 @@
 # Site settings
 title: Felix
 email: your-email@example.com
-description: >
-  Felix is newspaper.
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Felix is newspaper.
 url: "https://felixonline.github.io"
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
   - jekyll-redirect-from
 # exclude:
 #   - Gemfile
