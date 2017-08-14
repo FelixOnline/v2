@@ -3,7 +3,7 @@ layout: post
 title: >
   Jack’s back | Samurai Jack
 subtitle: >
-  Time doesn’t heal all wounds 
+  Time doesn’t heal all wounds
 date: "2017-03-17 17:04:54 +0000"
 id: "6909"
 old_path: /tv/6909/jacks-back--samurai-jack
@@ -16,10 +16,10 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
 image_caption: >
-  
+
 image_width: "1348"
 image_height: "2047"
-image_attribution: "Cartoon Network\Adult Swim"
+image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""
 
@@ -48,5 +48,5 @@ Her journey and introduction in this episode are a dark mirror to Jack’s own. 
 
 Additionally, the series also seems unafraid to tackle more mature themes this time around. It takes unflinching looks at Jack’s guilt and the nature of his hope and despair. After 50 years, the cracks are beginning to show. Series creator Tartakovsky has implied that this season will be an exploration of the hero’s journey. More specifically, the creators hope to explore what happens to the hero as their journey begins to stall.
 
-The comedy and creativity of the series are as lively as ever, with the introduction of a musical robot assassin based on Sammy Davis Jr. Voiced by veteran voice actor Tom Kenny, the robot provides a fascinating temporary distraction. He serves as a perfect counter\-balance to the episode’s darker aspects. The brief moments of comedy shine because of their absurdity. 
+The comedy and creativity of the series are as lively as ever, with the introduction of a musical robot assassin based on Sammy Davis Jr. Voiced by veteran voice actor Tom Kenny, the robot provides a fascinating temporary distraction. He serves as a perfect counter\-balance to the episode’s darker aspects. The brief moments of comedy shine because of their absurdity.
 One notable omission from the episode is Aku’s presence \(save for a small cameo\). Again, this adds to the sense of mystique and, in addition, creates an anticipation that is likely to keep people coming back. Granted, this may have more to do with original voice actor Mako’s unfortunate passing. All in all, the latest episode is a worthy continuation of the series and deftly builds expectations for the rest of the season.
