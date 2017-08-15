@@ -1,0 +1,64 @@
+---
+title: >
+  Controversy as Greek Health Minister Adonis Georgiadis visits Imperial
+subtitle: >
+  Eleftherios Apostolakis reports from Sunday’s talk
+date: "2014-03-24 03:27:51 +0000"
+id: "4492"
+old_path: /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
+redirect_from:
+ - /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
+image_caption: >
+  
+image_width: "0"
+image_height: "0"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "jal08"
+author_name: "Joseph A L Letts"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: "jal08"
+author_facebook: ""
+author_website_url: "http://thenewsthatsnot.wordpress.com"
+author_website_title: "The News That's Not"
+
+comments:
+ - You are absolutely right mr apostolidis and of course this is absolutely clear from that quote you have isolated from my article  Your logic is impecable and as a scientist I wouldnt even dare refute it If you actually read the article though you wouldl see that I took it upon myself to record what happened subjectively If youd like a testimony to my behaviour there is video of the whole talk and Im sure a man as resourceful as your self wouldnt have a problem locating And as we doimg this childish name calling  youre a clown who wouldnt understand logic or democracy if they slapped you in the face Enjoy your narrow mindnessMr ApostolakisUsing your words In the front sit the members of the Society responsible for organising the event and those who are in agreement with the whole idea In the back are those unhappy with this initiative I will tell you that if you were been unhappy with this initiative the best thing to do was not to participate But from the writings is easy to conclude 
+imported: true
+---
+
+Last Sunday the College was visited by Adonis Georgiadis, the Greek Health Minister. The event – organised by the Imperial College Hellenic Society and held in the Clore Lecture Theatre – both from College and outside. One Imperial student gives his perspective:  
+  
+On Sunday, Adonis Georgiadis was invited to Imperial College London to discuss the Greek crisis and how the country can move forward. The event was supported by the LSE Hellenic Society, the IC European Union Society, the IC Economics Society, Promote Greece and Omikron Greece. I’ve been waiting for this all week, unsure of what to expect from both the crowd and the guests.
+
+I’m in the lecture theater waiting for the talk to start, pen and paper in hand. The atmosphere feels heavy but maybe that’s just me. The audience is comprised of men and women of various ages – from the snippets of conversation I pick up they’re mostly Greek.   
+The Health Minister is 20 minutes late – at this point a group of people hand out a declaration composed by Greek Imperial Students and Staff against the invitation of Georgiadis to Imperial. As time goes by, people get more excited, more tense. Conversation gets louder. Someone from the crowd asks how long we’ll be waiting for, one of the organizers replies that he’ll be here at 17:30. “You should have told us, we’re busy people. We’re not all Ministers”. The heckling has begun.
+
+The minister walks in more than half an hour late, met with a mixture of booing and clapping. As the Minister and all the other guests walk in and take their seats, the chair of the Hellenic Society, Mixalis Dinalexis, takes the stand and makes a small introductory speech. As he talks the polarization in the room becomes evident. In the front sit the members of the Society responsible for organising the event and those who are in agreement with the whole idea. In the back are those unhappy with this initiative – those who are angry at the Government and the Health Minister. As Dinalexis talks there are angry comments and laughter coming from the back – not a good sign. However right before he steps off the podium he makes a good point “…Who would be better for a challenging discussion than the Minister of Health”. It is admittedly very hard to corner Georgiadis, so a challenging discussion is an understatement of what is about to follow.
+
+The Greek Ambassador is given his turn to speak and welcome the Health Minister. Shortly after, Georgiadis gets up to speak and briefly, chaos ensues. Again clapping mixed with booing and comments regarding Georgiadis’ affiliations with LAOS [Popular Orthodox Rally – a populist right wing Greek political party] spark a series of comments from the Minister including: “So this is the Troika [the European Union, European Central Bank and International Monetary Fund – the three groups responsible for the Greek bailout] resistance, what a resistance! I’ll start crying!... I don’t deserve this charade”. He ends up challenging the hecklers to come on the stage and talk openly. A young woman takes the invitation and proceeds to read a prepared statement that paints a sad yet true picture of the state of Public Health in Greece, based on facts and studies. She talks with confidence, as the audience listens in silence.   
+As Georgiadis tries to reply to the points made in the decleration, shouts and insults are shot at him again. At some point he yells out sarcastically: “…what a great democracy you are…. I can reply (but) it will never be possible for us to understand each other”. As the crowd settles down, he starts tackling the points made in the declaration again. He starts off by renouncing political responsibility prior to 2011. He then describes the actions taken to tackle the crisis. Again the crowd reacts and the conversation deteriorates. At some point Georgiadis is heard asking the audience: “You are the democrats? You know nothing about democracy…. If you think you are a resistance to the Troika by spending your parents money…” The audience is justifiably outraged, several people are clearly professionals, not affiliated with Imperial and can be heard shouting back: “We work!”   
+At this point one of the organisers takes over and asks both sides to have a civilized conversation without insulting each other. The Minister starts talking again. To questions about the cuts, the privatisations and their necessity the Minister replies in a challenging tone “…the people decided to keep the country in the Eurozone and this is what it’s taken to stay in the Eurozone … Can you find a solution to a country that is bankrupt? … I believe that the state cannot make profitable enterprises. The people voted for me. We believe that privatizing will create revenue. If you are PASOK [Panhellenic Socialist Movement – cenre-left Greek political party] I don’t know.”
+
+The discussion continues for a total of about two hours. Generally few questions are directly answered, with Georgiadis diverting the conversation to a discussion about democracy or the ethos of the audience, and its political background, often dismissing participants of the discussion as communists. Brief moments of discussion are interrupted by commotion during which the Minister and the audience exchange insults.   
+Notable remarks and questions from the audience include the finds discussed in papers in The Lancet, a peer reviewed medical journal, which the Prime Minister dismisses as “Opinions not Facts”, in particularl pointing out that the suicide and vaccination numbers they cite are wrong. He also compares the Greek crisis to the 1945-6 British crisis that led to the creation of the NHS – a remark which is unfortunately coupled with a comment on illegal immigrants. Asked about suggestions to allow greater freedom of drug sales at lower prices by opening up the pharmacist profession, the Health Minister replies that such a policy cannot be implemented in Greece as the country has one of the highest numbers of pharmacies per capita. He says such measures would result in half of them going out of business.
+
+He is then asked about the incident surrounding the drowning of migrants off the coast of Farmakonisi and his statements on it in Greek parliament. Georgiadis is specifically asked what is the value of a human life – is the life of an immigrant less valuable than that of a Greek national and whether that will be mirrored in his reforms. The Minister makes some comments on immigration and talks about how Greece has hit its limit, as well as accusing the inquirer of sneakily taking his statements out of context. However, the conversation is swiftly derailed, with the Minister eventually calling the crowd communist and commenting on Stalin’s policies.
+
+When a doctor from the audience accuses him of being the first Health Minister in history to target particular ethnic groups, as well as criticising the government for disregarding scientific facts and producing a climate of fear of censorship among the academic community, the conversation is derailed into an argument over semantics of what is a fact and what is an opinion. Regarding measures to tackle the humanitarian crisis in Greece, all the Minister states is that he is awaiting studies and data to find a solution and that hew will propose measures by June.   
+The discussion is nearing its end. Throughout, there have been eruptions of commotion. Even the panelists seem to have lost their patience, not only with the audience but also with the Minister – who is engaging in a game of verbal tag and seems to try his best to challenge the crowd. When a young man makes a comment on the Health Minister’s English, Georgiadis starts shouting “You are racist! You are racist! You are a fascist!” – apparently in mockery of his opposers in the audience.
+
+The last person from the audience to speak is the young woman that was invited to speak up first. She proceeds to talk about her personal experience with a young girl with HIV in the Koridalos prison in Athens. She criticises the reintroduction of the regulation that requires mandatory STI testing of socially vulnerable groups such as sex workers, drug users and illegal immigrants. She gets emotional half way through. The Health Minister, outraged, attacks her for showing emotion and accuses her of manipulating the crowd: “Like you’re the only (one that’s) human! You should be ashamed! You’re the monster”.  
+The Discussion is closed after this. The crowd has been getting smaller throughout the event and with this outburst a large part of the crowd gets up and leaves. In the front, the supporters of the Health Minister are applauding him. Georgiadis delivers his closing speech. It carries some of the most absurd statements I have heard all night: “These people are in our universities, they’re everywhere, they speak of democracy but don’t let anyone that disagrees speak…We have to show them that we are not afraid of them. We are not afraid of them. We represent the free world … They make up the tyranny of the world… ” He goes on to talk about the difficulty of being a politician in Greece, “…You have to be proud of these politicians that have the courage to stand up to the people” and reverts to attacking the ethos of the crowd that opposed him “…Whenever they [communists] took power they killed millions of people … they will see all the people in Greece die but for them this will be nothing, because they will watch the TV and eat their burger … You did not let us do this conversation and this is fascism … Today’s event was a great event … The Greek politicians are not doing things they’ve ashamed of … We will not let our country fall because some communists want to.”
+
+Indeed the whole event was a great success for Georgiadis. He successfully evaded important questions on future reforms of the Health System by manipulating and challenging the audience into a verbal fight.
+
+Ironically he kept going on about democracy, how the people had elected him, how he represents the will of the people and how opposing him meant opposing them. He kept repeating the same argument and I have to say, it got me thinking. We did vote for him. Democracy did get him where he is. Is not a system that results in such people acquiring political power flawed? Is this a result of the tyranny of the majority? Or is it just a mind game that politicians play with us to make us believe that yes, democracy is indeed flawed, when in fact what we have is not democracy. Perhaps it is the coupling of democracy with capitalism that is problematic, I don’t know. All I know is that we need change.

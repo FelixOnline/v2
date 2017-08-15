@@ -1,0 +1,7 @@
+baseURL: https://felixonline.github.io
+disablePathToLower: true
+languageCode: en-us
+title: Felix
+theme: felix
+ignoreFiles:
+  - data

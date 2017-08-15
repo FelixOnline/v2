@@ -1,0 +1,55 @@
+---
+title: >
+  Lions Rampant at Polo Nationals
+subtitle: >
+  ICU Riding and Polo celebrate victory at the Arena Polo Nationals
+date: "2013-05-29 15:44:17 +0100"
+id: "3633"
+old_path: /sport/3633/lions-rampant-at-polo-nationals
+redirect_from:
+ - /sport/3633/lions-rampant-at-polo-nationals
+category: sport
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
+image_caption: >
+  
+image_width: "0"
+image_height: "0"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "tna08"
+author_name: "Tim Arbabzadah"
+author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_twitter: "timarbabzadah"
+author_facebook: "https://www.facebook.com/timarbabzadah"
+author_website_url: ""
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+I’d like to say that there is some really good reason for how long this article has taken to come out. You’d think given this is my personal highest achievement at the Polo Nationals in the last 5 years that I’d have managed to get it out quickly. But no, life and, more annoyingly, work goes on. However, as we close in on our trip to the summer edition of the Polo Nationals in early June I have finally managed to sit down (at the pub) and whip my laptop out antisocially to write up my hazy recollections of a cold weekend in February and what looks from the outside like an industrial estate a little outside of Rugby which is, in fact, a polo ground.
+
+Imperial this year managed to beg, borrow or steal enough cars so that most of us could rock up under our own steam fairly easily with just one medic having to join us via the train late on the first day. However, by this stage our beginners, already irate about pre-tournament politics interfering with their fun, had to swallow their anger and hop on ponies sporting their very fetching ICU Lions polo shirts kindly supplied by the Polo Bar at Rydges Hotel Kensington. I should probably point out what these “politics” were. Invariably any sport involving horse lovers (a pretty nutty breed of person at the best of times) will bring out the worst in people. And where a slight mixup with the division entries meant that we were relying on another team to do the decent thing and swap with us. It all looked sorted for some time until the president of a large student polo club, based in the capital and comprising a number of different universities (that shall remain nameless), kicked up a fuss and destroyed the whole thing leaving us stuck in Beginner 1a. Suddenly worried about the safety of my players in a group that would include a number of teams far more confident on horseback than them I watched with my heart in my mouth as they took on Portsmouth.
+
+This is where my memories start to get hazy. Which, while I would like to blame it on the intervening time, is probably due to the fact that most of my cheering time was spent with a pint in my hand. Despite a few hairy moments when I thought one of my players, Mike, might make an unceremonious exit from his pony, Midnight knows his job well and gave Mike the sort of smooth and forgiving ride he needed and to the sound of one embarrassingly loud cheer from me Imperial managed to pull ahead to an early lead. The chukka continued, hard fought and scrappy, with Portsmouth scoring two and Imperial managing to increase their tally to stay in touch. With the game being only 7 minutes long and 4 goals already scored everything looked set for a draw and then eventually the more confident riding of the Portsmouth girls took it’s toll and they pulled ahead for a 3-2 victory. Never underestimate how good at riding girls from Portsmouth are.
+
+I should introduce the rest of the team. But our number 3 thinks that polo is an embarrassing sport that might get her teased by her friends for being posh. As a girl who’sfavourite word (and nickname) is “Shan’t” I doubt any of her friends were in any doubt as it was. Marina on the other hand finished up the team of three, another tiny little blonde girl. “Shan’t” got off of Cura with some mixed feelings about the match; many people say that 90% of polo is your horse and while I think at our level things tend to swing back to our incompetence making the greatest difference it’s true that if you and your pony don’t get on you will just be out of it with no way to get back. Still, with a change sorted for match 2 they headed swiftly out to play again against Warwick (a team with a reputation for dominating the Beginner divisions). Again our guys held their own but just couldn’t compete and it was a very disheartened Beginner group that left the yard that evening, however with intentions for having a decent night of drinking in the pub.
+
+Unfortunately, at this stage my memories really do get hazy, though I do remember I ate a huge meal that was far too large for any sane person. It did give me a chance to get back to the polo on Friday morning. Myself, Jon and Olivia were in the prestigious Novice 1 division and were pretty excited to see what we could do when we got on. I can’t for the life of me remember who we played in our first round match, it may have been Portsmouth again, however I do remember the score: 6-0. We pretty conclusively smashed them into the ground. Jon went on a spree of goals and after the first throw in I think they only made it over the half way line once from a free hit before we were back after them. Trying hard not to let the score line go to our heads we waited for match 2. Against the much more worrying Cambridge team involving a player well known to us as someone that has played at the level above… but then so have both me and Jon before now so we were aware we’d have to fight hard.
+TODO: image from 
+Things did not go well with us starting behind and me at the back having to fight off strong attack after strong attack. Jon and Olivia managed to mount plenty of attacks of their own keeping us in contention and winning us a penalty to keep the scores level. These have been our Achilles’ heel in the past and my heart was racing as I lined up to take it, my words from a few days before ringing in my ears; “I’ve never scored a penalty in an arena match before”. The match ended 3 apiece and dread set in as we realised we were going to be penalties for the match and Jon and Olivia both agreed that I would be up first. If I recall correctly we actually got through a full round of penalties and were still tied, but it was all over shortly after with the first penalty of sudden death making the difference. We were through to the top four.
+
+The Beginners were enjoying a day off and slowly resolving to enjoy their final chukkas no matter what. Takeaway Chinese and plenty of drinks at our B&B were the order of the evening as we were all a bit knackered for the pub. Plenty of banter ensued and while I was just about okay the next morning I somewhat assume that some of the others were a little the worse for wear come Saturday, even if they didn’t let on. A match each on Saturday left the beginners happier with a nil-nil draw where they were competitive the whole way through, yet still not the victors. Perhaps my most fun match of the nationals was against Sterling that afternoon despite a couple of notably dodgey moments. A harsh call against us led to a 2-0 deficit in the first minute. And Sterling were by no means going to let us get it back easily, challenging our goal several more times, stopped once primarily by a player tumbling off of his pony practically underneath our ponies. Still, we were quickly getting goals back and my overriding memory of the chukka is a moment galloping down the pitch where an opponent light hearted asked Jon if he would ever stop appealing for fouls and I had the time to reply that it seemed extremely unlikely. The match ended 4-2 in our favour and the Sterling lads were extremely gracious in their defeat despite mutterings before the match about our team being ‘unfair’.
+
+The penultimate night of any given polo tournament is usually a fairly messy players party. And this Saturday was no different. I think I saw more of Jon’s flesh than I ever needed to and some cunning individual came up with the remarkably pretentious idea of the “Champager Bomb”. Which, for anyone that likes the idea of Champagne and Jagermeister tastes absolutely foul by all accounts. Something about us means Imperial seem to always have a 9am chukka on Sunday and as such the beginners were on relatively good behaviour; the same cannot be said for Jon, though he continues to claim he was actually ill on Sunday not ridiculously hung over. Still, my team spirit remained more or less intact and I did manage to blearily watch the beginners starting up this year’s London Derby against ULU. Much as I’d have liked to work up some proper rivalry at 9am slightly hung over it is hard to do anything but club together and generally cheer everyone on. Our guys put up a good showing, with even the ULU spectators admitting that there was a visible difference from them on day 1. However, as close as they kept it our beginners went down 2-1 to claim the unfortunate wooden spoon.
+
+All hope of redeeming ourselves then rested on the Novices and a final with our training partners and good friends Oxford Brookes. Much as in the warm up arena we were all happy to crack a few jokes with Sophie, Georgie and Saul it was clear that every one of us wanted it badly. The chukka was close, physical and scrappy; both teams happy to muscle in and ruin each other’s play rather than allow anyone a real chance to make flowing runs up and down the pitch. Frustration started to set in as a few obvious fouls got missed by the umpire and with the clock counting down Brookes were ahead by one. A last foul against Jon, adding to his already splitting headache, gave us a penalty from 25 yards and a final chance to level the score and we sent it home comfortably despite the pressure.
+
+So the final eventually came down yet again to penalties and with us up first we put the pressure on, putting yet another against the backboard and laying to rest our demons (the usually unreliable nature of Imperial penalties). Georgie Bolton lined up to try to equalise. She struck it well but low and the ball bobbled slightly to the left, then slightly more and eventually caught the wall just wide. It took a few seconds to realise that these penalties were sudden death before the elation hit and we knew we were taking home a national championship title. Alongside a pretty hefty trophy Jon managed to pick up the Novice MVP award and we all went home on a high. Time now for the summer version playing on grass and hopefully a tournament that isn’t quite so cold and wet!

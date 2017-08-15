@@ -1,0 +1,55 @@
+---
+title: >
+  Layers of Tone 
+subtitle: >
+  Layers of Tone 
+date: "2012-06-14 20:57:28 +0100"
+id: "2573"
+old_path: /phoenix/2573/layers-of-tone-
+redirect_from:
+ - /phoenix/2573/layers-of-tone-
+category: phoenix
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "pk1811"
+author_name: "Philip Kent"
+author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+A revival of what once was  
+ A simple concept of black and white.  
+ One that was with no out, now  
+ barely suckled by fading shadows.
+
+The intention, to replicate fame  
+ Leads,  
+ To this insane journey  
+ Of delayed steps and off beats.
+
+And looking down upon this pool  
+ That has yet to be made.  
+ A reflection of moments that  
+ Bare, no blame.
+
+These simple imprints,  
+ Appear, more complex in the sand.  
+ And if the single path should bend  
+ That life in ink forever ends.

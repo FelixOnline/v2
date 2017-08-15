@@ -1,0 +1,46 @@
+---
+title: >
+  Choccy and the dangers towards doggies
+subtitle: >
+  Easter eggs are lining the shelves, but watch out
+date: "2013-03-15 01:03:57 +0000"
+id: "3468"
+old_path: /science/3468/choccy-and-the-dangers-towards-doggies
+redirect_from:
+ - /science/3468/choccy-and-the-dangers-towards-doggies
+category: science
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201303150103-tna08-doggy.jpg"
+image_caption: >
+  
+image_width: "0"
+image_height: "0"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "tna08"
+author_name: "Tim Arbabzadah"
+author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_twitter: "timarbabzadah"
+author_facebook: "https://www.facebook.com/timarbabzadah"
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker 
+imported: true
+---
+
+Chocolate is well known to be toxic to dogs – but why?
+
+Cocoa,the basic ingredient of chocolate, contains a compound known as theobromine (which doesn’t actually contain any bromine), a mild stimulant. In general the darker the chocolate the higher the theobromine concentration.
+
+Upon ingestion, theobromine is broken down within the liver into various excreted metabolic products. For humans this process is fairly rapid, and theobromine can be harmlessly excreted from the body in approximately 6-10 hours.
+
+Dogs, especially smaller ones, get the short end of the stick: theobromine takes a lot longer to push from their bodies, and as a result it stays circulating, creating a potentially lethal situation. Unless treated immediately vomiting and diarrhea are followed by an increased breathing rate and heartbeat, epileptic-like seizures and even death. Contacting a vet is mandatory.
+
+Cats are actually more acutely sensitive to chocolate than dogs, with an even more reduced ability to metabolise theobromine. However, this risk is offset by a cat’s genetic inability to taste sweetness, hence a reduced affinity towards your Easter eggs.

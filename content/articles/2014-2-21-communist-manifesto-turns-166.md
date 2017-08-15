@@ -1,0 +1,61 @@
+---
+title: >
+  Communist Manifesto Turns 166
+subtitle: >
+  To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought.
+date: "2014-02-21 03:30:19 +0000"
+id: "4431"
+old_path: /comment/4431/communist-manifesto-turns-166
+redirect_from:
+ - /comment/4431/communist-manifesto-turns-166
+category: comment
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "felix"
+author_name: "Lef Apostolakis  - Felix Editor"
+author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_twitter: "feliximperial"
+author_facebook: "http://www.facebook.com/FelixImperial"
+author_website_url: "http://on.fb.me/NUT015"
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought. What should never be forgotten about the Manifesto is that it contains a specific political program and its style, brash and powerfully polemical, reflects this. It is also, as Marx and Engels pointed out, in many ways antiquated. Of course, it deserves remembering on account of nothing other than its historical importance; but the Manifesto is more than an interesting historical relic: it retains in broad outline the most profound understanding of the movement and transition of societies in history.
+
+Thus it is as a relevant political text that I shall make this exposition. This justifies, in my view, the exclusion of the final two sections of the book, Socialist and Communist Literature, and Position of the Communists in Relation to the Various Existing Opposition Parties. These sections deal with historically specific matters that require discussion but not necessarily representation. This is true to some degree for the second section, but it is here the problems with the Manifesto are concentrated and so shall be presented in the interest of parity.
+
+__Bourgeois and Proletarians__
+
+If one wanted to express the essence of historical materialism in one line, nobody puts it better than Marx: ‘the essence of all hitherto existing societies is the history of class struggle’. Marx then goes on to emphasise that the development of the bourgeoisie has polarised previously complex class societies into the opposition between proletariat and bourgeoisie. Then after a brief description of the actual (economic) development of the bourgeoisie, Marx then links this to politics: ‘Each step in the development of the bourgeoisie was accompanied by a corresponding political advance of that class’. This political advance has not been peaceful: ‘The bourgeoisie, historically, has played a most revolutionary part’, ‘it has pitilessly torn asunder the motley feudal ties that bound man to his “natural superiors”’. Marx’s tone is ambiguous, so while ‘[the bourgeoisie] has accomplished wonders far surpassing Egyptian pyramids’ it has also substituted ‘exploitation, veiled by religious or political illusions, [with] naked, shameless, direct, brutal exploitation.’
+
+Then we come to the first central point of the analysis: ‘the bourgeoisie cannot exist without constantly revolutionising the instruments of production, and thereby the relations of production’. The reason for this lies in the development of the bourgeoisie: ‘At a certain stage in the development of [feudal] means of production and exchange … the feudal relations of property became no longer compatible with the already developed productive forces; they became so many fetters. They had to be burst asunder’. But the very productivity of the bourgeoisie becomes its own downfall, ‘the epidemic of over production’ leads to more or less periodic crises that beset it which ‘[put on trial] the existence of the entire bourgeois society.’ The crisis can be overcome by the ‘inforced destruction of a mass of productive forces’ or by the ‘conquest of new markets.’ Thus ‘the need of a constantly expanding market chases the bourgeoisie over the whole face of the globe’ and ‘it compels all nations, on pain of extinction, to adopt the bourgeois mode of production … it creates a world after its own image.’
+
+Meanwhile, ‘in the same proportion as the bourgeoisie, i.e. capital, is developed in the same proportion is the proletariat.’ This occurs as the lower middle class sinks to the level of the proletariat, outpaced by machinery and out-bought by large industry. The proletariat, ‘must sell [itself] piece-meal, [and is] a commodity, like every other article of commerce’. Also, the efficient division of labour and the development of machinery have reduced the dignity of work to a mere mechanical procedure, thus alienating the workers from themselves. With the development of industry and the concentration of the means of production (in factories etc.,) the proletariat becomes more numerous and more class-conscious, though things do not always go so smoothly: ‘This organisation of the proletarians into a class … is continually being upset again and again by the competition between the workers’.
+
+However, all revolutionary hope rests in the hands of the proletariat. For the bourgeoisie, the proletarian is the only necessary class because while ‘the other classes decay and disappear in the face of Modern Industry; the proletariat is its special and essential product’. Furthermore, as the ‘proletarian is without property’ they ‘cannot become masters of the productive forces of society, except by abolishing their own previous mode of appropriation’. Thus while every previous revolution has ‘but established new classes, new conditions of oppression’, ‘the proletarian movement is the self-conscious, independent movement of the immense majority, in the interest of the immense majority.’
+
+Thus in summary: ‘Hitherto, every form of society has been based … on the antagonism of oppressing and oppressed classes.’ This antagonism is the dialectic that provides the motor force to history which has led ‘either to a revolutionary re-constitution of society at large, or in the common ruin of the contending classes’. The bourgeoisie has distinguished itself as the most revolutionary class to date. However it remains an oppressing class whose very revolutionary tendency leads to an intrinsic instability in the capitalist mode of production. Simultaneously, the industrial proletariat proliferates as the bourgeois mode of production spreads and polarises class antagonism, while it organises and becomes more conscious as it is forced into association through economic centralisation. The bourgeoisie need to exploit the industrial proletariat for their own survival, yet they no less need to force the proletariat into a position where it will develop its class consciousness and resist this exploitation. This immanent contradiction in the bourgeois mode of production will ‘inevitably lead to its fall and the victory of the proletariat’.
+
+____
+
+__Proletarians and Communists__
+
+The main value of this chapter is that it highlights some of the more sustained failures of Marxism. It is only appropriate to present them here, though detailed discussion will be delayed until my third article. However it also serves to qualify the Marxist relation to property. Many who lack conceptual clarity, both Marxist and non-Marxist, confuse the ‘bourgeois socialist’ Proudhon’s ‘Property is theft’ with Marxist doctrine. However, Marx is very careful to point out: ‘the distinguishing feature of Communism is not the abolition of property generally, but the abolition of bourgeois property’. That is, it is not so much property that is theft as the private ownership of the means of production (and exchange). Thus, when ‘We Communists’ are accused of wanting to abolish ‘Hard-won, self-acquired, self-earned property!’, Marx ironically states that ‘there is no need to abolish that; the development of industry has to a great extent already destroyed it’. Similarly, ‘You are horrified at our at our intending to do away with private property. But in your existing society, private property is done away with for nine-tenths of the population … In a word you reproach us with intending to do away your property. Precisely so; that is what we intend.’ This conclusion is based on the antagonism between ‘capital’ and ‘wage-labour’ which, in the forms presented in the Manifesto lack conceptual clarity. This will be further discussed in my third article.
+
+Two areas where (classical) Marxism has continually proved deficient are in its relation to women and in its explanation of the national phenomenon. The discussion of the family in this section is ultimately of little interest, roughly taking over the conclusions of Free Love advocates in France and Britain, more thoroughly dealt with in Engels’ The Origins of Family, Private Property and the State. However, it is worth remembering that, via Engels, Marxist theory had at least some recognition of the oppression of the greater part of humanity. Meanwhile, the comments in the Manifesto on the nation and nationalism are from a clearly internationalist position which too easily dismisses the efficacy of nationalism as an ideology.
+
+This yields a third, and perhaps more general, deficiency in Marxist theory, the inability to properly explain the role of ideology in the development of history. Though we have in brief the theory of reification: ‘the selfish misconception which induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production’, we also have the rather too simple: ‘What else does the history of ideas prove, than that intellectual production changes its character in proportion as material production changes’. It is claims like these which are at the bottom of many of the accusations of ‘economic essentialism’ levelled at Marx. This is a real issue which requires discussion, and I shall attempt to do so in my third article.

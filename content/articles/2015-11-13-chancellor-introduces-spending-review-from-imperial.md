@@ -1,0 +1,54 @@
+---
+title: >
+  Chancellor introduces spending review from Imperial
+subtitle: >
+  George Osborne was back again
+date: "2015-11-13 14:14:39 +0000"
+id: "5718"
+old_path: /news/5718/chancellor-introduces-spending-review-from-imperial
+redirect_from:
+ - /news/5718/chancellor-introduces-spending-review-from-imperial
+category: news
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
+image_caption: >
+  
+image_width: "0"
+image_height: "0"
+image_attribution: "Imperial College London"
+image_attribution_link: ""
+video_url: ""
+
+author_id: "ygr12"
+author_name: "Grace G Rahman"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - Excellent writeup I absolutely love this website Keep writingnike air 1990 httpwwwalteregosafrfrnikeair19902339htmlI always used to read post in news papers but now as I am a user of net thus from now I am using net for posts thanks to webcanada goose noir httpwwwrslfrlayoutsspipphpfrcanadagoosenoir26108html
+imported: true
+---
+
+After tagging along on President Xi’s visit three weeks ago, George Osborne was back at Imperial on Monday, but this time slightly further out at our White City branch, AKA Imperial West.
+
+Speaking from the unfinished campus, which overlooks the A40, the chancellor introduced the spending review.
+
+Ahead of its publication on the 26th of November, he dropped some major hints as to the review’s contents. He spoke about about security, both financial and national, reminding the assembled gaggle of journalists that despite the internet being “central to modern life”, its existence and use by terrorists justified the need for an increase in the number of spies the government employs.
+
+He also mentioned that four government departments – transport, food and rural affairs, local government and the treasury – will have their spending cut by 30% by the end of this parliament.
+
+Health and international aid budgets will be protected. Spending on the elderly and the NHS will make up 44% of the national budget, in plans the chief of NHS England has called “unworkable”.
+
+David Cameron was simultaneously speaking at the Confederation of British Industries conferences, where he too reiterated the party line, that the focus is on putting “the security of British families first”. He was heckled by activists halfway through, and went full teacher mode, pleading with them: “Come on – come on guys, if you sit down now you can ask me a question”. George suffered no such interruptions at Imperial, especially since FELIX wasn’t invited.
+
+Imperial proudly lauded the visit on its news website, quoting George as saying he “deliberately chose to come here today, to this science campus, to talk about economics”. At a time when students across the country, including at Imperial, are complaining about their treatment as sources of income rather than young minds to be taught, the chancellor’s comments talking about “world-beating science and innovation, turned into commercial application” somewhat clashed with the setting.
+
+The college also published a picture of President Alice Gast showing the Tory MP to the stage. An inherently political sight, the press release went on to quote Osborne as saying Imperial “represents the future of our economy here in the UK”.
+
+Considering the spending review has put huge emphasis on spending for older generations, it seemed ironic to hold the press conference at a university. As the ex-Tory minister of universities put it, the review “raises questions about the future role of the state in boosting productivity and supporting young adults”.

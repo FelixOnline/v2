@@ -1,0 +1,57 @@
+---
+title: >
+  Malaria mozzies can’t resist smelly feet
+subtitle: >
+  Yum yum.
+date: "2013-05-23 22:05:55 +0100"
+id: "3607"
+old_path: /science/3607/malaria-mozzies-cant-resist-smelly-feet
+redirect_from:
+ - /science/3607/malaria-mozzies-cant-resist-smelly-feet
+category: science
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
+image_caption: >
+  
+image_width: "0"
+image_height: "0"
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "tna08"
+author_name: "Tim Arbabzadah"
+author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
+author_twitter: "timarbabzadah"
+author_facebook: "https://www.facebook.com/timarbabzadah"
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - Mosquito love me too Gwilym  if there is one within a mile he will find me out   I do agree about care in the third world  click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics  shamefulIncidentally if you have time please read my recent RS Thomas blog  I would be interested in your comments     I just want to mention I am bneniger to blogging and really savored youre web page More than likely Im going to bookmark your website  You absolutely come with fabulous articles With thanks for sharing with us your web site  hypothalamus where   cheapest car insurance   minoxidil preparation   pressure dizziness   visionloss 
+imported: true
+---
+
+Compared to uninfected mosquitoes malaria parasite-containing mosquitoes are approximately three times more attracted to the smell of humans, a study shows.
+
+The researchers from the London School of Hygiene & Tropical Medicine infected malaria mosquitoes with the deadly parasite that causes malaria, Plasmodium falciparum.
+
+They put the mosquitoes in a container with socks that had been worn for 20 hours before the experiment.
+
+The scientists recorded the number of times the mosquitoes attacked the socks.  
+ They repeated the experiment with uninfected mosquitoes.
+
+The infected mosquitoes attacked the socks more often and fed for longer than uninfected mosquitoes.
+
+The findings, published in PLOS ONE, suggest that the malaria parasite manipulates the behaviour of mosquitoes and makes them more blood thirsty.
+
+It cannot resist the smell of human blood and bites more often and for longer. This gives the parasite a higher chance of getting passed on to humans, so its lifecycle and the deadly disease can continue.
+
+Dr Logan from the London School of Hygiene and Tropical Medicine said, “We have shown for the first time that the sense of smell could hold the key to understanding how the parasite successfully manipulates the mosquito to ensure its spread. Exploring this further opens up the possibility that we could use this knowledge against the parasite by developing tools with crucial chemicals found in human odour.”
+
+These findings will enable researchers to develop better mosquito traps that specifically lure malaria-infected mosquitoes by human scent. This should help eradicate the parasite, which infects more than 200 million people every year, over three times the population of the UK.
+
+DOI : [10.1371/journal.pone.0063602](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0063602)

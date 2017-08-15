@@ -1,0 +1,59 @@
+---
+title: >
+  Democracy and the Lack of Representation
+subtitle: >
+  Politics Editor Kartikeya Rana takes an in depth look at the effectiveness of representation in world governments.
+date: "2013-09-11 00:47:14 +0100"
+id: "3758"
+old_path: /comment/3758/democracy-and-the-lack-of-representation
+redirect_from:
+ - /comment/3758/democracy-and-the-lack-of-representation
+category: comment
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
+image_caption: >
+  Is democracy just a pretty illusion?
+image_width: "0"
+image_height: "0"
+image_attribution: "www.illuminati-news.com"
+image_attribution_link: "http://www.illuminati-news.com"
+video_url: ""
+
+author_id: "jal08"
+author_name: "Joseph A L Letts"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: "jal08"
+author_facebook: ""
+author_website_url: "http://thenewsthatsnot.wordpress.com"
+author_website_title: "The News That's Not"
+
+comments:
+ - Dont vote organise
+imported: true
+---
+
+In this day and age, democracy does not necessary mean equal representation as we are made to believe. In this editorial, I will look at certain issues from around the world that seem to elucidate upon this problem.  
+  
+ Discrimination by a democratic government due to a certain persons belief and/or ethnicity is growing in various regions across the world.  
+ Leaders who are voted in have ended up being racist and communal. This has resulted in misrepresentation, leading to oppression of minority groups in certain cases and communal divisions in other cases.
+
+As I write this article, communal riots are taking place in the state of Uttar Pradesh in India. There is an ongoing debate on whether the state government incited such violence. They might have done so to appease to the community that makes up the majority of their voters. Although a state government may not be the instigator in this instance, it has been a cause of rioting in the past.
+
+In countries such as India, where corruption is rampant, parties tend to have a more communal agenda. Various parties build upon the misconceptions of the people to further their political gains. This causes great division and animosity amongst different groups, which leads to communal violence and rioting.  
+ Although laws are present to tackle these issues, there is a lack of implementation, which results in further community clashes.
+
+A form of democracy with religious inclinations has also emerged in a large section of the world. Iran, for example, is a country with a form of government influenced by democracy as well as theology. Ayatollah Khomeini, the highest-ranking religious authority in Iran, heads the country. As a result, all elections must take place under his supervision. Such countries tend to have a low human rights record with great levels of minority discrimination. A good example is Pakistan where the proportion of minority groups has fallen from 23% in 1947 to 3% today.
+
+I came across an essay by the CNN reporter Fareed Zakaria that calls such a phenomenon ‘illiberal democracy’. He states how democracy is thriving in the world but liberty is not. The idea of self-ownership and freedom from oppression is falling in the democratic world.
+
+In fact, even western democracy seems to provide misrepresentation but of a different kind. In countries such as the US and the UK, the political parties rely on funding from a small group of people for their election campaigns (0.05% of the population for the US). A number of these donors tend to have a personal agenda in funding these parties. They can have a strong say in what bills are brought forward in parliament. As a result, rather than the will of the general population being heard, a tiny minority affects the democratic process.
+TODO: image from 
+Furthermore, there is growing concern about the government gaining access to our personal information. A BBC report stated that the NSA whistleblower, Edward Snowden, leaked information about the US and UK ‘cracking online encryption’. This issue acts as another example of misrepresentation- about how invading our privacy, without our prior consent, might not be what we want. The morality of this issue, however, is for another editorial.
+
+Every citizen of a democracy needs to be equally represented by his or her elected leaders. We may not be able to deal with misrepresentation across the world but we can deal with misrepresentation at home. So if you have any suggestion about how we can go about dealing with such problems, please comment below. Let’s not become a democracy where we have the freedom to elect our own dictators.
+
+Much Love,  
+ K Dawg.

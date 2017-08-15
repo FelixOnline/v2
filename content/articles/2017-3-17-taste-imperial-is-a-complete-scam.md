@@ -1,0 +1,48 @@
+---
+title: >
+  Taste Imperial is a complete scam
+subtitle: >
+  Don Ma despairs at Taste Imperial's blatant disregard for appropriate raisin-yoghurt ratios
+date: "2017-03-17 16:53:23 +0000"
+id: "6906"
+old_path: /comment/6906/taste-imperial-is-a-complete-scam
+redirect_from:
+ - /comment/6906/taste-imperial-is-a-complete-scam
+category: comment
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
+image_caption: >
+  Get your own raisins. Oh wait.
+image_width: "2048"
+image_height: "1365"
+image_attribution: "Barney Moss"
+image_attribution_link: ""
+video_url: ""
+
+author_id: ""
+author_name: ""
+author_image_path: ""
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - I dont know what you are sayingcheapest madden coins mobile httpwwwmaddenstorecomI mean itpokemon go rare pokemon online shop pokemonbux httpwwwpokemonbuxcomwere so proud of youbuy cheap Dofus Touch Kamas httpchikozcomblogs7232988dofustouchkamasprofessionaldofustouchserverkamasservicWhat is with that guyCheap Albion Online gold httpalbionbloglogdowncomposts1702932cheapandsafealbiononlinegoldareonsaleatupalbionThis is the first time in his professional career including his time in Japan that he has changed teams in the middle of a season A trio of relievers from a battered Toronto bullpen followed Brandon Morrow with the last of them making a rather dubious departure whether or not to keepRelocating into a new house apartment or even a new place of work can be difficultEasily Choosing From Document Scanning ServicesEasily Choosing From Document Scanning ServicesMay 11 2014  Author Loris F Half the time he talks I have to say Speak up a
+imported: true
+---
+
+Before anyone comes at me with their perceived positives of TasteImperial, I'll have you know that you have been utterly deceived. Commonfolk may be misguided by their SCR breakfasts or the library café 'food'. But I will dispel these myths them with one simple example: The Granola Yoghurt.
+
+In simpler times, AKA a few months ago, there was a product known as the Strawberry Compote and Muesli Greek Yoghurt. I chanced upon it as I was searching for a healthier alternative to my daily snacking routine of indulging in chocolate\-based items from the vending machines. The slightly tangy Greek yoghurt was accentuated by the mellow sweetness of the strawberry compote and was elevated by the heartiness of the muesli. It seemed natural. Whole. Complete. It was the pinnacle of breakfast foods. A champion of late afternoon snacks. A perfect dairy delicacy.
+
+But now I look around and I see their numbers dwindling. Like baby tigers, the hubris of humanity has inadvertently begun the process of eradicating this gift from nature. Instead, we are offered a joke of a replacement. The granola yogurt.
+
+At first I was shocked. I love cherries. But I hate anything cherry flavoured, as it would always have the sickly chemical taste that reminds you of terrible, bed\-ridden sick days of childhood. The days where you couldn’t go to school, but you were too sick to do anything fun at home. Instead you stared at the ceiling for hours and ate tasteless porridge, and the only flavour you experienced in that day was the horrid fake cherry flavoured cough syrup which made you gag and feel even worse than before.
+
+Sure, the change in texture was welcomed, and I grew accustomed to the “black cherry” flavour after a while. But one subtle, yet horrendously apparent detail ruined my entire experience: the raisins. The raisins were the only sources of natural flavours within the item. They could have gone on out of two ways with the raisin count: Either use large amounts of raisins to enhance the flavour profile of the bland yoghurt, or use no raisins at all to embrace the sad chemical flavour. However, they chose the worst possibility of all – they added an average of about two raisins per container. Each raisin teased your taste buds with a faint pure sweetness, yet was never enough to satisfy your cravings. Thus, you are left with pure sadness and dissatisfaction after the consumption of this trash.
+
+Do not trust Taste Imperial. First they came for the Strawberry Compote and Muesli Greek Yoghurt, but you did not speak out – because you don’t like yoghurt…

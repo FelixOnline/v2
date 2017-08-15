@@ -1,0 +1,43 @@
+---
+title: >
+  Norway puts genome sequencing in national health system
+subtitle: >
+  By Jula Humphries
+date: "2012-02-09 22:34:40 +0000"
+id: "2155"
+old_path: /science/2155/norway-puts-genome-sequencing-in-national-health-system
+redirect_from:
+ - /science/2155/norway-puts-genome-sequencing-in-national-health-system
+category: science
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "pk1811"
+author_name: "Philip Kent"
+author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+[Last year](http://www.intelligencesquared.com/events/james-watson), at an intelligence squared event, James Watson stated that one of the biggest improvements in medicine would be personalised genome sequencing, whereby patients will have a personalised healthcare plan developed from their genome sequence. Personalised genome sequencing is now becoming a reality in Norway, less than a decade after the first human genome was fully sequenced.
+
+Norway’s plan is to focus on cancer care. Several phases have been outlined. Initially, in the pilot phase the [Norwegian Cancer Genomics Consortium](http://cancergenomics.no/) will look at 3,000 previous tumour biopsies to better understand how different cancer mutations respond to drugs. Furthermore, 1,000 patients will also have their genomes sequenced. The next phase will see specific clinical, computing and laboratory infrastructure being built.
+
+Although, Norway is the first to incorporate genome sequencing into its national health system; it is not the first country to have personalised medicine. The UK and USA already have personalised medicine; just not on as large a scale as Norway’s proposed plans. In the UK, the NHS is currently only conducting research, with DNA extraction, storage and testing of tumour genomes. In Boston, USA, researchers at Massachusetts general hospital have developed a test for 15 genes which are already targeted by current cancer drugs. Norway’s plans differ to Boston’s targeted testing, for within their healthcare system they plan to sequence entire genomes. It will be interesting to see which country’s strategy is preferable. Norway could just be putting in place infrastructure for general personalised healthcare, which does not just focus on cancer treatment. Furthermore, who knows what the extra data could reveal, perhaps even mutations in other genes.
+
+It is exciting to see how research and healthcare are merging together more and more. Who knows what could be revealed through using personalised genome sequencing and how the future of healthcare will be shaped.

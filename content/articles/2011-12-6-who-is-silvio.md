@@ -1,0 +1,53 @@
+---
+title: >
+  Who is Silvio?
+subtitle: >
+  A poem by John Hilliard
+date: "2011-12-06 11:34:29 +0000"
+id: "1903"
+old_path: /politics/1903/who-is-silvio
+redirect_from:
+ - /politics/1903/who-is-silvio
+category: politics
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "felix"
+author_name: "Lef Apostolakis  - Felix Editor"
+author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"
+author_twitter: "feliximperial"
+author_facebook: "http://www.facebook.com/FelixImperial"
+author_website_url: "http://on.fb.me/NUT015"
+author_website_title: ""
+
+comments:
+imported: true
+---
+
+Who is Silvio? What is he,  
+ That all our swines commend him?  
+ Wholly full of vice is he;  
+ The seven such place did lend him,  
+ That he might removed be.
+
+Is he blind to his hair?  
+ For arrogance lives with blindness.  
+ Sloth doth to his mind repair,  
+ To help him of his spineless,  
+ And being helped, inhabits there.
+
+Then to Silvio let us sing,  
+ That Silvio is expelling;  
+ He excels each immoral thing  
+ Upon the good earth dwelling:  
+ To him let his bungas swing.

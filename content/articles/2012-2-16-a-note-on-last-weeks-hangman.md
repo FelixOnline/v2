@@ -1,0 +1,46 @@
+---
+title: >
+  A note on last week’s Hangman 
+subtitle: >
+  Moving onwards from our last issue
+date: "2012-02-16 22:06:03 +0000"
+id: "2208"
+old_path: /comment/2208/a-note-on-last-weeks-hangman-
+redirect_from:
+ - /comment/2208/a-note-on-last-weeks-hangman-
+category: comment
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/"
+image_caption: >
+  
+image_width: ""
+image_height: ""
+image_attribution: ""
+image_attribution_link: ""
+video_url: ""
+
+author_id: "sjw209"
+author_name: "Simon Worthington"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: ""
+author_facebook: ""
+author_website_url: ""
+author_website_title: ""
+
+comments:
+ - It wasnt promoting date rape but it was trivialising it I love Hangmans wedontgiveashit attitude Its at its funniest when its at its most outrageous But there is a fundamental difference between joking about Harry Potter inspired orgies and making light of rape regardless of the intention Remember that given the size of Felixs readership there will be readers who have been raped I do hope Hangman comes back soon and that it continues to be crazy and outrageous But making fun regardless of the intention of one of the most traumatic things that can happen to a person That crossed a line and Matt was right to respondRSocks with sandals the only way to go babyAre they removing the centrefold too No there was just nobody to do it last week Centrefolds are still going Alex is correct Centrefolds havent been droppedOh lads Lads lads lads You let yourself down Has a life of reading 4chan and reddit really desensitised you so completely to the idea that word
+imported: true
+---
+
+In last week’s Felix, an article was published in the Hangman section which many readers felt incited sexual violence, trivialised rape and generally contributed to the idea of a rape culture. I would like to take the opportunity to assure readers that this was in no way our intention, and we all agree that a piece of content which does this is wholly unacceptable.
+
+Following complaints addressed personally to me, or otherwise, I have taken the decision to end the Hangman section for the foreseeable future. The offending article, quite simply, failed in its ill-judged attempt at humour and did not warrant publication. We are now taking the time to carefully consider how any section designed with the sole intention of being humourous can feature and simultaneously exist to the same standard as the rest of this publication. The level of offence that Hangman caused is not something that should be admired or actively sought after.
+
+This incident has highlighted several major flaws in our quality control process, for which I take full responsibility. As a result, I am taking concrete steps to ensure that this does not happen again. Alongside the removal of the Hangman section, any future section with the intention of comedy or satire will be held to more stringent content guidelines and I will ensure that the consequences of every article we publish are considered fully. I am also making certain that our writing team is fully educated on and sensitive to topics that could cause offence if handled improperly.
+
+Of course, humour does have a place in Felix, but now is the time to take a serious step back from the events of last week and refocus our attention into something that actually deserves a place in this publication. We need something that sits comfortably alongside such reasoned debate and content such as that I have had the privilege of editing, and not something that pushes the boundaries of offence for the sake of an article that barely provides a modicum of humour.
+
+I do deeply regret my own personal failure in not having taken action to prevent this happening in the first place, and I would like to reassure readers that after this incident the content that goes into any section will be radically rethought before publication.

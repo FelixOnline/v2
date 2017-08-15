@@ -1,0 +1,47 @@
+---
+title: >
+  Competition: Win 2 Tickets to See the Wailers
+subtitle: >
+  Felix Music has an exciting competition this month, write a short article for them and you could win 2 tickets to see the Wailers live in concert.
+date: "2013-09-05 09:50:11 +0100"
+id: "3756"
+old_path: /music/3756/competition-win-2-tickets-to-see-the-wailers
+redirect_from:
+ - /music/3756/competition-win-2-tickets-to-see-the-wailers
+category: music
+
+headline: true
+featured: true
+
+image_path: "http://felixonline.co.uk/img/upload/201309051049-jal08-wailers.png"
+image_caption: >
+  #Winning!
+image_width: "0"
+image_height: "0"
+image_attribution: "Felix Music"
+image_attribution_link: "https://www.facebook.com/ICFelixMusic?fref=ts"
+video_url: ""
+
+author_id: "jal08"
+author_name: "Joseph A L Letts"
+author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
+author_twitter: "jal08"
+author_facebook: ""
+author_website_url: "http://thenewsthatsnot.wordpress.com"
+author_website_title: "The News That's Not"
+
+comments:
+imported: true
+---
+
+COMPETITION ALERT!
+
+To kick off your 2013 Fresher's Week we have two tickets to give away to see the Wailers at the Indigo2 on 30th September. They're currently touring all their greatest hits including the Bob Marley classics. It's set to be a cracking night!
+
+To win the tickets, send us roughly 300 words on a memorable music experience you've had over the summer. This could be a 3 day rave in Montenegro or discovering an exceptional record store; anything goes.
+
+Additionally, every entry we get will but put forward for publishing in the paper once terms starts. So get writing!!
+
+Please send all entries to music.felix@gmail.com before the 20th September.
+
+Good luck!
