@@ -18,7 +18,7 @@ categories:
  - news
 tags:
 authors:
- - AR3310
+ - ar3310
 
 # Homepage control params
 headline: true
@@ -35,7 +35,7 @@ image_attribution_link: ""
 video_url: ""
 
 # Author metadata
-author_id: "AR3310"
+author_id: "ar3310"
 author_name: "Aemun Reza"
 author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""

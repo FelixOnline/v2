@@ -18,7 +18,7 @@ categories:
  - food
 tags:
 authors:
- - AJ710
+ - aj710
 
 # Homepage control params
 headline: true
@@ -35,7 +35,7 @@ image_attribution_link: ""
 video_url: ""
 
 # Author metadata
-author_id: "AJ710"
+author_id: "aj710"
 author_name: "Alexander Joseph"
 author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""

@@ -18,7 +18,7 @@ categories:
  - fashion
 tags:
 authors:
- - AY310
+ - ay310
 
 # Homepage control params
 headline: true
@@ -35,7 +35,7 @@ image_attribution_link: ""
 video_url: ""
 
 # Author metadata
-author_id: "AY310"
+author_id: "ay310"
 author_name: "Alice Yang"
 author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""

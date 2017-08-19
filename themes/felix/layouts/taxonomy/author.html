@@ -2,10 +2,29 @@
 
 <section id="main">
   <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Data.Pages }}
-      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> </li>
-    {{ end }}
+   <h1>{{ .Title }}</h1>
+
+   <h2>Profile</h2>
+   {{ if (not (eq .Params.image_path "")) }}
+     <img width="100" src="{{ .Params.image_path }}"/>
+   {{ end }}
+
+   <ul>
+     {{ if (ne .Params.twitter "") }}
+       <li>Twitter: <a href="https://twitter.com/{{.Params.twitter}}">{{ .Params.twitter }}</a></li>
+     {{ end }}
+     {{ if (ne .Params.facebook "") }}
+       <li>Facebook: <a href="{{.Params.facebook}}">{{ .Params.facebook }}</a></li>
+     {{ end }}
+     {{ if (ne .Params.website_url "") }}
+       <li>Website: <a href="{{.Params.website_url}}">{{ .Params.website_title }}</a></li>
+     {{ end }}
+   </ul>
+
+   <h2>Articles</h2>
+   {{ range .Data.Pages }}
+     <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> </li>
+   {{ end }}
   </div>
 </section>
 

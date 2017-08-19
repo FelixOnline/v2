@@ -19,7 +19,7 @@ categories:
  - politics
 tags:
 authors:
- - TM1510
+ - tm1510
 
 # Homepage control params
 headline: true
@@ -36,7 +36,7 @@ image_attribution_link: ""
 video_url: ""
 
 # Author metadata
-author_id: "TM1510"
+author_id: "tm1510"
 author_name: "Tomokazu Miyamoto"
 author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 author_twitter: ""

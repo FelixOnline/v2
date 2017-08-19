@@ -61,6 +61,7 @@ SQL
 count = 0
 client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   r["comments"] ||= ""
+  r["author_id"] = (r["author_id"] || "felix").downcase
 
   md = %w(---)
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
@@ -84,8 +85,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "categories:\n - #{category}"
   md << "tags:" # were not used on the old site
   md << "authors:"
-  md << " - #{r["author_id"] || "felix"}"
-
+  md << " - #{r["author_id"]}"
 
   md << "\n# Homepage control params"
   md << "headline: true"
@@ -152,4 +152,20 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
 
   # TODO: some articles are missing in the exported folder, investigate
   File.write("content/articles/#{filename}.md", contents)
+
+  if r["author_id"]
+    md = %w(---)
+    md << "id: \"#{r["author_id"]}\""
+    md << "title: #{r["author_name"]}"
+    md << "image_path: \"http://felixonline.co.uk/#{r["author_image_path"]}\""
+    md << "twitter: \"#{r["author_twitter"]}\""
+    md << "facebook: \"#{r["author_facebook"]}\""
+    md << "website_url: \"#{r["author_website_url"]}\""
+    md << "website_title: \"#{r["author_website_title"]}\""
+    md << "---"
+
+    dir = "content/authors/#{r["author_id"]}"
+    Dir.mkdir(dir) unless Dir.exists?(dir)
+    File.write("content/authors/#{r["author_id"]}/_index.md", md.join("\n") + "\n")
+  end
 end
