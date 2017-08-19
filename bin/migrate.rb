@@ -63,7 +63,6 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   r["comments"] ||= ""
 
   md = %w(---)
-  md << "layout: post"
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
