@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
+# Attributes from Felix Online V1
 id: "6125"
 old_path: /science/6125/is-it-time-for-a-move-to-frozen-foods
 aliases:
  - /science/6125/is-it-time-for-a-move-to-frozen-foods
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061056-felix-167845726_b65bdfaacb_b.jpg"
 image_caption: >
   Eat your frozen veggies kids.
@@ -22,6 +27,7 @@ image_attribution: "Rosana Prada"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

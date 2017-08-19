@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College is set to open its first teaching institution abroad
 date: "2010-10-07 22:25:58 +0100"
+# Attributes from Felix Online V1
 id: "177"
 old_path: /news/177/imperial-opens-medical-campus-in-singapore
 aliases:
  - /news/177/imperial-opens-medical-campus-in-singapore
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010072323-ks607-Singapor.jpg"
 image_caption: >
   The collaboration with Nanyang Technological University will be Singapore's third medical school
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

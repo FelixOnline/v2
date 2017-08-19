@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
+# Attributes from Felix Online V1
 id: "167"
 old_path: /film/167/critically-acclaimed-films-that-are-actually-terrible
 aliases:
  - /film/167/critically-acclaimed-films-that-are-actually-terrible
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010012347-ks607-PulpFict.jpg"
 image_caption: >
   Badass, sure. But 'compelling'? Give me a break
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

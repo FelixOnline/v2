@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Discovery of asbestos pushes back launch date even further
 date: "2010-10-21 19:49:58 +0100"
+# Attributes from Felix Online V1
 id: "251"
 old_path: /news/251/metric-launch-delayed
 aliases:
  - /news/251/metric-launch-delayed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

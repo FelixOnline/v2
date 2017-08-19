@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial just behind LSE, but green wise, are lagging behind
 date: "2013-05-02 13:51:58 +0100"
+# Attributes from Felix Online V1
 id: "3537"
 old_path: /news/3537/imperial-fourth-in-complete-university-league-table
 aliases:
  - /news/3537/imperial-fourth-in-complete-university-league-table
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021451-tna08-kings-college-cambridge-university.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
+# Attributes from Felix Online V1
 id: "6056"
 old_path: /features/6056/a-letter-tothe-man-who-broke-my-heart
 aliases:
  - /features/6056/a-letter-tothe-man-who-broke-my-heart
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181142-felix-Stipula_fountain_pen.jpg"
 image_caption: >
   Fuck you, dickhead -Ed.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

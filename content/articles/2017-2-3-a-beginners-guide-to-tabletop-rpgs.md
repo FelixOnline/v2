@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Henry Wild gives you the know-how on how role-playing games work, as well as his recommendations on how to begin your first adventure
 date: "2017-02-03 17:33:24 +0000"
+# Attributes from Felix Online V1
 id: "6732"
 old_path: /games/6732/a-beginners-guide-to-tabletop-rpgs
 aliases:
  - /games/6732/a-beginners-guide-to-tabletop-rpgs
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031733-felix-15262595018_46811ca672_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Esham"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

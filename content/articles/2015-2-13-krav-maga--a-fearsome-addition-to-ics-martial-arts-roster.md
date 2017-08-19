@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Xuan Chen gives his thoughts on Imperial’s newest self defence class
 date: "2015-02-13 15:21:16 +0000"
+# Attributes from Felix Online V1
 id: "5258"
 old_path: /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
 aliases:
  - /cands/5258/krav-maga--a-fearsome-addition-to-ics-martial-arts-roster
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131521-bwh12-1584-2.png"
 image_caption: >
   An instructor defends himself against an armed attacker in the first class.
@@ -22,6 +27,7 @@ image_attribution: "Xuan Chen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

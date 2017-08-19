@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Its got nothing on the Daily Felix...
 date: "2011-02-10 20:31:24 +0000"
+# Attributes from Felix Online V1
 id: "776"
 old_path: /tech/776/murdoch-launches-daily-magazine-for-ipad-
 aliases:
  - /tech/776/murdoch-launches-daily-magazine-for-ipad-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

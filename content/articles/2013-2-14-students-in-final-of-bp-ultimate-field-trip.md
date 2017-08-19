@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial students storm their way through
 date: "2013-02-14 21:14:49 +0000"
+# Attributes from Felix Online V1
 id: "3333"
 old_path: /news/3333/students-in-final-of-bp-ultimate-field-trip
 aliases:
  - /news/3333/students-in-final-of-bp-ultimate-field-trip
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302142114-tna08-imperial-civils-high-res-2.jpg"
 image_caption: >
   The Imperial students in the Final
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

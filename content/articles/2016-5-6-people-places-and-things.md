@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National’s unpredictable triumph is revived in style at the Wyndham’s Theatre
 date: "2016-05-06 10:15:20 +0100"
+# Attributes from Felix Online V1
 id: "6133"
 old_path: /arts/6133/people-places-and-things-
 aliases:
  - /arts/6133/people-places-and-things-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061115-felix-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
 image_caption: >
   Best Actress winner Denise Gough in her as a drug addict in People, Places and Things.
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix talks shop with the Vice-Provost Education
 date: "2013-11-01 09:16:51 +0000"
+# Attributes from Felix Online V1
 id: "3967"
 old_path: /features/3967/interview-introducing-the-education-and-student-strategy
 aliases:
  - /features/3967/interview-introducing-the-education-and-student-strategy
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010916-felix-debra-humphris.jpg"
 image_caption: >
   Professor Debra Humphris, Vice Provost (Education)
@@ -22,6 +27,7 @@ image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

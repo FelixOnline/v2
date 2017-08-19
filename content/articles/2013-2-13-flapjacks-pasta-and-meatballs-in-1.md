@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Yat Kit Chung gives you breakfast and dinner ideas
 date: "2013-02-13 14:24:02 +0000"
+# Attributes from Felix Online V1
 id: "3302"
 old_path: /food/3302/flapjacks-pasta-and-meatballs-in-1
 aliases:
  - /food/3302/flapjacks-pasta-and-meatballs-in-1
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

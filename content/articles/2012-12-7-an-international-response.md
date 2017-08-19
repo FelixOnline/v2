@@ -4,15 +4,20 @@ title: >
 subtitle: >
   International students reply to the fees
 date: "2012-12-07 00:03:28 +0000"
+# Attributes from Felix Online V1
 id: "3021"
 old_path: /news/3021/an-international-response
 aliases:
  - /news/3021/an-international-response
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070002-tna08-international-fees.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

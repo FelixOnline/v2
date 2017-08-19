@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Guillaume Valla on IC’s hidden group of designers
 date: "2013-10-12 20:10:42 +0100"
+# Attributes from Felix Online V1
 id: "3865"
 old_path: /features/3865/imperial-college-design-collective
 aliases:
  - /features/3865/imperial-college-design-collective
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122110-jal08-imperial-design-collective.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

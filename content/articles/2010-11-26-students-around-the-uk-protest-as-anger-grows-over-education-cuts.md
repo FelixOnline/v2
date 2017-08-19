@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Olivia Ribeiro and Kirsty Seager on the student protests at Whitehall
 date: "2010-11-26 07:26:43 +0000"
+# Attributes from Felix Online V1
 id: "452"
 old_path: /news/452/students-around-the-uk-protest-as-anger-grows-over-education-cuts-
 aliases:
  - /news/452/students-around-the-uk-protest-as-anger-grows-over-education-cuts-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261042-ks607-protests.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

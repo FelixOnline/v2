@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kings Park Capital founder Jason Katz talks to Imperial Investors Club, Deepka Rana reports
 date: "2012-03-01 22:43:46 +0000"
+# Attributes from Felix Online V1
 id: "2289"
 old_path: /biz/2289/putting-a-katz-amongst-the-pigeons
 aliases:
  - /biz/2289/putting-a-katz-amongst-the-pigeons
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203051133-felix-jason-katz-hi-res.jpg"
 image_caption: >
   Lolkatz: He haz ur private equity financial expertise
@@ -22,6 +27,7 @@ image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

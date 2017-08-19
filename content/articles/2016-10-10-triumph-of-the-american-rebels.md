@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reviewing the RA's latest exhibition
 date: "2016-10-10 14:57:42 +0100"
+# Attributes from Felix Online V1
 id: "6326"
 old_path: /arts/6326/triumph-of-the-american-rebels
 aliases:
  - /arts/6326/triumph-of-the-american-rebels
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101654-felix-Clyfford-Still-PH-950-1-795x600.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Royal Academy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

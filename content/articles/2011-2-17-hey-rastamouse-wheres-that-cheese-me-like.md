@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Welcome to the TV-obsessed world of James Simpson
 date: "2011-02-17 20:31:32 +0000"
+# Attributes from Felix Online V1
 id: "845"
 old_path: /tv/845/hey-rastamouse-wheres-that-cheese-me-like
 aliases:
  - /tv/845/hey-rastamouse-wheres-that-cheese-me-like
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

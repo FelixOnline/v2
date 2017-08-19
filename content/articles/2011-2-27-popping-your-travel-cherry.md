@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dylan Lowe and Christopher Richardson offer nuggets of advice to would-be travellers
 date: "2011-02-27 19:43:20 +0000"
+# Attributes from Felix Online V1
 id: "918"
 old_path: /travel/918/popping-your-travel-cherry
 aliases:
  - /travel/918/popping-your-travel-cherry
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271937-ks607-backpack.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

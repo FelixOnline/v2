@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah is on his best behaviour around office Nigel Lewis
 date: "2012-10-05 11:57:45 +0100"
+# Attributes from Felix Online V1
 id: "2607"
 old_path: /news/2607/felix-talk-to-the-police-about-keeping-safe
 aliases:
  - /news/2607/felix-talk-to-the-police-about-keeping-safe
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

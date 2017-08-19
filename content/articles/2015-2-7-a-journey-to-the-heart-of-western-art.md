@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Blaise Verhasselt examines Rubens’ legacy at a new RA show
 date: "2015-02-07 19:02:09 +0000"
+# Attributes from Felix Online V1
 id: "5200"
 old_path: /arts/5200/a-journey-to-the-heart-of-western-art
 aliases:
  - /arts/5200/a-journey-to-the-heart-of-western-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071902-ps3110-key-209-copya.jpg"
 image_caption: >
   Peter Paul Rubens, Tiger, Lion and Leopard Hunt, 1616
@@ -22,6 +27,7 @@ image_attribution: " MBA, Rennes, Dist. RMN-Grand Palais / Adelaide Beaudoin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

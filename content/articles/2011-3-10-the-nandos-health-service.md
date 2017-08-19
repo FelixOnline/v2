@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Omar Hafeez-Bore shows us how chicken is not just a finger lickin’ good sensation
 date: "2011-03-10 20:46:51 +0000"
+# Attributes from Felix Online V1
 id: "1076"
 old_path: /food/1076/the-nandos-health-service
 aliases:
  - /food/1076/the-nandos-health-service
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102040-ks607-nandoscr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

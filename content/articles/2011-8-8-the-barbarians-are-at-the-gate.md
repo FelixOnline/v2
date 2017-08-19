@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As Morrisons begins to stock truffles on its shelves, Sam Furse dives headfirst into the world of supermarkets to find out why
 date: "2011-08-08 13:52:13 +0100"
+# Attributes from Felix Online V1
 id: "1454"
 old_path: /food/1454/the-barbarians-are-at-the-gate
 aliases:
  - /food/1454/the-barbarians-are-at-the-gate
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201108081444-felix-morrisons.jpg"
 image_caption: >
   Truffles and supermarkets – a match made in Morrisons heaven?
@@ -22,6 +27,7 @@ image_attribution: "KamCity"
 image_attribution_link: "http://www.kamcity.com/images/retailer/morrisons.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

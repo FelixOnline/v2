@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I know this says that this is about Metric, but really it could apply to any place, at any time, with any person.
 date: "2016-12-09 16:14:17 +0000"
+# Attributes from Felix Online V1
 id: "6591"
 old_path: /sex/6591/how-to-have-a-one-night-stand-in-metric
 aliases:
  - /sex/6591/how-to-have-a-one-night-stand-in-metric
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091613-felix-Screen Shot 2016-12-09 at 16.13.07.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

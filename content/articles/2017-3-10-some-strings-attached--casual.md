@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As far as young teenage characters go, Laura is a refreshing change of pace from the norm
 date: "2017-03-10 13:46:26 +0000"
+# Attributes from Felix Online V1
 id: "6877"
 old_path: /tv/6877/some-strings-attached--casual
 aliases:
  - /tv/6877/some-strings-attached--casual
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101346-felix-casual-hulu.jpg"
 image_caption: >
   Modern mother-daughter relationships are weird
@@ -22,6 +27,7 @@ image_attribution: "Hulu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

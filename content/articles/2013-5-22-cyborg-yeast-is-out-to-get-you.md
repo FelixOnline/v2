@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You will be terminated
 date: "2013-05-22 14:29:09 +0100"
+# Attributes from Felix Online V1
 id: "3597"
 old_path: /science/3597/cyborg-yeast-is-out-to-get-you
 aliases:
  - /science/3597/cyborg-yeast-is-out-to-get-you
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305221529-tna08-yeast-spoons.jpg"
 image_caption: >
   Not as innocent as it looks
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thousands to refuse work related to publisher over profit-making tactics
 date: "2012-02-03 00:14:09 +0000"
+# Attributes from Felix Online V1
 id: "2118"
 old_path: /news/2118/academics-to-boycott-elsevier-journals-
 aliases:
  - /news/2118/academics-to-boycott-elsevier-journals-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202030006-sjw209-img_9118.jpg"
 image_caption: >
   Academics have voiced their disapproval with Elsevier’s methods
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster gives his opinion on the Xbox One
 date: "2013-05-29 16:23:49 +0100"
+# Attributes from Felix Online V1
 id: "3635"
 old_path: /games/3635/the-consolation-prize-nah-you-can-keep-it
 aliases:
  - /games/3635/the-consolation-prize-nah-you-can-keep-it
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291723-tna08-59d51511-a3a1-42df-8f82-912b0a1e05cb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

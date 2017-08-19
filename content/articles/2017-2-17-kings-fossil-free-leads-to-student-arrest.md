@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A student painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s
 date: "2017-02-17 14:24:32 +0000"
+# Attributes from Felix Online V1
 id: "6778"
 old_path: /news/6778/kings-fossil-free-leads-to-student-arrest
 aliases:
  - /news/6778/kings-fossil-free-leads-to-student-arrest
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Loren Kerns"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

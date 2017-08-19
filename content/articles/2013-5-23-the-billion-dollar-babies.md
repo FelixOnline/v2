@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film runs down the biggest successes to ever hit the screens
 date: "2013-05-23 21:43:39 +0100"
+# Attributes from Felix Online V1
 id: "3604"
 old_path: /film/3604/the-billion-dollar-babies
 aliases:
  - /film/3604/the-billion-dollar-babies
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232243-tna08-one_billion_dollars2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

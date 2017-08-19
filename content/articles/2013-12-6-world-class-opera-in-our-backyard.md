@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our prestigious neighbour, the Royal College of Music, is a fortress tucked away behind our own Sherfield building. Until now its activities had been hidden from me; but I am so glad that that has finally changed.
 date: "2013-12-06 04:12:02 +0000"
+# Attributes from Felix Online V1
 id: "4191"
 old_path: /arts/4191/world-class-opera-in-our-backyard
 aliases:
  - /arts/4191/world-class-opera-in-our-backyard
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

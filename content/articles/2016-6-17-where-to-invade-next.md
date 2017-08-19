@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-17 09:38:52 +0100"
+# Attributes from Felix Online V1
 id: "6290"
 old_path: /film/6290/where-to-invade-next
 aliases:
  - /film/6290/where-to-invade-next
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171138-felix-where-to-invade-next.jpg"
 image_caption: >
   Michael Moore takes to the seas, raiding Europe for his latest documentary work.
@@ -22,6 +27,7 @@ image_attribution: " Dog Eat Dog Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

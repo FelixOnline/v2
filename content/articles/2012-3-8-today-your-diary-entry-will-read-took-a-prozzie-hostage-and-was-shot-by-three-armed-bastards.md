@@ -4,15 +4,20 @@ title: >
 subtitle: >
   My name is Alex Drake, I’ve just been shot and that bullet has sent me back to 1981. I may be one second away from life, or one second away from death. All I know is that I have to keep fighting: fight to live, fight to see my daughter, fight to get home.
 date: "2012-03-08 21:32:16 +0000"
+# Attributes from Felix Online V1
 id: "2325"
 old_path: /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
 aliases:
  - /tv/2325/today-your-diary-entry-will-read-took-a-prozzie-hostage-and-was-shot-by-three-armed-bastards
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082131-ams111-a2a.jpg"
 image_caption: >
   Fire up the quattro
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the highs and lows of designer drugs
 date: "2014-11-06 19:41:09 +0000"
+# Attributes from Felix Online V1
 id: "4781"
 old_path: /science/4781/the-lunatics-have-taken-over-the-asylum-
 aliases:
  - /science/4781/the-lunatics-have-taken-over-the-asylum-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062015-snb11-screen-shot-2014-11-06-at-14.21.16-copy.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

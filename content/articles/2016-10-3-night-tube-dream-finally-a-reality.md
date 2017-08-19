@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No, for real this time! Promise!
 date: "2016-10-03 17:02:09 +0100"
+# Attributes from Felix Online V1
 id: "6301"
 old_path: /news/6301/night-tube-dream-finally-a-reality
 aliases:
  - /news/6301/night-tube-dream-finally-a-reality
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610031901-felix-freethenight.jpg"
 image_caption: >
   The night is free, just like your social calendar
@@ -22,6 +27,7 @@ image_attribution: "TFL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

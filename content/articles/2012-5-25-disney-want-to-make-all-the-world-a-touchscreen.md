@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's a flat world after all
 date: "2012-05-25 14:20:12 +0100"
+# Attributes from Felix Online V1
 id: "2492"
 old_path: /science/2492/disney-want-to-make-all-the-world-a-touchscreen
 aliases:
  - /science/2492/disney-want-to-make-all-the-world-a-touchscreen
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251519-mc4509-s1.jpg"
 image_caption: >
   Tree or surround sound system?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

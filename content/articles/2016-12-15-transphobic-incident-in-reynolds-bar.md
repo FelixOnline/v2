@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Attempt was made to eject trans student from the toilets
 date: "2016-12-15 23:45:18 +0000"
+# Attributes from Felix Online V1
 id: "6596"
 old_path: /news/6596/transphobic-incident-in-reynolds-bar
 aliases:
  - /news/6596/transphobic-incident-in-reynolds-bar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612152344-felix-gen neutral.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

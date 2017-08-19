@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lecturers to mark papers and exams once more, including those at Imperial
 date: "2014-11-21 13:25:30 +0000"
+# Attributes from Felix Online V1
 id: "4930"
 old_path: /news/4930/marking-boycott-comes-to-an-end
 aliases:
  - /news/4930/marking-boycott-comes-to-an-end
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411211323-ps3110-ucu-pension-placard_web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

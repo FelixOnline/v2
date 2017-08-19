@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Eden explains why Brexit isn’t necessarily the disaster you think it is –especially for Africa
 date: "2016-10-03 18:54:25 +0100"
+# Attributes from Felix Online V1
 id: "6306"
 old_path: /comment/6306/remaining-to-keep-africa-impoverished
 aliases:
  - /comment/6306/remaining-to-keep-africa-impoverished
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610032052-felix-9942718616_71d5fd5921_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "j_bg"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

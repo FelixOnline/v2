@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jawaad Farooq offers his verdict on the reason for Donald’s rise to power
 date: "2016-11-25 13:30:51 +0000"
+# Attributes from Felix Online V1
 id: "6496"
 old_path: /comment/6496/the-trump-effect--is-political-correctness-to-blame-
 aliases:
  - /comment/6496/the-trump-effect--is-political-correctness-to-blame-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251330-felix-Screen Shot 2016-11-25 at 13.30.38.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

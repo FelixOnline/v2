@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robert Wright reports back from their latest contstruction project
 date: "2013-09-29 16:23:31 +0100"
+# Attributes from Felix Online V1
 id: "3789"
 old_path: /features/3789/the-el-salvador-project
 aliases:
  - /features/3789/the-el-salvador-project
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291723-tna08-housefinal.jpg"
 image_caption: >
   Their mums are going to be so angry at how messy their rooms are
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

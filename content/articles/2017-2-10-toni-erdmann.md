@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sight&Sound’s Best Film of 2016, Toni Erdmann follows the attempts of a father attempting to reconnect with his estranged daugher, with a perfect mixture of hilarity and sincerity
 date: "2017-02-10 15:19:14 +0000"
+# Attributes from Felix Online V1
 id: "6760"
 old_path: /film/6760/toni-erdmann
 aliases:
  - /film/6760/toni-erdmann
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101519-felix-Sandra.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Komplizen Film"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

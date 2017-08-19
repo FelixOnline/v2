@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Navid Nabijou helps you to experience the fun of lectures in your own home
 date: "2011-12-01 20:41:12 +0000"
+# Attributes from Felix Online V1
 id: "1874"
 old_path: /arts/1874/diy-whiteboard-station
 aliases:
  - /arts/1874/diy-whiteboard-station
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012039-ams111-hag1.jpg"
 image_caption: >
   The blob at the top is meant to be China. Don’t ask why
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

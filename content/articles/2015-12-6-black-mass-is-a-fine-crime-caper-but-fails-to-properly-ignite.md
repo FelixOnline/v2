@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite great performances from a strong cast, Black Mass doesn't manage to reach true heights
 date: "2015-12-06 14:07:07 +0000"
+# Attributes from Felix Online V1
 id: "5798"
 old_path: /film/5798/black-mass-is-a-fine-crime-caper-but-fails-to-properly-ignite
 aliases:
  - /film/5798/black-mass-is-a-fine-crime-caper-but-fails-to-properly-ignite
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061403-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

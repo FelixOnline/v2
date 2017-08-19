@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sometimes artists we love have characters that we don’t. In our new weekly feature, we examine some of the artists whose antics regularly embarrass their fans. Can we separate the music from the artist? First up is German singer, Nico.
 date: "2016-12-09 15:41:34 +0000"
+# Attributes from Felix Online V1
 id: "6576"
 old_path: /music/6576/problematic-faves--nico-
 aliases:
  - /music/6576/problematic-faves--nico-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091541-felix-Nico1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "GanMed6"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

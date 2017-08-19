@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Navid Nabijou profiles the controversial director and his latest work, Inglourious Basterds
 date: "2010-11-25 19:56:32 +0000"
+# Attributes from Felix Online V1
 id: "423"
 old_path: /film/423/quentin-tarantino-style-over-substance
 aliases:
  - /film/423/quentin-tarantino-style-over-substance
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

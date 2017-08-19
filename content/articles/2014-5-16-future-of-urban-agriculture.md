@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Food looks where else our lettuce could come from
 date: "2014-05-16 02:11:25 +0100"
+# Attributes from Felix Online V1
 id: "4604"
 old_path: /food/4604/future-of-urban-agriculture
 aliases:
  - /food/4604/future-of-urban-agriculture
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160312-jal08-food_underground.jpg"
 image_caption: >
   London’s underground farm looking a bit purple
@@ -22,6 +27,7 @@ image_attribution: "wired.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

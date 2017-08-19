@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mary Anning discovered its fossilised remains in 1810
 date: "2016-03-11 11:36:09 +0000"
+# Attributes from Felix Online V1
 id: "6025"
 old_path: /science/6025/who-really-killed-the-ichthyosaur
 aliases:
  - /science/6025/who-really-killed-the-ichthyosaur
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111135-felix-Harpoceras_&_Ichtyosaure_(p).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eyes of a killer
 date: "2016-11-25 14:01:20 +0000"
+# Attributes from Felix Online V1
 id: "6506"
 old_path: /film/6506/i-olga-hepnarov
 aliases:
  - /film/6506/i-olga-hepnarov
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251400-felix-Michalina_Olszanska_3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Media Brigade"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

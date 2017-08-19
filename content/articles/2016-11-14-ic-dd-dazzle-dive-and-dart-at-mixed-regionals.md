@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Although nerve-racking at times, the team were able to pull out a win
 date: "2016-11-14 14:19:25 +0000"
+# Attributes from Felix Online V1
 id: "6448"
 old_path: /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
 aliases:
  - /sport/6448/ic-dd-dazzle-dive-and-dart-at-mixed-regionals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141419-felix-and it was all yellow - smiles all round.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

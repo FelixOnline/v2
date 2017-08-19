@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Brand new team strikes gold in latest competition
 date: "2012-03-15 22:19:26 +0000"
+# Attributes from Felix Online V1
 id: "2397"
 old_path: /sport/2397/first-ever-imperial-all-ladies-bowling-team
 aliases:
  - /sport/2397/first-ever-imperial-all-ladies-bowling-team
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "A team victorious"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

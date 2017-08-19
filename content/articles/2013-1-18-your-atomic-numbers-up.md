@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pavitar Singh Devgon talks about the new clock that has got the masses into a frenzy
 date: "2013-01-18 00:21:16 +0000"
+# Attributes from Felix Online V1
 id: "3130"
 old_path: /science/3130/your-atomic-numbers-up
 aliases:
  - /science/3130/your-atomic-numbers-up
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180021-tna08-the_persistence_of_memory_-_1931_salvador_dali.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

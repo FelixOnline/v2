@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park patrols the cinema, and finds a gem in End of Watch
 date: "2012-11-23 00:35:55 +0000"
+# Attributes from Felix Online V1
 id: "2974"
 old_path: /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
 aliases:
  - /film/2974/i-may-disagree-with-the-law-but-i-will-enforce-it
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211230035-tna08-120923-end-of-watch-600-1348425270.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

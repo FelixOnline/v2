@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Outside the world top 200 but still inside our hearts
 date: "2016-11-18 17:07:45 +0000"
+# Attributes from Felix Online V1
 id: "6488"
 old_path: /sport/6488/top-of-the-peck-ing-order
 aliases:
  - /sport/6488/top-of-the-peck-ing-order
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181707-felix-fencing.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

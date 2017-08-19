@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New season, new ambitions, new kit for IC sports clubs
 date: "2011-10-07 00:57:05 +0100"
+# Attributes from Felix Online V1
 id: "1471"
 old_path: /sport/1471/imperial-captains-gear-up-for-new-season
 aliases:
  - /sport/1471/imperial-captains-gear-up-for-new-season
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110070156-sjw209-52.jpg"
 image_caption: >
   All kitted out: Imperial athletes show off the new college threads in front of Ethos
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

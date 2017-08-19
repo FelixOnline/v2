@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Don Ma despairs at Taste Imperial's blatant disregard for appropriate raisin-yoghurt ratios
 date: "2017-03-17 16:53:23 +0000"
+# Attributes from Felix Online V1
 id: "6906"
 old_path: /comment/6906/taste-imperial-is-a-complete-scam
 aliases:
  - /comment/6906/taste-imperial-is-a-complete-scam
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-9550850672_5144bdc8f9_o (1).jpg"
 image_caption: >
   Get your own raisins. Oh wait.
@@ -22,6 +27,7 @@ image_attribution: "Barney Moss"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

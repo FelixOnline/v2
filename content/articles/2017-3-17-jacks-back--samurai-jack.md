@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time doesn’t heal all wounds
 date: "2017-03-17 17:04:54 +0000"
+# Attributes from Felix Online V1
 id: "6909"
 old_path: /tv/6909/jacks-back--samurai-jack
 aliases:
  - /tv/6909/jacks-back--samurai-jack
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171704-felix-31.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cartoon Network\Adult Swim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

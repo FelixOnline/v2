@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
+# Attributes from Felix Online V1
 id: "6917"
 old_path: /features/6917/esports--imperial-vs-ucl
 aliases:
  - /features/6917/esports--imperial-vs-ucl
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171729-felix-thumbnail_DSC_0008.jpg"
 image_caption: >
   et that APM (actions per minute you noob!) just right
@@ -22,6 +27,7 @@ image_attribution: "Gotta gSaad Ahmed"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

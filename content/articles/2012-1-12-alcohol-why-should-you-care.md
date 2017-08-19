@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Madhura Ghosh and Katy Bettany investigate binge drinking culture
 date: "2012-01-12 21:02:30 +0000"
+# Attributes from Felix Online V1
 id: "1968"
 old_path: /news/1968/alcohol-why-should-you-care
 aliases:
  - /news/1968/alcohol-why-should-you-care
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122115-cac111-fjg-imperial_college-2637.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

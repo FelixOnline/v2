@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland talks to Mendel Kaelen, an Imperial PhD student whose artwork is on display in the GV Art Gallery in London
 date: "2013-12-06 04:17:17 +0000"
+# Attributes from Felix Online V1
 id: "4196"
 old_path: /arts/4196/scientific-sound-art-at-gv-art
 aliases:
  - /arts/4196/scientific-sound-art-at-gv-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

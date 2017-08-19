@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Jeffery's tale of love, music and the Thames
 date: "2011-11-10 21:10:44 +0000"
+# Attributes from Felix Online V1
 id: "1726"
 old_path: /music/1726/a-tramp-and-a-boat
 aliases:
  - /music/1726/a-tramp-and-a-boat
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102109-felix-shoesandsocksoffshoesandtoby-pola.jpg"
 image_caption: >
   Does that title say I’m a tramp?! Is that what people think of me? I never knew...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

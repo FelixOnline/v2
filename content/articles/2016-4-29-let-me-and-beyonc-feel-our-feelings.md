@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
+# Attributes from Felix Online V1
 id: "6094"
 old_path: /comment/6094/let-me-and-beyonc-feel-our-feelings
 aliases:
  - /comment/6094/let-me-and-beyonc-feel-our-feelings
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291111-felix-beyonce-lemonade.jpg"
 image_caption: >
   What’s worse, lookin’ jealous or crazy?
@@ -22,6 +27,7 @@ image_attribution: "Beyoncé"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco on a profoundly excellent read
 date: "2013-04-30 14:49:06 +0100"
+# Attributes from Felix Online V1
 id: "3506"
 old_path: /books/3506/the-fault-in-our-stars
 aliases:
  - /books/3506/the-fault-in-our-stars
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012040-tna08-the-fault-in-our-stars---john-green.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

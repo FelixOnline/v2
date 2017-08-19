@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Incipio Dotties iPhone 3GS case reviewed by Andrew McDonagh
 date: "2010-11-18 20:05:34 +0000"
+# Attributes from Felix Online V1
 id: "382"
 old_path: /tech/382/whats-that-an-isquid
 aliases:
  - /tech/382/whats-that-an-isquid
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182003-ks607-dotties.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

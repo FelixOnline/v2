@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And everyone has mixed feelings
 date: "2016-10-07 16:55:52 +0100"
+# Attributes from Felix Online V1
 id: "6311"
 old_path: /news/6311/five-day-junior-doctor-strike-cancelled
 aliases:
  - /news/6311/five-day-junior-doctor-strike-cancelled
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610071854-felix-8951458366_3db3138084_o.jpg"
 image_caption: >
   Insert evil laugh
@@ -22,6 +27,7 @@ image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

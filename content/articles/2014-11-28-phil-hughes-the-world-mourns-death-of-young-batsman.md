@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle goes back through the pages of Phil Hughes' tragically short career.
 date: "2014-11-28 00:56:14 +0000"
+# Attributes from Felix Online V1
 id: "4970"
 old_path: /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
 aliases:
  - /sport/4970/phil-hughes-the-world-mourns-death-of-young-batsman
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280117-kmw13-199111.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

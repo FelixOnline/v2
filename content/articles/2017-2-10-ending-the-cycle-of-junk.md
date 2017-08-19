@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandra Lim looks at the science behind our cravings, and why it’s easier to stop bingeing than we think
 date: "2017-02-10 14:02:57 +0000"
+# Attributes from Felix Online V1
 id: "6751"
 old_path: /science/6751/ending-the-cycle-of-junk
 aliases:
  - /science/6751/ending-the-cycle-of-junk
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101402-felix-snack-1555512_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

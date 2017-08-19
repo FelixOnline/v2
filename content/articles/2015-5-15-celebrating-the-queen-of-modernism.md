@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng on the ROH’s new ballet, based of Virginia Woolf’s work
 date: "2015-05-15 12:58:42 +0100"
+# Attributes from Felix Online V1
 id: "5541"
 old_path: /arts/5541/celebrating-the-queen-of-modernism
 aliases:
  - /arts/5541/celebrating-the-queen-of-modernism
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151358-cj914-woolf-works-royal-ballet-827-edward-watson,-akane-takada,-tristan-dyer.-©roh,-2015.-photographed-by-tristram-kenton-copy.jpg"
 image_caption: >
   A scene from The Royal Ballet’s Woolf Works
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

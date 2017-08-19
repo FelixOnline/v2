@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maisie Williams is establishing herself on the big screen
 date: "2015-05-08 12:03:29 +0100"
+# Attributes from Felix Online V1
 id: "5506"
 old_path: /film/5506/falling-for-the-falling
 aliases:
  - /film/5506/falling-for-the-falling
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505081309-jyg11-the-falling.jpeg"
 image_caption: >
   Maisie Williams and Florence Pugh in The Falling
@@ -22,6 +27,7 @@ image_attribution: "Carol Morley/Metrodome"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

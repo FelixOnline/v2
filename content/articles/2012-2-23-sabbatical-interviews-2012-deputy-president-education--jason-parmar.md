@@ -4,15 +4,20 @@ title: >
 subtitle: >
   DPE Jason Parmar tackles the calendar highlights and lowlights
 date: "2012-02-23 23:28:59 +0000"
+# Attributes from Felix Online V1
 id: "2266"
 old_path: /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
 aliases:
  - /news/2266/sabbatical-interviews-2012-deputy-president-education--jason-parmar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232326-felix-jasonparmar.jpg"
 image_caption: >
   Deputy President (Education) Jason Parmar
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

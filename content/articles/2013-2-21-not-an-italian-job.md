@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look into an exhibition on the Renaissance and its origins
 date: "2013-02-21 20:52:49 +0000"
+# Attributes from Felix Online V1
 id: "3343"
 old_path: /arts/3343/not-an-italian-job
 aliases:
  - /arts/3343/not-an-italian-job
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

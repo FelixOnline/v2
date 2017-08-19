@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But College wins the day overall with the most wins
 date: "2014-03-17 17:31:39 +0000"
+# Attributes from Felix Online V1
 id: "4486"
 old_path: /news/4486/medics-take-the-jpr-williams-cup-at-varsity
 aliases:
  - /news/4486/medics-take-the-jpr-williams-cup-at-varsity
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

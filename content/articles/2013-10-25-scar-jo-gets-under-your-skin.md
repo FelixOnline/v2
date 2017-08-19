@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles on Scarlett Johansson's latest film
 date: "2013-10-25 00:42:40 +0100"
+# Attributes from Felix Online V1
 id: "3935"
 old_path: /film/3935/scar-jo-gets-under-your-skin
 aliases:
  - /film/3935/scar-jo-gets-under-your-skin
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250142-felix-under-the-skin-scarlett-johansson-movie-2013-jonathan-glazer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yorgos Lanthimos’ latest gem is a postmodern love story with deadly claws
 date: "2015-10-16 15:09:17 +0100"
+# Attributes from Felix Online V1
 id: "5661"
 old_path: /film/5661/the-lobster--a-new-breed-of-romance
 aliases:
  - /film/5661/the-lobster--a-new-breed-of-romance
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161609-ygr12-the_lobster_posters-xlarge.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

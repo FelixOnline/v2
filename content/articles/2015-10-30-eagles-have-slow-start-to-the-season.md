@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s handball team started with four defeats, but were able to provide beginners with their first experience in the sport
 date: "2015-10-30 15:08:43 +0000"
+# Attributes from Felix Online V1
 id: "5692"
 old_path: /sport/5692/eagles-have-slow-start-to-the-season
 aliases:
  - /sport/5692/eagles-have-slow-start-to-the-season
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301507-ygr12-12168795_10204973576569214_583057801_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial Eagles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

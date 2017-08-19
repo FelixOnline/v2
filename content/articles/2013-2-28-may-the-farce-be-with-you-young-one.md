@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope reviews a farce with a space age spin
 date: "2013-02-28 23:38:10 +0000"
+# Attributes from Felix Online V1
 id: "3391"
 old_path: /arts/3391/may-the-farce-be-with-you-young-one
 aliases:
  - /arts/3391/may-the-farce-be-with-you-young-one
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282337-tna08-good1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "© Ben Fry"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

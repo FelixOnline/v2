@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gilmore Girls is a well-loved multi-generational drama set in a picturesque Connecticut town. Its original run was a cultural touchstone, and its popularity made it an ideal candidate for Netflix’s recent revival spree. How does the revival compare?
 date: "2016-12-02 15:04:54 +0000"
+# Attributes from Felix Online V1
 id: "6539"
 old_path: /tv/6539/a-return-to-stars-hollow--gilmore-girls-
 aliases:
  - /tv/6539/a-return-to-stars-hollow--gilmore-girls-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021504-felix-landscape-1454107170-gilmore2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The CW \ Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As an intelligent species, we should recognise that eating meat is not natural
 date: "2016-02-05 11:54:22 +0000"
+# Attributes from Felix Online V1
 id: "5865"
 old_path: /comment/5865/the-greatest-crime-in-human-history
 aliases:
  - /comment/5865/the-greatest-crime-in-human-history
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051153-felix-cow.jpg"
 image_caption: >
   Dairy cattle are raised in painful conditions.
@@ -22,6 +27,7 @@ image_attribution: "thedodo.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

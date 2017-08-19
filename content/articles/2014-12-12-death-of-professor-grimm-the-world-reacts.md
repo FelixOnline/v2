@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
+# Attributes from Felix Online V1
 id: "5048"
 old_path: /news/5048/death-of-professor-grimm-the-world-reacts
 aliases:
  - /news/5048/death-of-professor-grimm-the-world-reacts
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

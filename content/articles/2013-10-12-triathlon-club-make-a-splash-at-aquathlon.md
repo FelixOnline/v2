@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Ellis documents TriClub’s trials on land, buses, and water in an epic battle against their competitors
 date: "2013-10-12 20:20:35 +0100"
+# Attributes from Felix Online V1
 id: "3867"
 old_path: /sport/3867/triathlon-club-make-a-splash-at-aquathlon
 aliases:
  - /sport/3867/triathlon-club-make-a-splash-at-aquathlon
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122120-jal08-spot_aquathlon.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

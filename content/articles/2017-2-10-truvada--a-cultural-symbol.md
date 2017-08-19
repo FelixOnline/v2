@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One Truvada pill a day keeps the doctor away
 date: "2017-02-10 14:18:24 +0000"
+# Attributes from Felix Online V1
 id: "6756"
 old_path: /millennials/6756/truvada--a-cultural-symbol
 aliases:
  - /millennials/6756/truvada--a-cultural-symbol
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101510-felix-Screen Shot 2017-02-10 at 14.17.47.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

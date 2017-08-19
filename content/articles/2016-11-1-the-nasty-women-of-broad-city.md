@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They're not likable, they're not strong and independent, they're real
 date: "2016-11-01 00:02:00 +0000"
+# Attributes from Felix Online V1
 id: "6375"
 old_path: /tv/6375/the-nasty-women-of-broad-city
 aliases:
  - /tv/6375/the-nasty-women-of-broad-city
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611010001-felix-broad-city_abbi-jacobson-ilana-glazer-photocredit_lane-savage.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lane Savage // Comedy Central"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

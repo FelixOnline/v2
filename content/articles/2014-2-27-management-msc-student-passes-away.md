@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Miss Tianlin Wang a 2013-14 Management MSc student was found dead last week.
 date: "2014-02-27 16:50:15 +0000"
+# Attributes from Felix Online V1
 id: "4439"
 old_path: /news/4439/management-msc-student-passes-away
 aliases:
  - /news/4439/management-msc-student-passes-away
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

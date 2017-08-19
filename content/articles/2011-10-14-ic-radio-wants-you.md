@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aislinn Hayes tunes in as new Station Manager
 date: "2011-10-14 00:03:01 +0100"
+# Attributes from Felix Online V1
 id: "1531"
 old_path: /music/1531/ic-radio-wants-you
 aliases:
  - /music/1531/ic-radio-wants-you
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140100-felix-screen-shot-2011-10-12-at-13.43.41.png"
 image_caption: >
   Now in Technicolour! IC Radio keeping current in 1986
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

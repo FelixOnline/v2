@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Homework is one of the less racy nights held at BGWMC, making for an ideal, gentle midweek night out
 date: "2010-11-11 20:12:07 +0000"
+# Attributes from Felix Online V1
 id: "331"
 old_path: /arts/331/homework-at-bethnal-green-working-mens-club
 aliases:
  - /arts/331/homework-at-bethnal-green-working-mens-club
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

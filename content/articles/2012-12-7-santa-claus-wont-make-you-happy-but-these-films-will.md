@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Christmas season is my favourite time of year, but if you're anything like me, all the grinchy people around can make it hard to get in the mood. We've come up with a film for every day of Advent – call it an early Christmas present...
 date: "2012-12-07 15:06:18 +0000"
+# Attributes from Felix Online V1
 id: "3074"
 old_path: /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
 aliases:
  - /film/3074/santa-claus-wont-make-you-happy-but-these-films-will
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

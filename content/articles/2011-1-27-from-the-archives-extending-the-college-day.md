@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The last time students tried to stop Imperial extending academic hours they had little success, will history repeat itself?
 date: "2011-01-27 17:55:55 +0000"
+# Attributes from Felix Online V1
 id: "648"
 old_path: /news/648/from-the-archives-extending-the-college-day
 aliases:
  - /news/648/from-the-archives-extending-the-college-day
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All this plus a parking space, presumably
 date: "2016-06-03 09:06:56 +0100"
+# Attributes from Felix Online V1
 id: "6232"
 old_path: /features/6232/how-much-does-the-rector-get-paid
 aliases:
  - /features/6232/how-much-does-the-rector-get-paid
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031105-felix-MATTIN.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
+# Attributes from Felix Online V1
 id: "5559"
 old_path: /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
 aliases:
  - /news/5559/homeless-book-critic-evicted-from-alley-by-police-near-parsons-green
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505221207-cj914-homeless-mcgee.jpg"
 image_caption: >
   Mark Burns has been warned to move on from his regular reading spot or face jail time.
@@ -22,6 +27,7 @@ image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

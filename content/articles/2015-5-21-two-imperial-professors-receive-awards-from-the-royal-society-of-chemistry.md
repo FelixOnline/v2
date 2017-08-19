@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
+# Attributes from Felix Online V1
 id: "5549"
 old_path: /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
 aliases:
  - /news/5549/two-imperial-professors-receive-awards-from-the-royal-society-of-chemistry
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212114-kmw13-rsc-prof.jpeg"
 image_caption: >
   Professor Kazarian with his team
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anum Farooq takes a positive view of life
 date: "2013-01-31 23:37:43 +0000"
+# Attributes from Felix Online V1
 id: "3212"
 old_path: /comment/3212/over-analysing---an-imperial-tradition
 aliases:
  - /comment/3212/over-analysing---an-imperial-tradition
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312337-tna08-untitled-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The low turnout at the recent PCC elections is a bad sign
 date: "2012-11-23 00:03:43 +0000"
+# Attributes from Felix Online V1
 id: "2957"
 old_path: /comment/2957/moar-elections
 aliases:
  - /comment/2957/moar-elections
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211230003-tna08-p16_18davidcameron05.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

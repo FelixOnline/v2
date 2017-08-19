@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Assured defiance from Savages' second album
 date: "2016-01-29 09:37:49 +0000"
+# Attributes from Felix Online V1
 id: "5851"
 old_path: /music/5851/is-it-human-to-adore-life-
 aliases:
  - /music/5851/is-it-human-to-adore-life-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290936-felix-adorelife.jpeg"
 image_caption: >
   Defiant.
@@ -22,6 +27,7 @@ image_attribution: "Matador"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

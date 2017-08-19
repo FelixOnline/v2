@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rocío Molina Atienza asks whether this high-class freak show is more than the art of drawing crowds
 date: "2011-03-18 08:39:40 +0000"
+# Attributes from Felix Online V1
 id: "1114"
 old_path: /arts/1114/tate-moderns-blockbuster-orozco-
 aliases:
  - /arts/1114/tate-moderns-blockbuster-orozco-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103180838-ks607-blackkit.jpg"
 image_caption: >
   Black Kites (1997)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

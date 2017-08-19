@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John McDonnell was on campus last week
 date: "2015-11-27 11:49:29 +0000"
+# Attributes from Felix Online V1
 id: "5771"
 old_path: /news/5771/shadow-chancellor-praises-imperial-on-visit
 aliases:
  - /news/5771/shadow-chancellor-praises-imperial-on-visit
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271149-ygr12-sc3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

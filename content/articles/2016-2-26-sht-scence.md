@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thin penguins waddle, but fat penguins wobble
 date: "2016-02-26 11:36:14 +0000"
+# Attributes from Felix Online V1
 id: "5964"
 old_path: /science/5964/sht-scence
 aliases:
  - /science/5964/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261135-felix-5586851206_24e45dca5f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Liam Quinn"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Top research powerhouses form new consortium
 date: "2013-05-16 20:41:29 +0100"
+# Attributes from Felix Online V1
 id: "3590"
 old_path: /news/3590/imperial-finds-partners
 aliases:
  - /news/3590/imperial-finds-partners
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162141-tna08-quad6may08_08.jpeg"
 image_caption: >
   Yeah, they've partnered with UCL for something. Dragging ourselves down BIG TIME
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken considers the pros and cons of changing our voting system
 date: "2015-05-30 09:43:43 +0100"
+# Attributes from Felix Online V1
 id: "5592"
 old_path: /politics/5592/do-we-need-electoral-reform
 aliases:
  - /politics/5592/do-we-need-electoral-reform
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
 image_caption: >
   Is the alternative voting system better for our democracy?
@@ -22,6 +27,7 @@ image_attribution: "ChatPolitics"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah tries to not look like a hipster as he reviews a slightly obscure show
 date: "2011-12-01 20:29:58 +0000"
+# Attributes from Felix Online V1
 id: "1871"
 old_path: /tv/1871/louie-like-seinfeld-but-with-swearing
 aliases:
  - /tv/1871/louie-like-seinfeld-but-with-swearing
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012029-pk1811-tumblr_lpsnb208td1qcbt4so1_1280.jpg"
 image_caption: >
   Well, he’s only human
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

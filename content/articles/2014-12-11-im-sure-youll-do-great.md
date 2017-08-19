@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chanon Wongsatayanont has 5 tips for coping with exam stress
 date: "2014-12-11 21:29:38 +0000"
+# Attributes from Felix Online V1
 id: "5041"
 old_path: /welfare/5041/im-sure-youll-do-great
 aliases:
  - /welfare/5041/im-sure-youll-do-great
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112129-cj914-exams1.jpg"
 image_caption: >
   If only we were all taking whatever exam this person was revising for. Granted, subtraction can alwa
@@ -22,6 +27,7 @@ image_attribution: "GettyImages"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

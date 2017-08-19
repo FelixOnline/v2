@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Live lectures and online videos to explore science, design and innovation
 date: "2012-02-03 00:23:17 +0000"
+# Attributes from Felix Online V1
 id: "2120"
 old_path: /news/2120/first-ever-tedx-conference-comes-to-imperial
 aliases:
  - /news/2120/first-ever-tedx-conference-comes-to-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film take the plunge into romantic vomfests
 date: "2013-02-28 23:25:11 +0000"
+# Attributes from Felix Online V1
 id: "3386"
 old_path: /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
 aliases:
  - /film/3386/nicholas-sparks-vom-inducing-one-trick-pony-spoiler-alert
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282325-tna08-eel9f0av-awalktoremember_635x400.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

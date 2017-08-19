@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This was an amazing start to the season, lets hope they can keep it going!
 date: "2012-11-01 23:13:37 +0000"
+# Attributes from Felix Online V1
 id: "2817"
 old_path: /sport/2817/icsm-netballs-storming-start-to-the-season-
 aliases:
  - /sport/2817/icsm-netballs-storming-start-to-the-season-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

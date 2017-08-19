@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Next week Marianne Teoh will be undertaking a week of humiliation to raise awareness for charities in Indonesia
 date: "2011-01-20 19:12:30 +0000"
+# Attributes from Felix Online V1
 id: "600"
 old_path: /travel/600/big-croc-on-campus-
 aliases:
  - /travel/600/big-croc-on-campus-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201910-ks607-policepo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cr709"
 author_name: "Christopher Richardson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

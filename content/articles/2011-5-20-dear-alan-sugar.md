@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An open letter from Charles Betts about The Apprentice
 date: "2011-05-20 04:29:05 +0100"
+# Attributes from Felix Online V1
 id: "1217"
 old_path: /tv/1217/dear-alan-sugar
 aliases:
  - /tv/1217/dear-alan-sugar
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

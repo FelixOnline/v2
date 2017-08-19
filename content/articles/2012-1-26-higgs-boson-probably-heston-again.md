@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Betts eventually uncovers the joy of Heston
 date: "2012-01-26 22:51:48 +0000"
+# Attributes from Felix Online V1
 id: "2070"
 old_path: /comment/2070/higgs-boson-probably-heston-again
 aliases:
  - /comment/2070/higgs-boson-probably-heston-again
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262249-felix-heston.jpg"
 image_caption: >
   NO, LEFT THE CHIPS IN THE OVEN FOR 10ns TOO LONG. WHY ALWAYS ME?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

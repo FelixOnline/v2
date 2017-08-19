@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New exhibitions at the National Gallery and Royal Academy of Arts joins with the Felix Music Night in the capital's latest cultural expeditions.
 date: "2011-11-10 21:39:07 +0000"
+# Attributes from Felix Online V1
 id: "1734"
 old_path: /arts/1734/cant-be-artsed-will-and-eva-consider
 aliases:
  - /arts/1734/cant-be-artsed-will-and-eva-consider
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102139-pk1811-ladywithermine.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Fulham reviews the highlights and lowlights of the series so far
 date: "2014-05-02 01:58:20 +0100"
+# Attributes from Felix Online V1
 id: "4558"
 old_path: /tv/4558/game-of-thrones-returns
 aliases:
  - /tv/4558/game-of-thrones-returns
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020258-jal08-joffrey2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

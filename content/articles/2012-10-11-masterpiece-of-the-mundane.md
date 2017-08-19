@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Franzen is an arse, but damn, he's a good writer
 date: "2012-10-11 20:30:11 +0100"
+# Attributes from Felix Online V1
 id: "2645"
 old_path: /books/2645/masterpiece-of-the-mundane-
 aliases:
  - /books/2645/masterpiece-of-the-mundane-
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112130-felix-jonathan-franzen-freedom.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

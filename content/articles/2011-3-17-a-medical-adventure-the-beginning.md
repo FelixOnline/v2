@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Furse recounts his long journey from an aching foot to the MRI machine
 date: "2011-03-17 20:34:47 +0000"
+# Attributes from Felix Online V1
 id: "1093"
 old_path: /science/1093/a-medical-adventure-the-beginning
 aliases:
  - /science/1093/a-medical-adventure-the-beginning
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172032-mc4509-zoom-upper-view11.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

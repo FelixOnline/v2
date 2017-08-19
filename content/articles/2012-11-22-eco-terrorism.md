@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the rise of a new threat
 date: "2012-11-22 23:22:21 +0000"
+# Attributes from Felix Online V1
 id: "2948"
 old_path: /politics/2948/eco-terrorism
 aliases:
  - /politics/2948/eco-terrorism
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

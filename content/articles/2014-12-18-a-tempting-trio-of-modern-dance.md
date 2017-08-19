@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jiaqi Shi is entranced by the Royal Opera House's triple bill of dancing delights
 date: "2014-12-18 15:54:59 +0000"
+# Attributes from Felix Online V1
 id: "5064"
 old_path: /arts/5064/a-tempting-trio-of-modern-dance
 aliases:
  - /arts/5064/a-tempting-trio-of-modern-dance
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

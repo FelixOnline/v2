@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le heads west, clinging to the festival dream
 date: "2012-12-07 03:35:53 +0000"
+# Attributes from Felix Online V1
 id: "3064"
 old_path: /music/3064/fear-of-fiction-festival
 aliases:
  - /music/3064/fear-of-fiction-festival
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

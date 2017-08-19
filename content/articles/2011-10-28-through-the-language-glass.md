@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Language may just have more of an effect on how you behave than you originally thought
 date: "2011-10-28 00:09:43 +0100"
+# Attributes from Felix Online V1
 id: "1626"
 old_path: /science/1626/through-the-language-glass
 aliases:
  - /science/1626/through-the-language-glass
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280106-felix-cuba-trinidad-caribbean-sea-playa-ancon-clear-water-fish-1-my.jpg"
 image_caption: >
   Ancient Greeks called the sea “black” because they had no word for blue
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

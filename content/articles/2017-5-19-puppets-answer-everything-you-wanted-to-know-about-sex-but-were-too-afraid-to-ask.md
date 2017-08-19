@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sex and Puppets will be at the Brainchild and Shambala Festival, summer 2017. National tour announced later.
 date: "2017-05-19 15:07:29 +0100"
+# Attributes from Felix Online V1
 id: "6976"
 old_path: /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
 aliases:
  - /arts/6976/puppets-answer-everything-you-wanted-to-know-about-sex-but-were-too-afraid-to-ask
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705191707-felix-18518630_1209345525840680_1370785209_n.jpg"
 image_caption: >
   Acts in Sex and Puppets
@@ -22,6 +27,7 @@ image_attribution: "Edie Edmundson,Wondering Hands"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

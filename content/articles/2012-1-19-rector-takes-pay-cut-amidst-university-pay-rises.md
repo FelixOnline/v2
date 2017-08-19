@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Average pay rise of £10,000 for university leaders
 date: "2012-01-19 23:03:29 +0000"
+# Attributes from Felix Online V1
 id: "2036"
 old_path: /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
 aliases:
  - /news/2036/rector-takes-pay-cut-amidst-university-pay-rises
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

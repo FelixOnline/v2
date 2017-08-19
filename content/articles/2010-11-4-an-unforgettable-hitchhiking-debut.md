@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Karolina Mazan recalls her treasured memories of aimlessly hopping from car to car across mainland Europe, armed with nothing but a tiny backpack and a loyal sidekick to keep her thoroughly entertained.
 date: "2010-11-04 18:34:16 +0000"
+# Attributes from Felix Online V1
 id: "301"
 old_path: /travel/301/an-unforgettable-hitchhiking-debut
 aliases:
  - /travel/301/an-unforgettable-hitchhiking-debut
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

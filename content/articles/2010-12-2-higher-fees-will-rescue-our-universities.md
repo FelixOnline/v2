@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Every other sector faces wage-freezes, mass redundancies or unemployment
 date: "2010-12-02 21:39:27 +0000"
+# Attributes from Felix Online V1
 id: "493"
 old_path: /comment/493/higher-fees-will-rescue-our-universities
 aliases:
  - /comment/493/higher-fees-will-rescue-our-universities
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lmh07"
 author_name: "Laura Huckins"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

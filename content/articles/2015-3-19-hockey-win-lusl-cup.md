@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hockey celebrate another success
 date: "2015-03-19 23:58:27 +0000"
+# Attributes from Felix Online V1
 id: "5414"
 old_path: /sport/5414/hockey-win-lusl-cup
 aliases:
  - /sport/5414/hockey-win-lusl-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192358-kmw13-p3140416%20%282%29.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Hockey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

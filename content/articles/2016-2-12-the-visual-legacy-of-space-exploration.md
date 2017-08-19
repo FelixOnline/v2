@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Benson’s photographic journey of the solar system shines at the NHM
 date: "2016-02-12 11:37:08 +0000"
+# Attributes from Felix Online V1
 id: "5907"
 old_path: /arts/5907/the-visual-legacy-of-space-exploration
 aliases:
  - /arts/5907/the-visual-legacy-of-space-exploration
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121136-felix-1..jpg"
 image_caption: >
   Saturn, dark side of the rings.
@@ -22,6 +27,7 @@ image_attribution: "NASA/JPL/Michael Benson, Kinetikon Pictures, courtesy of Flo
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

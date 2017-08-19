@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game.
 date: "2014-03-11 18:18:00 +0000"
+# Attributes from Felix Online V1
 id: "4482"
 old_path: /games/4482/bringing-the-creed-to-your-door
 aliases:
  - /games/4482/bringing-the-creed-to-your-door
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403111816-me1711-games_ac4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

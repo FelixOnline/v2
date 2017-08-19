@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You feeling the post Valentine's blues yet
 date: "2017-02-17 15:59:30 +0000"
+# Attributes from Felix Online V1
 id: "6799"
 old_path: /features/6799/love-is-the-drug-you-cant-get-enough-of
 aliases:
  - /features/6799/love-is-the-drug-you-cant-get-enough-of
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171559-felix-Screen Shot 2017-02-17 at 15.59.15.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

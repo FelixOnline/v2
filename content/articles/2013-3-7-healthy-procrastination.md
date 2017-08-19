@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why snacking isn't so bad for you
 date: "2013-03-07 21:42:13 +0000"
+# Attributes from Felix Online V1
 id: "3429"
 old_path: /food/3429/healthy-procrastination
 aliases:
  - /food/3429/healthy-procrastination
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072137-sjw209-snacks.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

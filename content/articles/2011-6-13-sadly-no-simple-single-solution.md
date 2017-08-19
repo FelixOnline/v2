@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In September 2010 members of the IC Palestinian Society travelled in the West Bank and took part in voluntary programs at Al-Najah University and Askar refugee camp.
 date: "2011-06-13 13:28:57 +0100"
+# Attributes from Felix Online V1
 id: "1372"
 old_path: /politics/1372/sadly-no-simple-single-solution
 aliases:
  - /politics/1372/sadly-no-simple-single-solution
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

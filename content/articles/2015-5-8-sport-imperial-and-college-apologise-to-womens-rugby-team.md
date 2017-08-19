@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Investigation reveals “clear failings” during Varsity, Philippa Skett reports
 date: "2015-05-08 00:29:59 +0100"
+# Attributes from Felix Online V1
 id: "5503"
 old_path: /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
 aliases:
  - /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505080129-ps3110-screen-shot-2015-05-08-at-01.29.26.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester/ throughbenslens.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

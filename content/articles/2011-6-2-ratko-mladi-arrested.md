@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But he’ll never face true justice at the Hague argues Naida Dzigal
 date: "2011-06-02 19:09:31 +0100"
+# Attributes from Felix Online V1
 id: "1303"
 old_path: /politics/1303/ratko-mladi-arrested
 aliases:
  - /politics/1303/ratko-mladi-arrested
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022009-felix-radko-mladic_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

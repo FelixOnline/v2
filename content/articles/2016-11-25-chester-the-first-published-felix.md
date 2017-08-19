@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If a cat can do it, you can too
 date: "2016-11-25 13:37:58 +0000"
+# Attributes from Felix Online V1
 id: "6501"
 old_path: /science/6501/chester-the-first-published-felix
 aliases:
  - /science/6501/chester-the-first-published-felix
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251337-felix-cat-1826788_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

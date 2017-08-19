@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Demands are made as medics let down their guard
 date: "2011-10-07 00:08:00 +0100"
+# Attributes from Felix Online V1
 id: "1468"
 old_path: /news/1468/stolen-medic-mascot-scandal
 aliases:
  - /news/1468/stolen-medic-mascot-scandal
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071538-felix-img_5902.jpg"
 image_caption: >
   ICSMSU President Suzie Rayner (right) outside the RCSU office
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

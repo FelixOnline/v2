@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robert Treasure discusses how fruit flies use alcohol as a defensive tactic
 date: "2012-03-01 21:31:37 +0000"
+# Attributes from Felix Online V1
 id: "2276"
 old_path: /science/2276/hair-of-the-bug
 aliases:
  - /science/2276/hair-of-the-bug
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

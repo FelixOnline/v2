@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With a quickfire script and powerful acting, this is the biopic we’ve been waiting for
 date: "2015-11-20 09:13:51 +0000"
+# Attributes from Felix Online V1
 id: "5750"
 old_path: /film/5750/danny-boyle-does-the-job
 aliases:
  - /film/5750/danny-boyle-does-the-job
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200913-ygr12-screen-shot-2015-05-18-at-07.31.11.jpg"
 image_caption: >
   Michael Fassbender as the dictatorial genius in a turtleneck, in Danny Boyle’s Steve Jobs.
@@ -22,6 +27,7 @@ image_attribution: "Universal Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

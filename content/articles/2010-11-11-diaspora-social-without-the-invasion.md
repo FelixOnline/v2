@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
+# Attributes from Felix Online V1
 id: "338"
 old_path: /tech/338/diaspora-social-without-the-invasion
 aliases:
  - /tech/338/diaspora-social-without-the-invasion
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112030-ks607-diaspora.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

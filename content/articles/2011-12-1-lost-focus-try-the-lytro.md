@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three lenses make for a smarter picture
 date: "2011-12-01 19:34:40 +0000"
+# Attributes from Felix Online V1
 id: "1856"
 old_path: /tech/1856/lost-focus-try-the-lytro
 aliases:
  - /tech/1856/lost-focus-try-the-lytro
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

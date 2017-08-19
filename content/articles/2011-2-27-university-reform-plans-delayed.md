@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Confusion as government believed it could legally prevent universities charging £9,000
 date: "2011-02-27 12:00:55 +0000"
+# Attributes from Felix Online V1
 id: "897"
 old_path: /news/897/university-reform-plans-delayed
 aliases:
  - /news/897/university-reform-plans-delayed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

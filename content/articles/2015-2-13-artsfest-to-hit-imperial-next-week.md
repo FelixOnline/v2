@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan McNaught on the biggest Arts Event on the Union's calendar.
 date: "2015-02-13 14:36:54 +0000"
+# Attributes from Felix Online V1
 id: "5252"
 old_path: /cands/5252/artsfest-to-hit-imperial-next-week
 aliases:
  - /cands/5252/artsfest-to-hit-imperial-next-week
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131436-bwh12-8489844811_41d871f599_o.jpg"
 image_caption: >
   IC Big Band’s performance from the Queen’s Tower has featured in every Artsfest so far.
@@ -22,6 +27,7 @@ image_attribution: "Daniel Elson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

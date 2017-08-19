@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman gets ready for the next batch of blockbusters
 date: "2015-06-18 20:28:14 +0100"
+# Attributes from Felix Online V1
 id: "5633"
 old_path: /film/5633/summer-of-cinema
 aliases:
  - /film/5633/summer-of-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182124-jyg11-inside-out.jpg"
 image_caption: >
   The only caption I could think of was ‘toasty’. You try doing better.
@@ -22,6 +27,7 @@ image_attribution: "Disney/Pixar/Pete Docter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

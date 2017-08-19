@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two of the five Evelyn Gardens halls will house Imperial students this year
 date: "2015-08-29 16:33:47 +0100"
+# Attributes from Felix Online V1
 id: "5649"
 old_path: /news/5649/college-u-turn-on-evelyn-gardens
 aliases:
  - /news/5649/college-u-turn-on-evelyn-gardens
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201508291730-ygr12-evelyn-gardens.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

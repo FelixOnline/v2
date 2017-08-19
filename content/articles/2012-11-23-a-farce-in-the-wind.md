@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christopher Hong strongly recommends The Magistrate
 date: "2012-11-23 00:15:48 +0000"
+# Attributes from Felix Online V1
 id: "2965"
 old_path: /arts/2965/a-farce-in-the-wind
 aliases:
  - /arts/2965/a-farce-in-the-wind
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

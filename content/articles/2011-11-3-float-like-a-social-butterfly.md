@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How your online presence may relate to your real life presence
 date: "2011-11-03 21:43:31 +0000"
+# Attributes from Felix Online V1
 id: "1692"
 old_path: /comment/1692/float-like-a-social-butterfly
 aliases:
  - /comment/1692/float-like-a-social-butterfly
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

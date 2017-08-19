@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent
 date: "2012-03-15 19:44:43 +0000"
+# Attributes from Felix Online V1
 id: "2347"
 old_path: /politics/2347/like-geldof-mixed-with-bush
 aliases:
  - /politics/2347/like-geldof-mixed-with-bush
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
 image_caption: >
   Africa finally gets what its always needed: a bunch of trigger-happy white American students
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There’s something strange about the way we treat emotions; they have become products to be bought and sold. It was crazy American Pentecostal Christianity that first got me thinking about this.
 date: "2014-04-07 13:00:22 +0100"
+# Attributes from Felix Online V1
 id: "4528"
 old_path: /comment/4528/hating-headlines-that-tell-you-how-to-feel
 aliases:
  - /comment/4528/hating-headlines-that-tell-you-how-to-feel
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

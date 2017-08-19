@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Daquise Restaurant: A South Kensington gem
 date: "2011-02-24 19:39:07 +0000"
+# Attributes from Felix Online V1
 id: "864"
 old_path: /food/864/-gessler-at-daquise
 aliases:
  - /food/864/-gessler-at-daquise
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241934-nm1010-gesslerg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Iceman review
 date: "2013-06-13 23:32:13 +0100"
+# Attributes from Felix Online V1
 id: "3693"
 old_path: /film/3693/ice-ice-baby
 aliases:
  - /film/3693/ice-ice-baby
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140031-tna08-the-iceman_02.jpg"
 image_caption: >
   The Apprentice - 1975
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

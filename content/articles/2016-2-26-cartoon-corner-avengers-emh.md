@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-02-26 11:54:48 +0000"
+# Attributes from Felix Online V1
 id: "5975"
 old_path: /tv/5975/cartoon-corner-avengers-emh
 aliases:
  - /tv/5975/cartoon-corner-avengers-emh
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261154-felix-Avengers_(2).jpg"
 image_caption: >
   Assembled we’re strong; together fight as one.
@@ -22,6 +27,7 @@ image_attribution: "Disney XD"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

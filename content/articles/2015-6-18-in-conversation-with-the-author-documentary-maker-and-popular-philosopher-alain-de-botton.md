@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken talks religion, writing, The School of Life, and pornography
 date: "2015-06-18 20:53:58 +0100"
+# Attributes from Felix Online V1
 id: "5634"
 old_path: /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
 aliases:
  - /features/5634/in-conversation-with-the-author-documentary-maker-and-popular-philosopher-alain-de-botton
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182133-jyg11-features-1610.jpg"
 image_caption: >
   “The gap between what we want the world to be and what it is should be filled with laughter.” – Alain de Botton talking at a TEDx Conference in Oxford.
@@ -22,6 +27,7 @@ image_attribution: "FT"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And none of them are from Love Actually
 date: "2016-01-29 09:17:21 +0000"
+# Attributes from Felix Online V1
 id: "5845"
 old_path: /film/5845/the-most-romantic-film-themes-of-all-time
 aliases:
  - /film/5845/the-most-romantic-film-themes-of-all-time
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

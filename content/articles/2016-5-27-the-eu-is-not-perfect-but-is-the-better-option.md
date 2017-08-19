@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Leaving the EU will detriment the UK, Europe, and the world
 date: "2016-05-27 08:48:09 +0100"
+# Attributes from Felix Online V1
 id: "6205"
 old_path: /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
 aliases:
  - /comment/6205/the-eu-is-not-perfect-but-is-the-better-option
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271047-felix-dave & boris.jpg"
 image_caption: >
   We're stuck choosing the lesser of two evils.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A different set of highlights from Sunday's events
 date: "2012-03-01 22:36:20 +0000"
+# Attributes from Felix Online V1
 id: "2288"
 old_path: /film/2288/legs-laughs-and-oscar-highlights
 aliases:
  - /film/2288/legs-laughs-and-oscar-highlights
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012236-ams111-pitt_jolie_oscars_2012.jpg"
 image_caption: >
   Guess who?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

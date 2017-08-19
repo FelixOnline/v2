@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chi_b particle helps researchers better understand the nuclear strong force
 date: "2012-01-12 22:23:12 +0000"
+# Attributes from Felix Online V1
 id: "1982"
 old_path: /science/1982/lhc-finds-its-first-new-particle
 aliases:
  - /science/1982/lhc-finds-its-first-new-particle
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122223-cac111-0511013_01-a4-at-144-dpi.jpg"
 image_caption: >
   The ATLAS detector where the new particle (not pictured) was found
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mario Lepore on a new production of Chekhov's final play
 date: "2014-11-06 21:38:04 +0000"
+# Attributes from Felix Online V1
 id: "4806"
 old_path: /arts/4806/a-twentieth-century-russian-tragedy
 aliases:
  - /arts/4806/a-twentieth-century-russian-tragedy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

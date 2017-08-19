@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl on why No Man’s Sky, Star Citizen and Elite are the future
 date: "2015-01-23 18:24:17 +0000"
+# Attributes from Felix Online V1
 id: "5142"
 old_path: /games/5142/the-next-big-gaming-trend-space-simulations
 aliases:
  - /games/5142/the-next-big-gaming-trend-space-simulations
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231823-jyg11-sc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

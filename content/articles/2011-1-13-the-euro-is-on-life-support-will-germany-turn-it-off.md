@@ -4,15 +4,20 @@ title: >
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
+# Attributes from Felix Online V1
 id: "574"
 old_path: /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
 aliases:
  - /politics/574/the-euro-is-on-life-support-will-germany-turn-it-off-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "TM1510"
 author_name: "Tomokazu Miyamoto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

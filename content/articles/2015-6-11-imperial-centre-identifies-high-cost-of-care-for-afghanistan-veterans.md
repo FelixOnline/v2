@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kent reports on the findings from the Royal British Centre for Blast Injury Studies
 date: "2015-06-11 22:13:54 +0100"
+# Attributes from Felix Online V1
 id: "5611"
 old_path: /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
 aliases:
  - /news/5611/imperial-centre-identifies-high-cost-of-care-for-afghanistan-veterans
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112313-cj914-blast-centre.jpg"
 image_caption: >
   Prince Harry opened the Centre for Blast Injury Studies in 2013.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

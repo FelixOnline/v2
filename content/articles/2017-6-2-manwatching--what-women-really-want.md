@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Manwatching was on at the Royal Court Theatre 10th to 20th May
 date: "2017-06-02 13:19:06 +0100"
+# Attributes from Felix Online V1
 id: "6992"
 old_path: /arts/6992/manwatching--what-women-really-want
 aliases:
  - /arts/6992/manwatching--what-women-really-want
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021518-felix-201705251403-im1413-helenmurray-Manwatching-Royal-Court-1.jpg"
 image_caption: >
   Manwatching- "written by an anonymous woman, performed by a unprepared man"
@@ -22,6 +27,7 @@ image_attribution: "Helen Murray"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

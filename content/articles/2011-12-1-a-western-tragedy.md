@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Albert Nickelby turns his eyes to Europe in an attempt to explain the seismic pressures of the bond markets.
 date: "2011-12-01 19:46:07 +0000"
+# Attributes from Felix Online V1
 id: "1861"
 old_path: /biz/1861/a-western-tragedy
 aliases:
  - /biz/1861/a-western-tragedy
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112011943-pk1811-map.jpg"
 image_caption: >
   A seismic map of Europe produced as part of the Global Seismic Hazard Assessment Project
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

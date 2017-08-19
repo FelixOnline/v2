@@ -4,15 +4,20 @@ title: >
 subtitle: >
   N.U.S. threaten ‘Right to Recall’ as revelations question sincerity of Lib Dem pre-election pledge
 date: "2010-11-18 21:54:18 +0000"
+# Attributes from Felix Online V1
 id: "415"
 old_path: /news/415/further-blow-to-liberal-democrats-credibility-
 aliases:
  - /news/415/further-blow-to-liberal-democrats-credibility-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Win 2x tickets to see Yeasayer &amp; Silver Columns playing on the 19th May (venue to be announced)
 date: "2010-05-17 17:17:36 +0100"
+# Attributes from Felix Online V1
 id: "138"
 old_path: /music/138/competition-time
 aliases:
  - /music/138/competition-time
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

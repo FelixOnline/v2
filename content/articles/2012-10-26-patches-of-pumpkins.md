@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sophia Goldberg on how to bring out your pumpkins’ inner ghouls
 date: "2012-10-26 02:54:25 +0100"
+# Attributes from Felix Online V1
 id: "2760"
 old_path: /food/2760/patches-of-pumpkins
 aliases:
  - /food/2760/patches-of-pumpkins
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210291918-tna08-step1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

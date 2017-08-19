@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Jacobs is let down at the National Theatre’s new production
 date: "2015-03-25 12:58:53 +0000"
+# Attributes from Felix Online V1
 id: "5441"
 old_path: /arts/5441/it-all-could-have-been-so-beautiful
 aliases:
  - /arts/5441/it-all-could-have-been-so-beautiful
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251257-ff712-a-scene-from-behind-the-beautiful-forevers---image-by-richard-hubert-smitha.jpg"
 image_caption: >
   A scene from the National Theatre’s Behind The Beautiful Forevers
@@ -22,6 +27,7 @@ image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

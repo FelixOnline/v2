@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals
 date: "2010-11-18 20:47:32 +0000"
+# Attributes from Felix Online V1
 id: "393"
 old_path: /travel/393/stingy-travelling-git-
 aliases:
  - /travel/393/stingy-travelling-git-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "yll08"
 author_name: "Dylan Lowe"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

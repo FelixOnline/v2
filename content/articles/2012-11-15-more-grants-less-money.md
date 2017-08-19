@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Finally, A Biggie reference in a title...
 date: "2012-11-15 20:56:23 +0000"
+# Attributes from Felix Online V1
 id: "2886"
 old_path: /news/2886/more-grants-less-money
 aliases:
  - /news/2886/more-grants-less-money
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

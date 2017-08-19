@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Campaigners gather in South Kensington
 date: "2017-01-20 14:52:43 +0000"
+# Attributes from Felix Online V1
 id: "6656"
 old_path: /news/6656/vigil-held-at-iranian-embasssy
 aliases:
  - /news/6656/vigil-held-at-iranian-embasssy
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201452-felix-16129638_10211985078284307_220271556_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Simran Kukran"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

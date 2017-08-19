@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pt. O caveat auditor
 date: "2012-10-05 11:33:46 +0100"
+# Attributes from Felix Online V1
 id: "2598"
 old_path: /music/2598/you-dont-have-to-call-it-music-0
 aliases:
  - /music/2598/you-dont-have-to-call-it-music-0
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

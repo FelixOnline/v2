@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-01-29 16:44:02 +0000"
+# Attributes from Felix Online V1
 id: "4308"
 old_path: /games/4308/dayz-stories-episode-1-yannicks-tale
 aliases:
  - /games/4308/dayz-stories-episode-1-yannicks-tale
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401291643-me1711-games_dayz.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

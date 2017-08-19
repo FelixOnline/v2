@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A little exercise really does go a long way: Laurence Pope discusses new research on the effects commuting has on the prevention of diabetes.
 date: "2013-08-06 09:36:49 +0100"
+# Attributes from Felix Online V1
 id: "3747"
 old_path: /science/3747/commute-your-way-to-good-health
 aliases:
  - /science/3747/commute-your-way-to-good-health
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308061054-jal08-arnoldschwarzeneggerarnoldschwarzeneggerh3ha0es9dm2l1.jpg"
 image_caption: >
   Is that Sarah Connor? Off to work you go!
@@ -22,6 +27,7 @@ image_attribution: "http://www.zimbio.com/"
 image_attribution_link: "http://www4.pictures.zimbio.com/bg/Arnold+Schwarzenegger+Boris+Johnson+Arnold+h3hA0ES9dm2x.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

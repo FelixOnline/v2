@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Conchi Hermida Sánchez shares her relationship with food, the starving and the binge-eating, and hopes for a brighter healthier future
 date: "2017-02-24 13:48:26 +0000"
+# Attributes from Felix Online V1
 id: "6812"
 old_path: /comment/6812/my-eating-disorder
 aliases:
  - /comment/6812/my-eating-disorder
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

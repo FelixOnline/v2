@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The question I’m asking is – did they make the difference that they promised?
 date: "2011-06-23 20:54:33 +0100"
+# Attributes from Felix Online V1
 id: "1429"
 old_path: /comment/1429/living-up-to-election-promises
 aliases:
  - /comment/1429/living-up-to-election-promises
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
 image_caption: >
   Next year's Sabb team, will they deliver?
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The lockers on Sherfield Walkway will be available later in the term
 date: "2015-05-14 22:21:20 +0100"
+# Attributes from Felix Online V1
 id: "5520"
 old_path: /news/5520/amazon-soon-to-deliver-to-sherfield
 aliases:
  - /news/5520/amazon-soon-to-deliver-to-sherfield
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142321-cj914-amazon-lockers-cmyk.jpg"
 image_caption: >
   The new lockers on the walkway
@@ -22,6 +27,7 @@ image_attribution: "John Winters"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

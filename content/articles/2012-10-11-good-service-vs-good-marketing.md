@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How you can have a good business model with great marketing
 date: "2012-10-11 20:40:08 +0100"
+# Attributes from Felix Online V1
 id: "2649"
 old_path: /biz/2649/good-service-vs-good-marketing
 aliases:
  - /biz/2649/good-service-vs-good-marketing
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

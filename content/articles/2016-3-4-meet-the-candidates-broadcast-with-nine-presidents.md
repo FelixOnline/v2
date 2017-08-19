@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Meet the freaking 30 candidates.
 date: "2016-03-04 11:28:59 +0000"
+# Attributes from Felix Online V1
 id: "5998"
 old_path: /news/5998/meet-the-candidates-broadcast-with-nine-presidents
 aliases:
  - /news/5998/meet-the-candidates-broadcast-with-nine-presidents
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041128-felix-mtc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: "https://www.youtube.com/watch?v=0A7VZYJ0GB4"
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

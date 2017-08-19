@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems.
 date: "2014-03-24 03:29:38 +0000"
+# Attributes from Felix Online V1
 id: "4493"
 old_path: /news/4493/chemical-engineering-phd-receives-award
 aliases:
  - /news/4493/chemical-engineering-phd-receives-award
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe looks at some great tats
 date: "2013-02-28 23:42:45 +0000"
+# Attributes from Felix Online V1
 id: "3393"
 old_path: /arts/3393/get-your-tats-out
 aliases:
  - /arts/3393/get-your-tats-out
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282342-tna08-tattoo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

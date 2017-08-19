@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Let’s face it, 2016 has been an awful year. To be honest, this section could easily just be ‘The News’. But, the shitiness of reality does not excuse the shitiness of art. So, let’s examine some of the attrocities commited in the name of ‘entertainment’ on the small screen this year.
 date: "2016-12-16 15:09:47 +0000"
+# Attributes from Felix Online V1
 id: "6615"
 old_path: /tv/6615/the-worst-of-tv
 aliases:
  - /tv/6615/the-worst-of-tv
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161507-felix-macgyver1280-2jpg-f9a4dc_1280w.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "CBS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

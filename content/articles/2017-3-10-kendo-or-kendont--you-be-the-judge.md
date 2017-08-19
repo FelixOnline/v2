@@ -4,15 +4,20 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
+# Attributes from Felix Online V1
 id: "6889"
 old_path: /sport/6889/kendo-or-kendont--you-be-the-judge
 aliases:
  - /sport/6889/kendo-or-kendont--you-be-the-judge
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101446-felix-kendo3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

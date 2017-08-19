@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In Brief
 date: "2013-03-15 00:14:08 +0000"
+# Attributes from Felix Online V1
 id: "3459"
 old_path: /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
 aliases:
  - /news/3459/london-based-hedge-fund-donates-20m-to-set-up-research-centre
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

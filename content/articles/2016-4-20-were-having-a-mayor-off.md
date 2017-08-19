@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
+# Attributes from Felix Online V1
 id: "6085"
 old_path: /features/6085/were-having-a-mayor-off
 aliases:
  - /features/6085/were-having-a-mayor-off
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604201547-felix-Screen Shot 2016-04-20 at 15.45.43.png"
 image_caption: >
   *goes to Southall once*
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

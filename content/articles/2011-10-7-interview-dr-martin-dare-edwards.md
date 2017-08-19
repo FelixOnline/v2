@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang bring us the first in a series of monthly interviews with some of the UKs premier industry leaders
 date: "2011-10-07 13:18:58 +0100"
+# Attributes from Felix Online V1
 id: "1498"
 old_path: /news/1498/interview-dr-martin-dare-edwards
 aliases:
  - /news/1498/interview-dr-martin-dare-edwards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071415-felix-miltonhill.jpg"
 image_caption: >
   Milton Hill, the Infineum campus based in Oxfordshire
@@ -22,6 +27,7 @@ image_attribution: "Infineum"
 image_attribution_link: "http://www.infineum.com/PublishingImages/sites/miltonhill.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

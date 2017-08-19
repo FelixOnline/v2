@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “You better watch out. You better not cry. Better not pout, I’m telling you why: Santa Claus is coming to town. He’s making a list, checking it twice. He’s gonna find out who’s naughty or nice. Santa Claus is coming to town!”
 date: "2013-12-02 21:46:35 +0000"
+# Attributes from Felix Online V1
 id: "4153"
 old_path: /comment/4153/on-the-naughty-list
 aliases:
  - /comment/4153/on-the-naughty-list
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

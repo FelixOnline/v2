@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Terrains of the Body is on at the Whitechapel Gallery until 16th April 2017 Free entry
 date: "2017-01-27 17:01:57 +0000"
+# Attributes from Felix Online V1
 id: "6699"
 old_path: /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
 aliases:
  - /arts/6699/terrains-of-the-body-is-a-bold-but-beguiling-show
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271658-felix-L2017.4_vanMeene-e1478536802365.jpg"
 image_caption: >
   Hellen van Meene, Untitled (79), (2000)
@@ -22,6 +27,7 @@ image_attribution: "Hellen van Meene and Yancey Richardson Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

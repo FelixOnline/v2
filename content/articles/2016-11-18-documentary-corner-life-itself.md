@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Assembling the definitive life story of the world’s most famous film critic is certainly not an easy task
 date: "2016-11-18 15:36:00 +0000"
+# Attributes from Felix Online V1
 id: "6480"
 old_path: /film/6480/documentary-corner-life-itself
 aliases:
  - /film/6480/documentary-corner-life-itself
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

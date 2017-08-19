@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Research from Caltech and the University of Oxford has identified a mycobacterial protein that inhibits biofilms of Pseudomonas aeruginosa, the major pathogen in cystic fibrosis
 date: "2016-12-16 14:34:17 +0000"
+# Attributes from Felix Online V1
 id: "6601"
 old_path: /science/6601/harnessing-bacterial-defences-to-disrupt-infectious-biofilms
 aliases:
  - /science/6601/harnessing-bacterial-defences-to-disrupt-infectious-biofilms
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161434-felix-6170893380_b9f0e7cf16_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Charles de Mille-Isles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

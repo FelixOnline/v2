@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) launches a call for everyone, lecturers and students, to share their experiences of sexism
 date: "2012-11-09 00:11:06 +0000"
+# Attributes from Felix Online V1
 id: "2832"
 old_path: /news/2832/sexism-call-for-evidence-launched-at-imperial
 aliases:
  - /news/2832/sexism-call-for-evidence-launched-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211090010-tna08-sw7__2009-07-31_37836.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

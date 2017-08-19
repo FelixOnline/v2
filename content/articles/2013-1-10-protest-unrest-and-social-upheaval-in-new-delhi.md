@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tragedy sparks debate over attitudes to women
 date: "2013-01-10 22:20:40 +0000"
+# Attributes from Felix Online V1
 id: "3083"
 old_path: /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
 aliases:
  - /politics/3083/protest-unrest-and-social-upheaval-in-new-delhi
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102220-csw09-new-delhi-protest.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn discusses our insidious weight loss culture
 date: "2017-02-03 15:56:12 +0000"
+# Attributes from Felix Online V1
 id: "6715"
 old_path: /comment/6715/society-has-an-eating-disorder
 aliases:
  - /comment/6715/society-has-an-eating-disorder
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031608-felix-7988128448_233276e606_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nesster"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

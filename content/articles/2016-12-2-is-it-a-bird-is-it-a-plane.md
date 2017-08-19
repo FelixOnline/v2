@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yeah, it’s a plane
 date: "2016-12-02 16:45:15 +0000"
+# Attributes from Felix Online V1
 id: "6550"
 old_path: /sport/6550/is-it-a-bird-is-it-a-plane-
 aliases:
  - /sport/6550/is-it-a-bird-is-it-a-plane-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021644-felix-1.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

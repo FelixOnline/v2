@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exam season is just another excuse to get out and de-stress with the great shows on offer this term
 date: "2016-04-29 10:54:46 +0100"
+# Attributes from Felix Online V1
 id: "6105"
 old_path: /arts/6105/your-guide-to-whats-hot-in-art-this-term
 aliases:
  - /arts/6105/your-guide-to-whats-hot-in-art-this-term
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291152-felix-lesblancs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First XI reach ULU Cup final for fourth time in five years
 date: "2011-02-28 20:54:18 +0000"
+# Attributes from Felix Online V1
 id: "937"
 old_path: /sport/937/footballers-on-their-way-to-ulu-cup-final
 aliases:
  - /sport/937/footballers-on-their-way-to-ulu-cup-final
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282045-dr710-football.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

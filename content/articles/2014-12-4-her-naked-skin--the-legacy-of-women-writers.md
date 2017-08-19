@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles asks the theatre industry where the women playwrights are
 date: "2014-12-04 20:15:19 +0000"
+# Attributes from Felix Online V1
 id: "5008"
 old_path: /arts/5008/her-naked-skin--the-legacy-of-women-writers
 aliases:
  - /arts/5008/her-naked-skin--the-legacy-of-women-writers
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042015-cj914-her-naked-skin-1.jpg"
 image_caption: >
   Charlie Bate, Rebecca Lee, Amber James, Alice Winslow, Lily Sacofsky, Elaine Fellos, and Emily-Celin
@@ -22,6 +27,7 @@ image_attribution: "Clive Barda"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

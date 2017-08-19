@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students turn out in force to celebrate start of term at Café de Paris
 date: "2011-10-27 20:12:33 +0100"
+# Attributes from Felix Online V1
 id: "1608"
 old_path: /news/1608/cgcu-dinner-brings-in-the-engineers
 aliases:
  - /news/1608/cgcu-dinner-brings-in-the-engineers
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110272111-felix-dsc_0550.jpg"
 image_caption: >
   CGCU President Jacky Kwan takes to the stage to engineer the night's proceedings
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

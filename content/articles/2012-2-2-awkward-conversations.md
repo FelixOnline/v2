@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plumbing the depths of society and swimming
 date: "2012-02-02 23:54:50 +0000"
+# Attributes from Felix Online V1
 id: "2116"
 old_path: /comment/2116/awkward-conversations
 aliases:
  - /comment/2116/awkward-conversations
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

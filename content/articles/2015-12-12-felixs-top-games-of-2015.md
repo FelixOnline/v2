@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Four games you have to play before 2016
 date: "2015-12-12 16:02:00 +0000"
+# Attributes from Felix Online V1
 id: "5816"
 old_path: /games/5816/felixs-top-games-of-2015
 aliases:
  - /games/5816/felixs-top-games-of-2015
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512151436-cet13-201512121612-cet13-games.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

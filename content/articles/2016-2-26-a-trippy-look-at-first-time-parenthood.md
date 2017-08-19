@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the Night Time at the Gate Theatre.
 date: "2016-02-26 11:59:14 +0000"
+# Attributes from Felix Online V1
 id: "5979"
 old_path: /arts/5979/a-trippy-look-at-first-time-parenthood
 aliases:
  - /arts/5979/a-trippy-look-at-first-time-parenthood
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Bill Knight"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

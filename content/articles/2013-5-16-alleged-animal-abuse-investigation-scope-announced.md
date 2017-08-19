@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial release news of the investigation
 date: "2013-05-16 20:47:44 +0100"
+# Attributes from Felix Online V1
 id: "3593"
 old_path: /news/3593/alleged-animal-abuse-investigation-scope-announced
 aliases:
  - /news/3593/alleged-animal-abuse-investigation-scope-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162204-tna08-image-27-w640h480.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The BUAV"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

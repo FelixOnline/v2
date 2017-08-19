@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 3 of 3)
 date: "2013-06-20 16:57:41 +0100"
+# Attributes from Felix Online V1
 id: "3706"
 old_path: /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
 aliases:
  - /news/3706/letting-old-cats-out-of-their-bags-rupert-neate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Applications have fallen for the first time in 16 years
 date: "2013-01-25 01:30:12 +0000"
+# Attributes from Felix Online V1
 id: "3179"
 old_path: /news/3179/international-pg-applications-down
 aliases:
  - /news/3179/international-pg-applications-down
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250130-tna08-heathrow-terminal-5.jpg"
 image_caption: >
   Arrivals gate as international students arrive. Oop, satire...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

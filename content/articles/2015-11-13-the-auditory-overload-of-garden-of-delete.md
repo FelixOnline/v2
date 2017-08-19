@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Garden of Delete is a complete, concrete, and fleeting treat built from beats and bleeps
 date: "2015-11-13 14:26:07 +0000"
+# Attributes from Felix Online V1
 id: "5723"
 old_path: /music/5723/the-auditory-overload-of-garden-of-delete
 aliases:
  - /music/5723/the-auditory-overload-of-garden-of-delete
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131423-cet13-opn.jpg"
 image_caption: >
   Someone has discovered how to use Microsoft Paint.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

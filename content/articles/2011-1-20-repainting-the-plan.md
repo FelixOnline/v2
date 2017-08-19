@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What are you supposed to do when you leave Imperial?
 date: "2011-01-20 20:53:57 +0000"
+# Attributes from Felix Online V1
 id: "635"
 old_path: /comment/635/repainting-the-plan
 aliases:
  - /comment/635/repainting-the-plan
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I joined Jen Woodward, Alex De Lyckefold Young and Kate Marlais, otherwise known as The Three Little Maids for a chat at the Royal Academy of Music, a place they all have ties to, to chat about their upcoming concert, comedy cabaret and whether scientists are good in bed.
 date: "2010-06-11 11:04:14 +0100"
+# Attributes from Felix Online V1
 id: "143"
 old_path: /arts/143/cheeky-charming-close-harmony-cabaret
 aliases:
  - /arts/143/cheeky-charming-close-harmony-cabaret
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201006111157-lh106-ThreeLit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Family continues to call for public enquiry into ongoing case
 date: "2012-05-10 18:55:36 +0100"
+# Attributes from Felix Online V1
 id: "2429"
 old_path: /news/2429/court-approves-babar-ahmad-extradition-to-united-states
 aliases:
  - /news/2429/court-approves-babar-ahmad-extradition-to-united-states
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
 image_caption: >
   Ahmad was interviewed by the BBC in April
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

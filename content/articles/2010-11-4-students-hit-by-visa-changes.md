@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Minister hints that foreign student visas could be restricted
 date: "2010-11-04 19:08:18 +0000"
+# Attributes from Felix Online V1
 id: "326"
 old_path: /news/326/students-hit-by-visa-changes
 aliases:
  - /news/326/students-hit-by-visa-changes
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

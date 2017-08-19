@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Royal Academy’s colourful exhibition brings together gardens of all times and styles
 date: "2016-02-05 12:17:59 +0000"
+# Attributes from Felix Online V1
 id: "5874"
 old_path: /science/5874/a-vibrant-tour-of-20th-century-blossoms
 aliases:
  - /science/5874/a-vibrant-tour-of-20th-century-blossoms
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051215-felix-4231.jpg"
 image_caption: >
   Claude Monet,  Water Lilies, 1916-26
@@ -22,6 +27,7 @@ image_attribution: "Cleveland Museum of Art "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

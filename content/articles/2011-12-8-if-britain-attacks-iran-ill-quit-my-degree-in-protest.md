@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We are preparing for war on the flimsiest of evidence
 date: "2011-12-08 21:29:25 +0000"
+# Attributes from Felix Online V1
 id: "1940"
 old_path: /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
 aliases:
  - /comment/1940/if-britain-attacks-iran-ill-quit-my-degree-in-protest
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082128-felix-iranian_military_parade_september_2007_005.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

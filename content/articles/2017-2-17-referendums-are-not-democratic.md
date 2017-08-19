@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Divyen Vanniasegaram condemns the votes as a replacement for effective democracy
 date: "2017-02-17 14:38:49 +0000"
+# Attributes from Felix Online V1
 id: "6784"
 old_path: /comment/6784/referendums-are-not-democratic
 aliases:
  - /comment/6784/referendums-are-not-democratic
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171438-felix-Screen Shot 2017-02-17 at 14.38.34.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

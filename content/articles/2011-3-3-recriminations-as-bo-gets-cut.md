@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Computer error contributes to heavy cuts during budgeting
 date: "2011-03-03 05:43:00 +0000"
+# Attributes from Felix Online V1
 id: "979"
 old_path: /news/979/recriminations-as-bo-gets-cut
 aliases:
  - /news/979/recriminations-as-bo-gets-cut
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030541-ks607-csbbudge.jpg"
 image_caption: >
   The Clubs and Societies Board spent a gruelling eight hours deciding the allocations
@@ -22,6 +27,7 @@ image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A combination of inspiring biopic and politics in Fair Game
 date: "2011-02-24 19:54:09 +0000"
+# Attributes from Felix Online V1
 id: "873"
 old_path: /film/873/beat-the-bush-administration
 aliases:
  - /film/873/beat-the-bush-administration
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

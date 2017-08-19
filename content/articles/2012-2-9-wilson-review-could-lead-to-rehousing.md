@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Temporary halls in Elephant & Castle and Waterloo considered
 date: "2012-02-09 22:31:49 +0000"
+# Attributes from Felix Online V1
 id: "2152"
 old_path: /news/2152/wilson-review-could-lead-to-rehousing
 aliases:
  - /news/2152/wilson-review-could-lead-to-rehousing
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092228-felix-252_5284.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

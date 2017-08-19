@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It was epic
 date: "2017-03-03 15:39:18 +0000"
+# Attributes from Felix Online V1
 id: "6849"
 old_path: /music/6849/tycho-at-electric-brixton
 aliases:
  - /music/6849/tycho-at-electric-brixton
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031539-felix-tycho_eb_270217_joeokpako_lowres-52 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Electric Brixton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

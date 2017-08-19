@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson & Forrest Seiwald report back on About Time festival
 date: "2013-11-24 16:21:26 +0000"
+# Attributes from Felix Online V1
 id: "4117"
 old_path: /music/4117/sixteen-fantastic-bands-and-its-about-time
 aliases:
  - /music/4117/sixteen-fantastic-bands-and-its-about-time
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

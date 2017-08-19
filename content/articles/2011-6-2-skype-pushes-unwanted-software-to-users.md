@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Online phone service say that program 'neither installs nor un-installs correctly'
 date: "2011-06-02 18:44:36 +0100"
+# Attributes from Felix Online V1
 id: "1301"
 old_path: /tech/1301/skype-pushes-unwanted-software-to-users
 aliases:
  - /tech/1301/skype-pushes-unwanted-software-to-users
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106021941-felix-skype_logo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

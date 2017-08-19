@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hint: It's your STIs
 date: "2016-10-07 17:32:25 +0100"
+# Attributes from Felix Online V1
 id: "6314"
 old_path: /sex/6314/ten-things-i-hate-about-you
 aliases:
  - /sex/6314/ten-things-i-hate-about-you
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610071939-felix-Screen Shot 2016-10-07 at 19.38.43.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

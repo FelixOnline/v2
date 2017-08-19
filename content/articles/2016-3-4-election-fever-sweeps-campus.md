@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Voting opens today as Imperial reaches peak democracy
 date: "2016-03-04 11:30:24 +0000"
+# Attributes from Felix Online V1
 id: "5999"
 old_path: /news/5999/election-fever-sweeps-campus
 aliases:
  - /news/5999/election-fever-sweeps-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041130-felix-Screen Shot 2016-03-03 at 17.43.58.png"
 image_caption: >
   Just in case you forgot it was election season.
@@ -22,6 +27,7 @@ image_attribution: " Twitter / @Lorenzopaoliani"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

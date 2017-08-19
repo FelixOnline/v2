@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...but when I do, they're about food – specifically the destruction of the BBC's recipe archive
 date: "2016-05-20 08:57:42 +0100"
+# Attributes from Felix Online V1
 id: "6178"
 old_path: /comment/6178/i-dont-often-sign-petitions
 aliases:
  - /comment/6178/i-dont-often-sign-petitions
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201057-felix-Ainsley Harriot.jpg"
 image_caption: >
   Protect Ainsley Harriot content at all costs.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

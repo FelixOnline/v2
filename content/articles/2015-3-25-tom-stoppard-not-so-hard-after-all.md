@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman wraps his head around the playwright’s latest
 date: "2015-03-25 12:56:39 +0000"
+# Attributes from Felix Online V1
 id: "5440"
 old_path: /arts/5440/tom-stoppard-not-so-hard-after-all
 aliases:
  - /arts/5440/tom-stoppard-not-so-hard-after-all
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251255-ff712-vinall-and-calf-cmyka.jpg"
 image_caption: >
   Olvia Vinall (Hilary) and Anthony Calf (Jerry) in Tom Stoppard’s The Hard Problem
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

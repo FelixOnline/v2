@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Just because there's goat's cheese in it doesn't mean you get to call it Greek
 date: "2012-06-14 20:28:16 +0100"
+# Attributes from Felix Online V1
 id: "2565"
 old_path: /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
 aliases:
  - /food/2565/welcome-summer-with-a-fresh-and-original-greek-salad
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142127-ams111-food1.jpg"
 image_caption: >
   That's how it should look
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-20 09:06:58 +0100"
+# Attributes from Felix Online V1
 id: "6183"
 old_path: /science/6183/science--the-city
 aliases:
  - /science/6183/science--the-city
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

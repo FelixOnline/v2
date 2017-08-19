@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A profile of this year's hottest artist
 date: "2011-05-26 19:37:47 +0100"
+# Attributes from Felix Online V1
 id: "1262"
 old_path: /music/1262/star-slinger
 aliases:
  - /music/1262/star-slinger
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105262039-felix-denim_large.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dazed and Confused"
 image_attribution_link: "http://www.dazeddigital.com/music/article/8280/1/star-slingers-unique-beats"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

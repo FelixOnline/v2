@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will Hunter discusses the new robots that can feel human emotions
 date: "2014-02-17 17:16:30 +0000"
+# Attributes from Felix Online V1
 id: "4388"
 old_path: /science/4388/sex-robots-and-rock--roll-
 aliases:
  - /science/4388/sex-robots-and-rock--roll-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

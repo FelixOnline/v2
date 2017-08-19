@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our Culture Editor, Fred Fyles, gives you the run-down on the Academy Award nominations for this year, from the meteoric rise of La La Land, to the possible success of Moonlight, and all those films that they missed along the way...
 date: "2017-01-27 16:46:49 +0000"
+# Attributes from Felix Online V1
 id: "6696"
 old_path: /film/6696/our-academy-award-hottake
 aliases:
  - /film/6696/our-academy-award-hottake
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271644-felix-la-la-land-ryan-gosling-emma-stone (1).jpg"
 image_caption: >
   La La Land, a love-letter to Hollywood, wins massive acclaim from Hollywood industry – shocker!
@@ -22,6 +27,7 @@ image_attribution: "20th Century Fox"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

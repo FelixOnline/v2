@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dana Li visits MADD, Soho’s hottest café and brainchild of a Business School alumnus
 date: "2011-06-12 16:10:44 +0100"
+# Attributes from Felix Online V1
 id: "1367"
 old_path: /food/1367/are-you-madd
 aliases:
  - /food/1367/are-you-madd
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106121712-felix-siam.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

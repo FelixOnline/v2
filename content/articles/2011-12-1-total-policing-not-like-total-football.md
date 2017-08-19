@@ -4,15 +4,20 @@ title: >
 subtitle: >
   12 hours of protesting has simply dissolved "the idea of protesters as lazy hippies"
 date: "2011-12-01 21:33:49 +0000"
+# Attributes from Felix Online V1
 id: "1895"
 old_path: /comment/1895/total-policing-not-like-total-football
 aliases:
  - /comment/1895/total-policing-not-like-total-football
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012129-pk1811-anonymous.jpg"
 image_caption: >
   Some people just can’t do anything right...
@@ -22,6 +27,7 @@ image_attribution: "Andrew Fok"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

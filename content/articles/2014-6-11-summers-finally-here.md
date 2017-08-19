@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The transformation from stage to big screen.
 date: "2014-06-11 22:13:01 +0100"
+# Attributes from Felix Online V1
 id: "4676"
 old_path: /film/4676/summers-finally-here
 aliases:
  - /film/4676/summers-finally-here
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112311-me1711-suddenly-last-summer-hepburn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

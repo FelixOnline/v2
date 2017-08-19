@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union Council will vote on whether to change its constitution
 date: "2015-11-19 22:25:33 +0000"
+# Attributes from Felix Online V1
 id: "5742"
 old_path: /news/5742/union-could-be-banned-from-lobbying-
 aliases:
  - /news/5742/union-could-be-banned-from-lobbying-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511192225-ygr12-edited_council.jpg"
 image_caption: >
   It's as fun as it looks.
@@ -22,6 +27,7 @@ image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

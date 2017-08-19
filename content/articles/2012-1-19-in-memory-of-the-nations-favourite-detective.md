@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Final episode has more holes than dutch cheese, says Maciej Matuszewski
 date: "2012-01-19 19:47:01 +0000"
+# Attributes from Felix Online V1
 id: "1999"
 old_path: /tv/1999/in-memory-of-the-nations-favourite-detective
 aliases:
  - /tv/1999/in-memory-of-the-nations-favourite-detective
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

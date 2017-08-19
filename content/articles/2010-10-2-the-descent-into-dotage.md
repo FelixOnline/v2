@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amusing, startling, moving: Krapp's Last Tape at the Duchess Theatre
 date: "2010-10-02 12:22:19 +0100"
+# Attributes from Felix Online V1
 id: "170"
 old_path: /arts/170/the-descent-into-dotage
 aliases:
  - /arts/170/the-descent-into-dotage
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

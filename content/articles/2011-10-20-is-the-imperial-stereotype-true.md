@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Free advice for Freshers freaking out, from Faye Hemsley
 date: "2011-10-20 23:25:56 +0100"
+# Attributes from Felix Online V1
 id: "1581"
 old_path: /comment/1581/is-the-imperial-stereotype-true
 aliases:
  - /comment/1581/is-the-imperial-stereotype-true
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110210025-sjw209-faye-cutout.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

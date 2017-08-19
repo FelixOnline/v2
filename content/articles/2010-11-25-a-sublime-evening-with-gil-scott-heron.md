@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gil Scott-Heron gets the blues with Tytus Murphy, on a gloomy Sunday in The Brixton Academy
 date: "2010-11-25 20:58:50 +0000"
+# Attributes from Felix Online V1
 id: "436"
 old_path: /music/436/a-sublime-evening-with-gil-scott-heron
 aliases:
  - /music/436/a-sublime-evening-with-gil-scott-heron
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

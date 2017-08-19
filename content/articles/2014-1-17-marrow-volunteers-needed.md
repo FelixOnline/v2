@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Every 20 minutes, someone in the UK is told they have a blood cancer.
 date: "2014-01-17 04:34:47 +0000"
+# Attributes from Felix Online V1
 id: "4259"
 old_path: /features/4259/marrow-volunteers-needed
 aliases:
  - /features/4259/marrow-volunteers-needed
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

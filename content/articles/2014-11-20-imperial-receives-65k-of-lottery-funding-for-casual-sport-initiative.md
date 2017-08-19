@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt reports on Sport Imperial’s new programme, Impetus
 date: "2014-11-20 22:05:16 +0000"
+# Attributes from Felix Online V1
 id: "4922"
 old_path: /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
 aliases:
  - /cands/4922/imperial-receives-65k-of-lottery-funding-for-casual-sport-initiative
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202205-cj914-ultimate-frisbee-copy.jpg"
 image_caption: >
   If you look carefully, there is actually a person waiting to catch the frisbee.
@@ -22,6 +27,7 @@ image_attribution: "Impetus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What happens now?
 date: "2016-07-04 09:55:26 +0100"
+# Attributes from Felix Online V1
 id: "6292"
 old_path: /features/6292/an-idiots-guide-to-a-post-brexit-world
 aliases:
  - /features/6292/an-idiots-guide-to-a-post-brexit-world
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201607041151-felix-sadcorbyn.jpg"
 image_caption: >
   Feeling as lost as sad Corbyn on a night bus? Fear not, FELIX is here to explain what happens next.
@@ -22,6 +27,7 @@ image_attribution: "Stuart Low"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

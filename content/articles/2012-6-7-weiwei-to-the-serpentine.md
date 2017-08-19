@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The perfect summer hangout spot is ten minutes from Imperial
 date: "2012-06-07 18:47:55 +0100"
+# Attributes from Felix Online V1
 id: "2524"
 old_path: /arts/2524/weiwei-to-the-serpentine-
 aliases:
  - /arts/2524/weiwei-to-the-serpentine-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206071946-ams111-arts1.gif"
 image_caption: >
   I’m like Jamiroquai, going deeper underground
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Speed typing, the sport of champions...
 date: "2013-06-05 12:20:25 +0100"
+# Attributes from Felix Online V1
 id: "3651"
 old_path: /film/3651/youre-gonna-be-populaire
 aliases:
  - /film/3651/youre-gonna-be-populaire
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051319-tna08-romain-duris-and-déborah-françois-in-populaire.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

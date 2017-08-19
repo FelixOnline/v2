@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
+# Attributes from Felix Online V1
 id: "2257"
 old_path: /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
 aliases:
  - /sport/2257/ponies-snow-and-a-broken-jaw-at-polo-nationals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232136-cac111-1.gif"
 image_caption: >
   There’s nothing My Little Pony about this
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

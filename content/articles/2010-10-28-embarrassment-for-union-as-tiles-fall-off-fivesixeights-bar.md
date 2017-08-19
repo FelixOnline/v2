@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Signs of wear and tear after refurbishment
 date: "2010-10-28 19:55:21 +0100"
+# Attributes from Felix Online V1
 id: "282"
 old_path: /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
 aliases:
  - /news/282/embarrassment-for-union-as-tiles-fall-off-fivesixeights-bar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282052-nm1010-unionemb.jpg"
 image_caption: >
   Everyone agreed that it was the worse game of Tetris in living memory
@@ -22,6 +27,7 @@ image_attribution: "Chris Darby"
 image_attribution_link: "https://twitter.com/#!/ICUchris"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

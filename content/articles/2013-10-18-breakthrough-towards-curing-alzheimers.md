@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Utsav Radia on a new step to neurodegenerative disease treatment
 date: "2013-10-18 21:12:14 +0100"
+# Attributes from Felix Online V1
 id: "3888"
 old_path: /science/3888/breakthrough-towards-curing-alzheimers
 aliases:
  - /science/3888/breakthrough-towards-curing-alzheimers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182211-jal08-pet-scan-of-lnormal-brain-r-alzheimers.jpg"
 image_caption: >
   PET scan of brains (l. normal, r. Alzheimers)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

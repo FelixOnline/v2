@@ -4,15 +4,20 @@ title: >
 subtitle: >
   During October 3.5 million French workers took to the streets to protest against changes to pension plans
 date: "2010-11-04 19:09:40 +0000"
+# Attributes from Felix Online V1
 id: "328"
 old_path: /comment/328/were-the-french-right-to-strike
 aliases:
  - /comment/328/were-the-french-right-to-strike
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011050937-ks607-frenchst.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Zhejiang University sign agreement with Imperial
 date: "2013-05-23 22:25:37 +0100"
+# Attributes from Felix Online V1
 id: "3617"
 old_path: /news/3617/chinese-university-may-open-uk-facility
 aliases:
  - /news/3617/chinese-university-may-open-uk-facility
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232325-tna08-impnewcampus.jpg"
 image_caption: >
   Looks like they rejected my pink marble tower with two side structure design. Wonder why...
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

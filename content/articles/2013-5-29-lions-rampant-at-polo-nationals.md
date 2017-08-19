@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICU Riding and Polo celebrate victory at the Arena Polo Nationals
 date: "2013-05-29 15:44:17 +0100"
+# Attributes from Felix Online V1
 id: "3633"
 old_path: /sport/3633/lions-rampant-at-polo-nationals
 aliases:
  - /sport/3633/lions-rampant-at-polo-nationals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301030-tna08-nationals-photo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

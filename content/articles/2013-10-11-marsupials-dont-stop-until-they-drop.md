@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are you dying for sex? Philippa Skett tells us that if you compare yourself to male marsupial mice, you really arenʼt
 date: "2013-10-11 23:19:24 +0100"
+# Attributes from Felix Online V1
 id: "3826"
 old_path: /science/3826/marsupials-dont-stop-until-they-drop
 aliases:
  - /science/3826/marsupials-dont-stop-until-they-drop
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students angered at auction by Westminster School for a one-week internship at Imperial College's Institute of Biomedical Engineering, set up without College's approval
 date: "2013-05-14 10:28:07 +0100"
+# Attributes from Felix Online V1
 id: "3565"
 old_path: /news/3565/the-next-lot-an-internship-at-imperial
 aliases:
  - /news/3565/the-next-lot-an-internship-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305141126-pk1811-bessemer_building.jpg"
 image_caption: >
   Biomedical engineering is based in the big pink Bessemer building
@@ -22,6 +27,7 @@ image_attribution: "Uli Harder"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
+# Attributes from Felix Online V1
 id: "6008"
 old_path: /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
 aliases:
  - /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041146-felix-5832.jpg"
 image_caption: >
   The Globe to Globe tour perform Hamlet at the Jungle camp in Calais
@@ -22,6 +27,7 @@ image_attribution: "The Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

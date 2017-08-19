@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kieran Ryan takes the pilgrimage to Margate to see Turner and Frankenthaler
 date: "2014-04-07 12:52:12 +0100"
+# Attributes from Felix Online V1
 id: "4523"
 old_path: /arts/4523/turner-round
 aliases:
  - /arts/4523/turner-round
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404071352-jal08-arts-margate-2.jpg"
 image_caption: >
   Helen Frankenthaler, Overture, 1992
@@ -22,6 +27,7 @@ image_attribution: "Helen Frankenthaler Foundation, Inc./Artists Rights Society 
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

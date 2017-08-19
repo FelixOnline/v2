@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg McGillivray reviews a new one-woman play about Syrian refugees at the Young Vic
 date: "2014-05-09 02:14:04 +0100"
+# Attributes from Felix Online V1
 id: "4578"
 old_path: /arts/4578/no-such-sweetness
 aliases:
  - /arts/4578/no-such-sweetness
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090314-jal08-arts-sweet.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "© Simon Annand"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

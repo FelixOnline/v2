@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix interviews Union President Scott Heath about another year of significant changes: to higher education and to Imperial College itself
 date: "2012-03-02 01:26:35 +0000"
+# Attributes from Felix Online V1
 id: "2304"
 old_path: /news/2304/a-year-in-office-with-the-imperial-college-union-president-scott-heath
 aliases:
  - /news/2304/a-year-in-office-with-the-imperial-college-union-president-scott-heath
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203020124-felix-scottheath.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles compares the different approaches FKA twigs and Sia take when it comes to their controlling their public image in music videos
 date: "2015-03-25 12:21:15 +0000"
+# Attributes from Felix Online V1
 id: "5428"
 old_path: /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
 aliases:
  - /music/5428/fka-twigs-feminism-and-female-sexuality-on-video
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251218-ff712-maxresdefault.jpg"
 image_caption: >
   The steamy, sensual video for FKA twigs' Two Weeks, from 2014's LP1
@@ -22,6 +27,7 @@ image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

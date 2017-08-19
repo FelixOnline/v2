@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Jury has to be out” about cost-effectiveness of funding says CEO
 date: "2013-02-22 00:01:34 +0000"
+# Attributes from Felix Online V1
 id: "3352"
 old_path: /news/3352/think-tank-9000-fees-cost-more-than-save
 aliases:
  - /news/3352/think-tank-9000-fees-cost-more-than-save
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220001-tna08-3001_287.jpg"
 image_caption: >
   Engaged with the ceremony... clearly
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

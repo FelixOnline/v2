@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah doesn’t want a spray on condom
 date: "2013-02-14 11:42:31 +0000"
+# Attributes from Felix Online V1
 id: "3319"
 old_path: /science/3319/condomed-to-obscurity
 aliases:
  - /science/3319/condomed-to-obscurity
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302141141-tna08-durex_performax_condom_lrg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rifts reappear less than a fortnight after G-20 pact
 date: "2010-11-25 20:26:43 +0000"
+# Attributes from Felix Online V1
 id: "430"
 old_path: /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
 aliases:
  - /biz/430/rifts-reappear-less-than-a-fortnight-after-g-20-pact
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252025-nm1010-seoulsum.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

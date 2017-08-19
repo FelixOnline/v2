@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular column on classic academy snubs you might have missed
 date: "2016-01-29 09:13:04 +0000"
+# Attributes from Felix Online V1
 id: "5843"
 old_path: /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
 aliases:
  - /film/5843/the-top-three-oscar-snubs-not-involving-dicaprio
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290912-felix-EZlFQPT.gif"
 image_caption: >
   Better luck next time, hun.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

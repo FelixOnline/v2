@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The creepy masterpiece is back on the big screens
 date: "2012-11-15 21:49:42 +0000"
+# Attributes from Felix Online V1
 id: "2903"
 old_path: /film/2903/the-shining-of-room-237
 aliases:
  - /film/2903/the-shining-of-room-237
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152149-tna08-the-shining-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

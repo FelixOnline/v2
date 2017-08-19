@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The kettling was horrible, unjustified and counter-productive
 date: "2010-12-17 14:20:33 +0000"
+# Attributes from Felix Online V1
 id: "561"
 old_path: /comment/561/we-werent-allowed-to-protest-freely
 aliases:
  - /comment/561/we-werent-allowed-to-protest-freely
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

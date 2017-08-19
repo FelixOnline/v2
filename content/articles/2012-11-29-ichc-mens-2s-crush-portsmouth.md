@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonney Clowes on Imperial's victory
 date: "2012-11-29 23:20:16 +0000"
+# Attributes from Felix Online V1
 id: "3014"
 old_path: /sport/3014/ichc-mens-2s-crush-portsmouth
 aliases:
  - /sport/3014/ichc-mens-2s-crush-portsmouth
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

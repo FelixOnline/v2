@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or , a strong argument for cooking your own food. felix investigates the what really goes on in many kitchens and why some of the practices might turn you away.
 date: "2016-12-02 15:21:36 +0000"
+# Attributes from Felix Online V1
 id: "6545"
 old_path: /food/6545/whats-really-in-your-meal-
 aliases:
  - /food/6545/whats-really-in-your-meal-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021521-felix-6906431581_b7a83538e8_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "bl0ndeeo2"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

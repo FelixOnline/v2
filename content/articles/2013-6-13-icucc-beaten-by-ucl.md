@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The pressures of harder exams take their toll on a brave IC team. Jayanth Ganapthy reports
 date: "2013-06-13 22:22:56 +0100"
+# Attributes from Felix Online V1
 id: "3674"
 old_path: /sport/3674/icucc-beaten-by-ucl
 aliases:
  - /sport/3674/icucc-beaten-by-ucl
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132322-tna08-eng.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

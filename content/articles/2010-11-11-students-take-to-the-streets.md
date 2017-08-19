@@ -4,15 +4,20 @@ title: >
 subtitle: >
   50,000 students march in London against government cuts and higher fees
 date: "2010-11-11 22:19:44 +0000"
+# Attributes from Felix Online V1
 id: "376"
 old_path: /news/376/students-take-to-the-streets
 aliases:
  - /news/376/students-take-to-the-streets
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112212-nm1010-students.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

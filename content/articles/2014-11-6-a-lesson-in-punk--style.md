@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles gets a fashionable education from Blondie
 date: "2014-11-06 21:24:59 +0000"
+# Attributes from Felix Online V1
 id: "4800"
 old_path: /arts/4800/a-lesson-in-punk--style
 aliases:
  - /arts/4800/a-lesson-in-punk--style
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062124-snb11-chrisstein_newspaper-copy.jpg"
 image_caption: >
   Debbie Harry of Blondie, looking way cooler than you ever will
@@ -22,6 +27,7 @@ image_attribution: "Chris Stein"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

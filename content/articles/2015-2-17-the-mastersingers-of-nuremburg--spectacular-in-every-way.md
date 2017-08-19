@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emiel de Lange examines whether the ENO can grapple with Wagner’s masterpiece
 date: "2015-02-17 16:34:43 +0000"
+# Attributes from Felix Online V1
 id: "5264"
 old_path: /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
 aliases:
  - /arts/5264/the-mastersingers-of-nuremburg--spectacular-in-every-way
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
 image_caption: >
   Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum.
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

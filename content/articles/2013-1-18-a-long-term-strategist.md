@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews the new Pro-Rector (Education) Debra Humphris
 date: "2013-01-18 00:06:09 +0000"
+# Attributes from Felix Online V1
 id: "3126"
 old_path: /news/3126/a-long-term-strategist
 aliases:
  - /news/3126/a-long-term-strategist
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180005-tna08-debra-at-computer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As lecture theatres around the country play host to student activists, Ian Wei reports from the UCL occupation
 date: "2010-12-02 21:43:54 +0000"
+# Attributes from Felix Online V1
 id: "495"
 old_path: /news/495/so-what-happens-at-an-occupation-
 aliases:
  - /news/495/so-what-happens-at-an-occupation-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022141-ks607-ucloccup.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:53:34 +0100"
+# Attributes from Felix Online V1
 id: "4731"
 old_path: /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
 aliases:
  - /news/4731/nba-legend-kareem-abdul-jabbar-joins-diabetes-campaign
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171553-kmw13-o-kareem-abdul-jabbar-statue-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

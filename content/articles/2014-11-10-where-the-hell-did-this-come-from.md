@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Rivlin looks at Rick and Morty in the Cartoon Corner
 date: "2014-11-10 22:10:11 +0000"
+# Attributes from Felix Online V1
 id: "4839"
 old_path: /tv/4839/where-the-hell-did-this-come-from
 aliases:
  - /tv/4839/where-the-hell-did-this-come-from
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102210-ps3110-rick-and-morty-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

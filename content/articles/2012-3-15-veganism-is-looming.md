@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking back on a vegan experience
 date: "2012-03-15 20:59:50 +0000"
+# Attributes from Felix Online V1
 id: "2367"
 old_path: /food/2367/veganism-is-looming
 aliases:
  - /food/2367/veganism-is-looming
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152059-ig711-img-20120207-00363.jpg"
 image_caption: >
   “And we’re back in the game!”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

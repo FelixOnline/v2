@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christian Franke advises you on how to expand your drinking horizons
 date: "2011-02-03 18:47:59 +0000"
+# Attributes from Felix Online V1
 id: "705"
 old_path: /food/705/down-in-one-i-think-not
 aliases:
  - /food/705/down-in-one-i-think-not
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031845-nm1010-whiskeyw.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

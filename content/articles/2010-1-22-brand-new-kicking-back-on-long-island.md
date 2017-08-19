@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They&8217;ll be back in London this weekend though. Dan Wan chats to Brian Lane about Wembley, vinyl and getting old.
 date: "2010-01-22 15:10:20 +0000"
+# Attributes from Felix Online V1
 id: "55"
 old_path: /music/55/brand-new-kicking-back-on-long-island
 aliases:
  - /music/55/brand-new-kicking-back-on-long-island
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001221508-rsp07-music.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

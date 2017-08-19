@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This 80s gem comes to us from the scenic island of Jersey and stars good old Cornish boy John Nettles (now better known for top German TV hit, Midsummer Murders) as recovering alcoholic Jim Bergerac.
 date: "2014-06-06 02:50:57 +0100"
+# Attributes from Felix Online V1
 id: "4666"
 old_path: /tv/4666/bergerac
 aliases:
  - /tv/4666/bergerac
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406060351-jal08-bergerac_(tv_series).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

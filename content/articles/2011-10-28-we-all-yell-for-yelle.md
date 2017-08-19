@@ -4,15 +4,20 @@ title: >
 subtitle: >
   French female electro-pop artist hits the stage in Lyon
 date: "2011-10-28 10:47:42 +0100"
+# Attributes from Felix Online V1
 id: "1638"
 old_path: /music/1638/we-all-yell-for-yelle
 aliases:
  - /music/1638/we-all-yell-for-yelle
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281137-felix-mf443meb11zmbe14.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sometimes, there are really busy weeks, and sometimes there are quiet weeks.
 date: "2014-05-09 02:11:59 +0100"
+# Attributes from Felix Online V1
 id: "4576"
 old_path: /comment/4576/something-important-and-totally-worth-reading-all-the-way-through
 aliases:
  - /comment/4576/something-important-and-totally-worth-reading-all-the-way-through
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

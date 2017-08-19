@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
+# Attributes from Felix Online V1
 id: "3752"
 old_path: /science/3752/curiosity-celebrates-one-year-of-martian-exploration
 aliases:
  - /science/3752/curiosity-celebrates-one-year-of-martian-exploration
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308190907-jal08-ferrat-curiosity-title-picture.png"
 image_caption: >
   Layers seen at the base of Mount Sharp, Curiosity’s ultimate destination.
@@ -22,6 +27,7 @@ image_attribution: "NASA/JPL-Caltech/MSSS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

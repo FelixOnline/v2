@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saturday 15th March. A date all members of the 4th team had pencilled in their diary for a long time. The season decider awaited. A win would guarantee promotion. Anything else was unimaginable.
 date: "2014-03-26 15:29:45 +0000"
+# Attributes from Felix Online V1
 id: "4508"
 old_path: /sport/4508/ic-4s-gain-promotion-in-style
 aliases:
  - /sport/4508/ic-4s-gain-promotion-in-style
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403261529-jal08-icufc.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

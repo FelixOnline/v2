@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They're back
 date: "2017-01-27 16:48:05 +0000"
+# Attributes from Felix Online V1
 id: "6697"
 old_path: /music/6697/hallelujah-money-
 aliases:
  - /music/6697/hallelujah-money-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271647-felix-images.duckduckgo.com(18).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gorillaz"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

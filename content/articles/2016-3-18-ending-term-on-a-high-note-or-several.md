@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's officially performance season again for the arts societies at Imperial
 date: "2016-03-18 12:05:31 +0000"
+# Attributes from Felix Online V1
 id: "6076"
 old_path: /cands/6076/ending-term-on-a-high-note-or-several
 aliases:
  - /cands/6076/ending-term-on-a-high-note-or-several
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181205-felix-IMG_6385.JPG"
 image_caption: >
   The PhotoSoc Exhibition up in Blyth.
@@ -22,6 +27,7 @@ image_attribution: "Abigail de Bruin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

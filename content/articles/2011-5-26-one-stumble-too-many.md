@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Bowers asks if Google may be losing its innovative edge
 date: "2011-05-26 19:02:48 +0100"
+# Attributes from Felix Online V1
 id: "1253"
 old_path: /tech/1253/one-stumble-too-many
 aliases:
  - /tech/1253/one-stumble-too-many
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Elizabeth Griffiths"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

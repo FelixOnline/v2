@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix’s deputy expert on the world’s favourite rockstar predicts the possible policies of the 2020 West Administration
 date: "2015-10-16 14:44:52 +0100"
+# Attributes from Felix Online V1
 id: "5659"
 old_path: /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
 aliases:
  - /music/5659/one-nation-under-yeezus--a-guide-to-the-politics-of-kanye-west
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161544-ygr12-kanye.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

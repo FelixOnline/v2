@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
+# Attributes from Felix Online V1
 id: "5587"
 old_path: /music/5587/brandon-flowers-on-his-own
 aliases:
  - /music/5587/brandon-flowers-on-his-own
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291319-js5913-brandon-flowers-at-brixto-009.jpg"
 image_caption: >
   What a jacket. And what a face.
@@ -22,6 +27,7 @@ image_attribution: "Brian Rasic/Redferns"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

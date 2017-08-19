@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Barclay ponders the roles of women in gaming culture
 date: "2012-10-18 21:39:54 +0100"
+# Attributes from Felix Online V1
 id: "2718"
 old_path: /games/2718/gamer-girls-get-the-shaft
 aliases:
  - /games/2718/gamer-girls-get-the-shaft
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

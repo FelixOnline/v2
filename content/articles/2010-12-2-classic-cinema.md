@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Breakfast Club helps you remember what it feels like to go from suicidal confessions, to flailing 80s style dancing in the average time it takes a teenage guy to ‘rock your world’. And that really isn’t long, trust me
 date: "2010-12-02 20:17:28 +0000"
+# Attributes from Felix Online V1
 id: "464"
 old_path: /film/464/classic-cinema
 aliases:
  - /film/464/classic-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022015-ks607-juddnels.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

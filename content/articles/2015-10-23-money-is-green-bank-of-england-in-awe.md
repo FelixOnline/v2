@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why the public must put pressure on governments to invest in renewable energies
 date: "2015-10-23 11:40:04 +0100"
+# Attributes from Felix Online V1
 id: "5669"
 old_path: /science/5669/money-is-green-bank-of-england-in-awe
 aliases:
  - /science/5669/money-is-green-bank-of-england-in-awe
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231238-cj914-mark_carney_davos_2010.jpg"
 image_caption: >
   Mark Carney: Big money, big... ego.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

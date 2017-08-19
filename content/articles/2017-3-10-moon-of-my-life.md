@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-03-10 13:35:40 +0000"
+# Attributes from Felix Online V1
 id: "6869"
 old_path: /science/6869/moon-of-my-life
 aliases:
  - /science/6869/moon-of-my-life
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101335-felix-Moon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

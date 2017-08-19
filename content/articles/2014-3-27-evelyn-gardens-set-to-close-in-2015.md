@@ -4,15 +4,20 @@ title: >
 subtitle: >
   According to recent information the halls are set to close in 2015, either for refurbishment or permanently.
 date: "2014-03-27 11:49:49 +0000"
+# Attributes from Felix Online V1
 id: "4513"
 old_path: /news/4513/evelyn-gardens-set-to-close-in-2015
 aliases:
  - /news/4513/evelyn-gardens-set-to-close-in-2015
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403271149-jal08-evelyn-gardens.jpg"
 image_caption: >
   Evelyn Gardens - One year to go?
@@ -22,6 +27,7 @@ image_attribution: "LondonSchool.com"
 image_attribution_link: "http://www.londonschool.com/fileadmin/uploads/lse/images/Accommodation/Evelyn%20Gardens.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

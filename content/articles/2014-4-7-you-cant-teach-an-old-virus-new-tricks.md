@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer on the giant virus that is still infectious despite its age
 date: "2014-04-07 12:57:37 +0100"
+# Attributes from Felix Online V1
 id: "4526"
 old_path: /science/4526/you-cant-teach-an-old-virus-new-tricks
 aliases:
  - /science/4526/you-cant-teach-an-old-virus-new-tricks
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404071357-jal08-pithovirus-sibericum.jpg"
 image_caption: >
   Pithovirus sibericum will eat you alive... if you’re an amoeba. Phew!
@@ -22,6 +27,7 @@ image_attribution: "Julia Bartoli / Chantal Abergel / IGS / CNRS / AMU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

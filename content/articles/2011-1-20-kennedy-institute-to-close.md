@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Leading rheumatology research centre moves to Oxford University
 date: "2011-01-20 21:30:00 +0000"
+# Attributes from Felix Online V1
 id: "647"
 old_path: /news/647/kennedy-institute-to-close-
 aliases:
  - /news/647/kennedy-institute-to-close-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

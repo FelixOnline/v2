@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time to get rid of all that chocolate you couldn’t finish and have been hoarding all Easter? Want to eat it but finding yourself at the verge of bursting? felix has found the perfect solution for you!
 date: "2017-05-15 16:28:43 +0100"
+# Attributes from Felix Online V1
 id: "6955"
 old_path: /food/6955/easter-egg-hunting
 aliases:
  - /food/6955/easter-egg-hunting
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

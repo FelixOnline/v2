@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Layers of Tone
 date: "2012-06-14 20:57:28 +0100"
+# Attributes from Felix Online V1
 id: "2573"
 old_path: /phoenix/2573/layers-of-tone-
 aliases:
  - /phoenix/2573/layers-of-tone-
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

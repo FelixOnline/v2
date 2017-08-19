@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deepka Rana talks to Unishack.com’s founder, Ben Oakenfull
 date: "2012-10-26 02:09:55 +0100"
+# Attributes from Felix Online V1
 id: "2735"
 old_path: /biz/2735/shacking-up-with-business
 aliases:
  - /biz/2735/shacking-up-with-business
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260310-tna08-ben-oakenfull---uni-shack-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

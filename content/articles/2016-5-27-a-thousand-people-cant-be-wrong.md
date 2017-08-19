@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Air conditioning in central library must be a top priority for the sabbaticals
 date: "2016-05-27 08:46:44 +0100"
+# Attributes from Felix Online V1
 id: "6203"
 old_path: /comment/6203/a-thousand-people-cant-be-wrong
 aliases:
  - /comment/6203/a-thousand-people-cant-be-wrong
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
+# Attributes from Felix Online V1
 id: "2033"
 old_path: /news/2033/concerns-over-future-of-humanities
 aliases:
  - /news/2033/concerns-over-future-of-humanities
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
 image_caption: >
   The Department of Humanities has spent the last three years in a state of
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

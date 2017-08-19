@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why bother writing an article about free speech today in Britain?
 date: "2014-11-06 18:58:24 +0000"
+# Attributes from Felix Online V1
 id: "4771"
 old_path: /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
 aliases:
  - /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061858-snb11-exhibit-b-at-the-barbican-012.jpg"
 image_caption: >
   Is this too offensive?
@@ -22,6 +27,7 @@ image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

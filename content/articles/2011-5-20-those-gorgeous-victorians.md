@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Drunk on the Aesthetic movement at The Cult Of Beauty. By Maisie Russ
 date: "2011-05-20 05:44:07 +0100"
+# Attributes from Felix Online V1
 id: "1225"
 old_path: /arts/1225/those-gorgeous-victorians
 aliases:
  - /arts/1225/those-gorgeous-victorians
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200643-felix-3._laus_veneris.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Laus Veneris, Edward Burne-Jones"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

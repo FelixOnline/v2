@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred reviews the Tate Britain's exhibition on salt prints
 date: "2015-03-03 14:14:56 +0000"
+# Attributes from Felix Online V1
 id: "5322"
 old_path: /arts/5322/a-history-lesson-too-far
 aliases:
  - /arts/5322/a-history-lesson-too-far
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503031414-ps3110-screen-shot-2015-03-03-at-14.14.13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

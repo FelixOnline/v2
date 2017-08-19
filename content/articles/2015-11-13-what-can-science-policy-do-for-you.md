@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A call to arms from the LSFP. Shape science policy, shape the world
 date: "2015-11-13 14:39:45 +0000"
+# Attributes from Felix Online V1
 id: "5730"
 old_path: /science/5730/what-can-science-policy-do-for-you
 aliases:
  - /science/5730/what-can-science-policy-do-for-you
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131439-ygr12-12218729_917276491655351_1827151619_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

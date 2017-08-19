@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular picture column
 date: "2016-05-06 09:56:10 +0100"
+# Attributes from Felix Online V1
 id: "6124"
 old_path: /science/6124/this-weeks-science-picture
 aliases:
  - /science/6124/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061055-felix-8584486151_0b2d72876e_o.jpg"
 image_caption: >
   A long exposure shot of a meteor shower from Groningen.
@@ -22,6 +27,7 @@ image_attribution: "Eddie Yip"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

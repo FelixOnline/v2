@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After a week of controversy, Abigail Sawyer looks into the chemistry of cryogenics
 date: "2016-11-25 13:35:09 +0000"
+# Attributes from Felix Online V1
 id: "6499"
 old_path: /science/6499/tis-the-season-to-be-cryogenically-frozen
 aliases:
  - /science/6499/tis-the-season-to-be-cryogenically-frozen
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

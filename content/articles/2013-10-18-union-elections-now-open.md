@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time to vote! The Student Rep and Union Council elections have begun!
 date: "2013-10-18 20:43:51 +0100"
+# Attributes from Felix Online V1
 id: "3885"
 old_path: /news/3885/union-elections-now-open
 aliases:
  - /news/3885/union-elections-now-open
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182143-jal08-screen-shot-2013-10-17-at-20.34.14.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

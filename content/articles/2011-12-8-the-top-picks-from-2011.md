@@ -4,15 +4,20 @@ title: >
 subtitle: >
   2012 is almost upon us, and one must ask themselves: what were the best games of 2011?
 date: "2011-12-08 21:22:14 +0000"
+# Attributes from Felix Online V1
 id: "1936"
 old_path: /games/1936/the-top-picks-from-2011
 aliases:
  - /games/1936/the-top-picks-from-2011
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

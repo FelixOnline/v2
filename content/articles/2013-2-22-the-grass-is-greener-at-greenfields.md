@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Witham reviews the independent café Greenfields
 date: "2013-02-22 03:02:19 +0000"
+# Attributes from Felix Online V1
 id: "3378"
 old_path: /food/3378/the-grass-is-greener-at-greenfields
 aliases:
  - /food/3378/the-grass-is-greener-at-greenfields
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220302-tna08-green.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

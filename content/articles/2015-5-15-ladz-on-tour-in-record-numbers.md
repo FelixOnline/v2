@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deputy President (Clubs and Societies) Abi de Bruin says keep sending in those requests!
 date: "2015-05-15 12:48:26 +0100"
+# Attributes from Felix Online V1
 id: "5536"
 old_path: /cands/5536/ladz-on-tour-in-record-numbers
 aliases:
  - /cands/5536/ladz-on-tour-in-record-numbers
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151348-cj914-sitttingingng.png"
 image_caption: >
   I. Am. Envy.
@@ -22,6 +27,7 @@ image_attribution: "IC Skydiving"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

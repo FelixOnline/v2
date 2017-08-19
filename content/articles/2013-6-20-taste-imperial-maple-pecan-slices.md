@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...and how to duplicate them, thanks to Elizabeth Crow
 date: "2013-06-20 23:24:01 +0100"
+# Attributes from Felix Online V1
 id: "3720"
 old_path: /food/3720/taste-imperial-maple-pecan-slices
 aliases:
  - /food/3720/taste-imperial-maple-pecan-slices
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

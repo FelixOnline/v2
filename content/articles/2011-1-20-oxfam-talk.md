@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Talk on the latest Oxfam global campaign at Imperial hosted by Engineers without Borders
 date: "2011-01-20 20:47:15 +0000"
+# Attributes from Felix Online V1
 id: "632"
 old_path: /news/632/oxfam-talk
 aliases:
  - /news/632/oxfam-talk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202044-nm1010-oxfammmm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

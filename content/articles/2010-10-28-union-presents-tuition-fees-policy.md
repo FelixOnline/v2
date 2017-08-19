@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union’s tuition fees policy, to be debated at Council on Monday, backs Browne Review but demands greater focus on postgraduate funding
 date: "2010-10-28 19:59:08 +0100"
+# Attributes from Felix Online V1
 id: "285"
 old_path: /news/285/union-presents-tuition-fees-policy-
 aliases:
  - /news/285/union-presents-tuition-fees-policy-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

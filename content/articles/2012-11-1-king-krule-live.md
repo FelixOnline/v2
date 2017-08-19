@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Padraic and Polona go to a show. Not exciting when said like that...
 date: "2012-11-01 23:09:21 +0000"
+# Attributes from Felix Online V1
 id: "2812"
 old_path: /music/2812/king-krule-live
 aliases:
  - /music/2812/king-krule-live
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012309-tna08-king-krule.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

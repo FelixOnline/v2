@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Research shows sparrows to be quite discerning in choosing their mates
 date: "2011-06-02 18:34:40 +0100"
+# Attributes from Felix Online V1
 id: "1298"
 old_path: /science/1298/avian-attraction
 aliases:
  - /science/1298/avian-attraction
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106021933-felix-white-crowned_sparrowscmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

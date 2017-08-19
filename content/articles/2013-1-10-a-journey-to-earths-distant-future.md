@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
+# Attributes from Felix Online V1
 id: "3093"
 old_path: /books/3093/a-journey-to-earths-distant-future
 aliases:
  - /books/3093/a-journey-to-earths-distant-future
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102241-csw09-new-sun2cmyk.jpg"
 image_caption: >
   Earth’s not doing so well.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

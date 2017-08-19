@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Wiles reviews The Great Gatsby
 date: "2013-05-16 18:16:00 +0100"
+# Attributes from Felix Online V1
 id: "3581"
 old_path: /film/3581/the-not-bad-you-should-probably-see-it-gatsby
 aliases:
  - /film/3581/the-not-bad-you-should-probably-see-it-gatsby
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161915-tna08-the-great-gatsby-2012-official-movie-trailer-2-0.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

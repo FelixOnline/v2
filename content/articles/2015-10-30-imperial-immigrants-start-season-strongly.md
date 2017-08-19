@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They're a force to be reckoned with
 date: "2015-10-30 15:32:15 +0000"
+# Attributes from Felix Online V1
 id: "5694"
 old_path: /sport/5694/imperial-immigrants-start-season-strongly
 aliases:
  - /sport/5694/imperial-immigrants-start-season-strongly
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301531-ygr12-basebal.jpg"
 image_caption: >
   So popular that there's a net to stop their fans rushing them
@@ -22,6 +27,7 @@ image_attribution: "Imperial Immigrants"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

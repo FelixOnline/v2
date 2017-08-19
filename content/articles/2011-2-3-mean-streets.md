@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Classic cinema of the week.
 date: "2011-02-03 19:48:48 +0000"
+# Attributes from Felix Online V1
 id: "726"
 old_path: /film/726/-mean-streets
 aliases:
  - /film/726/-mean-streets
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031947-nm1010-meanstre.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

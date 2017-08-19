@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Osama Awara, new tech editor, informs you about 3D space printing!
 date: "2013-10-12 19:38:01 +0100"
+# Attributes from Felix Online V1
 id: "3858"
 old_path: /tech/3858/3-d-printers-take-off
 aliases:
  - /tech/3858/3-d-printers-take-off
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122037-jal08-tech_3d-space-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

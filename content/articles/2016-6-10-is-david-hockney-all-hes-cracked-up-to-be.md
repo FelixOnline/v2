@@ -4,15 +4,20 @@ title: >
 subtitle: >
   He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny?
 date: "2016-06-10 08:34:21 +0100"
+# Attributes from Felix Online V1
 id: "6264"
 old_path: /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
 aliases:
  - /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2398.jpg"
 image_caption: >
   Barry Humphrie by David Hockney.
@@ -22,6 +27,7 @@ image_attribution: "Richard Schmidt/Royal Academy "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

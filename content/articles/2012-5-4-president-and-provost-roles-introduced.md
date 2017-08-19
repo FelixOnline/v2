@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rector’s role to be split into two positions as Imperial announces Provost for 2013
 date: "2012-05-04 00:29:27 +0100"
+# Attributes from Felix Online V1
 id: "2422"
 old_path: /news/2422/president-and-provost-roles-introduced
 aliases:
  - /news/2422/president-and-provost-roles-introduced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205040131-felix-harvard-university.jpg"
 image_caption: >
   Imperial follows in the footsteps of universities such as Harvard
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

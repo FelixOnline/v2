@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
+# Attributes from Felix Online V1
 id: "854"
 old_path: /science/854/the-state-of-academic-blogging-at-imperial-
 aliases:
  - /science/854/the-state-of-academic-blogging-at-imperial-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

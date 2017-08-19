@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Jeffery on golfing pros, bitches and hoes
 date: "2011-11-17 21:27:45 +0000"
+# Attributes from Felix Online V1
 id: "1777"
 old_path: /music/1777/now-not-then-jcq
 aliases:
  - /music/1777/now-not-then-jcq
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172127-pk1811-jcq.jpg"
 image_caption: >
   That awkward moment when someone takes the last piece of cake... or the cake.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

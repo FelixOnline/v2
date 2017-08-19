@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICC Congress Organiser John Sargent reports on a successful day
 date: "2013-10-24 23:35:53 +0100"
+# Attributes from Felix Online V1
 id: "3911"
 old_path: /features/3911/imperial-college-chess-congress-2013
 aliases:
  - /features/3911/imperial-college-chess-congress-2013
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250034-felix-feat_iccc.jpg"
 image_caption: >
   Imperial College’s FIDE Master Miguel Navarro-Cia (foreground) in action during Round 4
@@ -22,6 +27,7 @@ image_attribution: "John Sargent"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

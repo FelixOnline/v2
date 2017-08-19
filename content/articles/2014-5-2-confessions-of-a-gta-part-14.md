@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are GTAs working hard or hardly working?
 date: "2014-05-02 01:02:00 +0100"
+# Attributes from Felix Online V1
 id: "4538"
 old_path: /comment/4538/confessions-of-a-gta-part-14
 aliases:
  - /comment/4538/confessions-of-a-gta-part-14
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020202-jal08-money-pooping-unicorn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

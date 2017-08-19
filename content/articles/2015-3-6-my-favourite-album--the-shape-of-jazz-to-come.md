@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland shows us the power and beauty of Ornette Coleman's masterpiece
 date: "2015-03-06 13:18:48 +0000"
+# Attributes from Felix Online V1
 id: "5350"
 old_path: /music/5350/my-favourite-album--the-shape-of-jazz-to-come
 aliases:
  - /music/5350/my-favourite-album--the-shape-of-jazz-to-come
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061314-ff712-ejc55450.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students vote against the bill passing through government
 date: "2015-02-12 20:59:38 +0000"
+# Attributes from Felix Online V1
 id: "5237"
 old_path: /news/5237/union-council-condemns-counter-terrorism-bill
 aliases:
  - /news/5237/union-council-condemns-counter-terrorism-bill
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502130159-ps3110-theresa-may-014.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

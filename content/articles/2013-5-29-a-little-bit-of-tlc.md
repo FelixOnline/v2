@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How best can we care for an ageing population? Sophie Shina looks at telecare
 date: "2013-05-29 17:26:25 +0100"
+# Attributes from Felix Online V1
 id: "3636"
 old_path: /science/3636/a-little-bit-of-tlc
 aliases:
  - /science/3636/a-little-bit-of-tlc
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291826-tna08-telecare.jpg"
 image_caption: >
   Before (left) and after (right) telecare. We’re not kidding.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

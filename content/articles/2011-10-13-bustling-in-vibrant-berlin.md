@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A long weekend of artistic pleasures and historical delights: the perfect European city getaway
 date: "2011-10-13 23:34:59 +0100"
+# Attributes from Felix Online V1
 id: "1525"
 old_path: /travel/1525/bustling-in-vibrant-berlin
 aliases:
  - /travel/1525/bustling-in-vibrant-berlin
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140032-felix-berlin.jpg"
 image_caption: >
   "Ich bin ein Berliner."
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
+# Attributes from Felix Online V1
 id: "65"
 old_path: /comment/65/the-abuse-of-sympathy
 aliases:
  - /comment/65/the-abuse-of-sympathy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141738-gda07-Gileadsa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

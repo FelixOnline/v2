@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yacht Club is back and wants you to know
 date: "2017-03-03 16:16:41 +0000"
+# Attributes from Felix Online V1
 id: "6856"
 old_path: /sport/6856/club-developments-going-smart
 aliases:
  - /sport/6856/club-developments-going-smart
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031616-felix-Consulting project_3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

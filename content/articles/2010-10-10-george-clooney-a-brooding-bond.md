@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Director of the much-acclaimed Ian Curtis biopic Control, is back with a bang
 date: "2010-10-10 15:36:03 +0100"
+# Attributes from Felix Online V1
 id: "191"
 old_path: /film/191/george-clooney-a-brooding-bond
 aliases:
  - /film/191/george-clooney-a-brooding-bond
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

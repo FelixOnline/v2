@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There have been few opportunities for candidates to show what they really stand for
 date: "2016-03-11 11:29:02 +0000"
+# Attributes from Felix Online V1
 id: "6022"
 old_path: /comment/6022/elections-2016-mates-or-manifestos
 aliases:
  - /comment/6022/elections-2016-mates-or-manifestos
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111128-felix-mtc.jpg"
 image_caption: >
   The candidates, back when they were playing nice and talking to each other.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

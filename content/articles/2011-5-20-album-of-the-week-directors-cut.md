@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kate Bush's first album in six years
 date: "2011-05-20 05:39:19 +0100"
+# Attributes from Felix Online V1
 id: "1223"
 old_path: /music/1223/album-of-the-week-directors-cut
 aliases:
  - /music/1223/album-of-the-week-directors-cut
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

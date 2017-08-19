@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Record turnout as Union innovates with live voting stats
 date: "2011-03-17 20:18:17 +0000"
+# Attributes from Felix Online V1
 id: "1090"
 old_path: /news/1090/election-winners-announced
 aliases:
  - /news/1090/election-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172023-ks607-new.jpg"
 image_caption: >
   Next year's Sabb team, will they deliver?
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

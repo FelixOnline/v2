@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As France pursues its intervention in Mali, Alexander Soloviev looks into Middle Eastern affairs.
 date: "2013-02-07 23:17:29 +0000"
+# Attributes from Felix Online V1
 id: "3257"
 old_path: /politics/3257/the-legacy-of-the-arab-spring
 aliases:
  - /politics/3257/the-legacy-of-the-arab-spring
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072316-tna08-mali-hollande.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

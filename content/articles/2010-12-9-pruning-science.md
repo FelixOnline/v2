@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cutting teaching staff in Life Sciences is completely incompatible with aims to improve teaching standards
 date: "2010-12-09 20:29:54 +0000"
+# Attributes from Felix Online V1
 id: "524"
 old_path: /comment/524/pruning-science
 aliases:
  - /comment/524/pruning-science
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092027-ac1507-danpic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

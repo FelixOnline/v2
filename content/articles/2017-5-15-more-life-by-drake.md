@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An extensive look into Drake's new hot drop
 date: "2017-05-15 16:24:25 +0100"
+# Attributes from Felix Online V1
 id: "6953"
 old_path: /music/6953/more-life-by-drake-
 aliases:
  - /music/6953/more-life-by-drake-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151823-felix-morelife.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Republic Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

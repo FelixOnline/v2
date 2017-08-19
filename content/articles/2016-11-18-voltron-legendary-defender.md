@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A reinvention of a cult classic from the 80s, lovingly crafted by the skilled hands of Avatar’s Lauren Montgomery & Joaquim Dos Santos. How does Netflix’s modernisation of the iconic Voltron franchise hold up?
 date: "2016-11-18 15:07:31 +0000"
+# Attributes from Felix Online V1
 id: "6470"
 old_path: /tv/6470/voltron-legendary-defender
 aliases:
  - /tv/6470/voltron-legendary-defender
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181507-felix-VLT_Still_4.0.0.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Masters reports on the new minister, who is the brother of London Mayor Boris Johnson
 date: "2015-05-15 12:34:57 +0100"
+# Attributes from Felix Online V1
 id: "5533"
 old_path: /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
 aliases:
  - /news/5533/jo-johnson-announced-as-minister-of-universities-and-science
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151334-cj914-jo-johnson-mp.-008.jpg"
 image_caption: >
   Jo Johnson has a pro-EU stance and supports international collaboration in the sciences
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

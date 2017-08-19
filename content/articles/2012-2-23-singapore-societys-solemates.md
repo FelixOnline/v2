@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah goes to the Great Hall for something that isn’t an exam
 date: "2012-02-23 21:38:50 +0000"
+# Attributes from Felix Online V1
 id: "2259"
 old_path: /news/2259/singapore-societys-solemates
 aliases:
  - /news/2259/singapore-societys-solemates
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232137-pk1811-img_4192-edited.jpg"
 image_caption: >
   I would photoshop a love heart, but that may be hard to justify as time well spent...
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Singapore Society"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

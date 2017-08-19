@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three Imperial teams through to the final of the Engineers Without Borders Challenge Finals
 date: "2013-05-30 12:26:51 +0100"
+# Attributes from Felix Online V1
 id: "3644"
 old_path: /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
 aliases:
  - /news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301322-tna08-imag1584.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "All photos: Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

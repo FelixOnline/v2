@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s the university equivalent of a beauty paegant
 date: "2016-03-04 11:32:06 +0000"
+# Attributes from Felix Online V1
 id: "6000"
 old_path: /comment/6000/the-elections-are-a-popularity-contest
 aliases:
  - /comment/6000/the-elections-are-a-popularity-contest
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041131-felix-TBL_BIG_ELECTIONS_2015_22h50m48sa_0.jpg"
 image_caption: >
   The beautiful people.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "Make sure that you actually care about student welfare or you’ll end up being bored"
 date: "2011-02-03 19:42:57 +0000"
+# Attributes from Felix Online V1
 id: "723"
 old_path: /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
 aliases:
  - /news/723/interview-with-deputy-president-welfare-charlotte-ivison-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031939-ks607-charlott.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

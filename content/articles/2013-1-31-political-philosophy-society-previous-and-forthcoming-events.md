@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Richard Murphy on the Corporate Tax Scandal: Thinking with Portals. Now Yaqub Chaudhary lets you know what they have coming up this term
 date: "2013-01-31 22:58:54 +0000"
+# Attributes from Felix Online V1
 id: "3202"
 old_path: /news/3202/political-philosophy-society-previous-and-forthcoming-events
 aliases:
  - /news/3202/political-philosophy-society-previous-and-forthcoming-events
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312257-tna08-future_money04-1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

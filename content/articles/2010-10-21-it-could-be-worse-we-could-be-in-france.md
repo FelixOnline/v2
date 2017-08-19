@@ -4,15 +4,20 @@ title: >
 subtitle: >
   British economic cuts may pain us now, but the French failure to reform will hurt them more
 date: "2010-10-21 19:19:50 +0100"
+# Attributes from Felix Online V1
 id: "238"
 old_path: /politics/238/it-could-be-worse-we-could-be-in-france
 aliases:
  - /politics/238/it-could-be-worse-we-could-be-in-france
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104201114-felix-manifestation_12_octobre_2010_orléans_-_place_du_martroi_-_1.jpg"
 image_caption: >
   Demonstration in Orléans
@@ -22,6 +27,7 @@ image_attribution: "DC/Wikimedia Commons"
 image_attribution_link: "http://commons.wikimedia.org/wiki/User:DocteurCosmos"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

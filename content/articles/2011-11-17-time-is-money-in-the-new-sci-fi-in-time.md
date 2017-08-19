@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The messages that the film tries to get across are admirable, but it is brought down by a lack of depth in characterization
 date: "2011-11-17 21:55:59 +0000"
+# Attributes from Felix Online V1
 id: "1789"
 old_path: /film/1789/time-is-money-in-the-new-sci-fi-in-time
 aliases:
  - /film/1789/time-is-money-in-the-new-sci-fi-in-time
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172152-pk1811-normal_002.jpg"
 image_caption: >
   Gimme Gimme Gimme some time (feat. Justin Timberlake)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

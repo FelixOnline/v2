@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's student radio station is undergoing a revival says Dan Fowler
 date: "2010-11-11 21:22:21 +0000"
+# Attributes from Felix Online V1
 id: "360"
 old_path: /music/360/ic-radio-are-taking-student-radio-to-the-next-level
 aliases:
  - /music/360/ic-radio-are-taking-student-radio-to-the-next-level
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

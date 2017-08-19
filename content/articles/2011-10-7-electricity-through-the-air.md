@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is this the moment for wireless electricity?
 date: "2011-10-07 10:36:22 +0100"
+# Attributes from Felix Online V1
 id: "1488"
 old_path: /tech/1488/electricity-through-the-air
 aliases:
  - /tech/1488/electricity-through-the-air
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071133-felix-211010-b-delphi.jpg"
 image_caption: >
   Wireless electricity? I'm counting down the days until we get superpowers
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

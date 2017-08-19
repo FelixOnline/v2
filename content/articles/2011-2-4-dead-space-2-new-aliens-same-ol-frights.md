@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
+# Attributes from Felix Online V1
 id: "755"
 old_path: /games/755/dead-space-2-new-aliens-same-ol-frights
 aliases:
  - /games/755/dead-space-2-new-aliens-same-ol-frights
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102041648-sjw209-DeadSpac.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

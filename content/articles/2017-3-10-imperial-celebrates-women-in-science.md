@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gender equality comes to the forefront
 date: "2017-03-10 13:16:41 +0000"
+# Attributes from Felix Online V1
 id: "6865"
 old_path: /news/6865/imperial-celebrates-women-in-science
 aliases:
  - /news/6865/imperial-celebrates-women-in-science
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101316-felix-17212238_10155031808886838_31365007373657929_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

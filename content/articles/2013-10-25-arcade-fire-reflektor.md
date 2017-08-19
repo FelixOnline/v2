@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson previews Arcade Fire’s latest effort.
 date: "2013-10-25 00:39:41 +0100"
+# Attributes from Felix Online V1
 id: "3933"
 old_path: /music/3933/arcade-fire-reflektor
 aliases:
  - /music/3933/arcade-fire-reflektor
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250139-felix-mus_reflektor.jpg"
 image_caption: >
   Arcade Fire - Reflektor
@@ -22,6 +27,7 @@ image_attribution: "Arcade Fire"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

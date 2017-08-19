@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Their 40-minute match will follow the men's game.
 date: "2015-01-23 00:49:01 +0000"
+# Attributes from Felix Online V1
 id: "5114"
 old_path: /news/5114/womens-rugby-team-to-headline-at-the-stoop
 aliases:
  - /news/5114/womens-rugby-team-to-headline-at-the-stoop
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICU Women's Rugby"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

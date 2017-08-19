@@ -4,15 +4,20 @@ title: >
 subtitle: >
   HAHAHAHAHAHA WHO"S LAUGHING NOW?
 date: "2017-02-17 16:23:43 +0000"
+# Attributes from Felix Online V1
 id: "6803"
 old_path: /sport/6803/cambridge-humiliated-by-immortals
 aliases:
  - /sport/6803/cambridge-humiliated-by-immortals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171623-felix-16729065_1155429871232946_5406700816940323399_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

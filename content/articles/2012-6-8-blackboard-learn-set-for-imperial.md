@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
+# Attributes from Felix Online V1
 id: "2541"
 old_path: /news/2541/blackboard-learn-set-for-imperial-
 aliases:
  - /news/2541/blackboard-learn-set-for-imperial-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

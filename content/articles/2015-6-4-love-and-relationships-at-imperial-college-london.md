@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson on the stories behind your relationship statuses
 date: "2015-06-04 23:33:48 +0100"
+# Attributes from Felix Online V1
 id: "5600"
 old_path: /features/5600/love-and-relationships-at-imperial-college-london
 aliases:
  - /features/5600/love-and-relationships-at-imperial-college-london
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050033-cj914-tower.jpg"
 image_caption: >
   Did you meet your partner at Imperial?
@@ -22,6 +27,7 @@ image_attribution: "University of Minnesota"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

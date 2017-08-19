@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mozart’s famous opera Die Zauberflöte was produced last week on Gloucester Road with London Youth Opera and Imperial’s own choir
 date: "2011-03-18 08:31:46 +0000"
+# Attributes from Felix Online V1
 id: "1113"
 old_path: /arts/1113/amateur-serpents-and-super-amorists
 aliases:
  - /arts/1113/amateur-serpents-and-super-amorists
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

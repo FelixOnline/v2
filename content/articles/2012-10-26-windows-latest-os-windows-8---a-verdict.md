@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Ingram tells us his thoughts of Microsoft’s latest OS
 date: "2012-10-26 02:22:59 +0100"
+# Attributes from Felix Online V1
 id: "2740"
 old_path: /tech/2740/windows-latest-os-windows-8---a-verdict-
 aliases:
  - /tech/2740/windows-latest-os-windows-8---a-verdict-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260322-tna08-windows-8-rgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

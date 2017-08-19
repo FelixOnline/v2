@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Council vote in favour of reducing the rent for new halls in Acton, but increasing the rent for halls closer to campus
 date: "2015-02-15 23:04:02 +0000"
+# Attributes from Felix Online V1
 id: "5260"
 old_path: /news/5260/union-council-votes-in-favour-of-new-rent-proposals
 aliases:
  - /news/5260/union-council-votes-in-favour-of-new-rent-proposals
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502152303-ps3110-newseventsimages.jpg"
 image_caption: >
   An Artist's impression of the new halls in Acton
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Microsoft unveils the Kin One and Kin Two messaging phones aimed at 'Generation Upload'
 date: "2010-04-30 11:42:52 +0100"
+# Attributes from Felix Online V1
 id: "134"
 old_path: /tech/134/microsoft-kin-one-and-two
 aliases:
  - /tech/134/microsoft-kin-one-and-two
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004301240-srg03-Microsof.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Manchester and Sussex students stage sit-ins to protest cuts to higher education
 date: "2010-11-18 21:52:56 +0000"
+# Attributes from Felix Online V1
 id: "413"
 old_path: /news/413/students-occupy-uni-buildings-
 aliases:
  - /news/413/students-occupy-uni-buildings-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182151-ks607-mancoccu.jpg"
 image_caption: >
   Manchester students occupying
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

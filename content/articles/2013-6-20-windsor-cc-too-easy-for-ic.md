@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Were they fielding a D team?
 date: "2013-06-20 22:40:30 +0100"
+# Attributes from Felix Online V1
 id: "3711"
 old_path: /sport/3711/windsor-cc-too-easy-for-ic
 aliases:
  - /sport/3711/windsor-cc-too-easy-for-ic
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

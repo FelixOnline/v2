@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Working Party recommends extended teaching hours for humanities
 date: "2011-11-10 19:46:58 +0000"
+# Attributes from Felix Online V1
 id: "1705"
 old_path: /news/1705/potential-college-day-revisions-outlined
 aliases:
  - /news/1705/potential-college-day-revisions-outlined
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111101946-pk1811-img_7132-copy.jpg"
 image_caption: >
   Humanities is concerned that access to languages will be restricted
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Rite has got me dying of boredom
 date: "2011-03-01 21:04:28 +0000"
+# Attributes from Felix Online V1
 id: "964"
 old_path: /film/964/read-me-my-last-rites
 aliases:
  - /film/964/read-me-my-last-rites
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey thinks sometimes we cross the line when it comes to diagnosing mental health disorders vs personality traits.
 date: "2017-06-02 12:55:10 +0100"
+# Attributes from Felix Online V1
 id: "6990"
 old_path: /comment/6990/are-we-medicalising-personality
 aliases:
  - /comment/6990/are-we-medicalising-personality
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021455-felix-Screen Shot 2017-06-02 at 14.54.57.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

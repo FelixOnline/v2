@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Royal Institute selects former Imperial Rector as new Chair of its Council
 date: "2010-10-07 22:41:58 +0100"
+# Attributes from Felix Online V1
 id: "179"
 old_path: /news/179/former-rector-sir-richard-sykes-appointed-chairman-of-the-royal-institute
 aliases:
  - /news/179/former-rector-sir-richard-sykes-appointed-chairman-of-the-royal-institute
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104181209-felix-sir_richard_sykes_b_w.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Peter Gillings/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

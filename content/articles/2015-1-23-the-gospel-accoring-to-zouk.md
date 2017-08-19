@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson catches some house and techno heavyweights along Singapore’s coastline
 date: "2015-01-23 18:53:13 +0000"
+# Attributes from Felix Online V1
 id: "5148"
 old_path: /music/5148/the-gospel-accoring-to-zouk
 aliases:
  - /music/5148/the-gospel-accoring-to-zouk
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231852-jyg11-screen-shot-2015-01-23-at-18.52.32.png"
 image_caption: >
   They don't have palm trees at Glastonbury
@@ -22,6 +27,7 @@ image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

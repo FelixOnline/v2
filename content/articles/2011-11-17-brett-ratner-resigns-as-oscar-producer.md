@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After a string of media disapproval, Brett Ratner steps down from his post
 date: "2011-11-17 22:02:11 +0000"
+# Attributes from Felix Online V1
 id: "1790"
 old_path: /film/1790/brett-ratner-resigns-as-oscar-producer
 aliases:
  - /film/1790/brett-ratner-resigns-as-oscar-producer
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner__111109014817.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "deadline.com"
 image_attribution_link: "http://www-deadline-com.vimg.net/wp-content/uploads/2011/11/brettratner__111109014817.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

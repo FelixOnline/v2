@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Believe it or not, there were other things on tv!
 date: "2012-01-19 19:55:57 +0000"
+# Attributes from Felix Online V1
 id: "2001"
 old_path: /tv/2001/borgen-not-exactly-sherlock
 aliases:
  - /tv/2001/borgen-not-exactly-sherlock
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

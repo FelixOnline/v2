@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl doesn’t really feel like an omnipotent, omniscient god
 date: "2014-11-06 20:00:36 +0000"
+# Attributes from Felix Online V1
 id: "4785"
 old_path: /arts/4785/godus-more-like-god-awful-us
 aliases:
  - /arts/4785/godus-more-like-god-awful-us
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062000-snb11-godus.jpg"
 image_caption: >
   Twenty minutes to get belief? God, my worshipers suck
@@ -22,6 +27,7 @@ image_attribution: "Max Eggl"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

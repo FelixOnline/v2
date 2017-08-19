@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College say they will answer students’ questions through Felix. To ask: email felix@imperial.ac.uk and the COO and Pro-Rector (Education) will answer you.
 date: "2013-03-01 01:10:56 +0000"
+# Attributes from Felix Online V1
 id: "3417"
 old_path: /news/3417/pressure-continues-over-acton
 aliases:
  - /news/3417/pressure-continues-over-acton
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010117-tna08-acton-drawing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

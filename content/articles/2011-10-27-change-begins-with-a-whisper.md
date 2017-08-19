@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A controversial theme gives way to a resolutely feel-good film
 date: "2011-10-27 21:42:39 +0100"
+# Attributes from Felix Online V1
 id: "1613"
 old_path: /film/1613/change-begins-with-a-whisper
 aliases:
  - /film/1613/change-begins-with-a-whisper
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110272240-felix-11-ffilm1.jpg"
 image_caption: >
   Come on UCAS – did I get into Imperial College, or not?!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

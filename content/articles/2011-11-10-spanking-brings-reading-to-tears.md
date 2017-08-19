@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reading in Imperial hockey demolition
 date: "2011-11-10 22:40:01 +0000"
+# Attributes from Felix Online V1
 id: "1751"
 old_path: /sport/1751/spanking-brings-reading-to-tears
 aliases:
  - /sport/1751/spanking-brings-reading-to-tears
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102239-felix-match%20report%20photo%201.jpg"
 image_caption: >
   Speak softly and carry a big stick
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joseph Dudley shoots for the stars
 date: "2013-03-07 21:48:39 +0000"
+# Attributes from Felix Online V1
 id: "3430"
 old_path: /news/3430/how-do-you-organise-a-space-conference-planet
 aliases:
  - /news/3430/how-do-you-organise-a-space-conference-planet
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

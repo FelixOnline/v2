@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ANNOUNCEMENT FRESHERS: FREE ICE CREAM and cinema screenings too! Imperial cinema-your student cinema- is putting on a double bill during freshers’ week of two summer blockbusters during freshers’ week. Come along to see Iron Man 3 and Monsters University!
 date: "2013-09-29 16:04:55 +0100"
+# Attributes from Felix Online V1
 id: "3785"
 old_path: /film/3785/an-iron-monster-at-icu-cinema
 aliases:
  - /film/3785/an-iron-monster-at-icu-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291705-jal08-monstersu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

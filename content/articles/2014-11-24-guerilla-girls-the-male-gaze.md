@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-24 12:19:47 +0000"
+# Attributes from Felix Online V1
 id: "4934"
 old_path: /arts/4934/guerilla-girls-the-male-gaze
 aliases:
  - /arts/4934/guerilla-girls-the-male-gaze
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241219-ps3110-p78793_10.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photo: Guerilla Girls"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

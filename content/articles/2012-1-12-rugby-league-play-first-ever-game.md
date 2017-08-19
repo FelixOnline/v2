@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Woking 54-22 Imperial
 date: "2012-01-12 20:10:26 +0000"
+# Attributes from Felix Online V1
 id: "1964"
 old_path: /sport/1964/rugby-league-play-first-ever-game
 aliases:
  - /sport/1964/rugby-league-play-first-ever-game
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122014-cac111-picture0231.jpg"
 image_caption: >
   The guy on the left obviously tried it a bit too hard
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

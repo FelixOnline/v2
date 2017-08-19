@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Zain Rizvi describes the action from a rain-sodden Harlington pitch as Imperial fail to defend 79
 date: "2014-05-19 13:21:32 +0100"
+# Attributes from Felix Online V1
 id: "4606"
 old_path: /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
 aliases:
  - /sport/4606/harry-redknapp-cant-save-cricketers-from-harlington-pitch
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405191421-jal08-sport_cricket_redknapp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICU Cricket"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

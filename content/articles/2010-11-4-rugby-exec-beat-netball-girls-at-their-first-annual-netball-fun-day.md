@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First Annual Netball Day.
 date: "2010-11-04 18:51:10 +0000"
+# Attributes from Felix Online V1
 id: "315"
 old_path: /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
 aliases:
  - /sport/315/rugby-exec-beat-netball-girls-at-their-first-annual-netball-fun-day-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041849-ks607-netballn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fmg08"
 author_name: "Fern Gibbons"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

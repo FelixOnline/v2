@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Football tackles Canterbury on less than ideal terrain, with mixed results...
 date: "2013-02-08 00:14:17 +0000"
+# Attributes from Felix Online V1
 id: "3268"
 old_path: /sport/3268/not-drowning-but-waving
 aliases:
  - /sport/3268/not-drowning-but-waving
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

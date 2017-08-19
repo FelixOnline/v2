@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the RCSU Summer Ball just around the corner, James Tsim, RCSU President, talks about the year that has just gone by
 date: "2013-06-13 23:42:58 +0100"
+# Attributes from Felix Online V1
 id: "3699"
 old_path: /news/3699/rcsu--year-in-review
 aliases:
  - /news/3699/rcsu--year-in-review
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140042-tna08-jez.jpeg"
 image_caption: >
   RCSU with their Jezebel
@@ -22,6 +27,7 @@ image_attribution: "RCSU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

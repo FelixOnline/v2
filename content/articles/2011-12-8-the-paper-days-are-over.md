@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The days of the printed newspaper are numbered, argues Marie-Laure Hicks, as the salad days of social media see a decline in the printing of broadsheets and Berliners
 date: "2011-12-08 20:03:21 +0000"
+# Attributes from Felix Online V1
 id: "1907"
 old_path: /biz/1907/the-paper-days-are-over
 aliases:
  - /biz/1907/the-paper-days-are-over
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082001-cac111-uprisingphones.jpg"
 image_caption: >
   Mobile technology and social media networks played a key role in the uprisings of the Arab Spring
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

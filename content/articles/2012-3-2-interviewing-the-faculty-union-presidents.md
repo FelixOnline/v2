@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This year’s Imperial College Union elections include Faculty Union Presidents in the line-up for the first time. Felix speaks to the outgoing officers
 date: "2012-03-02 01:33:36 +0000"
+# Attributes from Felix Online V1
 id: "2305"
 old_path: /news/2305/interviewing-the-faculty-union-presidents
 aliases:
  - /news/2305/interviewing-the-faculty-union-presidents
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

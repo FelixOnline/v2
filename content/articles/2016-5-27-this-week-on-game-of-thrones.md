@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-27 09:04:26 +0100"
+# Attributes from Felix Online V1
 id: "6220"
 old_path: /tv/6220/this-week-on-game-of-thrones
 aliases:
  - /tv/6220/this-week-on-game-of-thrones
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

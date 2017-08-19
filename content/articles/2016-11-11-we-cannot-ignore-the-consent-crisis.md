@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Abigail de Bruin discusses the Union’s spend on consent training in light of rising sexual crime statistics
 date: "2016-11-11 13:59:12 +0000"
+# Attributes from Felix Online V1
 id: "6423"
 old_path: /comment/6423/we-cannot-ignore-the-consent-crisis
 aliases:
  - /comment/6423/we-cannot-ignore-the-consent-crisis
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111507-felix-Screen Shot 2016-11-11 at 14.13.41.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

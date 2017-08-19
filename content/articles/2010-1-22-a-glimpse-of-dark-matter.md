@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kelly Oakes, a glimpse of dark matter?
 date: "2010-01-22 14:24:10 +0000"
+# Attributes from Felix Online V1
 id: "54"
 old_path: /science/54/a-glimpse-of-dark-matter
 aliases:
  - /science/54/a-glimpse-of-dark-matter
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001221421-rsp07-science.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

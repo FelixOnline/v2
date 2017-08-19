@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A supremely (un)knowledgeable column about music
 date: "2011-10-07 13:28:01 +0100"
+# Attributes from Felix Online V1
 id: "1499"
 old_path: /music/1499/kadhims-totally-hot-album-of-the-week-1
 aliases:
  - /music/1499/kadhims-totally-hot-album-of-the-week-1
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071423-ks607-tumblr_lniuaig37f1qbd529o1_r1_500.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

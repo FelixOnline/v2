@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three lambs on the shirt
 date: "2010-11-25 21:55:48 +0000"
+# Attributes from Felix Online V1
 id: "444"
 old_path: /comment/444/three-lambs-on-the-shirt
 aliases:
  - /comment/444/three-lambs-on-the-shirt
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252153-nm1010-charles.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
 author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"

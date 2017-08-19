@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Nabihah Iqba's latest EP is a hazy blur of sharp light and colour
 date: "2016-03-08 16:51:05 +0000"
+# Attributes from Felix Online V1
 id: "6014"
 old_path: /music/6014/the-dreamy-synth-pop-of-throwing-shade
 aliases:
  - /music/6014/the-dreamy-synth-pop-of-throwing-shade
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603081637-cet13-throwingshade.jpg"
 image_caption: >
   The iridescent artwork of House of Silk.
@@ -22,6 +27,7 @@ image_attribution: "Ninja Tune"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

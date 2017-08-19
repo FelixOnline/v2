@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The annual convention returns
 date: "2016-02-12 12:01:47 +0000"
+# Attributes from Felix Online V1
 id: "5918"
 old_path: /cands/5918/picocon-33-origins---20th-february
 aliases:
  - /cands/5918/picocon-33-origins---20th-february
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121200-felix-tumblr_static_24anzp00fvesog8sk00wg44sg.jpg"
 image_caption: >
   Guest of Honour, Carrie Hope Fletcher
@@ -22,6 +27,7 @@ image_attribution: "www.carriehopeletcher.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

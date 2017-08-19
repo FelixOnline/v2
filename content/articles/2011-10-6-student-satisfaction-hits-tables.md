@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New emphasis on NSS sees Imperial fall 11 places
 date: "2011-10-06 23:53:30 +0100"
+# Attributes from Felix Online V1
 id: "1467"
 old_path: /news/1467/student-satisfaction-hits-tables
 aliases:
  - /news/1467/student-satisfaction-hits-tables
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110070159-felix-league-tables.jpg"
 image_caption: >
   Mixed fortunes for Imperial in league table results
@@ -22,6 +27,7 @@ image_attribution: "Sean Gallagher"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

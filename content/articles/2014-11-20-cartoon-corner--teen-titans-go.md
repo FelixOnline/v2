@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Rivlin on cancellations and claims of ruined childhoods
 date: "2014-11-20 21:48:10 +0000"
+# Attributes from Felix Online V1
 id: "4920"
 old_path: /tv/4920/cartoon-corner--teen-titans-go
 aliases:
  - /tv/4920/cartoon-corner--teen-titans-go
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202148-cj914-teen-titans-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "comicvine"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

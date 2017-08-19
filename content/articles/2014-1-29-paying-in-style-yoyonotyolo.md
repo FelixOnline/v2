@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You must have seen it around these days, the proliferation of pink flyers littering imperial’s walkways. Flyers that seem to have the word yolo written on them. No these flyers actually say yoyo on them, and what they talk about is actually quite intriguing.
 date: "2014-01-29 16:19:28 +0000"
+# Attributes from Felix Online V1
 id: "4304"
 old_path: /tech/4304/paying-in-style-yoyonotyolo
 aliases:
  - /tech/4304/paying-in-style-yoyonotyolo
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401291619-me1711-tech_yoyo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

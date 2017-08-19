@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keir Little thinks that you should know
 date: "2013-10-25 00:12:31 +0100"
+# Attributes from Felix Online V1
 id: "3924"
 old_path: /books/3924/wth-is-nanowrimo
 aliases:
  - /books/3924/wth-is-nanowrimo
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250112-felix-nanowrimo.png"
 image_caption: >
   NaNoWriMo: National Novel Writing Month
@@ -22,6 +27,7 @@ image_attribution: "NaNoWriMo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

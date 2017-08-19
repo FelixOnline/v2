@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
+# Attributes from Felix Online V1
 id: "5751"
 old_path: /film/5751/the-cinema-is-an-instrument-of-poetry
 aliases:
  - /film/5751/the-cinema-is-an-instrument-of-poetry
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200915-ygr12-belle-de-jour.jpg"
 image_caption: >
   Catherine Deneuve in the French drama, Belle de Jour, directed by Buñuel in 1967.
@@ -22,6 +27,7 @@ image_attribution: "MUBI"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

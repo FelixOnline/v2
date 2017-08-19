@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This isn't 50 Shades of Grey
 date: "2017-03-03 16:11:20 +0000"
+# Attributes from Felix Online V1
 id: "6854"
 old_path: /sex/6854/enter-the-kink--bdsm-101
 aliases:
  - /sex/6854/enter-the-kink--bdsm-101
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031607-felix-Screen Shot 2017-03-03 at 16.06.48.png"
 image_caption: >
   Get you St Andrews cross out
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

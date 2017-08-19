@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt writes as ‘Reclaim the Power’ occupy front entrance
 date: "2015-06-04 23:12:52 +0100"
+# Attributes from Felix Online V1
 id: "5594"
 old_path: /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
 aliases:
  - /news/5594/no-dash-for-gas-activist-group-protests-at-royal-school-of-mines
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050012-cj914-rwe-leeds-blockade-21-1024x816.jpg"
 image_caption: >
   The Royal School of Mines was not the only group to face protests. There were protests outside the Department of Energy and Climate Change, as well as at the headquarters of Npower.
@@ -22,6 +27,7 @@ image_attribution: "No Dash for Gas"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
+# Attributes from Felix Online V1
 id: "453"
 old_path: /news/453/royal-college-of-art-students-block-kensington-road-
 aliases:
  - /news/453/royal-college-of-art-students-block-kensington-road-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

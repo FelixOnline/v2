@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
+# Attributes from Felix Online V1
 id: "4851"
 old_path: /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
 aliases:
  - /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102255-ps3110-commonstudentillnesses-wp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

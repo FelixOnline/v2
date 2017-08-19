@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A weirdly relaxed editorial
 date: "2012-11-15 20:59:12 +0000"
+# Attributes from Felix Online V1
 id: "2887"
 old_path: /comment/2887/science-and-relaxing
 aliases:
  - /comment/2887/science-and-relaxing
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152059-tna08-keyboard.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

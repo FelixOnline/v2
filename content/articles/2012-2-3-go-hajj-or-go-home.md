@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taking a journey to the Heart of Islam
 date: "2012-02-03 10:46:10 +0000"
+# Attributes from Felix Online V1
 id: "2127"
 old_path: /arts/2127/go-hajj-or-go-home
 aliases:
  - /arts/2127/go-hajj-or-go-home
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031047-sjw209-tumblr_l7nkdx3cmw1qcy0nqo1_500.jpg"
 image_caption: >
   Ahmed Mater’s Magnetism
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Could our porcine chums be out of the frying pan?
 date: "2012-01-26 23:10:14 +0000"
+# Attributes from Felix Online V1
 id: "2074"
 old_path: /comment/2074/pigs--our-friends-and-maybe-our-equals
 aliases:
  - /comment/2074/pigs--our-friends-and-maybe-our-equals
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262308-felix-pigs-dalton.jpg"
 image_caption: >
   Not even the ultra masculine Timothy Dalton can bring himself to shoot man’s equals: pigs
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

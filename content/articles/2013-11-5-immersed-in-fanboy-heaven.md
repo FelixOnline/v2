@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi reviews Pelican’s long awaited return
 date: "2013-11-05 09:33:59 +0000"
+# Attributes from Felix Online V1
 id: "3992"
 old_path: /music/3992/immersed-in-fanboy-heaven
 aliases:
  - /music/3992/immersed-in-fanboy-heaven
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

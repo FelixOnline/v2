@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik finds that Sargent was not all that he was painted to be
 date: "2015-02-22 17:39:10 +0000"
+# Attributes from Felix Online V1
 id: "5303"
 old_path: /arts/5303/sargent--a-bridge-to-the-modern
 aliases:
  - /arts/5303/sargent--a-bridge-to-the-modern
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
 image_caption: >
   Edouard and Marie-Louise Pailleron by John Singer Sargent, 1881.
@@ -22,6 +27,7 @@ image_attribution: "Des Moines Art Center"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

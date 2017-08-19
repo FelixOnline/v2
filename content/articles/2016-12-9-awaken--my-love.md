@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gambino takes you on a musical journey
 date: "2016-12-09 15:43:57 +0000"
+# Attributes from Felix Online V1
 id: "6578"
 old_path: /music/6578/awaken--my-love-
 aliases:
  - /music/6578/awaken--my-love-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Glassnote Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

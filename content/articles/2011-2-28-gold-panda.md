@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Fraser takes a look at the musician who blends sampler-triggered melodies with more club-ready beats
 date: "2011-02-28 21:34:07 +0000"
+# Attributes from Felix Online V1
 id: "949"
 old_path: /music/949/gold-panda
 aliases:
  - /music/949/gold-panda
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282131-ks607-goldpand.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

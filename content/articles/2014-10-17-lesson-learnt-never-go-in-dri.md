@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oliver Benton covers the first non-alcoholic Union event of the year
 date: "2014-10-17 15:07:11 +0100"
+# Attributes from Felix Online V1
 id: "4734"
 old_path: /news/4734/lesson-learnt-never-go-in-dri
 aliases:
  - /news/4734/lesson-learnt-never-go-in-dri
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171646-pk1811-empty_metric_by_tlim.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

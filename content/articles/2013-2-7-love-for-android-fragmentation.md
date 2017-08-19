@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The bane and boon of Android, the world’s biggest mobile ecosystem
 date: "2013-02-07 23:40:48 +0000"
+# Attributes from Felix Online V1
 id: "3266"
 old_path: /tech/3266/love-for-android-fragmentation
 aliases:
  - /tech/3266/love-for-android-fragmentation
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072339-tna08-untitled-1gkrwj.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

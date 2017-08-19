@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alcohol is a drug and it's time we include it the converastion
 date: "2017-06-09 15:34:01 +0100"
+# Attributes from Felix Online V1
 id: "7020"
 old_path: /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
 aliases:
  - /millennials/7020/were-all-a-bunch-of-boozy-drug-addicts
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091836-felix-Screen Shot 2017-06-09 at 18.36.00.png"
 image_caption: >
   LADSLADSLADSLADSLADS
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

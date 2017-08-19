@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union President Paul Beaumont gives his opinion on the NUS
 date: "2013-01-10 22:35:10 +0000"
+# Attributes from Felix Online V1
 id: "3089"
 old_path: /comment/3089/nus-a-pottered-history
 aliases:
  - /comment/3089/nus-a-pottered-history
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

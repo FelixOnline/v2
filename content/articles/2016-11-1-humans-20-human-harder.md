@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Humans made a big splash when it launched last year. Its compelling performances and intriguing premise made it a must-watch. Ahead of the launch of the second season this Sunday, felix lets you know if it retains the quality of the first.
 date: "2016-11-01 00:09:44 +0000"
+# Attributes from Felix Online V1
 id: "6377"
 old_path: /tv/6377/humans-20-human-harder
 aliases:
  - /tv/6377/humans-20-human-harder
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611010007-felix-IMG_0505.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Anurag Deshpande"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

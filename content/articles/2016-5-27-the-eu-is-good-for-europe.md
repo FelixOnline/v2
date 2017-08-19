@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But pretty bad for the rest of the world
 date: "2016-05-27 08:47:16 +0100"
+# Attributes from Felix Online V1
 id: "6204"
 old_path: /comment/6204/the-eu-is-good-for-europe
 aliases:
  - /comment/6204/the-eu-is-good-for-europe
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

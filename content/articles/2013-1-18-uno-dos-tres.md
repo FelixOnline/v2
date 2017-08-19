@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl reviews the first of a trilogy of new Green Day albums
 date: "2013-01-18 00:50:49 +0000"
+# Attributes from Felix Online V1
 id: "3143"
 old_path: /music/3143/uno-dos-tres
 aliases:
  - /music/3143/uno-dos-tres
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180050-tna08--uno-album-cover-artwork-green-day-31143271-1050-1050.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

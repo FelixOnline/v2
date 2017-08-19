@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Morton interviews constitutional expert Lord Norton about constitutional reform
 date: "2012-12-07 01:12:50 +0000"
+# Attributes from Felix Online V1
 id: "3031"
 old_path: /news/3031/a-lordable-conversation
 aliases:
  - /news/3031/a-lordable-conversation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070112-tna08-lord-norton-msp_79121.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Harrold interviews Broadway Leading Lady Stephanie J Block about her Upcoming Concert... and Beer
 date: "2010-02-18 16:43:26 +0000"
+# Attributes from Felix Online V1
 id: "92"
 old_path: /arts/92/broadway-royalty-coming-through
 aliases:
  - /arts/92/broadway-royalty-coming-through
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002181633-lh106-Stephani.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

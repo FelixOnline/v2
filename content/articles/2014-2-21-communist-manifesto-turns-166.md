@@ -4,15 +4,20 @@ title: >
 subtitle: >
   To celebrate the 166th anniversary of the publication of the Communist Manifesto, I shall be writing a three part series on the Manifesto: on its theoretical contents, on its history and impact and on its flaws and its position in Marxist thought.
 date: "2014-02-21 03:30:19 +0000"
+# Attributes from Felix Online V1
 id: "4431"
 old_path: /comment/4431/communist-manifesto-turns-166
 aliases:
  - /comment/4431/communist-manifesto-turns-166
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
+# Attributes from Felix Online V1
 id: "98"
 old_path: /tech/98/facebook-login-search-dimwits-come-unstuck
 aliases:
  - /tech/98/facebook-login-search-dimwits-come-unstuck
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

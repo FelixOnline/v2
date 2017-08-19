@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lef Apostolakis responds to Aayush’s response (left)
 date: "2016-11-04 14:23:30 +0000"
+# Attributes from Felix Online V1
 id: "6391"
 old_path: /comment/6391/its-my-party-and-ill-cry-if-i-want-to
 aliases:
  - /comment/6391/its-my-party-and-ill-cry-if-i-want-to
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

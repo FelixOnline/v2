@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All this Royal Wedding tosh has got me reminiscing
 date: "2010-11-25 22:02:48 +0000"
+# Attributes from Felix Online V1
 id: "446"
 old_path: /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
 aliases:
  - /comment/446/all-this-royal-wedding-tosh-has-got-me-reminiscing
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ann09"
 author_name: "Alexandra Nowbar"
 author_image_path: "img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"

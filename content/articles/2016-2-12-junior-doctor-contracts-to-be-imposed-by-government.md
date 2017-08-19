@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hours after the announcement a protest was held outside the Department of Health
 date: "2016-02-12 11:09:46 +0000"
+# Attributes from Felix Online V1
 id: "5894"
 old_path: /news/5894/junior-doctor-contracts-to-be-imposed-by-government
 aliases:
  - /news/5894/junior-doctor-contracts-to-be-imposed-by-government
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121109-felix-IMG_7823.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

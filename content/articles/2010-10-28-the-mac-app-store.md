@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
+# Attributes from Felix Online V1
 id: "265"
 old_path: /tech/265/the-mac-app-store-
 aliases:
  - /tech/265/the-mac-app-store-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

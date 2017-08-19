@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Malaysian Society introduce this year’s event
 date: "2013-03-01 00:07:15 +0000"
+# Attributes from Felix Online V1
 id: "3400"
 old_path: /news/3400/here-is-the-plan
 aliases:
  - /news/3400/here-is-the-plan
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010007-tna08-mnight-poster-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

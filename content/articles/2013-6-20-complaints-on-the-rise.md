@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Upward trends as 2012 is a record year for complaints
 date: "2013-06-20 23:39:53 +0100"
+# Attributes from Felix Online V1
 id: "3725"
 old_path: /news/3725/complaints-on-the-rise
 aliases:
  - /news/3725/complaints-on-the-rise
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

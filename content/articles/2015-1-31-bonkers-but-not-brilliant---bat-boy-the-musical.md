@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenburg heads to Southwark to check out their cult musical revival
 date: "2015-01-31 19:16:47 +0000"
+# Attributes from Felix Online V1
 id: "5171"
 old_path: /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
 aliases:
  - /arts/5171/bonkers-but-not-brilliant---bat-boy-the-musical
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
 image_caption: >
   Rob Compton as Bat Boy and Georgina Hagen as Shelley
@@ -22,6 +27,7 @@ image_attribution: "Garry Lake"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

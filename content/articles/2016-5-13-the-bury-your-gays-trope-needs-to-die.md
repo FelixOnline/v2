@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LGBT fans deserve, and are demanding better from TV networks and producers
 date: "2016-05-13 08:55:29 +0100"
+# Attributes from Felix Online V1
 id: "6148"
 old_path: /comment/6148/the-bury-your-gays-trope-needs-to-die
 aliases:
  - /comment/6148/the-bury-your-gays-trope-needs-to-die
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131054-felix-web.jpg"
 image_caption: >
   This is not worthy of a death sentence.
@@ -22,6 +27,7 @@ image_attribution: "The 100"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

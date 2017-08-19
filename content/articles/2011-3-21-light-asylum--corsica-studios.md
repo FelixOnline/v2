@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Luke Turner on the New York pair with enough-balls-to-bust-up-Schwarzenegger
 date: "2011-03-21 14:36:38 +0000"
+# Attributes from Felix Online V1
 id: "1125"
 old_path: /music/1125/light-asylum--corsica-studios
 aliases:
  - /music/1125/light-asylum--corsica-studios
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As console sales slow, the big three will be betting on E3 to give them a boost
 date: "2016-06-10 08:36:08 +0100"
+# Attributes from Felix Online V1
 id: "6266"
 old_path: /games/6266/felixs-guide-to-e3-2016
 aliases:
  - /games/6266/felixs-guide-to-e3-2016
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101035-felix-watchdogs.jpg"
 image_caption: >
   It’s not just the rents that are high.
@@ -22,6 +27,7 @@ image_attribution: "Ubisoft"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

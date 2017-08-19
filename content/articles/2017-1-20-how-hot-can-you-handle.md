@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Riach looks at a study claiming that ‘spicing up your life’, could actually prolong it
 date: "2017-01-20 15:12:23 +0000"
+# Attributes from Felix Online V1
 id: "6665"
 old_path: /science/6665/how-hot-can-you-handle
 aliases:
  - /science/6665/how-hot-can-you-handle
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201512-felix-chili-pepper-621890_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

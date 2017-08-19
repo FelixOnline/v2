@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lighter than the pile of revision notes an arts student makes. Take THAT arts students.
 date: "2013-05-22 14:30:34 +0100"
+# Attributes from Felix Online V1
 id: "3598"
 old_path: /science/3598/worlds-lightest-material-made
 aliases:
  - /science/3598/worlds-lightest-material-made
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

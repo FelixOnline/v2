@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The humanitarian organisation has a significant presence at Imperial – find out how to get involved
 date: "2012-03-01 21:44:01 +0000"
+# Attributes from Felix Online V1
 id: "2279"
 old_path: /news/2279/on-mdecins-sans-frontires
 aliases:
  - /news/2279/on-mdecins-sans-frontires
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

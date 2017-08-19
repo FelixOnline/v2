@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli on why The Mindy Project deserves to be taken seriously
 date: "2014-11-17 18:18:02 +0000"
+# Attributes from Felix Online V1
 id: "4903"
 old_path: /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
 aliases:
  - /tv/4903/is-mindy-kaling-too-ugly-or-are-you-just-too-rude
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411171817-ps3110-the-mindy-project-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

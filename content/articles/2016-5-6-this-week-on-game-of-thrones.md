@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's series 6, episode 2!
 date: "2016-05-06 10:17:14 +0100"
+# Attributes from Felix Online V1
 id: "6135"
 old_path: /tv/6135/this-week-on-game-of-thrones-
 aliases:
  - /tv/6135/this-week-on-game-of-thrones-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061116-felix-game-of-thrones-episode-2-4-810x539.jpg"
 image_caption: >
   That awkward moment when you’re older than your father.
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

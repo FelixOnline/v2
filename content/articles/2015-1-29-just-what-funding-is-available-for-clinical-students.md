@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What grants and loans are medical students entitled to?
 date: "2015-01-29 23:55:41 +0000"
+# Attributes from Felix Online V1
 id: "5157"
 old_path: /news/5157/just-what-funding-is-available-for-clinical-students
 aliases:
  - /news/5157/just-what-funding-is-available-for-clinical-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
 image_caption: >
   Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

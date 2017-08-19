@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Youth Lagoon: Wondrous Bughouse
 date: "2013-03-07 22:07:58 +0000"
+# Attributes from Felix Online V1
 id: "3440"
 old_path: /music/3440/ams-album-of-the-week-16
 aliases:
  - /music/3440/ams-album-of-the-week-16
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072207-txl11-youth-lagoon-wondrous-bughouse.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

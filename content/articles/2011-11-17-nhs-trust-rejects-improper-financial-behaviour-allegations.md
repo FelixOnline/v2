@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Trust responds to news reports
 date: "2011-11-17 21:09:32 +0000"
+# Attributes from Felix Online V1
 id: "1770"
 old_path: /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
 aliases:
  - /news/1770/nhs-trust-rejects-improper-financial-behaviour-allegations
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111181010-felix-mark_davies.jpg"
 image_caption: >
   Mark Davies, Chief Executive of Imperial College Healthcare NHS Trust
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

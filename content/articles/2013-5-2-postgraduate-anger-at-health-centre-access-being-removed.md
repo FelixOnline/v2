@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Health Centre no longer allows postgraduate students to access their services if they don't live in the 20 post codes that they cover
 date: "2013-05-02 13:48:55 +0100"
+# Attributes from Felix Online V1
 id: "3536"
 old_path: /news/3536/postgraduate-anger-at-health-centre-access-being-removed
 aliases:
  - /news/3536/postgraduate-anger-at-health-centre-access-being-removed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021450-tna08-screen-shot-2013-05-02-at-14.49.58.png"
 image_caption: >
   The Health Centre website, with the message to students
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

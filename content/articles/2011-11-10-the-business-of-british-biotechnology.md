@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on some of the opportunities and threats facing one of the UK’s most promising industries
 date: "2011-11-10 21:26:10 +0000"
+# Attributes from Felix Online V1
 id: "1730"
 old_path: /biz/1730/the-business-of-british-biotechnology
 aliases:
  - /biz/1730/the-business-of-british-biotechnology
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102125-pk1811-human-genome-ten-years-in_17889_600x450.jpg"
 image_caption: >
   A man stands silhouetted agains a digital representation of the human genome
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our picks for the Academy Awards
 date: "2016-02-26 11:48:52 +0000"
+# Attributes from Felix Online V1
 id: "5970"
 old_path: /film/5970/felix-steps-out-onto-the-red-carpet
 aliases:
  - /film/5970/felix-steps-out-onto-the-red-carpet
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261143-felix-Revenan Oscar.jpg"
 image_caption: >
   Give that bear an Oscar!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

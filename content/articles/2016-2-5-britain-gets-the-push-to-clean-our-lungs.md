@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will £600 million be enough to help the UK keep any of its COP21 promises?
 date: "2016-02-05 12:03:09 +0000"
+# Attributes from Felix Online V1
 id: "5868"
 old_path: /science/5868/britain-gets-the-push-to-clean-our-lungs
 aliases:
  - /science/5868/britain-gets-the-push-to-clean-our-lungs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051201-felix-5641181503_bb7dfb6f62_o.jpg"
 image_caption: >
   Smog obscuring the view from Primrose Hill.
@@ -22,6 +27,7 @@ image_attribution: "Luton Anderson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

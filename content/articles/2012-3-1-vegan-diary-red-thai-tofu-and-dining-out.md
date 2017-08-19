@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hannah and Clare treat themselves to a meal out
 date: "2012-03-01 22:02:28 +0000"
+# Attributes from Felix Online V1
 id: "2283"
 old_path: /food/2283/vegan-diary-red-thai-tofu-and-dining-out
 aliases:
  - /food/2283/vegan-diary-red-thai-tofu-and-dining-out
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012158-ams111-dsc_0008.gif"
 image_caption: >
   It’s getting better every week!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

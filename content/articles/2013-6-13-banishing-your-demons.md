@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope delves into the world of schizophrenia and iPhone apps
 date: "2013-06-13 22:50:35 +0100"
+# Attributes from Felix Online V1
 id: "3683"
 old_path: /science/3683/banishing-your-demons
 aliases:
  - /science/3683/banishing-your-demons
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132350-tna08-idichotic.jpg"
 image_caption: >
   Members of the Bergen fMRI group. Dr Kristiina Kompus (Second from left), Josef Bless (Middle)
@@ -22,6 +27,7 @@ image_attribution: "Alex Craven"
 image_attribution_link: "http://dichoticlistening.com/about-us"
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

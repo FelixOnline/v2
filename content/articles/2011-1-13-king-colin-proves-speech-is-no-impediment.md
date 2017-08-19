@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
+# Attributes from Felix Online V1
 id: "567"
 old_path: /film/567/king-colin-proves-speech-is-no-impediment-
 aliases:
  - /film/567/king-colin-proves-speech-is-no-impediment-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131933-ks607-kingsspe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

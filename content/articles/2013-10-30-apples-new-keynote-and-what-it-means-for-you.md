@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As mentioned in last weeks news bubble Apple had a key note last tuesday.
 date: "2013-10-30 15:59:20 +0000"
+# Attributes from Felix Online V1
 id: "3961"
 old_path: /tech/3961/apples-new-keynote-and-what-it-means-for-you
 aliases:
  - /tech/3961/apples-new-keynote-and-what-it-means-for-you
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310301604-me1711-retina-ipad-mini-ipad-air-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

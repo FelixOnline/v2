@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Only two places for the whole of engineering this year, as fewer students come to Imperial from California
 date: "2013-01-17 23:49:06 +0000"
+# Attributes from Felix Online V1
 id: "3121"
 old_path: /news/3121/engineers-left-frustrated-over-exchange
 aliases:
  - /news/3121/engineers-left-frustrated-over-exchange
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301172348-tna08-south_hall--uc_berkeley--panoramic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

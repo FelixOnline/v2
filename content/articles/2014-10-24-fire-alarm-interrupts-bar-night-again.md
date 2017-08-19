@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oliver Benton reports as students refuse to leave until Phil Power does
 date: "2014-10-24 12:48:01 +0100"
+# Attributes from Felix Online V1
 id: "4747"
 old_path: /news/4747/fire-alarm-interrupts-bar-night-again
 aliases:
  - /news/4747/fire-alarm-interrupts-bar-night-again
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411021847-ps3110-10631142_10202526484876168_7205085367365400776_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

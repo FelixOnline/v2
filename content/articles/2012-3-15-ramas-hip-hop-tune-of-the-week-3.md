@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shad – 'Besides'
 date: "2012-03-15 21:20:16 +0000"
+# Attributes from Felix Online V1
 id: "2377"
 old_path: /music/2377/ramas-hip-hop-tune-of-the-week-3
 aliases:
  - /music/2377/ramas-hip-hop-tune-of-the-week-3
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152119-ams111-shad-alt.jpg"
 image_caption: >
   This will turn your world upside-down
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

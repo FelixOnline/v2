@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Meet Professor Lord Robert Winston. Attend a grand final in a prestigious location. Win a slice of a prize pot of over £4000.
 date: "2013-11-05 09:48:27 +0000"
+# Attributes from Felix Online V1
 id: "4006"
 old_path: /features/4006/rcsu-science-challenge
 aliases:
  - /features/4006/rcsu-science-challenge
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

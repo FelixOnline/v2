@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Impressive win in Buckinghamshire
 date: "2012-02-09 23:16:25 +0000"
+# Attributes from Felix Online V1
 id: "2174"
 old_path: /sport/2174/riding-1st-team-grab-league-top-spot
 aliases:
  - /sport/2174/riding-1st-team-grab-league-top-spot
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092316-pk1811-photo.jpg"
 image_caption: >
   Insert horse-related joke here
@@ -22,6 +27,7 @@ image_attribution: "IC Riding"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

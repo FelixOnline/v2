@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:17:34 +0100"
+# Attributes from Felix Online V1
 id: "4738"
 old_path: /news/4738/leicesters-paper-censored-by-union
 aliases:
  - /news/4738/leicesters-paper-censored-by-union
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

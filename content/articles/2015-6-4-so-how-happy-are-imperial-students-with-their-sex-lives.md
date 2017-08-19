@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
+# Attributes from Felix Online V1
 id: "5599"
 old_path: /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
 aliases:
  - /features/5599/so-how-happy-are-imperial-students-with-their-sex-lives
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050032-cj914-imperial.jpg"
 image_caption: >
   It’s like a giant game of Where’s Wanker?
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

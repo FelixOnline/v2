@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson’s epic three day hike up Lombok’s beastly volcano
 date: "2015-01-23 19:07:36 +0000"
+# Attributes from Felix Online V1
 id: "5150"
 old_path: /travel/5150/conquering-mount-rinjani
 aliases:
  - /travel/5150/conquering-mount-rinjani
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231907-jyg11-rtc---mount-lombok-crater-lake-3.jpg"
 image_caption: >
   An extra day brings you to the gorgeous lakeside completened with hot spring
@@ -22,6 +27,7 @@ image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

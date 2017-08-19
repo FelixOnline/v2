@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cocktail parties could be forced to change the way they're run
 date: "2013-05-02 14:07:13 +0100"
+# Attributes from Felix Online V1
 id: "3538"
 old_path: /news/3538/not-shaken-not-stirred
 aliases:
  - /news/3538/not-shaken-not-stirred
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021455-tna08-chemistry-cocktail-party.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

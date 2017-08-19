@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl is weary of what the wearable future will hold
 date: "2013-02-22 01:24:50 +0000"
+# Attributes from Felix Online V1
 id: "3360"
 old_path: /tech/3360/revolution-wearable-technology
 aliases:
  - /tech/3360/revolution-wearable-technology
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220124-tna08-2012sergeyglasses.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

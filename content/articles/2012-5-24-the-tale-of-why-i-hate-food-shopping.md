@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
+# Attributes from Felix Online V1
 id: "2487"
 old_path: /comment/2487/the-tale-of-why-i-hate-food-shopping
 aliases:
  - /comment/2487/the-tale-of-why-i-hate-food-shopping
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250016-mc4509-self-checkout.jpg"
 image_caption: >
   I refuse to use self checkout. I’m basically temping for free by PLEASE REMOVE ITEM FROM BAGGING ARE
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sabbatical elections get under way
 date: "2011-03-01 20:46:16 +0000"
+# Attributes from Felix Online V1
 id: "957"
 old_path: /news/957/candidates-begin-campaigning
 aliases:
  - /news/957/candidates-begin-campaigning
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012043-ks607-election.jpg"
 image_caption: >
   Candidates listen carefully to the rules
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

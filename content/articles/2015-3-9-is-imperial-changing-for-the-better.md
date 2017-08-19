@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey looks back on seven years of Imperial and Felix
 date: "2015-03-09 18:18:04 +0000"
+# Attributes from Felix Online V1
 id: "5371"
 old_path: /comment/5371/is-imperial-changing-for-the-better
 aliases:
  - /comment/5371/is-imperial-changing-for-the-better
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091818-ps3110-screen-shot-2015-03-09-at-18.17.32.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

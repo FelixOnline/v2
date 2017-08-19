@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Novel technique uses liquid carbon to create electricity
 date: "2011-06-16 19:57:47 +0100"
+# Attributes from Felix Online V1
 id: "1387"
 old_path: /science/1387/using-carbon-dioxide-to-fight-global-warming
 aliases:
  - /science/1387/using-carbon-dioxide-to-fight-global-warming
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162057-felix-ur_multimedia_341218.jpeg"
 image_caption: >
   Martin Saar
@@ -22,6 +27,7 @@ image_attribution: "University of Minnesota"
 image_attribution_link: "http://www1.umn.edu/news/news-releases/2011/UR_CONTENT_341216.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philae probe sucessfully lands on comet 67P/C-G
 date: "2014-11-14 21:09:31 +0000"
+# Attributes from Felix Online V1
 id: "4889"
 old_path: /science/4889/rosetta-probe-successfully-lands-on-comet
 aliases:
  - /science/4889/rosetta-probe-successfully-lands-on-comet
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142108-ps3110-rosetta_-_comet_fly-by.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

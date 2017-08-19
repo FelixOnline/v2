@@ -4,15 +4,20 @@ title: >
 subtitle: >
   BARBICAN
 date: "2011-06-09 18:22:05 +0100"
+# Attributes from Felix Online V1
 id: "1331"
 old_path: /phoenix/1331/barbican
 aliases:
  - /phoenix/1331/barbican
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Marie Chkaiban"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

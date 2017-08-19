@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Radio offline after “member of public” complains about racially offensive term
 date: "2011-02-03 19:50:39 +0000"
+# Attributes from Felix Online V1
 id: "727"
 old_path: /news/727/complaint-to-rector-leads-to-radio-shutdown-
 aliases:
  - /news/727/complaint-to-rector-leads-to-radio-shutdown-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031951-ks607-icradiod.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

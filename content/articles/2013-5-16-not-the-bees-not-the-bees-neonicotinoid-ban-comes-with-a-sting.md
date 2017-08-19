@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laura Kor finds the link between bees, pesticides, and people waving dusters at trees
 date: "2013-05-16 18:09:02 +0100"
+# Attributes from Felix Online V1
 id: "3578"
 old_path: /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
 aliases:
  - /science/3578/not-the-bees-not-the-bees-neonicotinoid-ban-comes-with-a-sting
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

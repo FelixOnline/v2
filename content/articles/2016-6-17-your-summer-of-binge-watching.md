@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eight shows to help you burn through time rather than yourself
 date: "2016-06-17 09:33:53 +0100"
+# Attributes from Felix Online V1
 id: "6285"
 old_path: /tv/6285/your-summer-of-binge-watching
 aliases:
  - /tv/6285/your-summer-of-binge-watching
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171133-felix-EW-ARCHER-WALLPAPER_612x380_0.jpg"
 image_caption: >
   It’s not a drinking problem if you never stop long enough to get hungover.
@@ -22,6 +27,7 @@ image_attribution: "Floyd County/FX Networks for EW"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

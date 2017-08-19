@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not everyone is that fussed it would seem
 date: "2011-05-27 14:05:28 +0100"
+# Attributes from Felix Online V1
 id: "1276"
 old_path: /food/1276/coffee-on-campus
 aliases:
  - /food/1276/coffee-on-campus
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105271505-felix-img_4469.jpg"
 image_caption: >
   Last resort?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

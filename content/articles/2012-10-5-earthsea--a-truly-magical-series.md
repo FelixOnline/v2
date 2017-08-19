@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski takes a look at some fantasy
 date: "2012-10-05 11:27:17 +0100"
+# Attributes from Felix Online V1
 id: "2594"
 old_path: /books/2594/earthsea--a-truly-magical-series
 aliases:
  - /books/2594/earthsea--a-truly-magical-series
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

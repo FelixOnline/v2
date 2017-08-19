@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keir Little on the shutdown of the web’s biggest drug dealership
 date: "2013-10-12 19:32:54 +0100"
+# Attributes from Felix Online V1
 id: "3857"
 old_path: /tech/3857/the-torrid-state-of-the-onion
 aliases:
  - /tech/3857/the-torrid-state-of-the-onion
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122032-jal08-tech_silk-road-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

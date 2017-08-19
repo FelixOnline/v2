@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One in three women will have an abortion. So where are they?
 date: "2017-05-15 17:42:54 +0100"
+# Attributes from Felix Online V1
 id: "6968"
 old_path: /features/6968/why-do-we-stigmatise-abortion
 aliases:
  - /features/6968/why-do-we-stigmatise-abortion
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151942-felix-Screen Shot 2017-05-15 at 19.42.28.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

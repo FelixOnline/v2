@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the NSS in full swing this year, Yulia Negreskul sees where progress was made and not made on last year’s suggestions
 date: "2013-02-08 01:15:31 +0000"
+# Attributes from Felix Online V1
 id: "3285"
 old_path: /news/3285/nss-response-what-has-changed
 aliases:
  - /news/3285/nss-response-what-has-changed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080113-tna08-assessment-and-feedback.jpg"
 image_caption: >
   Assessment and Feedback page from the NSS Response
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

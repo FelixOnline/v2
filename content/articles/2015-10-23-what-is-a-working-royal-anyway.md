@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
+# Attributes from Felix Online V1
 id: "5673"
 old_path: /comment/5673/what-is-a-working-royal-anyway
 aliases:
  - /comment/5673/what-is-a-working-royal-anyway
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231247-cj914-duke-of-york-copy.jpg"
 image_caption: >
   The Duke of York looks at a low-cost incubator at the Pitch@Palace Bootcamp.
@@ -22,6 +27,7 @@ image_attribution: "Layton Thompson / Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

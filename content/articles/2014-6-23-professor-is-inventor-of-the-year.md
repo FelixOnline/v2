@@ -4,15 +4,20 @@ title: >
 subtitle: >
   [Tabloid Special Edition] Chris Toumazou, professor of Electrical and Electronic Engineering, has won the Inventor of the Year award for Research at the European Inventor Awards.
 date: "2014-06-23 10:35:35 +0100"
+# Attributes from Felix Online V1
 id: "4699"
 old_path: /news/4699/professor-is-inventor-of-the-year
 aliases:
  - /news/4699/professor-is-inventor-of-the-year
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

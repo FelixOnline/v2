@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Good Dinosaur, Pixar's latest offering, does not hold up to close scrutiny
 date: "2015-12-06 13:53:55 +0000"
+# Attributes from Felix Online V1
 id: "5796"
 old_path: /film/5796/pixars-latest-fails-to-impress
 aliases:
  - /film/5796/pixars-latest-fails-to-impress
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061351-ff712-3207.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

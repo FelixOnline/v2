@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Men's 1sts come back from behind twice against Medics
 date: "2011-03-17 21:59:50 +0000"
+# Attributes from Felix Online V1
 id: "1109"
 old_path: /sport/1109/hockey-imperial-keep-varsity-record-intact
 aliases:
  - /sport/1109/hockey-imperial-keep-varsity-record-intact
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172156-ks607-hockeyva.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

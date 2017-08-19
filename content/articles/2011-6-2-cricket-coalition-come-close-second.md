@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead
 date: "2011-06-02 20:34:04 +0100"
+# Attributes from Felix Online V1
 id: "1323"
 old_path: /sport/1323/cricket-coalition-come-close-second
 aliases:
  - /sport/1323/cricket-coalition-come-close-second
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022133-felix-p1000151.jpg"
 image_caption: >
   Imperial women’s co-captain, Priya Patel sharing the runner’s up trophy with Hampstead’s captain
@@ -22,6 +27,7 @@ image_attribution: "Priya Shah"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

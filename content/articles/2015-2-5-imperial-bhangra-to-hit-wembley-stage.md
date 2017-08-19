@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Troupes from all over the country will be dancing for the title of best student bhangra team
 date: "2015-02-05 23:37:54 +0000"
+# Attributes from Felix Online V1
 id: "5193"
 old_path: /news/5193/imperial-bhangra-to-hit-wembley-stage
 aliases:
  - /news/5193/imperial-bhangra-to-hit-wembley-stage
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502052337-ps3110-1794598_712918515419322_448982833_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

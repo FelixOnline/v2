@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or why your agave syrup isn’t really any better
 date: "2016-02-19 11:29:56 +0000"
+# Attributes from Felix Online V1
 id: "5933"
 old_path: /science/5933/are-there-really-different-sugars
 aliases:
  - /science/5933/are-there-really-different-sugars
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191129-felix-3143944790_cbf09a2313_o.jpg"
 image_caption: >
   Eat sugar mice, and be at peace with the fact that you’re basically consuming pure sugar.
@@ -22,6 +27,7 @@ image_attribution: "Osaka19"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

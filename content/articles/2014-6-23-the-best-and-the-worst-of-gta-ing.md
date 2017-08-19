@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Almost every memorable moment as a GTA is both wonderful and terrible. Some are so bad that they’re good in retrospect (though some are just bad), and sometimes being a GTA makes you so happy that you can’t help but love your job.
 date: "2014-06-23 14:42:32 +0100"
+# Attributes from Felix Online V1
 id: "4712"
 old_path: /comment/4712/the-best-and-the-worst-of-gta-ing
 aliases:
  - /comment/4712/the-best-and-the-worst-of-gta-ing
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

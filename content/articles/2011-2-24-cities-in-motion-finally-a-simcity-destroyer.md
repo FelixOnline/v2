@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We review the most detailed mass transit simulator yet
 date: "2011-02-24 20:09:55 +0000"
+# Attributes from Felix Online V1
 id: "882"
 old_path: /games/882/cities-in-motion-finally-a-simcity-destroyer
 aliases:
  - /games/882/cities-in-motion-finally-a-simcity-destroyer
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242008-nm1010-simsimsi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

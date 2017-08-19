@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah scouts out Fulham’s newest kid on the (pub) block
 date: "2013-01-31 23:52:19 +0000"
+# Attributes from Felix Online V1
 id: "3216"
 old_path: /food/3216/cubby-away-with-the-fox
 aliases:
  - /food/3216/cubby-away-with-the-fox
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312350-tna08-food7.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

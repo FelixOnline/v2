@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn urges you not to freak out about this week’s centrefold
 date: "2016-10-28 14:53:18 +0100"
+# Attributes from Felix Online V1
 id: "6349"
 old_path: /comment/6349/free-the-nipple-and-me
 aliases:
  - /comment/6349/free-the-nipple-and-me
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311256-felix-RR4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Joe O'Connell-Danes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

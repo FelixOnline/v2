@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Music sees out the year in Metric
 date: "2012-06-22 16:21:37 +0100"
+# Attributes from Felix Online V1
 id: "2580"
 old_path: /music/2580/diggidy-dawg-felix-music-night
 aliases:
  - /music/2580/diggidy-dawg-felix-music-night
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206221719-felix-fmn-img_0976-phrij.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

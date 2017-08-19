@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximo Sanz Hernandez and Alexandru Podgurschi, from Imperial’s Entrepreneurs Society, report on winning this year’s London Apprentice Challenge
 date: "2011-03-10 19:45:29 +0000"
+# Attributes from Felix Online V1
 id: "1057"
 old_path: /biz/1057/imperial-students-victorious-in-enterprise-competition
 aliases:
  - /biz/1057/imperial-students-victorious-in-enterprise-competition
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

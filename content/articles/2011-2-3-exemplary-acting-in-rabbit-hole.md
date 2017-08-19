@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rabbit Hole involves an incredibly tough subject matter, and something that cannot be handled lightly. But, despite the difficult tone, it manages to still be a pleasant watch and the film’s perceptive look at a range of characters is impressive
 date: "2011-02-03 19:46:26 +0000"
+# Attributes from Felix Online V1
 id: "725"
 old_path: /film/725/exemplary-acting-in-rabbit-hole
 aliases:
  - /film/725/exemplary-acting-in-rabbit-hole
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031944-nm1010-rabbbbbi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

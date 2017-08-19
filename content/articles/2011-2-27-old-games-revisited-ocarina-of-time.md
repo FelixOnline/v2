@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Many of the Zelda games strived to be like Ocarina of Time and merely couldn’t achieve the same results
 date: "2011-02-27 13:04:53 +0000"
+# Attributes from Felix Online V1
 id: "904"
 old_path: /games/904/old-games-revisited-ocarina-of-time
 aliases:
  - /games/904/old-games-revisited-ocarina-of-time
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

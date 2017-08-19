@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Moorhouse previews the 2011 Bottle Match
 date: "2011-02-24 20:34:46 +0000"
+# Attributes from Felix Online V1
 id: "893"
 old_path: /sport/893/time-to-bring-the-bottle-home
 aliases:
  - /sport/893/time-to-bring-the-bottle-home
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242029-dr910-bottlema.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

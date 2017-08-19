@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christy Kelly talks about Equality in the Media
 date: "2014-11-06 18:26:59 +0000"
+# Attributes from Felix Online V1
 id: "4763"
 old_path: /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
 aliases:
  - /comment/4763/reflections-on-oscar-pistorius-marikana-and-the-media
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

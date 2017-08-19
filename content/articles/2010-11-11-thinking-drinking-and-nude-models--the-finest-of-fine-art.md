@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Head to The Book Club in Shoreditch for an evening of extreme 'artiness'
 date: "2010-11-11 20:20:40 +0000"
+# Attributes from Felix Online V1
 id: "332"
 old_path: /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
 aliases:
  - /arts/332/thinking-drinking-and-nude-models--the-finest-of-fine-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112017-nm1010-drinking.jpg"
 image_caption: >
   Felix staff doing their best impression of arty people discussing literachacha...
@@ -22,6 +27,7 @@ image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

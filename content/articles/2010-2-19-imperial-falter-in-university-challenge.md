@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rox Middleton reports as Imperial lose out to Emmanuel College on UC quarter-final
 date: "2010-02-19 12:31:41 +0000"
+# Attributes from Felix Online V1
 id: "96"
 old_path: /news/96/imperial-falter-in-university-challenge
 aliases:
  - /news/96/imperial-falter-in-university-challenge
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002191228-felix-universi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

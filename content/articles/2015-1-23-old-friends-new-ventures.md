@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Food is always the best way to catch-up
 date: "2015-01-23 18:37:09 +0000"
+# Attributes from Felix Online V1
 id: "5144"
 old_path: /food/5144/old-friends-new-ventures
 aliases:
  - /food/5144/old-friends-new-ventures
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We weren’t allowed to print this picture we drew as part of last term’s election coverage as the union said it endorsed one of the candidates
 date: "2016-04-29 10:06:02 +0100"
+# Attributes from Felix Online V1
 id: "6089"
 old_path: /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
 aliases:
  - /news/6089/nus-votes-to-allow-student-media-to-comment-on-union-elections
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

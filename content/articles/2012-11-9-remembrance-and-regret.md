@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Remembrance day is increasingly going against its original meaning, argues Angry Geek
 date: "2012-11-09 11:50:24 +0000"
+# Attributes from Felix Online V1
 id: "2841"
 old_path: /comment/2841/remembrance-and-regret
 aliases:
  - /comment/2841/remembrance-and-regret
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091149-tna08-rgb-poppy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

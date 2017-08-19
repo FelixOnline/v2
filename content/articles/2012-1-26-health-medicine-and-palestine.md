@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Palestinian Society report on a talk by Gaza volunteer Dr. Mads Gilbert
 date: "2012-01-26 22:24:13 +0000"
+# Attributes from Felix Online V1
 id: "2061"
 old_path: /news/2061/health-medicine-and-palestine
 aliases:
  - /news/2061/health-medicine-and-palestine
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262224-pk1811-409502_349633678382237_248420458503560_1381176_302468328_n.jpg"
 image_caption: >
   Dr. Gilbert spoke on the relationship between medicine and politics
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

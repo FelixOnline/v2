@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Film editor Ed Knock finds himself thrown into another fantastic world of Jean Pierre Jeunet
 date: "2010-02-25 15:53:53 +0000"
+# Attributes from Felix Online V1
 id: "101"
 old_path: /film/101/micmacs-review
 aliases:
  - /film/101/micmacs-review
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251548-egk08-Micmacs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

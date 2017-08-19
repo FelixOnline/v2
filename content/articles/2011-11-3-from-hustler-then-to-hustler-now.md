@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marc Warren leads a watchable Cool Hand Luke
 date: "2011-11-03 21:51:20 +0000"
+# Attributes from Felix Online V1
 id: "1694"
 old_path: /arts/1694/from-hustler-then-to-hustler-now
 aliases:
  - /arts/1694/from-hustler-then-to-hustler-now
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032143-felix-lukee.jpg"
 image_caption: >
   Suave? Swagger? It's the guy from Hustle
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

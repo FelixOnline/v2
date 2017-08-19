@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Shakespeare’s language is universal
 date: "2015-05-27 18:03:09 +0100"
+# Attributes from Felix Online V1
 id: "5570"
 old_path: /arts/5570/ninagawas-hamlet-shows-a-new-bard-
 aliases:
  - /arts/5570/ninagawas-hamlet-shows-a-new-bard-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505271901-ps3110-03.jpg"
 image_caption: >
   Yukio Ninagawa, Hamlet, Shinnosuke Mitsushima and Tatsuya Fujiwara
@@ -22,6 +27,7 @@ image_attribution: "Takahiro Watanabe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

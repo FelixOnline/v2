@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Adam Funnell looks back at a successful ArtsFest
 date: "2013-03-01 00:16:31 +0000"
+# Attributes from Felix Online V1
 id: "3402"
 old_path: /news/3402/a-feast-of-arts-on-campus
 aliases:
  - /news/3402/a-feast-of-arts-on-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010014-tna08-big-band-queens-tower.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

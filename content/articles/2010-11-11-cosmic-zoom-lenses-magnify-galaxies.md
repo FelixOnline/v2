@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What exactly are gravitational lenses and how do they work?
 date: "2010-11-11 20:58:10 +0000"
+# Attributes from Felix Online V1
 id: "348"
 old_path: /science/348/cosmic-zoom-lenses-magnify-galaxies
 aliases:
  - /science/348/cosmic-zoom-lenses-magnify-galaxies
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112056-ks607-lensingl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

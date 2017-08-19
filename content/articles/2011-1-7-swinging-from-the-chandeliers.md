@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Moved by the Hayward Gallery’s latest immersive offering
 date: "2011-01-07 09:46:52 +0000"
+# Attributes from Felix Online V1
 id: "562"
 old_path: /arts/562/swinging-from-the-chandeliers
 aliases:
  - /arts/562/swinging-from-the-chandeliers
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101070943-ks607-hayward.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Peter Swallow and Navin Surtani take a look at the winners & losers of the 2010/11 Ashes
 date: "2011-01-13 20:28:58 +0000"
+# Attributes from Felix Online V1
 id: "581"
 old_path: /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
 aliases:
  - /sport/581/aussies-conquered-yet-again-by-vice--captain-cook
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132025-ks607-theashes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

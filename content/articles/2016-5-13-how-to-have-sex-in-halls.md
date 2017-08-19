@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We’re all jealous of our friends who don't have roommates
 date: "2016-05-13 09:00:01 +0100"
+# Attributes from Felix Online V1
 id: "6151"
 old_path: /features/6151/how-to-have-sex-in-halls
 aliases:
  - /features/6151/how-to-have-sex-in-halls
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

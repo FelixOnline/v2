@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s season six, episode seven
 date: "2016-06-10 08:35:17 +0100"
+# Attributes from Felix Online V1
 id: "6265"
 old_path: /tv/6265/this-week-on-games-of-thrones
 aliases:
  - /tv/6265/this-week-on-games-of-thrones
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101034-felix-ep57-ss05-1280.jpg"
 image_caption: >
   Smug-face Margery is back.
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

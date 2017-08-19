@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Celebrate ALL the science
 date: "2016-10-07 17:09:04 +0100"
+# Attributes from Felix Online V1
 id: "6313"
 old_path: /science/6313/the-nobel-vs-ig-nobel-prizes
 aliases:
  - /science/6313/the-nobel-vs-ig-nobel-prizes
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610071905-felix-8677099509_0c48a6fbf3_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "AJC1"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

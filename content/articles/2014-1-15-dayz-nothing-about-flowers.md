@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking at the release of a long awaited game.
 date: "2014-01-15 16:46:05 +0000"
+# Attributes from Felix Online V1
 id: "4215"
 old_path: /games/4215/dayz-nothing-about-flowers
 aliases:
  - /games/4215/dayz-nothing-about-flowers
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401151645-me1711-games_dayz.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We're going harder... on filling out the NSS
 date: "2013-01-31 22:25:47 +0000"
+# Attributes from Felix Online V1
 id: "3195"
 old_path: /news/3195/increase-in-uptake-of-the-nss
 aliases:
  - /news/3195/increase-in-uptake-of-the-nss
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312223-tna08-this-year.png"
 image_caption: >
   The graph from this year
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

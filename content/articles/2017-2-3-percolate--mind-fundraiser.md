@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Intimacy at Oval Space
 date: "2017-02-03 17:05:24 +0000"
+# Attributes from Felix Online V1
 id: "6729"
 old_path: /music/6729/percolate--mind-fundraiser
 aliases:
  - /music/6729/percolate--mind-fundraiser
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

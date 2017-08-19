@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Cook can’t draw pictures or compose music, but he can still make games
 date: "2011-03-01 21:07:10 +0000"
+# Attributes from Felix Online V1
 id: "965"
 old_path: /games/965/game-developers-dont-need-to-draw
 aliases:
  - /games/965/game-developers-dont-need-to-draw
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012105-ks607-day3make.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

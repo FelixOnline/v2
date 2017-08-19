@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Murdoch wants to take you on a musical adventure with God Help The Girl
 date: "2012-01-19 20:43:45 +0000"
+# Attributes from Felix Online V1
 id: "2020"
 old_path: /film/2020/an-exciting-new-musical-project
 aliases:
  - /film/2020/an-exciting-new-musical-project
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192043-pk1811-6a00e54efa4f9788330162fe1cbae1970d-800wi.jpg"
 image_caption: >
   Time to play casting-director!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

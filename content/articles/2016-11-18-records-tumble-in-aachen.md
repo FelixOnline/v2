@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They're all dabbing...
 date: "2016-11-18 17:08:36 +0000"
+# Attributes from Felix Online V1
 id: "6489"
 old_path: /sport/6489/records-tumble-in-aachen
 aliases:
  - /sport/6489/records-tumble-in-aachen
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181708-felix-Tour Felix Pic - water polo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A less 'mainstream' view of Formula 1
 date: "2010-12-09 20:19:05 +0000"
+# Attributes from Felix Online V1
 id: "520"
 old_path: /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
 aliases:
  - /sport/520/formula-1-an-alternative-view-to-pedal-to-the-vettel
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

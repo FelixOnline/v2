@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sorcha Cotter is, for some reason, a pirate...
 date: "2012-12-07 03:01:18 +0000"
+# Attributes from Felix Online V1
 id: "3058"
 old_path: /sport/3058/ichc-womens-1s-win-against-all-odds
 aliases:
  - /sport/3058/ichc-womens-1s-win-against-all-odds
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070302-tna08-hockeywebphoto.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

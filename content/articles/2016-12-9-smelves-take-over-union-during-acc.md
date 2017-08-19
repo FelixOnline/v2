@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But it took all morning to clean up
 date: "2016-12-09 12:01:22 +0000"
+# Attributes from Felix Online V1
 id: "6563"
 old_path: /news/6563/smelves-take-over-union-during-acc
 aliases:
  - /news/6563/smelves-take-over-union-during-acc
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Natasha Joana Khaleeq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

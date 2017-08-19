@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A study has revealed the reason why the East Antarctic Ice Shelf is thinning so rapidly
 date: "2015-03-19 23:46:47 +0000"
+# Attributes from Felix Online V1
 id: "5409"
 old_path: /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
 aliases:
  - /news/5409/newly-discovered-valley-channels-warm-water-to-melt-antarctic-glacier
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192347-cj914-research-plane.png"
 image_caption: >
   A research plane flies over Totten Glacier
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

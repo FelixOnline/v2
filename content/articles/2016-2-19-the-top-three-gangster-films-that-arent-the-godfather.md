@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not the third one though
 date: "2016-02-19 12:07:53 +0000"
+# Attributes from Felix Online V1
 id: "5937"
 old_path: /film/5937/the-top-three-gangster-films-that-arent-the-godfather
 aliases:
  - /film/5937/the-top-three-gangster-films-that-arent-the-godfather
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

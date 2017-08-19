@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities.
 date: "2013-12-02 22:17:35 +0000"
+# Attributes from Felix Online V1
 id: "4170"
 old_path: /features/4170/first-impressions-do-count
 aliases:
  - /features/4170/first-impressions-do-count
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

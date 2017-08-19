@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-17 09:24:45 +0100"
+# Attributes from Felix Online V1
 id: "6280"
 old_path: /science/6280/this-weeks-science-picture
 aliases:
  - /science/6280/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171124-felix-6910017781_a59fd1091f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Brian Jeffrey Beggerly"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

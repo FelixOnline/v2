@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg is let down again by the Orange Tree Theatre's lackluster production of a Doris Lessing
 date: "2015-04-24 13:57:25 +0100"
+# Attributes from Felix Online V1
 id: "5470"
 old_path: /arts/5470/lost-in-the-wild
 aliases:
  - /arts/5470/lost-in-the-wild
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504241501-ff712-josh-taylor-&-clare-holman-in-each-his-own-wilderness_orange-tree-theatre_image-richard-hubert-smith_press-image.jpg"
 image_caption: >
   Josh Taylor & Clare Holman in Each His Own Wilderness
@@ -22,6 +27,7 @@ image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

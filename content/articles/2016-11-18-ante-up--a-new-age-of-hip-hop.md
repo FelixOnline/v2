@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is hip-hop finally casting the spotlight on mental health issues, violence and gender identity?
 date: "2016-11-18 15:42:16 +0000"
+# Attributes from Felix Online V1
 id: "6483"
 old_path: /music/6483/ante-up--a-new-age-of-hip-hop
 aliases:
  - /music/6483/ante-up--a-new-age-of-hip-hop
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181541-felix-Antonio Rull.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Antonio Rull"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

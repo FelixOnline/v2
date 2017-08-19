@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unravelling a cooking conundrum
 date: "2011-11-04 16:59:51 +0000"
+# Attributes from Felix Online V1
 id: "1704"
 old_path: /comment/1704/the-portrait-of-the-cook-as-a-young-man
 aliases:
  - /comment/1704/the-portrait-of-the-cook-as-a-young-man
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111041659-felix-rhys-davies-avatar-cut.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

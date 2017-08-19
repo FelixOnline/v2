@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shiladitya Ghosh reveals the do's and don'ts of studying for exams...
 date: "2013-09-27 17:05:51 +0100"
+# Attributes from Felix Online V1
 id: "3761"
 old_path: /features/3761/study-habits-a-definitive-guide
 aliases:
  - /features/3761/study-habits-a-definitive-guide
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309271824-jal08-studyhabitspicture.jpg"
 image_caption: >
   Trying to revise for Fluid Mechanics, but hey it’ll be fine to doodle for a while right? I’m staying
@@ -22,6 +27,7 @@ image_attribution: "Joe Letts"
 image_attribution_link: "http://felixonline.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

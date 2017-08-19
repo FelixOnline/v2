@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reality TV fan? Edward Bals on the potential Mars One TV show
 date: "2013-01-10 22:13:07 +0000"
+# Attributes from Felix Online V1
 id: "3080"
 old_path: /science/3080/big-brother-on-mars
 aliases:
  - /science/3080/big-brother-on-mars
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102212-csw09-mars_one.jpg"
 image_caption: >
   The major issue faced is how people will be evicted from the show
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

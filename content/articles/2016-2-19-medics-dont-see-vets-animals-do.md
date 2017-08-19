@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The score was 34-15 to IC Rugby 1s in their match against the King’s Medics
 date: "2016-02-19 12:29:03 +0000"
+# Attributes from Felix Online V1
 id: "5947"
 old_path: /sport/5947/medics-dont-see-vets-animals-do
 aliases:
  - /sport/5947/medics-dont-see-vets-animals-do
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191228-felix-12299265_10153656536750351_8710459785759499218_n.jpg"
 image_caption: >
   The whole gang.
@@ -22,6 +27,7 @@ image_attribution: "ICURFC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

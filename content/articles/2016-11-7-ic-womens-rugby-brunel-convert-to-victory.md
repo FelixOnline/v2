@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ball went back and forth so much you would’ve thought it was a Brexit campaigner
 date: "2016-11-07 13:17:50 +0000"
+# Attributes from Felix Online V1
 id: "6406"
 old_path: /sport/6406/ic-womens-rugby-brunel-convert-to-victory-
 aliases:
  - /sport/6406/ic-womens-rugby-brunel-convert-to-victory-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071317-felix-rugbyagg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

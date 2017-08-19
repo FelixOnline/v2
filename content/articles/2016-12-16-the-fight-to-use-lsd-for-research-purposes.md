@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ending the prejudice surrounding psychedelic drugs could prove beneificial to millions of people, especially those who have failed to respond to conventional treatment
 date: "2016-12-16 16:08:33 +0000"
+# Attributes from Felix Online V1
 id: "6623"
 old_path: /millennials/6623/the-fight-to-use-lsd-for-research-purposes
 aliases:
  - /millennials/6623/the-fight-to-use-lsd-for-research-purposes
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161608-felix-Screen Shot 2016-12-16 at 16.08.16.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

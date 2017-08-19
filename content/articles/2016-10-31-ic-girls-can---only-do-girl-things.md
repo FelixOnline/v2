@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Celebrate women’s sport by “jumping away the calories”
 date: "2016-10-31 13:36:31 +0000"
+# Attributes from Felix Online V1
 id: "6359"
 old_path: /news/6359/ic-girls-can---only-do-girl-things
 aliases:
  - /news/6359/ic-girls-can---only-do-girl-things
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Strelka Institute for Media, Architecture and Design Follow"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

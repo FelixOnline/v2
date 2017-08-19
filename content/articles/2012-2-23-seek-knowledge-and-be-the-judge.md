@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Islamic Society presents a week of events inviting you to discover Islam
 date: "2012-02-23 21:45:35 +0000"
+# Attributes from Felix Online V1
 id: "2261"
 old_path: /news/2261/seek-knowledge-and-be-the-judge-
 aliases:
  - /news/2261/seek-knowledge-and-be-the-judge-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232142-ams111-4x6postcard_back.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

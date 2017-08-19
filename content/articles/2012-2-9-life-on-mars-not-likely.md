@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Annina Sartor explains how an analysis of Martian soil shows it is not suitable for life
 date: "2012-02-09 22:50:33 +0000"
+# Attributes from Felix Online V1
 id: "2164"
 old_path: /science/2164/life-on-mars-not-likely
 aliases:
  - /science/2164/life-on-mars-not-likely
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092249-pk1811-pia11718.jpg"
 image_caption: >
   NASA’s Mars Phoenix Lander on the surface of Mars
@@ -22,6 +27,7 @@ image_attribution: "NASA/JPL-Caltech/University of Arizona/Texas A&M University"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

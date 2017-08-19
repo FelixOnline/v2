@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maurice Zard explores the links between physical and mental disease
 date: "2016-12-02 13:59:04 +0000"
+# Attributes from Felix Online V1
 id: "6526"
 old_path: /science/6526/a-question-of-body-and-mind
 aliases:
  - /science/6526/a-question-of-body-and-mind
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021358-felix-3792906411_ea1e22d31f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Neil Conway"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman reports on the march that spread through the city on Wednesday
 date: "2015-05-29 01:10:34 +0100"
+# Attributes from Felix Online V1
 id: "5580"
 old_path: /news/5580/anti-austerity-protests-take-place-in-central-london
 aliases:
  - /news/5580/anti-austerity-protests-take-place-in-central-london
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290210-ps3110-o-douglas-carswell-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

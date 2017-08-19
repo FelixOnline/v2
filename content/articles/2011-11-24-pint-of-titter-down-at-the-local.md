@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shock horror! There's actually something funnier than Felix in South Kensington!
 date: "2011-11-24 22:35:44 +0000"
+# Attributes from Felix Online V1
 id: "1838"
 old_path: /arts/1838/pint-of-titter-down-at-the-local
 aliases:
  - /arts/1838/pint-of-titter-down-at-the-local
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242236-pk1811-pattiebrewster.jpeg"
 image_caption: >
   Patti Brewster. Can she really pull off mad-cat-lady?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

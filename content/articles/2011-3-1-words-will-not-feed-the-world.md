@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Drought. Fire. Floods. Numerous factors are causing food prices to rise. Is this the start of another global food crisis?
 date: "2011-03-01 21:38:30 +0000"
+# Attributes from Felix Online V1
 id: "974"
 old_path: /science/974/words-will-not-feed-the-world
 aliases:
  - /science/974/words-will-not-feed-the-world
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012134-ks607-rainfore.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter chats to Chilly Gonzales about his new orchestral rap album and forays into the world of film
 date: "2011-02-28 21:29:40 +0000"
+# Attributes from Felix Online V1
 id: "947"
 old_path: /music/947/interview-with-chilly-gonzales
 aliases:
  - /music/947/interview-with-chilly-gonzales
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282125-ks607-chilligo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

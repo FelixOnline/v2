@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The single might be topping the charts but does it perpetuate damaging stereotypes about Africa?
 date: "2014-11-20 21:23:23 +0000"
+# Attributes from Felix Online V1
 id: "4915"
 old_path: /comment/4915/is-bob-geldofs-band-aid-out-of-touch
 aliases:
  - /comment/4915/is-bob-geldofs-band-aid-out-of-touch
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202123-cj914-pay-band-aid-30-line-up.jpg"
 image_caption: >
   Be honest: how many of these can you name?
@@ -22,6 +27,7 @@ image_attribution: "Band Aid Trust"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A fifth of graduating students would have been unable to attend the previously suggested date due to visa expiry
 date: "2015-02-27 00:42:00 +0000"
+# Attributes from Felix Online V1
 id: "5314"
 old_path: /news/5314/visa-expiry-causes-commemoration-day-to-move
 aliases:
  - /news/5314/visa-expiry-causes-commemoration-day-to-move
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410241622-ps3110-albert_hall_for_carousel_of_website-copy.jpg"
 image_caption: >
   Graduation takes place at the Royal Albert Hall
@@ -22,6 +27,7 @@ image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

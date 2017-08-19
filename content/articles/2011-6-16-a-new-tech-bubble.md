@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandru Podgurschi sees history repeating itself
 date: "2011-06-16 20:17:06 +0100"
+# Attributes from Felix Online V1
 id: "1390"
 old_path: /biz/1390/a-new-tech-bubble
 aliases:
  - /biz/1390/a-new-tech-bubble
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162117-felix-linkedinipo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

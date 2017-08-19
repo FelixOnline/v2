@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-04-29 10:58:11 +0100"
+# Attributes from Felix Online V1
 id: "6108"
 old_path: /tv/6108/weekly-game-of-thrones--s6-episode-1
 aliases:
  - /tv/6108/weekly-game-of-thrones--s6-episode-1
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291157-felix-GOT.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

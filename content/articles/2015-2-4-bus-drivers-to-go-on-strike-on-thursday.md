@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students are advised to allow extra time for travelling to and from university.
 date: "2015-02-04 13:32:25 +0000"
+# Attributes from Felix Online V1
 id: "5191"
 old_path: /news/5191/bus-drivers-to-go-on-strike-on-thursday
 aliases:
  - /news/5191/bus-drivers-to-go-on-strike-on-thursday
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502041332-kmw13-bus10.jpg"
 image_caption: >
   Commuters wait for a bus during last month's strikes
@@ -22,6 +27,7 @@ image_attribution: "Glenn Copus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

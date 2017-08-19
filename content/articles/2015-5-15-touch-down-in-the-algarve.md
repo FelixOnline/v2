@@ -4,15 +4,20 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
+# Attributes from Felix Online V1
 id: "5537"
 old_path: /cands/5537/touch-down-in-the-algarve
 aliases:
  - /cands/5537/touch-down-in-the-algarve
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151349-cj914-sitting.png"
 image_caption: >
   GoPros abound as José and some friends take a much needed break.
@@ -22,6 +27,7 @@ image_attribution: "José Estiveira"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

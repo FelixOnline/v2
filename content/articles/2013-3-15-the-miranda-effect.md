@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Miranda is a good show, no matter what the critics say
 date: "2013-03-15 01:21:34 +0000"
+# Attributes from Felix Online V1
 id: "3473"
 old_path: /tv/3473/the-miranda-effect
 aliases:
  - /tv/3473/the-miranda-effect
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

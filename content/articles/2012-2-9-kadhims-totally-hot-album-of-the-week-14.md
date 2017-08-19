@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Django Django Django Django Because Music 2012
 date: "2012-02-09 22:23:05 +0000"
+# Attributes from Felix Online V1
 id: "2148"
 old_path: /music/2148/kadhims-totally-hot-album-of-the-week-14
 aliases:
  - /music/2148/kadhims-totally-hot-album-of-the-week-14
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092221-pk1811-djangodjango.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

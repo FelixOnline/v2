@@ -4,15 +4,20 @@ title: >
 subtitle: >
   While Junior Doctors picketed hospitals on Tuesday, students garnered support form the public
 date: "2016-01-15 11:20:14 +0000"
+# Attributes from Felix Online V1
 id: "5826"
 old_path: /news/5826/medics-support-junior-doctor-strike-action
 aliases:
  - /news/5826/medics-support-junior-doctor-strike-action
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601151118-felix-thumb_IMG_0005_1024.jpg"
 image_caption: >
   Students and junior doctors hand out flyers and stickers outside South Kensington on Tuesday.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

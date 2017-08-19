@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Somewhere in the imposing tome, Less than Nothing, author Slavoj Žižek relates an anecdote about the attitudes taken by Bertolt Brecht and Dashiell Hammett in their respective McCarthy-inspired HUAC trials.
 date: "2013-11-15 02:29:00 +0000"
+# Attributes from Felix Online V1
 id: "4071"
 old_path: /comment/4071/grub-first-then-ethics
 aliases:
  - /comment/4071/grub-first-then-ethics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

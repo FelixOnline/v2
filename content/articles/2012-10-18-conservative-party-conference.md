@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The political equivalent of the office Christmas party
 date: "2012-10-18 21:24:21 +0100"
+# Attributes from Felix Online V1
 id: "2705"
 old_path: /politics/2705/conservative-party-conference
 aliases:
  - /politics/2705/conservative-party-conference
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

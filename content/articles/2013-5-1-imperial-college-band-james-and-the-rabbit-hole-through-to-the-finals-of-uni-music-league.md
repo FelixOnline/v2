@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another league table that we dominate at.
 date: "2013-05-01 14:27:33 +0100"
+# Attributes from Felix Online V1
 id: "3514"
 old_path: /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
 aliases:
  - /music/3514/imperial-college-band-james-and-the-rabbit-hole-through-to-the-finals-of-uni-music-league
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012039-tna08-james.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fostering social change through technology
 date: "2013-11-13 22:49:33 +0000"
+# Attributes from Felix Online V1
 id: "4050"
 old_path: /tech/4050/crtaltchangeing-the-world
 aliases:
  - /tech/4050/crtaltchangeing-the-world
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey takes us through some of the most empowering plus-size women in the fashion world, including an interview with Natashia Judge
 date: "2015-03-25 12:02:24 +0000"
+# Attributes from Felix Online V1
 id: "5424"
 old_path: /fashion/5424/pioneers-of-plus-size
 aliases:
  - /fashion/5424/pioneers-of-plus-size
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251158-ff712-tessmunster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Girlie Show Photography"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tad08"
 author_name: "Theresa Davey"
 author_image_path: "img/upload/201411062201-snb11-tessa_headshot.jpg"

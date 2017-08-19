@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-27 09:00:24 +0100"
+# Attributes from Felix Online V1
 id: "6216"
 old_path: /film/6216/documentary-corner-grey-gardens
 aliases:
  - /film/6216/documentary-corner-grey-gardens
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271100-felix-grey-gardens1.jpg"
 image_caption: >
   S-T-A-U-N-C-H
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

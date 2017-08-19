@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bridge builder is definitely so uncool it's cool
 date: "2013-01-18 00:46:32 +0000"
+# Attributes from Felix Online V1
 id: "3141"
 old_path: /games/3141/bridging-the-gap
 aliases:
  - /games/3141/bridging-the-gap
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180046-tna08-the-bridge-project.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

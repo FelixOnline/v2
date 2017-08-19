@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charlotte Ivison calls for girls to share the burden this Valentine's Day
 date: "2011-02-10 21:09:13 +0000"
+# Attributes from Felix Online V1
 id: "795"
 old_path: /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
 aliases:
  - /comment/795/five-reasons-girls-should-ask-guys-out-for-a-change
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Babbage brings in the hits
 date: "2012-05-04 00:52:54 +0100"
+# Attributes from Felix Online V1
 id: "2424"
 old_path: /news/2424/imperial-tedx-talks-prove-popular-online
 aliases:
  - /news/2424/imperial-tedx-talks-prove-popular-online
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

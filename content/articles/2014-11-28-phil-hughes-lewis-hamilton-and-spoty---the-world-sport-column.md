@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle takes you through the sport you may have missed this week
 date: "2014-11-28 01:08:26 +0000"
+# Attributes from Felix Online V1
 id: "4976"
 old_path: /sport/4976/phil-hughes-lewis-hamilton-and-spoty---the-world-sport-column
 aliases:
  - /sport/4976/phil-hughes-lewis-hamilton-and-spoty---the-world-sport-column
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280108-kmw13-199111.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

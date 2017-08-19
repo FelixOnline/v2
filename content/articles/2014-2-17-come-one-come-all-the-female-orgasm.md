@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett explains the biology behind the Big O
 date: "2014-02-17 17:17:17 +0000"
+# Attributes from Felix Online V1
 id: "4389"
 old_path: /science/4389/come-one-come-all-the-female-orgasm
 aliases:
  - /science/4389/come-one-come-all-the-female-orgasm
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

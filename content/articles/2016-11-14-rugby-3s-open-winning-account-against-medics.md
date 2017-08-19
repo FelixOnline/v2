@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Though three is a crowd
 date: "2016-11-14 14:23:28 +0000"
+# Attributes from Felix Online V1
 id: "6452"
 old_path: /sport/6452/rugby-3s-open-winning-account-against-medics
 aliases:
  - /sport/6452/rugby-3s-open-winning-account-against-medics
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141423-felix-rugby.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

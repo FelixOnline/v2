@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite dubious musical choices, they seem to be hitting the big times
 date: "2013-03-15 02:05:48 +0000"
+# Attributes from Felix Online V1
 id: "3484"
 old_path: /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
 aliases:
  - /sport/3484/icuafc-1s-on-brink-of-league-and-cup-double
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

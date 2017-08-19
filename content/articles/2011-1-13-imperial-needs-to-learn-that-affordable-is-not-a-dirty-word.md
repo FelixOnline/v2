@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
+# Attributes from Felix Online V1
 id: "587"
 old_path: /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
 aliases:
  - /comment/587/imperial-needs-to-learn-that-affordable-is-not-a-dirty-word-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

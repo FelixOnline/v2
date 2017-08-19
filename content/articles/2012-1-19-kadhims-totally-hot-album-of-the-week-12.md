@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ernest Gonzales - Natural Traits - Friends of Friends - 2012
 date: "2012-01-19 20:40:17 +0000"
+# Attributes from Felix Online V1
 id: "2018"
 old_path: /music/2018/kadhims-totally-hot-album-of-the-week-12
 aliases:
  - /music/2018/kadhims-totally-hot-album-of-the-week-12
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192039-ams111-ernest_gonzales_-_natural_traits.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

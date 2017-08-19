@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Their union recently said it would ban “something like a colour” if it offended students
 date: "2016-01-29 08:46:44 +0000"
+# Attributes from Felix Online V1
 id: "5835"
 old_path: /news/5835/lse-students-start-free-speech-society
 aliases:
  - /news/5835/lse-students-start-free-speech-society
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New research reveals new information about the composition of the Earth's core
 date: "2011-12-01 19:44:50 +0000"
+# Attributes from Felix Online V1
 id: "1860"
 old_path: /science/1860/earths-core-deprived-of-oxygen
 aliases:
  - /science/1860/earths-core-deprived-of-oxygen
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112011944-ams111-479480a-f1.2.jpg"
 image_caption: >
   Cross section showing the inside the Earth.
@@ -22,6 +27,7 @@ image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

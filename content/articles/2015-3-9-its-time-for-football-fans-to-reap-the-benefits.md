@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle thinks that a gesture is due to those of us who care
 date: "2015-03-09 19:01:11 +0000"
+# Attributes from Felix Online V1
 id: "5374"
 old_path: /comment/5374/its-time-for-football-fans-to-reap-the-benefits
 aliases:
  - /comment/5374/its-time-for-football-fans-to-reap-the-benefits
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091901-ps3110-screen-shot-2015-03-09-at-19.01.02.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Record turnout for Imperial as controversy and delays hit this year’s campaign trail
 date: "2012-05-04 01:26:25 +0100"
+# Attributes from Felix Online V1
 id: "2428"
 old_path: /news/2428/union-election-results-finally-announced
 aliases:
  - /news/2428/union-election-results-finally-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205040226-felix-sabbsphoto.jpg"
 image_caption: >
   Next year's Sabbatical team
@@ -22,6 +27,7 @@ image_attribution: "Matt Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

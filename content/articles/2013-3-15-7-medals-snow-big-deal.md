@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Snowsports punch at their weight, as they are heavyweights. See what I did there?
 date: "2013-03-15 02:08:03 +0000"
+# Attributes from Felix Online V1
 id: "3485"
 old_path: /sport/3485/7-medals-snow-big-deal
 aliases:
  - /sport/3485/7-medals-snow-big-deal
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150207-tna08-edhallele.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play. Woyzeck is on at the Old Vic until 24th June
 date: "2017-06-02 13:17:14 +0100"
+# Attributes from Felix Online V1
 id: "6991"
 old_path: /arts/6991/life-of-galileo--stars-revolution-and-rock-and-roll
 aliases:
  - /arts/6991/life-of-galileo--stars-revolution-and-rock-and-roll
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021516-felix-201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
 image_caption: >
    Billy Howle in Life of Galileo at the Young Vic
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

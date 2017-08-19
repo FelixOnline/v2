@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shaul Rosten discusses executive pay and whether or not the government should have any influence.
 date: "2016-12-16 14:31:26 +0000"
+# Attributes from Felix Online V1
 id: "6600"
 old_path: /comment/6600/the-real-disgrace-of-executive-pay
 aliases:
  - /comment/6600/the-real-disgrace-of-executive-pay
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161431-felix-27677265152_7061229a73_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jeremy Segrott"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

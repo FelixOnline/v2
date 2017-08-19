@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX reviews the healthy(er) Aussie breakfast spot
 date: "2016-02-26 12:04:14 +0000"
+# Attributes from Felix Online V1
 id: "5983"
 old_path: /food/5983/breakfast-at-granger--co
 aliases:
  - /food/5983/breakfast-at-granger--co
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
 image_caption: >
   Thick, white and deliciously sticky - just what the doctor ordered.
@@ -22,6 +27,7 @@ image_attribution: "luxlife-blog.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

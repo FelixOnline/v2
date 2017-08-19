@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are protons all coot and ickle?
 date: "2013-02-07 23:21:35 +0000"
+# Attributes from Felix Online V1
 id: "3258"
 old_path: /science/3258/tiny-protons
 aliases:
  - /science/3258/tiny-protons
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072321-tna08-quark_structure_proton.svg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

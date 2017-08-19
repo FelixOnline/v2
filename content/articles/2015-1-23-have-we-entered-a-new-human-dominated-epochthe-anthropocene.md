@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe on doom, gloom and the sixth mass-extinction
 date: "2015-01-23 17:57:17 +0000"
+# Attributes from Felix Online V1
 id: "5137"
 old_path: /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
 aliases:
  - /science/5137/have-we-entered-a-new-human-dominated-epochthe-anthropocene
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231756-jyg11-anthropocene_europe.jpg"
 image_caption: >
   The Anthropocene is defined by mankind's effect on the global environment
@@ -22,6 +27,7 @@ image_attribution: "climatica.org.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

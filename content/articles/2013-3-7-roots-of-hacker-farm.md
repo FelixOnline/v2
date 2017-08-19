@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi harvests info ahead of an IC Radio exclusive
 date: "2013-03-07 21:38:17 +0000"
+# Attributes from Felix Online V1
 id: "3427"
 old_path: /music/3427/roots-of-hacker-farm
 aliases:
  - /music/3427/roots-of-hacker-farm
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072137-txl11-fl-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

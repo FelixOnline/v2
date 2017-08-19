@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Donning lab coats, students protested ahead of COP21 in Paris
 date: "2015-12-04 15:12:44 +0000"
+# Attributes from Felix Online V1
 id: "5792"
 old_path: /news/5792/imperial-represents-at-climate-march
 aliases:
  - /news/5792/imperial-represents-at-climate-march
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512041512-ygr12-climate.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jen Ho Ker"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paul Balaji looks at the Moto 360 which the US firm hopes will turn heads this Christmas
 date: "2014-11-24 12:56:51 +0000"
+# Attributes from Felix Online V1
 id: "4946"
 old_path: /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
 aliases:
  - /tech/4946/its-no-razr-but-motorola-are-back-on-the-map
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241256-ps3110-moto360paul-website.jpg"
 image_caption: >
   The Moto 360 supports Android Wear meaning it's default interface is very customisable
@@ -22,6 +27,7 @@ image_attribution: "Photo: Paul Balaji"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

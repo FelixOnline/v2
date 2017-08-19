@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nashville: Season 2 In a battle for the top of the country charts, let the cat-fights commence between an older living legend who is struggling to keep up with the evolving music industry, and a younger, fresh-faced new star who is experiencing success as a crossover artist between country and...
 date: "2013-11-08 10:04:55 +0000"
+# Attributes from Felix Online V1
 id: "4043"
 old_path: /tv/4043/its-country-music-yall
 aliases:
  - /tv/4043/its-country-music-yall
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s that time of the year again: the banks have disclosed the size of their bonus pools and Patrick O’Driscoll thinks the public needs to know more before judging
 date: "2011-01-20 20:28:45 +0000"
+# Attributes from Felix Online V1
 id: "627"
 old_path: /biz/627/bank-bonuses-again-rile-politicians-
 aliases:
  - /biz/627/bank-bonuses-again-rile-politicians-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

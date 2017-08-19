@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs tell us the story of a new kind of ‘gang warfare’ within the Social Media, and how it is bettering the work of young entrepreneurs
 date: "2011-12-08 20:32:43 +0000"
+# Attributes from Felix Online V1
 id: "1914"
 old_path: /biz/1914/are-you-a-gangster
 aliases:
  - /biz/1914/are-you-a-gangster
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082017-cac111-butchcassidy.jpg"
 image_caption: >
   Butch Cassidy and the Sundance Kid gained notoriety holding-up banks...never young entrepreneurs
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

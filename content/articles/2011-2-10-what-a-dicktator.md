@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mubarak clinging to power has become pathetic. It’s time he got a life. Even Ban Ki–Moon is getting pissed off...
 date: "2011-02-10 21:03:08 +0000"
+# Attributes from Felix Online V1
 id: "792"
 old_path: /comment/792/what-a-dicktator
 aliases:
  - /comment/792/what-a-dicktator
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102101-ks607-mubarakb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

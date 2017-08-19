@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pietro Aronica takes a look at the downfall of Berlusconi
 date: "2011-11-24 22:46:12 +0000"
+# Attributes from Felix Online V1
 id: "1841"
 old_path: /comment/1841/the-dark-side-of-democracy
 aliases:
  - /comment/1841/the-dark-side-of-democracy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242245-pk1811-silvio-berlusconi-1.jpg"
 image_caption: >
   Ladies, please, stop arguing. There’s enough of me to share with you all
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

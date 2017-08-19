@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chicken korma, cobra beer and Slumdog – made in the UK
 date: "2010-11-18 20:58:11 +0000"
+# Attributes from Felix Online V1
 id: "398"
 old_path: /food/398/curry-at-naan-oclock-the-real-deal-about-curries
 aliases:
  - /food/398/curry-at-naan-oclock-the-real-deal-about-curries
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182055-nm1010-indiancu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

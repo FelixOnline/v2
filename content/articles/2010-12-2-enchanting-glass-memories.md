@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A review of Tennessee Williams' famed play
 date: "2010-12-02 20:14:28 +0000"
+# Attributes from Felix Online V1
 id: "463"
 old_path: /arts/463/enchanting-glass-memories
 aliases:
  - /arts/463/enchanting-glass-memories
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cf107"
 author_name: "Christina Flanagan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

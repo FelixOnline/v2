@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week Simon Hunter reports on the trailblazing label that is platforming some of London’s most exciting underground music
 date: "2011-01-27 20:43:24 +0000"
+# Attributes from Felix Online V1
 id: "701"
 old_path: /music/701/techno-nonsense-ramp-recordings
 aliases:
  - /music/701/techno-nonsense-ramp-recordings
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104221624-felix-avatars-000001517933-y8y8g6-crop.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

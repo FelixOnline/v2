@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles heads to Hindustan for the National Theatre’s new play
 date: "2015-01-31 18:49:34 +0000"
+# Attributes from Felix Online V1
 id: "5167"
 old_path: /arts/5167/dara-somewhat-lost-in-translation
 aliases:
  - /arts/5167/dara-somewhat-lost-in-translation
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311850-ff712-4.-nicholas-khan-(mir-khalil),-esh-alladi-(gvernor-khan),-sargon-yelda-(aurangzeb),-simon-nagra-(mullah-farooq),-rudi-dharmalingham-(danishmand)_credit-ellie-kurttz.jpg"
 image_caption: >
   Nicholas Khan (Mir Khalil), Esh Alladi (Gvernor Khan), Sargon Yelda (Aurangzeb), Simon Nagra (Mullah Farooq), Rudi Dharmalingham (Danishmand) in Dara
@@ -22,6 +27,7 @@ image_attribution: "Ellie Kurttz"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

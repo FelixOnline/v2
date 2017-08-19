@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whether imposing further diagnostics as a mandatory procedure expands or limits a patient's rights is a question worth considering
 date: "2012-06-14 19:37:10 +0100"
+# Attributes from Felix Online V1
 id: "2548"
 old_path: /comment/2548/being-informed-and-the-right-to-know
 aliases:
  - /comment/2548/being-informed-and-the-right-to-know
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142033-ams111-comment2.jpg"
 image_caption: >
   An ultrasound image of a baby in a womb
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are they actually a big deal?
 date: "2010-12-12 13:45:46 +0000"
+# Attributes from Felix Online V1
 id: "548"
 old_path: /science/548/supervolcanoes
 aliases:
  - /science/548/supervolcanoes
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121343-ks607-yellowst.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mjp109"
 author_name: "Matthew Parker"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

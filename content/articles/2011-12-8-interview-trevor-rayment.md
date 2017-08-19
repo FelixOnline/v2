@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang talks to the Director of Physical Sciences at Diamond Light Source
 date: "2011-12-08 20:26:54 +0000"
+# Attributes from Felix Online V1
 id: "1912"
 old_path: /news/1912/interview-trevor-rayment
 aliases:
  - /news/1912/interview-trevor-rayment
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082023-pk1811-untitled.jpg"
 image_caption: >
   Director of Physical Sciences at Diamond Light Source, Professor Trevor Rayment
@@ -22,6 +27,7 @@ image_attribution: "Alice Yang"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland examines the Royal Court’s new piece of Palestinian theatre
 date: "2015-03-03 14:11:56 +0000"
+# Attributes from Felix Online V1
 id: "5320"
 old_path: /arts/5320/fireworks--a-carnival-of-horror
 aliases:
  - /arts/5320/fireworks--a-carnival-of-horror
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503031411-ps3110-shakira-riddell--morales-(lubna)-and-yusuf-hofri-(khalil)-in-fireworks-at-the-royal-court-theatre.-credit-helen-maybanks..jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A short guide to academic support at Imperial
 date: "2011-05-30 14:18:49 +0100"
+# Attributes from Felix Online V1
 id: "1287"
 old_path: /news/1287/the-tutorial-system
 aliases:
  - /news/1287/the-tutorial-system
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

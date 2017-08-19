@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The second Imperial Food Awards have ended – Anastasia Eleftheriou and Michael Krestas sift through the entries in search of Imperial’s best cookery maestros
 date: "2012-03-08 22:14:29 +0000"
+# Attributes from Felix Online V1
 id: "2331"
 old_path: /food/2331/imperial-fairtrade-food-awards-the-results
 aliases:
  - /food/2331/imperial-fairtrade-food-awards-the-results
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082208-ams111-muffin.jpg"
 image_caption: >
   The winner: gooey fibre and mango infused blackberry muffins
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

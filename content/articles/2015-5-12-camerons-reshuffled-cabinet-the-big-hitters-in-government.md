@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
+# Attributes from Felix Online V1
 id: "5511"
 old_path: /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
 aliases:
  - /politics/5511/camerons-reshuffled-cabinet-the-big-hitters-in-government-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

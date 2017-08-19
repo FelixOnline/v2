@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We sent a lot of Snapchats
 date: "2016-03-15 09:45:07 +0000"
+# Attributes from Felix Online V1
 id: "6049"
 old_path: /features/6049/i-had-sex-in-the-tunnels-under-imperial
 aliases:
  - /features/6049/i-had-sex-in-the-tunnels-under-imperial
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603150943-felix-tunnel.jpg"
 image_caption: >
   Under decency rules, the referred to Snapchats cannot be shown here.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First meeting brings financial questions
 date: "2011-10-13 20:22:12 +0100"
+# Attributes from Felix Online V1
 id: "1502"
 old_path: /news/1502/union-council-kicks-off-year-with-bar-night-questions
 aliases:
  - /news/1502/union-council-kicks-off-year-with-bar-night-questions
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132119-felix-smith.jpg"
 image_caption: >
   David Smith takes the chair this year
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Does John Terry’s personal life have any bearing on his skills as a footballer? No. He just happens to be shit at both
 date: "2010-11-04 18:56:30 +0000"
+# Attributes from Felix Online V1
 id: "320"
 old_path: /comment/320/were-all-fed-so-what
 aliases:
  - /comment/320/were-all-fed-so-what
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

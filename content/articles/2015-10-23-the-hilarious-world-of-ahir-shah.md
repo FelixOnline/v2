@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The upcoming young comedian takes on London’s top comedy venue in style
 date: "2015-10-23 11:38:52 +0100"
+# Attributes from Felix Online V1
 id: "5668"
 old_path: /arts/5668/the-hilarious-world-of-ahir-shah
 aliases:
  - /arts/5668/the-hilarious-world-of-ahir-shah
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231238-ygr12-ahir-shah.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

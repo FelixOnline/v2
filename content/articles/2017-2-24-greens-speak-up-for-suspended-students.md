@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix talks to Siân Berry
 date: "2017-02-24 13:42:03 +0000"
+# Attributes from Felix Online V1
 id: "6809"
 old_path: /news/6809/greens-speak-up-for-suspended-students
 aliases:
  - /news/6809/greens-speak-up-for-suspended-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241341-felix-24277898325_a2dd5d74ce_o.jpg"
 image_caption: >
   Siân Berry
@@ -22,6 +27,7 @@ image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

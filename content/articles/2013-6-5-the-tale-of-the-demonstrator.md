@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pietro Aronica gives a – mostly fictional – parody of the precise and hallowed science of marking lab reports
 date: "2013-06-05 16:44:10 +0100"
+# Attributes from Felix Online V1
 id: "3657"
 old_path: /comment/3657/the-tale-of-the-demonstrator
 aliases:
  - /comment/3657/the-tale-of-the-demonstrator
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051745-tna08-marking.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

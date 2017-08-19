@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett sips a Starbucks whilst writing about how bees get their own daily fix
 date: "2013-03-15 01:00:54 +0000"
+# Attributes from Felix Online V1
 id: "3466"
 old_path: /science/3466/bees-feel-the-caffeine-buzz
 aliases:
  - /science/3466/bees-feel-the-caffeine-buzz
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150305-tna08-european_honey_bee_extracts_nectar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

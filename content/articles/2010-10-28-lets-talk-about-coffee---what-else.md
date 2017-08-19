@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Betts snubs George Clooney’s Nespresso for coffee at the EEE café
 date: "2010-10-28 19:38:50 +0100"
+# Attributes from Felix Online V1
 id: "269"
 old_path: /food/269/lets-talk-about-coffee---what-else
 aliases:
  - /food/269/lets-talk-about-coffee---what-else
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

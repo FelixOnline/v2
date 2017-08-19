@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Banksy is cool!!1
 date: "2016-02-19 12:09:38 +0000"
+# Attributes from Felix Online V1
 id: "5938"
 old_path: /film/5938/documentary-corner-exit-through-the-gift-shop
 aliases:
  - /film/5938/documentary-corner-exit-through-the-gift-shop
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191209-felix-Exit-Through-Gift-Shop.jpeg"
 image_caption: >
   Super-cool 'artist' Banksy.
@@ -22,6 +27,7 @@ image_attribution: "Exit Through the Gift Shop PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

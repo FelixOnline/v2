@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kenyan Orphan Project share some amazing experiences working in Kenya
 date: "2013-09-29 16:18:19 +0100"
+# Attributes from Felix Online V1
 id: "3788"
 old_path: /features/3788/kops-visit-to-kenya
 aliases:
  - /features/3788/kops-visit-to-kenya
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291718-tna08-kop1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

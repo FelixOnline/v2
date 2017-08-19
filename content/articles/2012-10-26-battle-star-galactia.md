@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scenes from an Execution, a play originally written for the radio in the 1980s is staged by the National Theatre
 date: "2012-10-26 03:09:57 +0100"
+# Attributes from Felix Online V1
 id: "2767"
 old_path: /arts/2767/battle-star-galactia
 aliases:
  - /arts/2767/battle-star-galactia
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260408-tna08-scenes1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

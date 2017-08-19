@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Scalzi is one of the highest profile science fiction authors alive. A prolific writer, he was also President of the Science Fiction and Fantasy Writers of America, consulted on the hit TV show Stargate Universe, maintains a hugely popular blog and is an outspoken activist for many good...
 date: "2013-10-12 00:10:35 +0100"
+# Attributes from Felix Online V1
 id: "3836"
 old_path: /books/3836/scalzis-old-mans-war
 aliases:
  - /books/3836/scalzis-old-mans-war
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310120110-jal08-oldman.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

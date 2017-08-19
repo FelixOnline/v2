@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pandco Ltd. wanted to change the world of gaming. And after that idea turned out to be insane, they decided to try and make a pretty good iPhone game instead
 date: "2011-03-10 20:38:17 +0000"
+# Attributes from Felix Online V1
 id: "1074"
 old_path: /games/1074/a-summer-software-success-story
 aliases:
  - /games/1074/a-summer-software-success-story
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102036-ks607-hardhats.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

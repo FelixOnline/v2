@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The fiasco surrounding the reopened halls continues
 date: "2015-09-11 19:09:48 +0100"
+# Attributes from Felix Online V1
 id: "5652"
 old_path: /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
 aliases:
  - /news/5652/hall-seniors-forced-to-move-to-evelyn-gardens
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201509112009-ygr12-242_4260.jpg"
 image_caption: >
   Credit: Neville Miles
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

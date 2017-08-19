@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
+# Attributes from Felix Online V1
 id: "1603"
 old_path: /arts/1603/want-to-get-your-horne-on
 aliases:
  - /arts/1603/want-to-get-your-horne-on
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211245-felix-pg-20-comedy_557778s.jpg"
 image_caption: >
   Most people come for the ginger beard
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

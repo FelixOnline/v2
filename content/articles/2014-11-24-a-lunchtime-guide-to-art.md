@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland looks at what’s on offer around Imperial
 date: "2014-11-24 12:25:30 +0000"
+# Attributes from Felix Online V1
 id: "4938"
 old_path: /arts/4938/a-lunchtime-guide-to-art
 aliases:
  - /arts/4938/a-lunchtime-guide-to-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241225-ps3110-metalocus_serpentine_gallery_20_1200.jpg"
 image_caption: >
   Serpentine Gallery Pavilion 2014. Designed by Smiljan Radic.
@@ -22,6 +27,7 @@ image_attribution: "Photo: Iwan Baan. Courtesy of Serpentine Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

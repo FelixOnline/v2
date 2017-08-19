@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Blogger sued by restaurant for bad review
 date: "2010-11-04 18:22:53 +0000"
+# Attributes from Felix Online V1
 id: "295"
 old_path: /food/295/are-food-bloggers-entitled-to-the-right-of-whinging-
 aliases:
  - /food/295/are-food-bloggers-entitled-to-the-right-of-whinging-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "raffaello/deviantart"
 image_attribution_link: "http://raffaello.deviantart.com/art/There-s-a-fly-in-my-soup-38596997"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

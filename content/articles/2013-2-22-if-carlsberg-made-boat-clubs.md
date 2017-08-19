@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ... Oh, you know the rest
 date: "2013-02-22 02:08:01 +0000"
+# Attributes from Felix Online V1
 id: "3372"
 old_path: /sport/3372/if-carlsberg-made-boat-clubs
 aliases:
  - /sport/3372/if-carlsberg-made-boat-clubs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220207-tna08-bucs%208.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

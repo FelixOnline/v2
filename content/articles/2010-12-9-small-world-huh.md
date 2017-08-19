@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Travellers have a higher chance of getting laid, but more often rendered heartbroken
 date: "2010-12-09 20:08:23 +0000"
+# Attributes from Felix Online V1
 id: "516"
 old_path: /travel/516/small-world-huh
 aliases:
  - /travel/516/small-world-huh
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092005-ma1307-Lakeb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

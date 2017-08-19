@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix investigates as to why the funds for halls have been slashed
 date: "2014-10-17 14:28:12 +0100"
+# Attributes from Felix Online V1
 id: "4728"
 old_path: /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
 aliases:
  - /news/4728/students-left-in-the-dark-over-cuts-to-amenities-funds
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171717-pk1811-halls_by_tlim.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

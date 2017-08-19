@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Your environmentally friendly TV guide
 date: "2017-02-17 15:32:07 +0000"
+# Attributes from Felix Online V1
 id: "6795"
 old_path: /tv/6795/seeing-green
 aliases:
  - /tv/6795/seeing-green
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171544-felix-maxresdefault (5).jpg"
 image_caption: >
   Animals
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "Banter" that is appropriate in the pub is less appropriate elsewhere
 date: "2011-02-03 20:24:43 +0000"
+# Attributes from Felix Online V1
 id: "745"
 old_path: /comment/745/speak-responsibly-even-if-no-one-is-listening
 aliases:
  - /comment/745/speak-responsibly-even-if-no-one-is-listening
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

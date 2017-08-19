@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College posts on Imperial Memes to warn people not to be damaging to their reputation
 date: "2013-05-16 20:53:03 +0100"
+# Attributes from Felix Online V1
 id: "3594"
 old_path: /news/3594/imperial-are-looking-at-your-memes
 aliases:
  - /news/3594/imperial-are-looking-at-your-memes
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
 image_caption: >
   College's post on Imperial Memes, which was deleted. Definitely would have been better to have done
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

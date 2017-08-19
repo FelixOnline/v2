@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chanon Wongsatayanont talks about coping with long distance relationships
 date: "2015-02-03 13:30:46 +0000"
+# Attributes from Felix Online V1
 id: "5180"
 old_path: /welfare/5180/overcoming-the-distance
 aliases:
  - /welfare/5180/overcoming-the-distance
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship___sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

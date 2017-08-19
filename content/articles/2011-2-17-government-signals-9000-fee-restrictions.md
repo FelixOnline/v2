@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial will have to jump through a number of hoops in order to charge students £9,000
 date: "2011-02-17 19:15:29 +0000"
+# Attributes from Felix Online V1
 id: "814"
 old_path: /news/814/government-signals-9000-fee-restrictions
 aliases:
  - /news/814/government-signals-9000-fee-restrictions
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171911-ks607-nickcleg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

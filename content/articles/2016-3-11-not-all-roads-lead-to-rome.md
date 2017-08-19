@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The latest from the Coen brothers is solid filmmaking, but lacks a sense of energy
 date: "2016-03-11 11:51:35 +0000"
+# Attributes from Felix Online V1
 id: "6035"
 old_path: /film/6035/not-all-roads-lead-to-rome
 aliases:
  - /film/6035/not-all-roads-lead-to-rome
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111150-felix-3231 (1).jpg"
 image_caption: >
   George Clooney as Baird Whitlock, in the Coen brothers' latest comedy outing, Hail, Caesar!
@@ -22,6 +27,7 @@ image_attribution: "Universal Pictures/EPA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

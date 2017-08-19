@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kelly Oakes on what to do if you need to take the edge off painful memories
 date: "2011-12-01 19:35:19 +0000"
+# Attributes from Felix Online V1
 id: "1857"
 old_path: /science/1857/dreaming-of-another-world
 aliases:
  - /science/1857/dreaming-of-another-world
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112011934-ams111-animal_0050.jpg"
 image_caption: >
   You should have seen this guy last night... he’s going to have to nap for a very long time
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

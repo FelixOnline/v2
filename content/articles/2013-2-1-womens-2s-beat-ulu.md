@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Helen Pennington foils ULU's plans
 date: "2013-02-01 00:29:45 +0000"
+# Attributes from Felix Online V1
 id: "3229"
 old_path: /sport/3229/womens-2s-beat-ulu
 aliases:
  - /sport/3229/womens-2s-beat-ulu
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010030-tna08-fencing_gives_you_wings.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

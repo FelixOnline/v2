@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Want to set up Ghost? Joe shows you how...
 date: "2014-05-02 01:46:16 +0100"
+# Attributes from Felix Online V1
 id: "4555"
 old_path: /tech/4555/how-to-get-into-ghostblogging
 aliases:
  - /tech/4555/how-to-get-into-ghostblogging
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020246-jal08-tech_blogging.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

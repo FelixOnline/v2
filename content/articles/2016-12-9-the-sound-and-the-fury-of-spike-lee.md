@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chi-Raq marks a return to form for Spike Lee, and its breathless anger is urgently needed in these troubled times.
 date: "2016-12-09 15:47:07 +0000"
+# Attributes from Felix Online V1
 id: "6581"
 old_path: /film/6581/the-sound-and-the-fury-of-spike-lee
 aliases:
  - /film/6581/the-sound-and-the-fury-of-spike-lee
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091546-felix-Chi-Raq_2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Roadside Attractions"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

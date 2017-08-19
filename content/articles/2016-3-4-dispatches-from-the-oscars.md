@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Rock’s introduction of Stacey Dash left us all totally stumped
 date: "2016-03-04 11:50:19 +0000"
+# Attributes from Felix Online V1
 id: "6010"
 old_path: /film/6010/dispatches-from-the-oscars
 aliases:
  - /film/6010/dispatches-from-the-oscars
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041149-felix-7f575200-0f46-4251-9082-16eedde2ba89-88thAcademyAwards_Loia2.jpg"
 image_caption: >
   Ruffalo et al. celebrate Spotlight’s win
@@ -22,6 +27,7 @@ image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

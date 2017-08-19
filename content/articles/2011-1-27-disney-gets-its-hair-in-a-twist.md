@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The last fairtytale animated film from Disney
 date: "2011-01-27 20:01:28 +0000"
+# Attributes from Felix Online V1
 id: "683"
 old_path: /film/683/disney-gets-its-hair-in-a-twist
 aliases:
  - /film/683/disney-gets-its-hair-in-a-twist
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271959-nm1010-tangleyy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

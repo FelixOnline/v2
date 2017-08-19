@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hope for Choroideremia patients with clinical trial
 date: "2011-11-03 19:56:52 +0000"
+# Attributes from Felix Online V1
 id: "1659"
 old_path: /science/1659/gene-therapy-could-be-cure-for-blindness
 aliases:
  - /science/1659/gene-therapy-could-be-cure-for-blindness
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031956-pk1811-dna-istock-rustycloud-1.jpg"
 image_caption: >
   A virus carrying modified DNA is injected into the patient’s eye
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

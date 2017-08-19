@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s shit...
 date: "2011-06-28 11:34:21 +0100"
+# Attributes from Felix Online V1
 id: "1443"
 old_path: /tv/1443/two-girls-one-cup
 aliases:
  - /tv/1443/two-girls-one-cup
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281234-felix-cup-copy.jpg"
 image_caption: >
   Two girls in a cup, not quite the same...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

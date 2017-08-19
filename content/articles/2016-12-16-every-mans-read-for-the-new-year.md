@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Roth's profoud novel tests our values
 date: "2016-12-16 15:03:18 +0000"
+# Attributes from Felix Online V1
 id: "6611"
 old_path: /arts/6611/every-mans-read-for-the-new-year
 aliases:
  - /arts/6611/every-mans-read-for-the-new-year
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161502-felix-Everyman_dj.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Houghton Mifflin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

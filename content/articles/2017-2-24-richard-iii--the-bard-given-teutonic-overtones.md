@@ -4,15 +4,20 @@ title: >
 subtitle: >
   from 16th – 19th February
 date: "2017-02-24 14:33:58 +0000"
+# Attributes from Felix Online V1
 id: "6821"
 old_path: /arts/6821/richard-iii--the-bard-given-teutonic-overtones
 aliases:
  - /arts/6821/richard-iii--the-bard-given-teutonic-overtones
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241433-felix-02.jpg"
 image_caption: >
   Schaubühne Berlin, Richard III, Lars Eidinger and Jenny König
@@ -22,6 +27,7 @@ image_attribution: "Arno Declair"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

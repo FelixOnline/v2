@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports as College are victorious in the Men's match at the Stoop
 date: "2015-03-19 23:39:09 +0000"
+# Attributes from Felix Online V1
 id: "5403"
 old_path: /sport/5403/late-tries-add-gloss-to-college-victory
 aliases:
  - /sport/5403/late-tries-add-gloss-to-college-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192338-kmw13-tbl_varsity_quick_set_22h37m24s.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

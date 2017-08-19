@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students angrily denounce College plans for halls in North Acton. Union sets out five requests of College. Distance and price highlighted as main problems with the halls. Likely to be replacement to Evelyn Gardens. Probable closure of Garden hall.
 date: "2013-02-21 23:17:27 +0000"
+# Attributes from Felix Online V1
 id: "3347"
 old_path: /news/3347/anger-over-new-halls
 aliases:
  - /news/3347/anger-over-new-halls
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302212329-tna08-walkway-2.jpg"
 image_caption: >
   The Sherfield Walkway, showing the #AgainstActon posters
@@ -22,6 +27,7 @@ image_attribution: "Aemun Reza"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The first strike would see junior doctors only staff emergency care
 date: "2015-11-19 22:20:39 +0000"
+# Attributes from Felix Online V1
 id: "5740"
 old_path: /news/5740/junior-doctors-vote-to-strike-in-december
 aliases:
  - /news/5740/junior-doctors-vote-to-strike-in-december
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511192220-ygr12-angry-medics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

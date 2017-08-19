@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How new super resolution imaging technology can help mankind reach for the stars
 date: "2016-06-03 09:17:30 +0100"
+# Attributes from Felix Online V1
 id: "6235"
 old_path: /science/6235/mars-under-the-magnifying-glass
 aliases:
  - /science/6235/mars-under-the-magnifying-glass
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
 image_caption: >
   Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed.
@@ -22,6 +27,7 @@ image_attribution: "Yu Tao and Jan-Peter Muller, UCL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

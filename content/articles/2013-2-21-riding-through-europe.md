@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Would you like some horse with your burger?
 date: "2013-02-21 13:52:44 +0000"
+# Attributes from Felix Online V1
 id: "3340"
 old_path: /politics/3340/riding-through-europe
 aliases:
  - /politics/3340/riding-through-europe
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302211350-txl11-laughing_horse_by_samtheblackheart-d51qcxs.jpg"
 image_caption: >
   That’s right, I tasted good in that lasagna!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

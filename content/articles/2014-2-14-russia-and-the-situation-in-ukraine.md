@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kartikeya Rana looks at the Ukraine protests and its link with Russia
 date: "2014-02-14 03:25:38 +0000"
+# Attributes from Felix Online V1
 id: "4372"
 old_path: /politics/4372/russia-and-the-situation-in-ukraine
 aliases:
  - /politics/4372/russia-and-the-situation-in-ukraine
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

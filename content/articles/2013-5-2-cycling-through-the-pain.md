@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Dixon listens to Reggae and 5 other unknown mixtapes
 date: "2013-05-02 12:14:48 +0100"
+# Attributes from Felix Online V1
 id: "3525"
 old_path: /sport/3525/cycling-through-the-pain
 aliases:
  - /sport/3525/cycling-through-the-pain
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

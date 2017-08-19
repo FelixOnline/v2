@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park awards just two stars to The Face of Love
 date: "2014-12-04 19:45:17 +0000"
+# Attributes from Felix Online V1
 id: "5004"
 old_path: /film/5004/the-first-time-ever-i-saw-your-face
 aliases:
  - /film/5004/the-first-time-ever-i-saw-your-face
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041945-cj914-the-face-of-love.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "popmatters.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

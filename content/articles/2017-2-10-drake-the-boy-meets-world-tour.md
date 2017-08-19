@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Enjoy Andy Djaba's rant on his love-hate relationship with Drake
 date: "2017-02-10 15:25:43 +0000"
+# Attributes from Felix Online V1
 id: "6763"
 old_path: /music/6763/drake-the-boy-meets-world-tour
 aliases:
  - /music/6763/drake-the-boy-meets-world-tour
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101525-felix-4972204415_26c96b2ec9_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "musicientropy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

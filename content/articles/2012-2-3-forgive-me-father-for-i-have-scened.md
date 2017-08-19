@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I need more money ‘cause I need more drugs
 date: "2012-02-03 11:16:20 +0000"
+# Attributes from Felix Online V1
 id: "2130"
 old_path: /music/2130/forgive-me-father-for-i-have-scened
 aliases:
  - /music/2130/forgive-me-father-for-i-have-scened
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031115-sjw209-times-new-viking.png"
 image_caption: >
   The bubblegum border does it for me
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

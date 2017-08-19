@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The week in television
 date: "2011-06-13 13:33:46 +0100"
+# Attributes from Felix Online V1
 id: "1373"
 old_path: /tv/1373/made-in-shitville
 aliases:
  - /tv/1373/made-in-shitville
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

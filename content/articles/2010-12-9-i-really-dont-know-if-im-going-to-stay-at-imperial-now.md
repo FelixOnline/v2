@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nickolai Vysokov talks to Kadhim Shubber about the problems he’s experiencing due to the Life Sciences cuts
 date: "2010-12-09 21:58:57 +0000"
+# Attributes from Felix Online V1
 id: "544"
 old_path: /news/544/i-really-dont-know-if-im-going-to-stay-at-imperial-now
 aliases:
  - /news/544/i-really-dont-know-if-im-going-to-stay-at-imperial-now
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092156-dr910-nickolal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

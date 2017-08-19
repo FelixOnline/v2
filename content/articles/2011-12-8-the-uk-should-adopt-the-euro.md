@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
+# Attributes from Felix Online V1
 id: "1925"
 old_path: /biz/1925/the-uk-should-adopt-the-euro
 aliases:
  - /biz/1925/the-uk-should-adopt-the-euro
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082054-cac111-euro.jpg"
 image_caption: >
   The euro sign, illuminated in the European Central Bank logo, outside ECB HQ in Frankfurt, Germany
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

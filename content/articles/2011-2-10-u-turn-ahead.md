@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is the UK’s economy going in the wrong direction?
 date: "2011-02-10 20:53:33 +0000"
+# Attributes from Felix Online V1
 id: "787"
 old_path: /politics/787/u-turn-ahead-
 aliases:
  - /politics/787/u-turn-ahead-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102051-ks607-osbornes.jpg"
 image_caption: >
   George Osborne selling The Big Issue? In 2015 we can make it happen...
@@ -22,6 +27,7 @@ image_attribution: "Joshua Yerrell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

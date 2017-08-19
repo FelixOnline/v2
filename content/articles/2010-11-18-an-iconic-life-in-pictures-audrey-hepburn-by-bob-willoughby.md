@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A photography book chronicling Hepburn’s ascent to fame from 1953-1966 by her friend and renowned Hollywood photojournalist Bob Willoughby
 date: "2010-11-18 20:07:01 +0000"
+# Attributes from Felix Online V1
 id: "383"
 old_path: /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
 aliases:
  - /fashion/383/an-iconic-life-in-pictures-audrey-hepburn-by-bob-willoughby
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182005-nm1010-phoneyyy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We’re up a place, but behind Loughborough and Durham
 date: "2016-05-27 08:38:19 +0100"
+# Attributes from Felix Online V1
 id: "6196"
 old_path: /news/6196/imperial-places-7th-in-the-guardians-league-table
 aliases:
  - /news/6196/imperial-places-7th-in-the-guardians-league-table
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271038-felix-20160526_143359.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

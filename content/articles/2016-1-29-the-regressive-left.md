@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Has political correctness become more important than free speech?
 date: "2016-01-29 08:56:22 +0000"
+# Attributes from Felix Online V1
 id: "5840"
 old_path: /comment/5840/the-regressive-left
 aliases:
  - /comment/5840/the-regressive-left
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
   Milo Yiannopoulos was banned from Manchester SU because his views could “incite hatred”.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

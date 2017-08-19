@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists have developed a promising new method of fixing biological molecules to each other
 date: "2012-03-08 19:20:50 +0000"
+# Attributes from Felix Online V1
 id: "2310"
 old_path: /science/2310/stuck-like-superglue
 aliases:
  - /science/2310/stuck-like-superglue
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203081918-ams111-streptococcus.jpg"
 image_caption: >
   Inspiring: Streptococcus pyogenes
@@ -22,6 +27,7 @@ image_attribution: "Centres for Disease Control and Prevention"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

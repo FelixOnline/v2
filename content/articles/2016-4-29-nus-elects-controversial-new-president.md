@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Malia Bouattia is their first female black Muslim leader
 date: "2016-04-29 10:08:06 +0100"
+# Attributes from Felix Online V1
 id: "6091"
 old_path: /news/6091/nus-elects-controversial-new-president
 aliases:
  - /news/6091/nus-elects-controversial-new-president
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
 image_caption: >
   Let’s start our own NUS with blackjack and hookers!
@@ -22,6 +27,7 @@ image_attribution: "NUS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

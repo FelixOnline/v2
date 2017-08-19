@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Experiments are due to start in April after a lengthy battle against red tape
 date: "2015-02-20 00:02:08 +0000"
+# Attributes from Felix Online V1
 id: "5279"
 old_path: /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
 aliases:
  - /news/5279/imperial-college-scientists-to-study-potential-benefits-of-psilocybin-in-patients-with-depression
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502200002-ps3110-untitled.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

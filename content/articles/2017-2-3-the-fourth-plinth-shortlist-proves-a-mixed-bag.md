@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Fourth Plinth shortlist is on at the National Gallery until 26th March
 date: "2017-02-03 16:58:19 +0000"
+# Attributes from Felix Online V1
 id: "6724"
 old_path: /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
 aliases:
  - /arts/6724/the-fourth-plinth-shortlist-proves-a-mixed-bag
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031658-felix-16077864941_3658b9cf66_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "pipnash"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

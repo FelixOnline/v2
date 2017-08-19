@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik asks: where do revolution and artistic expression collide?
 date: "2014-12-18 16:20:20 +0000"
+# Attributes from Felix Online V1
 id: "5074"
 old_path: /arts/5074/at-the-frontiers-of-art-performance-and-protest
 aliases:
  - /arts/5074/at-the-frontiers-of-art-performance-and-protest
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

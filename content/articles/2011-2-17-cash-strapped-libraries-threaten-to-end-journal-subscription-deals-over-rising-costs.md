@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deborah Shorley, Head of Imperial’s library, will take Britain’s biggest publishers to the edge if necessary
 date: "2011-02-17 18:54:41 +0000"
+# Attributes from Felix Online V1
 id: "808"
 old_path: /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
 aliases:
  - /news/808/cash-strapped-libraries-threaten-to-end-journal-subscription-deals-over-rising-costs
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171846-ks607-deborahs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jan Piotrowski"
 image_attribution_link: "http://jpiotrowski.wordpress.com/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

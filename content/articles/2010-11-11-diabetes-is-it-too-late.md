@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As World Diabetes Day approaches, what can be done?
 date: "2010-11-11 21:06:09 +0000"
+# Attributes from Felix Online V1
 id: "352"
 old_path: /science/352/diabetes-is-it-too-late
 aliases:
  - /science/352/diabetes-is-it-too-late
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

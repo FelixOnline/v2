@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman asks: glorified sleeve notes or art in their own right?
 date: "2015-05-29 12:11:08 +0100"
+# Attributes from Felix Online V1
 id: "5586"
 old_path: /music/5586/get-on-the-zine
 aliases:
  - /music/5586/get-on-the-zine
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291309-js5913-drivepastmyhouseposterweb.jpg"
 image_caption: >
   Summer Camp's zine cover
@@ -22,6 +27,7 @@ image_attribution: "Julia Scheele"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

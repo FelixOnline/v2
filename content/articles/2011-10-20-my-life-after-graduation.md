@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anum Farooq on how getting your degree is just the beginning
 date: "2011-10-20 23:20:37 +0100"
+# Attributes from Felix Online V1
 id: "1580"
 old_path: /comment/1580/my-life-after-graduation
 aliases:
  - /comment/1580/my-life-after-graduation
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110210020-sjw209-anum-cutout.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

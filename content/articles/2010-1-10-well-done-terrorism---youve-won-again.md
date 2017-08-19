@@ -4,15 +4,20 @@ title: >
 subtitle: >
    you've won again
 date: "2010-01-10 01:29:25 +0000"
+# Attributes from Felix Online V1
 id: "21"
 old_path: /comment/21/well-done-terrorism---youve-won-again
 aliases:
  - /comment/21/well-done-terrorism---youve-won-again
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141543-rsp07-ChengZha.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

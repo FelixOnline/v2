@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We finally reviewed it and it was good
 date: "2016-11-25 13:54:35 +0000"
+# Attributes from Felix Online V1
 id: "6505"
 old_path: /film/6505/fantastic-beasts-and-where-to-find-them
 aliases:
  - /film/6505/fantastic-beasts-and-where-to-find-them
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251353-felix-Screen Shot 2016-11-23 at 15.54.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Warner Bros  Allstar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

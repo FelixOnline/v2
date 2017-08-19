@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Angus James Morrison finds The Virtues of Things to be a mixed bag
 date: "2015-05-13 14:19:43 +0100"
+# Attributes from Felix Online V1
 id: "5515"
 old_path: /arts/5515/a-new-meta-opera-arrives-at-the-roh
 aliases:
  - /arts/5515/a-new-meta-opera-arrives-at-the-roh
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505131518-ps3110-fiona_kimm_as_ellipsis_paul_curievici_as_eames_david_stout_as_selby_robyn_allegra_parton_as_peg_0-photo-credit-fiona-kimm.jpg"
 image_caption: >
   David Stout, Fiona Kimm, Robyn Allegra Parton and Paul Curievici in the Royal Opera House’s production of The Virtues of Things
@@ -22,6 +27,7 @@ image_attribution: "Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

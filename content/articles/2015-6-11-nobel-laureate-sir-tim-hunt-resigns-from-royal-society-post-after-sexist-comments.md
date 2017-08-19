@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson on the controversy that has taken place over the last week
 date: "2015-06-11 22:23:29 +0100"
+# Attributes from Felix Online V1
 id: "5615"
 old_path: /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
 aliases:
  - /news/5615/nobel-laureate-sir-tim-hunt-resigns-from-royal-society-post-after-sexist-comments
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112322-cj914-tim-hunt-2.jpg"
 image_caption: >
   Sir Tim Hunt apparently now recognises that his comments were unacceptable.
@@ -22,6 +27,7 @@ image_attribution: "Huffington Post"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

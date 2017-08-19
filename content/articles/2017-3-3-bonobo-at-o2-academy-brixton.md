@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Each new song was met with a wave of euphoria among the crowd
 date: "2017-03-03 15:26:20 +0000"
+# Attributes from Felix Online V1
 id: "6848"
 old_path: /music/6848/bonobo-at-o2-academy-brixton
 aliases:
  - /music/6848/bonobo-at-o2-academy-brixton
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031526-felix-20170225_221356.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Philipp Antonas"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

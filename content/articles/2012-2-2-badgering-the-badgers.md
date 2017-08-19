@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christopher Nichols on why we should save the badgers from culling
 date: "2012-02-02 19:29:32 +0000"
+# Attributes from Felix Online V1
 id: "2089"
 old_path: /science/2089/badgering-the-badgers
 aliases:
  - /science/2089/badgering-the-badgers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202021928-ams111-badger-2.jpg"
 image_caption: >
   Don't kill them... I'll take them. I'll take them all!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Imperial Wolverines!
 date: "2012-10-11 21:19:26 +0100"
+# Attributes from Felix Online V1
 id: "2671"
 old_path: /sport/2671/imperial-wolverines-dodge-victory
 aliases:
  - /sport/2671/imperial-wolverines-dodge-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112218-csw09-action%20shot%201.jpg"
 image_caption: >
   Amazing Fresher Talent
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

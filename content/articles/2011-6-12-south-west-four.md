@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Ashford on Clapham’s best summer offering
 date: "2011-06-12 15:50:06 +0100"
+# Attributes from Felix Online V1
 id: "1364"
 old_path: /music/1364/south-west-four
 aliases:
  - /music/1364/south-west-four
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106121649-felix-sw4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

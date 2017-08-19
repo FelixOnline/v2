@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "I believe the show’s episodes can be split up into three categories – a third of them are brilliant, a third are just plain disappointing while a third are so bad that they’re good"
 date: "2013-01-10 22:59:10 +0000"
+# Attributes from Felix Online V1
 id: "3101"
 old_path: /tv/3101/dr-who-is-coming-to-town
 aliases:
  - /tv/3101/dr-who-is-coming-to-town
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102259-csw09-3216365-high-doctor-who-christmas-special-2012.jpg"
 image_caption: >
   I see a tall, dark stranger in your future...and a creepy snowman
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

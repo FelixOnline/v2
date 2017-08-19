@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dushi Arumuganesan’s guide to London’s most festive frolics this winter
 date: "2011-12-08 22:01:56 +0000"
+# Attributes from Felix Online V1
 id: "1950"
 old_path: /travel/1950/christmas-in-the-capital
 aliases:
  - /travel/1950/christmas-in-the-capital
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082158-pk1811-nathismus.jpg"
 image_caption: >
   For best results, drop a couple of tabs of acid before hitting the rink: you’ll skate like a pro.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

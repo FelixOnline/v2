@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s time to start thinking about a post-work society
 date: "2015-11-27 14:20:35 +0000"
+# Attributes from Felix Online V1
 id: "5776"
 old_path: /comment/5776/communism-is-the-key-to-luxury-for-all
 aliases:
  - /comment/5776/communism-is-the-key-to-luxury-for-all
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271420-ygr12-jetsons.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

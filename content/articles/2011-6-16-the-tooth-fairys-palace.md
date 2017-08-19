@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor Sara Rankin is asking school children around the UK to donate their baby teeth. But why?
 date: "2011-06-16 19:36:50 +0100"
+# Attributes from Felix Online V1
 id: "1384"
 old_path: /news/1384/the-tooth-fairys-palace
 aliases:
  - /news/1384/the-tooth-fairys-palace
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162027-felix-99.jpg"
 image_caption: >
   Professor Sara Rankin
@@ -22,6 +27,7 @@ image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

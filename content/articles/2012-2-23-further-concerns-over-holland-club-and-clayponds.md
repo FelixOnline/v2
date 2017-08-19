@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Postgraduate panel highlights issues
 date: "2012-02-23 23:11:43 +0000"
+# Attributes from Felix Online V1
 id: "2263"
 old_path: /news/2263/further-concerns-over-holland-club-and-clayponds
 aliases:
  - /news/2263/further-concerns-over-holland-club-and-clayponds
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232308-felix-clayponds.jpg"
 image_caption: >
   Clayponds residents have voiced their support for the continuation of the postgraduate accommodation
@@ -22,6 +27,7 @@ image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

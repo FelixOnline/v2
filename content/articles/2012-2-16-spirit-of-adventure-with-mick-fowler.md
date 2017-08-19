@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exploration Society invite “the Mountaineer’s Mountaineer” to Imperial College
 date: "2012-02-16 21:28:07 +0000"
+# Attributes from Felix Online V1
 id: "2189"
 old_path: /news/2189/spirit-of-adventure-with-mick-fowler
 aliases:
  - /news/2189/spirit-of-adventure-with-mick-fowler
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162126-pk1811-dsc_2242.jpg"
 image_caption: >
   Mick Fowler, not your conventional tax office resident
@@ -22,6 +27,7 @@ image_attribution: "Arnaud Sors"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

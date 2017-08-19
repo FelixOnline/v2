@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix sends undercover reporter MC Hämmer on a night out...
 date: "2012-10-11 20:51:03 +0100"
+# Attributes from Felix Online V1
 id: "2655"
 old_path: /news/2655/one-night-in-gem-bar
 aliases:
  - /news/2655/one-night-in-gem-bar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112150-felix-gem-bar-mc-hammerrgb.jpg"
 image_caption: >
   A quick panoramic view of the venue
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

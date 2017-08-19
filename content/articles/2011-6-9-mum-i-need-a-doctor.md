@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Poem by Kadhim
 date: "2011-06-09 17:53:47 +0100"
+# Attributes from Felix Online V1
 id: "1327"
 old_path: /phoenix/1327/mum-i-need-a-doctor
 aliases:
  - /phoenix/1327/mum-i-need-a-doctor
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106091852-felix-colour020.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

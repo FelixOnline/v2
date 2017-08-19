@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rowing machines and strong winds for Boat Club as they win 18 BUCS points
 date: "2010-11-04 18:44:56 +0000"
+# Attributes from Felix Online V1
 id: "309"
 old_path: /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
 aliases:
  - /sport/309/injury-and-illness-stalks-rowing-club-at-trials-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041843-ks607-rowingro.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

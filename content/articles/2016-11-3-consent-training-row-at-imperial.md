@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RCSU president questions funding of Consent Matters software
 date: "2016-11-03 23:06:26 +0000"
+# Attributes from Felix Online V1
 id: "6378"
 old_path: /news/6378/consent-training-row-at-imperial
 aliases:
  - /news/6378/consent-training-row-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

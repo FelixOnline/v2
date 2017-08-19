@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sanchit Sharma finally hooks up a XBox controller
 date: "2014-12-04 19:34:03 +0000"
+# Attributes from Felix Online V1
 id: "5000"
 old_path: /games/5000/dance-dance-revolution-kung-fu-style
 aliases:
  - /games/5000/dance-dance-revolution-kung-fu-style
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041934-cj914-kickbeat_22.jpg"
 image_caption: >
   Dancing her way to the top, and looking incredibly sassy while doing it!
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

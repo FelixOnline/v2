@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The letter was signed by 343 lecturers, including three from Imperial
 date: "2015-10-30 12:26:54 +0000"
+# Attributes from Felix Online V1
 id: "5681"
 old_path: /news/5681/several-imperial-academics-to-boycott-israeli-universities
 aliases:
  - /news/5681/several-imperial-academics-to-boycott-israeli-universities
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301226-ygr12-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: >
   The advert itself
@@ -22,6 +27,7 @@ image_attribution: "UK media watch"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cloud Atlas is a masterpiece, says John Park
 date: "2013-02-22 01:32:25 +0000"
+# Attributes from Felix Online V1
 id: "3362"
 old_path: /film/3362/our-lives-are-not-our-own
 aliases:
  - /film/3362/our-lives-are-not-our-own
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220131-tna08-13fb86ba0bb9f049b72b5b99e504dd08.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

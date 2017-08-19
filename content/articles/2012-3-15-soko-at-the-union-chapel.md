@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An interesting night for all its ups and downs
 date: "2012-03-15 21:30:50 +0000"
+# Attributes from Felix Online V1
 id: "2385"
 old_path: /music/2385/soko-at-the-union-chapel
 aliases:
  - /music/2385/soko-at-the-union-chapel
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152128-ig711-img_0271.jpg"
 image_caption: >
   Kudos to Soko: this hat is hard to pull off
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

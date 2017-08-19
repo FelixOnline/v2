@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cross-College team members set their sights on Paxman
 date: "2011-11-10 19:48:42 +0000"
+# Attributes from Felix Online V1
 id: "1706"
 old_path: /news/1706/finals-reveal-imperial-university-challenge-team
 aliases:
  - /news/1706/finals-reveal-imperial-university-challenge-team
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

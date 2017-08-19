@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
+# Attributes from Felix Online V1
 id: "1158"
 old_path: /comment/1158/a-load-of-balls
 aliases:
  - /comment/1158/a-load-of-balls
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060932-felix-comment-illustration-thursday-5th-may-2011-benjamin-kennedy.jpg"
 image_caption: >
   Fine I’ll wear black tie, but I draw the line at monochrome
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

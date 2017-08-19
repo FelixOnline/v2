@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Discussing the Imperial College's carbon footprint!
 date: "2014-06-12 17:54:36 +0100"
+# Attributes from Felix Online V1
 id: "4687"
 old_path: /features/4687/energy-efficiency-at-imperial--how-green-are-we
 aliases:
  - /features/4687/energy-efficiency-at-imperial--how-green-are-we
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

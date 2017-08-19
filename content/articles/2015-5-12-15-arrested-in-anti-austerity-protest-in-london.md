@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
+# Attributes from Felix Online V1
 id: "5512"
 old_path: /news/5512/15-arrested-in-anti-austerity-protest-in-london
 aliases:
  - /news/5512/15-arrested-in-anti-austerity-protest-in-london
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505121704-jr2514-_82891092_027131722-1.jpg"
 image_caption: >
   Hundreds took to the streets just two days after the general election
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

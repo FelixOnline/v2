@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park scrutinizes a film with one to many Ms
 date: "2012-01-26 22:10:47 +0000"
+# Attributes from Felix Online V1
 id: "2054"
 old_path: /film/2054/mysterious-magnetic-monstrous-maddening
 aliases:
  - /film/2054/mysterious-magnetic-monstrous-maddening
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262210-cac111-martha_marcy_may_marlene.jpg"
 image_caption: >
   Don’t worry, it’s not bad being an Olsen – just be glad you’re not a Kardashian, you have talent!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

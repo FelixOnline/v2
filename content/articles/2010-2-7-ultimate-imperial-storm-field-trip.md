@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Five teams through to BP's Ultimate Field Trip Challenge
 date: "2010-02-07 03:27:24 +0000"
+# Attributes from Felix Online V1
 id: "80"
 old_path: /news/80/ultimate-imperial-storm-field-trip
 aliases:
  - /news/80/ultimate-imperial-storm-field-trip
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002070321-ak6309-Ultimate.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

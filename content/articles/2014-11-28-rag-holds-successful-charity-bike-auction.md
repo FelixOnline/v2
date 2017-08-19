@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports from the charity auction
 date: "2014-11-28 00:49:24 +0000"
+# Attributes from Felix Online V1
 id: "4966"
 old_path: /news/4966/rag-holds-successful-charity-bike-auction
 aliases:
  - /news/4966/rag-holds-successful-charity-bike-auction
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280049-kmw13-rag-bike-auction-20-11-14-(2).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Amy Whistlecroft"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The effects will be devastating for hundreds of thousands across the country
 date: "2011-05-08 13:28:45 +0100"
+# Attributes from Felix Online V1
 id: "1179"
 old_path: /travel/1179/world-cup-woes-for-the-residents-of-rio
 aliases:
  - /travel/1179/world-cup-woes-for-the-residents-of-rio
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105081428-felix-protest.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Leuvis/MundoReal.org"
 image_attribution_link: "http://1mundoreal.org/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

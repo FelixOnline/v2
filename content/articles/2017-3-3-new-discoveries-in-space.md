@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new neighbouring solar system brings promise
 date: "2017-03-03 15:12:43 +0000"
+# Attributes from Felix Online V1
 id: "6842"
 old_path: /science/6842/new-discoveries-in-space
 aliases:
  - /science/6842/new-discoveries-in-space
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031512-felix-NASA.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NASA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

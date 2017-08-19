@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX visits The Muffin Man Tea Shop for afternoon tea.
 date: "2016-05-20 09:18:14 +0100"
+# Attributes from Felix Online V1
 id: "6190"
 old_path: /food/6190/back-to-basics-scones-and-tea
 aliases:
  - /food/6190/back-to-basics-scones-and-tea
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201117-felix-Lobby_Lounge_High_Tea.JPG"
 image_caption: >
   This is almost good enough for mother.
@@ -22,6 +27,7 @@ image_attribution: "Wikicommons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

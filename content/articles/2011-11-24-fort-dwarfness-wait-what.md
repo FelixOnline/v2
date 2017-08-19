@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dwarf Fortress: challenging, captivating, and almost completely unheard of. Keir Little sheds some light on this hidden gem
 date: "2011-11-24 20:59:28 +0000"
+# Attributes from Felix Online V1
 id: "1812"
 old_path: /games/1812/fort-dwarfness-wait-what
 aliases:
  - /games/1812/fort-dwarfness-wait-what
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242057-felix-shootcommon_1063_main.png"
 image_caption: >
   You get used to it, though. I don’t even see the code. All I see is blonde, brunette, redhead...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

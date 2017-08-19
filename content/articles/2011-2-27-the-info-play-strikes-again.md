@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Greenland: Another play about global warming, can the National make it exciting?
 date: "2011-02-27 19:32:22 +0000"
+# Attributes from Felix Online V1
 id: "915"
 old_path: /arts/915/the-info-play-strikes-again
 aliases:
  - /arts/915/the-info-play-strikes-again
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271931-ks607-greenlan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We can do anything we want, and that’s not usually helping people for the greater good
 date: "2017-01-13 15:05:14 +0000"
+# Attributes from Felix Online V1
 id: "6652"
 old_path: /features/6652/the-millennials-are-all-that-can-save-us-in-this-post-truth-world
 aliases:
  - /features/6652/the-millennials-are-all-that-can-save-us-in-this-post-truth-world
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131505-felix-Screen Shot 2017-01-13 at 15.04.51.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

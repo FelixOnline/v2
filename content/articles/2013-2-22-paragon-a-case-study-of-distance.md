@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah gives a brief case study on Paragon, in the wake of the new North Acton halls
 date: "2013-02-22 00:15:02 +0000"
+# Attributes from Felix Online V1
 id: "3355"
 old_path: /news/3355/paragon-a-case-study-of-distance
 aliases:
  - /news/3355/paragon-a-case-study-of-distance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220015-tna08-paragon.jpg"
 image_caption: >
   Paragon halls, through a fish eye camera
@@ -22,6 +27,7 @@ image_attribution: "West Thames College"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

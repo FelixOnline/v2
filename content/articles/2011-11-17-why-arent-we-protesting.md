@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matthew Colvin reports on what prevents students from taking to the streets
 date: "2011-11-17 21:12:18 +0000"
+# Attributes from Felix Online V1
 id: "1771"
 old_path: /news/1771/why-arent-we-protesting
 aliases:
  - /news/1771/why-arent-we-protesting
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172112-pk1811-img_8346.jpg"
 image_caption: >
   Last Wednesday’s protests attracted thousands of students from across the country
@@ -22,6 +27,7 @@ image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Search begins for replacement
 date: "2011-01-27 18:11:41 +0000"
+# Attributes from Felix Online V1
 id: "650"
 old_path: /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
 aliases:
  - /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Boris Johnson
 date: "2013-10-25 00:02:22 +0100"
+# Attributes from Felix Online V1
 id: "3918"
 old_path: /comment/3918/boris-resolute-vertebrate-jelly-part-i
 aliases:
  - /comment/3918/boris-resolute-vertebrate-jelly-part-i
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250101-felix-boris-hand.jpg"
 image_caption: >
   Golly gosh, am I really that blond? Rome, save me!
@@ -22,6 +27,7 @@ image_attribution: "Boriswatch.com"
 image_attribution_link: "http://www.boriswatch.com"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

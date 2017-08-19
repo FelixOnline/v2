@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hannah Edmondson interviews Christopher Yates on the inspiration behind his university-set psychological thriller.
 date: "2013-12-19 20:52:33 +0000"
+# Attributes from Felix Online V1
 id: "4201"
 old_path: /arts/4201/drawn-in-black-chalk
 aliases:
  - /arts/4201/drawn-in-black-chalk
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201312192051-mtm10-bc1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

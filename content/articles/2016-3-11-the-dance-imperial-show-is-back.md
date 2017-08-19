@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This dance show spectacular is not to be missed
 date: "2016-03-11 11:43:33 +0000"
+# Attributes from Felix Online V1
 id: "6030"
 old_path: /cands/6030/the-dance-imperial-show-is-back
 aliases:
  - /cands/6030/the-dance-imperial-show-is-back
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

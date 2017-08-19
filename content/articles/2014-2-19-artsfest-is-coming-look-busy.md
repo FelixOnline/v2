@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yes the biggest event of the union calendar has arrived. And I don’t mean the Big Elections. ArtsFest sees our scientists’ paradise turned over to our Artistic under culture for a week of something different.
 date: "2014-02-19 17:25:16 +0000"
+# Attributes from Felix Online V1
 id: "4403"
 old_path: /arts/4403/artsfest-is-coming-look-busy
 aliases:
  - /arts/4403/artsfest-is-coming-look-busy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

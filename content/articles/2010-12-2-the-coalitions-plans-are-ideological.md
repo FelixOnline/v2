@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's time for us all to make it clear to the Union and College we oppose the changes and introduction of higher fees
 date: "2010-12-02 21:12:54 +0000"
+# Attributes from Felix Online V1
 id: "488"
 old_path: /comment/488/the-coalitions-plans-are-ideological
 aliases:
  - /comment/488/the-coalitions-plans-are-ideological
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rlg107"
 author_name: "Reuben Gibbons"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

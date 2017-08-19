@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Can't sit through three hours of Spaghetti Western? Try these on for size instead...
 date: "2015-12-06 14:35:22 +0000"
+# Attributes from Felix Online V1
 id: "5806"
 old_path: /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
 aliases:
  - /film/5806/the-top-western-films-that-arent-the-good-the-bad-and-the-ugly
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061434-ff712-The-Good-the-Bad-and-the-Ugly.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

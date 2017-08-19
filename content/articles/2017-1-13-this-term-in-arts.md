@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik gives her tips for a term full of culture
 date: "2017-01-13 14:42:20 +0000"
+# Attributes from Felix Online V1
 id: "6646"
 old_path: /arts/6646/this-term-in-arts
 aliases:
  - /arts/6646/this-term-in-arts
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131441-felix-L2017.4_vanMeene-e1478536802365.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Hellen van Meene \ Yancey Richardson Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

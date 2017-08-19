@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College confirm that they have not yet discussed switching
 date: "2013-06-13 23:07:38 +0100"
+# Attributes from Felix Online V1
 id: "3689"
 old_path: /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
 aliases:
  - /news/3689/gpnay--union-council-unanimously-opposes-the-gpa
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140007-tna08-yale-university.jpg"
 image_caption: >
   Yale... How grand. Are you overcompensating for something?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

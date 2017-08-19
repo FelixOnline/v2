@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto finds a passage to 1930s Paris down Battersea High Street
 date: "2012-06-03 15:53:55 +0100"
+# Attributes from Felix Online V1
 id: "2519"
 old_path: /music/2519/a-night-at-le-quecumbar
 aliases:
  - /music/2519/a-night-at-le-quecumbar
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206031653-felix-quecumbar-big.jpg"
 image_caption: >
   Bohemian levels are currently through the roof
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kickstarter is one of many crowdfunding options for budding creators, looking to shake up the world of cinema
 date: "2016-04-29 10:38:30 +0100"
+# Attributes from Felix Online V1
 id: "6100"
 old_path: /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
 aliases:
  - /film/6100/kung-fu-kickstarter-and-how-crowdfunding-is-changing-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291138-felix-140313-kickstarter-screen-jb-1534p_405a41ea74f3acd3868abacbc5c32033.nbcnews-fp-1240-520.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

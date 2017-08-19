@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Once more Valentine’s Day rolls around, and once more my evening date is a bottle of vodka and video games. The result? Tongue-in-cheek dating profiles for video game females. I may need to kick the habit
 date: "2012-02-16 21:29:46 +0000"
+# Attributes from Felix Online V1
 id: "2190"
 old_path: /games/2190/virtual-dating-for-those-despondent-valentines
 aliases:
  - /games/2190/virtual-dating-for-those-despondent-valentines
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

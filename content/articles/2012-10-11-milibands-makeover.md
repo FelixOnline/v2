@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After his party address and mastering of the skill of repetition (“One Nation” - 46 times), the Labour leader is hoping to boost his election chances. Matthew Proctor looks into them.
 date: "2012-10-11 21:02:28 +0100"
+# Attributes from Felix Online V1
 id: "2661"
 old_path: /politics/2661/milibands-makeover
 aliases:
  - /politics/2661/milibands-makeover
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112202-csw09-nick_clegg-small.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

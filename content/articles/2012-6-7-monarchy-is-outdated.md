@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maybe it's time for a Republic
 date: "2012-06-07 19:46:04 +0100"
+# Attributes from Felix Online V1
 id: "2532"
 old_path: /comment/2532/monarchy-is-outdated
 aliases:
  - /comment/2532/monarchy-is-outdated
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
 image_caption: >
   Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

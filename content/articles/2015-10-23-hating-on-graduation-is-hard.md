@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Graduation only disappoints by being difficult to find its flaws
 date: "2015-10-23 11:43:40 +0100"
+# Attributes from Felix Online V1
 id: "5670"
 old_path: /comment/5670/hating-on-graduation-is-hard
 aliases:
  - /comment/5670/hating-on-graduation-is-hard
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231243-cj914-graduation.jpg"
 image_caption: >
   Angry Grad (not pictured) looked peng.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

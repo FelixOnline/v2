@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Women's Ultimate Frisbee makes Imperial proud in Brighton
 date: "2016-10-28 15:46:07 +0100"
+# Attributes from Felix Online V1
 id: "6355"
 old_path: /sport/6355/ic-womens-sick-o-performance
 aliases:
  - /sport/6355/ic-womens-sick-o-performance
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610281744-aib116-SICKO INDOOR TEAM PICTURE.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix praises the work of Baroness Manningham-Buller
 date: "2011-11-24 22:40:22 +0000"
+# Attributes from Felix Online V1
 id: "1839"
 old_path: /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
 aliases:
  - /comment/1839/a-review-into-our-drugs-policy-would-be-a-triumph-for-fact
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

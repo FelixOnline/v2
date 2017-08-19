@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A stragetic and minimalist first-person shooter where time moves with you
 date: "2016-03-18 11:55:00 +0000"
+# Attributes from Felix Online V1
 id: "6065"
 old_path: /games/6065/superhot-is-super-fun
 aliases:
  - /games/6065/superhot-is-super-fun
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181154-felix-superhot2.jpg"
 image_caption: >
   Punching polygons.
@@ -22,6 +27,7 @@ image_attribution: "SUPERHOT Team"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

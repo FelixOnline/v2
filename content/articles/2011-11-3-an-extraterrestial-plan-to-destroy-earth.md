@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Silly anime gets the thumbs up from Maciej Matuszewski
 date: "2011-11-03 20:36:59 +0000"
+# Attributes from Felix Online V1
 id: "1670"
 old_path: /tv/1670/an-extraterrestial-plan-to-destroy-earth
 aliases:
  - /tv/1670/an-extraterrestial-plan-to-destroy-earth
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032036-pk1811-flcl-cartoon-image-character-31000.jpg"
 image_caption: >
   Do you brandish your sword at me old chap?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

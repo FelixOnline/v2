@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Sharpless discusses the latest controversy surrounding the new £5 note
 date: "2016-12-02 14:00:17 +0000"
+# Attributes from Felix Online V1
 id: "6527"
 old_path: /science/6527/5-for-top-quality-animal-fat
 aliases:
  - /science/6527/5-for-top-quality-animal-fat
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021400-felix-five-pound-note-1775779_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

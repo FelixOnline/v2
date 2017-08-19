@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Charleson reports back from Cambridge, which is apparently an okay university or something
 date: "2012-10-26 03:00:29 +0100"
+# Attributes from Felix Online V1
 id: "2762"
 old_path: /sport/2762/freshers-get-wet-in-cambridge
 aliases:
  - /sport/2762/freshers-get-wet-in-cambridge
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260400-tna08-swimmy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

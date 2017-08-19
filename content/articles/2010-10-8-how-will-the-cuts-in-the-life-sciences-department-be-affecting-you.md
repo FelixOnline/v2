@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An Editorial on the Life-Sciences Restructure
 date: "2010-10-08 07:05:59 +0100"
+# Attributes from Felix Online V1
 id: "186"
 old_path: /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
 aliases:
  - /comment/186/how-will-the-cuts-in-the-life-sciences-department-be-affecting-you
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

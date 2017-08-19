@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s Ultimate Frisbee team will head to the Wolverhampton Nationals to defend their title
 date: "2010-11-18 21:06:51 +0000"
+# Attributes from Felix Online V1
 id: "401"
 old_path: /sport/401/frisbee-progress-in-sutton
 aliases:
  - /sport/401/frisbee-progress-in-sutton
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182105-ks607-frisbee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "prs09"
 author_name: "Philip Sandwell"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

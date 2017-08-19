@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Today we review the little ball that wants to rock your iPod
 date: "2010-05-14 11:52:43 +0100"
+# Attributes from Felix Online V1
 id: "137"
 old_path: /tech/137/lanchiya-mi-football-ipod-dock-review
 aliases:
  - /tech/137/lanchiya-mi-football-ipod-dock-review
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005141249-srg03-mifootba.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

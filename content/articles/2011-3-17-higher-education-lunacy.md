@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The government's higher education 'policy' is wrecking the sector
 date: "2011-03-17 21:40:58 +0000"
+# Attributes from Felix Online V1
 id: "1104"
 old_path: /comment/1104/higher-education-lunacy
 aliases:
  - /comment/1104/higher-education-lunacy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

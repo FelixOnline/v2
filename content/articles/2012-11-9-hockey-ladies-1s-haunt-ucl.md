@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Frightfully good performance by Imperial destroys UCL
 date: "2012-11-09 14:30:16 +0000"
+# Attributes from Felix Online V1
 id: "2874"
 old_path: /sport/2874/hockey-ladies-1s-haunt-ucl
 aliases:
  - /sport/2874/hockey-ladies-1s-haunt-ucl
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091429-tna08-ladies-hockey.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

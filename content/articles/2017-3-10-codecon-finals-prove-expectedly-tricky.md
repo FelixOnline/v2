@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Firefighter Tim” posed particular difficulties
 date: "2017-03-10 13:08:01 +0000"
+# Attributes from Felix Online V1
 id: "6862"
 old_path: /news/6862/codecon-finals-prove-expectedly-tricky
 aliases:
  - /news/6862/codecon-finals-prove-expectedly-tricky
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101307-felix-fire.jpg"
 image_caption: >
   Only 2% of people were able to save lives
@@ -22,6 +27,7 @@ image_attribution: "Peretz Partensky"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

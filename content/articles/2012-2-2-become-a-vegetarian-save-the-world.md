@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Wood on her vegetarian experiences
 date: "2012-02-02 23:50:00 +0000"
+# Attributes from Felix Online V1
 id: "2115"
 old_path: /comment/2115/become-a-vegetarian-save-the-world
 aliases:
  - /comment/2115/become-a-vegetarian-save-the-world
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

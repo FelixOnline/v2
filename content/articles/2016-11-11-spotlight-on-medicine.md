@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Beacons of hope in this cursed year...
 date: "2016-11-11 15:59:49 +0000"
+# Attributes from Felix Online V1
 id: "6429"
 old_path: /science/6429/spotlight-on-medicine
 aliases:
  - /science/6429/spotlight-on-medicine
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111555-felix-16701909933_d557ea5cba_o.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NICHD"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

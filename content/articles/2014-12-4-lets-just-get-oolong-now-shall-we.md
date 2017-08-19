@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michelle Tan looks at some teas from further, er, afield
 date: "2014-12-04 19:12:43 +0000"
+# Attributes from Felix Online V1
 id: "4993"
 old_path: /food/4993/lets-just-get-oolong-now-shall-we
 aliases:
  - /food/4993/lets-just-get-oolong-now-shall-we
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041912-cj914-il_fullxfull.223711088.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lulla, Etsy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

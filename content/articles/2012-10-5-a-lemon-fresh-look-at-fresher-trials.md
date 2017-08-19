@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Sport Brings you a rough and incomplete guide to some of the fresher trial events
 date: "2012-10-05 13:34:51 +0100"
+# Attributes from Felix Online V1
 id: "2630"
 old_path: /sport/2630/a-lemon-fresh-look-at-fresher-trials
 aliases:
  - /sport/2630/a-lemon-fresh-look-at-fresher-trials
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051436-felix-sam_0236.jpg"
 image_caption: >
   Just wondering how to put a bib on. Hang on, I'll get Balotelli to explain it
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fassbender & Co. save this titan effort from self-indulgence
 date: "2012-06-07 19:19:30 +0100"
+# Attributes from Felix Online V1
 id: "2530"
 old_path: /film/2530/review-prometheus
 aliases:
  - /film/2530/review-prometheus
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072259-felix-tumblr_m4aahmetrm1r7r4c7o1_1280.jpg"
 image_caption: >
   She's playing with fire... again...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Andrew Foster reviews MT Soc's latest show
 date: "2013-03-15 01:26:57 +0000"
+# Attributes from Felix Online V1
 id: "3474"
 old_path: /arts/3474/mtsocs-glittering-parade
 aliases:
  - /arts/3474/mtsocs-glittering-parade
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150125-tna08-dsc_0082.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

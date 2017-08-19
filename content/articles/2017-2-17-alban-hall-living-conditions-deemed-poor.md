@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students considering withholding rent
 date: "2017-02-17 14:27:44 +0000"
+# Attributes from Felix Online V1
 id: "6779"
 old_path: /news/6779/alban-hall-living-conditions-deemed-poor
 aliases:
  - /news/6779/alban-hall-living-conditions-deemed-poor
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171425-felix-16780613_1266504760130830_432648682_n.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "memetho"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

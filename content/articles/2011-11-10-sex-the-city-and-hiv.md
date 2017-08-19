@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maya Kaushik discusses the Master’s project that forced her to look at her hometown of Bangalore in a completely different way
 date: "2011-11-10 20:49:15 +0000"
+# Attributes from Felix Online V1
 id: "1721"
 old_path: /science/1721/sex-the-city-and-hiv
 aliases:
  - /science/1721/sex-the-city-and-hiv
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102049-pk1811-1280px-glasshouse_and_fountain_at_lalbagh.jpg"
 image_caption: >
   Lal Bagh, amongst others, gives Bangalore its nice nickname, but it also has a more sinister side...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

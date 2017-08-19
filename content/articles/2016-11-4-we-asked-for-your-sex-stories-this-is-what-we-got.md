@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We took to social media and asked you for some of the funniest sex stories you felt like sharing with us. These are the best of the bunch. If you have any stories that you think deserve to be featured in the paper, send them to us at milfelix@ic.ac.uk
 date: "2016-11-04 15:48:56 +0000"
+# Attributes from Felix Online V1
 id: "6400"
 old_path: /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
 aliases:
  - /sex/6400/we-asked-for-your-sex-stories-this-is-what-we-got
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041546-felix-Screen Shot 2016-11-04 at 15.45.25.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

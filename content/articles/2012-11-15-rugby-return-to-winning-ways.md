@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rob Kyle talks of rugby's reclaiming of their rightful place: a team that wins
 date: "2012-11-15 22:28:16 +0000"
+# Attributes from Felix Online V1
 id: "2919"
 old_path: /sport/2919/rugby-return-to-winning-ways
 aliases:
  - /sport/2919/rugby-return-to-winning-ways
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152227-tna08-ruggy2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

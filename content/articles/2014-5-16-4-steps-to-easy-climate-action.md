@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily White explains how we can easily make a change with four simple actions
 date: "2014-05-16 01:52:52 +0100"
+# Attributes from Felix Online V1
 id: "4601"
 old_path: /comment/4601/4-steps-to-easy-climate-action
 aliases:
  - /comment/4601/4-steps-to-easy-climate-action
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160254-jal08-comment_solarpanelsbangladesh.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "clickbd.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

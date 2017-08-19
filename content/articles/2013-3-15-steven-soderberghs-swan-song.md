@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Side Effects gets four stars
 date: "2013-03-15 02:18:44 +0000"
+# Attributes from Felix Online V1
 id: "3488"
 old_path: /film/3488/steven-soderberghs-swan-song
 aliases:
  - /film/3488/steven-soderberghs-swan-song
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

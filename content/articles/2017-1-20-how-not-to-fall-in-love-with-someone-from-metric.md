@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Remember that one night stand in Metric? Time to deal with the fallout.
 date: "2017-01-20 15:58:17 +0000"
+# Attributes from Felix Online V1
 id: "6679"
 old_path: /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
 aliases:
  - /sex/6679/how-not-to-fall-in-love-with-someone-from-metric
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201557-felix-Screen Shot 2017-01-20 at 15.56.51.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

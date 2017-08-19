@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Umar Nasser, President of Ahmadiyya Muslim Students Association, on matters of interfaith
 date: "2013-11-15 02:26:21 +0000"
+# Attributes from Felix Online V1
 id: "4068"
 old_path: /comment/4068/dont-be-agnostic-about-interfaith
 aliases:
  - /comment/4068/dont-be-agnostic-about-interfaith
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150246-felix-wordof-god.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

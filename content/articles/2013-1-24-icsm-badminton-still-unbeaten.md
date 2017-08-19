@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Badminton shuttle towards ultimate domination
 date: "2013-01-24 20:57:39 +0000"
+# Attributes from Felix Online V1
 id: "3155"
 old_path: /sport/3155/icsm-badminton-still-unbeaten
 aliases:
  - /sport/3155/icsm-badminton-still-unbeaten
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242055-mc4509-p1090381.jpg"
 image_caption: >
   Harder! Smash those shuttlecocks
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

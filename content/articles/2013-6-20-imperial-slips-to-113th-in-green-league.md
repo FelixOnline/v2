@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Everyone's nightmare: a third
 date: "2013-06-20 23:34:32 +0100"
+# Attributes from Felix Online V1
 id: "3722"
 old_path: /news/3722/imperial-slips-to-113th-in-green-league
 aliases:
  - /news/3722/imperial-slips-to-113th-in-green-league
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210033-tna08-green-league.png"
 image_caption: >
   Wahay! We’re finally equal with Cambridge at something. Oh, wait. DAMMIT!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cough up, who’s been complaining to College?
 date: "2016-10-03 11:08:33 +0100"
+# Attributes from Felix Online V1
 id: "6298"
 old_path: /news/6298/college-contemplating-smoking-ban
 aliases:
  - /news/6298/college-contemplating-smoking-ban
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610031307-cet13-first draft.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

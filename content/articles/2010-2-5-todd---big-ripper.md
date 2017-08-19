@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rough Trade 2009, review by Greg Power
 date: "2010-02-05 10:50:39 +0000"
+# Attributes from Felix Online V1
 id: "74"
 old_path: /music/74/todd---big-ripper
 aliases:
  - /music/74/todd---big-ripper
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002051048-ks607-ToddBigR.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

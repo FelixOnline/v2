@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The question of Quantitative Easing. By Rajvinder Virdee
 date: "2011-10-20 22:35:23 +0100"
+# Attributes from Felix Online V1
 id: "1570"
 old_path: /biz/1570/qe-or-not-qe-that-is-the-question
 aliases:
  - /biz/1570/qe-or-not-qe-that-is-the-question
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
 image_caption: >
   Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Govenor of the Bank of England,
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

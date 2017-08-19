@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Byrne explores the wonders on offer
 date: "2013-06-13 22:47:21 +0100"
+# Attributes from Felix Online V1
 id: "3682"
 old_path: /science/3682/the-hidden-secrets-of-coral-reefs
 aliases:
  - /science/3682/the-hidden-secrets-of-coral-reefs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132347-tna08-coral.jpg"
 image_caption: >
   A fishy free-for-all at the O.K. Corral
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

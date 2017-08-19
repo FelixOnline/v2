@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ipsita Herlekar looks at how the immune system of ticks is adapted to host disease causing bacteria without being affected themselves
 date: "2017-02-24 13:55:49 +0000"
+# Attributes from Felix Online V1
 id: "6815"
 old_path: /science/6815/workings-of-a-ticks-immune-system
 aliases:
  - /science/6815/workings-of-a-ticks-immune-system
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241355-felix-7292616430_42a137a94e_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

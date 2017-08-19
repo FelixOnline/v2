@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The British Museum displays its rare collection of Picasso prints, never before seen in Britain
 date: "2012-05-10 20:25:40 +0100"
+# Attributes from Felix Online V1
 id: "2447"
 old_path: /arts/2447/smack-my-etch-up
 aliases:
  - /arts/2447/smack-my-etch-up
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102124-pk1811-1_picasso_seatedmodel.jpg"
 image_caption: >
   Dave’s sculpting method was unorthodox to say the least
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We continue Charlotte Ridler’s chronicles of gigging off the beaten track with three kick-ass music venues
 date: "2011-01-20 20:24:47 +0000"
+# Attributes from Felix Online V1
 id: "625"
 old_path: /music/625/attics--basements
 aliases:
  - /music/625/attics--basements
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202005-nm1010-joanaaaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

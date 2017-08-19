@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We talked to some of our editors, contributors and readers about their participation in the weekend’s anti-Trump marches. Here are their hopes, their fears. Here are their thoughts. Here are their testimonials.
 date: "2017-01-27 14:54:38 +0000"
+# Attributes from Felix Online V1
 id: "6685"
 old_path: /features/6685/protesting-trump--the-womens-march-through-the-eyes-of-imperial-students-
 aliases:
  - /features/6685/protesting-trump--the-womens-march-through-the-eyes-of-imperial-students-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271432-felix-IMG_6711.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tom Hartley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

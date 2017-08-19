@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Bryne attends a symposium at the South Kensington campus
 date: "2012-11-15 21:06:29 +0000"
+# Attributes from Felix Online V1
 id: "2892"
 old_path: /science/2892/agri-net-symposium-at-imperial
 aliases:
  - /science/2892/agri-net-symposium-at-imperial
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152105-tna08-casp1_green_black_bckgrd.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

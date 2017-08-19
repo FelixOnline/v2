@@ -4,15 +4,20 @@ title: >
 subtitle: >
   \ The simplicity and warmth of Jansson’s defiance is what is striking: she made books that gave comfort to an oblivious audience, whilst including deeply personal and political messages. \
 date: "2017-01-20 15:28:44 +0000"
+# Attributes from Felix Online V1
 id: "6672"
 old_path: /arts/6672/taking-a-leaf-out-of-tove-janssons-book
 aliases:
  - /arts/6672/taking-a-leaf-out-of-tove-janssons-book
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201528-felix-16129186_10210543447195334_431990530_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "2014 Handle Productions"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

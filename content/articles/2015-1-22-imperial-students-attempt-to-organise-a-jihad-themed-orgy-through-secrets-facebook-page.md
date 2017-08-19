@@ -4,15 +4,20 @@ title: >
 subtitle: >
   More highbrow reporting from Felix as we find out just what the hell went on
 date: "2015-01-22 16:35:15 +0000"
+# Attributes from Felix Online V1
 id: "5111"
 old_path: /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
 aliases:
  - /news/5111/imperial-students-attempt-to-organise-a-jihad-themed-orgy-through-secrets-facebook-page
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501221635-ps3110-pen-orgy-pencil-case.jpg"
 image_caption: >
   The only orgy Imperial students are likely to see
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

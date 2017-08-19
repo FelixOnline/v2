@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you are looking for an internship for next summer, it pays to start thinking about it as early as possible
 date: "2010-10-07 23:03:32 +0100"
+# Attributes from Felix Online V1
 id: "183"
 old_path: /biz/183/the-summer-begins-right-now
 aliases:
  - /biz/183/the-summer-begins-right-now
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010080001-ks607-Business.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

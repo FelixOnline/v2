@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles examines a new art craze
 date: "2013-06-20 23:13:55 +0100"
+# Attributes from Felix Online V1
 id: "3718"
 old_path: /arts/3718/outsider-art
 aliases:
  - /arts/3718/outsider-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210013-tna08-outsiderart.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Open to large swathes of scientists and engineers, the EngD (Engineering Doctorate) is a doctoral program, which is a seldom known career path to many of its potential applicants.
 date: "2014-02-16 12:17:24 +0000"
+# Attributes from Felix Online V1
 id: "4384"
 old_path: /features/4384/the-engd-dr-who
 aliases:
  - /features/4384/the-engd-dr-who
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

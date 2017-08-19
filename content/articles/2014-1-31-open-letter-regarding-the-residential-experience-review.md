@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation.
 date: "2014-01-31 17:54:16 +0000"
+# Attributes from Felix Online V1
 id: "4325"
 old_path: /comment/4325/open-letter-regarding-the-residential-experience-review
 aliases:
  - /comment/4325/open-letter-regarding-the-residential-experience-review
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aeronautics produce prototype that finds pipeline faults
 date: "2016-02-12 11:13:47 +0000"
+# Attributes from Felix Online V1
 id: "5897"
 old_path: /news/5897/imperial-drone-wins-award
 aliases:
  - /news/5897/imperial-drone-wins-award
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Buildrone"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

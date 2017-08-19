@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is underwhelmed by this new exhibition of Wellington portraits
 date: "2015-03-25 13:31:35 +0000"
+# Attributes from Felix Online V1
 id: "5453"
 old_path: /arts/5453/will-the-real-wellington-please-stand-up
 aliases:
  - /arts/5453/will-the-real-wellington-please-stand-up
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251331-ff712-npg_896_1340_arthurwellesle.jpg"
 image_caption: >
   Arthur Wellesley, 1st Duke of Wellingtonm (detail) by Francisco de Goya, 1812-14
@@ -22,6 +27,7 @@ image_attribution: "The National Gallery, London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial involved in ESA mission to improve our understanding of solar wind
 date: "2015-02-27 00:33:57 +0000"
+# Attributes from Felix Online V1
 id: "5312"
 old_path: /news/5312/imperial-team-prepares-for-mission-to-the-sun
 aliases:
  - /news/5312/imperial-team-prepares-for-mission-to-the-sun
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502270033-pk1811-untitled.png"
 image_caption: >
   The prototype sensor, held by the project’s lead engineer Helen O’Brien.
@@ -22,6 +27,7 @@ image_attribution: "Thomas Angus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Thomas gives his take on why he's voting for the Liberal Democrats next Thursday
 date: "2015-05-02 16:11:11 +0100"
+# Attributes from Felix Online V1
 id: "5485"
 old_path: /comment/5485/why-im-voting-lib-dem---and-you-should-too
 aliases:
  - /comment/5485/why-im-voting-lib-dem---and-you-should-too
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505021709-jr2514-lib-dems-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

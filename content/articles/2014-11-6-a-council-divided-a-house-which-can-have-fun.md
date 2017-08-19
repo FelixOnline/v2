@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A consideration of the delights of being locked in a room with opinionated people for an indefinite amount of time
 date: "2014-11-06 18:09:41 +0000"
+# Attributes from Felix Online V1
 id: "4759"
 old_path: /comment/4759/a-council-divided-a-house-which-can-have-fun
 aliases:
  - /comment/4759/a-council-divided-a-house-which-can-have-fun
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

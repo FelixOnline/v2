@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An introduction to the Imperial baseball team. By Hugh McDowell
 date: "2010-11-18 21:19:11 +0000"
+# Attributes from Felix Online V1
 id: "405"
 old_path: /sport/405/baseball-not-just-rounders-played-by-men-honest
 aliases:
  - /sport/405/baseball-not-just-rounders-played-by-men-honest
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182117-ks607-baseball.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

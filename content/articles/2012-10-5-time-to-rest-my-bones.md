@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This summer, Kadhim Shubber raised £3,000 for Imperial scholarships by cycling from John O’Groats to Land’s End on a tandem... with a skeleton
 date: "2012-10-05 11:51:56 +0100"
+# Attributes from Felix Online V1
 id: "2604"
 old_path: /news/2604/time-to-rest-my-bones
 aliases:
  - /news/2604/time-to-rest-my-bones
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051758-ks607-334236_263637940415811_1555576600_o.jpg"
 image_caption: >
   Kadhim, Sioni (background), and Arthur (skeleton) arriving at Land's End on the 14th of July
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

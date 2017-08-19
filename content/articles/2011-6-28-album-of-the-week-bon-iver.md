@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bon Iver's second album surpasses his debut says Harry Rickerby
 date: "2011-06-28 11:12:43 +0100"
+# Attributes from Felix Online V1
 id: "1440"
 old_path: /music/1440/album-of-the-week-bon-iver
 aliases:
  - /music/1440/album-of-the-week-bon-iver
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281213-felix-bon_iver.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

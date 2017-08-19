@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews the new Channel 4 show
 date: "2015-03-03 14:56:21 +0000"
+# Attributes from Felix Online V1
 id: "5328"
 old_path: /tv/5328/remarkably-uncatastrophic
 aliases:
  - /tv/5328/remarkably-uncatastrophic
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503031456-ps3110-catastrophe-pic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park is looking forward to the Christmas Special
 date: "2014-12-11 21:19:10 +0000"
+# Attributes from Felix Online V1
 id: "5036"
 old_path: /tv/5036/christmas-at-downton-abbey--year-5
 aliases:
  - /tv/5036/christmas-at-downton-abbey--year-5
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112118-cj914-downton-abbey-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "pbs.org"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

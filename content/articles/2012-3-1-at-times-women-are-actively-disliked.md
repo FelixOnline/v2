@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Just because sexism doesn't take the same form doesn't mean it is no longer real
 date: "2012-03-01 22:54:03 +0000"
+# Attributes from Felix Online V1
 id: "2293"
 old_path: /comment/2293/at-times-women-are-actively-disliked
 aliases:
  - /comment/2293/at-times-women-are-actively-disliked
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012253-ams111-frankie-boyle-006.jpg"
 image_caption: >
   Frankie Boyle couldn’t get away with Tramadol Nights not being that good
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Immortals play hard ball
 date: "2016-12-02 16:48:56 +0000"
+# Attributes from Felix Online V1
 id: "6553"
 old_path: /sport/6553/ic-deserve-leos-oscar-after-beating-bears
 aliases:
  - /sport/6553/ic-deserve-leos-oscar-after-beating-bears
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021648-felix-3rdgamepicfelix.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

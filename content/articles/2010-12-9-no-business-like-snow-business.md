@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lisa Ashari's joyous first experience of snow
 date: "2010-12-09 20:31:33 +0000"
+# Attributes from Felix Online V1
 id: "525"
 old_path: /comment/525/no-business-like-snow-business
 aliases:
  - /comment/525/no-business-like-snow-business
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104231939-felix-5214127497_3c2de2f081_b.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/ricofermistat"
 image_attribution_link: "http://www.flickr.com/photos/54749344@N08/5214127497/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   a story about a Private Dick in every sense of the word
 date: "2017-06-09 15:08:17 +0100"
+# Attributes from Felix Online V1
 id: "7016"
 old_path: /tv/7016/death-in-dreamland--archer-s8
 aliases:
  - /tv/7016/death-in-dreamland--archer-s8
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091707-ea3211-seGvp80ysWo.market_maxres.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FX  Floyd County Productions"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 2 of 3)
 date: "2013-06-20 16:41:48 +0100"
+# Attributes from Felix Online V1
 id: "3705"
 old_path: /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
 aliases:
  - /news/3705/letting-old-cats-out-of-their-bags-pallab-ghosh
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202355-tna08-bbcpallab2-(1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

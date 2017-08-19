@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Easter eggs are lining the shelves, but watch out
 date: "2013-03-15 01:03:57 +0000"
+# Attributes from Felix Online V1
 id: "3468"
 old_path: /science/3468/choccy-and-the-dangers-towards-doggies
 aliases:
  - /science/3468/choccy-and-the-dangers-towards-doggies
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150103-tna08-doggy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

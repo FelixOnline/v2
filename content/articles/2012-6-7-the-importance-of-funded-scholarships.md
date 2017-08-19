@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
+# Attributes from Felix Online V1
 id: "2534"
 old_path: /comment/2534/the-importance-of-funded-scholarships
 aliases:
  - /comment/2534/the-importance-of-funded-scholarships
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072049-pk1811-money.png"
 image_caption: >
   Disappointingly, they transfer the money into your account, and don’t just give a massive pile
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

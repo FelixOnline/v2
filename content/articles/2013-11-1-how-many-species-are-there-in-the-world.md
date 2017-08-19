@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett discusses the difficulties associated with determining biodiversity
 date: "2013-11-01 09:34:32 +0000"
+# Attributes from Felix Online V1
 id: "3972"
 old_path: /science/3972/how-many-species-are-there-in-the-world
 aliases:
  - /science/3972/how-many-species-are-there-in-the-world
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010934-felix-science-snake.jpg"
 image_caption: >
   A new species of snake, Chironius challenger
@@ -22,6 +27,7 @@ image_attribution: "Philippe Kok"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

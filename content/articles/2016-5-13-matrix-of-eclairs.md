@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX reviews Maitre Choux, a snazzy patisserie in South Kensington
 date: "2016-05-13 09:34:05 +0100"
+# Attributes from Felix Online V1
 id: "6165"
 old_path: /food/6165/matrix-of-eclairs
 aliases:
  - /food/6165/matrix-of-eclairs
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
 image_caption: >
   I wonder if he leaves chocolate squares wherever he goes.
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

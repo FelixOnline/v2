@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plabon Saha reports back from the Electric Ballroom
 date: "2013-03-15 02:50:23 +0000"
+# Attributes from Felix Online V1
 id: "3492"
 old_path: /music/3492/halestorm-brings-down-the-house-in-camden
 aliases:
  - /music/3492/halestorm-brings-down-the-house-in-camden
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150250-tna08-halestorm_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

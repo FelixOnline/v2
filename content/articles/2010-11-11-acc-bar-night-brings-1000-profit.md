@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FiveSixEight passes ACC Bar Night test
 date: "2010-11-11 22:10:59 +0000"
+# Attributes from Felix Online V1
 id: "375"
 old_path: /news/375/acc-bar-night-brings-1000-profit
 aliases:
  - /news/375/acc-bar-night-brings-1000-profit
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

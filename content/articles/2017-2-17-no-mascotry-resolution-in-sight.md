@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why bother with reforms if nobody cares?
 date: "2017-02-17 14:21:49 +0000"
+# Attributes from Felix Online V1
 id: "6777"
 old_path: /news/6777/no-mascotry-resolution-in-sight
 aliases:
  - /news/6777/no-mascotry-resolution-in-sight
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171421-felix-theta.jpg"
 image_caption: >
   That thermometer reportedly cost £10,000
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

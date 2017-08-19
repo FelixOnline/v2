@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yes, there are other true-story crime dramas out there
 date: "2016-10-10 12:46:00 +0100"
+# Attributes from Felix Online V1
 id: "6323"
 old_path: /film/6323/five-great-true-crime-films-that-arent-goodfellas
 aliases:
  - /film/6323/five-great-true-crime-films-that-arent-goodfellas
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101454-felix-Screen Shot 2016-10-10 at 14.53.37.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

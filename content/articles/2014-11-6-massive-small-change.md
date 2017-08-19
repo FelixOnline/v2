@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shiladitya Ghosh & Marcus Bishop on opportunities with EWB
 date: "2014-11-06 20:58:35 +0000"
+# Attributes from Felix Online V1
 id: "4792"
 old_path: /cands/4792/massive-small-change
 aliases:
  - /cands/4792/massive-small-change
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062055-cj914-some-of-the-deeper-questions-in-life-which-we-address.jpg"
 image_caption: >
   EWB answers the big questions.
@@ -22,6 +27,7 @@ image_attribution: "Engineers Without Borders"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

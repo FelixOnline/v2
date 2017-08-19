@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ever controversial prize succeeds this year with evocative and thought provoking nominees
 date: "2012-11-01 22:49:59 +0000"
+# Attributes from Felix Online V1
 id: "2795"
 old_path: /arts/2795/turner-sur-prizes
 aliases:
  - /arts/2795/turner-sur-prizes
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012249-tna08-paul_noble_1999_public_toilet_0.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

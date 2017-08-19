@@ -4,15 +4,20 @@ title: >
 subtitle: >
   SIFE’s Insight Into Business Program aims to teach kids through hands-on experience writes Michael Xiao
 date: "2012-03-15 19:46:43 +0000"
+# Attributes from Felix Online V1
 id: "2349"
 old_path: /biz/2349/graduates-from-the-university-of-sife
 aliases:
  - /biz/2349/graduates-from-the-university-of-sife
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151946-pk1811-dragons-den.jpg"
 image_caption: >
   The Felix artist’s impression of the judging panel
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

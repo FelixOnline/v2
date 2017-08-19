@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What the Leave campaign says is going on versus what is actually going on
 date: "2016-06-10 08:19:07 +0100"
+# Attributes from Felix Online V1
 id: "6250"
 old_path: /comment/6250/eu-myths-debunked
 aliases:
  - /comment/6250/eu-myths-debunked
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101018-felix-tsi_erasmus_logo.jpg"
 image_caption: >
   This could be us but you're voting out.
@@ -22,6 +27,7 @@ image_attribution: "TSI"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

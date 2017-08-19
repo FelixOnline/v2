@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How do you fire someone like Ryan Bingham?
 date: "2012-11-29 23:06:24 +0000"
+# Attributes from Felix Online V1
 id: "3002"
 old_path: /film/3002/this-is-one-scary-movie
 aliases:
  - /film/3002/this-is-one-scary-movie
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292304-csw09-up-in-the-air.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

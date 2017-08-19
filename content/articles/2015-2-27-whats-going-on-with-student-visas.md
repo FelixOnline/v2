@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With anger and uncertainty over the Government’s immigration policy, Philip Kent finds out what’s going on
 date: "2015-02-27 00:45:19 +0000"
+# Attributes from Felix Online V1
 id: "5315"
 old_path: /news/5315/whats-going-on-with-student-visas
 aliases:
  - /news/5315/whats-going-on-with-student-visas
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

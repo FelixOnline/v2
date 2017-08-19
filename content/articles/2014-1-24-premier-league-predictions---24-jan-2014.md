@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James White gives his midweek predictions
 date: "2014-01-24 10:04:21 +0000"
+# Attributes from Felix Online V1
 id: "4291"
 old_path: /sport/4291/premier-league-predictions---24-jan-2014
 aliases:
  - /sport/4291/premier-league-predictions---24-jan-2014
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Juan Casasbuenas discusses the latest flare-up in the now age-old debate
 date: "2012-05-10 20:31:33 +0100"
+# Attributes from Felix Online V1
 id: "2449"
 old_path: /science/2449/gm-debate-dialogue-or-dj-vu
 aliases:
  - /science/2449/gm-debate-dialogue-or-dj-vu
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102129-ams111-poster-copy.jpg"
 image_caption: >
   Image from GM protest flyer
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

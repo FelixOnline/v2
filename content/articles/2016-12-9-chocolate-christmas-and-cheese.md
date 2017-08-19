@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix visits Rococo Chocolates for a night of chocolate making paired with cheese and whiskey
 date: "2016-12-09 11:47:25 +0000"
+# Attributes from Felix Online V1
 id: "6557"
 old_path: /food/6557/chocolate-christmas-and-cheese
 aliases:
  - /food/6557/chocolate-christmas-and-cheese
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091147-aib116-IMG_6301.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Holding it in Hyde Park would be the “ultimate aim”
 date: "2011-06-09 21:26:51 +0100"
+# Attributes from Felix Online V1
 id: "1350"
 old_path: /news/1350/union-unveil-ambitious-future-for-summer-ball
 aliases:
  - /news/1350/union-unveil-ambitious-future-for-summer-ball
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092223-felix-petergillings.jpg"
 image_caption: >
   'Dem kidz' getting down at last year's Ball
@@ -22,6 +27,7 @@ image_attribution: "Peter Gillings"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

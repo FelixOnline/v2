@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams
 date: "2015-11-06 14:18:05 +0000"
+# Attributes from Felix Online V1
 id: "5710"
 old_path: /music/5710/ratatat-funkify-brixton
 aliases:
  - /music/5710/ratatat-funkify-brixton
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061416-ygr12-ratatat2.jpg"
 image_caption: >
   Ratatat bring the jam like your aunt does at tea time.
@@ -22,6 +27,7 @@ image_attribution: "Electric Brixton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

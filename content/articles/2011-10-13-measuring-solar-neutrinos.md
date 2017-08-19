@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Experiment reveals accuracy of new solar neutrino data
 date: "2011-10-13 21:36:14 +0100"
+# Attributes from Felix Online V1
 id: "1508"
 old_path: /science/1508/measuring-solar-neutrinos
 aliases:
  - /science/1508/measuring-solar-neutrinos
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132229-felix-borex_people_1hi-res.jpg"
 image_caption: >
   A scintillating view of the BOREXINO neutrino detector in Italy – top lads
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

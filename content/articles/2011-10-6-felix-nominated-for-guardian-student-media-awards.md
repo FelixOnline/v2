@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Newspaper on the shortlist for student publication of the year
 date: "2011-10-06 23:08:14 +0100"
+# Attributes from Felix Online V1
 id: "1465"
 old_path: /news/1465/felix-nominated-for-guardian-student-media-awards
 aliases:
  - /news/1465/felix-nominated-for-guardian-student-media-awards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071439-felix-kadhim.jpg"
 image_caption: >
   Kadhim Shubber rocks the mic
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

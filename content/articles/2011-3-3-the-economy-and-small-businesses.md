@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Part one of Sina Ataherian’s two part interview with James King about Find Invest Grow, the student-focus venture capital firm he founded in late 2009
 date: "2011-03-03 05:51:15 +0000"
+# Attributes from Felix Online V1
 id: "981"
 old_path: /biz/981/the-economy-and-small-businesses
 aliases:
  - /biz/981/the-economy-and-small-businesses
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030547-ks607-smallbus.jpg"
 image_caption: >
   Spine Strength, one of the businesses Find Invest Grow has supported
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

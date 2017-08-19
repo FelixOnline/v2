@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A round up of the action from all the international societies
 date: "2012-11-22 22:55:04 +0000"
+# Attributes from Felix Online V1
 id: "2935"
 old_path: /news/2935/international-week-2012
 aliases:
  - /news/2935/international-week-2012
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222254-tna08-qt-view.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

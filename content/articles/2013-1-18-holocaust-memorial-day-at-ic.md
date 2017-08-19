@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Listen to an account. Step into his shoes, walk around in them. Don’t forget.
 date: "2013-01-18 00:03:22 +0000"
+# Attributes from Felix Online V1
 id: "3125"
 old_path: /news/3125/holocaust-memorial-day-at-ic
 aliases:
  - /news/3125/holocaust-memorial-day-at-ic
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180000-tna08-berlin_holocaust_memorial.jpg"
 image_caption: >
   The Holocaust Memorial in Berlin
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

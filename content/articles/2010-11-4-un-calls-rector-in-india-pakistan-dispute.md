@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Article by James Lees
 date: "2010-11-04 18:51:43 +0000"
+# Attributes from Felix Online V1
 id: "316"
 old_path: /politics/316/un-calls-rector-in-india-pakistan-dispute
 aliases:
  - /politics/316/un-calls-rector-in-india-pakistan-dispute
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jl807"
 author_name: "James Lees"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

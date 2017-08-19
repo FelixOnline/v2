@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pushing for cheaper food and drink in pubs and restaurants!
 date: "2013-10-04 00:25:24 +0100"
+# Attributes from Felix Online V1
 id: "3797"
 old_path: /biz/3797/axe-vat-for-the-hospitality-industry
 aliases:
  - /biz/3797/axe-vat-for-the-hospitality-industry
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040124-jal08-bus_vat1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

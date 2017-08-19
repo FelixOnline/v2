@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The replaying of memories when awake can distort them
 date: "2011-02-03 20:05:58 +0000"
+# Attributes from Felix Online V1
 id: "735"
 old_path: /science/735/improve-your-memory-by-nodding-off
 aliases:
  - /science/735/improve-your-memory-by-nodding-off
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

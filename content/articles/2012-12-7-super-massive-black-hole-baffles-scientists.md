@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Muse would approve
 date: "2012-12-07 01:36:28 +0000"
+# Attributes from Felix Online V1
 id: "3038"
 old_path: /science/3038/super-massive-black-hole-baffles-scientists
 aliases:
  - /science/3038/super-massive-black-hole-baffles-scientists
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070135-tna08-nature11592-f1.2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "nature.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

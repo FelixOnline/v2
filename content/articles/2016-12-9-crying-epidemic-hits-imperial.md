@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students break down as term nears to an end
 date: "2016-12-09 11:54:36 +0000"
+# Attributes from Felix Online V1
 id: "6560"
 old_path: /news/6560/crying-epidemic-hits-imperial
 aliases:
  - /news/6560/crying-epidemic-hits-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

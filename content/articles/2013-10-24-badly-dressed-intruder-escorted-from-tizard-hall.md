@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A red jacket-wearing visitor is escorted from Tizard Hall.
 date: "2013-10-24 23:31:51 +0100"
+# Attributes from Felix Online V1
 id: "3909"
 old_path: /news/3909/badly-dressed-intruder-escorted-from-tizard-hall
 aliases:
  - /news/3909/badly-dressed-intruder-escorted-from-tizard-hall
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

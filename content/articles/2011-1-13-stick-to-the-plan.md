@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You have sworn on your grandma’s life you’ll travel more in 2011 – now keep that promise. Dylan Lowe offers tips on staying faithful to your travel plans
 date: "2011-01-13 20:46:58 +0000"
+# Attributes from Felix Online V1
 id: "585"
 old_path: /travel/585/stick-to-the-plan
 aliases:
  - /travel/585/stick-to-the-plan
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

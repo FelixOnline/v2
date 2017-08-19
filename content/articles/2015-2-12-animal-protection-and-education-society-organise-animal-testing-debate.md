@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Debate featured both pro and con animal testing speakers
 date: "2015-02-12 20:51:01 +0000"
+# Attributes from Felix Online V1
 id: "5233"
 old_path: /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
 aliases:
  - /news/5233/animal-protection-and-education-society-organise-animal-testing-debate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502130147-ps3110-screen-shot-2015-02-13-at-01.46.40.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

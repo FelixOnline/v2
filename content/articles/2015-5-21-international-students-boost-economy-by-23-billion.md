@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports as report recommends migration targets be reclassified
 date: "2015-05-21 20:08:32 +0100"
+# Attributes from Felix Online V1
 id: "5548"
 old_path: /news/5548/international-students-boost-economy-by-23-billion
 aliases:
  - /news/5548/international-students-boost-economy-by-23-billion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212107-kmw13-ic_sci_chall_37.jpg"
 image_caption: >
   London First argues that international students should be given visitor status
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Celebrating the birth of the space age
 date: "2015-12-15 13:11:24 +0000"
+# Attributes from Felix Online V1
 id: "5823"
 old_path: /science/5823/cosmonauts-at-the-science-museum
 aliases:
  - /science/5823/cosmonauts-at-the-science-museum
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

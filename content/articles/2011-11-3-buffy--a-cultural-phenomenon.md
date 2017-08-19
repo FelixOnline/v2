@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Move over Edward, there's a proper vampire in town
 date: "2011-11-03 20:34:48 +0000"
+# Attributes from Felix Online V1
 id: "1669"
 old_path: /tv/1669/buffy--a-cultural-phenomenon
 aliases:
  - /tv/1669/buffy--a-cultural-phenomenon
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
 image_caption: >
   “A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dominic MacIver reviews Howard Benton's Danton's Death at the National Theatre
 date: "2010-09-21 14:12:54 +0100"
+# Attributes from Felix Online V1
 id: "157"
 old_path: /arts/157/libert-galit-fraternit
 aliases:
  - /arts/157/libert-galit-fraternit
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201009211509-ck806-danton.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ck806"
 author_name: "Caroline Knight"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

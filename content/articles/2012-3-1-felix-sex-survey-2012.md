@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With twice as many respondents as the year before, Felix brings you another snapshot of the sexual lives of Imperial students – now with more statistical relevance
 date: "2012-03-01 22:17:01 +0000"
+# Attributes from Felix Online V1
 id: "2285"
 old_path: /news/2285/felix-sex-survey-2012
 aliases:
  - /news/2285/felix-sex-survey-2012
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012216-ams111-censoredtransparentwordcloudonblack2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

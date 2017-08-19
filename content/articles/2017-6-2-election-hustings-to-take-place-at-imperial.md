@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fun fun fun
 date: "2017-06-02 12:25:50 +0100"
+# Attributes from Felix Online V1
 id: "6982"
 old_path: /news/6982/election-hustings-to-take-place-at-imperial
 aliases:
  - /news/6982/election-hustings-to-take-place-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021425-felix-2856055608_a39cc50456_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "wonderferret"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

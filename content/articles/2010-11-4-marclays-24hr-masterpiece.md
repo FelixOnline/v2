@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time will run away with you. It will skip, jump, come to a standstill with Marclay's new exhibition.
 date: "2010-11-04 18:14:25 +0000"
+# Attributes from Felix Online V1
 id: "292"
 old_path: /arts/292/marclays-24hr-masterpiece-
 aliases:
  - /arts/292/marclays-24hr-masterpiece-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041812-ks607-marclays.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

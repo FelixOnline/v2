@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comic Convention 2014
 date: "2014-11-06 19:12:21 +0000"
+# Attributes from Felix Online V1
 id: "4774"
 old_path: /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
 aliases:
  - /features/4774/the-comic-convention-youd-be-crazy-to-miss-but-even-crazier-to-attend
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061910-snb11-20140524_151804-copy.jpg"
 image_caption: >
   A rouge Deadpool picks out some new footware
@@ -22,6 +27,7 @@ image_attribution: "P. Skett"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

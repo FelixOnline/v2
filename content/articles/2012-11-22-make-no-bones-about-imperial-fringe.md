@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The second of the new science festivals is coming back to Imperial
 date: "2012-11-22 22:03:49 +0000"
+# Attributes from Felix Online V1
 id: "2924"
 old_path: /news/2924/make-no-bones-about-imperial-fringe
 aliases:
  - /news/2924/make-no-bones-about-imperial-fringe
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211231706-tna08-imp251012_fringehearts_009.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

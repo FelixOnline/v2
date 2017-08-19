@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will a mega-merger in the brewing industry save big beer?
 date: "2015-10-23 11:15:09 +0100"
+# Attributes from Felix Online V1
 id: "5664"
 old_path: /biz/5664/last-orders-as-craft-beer-steals-market-share
 aliases:
  - /biz/5664/last-orders-as-craft-beer-steals-market-share
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231218-ygr12-the-apprentice---only-her-011.jpg"
 image_caption: >
   The Apprentice did beer once, remember? This is not the same at all.
@@ -22,6 +27,7 @@ image_attribution: "BBC / Boundless"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

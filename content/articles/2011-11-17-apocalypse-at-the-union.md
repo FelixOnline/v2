@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto prophesies the End Times with Music Tech
 date: "2011-11-17 21:31:21 +0000"
+# Attributes from Felix Online V1
 id: "1779"
 old_path: /music/1779/apocalypse-at-the-union
 aliases:
  - /music/1779/apocalypse-at-the-union
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172130-pk1811-music-tech-article.jpg"
 image_caption: >
   Oh no!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

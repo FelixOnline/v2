@@ -4,15 +4,20 @@ title: >
 subtitle: >
   University of London Society of Change Ringers, ring a bell?
 date: "2013-10-13 00:05:50 +0100"
+# Attributes from Felix Online V1
 id: "3875"
 old_path: /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
 aliases:
  - /features/3875/oranges-and-lemons-say-the-bells-of-st-clements
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

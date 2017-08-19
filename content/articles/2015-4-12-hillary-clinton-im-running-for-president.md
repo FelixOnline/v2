@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ending years of speculation, Mrs. Clinton announced on Sunday that she will seek the Democratic nomination for the U.S. presidency
 date: "2015-04-12 22:32:08 +0100"
+# Attributes from Felix Online V1
 id: "5464"
 old_path: /news/5464/hillary-clinton-im-running-for-president
 aliases:
  - /news/5464/hillary-clinton-im-running-for-president
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504122327-jr2514-hillary-clinton-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If the single word that makes up this article’s title is the one thing you took away from watching Mary Poppins then you may be surprised to know that the jolly word would have most likely induced a deep frown of disapproval from the author of the book itself, P. L. Travers (Emma Thompson).
 date: "2013-12-02 22:18:56 +0000"
+# Attributes from Felix Online V1
 id: "4171"
 old_path: /film/4171/supercalifragilisticexpialidocious
 aliases:
  - /film/4171/supercalifragilisticexpialidocious
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

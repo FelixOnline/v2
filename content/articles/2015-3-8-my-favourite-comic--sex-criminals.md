@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
+# Attributes from Felix Online V1
 id: "5366"
 old_path: /arts/5366/my-favourite-comic--sex-criminals
 aliases:
  - /arts/5366/my-favourite-comic--sex-criminals
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503081655-ff712-sexcrim01a-reg.jpg"
 image_caption: >
   Sex Criminals: Volume 1, our Music Editor’s comic of choice
@@ -22,6 +27,7 @@ image_attribution: "Image Comics"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

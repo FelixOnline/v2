@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The global bee decline is endangering more than just our multi-million honey industry. With bees being the predominant and certainly the most economically significant pollinator, we literally can’t afford to lose them. Bee enthusiast Sarah Barfield Marks talks bees and what you can do to help them.
 date: "2017-02-17 15:09:12 +0000"
+# Attributes from Felix Online V1
 id: "6789"
 old_path: /science/6789/helping-out-a-bee-in-need
 aliases:
  - /science/6789/helping-out-a-bee-in-need
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171509-felix-8437256809_9aecae81ed_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gordon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
+# Attributes from Felix Online V1
 id: "5519"
 old_path: /news/5519/car-flipped-over-on-exhibition-road-two-injured
 aliases:
  - /news/5519/car-flipped-over-on-exhibition-road-two-injured
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142317-cj914-unknown.jpeg"
 image_caption: >
   An Imperial medic caught a picture of the incident
@@ -22,6 +27,7 @@ image_attribution: "Twitter/ samir_afzal"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

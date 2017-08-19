@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt reports after College removes tweet about “proper cool scientist”
 date: "2014-11-21 13:26:25 +0000"
+# Attributes from Felix Online V1
 id: "4931"
 old_path: /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
 aliases:
  - /news/4931/imperial-deletes-tweet-after-shirtstorm-backlash
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411211326-ps3110-10423977_10204309230744613_1502836449742714437_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Emily Maunder"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

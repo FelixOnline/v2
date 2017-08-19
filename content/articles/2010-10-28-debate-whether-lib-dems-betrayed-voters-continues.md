@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Lib Dems put their country before party politics
 date: "2010-10-28 19:06:37 +0100"
+# Attributes from Felix Online V1
 id: "252"
 old_path: /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
 aliases:
  - /politics/252/debate-whether-lib-dems-betrayed-voters-continues-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "hj408"
 author_name: "Hassan Joudi"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cross Country take on Batavierenrace and come fourth
 date: "2016-04-29 11:00:59 +0100"
+# Attributes from Felix Online V1
 id: "6110"
 old_path: /sport/6110/batavierenrace-racing-through-the-dark
 aliases:
  - /sport/6110/batavierenrace-racing-through-the-dark
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291200-felix-bata3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

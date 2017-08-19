@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mike Follett wins with his essay about social good as well as profitability
 date: "2013-06-06 15:26:01 +0100"
+# Attributes from Felix Online V1
 id: "3664"
 old_path: /news/3664/5000-essay-prize-for-imperial-mba-student
 aliases:
  - /news/3664/5000-essay-prize-for-imperial-mba-student
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306061624-tna08-4cf34385d4cf352f.jpg"
 image_caption: >
   Mike Follett: the Imperial MBA student who won the prize
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

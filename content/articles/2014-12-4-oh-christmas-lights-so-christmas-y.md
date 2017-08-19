@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Discover the local spotlights of London’s Christmas suit with Yung Nam Cheah
 date: "2014-12-04 19:05:19 +0000"
+# Attributes from Felix Online V1
 id: "4992"
 old_path: /travel/4992/oh-christmas-lights-so-christmas-y
 aliases:
  - /travel/4992/oh-christmas-lights-so-christmas-y
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041905-cj914-p1060362-copy.jpg"
 image_caption: >
   Decorated Oxford Street looking ever so Christmassy
@@ -22,6 +27,7 @@ image_attribution: "Yung Nam Cheah"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

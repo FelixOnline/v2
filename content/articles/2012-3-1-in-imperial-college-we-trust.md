@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous contributor criticises the Union's choice to allocate funding away from the 'tours pot'
 date: "2012-03-01 22:55:42 +0000"
+# Attributes from Felix Online V1
 id: "2295"
 old_path: /comment/2295/in-imperial-college-we-trust
 aliases:
  - /comment/2295/in-imperial-college-we-trust
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We aren’t living in the Orwellian police state as some would have you believe
 date: "2016-02-05 11:57:41 +0000"
+# Attributes from Felix Online V1
 id: "5866"
 old_path: /comment/5866/the-left-has-no-problem-with-free-speech
 aliases:
  - /comment/5866/the-left-has-no-problem-with-free-speech
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051156-felix-k Hopkins.jpg"
 image_caption: >
   Katie Hopkins’ hate speech goes unpunished.
@@ -22,6 +27,7 @@ image_attribution: "Wales online"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

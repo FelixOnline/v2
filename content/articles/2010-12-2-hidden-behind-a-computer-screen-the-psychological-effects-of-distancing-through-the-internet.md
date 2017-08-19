@@ -4,15 +4,20 @@ title: >
 subtitle: >
   People find it easier to express their feelings hidden behind their computer screens
 date: "2010-12-02 21:33:45 +0000"
+# Attributes from Felix Online V1
 id: "491"
 old_path: /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
 aliases:
  - /comment/491/hidden-behind-a-computer-screen-the-psychological-effects-of-distancing-through-the-internet-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ae1409"
 author_name: "Anastasia Eleftheriou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

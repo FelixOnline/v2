@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman is nowhere near beyond caring at the National's Temporary Theatre.
 date: "2015-05-26 14:10:33 +0100"
+# Attributes from Felix Online V1
 id: "5568"
 old_path: /arts/5568/zero-hours-in-an-hour-and-a-half
 aliases:
  - /arts/5568/zero-hours-in-an-hour-and-a-half
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261509-js5913-beyond-caring.jpg"
 image_caption: >
   Phil (Sean O’Callaghan) and Grace (Janet Etuk) in Beyond Caring at the National Theatre.
@@ -22,6 +27,7 @@ image_attribution: "Timeout"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

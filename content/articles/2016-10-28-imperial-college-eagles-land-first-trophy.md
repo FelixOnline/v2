@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Handball secures first place at Fresher's Tournament
 date: "2016-10-28 15:43:25 +0100"
+# Attributes from Felix Online V1
 id: "6354"
 old_path: /sport/6354/imperial-college-eagles-land-first-trophy
 aliases:
  - /sport/6354/imperial-college-eagles-land-first-trophy
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610281741-aib116-handball.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

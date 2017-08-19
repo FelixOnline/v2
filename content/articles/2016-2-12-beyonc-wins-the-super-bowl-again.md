@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Politically charged and gloriously celebratory
 date: "2016-02-12 11:53:51 +0000"
+# Attributes from Felix Online V1
 id: "5913"
 old_path: /music/5913/beyonc-wins-the-super-bowl-again
 aliases:
  - /music/5913/beyonc-wins-the-super-bowl-again
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121152-felix-nonline.jpg"
 image_caption: >
   Beyoncé slaying, again.
@@ -22,6 +27,7 @@ image_attribution: "Beyoncé Foundation Video"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From bedroom to billions – the social revolution in the second installment of our Facebook saga
 date: "2010-10-14 19:44:34 +0100"
+# Attributes from Felix Online V1
 id: "212"
 old_path: /tech/212/facebook-revolution
 aliases:
  - /tech/212/facebook-revolution
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

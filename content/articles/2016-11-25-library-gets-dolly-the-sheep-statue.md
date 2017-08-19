@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ewe have to see it to believe it
 date: "2016-11-25 13:21:28 +0000"
+# Attributes from Felix Online V1
 id: "6494"
 old_path: /news/6494/library-gets-dolly-the-sheep-statue
 aliases:
  - /news/6494/library-gets-dolly-the-sheep-statue
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251321-felix-IMG_0507.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

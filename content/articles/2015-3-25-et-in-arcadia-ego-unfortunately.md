@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman is less than entranced by Stoppard’s classic drama
 date: "2015-03-25 12:55:02 +0000"
+# Attributes from Felix Online V1
 id: "5439"
 old_path: /arts/5439/et-in-arcadia-ego-unfortunately
 aliases:
  - /arts/5439/et-in-arcadia-ego-unfortunately
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251254-ff712-tom-stoppard.-photo-by-amie-stamp..jpg"
 image_caption: >
   Tom Stoppard, the writer of Arcadia
@@ -22,6 +27,7 @@ image_attribution: "Amie Stamp"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

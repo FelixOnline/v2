@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The government has announced that it will be cutting £946 million from its annual grant to English Higher Education Institutions.
 date: "2014-02-14 05:04:47 +0000"
+# Attributes from Felix Online V1
 id: "4379"
 old_path: /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
 aliases:
  - /news/4379/cable-and-willetts-announce-further-cuts-to-english-higher-education-funding
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

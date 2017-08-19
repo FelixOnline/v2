@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In recognition of the annual Ashura Awareness Week, Ahlul-Bayt Society provide a story of sacrifice
 date: "2011-12-08 21:52:44 +0000"
+# Attributes from Felix Online V1
 id: "1948"
 old_path: /comment/1948/ashura-a-lesson-from-islams-history
 aliases:
  - /comment/1948/ashura-a-lesson-from-islams-history
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

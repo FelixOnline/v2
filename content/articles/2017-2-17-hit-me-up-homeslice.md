@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It really doesn’t get much better than pizza, IMHO. However, given there are so many variants, it’s sometimes hard to pick the best from the bad – so we’re here to help.
 date: "2017-02-17 15:51:26 +0000"
+# Attributes from Felix Online V1
 id: "6797"
 old_path: /food/6797/hit-me-up-homeslice
 aliases:
  - /food/6797/hit-me-up-homeslice
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171551-felix-Screen Shot 2017-02-17 at 15.51.06.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

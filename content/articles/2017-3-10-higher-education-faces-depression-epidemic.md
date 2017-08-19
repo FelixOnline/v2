@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joanna Wormald discusses the rise of mental illness across UK universities and efforts (or lack of) that have been made to tackle student depression.
 date: "2017-03-10 13:23:28 +0000"
+# Attributes from Felix Online V1
 id: "6867"
 old_path: /features/6867/higher-education-faces-depression-epidemic
 aliases:
  - /features/6867/higher-education-faces-depression-epidemic
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101323-felix-Screen Shot 2017-03-09 at 14.58.07.png"
 image_caption: >
   The wordcloud from the institutional culture report
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski on the best evidence yet for water just below the surface
 date: "2011-11-24 20:58:49 +0000"
+# Attributes from Felix Online V1
 id: "1811"
 old_path: /science/1811/shallow-lakes-on-europa
 aliases:
  - /science/1811/shallow-lakes-on-europa
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242058-pk1811-mag_cover_v02-1.jpg"
 image_caption: >
   Europa’s ‘Great Lake’ – scientists speculate that many more exist throughout the moon
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

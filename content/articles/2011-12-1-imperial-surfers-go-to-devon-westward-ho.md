@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Interested in surfing? Surfsoc welcomes beginner/intermediate/Kelly slater quality surfers. To be put on the mailing list and learn more about surfsoc simply email: surfsoc@imperial.ac.uk
 date: "2011-12-01 21:28:11 +0000"
+# Attributes from Felix Online V1
 id: "1894"
 old_path: /sport/1894/imperial-surfers-go-to-devon-westward-ho
 aliases:
  - /sport/1894/imperial-surfers-go-to-devon-westward-ho
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012129-ams111-surfsoc%201-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

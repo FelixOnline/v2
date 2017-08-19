@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate Britian honours Pre-Raphaelite rebels
 date: "2012-10-26 03:05:58 +0100"
+# Attributes from Felix Online V1
 id: "2765"
 old_path: /arts/2765/bromance-of-the-renaissance-men
 aliases:
  - /arts/2765/bromance-of-the-renaissance-men
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260405-tna08-margot-rgb.jpg"
 image_caption: >
                  Edward Burne Jones, Laus Veneris 1873-8 © Laing Art Gallery
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

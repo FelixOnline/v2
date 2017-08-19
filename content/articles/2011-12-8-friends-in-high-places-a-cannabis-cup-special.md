@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Travel competition winners Charlie, Mandy and Bobby Brown re-live whatever they can remember of this year’s High Times Cannabis Cup
 date: "2011-12-08 22:14:30 +0000"
+# Attributes from Felix Online V1
 id: "1952"
 old_path: /travel/1952/friends-in-high-places-a-cannabis-cup-special
 aliases:
  - /travel/1952/friends-in-high-places-a-cannabis-cup-special
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082207-cac111-panoramic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

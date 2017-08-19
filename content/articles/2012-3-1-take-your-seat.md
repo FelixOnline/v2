@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Political correctness on trial
 date: "2012-03-01 22:13:17 +0000"
+# Attributes from Felix Online V1
 id: "2284"
 old_path: /arts/2284/take-your-seat
 aliases:
  - /arts/2284/take-your-seat
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nicholas Pomeroy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

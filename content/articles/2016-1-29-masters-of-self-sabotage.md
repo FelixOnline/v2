@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our mentality towards mental health needs to change if we are to reduce suffering
 date: "2016-01-29 08:54:14 +0000"
+# Attributes from Felix Online V1
 id: "5839"
 old_path: /comment/5839/masters-of-self-sabotage
 aliases:
  - /comment/5839/masters-of-self-sabotage
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290852-felix-mental health 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "hercampus.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

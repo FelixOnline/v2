@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial becomes first university to officially declare plans to raise fees to maximum level
 date: "2011-02-17 18:44:56 +0000"
+# Attributes from Felix Online V1
 id: "805"
 old_path: /news/805/imperial-to-charge-9000
 aliases:
  - /news/805/imperial-to-charge-9000
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sanchit Sharma invades a country for it's natural resources. Oh, wait, no, to topple an evil regime
 date: "2013-06-20 22:47:32 +0100"
+# Attributes from Felix Online V1
 id: "3713"
 old_path: /games/3713/oil-oil-everywhere
 aliases:
  - /games/3713/oil-oil-everywhere
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

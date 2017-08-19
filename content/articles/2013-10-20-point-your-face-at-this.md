@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emma Wills on Demetri Martin's new book of drawings
 date: "2013-10-20 01:33:34 +0100"
+# Attributes from Felix Online V1
 id: "3902"
 old_path: /books/3902/point-your-face-at-this
 aliases:
  - /books/3902/point-your-face-at-this
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Demetri Martin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Animals have souls and eating them is wrong
 date: "2011-10-20 22:49:04 +0100"
+# Attributes from Felix Online V1
 id: "1575"
 old_path: /comment/1575/your-meat-offends-me-deal-with-it
 aliases:
  - /comment/1575/your-meat-offends-me-deal-with-it
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

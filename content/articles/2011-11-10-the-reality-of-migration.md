@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New research investigates the environmental links with migration
 date: "2011-11-10 20:58:26 +0000"
+# Attributes from Felix Online V1
 id: "1722"
 old_path: /science/1722/the-reality-of-migration
 aliases:
  - /science/1722/the-reality-of-migration
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102056-pk1811-drought_wetland.jpg"
 image_caption: >
   Environmental factors such as drought are influencing migration
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

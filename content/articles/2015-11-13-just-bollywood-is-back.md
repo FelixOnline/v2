@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ten teams are ready to fight to become the 2015 Champion
 date: "2015-11-13 14:48:03 +0000"
+# Attributes from Felix Online V1
 id: "5733"
 old_path: /cands/5733/just-bollywood-is-back
 aliases:
  - /cands/5733/just-bollywood-is-back
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131447-ygr12-bollywood.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

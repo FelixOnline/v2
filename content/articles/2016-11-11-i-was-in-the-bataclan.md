@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ollie Kemsley talks about the day of the Paris attack last November, and his experiences in the year following
 date: "2016-11-11 13:18:35 +0000"
+# Attributes from Felix Online V1
 id: "6417"
 old_path: /comment/6417/i-was-in-the-bataclan
 aliases:
  - /comment/6417/i-was-in-the-bataclan
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111258-ajp15-bataclan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ParisSharing"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

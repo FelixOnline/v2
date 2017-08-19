@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken interviews the Labour MP who is representing your views in Hammersmith
 date: "2015-05-15 12:15:16 +0100"
+# Attributes from Felix Online V1
 id: "5529"
 old_path: /politics/5529/an-interview-with-andy-slaughter-mp
 aliases:
  - /politics/5529/an-interview-with-andy-slaughter-mp
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151315-ps3110-screen-shot-2015-05-15-at-13.14.22.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

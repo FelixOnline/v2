@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Elke Wynberg on hockey destroying UCL.
 date: "2012-11-29 23:14:34 +0000"
+# Attributes from Felix Online V1
 id: "3009"
 old_path: /sport/3009/medic-girls-thrash-ucl
 aliases:
  - /sport/3009/medic-girls-thrash-ucl
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292313-tna08-hockeyinnit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

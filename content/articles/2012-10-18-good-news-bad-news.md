@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Bryne discusses our hopeless optimism
 date: "2012-10-18 21:20:32 +0100"
+# Attributes from Felix Online V1
 id: "2701"
 old_path: /science/2701/good-news-bad-news
 aliases:
  - /science/2701/good-news-bad-news
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

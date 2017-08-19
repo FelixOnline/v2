@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Project Wild Thing opens in Cinemas nationwide on Friday 25th October. It will be screening at Imperial Cinema on Friday 25th October at 5pm. Tickets £5 students / £7 others available online at bit.ly/wildthingimperial
 date: "2013-10-18 20:53:00 +0100"
+# Attributes from Felix Online V1
 id: "3886"
 old_path: /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
 aliases:
  - /features/3886/project-wild-thing---coming-to-an-imperial-cinema-near-you
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182152-jal08-features_frog.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Green Lion Studios"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
+# Attributes from Felix Online V1
 id: "1806"
 old_path: /science/1806/wavefunction-may-be-real-after-all
 aliases:
  - /science/1806/wavefunction-may-be-real-after-all
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242036-pk1811-cover_proposal_prevedel.jpg"
 image_caption: >
   The interpretation of the wavefunction has been static for 85 years
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

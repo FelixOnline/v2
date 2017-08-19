@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students stand for departmental and sabbatical positions
 date: "2012-02-16 22:51:17 +0000"
+# Attributes from Felix Online V1
 id: "2216"
 old_path: /news/2216/nominations-open-for-union-big-elections
 aliases:
  - /news/2216/nominations-open-for-union-big-elections
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

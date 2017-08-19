@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ever since I first got my Xbox 360 with The Elder Scrolls 4: Oblivion, I have been a massive fan of the series, with Oblivion actually topping my favourite games of all time list
 date: "2014-03-11 17:45:50 +0000"
+# Attributes from Felix Online V1
 id: "4476"
 old_path: /games/4476/playing-elder-scrolls-online-beta
 aliases:
  - /games/4476/playing-elder-scrolls-online-beta
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403111745-me1711-games_esobeta.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

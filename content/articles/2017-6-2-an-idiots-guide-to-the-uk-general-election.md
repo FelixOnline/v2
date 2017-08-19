@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Here we go again...
 date: "2017-06-02 13:57:34 +0100"
+# Attributes from Felix Online V1
 id: "7000"
 old_path: /features/7000/an-idiots-guide-to-the-uk-general-election
 aliases:
  - /features/7000/an-idiots-guide-to-the-uk-general-election
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021555-felix-STML.jpg"
 image_caption: >
   This place is slowly becoming my second home
@@ -22,6 +27,7 @@ image_attribution: "STML"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

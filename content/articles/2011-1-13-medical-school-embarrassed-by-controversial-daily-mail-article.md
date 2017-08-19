@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
+# Attributes from Felix Online V1
 id: "593"
 old_path: /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
 aliases:
  - /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

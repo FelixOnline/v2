@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
+# Attributes from Felix Online V1
 id: "2111"
 old_path: /comment/2111/the-right-to-offend
 aliases:
  - /comment/2111/the-right-to-offend
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022331-sjw209-ricky_gervais_1017585a.jpg"
 image_caption: >
   Yep, he may offend people, but consider this: without him, no Karl Pilkington
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

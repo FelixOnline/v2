@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles always looks on the bright side of death
 date: "2012-11-29 22:04:45 +0000"
+# Attributes from Felix Online V1
 id: "2985"
 old_path: /arts/2985/dead-reckoning-
 aliases:
  - /arts/2985/dead-reckoning-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292204-tna08-goya_death.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

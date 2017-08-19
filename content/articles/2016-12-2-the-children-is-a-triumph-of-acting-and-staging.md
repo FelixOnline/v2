@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Children is on at the Jerwood Theatre (Royal Court Theatre) until 14th February 2017
 date: "2016-12-02 14:57:36 +0000"
+# Attributes from Felix Online V1
 id: "6534"
 old_path: /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
 aliases:
  - /arts/6534/the-children-is-a-triumph-of-acting-and-staging-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021456-felix-RCTchildrenProd2016JP_00345_WEB.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carys Cook on why the Berkley Earth Project is a step in the right direction
 date: "2011-11-17 20:16:32 +0000"
+# Attributes from Felix Online V1
 id: "1754"
 old_path: /science/1754/global-warming-is-happening-say-sceptics
 aliases:
  - /science/1754/global-warming-is-happening-say-sceptics
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172016-pk1811-two-baby-polar-bear-following-the-mother-bear-pictures.jpg"
 image_caption: >
   I didn’t commision this piece just so I could use a photo of baby polar bears. Honest
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

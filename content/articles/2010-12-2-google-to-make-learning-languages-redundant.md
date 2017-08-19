@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Google to make learning languages redundant?
 date: "2010-12-02 19:59:06 +0000"
+# Attributes from Felix Online V1
 id: "456"
 old_path: /tech/456/google-to-make-learning-languages-redundant
 aliases:
  - /tech/456/google-to-make-learning-languages-redundant
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012021954-nm1010-language.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kl208"
 author_name: "Kin-hing Lo"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
+# Attributes from Felix Online V1
 id: "420"
 old_path: /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
 aliases:
  - /comment/420/the-union-has-done-all-it-can-if-youre-still-not-having-fun-perhaps-its-time-to-look-inward
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

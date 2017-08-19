@@ -4,15 +4,20 @@ title: >
 subtitle: >
   These Aero-smiths didn’t want to miss a thing
 date: "2015-01-16 12:52:40 +0000"
+# Attributes from Felix Online V1
 id: "5089"
 old_path: /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
 aliases:
  - /news/5089/undergraduate-aero-students-accidently-sit-postgraduate-exam-after-paper-mix-up
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161312-ps3110-18-1332719581.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
+# Attributes from Felix Online V1
 id: "4916"
 old_path: /sport/4916/has-the-big-four-become-a-big-two
 aliases:
  - /sport/4916/has-the-big-four-become-a-big-two
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202135-cj914-141104122212-federer-djokovic-london-horizontal-gallery.jpg"
 image_caption: >
   Federer vs Djokovic is a final we've all got used to
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

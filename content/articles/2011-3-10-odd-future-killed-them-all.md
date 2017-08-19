@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or how a bunch of teenagers are taking over the world
 date: "2011-03-10 20:24:12 +0000"
+# Attributes from Felix Online V1
 id: "1069"
 old_path: /music/1069/odd-future-killed-them-all
 aliases:
  - /music/1069/odd-future-killed-them-all
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102019-ks607-oddfutur.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Martian"
 image_attribution_link: "http://oddfuture.tumblr.com/post/3587428638/by-matt-martian-taco-frank-jasper-matt-domo"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

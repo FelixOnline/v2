@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Rugby take on everyone in the hip-hop world of Eastbourne
 date: "2013-01-24 20:52:05 +0000"
+# Attributes from Felix Online V1
 id: "3154"
 old_path: /sport/3154/icurfc-smash-brighton
 aliases:
  - /sport/3154/icurfc-smash-brighton
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242051-mc4509-582338_475646429159024_478191972_n.jpg"
 image_caption: >
   Rugby didn’t give us any pictures so we dug this up from Facebook
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

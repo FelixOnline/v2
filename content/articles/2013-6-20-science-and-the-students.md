@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
+# Attributes from Felix Online V1
 id: "3719"
 old_path: /science/3719/science-and-the-students-
 aliases:
  - /science/3719/science-and-the-students-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210017-tna08-easterisland02.jpg"
 image_caption: >
   The Easter Island statues drag themselves across the hill to queue in the Library Cafe
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ....and it's not yo gramma's Shakespeare, according to Kate Pumphrey
 date: "2013-06-20 20:52:24 +0100"
+# Attributes from Felix Online V1
 id: "3709"
 old_path: /arts/3709/its-othellove-a-good-play
 aliases:
  - /arts/3709/its-othellove-a-good-play
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202152-cac111-othello.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

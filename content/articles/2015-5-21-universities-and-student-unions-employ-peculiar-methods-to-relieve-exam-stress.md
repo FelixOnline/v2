@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson finds out how students are relaxing during the exam period
 date: "2015-05-21 20:38:11 +0100"
+# Attributes from Felix Online V1
 id: "5551"
 old_path: /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
 aliases:
  - /features/5551/universities-and-student-unions-employ-peculiar-methods-to-relieve-exam-stress
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212137-kmw13-petting-zoo.jpeg"
 image_caption: >
   Students enjoy a few moments away from the stress of revision
@@ -22,6 +27,7 @@ image_attribution: "Dan Addison"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

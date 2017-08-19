@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out this Palestinian work
 date: "2015-05-29 12:39:55 +0100"
+# Attributes from Felix Online V1
 id: "5589"
 old_path: /arts/5589/the-siege-violence-in-the-levant
 aliases:
  - /arts/5589/the-siege-violence-in-the-levant
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

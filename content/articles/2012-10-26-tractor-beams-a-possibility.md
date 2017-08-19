@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The real question here is: where are lightsabers?
 date: "2012-10-26 02:32:26 +0100"
+# Attributes from Felix Online V1
 id: "2747"
 old_path: /science/2747/tractor-beams-a-possibility
 aliases:
  - /science/2747/tractor-beams-a-possibility
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260332-tna08-eptracsalv.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

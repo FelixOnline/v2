@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Onnnnneeee hundred and eiiiighttttyyyy. Wasn't uttered.
 date: "2013-03-15 01:53:42 +0000"
+# Attributes from Felix Online V1
 id: "3481"
 old_path: /sport/3481/feel-the-power-with-dartsity
 aliases:
  - /sport/3481/feel-the-power-with-dartsity
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

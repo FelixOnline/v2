@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eleanor Glennon & Joseph Hosier review Dramsoc’s ROAD
 date: "2014-12-10 14:55:23 +0000"
+# Attributes from Felix Online V1
 id: "5022"
 old_path: /cands/5022/hit-the-road-tom
 aliases:
  - /cands/5022/hit-the-road-tom
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412101454-bwh12-road-i-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "T. Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

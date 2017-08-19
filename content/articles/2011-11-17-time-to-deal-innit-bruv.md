@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Top Boy is top stuff, blud
 date: "2011-11-17 21:49:00 +0000"
+# Attributes from Felix Online V1
 id: "1787"
 old_path: /tv/1787/time-to-deal-innit-bruv-
 aliases:
  - /tv/1787/time-to-deal-innit-bruv-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172148-pk1811-top-boy-4-shot-on-roof.jpg"
 image_caption: >
   We’re posing on the top floor of a multi-storey car park. No. We don’t know why either
@@ -22,6 +27,7 @@ image_attribution: "Channel 4"
 image_attribution_link: "http://www.channel4.com/programmes/top-boy"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's finally come. Have you?
 date: "2016-06-17 09:01:53 +0100"
+# Attributes from Felix Online V1
 id: "6275"
 old_path: /features/6275/the-felix-sex-survey-2016
 aliases:
  - /features/6275/the-felix-sex-survey-2016
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171058-felix-1nightstandinbold.jpg"
 image_caption: >
   Have you ever had a one night stand?
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

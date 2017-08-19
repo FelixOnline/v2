@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exceptional life forms on earth may be a key to sustaining life on mars
 date: "2012-06-14 20:13:35 +0100"
+# Attributes from Felix Online V1
 id: "2559"
 old_path: /science/2559/extremophiles-found-in-atacama
 aliases:
  - /science/2559/extremophiles-found-in-atacama
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142113-ams111-science2.jpg"
 image_caption: >
   The Atacama desert
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

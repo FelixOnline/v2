@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Flynn gives us the lowdown from Ponyville, and proof that anything we get sent does actually get printed
 date: "2012-02-02 22:43:14 +0000"
+# Attributes from Felix Online V1
 id: "2102"
 old_path: /tv/2102/sex-drugs-violence-and-my-little-pony
 aliases:
  - /tv/2102/sex-drugs-violence-and-my-little-pony
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022242-sjw209-ponieslad.png"
 image_caption: >
   A still from the musical number ‘At the Gala’ from the episode ‘Best Night Ever’
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

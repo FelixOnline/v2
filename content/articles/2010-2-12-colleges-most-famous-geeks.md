@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As Imperial's University Challenge team look to secure a place in the semis, Jia-Ou Song talks to the boys.
 date: "2010-02-12 01:52:15 +0000"
+# Attributes from Felix Online V1
 id: "84"
 old_path: /news/84/colleges-most-famous-geeks
 aliases:
  - /news/84/colleges-most-famous-geeks
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002120149-rsp07-universt.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

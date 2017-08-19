@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Try being a candidate in a national election!
 date: "2012-05-25 18:49:08 +0100"
+# Attributes from Felix Online V1
 id: "2502"
 old_path: /politics/2502/student-debt-fears
 aliases:
  - /politics/2502/student-debt-fears
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251947-mc4509-money-100s.jpg"
 image_caption: >
   Is that all you’ve got? I’ll raise you by $20!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

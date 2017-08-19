@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
+# Attributes from Felix Online V1
 id: "4492"
 old_path: /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
 aliases:
  - /news/4492/controversy-as-greek-health-minister-adonis-georgiadis-visits-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403240328-jal08-1573---adonis-georgiadis1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

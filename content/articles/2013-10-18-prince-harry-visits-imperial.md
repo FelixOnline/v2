@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"
+# Attributes from Felix Online V1
 id: "3883"
 old_path: /news/3883/prince-harry-visits-imperial-
 aliases:
  - /news/3883/prince-harry-visits-imperial-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182133-jal08-hrh-prince-harry.jpg"
 image_caption: >
   Prince Harry in the Centre for Blast Injury Studies
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: "http://www.imperial.ac.uk"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

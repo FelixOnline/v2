@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Facebook campaign established to combat £50
 date: "2012-03-02 00:58:34 +0000"
+# Attributes from Felix Online V1
 id: "2300"
 old_path: /news/2300/online-petition-to-prevent-mountain-hut-charges
 aliases:
  - /news/2300/online-petition-to-prevent-mountain-hut-charges
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203020058-felix-420593_222175751212310_222174437879108_412468_1709240345_n.jpg"
 image_caption: >
   The St Mary’s mountain hut
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

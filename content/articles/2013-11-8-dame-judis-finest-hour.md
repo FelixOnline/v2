@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philomena Director: Stephen Frears Writers: Stephen Frears, Jeff Pope, Martin Sixsmith (novel) Starring: Judi Dench, Steve Coogan Runtime: 98 minutes Certificate: 12A
 date: "2013-11-08 10:02:47 +0000"
+# Attributes from Felix Online V1
 id: "4042"
 old_path: /film/4042/dame-judis-finest-hour
 aliases:
  - /film/4042/dame-judis-finest-hour
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

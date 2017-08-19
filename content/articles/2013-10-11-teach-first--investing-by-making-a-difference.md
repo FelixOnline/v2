@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society...
 date: "2013-10-11 23:45:19 +0100"
+# Attributes from Felix Online V1
 id: "3831"
 old_path: /comment/3831/teach-first--investing-by-making-a-difference
 aliases:
  - /comment/3831/teach-first--investing-by-making-a-difference
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

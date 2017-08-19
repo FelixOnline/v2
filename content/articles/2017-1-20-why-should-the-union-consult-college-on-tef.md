@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deputy President Education gives us his side
 date: "2017-01-20 14:51:01 +0000"
+# Attributes from Felix Online V1
 id: "6654"
 old_path: /news/6654/why-should-the-union-consult-college-on-tef-
 aliases:
  - /news/6654/why-should-the-union-consult-college-on-tef-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

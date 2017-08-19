@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Second album looks set to impress
 date: "2012-05-23 16:27:45 +0100"
+# Attributes from Felix Online V1
 id: "2480"
 old_path: /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
 aliases:
  - /music/2480/the-hundred-in-the-hands-are-back-in-the-fold
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205231727-mc4509-thith1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

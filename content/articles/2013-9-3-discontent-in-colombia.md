@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tensions rise in Columbia as the government signs a free trade agreement with US, UK and Canada.
 date: "2013-09-03 09:45:21 +0100"
+# Attributes from Felix Online V1
 id: "3755"
 old_path: /politics/3755/discontent-in-colombia
 aliases:
  - /politics/3755/discontent-in-colombia
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309031041-jal08-discontent-in-columbia.png"
 image_caption: >
   Protest against subsidies
@@ -22,6 +27,7 @@ image_attribution: "www.aworldchaos.wordpress.com"
 image_attribution_link: "http://www.aworldchaos.wordpress.com"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Divyen Vanniasegaram believes Cecil Rhodes is just a product of his time
 date: "2017-01-13 13:59:36 +0000"
+# Attributes from Felix Online V1
 id: "6632"
 old_path: /comment/6632/rhodes-must-stay
 aliases:
  - /comment/6632/rhodes-must-stay
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

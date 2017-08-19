@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The future is here and you’ll look like a fool wearing it
 date: "2016-02-05 12:42:05 +0000"
+# Attributes from Felix Online V1
 id: "5881"
 old_path: /games/5881/felix-reacts-to-virtual-reality
 aliases:
  - /games/5881/felix-reacts-to-virtual-reality
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051241-felix-IMG_0018.JPG"
 image_caption: >
   Indira the Arts Editor wonders round a virtual gallery.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

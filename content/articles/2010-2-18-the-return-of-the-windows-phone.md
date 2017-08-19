@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Microsoft is finally back in the modern Smartphone game
 date: "2010-02-18 13:38:31 +0000"
+# Attributes from Felix Online V1
 id: "90"
 old_path: /tech/90/the-return-of-the-windows-phone
 aliases:
  - /tech/90/the-return-of-the-windows-phone
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002181331-srg03-WindowsP.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

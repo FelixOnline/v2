@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A complete list of all the candidates running in the Big Elections, both full time and part time
 date: "2014-03-03 14:14:24 +0000"
+# Attributes from Felix Online V1
 id: "4449"
 old_path: /news/4449/your-candidates-revealed---big-elections-2014
 aliases:
  - /news/4449/your-candidates-revealed---big-elections-2014
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

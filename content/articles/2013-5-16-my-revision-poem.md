@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Martin Asprusten writes a poem about his exam woe to the tune of The Raven by Edgar Allan Poe
 date: "2013-05-16 17:44:13 +0100"
+# Attributes from Felix Online V1
 id: "3571"
 old_path: /arts/3571/my-revision-poem
 aliases:
  - /arts/3571/my-revision-poem
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161842-tna08-02_raven_watching_night_car_ca.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

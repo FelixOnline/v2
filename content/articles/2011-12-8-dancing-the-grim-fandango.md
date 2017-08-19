@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Horti takes a look back at one of gaming’s unique classics, Grim Fandango
 date: "2011-12-08 21:25:58 +0000"
+# Attributes from Felix Online V1
 id: "1937"
 old_path: /games/1937/dancing-the-grim-fandango
 aliases:
  - /games/1937/dancing-the-grim-fandango
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

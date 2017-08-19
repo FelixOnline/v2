@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sara Hamilton lists the top nine ground breaking discoveries in the field of nuclear physics and material science in 2016
 date: "2016-12-16 14:38:23 +0000"
+# Attributes from Felix Online V1
 id: "6603"
 old_path: /science/6603/making-waves-in-physics--2016
 aliases:
  - /science/6603/making-waves-in-physics--2016
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161438-felix-7632898002_49046bc6c8_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "When black holes collide \ NASA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

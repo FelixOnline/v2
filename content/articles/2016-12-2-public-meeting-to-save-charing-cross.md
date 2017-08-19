@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A packed crowd criticised plans
 date: "2016-12-02 12:30:48 +0000"
+# Attributes from Felix Online V1
 id: "6521"
 old_path: /news/6521/public-meeting-to-save-charing-cross-
 aliases:
  - /news/6521/public-meeting-to-save-charing-cross-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021229-so515-25528872280_8ded0ab8a8_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Brown"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

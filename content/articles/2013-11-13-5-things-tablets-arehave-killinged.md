@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Next Murderer in our series: finding the ultimate Culprit
 date: "2013-11-13 22:53:26 +0000"
+# Attributes from Felix Online V1
 id: "4051"
 old_path: /tech/4051/5-things-tablets-arehave-killinged
 aliases:
  - /tech/4051/5-things-tablets-arehave-killinged
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you're a final year student, it's time to express your opinions about your course!
 date: "2011-01-27 19:55:48 +0000"
+# Attributes from Felix Online V1
 id: "681"
 old_path: /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
 aliases:
  - /comment/681/take-the-national-student-survey-it-will-help-improve-your-course-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

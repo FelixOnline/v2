@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New genome sequencing methods are put into use
 date: "2012-01-26 22:27:38 +0000"
+# Attributes from Felix Online V1
 id: "2063"
 old_path: /science/2063/new-insight-into-gene-expression
 aliases:
  - /science/2063/new-insight-into-gene-expression
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262228-ak6309-39840_web.jpg"
 image_caption: >
   Is this a sequence binding of proteins or did we print wrong?
@@ -22,6 +27,7 @@ image_attribution: "B. Franklin Pugh, Penn State University"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

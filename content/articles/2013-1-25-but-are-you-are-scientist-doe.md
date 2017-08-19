@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A shoutout to all so-called ‘science lovers’: go hard or go home.
 date: "2013-01-25 01:38:07 +0000"
+# Attributes from Felix Online V1
 id: "3182"
 old_path: /comment/3182/but-are-you-are-scientist-doe
 aliases:
  - /comment/3182/but-are-you-are-scientist-doe
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250136-tna08-smbc-comic-science.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

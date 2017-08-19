@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Espedrille and Peregrin report on the ICURFC 1st XV win against Kyoto University
 date: "2010-07-02 11:17:14 +0100"
+# Attributes from Felix Online V1
 id: "150"
 old_path: /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
 aliases:
  - /sport/150/imperial-ninjas-triumph-against-kyoto-1st-xv
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201007021209-jn104-Kyoto1st.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

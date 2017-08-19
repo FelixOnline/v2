@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah rounds up the recipients of Colours, Fellowships and more
 date: "2015-06-11 22:18:34 +0100"
+# Attributes from Felix Online V1
 id: "5614"
 old_path: /news/5614/union-award-winners-announced
 aliases:
  - /news/5614/union-award-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112318-cj914-unionawards.jpg"
 image_caption: >
   Michael Chung receives one of his awards at last year’s ceremony.
@@ -22,6 +27,7 @@ image_attribution: "Through Bens Lens"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

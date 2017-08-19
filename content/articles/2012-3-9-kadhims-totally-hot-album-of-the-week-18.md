@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Quantic & Alice Russell with the Combo Barbaro – Look Around The Corner – Tru Thoughts – 2012
 date: "2012-03-09 13:00:21 +0000"
+# Attributes from Felix Online V1
 id: "2337"
 old_path: /music/2337/kadhims-totally-hot-album-of-the-week-18
 aliases:
  - /music/2337/kadhims-totally-hot-album-of-the-week-18
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

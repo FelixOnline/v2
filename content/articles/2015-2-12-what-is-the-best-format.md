@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ICC has been searching for the perfect World Cup format for years
 date: "2015-02-12 22:52:59 +0000"
+# Attributes from Felix Online V1
 id: "5244"
 old_path: /sport/5244/what-is-the-best-format
 aliases:
  - /sport/5244/what-is-the-best-format
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122252-jyg11-1992.jpg"
 image_caption: >
   The 1992 World Cup has often been viewed as the fairest
@@ -22,6 +27,7 @@ image_attribution: "PA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

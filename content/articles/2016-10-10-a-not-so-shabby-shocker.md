@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reviewing Puccini's Tosca at the London Coliseum
 date: "2016-10-10 14:40:45 +0100"
+# Attributes from Felix Online V1
 id: "6325"
 old_path: /arts/6325/a-not-so-shabby-shocker
 aliases:
  - /arts/6325/a-not-so-shabby-shocker
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101638-felix-Tosca_Sq_new.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "English National Opera"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

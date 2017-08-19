@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles gets a glimpse of the works of Warhol, Burroughs and Lynch
 date: "2014-01-24 09:48:17 +0000"
+# Attributes from Felix Online V1
 id: "4278"
 old_path: /arts/4278/the-secret-photographers
 aliases:
  - /arts/4278/the-secret-photographers
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

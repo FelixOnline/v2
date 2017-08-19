@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lillan Agerup reports as IC Water Polo record their first ever victory in Germany
 date: "2013-11-24 23:59:44 +0000"
+# Attributes from Felix Online V1
 id: "4137"
 old_path: /sport/4137/water-polo-germany-tour-diary
 aliases:
  - /sport/4137/water-polo-germany-tour-diary
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

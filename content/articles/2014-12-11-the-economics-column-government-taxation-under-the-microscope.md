@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Bodansky argues that the libertarian world view is neither realistic nor economically viable
 date: "2014-12-11 20:09:33 +0000"
+# Attributes from Felix Online V1
 id: "5025"
 old_path: /comment/5025/the-economics-column-government-taxation-under-the-microscope
 aliases:
  - /comment/5025/the-economics-column-government-taxation-under-the-microscope
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

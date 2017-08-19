@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Rivlin looks into what's lurking behind the front page of the internet
 date: "2014-12-04 18:26:52 +0000"
+# Attributes from Felix Online V1
 id: "4985"
 old_path: /comment/4985/how-reddit-made-it-okay-to-hate-women
 aliases:
  - /comment/4985/how-reddit-made-it-okay-to-hate-women
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041823-cj914-reddit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "cmxhub.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

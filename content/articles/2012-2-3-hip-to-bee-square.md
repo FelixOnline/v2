@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Guys play girls and girls play guys in comically dark Japanese kidnapping
 date: "2012-02-03 10:36:46 +0000"
+# Attributes from Felix Online V1
 id: "2126"
 old_path: /arts/2126/hip-to-bee-square
 aliases:
  - /arts/2126/hip-to-bee-square
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031035-sjw209-the-bee-2.jpg"
 image_caption: >
   Is it a guy? Is it a girl? One way to find out!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

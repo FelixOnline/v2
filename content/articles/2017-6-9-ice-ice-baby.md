@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You know less about ice than you think
 date: "2017-06-09 15:02:44 +0100"
+# Attributes from Felix Online V1
 id: "7014"
 old_path: /science/7014/ice-ice-baby-
 aliases:
  - /science/7014/ice-ice-baby-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091702-ea3211-32628065710_a4d205d3a8_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sheila Sund"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

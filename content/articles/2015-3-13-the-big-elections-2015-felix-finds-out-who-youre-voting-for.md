@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our predictions for the next year's sabbatical officers [Updated with link to results breakdown]
 date: "2015-03-13 00:49:20 +0000"
+# Attributes from Felix Online V1
 id: "5387"
 old_path: /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
 aliases:
  - /news/5387/the-big-elections-2015-felix-finds-out-who-youre-voting-for
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130050-cj914-over-exposed-front-page-pic.jpg"
 image_caption: >
   The live stats on the Union page give a comprehensive breakdown of voters
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

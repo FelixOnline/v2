@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deputy President of Welfare, Jennie Watson, explains why the medics are taking a stand.
 date: "2015-09-27 18:28:01 +0100"
+# Attributes from Felix Online V1
 id: "5653"
 old_path: /comment/5653/why-ill-be-protesting-tomorrow
 aliases:
  - /comment/5653/why-ill-be-protesting-tomorrow
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201509271929-ygr12-12041868_10153686561361683_1728173960_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

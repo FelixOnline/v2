@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Masters explores the merits of Science Fiction
 date: "2015-02-20 16:40:20 +0000"
+# Attributes from Felix Online V1
 id: "5291"
 old_path: /film/5291/from-ex-machina-to-blade-runner
 aliases:
  - /film/5291/from-ex-machina-to-blade-runner
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201640-ps3110-exmachina2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

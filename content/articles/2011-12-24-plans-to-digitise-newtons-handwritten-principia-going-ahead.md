@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cambridge University commences initiative to digitise original scientific papers
 date: "2011-12-24 22:48:14 +0000"
+# Attributes from Felix Online V1
 id: "1962"
 old_path: /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
 aliases:
  - /science/1962/plans-to-digitise-newtons-handwritten-principia-going-ahead
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112242250-ak6309-cambridge.jpg"
 image_caption: >
   Newton's handwritten annotated notes, amongst others, are to be put online
@@ -22,6 +27,7 @@ image_attribution: "Cambridge University Library"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

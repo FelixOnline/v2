@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cohen’s last album marks the end of a legendary career. Filled with mellifluous lyrics and soul-stirring music, it has been received with critical acclaim. Sadly 2016 has stolen another great, but can an artist like Cohen ever really leave us behind?
 date: "2016-11-18 15:39:05 +0000"
+# Attributes from Felix Online V1
 id: "6481"
 old_path: /music/6481/cohens-light-has-gone-dark-but-the-night-will-not-have-him
 aliases:
  - /music/6481/cohens-light-has-gone-dark-but-the-night-will-not-have-him
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181538-felix-Leonard Cohen Takahiro Kyono.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Takahiro Kyono"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

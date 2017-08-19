@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student makes gruesome discovery before prayers last Sunday
 date: "2015-12-11 15:22:25 +0000"
+# Attributes from Felix Online V1
 id: "5810"
 old_path: /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
 aliases:
  - /news/5810/pigs-head-found-in-australian-university-mosques-bathroom
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

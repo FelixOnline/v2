@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Robertson explains how gamers explore and learn just like scientists
 date: "2011-06-28 10:52:59 +0100"
+# Attributes from Felix Online V1
 id: "1437"
 old_path: /games/1437/love-video-games-then-youre-a-perfect-scientist
 aliases:
  - /games/1437/love-video-games-then-youre-a-perfect-scientist
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281153-felix-103902v1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

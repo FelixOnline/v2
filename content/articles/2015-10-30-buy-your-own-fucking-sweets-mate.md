@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If your costume is culturally insensitive I hope you don’t get laid at ACC
 date: "2015-10-30 12:49:53 +0000"
+# Attributes from Felix Online V1
 id: "5687"
 old_path: /comment/5687/buy-your-own-fucking-sweets-mate
 aliases:
  - /comment/5687/buy-your-own-fucking-sweets-mate
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301249-ygr12-cecil4evs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Entrepreneurs investigates whether there is a future in Groupon
 date: "2011-11-17 20:58:39 +0000"
+# Attributes from Felix Online V1
 id: "1766"
 old_path: /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
 aliases:
  - /biz/1766/groupon-is-the-social-buying-giant-losing-fuel
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172058-pk1811-groupon.jpg"
 image_caption: >
   Groupon must take on Google and Facebook if it is to triumph
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

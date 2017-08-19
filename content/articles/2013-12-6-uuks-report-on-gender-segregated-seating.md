@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Last week, Universities UUK, the UK’s universities representative organisation issued guidance on helping universities manage external speakers.
 date: "2013-12-06 03:43:24 +0000"
+# Attributes from Felix Online V1
 id: "4176"
 old_path: /news/4176/uuks-report-on-gender-segregated-seating
 aliases:
  - /news/4176/uuks-report-on-gender-segregated-seating
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

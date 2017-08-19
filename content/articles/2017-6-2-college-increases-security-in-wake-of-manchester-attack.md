@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ....a bit
 date: "2017-06-02 12:48:03 +0100"
+# Attributes from Felix Online V1
 id: "6988"
 old_path: /news/6988/college-increases-security-in-wake-of-manchester-attack
 aliases:
  - /news/6988/college-increases-security-in-wake-of-manchester-attack
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

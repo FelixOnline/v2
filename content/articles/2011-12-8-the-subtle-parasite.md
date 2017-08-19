@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maya Kaushik explains the link between slow reactions and suicidal rats
 date: "2011-12-08 20:45:53 +0000"
+# Attributes from Felix Online V1
 id: "1920"
 old_path: /science/1920/the-subtle-parasite
 aliases:
  - /science/1920/the-subtle-parasite
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082045-pk1811-45125915.winterdriveway.jpg"
 image_caption: >
   Parasites may be lurking on a cold winter’s day, better off staying in...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

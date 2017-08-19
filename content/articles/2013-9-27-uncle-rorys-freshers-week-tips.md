@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Everybody's favourite uncle, Uncle Rory has a few tips for you young whippersnappers.
 date: "2013-09-27 23:17:01 +0100"
+# Attributes from Felix Online V1
 id: "3762"
 old_path: /features/3762/uncle-rorys-freshers-week-tips
 aliases:
  - /features/3762/uncle-rorys-freshers-week-tips
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309280015-jal08-screen-shot-2013-09-12-at-23.27.05.png"
 image_caption: >
   Uncle Rory and the rest of his floor during Freshers’ Week. Sorry Rory! (Ed.)
@@ -22,6 +27,7 @@ image_attribution: "Greg James/Youtube"
 image_attribution_link: "http://www.youtube.com/watch?v=q4kCgq0h0Ck"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

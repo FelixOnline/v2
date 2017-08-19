@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to Colin Love about the Business School’s plans
 date: "2013-03-15 02:37:37 +0000"
+# Attributes from Felix Online V1
 id: "3491"
 old_path: /news/3491/a-love-for-business
 aliases:
  - /news/3491/a-love-for-business
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150237-tna08-colin-love.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tim Arbabzadah"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

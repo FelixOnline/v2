@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Claudia Mihai discusses the recent anti-corruption protests in Romania
 date: "2017-02-10 13:53:59 +0000"
+# Attributes from Felix Online V1
 id: "6750"
 old_path: /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
 aliases:
  - /comment/6750/the-romanian-protests-are-an-unlikely-beacon-of-democracy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

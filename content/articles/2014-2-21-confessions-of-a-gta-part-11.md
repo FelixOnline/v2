@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Presenting as an undergraduate was always horrific. A lot of it had to do with that we (were all given the same project. Having to sit through at least 10 presentations on exactly the same thing, whilst noticing everything the other groups had done better, was not only boring but galling all at once
 date: "2014-02-21 03:27:31 +0000"
+# Attributes from Felix Online V1
 id: "4428"
 old_path: /comment/4428/confessions-of-a-gta-part-11
 aliases:
  - /comment/4428/confessions-of-a-gta-part-11
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

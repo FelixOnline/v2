@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At least it's warm somewhere
 date: "2013-01-31 23:34:08 +0000"
+# Attributes from Felix Online V1
 id: "3210"
 old_path: /science/3210/heatwave-at-the-corona-
 aliases:
  - /science/3210/heatwave-at-the-corona-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312333-tna08-composite_earth1_red.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A mixed bag of results as Imperial's wakeboarders compete at Liquid Leisure
 date: "2011-03-10 21:19:48 +0000"
+# Attributes from Felix Online V1
 id: "1083"
 old_path: /sport/1083/imperial-smashes-it-at-uniwake
 aliases:
  - /sport/1083/imperial-smashes-it-at-uniwake
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102118-nm1010-wakeywak.jpg"
 image_caption: >
   That's going to hurt...
@@ -22,6 +27,7 @@ image_attribution: "Rosie Caulfield"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

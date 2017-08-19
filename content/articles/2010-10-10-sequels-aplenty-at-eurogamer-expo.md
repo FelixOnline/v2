@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Assassin's Creed: Brotherhood, Fallout: New Vegas, RAGE and LittleBigPlanet 2 all previewed at this year's Earls Court event
 date: "2010-10-10 15:53:40 +0100"
+# Attributes from Felix Online V1
 id: "195"
 old_path: /games/195/sequels-aplenty-at-eurogamer-expo
 aliases:
  - /games/195/sequels-aplenty-at-eurogamer-expo
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010101648-ks607-EuroGame.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

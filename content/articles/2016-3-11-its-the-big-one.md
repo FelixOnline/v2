@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ice Hockey preview their upcoming game against UCL
 date: "2016-03-11 12:14:01 +0000"
+# Attributes from Felix Online V1
 id: "6046"
 old_path: /sport/6046/its-the-big-one
 aliases:
  - /sport/6046/its-the-big-one
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111212-felix-12495942_985531444829230_8102301807300184292_o.jpg"
 image_caption: >
   Ice Hockey – that notoriously friendly game.
@@ -22,6 +27,7 @@ image_attribution: "Ice Hockey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   News Editor Nida bring you the news in short
 date: "2014-01-17 03:11:26 +0000"
+# Attributes from Felix Online V1
 id: "4227"
 old_path: /news/4227/news-bites---the-news-in-short-issue-1564
 aliases:
  - /news/4227/news-bites---the-news-in-short-issue-1564
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

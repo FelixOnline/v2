@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Playstation Network still offline
 date: "2011-05-06 15:00:32 +0100"
+# Attributes from Felix Online V1
 id: "1174"
 old_path: /games/1174/service-stoppage-since-sony-server-security-scandal
 aliases:
  - /games/1174/service-stoppage-since-sony-server-security-scandal
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105062334-sjw209-hacker.jpg"
 image_caption: >
   Police are reportedly looking for this man
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

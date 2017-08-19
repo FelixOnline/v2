@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you haven’t heard of Humble Bundle you should really check it out!
 date: "2013-11-13 23:02:14 +0000"
+# Attributes from Felix Online V1
 id: "4056"
 old_path: /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
 aliases:
  - /games/4056/in-limbo-here-is-your-bastion-of-fezunyolo-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311132302-me1711-games_limbo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

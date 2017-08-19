@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How Japan’s buildings coped in the face of one of the worst quakes in recent history, and the struggle to secure the Fukushima nuclear power plant
 date: "2011-03-17 20:55:14 +0000"
+# Attributes from Felix Online V1
 id: "1097"
 old_path: /science/1097/scientific-foundations-of-thoku-quake
 aliases:
  - /science/1097/scientific-foundations-of-thoku-quake
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172054-mc4509-74296-handout-satellite-image-of-fukushima-daiichi-nuclear-plant-after-earth.jpg"
 image_caption: >
   Satellite image of Fukushima nuclear plant
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

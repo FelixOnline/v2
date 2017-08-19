@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Williams visits his local Chinese gem in Earl’s Court in hope of an alternative to the West End
 date: "2010-11-25 20:34:44 +0000"
+# Attributes from Felix Online V1
 id: "432"
 old_path: /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
 aliases:
  - /food/432/mr-wing-the-perfect-treatment-for-chinatown-blues
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252032-nm1010-winggggg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

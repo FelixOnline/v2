@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With countless rap and R&B projects dropping this year, 2016 has been an incredible year for hip-hop and urban culture. There’s been an unprecedented wave of new music from giants in the modern rap game, like Drake, Kendrick Lamar and Kanye West, to exciting debut albums from the budding stars, such
 date: "2016-12-16 14:57:09 +0000"
+# Attributes from Felix Online V1
 id: "6607"
 old_path: /music/6607/andys-top-10-hip-hop-albums-of-2016-
 aliases:
  - /music/6607/andys-top-10-hip-hop-albums-of-2016-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161455-felix-chance.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Chance the Rapper"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

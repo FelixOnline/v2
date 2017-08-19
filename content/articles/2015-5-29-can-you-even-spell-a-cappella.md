@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ellen Mathieson enjoys the return of the Bellas in Pitch Perfect 2
 date: "2015-05-29 10:54:26 +0100"
+# Attributes from Felix Online V1
 id: "5584"
 old_path: /film/5584/can-you-even-spell-a-cappella
 aliases:
  - /film/5584/can-you-even-spell-a-cappella
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291153-js5913-pitch-perfect-2-2.png"
 image_caption: >
   I wrote this caption before I found the picture, which is why what I'm writing has no relevance at all to what you're seeing. You know you love it. (I even had to find a different picture for the web, this caption just keeps on giving)
@@ -22,6 +27,7 @@ image_attribution: "Elizabeth Banks/Universal"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

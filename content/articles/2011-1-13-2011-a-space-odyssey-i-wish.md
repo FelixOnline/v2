@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But there’s still one thing I want to know: where’s my jet–pack?
 date: "2011-01-13 21:21:07 +0000"
+# Attributes from Felix Online V1
 id: "591"
 old_path: /comment/591/2011-a-space-odyssey-i-wish-
 aliases:
  - /comment/591/2011-a-space-odyssey-i-wish-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

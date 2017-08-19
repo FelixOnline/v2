@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oreste is on at the Royal Opera House until 19th November 2017
 date: "2016-11-18 15:11:48 +0000"
+# Attributes from Felix Online V1
 id: "6472"
 old_path: /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
 aliases:
  - /arts/6472/is-this-even-the-right-theatre--oreste-disappoints
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181511-felix-161105_0379-oreste-Edit-adj-©-ROH.-Photo-by-Clive-Barda-1024x6381.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Clive Barda"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

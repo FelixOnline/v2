@@ -4,15 +4,20 @@ title: >
 subtitle: >
   City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports
 date: "2011-06-12 16:27:01 +0100"
+# Attributes from Felix Online V1
 id: "1370"
 old_path: /sport/1370/german-beer-kebabs-and-plenty-of-rugby
 aliases:
  - /sport/1370/german-beer-kebabs-and-plenty-of-rugby
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106121726-felix-engineers.jpg"
 image_caption: >
   The winning team from last year’s intra-faculty Engineers Sevens tournament
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

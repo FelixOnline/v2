@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC joined forces with the RCA to create art inspired by science; Artifact is happening again this year
 date: "2012-02-09 22:08:20 +0000"
+# Attributes from Felix Online V1
 id: "2139"
 old_path: /arts/2139/a-step-towards-cross-fing
 aliases:
  - /arts/2139/a-step-towards-cross-fing
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092208-cac111-untitled.png"
 image_caption: >
   The early plans for the Central Line extension were quick to be shelved
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

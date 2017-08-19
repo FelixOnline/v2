@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A retrospective of everyone's favorite colorado based satirical cartoon
 date: "2016-10-10 12:42:16 +0100"
+# Attributes from Felix Online V1
 id: "6322"
 old_path: /tv/6322/charting-the-evolution-of-south-park
 aliases:
  - /tv/6322/charting-the-evolution-of-south-park
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101440-felix-29160391480_0a0016cf23_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "vagueonthehow"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

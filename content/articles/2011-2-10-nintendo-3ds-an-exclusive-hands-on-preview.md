@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "The 3D worked straight from the off"
 date: "2011-02-10 20:44:23 +0000"
+# Attributes from Felix Online V1
 id: "782"
 old_path: /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
 aliases:
  - /games/782/nintendo-3ds-an-exclusive-hands-on-preview-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102110155-sjw209-3DShands.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb908"
 author_name: "Chris Bowers"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

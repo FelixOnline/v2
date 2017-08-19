@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an SF classic
 date: "2013-11-15 18:01:03 +0000"
+# Attributes from Felix Online V1
 id: "4077"
 old_path: /books/4077/the-stars-my-destination
 aliases:
  - /books/4077/the-stars-my-destination
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

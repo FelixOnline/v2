@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A conference for students
 date: "2013-03-07 23:57:44 +0000"
+# Attributes from Felix Online V1
 id: "3450"
 old_path: /books/3450/your-chance-to-meet-the-publishers
 aliases:
  - /books/3450/your-chance-to-meet-the-publishers
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072357-tna08-hi_h0p6m_25175815_h0p6mh0r.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

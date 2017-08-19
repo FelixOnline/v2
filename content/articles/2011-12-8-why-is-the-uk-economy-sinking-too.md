@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If the Good Ship Eurozone goes down, we are going down with her, explains Albert Nickelby
 date: "2011-12-08 20:47:14 +0000"
+# Attributes from Felix Online V1
 id: "1921"
 old_path: /biz/1921/why-is-the-uk-economy-sinking-too-
 aliases:
  - /biz/1921/why-is-the-uk-economy-sinking-too-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

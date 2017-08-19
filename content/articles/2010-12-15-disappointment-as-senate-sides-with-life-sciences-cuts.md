@@ -4,15 +4,20 @@ title: >
 subtitle: >
   160 students turn out in the rain to lobby Imperial College Senate to protect teaching in the Life Sciences department to no avail
 date: "2010-12-15 17:35:35 +0000"
+# Attributes from Felix Online V1
 id: "557"
 old_path: /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
 aliases:
  - /news/557/disappointment-as-senate-sides-with-life-sciences-cuts
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012151740-ks607-lifescie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

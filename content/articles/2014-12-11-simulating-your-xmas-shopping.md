@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl tries not to be a Grinch about GAME's new game
 date: "2014-12-11 20:48:11 +0000"
+# Attributes from Felix Online V1
 id: "5031"
 old_path: /games/5031/simulating-your-xmas-shopping
 aliases:
  - /games/5031/simulating-your-xmas-shopping
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

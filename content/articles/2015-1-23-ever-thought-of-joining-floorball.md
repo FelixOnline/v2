@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Raymond Thawani walks you through a day in the life
 date: "2015-01-23 19:19:42 +0000"
+# Attributes from Felix Online V1
 id: "5151"
 old_path: /sport/5151/ever-thought-of-joining-floorball
 aliases:
  - /sport/5151/ever-thought-of-joining-floorball
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231919-jyg11-fullsizerender.jpg"
 image_caption: >
   The Imperial College Floorball team is one of the United Kingdom's best Floorball teams and regularly place in the top three in competitions around the country
@@ -22,6 +27,7 @@ image_attribution: "IC Floorball"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

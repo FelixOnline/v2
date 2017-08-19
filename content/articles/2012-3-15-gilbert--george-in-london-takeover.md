@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you like something a little different...
 date: "2012-03-15 20:01:01 +0000"
+# Attributes from Felix Online V1
 id: "2355"
 old_path: /arts/2355/gilbert--george-in-london-takeover
 aliases:
  - /arts/2355/gilbert--george-in-london-takeover
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152000-ig711-hell-by-gilbert--george-001-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

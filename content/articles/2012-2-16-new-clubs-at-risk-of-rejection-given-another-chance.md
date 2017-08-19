@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Proposals to determine viability of new ventures include test events
 date: "2012-02-16 22:45:10 +0000"
+# Attributes from Felix Online V1
 id: "2215"
 old_path: /news/2215/new-clubs-at-risk-of-rejection-given-another-chance
 aliases:
  - /news/2215/new-clubs-at-risk-of-rejection-given-another-chance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

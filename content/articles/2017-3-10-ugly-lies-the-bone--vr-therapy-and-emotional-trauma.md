@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Ugly Lies the Bone is on at the National Theatre until 6th June. Tickets from £15
 date: "2017-03-10 13:43:51 +0000"
+# Attributes from Felix Online V1
 id: "6875"
 old_path: /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
 aliases:
  - /arts/6875/ugly-lies-the-bone--vr-therapy-and-emotional-trauma
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101343-felix-Ugly Lies the Bone at the National Theatre. Kate Fleetwood (Jess).Photo by Mark Douet _D4A1319.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Mark Douet "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

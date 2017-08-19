@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Film classic returns to its roots, with Jones in driving seat
 date: "2011-10-16 14:24:05 +0100"
+# Attributes from Felix Online V1
 id: "1545"
 old_path: /arts/1545/from-screen-to-stage-miss-daisy-hits-the-wyndhams
 aliases:
  - /arts/1545/from-screen-to-stage-miss-daisy-hits-the-wyndhams
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110161523-felix-driving-miss-daisy-broadway.jpg"
 image_caption: >
   This is actually how Darth Vader steered the Death Star. Probably
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

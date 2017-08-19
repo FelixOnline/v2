@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cash prize and tour of CERN awarded at Grand Final
 date: "2012-05-10 19:34:51 +0100"
+# Attributes from Felix Online V1
 id: "2434"
 old_path: /news/2434/science-challenge-concludes-at-the-house-of-lords
 aliases:
  - /news/2434/science-challenge-concludes-at-the-house-of-lords
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102038-pk1811-1.png"
 image_caption: >
   A tour for two of CERN was up for grabs for the overall winner
@@ -22,6 +27,7 @@ image_attribution: "CERN"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

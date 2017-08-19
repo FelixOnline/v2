@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Titmuss thinks that in order to combat terrorism, we must first understand its root causes
 date: "2017-06-09 14:53:24 +0100"
+# Attributes from Felix Online V1
 id: "7009"
 old_path: /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
 aliases:
  - /comment/7009/defeating-isis-is-impossible-dealing-with-them-is-not
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091653-ea3211-Screen Shot 2017-06-09 at 16.53.05.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

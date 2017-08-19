@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Eagles 20 - 22 Warwick University
 date: "2010-02-25 18:49:11 +0000"
+# Attributes from Felix Online V1
 id: "105"
 old_path: /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
 aliases:
  - /sport/105/imperial-eagles8217-unbeaten-run-ended-by-warwick
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251848-mb506-Handball.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

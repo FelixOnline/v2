@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One cold Wednesday afternoon earlier this week, your fantastic Features editor deigned to trespass and snoop around formally check out and report the annual Postgraduate Open Day happening at the South Kensington Campus...
 date: "2013-12-06 03:54:36 +0000"
+# Attributes from Felix Online V1
 id: "4182"
 old_path: /features/4182/an-opening-into-the-pg-open-day
 aliases:
  - /features/4182/an-opening-into-the-pg-open-day
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Winters on how the music scene at Imperial could be much improved
 date: "2012-06-07 20:01:16 +0100"
+# Attributes from Felix Online V1
 id: "2536"
 old_path: /comment/2536/reaching-metrics-full-potential
 aliases:
  - /comment/2536/reaching-metrics-full-potential
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072059-ams111-ruler.jpg"
 image_caption: >
   Metric, metric. Geddit. Geddit. Geddit? It’s a visual pun
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

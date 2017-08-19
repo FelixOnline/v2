@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
+# Attributes from Felix Online V1
 id: "613"
 old_path: /fashion/613/menswear-in-milan-trendwatch-
 aliases:
  - /fashion/613/menswear-in-milan-trendwatch-
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202033-ks607-blueboat.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "stv07"
 author_name: "Saskia Verhagen"
 author_image_path: "img/upload/201303072218-sjw209-saskia.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Ball investigates as work starts on the Chelsea waterfront
 date: "2015-06-04 23:19:14 +0100"
+# Attributes from Felix Online V1
 id: "5598"
 old_path: /news/5598/lots-road-redevelopment-to-go-ahead
 aliases:
  - /news/5598/lots-road-redevelopment-to-go-ahead
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050019-cj914-chelsea-waterfront-cropped.jpg"
 image_caption: >
   The project has an estimated completion date of 2019, but the first set of houses will go on sale in the next few weeks
@@ -22,6 +27,7 @@ image_attribution: "The Spaces"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

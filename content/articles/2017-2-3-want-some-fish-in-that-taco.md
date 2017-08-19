@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Breddos is certainly the place to get your taco filled - baja fish, fried chicken or even fried egg are all on the menu at this trendy Barbican joint. Join us for a sensual feast of the finest Mexican cuisine.
 date: "2017-02-03 17:37:58 +0000"
+# Attributes from Felix Online V1
 id: "6734"
 old_path: /food/6734/want-some-fish-in-that-taco
 aliases:
  - /food/6734/want-some-fish-in-that-taco
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031736-felix-IMG_7489.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

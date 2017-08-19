@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya's Epic South American Adventure
 date: "2011-07-18 12:45:22 +0100"
+# Attributes from Felix Online V1
 id: "1451"
 old_path: /travel/1451/priyas-epic-south-american-adventure
 aliases:
  - /travel/1451/priyas-epic-south-american-adventure
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

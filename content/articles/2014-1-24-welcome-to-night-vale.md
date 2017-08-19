@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski invites you to visit America’s most unusual town
 date: "2014-01-24 10:05:45 +0000"
+# Attributes from Felix Online V1
 id: "4292"
 old_path: /books/4292/welcome-to-night-vale
 aliases:
  - /books/4292/welcome-to-night-vale
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

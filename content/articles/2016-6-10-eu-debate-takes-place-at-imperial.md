@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Referendum fever is yet to take hold
 date: "2016-06-10 08:14:37 +0100"
+# Attributes from Felix Online V1
 id: "6247"
 old_path: /news/6247/eu-debate-takes-place-at-imperial
 aliases:
  - /news/6247/eu-debate-takes-place-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101014-felix-Screen Shot 2016-06-07 at 12.16.53.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

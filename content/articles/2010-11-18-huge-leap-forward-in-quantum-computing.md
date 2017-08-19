@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial researcher moves closer to realising the dream of the quantum computer
 date: "2010-11-18 20:13:56 +0000"
+# Attributes from Felix Online V1
 id: "385"
 old_path: /science/385/huge-leap-forward-in-quantum-computing
 aliases:
  - /science/385/huge-leap-forward-in-quantum-computing
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182011-ks607-sciences.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ko407"
 author_name: "Kelly Oakes"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

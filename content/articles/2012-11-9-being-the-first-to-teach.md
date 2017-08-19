@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah gets schooled in the aims of TeachFirst
 date: "2012-11-09 00:37:23 +0000"
+# Attributes from Felix Online V1
 id: "2839"
 old_path: /news/2839/being-the-first-to-teach
 aliases:
  - /news/2839/being-the-first-to-teach
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

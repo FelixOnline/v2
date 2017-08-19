@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
+# Attributes from Felix Online V1
 id: "6808"
 old_path: /news/6808/are-sweet-potato-fries-really-worth-it
 aliases:
  - /news/6808/are-sweet-potato-fries-really-worth-it
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

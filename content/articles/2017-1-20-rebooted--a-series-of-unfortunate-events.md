@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Once again, Netflix rushes into rescue and, in this case, reboot a much loved property that had been poorly adapted. So, is the series any good, or does it become an all too literal rendition of its title?
 date: "2017-01-20 15:18:21 +0000"
+# Attributes from Felix Online V1
 id: "6668"
 old_path: /tv/6668/rebooted--a-series-of-unfortunate-events
 aliases:
  - /tv/6668/rebooted--a-series-of-unfortunate-events
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201517-felix-maxresdefault (4).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

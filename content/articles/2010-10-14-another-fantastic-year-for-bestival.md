@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Seriously freakin' awesome fun on the Isle of Wight!
 date: "2010-10-14 19:25:22 +0100"
+# Attributes from Felix Online V1
 id: "205"
 old_path: /music/205/another-fantastic-year-for-bestival-
 aliases:
  - /music/205/another-fantastic-year-for-bestival-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142023-ks607-bestival.jpg"
 image_caption: >
   New Age fun with a vintage feel!
@@ -22,6 +27,7 @@ image_attribution: "James Mossahebi"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

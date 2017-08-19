@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We take a look at the bold and the beautiful behind the year's top flicks
 date: "2011-12-08 21:27:43 +0000"
+# Attributes from Felix Online V1
 id: "1938"
 old_path: /film/1938/felix-film-awards--celebrating-this-years-best-films
 aliases:
  - /film/1938/felix-film-awards--celebrating-this-years-best-films
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

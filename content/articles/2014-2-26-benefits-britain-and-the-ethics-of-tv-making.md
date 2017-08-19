@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman asks whether a live debate was necessary
 date: "2014-02-26 12:58:17 +0000"
+# Attributes from Felix Online V1
 id: "4437"
 old_path: /tv/4437/benefits-britain-and-the-ethics-of-tv-making
 aliases:
  - /tv/4437/benefits-britain-and-the-ethics-of-tv-making
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

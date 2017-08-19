@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX asks the scientists on each side of the fence so you don't have to
 date: "2016-06-10 08:25:58 +0100"
+# Attributes from Felix Online V1
 id: "6255"
 old_path: /science/6255/how-will-a-brexit-scenario-impact-science-
 aliases:
  - /science/6255/how-will-a-brexit-scenario-impact-science-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101025-felix-8706453607_706e29d981_o 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Hernan Pinera"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

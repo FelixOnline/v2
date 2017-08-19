@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Who will come, who will see, who will conquer?
 date: "2011-06-23 20:14:25 +0100"
+# Attributes from Felix Online V1
 id: "1421"
 old_path: /politics/1421/the-politics-of-summer-2011
 aliases:
  - /politics/1421/the-politics-of-summer-2011
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232111-felix-mahmoud-ahmadinejad.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

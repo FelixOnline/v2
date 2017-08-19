@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tharsis is a brutally hard space survival strategy game, with dice
 date: "2016-01-29 10:07:22 +0000"
+# Attributes from Felix Online V1
 id: "5859"
 old_path: /games/5859/rolling-in-the-deep-space
 aliases:
  - /games/5859/rolling-in-the-deep-space
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601291006-felix-tharsis2.jpg"
 image_caption: >
   Those are some pretty dice.
@@ -22,6 +27,7 @@ image_attribution: "Choice Provisions"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

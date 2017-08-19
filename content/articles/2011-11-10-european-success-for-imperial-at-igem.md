@@ -4,15 +4,20 @@ title: >
 subtitle: >
   AuxIn and Gene Guard bring huge success to Imperial team
 date: "2011-11-10 22:08:13 +0000"
+# Attributes from Felix Online V1
 id: "1742"
 old_path: /news/1742/european-success-for-imperial-at-igem
 aliases:
  - /news/1742/european-success-for-imperial-at-igem
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

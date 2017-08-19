@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ipsita Herlekar reveals the secrets of a well preserved dinosaur fossil
 date: "2016-12-16 14:39:24 +0000"
+# Attributes from Felix Online V1
 id: "6604"
 old_path: /science/6604/a-tale-within-a-tail
 aliases:
  - /science/6604/a-tale-within-a-tail
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161439-felix-2184636842_57bf524334_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Keith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

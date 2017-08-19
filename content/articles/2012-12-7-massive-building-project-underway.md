@@ -4,15 +4,20 @@ title: >
 subtitle: >
   South Kensington campus to start looking a bit different...
 date: "2012-12-07 00:57:31 +0000"
+# Attributes from Felix Online V1
 id: "3028"
 old_path: /news/3028/massive-building-project-underway
 aliases:
  - /news/3028/massive-building-project-underway
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070057-tna08-before-and-after-mech-eng.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When your phone breaks, what do you do with it?
 date: "2015-11-30 12:03:51 +0000"
+# Attributes from Felix Online V1
 id: "5788"
 old_path: /cands/5788/our-broken-relationship-with-electronics-
 aliases:
  - /cands/5788/our-broken-relationship-with-electronics-
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

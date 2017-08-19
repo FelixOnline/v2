@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Barnett evaluates Top Gear's recent entertainment value
 date: "2012-02-23 20:56:34 +0000"
+# Attributes from Felix Online V1
 id: "2247"
 old_path: /tv/2247/a-return-to-form-for-top-gear
 aliases:
  - /tv/2247/a-return-to-form-for-top-gear
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232337-felix-top-gear---the-stig-006.jpg"
 image_caption: >
   Driving doesn't get tougher than this
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Any more punny headlines and I'll be forced to hand myself in...
 date: "2011-10-28 13:32:40 +0100"
+# Attributes from Felix Online V1
 id: "1643"
 old_path: /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
 aliases:
  - /tv/1643/arrest-yourself-for-not-developing-a-love-for-this-show
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281427-felix-19944_arrested-development.jpg"
 image_caption: >
   Eccentric isn’t the word...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

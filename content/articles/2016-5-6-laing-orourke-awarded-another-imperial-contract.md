@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The building contractor has already sponsored a centre in the Civil Engineering Department
 date: "2016-05-06 09:45:15 +0100"
+# Attributes from Felix Online V1
 id: "6117"
 old_path: /news/6117/laing-orourke-awarded-another-imperial-contract
 aliases:
  - /news/6117/laing-orourke-awarded-another-imperial-contract
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-west.jpg"
 image_caption: >
   It’s looks alright, I guess.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

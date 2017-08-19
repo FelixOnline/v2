@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Their versatility is a result of the onboard machinery
 date: "2016-05-27 08:56:41 +0100"
+# Attributes from Felix Online V1
 id: "6212"
 old_path: /science/6212/drones-evolve-from-killing-to-rebuilding-
 aliases:
  - /science/6212/drones-evolve-from-killing-to-rebuilding-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271056-felix-1280px-MQ-9_Reaper_in_flight_(2007).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

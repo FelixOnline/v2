@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Drug could help to bring patients out of anaesthesia almost immediately
 date: "2011-10-07 09:37:27 +0100"
+# Attributes from Felix Online V1
 id: "1478"
 old_path: /science/1478/ritalin-brings-you-around-faster
 aliases:
  - /science/1478/ritalin-brings-you-around-faster
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A journey through the wonderful and horifying world of animal sex
 date: "2016-02-12 11:31:36 +0000"
+# Attributes from Felix Online V1
 id: "5904"
 old_path: /science/5904/five-facts-to-break-the-ice-on-v-day
 aliases:
  - /science/5904/five-facts-to-break-the-ice-on-v-day
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121130-felix-6142882297_250a80021c_o.jpg"
 image_caption: >
   If you think the echidna doesn’t look that weird, A) really? B) you clearly haven’t tried to have sex with it.
@@ -22,6 +27,7 @@ image_attribution: "Wendy Eiby"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

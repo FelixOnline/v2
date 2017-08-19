@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:32:40 +0000"
+# Attributes from Felix Online V1
 id: "6569"
 old_path: /arts/6569/helen-marten-wins-the-turner-prize
 aliases:
  - /arts/6569/helen-marten-wins-the-turner-prize
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091230-aib116-e9b3415b58a872cf70d482500546ec8e.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Helen Marten"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

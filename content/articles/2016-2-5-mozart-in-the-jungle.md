@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The show’s wit is sharp and rarely predictable
 date: "2016-02-05 12:45:50 +0000"
+# Attributes from Felix Online V1
 id: "5883"
 old_path: /tv/5883/mozart-in-the-jungle
 aliases:
  - /tv/5883/mozart-in-the-jungle
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051244-felix-Mozart-in-the-Jungle-TV-Series-Cast-Poster-Wallpaper.jpg"
 image_caption: >
   Full of style and substance.
@@ -22,6 +27,7 @@ image_attribution: "Amazon Prime"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

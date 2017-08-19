@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at the SAFE Project, two years from its start
 date: "2012-06-25 23:52:33 +0100"
+# Attributes from Felix Online V1
 id: "2583"
 old_path: /science/2583/ecology-on-a-massive-scale
 aliases:
  - /science/2583/ecology-on-a-massive-scale
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206260217-ak6309-dsc_0093.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

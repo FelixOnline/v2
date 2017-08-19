@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathon Firth used to go to Imperial, now he’s busy building Richard Branson’s commercial space travel business
 date: "2015-11-13 14:35:18 +0000"
+# Attributes from Felix Online V1
 id: "5727"
 old_path: /features/5727/alumnus-goes-galactic
 aliases:
  - /features/5727/alumnus-goes-galactic
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131435-ygr12-richard_galactic_zero_gravity5.jpg"
 image_caption: >
   When your boss is so hands on, he offers to fly in your first spaceship.
@@ -22,6 +27,7 @@ image_attribution: "Virgin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

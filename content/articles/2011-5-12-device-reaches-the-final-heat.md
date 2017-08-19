@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists create generator to make use of waste heat
 date: "2011-05-12 16:25:39 +0100"
+# Attributes from Felix Online V1
 id: "1187"
 old_path: /science/1187/device-reaches-the-final-heat
 aliases:
  - /science/1187/device-reaches-the-final-heat
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121720-felix-trafficjam11.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "As the temperature soared, the heat was on to make use of it
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

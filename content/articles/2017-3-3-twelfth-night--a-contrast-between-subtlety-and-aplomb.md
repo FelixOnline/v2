@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Twelfth Night is on at the National Theatre until 13th May
 date: "2017-03-03 15:16:36 +0000"
+# Attributes from Felix Online V1
 id: "6845"
 old_path: /arts/6845/twelfth-night--a-contrast-between-subtlety-and-aplomb-
 aliases:
  - /arts/6845/twelfth-night--a-contrast-between-subtlety-and-aplomb-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031516-felix-Twelfth Night - Tamsin Greig as Malvolia, image by Marc Brenner.jpg"
 image_caption: >
   Twelfth Night – Tamsin Greig as Malvolia
@@ -22,6 +27,7 @@ image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

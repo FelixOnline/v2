@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Navid Nabijou embarks on a spirituo-materialistic journey
 date: "2011-11-10 22:21:00 +0000"
+# Attributes from Felix Online V1
 id: "1746"
 old_path: /arts/1746/diy-meditation-room
 aliases:
  - /arts/1746/diy-meditation-room
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102214-pk1811-img_7103.jpg"
 image_caption: >
   One thing I would say – make it brighter
@@ -22,6 +27,7 @@ image_attribution: "Navid Nabijou"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

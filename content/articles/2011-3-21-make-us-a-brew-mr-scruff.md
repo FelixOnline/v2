@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mr Scruff brings tea stands and more to Koko
 date: "2011-03-21 12:13:34 +0000"
+# Attributes from Felix Online V1
 id: "1124"
 old_path: /music/1124/make-us-a-brew-mr-scruff
 aliases:
  - /music/1124/make-us-a-brew-mr-scruff
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103211207-ks607-mrscruff.jpg"
 image_caption: >
   Ah go on!
@@ -22,6 +27,7 @@ image_attribution: "Make Us A Brew"
 image_attribution_link: "http://www.makeusabrew.com/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College Medical Researcher Thilanga Iddamalgoda has been suspended from practising after being caught filming up women's skirts in Trafalgar Square.
 date: "2013-07-15 15:09:44 +0100"
+# Attributes from Felix Online V1
 id: "3744"
 old_path: /news/3744/unfit-to-practise
 aliases:
  - /news/3744/unfit-to-practise
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201307151714-jal08-thilanga-kasun-iddamalgoda.jpg"
 image_caption: >
   Dr. Thilanga Iddamalgoda - a rather blurry fellow
@@ -22,6 +27,7 @@ image_attribution: "LinkedIn"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

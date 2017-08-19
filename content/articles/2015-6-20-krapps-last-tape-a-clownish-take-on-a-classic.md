@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
+# Attributes from Felix Online V1
 id: "5645"
 old_path: /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
 aliases:
  - /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506201255-ff712-rsz_01.jpg"
 image_caption: >
   Robert Wilson in Krapp's Last Tape
@@ -22,6 +27,7 @@ image_attribution: "Lucie Jansch"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

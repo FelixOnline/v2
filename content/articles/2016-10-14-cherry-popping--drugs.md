@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Did you come to uni pretty au fait with the world of ‘Sex, Drugs and Rock N’ Roll’ or was your life a bit more ‘Sex, Drugs and the Physiochemical Interface Inbetween’? We all know the Government’s abstinence only approach works about as well as the American Government’s sex-ed programme. So let’s ta
 date: "2016-10-14 10:02:06 +0100"
+# Attributes from Felix Online V1
 id: "6331"
 old_path: /millennials/6331/cherry-popping--drugs
 aliases:
  - /millennials/6331/cherry-popping--drugs
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141201-felix-6895509443_48aec89264_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Michael Le Roi"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

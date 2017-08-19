@@ -4,15 +4,20 @@ title: >
 subtitle: >
   While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
+# Attributes from Felix Online V1
 id: "499"
 old_path: /news/499/when-will-imperial-march-
 aliases:
  - /news/499/when-will-imperial-march-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

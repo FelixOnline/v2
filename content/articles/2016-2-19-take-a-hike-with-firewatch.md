@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The brilliant first-person adventure game from the minds behind The Walking Dead
 date: "2016-02-19 12:24:54 +0000"
+# Attributes from Felix Online V1
 id: "5945"
 old_path: /games/5945/take-a-hike-with-firewatch
 aliases:
  - /games/5945/take-a-hike-with-firewatch
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191224-felix-firewatch.jpg"
 image_caption: >
   In the wilderness, no one can hear you scream.
@@ -22,6 +27,7 @@ image_attribution: "Firewatch, Campo Santo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

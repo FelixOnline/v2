@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Everyone, even your mum, watches porn. Would stopping make your life better?
 date: "2017-02-17 15:54:33 +0000"
+# Attributes from Felix Online V1
 id: "6798"
 old_path: /sex/6798/is-porn-hurting-your-brain
 aliases:
  - /sex/6798/is-porn-hurting-your-brain
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171554-felix-Screen Shot 2017-02-17 at 15.54.08.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

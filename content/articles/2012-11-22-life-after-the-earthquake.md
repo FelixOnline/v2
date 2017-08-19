@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ryan Browne and six others help out in the Tohoku region in Japan
 date: "2012-11-22 23:01:12 +0000"
+# Attributes from Felix Online V1
 id: "2937"
 old_path: /news/2937/life-after-the-earthquake
 aliases:
  - /news/2937/life-after-the-earthquake
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222300-tna08-jap-volunteer-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

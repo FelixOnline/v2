@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman is less than enthused by the Royal Court's latest
 date: "2015-05-26 14:03:18 +0100"
+# Attributes from Felix Online V1
 id: "5567"
 old_path: /arts/5567/coming-down-with-a-bad-case-of-the-twits
 aliases:
  - /arts/5567/coming-down-with-a-bad-case-of-the-twits
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261500-js5913-the-twits.jpg"
 image_caption: >
   L-R: Mr Twit (Jason Watkins), Tattooed Fortune-Teller Lady (Christine Entwhistle), Mrs Twit (Monica Dolan) in The Twits.
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

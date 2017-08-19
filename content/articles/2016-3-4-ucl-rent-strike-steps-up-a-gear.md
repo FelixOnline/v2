@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Their head of Estates said “some people just simply cannot afford to live in London”
 date: "2016-03-04 11:25:21 +0000"
+# Attributes from Felix Online V1
 id: "5996"
 old_path: /news/5996/ucl-rent-strike-steps-up-a-gear
 aliases:
  - /news/5996/ucl-rent-strike-steps-up-a-gear
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041125-felix-128cl rent19344_487411581443165_5745645532743636195_o.jpg"
 image_caption: >
   Fight the power!
@@ -22,6 +27,7 @@ image_attribution: "UCL, Cut the rent"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

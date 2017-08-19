@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Esoteric economics are brought down to earth in Adam McKay’s hugely enjoyable film
 date: "2016-01-29 09:25:31 +0000"
+# Attributes from Felix Online V1
 id: "5846"
 old_path: /film/5846/alls-fair-in-love-and-finance
 aliases:
  - /film/5846/alls-fair-in-love-and-finance
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290918-felix-FILM-THE_BIG_SHORT_37882487 (1).JPG"
 image_caption: >
   Christian Bale sweeps up the nominations with his performance as Dr. Michael Burry in The Big Short.
@@ -22,6 +27,7 @@ image_attribution: "Paramount"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

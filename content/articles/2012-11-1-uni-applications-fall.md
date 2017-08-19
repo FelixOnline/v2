@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Applications peaked in 2011 and now fall. Warning over shortage of engineers
 date: "2012-11-01 23:20:41 +0000"
+# Attributes from Felix Online V1
 id: "2825"
 old_path: /news/2825/uni-applications-fall
 aliases:
  - /news/2825/uni-applications-fall
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012320-tna08-figure-for-the-applications.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

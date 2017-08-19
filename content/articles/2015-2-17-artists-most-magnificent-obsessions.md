@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is impressed by the Barbican’s display of unseen collections
 date: "2015-02-17 16:39:50 +0000"
+# Attributes from Felix Online V1
 id: "5266"
 old_path: /arts/5266/artists-most-magnificent-obsessions
 aliases:
  - /arts/5266/artists-most-magnificent-obsessions
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

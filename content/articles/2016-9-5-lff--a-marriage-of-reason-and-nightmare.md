@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Wheatley aims high in his take on a towering icon of modern British fiction
 date: "2016-09-05 20:40:30 +0100"
+# Attributes from Felix Online V1
 id: "6296"
 old_path: /film/6296/lff--a-marriage-of-reason-and-nightmare
 aliases:
  - /film/6296/lff--a-marriage-of-reason-and-nightmare
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201609052240-ff712-201603181155-felix-6.0.0 (1).jpg"
 image_caption: >
   Tom Hiddleston as the slippery Dr Laing, luxuriating in his brutalist high-rise
@@ -22,6 +27,7 @@ image_attribution: "Allstar/High-Rise PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

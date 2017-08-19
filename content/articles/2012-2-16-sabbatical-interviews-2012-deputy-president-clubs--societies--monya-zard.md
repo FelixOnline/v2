@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The DPCS speaks on Freshers' Fair and the challenges of having responsibility for over 300 Clubs, Societies & Projects
 date: "2012-02-16 23:08:48 +0000"
+# Attributes from Felix Online V1
 id: "2218"
 old_path: /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
 aliases:
  - /news/2218/sabbatical-interviews-2012-deputy-president-clubs--societies--monya-zard
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162307-sjw209-monyazard.jpg"
 image_caption: >
   Deputy President (Clubs & Societies) Monya Zard
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

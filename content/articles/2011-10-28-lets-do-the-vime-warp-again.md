@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ian Green returns to Discworld and finds even more Pratchett magic
 date: "2011-10-28 09:46:29 +0100"
+# Attributes from Felix Online V1
 id: "1635"
 old_path: /arts/1635/lets-do-the-vime-warp-again
 aliases:
  - /arts/1635/lets-do-the-vime-warp-again
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Former MI5 head to become first woman Chairman of Imperial
 date: "2011-05-22 13:04:31 +0100"
+# Attributes from Felix Online V1
 id: "1241"
 old_path: /news/1241/new-college-chairman-appointed
 aliases:
  - /news/1241/new-college-chairman-appointed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105221403-felix-img_0467.jpg"
 image_caption: >
   Baroness Eliza Manningham-Buller
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

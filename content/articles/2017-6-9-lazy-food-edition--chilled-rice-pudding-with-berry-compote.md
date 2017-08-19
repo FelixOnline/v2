@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are you close to passing out from the lack of ventilation in the library? Are you tossing and turning in bed lamenting the passing of spring anf the lack of an AC? Do your friends describe you as a rice enthusiast? Well we might just have what you need.
 date: "2017-06-09 15:39:48 +0100"
+# Attributes from Felix Online V1
 id: "7021"
 old_path: /food/7021/lazy-food-edition--chilled-rice-pudding-with-berry-compote
 aliases:
  - /food/7021/lazy-food-edition--chilled-rice-pudding-with-berry-compote
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091739-ea3211-Screen Shot 2017-06-09 at 17.37.03.png"
 image_caption: >
   What did the ice cream cone tell the cup of hot coffee?
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

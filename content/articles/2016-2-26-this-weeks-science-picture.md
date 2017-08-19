@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Junior Doctors protesting Jeremy Hunt’s NHS dilapidating contract.
 date: "2016-02-26 11:36:52 +0000"
+# Attributes from Felix Online V1
 id: "5965"
 old_path: /science/5965/this-weeks-science-picture
 aliases:
  - /science/5965/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261136-felix-12787100_10156504496685394_1576451705_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

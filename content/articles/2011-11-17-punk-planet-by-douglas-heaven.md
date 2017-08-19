@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week: High Dependency Unit
 date: "2011-11-17 21:34:31 +0000"
+# Attributes from Felix Online V1
 id: "1780"
 old_path: /music/1780/punk-planet-by-douglas-heaven
 aliases:
  - /music/1780/punk-planet-by-douglas-heaven
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172134-pk1811-high+dependency+unit+promo3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

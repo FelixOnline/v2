@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhidian Thomas believes that to mitigate Climate Change we need to first embrace political change
 date: "2017-02-17 14:32:52 +0000"
+# Attributes from Felix Online V1
 id: "6781"
 old_path: /comment/6781/climate-change-is-a-political-problem
 aliases:
  - /comment/6781/climate-change-is-a-political-problem
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171432-felix-9031727127_a9187349c0_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Policy Exchange"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

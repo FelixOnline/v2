@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Wood on The Good, The Bad and The Ugly of studying
 date: "2013-01-10 22:32:24 +0000"
+# Attributes from Felix Online V1
 id: "3087"
 old_path: /news/3087/highlight-everything-
 aliases:
  - /news/3087/highlight-everything-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102225-tna08-highlight-in-books.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

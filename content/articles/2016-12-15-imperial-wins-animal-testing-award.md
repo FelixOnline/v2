@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is despite past criticism
 date: "2016-12-15 23:59:52 +0000"
+# Attributes from Felix Online V1
 id: "6598"
 old_path: /news/6598/imperial-wins-animal-testing-award
 aliases:
  - /news/6598/imperial-wins-animal-testing-award
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612152359-felix-8430280933_a62df278b1_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "La Tarte au Citron"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

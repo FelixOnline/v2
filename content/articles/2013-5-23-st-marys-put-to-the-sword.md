@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICUCC continue on their successful season
 date: "2013-05-23 21:33:47 +0100"
+# Attributes from Felix Online V1
 id: "3601"
 old_path: /sport/3601/st-marys-put-to-the-sword
 aliases:
  - /sport/3601/st-marys-put-to-the-sword
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232234-tna08-942774_527955110594822_767625679_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

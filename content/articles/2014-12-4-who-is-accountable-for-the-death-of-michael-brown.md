@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nathaniel Gallop comments on the situation in Ferguson, Missouri
 date: "2014-12-04 18:29:25 +0000"
+# Attributes from Felix Online V1
 id: "4986"
 old_path: /comment/4986/who-is-accountable-for-the-death-of-michael-brown
 aliases:
  - /comment/4986/who-is-accountable-for-the-death-of-michael-brown
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041828-cj914-ferguson-mike-brown.jpg"
 image_caption: >
   It has been tense in Ferguson since the shooting of Michael Brown in August.
@@ -22,6 +27,7 @@ image_attribution: "ibtimes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

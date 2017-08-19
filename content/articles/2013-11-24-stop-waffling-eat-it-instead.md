@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Tsim tasted one and had a chat with the CEO of Wafflemeister! Read further for IC student deal!
 date: "2013-11-24 16:39:59 +0000"
+# Attributes from Felix Online V1
 id: "4131"
 old_path: /food/4131/stop-waffling-eat-it-instead
 aliases:
  - /food/4131/stop-waffling-eat-it-instead
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311271428-jal08-web_waffle-iron-front.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wafflemeister"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

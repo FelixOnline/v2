@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £3 million renovation is completed
 date: "2013-05-30 12:11:48 +0100"
+# Attributes from Felix Online V1
 id: "3642"
 old_path: /news/3642/st-marys-library-gets-revamp
 aliases:
  - /news/3642/st-marys-library-gets-revamp
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301310-tna08-st-mary-2.jpg"
 image_caption: >
   Dammit there’s ALWAYS a queue for the printer when you need it most
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

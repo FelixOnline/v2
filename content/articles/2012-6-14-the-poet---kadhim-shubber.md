@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Poet - Kadhim Shubber
 date: "2012-06-14 20:48:07 +0100"
+# Attributes from Felix Online V1
 id: "2570"
 old_path: /phoenix/2570/the-poet---kadhim-shubber
 aliases:
  - /phoenix/2570/the-poet---kadhim-shubber
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

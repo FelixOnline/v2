@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is no doubt that 47 Ronin was Universal Studio’s hope-child given its vast budget of $175-million. However, unlike The Last Samurai in whose footsteps this movie obviously attempted to follow, the difference between their respective results is stark; in fact, rather akin to that between a ...
 date: "2014-01-17 03:59:26 +0000"
+# Attributes from Felix Online V1
 id: "4248"
 old_path: /film/4248/the-last-samurai-movie-please
 aliases:
  - /film/4248/the-last-samurai-movie-please
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

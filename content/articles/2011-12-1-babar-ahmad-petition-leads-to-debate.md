@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Votable parliamentary discussion on extradition to take place on Monday
 date: "2011-12-01 21:27:24 +0000"
+# Attributes from Felix Online V1
 id: "1893"
 old_path: /news/1893/babar-ahmad-petition-leads-to-debate
 aliases:
  - /news/1893/babar-ahmad-petition-leads-to-debate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

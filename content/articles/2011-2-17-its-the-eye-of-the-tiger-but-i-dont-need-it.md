@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
+# Attributes from Felix Online V1
 id: "831"
 old_path: /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
 aliases:
  - /games/831/its-the-eye-of-the-tiger-but-i-dont-need-it
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "oh106"
 author_name: "Omar Hafeez-Bore"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

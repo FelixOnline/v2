@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Arts presents our cultural guide of what’s on this summer
 date: "2015-06-18 22:02:17 +0100"
+# Attributes from Felix Online V1
 id: "5639"
 old_path: /arts/5639/art-in-the-city-our-summer-guide
 aliases:
  - /arts/5639/art-in-the-city-our-summer-guide
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

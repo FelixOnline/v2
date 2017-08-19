@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski turns his eye to Hollywood's latest sci-fi offering
 date: "2011-05-12 16:38:45 +0100"
+# Attributes from Felix Online V1
 id: "1191"
 old_path: /film/1191/source-code
 aliases:
  - /film/1191/source-code
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

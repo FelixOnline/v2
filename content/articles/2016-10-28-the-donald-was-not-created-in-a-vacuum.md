@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shaul Rosten explains why Donald Trump’s candidacy isn’t much of a surprise after all
 date: "2016-10-28 14:59:56 +0100"
+# Attributes from Felix Online V1
 id: "6350"
 old_path: /comment/6350/the-donald-was-not-created-in-a-vacuum
 aliases:
  - /comment/6350/the-donald-was-not-created-in-a-vacuum
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311321-felix-8566718339_12e9bed54f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No Grimm faces at Shamini Bundell’s latest MTSoc offering
 date: "2011-12-01 20:26:58 +0000"
+# Attributes from Felix Online V1
 id: "1870"
 old_path: /arts/1870/a-fairytale-shredding
 aliases:
  - /arts/1870/a-fairytale-shredding
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012026-ams111-383296_989134434870_36900750_46857382_815343506_n.jpg"
 image_caption: >
   Rupert Grint turned up to the workshop in ‘costume’
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

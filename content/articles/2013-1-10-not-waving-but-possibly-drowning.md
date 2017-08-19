@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "The press release promised a man bursting through walls at full throttle, and pairs of elegant swimmers hanging just on top of the audience’s head"
 date: "2013-01-10 22:38:26 +0000"
+# Attributes from Felix Online V1
 id: "3091"
 old_path: /arts/3091/not-waving-but-possibly-drowning-
 aliases:
  - /arts/3091/not-waving-but-possibly-drowning-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102237-csw09-swimming.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dwarves are useless and can’t do anything, whilst Wood Elves and their fluid, slick gymnastic movements are awesome and humans haven’t yet had the chance to shine: that’s the message to take away from Desolation of Smaug, the second entry to Peter Jackson’s overblown Hobbit trilogy.
 date: "2014-01-17 04:10:15 +0000"
+# Attributes from Felix Online V1
 id: "4252"
 old_path: /film/4252/here-we-go-again
 aliases:
  - /film/4252/here-we-go-again
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

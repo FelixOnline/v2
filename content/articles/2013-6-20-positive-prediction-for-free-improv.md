@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Steve Noble and Ikue Mori’s new album
 date: "2013-06-20 22:59:20 +0100"
+# Attributes from Felix Online V1
 id: "3715"
 old_path: /music/3715/positive-prediction-for-free-improv
 aliases:
  - /music/3715/positive-prediction-for-free-improv
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

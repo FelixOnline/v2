@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new film about a cricket team set up by the Maasai spreads itself too thin, and fails to deliver
 date: "2015-11-15 10:51:10 +0000"
+# Attributes from Felix Online V1
 id: "5738"
 old_path: /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
 aliases:
  - /film/5738/warriors-ambitious-subject-matter-fails-to-pack-a-punch
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511151050-ff712-4928.jpg"
 image_caption: >
   Warriors charts the impact forming a cricket team has on the Maasai community
@@ -22,6 +27,7 @@ image_attribution: "Warriors Film PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After studying Physics for 4 years and completing a PhD in Neuroscience, Valeria Del Prete (a.k.a Double Thumb) quit academia to pursue her dream of making music
 date: "2010-06-14 10:35:40 +0100"
+# Attributes from Felix Online V1
 id: "144"
 old_path: /music/144/once-a-scientist-always-a-scientist
 aliases:
  - /music/144/once-a-scientist-always-a-scientist
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201006141131-ks607-DoubleTh.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

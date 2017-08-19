@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rachel Gillespie discusses the potential applications of psychedelic drugs for treating anxiety and depression
 date: "2017-01-13 14:15:14 +0000"
+# Attributes from Felix Online V1
 id: "6641"
 old_path: /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
 aliases:
  - /science/6641/its-a-kind-of-magic--psychedelic-mushroom-trip-soothes-depression-in-terminally-ill-patients
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131415-felix-15074727357_6221618cac_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Stefan Böhm Fotografie"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

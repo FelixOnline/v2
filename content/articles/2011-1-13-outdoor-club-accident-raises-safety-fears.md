@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union says students are “skilled, experienced and equipped appropriately” but eyewitness disputes Union account
 date: "2011-01-13 21:50:17 +0000"
+# Attributes from Felix Online V1
 id: "597"
 old_path: /news/597/outdoor-club-accident-raises-safety-fears-
 aliases:
  - /news/597/outdoor-club-accident-raises-safety-fears-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132147-ks607-helvelyn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

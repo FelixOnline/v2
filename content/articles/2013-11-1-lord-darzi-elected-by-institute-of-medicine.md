@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial professor becomes member of the Institute of Medicine
 date: "2013-11-01 09:11:40 +0000"
+# Attributes from Felix Online V1
 id: "3966"
 old_path: /news/3966/lord-darzi-elected-by-institute-of-medicine
 aliases:
  - /news/3966/lord-darzi-elected-by-institute-of-medicine
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010911-felix-newseventsimages.jpg"
 image_caption: >
   Professor Lord Ara Darzi
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

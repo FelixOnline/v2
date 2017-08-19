@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Excellent scramble defence kept Surrey just short of the line
 date: "2017-02-10 16:43:25 +0000"
+# Attributes from Felix Online V1
 id: "6775"
 old_path: /sport/6775/a-new-hope--first-victory-of-2017-
 aliases:
  - /sport/6775/a-new-hope--first-victory-of-2017-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101642-felix-IMG_20170201_165026_889.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

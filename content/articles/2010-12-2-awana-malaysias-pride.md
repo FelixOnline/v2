@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The best (roti) tissue you’ll find in London
 date: "2010-12-02 20:58:48 +0000"
+# Attributes from Felix Online V1
 id: "482"
 old_path: /food/482/awana-malaysias-pride
 aliases:
  - /food/482/awana-malaysias-pride
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022056-nm1010-awanaawa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "dhl106"
 author_name: "Dana Li"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

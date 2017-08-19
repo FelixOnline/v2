@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Should all scientific papers be openly available to anyone?
 date: "2016-06-10 08:24:30 +0100"
+# Attributes from Felix Online V1
 id: "6254"
 old_path: /science/6254/making-all-science-open-access-by-2020
 aliases:
  - /science/6254/making-all-science-open-access-by-2020
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101024-felix-2349632397_e2da522f85_o.jpg"
 image_caption: >
   Nic McPhee
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

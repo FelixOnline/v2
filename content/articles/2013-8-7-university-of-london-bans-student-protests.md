@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The breakdown in the relationship between the University of London and the University of London Union continues as the University bans student protests on its property.
 date: "2013-08-07 08:30:10 +0100"
+# Attributes from Felix Online V1
 id: "3748"
 old_path: /news/3748/university-of-london-bans-student-protests
 aliases:
  - /news/3748/university-of-london-bans-student-protests
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308070927-jal08-2013-08-02-img_1457.jpg"
 image_caption: >
   ... but leaving out punctuation is!
@@ -22,6 +27,7 @@ image_attribution: "Oscar Webb"
 image_attribution_link: "http://www.huffingtonpost.co.uk/james-burley/protest-as-student-chalke_b_3697641.html"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

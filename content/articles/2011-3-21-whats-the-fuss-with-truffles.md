@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Furse explores the delights of this special treat
 date: "2011-03-21 10:55:12 +0000"
+# Attributes from Felix Online V1
 id: "1119"
 old_path: /food/1119/whats-the-fuss-with-truffles
 aliases:
  - /food/1119/whats-the-fuss-with-truffles
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/chrisblakeley"
 image_attribution_link: "http://www.flickr.com/photos/csb13/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

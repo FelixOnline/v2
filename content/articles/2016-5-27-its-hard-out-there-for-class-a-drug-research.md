@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial psychiatrist talks to FELIX about the difficulties of psychedelic research
 date: "2016-05-27 08:49:56 +0100"
+# Attributes from Felix Online V1
 id: "6207"
 old_path: /science/6207/its-hard-out-there-for-class-a-drug-research-
 aliases:
  - /science/6207/its-hard-out-there-for-class-a-drug-research-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

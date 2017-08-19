@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What would happen if the next UK Government Chief Scientific Adviser (GCSA) was elected through a public vote? That’s exactly what a group of us from the science communication masters are attempting to find out.
 date: "2014-03-17 17:22:27 +0000"
+# Attributes from Felix Online V1
 id: "4484"
 old_path: /features/4484/should-the-role-of-government-chief-scientific-advisor-be-democratised
 aliases:
  - /features/4484/should-the-role-of-government-chief-scientific-advisor-be-democratised
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403181922-jal08-votegcsa.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

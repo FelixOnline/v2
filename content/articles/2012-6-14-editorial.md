@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Editorial
 date: "2012-06-14 20:02:27 +0100"
+# Attributes from Felix Online V1
 id: "2555"
 old_path: /phoenix/2555/editorial
 aliases:
  - /phoenix/2555/editorial
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142102-pk1811-cover.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

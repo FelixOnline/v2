@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-10 08:32:30 +0100"
+# Attributes from Felix Online V1
 id: "6262"
 old_path: /film/6262/documentary-corner-portrait-of-jason
 aliases:
  - /film/6262/documentary-corner-portrait-of-jason
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101032-felix-poj054.jpg"
 image_caption: >
   Jason Holliday, who cuts a beguiling figure at the centre of Shirley Clarke's Portrait of Jason.
@@ -22,6 +27,7 @@ image_attribution: "Project Shirley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

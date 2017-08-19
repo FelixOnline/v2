@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on the recent North Acton announcement. Unfortunately space meant some points had to be stressed rather than touching on all the issues. There are more problems than those mentioned here.
 date: "2013-02-21 23:15:39 +0000"
+# Attributes from Felix Online V1
 id: "3346"
 old_path: /comment/3346/college-are-acton-up
 aliases:
  - /comment/3346/college-are-acton-up
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

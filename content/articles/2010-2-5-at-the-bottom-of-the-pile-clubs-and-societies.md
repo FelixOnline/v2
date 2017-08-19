@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dan Wan investigates how the Union will act in response to the now necessary College cuts
 date: "2010-02-05 15:33:51 +0000"
+# Attributes from Felix Online V1
 id: "75"
 old_path: /news/75/at-the-bottom-of-the-pile-clubs-and-societies
 aliases:
  - /news/75/at-the-bottom-of-the-pile-clubs-and-societies
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002051530-rsp07-beithall.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

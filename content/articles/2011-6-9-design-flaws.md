@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stpryasfipjadf
 date: "2011-06-09 18:13:54 +0100"
+# Attributes from Felix Online V1
 id: "1330"
 old_path: /phoenix/1330/design-flaws
 aliases:
  - /phoenix/1330/design-flaws
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106091910-felix-rocio-molina-(double-face)2.jpg"
 image_caption: >
   Rocio Molina
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

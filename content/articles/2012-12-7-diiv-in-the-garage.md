@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This article includes a burn to the Vaccines.
 date: "2012-12-07 03:42:29 +0000"
+# Attributes from Felix Online V1
 id: "3069"
 old_path: /music/3069/diiv-in-the-garage
 aliases:
  - /music/3069/diiv-in-the-garage
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070340-tna08-diiv---danny-krug.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam finally gets his hands on a Macbook Air
 date: "2012-03-01 21:18:03 +0000"
+# Attributes from Felix Online V1
 id: "2272"
 old_path: /tech/2272/perfection-at-a-premium
 aliases:
  - /tech/2272/perfection-at-a-premium
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

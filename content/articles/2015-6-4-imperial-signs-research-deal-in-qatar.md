@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports on the recent agreement between Imperial College London, Qatar University and Qatar Shell Research and Technology Centre
 date: "2015-06-04 23:14:32 +0100"
+# Attributes from Felix Online V1
 id: "5595"
 old_path: /news/5595/imperial-signs-research-deal-in-qatar
 aliases:
  - /news/5595/imperial-signs-research-deal-in-qatar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050013-cj914-pipeline-corrosion.jpg"
 image_caption: >
   Corrosion of pipelines has been a technical challenge for Qatari industries.
@@ -22,6 +27,7 @@ image_attribution: "knovel.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

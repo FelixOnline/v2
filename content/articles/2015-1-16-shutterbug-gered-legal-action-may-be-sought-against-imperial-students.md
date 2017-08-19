@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Photobooth damage has angered hiring company
 date: "2015-01-16 12:50:01 +0000"
+# Attributes from Felix Online V1
 id: "5088"
 old_path: /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
 aliases:
  - /news/5088/shutterbug-gered-legal-action-may-be-sought-against-imperial-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161249-ps3110-screen-shot-2015-01-16-at-12.50.07.png"
 image_caption: >
   A selection of photographs taken by the photobooth before the damage was done. These were not the im
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

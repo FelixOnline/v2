@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Savell avoids sticking a knife in his eye at the Jam Cupboard
 date: "2012-11-09 12:34:42 +0000"
+# Attributes from Felix Online V1
 id: "2848"
 old_path: /food/2848/preserving-your-judgement
 aliases:
  - /food/2848/preserving-your-judgement
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

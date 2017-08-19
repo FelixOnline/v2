@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student body remains unimpressed
 date: "2017-02-10 13:37:43 +0000"
+# Attributes from Felix Online V1
 id: "6743"
 old_path: /news/6743/-union-bars-get-new-tills
 aliases:
  - /news/6743/-union-bars-get-new-tills
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

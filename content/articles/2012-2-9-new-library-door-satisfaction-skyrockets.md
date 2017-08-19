@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Impeccable building work hailed as new entrance doors experience no problems whatsoever
 date: "2012-02-09 23:13:22 +0000"
+# Attributes from Felix Online V1
 id: "2173"
 old_path: /comment/2173/new-library-door-satisfaction-skyrockets
 aliases:
  - /comment/2173/new-library-door-satisfaction-skyrockets
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092312-felix-dsc_6612.jpg"
 image_caption: >
   A 'stunning coup' for students
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

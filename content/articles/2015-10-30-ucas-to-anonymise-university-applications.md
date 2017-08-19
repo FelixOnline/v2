@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Graduate employers have also committed to anonymising candidates
 date: "2015-10-30 12:28:28 +0000"
+# Attributes from Felix Online V1
 id: "5682"
 old_path: /news/5682/ucas-to-anonymise-university-applications
 aliases:
  - /news/5682/ucas-to-anonymise-university-applications
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301228-ygr12-cameron-approves.jpg"
 image_caption: >
   Cameron supports anti-bias measures and tax credit cuts
@@ -22,6 +27,7 @@ image_attribution: "Reuters"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

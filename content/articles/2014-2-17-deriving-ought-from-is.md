@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’
 date: "2014-02-17 17:24:07 +0000"
+# Attributes from Felix Online V1
 id: "4392"
 old_path: /comment/4392/deriving-ought-from-is
 aliases:
  - /comment/4392/deriving-ought-from-is
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

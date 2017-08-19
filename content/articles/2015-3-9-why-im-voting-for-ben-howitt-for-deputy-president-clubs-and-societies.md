@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman talks us through why she thinks Ben Howitt should be DPCS next year
 date: "2015-03-09 14:15:32 +0000"
+# Attributes from Felix Online V1
 id: "5367"
 old_path: /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
 aliases:
  - /comment/5367/why-im-voting-for-ben-howitt-for-deputy-president-clubs-and-societies
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091441-ps3110-screen-shot-2015-03-09-at-14.40.42.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

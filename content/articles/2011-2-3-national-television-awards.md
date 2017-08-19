@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Seriously, what television were they watching?
 date: "2011-02-03 20:29:15 +0000"
+# Attributes from Felix Online V1
 id: "747"
 old_path: /tv/747/national-television-awards
 aliases:
  - /tv/747/national-television-awards
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032023-dr910-vickyvic.jpg"
 image_caption: >
   Oh fuck off
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

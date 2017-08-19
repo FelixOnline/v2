@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Review of Imperial College's Drama Society adaptation
 date: "2011-02-17 19:02:15 +0000"
+# Attributes from Felix Online V1
 id: "810"
 old_path: /arts/810/imperial-colleges-vagina-monologues
 aliases:
  - /arts/810/imperial-colleges-vagina-monologues
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171858-nm1010-vaginamo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

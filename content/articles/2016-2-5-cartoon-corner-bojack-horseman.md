@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular column on our favourite animation
 date: "2016-02-05 12:48:20 +0000"
+# Attributes from Felix Online V1
 id: "5884"
 old_path: /tv/5884/cartoon-corner-bojack-horseman
 aliases:
  - /tv/5884/cartoon-corner-bojack-horseman
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051247-felix-Netflix-BoJack-Horseman-Opening-Credits-Theme-Song-HD.jpg"
 image_caption: >
   A has-been actor, drinking away his problems.
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

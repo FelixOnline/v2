@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Well, they’re in The Thick of It now...
 date: "2011-11-03 20:22:50 +0000"
+# Attributes from Felix Online V1
 id: "1664"
 old_path: /tv/1664/thought-the-government-were-in-trouble
 aliases:
  - /tv/1664/thought-the-government-were-in-trouble
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032022-pk1811-in-the-thick-of-it.jpg"
 image_caption: >
   Constipation has become a serious issue in 2012’s government
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

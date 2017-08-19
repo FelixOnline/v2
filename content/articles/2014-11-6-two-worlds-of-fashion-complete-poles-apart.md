@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographer’s Gallery to see what’s trendy
 date: "2014-11-06 21:28:26 +0000"
+# Attributes from Felix Online V1
 id: "4802"
 old_path: /arts/4802/two-worlds-of-fashion-complete-poles-apart
 aliases:
  - /arts/4802/two-worlds-of-fashion-complete-poles-apart
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062127-snb11-screen-shot-2014-11-05-at-14.25.45.png"
 image_caption: >
   Vanity Fair, 1st February, 1924
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

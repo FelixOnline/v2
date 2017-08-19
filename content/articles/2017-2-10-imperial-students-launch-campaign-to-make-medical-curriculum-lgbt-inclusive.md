@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Wilkinson discusses the lack of LGBT training in the NHS and the steps that are taken to improve services for the queer community
 date: "2017-02-10 13:39:10 +0000"
+# Attributes from Felix Online V1
 id: "6744"
 old_path: /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
 aliases:
  - /news/6744/imperial-students-launch-campaign-to-make-medical-curriculum-lgbt-inclusive
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101338-felix-9941609134_f0f40a4663_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

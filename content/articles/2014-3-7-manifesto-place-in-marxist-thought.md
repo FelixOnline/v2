@@ -4,15 +4,20 @@ title: >
 subtitle: >
   To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task.
 date: "2014-03-07 04:54:18 +0000"
+# Attributes from Felix Online V1
 id: "4460"
 old_path: /comment/4460/manifesto-place-in-marxist-thought
 aliases:
  - /comment/4460/manifesto-place-in-marxist-thought
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

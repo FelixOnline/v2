@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pop Cosmos proves the collective are still kind of relevant
 date: "2016-05-27 08:58:26 +0100"
+# Attributes from Felix Online V1
 id: "6214"
 old_path: /music/6214/pc-music-are-not-dead
 aliases:
  - /music/6214/pc-music-are-not-dead
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271058-felix-pcmusic.jpg"
 image_caption: >
   Sometimes I wish PC Music were sent on a rocket into space, never to return.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

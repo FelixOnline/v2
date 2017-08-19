@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Helen McCrory thrives in this passionate revival of Rattigan’s masterpiece
 date: "2016-06-17 09:30:12 +0100"
+# Attributes from Felix Online V1
 id: "6283"
 old_path: /arts/6283/the-deep-blue-sea-at-the-national
 aliases:
  - /arts/6283/the-deep-blue-sea-at-the-national
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171129-felix-deepbluesea.jpg"
 image_caption: >
   Dark Passions – Tom Burke and Helen McCrory in The Deep Blue Sea.
@@ -22,6 +27,7 @@ image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

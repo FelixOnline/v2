@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National Gallery in a way you've never seen before
 date: "2011-10-21 11:25:40 +0100"
+# Attributes from Felix Online V1
 id: "1598"
 old_path: /arts/1598/shots-of-art
 aliases:
  - /arts/1598/shots-of-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211223-felix-sandrobotticelli2.jpg"
 image_caption: >
   What do you think Venus and Mars have just finished? Rose can tell you
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

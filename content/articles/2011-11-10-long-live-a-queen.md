@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maintaining a misogynist monarchy
 date: "2011-11-10 20:18:00 +0000"
+# Attributes from Felix Online V1
 id: "1710"
 old_path: /politics/1710/long-live-a-queen
 aliases:
  - /politics/1710/long-live-a-queen
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102017-pk1811-2ndclassstamp---large.jpg"
 image_caption: >
   Not willing to say anything incriminatory – so here’s a picture of the Queen
@@ -22,6 +27,7 @@ image_attribution: "flickr/incurable_hippie"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

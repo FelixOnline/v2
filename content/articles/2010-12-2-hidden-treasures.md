@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The best venues in London for gigging off the beaten track
 date: "2010-12-02 20:56:36 +0000"
+# Attributes from Felix Online V1
 id: "481"
 old_path: /music/481/hidden-treasures
 aliases:
  - /music/481/hidden-treasures
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022053-ac1507-mmejojos.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cer08"
 author_name: "Charlotte Ridler"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

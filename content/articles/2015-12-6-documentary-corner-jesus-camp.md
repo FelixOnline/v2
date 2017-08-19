@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
+# Attributes from Felix Online V1
 id: "5807"
 old_path: /film/5807/documentary-corner-jesus-camp
 aliases:
  - /film/5807/documentary-corner-jesus-camp
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061442-ff712-JesusCamp1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jesus Camp PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

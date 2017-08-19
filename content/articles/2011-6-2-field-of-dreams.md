@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber continues the Felix Summer Festival Guide with a preview of East London’s Field Day
 date: "2011-06-02 20:03:54 +0100"
+# Attributes from Felix Online V1
 id: "1315"
 old_path: /music/1315/field-of-dreams
 aliases:
  - /music/1315/field-of-dreams
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022103-felix-photo-7.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

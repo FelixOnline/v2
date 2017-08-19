@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The American Dream: pop to the present is on at the British Museum until 18th June
 date: "2017-03-17 17:09:47 +0000"
+# Attributes from Felix Online V1
 id: "6912"
 old_path: /arts/6912/the-american-dream--prints-exposing-us-consumerism
 aliases:
  - /arts/6912/the-american-dream--prints-exposing-us-consumerism
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171709-felix-Jackie.jpg"
 image_caption: >
   Andy Warhol, Jackie II (Jacqueline Kennedy II), from 11 Pop Artists, vol. II, 1965, published 1966, colour screenprint
@@ -22,6 +27,7 @@ image_attribution: "2016 The Andy Warhol Foundation for the Visual Arts, Inc. / 
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

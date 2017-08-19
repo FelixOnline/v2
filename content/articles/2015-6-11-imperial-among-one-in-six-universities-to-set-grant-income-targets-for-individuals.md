@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Times Higher Education findings
 date: "2015-06-11 22:10:39 +0100"
+# Attributes from Felix Online V1
 id: "5609"
 old_path: /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
 aliases:
  - /news/5609/imperial-among-one-in-six-universities-to-set-grant-income-targets-for-individuals
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112309-cj914-imperial.jpg"
 image_caption: >
   Individual targets have been criticised.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

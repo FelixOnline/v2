@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new clinical trial from joint research with Imperial College and King’s College could bring an end to the summer sneezing
 date: "2012-10-22 12:18:16 +0100"
+# Attributes from Felix Online V1
 id: "2728"
 old_path: /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
 aliases:
  - /science/2728/suffer-from-hayfever-a-solution-may-be-at-hand
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210221618-tna08-science-web-picture.jpg"
 image_caption: >
   High Pollen days per region. Yellow = Birch. Brown = Grass. Red = Nettle.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

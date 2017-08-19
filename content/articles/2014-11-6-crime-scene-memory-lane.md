@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nick Famer explores Imperial's sordid history
 date: "2014-11-06 18:42:25 +0000"
+# Attributes from Felix Online V1
 id: "4766"
 old_path: /comment/4766/crime-scene-memory-lane
 aliases:
  - /comment/4766/crime-scene-memory-lane
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102227-ps3110-img_0626_690x518.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

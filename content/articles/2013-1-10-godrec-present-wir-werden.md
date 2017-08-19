@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray explores apocalyptic wastelands through noise
 date: "2013-01-10 22:47:42 +0000"
+# Attributes from Felix Online V1
 id: "3094"
 old_path: /music/3094/godrec-present-wir-werden
 aliases:
  - /music/3094/godrec-present-wir-werden
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102247-csw09-rdecaraketa_ww_bw1_zoefotog.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

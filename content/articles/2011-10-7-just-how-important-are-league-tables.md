@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
+# Attributes from Felix Online V1
 id: "1483"
 old_path: /comment/1483/just-how-important-are-league-tables
 aliases:
  - /comment/1483/just-how-important-are-league-tables
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Changes to university funding require Imperial to act fast
 date: "2010-11-11 21:50:35 +0000"
+# Attributes from Felix Online V1
 id: "368"
 old_path: /biz/368/imperial-needs-to-start-raising-serious-money-
 aliases:
  - /biz/368/imperial-needs-to-start-raising-serious-money-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112148-ks607-endowmen.jpg"
 image_caption: >
   That's one hell of an endowment...
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

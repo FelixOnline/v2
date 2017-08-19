@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
+# Attributes from Felix Online V1
 id: "2509"
 old_path: /news/2509/privatisation-the-ministry-interfering-at-hogwarts
 aliases:
  - /news/2509/privatisation-the-ministry-interfering-at-hogwarts
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011320-mc4509-daviddeply.jpg"
 image_caption: >
   David Delpy, CEO of the EPSRC and Gordon Brown
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

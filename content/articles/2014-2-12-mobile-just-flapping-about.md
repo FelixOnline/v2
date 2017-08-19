@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Contemplating the demise of yet another game.
 date: "2014-02-12 11:39:02 +0000"
+# Attributes from Felix Online V1
 id: "4369"
 old_path: /games/4369/mobile-just-flapping-about
 aliases:
  - /games/4369/mobile-just-flapping-about
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201402121137-me1711-games_flappy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Uncharted 4 sets the course for the future of gaming realism
 date: "2016-05-27 08:59:22 +0100"
+# Attributes from Felix Online V1
 id: "6215"
 old_path: /games/6215/escaping-the-uncanny-valley
 aliases:
  - /games/6215/escaping-the-uncanny-valley
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271059-felix-uncharted42.jpg"
 image_caption: >
   Uncharted 4 and chill.
@@ -22,6 +27,7 @@ image_attribution: "Naughty Dog"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

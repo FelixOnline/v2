@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Cribs are as vital as they have ever been before
 date: "2012-11-01 23:10:38 +0000"
+# Attributes from Felix Online V1
 id: "2814"
 old_path: /music/2814/the-cribs-are-back-on-top
 aliases:
  - /music/2814/the-cribs-are-back-on-top
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012310-tna08-the-cribs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dylan Lowe on the delights of a country which is both naturally beautiful and an adrenalin junkie's paradise
 date: "2011-03-01 21:15:46 +0000"
+# Attributes from Felix Online V1
 id: "967"
 old_path: /travel/967/regal-charms-of-new-zealand
 aliases:
  - /travel/967/regal-charms-of-new-zealand
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

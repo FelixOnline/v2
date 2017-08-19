@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey is perpetually disappointed by Sport Imperial’s attitude to women in sport
 date: "2016-11-04 14:34:52 +0000"
+# Attributes from Felix Online V1
 id: "6394"
 old_path: /comment/6394/imperial-girls-can-do-without-sport-imperial
 aliases:
  - /comment/6394/imperial-girls-can-do-without-sport-imperial
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041429-felix-Screen Shot 2016-11-04 at 14.28.57.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

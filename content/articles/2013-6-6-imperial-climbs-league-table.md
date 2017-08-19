@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cambridge on top, but Imperial claws back a few places to finish ninth in the Guardian league table.
 date: "2013-06-06 18:47:08 +0100"
+# Attributes from Felix Online V1
 id: "3668"
 old_path: /news/3668/imperial-climbs-league-table
 aliases:
  - /news/3668/imperial-climbs-league-table
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306061949-tna08-league-table-cliff-face-final_final.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Games is back with Max Eggl reviewing indie hit Running with Rifles
 date: "2015-05-29 12:20:44 +0100"
+# Attributes from Felix Online V1
 id: "5588"
 old_path: /games/5588/squad-go-go-go
 aliases:
  - /games/5588/squad-go-go-go
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291320-cj914-running-with-rifles-pc-screenshot-www.ovagames.com-3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

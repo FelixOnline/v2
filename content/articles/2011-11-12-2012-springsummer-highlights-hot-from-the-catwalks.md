@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Winter may have just begun, but the Fashion World already cannot wait for sunnier days. Saskia Verhagen and Alice Yang bring you the best from September’s catwalks
 date: "2011-11-12 17:25:06 +0000"
+# Attributes from Felix Online V1
 id: "1753"
 old_path: /fashion/1753/2012-springsummer-highlights-hot-from-the-catwalks
 aliases:
  - /fashion/1753/2012-springsummer-highlights-hot-from-the-catwalks
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111121725-felix-alexander-mcqueen-spring-2012-rtw-podium-010_runway.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

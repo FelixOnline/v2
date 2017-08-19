@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our highlights and picks from the year's biggest gadget exhibition straight out of the City of Sin
 date: "2010-01-14 16:18:30 +0000"
+# Attributes from Felix Online V1
 id: "30"
 old_path: /tech/30/consumer-electronics-show-2010
 aliases:
  - /tech/30/consumer-electronics-show-2010
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002191157-srg03-CESLogo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

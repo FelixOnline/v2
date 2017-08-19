@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on music as a futile interrogation of the state of the world
 date: "2012-02-03 11:20:29 +0000"
+# Attributes from Felix Online V1
 id: "2131"
 old_path: /music/2131/no-exit-from-reality
 aliases:
  - /music/2131/no-exit-from-reality
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

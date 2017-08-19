@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle is on hand as College win close encounter in Women's match at The Stoop.
 date: "2015-03-19 23:41:39 +0000"
+# Attributes from Felix Online V1
 id: "5405"
 old_path: /sport/5405/late-resurgence-not-good-enough-for-medics
 aliases:
  - /sport/5405/late-resurgence-not-good-enough-for-medics
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192341-kmw13-tbl_varsity_quick_set_22h34m50s.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Science recaps what went on in the world outside revision and the library. Just to annoy you, we've not gone for the non-alphabetical order of the names.
 date: "2013-05-01 19:11:16 +0100"
+# Attributes from Felix Online V1
 id: "3519"
 old_path: /science/3519/what-you-missed-in-science-
 aliases:
  - /science/3519/what-you-missed-in-science-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012002-tna08-mars-rover-penis.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

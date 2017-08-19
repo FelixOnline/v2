@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Taekwondo in medal haul at the WTF London International open
 date: "2012-02-16 23:26:48 +0000"
+# Attributes from Felix Online V1
 id: "2220"
 old_path: /sport/2220/kicking-up-a-storm-
 aliases:
  - /sport/2220/kicking-up-a-storm-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162326-sjw209-dsc_0020.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Taekwondo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

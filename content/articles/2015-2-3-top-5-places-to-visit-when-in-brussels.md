@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the capital of Belgium
 date: "2015-02-03 14:11:50 +0000"
+# Attributes from Felix Online V1
 id: "5181"
 old_path: /travel/5181/top-5-places-to-visit-when-in-brussels
 aliases:
  - /travel/5181/top-5-places-to-visit-when-in-brussels
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031412-ps3110-screen-shot-2015-02-03-at-14.11.44.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

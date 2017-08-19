@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ribbon ninjas!
 date: "2016-03-18 12:00:36 +0000"
+# Attributes from Felix Online V1
 id: "6072"
 old_path: /music/6072/grimes-electrifies-at-brixton
 aliases:
  - /music/6072/grimes-electrifies-at-brixton
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181200-felix-grimes3.jpg"
 image_caption: >
   Claire Boucher and her crew.
@@ -22,6 +27,7 @@ image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

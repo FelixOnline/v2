@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They’ve been here since Saturday
 date: "2015-10-26 13:10:35 +0000"
+# Attributes from Felix Online V1
 id: "5680"
 old_path: /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
 aliases:
  - /news/5680/we-talk-to-the-mega-fans-who-camped-out-on-prince-consort-road-for-the-bond-premiere
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510261257-ygr12-queues.jpg"
 image_caption: >
   View of the queue this morning outside Beit.
@@ -22,6 +27,7 @@ image_attribution: "Grace Rahman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

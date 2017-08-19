@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt lets us know why he loves mental health musical Next To Normal
 date: "2015-03-06 13:27:59 +0000"
+# Attributes from Felix Online V1
 id: "5351"
 old_path: /arts/5351/my-favourite-musical--next-to-normal
 aliases:
  - /arts/5351/my-favourite-musical--next-to-normal
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061322-ff712-ntn645.jpg"
 image_caption: >
   The cast of award-winning musical Next To Normal
@@ -22,6 +27,7 @@ image_attribution: "Craig Schwartz"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

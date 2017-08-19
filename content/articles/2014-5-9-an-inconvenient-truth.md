@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s a great shame that Yari Film Group Releasing had to declare bankruptcy just before the release of Nothing but the Truth. This meant that the sharply-written, well-acted, legal/political thriller would never get a proper wide release date in the States or anywhere else in the world.
 date: "2014-05-09 15:20:53 +0100"
+# Attributes from Felix Online V1
 id: "4586"
 old_path: /film/4586/an-inconvenient-truth
 aliases:
  - /film/4586/an-inconvenient-truth
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405091620-jal08-verdade3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

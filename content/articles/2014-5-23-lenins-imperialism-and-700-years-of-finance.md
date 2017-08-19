@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christy Kelly takes a look at 700 years of Finance
 date: "2014-05-23 13:50:56 +0100"
+# Attributes from Felix Online V1
 id: "4620"
 old_path: /comment/4620/lenins-imperialism-and-700-years-of-finance
 aliases:
  - /comment/4620/lenins-imperialism-and-700-years-of-finance
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231451-jal08-lenin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

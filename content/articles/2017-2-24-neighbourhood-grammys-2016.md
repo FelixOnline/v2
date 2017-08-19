@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Once again we have reached that time of the year, when the weather is bad and the Grammy’s decision-making skills are even worse. Thankfully Jamell Samuels and Le Osikomaiya have linked up for the 2nd Annual NeighbourHOOD Grammys 2017, bringing through two new bruddas onto the committee: Andy Djaba
 date: "2017-02-24 14:58:34 +0000"
+# Attributes from Felix Online V1
 id: "6824"
 old_path: /music/6824/neighbourhood-grammys-2016
 aliases:
  - /music/6824/neighbourhood-grammys-2016
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241509-felix-16776192_10155009221659282_117277352_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

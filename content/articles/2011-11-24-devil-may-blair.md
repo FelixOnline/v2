@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The memoirs of Chris Mullin MP are brought to the stage to give a revealing account of the goings-on behind the scenes during the Blair years
 date: "2011-11-24 22:30:20 +0000"
+# Attributes from Felix Online V1
 id: "1835"
 old_path: /arts/1835/devil-may-blair
 aliases:
  - /arts/1835/devil-may-blair
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242230-pk1811-phillippa-wilson-john-hodgkinson-hywel-morgan-tracy-gillman-and-jim-kitson-in-a-walk-on-part.jpg"
 image_caption: >
   The judges weren’t impressed by Matt’s offering for the village talent show
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

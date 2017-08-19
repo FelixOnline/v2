@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Let’s be realistic. Should you take them and are they legal?
 date: "2016-05-20 09:02:33 +0100"
+# Attributes from Felix Online V1
 id: "6179"
 old_path: /features/6179/felix-investigates-study-drugs
 aliases:
  - /features/6179/felix-investigates-study-drugs
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201100-felix-20160518_121524.jpg"
 image_caption: >
   Their website looks legit, but this is all about to become really illegal.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

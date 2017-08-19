@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix's resident Sports Editor studies Imperial's sporting past
 date: "2011-11-03 22:12:22 +0000"
+# Attributes from Felix Online V1
 id: "1700"
 old_path: /sport/1700/1500-weeks-of-sport
 aliases:
  - /sport/1700/1500-weeks-of-sport
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

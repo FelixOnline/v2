@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Circassia, a spinoff company from an Imperial lab discovery in 2006 has announced that it plans to float on the London Stock Exchange. It hopes to raise approximately £175 million in the initial public offering.
 date: "2014-02-07 05:00:33 +0000"
+# Attributes from Felix Online V1
 id: "4355"
 old_path: /news/4355/imperial-spin-off-seeks-175m-in-stock-market-ipo
 aliases:
  - /news/4355/imperial-spin-off-seeks-175m-in-stock-market-ipo
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

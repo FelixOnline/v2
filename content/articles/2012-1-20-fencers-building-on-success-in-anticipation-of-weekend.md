@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Women’s 2nds dispatch Portsmouth 1sts with ease
 date: "2012-01-20 12:06:04 +0000"
+# Attributes from Felix Online V1
 id: "2040"
 old_path: /sport/2040/fencers-building-on-success-in-anticipation-of-weekend
 aliases:
  - /sport/2040/fencers-building-on-success-in-anticipation-of-weekend
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201201205-felix-img_8922.jpg"
 image_caption: >
   Off-target! Such a rare occurence in foil
@@ -22,6 +27,7 @@ image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

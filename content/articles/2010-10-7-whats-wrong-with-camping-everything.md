@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All waterproofs are waterproof. The million-dollar question is for how long?
 date: "2010-10-07 22:57:31 +0100"
+# Attributes from Felix Online V1
 id: "182"
 old_path: /comment/182/whats-wrong-with-camping-everything
 aliases:
  - /comment/182/whats-wrong-with-camping-everything
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104181152-felix-4845436294_7e683729ec_b.jpg"
 image_caption: >
   Eugh...
@@ -22,6 +27,7 @@ image_attribution: "flickr/dtwigg98"
 image_attribution_link: "http://www.flickr.com/photos/dtwigg98/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

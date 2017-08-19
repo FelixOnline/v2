@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Katherine Portilla takes a look at Scotland’s finest weekend
 date: "2011-06-16 20:49:40 +0100"
+# Attributes from Felix Online V1
 id: "1399"
 old_path: /music/1399/t-in-the-park
 aliases:
  - /music/1399/t-in-the-park
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162148-felix-sna100711-682_1083141a.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

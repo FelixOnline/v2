@@ -4,15 +4,20 @@ title: >
 subtitle: >
   For possibly the first time, all three of our drama societies are staging shows written by Imperial students. We meet the playwrights to talk about their productions
 date: "2010-11-25 20:20:43 +0000"
+# Attributes from Felix Online V1
 id: "428"
 old_path: /arts/428/imperial-talent-class-of-10
 aliases:
  - /arts/428/imperial-talent-class-of-10
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252018-nm1010-Imperial.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rm1509"
 author_name: "Roxanne Middleton"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

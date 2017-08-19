@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time travelling, platformer...what is there not to like?
 date: "2014-01-29 16:39:55 +0000"
+# Attributes from Felix Online V1
 id: "4307"
 old_path: /games/4307/time-to-pack-out-braid
 aliases:
  - /games/4307/time-to-pack-out-braid
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401291639-me1711-games_braid.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Rosenthal goes all Art Attack
 date: "2013-02-13 17:00:05 +0000"
+# Attributes from Felix Online V1
 id: "3313"
 old_path: /arts/3313/back-to-collage
 aliases:
  - /arts/3313/back-to-collage
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131659-tna08-sc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

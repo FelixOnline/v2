@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli gives us a selection of the best shows for unwinding
 date: "2014-12-04 19:16:42 +0000"
+# Attributes from Felix Online V1
 id: "4994"
 old_path: /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
 aliases:
  - /tv/4994/revision-101-a-short-television-guide-to-20-minute-breaks
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041916-cj914-friends.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

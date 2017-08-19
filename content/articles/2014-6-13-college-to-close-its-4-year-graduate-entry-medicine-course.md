@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College has recently announced the closure of the 4-year fast track graduate-entry medicine course.
 date: "2014-06-13 03:03:09 +0100"
+# Attributes from Felix Online V1
 id: "4690"
 old_path: /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
 aliases:
  - /news/4690/college-to-close-its-4-year-graduate-entry-medicine-course
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406130403-jal08-screen-shot-2014-06-13-at-04.03.26.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

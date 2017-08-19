@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:30:48 +0100"
+# Attributes from Felix Online V1
 id: "3620"
 old_path: /news/3620/imperial-students-win-trip-to-rotterdam
 aliases:
  - /news/3620/imperial-students-win-trip-to-rotterdam
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232330-tna08-pic-8741719026_8b4a130005.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

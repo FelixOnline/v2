@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The underlying narrative of the album tells the true story of the life of J. Cole’s late friend James McMillan
 date: "2016-12-16 14:58:25 +0000"
+# Attributes from Felix Online V1
 id: "6608"
 old_path: /music/6608/4-your-eyez-only-j-cole-review
 aliases:
  - /music/6608/4-your-eyez-only-j-cole-review
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161458-felix-4_Your_Eyes_Only.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dreamville Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

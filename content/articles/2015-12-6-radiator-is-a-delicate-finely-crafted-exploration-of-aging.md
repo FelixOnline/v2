@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Director Tom Fisher mines a rich personal seam for his heart-wrenching debut feature
 date: "2015-12-06 14:23:08 +0000"
+# Attributes from Felix Online V1
 id: "5803"
 old_path: /film/5803/radiator-is-a-delicate-finely-crafted-exploration-of-aging
 aliases:
  - /film/5803/radiator-is-a-delicate-finely-crafted-exploration-of-aging
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061422-ff712-cdm_radiator_stills_058.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Radiator PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

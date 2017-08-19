@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Fulham reviews a better Sex and the City?
 date: "2013-03-15 01:18:28 +0000"
+# Attributes from Felix Online V1
 id: "3472"
 old_path: /tv/3472/who-run-the-world
 aliases:
  - /tv/3472/who-run-the-world
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150307-tna08-hbo-s-girls-is-the-best-new-tv-show-of-2012.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

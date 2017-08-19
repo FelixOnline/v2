@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The world cannot afford to let science be repressed again
 date: "2017-02-10 14:09:09 +0000"
+# Attributes from Felix Online V1
 id: "6754"
 old_path: /science/6754/science-wont-be-trumped
 aliases:
  - /science/6754/science-wont-be-trumped
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101409-felix-14496866427_82e07994f0_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Pabak Sarkar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

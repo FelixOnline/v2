@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Claire Boucher's latest album is full of bangers
 date: "2015-11-13 14:35:31 +0000"
+# Attributes from Felix Online V1
 id: "5728"
 old_path: /music/5728/grimes-radiant-art-angels
 aliases:
  - /music/5728/grimes-radiant-art-angels
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131430-cet13-grimes.jpg"
 image_caption: >
   Grimes returns three-eyed and chirpy.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
 author_image_path: "img/upload/201610151549-cet13-cet13.png"

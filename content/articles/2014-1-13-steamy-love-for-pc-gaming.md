@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giving wants to give credit to where its due
 date: "2014-01-13 12:47:34 +0000"
+# Attributes from Felix Online V1
 id: "4206"
 old_path: /games/4206/steamy-love-for-pc-gaming
 aliases:
  - /games/4206/steamy-love-for-pc-gaming
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401131247-me1711-games_steam.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

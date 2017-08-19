@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But don’t let that fool you supposing that they are insignificant
 date: "2010-10-21 19:11:31 +0100"
+# Attributes from Felix Online V1
 id: "234"
 old_path: /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
 aliases:
  - /comment/234/the-governments-spending-cuts-wont-hit-us-as-hard-as-others
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

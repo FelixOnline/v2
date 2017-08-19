@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Conmen drove the student to a cash point after meeting him near Beit
 date: "2016-05-20 08:49:23 +0100"
+# Attributes from Felix Online V1
 id: "6174"
 old_path: /news/6174/fraudsters-target-students-in-scam-outside-halls
 aliases:
  - /news/6174/fraudsters-target-students-in-scam-outside-halls
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201049-felix-Dusk003.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Simon Kreitem"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

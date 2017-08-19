@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alic Rowlands on the propsed campus wide smoking ban.
 date: "2010-02-01 16:43:18 +0000"
+# Attributes from Felix Online V1
 id: "60"
 old_path: /news/60/smoking-stubbed-out-on-campus
 aliases:
  - /news/60/smoking-stubbed-out-on-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002011641-rsp07-nosmokin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

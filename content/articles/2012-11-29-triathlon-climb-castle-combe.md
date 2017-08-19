@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar"
 date: "2012-11-29 23:15:20 +0000"
+# Attributes from Felix Online V1
 id: "3010"
 old_path: /sport/3010/triathlon-climb-castle-combe
 aliases:
  - /sport/3010/triathlon-climb-castle-combe
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292315-csw09-bike.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

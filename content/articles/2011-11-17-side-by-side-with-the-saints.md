@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Wang talks about Volition Inc.’s latest offering Saints Row: The Third attempts to not just eclipse the GTA franchise, but to beat it into the dust. With a dildo bat
 date: "2011-11-17 20:36:03 +0000"
+# Attributes from Felix Online V1
 id: "1762"
 old_path: /games/1762/side-by-side-with-the-saints
 aliases:
  - /games/1762/side-by-side-with-the-saints
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172034-pk1811-saintsrowthethirdbox.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "THQ"
 image_attribution_link: "http://www.saintsrow.com/"
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

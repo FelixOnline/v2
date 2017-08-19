@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Margot Pikovsky despairs at the College’s apathy
 date: "2012-11-09 11:54:12 +0000"
+# Attributes from Felix Online V1
 id: "2843"
 old_path: /comment/2843/a-call-to-remembrance
 aliases:
  - /comment/2843/a-call-to-remembrance
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091155-tna08-poppy3.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

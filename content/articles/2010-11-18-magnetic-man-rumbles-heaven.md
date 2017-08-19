@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Magnetic Man unleash a torrent of bass @ Heaven
 date: "2010-11-18 20:39:40 +0000"
+# Attributes from Felix Online V1
 id: "390"
 old_path: /music/390/magnetic-man-rumbles-heaven
 aliases:
  - /music/390/magnetic-man-rumbles-heaven
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182037-ks607-magnetic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

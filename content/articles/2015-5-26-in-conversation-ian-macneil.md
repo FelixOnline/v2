@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ian MacNeil is the set designer for Everyman, currently on at the National Theatre. Felix Arts’ Jack Steadman caught up with Ian during the run of Everyman for a chat about his work on the show, as well as a look back at his career.
 date: "2015-05-26 13:20:44 +0100"
+# Attributes from Felix Online V1
 id: "5563"
 old_path: /arts/5563/in-conversation-ian-macneil
 aliases:
  - /arts/5563/in-conversation-ian-macneil
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261414-js5913-everyman.jpg"
 image_caption: >
   A scene from the National Theatre’s current production of Everyman, for which Ian MacNeil designed the set.
@@ -22,6 +27,7 @@ image_attribution: "Richard Hubert Smith/National Theatre"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

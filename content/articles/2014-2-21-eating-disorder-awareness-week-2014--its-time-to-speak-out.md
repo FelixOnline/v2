@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live.
 date: "2014-02-21 03:29:01 +0000"
+# Attributes from Felix Online V1
 id: "4430"
 old_path: /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
 aliases:
  - /comment/4430/eating-disorder-awareness-week-2014--its-time-to-speak-out
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

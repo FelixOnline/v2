@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Sim found that there probably wasn&8217;t enough room in the belly department for all that Istanbul had to offer.
 date: "2010-01-14 16:27:07 +0000"
+# Attributes from Felix Online V1
 id: "31"
 old_path: /food/31/the-streets-lined-with-turkish-delights
 aliases:
  - /food/31/the-streets-lined-with-turkish-delights
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141624-rsp07-fishstal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

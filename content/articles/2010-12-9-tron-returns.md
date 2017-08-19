@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At the very least, it's better than Harry Potter
 date: "2010-12-09 19:41:17 +0000"
+# Attributes from Felix Online V1
 id: "509"
 old_path: /film/509/tron-returns
 aliases:
  - /film/509/tron-returns
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

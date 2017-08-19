@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits
 date: "2011-11-03 20:50:10 +0000"
+# Attributes from Felix Online V1
 id: "1675"
 old_path: /music/1675/music-tech-warm-up-kablaam--boil-after-party
 aliases:
  - /music/1675/music-tech-warm-up-kablaam--boil-after-party
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

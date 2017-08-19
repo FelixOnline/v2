@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jake Lea-Wilson explores the challenges that lie behind ‘futureproofing’ our history
 date: "2011-05-20 05:58:28 +0100"
+# Attributes from Felix Online V1
 id: "1234"
 old_path: /tech/1234/can-we-simply-ctrls-our-past
 aliases:
  - /tech/1234/can-we-simply-ctrls-our-past
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200657-felix-doomsday.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

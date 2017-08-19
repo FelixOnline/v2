@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will recognition affect the TEF ratings this June?
 date: "2017-05-12 16:16:56 +0100"
+# Attributes from Felix Online V1
 id: "6936"
 old_path: /news/6936/imperial-bags-distinctions-over-break
 aliases:
  - /news/6936/imperial-bags-distinctions-over-break
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121833-felix-9059210910_4d639d764c_o.jpg"
 image_caption: >
   Some distinctions are greater than others
@@ -22,6 +27,7 @@ image_attribution: "Darin McClure"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

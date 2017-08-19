@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl reviews the second installment from Green Day
 date: "2013-01-24 22:10:43 +0000"
+# Attributes from Felix Online V1
 id: "3164"
 old_path: /music/3164/dos-uno-tres
 aliases:
  - /music/3164/dos-uno-tres
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

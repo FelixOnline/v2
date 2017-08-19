@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Could marketing efforts be behind poor nomination numbers?
 date: "2017-03-03 14:15:41 +0000"
+# Attributes from Felix Online V1
 id: "6834"
 old_path: /news/6834/where-did-all-the-election-candidates-go
 aliases:
  - /news/6834/where-did-all-the-election-candidates-go
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031415-felix-leadership elections.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

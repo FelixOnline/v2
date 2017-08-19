@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anxious Romans pack their bags ahead of Raffaele Bendandi's 1915 prediction for an earthquake on 11th May
 date: "2011-05-12 16:35:39 +0100"
+# Attributes from Felix Online V1
 id: "1190"
 old_path: /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
 aliases:
  - /science/1190/residents-of-rome-flee-earthquake-predicted-in-1915
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121734-felix-colloseum-in-rome.jpg"
 image_caption: >
   The Romans earthquake-proofed this, right?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

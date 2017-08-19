@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Colvin talks to the former MI5 Director General and current College Chairman about her role and the future of Imperial College
 date: "2011-10-13 21:24:06 +0100"
+# Attributes from Felix Online V1
 id: "1507"
 old_path: /news/1507/interview-eliza-manningham-buller
 aliases:
  - /news/1507/interview-eliza-manningham-buller
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132223-felix-img_0459.jpg"
 image_caption: >
   Baronness Eliza Manningham-Buller
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

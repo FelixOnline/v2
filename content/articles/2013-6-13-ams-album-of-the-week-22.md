@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boards Of Canada – Tomorrow’s Harvest
 date: "2013-06-13 23:46:09 +0100"
+# Attributes from Felix Online V1
 id: "3700"
 old_path: /music/3700/ams-album-of-the-week-22
 aliases:
  - /music/3700/ams-album-of-the-week-22
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140045-tna08-boards-of-canada-cover.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

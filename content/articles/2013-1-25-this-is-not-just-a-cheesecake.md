@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is a Yiango Mavrocostanti cheesecake...
 date: "2013-01-25 01:33:42 +0000"
+# Attributes from Felix Online V1
 id: "3180"
 old_path: /food/3180/this-is-not-just-a-cheesecake
 aliases:
  - /food/3180/this-is-not-just-a-cheesecake
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250133-tna08-cheesecake1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

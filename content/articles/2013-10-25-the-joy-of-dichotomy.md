@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Daniel Adams on the joy of dichotomy
 date: "2013-10-25 00:05:02 +0100"
+# Attributes from Felix Online V1
 id: "3919"
 old_path: /comment/3919/the-joy-of-dichotomy
 aliases:
  - /comment/3919/the-joy-of-dichotomy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

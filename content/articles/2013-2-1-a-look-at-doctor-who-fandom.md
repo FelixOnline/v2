@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time may be unravelled, but the plot is not tightly strung
 date: "2013-02-01 00:18:03 +0000"
+# Attributes from Felix Online V1
 id: "3225"
 old_path: /books/3225/a-look-at-doctor-who-fandom
 aliases:
  - /books/3225/a-look-at-doctor-who-fandom
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010018-tna08-unravel.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

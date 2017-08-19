@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In HBO’s latest documentary film we follow the Eagles of Death Metal as they return to Paris following the attack on the Bataclan.
 date: "2017-02-24 15:12:21 +0000"
+# Attributes from Felix Online V1
 id: "6825"
 old_path: /tv/6825/peace-love-and-death-metal--nos-amis
 aliases:
  - /tv/6825/peace-love-and-death-metal--nos-amis
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

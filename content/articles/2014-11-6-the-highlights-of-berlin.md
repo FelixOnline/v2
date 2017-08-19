@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the German capital
 date: "2014-11-06 20:30:10 +0000"
+# Attributes from Felix Online V1
 id: "4789"
 old_path: /travel/4789/the-highlights-of-berlin
 aliases:
  - /travel/4789/the-highlights-of-berlin
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062030-cj914-img_6887-copy.jpg"
 image_caption: >
   Enjoying a local Berliner beer with a book during the day
@@ -22,6 +27,7 @@ image_attribution: "Yung Nam Cheah"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

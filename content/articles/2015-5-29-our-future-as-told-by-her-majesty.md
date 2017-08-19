@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken covers the Government’s Agenda
 date: "2015-05-29 00:26:02 +0100"
+# Attributes from Felix Online V1
 id: "5571"
 old_path: /politics/5571/our-future-as-told-by-her-majesty
 aliases:
  - /politics/5571/our-future-as-told-by-her-majesty
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290126-cj914-10.3787877f.jpg"
 image_caption: >
   Pomp and Ceremony: setting out the future for the UK
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

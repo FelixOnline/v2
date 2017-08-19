@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It might not go on your CV, but here's my advice on an invaluable life skill
 date: "2016-06-17 08:55:41 +0100"
+# Attributes from Felix Online V1
 id: "6273"
 old_path: /comment/6273/imperial-taught-me-how-to-be-a-better-dj
 aliases:
  - /comment/6273/imperial-taught-me-how-to-be-a-better-dj
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171054-felix-DJ-Makes.jpg"
 image_caption: >
   These guys don't want Simon & Garfunkel.
@@ -22,6 +27,7 @@ image_attribution: " themrbenagency.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

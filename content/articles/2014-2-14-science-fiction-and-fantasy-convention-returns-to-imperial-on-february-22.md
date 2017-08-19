@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross wILL...
 date: "2014-02-14 05:05:39 +0000"
+# Attributes from Felix Online V1
 id: "4380"
 old_path: /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
 aliases:
  - /news/4380/science-fiction-and-fantasy-convention-returns-to-imperial-on-february-22
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

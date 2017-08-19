@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This year's Summer Ball could go either way
 date: "2011-06-16 20:19:02 +0100"
+# Attributes from Felix Online V1
 id: "1391"
 old_path: /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
 aliases:
  - /comment/1391/the-right-lessons-must-be-learnt-from-the-ball
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

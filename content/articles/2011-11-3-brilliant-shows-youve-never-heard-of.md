@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah reviews a number of less well-known shows
 date: "2011-11-03 20:27:58 +0000"
+# Attributes from Felix Online V1
 id: "1666"
 old_path: /tv/1666/brilliant-shows-youve-never-heard-of
 aliases:
  - /tv/1666/brilliant-shows-youve-never-heard-of
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032026-pk1811-archer.jpg"
 image_caption: >
   The name’s Archer, Stirling Archer
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Federica Amato and Saskia Verhagen discuss the curse of the designer handbag
 date: "2011-10-21 10:22:00 +0100"
+# Attributes from Felix Online V1
 id: "1587"
 old_path: /fashion/1587/a-designer-horcrux
 aliases:
  - /fashion/1587/a-designer-horcrux
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211121-ak6309-beymen_2011_ss_002.jpg"
 image_caption: >
   Handbags – probably the best place to keep your sleeping pills
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

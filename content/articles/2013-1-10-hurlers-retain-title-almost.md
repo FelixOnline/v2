@@ -4,15 +4,20 @@ title: >
 subtitle: >
   10 Imperial hurlers in Birmingham
 date: "2013-01-10 23:23:27 +0000"
+# Attributes from Felix Online V1
 id: "3113"
 old_path: /sport/3113/hurlers-retain-title-almost
 aliases:
  - /sport/3113/hurlers-retain-title-almost
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102322-csw09-hurlers-at-champs.jpg"
 image_caption: >
   Winning smiles all round
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

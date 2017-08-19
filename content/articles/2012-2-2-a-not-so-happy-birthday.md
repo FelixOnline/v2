@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rajvinder Virdee on who he thinks is crashing the Euro's party
 date: "2012-02-02 19:52:57 +0000"
+# Attributes from Felix Online V1
 id: "2096"
 old_path: /biz/2096/a-not-so-happy-birthday
 aliases:
  - /biz/2096/a-not-so-happy-birthday
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202021951-ams111-happy-birthday-cake.jpg"
 image_caption: >
   Here's to another ten years...?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

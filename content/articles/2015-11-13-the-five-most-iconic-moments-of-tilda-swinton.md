@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Last week saw the 55th anniversary of the birth of the saviour of modern cinema, Tilda Swinton. To celebrate, we take a look back at her legendary career; choosing what to feature was difficult, but we have managed to narrow down five of her most iconic moments, and what they teach us about life and
 date: "2015-11-13 15:00:33 +0000"
+# Attributes from Felix Online V1
 id: "5736"
 old_path: /film/5736/the-five-most-iconic-moments-of-tilda-swinton
 aliases:
  - /film/5736/the-five-most-iconic-moments-of-tilda-swinton
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131500-ygr12-tumblr_n0a2reogoc1qaihw2o2_1280-(1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

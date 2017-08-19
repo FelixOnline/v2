@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If SciFi authors are to be believed, books are eventually going to be phased out in favour of eBooks, but are eReaders ready for prime time?
 date: "2010-03-12 16:54:59 +0000"
+# Attributes from Felix Online V1
 id: "121"
 old_path: /tech/121/e-inks-not-ready-for-prime-time
 aliases:
  - /tech/121/e-inks-not-ready-for-prime-time
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003121649-srg03-eBookrea.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

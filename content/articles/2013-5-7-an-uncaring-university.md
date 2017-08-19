@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oli Benton loves Imperial, but wishes the feeling were a bit more mutual
 date: "2013-05-07 19:17:13 +0100"
+# Attributes from Felix Online V1
 id: "3540"
 old_path: /comment/3540/an-uncaring-university
 aliases:
  - /comment/3540/an-uncaring-university
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305072017-tna08-webbenton.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

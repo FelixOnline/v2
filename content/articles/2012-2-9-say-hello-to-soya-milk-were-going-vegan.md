@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox on why animals are safe for a month thanks to the MS Trust
 date: "2012-02-09 22:51:31 +0000"
+# Attributes from Felix Online V1
 id: "2165"
 old_path: /news/2165/say-hello-to-soya-milk-were-going-vegan
 aliases:
  - /news/2165/say-hello-to-soya-milk-were-going-vegan
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092249-felix-img-20120207-00363.jpg"
 image_caption: >
   Saying goodbye is hard to do...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

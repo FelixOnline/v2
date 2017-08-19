@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Take a look at the stranger side of research at a new monthly event
 date: "2012-10-05 12:02:12 +0100"
+# Attributes from Felix Online V1
 id: "2609"
 old_path: /science/2609/unexpected-science-at-the-imperial-fringe
 aliases:
  - /science/2609/unexpected-science-at-the-imperial-fringe
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051301-nn1209-icimages.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

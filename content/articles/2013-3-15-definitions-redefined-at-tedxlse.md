@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Maxey for one can’t wait for next year’s TEDxLSE. Before that, however, Imperial has an independent TED event of its own...
 date: "2013-03-15 02:36:03 +0000"
+# Attributes from Felix Online V1
 id: "3490"
 old_path: /news/3490/definitions-redefined-at-tedxlse
 aliases:
  - /news/3490/definitions-redefined-at-tedxlse
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150234-tna08-tedxlse_-andrew-schoben-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "TEDxLSE"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

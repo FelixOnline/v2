@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The final day of sporting events at Teddington Sports ground took place last on Saturday, 18th October
 date: "2014-10-24 12:57:07 +0100"
+# Attributes from Felix Online V1
 id: "4749"
 old_path: /news/4749/the-medics-say-goodbye-to-teddington
 aliases:
  - /news/4749/the-medics-say-goodbye-to-teddington
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411021841-ps3110-tbl_teddington_event-48.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Police.uk throws up little in the way of surprises
 date: "2011-03-10 19:30:00 +0000"
+# Attributes from Felix Online V1
 id: "1052"
 old_path: /tech/1052/crime-on-your-street-mapped
 aliases:
  - /tech/1052/crime-on-your-street-mapped
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103101922-nm1010-mapmapma.jpg"
 image_caption: >
   No crime at Imperial, except bike thefts of course...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Games reviewing the newest the entry in the trial series.
 date: "2014-06-11 21:46:40 +0100"
+# Attributes from Felix Online V1
 id: "4674"
 old_path: /games/4674/trialling-the-fusion
 aliases:
  - /games/4674/trialling-the-fusion
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112246-me1711-games_trials.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Investigation launched after £3 million exhaust system is built with wrong type of steel
 date: "2011-05-05 23:40:45 +0100"
+# Attributes from Felix Online V1
 id: "1148"
 old_path: /news/1148/blunder-in-mechanical-engineering-department
 aliases:
  - /news/1148/blunder-in-mechanical-engineering-department
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060042-felix-cirque_du_soleil_-_5009.jpg"
 image_caption: >
   The Mechanical Engineering Department
@@ -22,6 +27,7 @@ image_attribution: "Ian Gillett/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

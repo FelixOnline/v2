@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Red Lion may or may not refer to the football club
 date: "2015-06-18 21:18:02 +0100"
+# Attributes from Felix Online V1
 id: "5638"
 old_path: /arts/5638/a-rousing-tale-of-football-and-loyalty
 aliases:
  - /arts/5638/a-rousing-tale-of-football-and-loyalty
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

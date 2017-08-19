@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We take an uncensored look at female staff, graduate, and fresher experiences around college
 date: "2016-03-11 11:34:56 +0000"
+# Attributes from Felix Online V1
 id: "6024"
 old_path: /features/6024/the-women-of-imperial
 aliases:
  - /features/6024/the-women-of-imperial
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111132-felix-20160310_140457.jpg"
 image_caption: >
   Squint and let the white faces wash over you.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

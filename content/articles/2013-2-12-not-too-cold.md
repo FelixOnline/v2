@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Warm Bodies review
 date: "2013-02-12 18:29:21 +0000"
+# Attributes from Felix Online V1
 id: "3292"
 old_path: /film/3292/not-too-cold
 aliases:
  - /film/3292/not-too-cold
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

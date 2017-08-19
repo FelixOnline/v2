@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emiel de Lange reflects on a season of Pierre Boulez at the Barbican
 date: "2015-05-08 12:53:44 +0100"
+# Attributes from Felix Online V1
 id: "5508"
 old_path: /music/5508/pli-selon-pli-unravelling-genius-with-the-ensemble-intercontemporain
 aliases:
  - /music/5508/pli-selon-pli-unravelling-genius-with-the-ensemble-intercontemporain
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505061315-km2612-dsc_5201.jpg"
 image_caption: >
   The Ensemble Intercontemporain in performance
@@ -22,6 +27,7 @@ image_attribution: "Ensemble Intercontemporain"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

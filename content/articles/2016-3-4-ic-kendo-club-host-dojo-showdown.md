@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Kendoka organise UK tournament and win silver
 date: "2016-03-04 11:53:08 +0000"
+# Attributes from Felix Online V1
 id: "6012"
 old_path: /sport/6012/ic-kendo-club-host-dojo-showdown
 aliases:
  - /sport/6012/ic-kendo-club-host-dojo-showdown
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041152-felix-Imperial_Kendo_Photo1.jpg"
 image_caption: >
   Imperial Captain John Jonsson leaps into action.
@@ -22,6 +27,7 @@ image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

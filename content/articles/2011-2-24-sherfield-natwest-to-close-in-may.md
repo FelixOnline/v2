@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Concerns raised about impact on international students
 date: "2011-02-24 19:40:14 +0000"
+# Attributes from Felix Online V1
 id: "865"
 old_path: /news/865/sherfield-natwest-to-close-in-may
 aliases:
  - /news/865/sherfield-natwest-to-close-in-may
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241938-ks607-natwestn.jpg"
 image_caption: >
   NatWest declined to comment
@@ -22,6 +27,7 @@ image_attribution: "Robert Bishop"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

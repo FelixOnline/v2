@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A very personal account of the impact of this terrible disease
 date: "2011-06-09 21:34:52 +0100"
+# Attributes from Felix Online V1
 id: "1352"
 old_path: /science/1352/grandma-alzheimers-and-me
 aliases:
  - /science/1352/grandma-alzheimers-and-me
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092234-felix-neur.jpg"
 image_caption: >
   Alzheimer’s causes neurons like these to become tangled by proteins, killing them
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

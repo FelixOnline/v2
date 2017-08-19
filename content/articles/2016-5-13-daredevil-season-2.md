@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Let's talk about it
 date: "2016-05-13 09:26:56 +0100"
+# Attributes from Felix Online V1
 id: "6162"
 old_path: /tv/6162/daredevil-season-2
 aliases:
  - /tv/6162/daredevil-season-2
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131126-felix-d3908d135867f947ab073fe5e9de918b12402d2088a95eb23cc652f5be9b7f3b_facebook.jpeg"
 image_caption: >
   There’s some new players in town! And they’re not feeling so friendly.
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
+# Attributes from Felix Online V1
 id: "3081"
 old_path: /science/3081/fund-cancer-research-gain-immortality-maybe
 aliases:
  - /science/3081/fund-cancer-research-gain-immortality-maybe
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102214-csw09-13-061011.jpg"
 image_caption: >
   Steve Jobs died following complications relating to a pancreatic neuroendocrine tumour. Apple have s
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

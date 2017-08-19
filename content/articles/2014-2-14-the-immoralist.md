@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eoghan Totten explores a thoughtful and subtle masterpiece from the early 1900s
 date: "2014-02-14 03:29:51 +0000"
+# Attributes from Felix Online V1
 id: "4375"
 old_path: /books/4375/the-immoralist
 aliases:
  - /books/4375/the-immoralist
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

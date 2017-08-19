@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
+# Attributes from Felix Online V1
 id: "5967"
 old_path: /film/5967/equality-at-the-oscars
 aliases:
  - /film/5967/equality-at-the-oscars
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261138-felix-1424718000517.cached.jpg"
 image_caption: >
   As Patricia Arquette pointed out in her Oscar speech, Hollywood is a hostile place for women.
@@ -22,6 +27,7 @@ image_attribution: "Fox"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

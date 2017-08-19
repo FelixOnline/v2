@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Could this be the ‘Great Gig in the Scala’?
 date: "2010-10-28 19:33:03 +0100"
+# Attributes from Felix Online V1
 id: "264"
 old_path: /music/264/easy-star-all-stars--scala
 aliases:
  - /music/264/easy-star-all-stars--scala
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282030-ma1307-easystar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lht09"
 author_name: "Luke Turner"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

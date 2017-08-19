@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"
+# Attributes from Felix Online V1
 id: "2264"
 old_path: /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
 aliases:
  - /news/2264/icu-cinema-awarded-compensation-for-friday-night-union-losses-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232316-felix-photo-1.jpg"
 image_caption: >
   ICU Cinema operates out of the Union Concert Hall
@@ -22,6 +27,7 @@ image_attribution: "Philip Kent"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

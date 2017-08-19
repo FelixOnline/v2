@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Rosenthal & Meredith Thomas mince along to the Michael Grandage Company’s opening show
 date: "2013-02-01 00:11:43 +0000"
+# Attributes from Felix Online V1
 id: "3222"
 old_path: /arts/3222/putting-the-camp-back-into-campaign
 aliases:
  - /arts/3222/putting-the-camp-back-into-campaign
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010011-tna08-sam-swainsbury-(l)-and-joseph-timms-(r).jpg"
 image_caption: >
   Sam Swainsbury (L) and Joseph Timms (R)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

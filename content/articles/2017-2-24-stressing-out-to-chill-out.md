@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saad Ahmed talkes about how some games really aren’t fun to play and are immensly challenging, and how that makes them some of the funnest games around
 date: "2017-02-24 15:14:31 +0000"
+# Attributes from Felix Online V1
 id: "6826"
 old_path: /games/6826/stressing-out-to-chill-out
 aliases:
  - /games/6826/stressing-out-to-chill-out
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241514-felix-13740073235_b8a4ec0ffc_k.jpg"
 image_caption: >
   Oh No! That’s like, the thrity seventh time I’ve died!
@@ -22,6 +27,7 @@ image_attribution: "Allan Rotgers"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

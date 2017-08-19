@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The fifth of our 'games that never made it'
 date: "2011-03-03 21:21:18 +0000"
+# Attributes from Felix Online V1
 id: "1025"
 old_path: /games/1025/duke-nukem-forever
 aliases:
  - /games/1025/duke-nukem-forever
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

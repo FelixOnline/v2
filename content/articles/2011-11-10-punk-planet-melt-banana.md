@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven listens to the 'cartoon music' of the Japanese band
 date: "2011-11-10 21:35:29 +0000"
+# Attributes from Felix Online V1
 id: "1733"
 old_path: /music/1733/punk-planet-melt-banana
 aliases:
  - /music/1733/punk-planet-melt-banana
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102135-felix-mb_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

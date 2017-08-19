@@ -4,15 +4,20 @@ title: >
 subtitle: >
   For nonbelievers to properly engage wth Christians, they must learn about the life of Jesus, says Tom Ravalde
 date: "2013-01-25 01:42:19 +0000"
+# Attributes from Felix Online V1
 id: "3183"
 old_path: /comment/3183/what-would-jesus-do
 aliases:
  - /comment/3183/what-would-jesus-do
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250142-tna08-jesus-christ.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

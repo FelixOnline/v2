@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “It is reminiscint of the Polish Solidarity movement”
 date: "2011-02-03 20:05:36 +0000"
+# Attributes from Felix Online V1
 id: "734"
 old_path: /politics/734/the-arab-world-shakes-the-west-shifts-nervously
 aliases:
  - /politics/734/the-arab-world-shakes-the-west-shifts-nervously
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rj408"
 author_name: "Rajat Jain"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

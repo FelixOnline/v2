@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hamza Shaikh reports from a great expedition
 date: "2013-06-21 00:58:11 +0100"
+# Attributes from Felix Online V1
 id: "3737"
 old_path: /news/3737/trinidad-and-tob-away-we-go
 aliases:
  - /news/3737/trinidad-and-tob-away-we-go
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210158-tna08-hamza1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Final Lesson: Summary
 date: "2012-03-15 21:27:25 +0000"
+# Attributes from Felix Online V1
 id: "2383"
 old_path: /music/2383/george-jefferys-a-beginners-guide-to-post-hardcore-9
 aliases:
  - /music/2383/george-jefferys-a-beginners-guide-to-post-hardcore-9
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

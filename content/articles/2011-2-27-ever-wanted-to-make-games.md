@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Cook is doing just that this week, and he’ll tell you how you can too
 date: "2011-02-27 12:58:25 +0000"
+# Attributes from Felix Online V1
 id: "903"
 old_path: /games/903/ever-wanted-to-make-games
 aliases:
  - /games/903/ever-wanted-to-make-games
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271249-ks607-makeyour.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

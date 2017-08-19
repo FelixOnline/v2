@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The festival turns 30, and this year it’s two whole days!
 date: "2013-02-08 00:33:07 +0000"
+# Attributes from Felix Online V1
 id: "3274"
 old_path: /news/3274/picocon-30-at-imperial
 aliases:
  - /news/3274/picocon-30-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080033-tna08-dodm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

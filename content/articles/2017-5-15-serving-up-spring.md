@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Isn’t everything so much better when it has a Spring vibe, when it’s all fresh? felix is delving into the freshest taglaitelle you can cook
 date: "2017-05-15 16:26:44 +0100"
+# Attributes from Felix Online V1
 id: "6954"
 old_path: /food/6954/serving-up-spring-
 aliases:
  - /food/6954/serving-up-spring-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151826-felix-IMG_0009.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

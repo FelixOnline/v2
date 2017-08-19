@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Food Editor Michael Chung on food waste.
 date: "2013-10-25 01:04:15 +0100"
+# Attributes from Felix Online V1
 id: "3947"
 old_path: /food/3947/feed-yourself-not-your-bin
 aliases:
  - /food/3947/feed-yourself-not-your-bin
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250205-felix-food_foodwaste.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

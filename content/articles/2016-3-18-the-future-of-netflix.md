@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This growing library of originals will be vital to their success
 date: "2016-03-18 12:01:57 +0000"
+# Attributes from Felix Online V1
 id: "6073"
 old_path: /tv/6073/the-future-of-netflix
 aliases:
  - /tv/6073/the-future-of-netflix
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181201-felix-12674881_10154165096203714_135856404_o.jpg"
 image_caption: >
   Well S@%$! That’s my evening ruined.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

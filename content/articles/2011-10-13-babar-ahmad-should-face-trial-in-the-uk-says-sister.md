@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Online petition aims to bring matter to Parliament debate
 date: "2011-10-13 21:14:28 +0100"
+# Attributes from Felix Online V1
 id: "1506"
 old_path: /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
 aliases:
  - /news/1506/babar-ahmad-should-face-trial-in-the-uk-says-sister
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132213-felix-trial.jpg"
 image_caption: >
   Amna Ahmad claims that a UK based trial would ‘expose’ details of police treatment
@@ -22,6 +27,7 @@ image_attribution: "flickr/ s_falkow"
 image_attribution_link: "http://www.flickr.com/photos/safari_vacation/5929769873/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

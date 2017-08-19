@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Graphene has astonished scientists around the world with its fantastic electrical conductivity and mechanical properties
 date: "2013-03-07 21:22:31 +0000"
+# Attributes from Felix Online V1
 id: "3424"
 old_path: /science/3424/graphene-ready-to-revolutionise-solar-power
 aliases:
  - /science/3424/graphene-ready-to-revolutionise-solar-power
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072124-jal08-graphenei.jpg"
 image_caption: >
   We have been reliably informed that this funky image is science-related
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

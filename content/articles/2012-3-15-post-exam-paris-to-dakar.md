@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Five Imperial students will take to the road this summer in an alternative road trip
 date: "2012-03-15 21:04:48 +0000"
+# Attributes from Felix Online V1
 id: "2368"
 old_path: /travel/2368/post-exam-paris-to-dakar
 aliases:
  - /travel/2368/post-exam-paris-to-dakar
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152103-ams111-p2d_groupphoto.jpg"
 image_caption: >
   Sure, it’s all smiles now, but there are camels to face
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

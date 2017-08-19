@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah considers on being too much of a coward for laser eye surgery
 date: "2011-10-20 22:36:25 +0100"
+# Attributes from Felix Online V1
 id: "1571"
 old_path: /comment/1571/would-i-be-this-hot-with-glasses-meh
 aliases:
  - /comment/1571/would-i-be-this-hot-with-glasses-meh
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202333-sjw209-tim.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton on gender at Imperial College
 date: "2013-10-04 01:03:18 +0100"
+# Attributes from Felix Online V1
 id: "3805"
 old_path: /comment/3805/imperial-men-how-to-talk-about-gender
 aliases:
  - /comment/3805/imperial-men-how-to-talk-about-gender
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040152-jal08-comm_womeninscience-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

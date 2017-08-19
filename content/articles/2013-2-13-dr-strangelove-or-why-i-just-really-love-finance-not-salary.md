@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray provides a retort to last week’s article about banking
 date: "2013-02-13 18:55:46 +0000"
+# Attributes from Felix Online V1
 id: "3314"
 old_path: /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
 aliases:
  - /comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302141400-tna08-cartoon-for-banker-article.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Aaniya Ahmed"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

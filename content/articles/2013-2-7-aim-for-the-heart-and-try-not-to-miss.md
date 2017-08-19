@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster asks “Will you be my player 2?”
 date: "2013-02-07 23:37:51 +0000"
+# Attributes from Felix Online V1
 id: "3265"
 old_path: /games/3265/aim-for-the-heart-and-try-not-to-miss
 aliases:
  - /games/3265/aim-for-the-heart-and-try-not-to-miss
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Young traders from across the country gather at Imperial
 date: "2011-01-13 19:28:17 +0000"
+# Attributes from Felix Online V1
 id: "565"
 old_path: /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
 aliases:
  - /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131926-ks607-tradingg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

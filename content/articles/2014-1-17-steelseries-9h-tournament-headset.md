@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With a bewildering array of gaming accessories on the market, it can be difficult to find out which one is best to purchase for your particular needs and the Steelseries 9H is a good start
 date: "2014-01-17 04:21:15 +0000"
+# Attributes from Felix Online V1
 id: "4256"
 old_path: /tech/4256/steelseries-9h-tournament-headset
 aliases:
  - /tech/4256/steelseries-9h-tournament-headset
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

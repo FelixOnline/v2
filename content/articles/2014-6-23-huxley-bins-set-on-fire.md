@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It is reported that at some point last week there was a fire in the Huxley building, which is home to both the Mathematics and Computing departments.
 date: "2014-06-23 11:25:15 +0100"
+# Attributes from Felix Online V1
 id: "4703"
 old_path: /news/4703/huxley-bins-set-on-fire
 aliases:
  - /news/4703/huxley-bins-set-on-fire
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406231225-jal08-fire.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

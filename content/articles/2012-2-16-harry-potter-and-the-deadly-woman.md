@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Woman in Black
 date: "2012-02-16 21:04:01 +0000"
+# Attributes from Felix Online V1
 id: "2182"
 old_path: /film/2182/harry-potter-and-the-deadly-woman
 aliases:
  - /film/2182/harry-potter-and-the-deadly-woman
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162102-pk1811-the-woman-in-black-12.jpg"
 image_caption: >
   You’re on your own this time...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

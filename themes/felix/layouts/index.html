@@ -1,10 +1,24 @@
 {{ partial "header.html" . }}
-  <main>
-    {{.Content}}
-    {{ range .Data.Pages }}
-        <li>
-            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+
+  <section>
+    <ul id="all-taxonomies">
+      {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+        <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+          <ul>
+            {{ range $key, $value := $taxonomy }}
+              <li>
+                <a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key }}">{{ $key }}</a>
+              </li>
+              <ul>
+              {{ range $value.Pages }}
+                  <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+              {{ end }}
+              </ul>
+            {{ end }}
+          </ul>
         </li>
-    {{ end }}
-  </main>
+      {{ end }}
+    </ul>
+  </section>
+
 {{ partial "footer.html" . }}

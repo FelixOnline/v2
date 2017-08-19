@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Andrea Levy implores you to take up this opportunity to hear a first-hand testimony from Mrs Ruth Barnett, a Holocaust survivor, at Imperial College
 date: "2012-01-19 21:06:55 +0000"
+# Attributes from Felix Online V1
 id: "2026"
 old_path: /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
 aliases:
  - /news/2026/for-the-dead-and-for-the-living-we-must-bear-witness
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

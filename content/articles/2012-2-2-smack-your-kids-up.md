@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Middle class nanny-state blamed for riots
 date: "2012-02-02 19:46:20 +0000"
+# Attributes from Felix Online V1
 id: "2094"
 old_path: /politics/2094/smack-your-kids-up
 aliases:
  - /politics/2094/smack-your-kids-up
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202021946-ams111-sam_0575.jpg"
 image_caption: >
   How red is too red?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Williams and Hannah Tullett visit Earl’s Court coffee house and music venue
 date: "2010-11-11 21:17:56 +0000"
+# Attributes from Felix Online V1
 id: "358"
 old_path: /food/358/troubadour-has-heart
 aliases:
  - /food/358/troubadour-has-heart
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112112-nm1010-troubado.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

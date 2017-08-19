@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Medical School may have to move, and all could happen in three years
 date: "2013-01-10 22:50:29 +0000"
+# Attributes from Felix Online V1
 id: "3095"
 old_path: /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
 aliases:
  - /news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

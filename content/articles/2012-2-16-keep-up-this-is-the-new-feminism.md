@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Veronica Gouvea comments on what feminism really means
 date: "2012-02-16 22:03:47 +0000"
+# Attributes from Felix Online V1
 id: "2207"
 old_path: /comment/2207/keep-up-this-is-the-new-feminism
 aliases:
  - /comment/2207/keep-up-this-is-the-new-feminism
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162201-ams111-natasha-walter.-001.jpg"
 image_caption: >
   Natasha Walter, author of Living Dolls: The Return of Sexism
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

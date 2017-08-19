@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rector Sir Keith O'Nions gets pied for charity
 date: "2011-02-24 19:52:16 +0000"
+# Attributes from Felix Online V1
 id: "872"
 old_path: /news/872/sir-keith-pied-as-rag-revive-tradition-
 aliases:
  - /news/872/sir-keith-pied-as-rag-revive-tradition-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241948-ks607-rectorpi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

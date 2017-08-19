@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Close but not cigar for Imperial. It's an honour just to be nominated, right?
 date: "2012-12-07 00:38:20 +0000"
+# Attributes from Felix Online V1
 id: "3025"
 old_path: /news/3025/so-close-imperial-at-the-awards
 aliases:
  - /news/3025/so-close-imperial-at-the-awards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070028-tna08-theawards.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

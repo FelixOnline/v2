@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sebastian Gonzato offers the green argument for nuclear power
 date: "2016-10-28 15:13:01 +0100"
+# Attributes from Felix Online V1
 id: "6352"
 old_path: /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
 aliases:
  - /comment/6352/nuclear-power-is-not-part-of-the-problem-its-part-of-the-solution-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610281804-felix-8373380668_7bf911894d_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FarbenfroheWunderwelt"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

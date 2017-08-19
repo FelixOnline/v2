@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Race, colourism and the estate of Nina Simone
 date: "2016-03-11 11:57:08 +0000"
+# Attributes from Felix Online V1
 id: "6039"
 old_path: /film/6039/the-unbearable-lightness-of-zoe-saldana
 aliases:
  - /film/6039/the-unbearable-lightness-of-zoe-saldana
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111156-felix-Nina_Simone_1965.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

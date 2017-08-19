@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mo’ doctors, mo’ problems
 date: "2016-10-14 09:48:26 +0100"
+# Attributes from Felix Online V1
 id: "6329"
 old_path: /news/6329/hunt-reveals-his-nhs-plans
 aliases:
  - /news/6329/hunt-reveals-his-nhs-plans
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141147-so515-14171731710_f8129260f1_z.jpg"
 image_caption: >
   “The gap between me and reality is about this big”
@@ -22,6 +27,7 @@ image_attribution: "NHS Confederation"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

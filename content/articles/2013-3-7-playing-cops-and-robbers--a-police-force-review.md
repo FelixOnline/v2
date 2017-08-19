@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is that a baton in your pocket are you pleased to see this review?
 date: "2013-03-07 22:04:07 +0000"
+# Attributes from Felix Online V1
 id: "3437"
 old_path: /games/3437/playing-cops-and-robbers--a-police-force-review
 aliases:
  - /games/3437/playing-cops-and-robbers--a-police-force-review
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072203-sjw209-police-force-simulator-2.jpg"
 image_caption: >
   Hmm. It says ‘Police’ rather than ‘Polizei’. Maybe the real patrol car’s in the shop...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Wipers Times is at the Arts Theatre until the 13th May and will tour the UK for the remainder of 2017
 date: "2017-05-15 16:19:48 +0100"
+# Attributes from Felix Online V1
 id: "6951"
 old_path: /arts/6951/lost-gem-rediscovered--the-wipers-times
 aliases:
  - /arts/6951/lost-gem-rediscovered--the-wipers-times
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151819-felix-17492802_233236447143022_5206466482755991129_o.jpg"
 image_caption: >
   'The Wipers Times' Play by Ian Hislop and Nick Newman performed
@@ -22,6 +27,7 @@ image_attribution: "Arts Theatre, London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

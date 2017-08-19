@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The end of the world is no time to start developing bad habits
 date: "2011-02-03 20:17:27 +0000"
+# Attributes from Felix Online V1
 id: "741"
 old_path: /comment/741/apocalypse-now-please-
 aliases:
  - /comment/741/apocalypse-now-please-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202057-dr910-rhyDavis.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

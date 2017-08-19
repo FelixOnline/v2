@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
+# Attributes from Felix Online V1
 id: "3178"
 old_path: /news/3178/academic-uprising-5-more-professors
 aliases:
  - /news/3178/academic-uprising-5-more-professors
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

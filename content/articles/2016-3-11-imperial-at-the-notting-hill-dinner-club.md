@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Woo, volunteering!
 date: "2016-03-11 11:47:29 +0000"
+# Attributes from Felix Online V1
 id: "6032"
 old_path: /cands/6032/imperial-at-the-notting-hill-dinner-club
 aliases:
  - /cands/6032/imperial-at-the-notting-hill-dinner-club
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

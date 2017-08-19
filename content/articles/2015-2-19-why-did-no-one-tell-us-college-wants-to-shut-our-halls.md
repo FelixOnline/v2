@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett investigates the fallout after the revelation that College wants to shut down Weeks Hall
 date: "2015-02-19 23:51:05 +0000"
+# Attributes from Felix Online V1
 id: "5275"
 old_path: /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
 aliases:
  - /news/5275/why-did-no-one-tell-us-college-wants-to-shut-our-halls
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502192351-ps3110-screen-shot-2015-02-19-at-23.50.54.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

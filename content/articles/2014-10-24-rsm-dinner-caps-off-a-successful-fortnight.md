@@ -4,15 +4,20 @@ title: >
 subtitle: >
   178 people attended the Annual Dinner at The Rembrandt Hotel, 91 of them freshers from the Materials and Earth Science departments; this reflects the high demand for the social events that the RSM provides for its members.
 date: "2014-10-24 12:41:48 +0100"
+# Attributes from Felix Online V1
 id: "4746"
 old_path: /news/4746/rsm-dinner-caps-off-a-successful-fortnight
 aliases:
  - /news/4746/rsm-dinner-caps-off-a-successful-fortnight
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411021858-ps3110-rsmdinner.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

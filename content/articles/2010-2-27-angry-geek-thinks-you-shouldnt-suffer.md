@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Angry Geek thinks you shouldn't suffer
 date: "2010-02-27 17:07:29 +0000"
+# Attributes from Felix Online V1
 id: "111"
 old_path: /comment/111/angry-geek-thinks-you-shouldnt-suffer
 aliases:
  - /comment/111/angry-geek-thinks-you-shouldnt-suffer
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271706-rsp07-tools.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mrangry"
 author_name: "Mr Angry"
 author_image_path: "img/upload/201104240247-jk708-angry-geek.jpg"

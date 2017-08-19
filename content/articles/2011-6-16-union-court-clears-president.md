@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Complaint that Kendall intimidated student not upheld
 date: "2011-06-16 19:00:32 +0100"
+# Attributes from Felix Online V1
 id: "1379"
 old_path: /news/1379/union-court-clears-president
 aliases:
  - /news/1379/union-court-clears-president
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106161958-felix-img.jpg"
 image_caption: >
   Court Chair Hamish Common (left) ruled that Kendall had not acted inappropriately
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

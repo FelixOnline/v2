@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
+# Attributes from Felix Online V1
 id: "6054"
 old_path: /comment/6054/excellence-in-education
 aliases:
  - /comment/6054/excellence-in-education
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181134-felix-Imperial_College_-_South_Kensington_Campus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

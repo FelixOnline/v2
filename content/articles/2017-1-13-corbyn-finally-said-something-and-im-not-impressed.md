@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giacomo Bosaini-Gilroy examines Corbyn’s latest boring opinion
 date: "2017-01-13 14:00:09 +0000"
+# Attributes from Felix Online V1
 id: "6633"
 old_path: /comment/6633/corbyn-finally-said-something-and-im-not-impressed
 aliases:
  - /comment/6633/corbyn-finally-said-something-and-im-not-impressed
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-26392896430_6732737220_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

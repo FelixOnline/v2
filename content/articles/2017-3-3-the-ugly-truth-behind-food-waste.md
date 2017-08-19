@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sadly, it has to be said that we are a wasteful species - and this is often most apparent on our plates. We’ve got some ideas as to how you can change that, and why you should bother doing so.
 date: "2017-03-03 15:57:58 +0000"
+# Attributes from Felix Online V1
 id: "6853"
 old_path: /food/6853/the-ugly-truth-behind-food-waste
 aliases:
  - /food/6853/the-ugly-truth-behind-food-waste
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031557-felix-food-waster-hero1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "modernfamer.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

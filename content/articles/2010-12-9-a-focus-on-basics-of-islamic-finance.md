@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An introduction to the world of Sharia-compliant finance
 date: "2010-12-09 19:29:02 +0000"
+# Attributes from Felix Online V1
 id: "505"
 old_path: /biz/505/a-focus-on-basics-of-islamic-finance
 aliases:
  - /biz/505/a-focus-on-basics-of-islamic-finance
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012091925-ac1507-minarets.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

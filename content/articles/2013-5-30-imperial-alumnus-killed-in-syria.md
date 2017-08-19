@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr Isa Abdur Rahman killed while helping British charity at a hospital in Syria. His family and friends have paid tribute to him, and a hospital will be built in his honour.
 date: "2013-05-30 14:42:59 +0100"
+# Attributes from Felix Online V1
 id: "3646"
 old_path: /news/3646/imperial-alumnus-killed-in-syria
 aliases:
  - /news/3646/imperial-alumnus-killed-in-syria
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301542-tna08-dr-isa-(1).jpg"
 image_caption: >
   Dr Isa Abdur Rahman was killed when a bomb hit the field hospital that he was working at
@@ -22,6 +27,7 @@ image_attribution: "HIHS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

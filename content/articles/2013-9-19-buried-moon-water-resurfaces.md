@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rocks at the surface of the Moon bear the signs of water from deep below, scientists have discovered. Marion Ferrat takes a closer look at where this water comes from and how scientists can detect it.
 date: "2013-09-19 12:23:48 +0100"
+# Attributes from Felix Online V1
 id: "3760"
 old_path: /science/3760/buried-moon-water-resurfaces
 aliases:
  - /science/3760/buried-moon-water-resurfaces
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309191319-jal08-ferrat-nasa-moon.jpg"
 image_caption: >
   A picture of Crater Bullialdus taken during the Apollo 16 mission
@@ -22,6 +27,7 @@ image_attribution: "NASA.gov"
 image_attribution_link: "http://spaceflight.nasa.gov/gallery/images/apollo/apollo16/html/as16-120-19242.html"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

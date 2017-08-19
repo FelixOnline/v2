@@ -4,15 +4,20 @@ title: >
 subtitle: >
   So, the elections are around the corner. I remember this time last year, I was having to make the decision about running for the Big Elections...
 date: "2014-02-17 17:26:14 +0000"
+# Attributes from Felix Online V1
 id: "4395"
 old_path: /comment/4395/elections-confession
 aliases:
  - /comment/4395/elections-confession
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

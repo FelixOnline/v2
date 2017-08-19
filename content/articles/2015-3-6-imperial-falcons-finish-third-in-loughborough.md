@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ashley Ng reports on the first ever M1 series tournament
 date: "2015-03-06 14:06:14 +0000"
+# Attributes from Felix Online V1
 id: "5355"
 old_path: /sport/5355/imperial-falcons-finish-third-in-loughborough
 aliases:
  - /sport/5355/imperial-falcons-finish-third-in-loughborough
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061406-kmw13-10405400_10152583315671604_8888381870642720679_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Baseball"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

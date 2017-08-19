@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Google execs face jail time over a 2006 Italian case of objectionable content on Google Video
 date: "2010-03-04 12:41:12 +0000"
+# Attributes from Felix Online V1
 id: "118"
 old_path: /tech/118/jail-time-for-google-over-italian-autistic-abuse-video
 aliases:
  - /tech/118/jail-time-for-google-over-italian-autistic-abuse-video
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003041235-srg03-GoogleBe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

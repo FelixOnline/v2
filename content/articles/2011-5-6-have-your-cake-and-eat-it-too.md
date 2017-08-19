@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The perfect mix of tablet and laptop
 date: "2011-05-06 08:21:36 +0100"
+# Attributes from Felix Online V1
 id: "1155"
 old_path: /tech/1155/have-your-cake-and-eat-it-too
 aliases:
  - /tech/1155/have-your-cake-and-eat-it-too
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060920-felix-asus_eeepadtransformer_4.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

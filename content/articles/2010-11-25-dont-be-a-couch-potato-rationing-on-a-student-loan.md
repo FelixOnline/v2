@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Thompson offers rationing recipes for hungry times
 date: "2010-11-25 20:39:06 +0000"
+# Attributes from Felix Online V1
 id: "433"
 old_path: /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
 aliases:
  - /food/433/dont-be-a-couch-potato-rationing-on-a-student-loan
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252036-nm1010-potttaaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

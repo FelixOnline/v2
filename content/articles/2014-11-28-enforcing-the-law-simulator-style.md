@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix reviews Enforce: Police Crime Action
 date: "2014-11-28 01:09:52 +0000"
+# Attributes from Felix Online V1
 id: "4978"
 old_path: /games/4978/enforcing-the-law-simulator-style
 aliases:
  - /games/4978/enforcing-the-law-simulator-style
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280109-ps3110-enforcer.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

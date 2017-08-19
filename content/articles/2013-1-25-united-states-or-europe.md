@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We need more, not less European integration. Much, much more.
 date: "2013-01-25 01:46:31 +0000"
+# Attributes from Felix Online V1
 id: "3184"
 old_path: /comment/3184/united-states-or-europe
 aliases:
  - /comment/3184/united-states-or-europe
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whilst recognising the importance of reminiscence, Chris Richardson examines the brighter side of some of the world’s top remembrance destinations
 date: "2010-11-11 20:27:12 +0000"
+# Attributes from Felix Online V1
 id: "334"
 old_path: /travel/334/lest-we-forget-to-find-a-balance-
 aliases:
  - /travel/334/lest-we-forget-to-find-a-balance-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

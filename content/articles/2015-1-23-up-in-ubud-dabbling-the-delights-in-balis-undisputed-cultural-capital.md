@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson ditches the beaches and heads for the hills
 date: "2015-01-23 19:03:36 +0000"
+# Attributes from Felix Online V1
 id: "5149"
 old_path: /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
 aliases:
  - /travel/5149/up-in-ubud-dabbling-the-delights-in-balis-undisputed-cultural-capital
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231903-jyg11-screen-shot-2015-01-23-at-19.02.48.png"
 image_caption: >
   Your luxury retreat in the hills
@@ -22,6 +27,7 @@ image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

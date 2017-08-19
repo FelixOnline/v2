@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phoebe Hunter discusses of the possibility of a permanent team at Wembley
 date: "2014-11-10 21:58:35 +0000"
+# Attributes from Felix Online V1
 id: "4833"
 old_path: /sport/4833/would-a-british-nfl-franchise-be-successful
 aliases:
  - /sport/4833/would-a-british-nfl-franchise-be-successful
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102158-ps3110-london_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

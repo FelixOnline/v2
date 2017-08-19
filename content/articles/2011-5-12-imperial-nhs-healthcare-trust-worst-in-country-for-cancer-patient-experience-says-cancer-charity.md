@@ -4,15 +4,20 @@ title: >
 subtitle: >
   150 posts also said to go this year as Trust makes £44 million saving in pay expenditure
 date: "2011-05-12 16:14:31 +0100"
+# Attributes from Felix Online V1
 id: "1186"
 old_path: /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
 aliases:
  - /news/1186/imperial-nhs-healthcare-trust-worst-in-country-for-cancer-patient-experience-says-cancer-charity
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105161146-felix-66355713.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London/Christian Richters"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya Garg visits Arequipa, sees a Incan mummy and cycles down an active volcano
 date: "2011-06-16 21:03:40 +0100"
+# Attributes from Felix Online V1
 id: "1401"
 old_path: /travel/1401/return-of-the-mummy
 aliases:
  - /travel/1401/return-of-the-mummy
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162202-felix-75795_605895006615_222401196_5691299_2786476_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

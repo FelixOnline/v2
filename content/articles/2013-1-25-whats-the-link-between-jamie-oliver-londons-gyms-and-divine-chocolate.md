@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hint: It’s not nakedness. (Though that could work too... sort of...) Caroline Wood introduces you to the world of Social Enterprise
 date: "2013-01-25 02:09:46 +0000"
+# Attributes from Felix Online V1
 id: "3192"
 old_path: /news/3192/whats-the-link-between-jamie-oliver-londons-gyms-and-divine-chocolate
 aliases:
  - /news/3192/whats-the-link-between-jamie-oliver-londons-gyms-and-divine-chocolate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250207-tna08-jamie-oliver.jpg"
 image_caption: >
   Anyone else thing he would be cooking naked?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

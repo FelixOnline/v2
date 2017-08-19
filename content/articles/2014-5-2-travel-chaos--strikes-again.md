@@ -4,15 +4,20 @@ title: >
 subtitle: >
   London was plunged into travel chaos again this week: another tube strike left commuters stranded as parts of the city ground to a standstill.
 date: "2014-05-02 00:51:26 +0100"
+# Attributes from Felix Online V1
 id: "4535"
 old_path: /news/4535/travel-chaos--strikes-again
 aliases:
  - /news/4535/travel-chaos--strikes-again
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020152-jal08-tube-strike-2014-urban-times-1280x720.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "urbantimes.co"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

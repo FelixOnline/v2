@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jeni Pillai sees if this much anticipated release live up to the hype and early promise?
 date: "2012-11-01 23:16:57 +0000"
+# Attributes from Felix Online V1
 id: "2821"
 old_path: /music/2821/cave-painting-votive-life
 aliases:
  - /music/2821/cave-painting-votive-life
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012316-tna08-cave-painting.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

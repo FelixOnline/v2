@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What a year, what a dire year
 date: "2016-12-16 14:28:55 +0000"
+# Attributes from Felix Online V1
 id: "6599"
 old_path: /features/6599/an-idiots-guide-to-2016
 aliases:
  - /features/6599/an-idiots-guide-to-2016
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161424-felix-5440002785_7b1ed0ac3e_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Gage Skidmore "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

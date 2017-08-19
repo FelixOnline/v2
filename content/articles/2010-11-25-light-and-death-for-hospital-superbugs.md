@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Light and death for hospital superbugs.
 date: "2010-11-25 20:06:50 +0000"
+# Attributes from Felix Online V1
 id: "425"
 old_path: /science/425/light-and-death-for-hospital-superbugs
 aliases:
  - /science/425/light-and-death-for-hospital-superbugs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252004-nm1010-handwash.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Artists have new studio at Imperial
 date: "2012-10-18 21:49:20 +0100"
+# Attributes from Felix Online V1
 id: "2724"
 old_path: /news/2724/art-studio-opens-in-college
 aliases:
  - /news/2724/art-studio-opens-in-college
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182248-felix-art-thingrgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

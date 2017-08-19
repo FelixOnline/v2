@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “This is a fight to the death. For each side the only acceptable outcome is the complete elimination of the other”
 date: "2012-02-09 22:33:47 +0000"
+# Attributes from Felix Online V1
 id: "2153"
 old_path: /games/2153/total-annihilation-totally-annihilates-boredom
 aliases:
  - /games/2153/total-annihilation-totally-annihilates-boredom
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092230-ams111-1177920819_total_annihilation.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

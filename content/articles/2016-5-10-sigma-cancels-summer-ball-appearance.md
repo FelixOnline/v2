@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The headliner will now be DJ Fresh
 date: "2016-05-10 13:11:34 +0100"
+# Attributes from Felix Online V1
 id: "6140"
 old_path: /news/6140/sigma-cancels-summer-ball-appearance
 aliases:
  - /news/6140/sigma-cancels-summer-ball-appearance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605101515-ygr12-sigma copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

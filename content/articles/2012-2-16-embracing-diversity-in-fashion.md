@@ -4,15 +4,20 @@ title: >
 subtitle: >
   MAI and Alice Yang interview fashion’s top activist and All Walks founder Caryn Franklin
 date: "2012-02-16 21:39:22 +0000"
+# Attributes from Felix Online V1
 id: "2193"
 old_path: /fashion/2193/embracing-diversity-in-fashion
 aliases:
  - /fashion/2193/embracing-diversity-in-fashion
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162138-ams111-caryn-blank.jpg"
 image_caption: >
   All Walks Founder: Caryn Franklin
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
+# Attributes from Felix Online V1
 id: "5026"
 old_path: /science/5026/the-ultimate-hangover-cure
 aliases:
  - /science/5026/the-ultimate-hangover-cure
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112017-cj914-beer-guy.jpg"
 image_caption: >
   A new drug could reduce the impact of alcohol on the brain.
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

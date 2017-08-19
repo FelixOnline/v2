@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exhibition Road Project opposed by charities
 date: "2010-01-21 22:16:08 +0000"
+# Attributes from Felix Online V1
 id: "45"
 old_path: /news/45/exhibition-road-project-opposed-by-charities
 aliases:
  - /news/45/exhibition-road-project-opposed-by-charities
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001212214-rsp07-Exhibiti.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And why shouldn't I?
 date: "2011-06-23 21:14:39 +0100"
+# Attributes from Felix Online V1
 id: "1435"
 old_path: /food/1435/so-hungry-i-could-eat-a-horse
 aliases:
  - /food/1435/so-hungry-i-could-eat-a-horse
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/publicenergy"
 image_attribution_link: "http://www.flickr.com/photos/publicenergy/4937610935/in/set-72157624642960214"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephanie Walton takes an unusual walk by the sea
 date: "2012-11-09 12:39:56 +0000"
+# Attributes from Felix Online V1
 id: "2850"
 old_path: /travel/2850/wallowing-in-the-wadden
 aliases:
  - /travel/2850/wallowing-in-the-wadden
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091239-tna08-p1010312.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mud review
 date: "2013-05-16 18:12:56 +0100"
+# Attributes from Felix Online V1
 id: "3580"
 old_path: /film/3580/reese-witherspoon-is-a-bad-girl-these-days
 aliases:
  - /film/3580/reese-witherspoon-is-a-bad-girl-these-days
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161914-tna08-reesewitherspoonmud.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

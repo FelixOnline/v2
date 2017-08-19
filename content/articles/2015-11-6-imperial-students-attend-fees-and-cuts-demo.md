@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They joined 10,000 others protesting against cuts to maintenance grants
 date: "2015-11-06 13:32:53 +0000"
+# Attributes from Felix Online V1
 id: "5696"
 old_path: /news/5696/imperial-students-attend-fees-and-cuts-demo
 aliases:
  - /news/5696/imperial-students-attend-fees-and-cuts-demo
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061332-ygr12-tiny.jpg"
 image_caption: >
   Should protests be this fun?
@@ -22,6 +27,7 @@ image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's conference season and literally tens of people have followed them. Luckily for you, Padraic Calpin did...
 date: "2012-10-05 13:09:43 +0100"
+# Attributes from Felix Online V1
 id: "2622"
 old_path: /politics/2622/conferences-and-confidence--or-lack-thereof
 aliases:
  - /politics/2622/conferences-and-confidence--or-lack-thereof
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051407-felix-david-cameron-010.jpg"
 image_caption: >
   “Damn it, Ed stole Disraeli”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

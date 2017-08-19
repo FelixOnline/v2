@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Newcastle’s BUCS Head up proves a successful trip for the team
 date: "2016-02-26 12:13:30 +0000"
+# Attributes from Felix Online V1
 id: "5990"
 old_path: /sport/5990/medals-aplenty-for-the-rowers
 aliases:
  - /sport/5990/medals-aplenty-for-the-rowers
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261213-felix-12743858_10102363028415889_2873748662090135156_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial Boat"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

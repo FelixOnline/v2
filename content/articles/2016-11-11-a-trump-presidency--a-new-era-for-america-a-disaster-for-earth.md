@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lara Bailey discusses how US politics will affect the future of our planet
 date: "2016-11-11 15:53:17 +0000"
+# Attributes from Felix Online V1
 id: "6427"
 old_path: /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
 aliases:
  - /science/6427/a-trump-presidency--a-new-era-for-america-a-disaster-for-earth
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111552-felix-microscope-149816_1280.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

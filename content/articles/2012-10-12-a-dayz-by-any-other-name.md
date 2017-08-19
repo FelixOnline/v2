@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster is looking for friendlies in Cherno
 date: "2012-10-12 10:57:10 +0100"
+# Attributes from Felix Online V1
 id: "2682"
 old_path: /games/2682/a-dayz-by-any-other-name
 aliases:
  - /games/2682/a-dayz-by-any-other-name
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

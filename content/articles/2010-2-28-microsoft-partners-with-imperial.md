@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Microsoft has selected the Business School for support
 date: "2010-02-28 16:07:59 +0000"
+# Attributes from Felix Online V1
 id: "116"
 old_path: /news/116/microsoft-partners-with-imperial
 aliases:
  - /news/116/microsoft-partners-with-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   18 years after the famous Deep Field image, a series of photographs from the Hubble space telescope are giving us a new insight into extremely distant galaxies that formed soon after the big bang.
 date: "2014-01-24 09:59:11 +0000"
+# Attributes from Felix Online V1
 id: "4289"
 old_path: /science/4289/hubble-gives-us-further-insight-into-distant-galaxies
 aliases:
  - /science/4289/hubble-gives-us-further-insight-into-distant-galaxies
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

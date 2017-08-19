@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Globe's Summer of Love continues with a dazzling take on Shakespeare's bittersweet tale of crossdressing and subversion
 date: "2017-05-31 23:02:46 +0100"
+# Attributes from Felix Online V1
 id: "6979"
 old_path: /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
 aliases:
  - /arts/6979/twelfth-night-at-the-globe--emma-rice-remixes-shakespeare-with-disco-anthems-and-glittery-fun
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706010049-im1413-big.jpg"
 image_caption: >
   Le Gateau Chocolat as Feste in Twelfth Night at the Shakespeare's Globe. Photo: The Shakespeare's Globe
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

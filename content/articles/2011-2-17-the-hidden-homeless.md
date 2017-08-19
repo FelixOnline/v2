@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Crouch and Anna Perman remember Martin Milligan and look deeper into the problem of homelessness in the UK
 date: "2011-02-17 19:48:53 +0000"
+# Attributes from Felix Online V1
 id: "826"
 old_path: /news/826/the-hidden-homeless
 aliases:
  - /news/826/the-hidden-homeless
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171945-ks607-martinmi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Marie Chkaiban"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

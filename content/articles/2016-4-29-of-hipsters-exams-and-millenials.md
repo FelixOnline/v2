@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Millenials lack the sense of collective purpose that defined previous generations
 date: "2016-04-29 11:05:00 +0100"
+# Attributes from Felix Online V1
 id: "6111"
 old_path: /comment/6111/of-hipsters-exams-and-millenials
 aliases:
  - /comment/6111/of-hipsters-exams-and-millenials
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291204-felix-hipster.jpg"
 image_caption: >
   The males of the species can often be identified by their facial hair, and are commonly found in East London.
@@ -22,6 +27,7 @@ image_attribution: "New Statesman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

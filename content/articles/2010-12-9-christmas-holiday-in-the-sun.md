@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why not trade in the dreary snow and endless movie re-runs this Christmas for some tasty tropical islands and unforgettable adventures?
 date: "2010-12-09 20:14:54 +0000"
+# Attributes from Felix Online V1
 id: "518"
 old_path: /travel/518/christmas-holiday-in-the-sun
 aliases:
  - /travel/518/christmas-holiday-in-the-sun
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

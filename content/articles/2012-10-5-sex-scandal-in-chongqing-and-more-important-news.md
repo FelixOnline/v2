@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marie-Laure Hicks looks into political gossip from the Far East
 date: "2012-10-05 13:04:56 +0100"
+# Attributes from Felix Online V1
 id: "2621"
 old_path: /politics/2621/sex-scandal-in-chongqing-and-more-important-news
 aliases:
  - /politics/2621/sex-scandal-in-chongqing-and-more-important-news
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051404-felix-gu-kailai-3.jpg"
 image_caption: >
   Gu Kailai at her trial
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

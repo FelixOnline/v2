@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken offers a final retrospective on this long-running medical drama
 date: "2015-03-25 12:09:18 +0000"
+# Attributes from Felix Online V1
 id: "5426"
 old_path: /tv/5426/house-a-post-mortem
 aliases:
  - /tv/5426/house-a-post-mortem
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251207-ff712-3840x2400.jpg"
 image_caption: >
   Hugh Laurie, who stars as the title star in the long-running series House, which bowed out at the end of its eighth series in 2012.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: "http://FOX"
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

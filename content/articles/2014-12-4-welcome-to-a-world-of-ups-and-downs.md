@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chrysostomos Meli looks at how you will be paying for things in the future
 date: "2014-12-04 19:24:35 +0000"
+# Attributes from Felix Online V1
 id: "4997"
 old_path: /tech/4997/welcome-to-a-world-of-ups-and-downs
 aliases:
  - /tech/4997/welcome-to-a-world-of-ups-and-downs
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041924-cj914-red-yoyo-copy.jpg"
 image_caption: >
   YOYO is the electronic payment choice of a lot of Imperial students. Disclaimer: has nothing to do w
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

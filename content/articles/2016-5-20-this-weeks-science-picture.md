@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular column
 date: "2016-05-20 09:09:36 +0100"
+# Attributes from Felix Online V1
 id: "6185"
 old_path: /science/6185/this-weeks-science-picture
 aliases:
  - /science/6185/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201109-felix-13224110_10156866257595394_501452679_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miquel Sureda"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

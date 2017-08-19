@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
+# Attributes from Felix Online V1
 id: "5446"
 old_path: /arts/5446/the-indian-queen--purcells-final-flourish
 aliases:
  - /arts/5446/the-indian-queen--purcells-final-flourish
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
 image_caption: >
   Maritxell Carrero and Julia Bullock in The Indian Queen.
@@ -22,6 +27,7 @@ image_attribution: "ENO / Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

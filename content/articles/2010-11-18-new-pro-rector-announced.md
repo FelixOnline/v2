@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Major personnel changes in Engineering and Medicine
 date: "2010-11-18 21:47:22 +0000"
+# Attributes from Felix Online V1
 id: "410"
 old_path: /news/410/new-pro-rector-announced-
 aliases:
  - /news/410/new-pro-rector-announced-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182146-ks607-stevesmi.jpg"
 image_caption: >
   Professor Stephen Smith
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

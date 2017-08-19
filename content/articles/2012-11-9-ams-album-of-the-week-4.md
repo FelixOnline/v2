@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Neil Young: After the Gold Rush
 date: "2012-11-09 14:18:23 +0000"
+# Attributes from Felix Online V1
 id: "2869"
 old_path: /music/2869/ams-album-of-the-week-4
 aliases:
  - /music/2869/ams-album-of-the-week-4
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091418-tna08-253749760224187842_pkv0gg4t.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

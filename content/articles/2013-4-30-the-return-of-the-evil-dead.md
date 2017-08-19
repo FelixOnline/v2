@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As opposed to those lovely dead people
 date: "2013-04-30 10:29:15 +0100"
+# Attributes from Felix Online V1
 id: "3499"
 old_path: /film/3499/the-return-of-the-evil-dead
 aliases:
  - /film/3499/the-return-of-the-evil-dead
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012041-tna08-evil-dead1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

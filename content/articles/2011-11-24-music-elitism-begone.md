@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Beech thinks Felix Music needs more Wham!
 date: "2011-11-24 21:32:15 +0000"
+# Attributes from Felix Online V1
 id: "1822"
 old_path: /music/1822/music-elitism-begone
 aliases:
  - /music/1822/music-elitism-begone
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

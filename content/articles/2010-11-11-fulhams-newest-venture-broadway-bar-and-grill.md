@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Steak, football and beer - a student’s every need fulfilled
 date: "2010-11-11 21:10:38 +0000"
+# Attributes from Felix Online V1
 id: "354"
 old_path: /food/354/fulhams-newest-venture-broadway-bar-and-grill
 aliases:
  - /food/354/fulhams-newest-venture-broadway-bar-and-grill
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112107-nm1010-broadway.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lj810"
 author_name: "Lucie Jichova"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman enjoys this debauched puppet musical far too much. Twice.
 date: "2015-05-26 13:52:39 +0100"
+# Attributes from Felix Online V1
 id: "5566"
 old_path: /arts/5566/livin-it-large-on-avenue-q
 aliases:
  - /arts/5566/livin-it-large-on-avenue-q
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261448-js5913-avenue-q-cast.jpg"
 image_caption: >
   The cast of the UK touring production of Avenue Q, waiting for a rehearsal to start.
@@ -22,6 +27,7 @@ image_attribution: "Matt Martin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

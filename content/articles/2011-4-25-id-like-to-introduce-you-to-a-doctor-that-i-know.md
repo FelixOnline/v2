@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There hasn't been a better time to start watching Doctor Who. The new season is going to be a scorcher
 date: "2011-04-25 21:57:09 +0100"
+# Attributes from Felix Online V1
 id: "1142"
 old_path: /tv/1142/id-like-to-introduce-you-to-a-doctor-that-i-know
 aliases:
  - /tv/1142/id-like-to-introduce-you-to-a-doctor-that-i-know
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104252256-felix-amy-pond.jpeg"
 image_caption: >
   If that smoking hot blue box doesn't make you want to watch Doctor Who, then I don't know what will
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

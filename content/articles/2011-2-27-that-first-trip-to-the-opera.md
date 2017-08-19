@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A spontaneous, mid-lecture decision to try something new pays off majestically
 date: "2011-02-27 19:29:52 +0000"
+# Attributes from Felix Online V1
 id: "914"
 old_path: /arts/914/that-first-trip-to-the-opera
 aliases:
  - /arts/914/that-first-trip-to-the-opera
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271928-ks607-royalope.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

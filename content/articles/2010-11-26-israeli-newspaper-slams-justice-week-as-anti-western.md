@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
+# Attributes from Felix Online V1
 id: "448"
 old_path: /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
 aliases:
  - /news/448/israeli-newspaper-slams-justice-week-as-anti-western-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bs2610"
 author_name: "Ben Scally"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

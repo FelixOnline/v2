@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fabio Virgi looks at Apple's latest offering
 date: "2013-06-13 22:54:16 +0100"
+# Attributes from Felix Online V1
 id: "3685"
 old_path: /tech/3685/apple-drops-cat-names-with-os-x-mavericks
 aliases:
  - /tech/3685/apple-drops-cat-names-with-os-x-mavericks
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132353-tna08-applearticletechrgb.jpg"
 image_caption: >
   Some of the key new features from OS X SeaLion? Clockwise from top left: Bookmark sidebar, Multiple
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

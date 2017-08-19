@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clarification sought on reason for closure. Union wants to know how students will be supported through their degrees. Union Council vote to oppose closure wins despite no sabbatical voting for it.
 date: "2013-02-14 21:22:02 +0000"
+# Attributes from Felix Online V1
 id: "3337"
 old_path: /news/3337/union-does-not-support-closure-of-translation-studies-unit
 aliases:
  - /news/3337/union-does-not-support-closure-of-translation-studies-unit
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302142122-tna08-tsu.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

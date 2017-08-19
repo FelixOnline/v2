@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
+# Attributes from Felix Online V1
 id: "2292"
 old_path: /comment/2292/its-time-for-a-union-general-meeting
 aliases:
  - /comment/2292/its-time-for-a-union-general-meeting
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012251-ams111-20090420_henkel_agm_9_pboxx-pixelboxx-118476_300dpi_1772h_1772w.jpg"
 image_caption: >
   It probably won't look like this
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

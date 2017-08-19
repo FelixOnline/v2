@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is the sky the limit, or will it never take off? Plane crazy or runway success?
 date: "2012-03-08 20:52:51 +0000"
+# Attributes from Felix Online V1
 id: "2320"
 old_path: /biz/2320/more-airports-for-the-uk
 aliases:
  - /biz/2320/more-airports-for-the-uk
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082052-ams111-thames_hub_vision22-1.jpg"
 image_caption: >
   Promo shots for the latest Grand Theft Auto game were met with a lukewarm critical response
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

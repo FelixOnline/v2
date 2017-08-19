@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cécile Borkhataria on the race to develop a drug for the deadly disease
 date: "2014-11-10 22:52:21 +0000"
+# Attributes from Felix Online V1
 id: "4850"
 old_path: /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
 aliases:
  - /science/4850/imperial-professor-to-lead-ebola-vaccine-trial
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102252-ps3110-mediausatodayusatoday201407311406846337000-ebola-protective-gear5.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

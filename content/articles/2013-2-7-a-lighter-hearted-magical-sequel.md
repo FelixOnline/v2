@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Doesn't stray out of the zones of interestingness
 date: "2013-02-07 22:40:52 +0000"
+# Attributes from Felix Online V1
 id: "3244"
 old_path: /books/3244/a-lighter-hearted-magical-sequel
 aliases:
  - /books/3244/a-lighter-hearted-magical-sequel
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072240-tna08-stray-souls.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

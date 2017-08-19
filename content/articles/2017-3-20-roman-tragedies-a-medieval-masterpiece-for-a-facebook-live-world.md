@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Barbican's staging of Ivo van Hove's epic Shakespeare adaptation is bold and daring
 date: "2017-03-20 21:36:53 +0000"
+# Attributes from Felix Online V1
 id: "6920"
 old_path: /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
 aliases:
  - /arts/6920/roman-tragedies-a-medieval-masterpiece-for-a-facebook-live-world
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703202136-ff712-08.jpg"
 image_caption: >
   Toneelgroep Amsterdam, Roman Tragedies, Fred Goessen
@@ -22,6 +27,7 @@ image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

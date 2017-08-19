@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yakuza 0 is out on the Playstation 4
 date: "2017-03-17 17:30:47 +0000"
+# Attributes from Felix Online V1
 id: "6918"
 old_path: /games/6918/gangsta-riot--yakuza-0
 aliases:
  - /games/6918/gangsta-riot--yakuza-0
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171730-felix-yakuza-zero-ps4-review-5.jpg"
 image_caption: >
   Talk to the racecar, the face ain’t listening
@@ -22,6 +27,7 @@ image_attribution: "Sega"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

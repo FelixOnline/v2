@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There are joys to be had in the good old weather report
 date: "2011-11-17 21:50:25 +0000"
+# Attributes from Felix Online V1
 id: "1788"
 old_path: /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
 aliases:
  - /tv/1788/feeling-under-the-weather-thisll-make-you-right-as-rain
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172150-pk1811-weather_deakin_dec2006a.jpg"
 image_caption: >
   Yes, I do look insufferably smug here
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

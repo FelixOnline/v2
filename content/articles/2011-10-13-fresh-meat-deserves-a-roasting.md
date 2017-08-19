@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New comedy series has more sex than Imperial, dammit
 date: "2011-10-13 22:46:56 +0100"
+# Attributes from Felix Online V1
 id: "1517"
 old_path: /tv/1517/fresh-meat-deserves-a-roasting
 aliases:
  - /tv/1517/fresh-meat-deserves-a-roasting
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132351-felix-fresh-meat-launch-image_a2.jpg"
 image_caption: >
   Fresh Meat – does it deserve the rave reviews?
@@ -22,6 +27,7 @@ image_attribution: "Channel 4"
 image_attribution_link: "http://www.channel4.com/media/images/CorporatePortal/Benji/Fresh%20Meat/Fresh%20Meat%20Launch%20Imag"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

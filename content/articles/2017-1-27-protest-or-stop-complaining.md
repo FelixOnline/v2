@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik sees protests as the only way to exact change
 date: "2017-01-27 16:22:15 +0000"
+# Attributes from Felix Online V1
 id: "6686"
 old_path: /comment/6686/protest-or-stop-complaining-
 aliases:
  - /comment/6686/protest-or-stop-complaining-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271640-felix-Screen Shot 2017-01-27 at 16.26.36.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

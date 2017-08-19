@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a Superdrug study of sexual health provision by universities nationwide College was rated 14th and provided with a 2:1 classification.
 date: "2014-05-09 01:55:00 +0100"
+# Attributes from Felix Online V1
 id: "4564"
 old_path: /news/4564/college-gets-a-21-for-sexual-health
 aliases:
  - /news/4564/college-gets-a-21-for-sexual-health
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Superdrug"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

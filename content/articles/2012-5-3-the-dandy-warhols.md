@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aditya Narayanan starts a mosh pit in Kentish Town
 date: "2012-05-03 17:52:14 +0100"
+# Attributes from Felix Online V1
 id: "2407"
 old_path: /music/2407/the-dandy-warhols
 aliases:
  - /music/2407/the-dandy-warhols
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031852-ams111-dandy_warhols.jpg"
 image_caption: >
   They most certainly look dandy
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

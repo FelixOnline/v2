@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RAG drops Imperial Rugby from their Nude Calendar after Rugby made the national press.
 date: "2014-11-06 22:09:43 +0000"
+# Attributes from Felix Online V1
 id: "4811"
 old_path: /news/4811/rag-tells-rugby-we-dont-want-your-junk
 aliases:
  - /news/4811/rag-tells-rugby-we-dont-want-your-junk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
 image_caption: >
   Taken from the Rugby Centrefold in Issue 1583
@@ -22,6 +27,7 @@ image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

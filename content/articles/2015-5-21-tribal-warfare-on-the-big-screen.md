@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is hooked by a brutal piece of cinema from Ukraine
 date: "2015-05-21 23:09:29 +0100"
+# Attributes from Felix Online V1
 id: "5556"
 old_path: /film/5556/tribal-warfare-on-the-big-screen
 aliases:
  - /film/5556/tribal-warfare-on-the-big-screen
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505220012-jmm311-the-tribe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

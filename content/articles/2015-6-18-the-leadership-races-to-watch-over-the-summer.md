@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
+# Attributes from Felix Online V1
 id: "5630"
 old_path: /politics/5630/the-leadership-races-to-watch-over-the-summer-
 aliases:
  - /politics/5630/the-leadership-races-to-watch-over-the-summer-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182045-jyg11-borisjohnson.jpg"
 image_caption: >
   Could this muppet be the next leader of the Conservative party?
@@ -22,6 +27,7 @@ image_attribution: "RothCPA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The College has announced plans for a major redevelopment of the Central Library. The project is scheduled to begin in a few weeks and is set to finish in late 2015, with work taking place mainly this summer and next summer to minimise disruption to students.
 date: "2014-06-12 17:59:34 +0100"
+# Attributes from Felix Online V1
 id: "4689"
 old_path: /news/4689/college-launches-library-redevelopment
 aliases:
  - /news/4689/college-launches-library-redevelopment
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dizzee Rascal – DirteeTv.com Mixtape – Dirtee Stank Recordings – 2012
 date: "2012-01-27 09:56:54 +0000"
+# Attributes from Felix Online V1
 id: "2082"
 old_path: /music/2082/kadhims-totally-hot-album-of-the-week-13
 aliases:
  - /music/2082/kadhims-totally-hot-album-of-the-week-13
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201270956-ks607-dizzee.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you stop and think about it, a completely faithful adaptation ran the risk of being stale
 date: "2017-03-03 15:40:58 +0000"
+# Attributes from Felix Online V1
 id: "6850"
 old_path: /tv/6850/life-with-archie--riverdale
 aliases:
  - /tv/6850/life-with-archie--riverdale
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031540-felix-riverdale_64.jpg"
 image_caption: >
   Careful you don’t cut yourself on all that edge
@@ -22,6 +27,7 @@ image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

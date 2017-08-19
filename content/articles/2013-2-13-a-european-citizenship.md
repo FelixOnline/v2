@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the first of two articles about our friends from across the Channel, Leonardo Ialongo lays out the case for European integration
 date: "2013-02-13 16:07:02 +0000"
+# Attributes from Felix Online V1
 id: "3309"
 old_path: /comment/3309/a-european-citizenship
 aliases:
  - /comment/3309/a-european-citizenship
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131854-tna08-eu-passport-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

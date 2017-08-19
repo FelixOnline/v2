@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The makers of Monument Valley return with the first great VR experience on mobile
 date: "2016-02-05 12:43:36 +0000"
+# Attributes from Felix Online V1
 id: "5882"
 old_path: /games/5882/lands-end-is-a-vr-gem
 aliases:
  - /games/5882/lands-end-is-a-vr-gem
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051242-felix-landsend1.jpg"
 image_caption: >
   Land’s End, the first good game about somewhere in Cornwall (kinda).
@@ -22,6 +27,7 @@ image_attribution: "Ustwo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

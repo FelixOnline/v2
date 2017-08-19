@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tickets now on sale, greater emphasis on managing risk
 date: "2012-03-16 01:50:40 +0000"
+# Attributes from Felix Online V1
 id: "2402"
 old_path: /news/2402/more-summer-ball-plans-outlined
 aliases:
  - /news/2402/more-summer-ball-plans-outlined
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203160155-felix-screen-shot-2012-03-16-at-01.54.41.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

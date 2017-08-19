@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rep Week is starting on Monday and provides a platform to celebrate the great changes that have taken place with the help of your Academic Representation Network. Just last month a record number of students voted in our Your Rep Elections and there are now over 430 Academic Reps working...
 date: "2013-11-24 15:48:52 +0000"
+# Attributes from Felix Online V1
 id: "4098"
 old_path: /features/4098/loveyourrep
 aliases:
  - /features/4098/loveyourrep
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

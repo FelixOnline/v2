@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s the first of December tomorrow, so this is like, OK and that. Luke Baldwin on what Christmas is all about.
 date: "2012-11-29 23:09:05 +0000"
+# Attributes from Felix Online V1
 id: "3005"
 old_path: /comment/3005/we-wish-you-a-merry-christmas
 aliases:
  - /comment/3005/we-wish-you-a-merry-christmas
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

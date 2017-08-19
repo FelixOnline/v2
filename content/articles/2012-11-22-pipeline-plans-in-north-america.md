@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joseph Spiking asks: In the land of oil and climate change sceptics, does environmentally friendly policy stand a chance?
 date: "2012-11-22 23:19:33 +0000"
+# Attributes from Felix Online V1
 id: "2945"
 old_path: /politics/2945/pipeline-plans-in-north-america
 aliases:
  - /politics/2945/pipeline-plans-in-north-america
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222319-tna08-obama-windfarm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

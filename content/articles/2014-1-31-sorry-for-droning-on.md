@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At the time of writing, the Guardian has just run an online story about Obama. It seems he is ready to bypass congress when it comes to his 2014 agenda.
 date: "2014-01-31 17:51:34 +0000"
+# Attributes from Felix Online V1
 id: "4322"
 old_path: /comment/4322/sorry-for-droning-on-
 aliases:
  - /comment/4322/sorry-for-droning-on-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

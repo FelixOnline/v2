@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Large scale study to test mental agility confirms that the same risk factors involved in cardiovascular health problems is also involved in impaired cognitive function
 date: "2012-12-07 01:32:52 +0000"
+# Attributes from Felix Online V1
 id: "3037"
 old_path: /science/3037/dont-let-your-heart-rule-your-head
 aliases:
  - /science/3037/dont-let-your-heart-rule-your-head
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070130-tna08-cigarette-smoke-brain-wallpaper-57855.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

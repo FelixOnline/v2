@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But Jack Steadman suggests otherwise (this time, anyway)
 date: "2015-06-18 21:15:46 +0100"
+# Attributes from Felix Online V1
 id: "5637"
 old_path: /arts/5637/the-national-wants-you-to-watch
 aliases:
  - /arts/5637/the-national-wants-you-to-watch
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182215-jyg11-jpeg-1-abbi-greenland,-helena-lymbery-and-helen-goalen-photography-by-richard-davenport.jpg"
 image_caption: >
   Abbi Greenland, Helena Lymbery and Helen Goalen in We Want You to Watch at the National Theatre.
@@ -22,6 +27,7 @@ image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First impressions are probably correct. An introduction to the life of a Graduate Teaching Assistant
 date: "2013-10-11 23:47:39 +0100"
+# Attributes from Felix Online V1
 id: "3832"
 old_path: /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
 aliases:
  - /comment/3832/confessions-of-a-graduate-teaching-assistant-gta-part-one
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
 image_caption: >
   Seriously starting to wonder if the GTA is actually Jack Black...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

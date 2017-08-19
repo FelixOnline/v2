@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We're back for round two
 date: "2017-01-20 15:21:08 +0000"
+# Attributes from Felix Online V1
 id: "6669"
 old_path: /music/6669/problematic-faves--j-cole-and-jesse-hughes
 aliases:
  - /music/6669/problematic-faves--j-cole-and-jesse-hughes
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201519-felix-12469365865_7862e7c635_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "J Cole"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

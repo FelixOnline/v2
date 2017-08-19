@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's far better than its scatilogical matter may suggest.
 date: "2016-02-26 11:41:30 +0000"
+# Attributes from Felix Online V1
 id: "5968"
 old_path: /film/5968/review--the-smuggler
 aliases:
  - /film/5968/review--the-smuggler
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261140-felix-mule-0-2000-0-1125-crop.jpg"
 image_caption: >
   Angus Simpson as Ray, in the somewhat confused film The Smuggler.
@@ -22,6 +27,7 @@ image_attribution: "The Smuggler PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

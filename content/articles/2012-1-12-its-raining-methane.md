@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Planetary scientists come up with weather system model for one of Saturn's moons
 date: "2012-01-12 21:56:22 +0000"
+# Attributes from Felix Online V1
 id: "1976"
 old_path: /science/1976/its-raining-methane
 aliases:
  - /science/1976/its-raining-methane
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122154-cac111-titan_multi_spectral_overlay.jpg"
 image_caption: >
   Titan as seen by Cassini in ultraviolet and infrared wavelengths
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

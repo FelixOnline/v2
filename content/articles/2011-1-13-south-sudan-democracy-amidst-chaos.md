@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The people of South Sudan look set to determine their own future
 date: "2011-01-13 19:57:28 +0000"
+# Attributes from Felix Online V1
 id: "572"
 old_path: /politics/572/south-sudan-democracy-amidst-chaos-
 aliases:
  - /politics/572/south-sudan-democracy-amidst-chaos-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131956-ks607-sudansud.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

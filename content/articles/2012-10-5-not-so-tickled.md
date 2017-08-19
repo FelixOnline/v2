@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Peek takes in a night of comedy
 date: "2012-10-05 11:30:11 +0100"
+# Attributes from Felix Online V1
 id: "2596"
 old_path: /arts/2596/not-so-tickled
 aliases:
  - /arts/2596/not-so-tickled
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

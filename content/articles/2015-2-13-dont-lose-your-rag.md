@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Morgan Heycock describes the RAG Dollz adventure to Paris
 date: "2015-02-13 15:16:45 +0000"
+# Attributes from Felix Online V1
 id: "5257"
 old_path: /cands/5257/dont-lose-your-rag
 aliases:
  - /cands/5257/dont-lose-your-rag
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131516-bwh12-3stoogesjailbreak3.jpg"
 image_caption: >
   This approach apparently only works on this side of the Channel.
@@ -22,6 +27,7 @@ image_attribution: "Bella Dennis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Women’s 3s – 39 / LSE 4s – 5 / Women’s 4s – 8 / St George’s 4s – 22
 date: "2012-02-02 23:13:56 +0000"
+# Attributes from Felix Online V1
 id: "2107"
 old_path: /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
 aliases:
  - /sport/2107/netball-3s-crush-lse-plucky-4s-lose-to-st-georges
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022313-sjw209-img_4223.jpg"
 image_caption: >
   Netball. Much easier when the ball sticks to your hands
@@ -22,6 +27,7 @@ image_attribution: "Feroza Kassam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

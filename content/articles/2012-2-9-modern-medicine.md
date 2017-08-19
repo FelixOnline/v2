@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The latest Friends of Imperial College talks takes a look into recent work from the Human Genome Project
 date: "2012-02-09 22:54:33 +0000"
+# Attributes from Felix Online V1
 id: "2166"
 old_path: /science/2166/modern-medicine
 aliases:
  - /science/2166/modern-medicine
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

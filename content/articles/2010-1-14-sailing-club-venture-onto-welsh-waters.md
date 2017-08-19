@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sailors sail near Swansea and probably away again. It is Swansea, after all
 date: "2010-01-14 22:27:49 +0000"
+# Attributes from Felix Online V1
 id: "39"
 old_path: /sport/39/sailing-club-venture-onto-welsh-waters
 aliases:
  - /sport/39/sailing-club-venture-onto-welsh-waters
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

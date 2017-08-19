@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sleigh Bells - Reign of Terror - Mom & Pop - 2012
 date: "2012-02-23 20:57:44 +0000"
+# Attributes from Felix Online V1
 id: "2248"
 old_path: /music/2248/kadhims-totally-hot-album-of-the-week-16
 aliases:
  - /music/2248/kadhims-totally-hot-album-of-the-week-16
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232057-pk1811-sleigh-bells-reign-of-terror-1024x925.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

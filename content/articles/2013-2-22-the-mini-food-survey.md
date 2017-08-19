@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sophia Goldberg discusses the best and worst food on campus, where you can get the best lunch or coffee and whether students are put off buying healthy foods because of the price tag.
 date: "2013-02-22 02:59:45 +0000"
+# Attributes from Felix Online V1
 id: "3376"
 old_path: /food/3376/the-mini-food-survey
 aliases:
  - /food/3376/the-mini-food-survey
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

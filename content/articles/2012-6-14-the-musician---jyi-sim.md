@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Musician - Jyi Sim
 date: "2012-06-14 20:39:13 +0100"
+# Attributes from Felix Online V1
 id: "2568"
 old_path: /phoenix/2568/the-musician---jyi-sim-
 aliases:
  - /phoenix/2568/the-musician---jyi-sim-
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142137-pk1811-dsc02584.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

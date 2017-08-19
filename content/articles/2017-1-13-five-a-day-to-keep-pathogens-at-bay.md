@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Five-a-day to keep pathogens at bay
 date: "2017-01-13 14:11:15 +0000"
+# Attributes from Felix Online V1
 id: "6638"
 old_path: /science/6638/five-a-day-to-keep-pathogens-at-bay
 aliases:
  - /science/6638/five-a-day-to-keep-pathogens-at-bay
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131410-felix-16418101707_5185ae7a64_k.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Bounmy C"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

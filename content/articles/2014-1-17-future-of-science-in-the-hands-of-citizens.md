@@ -4,15 +4,20 @@ title: >
 subtitle: >
   San Chun Yin, Imperial Hub Vice-President on citizen science
 date: "2014-01-17 03:24:54 +0000"
+# Attributes from Felix Online V1
 id: "4231"
 old_path: /features/4231/future-of-science-in-the-hands-of-citizens
 aliases:
  - /features/4231/future-of-science-in-the-hands-of-citizens
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

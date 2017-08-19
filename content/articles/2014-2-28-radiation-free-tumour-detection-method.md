@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body.
 date: "2014-02-28 07:20:24 +0000"
+# Attributes from Felix Online V1
 id: "4447"
 old_path: /science/4447/radiation-free-tumour-detection-method
 aliases:
  - /science/4447/radiation-free-tumour-detection-method
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

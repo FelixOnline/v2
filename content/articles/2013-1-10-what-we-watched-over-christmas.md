@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's not all fun and games you know!
 date: "2013-01-10 23:05:14 +0000"
+# Attributes from Felix Online V1
 id: "3104"
 old_path: /film/3104/what-we-watched-over-christmas-
 aliases:
  - /film/3104/what-we-watched-over-christmas-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Food in gaming as you've never seen it before
 date: "2017-02-03 17:34:20 +0000"
+# Attributes from Felix Online V1
 id: "6733"
 old_path: /games/6733/8-bit-snacking
 aliases:
  - /games/6733/8-bit-snacking
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031734-felix-3473758739_9ae204f630_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Andrew Ell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

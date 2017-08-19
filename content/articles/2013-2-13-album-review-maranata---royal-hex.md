@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz doesn't cover his ears
 date: "2013-02-13 13:15:46 +0000"
+# Attributes from Felix Online V1
 id: "3299"
 old_path: /music/3299/album-review-maranata---royal-hex
 aliases:
  - /music/3299/album-review-maranata---royal-hex
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131315-tna08-ttw48.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

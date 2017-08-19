@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Campbell on IC Skate Soc's first speed skate training session.
 date: "2015-02-13 14:27:29 +0000"
+# Attributes from Felix Online V1
 id: "5251"
 old_path: /cands/5251/le-mans-on-eight-wheels
 aliases:
  - /cands/5251/le-mans-on-eight-wheels
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131421-bwh12-skaters---awspeedskating.jpg"
 image_caption: >
   IC Skate Soc warm up on the Serpentine
@@ -22,6 +27,7 @@ image_attribution: "AWSpeedskating"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

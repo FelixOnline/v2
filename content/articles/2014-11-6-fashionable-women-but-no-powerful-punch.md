@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Can fashion be a force for liberation? Fred Fyles investigates
 date: "2014-11-06 21:30:39 +0000"
+# Attributes from Felix Online V1
 id: "4803"
 old_path: /arts/4803/fashionable-women-but-no-powerful-punch
 aliases:
  - /arts/4803/fashionable-women-but-no-powerful-punch
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062130-snb11-fashion-shows-2-3.jpg"
 image_caption: >
   Vivienne Westwood, the Grand-Dame of controversial clothing, is one of the women featured.
@@ -22,6 +27,7 @@ image_attribution: "Christian Shambenait"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

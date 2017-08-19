@@ -4,15 +4,20 @@ title: >
 subtitle: >
   God that encore tho
 date: "2016-11-07 13:50:07 +0000"
+# Attributes from Felix Online V1
 id: "6411"
 old_path: /music/6411/glass-animals-at-the-roundhouse
 aliases:
  - /music/6411/glass-animals-at-the-roundhouse
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071349-felix-IMG_5847.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Philipp Antonas"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

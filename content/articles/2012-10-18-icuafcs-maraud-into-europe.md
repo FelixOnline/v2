@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Peacock fills you in on the smorgasbord of touristy things to do in Munich
 date: "2012-10-18 21:14:39 +0100"
+# Attributes from Felix Online V1
 id: "2696"
 old_path: /sport/2696/icuafcs-maraud-into-europe
 aliases:
  - /sport/2696/icuafcs-maraud-into-europe
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191345-mc4509-icfctour.png"
 image_caption: >
   Light blue is soooo in this year
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

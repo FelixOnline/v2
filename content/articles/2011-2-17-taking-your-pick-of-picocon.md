@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This weekend is Imperial’s 28th annual Sci-fi convention Picocon. Sci-fi fan Maciej Matuszewski gives a flavour of the talents of three of the authors attending.
 date: "2011-02-17 19:05:35 +0000"
+# Attributes from Felix Online V1
 id: "811"
 old_path: /arts/811/taking-your-pick-of-picocon
 aliases:
  - /arts/811/taking-your-pick-of-picocon
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171902-nm1010-paullupa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

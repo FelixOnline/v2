@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Peter Pan is on at the National Theatre until 4th February 2017 || Tickets from £15
 date: "2016-12-09 12:37:21 +0000"
+# Attributes from Felix Online V1
 id: "6570"
 old_path: /arts/6570/hooked-on-peter-pan
 aliases:
  - /arts/6570/hooked-on-peter-pan
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091234-aib116-peter_and_wendy_fly.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

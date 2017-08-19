@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christopher Yates talks about the new drug touted as a female viagra
 date: "2014-02-17 17:13:55 +0000"
+# Attributes from Felix Online V1
 id: "4386"
 old_path: /science/4386/something-else-worth-swallowing
 aliases:
  - /science/4386/something-else-worth-swallowing
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

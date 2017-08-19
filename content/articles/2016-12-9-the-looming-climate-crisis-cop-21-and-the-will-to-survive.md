@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jawaad Farooq looks to the future of combatting climate change.
 date: "2016-12-09 15:37:23 +0000"
+# Attributes from Felix Online V1
 id: "6573"
 old_path: /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
 aliases:
  - /comment/6573/the-looming-climate-crisis-cop-21-and-the-will-to-survive
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.35.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

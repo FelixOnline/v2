@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Dutton doing a PSA for all you star gazers out there
 date: "2014-12-04 19:31:25 +0000"
+# Attributes from Felix Online V1
 id: "4999"
 old_path: /games/4999/the-observable-universe-on-your-desk
 aliases:
  - /games/4999/the-observable-universe-on-your-desk
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041931-cj914-se1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Space Engine, Jamie Dutton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

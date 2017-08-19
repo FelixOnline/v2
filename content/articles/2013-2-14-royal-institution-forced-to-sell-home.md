@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Give us your fooookin’ money, says Sir Richard Sykes
 date: "2013-02-14 21:11:42 +0000"
+# Attributes from Felix Online V1
 id: "3331"
 old_path: /news/3331/royal-institution-forced-to-sell-home
 aliases:
  - /news/3331/royal-institution-forced-to-sell-home
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302142111-tna08-ri-mayfair-home.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

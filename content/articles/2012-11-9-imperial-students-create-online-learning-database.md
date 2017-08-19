@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial students do what we do best: revise. Well, procrastinate on the internet...
 date: "2012-11-09 00:09:05 +0000"
+# Attributes from Felix Online V1
 id: "2831"
 old_path: /news/2831/imperial-students-create-online-learning-database
 aliases:
  - /news/2831/imperial-students-create-online-learning-database
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211090009-tna08-open-academy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

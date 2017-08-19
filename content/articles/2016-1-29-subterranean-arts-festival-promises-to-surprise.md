@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spend some time down in the vaults
 date: "2016-01-29 09:45:11 +0000"
+# Attributes from Felix Online V1
 id: "5854"
 old_path: /arts/5854/subterranean-arts-festival-promises-to-surprise
 aliases:
  - /arts/5854/subterranean-arts-festival-promises-to-surprise
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290943-felix-Vault_2015_9.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "We Are Full Fat PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

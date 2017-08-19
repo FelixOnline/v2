@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber spills the beans on his favourite book of all time
 date: "2010-12-09 21:28:39 +0000"
+# Attributes from Felix Online V1
 id: "535"
 old_path: /arts/535/if-you-read-nothing-else-this-week
 aliases:
  - /arts/535/if-you-read-nothing-else-this-week
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092125-ks607-kackerou.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

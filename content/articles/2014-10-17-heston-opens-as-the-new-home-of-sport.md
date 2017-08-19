@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oliver Benton makes the trip down to the new grounds
 date: "2014-10-17 15:12:36 +0100"
+# Attributes from Felix Online V1
 id: "4736"
 old_path: /news/4736/heston-opens-as-the-new-home-of-sport
 aliases:
  - /news/4736/heston-opens-as-the-new-home-of-sport
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171612-kmw13-imag0045.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Oliver Benton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

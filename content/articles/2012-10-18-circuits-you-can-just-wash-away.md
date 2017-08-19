@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "The structure successfully dissolves at both body and room temperature"
 date: "2012-10-18 21:19:06 +0100"
+# Attributes from Felix Online V1
 id: "2700"
 old_path: /science/2700/circuits-you-can-just-wash-away
 aliases:
  - /science/2700/circuits-you-can-just-wash-away
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

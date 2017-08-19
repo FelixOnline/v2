@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nika Levikov on just how old customs can bring us up to speed for the future
 date: "2013-11-08 09:41:25 +0000"
+# Attributes from Felix Online V1
 id: "4030"
 old_path: /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
 aliases:
  - /science/4030/traditional-ecological-knowledge-the-old-versus-the-new
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

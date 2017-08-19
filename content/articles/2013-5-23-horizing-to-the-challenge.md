@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah sees what some first years made of the Horizons courses
 date: "2013-05-23 21:49:59 +0100"
+# Attributes from Felix Online V1
 id: "3606"
 old_path: /news/3606/horizing-to-the-challenge
 aliases:
  - /news/3606/horizing-to-the-challenge
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232250-tna08-3008198393.jpg"
 image_caption: >
   Imperial students turning into artsy types?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

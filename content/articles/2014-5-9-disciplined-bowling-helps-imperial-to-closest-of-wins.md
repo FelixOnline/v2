@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the sun and the schedule finally coalescing in a fashion allowing for a match, the Imperial 2’s kickstarted our 2014 season in the best possible fashion, delivering a win for new skipper Sam Mead.
 date: "2014-05-09 15:55:19 +0100"
+# Attributes from Felix Online V1
 id: "4591"
 old_path: /sport/4591/disciplined-bowling-helps-imperial-to-closest-of-wins
 aliases:
  - /sport/4591/disciplined-bowling-helps-imperial-to-closest-of-wins
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405091656-jal08-1575---cricket.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Arvind Rajagopalan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

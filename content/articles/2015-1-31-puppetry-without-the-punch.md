@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles gets a look at Basil Twist's Japanese-inspired production of Dogugaeshi at the Barbican Centre
 date: "2015-01-31 17:25:44 +0000"
+# Attributes from Felix Online V1
 id: "5163"
 old_path: /arts/5163/puppetry-without-the-punch
 aliases:
  - /arts/5163/puppetry-without-the-punch
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311721-ps3110-rsz_basil_twist_dogugaeshi_gold_foxes_©_richard_termine_2.jpg"
 image_caption: >
   Gold Foxes in Basil Twist's Dogugaeshi
@@ -22,6 +27,7 @@ image_attribution: "Richard Termine"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

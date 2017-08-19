@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rocio Molina Atienza watches a tale fit for a King. Well, Crown Prince
 date: "2013-06-13 22:30:11 +0100"
+# Attributes from Felix Online V1
 id: "3676"
 old_path: /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
 aliases:
  - /arts/3676/a-life-of-sex-drugs-and-pas-de-cheval
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132330-tna08-balletarts.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bees introduced to Imperial’s ‘Secret Garden’
 date: "2011-06-09 21:29:41 +0100"
+# Attributes from Felix Online V1
 id: "1351"
 old_path: /news/1351/lets-bee-green
 aliases:
  - /news/1351/lets-bee-green
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092229-felix-img_5380.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

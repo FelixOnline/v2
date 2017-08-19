@@ -4,15 +4,20 @@ title: >
 subtitle: >
   DramSoc’s spring term production of Jerusalem, directed by Grace Surman, opens with a young girl wearing fairy wings singing the eponymous hymn in the middle of the countryside.
 date: "2014-04-07 12:55:53 +0100"
+# Attributes from Felix Online V1
 id: "4525"
 old_path: /arts/4525/an-alcoholic-bucolic-frolic
 aliases:
  - /arts/4525/an-alcoholic-bucolic-frolic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404071356-jal08-jerusalem-3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

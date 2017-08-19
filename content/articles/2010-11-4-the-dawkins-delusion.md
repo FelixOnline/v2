@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dawkins, rather than being a profiteer, is savvy in providing monetary support for his foundation
 date: "2010-11-04 19:11:47 +0000"
+# Attributes from Felix Online V1
 id: "329"
 old_path: /comment/329/the-dawkins-delusion-
 aliases:
  - /comment/329/the-dawkins-delusion-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

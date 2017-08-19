@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
+# Attributes from Felix Online V1
 id: "5860"
 old_path: /news/5860/rag-mag-accused-of-harassment-and-bullying
 aliases:
  - /news/5860/rag-mag-accused-of-harassment-and-bullying
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051143-felix-rag.jpg"
 image_caption: >
   The cover of the offending leaflet
@@ -22,6 +27,7 @@ image_attribution: "RAG"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

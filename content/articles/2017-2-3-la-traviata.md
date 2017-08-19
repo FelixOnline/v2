@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An opera that speaks to the heart
 date: "2017-02-03 17:02:19 +0000"
+# Attributes from Felix Online V1
 id: "6727"
 old_path: /arts/6727/la-traviata
 aliases:
  - /arts/6727/la-traviata
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031701-felix-La Traviata-13-01-17-ROH-1094 JOYCE EL-KHOURY AS VIOLETTA VALÉRY © ROH. PHOTO BY TRISTRAM KENTON.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

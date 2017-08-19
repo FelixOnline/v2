@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sean Harbison unleashes his wrath in Dungeons
 date: "2011-02-10 20:38:17 +0000"
+# Attributes from Felix Online V1
 id: "779"
 old_path: /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
 aliases:
  - /games/779/dungeons-being-a-dungeon-lord-aint-all-fun-and-games-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "skh10"
 author_name: "Sean Harbison"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

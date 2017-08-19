@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Padraic Calpin looks at the parallels in this Egyptian government and the last
 date: "2013-02-07 23:15:25 +0000"
+# Attributes from Felix Online V1
 id: "3256"
 old_path: /politics/3256/egypt-two-years-on-new-protests
 aliases:
  - /politics/3256/egypt-two-years-on-new-protests
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072315-tna08-mideast-egypt-.jpeg10-1280x960.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

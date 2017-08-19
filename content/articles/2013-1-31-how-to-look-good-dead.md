@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton on posthumous presentation
 date: "2013-01-31 23:42:52 +0000"
+# Attributes from Felix Online V1
 id: "3214"
 old_path: /comment/3214/how-to-look-good-dead
 aliases:
  - /comment/3214/how-to-look-good-dead
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312342-tna08-picture---zombie-ii.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

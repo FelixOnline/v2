@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the Barbican
 date: "2013-03-15 01:28:44 +0000"
+# Attributes from Felix Online V1
 id: "3475"
 old_path: /arts/3475/lady-dadas-bad-romance
 aliases:
  - /arts/3475/lady-dadas-bad-romance
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150128-tna08-8483484456_60cfc45702.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

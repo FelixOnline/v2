@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Appeal to stop re-election of paid Editor is granted
 date: "2014-11-21 13:19:09 +0000"
+# Attributes from Felix Online V1
 id: "4927"
 old_path: /news/4927/cardiff-media-strike-comes-to-an-end
 aliases:
  - /news/4927/cardiff-media-strike-comes-to-an-end
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411211319-ps3110-screen-shot-2014-11-20-at-20.28.52.png"
 image_caption: >
   Last week's issue of the paper
@@ -22,6 +27,7 @@ image_attribution: "Gair Rhydd"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

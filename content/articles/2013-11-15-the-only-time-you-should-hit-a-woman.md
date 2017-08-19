@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The President of IC Wing Chun about misplaced chivalry in martial arts.
 date: "2013-11-15 02:23:41 +0000"
+# Attributes from Felix Online V1
 id: "4066"
 old_path: /comment/4066/the-only-time-you-should-hit-a-woman
 aliases:
  - /comment/4066/the-only-time-you-should-hit-a-woman
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150244-felix-womanhittingman.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

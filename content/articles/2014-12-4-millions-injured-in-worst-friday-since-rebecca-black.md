@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is a six year queue worth it for 25% off? Jamie Dutton investigates
 date: "2014-12-04 19:29:15 +0000"
+# Attributes from Felix Online V1
 id: "4998"
 old_path: /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
 aliases:
  - /tech/4998/millions-injured-in-worst-friday-since-rebecca-black
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041926-cj914-blackfriday-copy.jpg"
 image_caption: >
   Artist's impression of scene at Currys Worthington
@@ -22,6 +27,7 @@ image_attribution: "youtube.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

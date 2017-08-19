@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rachel Baxter explores new research conducted by Imperial researchers that identifies exactly how the diesel pollution that hangs in our air may be affecting our health
 date: "2017-06-09 15:00:32 +0100"
+# Attributes from Felix Online V1
 id: "7013"
 old_path: /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
 aliases:
  - /science/7013/diesel-pollution-poses-serious-risk-for-asthma-sufferers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091700-ea3211-30512519164_41c34909fe_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "  \ David Holt"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

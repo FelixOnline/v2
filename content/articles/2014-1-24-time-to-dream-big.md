@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Secret life of Walter Mitty is a Ben Stiller film based on the short of the same name written by James Thurber for the New Yorker in 1942.
 date: "2014-01-24 10:16:17 +0000"
+# Attributes from Felix Online V1
 id: "4302"
 old_path: /film/4302/time-to-dream-big
 aliases:
  - /film/4302/time-to-dream-big
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

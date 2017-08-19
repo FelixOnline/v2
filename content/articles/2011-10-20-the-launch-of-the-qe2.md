@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Could the Bank of England be pressing forward with more Quantitative Easing?
 date: "2011-10-20 22:42:28 +0100"
+# Attributes from Felix Online V1
 id: "1573"
 old_path: /biz/1573/the-launch-of-the-qe2
 aliases:
  - /biz/1573/the-launch-of-the-qe2
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202337-felix-qe2_02.jpg"
 image_caption: >
   QE2 – Could we be seeing the return of Quantitative Easing?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

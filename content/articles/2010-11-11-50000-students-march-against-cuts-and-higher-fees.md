@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union President stays away from protest saying he doesn’t believe in its motive
 date: "2010-11-11 22:08:08 +0000"
+# Attributes from Felix Online V1
 id: "373"
 old_path: /news/373/-50000-students-march-against-cuts-and-higher-fees
 aliases:
  - /news/373/-50000-students-march-against-cuts-and-higher-fees
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112205-nm1010-unicuts.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

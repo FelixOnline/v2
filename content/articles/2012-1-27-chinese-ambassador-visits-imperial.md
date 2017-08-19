@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Visit includes meeting with researchers connected to China
 date: "2012-01-27 00:03:06 +0000"
+# Attributes from Felix Online V1
 id: "2077"
 old_path: /news/2077/chinese-ambassador-visits-imperial
 aliases:
  - /news/2077/chinese-ambassador-visits-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201270002-felix-icl_ambassador_009.jpg"
 image_caption: >
   Rector Keith O’Nions meeting with Mr Liu last week
@@ -22,6 +27,7 @@ image_attribution: "Amna Siddiq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

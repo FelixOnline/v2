@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
+# Attributes from Felix Online V1
 id: "6782"
 old_path: /comment/6782/you-have-no-excuse-for-not-recycling
 aliases:
  - /comment/6782/you-have-no-excuse-for-not-recycling
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171436-felix-Screen Shot 2017-02-17 at 14.35.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

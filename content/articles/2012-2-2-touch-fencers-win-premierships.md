@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
+# Attributes from Felix Online V1
 id: "2106"
 old_path: /sport/2106/touch-fencers-win-premierships
 aliases:
  - /sport/2106/touch-fencers-win-premierships
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022309-sjw209-2nd-premiere-weekend-062.jpg"
 image_caption: >
   Singing rowdy songs all together after a match
@@ -22,6 +27,7 @@ image_attribution: "Charlotte Levin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

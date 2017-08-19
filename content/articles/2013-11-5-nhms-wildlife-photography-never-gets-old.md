@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Now in its 49th year, the Wildlife Photographer of the Year exhibition has recently returned to its original habitat the Natural History Museum. It showcases 100 photographs of the world around us that most will hardly ever get an actual glimpse of.
 date: "2013-11-05 09:27:11 +0000"
+# Attributes from Felix Online V1
 id: "3985"
 old_path: /arts/3985/nhms-wildlife-photography-never-gets-old
 aliases:
  - /arts/3985/nhms-wildlife-photography-never-gets-old
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

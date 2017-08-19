@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Possible alternative to steroid-based inhaler treatments
 date: "2011-05-26 19:20:06 +0100"
+# Attributes from Felix Online V1
 id: "1258"
 old_path: /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
 aliases:
  - /science/1258/a-breath-of-fresh-air-for-asthma-sufferers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

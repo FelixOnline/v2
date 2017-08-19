@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Forget ISIS or Trump, apathy is the greatest threat to democracy
 date: "2016-05-20 08:55:49 +0100"
+# Attributes from Felix Online V1
 id: "6176"
 old_path: /comment/6176/scientists-need-to-start-caring-about-politics
 aliases:
  - /comment/6176/scientists-need-to-start-caring-about-politics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201055-felix-J Trudeau quantum.jpg"
 image_caption: >
   Justin Trudeau's basic explanation of quantum computers shouldn't be an exception to the norm.
@@ -22,6 +27,7 @@ image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

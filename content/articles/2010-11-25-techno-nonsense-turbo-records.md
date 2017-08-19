@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week Simon Hunter takes on the electro & techno gods of Turbo Records
 date: "2010-11-25 20:45:59 +0000"
+# Attributes from Felix Online V1
 id: "434"
 old_path: /music/434/techno-nonsense-turbo-records
 aliases:
  - /music/434/techno-nonsense-turbo-records
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252043-nm1010-Turboooo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

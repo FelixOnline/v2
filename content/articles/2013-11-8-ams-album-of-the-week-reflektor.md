@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite it being over ten years since AF first burnt music onto a CD to hand out at a small local gig in their Montreal neighbourhood, they are still teenagers – full of fire, angst, beauty and surprising lyricism.
 date: "2013-11-08 09:56:13 +0000"
+# Attributes from Felix Online V1
 id: "4037"
 old_path: /music/4037/ams-album-of-the-week-reflektor
 aliases:
  - /music/4037/ams-album-of-the-week-reflektor
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

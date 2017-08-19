@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It was cold
 date: "2016-11-18 17:02:28 +0000"
+# Attributes from Felix Online V1
 id: "6485"
 old_path: /sport/6485/snowsports-venture-north-of-the-wall
 aliases:
  - /sport/6485/snowsports-venture-north-of-the-wall
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181702-felix-snowsports 1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

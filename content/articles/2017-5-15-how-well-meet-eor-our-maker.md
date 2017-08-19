@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Riach discusses the subtleties of a meteor apocalypse
 date: "2017-05-15 17:37:57 +0100"
+# Attributes from Felix Online V1
 id: "6966"
 old_path: /science/6966/how-well-meet-eor-our-maker
 aliases:
  - /science/6966/how-well-meet-eor-our-maker
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151937-felix-3894541486_24838071bd_o.jpg"
 image_caption: >
   Ouch
@@ -22,6 +27,7 @@ image_attribution: "IvyMike"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s Wolverines unable to qualify for National Championships after suffering heartbreak in Southampton
 date: "2011-05-30 13:11:02 +0100"
+# Attributes from Felix Online V1
 id: "1286"
 old_path: /sport/1286/wolverines-national-championships-hopes-dashed-
 aliases:
  - /sport/1286/wolverines-national-championships-hopes-dashed-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105301410-felix-imperialthrow.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

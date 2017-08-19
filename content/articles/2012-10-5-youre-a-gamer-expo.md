@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster shares his experiences of Eurogamer 2012
 date: "2012-10-05 11:34:12 +0100"
+# Attributes from Felix Online V1
 id: "2599"
 old_path: /games/2599/youre-a-gamer-expo
 aliases:
  - /games/2599/youre-a-gamer-expo
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051233-felix-prison-architect-preview-2.jpeg"
 image_caption: >
   Soap-dropping expansions out Q2 2013. Pre-order NOW...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

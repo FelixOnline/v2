@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Capturing the wonder of youth
 date: "2016-11-11 18:05:53 +0000"
+# Attributes from Felix Online V1
 id: "6439"
 old_path: /film/6439/girls-lost
 aliases:
  - /film/6439/girls-lost
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111805-felix-GirlsLostGuardian1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Götafilm"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

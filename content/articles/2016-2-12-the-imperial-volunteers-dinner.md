@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Volunteering societies come together
 date: "2016-02-12 12:04:45 +0000"
+# Attributes from Felix Online V1
 id: "5919"
 old_path: /cands/5919/the-imperial-volunteers-dinner
 aliases:
  - /cands/5919/the-imperial-volunteers-dinner
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121204-felix-Volunteer Dinner Committee.jpg"
 image_caption: >
   PwC Presents: Volunteer Dinner organisational committee.
@@ -22,6 +27,7 @@ image_attribution: "Ju Yoo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman reviews the newly released Don Jon, directed by Joseph Gordon-Levitt
 date: "2013-11-15 01:29:26 +0000"
+# Attributes from Felix Online V1
 id: "4057"
 old_path: /film/4057/the-comic-success-of-don-jon
 aliases:
  - /film/4057/the-comic-success-of-don-jon
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150131-felix-film_don_jon.jpeg"
 image_caption: >
   What's with all the pictures? He must be a photographer...
@@ -22,6 +27,7 @@ image_attribution: "experience12"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

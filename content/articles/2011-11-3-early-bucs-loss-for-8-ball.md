@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pool team suffer “absolute shocker” at BUCS 8-ball Championships
 date: "2011-11-03 22:03:29 +0000"
+# Attributes from Felix Online V1
 id: "1697"
 old_path: /sport/1697/early-bucs-loss-for-8-ball
 aliases:
  - /sport/1697/early-bucs-loss-for-8-ball
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032202-sjw209-pool.jpg"
 image_caption: >
   They have pool cues, and they’re not happy they lost. Watch out
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

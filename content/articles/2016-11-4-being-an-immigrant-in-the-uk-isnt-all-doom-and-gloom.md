@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aayush Singh responds to Lef’s article on immigration
 date: "2016-11-04 14:20:32 +0000"
+# Attributes from Felix Online V1
 id: "6390"
 old_path: /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
 aliases:
  - /comment/6390/being-an-immigrant-in-the-uk-isnt-all-doom-and-gloom
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041420-felix-Screen Shot 2016-11-04 at 14.20.04.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

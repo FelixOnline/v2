@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephanie Walton recounts an Indian Easter with some very important people
 date: "2012-05-10 19:09:42 +0100"
+# Attributes from Felix Online V1
 id: "2430"
 old_path: /travel/2430/accidents-emergencies-and-ajmer
 aliases:
  - /travel/2430/accidents-emergencies-and-ajmer
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102009-felix-stephanie-walton-photo.jpg"
 image_caption: >
   Fans, cricket, presidents... it’s all go in Ajmer
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

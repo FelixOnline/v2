@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Omar Amjad gives his account as Imperial’s 1st XI show fine early season form.
 date: "2013-10-25 01:12:53 +0100"
+# Attributes from Felix Online V1
 id: "3951"
 old_path: /sport/3951/imperial-recover-from-draw-to-thump-medics
 aliases:
  - /sport/3951/imperial-recover-from-draw-to-thump-medics
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

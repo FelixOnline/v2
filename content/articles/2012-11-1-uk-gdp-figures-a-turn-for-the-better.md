@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fragile Growth
 date: "2012-11-01 22:46:00 +0000"
+# Attributes from Felix Online V1
 id: "2791"
 old_path: /politics/2791/uk-gdp-figures-a-turn-for-the-better
 aliases:
  - /politics/2791/uk-gdp-figures-a-turn-for-the-better
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Thomas explains which countries you need to look out for at the 59th edition of Eurovision in Copenhagen
 date: "2014-05-02 01:34:04 +0100"
+# Attributes from Felix Online V1
 id: "4552"
 old_path: /music/4552/the-experts-guide-to-europes-ultimate-competition
 aliases:
  - /music/4552/the-experts-guide-to-europes-ultimate-competition
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

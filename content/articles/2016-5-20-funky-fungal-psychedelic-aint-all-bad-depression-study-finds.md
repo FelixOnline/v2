@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is not the first time a psilocybin study is conducted at Imperial
 date: "2016-05-20 09:06:23 +0100"
+# Attributes from Felix Online V1
 id: "6182"
 old_path: /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
 aliases:
  - /science/6182/funky-fungal-psychedelic-aint-all-bad-depression-study-finds
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201106-felix-5619954191_611ee1c86b_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "John Lecster"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

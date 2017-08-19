@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What does the future hold for both Teddington and the future of medical sports participation?
 date: "2014-07-07 11:12:38 +0100"
+# Attributes from Felix Online V1
 id: "4720"
 old_path: /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
 aliases:
  - /news/4720/sport-imperial-to-suspend-sporting-activities-at-teddington
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sport Imperial"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

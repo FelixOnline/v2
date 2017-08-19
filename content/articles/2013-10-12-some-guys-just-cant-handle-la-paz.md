@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dismantling the death-defying activities on offer in Bolivia’s capital
 date: "2013-10-12 23:53:10 +0100"
+# Attributes from Felix Online V1
 id: "3873"
 old_path: /travel/3873/some-guys-just-cant-handle-la-paz-
 aliases:
  - /travel/3873/some-guys-just-cant-handle-la-paz-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310130052-jal08-trav_dsc02613.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gilead Amit interviews Claire Fox, Director of the Institute of Ideas, ahead of its weekend of debates at the Royal College of Art
 date: "2010-10-14 19:13:21 +0100"
+# Attributes from Felix Online V1
 id: "199"
 old_path: /news/199/battle-of-ideas-comes-to-south-kensington
 aliases:
  - /news/199/battle-of-ideas-comes-to-south-kensington
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142008-ks607-clairefo.jpg"
 image_caption: >
   Claire Fox says there's a "climate of distrust" in the UK
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

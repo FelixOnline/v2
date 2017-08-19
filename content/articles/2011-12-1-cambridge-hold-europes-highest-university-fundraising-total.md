@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two billion dollars raised over a ten year period
 date: "2011-12-01 22:29:58 +0000"
+# Attributes from Felix Online V1
 id: "1902"
 old_path: /news/1902/cambridge-hold-europes-highest-university-fundraising-total
 aliases:
  - /news/1902/cambridge-hold-europes-highest-university-fundraising-total
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

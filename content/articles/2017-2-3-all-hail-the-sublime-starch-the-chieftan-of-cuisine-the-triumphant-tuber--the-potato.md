@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As it’s the food edition, we thought we’d focus on the fanciest, most elegant ingredient that most of us will ever have grace our plates: the potato. We present to you five excellent ways to prepare this sublime ingredient, as well as a comprehensive breakdown of why it is notably superior to all ot
 date: "2017-02-03 17:45:19 +0000"
+# Attributes from Felix Online V1
 id: "6735"
 old_path: /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
 aliases:
  - /food/6735/all-hail-the-sublime-starch-the-chieftan-of-cuisine-the-triumphant-tuber--the-potato
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031744-felix-Screen Shot 2017-02-02 at 23.46.09.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Cinema invites you to their termly All-Nighter
 date: "2014-12-11 20:59:27 +0000"
+# Attributes from Felix Online V1
 id: "5032"
 old_path: /film/5032/winter-all-nighter-2014
 aliases:
  - /film/5032/winter-all-nighter-2014
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112059-cj914-mockingjay-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "screenrant.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

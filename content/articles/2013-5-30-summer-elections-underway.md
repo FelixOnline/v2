@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Voting to open from 3-10 June. Deputy President (Education) to be elected in Summer Elections
 date: "2013-05-30 12:05:18 +0100"
+# Attributes from Felix Online V1
 id: "3641"
 old_path: /news/3641/summer-elections-underway
 aliases:
  - /news/3641/summer-elections-underway
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301306-tna08-elections.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

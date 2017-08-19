@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another year at the Veolia photography competition, and the entries are wilder and more captivating than ever
 date: "2010-11-04 18:11:17 +0000"
+# Attributes from Felix Online V1
 id: "291"
 old_path: /arts/291/the-art-of-shooting-wildlife-
 aliases:
  - /arts/291/the-art-of-shooting-wildlife-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041810-ks607-wildlife.jpg"
 image_caption: >
   'A marvel of ants'
@@ -22,6 +27,7 @@ image_attribution: "Bence Máté"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

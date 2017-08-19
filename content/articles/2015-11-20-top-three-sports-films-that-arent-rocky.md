@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We continue our selection of unappreciated gems with three alternative sports films
 date: "2015-11-20 14:01:48 +0000"
+# Attributes from Felix Online V1
 id: "5766"
 old_path: /film/5766/top-three-sports-films-that-arent-rocky
 aliases:
  - /film/5766/top-three-sports-films-that-arent-rocky
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511201400-ff712-4a3fbd7e-0cab-40f5-84a8-8649e3da18db.jpg"
 image_caption: >
   Yeah, hold off on that celebrating Sylvester
@@ -22,6 +27,7 @@ image_attribution: "Everett Collection"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

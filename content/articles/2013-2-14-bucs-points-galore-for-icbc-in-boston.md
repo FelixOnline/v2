@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Spencer-Jones runs in slow motion
 date: "2013-02-14 19:28:37 +0000"
+# Attributes from Felix Online V1
 id: "3325"
 old_path: /sport/3325/bucs-points-galore-for-icbc-in-boston
 aliases:
  - /sport/3325/bucs-points-galore-for-icbc-in-boston
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

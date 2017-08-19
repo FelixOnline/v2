@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park on "Prisoners"
 date: "2013-10-12 00:48:01 +0100"
+# Attributes from Felix Online V1
 id: "3841"
 old_path: /film/3841/bring-her-hoooooome
 aliases:
  - /film/3841/bring-her-hoooooome
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310120147-jal08-809dd08308020ae3e3511ae43b_h498_w598_m2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

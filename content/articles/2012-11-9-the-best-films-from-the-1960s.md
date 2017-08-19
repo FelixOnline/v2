@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A continuation of the best films series. The top spot? It had to be the epic epic.
 date: "2012-11-09 13:55:32 +0000"
+# Attributes from Felix Online V1
 id: "2863"
 old_path: /film/2863/the-best-films-from-the-1960s
 aliases:
  - /film/2863/the-best-films-from-the-1960s
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091355-tna08-lawrence-of-arabia2-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

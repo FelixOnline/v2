@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Government’s visa proposals risk catasrophe argues Ksenia Rostislavleva
 date: "2011-02-10 20:07:00 +0000"
+# Attributes from Felix Online V1
 id: "764"
 old_path: /news/764/deterring-internationals-
 aliases:
  - /news/764/deterring-internationals-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Antony Theobald"
 image_attribution_link: "http://www.flickr.com/photos/antphotos/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

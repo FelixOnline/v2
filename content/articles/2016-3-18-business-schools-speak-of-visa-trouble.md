@@ -4,15 +4,20 @@ title: >
 subtitle: >
   UK “difficult and unattractive” for overseas students
 date: "2016-03-18 11:32:54 +0000"
+# Attributes from Felix Online V1
 id: "6052"
 old_path: /news/6052/business-schools-speak-of-visa-trouble
 aliases:
  - /news/6052/business-schools-speak-of-visa-trouble
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181132-felix-Business-School--tojpeg_1416490828419_x2.jpg"
 image_caption: >
   Someone in there disagrees with a Tory policy.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

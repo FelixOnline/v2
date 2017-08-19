@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will the lack of Wires (or lack thereof) ever conspire to be desired?
 date: "2013-02-28 17:35:39 +0000"
+# Attributes from Felix Online V1
 id: "3380"
 old_path: /tech/3380/charging-your-phone-wirelessly
 aliases:
  - /tech/3380/charging-your-phone-wirelessly
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

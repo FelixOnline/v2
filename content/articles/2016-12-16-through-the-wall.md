@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking for Love...
 date: "2016-12-16 14:50:56 +0000"
+# Attributes from Felix Online V1
 id: "6606"
 old_path: /film/6606/through-the-wall
 aliases:
  - /film/6606/through-the-wall
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161450-felix-through-the-wall-laavor-et-hakir-venice.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Venice Film Festival"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

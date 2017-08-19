@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Romylos Jackson reports on the exploits of Imperial in Europe
 date: "2012-11-15 22:26:04 +0000"
+# Attributes from Felix Online V1
 id: "2918"
 old_path: /sport/2918/water-polo-storm-germany
 aliases:
  - /sport/2918/water-polo-storm-germany
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152246-tna08-water-polo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
+# Attributes from Felix Online V1
 id: "5276"
 old_path: /comment/5276/should-we-boycott-fifty-shades-of-grey
 aliases:
  - /comment/5276/should-we-boycott-fifty-shades-of-grey
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201642-ps3110-fifty-shades-of-grey-movie-stills-wallpaper_971276211.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

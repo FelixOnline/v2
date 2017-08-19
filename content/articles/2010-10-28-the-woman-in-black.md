@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We braved London’s darkest streets to search out this most terrifying production
 date: "2010-10-28 19:25:34 +0100"
+# Attributes from Felix Online V1
 id: "261"
 old_path: /arts/261/the-woman-in-black-
 aliases:
  - /arts/261/the-woman-in-black-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282023-nm1010-womancop.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eimear McBride’s astonishing novel is transformed into an empowering performance
 date: "2016-02-26 12:00:27 +0000"
+# Attributes from Felix Online V1
 id: "5980"
 old_path: /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
 aliases:
  - /arts/5980/the-unflinching-inner-life-of-a-girl-growing-up
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261200-felix-girl.jpg"
 image_caption: >
   Aoife Duffin delivers a captivating solo performance in A Girl is A Half-Formed Thing.
@@ -22,6 +27,7 @@ image_attribution: "Mihaela Bodlovic"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

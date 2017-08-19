@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clare Bakewell talks about the 100 Masterclasses in how to wear a jumper by Kevin McCloud
 date: "2012-10-26 02:40:55 +0100"
+# Attributes from Felix Online V1
 id: "2752"
 old_path: /tv/2752/grand-designs-100th-episode
 aliases:
  - /tv/2752/grand-designs-100th-episode
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260340-tna08-kevin-mccloud3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

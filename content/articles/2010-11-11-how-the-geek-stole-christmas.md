@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I don't mind all the early Christmas celebrations, it's just that I feel like someone's thrown a kettle of boiling water in my face...
 date: "2010-11-11 21:46:16 +0000"
+# Attributes from Felix Online V1
 id: "367"
 old_path: /comment/367/how-the-geek-stole-christmas
 aliases:
  - /comment/367/how-the-geek-stole-christmas
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

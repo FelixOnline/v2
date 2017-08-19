@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £1 million scholarship scheme to fund postgraduate design and engineering students at four universities, including Imperial
 date: "2011-06-16 19:10:21 +0100"
+# Attributes from Felix Online V1
 id: "1381"
 old_path: /news/1381/dyson-provides-money-for-imperial-engineering-scholarships
 aliases:
  - /news/1381/dyson-provides-money-for-imperial-engineering-scholarships
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

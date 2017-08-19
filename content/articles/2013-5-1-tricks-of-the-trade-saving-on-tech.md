@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How to be techy for cheap
 date: "2013-05-01 13:42:11 +0100"
+# Attributes from Felix Online V1
 id: "3511"
 old_path: /tech/3511/tricks-of-the-trade-saving-on-tech
 aliases:
  - /tech/3511/tricks-of-the-trade-saving-on-tech
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305011442-tna08-apple-refurbished-store-580-75.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate's exhibition on Art and the Empire more of the same.
 date: "2016-03-23 14:27:56 +0000"
+# Attributes from Felix Online V1
 id: "6079"
 old_path: /arts/6079/the-empires-artistic-legacy-through-the-years
 aliases:
  - /arts/6079/the-empires-artistic-legacy-through-the-years
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603231423-jc7413-queenvictoria.jpg"
 image_caption: >
   Nigerian wood carving of Queen Victoria herself.
@@ -22,6 +27,7 @@ image_attribution: "Collection of Michael Graham-Stewart"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National Theatre production teases wider themes of treatment of rape survivors by the criminal justice system
 date: "2017-04-08 21:02:29 +0100"
+# Attributes from Felix Online V1
 id: "6924"
 old_path: /arts/6924/consent--personal-trumps-political-
 aliases:
  - /arts/6924/consent--personal-trumps-political-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201704082251-im1413-a_scene_from_consent_photo_by_sarah_lee.jpg"
 image_caption: >
   The cast of Consent | Sarah Lee
@@ -22,6 +27,7 @@ image_attribution: "Sarah Lee"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

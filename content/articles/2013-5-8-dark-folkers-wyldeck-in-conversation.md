@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Julia Spindel chats to the band in the first of an interview double team
 date: "2013-05-08 20:22:57 +0100"
+# Attributes from Felix Online V1
 id: "3553"
 old_path: /music/3553/dark-folkers-wyldeck-in-conversation
 aliases:
  - /music/3553/dark-folkers-wyldeck-in-conversation
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305082116-tna08-wyldeck.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

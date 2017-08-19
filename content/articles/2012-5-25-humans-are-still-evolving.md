@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven investigates how selection continues regardless of social status
 date: "2012-05-25 14:23:49 +0100"
+# Attributes from Felix Online V1
 id: "2493"
 old_path: /science/2493/humans-are-still-evolving
 aliases:
  - /science/2493/humans-are-still-evolving
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251523-mc4509-s2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

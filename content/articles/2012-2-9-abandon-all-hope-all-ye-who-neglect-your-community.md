@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the search for respectful business, respect the community
 date: "2012-02-09 23:07:54 +0000"
+# Attributes from Felix Online V1
 id: "2169"
 old_path: /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
 aliases:
  - /comment/2169/abandon-all-hope-all-ye-who-neglect-your-community
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092304-felix-mango.jpg"
 image_caption: >
   If a giant mango can’t get you to ditch the car, then what will?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

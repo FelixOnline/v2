@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With a motto like ‘I waffle therefore I am’, what’s not to love?
 date: "2011-01-13 19:47:00 +0000"
+# Attributes from Felix Online V1
 id: "569"
 old_path: /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
 aliases:
  - /food/569/kowtow-to-the-master-wafflemeister-is-in-the-house-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131944-ks607-waffleme.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Katie Tan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

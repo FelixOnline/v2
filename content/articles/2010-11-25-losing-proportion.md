@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Today’s strident, aggressive atheists want to fit under the umbrella of ‘secular humanism’ – but do they deserve to?
 date: "2010-11-25 21:35:29 +0000"
+# Attributes from Felix Online V1
 id: "441"
 old_path: /comment/441/losing-proportion
 aliases:
  - /comment/441/losing-proportion
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252132-nm1010-GileadAm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

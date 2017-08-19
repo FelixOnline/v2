@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Numinous Games’ debut adventure is great, but you probably shouldn’t play it
 date: "2016-01-29 10:05:50 +0000"
+# Attributes from Felix Online V1
 id: "5858"
 old_path: /games/5858/that-dragon-cancer
 aliases:
  - /games/5858/that-dragon-cancer
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601291003-felix-tdc.jpg"
 image_caption: >
   Waiting for bad news
@@ -22,6 +27,7 @@ image_attribution: "Numinous Games"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

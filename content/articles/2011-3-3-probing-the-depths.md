@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ever since man has been able to think of clichés, he has dreamed of heading to the stars
 date: "2011-03-03 16:23:09 +0000"
+# Attributes from Felix Online V1
 id: "996"
 old_path: /science/996/probing-the-depths
 aliases:
  - /science/996/probing-the-depths
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103031610-jk708-Sciencep.jpg"
 image_caption: >
   Graphics by Veronika McQuadeova
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

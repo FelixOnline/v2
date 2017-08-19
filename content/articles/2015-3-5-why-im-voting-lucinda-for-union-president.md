@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hayley Thompson shares her thoughts on why she is voting for Lucinda Sandon-Allum
 date: "2015-03-05 11:54:24 +0000"
+# Attributes from Felix Online V1
 id: "5336"
 old_path: /comment/5336/why-im-voting-lucinda-for-union-president
 aliases:
  - /comment/5336/why-im-voting-lucinda-for-union-president
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503051156-ps3110-screen-shot-2015-03-05-at-11.55.52.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

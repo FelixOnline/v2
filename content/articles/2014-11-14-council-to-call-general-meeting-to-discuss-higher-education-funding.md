@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Meeting must have 200 people attend for it to meet quorum
 date: "2014-11-14 19:56:14 +0000"
+# Attributes from Felix Online V1
 id: "4860"
 old_path: /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
 aliases:
  - /news/4860/council-to-call-general-meeting-to-discuss-higher-education-funding
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142016-ps3110-201111031936-pk1811-img_6818.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

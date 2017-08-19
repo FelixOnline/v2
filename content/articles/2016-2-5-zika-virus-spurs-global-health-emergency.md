@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Women should avoid getting pregnant until the end of 2017
 date: "2016-02-05 12:06:08 +0000"
+# Attributes from Felix Online V1
 id: "5869"
 old_path: /science/5869/zika-virus-spurs-global-health-emergency
 aliases:
  - /science/5869/zika-virus-spurs-global-health-emergency
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051205-felix-5568919509_a202f88818_o.jpg"
 image_caption: >
   A feeding Aedes Aegypti mosquito. Mosquitoes of this genus are responsible for the transmission of the Zika virus.
@@ -22,6 +27,7 @@ image_attribution: "Jentavery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

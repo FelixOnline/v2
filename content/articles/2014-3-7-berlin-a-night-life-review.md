@@ -4,15 +4,20 @@ title: >
 subtitle: >
   People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot.
 date: "2014-03-07 04:53:10 +0000"
+# Attributes from Felix Online V1
 id: "4459"
 old_path: /comment/4459/berlin-a-night-life-review
 aliases:
  - /comment/4459/berlin-a-night-life-review
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

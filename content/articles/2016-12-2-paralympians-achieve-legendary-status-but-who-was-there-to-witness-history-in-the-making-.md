@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Never before in the 56-year history of the Paralympic Games have we faced circumstances like thi
 date: "2016-12-02 16:48:02 +0000"
+# Attributes from Felix Online V1
 id: "6552"
 old_path: /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
 aliases:
  - /sport/6552/paralympians-achieve-legendary-status-but-who-was-there-to-witness-history-in-the-making-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021647-felix-29744232501_feac4b3d06_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kentaro Iemoto"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

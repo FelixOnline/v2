@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or is this the final nail in its coffin?
 date: "2017-05-12 17:05:13 +0100"
+# Attributes from Felix Online V1
 id: "6944"
 old_path: /news/6944/imperial-divestment-campaign-resurrected
 aliases:
  - /news/6944/imperial-divestment-campaign-resurrected
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121856-felix-IMG_9038.jpg"
 image_caption: >
   Not the best place to hang the banner but hey
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

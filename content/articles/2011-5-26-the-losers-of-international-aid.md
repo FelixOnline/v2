@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jenny Wilson urges awareness about long-term aid
 date: "2011-05-26 23:36:54 +0100"
+# Attributes from Felix Online V1
 id: "1265"
 old_path: /politics/1265/the-losers-of-international-aid
 aliases:
  - /politics/1265/the-losers-of-international-aid
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105270038-felix-img_7798.jpg"
 image_caption: >
   Girls at Herish School in Keleckchi Collective Town
@@ -22,6 +27,7 @@ image_attribution: "Sarah Wilson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

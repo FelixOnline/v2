@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park moves his on-going feature towards nearly being in colour...
 date: "2012-10-18 21:30:06 +0100"
+# Attributes from Felix Online V1
 id: "2709"
 old_path: /film/2709/the-best-films-from-the-1950s
 aliases:
  - /film/2709/the-best-films-from-the-1950s
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182230-felix-rgbannex---brando,-marlon-(a-streetcar-named-desire)_03.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes us through the work of his favourite writer
 date: "2015-03-06 13:10:05 +0000"
+# Attributes from Felix Online V1
 id: "5349"
 old_path: /arts/5349/my-favourite-author--margaret-atwood
 aliases:
  - /arts/5349/my-favourite-author--margaret-atwood
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061309-ff712-il_fullxfull.324544108.jpg"
 image_caption: >
   Canadian author Margaret Atwood
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

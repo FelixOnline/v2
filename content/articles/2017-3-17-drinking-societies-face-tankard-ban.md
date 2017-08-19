@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The 'secret' Tie Clubs are the target of a new Council paper
 date: "2017-03-17 13:06:17 +0000"
+# Attributes from Felix Online V1
 id: "6898"
 old_path: /news/6898/drinking-societies-face-tankard-ban-
 aliases:
  - /news/6898/drinking-societies-face-tankard-ban-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171305-felix-Screen Shot 2017-03-17 at 13.04.16.png"
 image_caption: >
   Spot the sabbs
@@ -22,6 +27,7 @@ image_attribution: "the22club.org"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

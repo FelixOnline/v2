@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix goes on a French adventure to Casse-Croûte, Bermondsey, and manages to successfully order delicious food without really understanding the menu.
 date: "2016-10-10 12:11:42 +0100"
+# Attributes from Felix Online V1
 id: "6319"
 old_path: /food/6319/a-plot-of-france
 aliases:
  - /food/6319/a-plot-of-france
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101408-felix-14599700_1450372934978527_2049223766_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

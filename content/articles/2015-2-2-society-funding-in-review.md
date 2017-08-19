@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt explains where, how and why clubs get the money they do.
 date: "2015-02-02 14:36:31 +0000"
+# Attributes from Felix Online V1
 id: "5178"
 old_path: /cands/5178/society-funding-in-review
 aliases:
  - /cands/5178/society-funding-in-review
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502021435-bwh12-mongolia-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gemma Milman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

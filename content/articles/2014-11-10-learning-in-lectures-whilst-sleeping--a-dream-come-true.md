@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Humans have the ability to perform automated tasks whilst subconscious
 date: "2014-11-10 22:50:54 +0000"
+# Attributes from Felix Online V1
 id: "4849"
 old_path: /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
 aliases:
  - /science/4849/learning-in-lectures-whilst-sleeping--a-dream-come-true
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102250-ps3110-students_sleeping_in_lecture_theatre_is0266n3b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

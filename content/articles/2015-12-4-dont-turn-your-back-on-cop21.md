@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We are all responsible for demanding action on climate change
 date: "2015-12-04 15:19:06 +0000"
+# Attributes from Felix Online V1
 id: "5795"
 old_path: /comment/5795/dont-turn-your-back-on-cop21
 aliases:
  - /comment/5795/dont-turn-your-back-on-cop21
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512041518-ygr12-follow-the-leaders-london.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

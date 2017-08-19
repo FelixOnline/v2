@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 1 of 3)
 date: "2013-06-20 16:25:29 +0100"
+# Attributes from Felix Online V1
 id: "3703"
 old_path: /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
 aliases:
  - /news/3703/letting-old-cats-out-of-their-bags-michael-llewellyn-williams
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

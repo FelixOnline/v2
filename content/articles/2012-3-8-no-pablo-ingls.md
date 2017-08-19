@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate Britain examines the relationship between modern British art and Picasso
 date: "2012-03-08 20:33:25 +0000"
+# Attributes from Felix Online V1
 id: "2317"
 old_path: /arts/2317/no-pablo-ingls
 aliases:
  - /arts/2317/no-pablo-ingls
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082032-ams111-id_152.jpg"
 image_caption: >
   The Three Dancers (1925)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

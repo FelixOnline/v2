@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Coldwood Interactive’s Unravel is smart, but frustrating
 date: "2016-02-26 11:56:37 +0000"
+# Attributes from Felix Online V1
 id: "5977"
 old_path: /games/5977/unravelling-the-past
 aliases:
  - /games/5977/unravelling-the-past
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261156-felix-unravel.jpg"
 image_caption: >
   Look at that swagger.
@@ -22,6 +27,7 @@ image_attribution: "Unravel, Electronic Arts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

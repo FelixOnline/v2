@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Snowsports want you to go to their yearly Alps trip
 date: "2012-11-01 22:30:16 +0000"
+# Attributes from Felix Online V1
 id: "2783"
 old_path: /news/2783/piste-about-in-the-alps
 aliases:
  - /news/2783/piste-about-in-the-alps
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012229-tna08-backflip-cowrgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

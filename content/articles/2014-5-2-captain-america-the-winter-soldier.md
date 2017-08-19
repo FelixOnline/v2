@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phase 2 continues apace. The third Iron Man started things off in a typically Shane Black fashion of quips and action, the second Thor trod a darker path while beginning to introduce the elements that will come together in an inevitably glorious fashion...
 date: "2014-05-02 01:07:47 +0100"
+# Attributes from Felix Online V1
 id: "4541"
 old_path: /film/4541/captain-america-the-winter-soldier
 aliases:
  - /film/4541/captain-america-the-winter-soldier
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020207-jal08-captain-america-winter-soldier-scarlett-johansson-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

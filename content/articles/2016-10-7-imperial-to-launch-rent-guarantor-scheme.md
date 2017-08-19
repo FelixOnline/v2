@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union does thing – student body in awe
 date: "2016-10-07 16:54:06 +0100"
+# Attributes from Felix Online V1
 id: "6310"
 old_path: /news/6310/imperial-to-launch-rent-guarantor-scheme
 aliases:
  - /news/6310/imperial-to-launch-rent-guarantor-scheme
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
 image_caption: >
   200pw cause South Ken is fancy af
@@ -22,6 +27,7 @@ image_attribution: "TS Pakhrin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

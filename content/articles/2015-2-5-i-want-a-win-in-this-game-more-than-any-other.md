@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonny Pratt previews tomorrow’s Six Nations opener between England and Wales
 date: "2015-02-05 13:22:53 +0000"
+# Attributes from Felix Online V1
 id: "5192"
 old_path: /sport/5192/i-want-a-win-in-this-game-more-than-any-other
 aliases:
  - /sport/5192/i-want-a-win-in-this-game-more-than-any-other
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502051322-kmw13-maxresdefault.jpg"
 image_caption: >
   The rivalry between England and Wales is fierce and steeped in tradition
@@ -22,6 +27,7 @@ image_attribution: "RBS 6 Nations"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

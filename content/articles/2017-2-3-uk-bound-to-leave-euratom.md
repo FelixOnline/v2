@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists slightly miffed
 date: "2017-02-03 15:01:15 +0000"
+# Attributes from Felix Online V1
 id: "6707"
 old_path: /news/6707/uk-bound-to-leave-euratom
 aliases:
  - /news/6707/uk-bound-to-leave-euratom
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031500-felix-8067362171_f0f9422e23_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Global 2000"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

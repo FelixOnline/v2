@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Illustrator - Mithila Shafiq
 date: "2012-06-14 20:33:04 +0100"
+# Attributes from Felix Online V1
 id: "2567"
 old_path: /phoenix/2567/the-illustrator---mithila-shafiq
 aliases:
  - /phoenix/2567/the-illustrator---mithila-shafiq
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142129-pk1811-mithi_b_01.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Osama Awara reviews the newest member of the Surface family
 date: "2014-11-10 22:12:47 +0000"
+# Attributes from Felix Online V1
 id: "4840"
 old_path: /tech/4840/microsoft-hope-3-is-the-magic-number
 aliases:
  - /tech/4840/microsoft-hope-3-is-the-magic-number
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102212-ps3110-surfacepro3-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

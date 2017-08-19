@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephanie Walton interviews our very own CBE winner, FRS and researcher
 date: "2013-05-16 18:11:30 +0100"
+# Attributes from Felix Online V1
 id: "3579"
 old_path: /science/3579/bumper-year-for-physics-joanna-haigh
 aliases:
  - /science/3579/bumper-year-for-physics-joanna-haigh
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161911-tna08-image.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

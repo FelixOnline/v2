@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When machines can do all the things you can do, then what’s the point of us?
 date: "2016-03-04 11:42:49 +0000"
+# Attributes from Felix Online V1
 id: "6006"
 old_path: /tv/6006/robot-or-human
 aliases:
  - /tv/6006/robot-or-human
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041142-felix-1435070799_humans.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Channel 4"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

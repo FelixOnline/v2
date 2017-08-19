@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fresh out of his Vault, Sean Harbinson is bowled over by Fallout: New Vegas
 date: "2010-10-28 19:26:46 +0100"
+# Attributes from Felix Online V1
 id: "262"
 old_path: /games/262/new-vegas-comes-up-trumps
 aliases:
  - /games/262/new-vegas-comes-up-trumps
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282024-ma1307-fallpout.jpg"
 image_caption: >
   The harsh realities of government have really changed Nick Clegg...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

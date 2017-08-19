@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A political and philosophical alternate history thriller
 date: "2012-03-08 20:40:24 +0000"
+# Attributes from Felix Online V1
 id: "2318"
 old_path: /books/2318/jacek-dukajs-ice
 aliases:
  - /books/2318/jacek-dukajs-ice
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082038-ams111-lod.jpg"
 image_caption: >
   Let me guess, this novel is set in Imperial Russia?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The SecondSkin is marketed as having a ‘soft, talky touch feel’
 date: "2011-03-10 19:38:54 +0000"
+# Attributes from Felix Online V1
 id: "1054"
 old_path: /tech/1054/rubberise-your-iphone-4-with-secondskin
 aliases:
  - /tech/1054/rubberise-your-iphone-4-with-secondskin
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103101930-nm1010-akinskin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

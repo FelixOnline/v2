@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
+# Attributes from Felix Online V1
 id: "2425"
 old_path: /news/2425/imperial-falls-in-student-experience-survey
 aliases:
  - /news/2425/imperial-falls-in-student-experience-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205040159-felix-george.jpg"
 image_caption: >
   St George’s, University of London
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

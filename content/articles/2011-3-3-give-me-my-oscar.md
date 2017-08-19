@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ed Knock examines what the Academy really looks for
 date: "2011-03-03 20:26:59 +0000"
+# Attributes from Felix Online V1
 id: "1009"
 old_path: /film/1009/give-me-my-oscar
 aliases:
  - /film/1009/give-me-my-oscar
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032027-nm1010-departed.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

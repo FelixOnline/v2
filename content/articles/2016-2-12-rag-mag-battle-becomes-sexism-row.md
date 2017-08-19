@@ -4,15 +4,20 @@ title: >
 subtitle: >
   President speaks out as RAG week continues mag-less
 date: "2016-02-12 11:11:53 +0000"
+# Attributes from Felix Online V1
 id: "5896"
 old_path: /news/5896/rag-mag-battle-becomes-sexism-row
 aliases:
  - /news/5896/rag-mag-battle-becomes-sexism-row
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121111-felix-IMG_0046.JPG"
 image_caption: >
   It’s impossible to say whether RAG’s charitable donations have suffered.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

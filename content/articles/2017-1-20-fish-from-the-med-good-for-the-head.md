@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandra Lim explains why the Mediterranean diet may be the best there is...
 date: "2017-01-20 15:13:09 +0000"
+# Attributes from Felix Online V1
 id: "6666"
 old_path: /science/6666/fish-from-the-med-good-for-the-head
 aliases:
  - /science/6666/fish-from-the-med-good-for-the-head
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201513-felix-fish-1768103_1280.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

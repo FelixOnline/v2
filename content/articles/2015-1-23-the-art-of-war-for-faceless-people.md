@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
+# Attributes from Felix Online V1
 id: "5139"
 old_path: /tech/5139/the-art-of-war-for-faceless-people
 aliases:
  - /tech/5139/the-art-of-war-for-faceless-people
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231807-jyg11-screen-shot-2015-01-23-at-18.07.11.png"
 image_caption: >
   From left to right: James Franco and Seth Rogen pick a poor time to announce their bromance, someone's getting sacked in the morning at US Central Command and people commemorating the victims of the Charlie Hebdo attacks
@@ -22,6 +27,7 @@ image_attribution: "filmschoolrejects, ITV, The New Yorker"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

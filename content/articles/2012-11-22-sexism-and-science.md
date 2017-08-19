@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sexism is everywhere: it’s about time we grew up and realised this
 date: "2012-11-22 23:57:17 +0000"
+# Attributes from Felix Online V1
 id: "2952"
 old_path: /comment/2952/sexism-and-science
 aliases:
  - /comment/2952/sexism-and-science
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222357-tna08-woman-scientist.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

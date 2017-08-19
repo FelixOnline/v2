@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Research suggests ancient Peruvians were eating popcorn 2000 years earlier than previously estimated
 date: "2012-01-26 22:24:35 +0000"
+# Attributes from Felix Online V1
 id: "2062"
 old_path: /science/2062/ancient-popcorn-found-in-peru
 aliases:
  - /science/2062/ancient-popcorn-found-in-peru
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262222-ak6309-39853_web.jpg"
 image_caption: >
   A popcorn map, obviously
@@ -22,6 +27,7 @@ image_attribution: "Pamela Belding – STRI"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

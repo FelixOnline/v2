@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC security guards not amused by having to open the Falmouth Gate
 date: "2017-01-13 13:52:31 +0000"
+# Attributes from Felix Online V1
 id: "6629"
 old_path: /news/6629/firefighters-swarm-the-science-museum
 aliases:
  - /news/6629/firefighters-swarm-the-science-museum
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131351-felix-15991967_10210299606259628_23172809_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

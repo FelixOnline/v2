@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Immanuel Kant, perennial philosopher of the 18th century, once made two key distinctions. Firstly, objects act in accordance with fixed rules. The latter distinction clarified that rational agents (you and I) formulate actions with flippant regard to mere conceptions of those rules...
 date: "2013-10-11 23:40:58 +0100"
+# Attributes from Felix Online V1
 id: "3830"
 old_path: /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
 aliases:
  - /comment/3830/head-to-head-eoghan-totten-on-the-platonic-merits-of-a-religious-education
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A London art gallery’s controversial exhibit has been branded “disrespectful and unacceptable”.
 date: "2011-01-20 19:34:28 +0000"
+# Attributes from Felix Online V1
 id: "608"
 old_path: /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
 aliases:
  - /science/608/imperials-dr-dexter-comes-under-fire-for-degrading-exhibition-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201929-ks607-braiiiii.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

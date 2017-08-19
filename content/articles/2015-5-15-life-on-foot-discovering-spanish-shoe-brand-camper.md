@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the exhibition at London’s Design Museum, discovering a unique shoe brand which prioritizes comfort first
 date: "2015-05-15 12:54:45 +0100"
+# Attributes from Felix Online V1
 id: "5539"
 old_path: /fashion/5539/life-on-foot-discovering-spanish-shoe-brand-camper
 aliases:
  - /fashion/5539/life-on-foot-discovering-spanish-shoe-brand-camper
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151354-cj914-life-on-foot-jill-tate-08-copy.jpg"
 image_caption: >
   Pelotas shoes aligned at ‘Life on Foot’ at the Design Museum
@@ -22,6 +27,7 @@ image_attribution: "Jill Tate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new study shows that some amoeba exhibit a primitive form of agriculture
 date: "2011-01-27 18:57:52 +0000"
+# Attributes from Felix Online V1
 id: "660"
 old_path: /science/660/slime-moulds-its-own-little-landscape-
 aliases:
  - /science/660/slime-moulds-its-own-little-landscape-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

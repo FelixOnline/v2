@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Artist - Nana Li
 date: "2012-06-14 20:26:05 +0100"
+# Attributes from Felix Online V1
 id: "2564"
 old_path: /phoenix/2564/the-artist---nana-li-
 aliases:
  - /phoenix/2564/the-artist---nana-li-
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142124-pk1811-nana.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

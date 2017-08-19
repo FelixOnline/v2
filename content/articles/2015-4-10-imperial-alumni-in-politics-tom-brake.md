@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plabon Saha interviews the Liberal Democrat member of parliament for Carshalton and Wallington, Tom Brake
 date: "2015-04-10 19:56:18 +0100"
+# Attributes from Felix Online V1
 id: "5463"
 old_path: /politics/5463/imperial-alumni-in-politics-tom-brake
 aliases:
  - /politics/5463/imperial-alumni-in-politics-tom-brake
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504102054-jr2514-tombrakepicture.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

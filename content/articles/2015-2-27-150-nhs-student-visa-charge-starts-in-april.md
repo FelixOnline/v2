@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Union previously campaigned against charge
 date: "2015-02-27 00:38:35 +0000"
+# Attributes from Felix Online V1
 id: "5313"
 old_path: /news/5313/150-nhs-student-visa-charge-starts-in-april
 aliases:
  - /news/5313/150-nhs-student-visa-charge-starts-in-april
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501292355-ps3110-icl_ntu_047.jpg"
 image_caption: >
   Hospitals trusts, such as Imperial College Healthcare, will soon have to chase up foreign nationals for payment
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

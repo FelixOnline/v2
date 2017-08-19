@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's time to pick holes in the Doctor's nebulous, wibbly wobbly, timey-wimey thread
 date: "2011-10-07 12:44:03 +0100"
+# Attributes from Felix Online V1
 id: "1493"
 old_path: /tv/1493/doctor-who-in-plot-hole-drama-again
 aliases:
  - /tv/1493/doctor-who-in-plot-hole-drama-again
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071343-felix-impossible-astronaut.jpg"
 image_caption: >
   Was this series up to scratch, or does it need regenerating?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

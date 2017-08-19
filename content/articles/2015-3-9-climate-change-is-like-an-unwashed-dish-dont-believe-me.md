@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
+# Attributes from Felix Online V1
 id: "5378"
 old_path: /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
 aliases:
  - /science/5378/climate-change-is-like-an-unwashed-dish-dont-believe-me-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

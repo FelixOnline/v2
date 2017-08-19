@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anand Jagatia discovers that one beast breathes nicotine, not fire
 date: "2014-01-24 09:58:34 +0000"
+# Attributes from Felix Online V1
 id: "4288"
 old_path: /science/4288/smoking-is-neither-cool-nor-clever-sometimes
 aliases:
  - /science/4288/smoking-is-neither-cool-nor-clever-sometimes
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

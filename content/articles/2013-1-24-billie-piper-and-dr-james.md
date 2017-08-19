@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Science and art collide in a no-holds barred battle for the ages
 date: "2013-01-24 23:07:25 +0000"
+# Attributes from Felix Online V1
 id: "3170"
 old_path: /arts/3170/billie-piper-and-dr-james-
 aliases:
  - /arts/3170/billie-piper-and-dr-james-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242306-mc4509-theeffect_1.jpg"
 image_caption: >
   Wait... you’re not Christopher Eccleston
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Collaboration between the big dawgs in London
 date: "2013-06-13 23:10:21 +0100"
+# Attributes from Felix Online V1
 id: "3690"
 old_path: /news/3690/global-biomedical-hub-to-be-built-in-london
 aliases:
  - /news/3690/global-biomedical-hub-to-be-built-in-london
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140009-tna08-paulnurse.jpg"
 image_caption: >
   Sir Paul Nurse, director of the Francis Crick institute
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From e.quinox to Raincatcher Imperial; students gather to discuss their experiences
 date: "2011-11-10 22:06:39 +0000"
+# Attributes from Felix Online V1
 id: "1741"
 old_path: /news/1741/student-projects-share-at-symposium
 aliases:
  - /news/1741/student-projects-share-at-symposium
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102205-pk1811-dsc_0041(1).jpg"
 image_caption: >
   Imperial previously hosted its first Global Citizenship Symposium
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

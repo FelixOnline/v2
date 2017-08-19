@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Adam Clancy asks if it’s fare to criticise the Chancellor
 date: "2012-10-26 02:37:18 +0100"
+# Attributes from Felix Online V1
 id: "2750"
 old_path: /comment/2750/traingate---first-class-fuss
 aliases:
  - /comment/2750/traingate---first-class-fuss
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

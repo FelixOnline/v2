@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi looks ahead at Britain’s best experimental festival
 date: "2014-06-02 12:49:08 +0100"
+# Attributes from Felix Online V1
 id: "4641"
 old_path: /music/4641/supersonic-festival-preview
 aliases:
  - /music/4641/supersonic-festival-preview
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406021349-felix-ex-easter.jpg"
 image_caption: >
   Ex-Easter Island Head
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

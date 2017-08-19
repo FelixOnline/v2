@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
+# Attributes from Felix Online V1
 id: "6112"
 old_path: /news/6112/exam-mishap-as-students-given-test-with-answers-attached
 aliases:
  - /news/6112/exam-mishap-as-students-given-test-with-answers-attached
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

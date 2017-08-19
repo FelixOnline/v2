@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Demonstration outside Sherfield as Health minister Andrew Lansley marks launch of new school
 date: "2011-02-17 19:32:06 +0000"
+# Attributes from Felix Online V1
 id: "819"
 old_path: /news/819/protests-as-new-school-of-public-health-opens
 aliases:
  - /news/819/protests-as-new-school-of-public-health-opens
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171925-ks607-healthpr.jpg"
 image_caption: >
   Protestors outside the Sherfield building
@@ -22,6 +27,7 @@ image_attribution: "Maciej Matuszewski"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

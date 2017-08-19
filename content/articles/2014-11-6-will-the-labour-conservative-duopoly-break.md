@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the theory behing political economic modelling
 date: "2014-11-06 18:46:35 +0000"
+# Attributes from Felix Online V1
 id: "4768"
 old_path: /comment/4768/will-the-labour-conservative-duopoly-break
 aliases:
  - /comment/4768/will-the-labour-conservative-duopoly-break
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061846-snb11-nigel-farage.jpg"
 image_caption: >
   Do all views fall in the middle of the political spectrum?
@@ -22,6 +27,7 @@ image_attribution: "IBTimes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cymbeline is on at the Barbican Theatre until 17th December
 date: "2016-11-14 14:15:36 +0000"
+# Attributes from Felix Online V1
 id: "6445"
 old_path: /arts/6445/cymbeline
 aliases:
  - /arts/6445/cymbeline
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141415-felix-Cymbeline production photos_ May 2016_2016_Photo by Ellie Kurttz _c_ RSC_192813.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ellie Kurtz RSC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

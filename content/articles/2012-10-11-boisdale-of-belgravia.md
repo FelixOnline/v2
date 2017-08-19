@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-11 21:23:56 +0100"
+# Attributes from Felix Online V1
 id: "2673"
 old_path: /food/2673/boisdale-of-belgravia
 aliases:
  - /food/2673/boisdale-of-belgravia
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112223-felix-food-reviewrgb.jpg"
 image_caption: >
   If nothing else, a sexy red
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

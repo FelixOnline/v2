@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tommy Allieri photographs London's student uprising
 date: "2011-11-10 19:54:13 +0000"
+# Attributes from Felix Online V1
 id: "1708"
 old_path: /news/1708/students-take-to-the-streets
 aliases:
  - /news/1708/students-take-to-the-streets
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111101954-pk1811-img_8381.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

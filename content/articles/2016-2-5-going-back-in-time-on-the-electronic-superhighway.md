@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The landmark exhibition brings together 50 years of art and technology co-evolution
 date: "2016-02-05 12:14:45 +0000"
+# Attributes from Felix Online V1
 id: "5873"
 old_path: /arts/5873/going-back-in-time-on-the-electronic-superhighway
 aliases:
  - /arts/5873/going-back-in-time-on-the-electronic-superhighway
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051213-felix-Lorna-5.jpg"
 image_caption: >
   “Lorna” by Lynn Hershman Leeson.
@@ -22,6 +27,7 @@ image_attribution: "Courtesy of Whitechapel Gallery."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

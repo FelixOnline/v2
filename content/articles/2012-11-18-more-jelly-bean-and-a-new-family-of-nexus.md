@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yong Wen Chua checks out Androids latest OS and has a look at the Nexus
 date: "2012-11-18 13:18:43 +0000"
+# Attributes from Felix Online V1
 id: "2923"
 old_path: /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
 aliases:
  - /tech/2923/more-jelly-bean-and-a-new-family-of-nexus
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

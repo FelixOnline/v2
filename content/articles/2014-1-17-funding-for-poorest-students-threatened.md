@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Government refuses to rule out cuts to the Student Opportunity Allocation fund
 date: "2014-01-17 03:04:36 +0000"
+# Attributes from Felix Online V1
 id: "4224"
 old_path: /news/4224/funding-for-poorest-students-threatened
 aliases:
  - /news/4224/funding-for-poorest-students-threatened
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401202208-felix-student5447907854_b78dd22656_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Universiteitskrant Univers"
 image_attribution_link: "http://www.flickr.com/photos/universbeeld/5447907854/in/photolist-9ipXcL-baH4mH-bCU6UM-efayzh-baH4fz"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

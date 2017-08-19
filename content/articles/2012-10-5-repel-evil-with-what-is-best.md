@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Umar Nasser talks about the controversy over "that" film over summer
 date: "2012-10-05 12:57:28 +0100"
+# Attributes from Felix Online V1
 id: "2619"
 old_path: /comment/2619/repel-evil-with-what-is-best
 aliases:
  - /comment/2619/repel-evil-with-what-is-best
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051848-felix-amsa-advert-final.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yeah, really
 date: "2016-06-17 09:10:22 +0100"
+# Attributes from Felix Online V1
 id: "6276"
 old_path: /science/6276/is-vaginal-yoghurt-the-future
 aliases:
  - /science/6276/is-vaginal-yoghurt-the-future
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-12234690843_bb05dd31dc_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Mark Freeth"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

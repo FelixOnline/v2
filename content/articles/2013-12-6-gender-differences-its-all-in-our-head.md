@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New research has shown that the brains of females and males have different patterns of connectivity, possibly alluding as to why men may not behave the same as women. In this impressively large study published by PNAS...
 date: "2013-12-06 03:55:40 +0000"
+# Attributes from Felix Online V1
 id: "4183"
 old_path: /science/4183/gender-differences-its-all-in-our-head
 aliases:
  - /science/4183/gender-differences-its-all-in-our-head
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

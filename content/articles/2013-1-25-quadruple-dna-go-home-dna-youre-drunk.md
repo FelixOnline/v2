@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett thinks DNA are now causing a scene and need to be sent home in a taxi
 date: "2013-01-25 01:54:20 +0000"
+# Attributes from Felix Online V1
 id: "3188"
 old_path: /science/3188/quadruple-dna-go-home-dna-youre-drunk
 aliases:
  - /science/3188/quadruple-dna-go-home-dna-youre-drunk
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250153-tna08-watson-and-crick.jpg"
 image_caption: >
   Dude, I swear, that’s totally the nerd gene right there
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

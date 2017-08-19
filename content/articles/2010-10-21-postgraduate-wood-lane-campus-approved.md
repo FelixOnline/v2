@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £28 million development given go ahead by local council
 date: "2010-10-21 19:32:55 +0100"
+# Attributes from Felix Online V1
 id: "243"
 old_path: /news/243/postgraduate-wood-lane-campus-approved
 aliases:
  - /news/243/postgraduate-wood-lane-campus-approved
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104200958-felix-69903710.jpg"
 image_caption: >
   An artist's impression of the development
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/newcampus/images/artistimpressions"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

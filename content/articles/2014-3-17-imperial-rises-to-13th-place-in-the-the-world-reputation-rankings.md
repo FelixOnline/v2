@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the recently released Times Higher Education (THE) World Rankings College was ranked one position higher than last year, coming at 13th.
 date: "2014-03-17 17:30:50 +0000"
+# Attributes from Felix Online V1
 id: "4485"
 old_path: /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
 aliases:
  - /news/4485/imperial-rises-to-13th-place-in-the-the-world-reputation-rankings
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

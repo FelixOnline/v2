@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The new test will fill in gaps that AS Level changes will leave
 date: "2016-02-05 11:50:35 +0000"
+# Attributes from Felix Online V1
 id: "5863"
 old_path: /news/5863/cambridge-to-introduce-new-admission-test
 aliases:
  - /news/5863/cambridge-to-introduce-new-admission-test
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051148-felix-KingsCollegeChapelWest.jpg"
 image_caption: >
   You didn't want to go there anyway.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

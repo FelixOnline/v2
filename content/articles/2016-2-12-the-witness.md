@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Blow delivers his second masterpiece, a game about mazes
 date: "2016-02-12 11:41:11 +0000"
+# Attributes from Felix Online V1
 id: "5909"
 old_path: /games/5909/the-witness
 aliases:
  - /games/5909/the-witness
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121140-felix-thewitness2.jpg"
 image_caption: >
   Don’t understand a puzzle? Come back when you’ve explored some more.
@@ -22,6 +27,7 @@ image_attribution: "Thekla Inc."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

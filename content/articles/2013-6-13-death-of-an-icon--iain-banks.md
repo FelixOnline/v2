@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Noted author dies of cancer
 date: "2013-06-13 22:33:33 +0100"
+# Attributes from Felix Online V1
 id: "3678"
 old_path: /books/3678/death-of-an-icon--iain-banks-
 aliases:
  - /books/3678/death-of-an-icon--iain-banks-
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Genetic component of brain development uncovered
 date: "2012-05-18 11:18:33 +0100"
+# Attributes from Felix Online V1
 id: "2469"
 old_path: /science/2469/brainy-gene
 aliases:
  - /science/2469/brainy-gene
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181218-felix-ca1-20080107-mosaicj_crop.jpg"
 image_caption: >
   A pyrimidal neuron and dendrites
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

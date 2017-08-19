@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
+# Attributes from Felix Online V1
 id: "5628"
 old_path: /welfare/5628/when-diversity-becomes-adversity
 aliases:
  - /welfare/5628/when-diversity-becomes-adversity
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182032-jyg11-20140208_brp001_0.jpg"
 image_caption: >
   Not everything about diversity is always inspiring and positive. It can be a scary and alienating experience.
@@ -22,6 +27,7 @@ image_attribution: "Duncan Philips"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

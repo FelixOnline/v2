@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Just the results, and a link or two...
 date: "2013-03-19 13:17:19 +0000"
+# Attributes from Felix Online V1
 id: "3496"
 old_path: /news/3496/big-elections-2013-results
 aliases:
  - /news/3496/big-elections-2013-results
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

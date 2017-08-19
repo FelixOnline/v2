@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
+# Attributes from Felix Online V1
 id: "5954"
 old_path: /news/5954/junior-doctors-strike-again
 aliases:
  - /news/5954/junior-doctors-strike-again
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261120-felix-IMG_7506.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

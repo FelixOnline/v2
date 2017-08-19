@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No moustaches were hurt during the writing of this piece
 date: "2016-11-25 15:02:30 +0000"
+# Attributes from Felix Online V1
 id: "6520"
 old_path: /sport/6520/icurfc-take-on-movember
 aliases:
  - /sport/6520/icurfc-take-on-movember
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251501-felix-Movember Collage.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

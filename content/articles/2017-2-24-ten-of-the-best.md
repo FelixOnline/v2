@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Brunch means lazy morning, indulgent eating, and a general disregard for adult meal norms. If you’re anything like us brunch is more important to you than both brekafast and lunch. This is why we went out and found the hottest spots around London where you can eat what you want, when you want.
 date: "2017-02-24 15:23:34 +0000"
+# Attributes from Felix Online V1
 id: "6829"
 old_path: /food/6829/ten-of-the-best
 aliases:
  - /food/6829/ten-of-the-best
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241524-felix-1 - Dirty Bones.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

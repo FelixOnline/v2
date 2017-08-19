@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Money will go to St Mary’s Hospital Paediatric Department
 date: "2011-02-27 12:07:10 +0000"
+# Attributes from Felix Online V1
 id: "898"
 old_path: /news/898/medic-rag-week-raises-over-20000-
 aliases:
  - /news/898/medic-rag-week-raises-over-20000-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "klb09"
 author_name: "Katherine Bettany"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

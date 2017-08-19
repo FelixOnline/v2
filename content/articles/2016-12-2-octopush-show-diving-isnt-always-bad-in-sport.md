@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hint: we're talking underwater hockey
 date: "2016-12-02 16:51:14 +0000"
+# Attributes from Felix Online V1
 id: "6554"
 old_path: /sport/6554/octopush-show-diving-isnt-always-bad-in-sport
 aliases:
  - /sport/6554/octopush-show-diving-isnt-always-bad-in-sport
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021650-felix-octopush 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Only wrote this story for the headline
 date: "2017-05-12 16:14:43 +0100"
+# Attributes from Felix Online V1
 id: "6935"
 old_path: /news/6935/new-dean-new-day-new-life-for-engineering
 aliases:
  - /news/6935/new-dean-new-day-new-life-for-engineering
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121814-felix-newseventsimages.jpeg"
 image_caption: >
   Man of the hour
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

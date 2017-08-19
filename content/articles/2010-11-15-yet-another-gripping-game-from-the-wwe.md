@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Smackdown Vs. Raw 2011 review
 date: "2010-11-15 18:24:03 +0000"
+# Attributes from Felix Online V1
 id: "378"
 old_path: /games/378/yet-another-gripping-game-from-the-wwe
 aliases:
  - /games/378/yet-another-gripping-game-from-the-wwe
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261501-ks607-wrestlin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

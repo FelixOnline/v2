@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Madeleine Webb discusses how to stay politically engaged now that the world has exploded
 date: "2017-01-27 16:25:09 +0000"
+# Attributes from Felix Online V1
 id: "6690"
 old_path: /comment/6690/so-you-went-to-the-march-whats-next
 aliases:
  - /comment/6690/so-you-went-to-the-march-whats-next
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.26.49.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Political, witty and earnest, Riz MC and Heems are the transatlantic duo lending disenfranchised South-Asian kids a voice
 date: "2017-06-15 17:13:19 +0100"
+# Attributes from Felix Online V1
 id: "7027"
 old_path: /music/7027/swet-shop-boys--rap-heroes-for-our-time-
 aliases:
  - /music/7027/swet-shop-boys--rap-heroes-for-our-time-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706151859-im1413-Swet-Shop-Boys-Studio-at-Webster-Hall17.jpg"
 image_caption: >
   Swet Shop Boys at The Studio at Webster Hall in 2016 | Photo: Sachyn Mital for brooklynvegan.com
@@ -22,6 +27,7 @@ image_attribution: "Sachyn Mital for brooklynvegan.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

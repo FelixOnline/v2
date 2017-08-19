@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sometimes saying no doesn’t get you out of demonstrating
 date: "2014-01-24 09:54:55 +0000"
+# Attributes from Felix Online V1
 id: "4285"
 old_path: /comment/4285/confessions-of-a-gta-part-8
 aliases:
  - /comment/4285/confessions-of-a-gta-part-8
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We've come second in the Thomson Reuters innovation list
 date: "2016-06-17 08:52:51 +0100"
+# Attributes from Felix Online V1
 id: "6271"
 old_path: /news/6271/imperial-is-one-of-europes-most-innovative-universities
 aliases:
  - /news/6271/imperial-is-one-of-europes-most-innovative-universities
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171052-felix-Imperial_West,_Launching_The_Vision,_Innovation_Sign.jpg"
 image_caption: >
   Mmm, innovation.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

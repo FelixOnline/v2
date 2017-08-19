@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nida Mahmud on this Sunday’s ladies only event
 date: "2013-11-05 09:47:50 +0000"
+# Attributes from Felix Online V1
 id: "4005"
 old_path: /features/4005/smoky-not-smudgy-is-back
 aliases:
  - /features/4005/smoky-not-smudgy-is-back
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

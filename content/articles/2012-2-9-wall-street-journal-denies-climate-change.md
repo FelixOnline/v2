@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paper goes against Congress, NASA, and Departments of State
 date: "2012-02-09 22:46:28 +0000"
+# Attributes from Felix Online V1
 id: "2161"
 old_path: /science/2161/wall-street-journal-denies-climate-change
 aliases:
  - /science/2161/wall-street-journal-denies-climate-change
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week it's The Cove
 date: "2015-11-20 09:21:19 +0000"
+# Attributes from Felix Online V1
 id: "5753"
 old_path: /film/5753/documentary-corner
 aliases:
  - /film/5753/documentary-corner
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Hockney is on at the Tate Modern until 29th May
 date: "2017-02-17 15:14:10 +0000"
+# Attributes from Felix Online V1
 id: "6792"
 old_path: /arts/6792/hockney-makes-a-splash-at-this-tate-britain-retrospective
 aliases:
  - /arts/6792/hockney-makes-a-splash-at-this-tate-britain-retrospective
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171513-felix-16735690_10210796834809866_1593581991_o.jpg"
 image_caption: >
   David Hockney, Portrait of an Artist with Two Figures
@@ -22,6 +27,7 @@ image_attribution: "David Hockney, Private Collection"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

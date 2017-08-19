@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taxi Tehran is a defiant, bold work which runs circles around the censors
 date: "2015-11-06 14:15:03 +0000"
+# Attributes from Felix Online V1
 id: "5709"
 old_path: /film/5709/-jafar-panahi-is-a-rebel-with-a-cause
 aliases:
  - /film/5709/-jafar-panahi-is-a-rebel-with-a-cause
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061414-ygr12-maxresdefault.jpg"
 image_caption: >
   Jafar Pahani ferries around passengers in his latest work, Taxi Tehran
@@ -22,6 +27,7 @@ image_attribution: "New Waves Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

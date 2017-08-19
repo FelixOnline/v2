@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett recaps the tragedy that has captured the world’s attention, and how it has resonated through the capital
 date: "2015-01-16 12:55:17 +0000"
+# Attributes from Felix Online V1
 id: "5090"
 old_path: /news/5090/one-city-mourns-for-another-citys-loss
 aliases:
  - /news/5090/one-city-mourns-for-another-citys-loss
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161254-ps3110-dsc_4725-for-online.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

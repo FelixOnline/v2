@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhys Davies has finally left (or returned to?) the Stone Age
 date: "2012-02-23 19:51:07 +0000"
+# Attributes from Felix Online V1
 id: "2227"
 old_path: /comment/2227/i-have-a-smartphone-progress-at-last
 aliases:
  - /comment/2227/i-have-a-smartphone-progress-at-last
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

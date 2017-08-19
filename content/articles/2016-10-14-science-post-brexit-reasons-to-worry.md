@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With less opportunities to work with neighbouring countries and the significant issue that is the loss of EU funding, scientists all over the UK are wondering what other ramifications are yet to come.
 date: "2016-10-14 10:12:01 +0100"
+# Attributes from Felix Online V1
 id: "6333"
 old_path: /science/6333/science-post-brexit-reasons-to-worry
 aliases:
  - /science/6333/science-post-brexit-reasons-to-worry
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141201-so515-27841264756_3fcc9ae4e3_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "free stocks."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

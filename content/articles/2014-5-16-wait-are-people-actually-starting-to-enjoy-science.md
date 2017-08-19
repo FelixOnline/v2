@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reviews Imperial Festival and the wider public engagement movement
 date: "2014-05-16 01:46:17 +0100"
+# Attributes from Felix Online V1
 id: "4599"
 old_path: /science/4599/wait-are-people-actually-starting-to-enjoy-science
 aliases:
  - /science/4599/wait-are-people-actually-starting-to-enjoy-science
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160249-jal08-imperialfestival_web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

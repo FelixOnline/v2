@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ooh, gravitational waves!
 date: "2016-02-19 11:20:44 +0000"
+# Attributes from Felix Online V1
 id: "5929"
 old_path: /science/5929/this-weeks-science-picture
 aliases:
  - /science/5929/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191120-felix-7632898002_49046bc6c8_o.jpg"
 image_caption: >
   Colours signify the degree of perturbation of the spacetime fabric (the gravitational waves)
@@ -22,6 +27,7 @@ image_attribution: "NASA Blueshift"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

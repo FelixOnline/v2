@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor Russell S. Lande receives prestigious prize
 date: "2010-11-18 21:54:00 +0000"
+# Attributes from Felix Online V1
 id: "414"
 old_path: /news/414/biology-professor-awarded-weldon-prize
 aliases:
  - /news/414/biology-professor-awarded-weldon-prize
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182149-nm1010-biologgg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

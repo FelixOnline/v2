@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Greg Power declares open war on music haters, and invites you to the second Felix Music Night
 date: "2011-06-02 19:56:30 +0100"
+# Attributes from Felix Online V1
 id: "1314"
 old_path: /music/1314/boned-at-metric
 aliases:
  - /music/1314/boned-at-metric
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   GSK announces huge success in African tests
 date: "2011-11-03 19:54:19 +0000"
+# Attributes from Felix Online V1
 id: "1658"
 old_path: /science/1658/malaria-vaccine-enters-phase-iii-trials
 aliases:
  - /science/1658/malaria-vaccine-enters-phase-iii-trials
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031954-pk1811-anopheles_albimanus_mosquito.jpg"
 image_caption: >
   I’m afraid there were no cute pictures of mosquitoes...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

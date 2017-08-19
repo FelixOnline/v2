@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A weekend of Stop the War activities, discussed by Kelly Ameneshoa
 date: "2012-11-29 22:46:27 +0000"
+# Attributes from Felix Online V1
 id: "2989"
 old_path: /politics/2989/wrong-man-in-the-dock--media-and-war
 aliases:
  - /politics/2989/wrong-man-in-the-dock--media-and-war
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

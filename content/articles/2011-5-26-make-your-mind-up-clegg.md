@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why did he not object to these [NHS] plans at a much earlier stage?
 date: "2011-05-26 23:46:03 +0100"
+# Attributes from Felix Online V1
 id: "1268"
 old_path: /comment/1268/make-your-mind-up-clegg
 aliases:
  - /comment/1268/make-your-mind-up-clegg
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

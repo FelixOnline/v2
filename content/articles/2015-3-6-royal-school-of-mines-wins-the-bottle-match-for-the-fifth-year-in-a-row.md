@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nick Farmer reports from Harlington, where RSM come from behind to retain the bottle
 date: "2015-03-06 14:02:53 +0000"
+# Attributes from Felix Online V1
 id: "5353"
 old_path: /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
 aliases:
  - /sport/5353/royal-school-of-mines-wins-the-bottle-match-for-the-fifth-year-in-a-row
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061402-kmw13-10960007_10204938790223046_12770275941340581_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Pike"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

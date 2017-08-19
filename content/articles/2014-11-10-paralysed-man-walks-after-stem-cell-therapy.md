@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik looks at how cells from the nose could treat spinal injuries
 date: "2014-11-10 21:32:48 +0000"
+# Attributes from Felix Online V1
 id: "4821"
 old_path: /science/4821/paralysed-man-walks-after-stem-cell-therapy
 aliases:
  - /science/4821/paralysed-man-walks-after-stem-cell-therapy
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102132-ps3110-spine-scan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

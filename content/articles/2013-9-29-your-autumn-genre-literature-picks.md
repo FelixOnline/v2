@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The best of the bunch from Sci Fi society
 date: "2013-09-29 15:18:44 +0100"
+# Attributes from Felix Online V1
 id: "3779"
 old_path: /books/3779/your-autumn-genre-literature-picks
 aliases:
  - /books/3779/your-autumn-genre-literature-picks
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291612-tna08-1-wasp-russell-ware.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

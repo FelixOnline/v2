@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Gibbs reviews the latest case for the iPhone 4
 date: "2010-11-04 18:46:48 +0000"
+# Attributes from Felix Online V1
 id: "311"
 old_path: /tech/311/clear-iphone-4-protection
 aliases:
  - /tech/311/clear-iphone-4-protection
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041830-ba108-TECHNOLO.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

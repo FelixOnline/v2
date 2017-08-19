@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking at the iTunes of journal articles, Papers for Mac and iPhone/iPad
 date: "2010-06-16 19:44:28 +0100"
+# Attributes from Felix Online V1
 id: "146"
 old_path: /tech/146/sort-your-journal-library-out-with-papers-for-mac
 aliases:
  - /tech/146/sort-your-journal-library-out-with-papers-for-mac
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201006162036-srg03-Papers.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

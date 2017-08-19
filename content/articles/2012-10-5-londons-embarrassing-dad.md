@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How I despair at Boris’ slightly annoying antics
 date: "2012-10-05 12:44:23 +0100"
+# Attributes from Felix Online V1
 id: "2617"
 old_path: /comment/2617/londons-embarrassing-dad
 aliases:
  - /comment/2617/londons-embarrassing-dad
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051343-felix-boris-ladyleg.jpeg"
 image_caption: >
   Politics: you get into it for the money and biyatchez and stuff. I got into caption writing for the.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A bizarre world where tube lines celebrate Christmas
 date: "2010-12-09 21:45:32 +0000"
+# Attributes from Felix Online V1
 id: "542"
 old_path: /comment/542/if-tube-lines-had-a-christmas-party
 aliases:
  - /comment/542/if-tube-lines-had-a-christmas-party
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "va208"
 author_name: "Veli Akiner"
 author_image_path: "img/upload/201102172002-ks607-silhouet.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emma Donoghue’s Room – an exploration of the psychology of isolation and abduction
 date: "2012-05-18 16:22:48 +0100"
+# Attributes from Felix Online V1
 id: "2475"
 old_path: /books/2475/a-heartwrenching-and-powerful-read
 aliases:
  - /books/2475/a-heartwrenching-and-powerful-read
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

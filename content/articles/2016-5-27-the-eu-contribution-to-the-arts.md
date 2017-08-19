@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why only a Remain vote on June 23rd will benefit the future of British art
 date: "2016-05-27 09:01:56 +0100"
+# Attributes from Felix Online V1
 id: "6217"
 old_path: /arts/6217/the-eu-contribution-to-the-arts-
 aliases:
  - /arts/6217/the-eu-contribution-to-the-arts-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271101-felix-LIFT 2016 M.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Manuel Abramovich, Tony Fanning, Cyclone A, Maria Baranova"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

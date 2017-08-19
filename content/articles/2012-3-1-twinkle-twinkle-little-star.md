@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marie-Laure Hicks on why we need sleep – and why eight hours might be too much
 date: "2012-03-01 21:26:38 +0000"
+# Attributes from Felix Online V1
 id: "2274"
 old_path: /science/2274/twinkle-twinkle-little-star
 aliases:
  - /science/2274/twinkle-twinkle-little-star
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012125-ams111-sleeping-puppies.jpg"
 image_caption: >
   Are you getting enough sleep? We're certainly not, but these guys are...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

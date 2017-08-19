@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Hot Chip
 date: "2010-01-14 14:34:14 +0000"
+# Attributes from Felix Online V1
 id: "27"
 old_path: /music/27/hot-chip-interview
 aliases:
  - /music/27/hot-chip-interview
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141431-ks607-HotChip.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

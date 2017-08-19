@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The results are announced tonight
 date: "2015-11-20 09:35:03 +0000"
+# Attributes from Felix Online V1
 id: "5758"
 old_path: /music/5758/felixs-mercury-prize-picks
 aliases:
  - /music/5758/felixs-mercury-prize-picks
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511201452-cet13-prize.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
 author_image_path: "img/upload/201610151549-cet13-cet13.png"

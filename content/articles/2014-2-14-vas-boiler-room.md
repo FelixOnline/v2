@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month.
 date: "2014-02-14 03:27:19 +0000"
+# Attributes from Felix Online V1
 id: "4374"
 old_path: /arts/4374/vas-boiler-room
 aliases:
  - /arts/4374/vas-boiler-room
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Investigating Imperial’s efforts to support women in the workplace
 date: "2012-01-26 23:29:43 +0000"
+# Attributes from Felix Online V1
 id: "2076"
 old_path: /news/2076/solving-the-gender-gap
 aliases:
  - /news/2076/solving-the-gender-gap
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262325-felix-phys_3.jpg"
 image_caption: >
   Members of staff are confident in the improvement of support for female staff
@@ -22,6 +27,7 @@ image_attribution: "Jan Chlebik"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

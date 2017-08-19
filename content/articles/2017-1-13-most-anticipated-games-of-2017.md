@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s a new year and a new term, most definitely filled with new lectures, problem sheets and coursework to stress over. Luckily, there’s also a number of upcoming games to enjoy and procrastinate with. So without further ado, here are the games that should really be on your radar, as recommended by
 date: "2017-01-13 14:51:30 +0000"
+# Attributes from Felix Online V1
 id: "6648"
 old_path: /games/6648/most-anticipated-games-of-2017
 aliases:
  - /games/6648/most-anticipated-games-of-2017
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131448-felix-large.img (1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Bioware"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

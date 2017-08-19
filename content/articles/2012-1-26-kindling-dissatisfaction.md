@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam finds the Kindle Store massively unintuitive
 date: "2012-01-26 21:46:57 +0000"
+# Attributes from Felix Online V1
 id: "2044"
 old_path: /tech/2044/kindling-dissatisfaction
 aliases:
  - /tech/2044/kindling-dissatisfaction
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262146-cac111-kindle6.jpg"
 image_caption: >
   A novel approach to reading, to say the least
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

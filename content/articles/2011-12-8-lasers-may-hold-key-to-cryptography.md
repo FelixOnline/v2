@@ -4,15 +4,20 @@ title: >
 subtitle: >
   True random numbers generated from laser light
 date: "2011-12-08 20:54:25 +0000"
+# Attributes from Felix Online V1
 id: "1924"
 old_path: /science/1924/lasers-may-hold-key-to-cryptography
 aliases:
  - /science/1924/lasers-may-hold-key-to-cryptography
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082053-pk1811-green-laser-pointer-diode-dpss-beam-show-(10)-1.jpg"
 image_caption: >
   The Diffie-Hellman Key Exchange system relies on random numbers
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

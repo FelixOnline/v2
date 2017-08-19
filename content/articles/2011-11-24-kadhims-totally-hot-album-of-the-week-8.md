@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Main Attrakionz – 808s & Dark Grapes II – 2011
 date: "2011-11-24 22:23:58 +0000"
+# Attributes from Felix Online V1
 id: "1833"
 old_path: /music/1833/kadhims-totally-hot-album-of-the-week-8
 aliases:
  - /music/1833/kadhims-totally-hot-album-of-the-week-8
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

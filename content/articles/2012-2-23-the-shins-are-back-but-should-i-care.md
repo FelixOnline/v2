@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England ponders the question on everybody’s lips
 date: "2012-02-23 21:06:34 +0000"
+# Attributes from Felix Online V1
 id: "2250"
 old_path: /music/2250/the-shins-are-back-but-should-i-care-
 aliases:
  - /music/2250/the-shins-are-back-but-should-i-care-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232104-pk1811-the-shins-port-of-morrow.jpg"
 image_caption: >
   Everything looks better in the dark
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

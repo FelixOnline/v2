@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson reports as researchers are elected to the Fellowship of the Academy of Medical Sciences
 date: "2015-05-21 20:00:54 +0100"
+# Attributes from Felix Online V1
 id: "5545"
 old_path: /news/5545/five-imperial-researchers-elected-academy-fellows
 aliases:
  - /news/5545/five-imperial-researchers-elected-academy-fellows
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212100-kmw13-generic-image.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

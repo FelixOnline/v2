@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Waste exposes the hypocrisy of Victorian morality and remains relevant today
 date: "2015-11-20 09:37:35 +0000"
+# Attributes from Felix Online V1
 id: "5759"
 old_path: /arts/5759/national-theatre-revives-banned-classic
 aliases:
  - /arts/5759/national-theatre-revives-banned-classic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt reviews Cirque du Soleil’s Kooza at the Royal Albert Hall
 date: "2015-01-31 19:18:11 +0000"
+# Attributes from Felix Online V1
 id: "5172"
 old_path: /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
 aliases:
  - /arts/5172/send-in-the-clowns--a-return-to-traditional-circus
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311917-ff712-chinese-chair,-picture-credit-owen-carey-a.jpg"
 image_caption: >
   Chinese Chair at Cirque du Soleil's Kooza
@@ -22,6 +27,7 @@ image_attribution: "Owen Carey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

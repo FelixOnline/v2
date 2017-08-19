@@ -4,15 +4,20 @@ title: >
 subtitle: >
   So long and thank you for all the fish
 date: "2017-05-12 15:34:39 +0100"
+# Attributes from Felix Online V1
 id: "6932"
 old_path: /news/6932/relieved-postgrads-finally-graduate
 aliases:
  - /news/6932/relieved-postgrads-finally-graduate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121733-felix-18290099_1172564479519899_1479746780_o (1).jpg"
 image_caption: >
   Everyone looks so happy to be out of the Royal Albert Hall
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

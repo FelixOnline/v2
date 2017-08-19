@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Frustration for future of Wilsonites
 date: "2012-05-18 05:56:33 +0100"
+# Attributes from Felix Online V1
 id: "2454"
 old_path: /news/2454/hall-senior-prospects-in-doubt
 aliases:
  - /news/2454/hall-senior-prospects-in-doubt
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205180650-felix-252_5289.jpg"
 image_caption: >
   Wilson House, Paddington
@@ -22,6 +27,7 @@ image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

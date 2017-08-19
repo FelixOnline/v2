@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yong Wen Chua summarises the controversy currently plaguing Reddit
 date: "2012-11-01 22:36:50 +0000"
+# Attributes from Felix Online V1
 id: "2787"
 old_path: /tech/2787/reddit-freedom-of-speech-
 aliases:
  - /tech/2787/reddit-freedom-of-speech-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211181624-jp1409-capture.png"
 image_caption: >
   Turn that frown upside down
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The memos released by Wikileaks are part of a wave of information. But what are we going to do with it? By George Wigmore
 date: "2010-12-02 21:18:14 +0000"
+# Attributes from Felix Online V1
 id: "490"
 old_path: /comment/490/facing-a-wikiflood
 aliases:
  - /comment/490/facing-a-wikiflood
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022104-dr910-wikifloo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

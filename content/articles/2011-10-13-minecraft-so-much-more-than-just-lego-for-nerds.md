@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope goes digging for gold as he tries to explain all those cubes
 date: "2011-10-13 22:41:37 +0100"
+# Attributes from Felix Online V1
 id: "1516"
 old_path: /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
 aliases:
  - /games/1516/minecraft-so-much-more-than-just-lego-for-nerds
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132334-felix-294860_293805273969259_117467601603028_1419823_631754619_n.jpg"
 image_caption: >
   Note: not in-game footage
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

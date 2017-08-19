@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
+# Attributes from Felix Online V1
 id: "5120"
 old_path: /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
 aliases:
  - /news/5120/asos-ceo-nick-robertson-talks-about-his-sucesses-to-crowd-of-hundreds-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

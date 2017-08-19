@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thomas Lim visits the newest eatery in College
 date: "2014-10-17 14:44:34 +0100"
+# Attributes from Felix Online V1
 id: "4729"
 old_path: /news/4729/food-outlet-fusion-54-opens-on-campus
 aliases:
  - /news/4729/food-outlet-fusion-54-opens-on-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171545-kmw13-fusion54.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Johannes Hoenigl"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

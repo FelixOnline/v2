@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College and the Union will be reportedly matching the funds their proposal receives
 date: "2017-03-17 13:11:07 +0000"
+# Attributes from Felix Online V1
 id: "6900"
 old_path: /news/6900/imperial-to-get-hefce-funding
 aliases:
  - /news/6900/imperial-to-get-hefce-funding
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171311-felix-1438560415_fbd1c30e83_o.jpg"
 image_caption: >
   PLEASE DO NOT TOUCH
@@ -22,6 +27,7 @@ image_attribution: "Tim Regan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

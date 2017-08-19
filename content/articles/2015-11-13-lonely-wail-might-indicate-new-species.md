@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
+# Attributes from Felix Online V1
 id: "5732"
 old_path: /science/5732/lonely-wail-might-indicate-new-species-
 aliases:
  - /science/5732/lonely-wail-might-indicate-new-species-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131443-ygr12-12228050_917280278321639_1568759212_o.jpg"
 image_caption: >
   Shy and elusive beaked whale breaching the surface.
@@ -22,6 +27,7 @@ image_attribution: "NOAA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

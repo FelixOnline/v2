@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robin Thomas reminisces back to when times were hard
 date: "2012-11-09 16:42:00 +0000"
+# Attributes from Felix Online V1
 id: "2881"
 old_path: /games/2881/a-realistic-take-on-roguelikes-
 aliases:
  - /games/2881/a-realistic-take-on-roguelikes-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

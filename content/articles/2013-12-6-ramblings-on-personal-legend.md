@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paul Coelho’s best-selling novel, The Alchemist, reminds us to be true to ourselves and to seek out our ‘personal legend’. A king advises Santiago, the chief protagonist, that, “when you really want something to happen, the whole universe conspires so that your wish comes true.”
 date: "2013-12-06 04:03:34 +0000"
+# Attributes from Felix Online V1
 id: "4186"
 old_path: /comment/4186/ramblings-on-personal-legend
 aliases:
  - /comment/4186/ramblings-on-personal-legend
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

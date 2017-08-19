@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shedding light on a desktop lamp
 date: "2011-10-14 11:52:12 +0100"
+# Attributes from Felix Online V1
 id: "1544"
 old_path: /tech/1544/bringing-daylight-to-your-desk
 aliases:
  - /tech/1544/bringing-daylight-to-your-desk
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110141252-felix-45001-with-laptop.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

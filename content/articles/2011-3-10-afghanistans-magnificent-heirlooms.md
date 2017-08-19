@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is the bling of three of Afghanistan’s ancient nomad rulers
 date: "2011-03-10 20:13:30 +0000"
+# Attributes from Felix Online V1
 id: "1065"
 old_path: /arts/1065/afghanistans-magnificent-heirlooms
 aliases:
  - /arts/1065/afghanistans-magnificent-heirlooms
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102011-nm1010-goldgold.jpg"
 image_caption: >
   A pair of clasps depicting warriors
@@ -22,6 +27,7 @@ image_attribution: "Thierry Ollivier / Musee Guimet"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

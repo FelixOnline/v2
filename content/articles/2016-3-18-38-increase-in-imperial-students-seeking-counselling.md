@@ -4,15 +4,20 @@ title: >
 subtitle: >
   5% increase in students over same period
 date: "2016-03-18 11:29:13 +0000"
+# Attributes from Felix Online V1
 id: "6050"
 old_path: /news/6050/38-increase-in-imperial-students-seeking-counselling
 aliases:
  - /news/6050/38-increase-in-imperial-students-seeking-counselling
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181128-felix-20160317_181400.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A cutting backlash to the uprising of hate in America that accompanied Trump’s success
 date: "2016-11-18 15:39:58 +0000"
+# Attributes from Felix Online V1
 id: "6482"
 old_path: /music/6482/we-got-it-from-here-thank-you-4-your-service
 aliases:
  - /music/6482/we-got-it-from-here-thank-you-4-your-service
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181539-felix-atcq epic records.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Epic records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

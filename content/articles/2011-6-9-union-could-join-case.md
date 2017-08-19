@@ -4,15 +4,20 @@ title: >
 subtitle: >
   President ‘discussing possibility’ of affiliating after College decision to leave
 date: "2011-06-09 20:55:10 +0100"
+# Attributes from Felix Online V1
 id: "1344"
 old_path: /news/1344/union-could-join-case
 aliases:
  - /news/1344/union-could-join-case
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092153-felix-0101_005.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London/Jan Chlebik"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

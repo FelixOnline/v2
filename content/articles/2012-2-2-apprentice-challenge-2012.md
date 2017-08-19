@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Team Tornado triumphs in Imperial's Apprentice Challenge 2012
 date: "2012-02-02 19:58:11 +0000"
+# Attributes from Felix Online V1
 id: "2097"
 old_path: /biz/2097/apprentice-challenge-2012
 aliases:
  - /biz/2097/apprentice-challenge-2012
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

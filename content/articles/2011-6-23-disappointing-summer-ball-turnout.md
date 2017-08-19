@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union expected to release Ball finances next week
 date: "2011-06-23 19:08:27 +0100"
+# Attributes from Felix Online V1
 id: "1410"
 old_path: /news/1410/disappointing-summer-ball-turnout
 aliases:
  - /news/1410/disappointing-summer-ball-turnout
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232008-felix-dsc_0134.jpg"
 image_caption: >
   This year's Summer Ball
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

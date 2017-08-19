@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rugby 1st XV were victorious against Medway in their last game of 2015
 date: "2016-02-19 12:30:21 +0000"
+# Attributes from Felix Online V1
 id: "5948"
 old_path: /sport/5948/imperial-guys-could
 aliases:
  - /sport/5948/imperial-guys-could
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

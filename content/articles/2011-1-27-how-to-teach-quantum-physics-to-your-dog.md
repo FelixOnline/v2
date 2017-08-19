@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A delightful book by Chad Orzel
 date: "2011-01-27 18:55:07 +0000"
+# Attributes from Felix Online V1
 id: "659"
 old_path: /science/659/how-to-teach-quantum-physics-to-your-dog
 aliases:
  - /science/659/how-to-teach-quantum-physics-to-your-dog
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271853-ks607-quantumd.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Modern art frankly isn’t, argues Charles Betts
 date: "2011-02-27 19:22:11 +0000"
+# Attributes from Felix Online V1
 id: "911"
 old_path: /arts/911/gallery-art-should-be-special
 aliases:
  - /arts/911/gallery-art-should-be-special
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
 author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"

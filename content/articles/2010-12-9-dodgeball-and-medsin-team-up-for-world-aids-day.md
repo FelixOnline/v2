@@ -4,15 +4,20 @@ title: >
 subtitle: >
   90 keen dodgeballers, 15 teams, three balls, one winner
 date: "2010-12-09 20:06:11 +0000"
+# Attributes from Felix Online V1
 id: "515"
 old_path: /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
 aliases:
  - /sport/515/dodgeball-and-medsin-team-up-for-world-aids-day
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I’d never had to think about my views on reproductive rights before
 date: "2017-05-15 17:41:25 +0100"
+# Attributes from Felix Online V1
 id: "6967"
 old_path: /features/6967/my-friend-a-fresher-got-pregnant
 aliases:
  - /features/6967/my-friend-a-fresher-got-pregnant
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151941-felix-8674005940_206068c1a8_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Francisco Osorio"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

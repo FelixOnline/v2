@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ich bin ein Berliner, says Meredith Thomas
 date: "2013-04-30 14:26:00 +0100"
+# Attributes from Felix Online V1
 id: "3503"
 old_path: /arts/3503/berlin-walls-have-years
 aliases:
  - /arts/3503/berlin-walls-have-years
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012030-tna08-883287_10151360791012135_1278982330_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

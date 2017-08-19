@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Science Editors Alexander Karapetian and Kelly Oakes bring you an inside look into snowflakes
 date: "2011-12-08 20:38:48 +0000"
+# Attributes from Felix Online V1
 id: "1917"
 old_path: /science/1917/let-it-snow-let-it-snow
 aliases:
  - /science/1917/let-it-snow-let-it-snow
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082040-pk1811-snowflake_-_microphotograph_by_artgeek.jpg"
 image_caption: >
   A magnified snow crystal
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

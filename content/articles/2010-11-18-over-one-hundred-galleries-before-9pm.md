@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb
 date: "2010-11-18 19:51:40 +0000"
+# Attributes from Felix Online V1
 id: "379"
 old_path: /arts/379/over-one-hundred-galleries-before-9pm-
 aliases:
  - /arts/379/over-one-hundred-galleries-before-9pm-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Janssen Loek pokes you in the ribs. It's called fencing, don't get so mad...
 date: "2012-11-15 22:23:41 +0000"
+# Attributes from Felix Online V1
 id: "2916"
 old_path: /sport/2916/fencing-avoid-the-fake-tan
 aliases:
  - /sport/2916/fencing-avoid-the-fake-tan
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152223-tna08-fencing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

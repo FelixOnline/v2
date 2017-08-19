@@ -4,15 +4,20 @@ title: >
 subtitle: >
   She might be the illest doing it right now
 date: "2017-02-24 14:45:41 +0000"
+# Attributes from Felix Online V1
 id: "6822"
 old_path: /music/6822/little-simz-welcome-to-wonderland-the-experience
 aliases:
  - /music/6822/little-simz-welcome-to-wonderland-the-experience
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241445-felix-12459-fitandcrop-594x337.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Roundhouse"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

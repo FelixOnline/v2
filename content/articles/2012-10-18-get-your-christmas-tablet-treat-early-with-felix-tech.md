@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl compares four of the latest student friendly tablets to buy before the Christmas rush: pre-order before Halloween!
 date: "2012-10-18 20:59:14 +0100"
+# Attributes from Felix Online V1
 id: "2686"
 old_path: /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
 aliases:
  - /tech/2686/get-your-christmas-tablet-treat-early-with-felix-tech
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
 image_caption: >
   We apologise to any Apple fanboys who just ejaculated all over their keyboard
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

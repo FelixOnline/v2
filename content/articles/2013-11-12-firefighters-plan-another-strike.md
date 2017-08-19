@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Firefighters in England and Wales plan to strike on Wednesday 13th November between 10AM to 2PM.
 date: "2013-11-12 18:38:02 +0000"
+# Attributes from Felix Online V1
 id: "4049"
 old_path: /news/4049/firefighters-plan-another-strike
 aliases:
  - /news/4049/firefighters-plan-another-strike
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311121838-jal08-london-firefighter_1994300i.jpg"
 image_caption: >
   Firefighters on parade
@@ -22,6 +27,7 @@ image_attribution: "The Telegraph"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

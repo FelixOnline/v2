@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Angels in America is on at the National Theatre. Normal tickets are sold out but hundred of £20 tickets are being released by ballot. NT Live will begin streaming performances from the 20th of July.
 date: "2017-05-15 17:10:15 +0100"
+# Attributes from Felix Online V1
 id: "6958"
 old_path: /arts/6958/angels-in-america
 aliases:
  - /arts/6958/angels-in-america
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151909-felix-16_0.jpg"
 image_caption: >
   Denise Gough as Harper and Andrew Garfield as Prior in Angels in America : Perestroika
@@ -22,6 +27,7 @@ image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

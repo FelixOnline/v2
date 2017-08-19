@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shocked to see how Christian Bale was a ‘fatman’ in American Hustle? The clearly dedicated actor is back to a healthier looking shape in Scott Cooper’s highly depressing thriller that highlights that not all of America is a land of opportunity. No protagonist here can catch a break in this grim...
 date: "2014-02-07 04:41:34 +0000"
+# Attributes from Felix Online V1
 id: "4341"
 old_path: /film/4341/the-brothers-grim
 aliases:
  - /film/4341/the-brothers-grim
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

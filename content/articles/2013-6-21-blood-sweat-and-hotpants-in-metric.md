@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Metric turns on Pole Soc for a dramatic end to their Summer Showcase
 date: "2013-06-21 01:25:41 +0100"
+# Attributes from Felix Online V1
 id: "3740"
 old_path: /sport/3740/blood-sweat-and-hotpants-in-metric
 aliases:
  - /sport/3740/blood-sweat-and-hotpants-in-metric
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306211041-tna08-poledancing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

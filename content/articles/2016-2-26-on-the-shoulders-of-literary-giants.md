@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Mitchell and Kazuo Ishiguro discuss ghosts, action and what they avoid writing
 date: "2016-02-26 12:01:55 +0000"
+# Attributes from Felix Online V1
 id: "5981"
 old_path: /arts/5981/on-the-shoulders-of-literary-giants
 aliases:
  - /arts/5981/on-the-shoulders-of-literary-giants
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261201-felix-2016.02.17_RFH_Ishiguro_and_Mitchell_Kazuo Ishiguro_credit_Jeff Cottenden.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jeff Cottenden"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

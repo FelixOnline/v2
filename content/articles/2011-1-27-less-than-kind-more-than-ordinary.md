@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A brand new old-fashioned play, full of 1940’s atmosphere
 date: "2011-01-27 19:42:03 +0000"
+# Attributes from Felix Online V1
 id: "673"
 old_path: /arts/673/less-than-kind-more-than-ordinary
 aliases:
  - /arts/673/less-than-kind-more-than-ordinary
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271939-nm1010-lesthana.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "wsp10"
 author_name: "William Prince"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

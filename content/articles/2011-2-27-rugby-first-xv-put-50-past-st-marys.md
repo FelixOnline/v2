@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC 1st 53-7 St. Mary’s 2nd. By David Wilson
 date: "2011-02-27 20:01:40 +0000"
+# Attributes from Felix Online V1
 id: "926"
 old_path: /sport/926/rugby-first-xv-put-50-past-st-marys
 aliases:
  - /sport/926/rugby-first-xv-put-50-past-st-marys
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

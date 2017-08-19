@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An intense film, albeit visually conservative
 date: "2012-02-09 23:24:49 +0000"
+# Attributes from Felix Online V1
 id: "2176"
 old_path: /film/2176/witness-the-birth-of-psychoanalysis
 aliases:
  - /film/2176/witness-the-birth-of-psychoanalysis
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092318-ams111-a-dangerous-method-5.jpg"
 image_caption: >
   You may be a sex addicted, metal-controlling psychopath – but I will always love you...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

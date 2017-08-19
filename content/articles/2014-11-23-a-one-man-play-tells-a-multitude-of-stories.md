@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Arts reviews Howie the Rookie
 date: "2014-11-23 21:34:14 +0000"
+# Attributes from Felix Online V1
 id: "4933"
 old_path: /arts/4933/a-one-man-play-tells-a-multitude-of-stories
 aliases:
  - /arts/4933/a-one-man-play-tells-a-multitude-of-stories
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411232134-ps3110-howie.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

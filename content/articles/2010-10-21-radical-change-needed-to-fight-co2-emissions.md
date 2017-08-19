@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's Grantham Institute says that more needs to be done to stop climate change
 date: "2010-10-21 19:03:42 +0100"
+# Attributes from Felix Online V1
 id: "231"
 old_path: /science/231/radical-change-needed-to-fight-co2-emissions
 aliases:
  - /science/231/radical-change-needed-to-fight-co2-emissions
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104201423-felix-rug1.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NEL Colectivo"
 image_attribution_link: "http://www.nanimarquina.com/en/designers/nel-colectivo"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

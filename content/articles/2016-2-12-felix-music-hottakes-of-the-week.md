@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What is a hot take?
 date: "2016-02-12 11:55:39 +0000"
+# Attributes from Felix Online V1
 id: "5914"
 old_path: /music/5914/felix-music-hottakes-of-the-week
 aliases:
  - /music/5914/felix-music-hottakes-of-the-week
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121154-felix-lilly.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

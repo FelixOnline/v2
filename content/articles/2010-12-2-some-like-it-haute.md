@@ -4,15 +4,20 @@ title: >
 subtitle: >
   French gourmet named UN heritage
 date: "2010-12-02 21:00:06 +0000"
+# Attributes from Felix Online V1
 id: "483"
 old_path: /food/483/some-like-it-haute
 aliases:
  - /food/483/some-like-it-haute
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

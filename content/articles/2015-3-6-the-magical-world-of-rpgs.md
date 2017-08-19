@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The expert himself, Sanchit Sharma, introducing you to a world that you definitely want to join
 date: "2015-03-06 16:46:17 +0000"
+# Attributes from Felix Online V1
 id: "5358"
 old_path: /games/5358/the-magical-world-of-rpgs
 aliases:
  - /games/5358/the-magical-world-of-rpgs
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061647-cj914-tower.jpg"
 image_caption: >
   Welcome to the wonderful world of tabletop RPGs!
@@ -22,6 +27,7 @@ image_attribution: "Sanchit Sharma"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

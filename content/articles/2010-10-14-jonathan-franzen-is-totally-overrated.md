@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"
+# Attributes from Felix Online V1
 id: "206"
 old_path: /arts/206/jonathan-franzen-is-totally-overrated-
 aliases:
  - /arts/206/jonathan-franzen-is-totally-overrated-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104191823-felix-6a00e54f92cc11883401348695a2d6970c-800wi.jpg"
 image_caption: >
   To be honest, I didn't actually expect any better from Time Magazine...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-13 09:03:05 +0100"
+# Attributes from Felix Online V1
 id: "6154"
 old_path: /science/6154/this-weeks-science-picture
 aliases:
  - /science/6154/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131102-felix-6299658149_97dac0660e_o.jpg"
 image_caption: >
   The Rhino, a powerful symbol for the world when it comes to the conservation of species.
@@ -22,6 +27,7 @@ image_attribution: "Paul Hudson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

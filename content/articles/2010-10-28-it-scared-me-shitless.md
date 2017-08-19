@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How far will the tourism industry go to empty our bowels and our coffers?
 date: "2010-10-28 19:39:47 +0100"
+# Attributes from Felix Online V1
 id: "270"
 old_path: /travel/270/it-scared-me-shitless
 aliases:
  - /travel/270/it-scared-me-shitless
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-Deansol.jpg"
 image_caption: >
   Pah, easy...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

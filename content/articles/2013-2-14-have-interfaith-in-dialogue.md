@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College Chaplain Andrew Wilson urges a dialogue between faiths
 date: "2013-02-14 00:38:29 +0000"
+# Attributes from Felix Online V1
 id: "3317"
 old_path: /news/3317/have-interfaith-in-dialogue
 aliases:
  - /news/3317/have-interfaith-in-dialogue
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302142229-tna08-felix-adam-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

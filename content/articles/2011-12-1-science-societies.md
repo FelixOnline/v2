@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Young scientists from several universities across the UK met with guests of honour including HRH The Duke of Kent and Sir Paul Nurse to discuss the future of science
 date: "2011-12-01 19:56:20 +0000"
+# Attributes from Felix Online V1
 id: "1864"
 old_path: /science/1864/science-societies
 aliases:
  - /science/1864/science-societies
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112011950-ams111-img_4084.jpg"
 image_caption: >
   Sir Paul Nurse spoke at the dinner
@@ -22,6 +27,7 @@ image_attribution: "Raphael Scheps"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

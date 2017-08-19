@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College have moved up four places to 5th in the latest Guardian University League Table.
 date: "2014-06-06 02:39:15 +0100"
+# Attributes from Felix Online V1
 id: "4656"
 old_path: /news/4656/college-improves-in-guardian-league-tables
 aliases:
  - /news/4656/college-improves-in-guardian-league-tables
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

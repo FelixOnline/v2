@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Next Thursday is World AIDS Day. As Medsin Imperial holds a debate to mark the occasion, Red Elmahdi investigates the arguments surrounding aid and AIDS
 date: "2011-11-24 21:40:39 +0000"
+# Attributes from Felix Online V1
 id: "1827"
 old_path: /news/1827/is-there-too-much-aid-for-aids
 aliases:
  - /news/1827/is-there-too-much-aid-for-aids
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The death of the conservative judge during the run up to elections means the seat could reain empty for eleven months
 date: "2016-02-26 11:29:15 +0000"
+# Attributes from Felix Online V1
 id: "5959"
 old_path: /comment/5959/scrapping-over-scalia
 aliases:
  - /comment/5959/scrapping-over-scalia
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261128-felix-Antonin_Scalia_2010.jpg"
 image_caption: >
   The judge divided opinion.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

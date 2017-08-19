@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Trust 'furious' over reports suggesting site closures at Paddington and Charing Cross Hospital
 date: "2011-09-10 15:40:50 +0100"
+# Attributes from Felix Online V1
 id: "1455"
 old_path: /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
 aliases:
  - /news/1455/imperial-nhs-trust-deny-reported-plans-to-close-st-marys
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201109101650-felix-st_mary_s.jpg"
 image_caption: >
   St Mary's Hospital, located in Paddington
@@ -22,6 +27,7 @@ image_attribution: "Jan Chlebik"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

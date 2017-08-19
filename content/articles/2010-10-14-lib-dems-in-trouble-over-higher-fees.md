@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The reality of power for the first time in over a century is quickly turning into a nightmare
 date: "2010-10-14 19:20:09 +0100"
+# Attributes from Felix Online V1
 id: "202"
 old_path: /news/202/lib-dems-in-trouble-over-higher-fees
 aliases:
  - /news/202/lib-dems-in-trouble-over-higher-fees
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142017-ks607-nickcleg.jpg"
 image_caption: >
   "Oh dear! Did I promise that?"
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

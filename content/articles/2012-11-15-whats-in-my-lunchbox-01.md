@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah ponders “ladies who (liquid) lunch” this winter
 date: "2012-11-15 22:00:36 +0000"
+# Attributes from Felix Online V1
 id: "2907"
 old_path: /food/2907/whats-in-my-lunchbox-01
 aliases:
  - /food/2907/whats-in-my-lunchbox-01
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

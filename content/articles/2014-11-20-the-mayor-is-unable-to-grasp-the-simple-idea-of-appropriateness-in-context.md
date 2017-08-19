@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There's a time and a place for sexual imagery, and it's not the press conference of a major achievement in science
 date: "2014-11-20 21:17:49 +0000"
+# Attributes from Felix Online V1
 id: "4914"
 old_path: /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
 aliases:
  - /comment/4914/the-mayor-is-unable-to-grasp-the-simple-idea-of-appropriateness-in-context
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202119-cj914-shirtgate.jpg"
 image_caption: >
   The concept of context is apparently lost on these people
@@ -22,6 +27,7 @@ image_attribution: "Imgur"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

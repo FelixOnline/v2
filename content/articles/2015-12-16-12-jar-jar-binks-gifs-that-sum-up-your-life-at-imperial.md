@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oh My God So Many Jar Jars – Number 7 Will Blow Your Mind
 date: "2015-12-16 18:40:46 +0000"
+# Attributes from Felix Online V1
 id: "5824"
 old_path: /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
 aliases:
  - /features/5824/12-jar-jar-binks-gifs-that-sum-up-your-life-at-imperial
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512161844-felix-jar1.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

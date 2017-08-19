@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eye candy – Ian Somerhalder
 date: "2011-01-27 20:06:29 +0000"
+# Attributes from Felix Online V1
 id: "685"
 old_path: /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
 aliases:
  - /film/685/the-actor-who-plays-the-hero-off-screen-instead-of-on--ian-somerhalder
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272004-nm1010-ianiania.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

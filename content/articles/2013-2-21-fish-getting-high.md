@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phillip Kent discusses high fishes getting the munchies
 date: "2013-02-21 20:47:12 +0000"
+# Attributes from Felix Online V1
 id: "3342"
 old_path: /science/3342/fish-getting-high
 aliases:
  - /science/3342/fish-getting-high
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220250-tna08-fish_wallpapers_123.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

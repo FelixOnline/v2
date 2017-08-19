@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We should return to the food web structure from whence we came
 date: "2010-12-02 20:27:57 +0000"
+# Attributes from Felix Online V1
 id: "471"
 old_path: /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
 aliases:
  - /science/471/want-to-save-the-planet-and-eat-meat-eat-man-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022024-ks607-cowcow.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ka-ching!
 date: "2017-05-12 16:48:54 +0100"
+# Attributes from Felix Online V1
 id: "6941"
 old_path: /news/6941/union-reels-in-34000-from-postgrad-graduation-day
 aliases:
  - /news/6941/union-reels-in-34000-from-postgrad-graduation-day
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121848-felix-11596490914_955791a7e2_o.jpg"
 image_caption: >
   That guy's crying after spending so much money just to hear his name being called out in a two hour ceremony at the Royal Albert Hall
@@ -22,6 +27,7 @@ image_attribution: "Jinx McCombs"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

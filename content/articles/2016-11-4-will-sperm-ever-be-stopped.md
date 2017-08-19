@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another setback for the quest of finding a reliable male contraceptive, with reports of side effects in clinical trials causing concern
 date: "2016-11-04 12:57:38 +0000"
+# Attributes from Felix Online V1
 id: "6384"
 old_path: /science/6384/will-sperm-ever-be-stopped
 aliases:
  - /science/6384/will-sperm-ever-be-stopped
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041257-aib116-sperm-956482_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

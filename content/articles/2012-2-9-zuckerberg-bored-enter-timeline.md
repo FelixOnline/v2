@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Facebook: bringing you a sudden influx of misused memes
 date: "2012-02-09 22:18:37 +0000"
+# Attributes from Felix Online V1
 id: "2147"
 old_path: /tech/2147/zuckerberg-bored-enter-timeline
 aliases:
  - /tech/2147/zuckerberg-bored-enter-timeline
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092217-pk1811-blog-facebook-logo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

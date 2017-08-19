@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Re-live Ruby Ramjan’s experience of last year’s Global Brigades
 date: "2012-01-26 22:06:28 +0000"
+# Attributes from Felix Online V1
 id: "2052"
 old_path: /travel/2052/positive-social-change-for-honduras
 aliases:
  - /travel/2052/positive-social-change-for-honduras
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262200-cac111-honduras-building.jpg"
 image_caption: >
   Global Brigaders have so much fun, working together to get the job done...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

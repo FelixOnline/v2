@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven takes a look at the French rock scene
 date: "2011-10-28 11:36:31 +0100"
+# Attributes from Felix Online V1
 id: "1641"
 old_path: /music/1641/punk-planet-chevreuil
 aliases:
  - /music/1641/punk-planet-chevreuil
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

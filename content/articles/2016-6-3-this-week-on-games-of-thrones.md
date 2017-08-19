@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s season six, episode six!
 date: "2016-06-03 09:24:14 +0100"
+# Attributes from Felix Online V1
 id: "6239"
 old_path: /tv/6239/this-week-on-games-of-thrones
 aliases:
  - /tv/6239/this-week-on-games-of-thrones
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031124-felix-got1.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

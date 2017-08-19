@@ -4,15 +4,20 @@ title: >
 subtitle: >
   C. I. Franke would like a word with your parents about their shockingly bad taste in music
 date: "2011-10-07 12:32:37 +0100"
+# Attributes from Felix Online V1
 id: "1492"
 old_path: /music/1492/music-through-the-ages
 aliases:
  - /music/1492/music-through-the-ages
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071332-felix-recordcollection.jpg"
 image_caption: >
   Your parents' record collection: nothing but a catalogue of embarassing purchases
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

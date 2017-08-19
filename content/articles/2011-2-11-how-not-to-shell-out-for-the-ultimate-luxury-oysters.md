@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aki Matsushima shows you how to impress and indulge your date on the cheap
 date: "2011-02-11 06:56:37 +0000"
+# Attributes from Felix Online V1
 id: "803"
 old_path: /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
 aliases:
  - /food/803/how-not-to-shell-out-for-the-ultimate-luxury-oysters
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

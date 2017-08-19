@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charli XCX’s Vroom Vroom Recordings aims to leave a mark on the pop music world
 date: "2016-03-04 11:44:43 +0000"
+# Attributes from Felix Online V1
 id: "6007"
 old_path: /music/6007/the-future-of-pop
 aliases:
  - /music/6007/the-future-of-pop
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041144-felix-sophie.jpeg"
 image_caption: >
   PC music!!!!1
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

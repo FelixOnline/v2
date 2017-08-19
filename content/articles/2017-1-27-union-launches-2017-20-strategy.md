@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
+# Attributes from Felix Online V1
 id: "6683"
 old_path: /news/6683/union-launches-2017-20-strategy
 aliases:
  - /news/6683/union-launches-2017-20-strategy
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701272037-felix-Screen Shot 2017-01-26 at 15.24.07.png"
 image_caption: >
   A page from the 2013-16 strategy
@@ -22,6 +27,7 @@ image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

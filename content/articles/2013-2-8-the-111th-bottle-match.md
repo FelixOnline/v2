@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The return of the yearly RSM vs CSM match
 date: "2013-02-08 00:55:05 +0000"
+# Attributes from Felix Online V1
 id: "3279"
 old_path: /news/3279/the-111th-bottle-match
 aliases:
  - /news/3279/the-111th-bottle-match
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080055-tna08-bottle-match-picture.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

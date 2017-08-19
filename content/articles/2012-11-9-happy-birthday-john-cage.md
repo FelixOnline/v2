@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto is quiet for 4 minutes and 33 seconds.
 date: "2012-11-09 14:01:04 +0000"
+# Attributes from Felix Online V1
 id: "2865"
 old_path: /music/2865/happy-birthday-john-cage
 aliases:
  - /music/2865/happy-birthday-john-cage
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
+# Attributes from Felix Online V1
 id: "6914"
 old_path: /features/6914/the-national-wedding-show-is-decadent-and-depraved-
 aliases:
  - /features/6914/the-national-wedding-show-is-decadent-and-depraved-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171721-felix-nws3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Theo Farah"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

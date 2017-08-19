@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The art of being screwed over by restaurants today
 date: "2011-01-27 20:21:56 +0000"
+# Attributes from Felix Online V1
 id: "690"
 old_path: /food/690/the-hazards-of-eating-out
 aliases:
  - /food/690/the-hazards-of-eating-out
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272019-nm1010-billllll.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/justinpoliachik"
 image_attribution_link: "http://www.flickr.com/photos/justinpoliachik/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

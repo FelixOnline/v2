@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Union's Deputy President of Welfare discusses the debate on feminist issues that has arisen recently
 date: "2012-02-23 19:43:33 +0000"
+# Attributes from Felix Online V1
 id: "2225"
 old_path: /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
 aliases:
  - /comment/2225/women-and-imperial--everyone-deserves-to-be-happy-here
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202231943-ams111-ali-g.jpg"
 image_caption: >
   Is it called Welfare coz he iz well fair innit?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

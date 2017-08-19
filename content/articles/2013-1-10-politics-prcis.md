@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Key Stories from the Holiday Season
 date: "2013-01-10 22:21:55 +0000"
+# Attributes from Felix Online V1
 id: "3085"
 old_path: /politics/3085/politics-prcis
 aliases:
  - /politics/3085/politics-prcis
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

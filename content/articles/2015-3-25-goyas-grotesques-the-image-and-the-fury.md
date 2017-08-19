@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is horrified and awed by this display of Goya’s lost album
 date: "2015-03-25 13:11:28 +0000"
+# Attributes from Felix Online V1
 id: "5445"
 old_path: /arts/5445/goyas-grotesques-the-image-and-the-fury
 aliases:
  - /arts/5445/goyas-grotesques-the-image-and-the-fury
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251310-ff712-regozijo-mirtha.jpg"
 image_caption: >
   Regozijo (Mirth), red chalk and scraping. 237 x 148mm. Francisco Goya (1746-1828)
@@ -22,6 +27,7 @@ image_attribution: "Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

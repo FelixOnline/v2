@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You really need to make sure that your bedroom door is locked
 date: "2016-05-13 08:58:38 +0100"
+# Attributes from Felix Online V1
 id: "6150"
 old_path: /features/6150/virtual-reality-porn-is-a-game-changer
 aliases:
  - /features/6150/virtual-reality-porn-is-a-game-changer
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131058-felix-reactions-to-virtual-reality-porn-on-oculus-rift-1102730-TwoByOne.jpg"
 image_caption: >
   This guy looks like he’s having a great time.
@@ -22,6 +27,7 @@ image_attribution: "askmen.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

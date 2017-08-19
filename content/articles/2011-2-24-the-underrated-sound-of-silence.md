@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In this edition of Priya Garg’s tales, we find her off the track in Argentina’s answer to the Lake District, uncovering hidden beauties and inner tranquillity
 date: "2011-02-24 19:20:30 +0000"
+# Attributes from Felix Online V1
 id: "860"
 old_path: /travel/860/the-underrated-sound-of-silence-
 aliases:
  - /travel/860/the-underrated-sound-of-silence-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

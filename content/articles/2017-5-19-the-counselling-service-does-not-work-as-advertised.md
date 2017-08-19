@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous student thinks that there needs to be significant change to the services that the college provides for severe mental health problems
 date: "2017-05-19 15:05:28 +0100"
+# Attributes from Felix Online V1
 id: "6975"
 old_path: /comment/6975/the-counselling-service-does-not-work-as-advertised
 aliases:
  - /comment/6975/the-counselling-service-does-not-work-as-advertised
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705191705-felix-32765504523_a5a54eaecf_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kevin Simmons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

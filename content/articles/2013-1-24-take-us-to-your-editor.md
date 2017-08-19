@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster is ready for the probing
 date: "2013-01-24 21:07:03 +0000"
+# Attributes from Felix Online V1
 id: "3156"
 old_path: /games/3156/take-us-to-your-editor
 aliases:
  - /games/3156/take-us-to-your-editor
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242107-mc4509-6737_19_unstoppable_gorg_release_date_price_and_a_new_platform_announced_for_orbital_tower_defense_game_full.jpg"
 image_caption: >
   Imagine a mixture of Sins of a Solar Empire, and this...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

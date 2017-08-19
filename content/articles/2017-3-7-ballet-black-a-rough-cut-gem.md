@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ballet Black's triple bill has a strong message of diversity
 date: "2017-03-07 15:33:00 +0000"
+# Attributes from Felix Online V1
 id: "6861"
 old_path: /arts/6861/ballet-black-a-rough-cut-gem
 aliases:
  - /arts/6861/ballet-black-a-rough-cut-gem
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703071532-ff712-3.jpg"
 image_caption: >
   Ballet Black, Triple Bill, Cira Robinson, José Alves and Mthuthuzeli November in Captured, choreographed by Martin Lawrance
@@ -22,6 +27,7 @@ image_attribution: "Bill Cooper"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

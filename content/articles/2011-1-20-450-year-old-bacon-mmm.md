@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's Sir Francis Bacon's birthday!
 date: "2011-01-20 19:37:34 +0000"
+# Attributes from Felix Online V1
 id: "610"
 old_path: /science/610/450-year-old-bacon-mmm-
 aliases:
  - /science/610/450-year-old-bacon-mmm-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tech Editor Yong Wen Chua on Pokémon X&Y
 date: "2013-10-25 01:02:29 +0100"
+# Attributes from Felix Online V1
 id: "3946"
 old_path: /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
 aliases:
  - /games/3946/y-wouldnt-you-buy-these-amazing-games-its-pokmon-just-x-2
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250202-felix-games_pokepimp.jpg"
 image_caption: >
   YO, CHICKS BE CHECKING OUT MY YOLOSWAG!!!
@@ -22,6 +27,7 @@ image_attribution: "Yong Wen Chua/Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

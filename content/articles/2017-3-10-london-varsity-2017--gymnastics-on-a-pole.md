@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The object not the people
 date: "2017-03-10 14:43:25 +0000"
+# Attributes from Felix Online V1
 id: "6888"
 old_path: /sport/6888/london-varsity-2017--gymnastics-on-a-pole
 aliases:
  - /sport/6888/london-varsity-2017--gymnastics-on-a-pole
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101442-felix-17038521_184091845416850_9017397598970681265_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Valle Varo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

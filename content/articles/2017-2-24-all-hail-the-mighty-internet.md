@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Do you remember the days when you had to actually chat to your friends or neighbours or call your mom to find out how to cook something new? Well, neither do I, because we’re all used to using the almighty godly internet instead.
 date: "2017-02-24 15:21:01 +0000"
+# Attributes from Felix Online V1
 id: "6828"
 old_path: /food/6828/all-hail-the-mighty-internet
 aliases:
  - /food/6828/all-hail-the-mighty-internet
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

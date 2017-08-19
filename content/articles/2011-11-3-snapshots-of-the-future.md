@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven, Abhimanyu Chugh and Simon Worthington tell us what they hope they'll see in the next 50 years.
 date: "2011-11-03 18:25:21 +0000"
+# Attributes from Felix Online V1
 id: "1650"
 old_path: /tech/1650/snapshots-of-the-future
 aliases:
  - /tech/1650/snapshots-of-the-future
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031826-fa608-pl0pq.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

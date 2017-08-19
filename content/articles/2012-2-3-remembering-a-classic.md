@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Guy Needham reviews The English Patient, a handsome, well-acted, and Oscar-winning picture that retains timeless appeal
 date: "2012-02-03 17:05:35 +0000"
+# Attributes from Felix Online V1
 id: "2134"
 old_path: /film/2134/remembering-a-classic
 aliases:
  - /film/2134/remembering-a-classic
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031704-sjw209-sfcbic.png"
 image_caption: >
   Insert inappropriate “Voldemort is back from the dead” joke here... we couldn’t be bothered to think
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yiango Mavrocostanti attended a free cooking session at the Whole Foods Market
 date: "2012-01-26 21:53:27 +0000"
+# Attributes from Felix Online V1
 id: "2046"
 old_path: /food/2046/kensington-cooking-class-act
 aliases:
  - /food/2046/kensington-cooking-class-act
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262151-ams111-whole-foods-social-space-cooking.jpg"
 image_caption: >
   All that's missing is Gregg Wallace
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

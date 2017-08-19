@@ -4,15 +4,20 @@ title: >
 subtitle: >
   More than 2200 undergraduates passed through the Royal Albert Hall to receive their degrees in three separate ceremonies that took part during Commemoration Day.
 date: "2014-10-24 12:18:53 +0100"
+# Attributes from Felix Online V1
 id: "4743"
 old_path: /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
 aliases:
  - /news/4743/imperial-graduands-flock-to-royal-albert-hall-for-graduation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie
 date: "2014-03-26 13:22:37 +0000"
+# Attributes from Felix Online V1
 id: "4498"
 old_path: /comment/4498/oh-whats-wrong-with-the-world-today
 aliases:
  - /comment/4498/oh-whats-wrong-with-the-world-today
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

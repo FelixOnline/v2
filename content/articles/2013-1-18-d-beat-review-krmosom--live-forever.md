@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray on sonic brutality
 date: "2013-01-18 00:53:31 +0000"
+# Attributes from Felix Online V1
 id: "3145"
 old_path: /music/3145/d-beat-review-krmosom--live-forever
 aliases:
  - /music/3145/d-beat-review-krmosom--live-forever
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180052-tna08-image-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

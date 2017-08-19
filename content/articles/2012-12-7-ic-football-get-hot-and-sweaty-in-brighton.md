@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spencer Bennett on the airborne rangers...
 date: "2012-12-07 02:57:27 +0000"
+# Attributes from Felix Online V1
 id: "3057"
 old_path: /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
 aliases:
  - /sport/3057/ic-football-get-hot-and-sweaty-in-brighton-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212071244-tna08-football.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

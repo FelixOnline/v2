@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As I sat down in my plush theatre seat, tucking my kiddy school bag under my legs, I suddenly felt very small.
 date: "2014-01-31 18:04:38 +0000"
+# Attributes from Felix Online V1
 id: "4329"
 old_path: /arts/4329/amazing-in-capital-letters
 aliases:
  - /arts/4329/amazing-in-capital-letters
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

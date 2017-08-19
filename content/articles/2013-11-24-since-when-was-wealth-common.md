@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course!
 date: "2013-11-24 16:09:08 +0000"
+# Attributes from Felix Online V1
 id: "4112"
 old_path: /comment/4112/since-when-was-wealth-common
 aliases:
  - /comment/4112/since-when-was-wealth-common
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

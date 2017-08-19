@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Banning an activity will never stop its practice, merely move its location.
 date: "2010-02-12 02:03:02 +0000"
+# Attributes from Felix Online V1
 id: "86"
 old_path: /comment/86/stephen-long-on-the-proposed-smoking-ban
 aliases:
  - /comment/86/stephen-long-on-the-proposed-smoking-ban
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

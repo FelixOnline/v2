@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clash between certain premier league managers
 date: "2011-01-27 20:39:05 +0000"
+# Attributes from Felix Online V1
 id: "699"
 old_path: /sport/699/are-foreign-managers-victimised-in-the-premier-league
 aliases:
  - /sport/699/are-foreign-managers-victimised-in-the-premier-league
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272031-dr910-riazriaz.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

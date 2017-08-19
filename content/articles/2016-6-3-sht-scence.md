@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reminiscent geeks confirm: Super Mario Bros is hard
 date: "2016-06-03 09:18:57 +0100"
+# Attributes from Felix Online V1
 id: "6237"
 old_path: /science/6237/sht-scence
 aliases:
  - /science/6237/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031118-felix-6510960541_2d1e558622_o.jpg"
 image_caption: >
   Itsame! Mario!
@@ -22,6 +27,7 @@ image_attribution: "Sergey Galyonkin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
+# Attributes from Felix Online V1
 id: "5179"
 old_path: /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
 aliases:
  - /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

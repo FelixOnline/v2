@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Steve Bohnel reflects on the results of Wednesday’s election
 date: "2016-11-11 13:56:10 +0000"
+# Attributes from Felix Online V1
 id: "6421"
 old_path: /comment/6421/electoral-dysfunction
 aliases:
  - /comment/6421/electoral-dysfunction
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

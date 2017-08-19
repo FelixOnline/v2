@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student Accommodation Awards refuse to choose winner
 date: "2016-10-31 13:35:24 +0000"
+# Attributes from Felix Online V1
 id: "6358"
 old_path: /news/6358/student-accommodation-situation-dire
 aliases:
  - /news/6358/student-accommodation-situation-dire
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311334-felix-ImperialCampus-319--tojpeg_1433261472249_x2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

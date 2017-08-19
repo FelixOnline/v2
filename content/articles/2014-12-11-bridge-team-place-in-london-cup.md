@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A great start to the year for bridge team
 date: "2014-12-11 21:25:23 +0000"
+# Attributes from Felix Online V1
 id: "5039"
 old_path: /cands/5039/bridge-team-place-in-london-cup
 aliases:
  - /cands/5039/bridge-team-place-in-london-cup
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112125-cj914-bridge.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dominic Price"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

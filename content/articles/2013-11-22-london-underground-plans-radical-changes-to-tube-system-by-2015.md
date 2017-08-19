@@ -4,15 +4,20 @@ title: >
 subtitle: >
   London Underground and the Mayor of London announced new changes that will have a large impact on London’s tube system.
 date: "2013-11-22 03:31:42 +0000"
+# Attributes from Felix Online V1
 id: "4095"
 old_path: /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
 aliases:
  - /news/4095/london-underground-plans-radical-changes-to-tube-system-by-2015
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311241714-jal08-screen-shot-2013-11-24-at-17.13.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Whealing"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

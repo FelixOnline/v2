@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lesson 7: Meet Me In St. Louis
 date: "2012-02-23 21:37:10 +0000"
+# Attributes from Felix Online V1
 id: "2258"
 old_path: /music/2258/george-jefferys-a-beginners-guide-to-post-hardcore-7
 aliases:
  - /music/2258/george-jefferys-a-beginners-guide-to-post-hardcore-7
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232136-ams111-meet-me-in-st-louis.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

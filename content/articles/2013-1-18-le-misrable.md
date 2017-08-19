@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A story of tax increases, strong words, national identity and Russian passports. Not up for nominations at the Oscars
 date: "2013-01-18 00:26:07 +0000"
+# Attributes from Felix Online V1
 id: "3132"
 old_path: /politics/3132/le-misrable
 aliases:
  - /politics/3132/le-misrable
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180026-tna08-french-film-star-gerard-depardieu-42c8-diaporama.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

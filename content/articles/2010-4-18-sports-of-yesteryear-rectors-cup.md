@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carrying on in his sporting series, Jovan Nedic moves out of the depths of the Thames and into the ring
 date: "2010-04-18 16:50:08 +0100"
+# Attributes from Felix Online V1
 id: "126"
 old_path: /sport/126/sports-of-yesteryear-rectors-cup
 aliases:
  - /sport/126/sports-of-yesteryear-rectors-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004181801-jn104-RectorsC.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

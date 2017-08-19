@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mean Girls, but with a west country accent
 date: "2011-02-10 20:07:26 +0000"
+# Attributes from Felix Online V1
 id: "765"
 old_path: /tv/765/sex-drugs--growing-old
 aliases:
  - /tv/765/sex-drugs--growing-old
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

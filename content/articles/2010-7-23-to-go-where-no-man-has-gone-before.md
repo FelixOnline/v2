@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Arts editor Caz Knight is taken on an cosmic journey through space, to the edge of black holes and 10,000 years into the future
 date: "2010-07-23 10:24:00 +0100"
+# Attributes from Felix Online V1
 id: "152"
 old_path: /arts/152/to-go-where-no-man-has-gone-before
 aliases:
  - /arts/152/to-go-where-no-man-has-gone-before
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSM President thinks it's BUCing awful
 date: "2013-03-14 23:58:26 +0000"
+# Attributes from Felix Online V1
 id: "3456"
 old_path: /news/3456/medics-stage-protest-over-bucs-decision
 aliases:
  - /news/3456/medics-stage-protest-over-bucs-decision
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150001-tna08-medics-bucs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

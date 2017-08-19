@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s an absolutely phenomenal crime drama that is surely in league with similar themed films.
 date: "2011-02-17 19:31:48 +0000"
+# Attributes from Felix Online V1
 id: "818"
 old_path: /film/818/down-under-six-feet-of-earth
 aliases:
  - /film/818/down-under-six-feet-of-earth
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171928-nm1010-downunde.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

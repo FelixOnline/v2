@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Fernando interviews Tom Welton, the new Dean of Natural Sciences from January 2015.
 date: "2014-11-10 22:46:29 +0000"
+# Attributes from Felix Online V1
 id: "4847"
 old_path: /features/4847/i-came-from-a-generation-that-thought-that-misery-and-intellect-were-synonymous
 aliases:
  - /features/4847/i-came-from-a-generation-that-thought-that-misery-and-intellect-were-synonymous
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102246-ps3110-c4cp01177e-p3_hi-res.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

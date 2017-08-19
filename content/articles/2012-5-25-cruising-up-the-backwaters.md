@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kicking back on a luxury rice boat in the heart of Kerala
 date: "2012-05-25 18:15:21 +0100"
+# Attributes from Felix Online V1
 id: "2497"
 old_path: /travel/2497/cruising-up-the-backwaters
 aliases:
  - /travel/2497/cruising-up-the-backwaters
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251915-mc4509-boat.jpg"
 image_caption: >
   Nope, this boat doesn’t come equipped with its own T-Pain (real name Faheem Rasheed Najm)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

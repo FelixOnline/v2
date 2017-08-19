@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New research could lead to new treatments for post traumatic stress
 date: "2011-06-02 18:31:48 +0100"
+# Attributes from Felix Online V1
 id: "1296"
 old_path: /science/1296/eternal-sunshine-for-the-stressful-mind
 aliases:
  - /science/1296/eternal-sunshine-for-the-stressful-mind
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106021932-felix-sadnesscmyk.jpg"
 image_caption: >
   Don’t cry, there are drugs to help you forget just how bad that film actually was
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

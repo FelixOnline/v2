@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Residents at postgraduate campus react to potential closure
 date: "2012-01-19 21:57:44 +0000"
+# Attributes from Felix Online V1
 id: "2032"
 old_path: /news/2032/clayponds-in-crisis
 aliases:
  - /news/2032/clayponds-in-crisis
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192152-felix-clayponds.jpg"
 image_caption: >
   Clayponds is located in South Ealing, and houses over 300 postgraduate students
@@ -22,6 +27,7 @@ image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

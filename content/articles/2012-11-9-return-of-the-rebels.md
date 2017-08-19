@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
+# Attributes from Felix Online V1
 id: "2871"
 old_path: /music/2871/return-of-the-rebels-
 aliases:
  - /music/2871/return-of-the-rebels-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

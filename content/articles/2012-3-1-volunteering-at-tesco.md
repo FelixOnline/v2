@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Luke Sheldon attacks the Government’s new scheme as enforced labour that only benefits big companies
 date: "2012-03-01 21:08:08 +0000"
+# Attributes from Felix Online V1
 id: "2270"
 old_path: /politics/2270/volunteering-at-tesco
 aliases:
  - /politics/2270/volunteering-at-tesco
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012106-cac111-img_9890.jpg"
 image_caption: >
   KFC and Starbucks this week announced apprenticeships while Burger King dropped out of the scheme
@@ -22,6 +27,7 @@ image_attribution: "Rajat Jain"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

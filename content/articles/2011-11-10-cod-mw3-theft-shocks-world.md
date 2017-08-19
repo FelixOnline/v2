@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £350,000 worth of goods stolen by masked men
 date: "2011-11-10 22:28:59 +0000"
+# Attributes from Felix Online V1
 id: "1749"
 old_path: /games/1749/cod-mw3-theft-shocks-world
 aliases:
  - /games/1749/cod-mw3-theft-shocks-world
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102228-pk1811-gamer.jpg"
 image_caption: >
   Last known image of one of the men believed to have been involved
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

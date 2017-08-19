@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Read here to find out about the highest paid wage at the Union and other fun facts!
 date: "2013-12-02 13:05:19 +0000"
+# Attributes from Felix Online V1
 id: "4146"
 old_path: /news/4146/union-releases-1213-annual-report
 aliases:
  - /news/4146/union-releases-1213-annual-report
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

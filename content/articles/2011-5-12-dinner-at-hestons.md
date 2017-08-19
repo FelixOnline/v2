@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laura Huckins visits the fabled new restaurant sensation
 date: "2011-05-12 18:36:51 +0100"
+# Attributes from Felix Online V1
 id: "1196"
 old_path: /food/1196/dinner-at-hestons
 aliases:
  - /food/1196/dinner-at-hestons
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121936-felix-pate.jpg"
 image_caption: >
   Oh sweet delicious meat fruit...
@@ -22,6 +27,7 @@ image_attribution: "flickr/laissez fare"
 image_attribution_link: "http://www.flickr.com/photos/laissezfare/5596124134/in/set-72157626443593584"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

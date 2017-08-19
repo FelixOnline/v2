@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thomas Lim on the email move that's been causing a few headaches, but bigger and better mailboxes are now in the hands of the masses.
 date: "2014-11-14 19:58:01 +0000"
+# Attributes from Felix Online V1
 id: "4861"
 old_path: /news/4861/office-365-roll-out-completes-amidst-technical-hitches
 aliases:
  - /news/4861/office-365-roll-out-completes-amidst-technical-hitches
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411141957-ps3110-o-stressed-out-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Waving goodbye to the Space Shuttle and saying hello to the private sector
 date: "2011-05-12 19:42:24 +0100"
+# Attributes from Felix Online V1
 id: "1209"
 old_path: /news/1209/the-space-shuttle-retires
 aliases:
  - /news/1209/the-space-shuttle-retires
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105122040-felix-space-shuttle-challenger.jpg"
 image_caption: >
   Space Shuttle Challenger, June 22 1983
@@ -22,6 +27,7 @@ image_attribution: "National Archives, United States of America"
 image_attribution_link: "http://www.nationalarchives.gov.uk/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

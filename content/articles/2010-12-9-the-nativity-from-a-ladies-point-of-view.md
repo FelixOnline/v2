@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking at nativity from a whole other perspective
 date: "2010-12-09 21:23:25 +0000"
+# Attributes from Felix Online V1
 id: "532"
 old_path: /comment/532/the-nativity-from-a-ladies-point-of-view
 aliases:
  - /comment/532/the-nativity-from-a-ladies-point-of-view
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ann09"
 author_name: "Alexandra Nowbar"
 author_image_path: "img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"

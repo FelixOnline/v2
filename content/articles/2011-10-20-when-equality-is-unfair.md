@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We should understand society's differences rather than ignoring them, argues Mahfooz Hasan
 date: "2011-10-20 23:10:36 +0100"
+# Attributes from Felix Online V1
 id: "1578"
 old_path: /comment/1578/when-equality-is-unfair
 aliases:
  - /comment/1578/when-equality-is-unfair
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

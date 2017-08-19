@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Close shaves and the perils of the barber
 date: "2012-02-02 23:42:28 +0000"
+# Attributes from Felix Online V1
 id: "2114"
 old_path: /comment/2114/cutting-through-the-pain-of-haircuts
 aliases:
  - /comment/2114/cutting-through-the-pain-of-haircuts
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

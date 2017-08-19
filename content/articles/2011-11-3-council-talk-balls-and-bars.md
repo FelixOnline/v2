@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
+# Attributes from Felix Online V1
 id: "1653"
 old_path: /news/1653/council-talk-balls-and-bars
 aliases:
  - /news/1653/council-talk-balls-and-bars
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031936-pk1811-img_6818.jpg"
 image_caption: >
   Council – not only three hours of serious debate, but three hours of arm exercise too
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

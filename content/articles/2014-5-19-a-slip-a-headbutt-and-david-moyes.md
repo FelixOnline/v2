@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A week after Manchester City won their second title in three seasons Kunal Wagle, Jonny Pratt and Football Columnist James White take a look at a Premier League season that really did have it all.
 date: "2014-05-19 13:28:47 +0100"
+# Attributes from Felix Online V1
 id: "4608"
 old_path: /sport/4608/a-slip-a-headbutt-and-david-moyes
 aliases:
  - /sport/4608/a-slip-a-headbutt-and-david-moyes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405191441-jal08-sport_pitch_teams.png"
 image_caption: >
   The top and top flop players of the season
@@ -22,6 +27,7 @@ image_attribution: "Kunal Wagle, Jonny Pratt / Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

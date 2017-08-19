@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial about how everyone is secretly a bit terrible at their job. Including me. Definitely me. Mostly me.
 date: "2013-05-16 20:42:52 +0100"
+# Attributes from Felix Online V1
 id: "3591"
 old_path: /comment/3591/behaving-like-animals
 aliases:
  - /comment/3591/behaving-like-animals
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

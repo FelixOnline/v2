@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you’re gonna be the guy that walks up to a speaker, phone first, while asking an entire room of people to shut up so that you can shazam something, at least put that song in a playlist
 date: "2016-12-09 15:43:12 +0000"
+# Attributes from Felix Online V1
 id: "6577"
 old_path: /music/6577/a-year-of-shazams-and-this-is-what-i-found
 aliases:
  - /music/6577/a-year-of-shazams-and-this-is-what-i-found
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091542-felix-4606875546_68657f5f23_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sean Lucas \ Shazam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Güeros is a masterful film, following the lives of three young Mexican boys during the 1999 student protests
 date: "2015-11-29 16:40:49 +0000"
+# Attributes from Felix Online V1
 id: "5782"
 old_path: /film/5782/an-a-art-house-experience
 aliases:
  - /film/5782/an-a-art-house-experience
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291640-ff712-gueros.jpg"
 image_caption: >
   With its black and white cinematography, Güeros oozes charm
@@ -22,6 +27,7 @@ image_attribution: "Güeros PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

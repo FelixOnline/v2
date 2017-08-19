@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Manon Lescaut is on at the Royal Opera House until 12th December 2016
 date: "2016-12-02 14:59:00 +0000"
+# Attributes from Felix Online V1
 id: "6535"
 old_path: /arts/6535/manon-lescaut-raises-some-questions
 aliases:
  - /arts/6535/manon-lescaut-raises-some-questions
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021458-felix-14256652138_c9aaf7417f_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " The Royal Opera House | Bill Cooper 2014"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

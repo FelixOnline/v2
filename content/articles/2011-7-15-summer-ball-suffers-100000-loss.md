@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
+# Attributes from Felix Online V1
 id: "1450"
 old_path: /news/1450/summer-ball-suffers-100000-loss
 aliases:
  - /news/1450/summer-ball-suffers-100000-loss
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201107181209-felix-dsc_0021.jpg"
 image_caption: >
   This year's Summer Ball
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

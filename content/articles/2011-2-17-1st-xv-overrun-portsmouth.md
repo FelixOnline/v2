@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rugby team at its best
 date: "2011-02-17 20:45:10 +0000"
+# Attributes from Felix Online V1
 id: "850"
 old_path: /sport/850/1st-xv-overrun-portsmouth
 aliases:
  - /sport/850/1st-xv-overrun-portsmouth
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

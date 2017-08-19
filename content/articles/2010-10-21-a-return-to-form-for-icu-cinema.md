@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Union's Cinema is reborn!
 date: "2010-10-21 19:18:32 +0100"
+# Attributes from Felix Online V1
 id: "237"
 old_path: /film/237/a-return-to-form-for-icu-cinema-
 aliases:
  - /film/237/a-return-to-form-for-icu-cinema-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212017-ks607-ICUcinme.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Roberto Tenace"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

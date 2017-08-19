@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saul Coleman doesn't think the Israeli ambassador's talk was covered appropriately
 date: "2017-02-10 13:46:45 +0000"
+# Attributes from Felix Online V1
 id: "6747"
 old_path: /comment/6747/youre-misrepresenting-the-facts
 aliases:
  - /comment/6747/youre-misrepresenting-the-facts
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101346-felix-Screen Shot 2017-02-10 at 13.46.29.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

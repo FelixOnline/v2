@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Neil Gaiman’s best known novel
 date: "2012-11-15 21:28:56 +0000"
+# Attributes from Felix Online V1
 id: "2896"
 old_path: /books/2896/a-trip-around-america
 aliases:
  - /books/2896/a-trip-around-america
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152129-tna08-gods2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

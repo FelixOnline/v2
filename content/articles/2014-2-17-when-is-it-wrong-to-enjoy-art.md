@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Woody Allen’s confusing and highly questionable private life has once again been thrust into the open with Dylan Farrow’s accusation of being molested by him when she was seven.
 date: "2014-02-17 17:22:47 +0000"
+# Attributes from Felix Online V1
 id: "4390"
 old_path: /comment/4390/when-is-it-wrong-to-enjoy-art-
 aliases:
  - /comment/4390/when-is-it-wrong-to-enjoy-art-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

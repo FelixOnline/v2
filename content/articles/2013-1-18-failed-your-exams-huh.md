@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Daniel Sokol gives his advice on writing appeals for those with legitimate grounds
 date: "2013-01-18 00:35:39 +0000"
+# Attributes from Felix Online V1
 id: "3136"
 old_path: /comment/3136/failed-your-exams-huh
 aliases:
  - /comment/3136/failed-your-exams-huh
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180035-tna08-c1_the-apprentice-long-lead.jpg"
 image_caption: >
   Standard viva board at Imperial
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

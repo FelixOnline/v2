@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fire Emblem Heroes is free on Android and iOS
 date: "2017-05-15 16:30:31 +0100"
+# Attributes from Felix Online V1
 id: "6956"
 old_path: /games/6956/clash-of-heroes--fire-emblem-heroes
 aliases:
  - /games/6956/clash-of-heroes--fire-emblem-heroes
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151829-felix-Heroes-Illustration-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial takes on 15 of the best university ultimate frisbee teams
 date: "2012-01-12 20:36:24 +0000"
+# Attributes from Felix Online V1
 id: "1965"
 old_path: /sport/1965/discdoctors-grab-bucs-points
 aliases:
  - /sport/1965/discdoctors-grab-bucs-points
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122033-cac111-imgp9182.jpg"
 image_caption: >
   Well, you can tell it’s the indoor nationals
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

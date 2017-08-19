@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Product’s humour dated
 date: "2015-05-15 12:56:32 +0100"
+# Attributes from Felix Online V1
 id: "5540"
 old_path: /arts/5540/when-satire-starts-to-age
 aliases:
  - /arts/5540/when-satire-starts-to-age
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151356-cj914-olivia-poulet-in-product-by-mark-ravenhill,-arcola,-27-april---24-may,-courtesy-of-richard-davenport,-6.jpg"
 image_caption: >
   Olivia Poulet in the Arcola Theatre’s production of Mark Ravenhill’s Product
@@ -22,6 +27,7 @@ image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

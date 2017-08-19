@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A Cappella catch us up on their victory in New York
 date: "2016-05-13 09:39:22 +0100"
+# Attributes from Felix Online V1
 id: "6167"
 old_path: /cands/6167/the-lowdown-on-the-techtonics-win
 aliases:
  - /cands/6167/the-lowdown-on-the-techtonics-win
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131138-felix-DSC_9816.jpg"
 image_caption: >
   Look at these cuties and their giant trophy.
@@ -22,6 +27,7 @@ image_attribution: " Joe Martinez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

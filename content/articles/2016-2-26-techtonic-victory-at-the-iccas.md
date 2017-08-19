@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The all-male A Cappella group is officially off to New York for the finals in April
 date: "2016-02-26 12:07:06 +0000"
+# Attributes from Felix Online V1
 id: "5985"
 old_path: /cands/5985/techtonic-victory-at-the-iccas-
 aliases:
  - /cands/5985/techtonic-victory-at-the-iccas-
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261206-felix-tt.jpg"
 image_caption: >
   The Techtonics with their award!
@@ -22,6 +27,7 @@ image_attribution: "Will O’Reilly"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

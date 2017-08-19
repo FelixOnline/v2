@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Karapetian takes to Malaysian Night 2012
 date: "2012-03-01 21:31:15 +0000"
+# Attributes from Felix Online V1
 id: "2275"
 old_path: /news/2275/the-life-of-death
 aliases:
  - /news/2275/the-life-of-death
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012129-cac111-398471_372303862789382_100000293150658_1381444_1727893044_n.jpg"
 image_caption: >
   He whipped out his katana...it was super effective
@@ -22,6 +27,7 @@ image_attribution: "Keane Ritikos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

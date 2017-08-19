@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Tottenham explains the martial art
 date: "2013-01-18 00:59:26 +0000"
+# Attributes from Felix Online V1
 id: "3146"
 old_path: /sport/3146/what-is-wing-chun
 aliases:
  - /sport/3146/what-is-wing-chun
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180058-tna08-wing-chen.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

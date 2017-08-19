@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Salaries revealed. Sort of.
 date: "2013-03-15 00:34:23 +0000"
+# Attributes from Felix Online V1
 id: "3462"
 old_path: /news/3462/273-staff-members-on-over-100000
 aliases:
  - /news/3462/273-staff-members-on-over-100000
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150034-tna08-money.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robert Rodriguez pulls off an absurdly entertaining action film
 date: "2010-12-02 20:14:16 +0000"
+# Attributes from Felix Online V1
 id: "462"
 old_path: /film/462/pure-entertainment
 aliases:
  - /film/462/pure-entertainment
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022011-ks607-machete.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

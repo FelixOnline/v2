@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Utsav Radia discusses new research on study drugs, and the problems they pose
 date: "2014-05-09 02:05:50 +0100"
+# Attributes from Felix Online V1
 id: "4572"
 old_path: /science/4572/boosting-your-brainpower
 aliases:
  - /science/4572/boosting-your-brainpower
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090306-jal08-111434-pills.walbridge-01.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "archive.dailycal.org"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

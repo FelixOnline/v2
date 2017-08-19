@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Future of the Left have generated a reputation for absurd lyrics
 date: "2016-05-20 09:14:07 +0100"
+# Attributes from Felix Online V1
 id: "6186"
 old_path: /music/6186/future-of-the-left-crowdfund-peace
 aliases:
  - /music/6186/future-of-the-left-crowdfund-peace
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201110-felix-futureoftheleft.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

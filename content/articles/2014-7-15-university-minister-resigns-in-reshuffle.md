@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Universities Minister has resigned as David Cameron prepares to announce a reshuffle in the cabinet.
 date: "2014-07-15 02:51:30 +0100"
+# Attributes from Felix Online V1
 id: "4725"
 old_path: /news/4725/university-minister-resigns-in-reshuffle
 aliases:
  - /news/4725/university-minister-resigns-in-reshuffle
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201407150351-kmw13-david_willetts_13031_450.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Times Higher Education"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

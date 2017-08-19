@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt investigates the daily life of the student newspaper.
 date: "2015-02-02 14:25:33 +0000"
+# Attributes from Felix Online V1
 id: "5177"
 old_path: /cands/5177/a-week-in-the-life-of-felix
 aliases:
  - /cands/5177/a-week-in-the-life-of-felix
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502021424-bwh12-dsc_0898_by_tlim.jpg"
 image_caption: >
   Scenes from a newsroom's mind.
@@ -22,6 +27,7 @@ image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

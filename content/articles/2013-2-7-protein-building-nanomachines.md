@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Byrne investigates an alternative to boring and long chemical synthesis
 date: "2013-02-07 23:24:45 +0000"
+# Attributes from Felix Online V1
 id: "3259"
 old_path: /science/3259/protein-building-nanomachines
 aliases:
  - /science/3259/protein-building-nanomachines
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072324-tna08-ecoli_70s_ribosome_pair_with_trna_mrna.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking at the Kepler Telescope's newest discovery
 date: "2013-11-01 09:38:29 +0000"
+# Attributes from Felix Online V1
 id: "3973"
 old_path: /science/3973/7th-rock-from-another-sun
 aliases:
  - /science/3973/7th-rock-from-another-sun
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010937-felix-science-kepler-space-telescope.jpg"
 image_caption: >
   The Kepler Space Telescope before launch in 2009
@@ -22,6 +27,7 @@ image_attribution: "NASA /Jack Pfaller"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

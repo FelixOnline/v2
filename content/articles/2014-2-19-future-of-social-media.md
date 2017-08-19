@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keeping us glued to our screens, and how to monetize it.
 date: "2014-02-19 21:18:16 +0000"
+# Attributes from Felix Online V1
 id: "4405"
 old_path: /tech/4405/future-of-social-media
 aliases:
  - /tech/4405/future-of-social-media
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201402192118-me1711-tech_fb.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports on the research into large-scale screening programmes
 date: "2015-05-29 01:03:26 +0100"
+# Attributes from Felix Online V1
 id: "5578"
 old_path: /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
 aliases:
  - /news/5578/study-by-imperial-professor-raises-fears-for-diabetes-screening-in-india
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290203-ps3110-diabetes.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

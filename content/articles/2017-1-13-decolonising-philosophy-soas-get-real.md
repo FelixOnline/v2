@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jian Li Chew discusses decolonisation,philosophy, and special snowflakes.
 date: "2017-01-13 14:01:29 +0000"
+# Attributes from Felix Online V1
 id: "6635"
 old_path: /comment/6635/decolonising-philosophy-soas-get-real
 aliases:
  - /comment/6635/decolonising-philosophy-soas-get-real
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.03.28.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

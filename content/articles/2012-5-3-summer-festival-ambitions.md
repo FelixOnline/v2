@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why Benicassim should be the top of your list for 2012
 date: "2012-05-03 18:50:41 +0100"
+# Attributes from Felix Online V1
 id: "2418"
 old_path: /travel/2418/summer-festival-ambitions
 aliases:
  - /travel/2418/summer-festival-ambitions
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031950-ams111-festival-day.jpg"
 image_caption: >
   Sweaty, sun-singed and fired up on sangria: maybe you should reconsider those summer internship plan
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Design-wise, the system is a refinement, rather than a complete transformation”
 date: "2011-02-03 20:20:11 +0000"
+# Attributes from Felix Online V1
 id: "742"
 old_path: /tech/742/sony-unveils-psp-successor
 aliases:
  - /tech/742/sony-unveils-psp-successor
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

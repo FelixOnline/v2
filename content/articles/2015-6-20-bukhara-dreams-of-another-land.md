@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland explores what inspires us to seek out adventure
 date: "2015-06-20 17:30:55 +0100"
+# Attributes from Felix Online V1
 id: "5647"
 old_path: /travel/5647/bukhara-dreams-of-another-land
 aliases:
  - /travel/5647/bukhara-dreams-of-another-land
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506201833-km2612-alim_khan_(1880–1944),_emir_of_bukhara,_photographed_by_s.m._prokudin-gorskiy_in_1911.jpg"
 image_caption: >
   Alim Khan, Emir of Bukhara, 1911 by Sergei Prokudin-Gorskii
@@ -22,6 +27,7 @@ image_attribution: "Library of Congress"
 image_attribution_link: "http://www.loc.gov/pictures/collection/prok/"
 video_url: ""
 
+# Author metadata
 author_id: "km2612"
 author_name: "Kamil McClelland"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

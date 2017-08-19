@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tolstoy himself would be quite pleased with this distillation of his tonic against doom
 date: "2016-02-12 11:58:01 +0000"
+# Attributes from Felix Online V1
 id: "5916"
 old_path: /tv/5916/-the-triumph-of-war-and-peace
 aliases:
  - /tv/5916/-the-triumph-of-war-and-peace
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121157-felix-war_peace-everyone.jpg"
 image_caption: >
   Reserved regality.
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

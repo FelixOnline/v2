@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wordplay anyone? Or may be a silicone based GP?
 date: "2011-02-24 20:07:33 +0000"
+# Attributes from Felix Online V1
 id: "880"
 old_path: /tech/880/ai-geek-bests-human-rivals
 aliases:
  - /tech/880/ai-geek-bests-human-rivals
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242003-nm1010-jeopardy.jpg"
 image_caption: >
   Spot the odd one out
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

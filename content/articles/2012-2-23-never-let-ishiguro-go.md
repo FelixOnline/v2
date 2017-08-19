@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kazuo Ishiguro applies his unique writing style to the realm of science fiction
 date: "2012-02-23 20:26:34 +0000"
+# Attributes from Felix Online V1
 id: "2233"
 old_path: /books/2233/never-let-ishiguro-go
 aliases:
  - /books/2233/never-let-ishiguro-go
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232022-cac111-ishiguro.jpg"
 image_caption: >
   Kazuo Ishiguro is one of Britain’s most celebrated authors
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

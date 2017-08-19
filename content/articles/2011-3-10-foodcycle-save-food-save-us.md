@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ankoor Patel offers you the chance to win a meal cooked by star chef Tom Aiken
 date: "2011-03-10 20:55:16 +0000"
+# Attributes from Felix Online V1
 id: "1078"
 old_path: /food/1078/foodcycle-save-food-save-us
 aliases:
  - /food/1078/foodcycle-save-food-save-us
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102050-ks607-tomaiken.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Just imagining eating something can curb your appetite for it
 date: "2011-01-13 20:08:35 +0000"
+# Attributes from Felix Online V1
 id: "575"
 old_path: /science/575/sweet-thoughts-curb-hunger-pangs
 aliases:
  - /science/575/sweet-thoughts-curb-hunger-pangs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132006-ks607-sweets.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

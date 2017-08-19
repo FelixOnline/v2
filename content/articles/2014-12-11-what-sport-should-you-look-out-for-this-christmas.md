@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle tells Felix about some of the best action over the holiday
 date: "2014-12-11 23:39:27 +0000"
+# Attributes from Felix Online V1
 id: "5044"
 old_path: /sport/5044/what-sport-should-you-look-out-for-this-christmas
 aliases:
  - /sport/5044/what-sport-should-you-look-out-for-this-christmas
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112339-cj914-_79407119_am2.jpg"
 image_caption: >
   Andy Murray will be hoping for a strong 2015
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

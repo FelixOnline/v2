@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Follow Andrada as she tries to follow a recipe, takes a two hour detour and resigns to eating store bought cake while waiting for her pie to cook
 date: "2016-11-25 14:40:45 +0000"
+# Attributes from Felix Online V1
 id: "6514"
 old_path: /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
 aliases:
  - /food/6514/following-a-recipe-is-not-as-easy-as-it-sounds
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251437-felix-5513650419_cb14c3a042_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Veganbaking.net"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

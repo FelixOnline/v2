@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Staff awarded for contribution to the student experience
 date: "2013-05-23 22:27:16 +0100"
+# Attributes from Felix Online V1
 id: "3618"
 old_path: /news/3618/student-led-teaching-award-winners-announced
 aliases:
  - /news/3618/student-led-teaching-award-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232326-tna08-newseventsimages-(1).jpg"
 image_caption: >
   DPE Doug Hunt does his best Seth MacFarlane impression
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Politicians have legal immunity for a reason. We should call them out when they abuse it
 date: "2012-11-09 11:51:51 +0000"
+# Attributes from Felix Online V1
 id: "2842"
 old_path: /comment/2842/parliamentary-privilege-my-arse
 aliases:
  - /comment/2842/parliamentary-privilege-my-arse
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091152-tna08-mcshane.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

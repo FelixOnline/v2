@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pt. 2 a new ear for classical, or: what post-war Polish composition has to do with British breakcore
 date: "2012-10-18 21:35:32 +0100"
+# Attributes from Felix Online V1
 id: "2713"
 old_path: /music/2713/you-dont-have-to-call-it-music-2
 aliases:
  - /music/2713/you-dont-have-to-call-it-music-2
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

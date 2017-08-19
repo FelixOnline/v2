@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The LE Rush could be the protective laptop bag for you
 date: "2011-01-27 19:15:45 +0000"
+# Attributes from Felix Online V1
 id: "664"
 old_path: /tech/664/ez-laptop-protection-for-those-in-le-rush-
 aliases:
  - /tech/664/ez-laptop-protection-for-those-in-le-rush-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271914-ks607-itsatech.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vittorio De Sica's 1948 masterpiece is a beautifully crafted portrayal of suffering and poverty in post war Rome
 date: "2011-02-17 19:23:05 +0000"
+# Attributes from Felix Online V1
 id: "816"
 old_path: /film/816/bicycle-thieves
 aliases:
  - /film/816/bicycle-thieves
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171909-nm1010-bicyclye.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

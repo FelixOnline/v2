@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles thinks that the National Theatre's latest production is a snappy, comedic diamond in the rough
 date: "2015-03-30 14:36:07 +0100"
+# Attributes from Felix Online V1
 id: "5459"
 old_path: /arts/5459/the-rules-of-the-game
 aliases:
  - /arts/5459/the-rules-of-the-game
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
 image_caption: >
   Deborah Findlay (Edith) in the National Theatre's Rules For Living
@@ -22,6 +27,7 @@ image_attribution: "Simon Annand"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

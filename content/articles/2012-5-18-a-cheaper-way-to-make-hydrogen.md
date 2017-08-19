@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A faster way to fill up on the horizon
 date: "2012-05-18 11:13:50 +0100"
+# Attributes from Felix Online V1
 id: "2467"
 old_path: /science/2467/a-cheaper-way-to-make-hydrogen
 aliases:
  - /science/2467/a-cheaper-way-to-make-hydrogen
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181213-felix-hydrogen-car.jpg"
 image_caption: >
   Hydrogen car being filled up
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

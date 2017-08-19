@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik looks at Emma Sulkowicz’s Carry That Weight
 date: "2014-12-04 19:53:02 +0000"
+# Attributes from Felix Online V1
 id: "5005"
 old_path: /arts/5005/revealing-the-reality-of-campus-rape
 aliases:
  - /arts/5005/revealing-the-reality-of-campus-rape
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041952-cj914-mattress-protest.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Emma Sulkowicz is carrying her mattress around Columbia Univ
 image_attribution_link: "http://Andrew Burton"
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

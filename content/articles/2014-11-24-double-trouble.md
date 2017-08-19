@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Part 2: Felix asks whether the awarding of double points in the final race is a good thing. No it isn't, says Henry Lambley.
 date: "2014-11-24 20:26:30 +0000"
+# Attributes from Felix Online V1
 id: "4953"
 old_path: /sport/4953/double-trouble
 aliases:
  - /sport/4953/double-trouble
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411242021-ps3110-xpb_540852_hires.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

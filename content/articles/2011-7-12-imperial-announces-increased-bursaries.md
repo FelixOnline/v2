@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College and Union unveil plans to 'reassure' prospective students following rise in tuition fees
 date: "2011-07-12 15:14:18 +0100"
+# Attributes from Felix Online V1
 id: "1449"
 old_path: /news/1449/imperial-announces-increased-bursaries
 aliases:
  - /news/1449/imperial-announces-increased-bursaries
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
 image_caption: >
   Financial support will be provided for households earning up to £60,000
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

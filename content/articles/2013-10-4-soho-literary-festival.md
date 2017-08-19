@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski discusses an entertaining and interesting event
 date: "2013-10-04 02:03:16 +0100"
+# Attributes from Felix Online V1
 id: "3808"
 old_path: /books/3808/soho-literary-festival
 aliases:
  - /books/3808/soho-literary-festival
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040302-jal08-damscus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

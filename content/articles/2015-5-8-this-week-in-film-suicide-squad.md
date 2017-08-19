@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Harley Quinn's first live-action moments on screen
 date: "2015-05-08 12:50:21 +0100"
+# Attributes from Felix Online V1
 id: "5507"
 old_path: /film/5507/this-week-in-film-suicide-squad
 aliases:
  - /film/5507/this-week-in-film-suicide-squad
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505081320-jyg11-harley-quinn.jpg"
 image_caption: >
   Margot Robbie on set as Harley Quinn
@@ -22,6 +27,7 @@ image_attribution: "David Ayer/Warner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Smith shares the easiest way to gourmet cooking with the Souffle Omelette
 date: "2011-02-17 19:46:49 +0000"
+# Attributes from Felix Online V1
 id: "825"
 old_path: /food/825/souffl-omelette
 aliases:
  - /food/825/souffl-omelette
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171943-nm1010-omelette.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

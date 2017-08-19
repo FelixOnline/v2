@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shamini Bundell Sneaks into the dress rehearsal for Noises Off and gets totally confused.
 date: "2010-03-17 16:04:06 +0000"
+# Attributes from Felix Online V1
 id: "124"
 old_path: /arts/124/nothing-on-go-see-noises-off
 aliases:
  - /arts/124/nothing-on-go-see-noises-off
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

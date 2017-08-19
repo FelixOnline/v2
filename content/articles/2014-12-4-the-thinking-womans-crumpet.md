@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli on the next generation of charming TV presenters
 date: "2014-12-04 19:19:05 +0000"
+# Attributes from Felix Online V1
 id: "4995"
 old_path: /tv/4995/the-thinking-womans-crumpet
 aliases:
  - /tv/4995/the-thinking-womans-crumpet
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041917-cj914-simon-reeve.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Can you shampoo with a headscarf on? Where can you pray when you’ve only got five minutes?
 date: "2016-02-19 11:15:52 +0000"
+# Attributes from Felix Online V1
 id: "5927"
 old_path: /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
 aliases:
  - /features/5927/things-youre-desperate-to-ask-your-muslim-lab-partner
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191112-felix-image1.JPG"
 image_caption: >
   We’re chilling in SAF, just like you.
@@ -22,6 +27,7 @@ image_attribution: "ISoc"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

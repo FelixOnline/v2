@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Very stressful, deeply disturbing and utterly engrossing
 date: "2011-01-20 19:51:28 +0000"
+# Attributes from Felix Online V1
 id: "616"
 old_path: /film/616/a-hitchcock-esque-ballet-
 aliases:
  - /film/616/a-hitchcock-esque-ballet-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201949-ks607-blackswa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

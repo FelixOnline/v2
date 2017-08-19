@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial sells off last shares of life sciences start-up
 date: "2016-06-03 08:35:32 +0100"
+# Attributes from Felix Online V1
 id: "6224"
 old_path: /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
 aliases:
  - /news/6224/imperial-sells-off-last-shares-of-life-sciences-start-up
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031034-felix-bio.jpg"
 image_caption: >
   Let’s commercialise some research!
@@ -22,6 +27,7 @@ image_attribution: "Imperial Innovations"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

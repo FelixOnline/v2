@@ -4,15 +4,20 @@ title: >
 subtitle: >
   By Tuesday morning Bowie’s ‘comeback’ was plastered all over the press and blaring out of radios
 date: "2013-01-10 22:51:36 +0000"
+# Attributes from Felix Online V1
 id: "3096"
 old_path: /music/3096/return-of-the-duke
 aliases:
  - /music/3096/return-of-the-duke
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102251-csw09-bowie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

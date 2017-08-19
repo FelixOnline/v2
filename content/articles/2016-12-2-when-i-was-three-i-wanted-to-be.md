@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science @BitesOfScience
 date: "2016-12-02 14:01:15 +0000"
+# Attributes from Felix Online V1
 id: "6528"
 old_path: /science/6528/when-i-was-three-i-wanted-to-be
 aliases:
  - /science/6528/when-i-was-three-i-wanted-to-be
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021401-felix-Clara.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

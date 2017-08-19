@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah comments on the state of US elections
 date: "2012-02-23 20:32:58 +0000"
+# Attributes from Felix Online V1
 id: "2235"
 old_path: /comment/2235/a-weak-republican-field
 aliases:
  - /comment/2235/a-weak-republican-field
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232026-ams111-newt-and-mitt.jpg"
 image_caption: >
   Nah dude I swear it’s THIIIIS big. As if your policy is that all encompassing
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

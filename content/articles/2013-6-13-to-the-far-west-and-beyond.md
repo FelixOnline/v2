@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Natalia Petrou explores the USA
 date: "2013-06-13 22:28:43 +0100"
+# Attributes from Felix Online V1
 id: "3675"
 old_path: /travel/3675/to-the-far-west-and-beyond
 aliases:
  - /travel/3675/to-the-far-west-and-beyond
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132325-tna08-america3loukas.png"
 image_caption: >
   Kodachrome
@@ -22,6 +27,7 @@ image_attribution: "Loukas Petrou"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking back at one of the finest shows set in the 1960's
 date: "2016-02-08 17:41:22 +0000"
+# Attributes from Felix Online V1
 id: "5892"
 old_path: /tv/5892/retro-retrospective-mad-men
 aliases:
  - /tv/5892/retro-retrospective-mad-men
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602081741-sa8713-madmen1-1024x576.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "AMC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

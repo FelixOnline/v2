@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Revitalized cinema prepare for 'All-Nighter'
 date: "2010-12-02 20:22:24 +0000"
+# Attributes from Felix Online V1
 id: "468"
 old_path: /film/468/the-next-move-for-icu-cinema
 aliases:
  - /film/468/the-next-move-for-icu-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022018-ks607-socialne.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken recaps the televised election debate, and gives the lowdown on how each candidate held their own
 date: "2015-05-01 00:30:26 +0100"
+# Attributes from Felix Online V1
 id: "5482"
 old_path: /politics/5482/the-big-debate-between-the-biggest-names-in-politics
 aliases:
  - /politics/5482/the-big-debate-between-the-biggest-names-in-politics
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505010130-ps3110-election_leaders_d_3255461b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

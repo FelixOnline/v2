@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg is emotionally blown apart at Wyndham’s
 date: "2015-02-22 17:44:28 +0000"
+# Attributes from Felix Online V1
 id: "5305"
 old_path: /arts/5305/utterly-overpowered-by-arthur-miller
 aliases:
  - /arts/5305/utterly-overpowered-by-arthur-miller
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502221743-ps3110-5_mark_strong_and_phoebe_fox_in_a_view_from_the_bridge_at_the_young_vic_-28--jan-versweyveld.jpg"
 image_caption: >
   Mark Strong and Phoebe Fox in A View from the Bridge at Wyndham’s Theatre.
@@ -22,6 +27,7 @@ image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

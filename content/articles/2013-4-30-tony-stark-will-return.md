@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Iron Man 3 Return
 date: "2013-04-30 10:46:21 +0100"
+# Attributes from Felix Online V1
 id: "3502"
 old_path: /film/3502/tony-stark-will-return
 aliases:
  - /film/3502/tony-stark-will-return
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012042-tna08-iron_man_3_screenshot_620x380.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

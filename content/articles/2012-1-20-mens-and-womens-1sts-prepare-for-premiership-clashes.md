@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Weekend win on the cards
 date: "2012-01-20 12:09:16 +0000"
+# Attributes from Felix Online V1
 id: "2041"
 old_path: /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
 aliases:
  - /sport/2041/mens-and-womens-1sts-prepare-for-premiership-clashes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201201208-felix-img_7960.jpg"
 image_caption: >
   Don’t mess with the guy with the sabre
@@ -22,6 +27,7 @@ image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

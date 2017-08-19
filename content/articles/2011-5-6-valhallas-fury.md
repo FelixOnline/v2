@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It has its faults but Marvel’s Thor descends from the heavens to wreak havok amongst us mere mortals
 date: "2011-05-06 12:53:37 +0100"
+# Attributes from Felix Online V1
 id: "1168"
 old_path: /film/1168/valhallas-fury
 aliases:
  - /film/1168/valhallas-fury
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105061350-felix-thor02.jpg"
 image_caption: >
   Odin never regretted trading his eye for wisdom, look at his bitchin’ patch!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic.
 date: "2014-03-28 11:42:40 +0000"
+# Attributes from Felix Online V1
 id: "4515"
 old_path: /features/4515/a-call-for-doctors
 aliases:
  - /features/4515/a-call-for-doctors
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

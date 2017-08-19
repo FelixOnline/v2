@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As 2011 draws to a close Philip Kent summarises the big events of the year – gaming related, of course
 date: "2011-12-08 21:41:14 +0000"
+# Attributes from Felix Online V1
 id: "1942"
 old_path: /games/1942/a-right-royal-roundup
 aliases:
  - /games/1942/a-right-royal-roundup
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082131-pk1811-modern-warfare-3-cover-art-revealed.jpg"
 image_caption: >
   One of the big games from 2011
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

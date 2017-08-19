@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Quand je sens que ma foi dans les forces suprêmes faiblit, je pense toujours au miracle de l’anti-freeze” – by Ninochka Vodanoj
 date: "2011-11-03 21:03:17 +0000"
+# Attributes from Felix Online V1
 id: "1680"
 old_path: /biz/1680/you-there-make-way-for-liberty
 aliases:
  - /biz/1680/you-there-make-way-for-liberty
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032103-pk1811-occupy_snow.jpg"
 image_caption: >
   Temperatures plummet in Zuccotti park, and a full-time Occupier warms his hands while pondering whic
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s never a good sign when the set outshines the main cast
 date: "2017-02-10 15:52:05 +0000"
+# Attributes from Felix Online V1
 id: "6765"
 old_path: /arts/6765/rigoletto--singers-outshined-by-set
 aliases:
  - /arts/6765/rigoletto--singers-outshined-by-set
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101551-felix-ENO-Rigoletto-c-Alastair-Muir-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Alastair Muir"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

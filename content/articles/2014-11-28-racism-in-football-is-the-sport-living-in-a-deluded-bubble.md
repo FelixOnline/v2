@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl asks the question we are all considering at the moment.
 date: "2014-11-28 01:05:25 +0000"
+# Attributes from Felix Online V1
 id: "4974"
 old_path: /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
 aliases:
  - /sport/4974/racism-in-football-is-the-sport-living-in-a-deluded-bubble
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280105-kmw13-wigan-athletic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wigan Athletic Football Club"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

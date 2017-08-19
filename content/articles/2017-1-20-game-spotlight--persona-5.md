@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Qasim Mahmood tells you why you should be excited for the latest entry in the Persona series
 date: "2017-01-20 15:47:20 +0000"
+# Attributes from Felix Online V1
 id: "6677"
 old_path: /games/6677/game-spotlight--persona-5
 aliases:
  - /games/6677/game-spotlight--persona-5
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201547-felix-P5_illustration_by_Shigenori_Soejima.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Atlus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

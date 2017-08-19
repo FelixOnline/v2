@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle on what's next for the Open Air Laboratories
 date: "2015-05-21 19:57:48 +0100"
+# Attributes from Felix Online V1
 id: "5544"
 old_path: /news/5544/imperial-citizen-science-project-expands
 aliases:
  - /news/5544/imperial-citizen-science-project-expands
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212057-kmw13-buttercup.jpg"
 image_caption: >
   More than 850,000 have taken part in the OPAL project
@@ -22,6 +27,7 @@ image_attribution: "Natural History Museum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

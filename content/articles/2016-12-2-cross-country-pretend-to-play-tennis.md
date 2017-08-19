@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The youth has gone mad, MAD I TELL YA
 date: "2016-12-02 16:52:12 +0000"
+# Attributes from Felix Online V1
 id: "6555"
 old_path: /sport/6555/cross-country-pretend-to-play-tennis
 aliases:
  - /sport/6555/cross-country-pretend-to-play-tennis
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021652-felix-Wim a.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

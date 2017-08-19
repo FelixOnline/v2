@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will the end of free music on Spotify see it eclipsed by rivals?
 date: "2011-05-26 19:08:25 +0100"
+# Attributes from Felix Online V1
 id: "1254"
 old_path: /tech/1254/after-spotify-what-next
 aliases:
  - /tech/1254/after-spotify-what-next
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105262008-felix-spotify.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

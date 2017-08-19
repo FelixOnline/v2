@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Bowers discusses how padding can make your passwords more secure and easier to remember
 date: "2012-02-16 21:00:13 +0000"
+# Attributes from Felix Online V1
 id: "2181"
 old_path: /tech/2181/a-new-best-method-for-creating-passwords
 aliases:
  - /tech/2181/a-new-best-method-for-creating-passwords
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

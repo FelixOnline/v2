@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yes, that's the real title. No, that's not a misprint.
 date: "2015-05-15 12:10:26 +0100"
+# Attributes from Felix Online V1
 id: "5528"
 old_path: /film/5528/this-week-in-film-terminator-genisys
 aliases:
  - /film/5528/this-week-in-film-terminator-genisys
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151309-cj914-screen-shot-2015-05-15-at-13.08.47.png"
 image_caption: >
   He'll be back! (in the latest reboot of the Terminator series)
@@ -22,6 +27,7 @@ image_attribution: "Alan Taylor/Paramount"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

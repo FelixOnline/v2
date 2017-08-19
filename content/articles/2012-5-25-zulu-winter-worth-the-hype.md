@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England travels to the Boston Arms to find a band guaranteed to soundtrack future O2 adverts
 date: "2012-05-25 19:09:55 +0100"
+# Attributes from Felix Online V1
 id: "2505"
 old_path: /music/2505/zulu-winter-worth-the-hype
 aliases:
  - /music/2505/zulu-winter-worth-the-hype
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205252009-mc4509-zulu-winter---shot-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

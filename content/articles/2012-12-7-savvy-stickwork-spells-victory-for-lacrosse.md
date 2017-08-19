@@ -4,15 +4,20 @@ title: >
 subtitle: >
   La cross, isn't that what Joey Barton calls a ball into the box from the wing?
 date: "2012-12-07 03:07:29 +0000"
+# Attributes from Felix Online V1
 id: "3060"
 old_path: /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
 aliases:
  - /sport/3060/savvy-stickwork-spells-victory-for-lacrosse
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070307-tna08-010.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

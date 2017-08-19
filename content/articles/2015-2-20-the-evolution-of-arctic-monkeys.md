@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken chronicles the continuing reinvention of one of Britain’s best-loved bands
 date: "2015-02-20 17:42:27 +0000"
+# Attributes from Felix Online V1
 id: "5296"
 old_path: /music/5296/the-evolution-of-arctic-monkeys
 aliases:
  - /music/5296/the-evolution-of-arctic-monkeys
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201742-ps3110-am.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr. Phillippa Diedrichs, an expert in Body Image, gives a talk next week at Imperial. Deputy President (Welfare) Nicolas Massie interviews her for those who won’t be able to make it
 date: "2012-03-15 21:42:04 +0000"
+# Attributes from Felix Online V1
 id: "2391"
 old_path: /news/2391/all-about-body-image
 aliases:
  - /news/2391/all-about-body-image
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152141-pk1811-phillippa-diedrichs.jpg"
 image_caption: >
   Dr. Phillippa Diedrichs delivers a talk at Imperial on Monday 19 March
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

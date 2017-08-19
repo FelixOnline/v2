@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Betts wrestles with existential angst as he attempts to review restaurant chain Giraffe
 date: "2011-09-30 12:21:15 +0100"
+# Attributes from Felix Online V1
 id: "1461"
 old_path: /food/1461/make-a-meal-of-it
 aliases:
  - /food/1461/make-a-meal-of-it
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201109301319-felix-best-interior.jpg"
 image_caption: >
   Take a chance on Giraffe, or even... stick your neck out...eh, eh? I’ll get my coat
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

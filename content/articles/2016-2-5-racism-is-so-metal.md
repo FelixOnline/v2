@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The video is conclusive, Anselmo’s actions were horrific
 date: "2016-02-05 12:39:51 +0000"
+# Attributes from Felix Online V1
 id: "5880"
 old_path: /music/5880/racism-is-so-metal
 aliases:
  - /music/5880/racism-is-so-metal
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-philsalute.jpg"
 image_caption: >
   Moments after Anselmo raises his right hand.
@@ -22,6 +27,7 @@ image_attribution: "Youtube / Chris R"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

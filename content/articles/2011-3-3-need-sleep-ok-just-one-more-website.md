@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I am in no way to be held responsible for any loss of productivity, social life, or ability to graduate caused by this article
 date: "2011-03-03 06:09:32 +0000"
+# Attributes from Felix Online V1
 id: "984"
 old_path: /comment/984/need-sleep-ok-just-one-more-website
 aliases:
  - /comment/984/need-sleep-ok-just-one-more-website
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

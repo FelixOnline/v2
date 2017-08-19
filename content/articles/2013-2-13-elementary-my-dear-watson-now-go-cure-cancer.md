@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yong Wen Chua is wondering if he could beat Watson at Jeopardy
 date: "2013-02-13 12:38:58 +0000"
+# Attributes from Felix Online V1
 id: "3296"
 old_path: /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
 aliases:
  - /tech/3296/elementary-my-dear-watson-now-go-cure-cancer
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131230-tna08-watson_jeopardy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

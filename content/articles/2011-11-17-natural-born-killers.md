@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pavitar Devgon on what makes some people become psychopaths
 date: "2011-11-17 20:27:24 +0000"
+# Attributes from Felix Online V1
 id: "1758"
 old_path: /science/1758/natural-born-killers
 aliases:
  - /science/1758/natural-born-killers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172026-pk1811-battle_royale.jpg"
 image_caption: >
   How quickly would you turn to killing your friends in order to live?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

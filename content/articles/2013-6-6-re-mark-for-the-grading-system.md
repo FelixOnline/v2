@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union Council discusses the GPA
 date: "2013-06-06 15:45:19 +0100"
+# Attributes from Felix Online V1
 id: "3665"
 old_path: /news/3665/re-mark-for-the-grading-system
 aliases:
  - /news/3665/re-mark-for-the-grading-system
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306061646-tna08-cambridge_harvard_square.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

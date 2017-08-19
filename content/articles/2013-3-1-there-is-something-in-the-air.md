@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The College’s current tirade against smokers is stupid and unfair – smokers should be proud of what they do, says Meredith Thomas
 date: "2013-03-01 00:48:03 +0000"
+# Attributes from Felix Online V1
 id: "3410"
 old_path: /comment/3410/there-is-something-in-the-air
 aliases:
  - /comment/3410/there-is-something-in-the-air
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010049-tna08-hitler.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

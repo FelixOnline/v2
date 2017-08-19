@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Ursula Le Guin’s masterpiece
 date: "2012-11-09 13:20:49 +0000"
+# Attributes from Felix Online V1
 id: "2856"
 old_path: /books/2856/the-lathe-of-heaven
 aliases:
  - /books/2856/the-lathe-of-heaven
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091320-tna08-pressphotolathe5.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

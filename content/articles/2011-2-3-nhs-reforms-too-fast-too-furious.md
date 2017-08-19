@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Do we take NHS for granted?
 date: "2011-02-03 20:10:58 +0000"
+# Attributes from Felix Online V1
 id: "737"
 old_path: /politics/737/nhs-reforms-too-fast-too-furious
 aliases:
  - /politics/737/nhs-reforms-too-fast-too-furious
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

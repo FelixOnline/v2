@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But the men have to wait another year to regain the Sharpley Cup
 date: "2011-02-27 19:54:46 +0000"
+# Attributes from Felix Online V1
 id: "922"
 old_path: /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
 aliases:
  - /sport/922/hockey-ladies-beat-csm-for-first-time-in-12-years
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271953-ks607-rsmwomen.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

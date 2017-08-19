@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Night dives, skinny dipping and sangria
 date: "2016-02-19 12:27:02 +0000"
+# Attributes from Felix Online V1
 id: "5946"
 old_path: /cands/5946/scuba-do-lanzarote
 aliases:
  - /cands/5946/scuba-do-lanzarote
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191226-felix-CuttleJo.jpg"
 image_caption: >
   ICUC on some Finding Nemo hype.
@@ -22,6 +27,7 @@ image_attribution: "ICUC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

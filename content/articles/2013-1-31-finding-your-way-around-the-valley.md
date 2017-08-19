@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Entrepreneurs unveil the latest International Insight Series
 date: "2013-01-31 23:57:13 +0000"
+# Attributes from Felix Online V1
 id: "3218"
 old_path: /biz/3218/finding-your-way-around-the-valley
 aliases:
  - /biz/3218/finding-your-way-around-the-valley
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

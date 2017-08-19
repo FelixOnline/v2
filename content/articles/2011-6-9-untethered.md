@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ;ouigiguui
 date: "2011-06-09 20:20:28 +0100"
+# Attributes from Felix Online V1
 id: "1343"
 old_path: /phoenix/1343/untethered
 aliases:
  - /phoenix/1343/untethered
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092135-felix-img_0226.jpg"
 image_caption: >
   PhotoSoc/LeoSoc collaboration, Blyth Gallery, Spring 2011
@@ -22,6 +27,7 @@ image_attribution: "David Zheng"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

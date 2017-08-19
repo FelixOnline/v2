@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action as Imperial stroll to victory
 date: "2013-10-25 01:14:56 +0100"
+# Attributes from Felix Online V1
 id: "3952"
 old_path: /sport/3952/imperial-4th-s-put-six-past-greenwich
 aliases:
  - /sport/3952/imperial-4th-s-put-six-past-greenwich
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250215-felix-football-training-photo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICUAFC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

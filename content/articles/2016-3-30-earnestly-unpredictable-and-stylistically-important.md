@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ROH's Importance of Being Earnest is a boldly innovative take on a well-loved classic
 date: "2016-03-30 01:25:58 +0100"
+# Attributes from Felix Online V1
 id: "6081"
 old_path: /arts/6081/earnestly-unpredictable-and-stylistically-important
 aliases:
  - /arts/6081/earnestly-unpredictable-and-stylistically-important
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603300152-jc7413-PR8A1630 CURIEVICI AS JOHN WORTHING, NELSON AS ALGERNON MONCRIEFF, EWING AS LADY BRACKNELL, BOYLE AS CECILY CARDEW, MARSHALL AS GWENDOLEN FAIRFAX © ROH. S CUMMISKEY.jpg"
 image_caption: >
   "Am I right to suppose that there is to be no christening today?"
@@ -22,6 +27,7 @@ image_attribution: "Royal Opera House"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

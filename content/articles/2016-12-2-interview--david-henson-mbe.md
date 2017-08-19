@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Military veteran, bronze medallist PhD student
 date: "2016-12-02 16:40:07 +0000"
+# Attributes from Felix Online V1
 id: "6549"
 old_path: /sport/6549/interview--david-henson-mbe
 aliases:
  - /sport/6549/interview--david-henson-mbe
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021739-felix-IMG_8389 (2).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

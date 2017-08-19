@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Was Shakespeare a fraud?
 date: "2011-11-17 22:07:13 +0000"
+# Attributes from Felix Online V1
 id: "1791"
 old_path: /film/1791/to-believe-or-not-to-believe
 aliases:
  - /film/1791/to-believe-or-not-to-believe
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172205-pk1811-anonymous_2011_1024x768_896530.jpg"
 image_caption: >
   Oh my god...you've been tangoed!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

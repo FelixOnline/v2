@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandra Lim questions whether eating burnt food poses a risk to health, and how these could be avoided
 date: "2016-12-09 12:08:31 +0000"
+# Attributes from Felix Online V1
 id: "6566"
 old_path: /science/6566/does-this-look-burnt
 aliases:
  - /science/6566/does-this-look-burnt
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091207-aib116-bacon-1238243_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

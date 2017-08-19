@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer on Imperial’s research in epigenetics asthma treatments
 date: "2015-02-20 00:04:35 +0000"
+# Attributes from Felix Online V1
 id: "5280"
 old_path: /science/5280/genes-responsible-for-asthma-uncovered
 aliases:
  - /science/5280/genes-responsible-for-asthma-uncovered
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201114-cj914-o-asthma-sleep-apnea-facebook.jpg"
 image_caption: >
   Asthma affects millions of people
@@ -22,6 +27,7 @@ image_attribution: "Zoombaa"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

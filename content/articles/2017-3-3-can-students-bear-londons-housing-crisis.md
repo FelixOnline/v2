@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Naulls takes you through recent political developments aiming at tackling the country’s housing crisis while discussing how students are affected and what they can expect.
 date: "2017-03-03 14:19:40 +0000"
+# Attributes from Felix Online V1
 id: "6836"
 old_path: /news/6836/can-students-bear-londons-housing-crisis
 aliases:
  - /news/6836/can-students-bear-londons-housing-crisis
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031418-felix-31924312876_df1d6e2825_o.jpg"
 image_caption: >
   Khan Sadiq solve the housing crisis?
@@ -22,6 +27,7 @@ image_attribution: "Dionisos Olympian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

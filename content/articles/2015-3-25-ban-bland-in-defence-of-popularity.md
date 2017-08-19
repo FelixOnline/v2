@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles on populism, cultural criticism, and Kim Kardashian
 date: "2015-03-25 12:46:19 +0000"
+# Attributes from Felix Online V1
 id: "5437"
 old_path: /arts/5437/ban-bland-in-defence-of-popularity
 aliases:
  - /arts/5437/ban-bland-in-defence-of-popularity
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251245-ff712-middleton_full_0111.jpg"
 image_caption: >
   Kate Middleton’s first official portrait, by Paul Emsely, which was described as ‘pretty ordinary’
@@ -22,6 +27,7 @@ image_attribution: "National Portrait Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

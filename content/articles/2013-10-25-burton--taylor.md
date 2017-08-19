@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park reviews "Burton & Taylor"
 date: "2013-10-25 00:54:39 +0100"
+# Attributes from Felix Online V1
 id: "3942"
 old_path: /tv/3942/burton--taylor
 aliases:
  - /tv/3942/burton--taylor
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250154-felix-tv_drama_signs_off_on_bbc4_with_1_17m_watching_burton_and_taylor_biopic.jpg"
 image_caption: >
   Burton & Taylor
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

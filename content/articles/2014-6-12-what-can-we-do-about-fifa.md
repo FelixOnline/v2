@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The controversy behind this bureaucratic corrupt organisation.
 date: "2014-06-12 14:27:40 +0100"
+# Attributes from Felix Online V1
 id: "4682"
 old_path: /comment/4682/what-can-we-do-about-fifa
 aliases:
  - /comment/4682/what-can-we-do-about-fifa
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

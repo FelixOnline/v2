@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There's a new funny on the block
 date: "2015-01-23 18:40:58 +0000"
+# Attributes from Felix Online V1
 id: "5145"
 old_path: /tv/5145/brooklyn-nine-nine-for-your-consideration
 aliases:
  - /tv/5145/brooklyn-nine-nine-for-your-consideration
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231840-jyg11-brooklyn-nine-nine-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

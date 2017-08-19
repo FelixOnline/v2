@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new TED in town
 date: "2013-01-31 23:06:55 +0000"
+# Attributes from Felix Online V1
 id: "3203"
 old_path: /news/3203/you-know-tedx-now-meet-tedmed
 aliases:
  - /news/3203/you-know-tedx-now-meet-tedmed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312305-tna08-tedmedstage.jpg"
 image_caption: >
   SAF just got a makeover
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

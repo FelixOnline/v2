@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three of our writers look back on their favourite productions and exhibitions from this year.
 date: "2016-12-16 15:06:53 +0000"
+# Attributes from Felix Online V1
 id: "6614"
 old_path: /arts/6614/arts-in-2016--a-year-in-review
 aliases:
  - /arts/6614/arts-in-2016--a-year-in-review
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161506-felix-14656329_10154047514611365_8841028665040272408_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

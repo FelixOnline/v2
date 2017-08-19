@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gizmodo ends up with an iPhone prototype lost in a bar and spills the details
 date: "2010-04-30 11:23:29 +0100"
+# Attributes from Felix Online V1
 id: "132"
 old_path: /tech/132/apples-iphone-prototype-leaked
 aliases:
  - /tech/132/apples-iphone-prototype-leaked
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004301218-srg03-iPhonePr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

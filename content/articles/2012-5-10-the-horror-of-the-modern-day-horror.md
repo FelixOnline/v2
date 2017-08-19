@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or, the merits of Pyramid Head over generic space monster battles
 date: "2012-05-10 19:31:08 +0100"
+# Attributes from Felix Online V1
 id: "2433"
 old_path: /games/2433/the-horror-of-the-modern-day-horror
 aliases:
  - /games/2433/the-horror-of-the-modern-day-horror
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102031-felix-pyramid_head.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

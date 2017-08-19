@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Campaigners for huge cuts in number of sabbs vow they "will be back".
 date: "2014-12-12 12:47:06 +0000"
+# Attributes from Felix Online V1
 id: "5047"
 old_path: /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
 aliases:
  - /news/5047/proposal-to-cut-10-sabbaticals-down-to-6-at-ucl-falls-through
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412121247-ps3110-gordon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

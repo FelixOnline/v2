@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hopefully they’ve got 2020 vision
 date: "2016-11-25 13:20:21 +0000"
+# Attributes from Felix Online V1
 id: "6493"
 old_path: /news/6493/unions-three-year-strategy-proposal
 aliases:
  - /news/6493/unions-three-year-strategy-proposal
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

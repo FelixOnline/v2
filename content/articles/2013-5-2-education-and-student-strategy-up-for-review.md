@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A call for input has been issued
 date: "2013-05-02 13:30:34 +0100"
+# Attributes from Felix Online V1
 id: "3529"
 old_path: /news/3529/education-and-student-strategy-up-for-review
 aliases:
  - /news/3529/education-and-student-strategy-up-for-review
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

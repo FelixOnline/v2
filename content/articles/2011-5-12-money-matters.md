@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If the rich get to pay their way into university, I’m emigrating
 date: "2011-05-12 19:17:59 +0100"
+# Attributes from Felix Online V1
 id: "1205"
 old_path: /comment/1205/money-matters
 aliases:
  - /comment/1205/money-matters
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Kennedy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

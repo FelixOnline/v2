@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists try and fail squishing bug
 date: "2016-02-19 11:17:59 +0000"
+# Attributes from Felix Online V1
 id: "5928"
 old_path: /science/5928/sht-scence
 aliases:
  - /science/5928/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191117-felix-2230227893_04ecb82581_o.jpg"
 image_caption: >
   Be free little buddy.
@@ -22,6 +27,7 @@ image_attribution: "Oliver.dodd"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

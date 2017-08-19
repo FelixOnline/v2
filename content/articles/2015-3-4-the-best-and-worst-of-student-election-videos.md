@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We've scoured the web so you don't have to
 date: "2015-03-04 18:30:40 +0000"
+# Attributes from Felix Online V1
 id: "5334"
 old_path: /comment/5334/the-best-and-worst-of-student-election-videos-
 aliases:
  - /comment/5334/the-best-and-worst-of-student-election-videos-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

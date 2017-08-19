@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Savell gives part two of the Peter F. Hamilton SF detective series the pre-Picocon treatment
 date: "2013-02-07 22:39:16 +0000"
+# Attributes from Felix Online V1
 id: "3243"
 old_path: /books/3243/a-quantum-murder
 aliases:
  - /books/3243/a-quantum-murder
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072239-tna08-quantum_murderf.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

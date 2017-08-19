@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students get 18 days to prepare for a resit
 date: "2017-05-19 14:59:15 +0100"
+# Attributes from Felix Online V1
 id: "6972"
 old_path: /news/6972/ucl-leaks-paper-finds-out-after-exam
 aliases:
  - /news/6972/ucl-leaks-paper-finds-out-after-exam
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

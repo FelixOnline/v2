@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will the BAFTAs swing us in the right direction to guess the Oscar winners?
 date: "2011-02-17 19:27:58 +0000"
+# Attributes from Felix Online V1
 id: "817"
 old_path: /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
 aliases:
  - /film/817/can-the-baftas-be-a-good-prediction-for-the-oscars
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171923-nm1010-amyamyam.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jh308"
 author_name: "Jade Hoffman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

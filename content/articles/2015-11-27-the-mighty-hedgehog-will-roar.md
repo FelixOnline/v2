@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Should we save hedgehogs at the expense of becoming a global laughing stock?
 date: "2015-11-27 14:17:33 +0000"
+# Attributes from Felix Online V1
 id: "5774"
 old_path: /comment/5774/the-mighty-hedgehog-will-roar
 aliases:
  - /comment/5774/the-mighty-hedgehog-will-roar
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271416-ygr12-lion_porcupine.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Carnivoraforum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

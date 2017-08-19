@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fluent on Paper recognizes that poetry is meant to be enjoyed not alone and in silence but as a social act
 date: "2011-12-01 20:20:08 +0000"
+# Attributes from Felix Online V1
 id: "1867"
 old_path: /arts/1867/free-house-verse
 aliases:
  - /arts/1867/free-house-verse
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012017-ams111-arts1.jpg"
 image_caption: >
   To those who read Felix for the witty picture captions, I’m sorry
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

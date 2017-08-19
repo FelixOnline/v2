@@ -4,15 +4,20 @@ title: >
 subtitle: >
   3 out of 5, by Daniel Beatrup
 date: "2010-12-09 20:23:22 +0000"
+# Attributes from Felix Online V1
 id: "521"
 old_path: /music/521/the-drums-play-the-forum
 aliases:
  - /music/521/the-drums-play-the-forum
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092021-ma1307-Thedrums.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ma1307"
 author_name: "Matthew Allinson"
 author_image_path: "img/upload/201411062055-snb11-allinson.png"

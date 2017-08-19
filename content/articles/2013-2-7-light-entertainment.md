@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LEDs are not just for TVs it seems
 date: "2013-02-07 22:35:44 +0000"
+# Attributes from Felix Online V1
 id: "3242"
 old_path: /arts/3242/light-entertainment
 aliases:
  - /arts/3242/light-entertainment
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072234-tna08-light.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

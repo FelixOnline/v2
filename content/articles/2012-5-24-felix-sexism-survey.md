@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Results of Felix's Sexism Survey
 date: "2012-05-24 23:40:07 +0100"
+# Attributes from Felix Online V1
 id: "2490"
 old_path: /news/2490/felix-sexism-survey
 aliases:
  - /news/2490/felix-sexism-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250040-mc4509-sexismspread.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

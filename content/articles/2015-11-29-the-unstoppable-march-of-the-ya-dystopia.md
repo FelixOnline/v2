@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the last five years seeing multiple YA dystopia series, we explore what makes them a continued attraction to teens
 date: "2015-11-29 17:13:24 +0000"
+# Attributes from Felix Online V1
 id: "5787"
 old_path: /film/5787/the-unstoppable-march-of-the-ya-dystopia
 aliases:
  - /film/5787/the-unstoppable-march-of-the-ya-dystopia
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291707-ff712-katniss_archer.jpg"
 image_caption: >
   Jennifer Lawrence as Katniss Everdeen, in the wildly popular Hunger Games series
@@ -22,6 +27,7 @@ image_attribution: "Lionsgate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

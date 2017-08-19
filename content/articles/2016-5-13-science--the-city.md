@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-13 09:04:11 +0100"
+# Attributes from Felix Online V1
 id: "6155"
 old_path: /science/6155/science--the-city
 aliases:
  - /science/6155/science--the-city
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131103-felix-1280px-NSF_building.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

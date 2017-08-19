@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kelly Oakes reports on a possible cause of falling bee numbers
 date: "2012-05-25 18:42:40 +0100"
+# Attributes from Felix Online V1
 id: "2500"
 old_path: /science/2500/the-decline-of-british-bee-power
 aliases:
  - /science/2500/the-decline-of-british-bee-power
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251941-mc4509-s4.jpg"
 image_caption: >
   97% of wildflower meadows have been lost over the past 60 years, adding to the decline of bees
@@ -22,6 +27,7 @@ image_attribution: "Muhammad Mahdi Karim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

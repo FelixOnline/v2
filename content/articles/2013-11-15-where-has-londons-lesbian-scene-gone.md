@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As Candy Bar, London’s award winning Lesbian bar announces that it will be closing its doors for the last time in January, this is a question that many gay and bisexual women have been asking. Candy is the latest in a long list of lesbian bars and clubs who have lost their homes in recent years...
 date: "2013-11-15 02:27:43 +0000"
+# Attributes from Felix Online V1
 id: "4069"
 old_path: /comment/4069/where-has-londons-lesbian-scene-gone
 aliases:
  - /comment/4069/where-has-londons-lesbian-scene-gone
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150245-felix-candybar.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

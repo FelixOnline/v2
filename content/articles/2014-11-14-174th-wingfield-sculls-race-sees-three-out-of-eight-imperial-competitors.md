@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Both mens' and womans' races saw fantastic results
 date: "2014-11-14 21:22:40 +0000"
+# Attributes from Felix Online V1
 id: "4894"
 old_path: /sport/4894/174th-wingfield-sculls-race-sees-three-out-of-eight-imperial-competitors
 aliases:
  - /sport/4894/174th-wingfield-sculls-race-sees-three-out-of-eight-imperial-competitors
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142122-ps3110-pic-51.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

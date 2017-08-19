@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fast and fun, but this musical is a tad light on plot
 date: "2011-06-02 19:43:37 +0100"
+# Attributes from Felix Online V1
 id: "1311"
 old_path: /arts/1311/million-dollar-quartet
 aliases:
  - /arts/1311/million-dollar-quartet
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022043-felix-mdq%20group.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vondelpark – NYC Stuff and NYC Bags EP – 2011
 date: "2011-12-08 21:09:42 +0000"
+# Attributes from Felix Online V1
 id: "1931"
 old_path: /music/1931/kadhims-totally-hot-album-of-the-week-10
 aliases:
  - /music/1931/kadhims-totally-hot-album-of-the-week-10
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082109-pk1811-76265.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

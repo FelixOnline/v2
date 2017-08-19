@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fresh from the successes of Earthquakes in London, Mike Bartlett's new play takes a new angle of government, protest and personal responsibility
 date: "2011-11-17 21:22:36 +0000"
+# Attributes from Felix Online V1
 id: "1775"
 old_path: /arts/1775/13-unlucky-for-most
 aliases:
  - /arts/1775/13-unlucky-for-most
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172116-pk1811-olivier-theatre-1.jpg"
 image_caption: >
   The play gets its title from its opening week box office takings
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   More money raised for RAG
 date: "2012-03-15 21:20:21 +0000"
+# Attributes from Felix Online V1
 id: "2378"
 old_path: /news/2378/bike-auction-brings-the-money-
 aliases:
  - /news/2378/bike-auction-brings-the-money-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152120-pk1811-photo.png"
 image_caption: >
   The auction spinning into action
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

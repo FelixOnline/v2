@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The female reproductive system may contain a mechanism continuously producing egg cells
 date: "2012-03-08 20:07:45 +0000"
+# Attributes from Felix Online V1
 id: "2311"
 old_path: /science/2311/stem-cells-help-stop-biological-clock
 aliases:
  - /science/2311/stem-cells-help-stop-biological-clock
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082008-ams111-biological_clock243-940x626.jpg"
 image_caption: >
   Time might not be running out, after all
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One of the finest comic book adaptations on the small screen
 date: "2016-02-09 13:25:29 +0000"
+# Attributes from Felix Online V1
 id: "5893"
 old_path: /tv/5893/the-fastest-man-alive
 aliases:
  - /tv/5893/the-fastest-man-alive
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602091324-sa8713-the-flash.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

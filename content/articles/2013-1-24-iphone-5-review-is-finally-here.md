@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl tries his best to give you the low down on the newest Apple phone
 date: "2013-01-24 21:17:58 +0000"
+# Attributes from Felix Online V1
 id: "3158"
 old_path: /tech/3158/iphone-5-review-is-finally-here
 aliases:
  - /tech/3158/iphone-5-review-is-finally-here
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242117-mc4509-iphone5-19-pin-rendering-credit-blackpool-creative-11392050.jpg"
 image_caption: >
    Thin, light and powerful, just like what the Apple iPhone 5 should be
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

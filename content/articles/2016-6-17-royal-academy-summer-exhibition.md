@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This summer’s headline event showcases the work of artistic duos
 date: "2016-06-17 09:26:12 +0100"
+# Attributes from Felix Online V1
 id: "6281"
 old_path: /arts/6281/royal-academy-summer-exhibition
 aliases:
  - /arts/6281/royal-academy-summer-exhibition
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171125-felix-ra5.jpg"
 image_caption: >
   Last year’s coordinator Michael Craig-Martin has his work on display.
@@ -22,6 +27,7 @@ image_attribution: "Stephen White"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

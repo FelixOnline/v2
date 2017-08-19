@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Coles condemns the current approach to humanitarian aid
 date: "2016-10-28 15:16:51 +0100"
+# Attributes from Felix Online V1
 id: "6353"
 old_path: /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
 aliases:
  - /comment/6353/there-should-be-more-to-foreign-aid-than-emergency-support
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311310-felix-5357500014_eef716803c_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "James Emery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

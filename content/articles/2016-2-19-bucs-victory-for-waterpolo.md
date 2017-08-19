@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With a number of starting players missing things were not looking good
 date: "2016-02-19 12:32:03 +0000"
+# Attributes from Felix Online V1
 id: "5949"
 old_path: /sport/5949/bucs-victory-for-waterpolo-
 aliases:
  - /sport/5949/bucs-victory-for-waterpolo-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191231-felix-IMG_20160217_154920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Waterpolo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

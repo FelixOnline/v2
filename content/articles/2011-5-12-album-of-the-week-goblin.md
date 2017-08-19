@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tyler, the Creator's second album drops
 date: "2011-05-12 18:57:31 +0100"
+# Attributes from Felix Online V1
 id: "1200"
 old_path: /music/1200/album-of-the-week-goblin
 aliases:
  - /music/1200/album-of-the-week-goblin
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105130013-felix-tyler-the-creator-goblin.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

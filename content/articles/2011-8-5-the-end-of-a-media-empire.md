@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The world of journalism has been shaken to its core, Felix investigates.
 date: "2011-08-05 13:29:36 +0100"
+# Attributes from Felix Online V1
 id: "1453"
 old_path: /comment/1453/the-end-of-a-media-empire
 aliases:
  - /comment/1453/the-end-of-a-media-empire
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201108051427-ma1307-kadhimandfamily.jpg"
 image_caption: >
   Happier times
@@ -22,6 +27,7 @@ image_attribution: "Vanity Fair"
 image_attribution_link: "http://en.wikipedia.org/wiki/File:Rupert_Murdoch_Wendi_Murdoch_2011_Shankbone.JPG"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

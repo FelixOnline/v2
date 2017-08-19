@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandra Hicken talks to colleagues from the Network of Sustainable Scientists about the challenges that complicate a career in sustainable science.
 date: "2017-02-17 15:05:22 +0000"
+# Attributes from Felix Online V1
 id: "6788"
 old_path: /science/6788/the-challenges-facing-early-career-sustainable-scientists
 aliases:
  - /science/6788/the-challenges-facing-early-career-sustainable-scientists
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171526-felix-4883316444_092d1fb98c_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "U.S. Department of Agriculture"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

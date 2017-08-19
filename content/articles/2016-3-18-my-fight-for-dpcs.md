@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
+# Attributes from Felix Online V1
 id: "6055"
 old_path: /comment/6055/my-fight-for-dpcs
 aliases:
  - /comment/6055/my-fight-for-dpcs
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181137-felix-comfort zone.jpg"
 image_caption: >
   Go on, try it - you’ll probably like it.
@@ -22,6 +27,7 @@ image_attribution: " redfairyproject.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

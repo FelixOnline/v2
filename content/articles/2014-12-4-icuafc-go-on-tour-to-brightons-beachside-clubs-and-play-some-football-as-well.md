@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taha Butt describes the action from the coast as they return with mixed results
 date: "2014-12-04 20:28:58 +0000"
+# Attributes from Felix Online V1
 id: "5011"
 old_path: /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
 aliases:
  - /sport/5011/icuafc-go-on-tour-to-brightons-beachside-clubs-and-play-some-football-as-well
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042028-cj914-img-20141122-wa0010-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICUAFC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

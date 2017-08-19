@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amna Samar Askari discusses her thoughts on a changing genre
 date: "2014-11-10 21:52:25 +0000"
+# Attributes from Felix Online V1
 id: "4829"
 old_path: /music/4829/the-evolution-of-pop
 aliases:
  - /music/4829/the-evolution-of-pop
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

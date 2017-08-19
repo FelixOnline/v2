@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jason Parmar steps into the shoes of a fanboi to review the year
 date: "2013-06-21 00:32:09 +0100"
+# Attributes from Felix Online V1
 id: "3736"
 old_path: /tech/3736/google-to-the-power-of-googol-for-fainboiz
 aliases:
  - /tech/3736/google-to-the-power-of-googol-for-fainboiz
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210132-tna08-jparticle.jpg"
 image_caption: >
   From left to right: Google Glass, the world-champion for horseshoeing is a big fan of Google’s garde
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   GTAs are helpful only when asked nicely
 date: "2013-11-15 02:28:20 +0000"
+# Attributes from Felix Online V1
 id: "4070"
 old_path: /comment/4070/confessions-of-a-gta-part-5
 aliases:
  - /comment/4070/confessions-of-a-gta-part-5
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

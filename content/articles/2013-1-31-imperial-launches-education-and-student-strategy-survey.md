@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students (both past and present) and staff are called upon to give their views on the educational and student experience
 date: "2013-01-31 22:50:39 +0000"
+# Attributes from Felix Online V1
 id: "3200"
 old_path: /news/3200/imperial-launches-education-and-student-strategy-survey
 aliases:
  - /news/3200/imperial-launches-education-and-student-strategy-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312250-tna08-ed_1.png"
 image_caption: >
   A screen shot of the survey, including a quick entry from Felix...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

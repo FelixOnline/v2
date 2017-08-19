@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix takes a tour of the nearly completed labs
 date: "2011-05-26 18:29:42 +0100"
+# Attributes from Felix Online V1
 id: "1248"
 old_path: /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
 aliases:
  - /news/1248/lessons-from-the-mechanical-engineering-building-refurbishment
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105261926-felix-img_4457.jpg"
 image_caption: >
   A section of a new undergraduate teaching lab.
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

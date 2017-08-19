@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s time for the final entry in Marvel’s ‘Phase Two’, as the Avengers come together once more to face their greatest foe
 date: "2015-04-23 14:15:31 +0100"
+# Attributes from Felix Online V1
 id: "5468"
 old_path: /film/5468/the-age-of-ultron-is-upon-us
 aliases:
  - /film/5468/the-age-of-ultron-is-upon-us
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504231515-ps3110-screen-shot-2015-04-23-at-15.15.12.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photo: Joss Whedon/Disney"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

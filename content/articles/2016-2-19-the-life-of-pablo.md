@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kanye West causes tidal waves with his eighth album
 date: "2016-02-19 12:19:52 +0000"
+# Attributes from Felix Online V1
 id: "5942"
 old_path: /music/5942/the-life-of-pablo
 aliases:
  - /music/5942/the-life-of-pablo
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191219-felix-kanye.jpg"
 image_caption: >
   Shut the fuck up and enjoy the greatness.
@@ -22,6 +27,7 @@ image_attribution: "Kanye West"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

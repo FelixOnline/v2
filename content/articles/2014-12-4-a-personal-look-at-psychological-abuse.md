@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous writer’s personal experience with emotional abuse and the warning signs
 date: "2014-12-04 18:56:20 +0000"
+# Attributes from Felix Online V1
 id: "4990"
 old_path: /welfare/4990/a-personal-look-at-psychological-abuse
 aliases:
  - /welfare/4990/a-personal-look-at-psychological-abuse
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041856-cj914-emotional-abuse-photo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "marcgosselin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shappi, queen of Ealing
 date: "2017-02-03 17:01:13 +0000"
+# Attributes from Felix Online V1
 id: "6726"
 old_path: /arts/6726/shappi-khorsandi--oh-my-country
 aliases:
  - /arts/6726/shappi-khorsandi--oh-my-country
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031701-felix-unnamed.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Alison Peters PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

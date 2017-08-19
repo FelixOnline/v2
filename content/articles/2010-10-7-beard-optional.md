@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...but dedication is compulsory for a career in science. We’re not here to be valued, we’re here to work shit out
 date: "2010-10-07 22:55:34 +0100"
+# Attributes from Felix Online V1
 id: "181"
 old_path: /comment/181/beard-optional
 aliases:
  - /comment/181/beard-optional
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

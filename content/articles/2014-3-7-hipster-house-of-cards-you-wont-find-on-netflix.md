@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name.
 date: "2014-03-07 05:56:23 +0000"
+# Attributes from Felix Online V1
 id: "4470"
 old_path: /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
 aliases:
  - /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

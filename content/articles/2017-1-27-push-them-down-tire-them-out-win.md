@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We swear it's not porn
 date: "2017-01-27 17:33:21 +0000"
+# Attributes from Felix Online V1
 id: "6701"
 old_path: /sport/6701/push-them-down-tire-them-out-win
 aliases:
  - /sport/6701/push-them-down-tire-them-out-win
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271733-felix-Picture1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

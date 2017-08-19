@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First XV team suspended after exposing themselves on the Underground, identified whilst wearing their sports kit.
 date: "2014-10-30 17:28:50 +0000"
+# Attributes from Felix Online V1
 id: "4755"
 old_path: /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
 aliases:
  - /news/4755/rugby-team-hits-the-headlines-over-stripping-on-tube-platforms
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410301734-pk1811-england-rugby-ball.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey details her thrilling and dangerous adventures of playing Pokémon Go while biking through London
 date: "2017-02-24 15:17:11 +0000"
+# Attributes from Felix Online V1
 id: "6827"
 old_path: /games/6827/pokmon-go-on-a-bike
 aliases:
  - /games/6827/pokmon-go-on-a-bike
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241516-felix-28273454351_9d19590316_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jill Carlson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

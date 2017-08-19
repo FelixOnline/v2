@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Zoltan Vargas
 date: "2011-06-09 18:49:04 +0100"
+# Attributes from Felix Online V1
 id: "1334"
 old_path: /phoenix/1334/childhood
 aliases:
  - /phoenix/1334/childhood
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

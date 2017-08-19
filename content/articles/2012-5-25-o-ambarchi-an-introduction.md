@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
+# Attributes from Felix Online V1
 id: "2504"
 old_path: /music/2504/o-ambarchi-an-introduction
 aliases:
  - /music/2504/o-ambarchi-an-introduction
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
 image_caption: >
   Big O. doing what he does best
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

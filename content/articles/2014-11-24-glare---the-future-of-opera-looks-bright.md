@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland examines the ROH’s new production
 date: "2014-11-24 12:22:53 +0000"
+# Attributes from Felix Online V1
 id: "4936"
 old_path: /arts/4936/glare---the-future-of-opera-looks-bright
 aliases:
  - /arts/4936/glare---the-future-of-opera-looks-bright
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241222-ps3110-pr8a7849---glare,-amar-muchhala-as-alex-©-roh---photograph-by-stephen-cummiskey.jpg"
 image_caption: >
   Amar Muchhala as Alex, in Glare
@@ -22,6 +27,7 @@ image_attribution: "Photo: Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

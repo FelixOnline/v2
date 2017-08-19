@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial athletes shine through
 date: "2011-03-03 21:14:23 +0000"
+# Attributes from Felix Online V1
 id: "1021"
 old_path: /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
 aliases:
  - /sport/1021/gold-for-harriet-scott-in-bucs-indoor-athletics-championships
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

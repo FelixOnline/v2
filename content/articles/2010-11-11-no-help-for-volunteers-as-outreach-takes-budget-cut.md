@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Belt-tightening continues with Outreach and Volunteer Centre the latest victims
 date: "2010-11-11 22:01:12 +0000"
+# Attributes from Felix Online V1
 id: "371"
 old_path: /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
 aliases:
  - /news/371/no-help-for-volunteers-as-outreach-takes-budget-cut
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

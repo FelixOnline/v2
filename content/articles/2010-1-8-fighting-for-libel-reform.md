@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In light of Simon Singh returning to Imperial to give a lecture on libel laws that he is personally embroiled in!
 date: "2010-01-08 16:10:52 +0000"
+# Attributes from Felix Online V1
 id: "17"
 old_path: /news/17/fighting-for-libel-reform
 aliases:
  - /news/17/fighting-for-libel-reform
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001081608-rsp07-SimonSin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

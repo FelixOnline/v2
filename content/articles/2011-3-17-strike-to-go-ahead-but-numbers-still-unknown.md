@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Departments calm as few declare intention to strike
 date: "2011-03-17 20:54:28 +0000"
+# Attributes from Felix Online V1
 id: "1096"
 old_path: /news/1096/strike-to-go-ahead-but-numbers-still-unknown
 aliases:
  - /news/1096/strike-to-go-ahead-but-numbers-still-unknown
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

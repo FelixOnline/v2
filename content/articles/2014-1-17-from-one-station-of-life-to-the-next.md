@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s an unbelievably touching story of human survival, love, and forgiveness.
 date: "2014-01-17 04:09:33 +0000"
+# Attributes from Felix Online V1
 id: "4251"
 old_path: /film/4251/from-one-station-of-life-to-the-next
 aliases:
  - /film/4251/from-one-station-of-life-to-the-next
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jgp09"
 author_name: "John G Park"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

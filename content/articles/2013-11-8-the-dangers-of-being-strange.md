@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imagine a white hot day blazing around you, created by blinding and numbing sunlight, all colours scrubbed cleaner and brighter and the air too hot to breathe. As I read L’etranger – usually translated as either The Stranger or The Outsider – a similar atmosphere appeared to surround me...
 date: "2013-11-08 09:46:54 +0000"
+# Attributes from Felix Online V1
 id: "4035"
 old_path: /books/4035/the-dangers-of-being-strange
 aliases:
  - /books/4035/the-dangers-of-being-strange
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

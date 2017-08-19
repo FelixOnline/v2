@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The French really do it well. Radio that is
 date: "2012-10-11 21:29:01 +0100"
+# Attributes from Felix Online V1
 id: "2679"
 old_path: /music/2679/french-radio-pourqoui-pas
 aliases:
  - /music/2679/french-radio-pourqoui-pas
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

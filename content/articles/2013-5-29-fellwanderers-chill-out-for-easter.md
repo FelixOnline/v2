@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fellwanderers Easter Tour to the Snowy Scottish Highlands
 date: "2013-05-29 15:42:41 +0100"
+# Attributes from Felix Online V1
 id: "3632"
 old_path: /sport/3632/fellwanderers-chill-out-for-easter
 aliases:
  - /sport/3632/fellwanderers-chill-out-for-easter
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291643-tna08-155.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

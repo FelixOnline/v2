@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
+# Attributes from Felix Online V1
 id: "2432"
 old_path: /news/2432/wilson-house-not-listed-on-accommodation-website
 aliases:
  - /news/2432/wilson-house-not-listed-on-accommodation-website
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102018-pk1811-252_5283.jpg"
 image_caption: >
   Wilson House
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

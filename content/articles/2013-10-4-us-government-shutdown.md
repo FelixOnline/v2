@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Disaster strikes as bipartisan talks break down
 date: "2013-10-04 00:39:38 +0100"
+# Attributes from Felix Online V1
 id: "3801"
 old_path: /politics/3801/us-government-shutdown
 aliases:
  - /politics/3801/us-government-shutdown
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040140-jal08-us_government_shutdown.jpg"
 image_caption: >
   Wow, who feeds the ducks?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

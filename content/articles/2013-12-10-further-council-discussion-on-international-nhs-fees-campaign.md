@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A live blog of the Council session regarding the international students survey.
 date: "2013-12-10 18:51:11 +0000"
+# Attributes from Felix Online V1
 id: "4197"
 old_path: /news/4197/further-council-discussion-on-international-nhs-fees-campaign
 aliases:
  - /news/4197/further-council-discussion-on-international-nhs-fees-campaign
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Eden condemns the West’s lack of attention to post-war effects.
 date: "2016-10-07 18:02:25 +0100"
+# Attributes from Felix Online V1
 id: "6315"
 old_path: /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
 aliases:
  - /comment/6315/the-west-needs-to-learn-from-its-mistakes-or-be-doomed-to-repeat-them-again
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610072001-felix-9716045331_00e1f7bfa1_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Debra Sweet"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

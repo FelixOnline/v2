@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week Simon Hunter looks at the rising star of London's underground music scene
 date: "2011-06-16 20:56:00 +0100"
+# Attributes from Felix Online V1
 id: "1400"
 old_path: /music/1400/techno-nonsense-boiler-room
 aliases:
  - /music/1400/techno-nonsense-boiler-room
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162158-felix-jamiexx.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

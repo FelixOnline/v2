@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt reports on a successful five days of fundraising
 date: "2015-02-13 14:52:13 +0000"
+# Attributes from Felix Online V1
 id: "5254"
 old_path: /cands/5254/art-explosion-tops-off-icsm-rag-week
 aliases:
  - /cands/5254/art-explosion-tops-off-icsm-rag-week
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131450-bwh12-legally-blonde-icsm.jpg"
 image_caption: >
   Sarah Hough performs as Elle from the musical version of Legally Blonde
@@ -22,6 +27,7 @@ image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

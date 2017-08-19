@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle looks at the fitness centre planned for North Acton
 date: "2015-06-04 23:15:41 +0100"
+# Attributes from Felix Online V1
 id: "5596"
 old_path: /news/5596/state-of-the-art-gym-for-woodward
 aliases:
  - /news/5596/state-of-the-art-gym-for-woodward
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050015-cj914-pulse-fitness.jpg"
 image_caption: >
   Imperial joins a list of over 500 institutions that have a Pulse Fitness gym.
@@ -22,6 +27,7 @@ image_attribution: "Pulse Fitness"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

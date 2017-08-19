@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Brand New Ancients is a storm of a performance, says Lily Le
 date: "2014-01-17 03:45:29 +0000"
+# Attributes from Felix Online V1
 id: "4239"
 old_path: /arts/4239/an-epic-poem-of-everyday-gods
 aliases:
  - /arts/4239/an-epic-poem-of-everyday-gods
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401170345-jal08-arts-kate-tempest---brand-new-ancients---spitalfields-music-winter-festival-16-december.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Spitalfields Music Festival"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Some feel good reading for the weekend
 date: "2017-06-02 14:25:02 +0100"
+# Attributes from Felix Online V1
 id: "7004"
 old_path: /features/7004/the-election-and-the-nhs
 aliases:
  - /features/7004/the-election-and-the-nhs
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021624-felix-6127363514_d7529610b3_o (1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Trades Union Congress"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

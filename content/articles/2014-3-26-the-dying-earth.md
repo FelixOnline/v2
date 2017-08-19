@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Jack Vance’s highly influencial series set far in the future on a dying planet Earth
 date: "2014-03-26 13:28:01 +0000"
+# Attributes from Felix Online V1
 id: "4500"
 old_path: /books/4500/the-dying-earth
 aliases:
  - /books/4500/the-dying-earth
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403261328-jal08-thedyingearth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

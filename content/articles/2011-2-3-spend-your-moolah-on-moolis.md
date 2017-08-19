@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When the hooplah over Brick Lane just gets too much.“Fed up with the cuisine wrongly assumed to be ‘Indian’ in London *cough* Brick Lane...”
 date: "2011-02-03 18:56:01 +0000"
+# Attributes from Felix Online V1
 id: "707"
 old_path: /food/707/spend-your-moolah-on-moolis
 aliases:
  - /food/707/spend-your-moolah-on-moolis
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031853-nm1010-moooooli.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

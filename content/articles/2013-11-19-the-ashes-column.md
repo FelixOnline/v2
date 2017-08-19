@@ -4,15 +4,20 @@ title: >
 subtitle: >
   On the eve of the Ashes, in our new column we preview the series.
 date: "2013-11-19 18:31:04 +0000"
+# Attributes from Felix Online V1
 id: "4093"
 old_path: /sport/4093/the-ashes-column
 aliases:
  - /sport/4093/the-ashes-column
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311191827-kmw13-p14michaelclarkegetty.jpg"
 image_caption: >
   It's Clarke v Cook, take two
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

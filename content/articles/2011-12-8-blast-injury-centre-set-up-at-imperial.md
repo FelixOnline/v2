@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Royal British Legion provides £5m towards understanding roadside bomb injuries
 date: "2011-12-08 20:03:06 +0000"
+# Attributes from Felix Online V1
 id: "1906"
 old_path: /news/1906/blast-injury-centre-set-up-at-imperial
 aliases:
  - /news/1906/blast-injury-centre-set-up-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082001-pk1811-yl5f3643.jpg"
 image_caption: >
   Professor Anthony Bull, Director of the newly opened Centre
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

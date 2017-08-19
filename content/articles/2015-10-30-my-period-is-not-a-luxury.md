@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Hundreds of male MPs vote to continue charging women for having vaginas
 date: "2015-10-30 12:42:21 +0000"
+# Attributes from Felix Online V1
 id: "5685"
 old_path: /comment/5685/my-period-is-not-a-luxury
 aliases:
  - /comment/5685/my-period-is-not-a-luxury
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301241-ygr12-period-costume.jpg"
 image_caption: >
   A period is for life, not just for Halloween.
@@ -22,6 +27,7 @@ image_attribution: "shockmymind.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

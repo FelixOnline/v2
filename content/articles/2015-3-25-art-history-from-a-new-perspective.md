@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aleksandra Berditchevskaia goes behind the scenes at the all new View Art Festival
 date: "2015-03-25 13:08:12 +0000"
+# Attributes from Felix Online V1
 id: "5444"
 old_path: /arts/5444/art-history-from-a-new-perspective
 aliases:
  - /arts/5444/art-history-from-a-new-perspective
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251306-ff712-blythe_house,_science_museum_05a.jpg"
 image_caption: >
   Wooden aircraft windtunnel model in the Science Museum’s Blythe House
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Dutton reviews the latest Game of Thrones game – SPOILER ALERT
 date: "2014-12-11 20:42:54 +0000"
+# Attributes from Felix Online V1
 id: "5030"
 old_path: /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
 aliases:
  - /games/5030/telling-quite-the-tale-in-the-seven-kingdoms
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112042-cj914-2746943-ramsay-snow-and-lord-whitehill.png"
 image_caption: >
   They don't look it, but the Red Wedding has scarred them... scarred us all...
@@ -22,6 +27,7 @@ image_attribution: "gamespot"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

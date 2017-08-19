@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Should we have universal benefits?
 date: "2010-10-21 19:06:26 +0100"
+# Attributes from Felix Online V1
 id: "232"
 old_path: /politics/232/welfare-for-all
 aliases:
  - /politics/232/welfare-for-all
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212004-nm1010-osborne.jpg"
 image_caption: >
   Jeez, get a new bag bro!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

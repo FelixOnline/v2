@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
+# Attributes from Felix Online V1
 id: "3914"
 old_path: /science/3914/scientists-go-back-to-work
 aliases:
  - /science/3914/scientists-go-back-to-work
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250049-felix-amundsen-scott-station.jpg"
 image_caption: >
   Amundsen-Scott south pole station, now under “caretaker status”
@@ -22,6 +27,7 @@ image_attribution: "Ethan Good"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

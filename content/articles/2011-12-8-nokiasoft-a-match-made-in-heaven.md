@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jason Parmar coos over his new Nokia Lumia 800
 date: "2011-12-08 19:55:42 +0000"
+# Attributes from Felix Online V1
 id: "1904"
 old_path: /tech/1904/nokiasoft-a-match-made-in-heaven
 aliases:
  - /tech/1904/nokiasoft-a-match-made-in-heaven
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112081952-cac111-nokia.jpg"
 image_caption: >
   deadmau5 helped to launch the Nokia Lumia 800 at Millbank Tower in late November
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

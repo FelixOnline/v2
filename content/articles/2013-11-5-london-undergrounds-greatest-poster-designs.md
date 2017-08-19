@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What: Tube150 – 150th Anniversary of the London Underground Where: The London Transport Museum, WC2 When: Until 5th Jan 2014 Price: £11.50 students, £15 adults, for unlimited admission in 12 months
 date: "2013-11-05 09:32:28 +0000"
+# Attributes from Felix Online V1
 id: "3990"
 old_path: /arts/3990/london-undergrounds-greatest-poster-designs
 aliases:
  - /arts/3990/london-undergrounds-greatest-poster-designs
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ANOHNI’s solo debut album is an unhinged attack on the status quo
 date: "2016-05-13 09:05:23 +0100"
+# Attributes from Felix Online V1
 id: "6156"
 old_path: /music/6156/the-protest-album-of-the-decade
 aliases:
  - /music/6156/the-protest-album-of-the-decade
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131104-felix-anohni.jpg"
 image_caption: >
   Drone bomb me.
@@ -22,6 +27,7 @@ image_attribution: "ANOHNI"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

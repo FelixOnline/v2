@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Andrada Balmez explains how we’ve only just discovered 467 million hectares of forest
 date: "2017-05-15 17:33:43 +0100"
+# Attributes from Felix Online V1
 id: "6965"
 old_path: /science/6965/forests-have-been-hiding-in-plain-sight
 aliases:
  - /science/6965/forests-have-been-hiding-in-plain-sight
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151933-felix-140094.jpg"
 image_caption: >
   A Coolabah forest in the Pilbara region of Western Australia
@@ -22,6 +27,7 @@ image_attribution: "TERN Ausplots"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

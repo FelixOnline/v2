@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports on the loss of CGCU’s mascot
 date: "2015-02-13 15:10:50 +0000"
+# Attributes from Felix Online V1
 id: "5256"
 old_path: /cands/5256/mascot-mayhem-at-tri-union-bar-night
 aliases:
  - /cands/5256/mascot-mayhem-at-tri-union-bar-night
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131510-bwh12-10830587_1582178332005457_388081142789157972_o.jpg"
 image_caption: >
   Why is he wearing that cloak?!
@@ -22,6 +27,7 @@ image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

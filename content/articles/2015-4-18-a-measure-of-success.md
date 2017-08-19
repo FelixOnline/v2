@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles applauds the physicality of this Russian production of Measure for Measure
 date: "2015-04-18 08:06:03 +0100"
+# Attributes from Felix Online V1
 id: "5466"
 old_path: /arts/5466/a-measure-of-success
 aliases:
  - /arts/5466/a-measure-of-success
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504180904-ff712-alexander-matrosov-peter-rykov-alexander-arsentyev.-photographer-johan-persson.jpg"
 image_caption: >
   Alexander Matrosov, Peter Rykov, Alexander Arsentyev in Measure for Measure, Barbican, London.
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

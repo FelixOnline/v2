@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Bodansky wonders why consumers are willing to pay so much for so little
 date: "2014-11-20 20:56:39 +0000"
+# Attributes from Felix Online V1
 id: "4912"
 old_path: /comment/4912/what-drives-what-we-pay-for-things
 aliases:
  - /comment/4912/what-drives-what-we-pay-for-things
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241251-ps3110-cash.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

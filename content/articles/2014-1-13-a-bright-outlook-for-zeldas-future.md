@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Linking ages past and present
 date: "2014-01-13 12:42:59 +0000"
+# Attributes from Felix Online V1
 id: "4205"
 old_path: /games/4205/a-bright-outlook-for-zeldas-future
 aliases:
  - /games/4205/a-bright-outlook-for-zeldas-future
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401131242-me1711-zelda_canadianceleb2013_01.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

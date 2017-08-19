@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Blown away by a legend in the making
 date: "2010-12-09 20:32:47 +0000"
+# Attributes from Felix Online V1
 id: "526"
 old_path: /music/526/janelle-mone-is-here-to-stay
 aliases:
  - /music/526/janelle-mone-is-here-to-stay
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

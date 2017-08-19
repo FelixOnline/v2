@@ -4,15 +4,20 @@ title: >
 subtitle: >
   North West London hospitals and institutions set to improve local healthcare
 date: "2011-12-01 22:17:59 +0000"
+# Attributes from Felix Online V1
 id: "1901"
 old_path: /news/1901/new-academic-health-science-partnership
 aliases:
  - /news/1901/new-academic-health-science-partnership
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012217-felix-imperial_medicine-096.jpg"
 image_caption: >
   Professor Lord Ara Darzi is a key figure in the partnership’s development
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles explains how Young Vic’s Bull misses the target in places
 date: "2015-01-31 19:24:04 +0000"
+# Attributes from Felix Online V1
 id: "5175"
 old_path: /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
 aliases:
  - /arts/5175/a-fight-to-the-death-in-the-world-of-office-politics
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
 image_caption: >
   Sam Troughton, Adam James and Eleanor Matsuura
@@ -22,6 +27,7 @@ image_attribution: "Simon Annand"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

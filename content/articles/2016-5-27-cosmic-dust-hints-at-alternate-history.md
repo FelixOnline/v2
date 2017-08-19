@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We couldn’t find a micrometeorite, so here is the cosmos instead.
 date: "2016-05-27 08:52:39 +0100"
+# Attributes from Felix Online V1
 id: "6209"
 old_path: /science/6209/cosmic-dust-hints-at-alternate-history-
 aliases:
  - /science/6209/cosmic-dust-hints-at-alternate-history-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271052-felix-11938845385_c27c8a945f_k.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Hubble ESA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

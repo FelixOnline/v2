@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSM Boat Club cycle nearly 300km to Paris for RAG
 date: "2016-03-04 11:55:16 +0000"
+# Attributes from Felix Online V1
 id: "6013"
 old_path: /sport/6013/boat-club-head-off-on-a-tour-de-france
 aliases:
  - /sport/6013/boat-club-head-off-on-a-tour-de-france
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041154-felix-Boat club paris.JPG"
 image_caption: >
   The Boat Club took on Paris in a blistering ride in aid of charity.
@@ -22,6 +27,7 @@ image_attribution: "ICSM Boat Club"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plot trumps substance in this Taiwanese flick
 date: "2016-01-29 09:29:52 +0000"
+# Attributes from Felix Online V1
 id: "5847"
 old_path: /film/5847/the-assassin-fails-to-impress
 aliases:
  - /film/5847/the-assassin-fails-to-impress
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290929-felix-Assassin3.jpg"
 image_caption: >
   Shu Qi as Nie Yinniang, the titular assassin.
@@ -22,6 +27,7 @@ image_attribution: "The Assasin PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

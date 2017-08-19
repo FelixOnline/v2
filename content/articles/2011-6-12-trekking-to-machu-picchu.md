@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya Garg takes the ‘Inca Jungle Trail’ route to this iconic site
 date: "2011-06-12 16:16:36 +0100"
+# Attributes from Felix Online V1
 id: "1369"
 old_path: /travel/1369/trekking-to-machu-picchu
 aliases:
  - /travel/1369/trekking-to-machu-picchu
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106121716-felix-149181_605896703215_222401196_5691371_6713471_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

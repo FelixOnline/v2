@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Loose-head prop, Jamie Alldridge, suffers an injury to his wrist
 date: "2010-07-02 01:01:50 +0100"
+# Attributes from Felix Online V1
 id: "149"
 old_path: /sport/149/alldridge-to-return-home-from-japan-tour
 aliases:
  - /sport/149/alldridge-to-return-home-from-japan-tour
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201007020154-jn104-Alldridg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Training and student support groups are suggested
 date: "2015-05-29 00:42:34 +0100"
+# Attributes from Felix Online V1
 id: "5574"
 old_path: /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
 aliases:
  - /news/5574/mentality-makes-recommendations-to-college-to-improve-support-for-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290143-ps3110-mentality-image.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

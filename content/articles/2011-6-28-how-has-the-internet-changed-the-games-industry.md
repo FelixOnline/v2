@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why broadband, MMORPGs, and downloadable content changed games forever
 date: "2011-06-28 11:02:32 +0100"
+# Attributes from Felix Online V1
 id: "1438"
 old_path: /games/1438/how-has-the-internet-changed-the-games-industry
 aliases:
  - /games/1438/how-has-the-internet-changed-the-games-industry
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281158-felix-horse.jpg"
 image_caption: >
   Oblivion's 'horse armour: the worse downloadable content of all time
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

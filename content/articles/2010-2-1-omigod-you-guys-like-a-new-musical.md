@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Harrold finally gets to see a new show after a long theatre drought and luckily it's a rather awesome choice
 date: "2010-02-01 18:04:05 +0000"
+# Attributes from Felix Online V1
 id: "68"
 old_path: /arts/68/omigod-you-guys-like-a-new-musical
 aliases:
  - /arts/68/omigod-you-guys-like-a-new-musical
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002011802-rsp07-musical.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

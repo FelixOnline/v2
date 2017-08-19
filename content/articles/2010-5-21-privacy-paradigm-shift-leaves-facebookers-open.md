@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam investigates whether you can really trust Facebook
 date: "2010-05-21 12:15:12 +0100"
+# Attributes from Felix Online V1
 id: "139"
 old_path: /tech/139/privacy-paradigm-shift-leaves-facebookers-open
 aliases:
  - /tech/139/privacy-paradigm-shift-leaves-facebookers-open
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005211312-srg03-Facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

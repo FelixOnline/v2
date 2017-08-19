@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Egyptian Hip Hop: Good Don’t Sleep
 date: "2012-10-26 03:17:26 +0100"
+# Attributes from Felix Online V1
 id: "2773"
 old_path: /music/2773/ams-album-of-the-week-2
 aliases:
  - /music/2773/ams-album-of-the-week-2
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

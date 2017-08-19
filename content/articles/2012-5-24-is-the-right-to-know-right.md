@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Congress might be taking things a step too far
 date: "2012-05-24 23:14:21 +0100"
+# Attributes from Felix Online V1
 id: "2486"
 old_path: /comment/2486/is-the-right-to-know-right
 aliases:
  - /comment/2486/is-the-right-to-know-right
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250013-mc4509-capitol-building-washington.jpg"
 image_caption: >
   The question of whether or not Congress should dictate morality is key
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

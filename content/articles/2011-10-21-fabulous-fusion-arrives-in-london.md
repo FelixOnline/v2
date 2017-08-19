@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
+# Attributes from Felix Online V1
 id: "1595"
 old_path: /arts/1595/fabulous-fusion-arrives-in-london
 aliases:
  - /arts/1595/fabulous-fusion-arrives-in-london
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211208-felix-fusionmodels.jpg"
 image_caption: >
   In the face of stricter drinking rules, the Medics had to think of alternative intiations
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

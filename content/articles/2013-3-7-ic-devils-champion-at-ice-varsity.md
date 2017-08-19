@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What killed the dinosaurs... the ice age!
 date: "2013-03-07 22:05:17 +0000"
+# Attributes from Felix Online V1
 id: "3438"
 old_path: /sport/3438/ic-devils-champion-at-ice-varsity
 aliases:
  - /sport/3438/ic-devils-champion-at-ice-varsity
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072203-mc4509-ice_varsity2012-210.jpg"
 image_caption: >
   Some pretty chill guys
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

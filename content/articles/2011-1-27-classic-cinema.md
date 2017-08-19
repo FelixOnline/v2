@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The film of an 'era': Jurassic Park
 date: "2011-01-27 20:03:48 +0000"
+# Attributes from Felix Online V1
 id: "684"
 old_path: /film/684/classic-cinema
 aliases:
  - /film/684/classic-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272001-nm1010-jurassic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jh308"
 author_name: "Jade Hoffman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

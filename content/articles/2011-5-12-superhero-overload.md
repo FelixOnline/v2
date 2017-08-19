@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ed Knock laments the rise and rise of the comic book genre
 date: "2011-05-12 18:43:28 +0100"
+# Attributes from Felix Online V1
 id: "1198"
 old_path: /film/1198/superhero-overload
 aliases:
  - /film/1198/superhero-overload
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121942-felix-ryanreynoldsglfanart-large-072009.jpg"
 image_caption: >
   Oh dear...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

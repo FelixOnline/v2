@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles gives us the run down of his top films of the year
 date: "2014-12-11 21:05:54 +0000"
+# Attributes from Felix Online V1
 id: "5034"
 old_path: /film/5034/the-unmissable-top-10-lists-of-2014-part-2
 aliases:
  - /film/5034/the-unmissable-top-10-lists-of-2014-part-2
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112105-cj914-under-the-skin-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "theverge.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Wood finally enjoys a lecture at Imperial
 date: "2013-02-14 01:18:38 +0000"
+# Attributes from Felix Online V1
 id: "3318"
 old_path: /news/3318/newitt-would-be-interesting
 aliases:
  - /news/3318/newitt-would-be-interesting
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302142231-tna08-lect3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

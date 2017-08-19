@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But is it all worth it in the end? Three people who've campaigned in the Big Elections share their views
 date: "2015-03-19 23:52:51 +0000"
+# Attributes from Felix Online V1
 id: "5412"
 old_path: /comment/5412/campaigning-is-hard-work
 aliases:
  - /comment/5412/campaigning-is-hard-work
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192356-cj914-random-election-balloons.jpg"
 image_caption: >
   Campaigning for the Big Elections can be rough, but is it all worthwhile?
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester, ThroughBensLens.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

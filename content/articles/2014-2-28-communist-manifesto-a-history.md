@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Part two of Christy Kelly's history of the Communist Manifesto
 date: "2014-02-28 07:16:25 +0000"
+# Attributes from Felix Online V1
 id: "4445"
 old_path: /comment/4445/communist-manifesto-a-history
 aliases:
  - /comment/4445/communist-manifesto-a-history
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

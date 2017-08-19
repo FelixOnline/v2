@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A device to allow drinking from a cup in the absence of gravity has been developed
 date: "2012-03-08 20:19:51 +0000"
+# Attributes from Felix Online V1
 id: "2314"
 old_path: /science/2314/bottoms-up-in-zero-g
 aliases:
  - /science/2314/bottoms-up-in-zero-g
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ... and proceed to shatter any and all illusions you might have about gay sex
 date: "2017-02-10 14:16:31 +0000"
+# Attributes from Felix Online V1
 id: "6755"
 old_path: /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
 aliases:
  - /sex/6755/a-gay-and-a-lesbian-walk-into-a-bar
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101418-felix-Screen Shot 2017-02-10 at 14.18.10.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

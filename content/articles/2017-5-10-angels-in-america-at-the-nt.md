@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tony Kushner's bold play is an "ode to an unbroken world which is coming", the cast and crew make it soar
 date: "2017-05-10 18:57:52 +0100"
+# Attributes from Felix Online V1
 id: "6929"
 old_path: /arts/6929/angels-in-america-at-the-nt
 aliases:
  - /arts/6929/angels-in-america-at-the-nt
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705102056-im1413-16_0.jpg"
 image_caption: >
   Denise Gough as Harper and Andrew Garfield as Prior. Photo: Helen Maybanks.
@@ -22,6 +27,7 @@ image_attribution: "Helen Maybanks "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

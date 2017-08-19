@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Union Allows Students Full View of the Ongoing 3rd Phase of Beit Redevelopments
 date: "2010-02-05 15:42:16 +0000"
+# Attributes from Felix Online V1
 id: "77"
 old_path: /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
 aliases:
  - /news/77/the-union-allows-students-full-view-of-the-ongoing-3rd-phase-of-beit-redevelopments
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002051538-rsp07-uniondbs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Intrinsically manly, some might argue. felix investigates the rise of sous-vide technology, and how it can turn the most manly of dishes into something more refined.
 date: "2016-11-18 15:24:49 +0000"
+# Attributes from Felix Online V1
 id: "6477"
 old_path: /food/6477/me-man-me-want-steak
 aliases:
  - /food/6477/me-man-me-want-steak
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181524-felix-Screen Shot 2016-11-18 at 15.24.28.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

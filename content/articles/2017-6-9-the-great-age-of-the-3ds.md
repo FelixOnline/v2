@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saad Ahmed fanboys about why the Nintendo 3DS is the greatest handheld console to date
 date: "2017-06-09 15:25:07 +0100"
+# Attributes from Felix Online V1
 id: "7018"
 old_path: /games/7018/the-great-age-of-the-3ds
 aliases:
  - /games/7018/the-great-age-of-the-3ds
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091724-ea3211-81I7gzdcIpL._SL1500_.jpg"
 image_caption: >
   Six years since the initial release and still going strong
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

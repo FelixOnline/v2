@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber meets CaSE director and Imperial alumnus Imran Khan
 date: "2011-06-09 21:07:08 +0100"
+# Attributes from Felix Online V1
 id: "1347"
 old_path: /news/1347/an-eloquent-spokesperson-for-science
 aliases:
  - /news/1347/an-eloquent-spokesperson-for-science
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092208-felix-img_0148-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

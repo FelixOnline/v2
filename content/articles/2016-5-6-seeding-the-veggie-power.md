@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
+# Attributes from Felix Online V1
 id: "6137"
 old_path: /food/6137/seeding-the-veggie-power
 aliases:
  - /food/6137/seeding-the-veggie-power
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061119-felix-Russell_Brand_London_Revolution_Protest_2.jpg"
 image_caption: >
   Even crazed communists can be vegetarians – it’s very inclusive group.
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   NT's re-run of Duncan Macmillan's play about addiction is not to be missed.
 date: "2016-03-30 18:43:15 +0100"
+# Attributes from Felix Online V1
 id: "6083"
 old_path: /arts/6083/psychedelia-and-existentialism-hand-in-hand
 aliases:
  - /arts/6083/psychedelia-and-existentialism-hand-in-hand
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603301938-jc7413-Denise Gough (Emma)&company in People,Places&Things by JohanPersson.jpg"
 image_caption: >
   Denise Gough as Emma, and the ensemble
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson for NT"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

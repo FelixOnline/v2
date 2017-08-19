@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Bhanot explores what the term ‘jazz’ really means to us today
 date: "2015-03-25 12:26:08 +0000"
+# Attributes from Felix Online V1
 id: "5429"
 old_path: /music/5429/jazz-a-revolutionary-chapter-in-music
 aliases:
  - /music/5429/jazz-a-revolutionary-chapter-in-music
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251225-ff712-oscar-peterson.jpg"
 image_caption: >
   Oscar Peterson
@@ -22,6 +27,7 @@ image_attribution: "Pablo Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

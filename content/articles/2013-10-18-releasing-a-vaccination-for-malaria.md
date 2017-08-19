@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Hoskin discusses advancements in finding a vaccine for Malaria
 date: "2013-10-18 21:15:10 +0100"
+# Attributes from Felix Online V1
 id: "3889"
 old_path: /science/3889/releasing-a-vaccination-for-malaria
 aliases:
  - /science/3889/releasing-a-vaccination-for-malaria
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182214-jal08-slideshow-zambia-malaria-03.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

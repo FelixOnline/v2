@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the American election looms, the discourse has gotten more and more sordid. ‘What do we mean when we call someone a “nasty woman”?’ asks Fred Fyles, who turns to the silver screen for answers, looking at the archetypical ‘nasty women’ of cinema
 date: "2016-11-04 14:19:00 +0000"
+# Attributes from Felix Online V1
 id: "6389"
 old_path: /film/6389/in-defence-of-nasty-women
 aliases:
  - /film/6389/in-defence-of-nasty-women
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041538-felix-4617027843_244b598c51_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Aaron Vowels"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

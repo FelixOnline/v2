@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam looks at why the open source mantra is so confused
 date: "2010-05-28 10:28:32 +0100"
+# Attributes from Felix Online V1
 id: "140"
 old_path: /tech/140/the-open-source-problem
 aliases:
  - /tech/140/the-open-source-problem
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005281126-srg03-Opensour.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

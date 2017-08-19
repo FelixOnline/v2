@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Embrace of the Serpent is a hallucinatory journey into the psyche of the Amazon
 date: "2016-06-17 09:37:09 +0100"
+# Attributes from Felix Online V1
 id: "6288"
 old_path: /film/6288/embracing-the-depths-of-humanity
 aliases:
  - /film/6288/embracing-the-depths-of-humanity
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171136-felix-Embrace-of-the-Serpent-2_0.jpg"
 image_caption: >
   Embrace of the Serpent offers up a visual, inellectual, and metaphysical feast.
@@ -22,6 +27,7 @@ image_attribution: "Alamy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

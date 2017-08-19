@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle discusses the two nights of protests in the St Louis suburb in Missouri
 date: "2014-11-28 00:51:03 +0000"
+# Attributes from Felix Online V1
 id: "4968"
 old_path: /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
 aliases:
  - /news/4968/world-news-ferguson-unrest-calms-on-thanksgiving
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280051-kmw13-ferguson-10.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Charlie Riedel/Associated Press"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

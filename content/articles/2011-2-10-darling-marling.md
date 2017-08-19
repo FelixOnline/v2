@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Smith is clearly a fisherman... and he’s after the Marlin!
 date: "2011-02-10 20:22:51 +0000"
+# Attributes from Felix Online V1
 id: "771"
 old_path: /music/771/darling-marling
 aliases:
  - /music/771/darling-marling
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102019-dr910-MArlingd.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NME"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

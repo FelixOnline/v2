@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix finds evidence implicating the Men’s Hockey XI 2’s team in misogynistic behaviour online
 date: "2014-03-07 04:28:58 +0000"
+# Attributes from Felix Online V1
 id: "4450"
 old_path: /news/4450/discovering-miso-gine-soc
 aliases:
  - /news/4450/discovering-miso-gine-soc
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403070430-jal08-screenshot-2014-03-07-04.29.33.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Joe Letts/Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

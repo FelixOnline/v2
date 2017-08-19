@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “The machinery of capitalism is oiled with the blood of the workers,” argues Dimitri Raphaelovich
 date: "2011-11-03 21:09:27 +0000"
+# Attributes from Felix Online V1
 id: "1682"
 old_path: /biz/1682/comrades-unite
 aliases:
  - /biz/1682/comrades-unite
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032109-pk1811-redolution.jpg"
 image_caption: >
   M&M’s Red is actually a soviet double agent, who intends to destroy capitalism from within
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

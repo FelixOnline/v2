@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stay safe when out in London
 date: "2011-12-08 20:09:17 +0000"
+# Attributes from Felix Online V1
 id: "1909"
 old_path: /news/1909/avoid-student-scammers
 aliases:
  - /news/1909/avoid-student-scammers
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082009-pk1811-f_200702_february19e_18665a.jpg"
 image_caption: >
   A genuine police warrant card
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

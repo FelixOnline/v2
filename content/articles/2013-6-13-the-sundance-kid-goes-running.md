@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
+# Attributes from Felix Online V1
 id: "3696"
 old_path: /film/3696/the-sundance-kid-goes-running
 aliases:
  - /film/3696/the-sundance-kid-goes-running
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140037-tna08-the-company-you-keep-4.jpg"
 image_caption: >
   Shit, shit, shit, shit, shit, shit, shit
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

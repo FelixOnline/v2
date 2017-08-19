@@ -4,15 +4,20 @@ title: >
 subtitle: >
   OnLive extends service to your front room with the launch of the new MicroConsole
 date: "2010-11-26 14:58:37 +0000"
+# Attributes from Felix Online V1
 id: "455"
 old_path: /games/455/its-raining-games-cloud-gaming-hits-tvs-
 aliases:
  - /games/455/its-raining-games-cloud-gaming-hits-tvs-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

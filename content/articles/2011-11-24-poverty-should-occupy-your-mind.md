@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why poverty is an issue that extends far beyond simple generalisations
 date: "2011-11-24 23:36:03 +0000"
+# Attributes from Felix Online V1
 id: "1850"
 old_path: /comment/1850/poverty-should-occupy-your-mind
 aliases:
  - /comment/1850/poverty-should-occupy-your-mind
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242335-felix-poverty-rory-fenton.jpg"
 image_caption: >
   Poverty is a complex issue with no set solution
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC fail to curry favour, losing to Royal Holloway last week
 date: "2015-11-20 09:46:39 +0000"
+# Attributes from Felix Online V1
 id: "5764"
 old_path: /sport/5764/a-phaal-from-grace
 aliases:
  - /sport/5764/a-phaal-from-grace
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200945-ygr12-6.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Rugby"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

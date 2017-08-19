@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Utsav Radia on why and when you stop remembering your early years
 date: "2014-01-31 17:35:29 +0000"
+# Attributes from Felix Online V1
 id: "4316"
 old_path: /science/4316/a-trip-down-memory-lane
 aliases:
  - /science/4316/a-trip-down-memory-lane
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401311735-jal08-sci_chknfh-neuron1.jpg"
 image_caption: >
   Rat neurons stained with a green chicken antibody
@@ -22,6 +27,7 @@ image_attribution: "NASA, ESA, J. Lotz Space Telescope Science Institute (STScI)
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

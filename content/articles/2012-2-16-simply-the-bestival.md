@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber on the festival that rounds off the summer with a bang
 date: "2012-02-16 21:47:22 +0000"
+# Attributes from Felix Online V1
 id: "2196"
 old_path: /music/2196/simply-the-bestival
 aliases:
  - /music/2196/simply-the-bestival
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202170831-ks607-301154_10150808972130397_628070396_20687585_1117883165_n-1.jpg"
 image_caption: >
   Ooo-err!
@@ -22,6 +27,7 @@ image_attribution: "James Mossahebi"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

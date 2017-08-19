@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
+# Attributes from Felix Online V1
 id: "1767"
 old_path: /biz/1767/thomas-youngs-entrepreneurial-endeavours
 aliases:
  - /biz/1767/thomas-youngs-entrepreneurial-endeavours
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172101-pk1811-sir_thomas_young_frs_hi.jpg"
 image_caption: >
   Thomas Young – the man, the myth, the polymath
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

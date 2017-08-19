@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Veli Akiner fails to mourn a very dead phenomenon
 date: "2012-02-23 20:02:36 +0000"
+# Attributes from Felix Online V1
 id: "2228"
 old_path: /comment/2228/imperial-memes-a-post-mortem
 aliases:
  - /comment/2228/imperial-memes-a-post-mortem
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202231958-ams111-philosorapter.jpg"
 image_caption: >
   Does this caption help clear it up? Probably not
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

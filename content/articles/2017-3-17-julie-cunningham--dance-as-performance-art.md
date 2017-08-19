@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Julie Cunningham & Company's Double Bill was on at the Barbican Centre from 8th – 11th March
 date: "2017-03-17 17:10:53 +0000"
+# Attributes from Felix Online V1
 id: "6913"
 old_path: /arts/6913/julie-cunningham--dance-as-performance-art
 aliases:
  - /arts/6913/julie-cunningham--dance-as-performance-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171710-felix-4.jpg"
 image_caption: >
   Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning
@@ -22,6 +27,7 @@ image_attribution: "Stephen Wrigh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

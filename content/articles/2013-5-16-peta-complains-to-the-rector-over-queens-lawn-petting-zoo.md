@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
+# Attributes from Felix Online V1
 id: "3592"
 old_path: /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
 aliases:
  - /news/3592/peta-complains-to-the-rector-over-queens-lawn-petting-zoo
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

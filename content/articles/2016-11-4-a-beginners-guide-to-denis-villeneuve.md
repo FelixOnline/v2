@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The new film by the French-Canadian auteuer at the top of his game arrives at cinemas next Friday
 date: "2016-11-04 14:10:32 +0000"
+# Attributes from Felix Online V1
 id: "6386"
 old_path: /film/6386/a-beginners-guide-to-denis-villeneuve
 aliases:
  - /film/6386/a-beginners-guide-to-denis-villeneuve
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041529-felix-9711287531_b213d493da_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tabercil"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

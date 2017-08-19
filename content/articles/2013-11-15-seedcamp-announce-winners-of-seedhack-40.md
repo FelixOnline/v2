@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Last weekend was Seedhack 4.0, with the theme of ‘remixing content’.
 date: "2013-11-15 02:16:57 +0000"
+# Attributes from Felix Online V1
 id: "4060"
 old_path: /news/4060/seedcamp-announce-winners-of-seedhack-40
 aliases:
  - /news/4060/seedcamp-announce-winners-of-seedhack-40
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150245-felix-oppozeit.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Oppozeit.me"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

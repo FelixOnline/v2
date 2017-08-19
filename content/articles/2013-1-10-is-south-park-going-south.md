@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl gets animated about the latest season
 date: "2013-01-10 22:57:25 +0000"
+# Attributes from Felix Online V1
 id: "3099"
 old_path: /tv/3099/is-south-park-going-south
 aliases:
  - /tv/3099/is-south-park-going-south
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102257-csw09-animaatjes-southpark-41673.jpg"
 image_caption: >
   OMG they keep making shitty episodes. YOU BASTARDS
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

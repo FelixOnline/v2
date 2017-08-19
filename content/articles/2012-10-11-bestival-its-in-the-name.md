@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Hooftman recounts the tale of Bestival
 date: "2012-10-11 21:26:41 +0100"
+# Attributes from Felix Online V1
 id: "2677"
 old_path: /music/2677/bestival-its-in-the-name
 aliases:
  - /music/2677/bestival-its-in-the-name
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112227-felix-bestival.jpg"
 image_caption: >
   This photo makes me hate the fact  it is not summer anymore...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

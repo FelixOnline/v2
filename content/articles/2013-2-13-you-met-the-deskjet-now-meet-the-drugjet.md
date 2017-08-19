@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Printing drugs, Felix could be about to make a lot of money
 date: "2013-02-13 20:09:00 +0000"
+# Attributes from Felix Online V1
 id: "3316"
 old_path: /science/3316/you-met-the-deskjet-now-meet-the-drugjet
 aliases:
  - /science/3316/you-met-the-deskjet-now-meet-the-drugjet
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

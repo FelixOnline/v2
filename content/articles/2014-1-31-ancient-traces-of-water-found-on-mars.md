@@ -4,15 +4,20 @@ title: >
 subtitle: >
   For a vehicle designed to last just 7 earth weeks, Opportunity has done remarkably well. Ten years to the day since the rover first landed on the surface of Mars, its new analysis of some of the oldest rocks ever found there show environments potentially suitable for life were aroun...
 date: "2014-01-31 17:43:13 +0000"
+# Attributes from Felix Online V1
 id: "4319"
 old_path: /science/4319/ancient-traces-of-water-found-on-mars
 aliases:
  - /science/4319/ancient-traces-of-water-found-on-mars
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

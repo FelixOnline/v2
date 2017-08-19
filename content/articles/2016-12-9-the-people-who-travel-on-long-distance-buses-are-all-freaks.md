@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey explores what it is about coach travel that makes people so inconsiderate.
 date: "2016-12-09 15:39:01 +0000"
+# Attributes from Felix Online V1
 id: "6575"
 old_path: /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
 aliases:
  - /comment/6575/the-people-who-travel-on-long-distance-buses-are-all-freaks
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091538-felix-Screen Shot 2016-12-09 at 15.36.58.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

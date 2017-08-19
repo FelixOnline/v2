@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is the end, beautiful friend
 date: "2016-11-11 11:24:05 +0000"
+# Attributes from Felix Online V1
 id: "6414"
 old_path: /news/6414/the-us-presidential-election-fallout
 aliases:
  - /news/6414/the-us-presidential-election-fallout
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111123-so515-5439999805_4280c8bcef_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

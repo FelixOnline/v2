@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le metamorphoses at the Lyric
 date: "2013-01-24 23:11:13 +0000"
+# Attributes from Felix Online V1
 id: "3171"
 old_path: /arts/3171/taking-the-carapace
 aliases:
  - /arts/3171/taking-the-carapace
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242311-mc4509-metamorphosis-gisli-image.jpg"
 image_caption: >
   Gangnam Style and acid day at the office considered a success
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

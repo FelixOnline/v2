@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £3,000 subscription to Campaign for Science and Engineering better spent on ‘core activities’ says College
 date: "2011-06-02 18:02:29 +0100"
+# Attributes from Felix Online V1
 id: "1291"
 old_path: /news/1291/imperial-cuts-ties-with-case
 aliases:
  - /news/1291/imperial-cuts-ties-with-case
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106021858-felix-imrankhan.jpg"
 image_caption: >
   CaSE director Imran Khan, an Imperial alumnus, called the decision “mystifying”
@@ -22,6 +27,7 @@ image_attribution: "CaSE"
 image_attribution_link: "http://sciencecampaign.org.uk/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

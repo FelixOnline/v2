@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shiladitya Ghosh briefs you on College's ranking prowess...
 date: "2013-09-27 23:40:16 +0100"
+# Attributes from Felix Online V1
 id: "3765"
 old_path: /features/3765/university-rankings-and-what-to-not-make-of-them
 aliases:
  - /features/3765/university-rankings-and-what-to-not-make-of-them
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309280038-jal08-rankingstable.png"
 image_caption: >
   Imperial College - A day at the rankings!
@@ -22,6 +27,7 @@ image_attribution: "Shiladitya Ghosh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

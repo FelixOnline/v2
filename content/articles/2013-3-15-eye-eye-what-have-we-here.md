@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eyes in the back of your head? More likely than you think explains Alexandra Easter
 date: "2013-03-15 01:08:39 +0000"
+# Attributes from Felix Online V1
 id: "3470"
 old_path: /science/3470/eye-eye-what-have-we-here
 aliases:
  - /science/3470/eye-eye-what-have-we-here
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150109-tna08-embryotadpole.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

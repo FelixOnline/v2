@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mr Poppadom discusses a land of opportunity, “where people can think and act and worship any way they want”
 date: "2011-11-03 21:01:31 +0000"
+# Attributes from Felix Online V1
 id: "1679"
 old_path: /biz/1679/fight-for-freedom
 aliases:
  - /biz/1679/fight-for-freedom
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032101-pk1811-welfare_state.jpg"
 image_caption: >
   Indeed, the world would be a happier place with no welfare whatsoever: a jungle in which those who d
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

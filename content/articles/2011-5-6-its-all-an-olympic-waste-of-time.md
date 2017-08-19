@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A revolting logo, a nauseating sponsorship deal, and a peculiar ticketing system all leave me with a feeling that it is not quite cricket
 date: "2011-05-06 08:49:24 +0100"
+# Attributes from Felix Online V1
 id: "1162"
 old_path: /comment/1162/its-all-an-olympic-waste-of-time
 aliases:
  - /comment/1162/its-all-an-olympic-waste-of-time
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

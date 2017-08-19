@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Zoë Wanamaker makes Chekov’s classic play at the National Theatre the pick of the crop
 date: "2011-06-02 19:46:13 +0100"
+# Attributes from Felix Online V1
 id: "1312"
 old_path: /arts/1312/cherries-ripe-for-watching
 aliases:
  - /arts/1312/cherries-ripe-for-watching
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022045-felix-cherryorchard5-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Catherine Ashmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

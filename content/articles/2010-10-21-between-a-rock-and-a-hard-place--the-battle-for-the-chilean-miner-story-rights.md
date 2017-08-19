@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chilean Miner Fantasy Films
 date: "2010-10-21 19:16:47 +0100"
+# Attributes from Felix Online V1
 id: "236"
 old_path: /film/236/between-a-rock-and-a-hard-place--the-battle-for-the-chilean-miner-story-rights-
 aliases:
  - /film/236/between-a-rock-and-a-hard-place--the-battle-for-the-chilean-miner-story-rights-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212015-ks607-chileanm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Free dinner? Free cake? Islam? If you found yourself saying yes to one or more of the aforementioned, then carry on reading!
 date: "2014-02-26 12:52:09 +0000"
+# Attributes from Felix Online V1
 id: "4436"
 old_path: /features/4436/discover-islam-week
 aliases:
  - /features/4436/discover-islam-week
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix's Deputy Editor on the perils of the Comment section
 date: "2011-11-17 22:14:52 +0000"
+# Attributes from Felix Online V1
 id: "1792"
 old_path: /comment/1792/calm-down-dear-its-only-an-opinion
 aliases:
  - /comment/1792/calm-down-dear-its-only-an-opinion
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

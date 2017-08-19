@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cooking is fun, so why not try it out?
 date: "2012-02-23 20:40:58 +0000"
+# Attributes from Felix Online V1
 id: "2240"
 old_path: /food/2240/get-creative-in-the-kitchen-after-lectures
 aliases:
  - /food/2240/get-creative-in-the-kitchen-after-lectures
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
 image_caption: >
   Apologies to Clare and Hannah...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

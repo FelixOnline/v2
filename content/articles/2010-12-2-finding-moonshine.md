@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marcus du Sautoy provides us with an irresistible combination of anecdotes, mathematical mysteries and history in this whirlwind
 date: "2010-12-02 20:30:51 +0000"
+# Attributes from Felix Online V1
 id: "472"
 old_path: /science/472/finding-moonshine
 aliases:
  - /science/472/finding-moonshine
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022028-ks607-moonshin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kv07"
 author_name: "Katya-yani Vyas"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

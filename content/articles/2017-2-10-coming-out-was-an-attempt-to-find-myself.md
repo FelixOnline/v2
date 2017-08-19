@@ -4,15 +4,20 @@ title: >
 subtitle: >
   L.C. discusses labels, coming out and falling in love
 date: "2017-02-10 13:44:25 +0000"
+# Attributes from Felix Online V1
 id: "6746"
 old_path: /comment/6746/coming-out-was-an-attempt-to-find-myself
 aliases:
  - /comment/6746/coming-out-was-an-attempt-to-find-myself
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101344-felix-Screen Shot 2017-02-10 at 13.44.13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

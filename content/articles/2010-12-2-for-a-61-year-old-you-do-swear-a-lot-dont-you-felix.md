@@ -4,15 +4,20 @@ title: >
 subtitle: >
   For a 61-year-old, you do swear a lot, don’t you Felix?
 date: "2010-12-02 21:07:10 +0000"
+# Attributes from Felix Online V1
 id: "486"
 old_path: /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
 aliases:
  - /comment/486/for-a-61-year-old-you-do-swear-a-lot-dont-you-felix
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

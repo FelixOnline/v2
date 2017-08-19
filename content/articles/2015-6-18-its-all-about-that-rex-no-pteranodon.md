@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ellen Mathieson takes a trip to the re-opening of Jurassic Park
 date: "2015-06-18 20:16:46 +0100"
+# Attributes from Felix Online V1
 id: "5632"
 old_path: /film/5632/its-all-about-that-rex-no-pteranodon
 aliases:
  - /film/5632/its-all-about-that-rex-no-pteranodon
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182114-jyg11-screen-shot-2015-06-18-at-21.14.15.png"
 image_caption: >
   I don’t know about you, but I reckon a dinosaur did this.
@@ -22,6 +27,7 @@ image_attribution: "Colin Trevorrow, Universal"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

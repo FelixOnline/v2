@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
+# Attributes from Felix Online V1
 id: "796"
 old_path: /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
 aliases:
  - /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

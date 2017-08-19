@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Can Hermione cast off her robes?
 date: "2012-10-11 21:04:15 +0100"
+# Attributes from Felix Online V1
 id: "2662"
 old_path: /film/2662/emma-watsons-tasty-wallflower
 aliases:
  - /film/2662/emma-watsons-tasty-wallflower
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112203-felix-perks-of-being-a-wallflower-set-visit-report-07rgb.jpg"
 image_caption: >
   Ron and Harry got hotter
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

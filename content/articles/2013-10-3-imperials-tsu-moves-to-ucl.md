@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite pleas by students College transfers Translation Studies Unit
 date: "2013-10-03 23:00:32 +0100"
+# Attributes from Felix Online V1
 id: "3794"
 old_path: /news/3794/imperials-tsu-moves-to-ucl
 aliases:
  - /news/3794/imperials-tsu-moves-to-ucl
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310032359-jal08-news_students.jpg"
 image_caption: >
   The move to UCL comes despite continued petitions by TSU students which were supported by the Union
@@ -22,6 +27,7 @@ image_attribution: "Google Plus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

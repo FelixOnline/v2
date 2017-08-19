@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The commercial bomb is dropped on the latest and greatest in contemporary art
 date: "2015-10-23 11:43:58 +0100"
+# Attributes from Felix Online V1
 id: "5671"
 old_path: /arts/5671/all-hail-the-frieze
 aliases:
  - /arts/5671/all-hail-the-frieze
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231242-ygr12-117599.ipad.jpeg"
 image_caption: >
   Urs Fischer's Dr Nope, 2010
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

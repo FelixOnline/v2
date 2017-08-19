@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Colin Hill against the union refurbishments
 date: "2010-02-27 17:09:41 +0000"
+# Attributes from Felix Online V1
 id: "112"
 old_path: /comment/112/colin-hill-against-the-union-refurbishments
 aliases:
  - /comment/112/colin-hill-against-the-union-refurbishments
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271708-rsp07-moneypil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If one more person asks me what ‘actually happens’ during fashion week I will stub you with my Manolo
 date: "2012-10-11 20:54:05 +0100"
+# Attributes from Felix Online V1
 id: "2658"
 old_path: /fashion/2658/a-guide-to-blagging-fashion-month
 aliases:
  - /fashion/2658/a-guide-to-blagging-fashion-month
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112154-felix-fashiongirlfrontrgb.jpg"
 image_caption: >
   “Oh girl that Prada fox stole is from like, before I was born. Not chic.”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

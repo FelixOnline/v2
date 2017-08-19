@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dealing with stress and getting help are easier than you might have thought
 date: "2016-05-20 09:25:05 +0100"
+# Attributes from Felix Online V1
 id: "6193"
 old_path: /welfare/6193/how-to-survive-exams
 aliases:
  - /welfare/6193/how-to-survive-exams
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201124-felix-lib.jpg"
 image_caption: >
   Real talk.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lloyd James encourages you to participate in university democracy
 date: "2016-11-04 14:39:05 +0000"
+# Attributes from Felix Online V1
 id: "6395"
 old_path: /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
 aliases:
  - /comment/6395/out-of-touch-union-staff-and-sabbs-necessitate-student-engagement
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041438-felix-Screen Shot 2016-11-04 at 14.37.55.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

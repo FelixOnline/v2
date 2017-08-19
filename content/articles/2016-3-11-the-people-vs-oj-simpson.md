@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If ever a piece was fitting of the descriptor ‘ensemble cast’, this would be it
 date: "2016-03-11 12:06:20 +0000"
+# Attributes from Felix Online V1
 id: "6044"
 old_path: /tv/6044/the-people-vs-oj-simpson
 aliases:
  - /tv/6044/the-people-vs-oj-simpson
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111206-felix-MV5BMjUwNDE1ODgtOTQyMi00ZGVhLTg0M2QtYTM1ZDdmNWVlNWM1XkEyXkFqcGdeQXVyNTQ4ODM3NDM@._V1_.jpg"
 image_caption: >
   The Dream Team.
@@ -22,6 +27,7 @@ image_attribution: "Fox"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

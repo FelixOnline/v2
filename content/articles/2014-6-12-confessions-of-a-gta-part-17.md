@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Invigilation is no more than being paid to watch others suffer
 date: "2014-06-12 16:44:05 +0100"
+# Attributes from Felix Online V1
 id: "4684"
 old_path: /comment/4684/confessions-of-a-gta-part-17
 aliases:
  - /comment/4684/confessions-of-a-gta-part-17
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406121744-me1711-boredpony.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

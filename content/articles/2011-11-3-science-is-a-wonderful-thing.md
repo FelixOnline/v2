@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...if one does not have to earn one’s living at it”. Carys Cook discusses some of the difficulties facing early career scientists
 date: "2011-11-03 19:44:31 +0000"
+# Attributes from Felix Online V1
 id: "1654"
 old_path: /science/1654/science-is-a-wonderful-thing
 aliases:
  - /science/1654/science-is-a-wonderful-thing
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Albert Einstein reminds us to take him into account in neutr
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union lobby EEE department to ensure that PhD students get fair deal
 date: "2010-11-11 22:09:09 +0000"
+# Attributes from Felix Online V1
 id: "374"
 old_path: /news/374/uncertainty-over-phd-teaching-income
 aliases:
  - /news/374/uncertainty-over-phd-teaching-income
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112207-ks607-EEEEEEE.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

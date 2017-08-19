@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark Frederick gives you some tips on how to decide what you want to do post Imperial
 date: "2013-05-16 18:49:05 +0100"
+# Attributes from Felix Online V1
 id: "3586"
 old_path: /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
 aliases:
  - /comment/3586/how-to-decide-what-to-do-with-the-rest-of-your-life
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161949-tna08-peter1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix follows Christy Lam during a gastronomical overload, as she indulges in an arguably hefty amount of delights, including but not limited to those of the turkish type.
 date: "2016-11-25 14:36:45 +0000"
+# Attributes from Felix Online V1
 id: "6513"
 old_path: /food/6513/four-hours-of-tapas-style-dining-later
 aliases:
  - /food/6513/four-hours-of-tapas-style-dining-later
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251434-felix-IMG_4120.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cristy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

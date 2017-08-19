@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Whistleblower is truly an on-screen gem - shame it missed out on a box office run
 date: "2012-01-12 22:38:38 +0000"
+# Attributes from Felix Online V1
 id: "1987"
 old_path: /film/1987/overlooked-dvd-of-the-week-13-january
 aliases:
  - /film/1987/overlooked-dvd-of-the-week-13-january
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122236-cac111-whistleblower.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

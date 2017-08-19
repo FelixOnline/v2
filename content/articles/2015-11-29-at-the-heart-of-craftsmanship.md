@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hand Gestures has an interesting premise, and is done skilfully, but fails to excite
 date: "2015-11-29 16:45:48 +0000"
+# Attributes from Felix Online V1
 id: "5784"
 old_path: /film/5784/at-the-heart-of-craftsmanship-
 aliases:
  - /film/5784/at-the-heart-of-craftsmanship-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291645-ff712-1102.jpg"
 image_caption: >
   Who wouldn't want a large bronze dog in their house...
@@ -22,6 +27,7 @@ image_attribution: "Hand Gestures PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

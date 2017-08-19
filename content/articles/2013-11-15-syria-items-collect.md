@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives!
 date: "2013-11-15 11:46:40 +0000"
+# Attributes from Felix Online V1
 id: "4088"
 old_path: /features/4088/syria-items-collect-
 aliases:
  - /features/4088/syria-items-collect-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

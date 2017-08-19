@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In September, five students summited three unconquered Himalayan mountains. Here’s their first-hand account
 date: "2010-11-18 21:42:10 +0000"
+# Attributes from Felix Online V1
 id: "408"
 old_path: /news/408/imperial-students-make-mountaineering-history
 aliases:
  - /news/408/imperial-students-make-mountaineering-history
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182138-nm1010-travvell.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

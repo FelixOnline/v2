@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The new species of “homo superiors” seem to have everything figured out. They possess the special powers of the three T’s: telekinesis, teleportation, and telepathy.
 date: "2013-11-05 09:44:41 +0000"
+# Attributes from Felix Online V1
 id: "4002"
 old_path: /tv/4002/the-tomorrow-people-season-1
 aliases:
  - /tv/4002/the-tomorrow-people-season-1
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

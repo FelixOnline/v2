@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union Council passes policy supporting Browne Review, including uncapped fees
 date: "2010-11-04 18:59:27 +0000"
+# Attributes from Felix Online V1
 id: "321"
 old_path: /news/321/council-backs-fees-rise
 aliases:
  - /news/321/council-backs-fees-rise
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041857-jk708-UnionCou.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

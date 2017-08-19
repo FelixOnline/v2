@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sanchit Sharma on why ‘Free’ is more than you expect
 date: "2011-11-17 21:38:11 +0000"
+# Attributes from Felix Online V1
 id: "1782"
 old_path: /tech/1782/free-vs-open-source-why-you-should-care
 aliases:
  - /tech/1782/free-vs-open-source-why-you-should-care
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172137-pk1811-press_richard_stallman2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

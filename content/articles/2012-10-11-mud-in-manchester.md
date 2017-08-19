@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sophie Kirk: Cross country and Athletics club travel to Manchester
 date: "2012-10-11 20:39:17 +0100"
+# Attributes from Felix Online V1
 id: "2648"
 old_path: /sport/2648/mud-in-manchester
 aliases:
  - /sport/2648/mud-in-manchester
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112138-csw09-420823_10151110411118691_1522165525_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

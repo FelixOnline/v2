@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RAG went too far, and should take responsibility for putting women off taking on positions of responsibility
 date: "2016-02-12 11:20:53 +0000"
+# Attributes from Felix Online V1
 id: "5899"
 old_path: /comment/5899/your-union-president-speaks-on-rag-mag-sexism
 aliases:
  - /comment/5899/your-union-president-speaks-on-rag-mag-sexism
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121119-felix-aaa.png"
 image_caption: >
   Nobody banned anything.
@@ -22,6 +27,7 @@ image_attribution: "RAG"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

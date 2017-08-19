@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But they may actually be worse off than this year’s group, and here’s why
 date: "2016-06-10 08:23:23 +0100"
+# Attributes from Felix Online V1
 id: "6253"
 old_path: /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
 aliases:
  - /features/6253/next-year-our-sabbs-become-the-highest-paid-in-the-country
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101022-felix-dolla.jpg"
 image_caption: >
   Dolla dolla bills y'all.
@@ -22,6 +27,7 @@ image_attribution: "icu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

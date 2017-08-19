@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gauguin Uncovered at the Tate Modern until 16th January
 date: "2010-12-02 20:11:26 +0000"
+# Attributes from Felix Online V1
 id: "461"
 old_path: /arts/461/go-go-go-gauguin
 aliases:
  - /arts/461/go-go-go-gauguin
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022008-ac1507-Gaugin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cg708"
 author_name: "Cecily Goodwin"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

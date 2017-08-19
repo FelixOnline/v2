@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Margot Pikovsky gets her alliteration on
 date: "2012-11-15 22:20:46 +0000"
+# Attributes from Felix Online V1
 id: "2914"
 old_path: /sport/2914/miners-mourn-medic-defeat
 aliases:
  - /sport/2914/miners-mourn-medic-defeat
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152220-tna08-icsm-hockey-rgbizzle.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

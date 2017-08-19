@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam reviews Livescribe’s new infrared superpen
 date: "2011-10-13 23:07:42 +0100"
+# Attributes from Felix Online V1
 id: "1520"
 old_path: /tech/1520/livescribe-a-smart-choice-for-lectures
 aliases:
  - /tech/1520/livescribe-a-smart-choice-for-lectures
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140000-sjw209-pen_full.jpg"
 image_caption: >
   Who needs friends when you have a pen that talks?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

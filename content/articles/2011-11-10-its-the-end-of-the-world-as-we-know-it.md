@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Melancholia
 date: "2011-11-10 21:44:15 +0000"
+# Attributes from Felix Online V1
 id: "1735"
 old_path: /film/1735/its-the-end-of-the-world-as-we-know-it
 aliases:
  - /film/1735/its-the-end-of-the-world-as-we-know-it
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102144-pk1811-stills_melancholia_resized.jpg"
 image_caption: >
   Seriously, I have a thing for vampires - first Brad Pitt, then Tom Cruise, and now you...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

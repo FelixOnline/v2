@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya Garg contemplates the naural beauty of Foz do Iguaçu, and its fragility at the hands of mass tourism.
 date: "2011-02-17 20:25:28 +0000"
+# Attributes from Felix Online V1
 id: "842"
 old_path: /travel/842/tragic-tourism-perils
 aliases:
  - /travel/842/tragic-tourism-perils
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172023-nm1010-fallsfal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

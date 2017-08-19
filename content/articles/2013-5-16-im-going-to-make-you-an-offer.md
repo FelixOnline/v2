@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student wins £300 for postcard campaign
 date: "2013-05-16 20:39:54 +0100"
+# Attributes from Felix Online V1
 id: "3589"
 old_path: /news/3589/im-going-to-make-you-an-offer
 aliases:
  - /news/3589/im-going-to-make-you-an-offer
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162137-tna08-protoype-postcard.jpg"
 image_caption: >
   Nope, not that type of snakebite
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

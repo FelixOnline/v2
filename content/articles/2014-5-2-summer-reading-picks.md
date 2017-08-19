@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an eclectic selection of five great books to help you help you relax during the busy revision period
 date: "2014-05-02 01:43:02 +0100"
+# Attributes from Felix Online V1
 id: "4554"
 old_path: /books/4554/summer-reading-picks
 aliases:
  - /books/4554/summer-reading-picks
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020243-jal08-h2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-03-18 12:02:48 +0000"
+# Attributes from Felix Online V1
 id: "6074"
 old_path: /tv/6074/cartoon-corner-spectacular-spider-man
 aliases:
  - /tv/6074/cartoon-corner-spectacular-spider-man
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181202-felix-1141327-spectacularspidermanseason2poster.jpg"
 image_caption: >
   A hero’s work is never done.
@@ -22,6 +27,7 @@ image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

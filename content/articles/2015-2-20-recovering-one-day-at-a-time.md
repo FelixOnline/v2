@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Diba Esbati shares some of her day-to-day coping strategies
 date: "2015-02-20 16:37:57 +0000"
+# Attributes from Felix Online V1
 id: "5290"
 old_path: /welfare/5290/recovering-one-day-at-a-time
 aliases:
  - /welfare/5290/recovering-one-day-at-a-time
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201638-ps3110-screen-shot-2015-02-20-at-16.37.06.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

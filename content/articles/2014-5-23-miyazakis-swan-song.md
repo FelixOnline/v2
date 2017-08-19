@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over the last decade, ever since Spirited Away rocked the box office and became the highest grossing Japanese film in history, the release of a new Studio Ghibli film has become something of ‘An Event’, bringing with it a whirlwind of excitement and speculation.
 date: "2014-05-23 14:13:04 +0100"
+# Attributes from Felix Online V1
 id: "4623"
 old_path: /film/4623/miyazakis-swan-song
 aliases:
  - /film/4623/miyazakis-swan-song
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231513-jal08-the-wind-rises-3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Studio Ghibli"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

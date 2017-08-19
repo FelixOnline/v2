@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at one of Britain's most important directors
 date: "2011-01-20 19:53:10 +0000"
+# Attributes from Felix Online V1
 id: "618"
 old_path: /film/618/director-profile-danny-boyle
 aliases:
  - /film/618/director-profile-danny-boyle
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201951-ks607-dannyboy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

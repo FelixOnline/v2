@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rajvinder Virdee comments on some of the political and social ramifications of the sale of Northern Rock plc to Richard Branson’s Virgin Money
 date: "2011-11-24 20:19:05 +0000"
+# Attributes from Felix Online V1
 id: "1803"
 old_path: /biz/1803/the-virgin-of-the-rock
 aliases:
  - /biz/1803/the-virgin-of-the-rock
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242018-pk1811-branson.jpg"
 image_caption: >
   Business magnate Richard Branson holds up a Virgin Money credit card
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

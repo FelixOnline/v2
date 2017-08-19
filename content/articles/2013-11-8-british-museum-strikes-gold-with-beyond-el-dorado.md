@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What: Beyond El Dorado: Power and Gold In Ancient Columbia Where: The British Museum, WC1 When: Until 23rd March 2014 Price: £7 students, £9 adults
 date: "2013-11-08 09:44:19 +0000"
+# Attributes from Felix Online V1
 id: "4033"
 old_path: /arts/4033/british-museum-strikes-gold-with-beyond-el-dorado
 aliases:
  - /arts/4033/british-museum-strikes-gold-with-beyond-el-dorado
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

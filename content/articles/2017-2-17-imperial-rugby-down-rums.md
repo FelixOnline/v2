@@ -4,15 +4,20 @@ title: >
 subtitle: >
   oop
 date: "2017-02-17 16:22:13 +0000"
+# Attributes from Felix Online V1
 id: "6802"
 old_path: /sport/6802/imperial-rugby-down-rums
 aliases:
  - /sport/6802/imperial-rugby-down-rums
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171622-felix-IMG_20170208_165526_279.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

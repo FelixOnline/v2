@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial isn't the be all and end all
 date: "2012-01-19 23:16:24 +0000"
+# Attributes from Felix Online V1
 id: "2037"
 old_path: /comment/2037/rejection-isnt-the-end-of-the-world
 aliases:
  - /comment/2037/rejection-isnt-the-end-of-the-world
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

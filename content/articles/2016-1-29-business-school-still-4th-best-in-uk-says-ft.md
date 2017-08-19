@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
+# Attributes from Felix Online V1
 id: "5836"
 old_path: /news/5836/business-school-still-4th-best-in-uk-says-ft
 aliases:
  - /news/5836/business-school-still-4th-best-in-uk-says-ft
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290847-felix-businessschool.jpg"
 image_caption: >
   Imperial means (un)intelligent business.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

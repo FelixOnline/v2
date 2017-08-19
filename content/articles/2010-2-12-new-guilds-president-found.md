@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dan Lundy wins CGCU elections for Presidency
 date: "2010-02-12 16:23:43 +0000"
+# Attributes from Felix Online V1
 id: "89"
 old_path: /news/89/new-guilds-president-found
 aliases:
  - /news/89/new-guilds-president-found
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002121614-ak6309-CGCULogo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

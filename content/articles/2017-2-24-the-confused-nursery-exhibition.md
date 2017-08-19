@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look into the intriguing Blythe gallery display from LeoSoc and PhotoSoc
 date: "2017-02-24 15:34:30 +0000"
+# Attributes from Felix Online V1
 id: "6832"
 old_path: /cands/6832/the-confused-nursery-exhibition
 aliases:
  - /cands/6832/the-confused-nursery-exhibition
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241534-felix-16810834_10100760943107935_1771839755_o.jpg"
 image_caption: >
   The exhibition came with a face painting stand!
@@ -22,6 +27,7 @@ image_attribution: "Tom Mutimer"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

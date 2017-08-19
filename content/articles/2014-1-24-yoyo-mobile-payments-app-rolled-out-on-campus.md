@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new app, Yoyo, for mobile payment has recently launched at Imperial.
 date: "2014-01-24 09:41:43 +0000"
+# Attributes from Felix Online V1
 id: "4273"
 old_path: /news/4273/yoyo-mobile-payments-app-rolled-out-on-campus
 aliases:
  - /news/4273/yoyo-mobile-payments-app-rolled-out-on-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

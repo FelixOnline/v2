@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg visits the new Orange Tree Theatre show
 date: "2015-02-17 16:14:26 +0000"
+# Attributes from Felix Online V1
 id: "5262"
 old_path: /arts/5262/little-light--a-family-affair
 aliases:
  - /arts/5262/little-light--a-family-affair
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502171614-ps3110-little-light_orangetreetheatre_lorna-brown_photo-richard-davenport_.jpg"
 image_caption: >
   Lorna Brown as Alison in Little Light at The Orange Tree Theatre.
@@ -22,6 +27,7 @@ image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

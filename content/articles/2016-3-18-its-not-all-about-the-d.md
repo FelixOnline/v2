@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An ode to our nutrition’s unsung hero, vitamin B
 date: "2016-03-18 11:48:26 +0000"
+# Attributes from Felix Online V1
 id: "6059"
 old_path: /science/6059/its-not-all-about-the-d
 aliases:
  - /science/6059/its-not-all-about-the-d
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181148-felix-3753445507_ef06cbe8d7_o.jpg"
 image_caption: >
   I don’t care who told you steak is rich in vitamin B. If you come near me, I will cut you.
@@ -22,6 +27,7 @@ image_attribution: "Beatrice Murch"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A film that is destined for greatness
 date: "2015-02-20 17:07:54 +0000"
+# Attributes from Felix Online V1
 id: "5294"
 old_path: /film/5294/hawke-to-the-future
 aliases:
  - /film/5294/hawke-to-the-future
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502201704-ps3110-predestination-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

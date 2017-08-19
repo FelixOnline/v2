@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first...
 date: "2011-01-13 20:52:04 +0000"
+# Attributes from Felix Online V1
 id: "586"
 old_path: /comment/586/angry-new-year
 aliases:
  - /comment/586/angry-new-year
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

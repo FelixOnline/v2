@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists have investigated differences in bees' neurochemistry determining the way in which they forage for food
 date: "2012-03-15 19:53:52 +0000"
+# Attributes from Felix Online V1
 id: "2352"
 old_path: /science/2352/honey-bees-seek-thrills-just-like-us
 aliases:
  - /science/2352/honey-bees-seek-thrills-just-like-us
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151952-ams111-apis_mellifera_flying.jpg"
 image_caption: >
   On his way back from an adventure
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

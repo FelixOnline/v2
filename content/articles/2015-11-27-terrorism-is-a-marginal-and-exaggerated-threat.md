@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When we’re surrounded by so much fear, we forget that we still have freedom
 date: "2015-11-27 14:27:27 +0000"
+# Attributes from Felix Online V1
 id: "5778"
 old_path: /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
 aliases:
  - /comment/5778/terrorism-is-a-marginal-and-exaggerated-threat
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271425-ygr12-h_52402209-e1448275946133.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

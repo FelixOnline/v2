@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix’s own nutrition enthusiast, Alexandra Lim, takes us through the DOs and DON’Ts of cooking with oil.
 date: "2016-10-14 11:25:52 +0100"
+# Attributes from Felix Online V1
 id: "6336"
 old_path: /science/6336/getting-oily-the-science-of-cooking
 aliases:
  - /science/6336/getting-oily-the-science-of-cooking
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141325-so515-3232207824_02269f3768_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "James Jordan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

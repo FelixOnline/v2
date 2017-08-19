@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Nice Guys is a send-up of genre flicks that's in on the joke
 date: "2016-06-10 08:30:52 +0100"
+# Attributes from Felix Online V1
 id: "6260"
 old_path: /film/6260/neo-noir-shadows-and-californian-sun
 aliases:
  - /film/6260/neo-noir-shadows-and-californian-sun
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101030-felix-niceguys-1200x800.jpg"
 image_caption: >
   Ryan Gosling and Russel Crowe play the odd couple in 1970s neo-noir comedy The Nice Guys.
@@ -22,6 +27,7 @@ image_attribution: "Warner Bros."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ????????L
 date: "2016-02-19 12:01:23 +0000"
+# Attributes from Felix Online V1
 id: "5936"
 old_path: /film/5936/deadpool--the-reddit-of-movies
 aliases:
  - /film/5936/deadpool--the-reddit-of-movies
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191140-felix-deadpool-movie-image-reynolds.jpg"
 image_caption: >
   Ryan Reynolds as wise-cracking, fourth-wall-breaking, uninspiring Deadpool
@@ -22,6 +27,7 @@ image_attribution: "20th Century Fox"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

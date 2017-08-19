@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
+# Attributes from Felix Online V1
 id: "633"
 old_path: /news/633/feasibility-of-longer-day-called-into-question-
 aliases:
  - /news/633/feasibility-of-longer-day-called-into-question-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

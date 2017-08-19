@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
+# Attributes from Felix Online V1
 id: "6102"
 old_path: /features/6102/iconic-sex-toys-that-changed-the-world
 aliases:
  - /features/6102/iconic-sex-toys-that-changed-the-world
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291140-felix-lotus.jpg"
 image_caption: >
   I wasn’t allowed to include photos of eerily realistic dildos.
@@ -22,6 +27,7 @@ image_attribution: "flowerpicturegalery.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

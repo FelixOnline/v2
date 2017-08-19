@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
+# Attributes from Felix Online V1
 id: "4971"
 old_path: /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
 aliases:
  - /science/4971/dr-robin-carhart-harris-talks-about-lsd-and-the-psychedelic-state-psychedelic-state-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

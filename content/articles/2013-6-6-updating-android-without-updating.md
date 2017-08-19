@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A slew of new features for Android revealed at Google I/O 2013!
 date: "2013-06-06 17:47:18 +0100"
+# Attributes from Felix Online V1
 id: "3666"
 old_path: /tech/3666/updating-android-without-updating
 aliases:
  - /tech/3666/updating-android-without-updating
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306061849-tna08-android-jelly-bean.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

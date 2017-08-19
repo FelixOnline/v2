@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A stunning new exhibition at the National Gallery brings the grandeur of Italy's Renaissance to London
 date: "2017-04-08 22:52:55 +0100"
+# Attributes from Felix Online V1
 id: "6925"
 old_path: /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
 aliases:
  - /arts/6925/michelangelo--sebastiano--a-tale-of-two-masters
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201704090056-im1413-Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg"
 image_caption: >
   Detail from Sebastiano del Piombo, incorporating designs by Michelangelo, ‘The Raising of Lazarus’, 1517–19 | The National Gallery
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

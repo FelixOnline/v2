@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unsurprisingly, they're mostly conservative reports Philippa Skett
 date: "2015-05-15 12:31:28 +0100"
+# Attributes from Felix Online V1
 id: "5532"
 old_path: /news/5532/the-mps-that-are-now-representing-you
 aliases:
  - /news/5532/the-mps-that-are-now-representing-you
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151332-cj914-screen-shot-2015-05-15-at-13.31.52.png"
 image_caption: >
   Top from left to right clockwise: Greg Hands, Mark Field, Victoria Borwick and Andy Slaughter
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

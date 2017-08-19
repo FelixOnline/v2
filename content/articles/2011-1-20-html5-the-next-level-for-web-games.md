@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gaming is no longer all about consoles. Welcome to HTML5 gaming!
 date: "2011-01-20 20:01:38 +0000"
+# Attributes from Felix Online V1
 id: "620"
 old_path: /games/620/html5-the-next-level-for-web-games-
 aliases:
  - /games/620/html5-the-next-level-for-web-games-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

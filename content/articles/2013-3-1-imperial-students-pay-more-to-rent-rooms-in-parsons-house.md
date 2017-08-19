@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
+# Attributes from Felix Online V1
 id: "3415"
 old_path: /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
 aliases:
  - /news/3415/imperial-students-pay-more-to-rent-rooms-in-parsons-house
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010103-tna08-payment-for-halls.jpg"
 image_caption: >
   A screenshot showing a monthly payment
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial about, what else, exams and halls.
 date: "2013-05-09 15:35:35 +0100"
+# Attributes from Felix Online V1
 id: "3562"
 old_path: /comment/3562/examining-hope
 aliases:
  - /comment/3562/examining-hope
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

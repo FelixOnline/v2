@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A ballet from the wings and a strong triple bill made for two very special evenings at Covent Garden. Dance in Britain is going strong
 date: "2011-10-16 14:27:32 +0100"
+# Attributes from Felix Online V1
 id: "1546"
 old_path: /arts/1546/the-royal-ballet-is-alive-and-well
 aliases:
  - /arts/1546/the-royal-ballet-is-alive-and-well
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110161526-felix-armand_2024074b.jpg"
 image_caption: >
   Rojo and Polunin: a lesson in passion
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

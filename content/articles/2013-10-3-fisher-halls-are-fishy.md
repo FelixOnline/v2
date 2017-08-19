@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
+# Attributes from Felix Online V1
 id: "3796"
 old_path: /news/3796/fisher-halls-are-fishy-
 aliases:
  - /news/3796/fisher-halls-are-fishy-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040007-jal08-photo(6).jpg"
 image_caption: >
   This looks quite like the inside of an Imperial engineer’s brain
@@ -22,6 +27,7 @@ image_attribution: "Ben Fernando"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

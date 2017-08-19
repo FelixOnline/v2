@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
+# Attributes from Felix Online V1
 id: "2637"
 old_path: /tech/2637/freshers-introduction-to-tech
 aliases:
  - /tech/2637/freshers-introduction-to-tech
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210091214-jp1409-speedtest.png"
 image_caption: >
   MOAR SPEED. NEVER STREAM AGAIN
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

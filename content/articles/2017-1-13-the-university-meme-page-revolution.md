@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How Memebridge reignited the university meme scene
 date: "2017-01-13 15:03:53 +0000"
+# Attributes from Felix Online V1
 id: "6651"
 old_path: /features/6651/the-university-meme-page-revolution
 aliases:
  - /features/6651/the-university-meme-page-revolution
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131502-felix-15589998_1244623018909408_6555442564566862081_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sent By James"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

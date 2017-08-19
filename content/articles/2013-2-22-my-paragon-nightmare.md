@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A first-year shares their experience of living in halls over six miles from the South Ken campus
 date: "2013-02-22 01:57:19 +0000"
+# Attributes from Felix Online V1
 id: "3369"
 old_path: /comment/3369/my-paragon-nightmare
 aliases:
  - /comment/3369/my-paragon-nightmare
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

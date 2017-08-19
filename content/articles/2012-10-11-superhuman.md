@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Meredith Thomas ventures into the weird land of the cyborgs at the Wellcome Collection
 date: "2012-10-11 20:28:48 +0100"
+# Attributes from Felix Online V1
 id: "2643"
 old_path: /arts/2643/superhuman
 aliases:
  - /arts/2643/superhuman
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112128-felix-0a2aimeemullalernumber1.jpg"
 image_caption: >
   My caption-writing skills have finally been rendered useless
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

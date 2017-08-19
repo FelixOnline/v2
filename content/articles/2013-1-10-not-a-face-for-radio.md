@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Wills' unique brand of comedy has to been seen to be believed
 date: "2013-01-10 22:34:35 +0000"
+# Attributes from Felix Online V1
 id: "3088"
 old_path: /arts/3088/not-a-face-for-radio-
 aliases:
  - /arts/3088/not-a-face-for-radio-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102233-csw09-phone.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

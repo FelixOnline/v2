@@ -4,15 +4,20 @@ title: >
 subtitle: >
   For all you cheese haters out there...
 date: "2013-01-25 01:34:41 +0000"
+# Attributes from Felix Online V1
 id: "3181"
 old_path: /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
 aliases:
  - /food/3181/not-a-fan-of-cheesecake-try-this-amazing-lava-cake
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

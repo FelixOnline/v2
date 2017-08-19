@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is amazed by this painter’s long-awaited retrospective
 date: "2015-02-07 19:10:45 +0000"
+# Attributes from Felix Online V1
 id: "5204"
 old_path: /arts/5204/marlene-dumas-the-image-as-triumph
 aliases:
  - /arts/5204/marlene-dumas-the-image-as-triumph
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071910-ps3110-marlene-dumas-copya.jpg"
 image_caption: >
   The Widow, Marlene Dumas
@@ -22,6 +27,7 @@ image_attribution: "Marlene Dumas"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Les Misérables gets five stars from John Park
 date: "2013-01-18 01:10:27 +0000"
+# Attributes from Felix Online V1
 id: "3150"
 old_path: /film/3150/they-dreamed-a-dream-an-imax-experience
 aliases:
  - /film/3150/they-dreamed-a-dream-an-imax-experience
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180109-tna08-russell-crowe-les-miserables2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

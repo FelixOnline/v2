@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson reviews the recent albums by three of his old favourites
 date: "2014-05-09 14:58:10 +0100"
+# Attributes from Felix Online V1
 id: "4581"
 old_path: /music/4581/its-like-its-2009-all-over-again
 aliases:
  - /music/4581/its-like-its-2009-all-over-again
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405091600-jal08-faris-badwan-the-horrors.jpg"
 image_caption: >
   Horrors frontman Faris Badwan doing, something, with his fringe
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

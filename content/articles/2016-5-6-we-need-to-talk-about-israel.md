@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You can criticise Israel without being anti-semitic
 date: "2016-05-06 09:50:08 +0100"
+# Attributes from Felix Online V1
 id: "6119"
 old_path: /comment/6119/we-need-to-talk-about-israel
 aliases:
  - /comment/6119/we-need-to-talk-about-israel
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061049-felix-peace1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Al Jazeera"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

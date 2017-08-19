@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shooting up the table, but still only coming in at 41. Workload highlighted as major problem
 date: "2013-05-02 13:33:35 +0100"
+# Attributes from Felix Online V1
 id: "3530"
 old_path: /news/3530/imperial-rises-in-student-satisfaction-table
 aliases:
  - /news/3530/imperial-rises-in-student-satisfaction-table
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

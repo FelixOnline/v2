@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Got gaming friends? Maybe game gifts are the answer!
 date: "2010-12-09 19:57:17 +0000"
+# Attributes from Felix Online V1
 id: "513"
 old_path: /games/513/stuck-for-gift-ideas-for-your-pet-gamer
 aliases:
  - /games/513/stuck-for-gift-ideas-for-your-pet-gamer
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Graduate Tax is a model of higher education funding that shockingly involves students paying a tax in line with their income after graduation.
 date: "2014-06-06 02:43:11 +0100"
+# Attributes from Felix Online V1
 id: "4660"
 old_path: /comment/4660/higher-education-fees-debate---graduate-tax
 aliases:
  - /comment/4660/higher-education-fees-debate---graduate-tax
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

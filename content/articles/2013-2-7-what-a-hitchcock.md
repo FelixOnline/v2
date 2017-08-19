@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Only two stars for The Girl from John Park
 date: "2013-02-07 22:56:00 +0000"
+# Attributes from Felix Online V1
 id: "3248"
 old_path: /film/3248/what-a-hitchcock
 aliases:
  - /film/3248/what-a-hitchcock
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072255-tna08-sienna-miller-in-the-girl-2012-movie-image2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

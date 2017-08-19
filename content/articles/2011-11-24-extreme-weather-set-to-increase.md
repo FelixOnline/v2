@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simulations suggest increased chances of heavy rainfall, which could lead to flooding
 date: "2011-11-24 21:11:11 +0000"
+# Attributes from Felix Online V1
 id: "1814"
 old_path: /science/1814/extreme-weather-set-to-increase
 aliases:
  - /science/1814/extreme-weather-set-to-increase
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242108-pk1811-hurricane_katrina_august_28_2005_nasa.jpg"
 image_caption: >
   Hurricane Katrina is often used as an example of extreme weather
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

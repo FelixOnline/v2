@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX visits WA café, a Japanese pâtissierie in Ealing Broadway
 date: "2016-06-03 09:32:35 +0100"
+# Attributes from Felix Online V1
 id: "6243"
 old_path: /food/6243/let-me-eat-cake
 aliases:
  - /food/6243/let-me-eat-cake
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031131-felix-IMG_2262.jpg"
 image_caption: >
   Choux trious!
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

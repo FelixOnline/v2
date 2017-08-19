@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Science Musuem Library is moving, change is coming to the 3rd Floor.
 date: "2014-01-24 09:40:27 +0000"
+# Attributes from Felix Online V1
 id: "4271"
 old_path: /news/4271/farewell-science-museum-library
 aliases:
  - /news/4271/farewell-science-museum-library
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

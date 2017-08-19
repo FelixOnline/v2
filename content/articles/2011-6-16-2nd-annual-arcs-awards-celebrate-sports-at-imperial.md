@@ -4,15 +4,20 @@ title: >
 subtitle: >
   England Rugby Union 7’s Head Coach, Ben Ryan, attends ceremony
 date: "2011-06-16 21:21:40 +0100"
+# Attributes from Felix Online V1
 id: "1403"
 old_path: /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
 aliases:
  - /sport/1403/2nd-annual-arcs-awards-celebrate-sports-at-imperial
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162213-felix-dsc_0183-(99).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Laura Harreman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

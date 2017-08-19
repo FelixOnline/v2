@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emma Lisle on the new substance’s potential in engineering
 date: "2015-03-03 15:00:58 +0000"
+# Attributes from Felix Online V1
 id: "5329"
 old_path: /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
 aliases:
  - /science/5329/limpet-teeth-are-found-to-be-strongest-natural-material-on-earth
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503041213-ps3110-screen-shot-2015-03-03-at-15.16.19.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

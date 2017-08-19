@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on halls, the new campus, BUCS, elections, and a quick good luck for exams...
 date: "2013-03-14 23:57:17 +0000"
+# Attributes from Felix Online V1
 id: "3455"
 old_path: /comment/3455/hall-so-hard-college-cant-affordably-locate-me
 aliases:
  - /comment/3455/hall-so-hard-college-cant-affordably-locate-me
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tangerine may be bombastic in its approach, but there is real warmth and joy within the film
 date: "2015-11-20 14:08:28 +0000"
+# Attributes from Felix Online V1
 id: "5768"
 old_path: /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
 aliases:
  - /film/5768/a-transgender-revenge-dramedy-its-a-christmas-miracle
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511201407-ff712-tangerine_011-1600x900-c-default.jpg"
 image_caption: >
   Tangerine breaks new ground with its depiction of transgender sex workers
@@ -22,6 +27,7 @@ image_attribution: "Radium/AP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

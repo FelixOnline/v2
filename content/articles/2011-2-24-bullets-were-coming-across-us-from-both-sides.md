@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton's first hand experience of police violence in Kenya
 date: "2011-02-24 20:19:52 +0000"
+# Attributes from Felix Online V1
 id: "886"
 old_path: /politics/886/bullets-were-coming-across-us-from-both-sides
 aliases:
  - /politics/886/bullets-were-coming-across-us-from-both-sides
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242010-ks607-copshoot.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The Daily Nation"
 image_attribution_link: "http://www.nation.co.ke/News/-/1056/1092724/-/11ffs09z/-/index.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A noteworthy cinematic achievement but will probably miss out on an Oscar
 date: "2011-01-20 19:48:46 +0000"
+# Attributes from Felix Online V1
 id: "614"
 old_path: /film/614/james-franco-gives-his-right-arm-to-127-hours-
 aliases:
  - /film/614/james-franco-gives-his-right-arm-to-127-hours-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201947-ks607-jamesfra.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

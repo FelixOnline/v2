@@ -4,15 +4,20 @@ title: >
 subtitle: >
   That most crucial of decisions: where should you get your boots from?
 date: "2011-12-08 21:49:05 +0000"
+# Attributes from Felix Online V1
 id: "1945"
 old_path: /comment/1945/they-are-totally-boots-iful
 aliases:
  - /comment/1945/they-are-totally-boots-iful
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082147-felix-puss-in-bootas.jpg"
 image_caption: >
   If it’s good enough for him, it’s good enough for me
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

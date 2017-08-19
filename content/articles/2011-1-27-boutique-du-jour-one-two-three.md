@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new concept store in Shoreditch is causing a sensation: 123 offers patrons the very best of British – that means locally-sourced fashion, accessories, homeware and cake!
 date: "2011-01-27 19:33:57 +0000"
+# Attributes from Felix Online V1
 id: "671"
 old_path: /fashion/671/boutique-du-jour-one-two-three
 aliases:
  - /fashion/671/boutique-du-jour-one-two-three
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271930-nm1010-12333123.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

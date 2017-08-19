@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Toss away the Valentine’s Day courtesies, and consider travelling alone
 date: "2011-02-10 19:53:16 +0000"
+# Attributes from Felix Online V1
 id: "759"
 old_path: /travel/759/its-time-to-get-away
 aliases:
  - /travel/759/its-time-to-get-away
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102101852-dr910-tajmahal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cr709"
 author_name: "Christopher Richardson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

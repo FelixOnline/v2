@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mosquito-repellent bodysuit on no ordinary catwalk
 date: "2012-05-18 11:12:00 +0100"
+# Attributes from Felix Online V1
 id: "2466"
 old_path: /science/2466/fashion-to-fight-malaria
 aliases:
  - /science/2466/fashion-to-fight-malaria
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181211-felix-120508152046-large.jpg"
 image_caption: >
   Get cape. Wear cape. Beat malaria...?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

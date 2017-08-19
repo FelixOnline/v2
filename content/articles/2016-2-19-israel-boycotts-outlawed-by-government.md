@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Public bodies will no longer be able to opt out of buying products made on the West Bank
 date: "2016-02-19 11:07:51 +0000"
+# Attributes from Felix Online V1
 id: "5924"
 old_path: /news/5924/israel-boycotts-outlawed-by-government
 aliases:
  - /news/5924/israel-boycotts-outlawed-by-government
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: >
   Several Imperial academics signed this boycott in 2015.
@@ -22,6 +27,7 @@ image_attribution: "The Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

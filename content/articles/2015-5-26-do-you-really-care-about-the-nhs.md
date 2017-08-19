@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman definitely does, and so does Michael Wynne, writing for the Royal Court.
 date: "2015-05-26 13:41:45 +0100"
+# Attributes from Felix Online V1
 id: "5565"
 old_path: /arts/5565/do-you-really-care-about-the-nhs
 aliases:
  - /arts/5565/do-you-really-care-about-the-nhs
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261436-js5913-who-cares.jpg"
 image_caption: >
   Martina Laird in Who Cares at the Royal Court
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Loughborough top the poll for the fifth year running
 date: "2011-02-28 21:16:53 +0000"
+# Attributes from Felix Online V1
 id: "943"
 old_path: /news/943/imperial-behind-ucl-in-student-experience-survey
 aliases:
  - /news/943/imperial-behind-ucl-in-student-experience-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

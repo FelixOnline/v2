@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson left all starry-eyed by Annie Clark’s stunning performance
 date: "2012-03-01 23:10:31 +0000"
+# Attributes from Felix Online V1
 id: "2297"
 old_path: /music/2297/st-vincent-woos-shepherds-bush
 aliases:
  - /music/2297/st-vincent-woos-shepherds-bush
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012309-cac111-st.-vincent_web.jpg"
 image_caption: >
   Sun, absence of concrete and chewing gum. Clearly not Shepherd’s Bush
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

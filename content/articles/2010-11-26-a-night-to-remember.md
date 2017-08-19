@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The opening of the Union’s new club Metric goes off with a bang
 date: "2010-11-26 07:24:37 +0000"
+# Attributes from Felix Online V1
 id: "451"
 old_path: /news/451/a-night-to-remember
 aliases:
  - /news/451/a-night-to-remember
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011260951-ks607-metricla.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

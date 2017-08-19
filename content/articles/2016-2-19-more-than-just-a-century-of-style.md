@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vogue 100: A Century of Style is a celebration of history and what made it beautiful
 date: "2016-02-19 12:11:53 +0000"
+# Attributes from Felix Online V1
 id: "5939"
 old_path: /arts/5939/more-than-just-a-century-of-style
 aliases:
  - /arts/5939/more-than-just-a-century-of-style
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191210-felix-vogue-elephant-large_trans++iyqoT1SBB9va1sGv7GIjEobhCNL6eGYb8WWtNBD0x3E.jpg"
 image_caption: >
   Anne Gunning in Jaipur by Norman Parkinson, 1956.
@@ -22,6 +27,7 @@ image_attribution: "Norman Parkinson Ltd."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

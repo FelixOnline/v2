@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deepka Rana spends 3 hours pretending to write a byline
 date: "2012-10-05 12:39:25 +0100"
+# Attributes from Felix Online V1
 id: "2616"
 old_path: /biz/2616/how-to-stop-wasting-time
 aliases:
  - /biz/2616/how-to-stop-wasting-time
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051339-felix-gp3dwileycapstone-(2)-copy.jpg"
 image_caption: >
   I procrastinate by reading this book. Technically time well spent?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

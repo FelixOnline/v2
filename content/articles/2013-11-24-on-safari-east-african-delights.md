@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cruising through Tanzania’s national parks in search of big cats
 date: "2013-11-24 16:41:36 +0000"
+# Attributes from Felix Online V1
 id: "4132"
 old_path: /travel/4132/on-safari-east-african-delights
 aliases:
  - /travel/4132/on-safari-east-african-delights
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

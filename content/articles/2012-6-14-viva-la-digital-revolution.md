@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Rayner ponders the future of printed music and the dominance of downloads
 date: "2012-06-14 20:03:47 +0100"
+# Attributes from Felix Online V1
 id: "2556"
 old_path: /tech/2556/viva-la-digital-revolution
 aliases:
  - /tech/2556/viva-la-digital-revolution
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

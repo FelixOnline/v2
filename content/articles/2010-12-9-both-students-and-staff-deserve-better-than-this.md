@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Both students and staff deserve better than this
 date: "2010-12-09 21:17:09 +0000"
+# Attributes from Felix Online V1
 id: "531"
 old_path: /comment/531/both-students-and-staff-deserve-better-than-this
 aliases:
  - /comment/531/both-students-and-staff-deserve-better-than-this
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A flawed piece from the science fiction master?
 date: "2011-05-20 05:35:24 +0100"
+# Attributes from Felix Online V1
 id: "1221"
 old_path: /arts/1221/classic-sci-fi-arthur-c-clarke
 aliases:
  - /arts/1221/classic-sci-fi-arthur-c-clarke
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

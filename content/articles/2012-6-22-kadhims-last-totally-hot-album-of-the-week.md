@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kitty Pryde – haha im sorry – 2012
 date: "2012-06-22 17:01:07 +0100"
+# Attributes from Felix Online V1
 id: "2582"
 old_path: /music/2582/kadhims-last-totally-hot-album-of-the-week
 aliases:
  - /music/2582/kadhims-last-totally-hot-album-of-the-week
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206221800-felix-kitty-pryde.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

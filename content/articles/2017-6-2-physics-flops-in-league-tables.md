@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oh how the mighty have fallen. NOT
 date: "2017-06-02 12:28:42 +0100"
+# Attributes from Felix Online V1
 id: "6983"
 old_path: /news/6983/physics-flops-in-league-tables
 aliases:
  - /news/6983/physics-flops-in-league-tables
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021428-felix-Screen Shot 2017-06-02 at 14.28.04.png"
 image_caption: >
   ouch
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

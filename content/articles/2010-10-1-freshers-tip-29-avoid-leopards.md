@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Other guides will teach you about the dreaded Freshers’ Flu and how it can be avoided. What they fail to mention are leopards...
 date: "2010-10-01 22:44:54 +0100"
+# Attributes from Felix Online V1
 id: "166"
 old_path: /comment/166/freshers-tip-29-avoid-leopards
 aliases:
  - /comment/166/freshers-tip-29-avoid-leopards
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

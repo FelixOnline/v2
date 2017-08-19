@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Puppetry is having a bit of a renaissance at the moment thanks to shows like War Horse
 date: "2016-12-09 15:59:15 +0000"
+# Attributes from Felix Online V1
 id: "6588"
 old_path: /arts/6588/arts-interviews--edie-edmundson
 aliases:
  - /arts/6588/arts-interviews--edie-edmundson
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612121556-felix-TAN13418 (1)_captioned.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

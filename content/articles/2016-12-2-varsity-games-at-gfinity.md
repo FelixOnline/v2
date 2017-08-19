@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saad Ahmed gives the coverage on Varsity Games’ action packed, interuniversity DOTA tournament
 date: "2016-12-02 15:18:03 +0000"
+# Attributes from Felix Online V1
 id: "6543"
 old_path: /games/6543/varsity-games-at-gfinity
 aliases:
  - /games/6543/varsity-games-at-gfinity
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021517-felix-15311635_10101025341055706_383010412_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Shawn Briggs"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

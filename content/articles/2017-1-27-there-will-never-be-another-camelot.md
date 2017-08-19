@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chilean director Pablo Larraín makes his English-language debut with Jackie, a simmering biopic of first lady Jackie Kennedy, played masterfully by Natalie Portman, in the days following her husband’s assassination
 date: "2017-01-27 16:44:19 +0000"
+# Attributes from Felix Online V1
 id: "6695"
 old_path: /film/6695/there-will-never-be-another-camelot
 aliases:
  - /film/6695/there-will-never-be-another-camelot
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271644-felix-jackie-film-review.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "20th Century Fox"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

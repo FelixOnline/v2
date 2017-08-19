@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Social Secretary, who sent emails, now banned from mailing list
 date: "2015-02-27 00:07:40 +0000"
+# Attributes from Felix Online V1
 id: "5309"
 old_path: /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
 aliases:
  - /news/5309/misogynistic-emails-sent-out-to-rugby-club-mailing-list
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502270007-pk1811-screen-shot-2015-02-27-at-00.05.56.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

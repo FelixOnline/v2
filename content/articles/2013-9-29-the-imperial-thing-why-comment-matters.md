@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wanted: your thoughts on anything!
 date: "2013-09-29 14:02:56 +0100"
+# Attributes from Felix Online V1
 id: "3769"
 old_path: /comment/3769/the-imperial-thing-why-comment-matters
 aliases:
  - /comment/3769/the-imperial-thing-why-comment-matters
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291504-tna08-parthenon.jpg"
 image_caption: >
   Not quite, but Comment is nearly as good
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

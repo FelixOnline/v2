@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "Pattern of infringements that reflected underlying systemic failings" at College according to a new report published by the Animals in Science Committee
 date: "2014-07-03 10:40:20 +0100"
+# Attributes from Felix Online V1
 id: "4718"
 old_path: /news/4718/new-report-published-about-animal-research-problems-at-college
 aliases:
  - /news/4718/new-report-published-about-animal-research-problems-at-college
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

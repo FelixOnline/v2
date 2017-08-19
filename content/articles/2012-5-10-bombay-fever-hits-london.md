@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England catches up with Bombay Bicycle Club
 date: "2012-05-10 19:59:53 +0100"
+# Attributes from Felix Online V1
 id: "2438"
 old_path: /music/2438/bombay-fever-hits-london
 aliases:
  - /music/2438/bombay-fever-hits-london
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102101-felix-bombay4.jpg"
 image_caption: >
   Everyone in this photo looks very happy and relaxed, apart from Mr Serious on the left
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

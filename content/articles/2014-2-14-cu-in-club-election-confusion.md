@@ -4,15 +4,20 @@ title: >
 subtitle: >
   On Tuesday a member of the Imperial College Christian Union’s (CU) committee sent an email to all members on their mailing list explaining that in their upcoming society elections only candidates chosen by the current committee...
 date: "2014-02-14 04:32:47 +0000"
+# Attributes from Felix Online V1
 id: "4377"
 old_path: /news/4377/cu-in-club-election-confusion
 aliases:
  - /news/4377/cu-in-club-election-confusion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

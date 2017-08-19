@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All the classic Scorsese hallmarks are also here
 date: "2016-02-26 11:55:31 +0000"
+# Attributes from Felix Online V1
 id: "5976"
 old_path: /tv/5976/-vinyl-grooves
 aliases:
  - /tv/5976/-vinyl-grooves
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261155-felix-landscape-1447774984-vinyl-trailer-2.jpg"
 image_caption: >
   No sympathy for the devil.
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

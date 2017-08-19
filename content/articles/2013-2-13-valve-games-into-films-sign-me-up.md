@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope has hope
 date: "2013-02-13 14:50:53 +0000"
+# Attributes from Felix Online V1
 id: "3305"
 old_path: /games/3305/valve-games-into-films-sign-me-up
 aliases:
  - /games/3305/valve-games-into-films-sign-me-up
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131710-tna08-mtt.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

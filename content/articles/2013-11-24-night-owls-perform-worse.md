@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amrita Ghosh & Arya Mehta explain why all-nighters aren’t wise
 date: "2013-11-24 16:02:59 +0000"
+# Attributes from Felix Online V1
 id: "4107"
 old_path: /science/4107/night-owls-perform-worse
 aliases:
  - /science/4107/night-owls-perform-worse
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

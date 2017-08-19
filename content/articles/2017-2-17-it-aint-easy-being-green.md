@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get it?
 date: "2017-02-17 16:24:46 +0000"
+# Attributes from Felix Online V1
 id: "6804"
 old_path: /sport/6804/it-aint-easy-being-green
 aliases:
  - /sport/6804/it-aint-easy-being-green
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171624-felix-IMG_1917.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

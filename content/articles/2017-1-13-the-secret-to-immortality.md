@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-13 14:12:16 +0000"
+# Attributes from Felix Online V1
 id: "6639"
 old_path: /science/6639/the-secret-to-immortality
 aliases:
  - /science/6639/the-secret-to-immortality
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Shane Anderson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

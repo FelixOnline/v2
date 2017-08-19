@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Culture editors Indira Mallik and Fred Fyles give their round-up of the last 12 months in terms of culutre. Expect TV escapism, highlighting women in music, and going crazy over Olivia Laing...
 date: "2016-12-16 15:43:54 +0000"
+# Attributes from Felix Online V1
 id: "6618"
 old_path: /features/6618/a-seat-at-the-culture-roundtable
 aliases:
  - /features/6618/a-seat-at-the-culture-roundtable
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161543-felix-composite.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "olangeKnowlesVEVO, Columbia Pictures, Netflix, Jonathan Ring
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski is drawn back into the boardroom
 date: "2011-10-28 13:23:17 +0100"
+# Attributes from Felix Online V1
 id: "1642"
 old_path: /tv/1642/childrens-sugar-intake-boosts-ego
 aliases:
  - /tv/1642/childrens-sugar-intake-boosts-ego
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281416-felix-sugar.jpg"
 image_caption: >
   Making up for something?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

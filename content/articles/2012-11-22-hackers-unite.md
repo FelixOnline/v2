@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Wong introduces Imperial’s very own Hackathon
 date: "2012-11-22 23:11:46 +0000"
+# Attributes from Felix Online V1
 id: "2941"
 old_path: /biz/2941/hackers-unite-
 aliases:
  - /biz/2941/hackers-unite-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

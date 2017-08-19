@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Basel Chamali argues that there is no peaceful solution in Syria
 date: "2012-03-08 21:39:28 +0000"
+# Attributes from Felix Online V1
 id: "2327"
 old_path: /politics/2327/dulce-et-decorum-est
 aliases:
  - /politics/2327/dulce-et-decorum-est
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082138-ams111-rebels.jpg"
 image_caption: >
   Homs’ latest celebrities: Though low in numbers, armed rebels are high in popularity
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

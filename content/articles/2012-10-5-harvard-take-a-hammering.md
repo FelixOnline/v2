@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sean Baker retells the dominance of IC Rugby
 date: "2012-10-05 13:27:10 +0100"
+# Attributes from Felix Online V1
 id: "2627"
 old_path: /sport/2627/harvard-take-a-hammering
 aliases:
  - /sport/2627/harvard-take-a-hammering
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051427-felix-556974_10151243526406341_500544924_n.jpg"
 image_caption: >
   Ably watched by his teammates, Olisa charges on.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

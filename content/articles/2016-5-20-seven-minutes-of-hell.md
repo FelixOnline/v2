@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We talk exercise
 date: "2016-05-20 09:05:30 +0100"
+# Attributes from Felix Online V1
 id: "6181"
 old_path: /science/6181/seven-minutes-of-hell
 aliases:
  - /science/6181/seven-minutes-of-hell
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201105-felix-120123884_36e8dc7e7f_o.jpg"
 image_caption: >
   Here at FELIX we believe in positive reinforcement, so have a cookie (or ten) for reading an article about exercise.
@@ -22,6 +27,7 @@ image_attribution: "Tracy Hunter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

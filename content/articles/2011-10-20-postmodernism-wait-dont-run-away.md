@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Trying to define this art movement is Indy Leclercq's greatest challenge yet
 date: "2011-10-20 22:27:23 +0100"
+# Attributes from Felix Online V1
 id: "1569"
 old_path: /comment/1569/postmodernism-wait-dont-run-away
 aliases:
  - /comment/1569/postmodernism-wait-dont-run-away
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

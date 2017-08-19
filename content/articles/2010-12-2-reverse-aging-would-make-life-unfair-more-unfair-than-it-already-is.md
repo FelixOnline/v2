@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I do not want to be competing against an 140 year old for jobs
 date: "2010-12-02 21:50:12 +0000"
+# Attributes from Felix Online V1
 id: "498"
 old_path: /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
 aliases:
  - /comment/498/reverse-aging-would-make-life-unfair-more-unfair-than-it-already-is
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

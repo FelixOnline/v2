@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Barfield Marks makes a case for talking about why we should be divesting
 date: "2017-05-15 16:00:44 +0100"
+# Attributes from Felix Online V1
 id: "6949"
 old_path: /comment/6949/the-case-for-divestment-at-imperial
 aliases:
  - /comment/6949/the-case-for-divestment-at-imperial
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151800-felix-Screen Shot 2017-05-15 at 18.00.22.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

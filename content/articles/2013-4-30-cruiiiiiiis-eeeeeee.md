@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Cruising into Oblivion
 date: "2013-04-30 10:35:08 +0100"
+# Attributes from Felix Online V1
 id: "3500"
 old_path: /film/3500/cruiiiiiiis-eeeeeee
 aliases:
  - /film/3500/cruiiiiiiis-eeeeeee
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012034-tna08-tom-cruise-in-oblivion.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

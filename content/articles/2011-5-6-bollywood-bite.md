@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A monthly column dedicated to the Indian film industry
 date: "2011-05-06 12:39:35 +0100"
+# Attributes from Felix Online V1
 id: "1167"
 old_path: /film/1167/bollywood-bite
 aliases:
  - /film/1167/bollywood-bite
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105061342-felix-51vbbwlfi6l.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

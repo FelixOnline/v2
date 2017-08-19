@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Angry grad is coming to you from Thailand, and this is what she’s found
 date: "2016-06-10 08:20:16 +0100"
+# Attributes from Felix Online V1
 id: "6251"
 old_path: /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
 aliases:
  - /comment/6251/the-four-types-of-traveller-youll-meet-this-summer
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101019-felix-city-people-woman-street.jpg"
 image_caption: >
   It is very important to get pics for the 'gram.
@@ -22,6 +27,7 @@ image_attribution: "unsplash.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

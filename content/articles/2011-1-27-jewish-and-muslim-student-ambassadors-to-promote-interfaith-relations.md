@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
+# Attributes from Felix Online V1
 id: "656"
 old_path: /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
 aliases:
  - /news/656/jewish-and-muslim-student-ambassadors-to-promote-interfaith-relations-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

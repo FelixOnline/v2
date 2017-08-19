@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You can forget about elections for the rest of the year
 date: "2017-03-17 13:03:25 +0000"
+# Attributes from Felix Online V1
 id: "6897"
 old_path: /news/6897/your-new-sabbs-are-here
 aliases:
  - /news/6897/your-new-sabbs-are-here
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171303-felix-sabbs.jpg"
 image_caption: >
   Isn't there someone missing tho?
@@ -22,6 +27,7 @@ image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money
 date: "2014-01-15 16:20:50 +0000"
+# Attributes from Felix Online V1
 id: "4211"
 old_path: /tech/4211/who-doesnt-need-a-roomba
 aliases:
  - /tech/4211/who-doesnt-need-a-roomba
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chen Yann Qi: Bet you didn’t know your one idea can save the world! You will be surprised to find that in a typical week, the average UK household is throwing away what would have been six complete meals. Not shocking enough?
 date: "2013-12-02 21:29:18 +0000"
+# Attributes from Felix Online V1
 id: "4150"
 old_path: /features/4150/social-innovation-saving-the-world
 aliases:
  - /features/4150/social-innovation-saving-the-world
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

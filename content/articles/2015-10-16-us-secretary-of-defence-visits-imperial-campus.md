@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
+# Attributes from Felix Online V1
 id: "5655"
 old_path: /news/5655/us-secretary-of-defence-visits-imperial-campus
 aliases:
  - /news/5655/us-secretary-of-defence-visits-imperial-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161521-ygr12-icimages.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London / Layton Thompson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The latest Pegg and Frost genre-hopping tribute lacks originality
 date: "2011-02-27 19:05:58 +0000"
+# Attributes from Felix Online V1
 id: "907"
 old_path: /film/907/a-sci-fi-brom-com
 aliases:
  - /film/907/a-sci-fi-brom-com
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271904-ks607-paulpaul.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

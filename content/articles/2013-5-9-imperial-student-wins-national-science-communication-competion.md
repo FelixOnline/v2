@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Next stop The X Factor?
 date: "2013-05-09 12:01:17 +0100"
+# Attributes from Felix Online V1
 id: "3557"
 old_path: /news/3557/imperial-student-wins-national-science-communication-competion
 aliases:
  - /news/3557/imperial-student-wins-national-science-communication-competion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305091300-tna08-leon_vanstone_famelabwinner2013.jpg"
 image_caption: >
   Also winner of “fastest phone spinner in the UK”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

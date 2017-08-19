@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reviews of the latest films that the action men of Hollywood have made
 date: "2013-06-21 00:27:57 +0100"
+# Attributes from Felix Online V1
 id: "3733"
 old_path: /film/3733/the-expendable-boys-go-solo
 aliases:
  - /film/3733/the-expendable-boys-go-solo
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

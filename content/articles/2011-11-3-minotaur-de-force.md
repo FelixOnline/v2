@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Old Vic Tunnels makes for a modern day take of the mythical labyrinth – complete with bistro
 date: "2011-11-03 22:04:25 +0000"
+# Attributes from Felix Online V1
 id: "1698"
 old_path: /arts/1698/minotaur-de-force
 aliases:
  - /arts/1698/minotaur-de-force
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032204-felix-mino3.jpg"
 image_caption: >
   Few people know he was actually half-man-half-bull-half-butcher
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

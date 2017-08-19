@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on the Human Connectome Project
 date: "2013-02-28 17:55:51 +0000"
+# Attributes from Felix Online V1
 id: "3382"
 old_path: /science/3382/bow-down-to-the-brainiacs
 aliases:
  - /science/3382/bow-down-to-the-brainiacs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302281752-txl11-connectome2.jpg"
 image_caption: >
   One of the images already produced of connections in the brain
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

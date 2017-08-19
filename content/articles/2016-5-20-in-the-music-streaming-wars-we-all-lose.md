@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fuck TIDAL
 date: "2016-05-20 09:14:57 +0100"
+# Attributes from Felix Online V1
 id: "6187"
 old_path: /music/6187/in-the-music-streaming-wars-we-all-lose
 aliases:
  - /music/6187/in-the-music-streaming-wars-we-all-lose
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
 image_caption: >
   So much choice (thanks capitalism).
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

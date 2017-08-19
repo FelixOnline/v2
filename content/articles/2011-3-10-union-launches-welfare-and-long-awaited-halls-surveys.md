@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Halls survey asks whether Ethos should remain free or not
 date: "2011-03-10 19:45:28 +0000"
+# Attributes from Felix Online V1
 id: "1056"
 old_path: /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
 aliases:
  - /news/1056/union-launches-welfare-and-long-awaited-halls-surveys
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

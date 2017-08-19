@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Politics Editor Kartikeya Rana takes an in depth look at the effectiveness of representation in world governments.
 date: "2013-09-11 00:47:14 +0100"
+# Attributes from Felix Online V1
 id: "3758"
 old_path: /comment/3758/democracy-and-the-lack-of-representation
 aliases:
  - /comment/3758/democracy-and-the-lack-of-representation
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309110142-jal08-dangerous-democracy-1.png"
 image_caption: >
   Is democracy just a pretty illusion?
@@ -22,6 +27,7 @@ image_attribution: "www.illuminati-news.com"
 image_attribution_link: "http://www.illuminati-news.com"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

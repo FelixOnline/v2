@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The lessons of the past have been learned
 date: "2011-03-17 21:26:00 +0000"
+# Attributes from Felix Online V1
 id: "1101"
 old_path: /politics/1101/is-this-the-end-of-nuclear-power
 aliases:
  - /politics/1101/is-this-the-end-of-nuclear-power
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172123-ks607-nucleare.jpg"
 image_caption: >
   An explosion at one of the reactors at Fukushima nuclear power plant
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

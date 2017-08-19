@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter reports on the band keeping Bob Marley’s legacy alive
 date: "2013-10-04 02:05:03 +0100"
+# Attributes from Felix Online V1
 id: "3809"
 old_path: /music/3809/a-punky-reggae-party
 aliases:
  - /music/3809/a-punky-reggae-party
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040304-jal08-mus-wailers.jpg"
 image_caption: >
   The Wailers, including original member Aston Barrett (front).
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

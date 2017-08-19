@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang walks through her AW13/14 fashion highlights
 date: "2013-03-15 01:51:35 +0000"
+# Attributes from Felix Online V1
 id: "3480"
 old_path: /fashion/3480/autumn-week-1314-highlights
 aliases:
  - /fashion/3480/autumn-week-1314-highlights
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150300-tna08-dolce.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

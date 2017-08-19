@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michele Tonutti explores the Large Hadron Collider’s main experiment
 date: "2012-02-23 20:54:06 +0000"
+# Attributes from Felix Online V1
 id: "2246"
 old_path: /science/2246/exploring-the-god-particle
 aliases:
  - /science/2246/exploring-the-god-particle
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232053-cac111-cms.jpg"
 image_caption: >
   Are we on a collision course with the Higgs boson?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Almost an Earth's worth of gas lost each year
 date: "2012-02-09 22:29:28 +0000"
+# Attributes from Felix Online V1
 id: "2150"
 old_path: /science/2150/north-star-is-shrinking
 aliases:
  - /science/2150/north-star-is-shrinking
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092226-pk1811-annapurnastartrails_hao.jpg"
 image_caption: >
   All other stars appear to rotate around the North star as the Earth spins
@@ -22,6 +27,7 @@ image_attribution: "Wang Jinglei and Jia Hao, NASA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

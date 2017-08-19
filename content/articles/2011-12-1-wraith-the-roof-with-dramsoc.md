@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A play with more than the average number of sofa-wetting whale references
 date: "2011-12-01 20:34:03 +0000"
+# Attributes from Felix Online V1
 id: "1872"
 old_path: /arts/1872/wraith-the-roof-with-dramsoc
 aliases:
  - /arts/1872/wraith-the-roof-with-dramsoc
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012033-ams111-_dsc1515.jpg"
 image_caption: >
   James took it into his own hands to complain about caption quality
@@ -22,6 +27,7 @@ image_attribution: "Alexander Yip"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

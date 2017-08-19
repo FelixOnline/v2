@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial hits back
 date: "2017-05-12 16:23:58 +0100"
+# Attributes from Felix Online V1
 id: "6937"
 old_path: /news/6937/homeless-period-hits-imperial
 aliases:
  - /news/6937/homeless-period-hits-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121823-felix-17039277_1275990769149131_8994981921398345635_o.jpg"
 image_caption: >
   The Homeless Period Imperial week
@@ -22,6 +27,7 @@ image_attribution: "Manuel Martinv"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

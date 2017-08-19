@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Local bosses publicly back plans to bring new rail link to the King’s Road
 date: "2016-01-29 08:44:56 +0000"
+# Attributes from Felix Online V1
 id: "5834"
 old_path: /news/5834/is-crossrail-2-coming-to-kensington
 aliases:
  - /news/5834/is-crossrail-2-coming-to-kensington
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

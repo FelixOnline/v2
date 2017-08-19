@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
+# Attributes from Felix Online V1
 id: "4919"
 old_path: /music/4919/band-aid-30-fastest-selling-single-of-2014
 aliases:
  - /music/4919/band-aid-30-fastest-selling-single-of-2014
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202143-cj914-bandaid.jpg"
 image_caption: >
   Jessie Ware acts as a buffer between old flames Ed and Ellie. Awkward. L-R: (back row) Kyle and Will
@@ -22,6 +27,7 @@ image_attribution: "Band Aid Trust / Brian Anis / Camera Press"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

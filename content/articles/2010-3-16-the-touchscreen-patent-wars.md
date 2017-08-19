@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at the broken world of international patent law as Apple and HTC fight over Google&8217;s Android operating system and it&8217;s use of a touch screen interface
 date: "2010-03-16 15:10:46 +0000"
+# Attributes from Felix Online V1
 id: "122"
 old_path: /tech/122/the-touchscreen-patent-wars
 aliases:
  - /tech/122/the-touchscreen-patent-wars
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003161507-srg03-AppleVs..jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

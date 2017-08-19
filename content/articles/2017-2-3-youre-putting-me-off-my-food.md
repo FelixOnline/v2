@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey explains why fat people are not afforded the privilege of 'normal' eating habits
 date: "2017-02-03 15:46:34 +0000"
+# Attributes from Felix Online V1
 id: "6711"
 old_path: /comment/6711/youre-putting-me-off-my-food
 aliases:
  - /comment/6711/youre-putting-me-off-my-food
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.02.47.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

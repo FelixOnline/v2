@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Does Graduation with a lower second class degree consign you to a life of un employment? Is a 2:2 from Imperial worth just as much as a 2:1 from other insutitutions? Dan Wan Investigates
 date: "2010-02-27 17:46:55 +0000"
+# Attributes from Felix Online V1
 id: "115"
 old_path: /news/115/worth-the-effort
 aliases:
  - /news/115/worth-the-effort
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

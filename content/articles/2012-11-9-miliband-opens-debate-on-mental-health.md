@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Miliband says we should talk more about mental health issues
 date: "2012-11-09 12:30:07 +0000"
+# Attributes from Felix Online V1
 id: "2847"
 old_path: /politics/2847/miliband-opens-debate-on-mental-health
 aliases:
  - /politics/2847/miliband-opens-debate-on-mental-health
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

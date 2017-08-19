@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whether you’re in a committed relationship or having a one night stand, you shouldn’t be too afraid to ask for what you want
 date: "2013-05-01 17:59:10 +0100"
+# Attributes from Felix Online V1
 id: "3517"
 old_path: /comment/3517/sex-a-direct-approach
 aliases:
  - /comment/3517/sex-a-direct-approach
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305011900-tna08-russellbrand.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

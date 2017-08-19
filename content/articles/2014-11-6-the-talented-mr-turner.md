@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park's Ramblings about Mr Turner
 date: "2014-11-06 19:22:26 +0000"
+# Attributes from Felix Online V1
 id: "4777"
 old_path: /film/4777/the-talented-mr-turner
 aliases:
  - /film/4777/the-talented-mr-turner
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061923-snb11-mr-turner-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

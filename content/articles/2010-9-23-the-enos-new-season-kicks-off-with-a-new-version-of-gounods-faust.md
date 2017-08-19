@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caz Knight is lured by the legendary Faust to the opera for the first time but is disappointed.
 date: "2010-09-23 10:31:31 +0100"
+# Attributes from Felix Online V1
 id: "159"
 old_path: /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
 aliases:
  - /arts/159/the-enos-new-season-kicks-off-with-a-new-version-of-gounods-faust
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

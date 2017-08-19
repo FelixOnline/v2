@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An adaptation of the Erdman classic amuses and underwhelms in equal measure
 date: "2016-05-06 10:16:04 +0100"
+# Attributes from Felix Online V1
 id: "6134"
 old_path: /arts/6134/the-suicide-
 aliases:
  - /arts/6134/the-suicide-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061115-felix-8_thesuicidecompany_photobyjohanpersson.jpg"
 image_caption: >
   The cast of The Suicide all fighting for Sam’s attention.
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

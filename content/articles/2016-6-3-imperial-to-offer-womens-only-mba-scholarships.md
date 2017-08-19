@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Female students could get £25,000 off their fees
 date: "2016-06-03 08:36:42 +0100"
+# Attributes from Felix Online V1
 id: "6225"
 old_path: /news/6225/imperial-to-offer-womens-only-mba-scholarships
 aliases:
  - /news/6225/imperial-to-offer-womens-only-mba-scholarships
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031036-felix-bidnez.jpg"
 image_caption: >
   What does go on in that tube?
@@ -22,6 +27,7 @@ image_attribution: " Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The British Museum is one of London’s top attractions – a stiff-upper-lip monument to theft
 date: "2010-10-21 18:57:14 +0100"
+# Attributes from Felix Online V1
 id: "228"
 old_path: /comment/228/in-praise-of-cultural-theft-
 aliases:
  - /comment/228/in-praise-of-cultural-theft-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104201257-felix-3.-great-court.jpg"
 image_caption: >
   A monument to cultural theft, hurrah!
@@ -22,6 +27,7 @@ image_attribution: "British Museum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

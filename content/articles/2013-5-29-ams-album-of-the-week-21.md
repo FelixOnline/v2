@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deafheaven - Sunbather
 date: "2013-05-29 12:40:33 +0100"
+# Attributes from Felix Online V1
 id: "3629"
 old_path: /music/3629/ams-album-of-the-week-21
 aliases:
  - /music/3629/ams-album-of-the-week-21
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291340-tna08-deafheaven-sunbather-620x620.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
+# Attributes from Felix Online V1
 id: "6015"
 old_path: /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
 aliases:
  - /news/6015/presidential-candidates-boycott-radio-debate-after-aggressive-emails-and-extreme-dissatisfaction
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603091910-felix-20160309_190618.jpg"
 image_caption: >
   Drama in the West Basement of Beit.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

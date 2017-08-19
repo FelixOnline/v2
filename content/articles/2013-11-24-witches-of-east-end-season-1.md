@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Remember how awful it is when an American actor tries to unsuccessfully imitate an English accent? Well here is the perfect example of where the opposite has gone completely wrong.
 date: "2013-11-24 16:31:36 +0000"
+# Attributes from Felix Online V1
 id: "4125"
 old_path: /tv/4125/witches-of-east-end-season-1
 aliases:
  - /tv/4125/witches-of-east-end-season-1
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

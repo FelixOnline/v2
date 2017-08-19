@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Richard Herring is one of the best British comedians. Fact. He is a comedian of the people, and I hate myself a bit for writing that. He performs for the love of it, always donating proceeds to Scope and putting the rest of the money into more projects.
 date: "2014-06-02 13:07:11 +0100"
+# Attributes from Felix Online V1
 id: "4647"
 old_path: /film/4647/richard-herring-imagine-youre-dead
 aliases:
  - /film/4647/richard-herring-imagine-youre-dead
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406021407-felix-r-herring_1318271c.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

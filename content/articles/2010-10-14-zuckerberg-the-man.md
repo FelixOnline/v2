@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An examination of the man who created Facebook
 date: "2010-10-14 19:48:30 +0100"
+# Attributes from Felix Online V1
 id: "213"
 old_path: /tech/213/zuckerberg-the-man
 aliases:
  - /tech/213/zuckerberg-the-man
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104192031-felix-keynote_sxsw_099_zuck_optim.jpeg"
 image_caption: >
   The youngest self-made billionaire ever, Mark Zuckerberg still lives in a rented house
@@ -22,6 +27,7 @@ image_attribution: "Jim Merithew/Wired.com"
 image_attribution_link: "http://www.wired.com/epicenter/2010/05/zuckerberg-speaks/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

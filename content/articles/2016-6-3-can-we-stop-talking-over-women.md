@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
+# Attributes from Felix Online V1
 id: "6231"
 old_path: /comment/6231/can-we-stop-talking-over-women
 aliases:
  - /comment/6231/can-we-stop-talking-over-women
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031103-felix-Brooklyn-Nine-Nine-Pilot-Pictures.jpg"
 image_caption: >
   Terry Crews doesn't have time for your hypermasculinity bullcrap.
@@ -22,6 +27,7 @@ image_attribution: "NBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

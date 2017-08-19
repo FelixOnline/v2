@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Walking Dead marched straight into Jonna Nybäck’s heart
 date: "2012-11-29 22:57:55 +0000"
+# Attributes from Felix Online V1
 id: "2995"
 old_path: /tv/2995/zombie-apocalypse-now
 aliases:
  - /tv/2995/zombie-apocalypse-now
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292257-csw09-the-walking-dead-cast-photo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

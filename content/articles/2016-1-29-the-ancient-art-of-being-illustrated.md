@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
+# Attributes from Felix Online V1
 id: "5852"
 old_path: /arts/5852/the-ancient-art-of-being-illustrated-
 aliases:
  - /arts/5852/the-ancient-art-of-being-illustrated-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290938-felix-Maud_Stevens_Wagner.jpg"
 image_caption: >
   Maud Wagner, the first known female tattooist in the US 1911.
@@ -22,6 +27,7 @@ image_attribution: "Margot Mifflin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This Sunday, Adonis Georgiadis will be the main guest in the final event of the “Greek Presidency in London” initiative held at Imperial, and will serve as representative of the Greek government.
 date: "2014-04-07 13:03:08 +0100"
+# Attributes from Felix Online V1
 id: "4530"
 old_path: /comment/4530/adonis-georgiadis-comes-to-imperial-great
 aliases:
  - /comment/4530/adonis-georgiadis-comes-to-imperial-great
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

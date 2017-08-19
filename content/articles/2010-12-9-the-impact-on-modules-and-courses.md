@@ -4,15 +4,20 @@ title: >
 subtitle: >
   cuts to staff will not affect teaching
 date: "2010-12-09 21:27:40 +0000"
+# Attributes from Felix Online V1
 id: "534"
 old_path: /news/534/the-impact-on-modules-and-courses-
 aliases:
  - /news/534/the-impact-on-modules-and-courses-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "dr910"
 author_name: "Dakshaa Rai"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

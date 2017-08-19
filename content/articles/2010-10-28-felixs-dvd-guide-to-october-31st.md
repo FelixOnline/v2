@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Review by Matt Allinson, Oliver Calderbank, Chris Richardson and Jonathan Messing
 date: "2010-10-28 19:44:08 +0100"
+# Attributes from Felix Online V1
 id: "273"
 old_path: /film/273/felixs-dvd-guide-to-october-31st
 aliases:
  - /film/273/felixs-dvd-guide-to-october-31st
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And the winner is... Cypriot Society!
 date: "2011-02-19 15:55:07 +0000"
+# Attributes from Felix Online V1
 id: "857"
 old_path: /arts/857/international-night
 aliases:
  - /arts/857/international-night
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

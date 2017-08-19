@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Controversy over drop from 10th to 13th in latest Guardian tables
 date: "2012-05-24 22:44:38 +0100"
+# Attributes from Felix Online V1
 id: "2482"
 old_path: /news/2482/imperial-falls-in-university-ranking
 aliases:
  - /news/2482/imperial-falls-in-university-ranking
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205242344-mc4509-jpdpe.jpg"
 image_caption: >
   The ‘value added’ score in the rankings have been criticised by Jason Parmar
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

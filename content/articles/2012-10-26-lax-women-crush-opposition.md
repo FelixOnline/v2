@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LAX is an acronym, it doesn't mean that they aren't thorough. Imogen Simmonds and Gen Pugh report.
 date: "2012-10-26 03:02:37 +0100"
+# Attributes from Felix Online V1
 id: "2763"
 old_path: /sport/2763/lax-women-crush-opposition
 aliases:
  - /sport/2763/lax-women-crush-opposition
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

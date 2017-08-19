@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christy Kelly on the Monarchy
 date: "2013-11-01 10:46:31 +0000"
+# Attributes from Felix Online V1
 id: "3978"
 old_path: /comment/3978/royalties-from-the-royalty
 aliases:
  - /comment/3978/royalties-from-the-royalty
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311011047-felix-roay.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

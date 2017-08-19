@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
+# Attributes from Felix Online V1
 id: "5613"
 old_path: /news/5613/students-given-chance-to-name-new-bar
 aliases:
  - /news/5613/students-given-chance-to-name-new-bar
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112316-cj914-ri_victoria_rd_bar_c01a.jpg"
 image_caption: >
   An artist’s impression of the new bar, and you have a chance to help decide its name.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

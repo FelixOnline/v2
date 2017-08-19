@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grand Theft Auto online finally enables you to play Grand Theft Auto how you want.
 date: "2014-02-12 11:34:54 +0000"
+# Attributes from Felix Online V1
 id: "4368"
 old_path: /games/4368/gta-online-adventure-1
 aliases:
  - /games/4368/gta-online-adventure-1
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201402121136-me1711-games_gta.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

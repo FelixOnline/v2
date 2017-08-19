@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Riach summarises a talk in the Royal Society’s series ‘Science Matters’ on the direction of where artificial intelligence is heading, and why there’s no need to be scared of it taking over the world...yet.
 date: "2017-01-13 14:13:04 +0000"
+# Attributes from Felix Online V1
 id: "6640"
 old_path: /science/6640/artificial-intelligence--fears-and-future
 aliases:
  - /science/6640/artificial-intelligence--fears-and-future
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131413-felix-display-dummy-915135_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

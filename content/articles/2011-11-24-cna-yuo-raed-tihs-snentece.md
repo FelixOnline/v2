@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thier sceince mya suprirse yuo!
 date: "2011-11-24 21:04:17 +0000"
+# Attributes from Felix Online V1
 id: "1813"
 old_path: /science/1813/cna-yuo-raed-tihs-snentece
 aliases:
  - /science/1813/cna-yuo-raed-tihs-snentece
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

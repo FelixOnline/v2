@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Fernando takes a trip to the new hall’s location to investigate
 date: "2013-05-16 18:55:19 +0100"
+# Attributes from Felix Online V1
 id: "3587"
 old_path: /comment/3587/north-acton-how-bad-is-it-really
 aliases:
  - /comment/3587/north-acton-how-bad-is-it-really
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305171131-tna08-actonfinalpicture.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

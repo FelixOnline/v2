@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles finds that The Broken Heart fails to impress
 date: "2015-03-25 13:54:32 +0000"
+# Attributes from Felix Online V1
 id: "5456"
 old_path: /arts/5456/be-still-my-beating-heart
 aliases:
  - /arts/5456/be-still-my-beating-heart
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251350-ff712-the-broken-heart-007_captioneda.jpg"
 image_caption: >
   Tom Stuart as Prophilus and Amy Morgan as Penthea in Caoline Steinbeis' production of The Broken Heart in the Sam Wanamaker Playhouse
@@ -22,6 +27,7 @@ image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

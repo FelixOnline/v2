@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Disaster on a smaller scale spells a recipe for success
 date: "2013-01-24 22:55:50 +0000"
+# Attributes from Felix Online V1
 id: "3168"
 old_path: /books/3168/in-the-kingdom-of-the-blind
 aliases:
  - /books/3168/in-the-kingdom-of-the-blind
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242254-mc4509-100_4875.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

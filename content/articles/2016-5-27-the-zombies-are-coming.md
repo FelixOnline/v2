@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Time to Fear the Walking Dead
 date: "2016-05-27 09:03:09 +0100"
+# Attributes from Felix Online V1
 id: "6218"
 old_path: /tv/6218/the-zombies-are-coming
 aliases:
  - /tv/6218/the-zombies-are-coming
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271102-felix-Fear-the-Walking-Dead-calvin-1940x1293.jpg"
 image_caption: >
   Oh hey, an Imperial student after finishing their exam.
@@ -22,6 +27,7 @@ image_attribution: "AMC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

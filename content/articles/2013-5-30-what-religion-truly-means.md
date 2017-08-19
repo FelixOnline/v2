@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nida Mahmud hopes two tragic incidents can bring about peace
 date: "2013-05-30 14:44:56 +0100"
+# Attributes from Felix Online V1
 id: "3647"
 old_path: /comment/3647/what-religion-truly-means
 aliases:
  - /comment/3647/what-religion-truly-means
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

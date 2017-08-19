@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matthew Colvin is not convinced by the latest Hollywood invention
 date: "2012-02-09 23:11:02 +0000"
+# Attributes from Felix Online V1
 id: "2171"
 old_path: /film/2171/are-3d-films-worth-it
 aliases:
  - /film/2171/are-3d-films-worth-it
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092310-ams111-star-wars-poster.jpg"
 image_caption: >
   Even the great Yoda cannot escape this 3D craze – his force clearly wasn’t strong enough
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

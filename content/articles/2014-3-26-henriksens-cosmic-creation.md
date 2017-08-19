@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi reviews Nordic trumpetist Arve Henriksen’s latest effort
 date: "2014-03-26 16:49:55 +0000"
+# Attributes from Felix Online V1
 id: "4512"
 old_path: /music/4512/henriksens-cosmic-creation
 aliases:
  - /music/4512/henriksens-cosmic-creation
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403261651-jal08-arve-henriksen_2009.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

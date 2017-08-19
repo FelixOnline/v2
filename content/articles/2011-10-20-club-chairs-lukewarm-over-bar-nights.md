@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
+# Attributes from Felix Online V1
 id: "1555"
 old_path: /news/1555/club-chairs-lukewarm-over-bar-nights
 aliases:
  - /news/1555/club-chairs-lukewarm-over-bar-nights
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
 image_caption: >
   Some club chairs want to call time on the new regulations
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

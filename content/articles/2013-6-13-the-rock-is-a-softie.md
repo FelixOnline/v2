@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Snitch review
 date: "2013-06-13 23:35:52 +0100"
+# Attributes from Felix Online V1
 id: "3695"
 old_path: /film/3695/the-rock-is-a-softie
 aliases:
  - /film/3695/the-rock-is-a-softie
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140035-tna08-snitch-2013-wallpapers.jpg"
 image_caption: >
   What does that title say? Say that to my face
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

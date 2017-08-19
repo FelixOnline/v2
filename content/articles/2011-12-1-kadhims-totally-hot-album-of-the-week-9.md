@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Youth Lagoon – The Year of Hibernation – 2011
 date: "2011-12-01 21:04:34 +0000"
+# Attributes from Felix Online V1
 id: "1880"
 old_path: /music/1880/kadhims-totally-hot-album-of-the-week-9
 aliases:
  - /music/1880/kadhims-totally-hot-album-of-the-week-9
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012104-pk1811-fse29d.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

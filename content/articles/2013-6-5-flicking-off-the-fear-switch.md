@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Some people are afraid of nothing. They should try a thermodynamics exam. That would scare them.
 date: "2013-06-05 16:10:57 +0100"
+# Attributes from Felix Online V1
 id: "3655"
 old_path: /science/3655/flicking-off-the-fear-switch
 aliases:
  - /science/3655/flicking-off-the-fear-switch
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051709-tna08-steve_irwin.jpg"
 image_caption: >
   Steve Irwin didn’t have Urbach-Wiethe disease. Dude just had balls of steel
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

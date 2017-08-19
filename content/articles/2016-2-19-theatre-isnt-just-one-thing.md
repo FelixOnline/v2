@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX asks Gate Theatre’s new director Ben Kidd about directing and his latest work
 date: "2016-02-19 12:15:30 +0000"
+# Attributes from Felix Online V1
 id: "5940"
 old_path: /arts/5940/theatre-isnt-just-one-thing
 aliases:
  - /arts/5940/theatre-isnt-just-one-thing
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191214-felix-benkidd.jpg"
 image_caption: >
   Ben Kidd, the new kid on The Gate’s block.
@@ -22,6 +27,7 @@ image_attribution: " The Gate Theatre"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

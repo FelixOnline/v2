@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
+# Attributes from Felix Online V1
 id: "5239"
 old_path: /news/5239/imperial-bungee-jumps-into-rag-week
 aliases:
  - /news/5239/imperial-bungee-jumps-into-rag-week
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122150-jyg11-10407267_942051062474599_3107642702453607423_n.jpg"
 image_caption: >
   RAG Chair Ben Fernando shaking a collection tin for the campus-wide charity week
@@ -22,6 +27,7 @@ image_attribution: "Ben Fernando"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

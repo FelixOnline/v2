@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Writing it on paper can act as a stepping stone
 date: "2015-11-20 09:43:41 +0000"
+# Attributes from Felix Online V1
 id: "5763"
 old_path: /welfare/5763/writing-as-a-release
 aliases:
  - /welfare/5763/writing-as-a-release
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200943-ygr12-5.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "unsplash.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

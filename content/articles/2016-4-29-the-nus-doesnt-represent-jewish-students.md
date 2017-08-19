@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Malia Bouattia needs to accept that some will disagree with her
 date: "2016-04-29 10:19:01 +0100"
+# Attributes from Felix Online V1
 id: "6095"
 old_path: /comment/6095/the-nus-doesnt-represent-jewish-students
 aliases:
  - /comment/6095/the-nus-doesnt-represent-jewish-students
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291118-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

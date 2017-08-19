@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are there any greater joys of a modern existence than the Reduced Price section of a supermarket?
 date: "2011-01-13 21:09:28 +0000"
+# Attributes from Felix Online V1
 id: "588"
 old_path: /comment/588/cut-price-foods-make-me-happy
 aliases:
  - /comment/588/cut-price-foods-make-me-happy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132107-ks607-omaromar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

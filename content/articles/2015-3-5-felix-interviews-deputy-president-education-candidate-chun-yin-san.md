@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:50:10 +0000"
+# Attributes from Felix Online V1
 id: "5348"
 old_path: /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
 aliases:
  - /comment/5348/felix-interviews-deputy-president-education-candidate-chun-yin-san
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091541-ps3110-screen-shot-2015-03-09-at-15.31.54.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Ellis’ reflections on an ultramarathon
 date: "2013-11-01 10:42:20 +0000"
+# Attributes from Felix Online V1
 id: "3977"
 old_path: /comment/3977/an-80km-jaunt-in-wales
 aliases:
  - /comment/3977/an-80km-jaunt-in-wales
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

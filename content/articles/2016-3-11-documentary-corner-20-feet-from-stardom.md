@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-11 11:53:38 +0000"
+# Attributes from Felix Online V1
 id: "6037"
 old_path: /film/6037/documentary-corner-20-feet-from-stardom
 aliases:
  - /film/6037/documentary-corner-20-feet-from-stardom
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111152-felix-darlene-love-in-20-feet-from-stardom-courtesy-of-radius-twc1.jpg"
 image_caption: >
   Darlene Love, one of the behind-the-scenes stars in 20 Feet From Stardom.
@@ -22,6 +27,7 @@ image_attribution: "RADiUSTWC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

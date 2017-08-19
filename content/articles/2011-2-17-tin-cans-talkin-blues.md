@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s badass Blues barons Tin Can 44s give us some straight jive talk, promising to push your tushie into full swing at 19.02
 date: "2011-02-17 20:09:37 +0000"
+# Attributes from Felix Online V1
 id: "834"
 old_path: /music/834/tin-cans-talkin-blues
 aliases:
  - /music/834/tin-cans-talkin-blues
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172003-dr910-gregpowe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jennifer Caroline Ellis"
 image_attribution_link: "http://www.jenncellis.com/2010/03/tin-can-44s-blues.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

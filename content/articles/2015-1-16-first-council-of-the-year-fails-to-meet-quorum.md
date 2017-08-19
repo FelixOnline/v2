@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Members to vote on papers via email instead
 date: "2015-01-16 13:02:05 +0000"
+# Attributes from Felix Online V1
 id: "5093"
 old_path: /news/5093/first-council-of-the-year-fails-to-meet-quorum
 aliases:
  - /news/5093/first-council-of-the-year-fails-to-meet-quorum
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161302-ps3110-dining-hall-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

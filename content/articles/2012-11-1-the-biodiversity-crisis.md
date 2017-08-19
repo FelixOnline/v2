@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett talks about why we need to act, fast
 date: "2012-11-01 22:41:54 +0000"
+# Attributes from Felix Online V1
 id: "2789"
 old_path: /science/2789/the-biodiversity-crisis
 aliases:
  - /science/2789/the-biodiversity-crisis
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012243-tna08-onezoon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "http://www.onezoom.org/"
 image_attribution_link: "http://www.onezoom.org/"
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

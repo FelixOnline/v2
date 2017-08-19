@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gongs abound this year
 date: "2013-06-13 23:06:22 +0100"
+# Attributes from Felix Online V1
 id: "3688"
 old_path: /news/3688/union-awards-announced-2013
 aliases:
  - /news/3688/union-awards-announced-2013
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140006-tna08-stephen-richardson.jpg"
 image_caption: >
   Stephen Richardson, Deputy Rector of Imperial College London
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

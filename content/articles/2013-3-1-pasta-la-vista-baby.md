@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Elizabeth Crow on jazzing up Mondays and THE de-facto student dish
 date: "2013-03-01 00:03:13 +0000"
+# Attributes from Felix Online V1
 id: "3398"
 old_path: /food/3398/pasta-la-vista-baby
 aliases:
  - /food/3398/pasta-la-vista-baby
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010003-tna08-2011-05-16-spaghetti.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "http://i-cdn.apartmenttherapy.com/uimages/kitchen/2011-05-16
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

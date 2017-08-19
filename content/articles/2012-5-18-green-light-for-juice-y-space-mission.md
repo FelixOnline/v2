@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Billion euro mission to Jupiter to launch in 2022
 date: "2012-05-18 11:20:08 +0100"
+# Attributes from Felix Online V1
 id: "2470"
 old_path: /science/2470/green-light-for-juice-y-space-mission
 aliases:
  - /science/2470/green-light-for-juice-y-space-mission
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181219-felix-20060729061958!europa-moon.jpg"
 image_caption: >
   JUICE will visit Europa (pictured) along with Ganymede and Calisto
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

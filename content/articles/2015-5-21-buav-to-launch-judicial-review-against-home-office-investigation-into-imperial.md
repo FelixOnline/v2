@@ -4,15 +4,20 @@ title: >
 subtitle: >
   BUAV also claims Imperial is “misleading the public” over post operative care. Philippa Skett reports
 date: "2015-05-21 23:02:32 +0100"
+# Attributes from Felix Online V1
 id: "5554"
 old_path: /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
 aliases:
  - /news/5554/buav-to-launch-judicial-review-against-home-office-investigation-into-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505220007-kmw13-white-mouse-in-lab-009.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Almea"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

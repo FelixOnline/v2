@@ -4,15 +4,20 @@ title: >
 subtitle: >
   People Like Us. Well, nobody should like this.
 date: "2012-11-15 21:52:55 +0000"
+# Attributes from Felix Online V1
 id: "2905"
 old_path: /film/2905/hes-just-not-that-into-hernor-should-he-be
 aliases:
  - /film/2905/hes-just-not-that-into-hernor-should-he-be
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152152-tna08-people-like-us-3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

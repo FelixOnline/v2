@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Friday sees the opening of the new h-bar for postgraduates and staff
 date: "2013-11-08 03:37:28 +0000"
+# Attributes from Felix Online V1
 id: "4019"
 old_path: /news/4019/new-postgraduate--opens
 aliases:
  - /news/4019/new-postgraduate--opens
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311080908-felix-screen-shot-2013-11-08-at-09.06.51.png"
 image_caption: >
   Student bar staff member pouring a pint of cider
@@ -22,6 +27,7 @@ image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

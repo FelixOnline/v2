@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
+# Attributes from Felix Online V1
 id: "1273"
 old_path: /tv/1273/a-never-ending-story
 aliases:
  - /tv/1273/a-never-ending-story
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ma1307"
 author_name: "Matthew Allinson"
 author_image_path: "img/upload/201411062055-snb11-allinson.png"

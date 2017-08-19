@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey on the global conspiracy to keep her away from Prince Harry
 date: "2013-10-18 21:39:49 +0100"
+# Attributes from Felix Online V1
 id: "3894"
 old_path: /comment/3894/my-royal-conspiracy
 aliases:
  - /comment/3894/my-royal-conspiracy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182239-jal08-harry.jpg"
 image_caption: >
   Tessa's dashing Prince in green combats
@@ -22,6 +27,7 @@ image_attribution: "The Telegraph"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

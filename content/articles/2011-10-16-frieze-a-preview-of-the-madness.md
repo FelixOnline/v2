@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is a whole lot of STUFF worth seeing at the Art Fair. Not all of it is Art
 date: "2011-10-16 14:31:56 +0100"
+# Attributes from Felix Online V1
 id: "1547"
 old_path: /arts/1547/frieze-a-preview-of-the-madness
 aliases:
  - /arts/1547/frieze-a-preview-of-the-madness
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110161531-felix-friezey.jpg"
 image_caption: >
   “Who runs this mother?” I think yacht-buying millionaires might...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

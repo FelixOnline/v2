@@ -4,15 +4,20 @@ title: >
 subtitle: >
   'Social justice warriors' would do well to listen to their own sermon of tolerance
 date: "2016-05-27 08:46:04 +0100"
+# Attributes from Felix Online V1
 id: "6202"
 old_path: /comment/6202/here-is-my-messagetofeminists
 aliases:
  - /comment/6202/here-is-my-messagetofeminists
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271045-felix-isthisaheadshot.jpg"
 image_caption: >
   A conservative, a feminist and a comedian walk into a bar – and talk about political correctness.
@@ -22,6 +27,7 @@ image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

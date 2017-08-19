@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keir Little wishes a legendary game a very happy birthday
 date: "2011-11-17 20:50:13 +0000"
+# Attributes from Felix Online V1
 id: "1765"
 old_path: /games/1765/a-ode-to-the-beauty-of-minecraft
 aliases:
  - /games/1765/a-ode-to-the-beauty-of-minecraft
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172049-pk1811-5897451.jpg"
 image_caption: >
   Rolling hills and sweeping valleys compose the pristine landscape
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

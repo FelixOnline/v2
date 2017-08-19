@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shirley MacLaine received the American Film Institute's prestigious Life Achievement Award
 date: "2012-06-07 19:48:35 +0100"
+# Attributes from Felix Online V1
 id: "2533"
 old_path: /film/2533/shut-up-and-deal-shirley-maclaines-afi-glory
 aliases:
  - /film/2533/shut-up-and-deal-shirley-maclaines-afi-glory
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072052-ams111-shirley-maclaine.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emilie Beauchamp introduces you to an evening of cutting edge video art
 date: "2012-10-18 20:57:50 +0100"
+# Attributes from Felix Online V1
 id: "2685"
 old_path: /arts/2685/flicks-on-bricks
 aliases:
  - /arts/2685/flicks-on-bricks
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

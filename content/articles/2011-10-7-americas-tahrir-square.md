@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The disgruntled left's great fight back
 date: "2011-10-07 10:02:03 +0100"
+# Attributes from Felix Online V1
 id: "1482"
 old_path: /politics/1482/americas-tahrir-square
 aliases:
  - /politics/1482/americas-tahrir-square
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071100-felix-occupy_wall_street.jpg"
 image_caption: >
   A group of New Yorkers angry at the lack of Starbucks on this block
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

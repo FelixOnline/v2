@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Smug skeptics and rationalists get on my tits. We’re not going to change public perceptions by feeling superior
 date: "2011-03-03 06:06:17 +0000"
+# Attributes from Felix Online V1
 id: "983"
 old_path: /comment/983/cynical-practice
 aliases:
  - /comment/983/cynical-practice
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

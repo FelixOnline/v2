@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A consultation meeting concerning the new Imperial hall of residence was held last Wednesday. The plans for the hall, currently called One Victoria Road and located in North Acton, some five miles away from the South Kensington Campus, were first announced early last year.
 date: "2014-06-06 02:36:32 +0100"
+# Attributes from Felix Online V1
 id: "4653"
 old_path: /news/4653/college-holds-north-acton-consultation-with-students
 aliases:
  - /news/4653/college-holds-north-acton-consultation-with-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406060336-jal08-newseventsimages.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

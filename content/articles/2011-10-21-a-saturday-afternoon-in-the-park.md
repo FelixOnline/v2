@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Frieze Art Fair 101: A novice’s impressions
 date: "2011-10-21 10:28:21 +0100"
+# Attributes from Felix Online V1
 id: "1590"
 old_path: /arts/1590/a-saturday-afternoon-in-the-park
 aliases:
  - /arts/1590/a-saturday-afternoon-in-the-park
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211126-felix-bluearts.png"
 image_caption: >
   Trouser presses and biros are not friends
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Server issues as rootkit investigation continues
 date: "2011-03-01 20:36:00 +0000"
+# Attributes from Felix Online V1
 id: "955"
 old_path: /news/955/further-disruption-for-computing-students
 aliases:
  - /news/955/further-disruption-for-computing-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012033-ks607-computin.jpg"
 image_caption: >
   There have been a string of ICT mishaps in past weeks
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

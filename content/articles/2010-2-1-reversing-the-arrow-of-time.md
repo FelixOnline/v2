@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Forgotten what happened last night? Now you know why
 date: "2010-02-01 16:49:40 +0000"
+# Attributes from Felix Online V1
 id: "61"
 old_path: /science/61/reversing-the-arrow-of-time
 aliases:
  - /science/61/reversing-the-arrow-of-time
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

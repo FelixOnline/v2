@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A glorious transformation from culinary newbie to master chef
 date: "2011-11-03 21:29:40 +0000"
+# Attributes from Felix Online V1
 id: "1687"
 old_path: /comment/1687/the-portrait-of-the-cook-as-a-young-man-
 aliases:
  - /comment/1687/the-portrait-of-the-cook-as-a-young-man-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

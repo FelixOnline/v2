@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Idea proposed of changing Sabbatical roles
 date: "2012-06-08 08:35:07 +0100"
+# Attributes from Felix Online V1
 id: "2542"
 old_path: /news/2542/low-turnout-for-general-meeting
 aliases:
  - /news/2542/low-turnout-for-general-meeting
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206080934-mc4509-news2.jpg"
 image_caption: >
   The meeting took the form of an informal discussion
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

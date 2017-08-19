@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSEDS launch their rockets
 date: "2013-05-09 11:56:34 +0100"
+# Attributes from Felix Online V1
 id: "3556"
 old_path: /news/3556/hab-you-seen-our-balloons
 aliases:
  - /news/3556/hab-you-seen-our-balloons
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305091255-tna08-icseds_2.jpg"
 image_caption: >
   All photos: ICSEDS
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

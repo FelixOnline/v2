@@ -4,15 +4,20 @@ title: >
 subtitle: >
   3D TV's back but what does it mean for you?
 date: "2010-06-16 18:30:14 +0100"
+# Attributes from Felix Online V1
 id: "145"
 old_path: /tech/145/3ds-back-baby-you-ready
 aliases:
  - /tech/145/3ds-back-baby-you-ready
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201006161924-srg03-3DHDTV.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

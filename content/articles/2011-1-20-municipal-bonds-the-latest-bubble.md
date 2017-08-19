@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lingxi Huang considers the credibility of the latest concerns being raised about municipal bonds in the US
 date: "2011-01-20 20:27:04 +0000"
+# Attributes from Felix Online V1
 id: "626"
 old_path: /biz/626/municipal-bonds-the-latest-bubble-
 aliases:
  - /biz/626/municipal-bonds-the-latest-bubble-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202025-ks607-californ.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh1009"
 author_name: "Lingxi Huang"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

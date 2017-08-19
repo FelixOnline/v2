@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Worthington places, pastes and paints to his heart’s content in EA’s Create
 date: "2011-02-04 16:59:35 +0000"
+# Attributes from Felix Online V1
 id: "756"
 old_path: /games/756/eas-creatively-challenged
 aliases:
  - /games/756/eas-creatively-challenged
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102041657-sjw209-Createti.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

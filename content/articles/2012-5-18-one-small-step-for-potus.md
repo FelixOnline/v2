@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Obama's evolution of thought on same-sex marriage
 date: "2012-05-18 11:23:37 +0100"
+# Attributes from Felix Online V1
 id: "2471"
 old_path: /politics/2471/one-small-step-for-potus
 aliases:
  - /politics/2471/one-small-step-for-potus
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181223-felix-271855-obama.jpg"
 image_caption: >
   Seriously, there’s a moth behind you! I’m just lookin’ out for you...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

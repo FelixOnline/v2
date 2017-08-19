@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England may seem a bit too content by that title, but it's about a band...
 date: "2012-11-09 14:03:08 +0000"
+# Attributes from Felix Online V1
 id: "2866"
 old_path: /music/2866/everything-is-good
 aliases:
  - /music/2866/everything-is-good
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091402-tna08-everything-everything-group_-straight-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

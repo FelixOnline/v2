@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhian Jones discusses the depiction of the male nude in Western art
 date: "2014-05-09 02:13:09 +0100"
+# Attributes from Felix Online V1
 id: "4577"
 old_path: /arts/4577/the-great-cover-up
 aliases:
  - /arts/4577/the-great-cover-up
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090313-jal08-arts-cezanne-g.jpg"
 image_caption: >
   Paul Cézanne, Baigneurs (Bathers), c. 1890
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

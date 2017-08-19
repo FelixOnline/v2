@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An awareness-raising film about wild mustangs, Unbranded is entertaining and generous
 date: "2015-12-06 13:59:43 +0000"
+# Attributes from Felix Online V1
 id: "5797"
 old_path: /film/5797/unbranded-charts-a-tale-of-survival-in-the-wilderness
 aliases:
  - /film/5797/unbranded-charts-a-tale-of-survival-in-the-wilderness
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061359-ff712-home-slider-slide-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Unbranded PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

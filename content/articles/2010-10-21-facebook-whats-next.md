@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s already revolutionised your social life, but where does Facebook go from here?
 date: "2010-10-21 18:56:21 +0100"
+# Attributes from Felix Online V1
 id: "227"
 old_path: /tech/227/facebook-whats-next
 aliases:
  - /tech/227/facebook-whats-next
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104201305-felix-facebook-login-1.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "azziet.blogspot.com"
 image_attribution_link: "http://azziet.blogspot.com/2011/04/facebook-sellingexposing-our-data-to.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

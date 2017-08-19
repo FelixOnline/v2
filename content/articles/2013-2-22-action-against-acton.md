@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The College’s plans for undergraduate accommodation in North Acton are ill-thought-out and must be opposed
 date: "2013-02-22 01:37:27 +0000"
+# Attributes from Felix Online V1
 id: "3363"
 old_path: /comment/3363/action-against-acton
 aliases:
  - /comment/3363/action-against-acton
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220138-tna08-stack-of-coins.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you're a fan of the letter D you're gonna love this article
 date: "2016-12-02 16:54:15 +0000"
+# Attributes from Felix Online V1
 id: "6556"
 old_path: /sport/6556/the-ultimate-fan-girls-account-of-womens-eastern-regionals
 aliases:
  - /sport/6556/the-ultimate-fan-girls-account-of-womens-eastern-regionals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021653-felix-Womens Regionals.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

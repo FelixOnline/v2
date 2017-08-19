@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Testing multiple authors
 date: "2011-03-07 22:46:26 +0000"
+# Attributes from Felix Online V1
 id: "1047"
 old_path: /arts/1047/testing-multiple-authors
 aliases:
  - /arts/1047/testing-multiple-authors
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103171804-jk708-iscience.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

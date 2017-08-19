@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This year's DPW discusses elation and frustration
 date: "2012-02-23 23:23:49 +0000"
+# Attributes from Felix Online V1
 id: "2265"
 old_path: /news/2265/sabbatical-interviews-2012-deputy-president-welfare--nicolas-massie
 aliases:
  - /news/2265/sabbatical-interviews-2012-deputy-president-welfare--nicolas-massie
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232322-felix-nicolasmassie.jpg"
 image_caption: >
   Deputy President (Welfare) Nicolas Massie
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

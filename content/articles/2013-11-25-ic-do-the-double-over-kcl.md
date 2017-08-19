@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action
 date: "2013-11-25 00:01:46 +0000"
+# Attributes from Felix Online V1
 id: "4140"
 old_path: /sport/4140/ic-do-the-double-over-kcl
 aliases:
  - /sport/4140/ic-do-the-double-over-kcl
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

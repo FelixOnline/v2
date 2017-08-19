@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Part 1 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-10-24 23:47:45 +0100"
+# Attributes from Felix Online V1
 id: "3913"
 old_path: /features/3913/ipcc-climate-report-2013-an-ultimate-warning
 aliases:
  - /features/3913/ipcc-climate-report-2013-an-ultimate-warning
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250047-felix-fb-cover-photo-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "London Climate Forum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

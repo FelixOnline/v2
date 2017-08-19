@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whip out your scalpel and forceps in Surgery Simulator
 date: "2011-03-21 11:58:03 +0000"
+# Attributes from Felix Online V1
 id: "1122"
 old_path: /games/1122/not-exactly-cutting-edge-gaming
 aliases:
  - /games/1122/not-exactly-cutting-edge-gaming
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103211156-ks607-surgerys.jpg"
 image_caption: >
   I think I'll perform this triple bypass with the rubber glove and a long black cloak...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

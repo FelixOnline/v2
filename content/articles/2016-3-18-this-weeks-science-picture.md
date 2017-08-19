@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-03-18 11:50:36 +0000"
+# Attributes from Felix Online V1
 id: "6062"
 old_path: /science/6062/this-weeks-science-picture
 aliases:
  - /science/6062/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181150-felix-12695039_10208714886290677_1568100392785676293_o.jpg"
 image_caption: >
   View from a stereoscope of a baby gecko hatching.
@@ -22,6 +27,7 @@ image_attribution: "Matt Jarvis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

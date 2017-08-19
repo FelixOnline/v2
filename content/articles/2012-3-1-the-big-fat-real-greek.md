@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
+# Attributes from Felix Online V1
 id: "2281"
 old_path: /food/2281/the-big-fat-real-greek
 aliases:
  - /food/2281/the-big-fat-real-greek
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012148-ams111-header.jpg"
 image_caption: >
   A glass of Ouzo and plenty of mezes make the crisis fade away
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

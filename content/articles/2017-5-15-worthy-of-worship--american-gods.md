@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Surreal is the new real
 date: "2017-05-15 17:14:09 +0100"
+# Attributes from Felix Online V1
 id: "6959"
 old_path: /tv/6959/worthy-of-worship--american-gods
 aliases:
  - /tv/6959/worthy-of-worship--american-gods
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151913-felix-26-american-gods-4.w710.h473.2x.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Starz, Amazon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

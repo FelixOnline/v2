@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rave is not a word I would ever have associated with the music of Mogwai. As people, it makes a bit more sense. They has always been a certain distance between them and the more pretentious attitudes most post-rock bands employ.
 date: "2014-02-07 04:37:23 +0000"
+# Attributes from Felix Online V1
 id: "4338"
 old_path: /music/4338/raving-on-about-mogwai-going-to-shit
 aliases:
  - /music/4338/raving-on-about-mogwai-going-to-shit
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

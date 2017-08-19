@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-20 09:17:56 +0000"
+# Attributes from Felix Online V1
 id: "5752"
 old_path: /film/5752/the-top-three-sports-films-that-arent-rocky
 aliases:
  - /film/5752/the-top-three-sports-films-that-arent-rocky
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

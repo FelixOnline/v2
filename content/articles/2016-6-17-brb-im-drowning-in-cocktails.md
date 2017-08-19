@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX attends a cocktail launch at Shoryu SoHo
 date: "2016-06-17 09:41:57 +0100"
+# Attributes from Felix Online V1
 id: "6291"
 old_path: /food/6291/brb-im-drowning-in-cocktails
 aliases:
  - /food/6291/brb-im-drowning-in-cocktails
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171141-felix-IMG_4680.jpg"
 image_caption: >
   The four summer-themed cocktails available at Shoryu Soho.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

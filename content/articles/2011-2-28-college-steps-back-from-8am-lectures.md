@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Reduced lunch hour still on the cards
 date: "2011-02-28 21:21:33 +0000"
+# Attributes from Felix Online V1
 id: "945"
 old_path: /news/945/college-steps-back-from-8am-lectures
 aliases:
  - /news/945/college-steps-back-from-8am-lectures
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

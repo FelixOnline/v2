@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Budget announcements met with tentative positivity across the scientific spectrum
 date: "2010-10-21 19:30:33 +0100"
+# Attributes from Felix Online V1
 id: "242"
 old_path: /news/242/imperial-wins-as-science-is-spared-major-cuts
 aliases:
  - /news/242/imperial-wins-as-science-is-spared-major-cuts
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

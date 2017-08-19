@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Central library is a great spot for binge watching. Just make sure you remember to control yourself
 date: "2017-06-02 13:22:54 +0100"
+# Attributes from Felix Online V1
 id: "6994"
 old_path: /games/6994/dealing-with-escapism
 aliases:
  - /games/6994/dealing-with-escapism
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021522-felix-15055844420_35e3678de8_k.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Michael"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

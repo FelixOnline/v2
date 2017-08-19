@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over 100 protesters occupied the University of London (UoL’s) headquarters on Wednesday 4 December. The protest took place to demonstrate against the UoL’s “undemocratic and unaccountable” running.
 date: "2013-12-06 03:44:28 +0000"
+# Attributes from Felix Online V1
 id: "4177"
 old_path: /news/4177/ulu-students-protest-in-senate-house-occupation
 aliases:
  - /news/4177/ulu-students-protest-in-senate-house-occupation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

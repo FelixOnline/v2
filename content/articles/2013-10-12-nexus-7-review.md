@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Apparently, the best 7-inch tablet you can get
 date: "2013-10-12 19:30:59 +0100"
+# Attributes from Felix Online V1
 id: "3856"
 old_path: /tech/3856/nexus-7-review
 aliases:
  - /tech/3856/nexus-7-review
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122030-jal08-tech_nexus-review.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

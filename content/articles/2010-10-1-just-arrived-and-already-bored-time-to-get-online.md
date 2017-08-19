@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our easy guide to getting your console on College internet
 date: "2010-10-01 23:06:45 +0100"
+# Attributes from Felix Online V1
 id: "168"
 old_path: /games/168/just-arrived-and-already-bored-time-to-get-online
 aliases:
  - /games/168/just-arrived-and-already-bored-time-to-get-online
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010020005-ks607-Consoles.jpg"
 image_caption: >
   Let's get those machines online!
@@ -22,6 +27,7 @@ image_attribution: "blog.toggle.com"
 image_attribution_link: "http://blog.toggle.com/playstation-xbox-and-wii-which-one%E2%80%99s-the-best/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

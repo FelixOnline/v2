@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Omar Hafeez-Bore and Kahfeel Hussain on how Pakistani immigration to the UK changed not only this country, but parts of Pakistan and Pakistanis themselves
 date: "2011-03-10 19:51:39 +0000"
+# Attributes from Felix Online V1
 id: "1058"
 old_path: /news/1058/from-mirpur-to-the-midlands
 aliases:
  - /news/1058/from-mirpur-to-the-midlands
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103101949-ks607-mirpurar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

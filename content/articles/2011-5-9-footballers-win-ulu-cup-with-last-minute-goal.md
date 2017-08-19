@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
+# Attributes from Felix Online V1
 id: "1180"
 old_path: /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
 aliases:
  - /sport/1180/footballers-win-ulu-cup-with-last-minute-goal
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "James Brown"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

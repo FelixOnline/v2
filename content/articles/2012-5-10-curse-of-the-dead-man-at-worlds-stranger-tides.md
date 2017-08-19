@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All aboard the Good Ship Aardman!
 date: "2012-05-10 20:26:39 +0100"
+# Attributes from Felix Online V1
 id: "2448"
 old_path: /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
 aliases:
  - /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_pirates__in_.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

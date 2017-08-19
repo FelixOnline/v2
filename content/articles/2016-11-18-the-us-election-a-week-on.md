@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix gets out and about for your reactions too
 date: "2016-11-18 14:26:56 +0000"
+# Attributes from Felix Online V1
 id: "6455"
 old_path: /news/6455/the-us-election-a-week-on
 aliases:
  - /news/6455/the-us-election-a-week-on
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181425-felix-5440002785_7b1ed0ac3e_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

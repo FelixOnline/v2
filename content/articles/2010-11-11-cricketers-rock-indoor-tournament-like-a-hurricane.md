@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial cricketers reach second leg of indoor tournament
 date: "2010-11-11 20:45:43 +0000"
+# Attributes from Felix Online V1
 id: "343"
 old_path: /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
 aliases:
  - /sport/343/cricketers-rock-indoor-tournament-like-a-hurricane
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112044-ks607-cricket.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

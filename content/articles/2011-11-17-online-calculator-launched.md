@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Prospective students to have increased access to financial support information as new package approaches
 date: "2011-11-17 21:04:58 +0000"
+# Attributes from Felix Online V1
 id: "1768"
 old_path: /news/1768/online-calculator-launched
 aliases:
  - /news/1768/online-calculator-launched
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111181022-felix-7607_02.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

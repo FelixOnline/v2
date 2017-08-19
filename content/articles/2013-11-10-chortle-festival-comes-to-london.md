@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Come along to London's newsest comedy book festival
 date: "2013-11-10 21:29:44 +0000"
+# Attributes from Felix Online V1
 id: "4048"
 old_path: /books/4048/chortle-festival-comes-to-london
 aliases:
  - /books/4048/chortle-festival-comes-to-london
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311102129-mtm10-jack-whitehall.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

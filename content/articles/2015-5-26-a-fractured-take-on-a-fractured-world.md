@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman has never seen Carmen, but that doesn't matter in Simon Stephens' new take on the classic opera.
 date: "2015-05-26 13:30:10 +0100"
+# Attributes from Felix Online V1
 id: "5564"
 old_path: /arts/5564/a-fractured-take-on-a-fractured-world
 aliases:
  - /arts/5564/a-fractured-take-on-a-fractured-world
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505261427-js5913-carmen-disruption.jpeg"
 image_caption: >
   L-R – the Bull (Bull), Chorus (Viktoria Vizin) and Escamillo (John Light) in the Almeida’s Carmen Disruption
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

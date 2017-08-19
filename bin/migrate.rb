@@ -66,23 +66,22 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
-  md << "id: \"#{r["article_id"]}\""
 
+  md << "# Attributes from Felix Online V1"
+  md << "id: \"#{r["article_id"]}\""
   old_path = "/#{r["category_slug"]}/#{r["article_id"]}/#{r["article_title"].downcase.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}"
   md << "old_path: #{old_path}"
   md << "aliases:"
   md << " - #{old_path}"
 
-
+  md << "\n# Article Taxonomies"
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
-  md << "category: #{category}"
-
-  md << ""
-  # new articles will push them out before too long
+  md << "categories:\n - #{category}"
+  md << "tags:"
   md << "headline: true"
   md << "featured: true"
-  md << ""
 
+  md << "\n# Image metadata"
   md << "image_path: \"http://felixonline.co.uk/#{r["image_path"]}\""
   md << "image_caption: >\n  #{r["image_caption"]}"
   md << "image_width: \"#{r["image_width"]}\""
@@ -90,8 +89,8 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "image_attribution: \"#{r["image_attribution"]}\""
   md << "image_attribution_link: \"#{r["image_attribution_link"]}\""
   md << "video_url: \"#{r["article_video_url"]}\""
-  md << ""
 
+  md << "\n# Author metadata"
   md << "author_id: \"#{r["author_id"]}\""
   md << "author_name: \"#{r["author_name"]}\""
   md << "author_image_path: \"#{r["author_image_path"]}\""
@@ -99,9 +98,8 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "author_facebook: \"#{r["author_facebook"]}\""
   md << "author_website_url: \"#{r["author_website_url"]}\""
   md << "author_website_title: \"#{r["author_website_title"]}\""
-  md << ""
 
-  md << "comments:"
+  md << "\ncomments:"
   r["comments"].split(/\s+\+\s+/).each do |c|
     md << " - #{Nokogiri::HTML(c).text.gsub(/[^\w ]/, "")}"
   end

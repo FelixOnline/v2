@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson reports on the Women@Imperial events taking place this week
 date: "2015-03-13 01:20:41 +0000"
+# Attributes from Felix Online V1
 id: "5391"
 old_path: /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
 aliases:
  - /news/5391/international-womens-day-2015-exhibition-celebrates-imperial-women-past-and-present
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130120-cj914-women@imperial-3rd-try.jpg"
 image_caption: >
   Women@Imperial comprises a series of events honouring academic and professional women of the College
@@ -22,6 +27,7 @@ image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola is surprised by the heart of this new bio-drama
 date: "2015-05-29 12:44:22 +0100"
+# Attributes from Felix Online V1
 id: "5590"
 old_path: /arts/5590/mcqueen-a-well-cut-piece-of-theatre
 aliases:
  - /arts/5590/mcqueen-a-well-cut-piece-of-theatre
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

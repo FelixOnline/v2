@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two local men, Chris and Ally, saw the plight of teenagers and decided to set up a centre where young people can learn basic skills. Together, through much personal sacrifice, they purchased a building in Usa River, about twelve miles outside Arusha.
 date: "2013-12-02 13:13:04 +0000"
+# Attributes from Felix Online V1
 id: "4148"
 old_path: /features/4148/hear-hidden-voices-of-africa-at-icbs
 aliases:
  - /features/4148/hear-hidden-voices-of-africa-at-icbs
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

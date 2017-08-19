@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
+# Attributes from Felix Online V1
 id: "2741"
 old_path: /tech/2741/windows-8---the-difference-between-8-rt--pro-
 aliases:
  - /tech/2741/windows-8---the-difference-between-8-rt--pro-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

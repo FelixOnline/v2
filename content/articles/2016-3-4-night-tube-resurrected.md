@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Good news for Woodward – it’ll only take 45 minutes to get home on a Friday night
 date: "2016-03-04 11:24:00 +0000"
+# Attributes from Felix Online V1
 id: "5995"
 old_path: /news/5995/night-tube-resurrected
 aliases:
  - /news/5995/night-tube-resurrected
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041123-felix-maxresdefault.jpg"
 image_caption: >
   This has looked silly on the side of Underground trains for a while now.
@@ -22,6 +27,7 @@ image_attribution: "TfL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

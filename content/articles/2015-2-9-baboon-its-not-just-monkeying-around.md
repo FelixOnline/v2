@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Calum reviews the latest game from indie developers Relevo
 date: "2015-02-09 15:12:30 +0000"
+# Attributes from Felix Online V1
 id: "5212"
 old_path: /games/5212/baboon-its-not-just-monkeying-around
 aliases:
  - /games/5212/baboon-its-not-just-monkeying-around
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502091512-ps3110-screen-shot-2015-02-09-at-15.12.18.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

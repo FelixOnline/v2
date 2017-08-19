@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Remember that breaking the rule, once you’ve learnt it, can result in some striking shots too”
 date: "2010-11-25 20:23:08 +0000"
+# Attributes from Felix Online V1
 id: "429"
 old_path: /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
 aliases:
  - /arts/429/improve-your-digital-photos-with-photosoc-the-rule-of-thirds
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252021-nm1010-ruleofth.jpg"
 image_caption: >
   An example of the rule of thirds
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Kim"
 image_attribution_link: "http://www.flickr.com/photos/jkim1"
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

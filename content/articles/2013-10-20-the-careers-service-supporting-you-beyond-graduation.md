@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Careers Service gives advice to graduands about the job search after Imperial.
 date: "2013-10-20 02:00:08 +0100"
+# Attributes from Felix Online V1
 id: "3905"
 old_path: /features/3905/the-careers-service-supporting-you-beyond-graduation
 aliases:
  - /features/3905/the-careers-service-supporting-you-beyond-graduation
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "University of Birmingham"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

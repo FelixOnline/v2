@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Advocates for both leave and remain campaigns will be represented
 date: "2016-05-13 08:51:43 +0100"
+# Attributes from Felix Online V1
 id: "6145"
 old_path: /news/6145/eu-debate-to-be-held-at-imperial
 aliases:
  - /news/6145/eu-debate-to-be-held-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131051-felix-13116282_881640831945600_7666044036402266013_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

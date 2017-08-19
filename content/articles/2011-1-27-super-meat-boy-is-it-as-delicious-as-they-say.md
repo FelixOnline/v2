@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Let’s not sugar-coat this, Super Meat Boy is balls to the wall hard
 date: "2011-01-27 20:23:59 +0000"
+# Attributes from Felix Online V1
 id: "692"
 old_path: /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
 aliases:
  - /games/692/super-meat-boy-is-it-as-delicious-as-they-say-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101281253-sjw209-SuperMea.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

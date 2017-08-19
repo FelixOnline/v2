@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anonymous explores a secret operatic world previously out of reach
 date: "2015-03-25 12:43:04 +0000"
+# Attributes from Felix Online V1
 id: "5435"
 old_path: /arts/5435/the-white-square--an-lsd-rhapsody
 aliases:
  - /arts/5435/the-white-square--an-lsd-rhapsody
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251242-ff712-51a.jpg"
 image_caption: >
   About Yellow, Bridget Riley, 2013-2014, Oil on linen
@@ -22,6 +27,7 @@ image_attribution: "Bridget Riley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christy Kelly examines whether poppies are an appropriate symbol of remembrance
 date: "2014-11-06 18:32:08 +0000"
+# Attributes from Felix Online V1
 id: "4764"
 old_path: /comment/4764/poppies-will-put-them-to-sleep
 aliases:
  - /comment/4764/poppies-will-put-them-to-sleep
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411101355-ps3110-article-2230190-15e92a19000005dc-471_964x612.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

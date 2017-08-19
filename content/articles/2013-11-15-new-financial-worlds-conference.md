@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICFS tell us about their exciting upcoming conference
 date: "2013-11-15 11:44:16 +0000"
+# Attributes from Felix Online V1
 id: "4087"
 old_path: /features/4087/new-financial-worlds-conference
 aliases:
  - /features/4087/new-financial-worlds-conference
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Overtime cup progression for the mighty Rugby 2s
 date: "2015-11-20 09:47:40 +0000"
+# Attributes from Felix Online V1
 id: "5765"
 old_path: /sport/5765/rugby-soas-fail-to-knock-out-ic
 aliases:
  - /sport/5765/rugby-soas-fail-to-knock-out-ic
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

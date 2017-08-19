@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Commercial Mouth
 date: "2013-02-07 22:50:24 +0000"
+# Attributes from Felix Online V1
 id: "3246"
 old_path: /music/3246/jar-moff-review
 aliases:
  - /music/3246/jar-moff-review
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072248-tna08-jar-moff-commercial-mouth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken reports on the developments in the jihadist campaign
 date: "2015-03-13 01:25:37 +0000"
+# Attributes from Felix Online V1
 id: "5394"
 old_path: /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
 aliases:
  - /news/5394/boko-haram-leader-pledges-allegiance-to-islamic-state
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130125-cj914-abubakar-shekau-boko-haram.png"
 image_caption: >
   Abubakar Shekau reportedly made the comments in a video posted on Twitter
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

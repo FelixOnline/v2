@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mr Smith and Mr Jones (and Mr Brolin) return for this enjoyable adventure
 date: "2012-06-07 19:14:02 +0100"
+# Attributes from Felix Online V1
 id: "2529"
 old_path: /film/2529/review-men-in-black-iii
 aliases:
  - /film/2529/review-men-in-black-iii
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072011-ams111-film1.gif"
 image_caption: >
   Roger Moore in Moonraker... oh
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ian McEwan’s foray into comic satire
 date: "2011-06-16 20:43:56 +0100"
+# Attributes from Felix Online V1
 id: "1397"
 old_path: /arts/1397/the-misadventures-of-a-nobel-physicist-
 aliases:
  - /arts/1397/the-misadventures-of-a-nobel-physicist-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162142-felix-solar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

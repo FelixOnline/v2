@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The recent equal marriage vote is indicative of a wider trend
 date: "2013-02-13 16:18:39 +0000"
+# Attributes from Felix Online V1
 id: "3311"
 old_path: /comment/3311/the-slow-extinction-of-political-dinosaurs
 aliases:
  - /comment/3311/the-slow-extinction-of-political-dinosaurs
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131618-tna08-partysaurus-rex-toy-story-entier-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

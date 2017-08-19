@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles reviews Fraulein Julie, which seamlessly merges technology and stagecraft to form a new kind of theatrical experience
 date: "2013-05-08 13:48:09 +0100"
+# Attributes from Felix Online V1
 id: "3548"
 old_path: /arts/3548/breaking-the-backdrop
 aliases:
  - /arts/3548/breaking-the-backdrop
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305081448-tna08-fraulein-julie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

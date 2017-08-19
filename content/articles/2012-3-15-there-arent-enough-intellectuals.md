@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Furse on the NHS reform bill
 date: "2012-03-15 21:45:46 +0000"
+# Attributes from Felix Online V1
 id: "2393"
 old_path: /comment/2393/there-arent-enough-intellectuals
 aliases:
  - /comment/2393/there-arent-enough-intellectuals
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

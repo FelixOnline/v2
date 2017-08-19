@@ -4,15 +4,20 @@ title: >
 subtitle: >
   brrraaaaaaaiiiiiiiinnnnnsssssss.....
 date: "2010-10-28 19:19:51 +0100"
+# Attributes from Felix Online V1
 id: "258"
 old_path: /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
 aliases:
  - /games/258/felixs-guide-to-surviving-the-zombie-apocalypse-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282017-ma1307-Zombie.jpg"
 image_caption: >
   Damn student protestors...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

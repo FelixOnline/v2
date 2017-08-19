@@ -4,15 +4,20 @@ title: >
 subtitle: >
   News from around the world
 date: "2011-01-27 19:27:22 +0000"
+# Attributes from Felix Online V1
 id: "669"
 old_path: /politics/669/the-world-beyond-college-walls
 aliases:
  - /politics/669/the-world-beyond-college-walls
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271924-nm1010-bombbomb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

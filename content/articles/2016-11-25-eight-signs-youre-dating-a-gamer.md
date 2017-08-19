@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They’ve probably spent more time on their PC than they have on you
 date: "2016-11-25 14:33:28 +0000"
+# Attributes from Felix Online V1
 id: "6512"
 old_path: /games/6512/eight-signs-youre-dating-a-gamer
 aliases:
  - /games/6512/eight-signs-youre-dating-a-gamer
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251430-felix-2061329074_226f714dd6_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Don Hankins"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

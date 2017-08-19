@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Bodansky asks how our economy affects the individual
 date: "2014-12-04 18:33:25 +0000"
+# Attributes from Felix Online V1
 id: "4987"
 old_path: /comment/4987/what-does-the-economy-have-to-do-with-me
 aliases:
  - /comment/4987/what-does-the-economy-have-to-do-with-me
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041831-cj914-jobcentre-plus.jpeg"
 image_caption: >
   Unemployment perpetuates unemployment.
@@ -22,6 +27,7 @@ image_attribution: "dailyrecord"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

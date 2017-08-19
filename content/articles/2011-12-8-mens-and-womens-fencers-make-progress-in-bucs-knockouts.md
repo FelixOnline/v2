@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Epic and not-so-epic journeys lead to good fortune
 date: "2011-12-08 21:04:05 +0000"
+# Attributes from Felix Online V1
 id: "1928"
 old_path: /sport/1928/mens-and-womens-fencers-make-progress-in-bucs-knockouts
 aliases:
  - /sport/1928/mens-and-womens-fencers-make-progress-in-bucs-knockouts
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082102-felix-img_7895.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

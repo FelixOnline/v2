@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Freshers suffer after Campus Services changes halls’ cleaning contract
 date: "2013-11-15 02:15:09 +0000"
+# Attributes from Felix Online V1
 id: "4058"
 old_path: /news/4058/cleaning-in-halls-confusion
 aliases:
  - /news/4058/cleaning-in-halls-confusion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150242-felix-hallsbin.png"
 image_caption: >
   Someone needs to visit the kitchen bins...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

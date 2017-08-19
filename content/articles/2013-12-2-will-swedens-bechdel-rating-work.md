@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The example above shows a script that is clearly not one which will stop denigration of women in films. It does however pass the Bechdel Test.
 date: "2013-12-02 22:23:12 +0000"
+# Attributes from Felix Online V1
 id: "4173"
 old_path: /film/4173/will-swedens-bechdel-rating-work
 aliases:
  - /film/4173/will-swedens-bechdel-rating-work
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

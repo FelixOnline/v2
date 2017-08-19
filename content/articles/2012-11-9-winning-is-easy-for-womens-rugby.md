@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A fantastic start for Imperial
 date: "2012-11-09 14:25:24 +0000"
+# Attributes from Felix Online V1
 id: "2872"
 old_path: /sport/2872/winning-is-easy-for-womens-rugby
 aliases:
  - /sport/2872/winning-is-easy-for-womens-rugby
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091425-tna08-rugger.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

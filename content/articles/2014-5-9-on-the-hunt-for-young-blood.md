@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matilda Hays discusses the anti-aging properties of transfusions for mice
 date: "2014-05-09 02:09:17 +0100"
+# Attributes from Felix Online V1
 id: "4574"
 old_path: /science/4574/on-the-hunt-for-young-blood
 aliases:
  - /science/4574/on-the-hunt-for-young-blood
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090309-jal08-blood.jpg"
 image_caption: >
   Stephanie Meyer called, she wants her sexual aphrodisiac back
@@ -22,6 +27,7 @@ image_attribution: "sikhanswers.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

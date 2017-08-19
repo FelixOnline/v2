@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Franca Hoffmann discusses politicians-to-be coming to campus
 date: "2012-10-26 02:02:00 +0100"
+# Attributes from Felix Online V1
 id: "2733"
 old_path: /news/2733/limun-comes-to-imperial
 aliases:
  - /news/2733/limun-comes-to-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260301-tna08-new-york-united-nations-building-15541.jpg"
 image_caption: >
   It probably won't be this empty...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

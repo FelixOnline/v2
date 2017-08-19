@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England find a band who can inspire young and old alike
 date: "2012-11-29 22:58:07 +0000"
+# Attributes from Felix Online V1
 id: "2996"
 old_path: /music/2996/the-vaccines-at-the-ally-pally
 aliases:
  - /music/2996/the-vaccines-at-the-ally-pally
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292257-tna08-vaccines.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

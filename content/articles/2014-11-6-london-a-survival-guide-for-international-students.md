@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exploring a new city with the help of International Student Support
 date: "2014-11-06 21:21:15 +0000"
+# Attributes from Felix Online V1
 id: "4799"
 old_path: /welfare/4799/london-a-survival-guide-for-international-students
 aliases:
  - /welfare/4799/london-a-survival-guide-for-international-students
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

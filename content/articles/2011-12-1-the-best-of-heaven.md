@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
+# Attributes from Felix Online V1
 id: "1878"
 old_path: /music/1878/the-best-of-heaven
 aliases:
  - /music/1878/the-best-of-heaven
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012101-pk1811-600full-zola-jesus.jpg"
 image_caption: >
   If you squint, the bricks behind Zola Jesus almost look like forks
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

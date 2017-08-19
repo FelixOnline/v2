@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And not feel (too) guilty about it
 date: "2013-12-06 04:06:16 +0000"
+# Attributes from Felix Online V1
 id: "4189"
 old_path: /comment/4189/how-to-procrastinate-at-christmas
 aliases:
  - /comment/4189/how-to-procrastinate-at-christmas
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

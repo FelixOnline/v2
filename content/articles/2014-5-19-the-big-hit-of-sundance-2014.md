@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The opening lines of Frank are a mixture of odd noises and half-formed (and utterly atrocious) lyrics, providing an amusing and wry look at the plight of the artist in search of inspiration...
 date: "2014-05-19 14:00:00 +0100"
+# Attributes from Felix Online V1
 id: "4615"
 old_path: /film/4615/the-big-hit-of-sundance-2014
 aliases:
  - /film/4615/the-big-hit-of-sundance-2014
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405191500-jal08-frank-movie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

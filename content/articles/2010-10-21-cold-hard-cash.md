@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Frieze Fair is the glitzy international cattle market of contemporary art, but what if you’re not spending?
 date: "2010-10-21 18:45:57 +0100"
+# Attributes from Felix Online V1
 id: "221"
 old_path: /arts/221/cold-hard-cash-
 aliases:
  - /arts/221/cold-hard-cash-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

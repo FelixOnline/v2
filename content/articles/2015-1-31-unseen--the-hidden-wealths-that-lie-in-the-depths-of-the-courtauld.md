@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
+# Attributes from Felix Online V1
 id: "5173"
 old_path: /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
 aliases:
  - /arts/5173/unseen--the-hidden-wealths-that-lie-in-the-depths-of-the-courtauld
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
 image_caption: >
   Valentin Klotz, View of grave on the Mass after a siege, 1675.
@@ -22,6 +27,7 @@ image_attribution: "The Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

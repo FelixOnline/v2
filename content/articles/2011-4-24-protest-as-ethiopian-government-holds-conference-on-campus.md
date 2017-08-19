@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Network Against Injustice and Repression in Ethiopia stage demonstration outside Sherfield
 date: "2011-04-24 10:55:01 +0100"
+# Attributes from Felix Online V1
 id: "1133"
 old_path: /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
 aliases:
  - /news/1133/protest-as-ethiopian-government-holds-conference-on-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104241410-felix-sherfield1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Scally"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

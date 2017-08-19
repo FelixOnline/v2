@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Helen Wilkes takes a look at computing inspired by biology
 date: "2012-06-14 20:09:00 +0100"
+# Attributes from Felix Online V1
 id: "2557"
 old_path: /science/2557/the-future-is-unconventional
 aliases:
  - /science/2557/the-future-is-unconventional
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142108-ams111-science1.jpg"
 image_caption: >
   Slime mould grows to find an optimum networks and tends to mirror transport networks
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
+# Attributes from Felix Online V1
 id: "5363"
 old_path: /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
 aliases:
  - /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061705-cj914-shutterstock_81466396---photoshop.jpg"
 image_caption: >
   Uniting gas and electricity markets, a new challenge for the Energy Union Strategic Framework.
@@ -22,6 +27,7 @@ image_attribution: "Shutterstock"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

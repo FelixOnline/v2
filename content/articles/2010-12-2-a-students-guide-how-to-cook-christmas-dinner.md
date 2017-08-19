@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get together before term ends with yet more wine and a huge bird. By Nadia Paes
 date: "2010-12-02 20:18:29 +0000"
+# Attributes from Felix Online V1
 id: "465"
 old_path: /food/465/a-students-guide-how-to-cook-christmas-dinner
 aliases:
  - /food/465/a-students-guide-how-to-cook-christmas-dinner
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022013-nm1010-christma.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

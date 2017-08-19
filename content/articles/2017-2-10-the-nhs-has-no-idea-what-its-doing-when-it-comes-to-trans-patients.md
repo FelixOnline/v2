@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A trans student discusses the NHS's complete failure to address the needs of transgender patients
 date: "2017-02-10 13:48:35 +0000"
+# Attributes from Felix Online V1
 id: "6748"
 old_path: /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
 aliases:
  - /comment/6748/the-nhs-has-no-idea-what-its-doing-when-it-comes-to-trans-patients
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101348-felix-Screen Shot 2017-02-10 at 13.47.52.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

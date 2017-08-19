@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spring is here and the sun has come out, so its time to update your wardrobe! These trends are sure to keep you cool in the sun
 date: "2014-05-02 01:35:39 +0100"
+# Attributes from Felix Online V1
 id: "4553"
 old_path: /fashion/4553/the-cutest-spring-2014-trends
 aliases:
  - /fashion/4553/the-cutest-spring-2014-trends
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

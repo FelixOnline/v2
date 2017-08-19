@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you're looking for alternative facts please go away
 date: "2017-02-03 16:36:30 +0000"
+# Attributes from Felix Online V1
 id: "6716"
 old_path: /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
 aliases:
  - /science/6716/does-trumps-presidency-signal-the-start-of-a-post-truth-era-in-science
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031636-felix-Oxford dictionaries.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Missy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

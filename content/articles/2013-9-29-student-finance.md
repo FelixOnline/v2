@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Tsim drives a hard bargain with your moneyz
 date: "2013-09-29 13:35:28 +0100"
+# Attributes from Felix Online V1
 id: "3767"
 old_path: /biz/3767/student-finance
 aliases:
  - /biz/3767/student-finance
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291443-tna08-banknote.jpg"
 image_caption: >
   My mind on my money and my money on my mind
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Judo win trophy for the first time in four years
 date: "2010-02-25 18:55:55 +0000"
+# Attributes from Felix Online V1
 id: "107"
 old_path: /sport/107/four-year-trophy-wait-for-judo
 aliases:
  - /sport/107/four-year-trophy-wait-for-judo
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

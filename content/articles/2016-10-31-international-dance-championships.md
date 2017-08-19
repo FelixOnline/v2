@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Entering the glamorous world of competitive dance at the Royal Albert Hall
 date: "2016-10-31 22:18:24 +0000"
+# Attributes from Felix Online V1
 id: "6369"
 old_path: /culture/6369/international-dance-championships
 aliases:
  - /culture/6369/international-dance-championships
-category: culture
 
+# Article Taxonomies
+categories:
+ - culture
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610312214-felix-6018845061_ebbd9ea9bd_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Paul Hudson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

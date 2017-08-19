@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An Imperial-led team found blood cancer cells actively move rather than hide in bone marrow
 date: "2016-10-31 15:45:03 +0000"
+# Attributes from Felix Online V1
 id: "6363"
 old_path: /science/6363/the-race-to-understand-leukaemia-cells
 aliases:
  - /science/6363/the-race-to-understand-leukaemia-cells
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311544-felix-5814816122_d9e06fd0bf_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

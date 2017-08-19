@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Roland Sookias chats to Innovation Society President Nigel Kheng about their latest project
 date: "2011-02-03 20:38:24 +0000"
+# Attributes from Felix Online V1
 id: "751"
 old_path: /biz/751/iconnect-eat-for-cheap
 aliases:
  - /biz/751/iconnect-eat-for-cheap
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032036-nm1010-iconnecc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

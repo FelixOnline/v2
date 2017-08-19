@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-20 09:16:02 +0100"
+# Attributes from Felix Online V1
 id: "6188"
 old_path: /film/6188/documentary-corner-a-riot-of-our-own
 aliases:
  - /film/6188/documentary-corner-a-riot-of-our-own
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201115-felix-A-Riot-Of-Our-Own (1).jpg"
 image_caption: >
   12 Bar Club – the last of a dying breed of the London gig scene.
@@ -22,6 +27,7 @@ image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

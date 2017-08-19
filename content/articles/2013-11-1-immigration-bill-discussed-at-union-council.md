@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Government Immigration Bill deemed to have possible impact on international students
 date: "2013-11-01 09:09:20 +0000"
+# Attributes from Felix Online V1
 id: "3965"
 old_path: /news/3965/immigration-bill-discussed-at-union-council
 aliases:
  - /news/3965/immigration-bill-discussed-at-union-council
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010940-felix-icu-council.jpg"
 image_caption: >
   Imperial College Union
@@ -22,6 +27,7 @@ image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

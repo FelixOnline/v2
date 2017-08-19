@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial pull back from an unpromising start
 date: "2011-02-27 20:00:45 +0000"
+# Attributes from Felix Online V1
 id: "925"
 old_path: /sport/925/hockey-imperial-mens-draw-with-guys-kings
 aliases:
  - /sport/925/hockey-imperial-mens-draw-with-guys-kings
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sir Malcolm Rifkind also resigns immediately from post of Chairman of the Intelligence and Security Committee
 date: "2015-02-24 16:42:50 +0000"
+# Attributes from Felix Online V1
 id: "5307"
 old_path: /news/5307/tory-mp-for-kensington-will-step-down-at-election
 aliases:
  - /news/5307/tory-mp-for-kensington-will-step-down-at-election
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

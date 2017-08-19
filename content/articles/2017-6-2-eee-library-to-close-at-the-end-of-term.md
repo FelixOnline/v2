@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Space to be replaced by study area
 date: "2017-06-02 12:45:14 +0100"
+# Attributes from Felix Online V1
 id: "6985"
 old_path: /news/6985/eee-library-to-close-at-the-end-of-term
 aliases:
  - /news/6985/eee-library-to-close-at-the-end-of-term
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021444-felix-IMG_7792.JPG"
 image_caption: >
   The mysterious EEE Library
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

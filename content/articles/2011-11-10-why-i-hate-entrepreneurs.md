@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
+# Attributes from Felix Online V1
 id: "1712"
 old_path: /comment/1712/why-i-hate-entrepreneurs
 aliases:
  - /comment/1712/why-i-hate-entrepreneurs
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102026-pk1811-alan-sugar-comment.jpg"
 image_caption: >
   “I’m the spoonful of sugar that makes your medicine go down, baby” - Lord Sugar's best chatup line
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

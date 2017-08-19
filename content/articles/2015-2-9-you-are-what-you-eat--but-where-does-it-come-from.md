@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jane Courtnell on the woes of unsustainable agriculture
 date: "2015-02-09 19:30:25 +0000"
+# Attributes from Felix Online V1
 id: "5222"
 old_path: /science/5222/you-are-what-you-eat--but-where-does-it-come-from
 aliases:
  - /science/5222/you-are-what-you-eat--but-where-does-it-come-from
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502091930-ps3110-pesticides-bro---photoshop.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

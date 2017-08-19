@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Genome sequences for each of the four great ape groups have been investigated
 date: "2012-03-15 19:58:32 +0000"
+# Attributes from Felix Online V1
 id: "2354"
 old_path: /science/2354/last-great-ape-genome-sequenced
 aliases:
  - /science/2354/last-great-ape-genome-sequenced
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151957-ams111-120307-science-kamilah2-1205p.jpg"
 image_caption: >
   Kamilah the gorrila
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A PhD student is rumoured to have bungled, resulting in damage to labs and lecture theatres
 date: "2010-10-14 19:04:55 +0100"
+# Attributes from Felix Online V1
 id: "197"
 old_path: /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
 aliases:
  - /news/197/pipe-fault-causes-extensive-damage-to-aero-building-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Far from being just a mathematical expression, Polynomial is a (dull) 3D music action game
 date: "2010-11-04 18:27:48 +0000"
+# Attributes from Felix Online V1
 id: "297"
 old_path: /games/297/polynomial-proves-maths-isnt-fun
 aliases:
  - /games/297/polynomial-proves-maths-isnt-fun
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

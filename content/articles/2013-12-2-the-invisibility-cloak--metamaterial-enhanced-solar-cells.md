@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taking a closer look at metamaterials
 date: "2013-12-02 21:52:28 +0000"
+# Attributes from Felix Online V1
 id: "4157"
 old_path: /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
 aliases:
  - /science/4157/the-invisibility-cloak--metamaterial-enhanced-solar-cells
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

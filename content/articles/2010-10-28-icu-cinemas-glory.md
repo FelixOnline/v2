@@ -4,15 +4,20 @@ title: >
 subtitle: >
   watched and reviewed by our beloved section editors
 date: "2010-10-28 20:00:00 +0100"
+# Attributes from Felix Online V1
 id: "287"
 old_path: /film/287/icu-cinemas-glory
 aliases:
  - /film/287/icu-cinemas-glory
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282055-ma1307-cinema.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://felixonline.co.uk/user/ks607/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

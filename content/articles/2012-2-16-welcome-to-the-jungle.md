@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wandering through the misty morass: India's Western Ghats
 date: "2012-02-16 21:11:18 +0000"
+# Attributes from Felix Online V1
 id: "2186"
 old_path: /travel/2186/welcome-to-the-jungle
 aliases:
  - /travel/2186/welcome-to-the-jungle
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162111-ams111-elephant.gif"
 image_caption: >
   A revitalising coconut scrub after a rough day at the office
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

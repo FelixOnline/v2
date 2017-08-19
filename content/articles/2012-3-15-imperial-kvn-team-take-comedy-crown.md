@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Russian standup and sketches impress to become United Kingdom’s top group
 date: "2012-03-15 21:14:06 +0000"
+# Attributes from Felix Online V1
 id: "2374"
 old_path: /news/2374/imperial-kvn-team-take-comedy-crown-
 aliases:
  - /news/2374/imperial-kvn-team-take-comedy-crown-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152110-ig711-russian.jpg"
 image_caption: >
   The semi finals. From left to right – Alexey Denisov, Alexander Bukharin, Oksana Iamshanova, Egor Sa
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michelle Tan explores both the longstanding and the faddy
 date: "2014-11-06 21:08:22 +0000"
+# Attributes from Felix Online V1
 id: "4796"
 old_path: /food/4796/whats-up-with-all-these-diets
 aliases:
  - /food/4796/whats-up-with-all-these-diets
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062109-snb11-0.jpg"
 image_caption: >
   The Food Editor's diet of choice has got to be the seafood diet: she sees food and eats it
@@ -22,6 +27,7 @@ image_attribution: "Raw Kristina, Health Me Up"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

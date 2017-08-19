@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get a taste of South American salsa, Ozy Shyne style
 date: "2011-10-07 10:18:47 +0100"
+# Attributes from Felix Online V1
 id: "1485"
 old_path: /arts/1485/sabor-sabor
 aliases:
  - /arts/1485/sabor-sabor
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071119-felix-l-2.jpg"
 image_caption: >
   Ozy Shyne
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Royal School of Mines win the 109th Bottle Match
 date: "2011-02-27 19:52:53 +0000"
+# Attributes from Felix Online V1
 id: "921"
 old_path: /sport/921/rsm-regain-the-bottle-in-emphatic-style
 aliases:
  - /sport/921/rsm-regain-the-bottle-in-emphatic-style
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271951-ks607-bottlema.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

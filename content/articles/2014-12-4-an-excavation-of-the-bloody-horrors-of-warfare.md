@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles explores brutal photographs of wars gone by at the Tate Modern
 date: "2014-12-04 19:58:05 +0000"
+# Attributes from Felix Online V1
 id: "5006"
 old_path: /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
 aliases:
  - /arts/5006/an-excavation-of-the-bloody-horrors-of-warfare
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041958-cj914-steel-helmet-shomei-tomatsu.jpeg"
 image_caption: >
   Steel Helmet with Skull Bone Fused by Atomic Bomb, Nagasaki 1963
@@ -22,6 +27,7 @@ image_attribution: "Shomei Tomatsu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

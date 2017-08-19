@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Barrafina strikes again, causing two food babies to spring from nowhere with delights such as croquetas, carabineros and milhojas. Confused? Read on.
 date: "2017-01-20 15:39:38 +0000"
+# Attributes from Felix Online V1
 id: "6674"
 old_path: /food/6674/an-immaculate-conception-
 aliases:
  - /food/6674/an-immaculate-conception-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201538-felix-IMG_7048.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

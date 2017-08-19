@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not to say you’re an idiot, but at least one of the candidates is
 date: "2016-11-03 23:14:44 +0000"
+# Attributes from Felix Online V1
 id: "6379"
 old_path: /news/6379/an-idiots-guide-to-the-us-election
 aliases:
  - /news/6379/an-idiots-guide-to-the-us-election
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611032313-felix-10320387414_7074bac3ab_h.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Stephen Melkisethian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marco Aliprandi and Henri Sartorius share with Felix an attendant’s first-hand view of the Finance Society’s conference and flagship event of the year.
 date: "2011-02-17 19:07:58 +0000"
+# Attributes from Felix Online V1
 id: "813"
 old_path: /biz/813/the-new-worlds-conference-
 aliases:
  - /biz/813/the-new-worlds-conference-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171906-nm1010-busybusy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

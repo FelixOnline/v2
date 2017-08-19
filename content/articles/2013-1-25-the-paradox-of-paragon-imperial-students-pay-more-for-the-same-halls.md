@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College give multiple reasons for the disparity
 date: "2013-01-25 01:14:17 +0000"
+# Attributes from Felix Online V1
 id: "3174"
 old_path: /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
 aliases:
  - /news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

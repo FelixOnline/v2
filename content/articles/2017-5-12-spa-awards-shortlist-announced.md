@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
+# Attributes from Felix Online V1
 id: "6939"
 old_path: /news/6939/spa-awards-shortlist-announced
 aliases:
  - /news/6939/spa-awards-shortlist-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121828-felix-401685160_31c6025d1a_o.jpg"
 image_caption: >
   But we did win the unofficial award for highest typo rate <3
@@ -22,6 +27,7 @@ image_attribution: "Lenore Edman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Butcher wonders whether the Tories learnt anything
 date: "2015-05-14 22:37:05 +0100"
+# Attributes from Felix Online V1
 id: "5524"
 old_path: /comment/5524/were-going-to-miss-the-lib-dems
 aliases:
  - /comment/5524/were-going-to-miss-the-lib-dems
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142336-cj914-cameron-and-clegg-in-10-downing-street.jpg"
 image_caption: >
   As we say goodbye to the Liberal Democrats in Downing Street, how are things going to change?
@@ -22,6 +27,7 @@ image_attribution: "Standard"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

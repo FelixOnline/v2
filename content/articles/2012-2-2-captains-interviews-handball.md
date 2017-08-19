@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indy Leclercq breaks down the wall of silence to have a chat with Handball's Annabelle and Stefan
 date: "2012-02-02 22:59:09 +0000"
+# Attributes from Felix Online V1
 id: "2104"
 old_path: /sport/2104/captains-interviews-handball
 aliases:
  - /sport/2104/captains-interviews-handball
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022257-sjw209-img_9098.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

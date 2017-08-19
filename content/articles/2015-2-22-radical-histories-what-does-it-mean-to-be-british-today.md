@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes in a century of the country’s artistic history at the Hayward Gallery
 date: "2015-02-22 17:42:01 +0000"
+# Attributes from Felix Online V1
 id: "5304"
 old_path: /arts/5304/radical-histories-what-does-it-mean-to-be-british-today
 aliases:
  - /arts/5304/radical-histories-what-does-it-mean-to-be-british-today
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502221740-ps3110-richard-hamilton,-the-state,1993.-©-tate,-london-2014,-dacs-2014a.jpg"
 image_caption: >
   Richard Hamilton, The State, 1993
@@ -22,6 +27,7 @@ image_attribution: "Tate, London 2014/Hayward Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

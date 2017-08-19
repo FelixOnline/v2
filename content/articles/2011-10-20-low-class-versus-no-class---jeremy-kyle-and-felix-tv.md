@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
+# Attributes from Felix Online V1
 id: "1572"
 old_path: /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
 aliases:
  - /comment/1572/low-class-versus-no-class---jeremy-kyle-and-felix-tv
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

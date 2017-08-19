@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Emden looks at the implications of the US-China emissions deal
 date: "2014-12-11 20:39:37 +0000"
+# Attributes from Felix Online V1
 id: "5029"
 old_path: /science/5029/a-vital-development-or-too-little-too-late
 aliases:
  - /science/5029/a-vital-development-or-too-little-too-late
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112039-cj914-mount_storm_power_plant,_areial2-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

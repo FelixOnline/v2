@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson rounds up the various league tables from the last year
 date: "2015-05-29 01:05:18 +0100"
+# Attributes from Felix Online V1
 id: "5579"
 old_path: /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
 aliases:
  - /news/5579/imperial-drops-three-places-in-guardian-2016-university-guide
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290206-ps3110-screen-shot-2015-05-29-at-02.05.12.png"
 image_caption: >
   Criteria weighting for the Times Higher Education World University Rankings.
@@ -22,6 +27,7 @@ image_attribution: "Times Higher Education"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

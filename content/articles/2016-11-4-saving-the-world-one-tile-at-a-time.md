@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why Elon Musk’s newest invention is smart, sexy and sustainable
 date: "2016-11-04 12:47:43 +0000"
+# Attributes from Felix Online V1
 id: "6381"
 old_path: /science/6381/saving-the-world-one-tile-at-a-time
 aliases:
  - /science/6381/saving-the-world-one-tile-at-a-time
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041246-aib116-Roof types.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tesla Motors "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

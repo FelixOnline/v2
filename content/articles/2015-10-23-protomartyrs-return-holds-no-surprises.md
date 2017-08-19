@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We review The Agent Intellect
 date: "2015-10-23 11:49:29 +0100"
+# Attributes from Felix Online V1
 id: "5674"
 old_path: /music/5674/protomartyrs-return-holds-no-surprises-
 aliases:
  - /music/5674/protomartyrs-return-holds-no-surprises-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
 image_caption: >
   A withered oak tree – the only thing that truly understands you.
@@ -22,6 +27,7 @@ image_attribution: "Old Oak School of Dao"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Something must be done
 date: "2016-02-26 11:50:58 +0000"
+# Attributes from Felix Online V1
 id: "5972"
 old_path: /music/5972/small-venues-are-dying-out
 aliases:
  - /music/5972/small-venues-are-dying-out
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261150-felix-100club.jpg"
 image_caption: >
   One of the many clubs at risk of shutting down.
@@ -22,6 +27,7 @@ image_attribution: "100 club"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

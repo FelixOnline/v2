@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A reminder that the games, like the kids, are alright
 date: "2011-03-10 20:18:24 +0000"
+# Attributes from Felix Online V1
 id: "1067"
 old_path: /comment/1067/whats-wrong-with-the-new-generation
 aliases:
  - /comment/1067/whats-wrong-with-the-new-generation
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

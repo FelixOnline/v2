@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular run down of animated flicks
 date: "2016-02-19 12:23:12 +0000"
+# Attributes from Felix Online V1
 id: "5944"
 old_path: /tv/5944/-cartoon-corner-the-boondocks
 aliases:
  - /tv/5944/-cartoon-corner-the-boondocks
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191222-felix-tumblr_mt6jj9UTQa1rgam01o1_1280.jpg"
 image_caption: >
   Huey and Riley, partners in crime and brothers at odds.
@@ -22,6 +27,7 @@ image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

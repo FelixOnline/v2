@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ocean acidifcation tests the limits of our seas, bringing them to an irreversible breaking point
 date: "2015-11-20 09:11:37 +0000"
+# Attributes from Felix Online V1
 id: "5749"
 old_path: /science/5749/forgotten-oceans
 aliases:
  - /science/5749/forgotten-oceans
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200911-ygr12-clouds_over_the_atlantic_ocean.jpg"
 image_caption: >
   What’s beyond the horizon for the ecological health of our oceans?
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

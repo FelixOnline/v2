@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From salesmen to sailors, from aircraft engineers to bankers, and from gamblers to garden designers, this gallery is a flight over 400 years of human ingenuity
 date: "2016-12-16 15:00:04 +0000"
+# Attributes from Felix Online V1
 id: "6609"
 old_path: /arts/6609/the-unbearable-lightness-of-maths
 aliases:
  - /arts/6609/the-unbearable-lightness-of-maths
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161459-felix-IMG_7138.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Agnese Abrusci"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "It’s this transformation from darling bud to withered flower that forms the spine of Lorca’s tragic play Yerma and whilst her character at the end may be pretty far from anyone you know, the character at the start is very familiar."
 date: "2011-11-17 21:29:00 +0000"
+# Attributes from Felix Online V1
 id: "1778"
 old_path: /arts/1778/yerma-d-not-to-see-this
 aliases:
  - /arts/1778/yerma-d-not-to-see-this
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172128-pk1811-yerma.jpg"
 image_caption: >
   Tensions come to a head when she confessed to wiping Top Gear off the Sky+ box
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

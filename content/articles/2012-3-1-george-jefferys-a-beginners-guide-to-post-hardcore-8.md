@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lesson 8: Blakfish
 date: "2012-03-01 23:16:46 +0000"
+# Attributes from Felix Online V1
 id: "2298"
 old_path: /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
 aliases:
  - /music/2298/george-jefferys-a-beginners-guide-to-post-hardcore-8
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012316-cac111-blakfish.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

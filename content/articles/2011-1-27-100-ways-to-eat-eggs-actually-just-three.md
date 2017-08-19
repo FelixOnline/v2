@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
+# Attributes from Felix Online V1
 id: "697"
 old_path: /food/697/100-ways-to-eat-eggs-actually-just-three-
 aliases:
  - /food/697/100-ways-to-eat-eggs-actually-just-three-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/pietroizzo"
 image_attribution_link: "http://www.flickr.com/photos/pietroizzo/3514192452/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

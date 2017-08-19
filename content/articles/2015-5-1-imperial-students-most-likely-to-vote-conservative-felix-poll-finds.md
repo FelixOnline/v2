@@ -4,15 +4,20 @@ title: >
 subtitle: >
   35% of students will be voting Conservative next week, whilst another 30% will be choosing Labour
 date: "2015-05-01 00:09:01 +0100"
+# Attributes from Felix Online V1
 id: "5477"
 old_path: /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
 aliases:
  - /news/5477/imperial-students-most-likely-to-vote-conservative-felix-poll-finds
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505011533-ps3110-imperial-college-london-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

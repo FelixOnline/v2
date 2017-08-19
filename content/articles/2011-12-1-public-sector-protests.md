@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Workers took to the streets on Wednesday over Government pension plans
 date: "2011-12-01 21:57:34 +0000"
+# Attributes from Felix Online V1
 id: "1899"
 old_path: /news/1899/public-sector-protests
 aliases:
  - /news/1899/public-sector-protests
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012157-felix-ferix.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Andrew Fok"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

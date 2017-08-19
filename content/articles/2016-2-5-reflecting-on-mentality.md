@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The author, historian, and schoolmaster, Sir Anthony Seldon, spoke to Imperial on the subject of mental health
 date: "2016-02-05 12:51:05 +0000"
+# Attributes from Felix Online V1
 id: "5886"
 old_path: /welfare/5886/reflecting-on-mentality
 aliases:
  - /welfare/5886/reflecting-on-mentality
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051250-felix-stress.jpg"
 image_caption: >
   Stress balls are only part of the solution.
@@ -22,6 +27,7 @@ image_attribution: "Mentality"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

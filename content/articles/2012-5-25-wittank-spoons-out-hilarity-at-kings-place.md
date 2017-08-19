@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taking the Edinburgh Fringe Festival head on
 date: "2012-05-25 18:30:37 +0100"
+# Attributes from Felix Online V1
 id: "2499"
 old_path: /arts/2499/wittank-spoons-out-hilarity-at-kings-place
 aliases:
  - /arts/2499/wittank-spoons-out-hilarity-at-kings-place
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251928-mc4509-wittank-caves2.jpg"
 image_caption: >
   What a wunch of bankers!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

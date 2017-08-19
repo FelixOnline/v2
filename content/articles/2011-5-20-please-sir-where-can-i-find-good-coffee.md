@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thomas McFadden isn’t impressed with the caffeine on campus
 date: "2011-05-20 04:26:46 +0100"
+# Attributes from Felix Online V1
 id: "1216"
 old_path: /food/1216/please-sir-where-can-i-find-good-coffee
 aliases:
  - /food/1216/please-sir-where-can-i-find-good-coffee
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/andai"
 image_attribution_link: "http://www.flickr.com/photos/andai/2527145556/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We’re alienating future female scientists, says George Butcher
 date: "2014-11-20 21:00:51 +0000"
+# Attributes from Felix Online V1
 id: "4913"
 old_path: /comment/4913/shirtgate-just-what-is-the-problem
 aliases:
  - /comment/4913/shirtgate-just-what-is-the-problem
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202100-cj914-matt-taylor-shirt.jpg"
 image_caption: >
   Yeah, THAT shirt.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

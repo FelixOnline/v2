@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A super easy dessert with which you can impress! Enough for two ramekins.
 date: "2012-02-23 20:45:46 +0000"
+# Attributes from Felix Online V1
 id: "2243"
 old_path: /food/2243/dessert-of-the-week---blueberry-cobbler
 aliases:
  - /food/2243/dessert-of-the-week---blueberry-cobbler
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232046-pk1811-blueberrycobbler.jpg"
 image_caption: >
   Blood-red cobblers with a touch of booze
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

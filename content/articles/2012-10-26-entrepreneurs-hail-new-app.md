@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Entrepreneurs meet the founders of the Hailo app
 date: "2012-10-26 02:13:12 +0100"
+# Attributes from Felix Online V1
 id: "2736"
 old_path: /biz/2736/entrepreneurs-hail-new-app
 aliases:
  - /biz/2736/entrepreneurs-hail-new-app
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260313-tna08-hailo-livery-cab-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

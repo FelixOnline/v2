@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New meteorite in Western Australia’s Nullarbor Desert
 date: "2011-01-20 19:20:31 +0000"
+# Attributes from Felix Online V1
 id: "603"
 old_path: /science/603/shooting-the-stars-to-find-meteorites-
 aliases:
  - /science/603/shooting-the-stars-to-find-meteorites-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201918-ks607-timelaps.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

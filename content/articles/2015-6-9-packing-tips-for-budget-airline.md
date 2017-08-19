@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
+# Attributes from Felix Online V1
 id: "5606"
 old_path: /travel/5606/packing-tips-for-budget-airline
 aliases:
  - /travel/5606/packing-tips-for-budget-airline
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506091603-ync111-3146794389_0fc024c5f0_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

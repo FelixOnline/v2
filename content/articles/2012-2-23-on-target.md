@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial fencers win their quarter finals to progress to the BUCS Championship final round to be held in Sheffield
 date: "2012-02-23 21:10:17 +0000"
+# Attributes from Felix Online V1
 id: "2251"
 old_path: /sport/2251/on-target-
 aliases:
  - /sport/2251/on-target-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232107-cac111-dsc06929.gif"
 image_caption: >
   En garde!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

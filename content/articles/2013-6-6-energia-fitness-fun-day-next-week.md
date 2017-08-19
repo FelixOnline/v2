@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Free classes on Wednesday 19 June for all students
 date: "2013-06-06 12:57:34 +0100"
+# Attributes from Felix Online V1
 id: "3663"
 old_path: /news/3663/energia-fitness-fun-day-next-week
 aliases:
  - /news/3663/energia-fitness-fun-day-next-week
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306061401-tna08-energia-fitness-fun-day---a3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

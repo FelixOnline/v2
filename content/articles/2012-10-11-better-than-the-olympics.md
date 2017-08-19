@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Wood reports on the newest sports craze to hit campus
 date: "2012-10-11 20:59:17 +0100"
+# Attributes from Felix Online V1
 id: "2659"
 old_path: /news/2659/better-than-the-olympics
 aliases:
  - /news/2659/better-than-the-olympics
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112159-felix-players.jpeg"
 image_caption: >
   Global celebrity Alan Soltani. Known as the “Tiger Woods of RPS”. Hopefully for the right reasons
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

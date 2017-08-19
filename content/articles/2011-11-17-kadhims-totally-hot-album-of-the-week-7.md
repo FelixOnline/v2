@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A$AP Rooky LiveLove A$AP Tri Angle 2011
 date: "2011-11-17 21:24:13 +0000"
+# Attributes from Felix Online V1
 id: "1776"
 old_path: /music/1776/kadhims-totally-hot-album-of-the-week-7
 aliases:
  - /music/1776/kadhims-totally-hot-album-of-the-week-7
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172123-pk1811-kadhim-review.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

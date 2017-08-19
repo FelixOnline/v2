@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt reports on the caffeine-fuelled epic that was MTSoc’s Autumn season
 date: "2014-12-11 21:23:24 +0000"
+# Attributes from Felix Online V1
 id: "5038"
 old_path: /cands/5038/carrying-the-banner-coffee-newspapers--jazzhands
 aliases:
  - /cands/5038/carrying-the-banner-coffee-newspapers--jazzhands
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112123-cj914-mtsoc.jpg"
 image_caption: >
   The cast relax during a break in rehearsal.
@@ -22,6 +27,7 @@ image_attribution: "Shankho Chaudhuri"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

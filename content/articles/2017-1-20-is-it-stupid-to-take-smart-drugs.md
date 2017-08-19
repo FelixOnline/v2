@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anjeline Joegi looks at the pros and cons to taking the most widely used study drug
 date: "2017-01-20 15:08:05 +0000"
+# Attributes from Felix Online V1
 id: "6662"
 old_path: /science/6662/is-it-stupid-to-take-smart-drugs
 aliases:
  - /science/6662/is-it-stupid-to-take-smart-drugs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Hula Health & Nutrition"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

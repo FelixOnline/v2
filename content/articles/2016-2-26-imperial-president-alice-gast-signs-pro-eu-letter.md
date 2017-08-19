@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
+# Attributes from Felix Online V1
 id: "5955"
 old_path: /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
 aliases:
  - /news/5955/imperial-president-alice-gast-signs-pro-eu-letter
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261122-felix-Screen Shot 2016-02-25 at 17.42.05.png"
 image_caption: >
   Brexit-er Boris out on Exhibition Road.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

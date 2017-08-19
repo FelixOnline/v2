@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's not all just doom and gloom with exams looming...
 date: "2013-05-01 17:54:15 +0100"
+# Attributes from Felix Online V1
 id: "3516"
 old_path: /comment/3516/my-favourite-things-about-exams
 aliases:
  - /comment/3516/my-favourite-things-about-exams
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305031241-tna08-bookpile.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam shows you why Froyo is Android&8217;s coming of age
 date: "2010-06-03 15:16:10 +0100"
+# Attributes from Felix Online V1
 id: "142"
 old_path: /tech/142/android-goes-froyo-tastic
 aliases:
  - /tech/142/android-goes-froyo-tastic
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201006031614-srg03-Android2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

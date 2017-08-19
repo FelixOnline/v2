@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chanon Wongsatayanont explains why seeking help for mental illness can be tough
 date: "2015-06-12 12:43:51 +0100"
+# Attributes from Felix Online V1
 id: "5622"
 old_path: /welfare/5622/dont-keep-it-all-bottled-up
 aliases:
  - /welfare/5622/dont-keep-it-all-bottled-up
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506121343-cj914-o-coming-out-of-the-closet-facebook.jpg"
 image_caption: >
   Admitting that you are suffering from a mental illness can be just as nerve-wracking as admitting you’re gay.
@@ -22,6 +27,7 @@ image_attribution: "noringnosheets.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

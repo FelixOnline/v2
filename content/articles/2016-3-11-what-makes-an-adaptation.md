@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shows should try to be fresh and do something which makes them unique
 date: "2016-03-11 12:05:35 +0000"
+# Attributes from Felix Online V1
 id: "6043"
 old_path: /tv/6043/what-makes-an-adaptation
 aliases:
  - /tv/6043/what-makes-an-adaptation
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111205-felix-the-dresden-files-53f246f8a6b03.jpg"
 image_caption: >
   The Dresden Files; based on a great series, but the show missed the mark.
@@ -22,6 +27,7 @@ image_attribution: "Syfy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amrita Ghosh and Arya Mehta explore solutions to sleep deprivation
 date: "2013-10-24 23:55:48 +0100"
+# Attributes from Felix Online V1
 id: "3916"
 old_path: /science/3916/cant-sleep-its-not-me-its-you
 aliases:
  - /science/3916/cant-sleep-its-not-me-its-you
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250055-felix-sleep-deprivation-2.jpg"
 image_caption: >
   Everybody knows that sleeping on a book allows knowledge to enter your brain by osmosis, guaranteein
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

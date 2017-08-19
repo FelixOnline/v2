@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anonymous donation announced at special general meeting could save historic Albermarle Street premises
 date: "2013-03-25 18:08:54 +0000"
+# Attributes from Felix Online V1
 id: "3497"
 old_path: /news/3497/royal-institution-receives-debt-clearing-donation
 aliases:
  - /news/3497/royal-institution-receives-debt-clearing-donation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303261816-pk1811-royal_institution.jpg"
 image_caption: >
   The Royal Institution's home is located near Green Park
@@ -22,6 +27,7 @@ image_attribution: "Mike Peel"
 image_attribution_link: "http://www.mikepeel.net/"
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

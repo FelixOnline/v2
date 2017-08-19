@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Finance taking over
 date: "2016-02-26 12:10:41 +0000"
+# Attributes from Felix Online V1
 id: "5988"
 old_path: /cands/5988/ic-finance-society-hits-2000-members
 aliases:
  - /cands/5988/ic-finance-society-hits-2000-members
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261209-felix-DSC 2-8310.jpg"
 image_caption: >
   The gang.
@@ -22,6 +27,7 @@ image_attribution: "Abhishek Mukherjee"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

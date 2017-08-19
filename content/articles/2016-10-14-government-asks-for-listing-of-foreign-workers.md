@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stop press: our editor is Greek
 date: "2016-10-14 09:22:38 +0100"
+# Attributes from Felix Online V1
 id: "6327"
 old_path: /news/6327/government-asks-for-listing-of-foreign-workers
 aliases:
  - /news/6327/government-asks-for-listing-of-foreign-workers
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141120-felix-9510523656_86c78e534f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Foreign and Commonwealth Office"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

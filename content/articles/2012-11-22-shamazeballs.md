@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucia Podhorska thinks it was more of a shambles
 date: "2012-11-22 23:02:44 +0000"
+# Attributes from Felix Online V1
 id: "2938"
 old_path: /tv/2938/shamazeballs-
 aliases:
  - /tv/2938/shamazeballs-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222302-tna08-xfactor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

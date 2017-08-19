@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Cook delivers his first keynote speech
 date: "2011-10-07 10:42:00 +0100"
+# Attributes from Felix Online V1
 id: "1489"
 old_path: /tech/1489/iphone-4s-debuts-to-mixed-reactions
 aliases:
  - /tech/1489/iphone-4s-debuts-to-mixed-reactions
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A review of David Ropeik's book on fear perception
 date: "2011-02-03 20:03:22 +0000"
+# Attributes from Felix Online V1
 id: "733"
 old_path: /science/733/how-risky-is-it-really-
 aliases:
  - /science/733/how-risky-is-it-really-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

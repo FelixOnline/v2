@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Welcome to IC Synchronised Swimming!
 date: "2013-10-25 01:20:12 +0100"
+# Attributes from Felix Online V1
 id: "3954"
 old_path: /sport/3954/synchronised-swimming-is-in
 aliases:
  - /sport/3954/synchronised-swimming-is-in
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250220-felix-natsynchro-101.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC SYNCHRO/G.D. Photos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

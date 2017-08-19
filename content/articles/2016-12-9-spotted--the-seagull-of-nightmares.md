@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Coles tells the story of a vicious murder she witnessed whilst in search of a quiet cuppa
 date: "2016-12-09 12:07:00 +0000"
+# Attributes from Felix Online V1
 id: "6565"
 old_path: /science/6565/spotted--the-seagull-of-nightmares
 aliases:
  - /science/6565/spotted--the-seagull-of-nightmares
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091206-aib116-seagull-4911_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

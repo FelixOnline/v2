@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Patricia Poths explains popular science books
 date: "2014-11-06 19:44:20 +0000"
+# Attributes from Felix Online V1
 id: "4782"
 old_path: /science/4782/discovering-the-beauty-behind-the-mundane-
 aliases:
  - /science/4782/discovering-the-beauty-behind-the-mundane-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062016-snb11-stuff-matters.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

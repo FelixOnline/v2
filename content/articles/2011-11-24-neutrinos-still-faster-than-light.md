@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Improved experiment yields same results
 date: "2011-11-24 20:56:31 +0000"
+# Attributes from Felix Online V1
 id: "1810"
 old_path: /science/1810/neutrinos-still-faster-than-light
 aliases:
  - /science/1810/neutrinos-still-faster-than-light
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242053-pk1811-light-speed-limit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

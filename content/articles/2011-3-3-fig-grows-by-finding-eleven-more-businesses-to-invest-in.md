@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The finale to Sina Ataherian’s two-part interview with James King, CEO of FIG
 date: "2011-03-03 20:36:57 +0000"
+# Attributes from Felix Online V1
 id: "1013"
 old_path: /biz/1013/fig-grows-by-finding-eleven-more-businesses-to-invest-in-
 aliases:
  - /biz/1013/fig-grows-by-finding-eleven-more-businesses-to-invest-in-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032031-nm1010-figfigfi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

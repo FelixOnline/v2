@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rumbling racial tensions over Halloween costumes, censorship, and safe spaces have caused some students to take direct action at the Ivy League school
 date: "2015-11-13 14:17:01 +0000"
+# Attributes from Felix Online V1
 id: "5719"
 old_path: /news/5719/race-row-at-yale-sparks-protest
 aliases:
  - /news/5719/race-row-at-yale-sparks-protest
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131416-ygr12-screen-shot-2015-11-11-at-20.53.32.png"
 image_caption: >
   Students protesting on Monday
@@ -22,6 +27,7 @@ image_attribution: "Twitter / @hannuhmontanuhh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

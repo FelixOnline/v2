@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saskia Verhagen and Alice Yang take a look back through fashion history as they recap the looks and icons of the past 62 years
 date: "2011-11-03 21:17:31 +0000"
+# Attributes from Felix Online V1
 id: "1684"
 old_path: /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
 aliases:
  - /fashion/1684/fashion-through-the-decades-the-good-and-the-bad
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

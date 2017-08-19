@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jane Courtnell reports on research into alternative energy sources
 date: "2015-03-20 00:49:38 +0000"
+# Attributes from Felix Online V1
 id: "5417"
 old_path: /science/5417/whats-your-angle-willows-and-biofuels
 aliases:
  - /science/5417/whats-your-angle-willows-and-biofuels
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503200049-cj914-newseventsimages.png"
 image_caption: >
   CT scan of willow showing fibre (brown) and vessels (blue)
@@ -22,6 +27,7 @@ image_attribution: "BMC Plant Biology "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

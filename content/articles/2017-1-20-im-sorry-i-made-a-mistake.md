@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jian Li Chew apologises for his article last week in light of new information
 date: "2017-01-20 15:01:00 +0000"
+# Attributes from Felix Online V1
 id: "6659"
 old_path: /comment/6659/im-sorry-i-made-a-mistake
 aliases:
  - /comment/6659/im-sorry-i-made-a-mistake
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201500-felix-Screen Shot 2017-01-20 at 15.00.30.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

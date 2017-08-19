@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Debby Shorley retires, but will no doubt still be working hard
 date: "2013-01-10 22:16:17 +0000"
+# Attributes from Felix Online V1
 id: "3082"
 old_path: /news/3082/head-of-library-sevices-retires
 aliases:
  - /news/3082/head-of-library-sevices-retires
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102215-tna08-debby.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jan Piotrowski"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

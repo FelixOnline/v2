@@ -4,15 +4,20 @@ title: >
 subtitle: >
   President attacked for amenities fund comments
 date: "2011-02-24 19:42:39 +0000"
+# Attributes from Felix Online V1
 id: "867"
 old_path: /news/867/hall-survey-delayed
 aliases:
  - /news/867/hall-survey-delayed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171936-ks607-hallshal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

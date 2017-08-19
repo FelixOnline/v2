@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Landslides aren't just dirt
 date: "2016-02-26 11:32:59 +0000"
+# Attributes from Felix Online V1
 id: "5961"
 old_path: /science/5961/water-landslides
 aliases:
  - /science/5961/water-landslides
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

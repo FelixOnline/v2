@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The concrete colossus captures the optimism of the architechural era
 date: "2016-05-13 08:53:42 +0100"
+# Attributes from Felix Online V1
 id: "6147"
 old_path: /comment/6147/reflections-on-the-barbican-estate
 aliases:
  - /comment/6147/reflections-on-the-barbican-estate
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131053-felix-Barbican Estate Today - Michael Shaw.jpg"
 image_caption: >
   Shafts of light astride weathered concrete columns: The Barbican Estate today.
@@ -22,6 +27,7 @@ image_attribution: "Michael Shaw"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

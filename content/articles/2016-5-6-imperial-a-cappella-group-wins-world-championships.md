@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They were even featured on the worldwide Snapchat story
 date: "2016-05-06 09:44:30 +0100"
+# Attributes from Felix Online V1
 id: "6116"
 old_path: /news/6116/imperial-a-cappella-group-wins-world-championships
 aliases:
  - /news/6116/imperial-a-cappella-group-wins-world-championships
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061044-felix-JMP_8002.jpg"
 image_caption: >
   The lads performed songs by British artists.
@@ -22,6 +27,7 @@ image_attribution: "Joe Martinez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

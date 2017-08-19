@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jean-Claude Besse on the runaway success this year
 date: "2013-02-22 02:00:53 +0000"
+# Attributes from Felix Online V1
 id: "3370"
 old_path: /sport/3370/hyde-park-shows-all-a-relay-good-time
 aliases:
  - /sport/3370/hyde-park-shows-all-a-relay-good-time
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220200-tna08-841254_10152577440335607_98816022_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

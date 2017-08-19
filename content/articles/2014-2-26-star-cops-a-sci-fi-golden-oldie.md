@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First let me say – no, it’s not as bad as its name suggests. In fact it’s nothing like its name suggest. The show itself jokes about how bad a name it is in its very first episode.
 date: "2014-02-26 12:59:12 +0000"
+# Attributes from Felix Online V1
 id: "4438"
 old_path: /tv/4438/star-cops-a-sci-fi-golden-oldie
 aliases:
  - /tv/4438/star-cops-a-sci-fi-golden-oldie
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

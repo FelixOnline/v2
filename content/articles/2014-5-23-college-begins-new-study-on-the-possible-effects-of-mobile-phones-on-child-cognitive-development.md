@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week College researchers began a new study investigating the possible effects mobile phones and other wireless devices may have on the mental development of children.
 date: "2014-05-23 14:24:27 +0100"
+# Attributes from Felix Online V1
 id: "4629"
 old_path: /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
 aliases:
  - /news/4629/college-begins-new-study-on-the-possible-effects-of-mobile-phones-on-child-cognitive-development
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231524-jal08-1577_news_phone_ellen_mathieson.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Joe Letts / Ellen Mathieson / Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

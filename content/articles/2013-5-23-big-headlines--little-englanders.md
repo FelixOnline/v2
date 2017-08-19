@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
+# Attributes from Felix Online V1
 id: "3610"
 old_path: /politics/3610/big-headlines--little-englanders
 aliases:
  - /politics/3610/big-headlines--little-englanders
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A complete rip-off or a shortcut to your dream job?
 date: "2011-02-03 20:30:06 +0000"
+# Attributes from Felix Online V1
 id: "748"
 old_path: /biz/748/the-brand-spanking-new-bloomberg-assessment-test
 aliases:
  - /biz/748/the-brand-spanking-new-bloomberg-assessment-test
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032026-nm1010-helphelp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

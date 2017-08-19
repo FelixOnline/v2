@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Surprise, surprise, another TV show with an indefensible plot...
 date: "2011-01-27 19:10:18 +0000"
+# Attributes from Felix Online V1
 id: "663"
 old_path: /science/663/primeval-monumentally-stupid
 aliases:
  - /science/663/primeval-monumentally-stupid
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

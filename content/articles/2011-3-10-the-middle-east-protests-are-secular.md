@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Navid Nabijou argues that you can’t claim the revolutions for Islam
 date: "2011-03-10 20:09:47 +0000"
+# Attributes from Felix Online V1
 id: "1063"
 old_path: /politics/1063/the-middle-east-protests-are-secular
 aliases:
  - /politics/1063/the-middle-east-protests-are-secular
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103102007-nm1010-turkeytu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sarah Jeyaprakash"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

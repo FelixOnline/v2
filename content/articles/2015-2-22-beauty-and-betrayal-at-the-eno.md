@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng takes on Verdi’s classic La Traviata
 date: "2015-02-22 17:32:13 +0000"
+# Attributes from Felix Online V1
 id: "5301"
 old_path: /arts/5301/beauty-and-betrayal-at-the-eno
 aliases:
  - /arts/5301/beauty-and-betrayal-at-the-eno
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502221731-ps3110-11315.jpeg"
 image_caption: >
   Elizabeth Zharoff as Vittoria, in ENO’s production of Verdi’s La Traviata
@@ -22,6 +27,7 @@ image_attribution: "Donald Cooper"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

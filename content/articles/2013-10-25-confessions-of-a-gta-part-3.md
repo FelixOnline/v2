@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Sometimes the solutions are not the problem”
 date: "2013-10-25 00:06:36 +0100"
+# Attributes from Felix Online V1
 id: "3920"
 old_path: /comment/3920/confessions-of-a-gta-part-3
 aliases:
  - /comment/3920/confessions-of-a-gta-part-3
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310121330-jal08-comment_gta.jpg"
 image_caption: >
   Seriously starting to wonder if the GTA is actually Jack Black...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Krestas shares his top ten resolutions for a healthier, tastier year!
 date: "2012-01-19 21:35:34 +0000"
+# Attributes from Felix Online V1
 id: "2031"
 old_path: /food/2031/2012-a-food-odyssey
 aliases:
  - /food/2031/2012-a-food-odyssey
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192130-felix-red-fruit-pulp659.jpg"
 image_caption: >
   Stock those cupboards with delicious goods, but remember to clear them out once in a while, yeah?
@@ -22,6 +27,7 @@ image_attribution: "alegriphotos.com"
 image_attribution_link: "http://www.alegriphotos.com/Red_fruit_pulp-photo-e1e929efc76b2db80206486d55794125.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

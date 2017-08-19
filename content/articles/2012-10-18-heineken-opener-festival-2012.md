@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "M83 managed to get the crowd disgustingly sweaty"
 date: "2012-10-18 21:27:28 +0100"
+# Attributes from Felix Online V1
 id: "2707"
 old_path: /music/2707/heineken-opener-festival-2012
 aliases:
  - /music/2707/heineken-opener-festival-2012
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191359-tna08-opener.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

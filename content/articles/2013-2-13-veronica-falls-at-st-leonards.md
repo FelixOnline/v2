@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England goes to church on a Friday night, and enjoys it...
 date: "2013-02-13 12:57:18 +0000"
+# Attributes from Felix Online V1
 id: "3297"
 old_path: /music/3297/veronica-falls-at-st-leonards
 aliases:
  - /music/3297/veronica-falls-at-st-leonards
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131253-tna08-1-14.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

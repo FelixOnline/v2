@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men's first team miss out on top spot at Oxford
 date: "2010-01-14 19:29:02 +0000"
+# Attributes from Felix Online V1
 id: "38"
 old_path: /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
 aliases:
  - /sport/38/mens-first-team-miss-out-on-top-spot-at-oxford
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141927-rsp07-fencing2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

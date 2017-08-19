@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Greg Hands denies claims by left-wing political blog
 date: "2011-05-26 18:53:44 +0100"
+# Attributes from Felix Online V1
 id: "1252"
 old_path: /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
 aliases:
  - /news/1252/tory-mp-implicated-in-conservative-society-tour-charge
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105261955-felix-_49091996_-25.jpeg"
 image_caption: >
   Greg Hands MP
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

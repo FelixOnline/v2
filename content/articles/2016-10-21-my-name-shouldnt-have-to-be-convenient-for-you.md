@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ndidi Ukachi Iwumene discusses the importance of names as a part of one’s identity
 date: "2016-10-21 12:13:39 +0100"
+# Attributes from Felix Online V1
 id: "6342"
 old_path: /comment/6342/my-name-shouldnt-have-to-be-convenient-for-you
 aliases:
  - /comment/6342/my-name-shouldnt-have-to-be-convenient-for-you
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610211411-ajp15-9608807888_d691ecb613_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "US Department of Education"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

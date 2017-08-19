@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on netball’s continued success
 date: "2012-12-07 03:15:02 +0000"
+# Attributes from Felix Online V1
 id: "3062"
 old_path: /sport/3062/netball-girls-on-a-roll
 aliases:
  - /sport/3062/netball-girls-on-a-roll
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070312-tna08-netball1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

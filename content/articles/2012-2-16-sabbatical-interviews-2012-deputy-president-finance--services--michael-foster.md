@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The current DPFS speaks on his time in office
 date: "2012-02-16 22:58:31 +0000"
+# Attributes from Felix Online V1
 id: "2217"
 old_path: /news/2217/sabbatical-interviews-2012-deputy-president-finance--services--michael-foster
 aliases:
  - /news/2217/sabbatical-interviews-2012-deputy-president-finance--services--michael-foster
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162353-sjw209-mfoster.jpg"
 image_caption: >
   Deputy President (Finance & Services) Michael Foster
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

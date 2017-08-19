@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
+# Attributes from Felix Online V1
 id: "3979"
 old_path: /comment/3979/boris-resolute-vertebrate-jelly-part-ii
 aliases:
  - /comment/3979/boris-resolute-vertebrate-jelly-part-ii
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311011054-felix-boris.jpg"
 image_caption: >
   Boris Johnson not at Imperial
@@ -22,6 +27,7 @@ image_attribution: "Daily Mail"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

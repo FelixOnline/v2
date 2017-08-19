@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Daniel Ogbonna shares the many highs and lows of adjusting to London culture
 date: "2016-10-21 10:25:51 +0100"
+# Attributes from Felix Online V1
 id: "6341"
 old_path: /comment/6341/lagos-to-london--my-transition
 aliases:
  - /comment/6341/lagos-to-london--my-transition
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610211219-so515-Daniel Ogbonna.jpg"
 image_caption: >
   Writer, Daniel Ogbonna
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

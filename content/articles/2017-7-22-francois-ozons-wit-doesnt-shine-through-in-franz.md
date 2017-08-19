@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This was not an enjoyable film
 date: "2017-07-22 19:45:35 +0100"
+# Attributes from Felix Online V1
 id: "7028"
 old_path: /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
 aliases:
  - /film/7028/francois-ozons-wit-doesnt-shine-through-in-franz
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201707222141-ff712-frantz_03-h_2016.jpg"
 image_caption: >
   Franz is a film
@@ -22,6 +27,7 @@ image_attribution: "Artificial Eye"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter finally gets to grips with a warm piece of potato. Oh, or maybe he meant the band...
 date: "2012-10-26 03:12:42 +0100"
+# Attributes from Felix Online V1
 id: "2769"
 old_path: /music/2769/hot-chip-are-hot-
 aliases:
  - /music/2769/hot-chip-are-hot-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260412-tna08-hot-chip.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

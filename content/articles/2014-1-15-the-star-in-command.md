@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Khurram Liaqat, Writer at the BallGum Blog reviews one of the most anticipated kickstarter games for mobiles
 date: "2014-01-15 16:32:31 +0000"
+# Attributes from Felix Online V1
 id: "4214"
 old_path: /games/4214/the-star-in-command
 aliases:
  - /games/4214/the-star-in-command
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ir112"
 author_name: "Imran Rashid"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

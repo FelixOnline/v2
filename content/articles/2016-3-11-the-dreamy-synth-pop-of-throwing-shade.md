@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A hazy blur of sharp light and colour
 date: "2016-03-11 11:49:02 +0000"
+# Attributes from Felix Online V1
 id: "6033"
 old_path: /music/6033/the-dreamy-synth-pop-of-throwing-shade
 aliases:
  - /music/6033/the-dreamy-synth-pop-of-throwing-shade
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111148-felix-throwingshade.jpg"
 image_caption: >
   The iridescent artwork of House of Silk.
@@ -22,6 +27,7 @@ image_attribution: "Ninja Tune"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

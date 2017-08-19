@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A report from right inside San Francisco
 date: "2012-11-09 12:26:24 +0000"
+# Attributes from Felix Online V1
 id: "2846"
 old_path: /politics/2846/a-letter-from-america
 aliases:
  - /politics/2846/a-letter-from-america
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091220-tna08-img_6345edit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

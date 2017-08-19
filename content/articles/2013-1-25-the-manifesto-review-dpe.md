@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Doug Hunt , Deputy President (Education) wasn’t a mug and voted for Doug. He sees what he has and hasn’t done this year...
 date: "2013-01-25 02:03:19 +0000"
+# Attributes from Felix Online V1
 id: "3191"
 old_path: /news/3191/the-manifesto-review-dpe
 aliases:
  - /news/3191/the-manifesto-review-dpe
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250202-tna08-doug-white-background.jpg"
 image_caption: >
   Doug Hunt, Deputy President (Education)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

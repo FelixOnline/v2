@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Strongest Imperial team in years
 date: "2016-11-07 13:22:01 +0000"
+# Attributes from Felix Online V1
 id: "6409"
 old_path: /sport/6409/ic-cross-country-record-turnout-at-first-race
 aliases:
  - /sport/6409/ic-cross-country-record-turnout-at-first-race
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071321-felix-Robpoint.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

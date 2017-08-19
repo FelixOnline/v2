@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A word to the wise from 'the other side' of Imperial
 date: "2011-10-14 00:32:56 +0100"
+# Attributes from Felix Online V1
 id: "1538"
 old_path: /comment/1538/im-a-girl-with-opinions-just-deal-with-it
 aliases:
  - /comment/1538/im-a-girl-with-opinions-just-deal-with-it
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gaddafi has once again demonstrated that he's a massive nutcase
 date: "2011-03-17 21:33:47 +0000"
+# Attributes from Felix Online V1
 id: "1103"
 old_path: /comment/1103/mad-muammar-
 aliases:
  - /comment/1103/mad-muammar-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix reads it so you don’t have to (you’re welcome)
 date: "2016-10-21 09:18:38 +0100"
+# Attributes from Felix Online V1
 id: "6337"
 old_path: /news/6337/alice-gasts-autumn-letter
 aliases:
  - /news/6337/alice-gasts-autumn-letter
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610211111-so515-Aghast.jpg"
 image_caption: >
   You Can Call me Al
@@ -22,6 +27,7 @@ image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Have you ever looked at a balloon and thought “I would”? Well you know what they say. You haven’t really played until you’ve played with a 16-inch balloon. And by they I mean looners.
 date: "2017-02-24 15:30:15 +0000"
+# Attributes from Felix Online V1
 id: "6830"
 old_path: /sex/6830/enter-the-kink--looning-
 aliases:
  - /sex/6830/enter-the-kink--looning-
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241530-felix-Screen Shot 2017-02-24 at 15.29.54.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

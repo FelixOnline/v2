@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “How sweet and fitting it is to die for one’s country”
 date: "2012-01-26 22:03:04 +0000"
+# Attributes from Felix Online V1
 id: "2050"
 old_path: /tv/2050/dulce-et-decorum-est-pro-patria-mori
 aliases:
  - /tv/2050/dulce-et-decorum-est-pro-patria-mori
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262209-felix-birdsongpic.jpg"
 image_caption: >
   I’m rather ravishing, don’t you think?
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah discusses the five-decade-spanning James Bond series
 date: "2012-02-16 20:59:48 +0000"
+# Attributes from Felix Online V1
 id: "2180"
 old_path: /film/2180/tim-loves-timothy
 aliases:
  - /film/2180/tim-loves-timothy
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162057-pk1811-007-in-licence-to-kill-wallpapers_15457_1280x960.jpg"
 image_caption: >
   Look at those blue eyes... swoon...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

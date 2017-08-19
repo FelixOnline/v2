@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The questions it poses are broader beyond even the breadth of the works it displays
 date: "2011-02-27 19:26:48 +0000"
+# Attributes from Felix Online V1
 id: "913"
 old_path: /arts/913/modern-british-sculpture
 aliases:
  - /arts/913/modern-british-sculpture
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271925-ks607-fishinca.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

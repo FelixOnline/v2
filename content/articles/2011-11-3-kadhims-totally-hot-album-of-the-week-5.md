@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Balam Acab – Wander/Wonder (2011)
 date: "2011-11-03 20:41:53 +0000"
+# Attributes from Felix Online V1
 id: "1671"
 old_path: /music/1671/kadhims-totally-hot-album-of-the-week-5
 aliases:
  - /music/1671/kadhims-totally-hot-album-of-the-week-5
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032041-pk1811-timthumb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

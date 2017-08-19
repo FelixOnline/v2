@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes.
 date: "2014-06-23 13:11:28 +0100"
+# Attributes from Felix Online V1
 id: "4707"
 old_path: /comment/4707/does-discrimination-dominate-in-india--a-response
 aliases:
  - /comment/4707/does-discrimination-dominate-in-india--a-response
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

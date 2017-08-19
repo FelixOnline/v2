@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey is really annoyed by the new hand dryers in Blackett and Huxley, and wants you to share your equally colossal problems with her in Comment this year
 date: "2013-09-29 13:55:50 +0100"
+# Attributes from Felix Online V1
 id: "3768"
 old_path: /comment/3768/let-the-world-hear-your-voice-sing
 aliases:
  - /comment/3768/let-the-world-hear-your-voice-sing
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291455-tna08-hand-dryer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

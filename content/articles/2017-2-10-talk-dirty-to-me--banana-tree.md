@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shanzeh embarks on an Indonesian food trip for an amazing price and, on top of that near college, not eating but rather experiencing a whole spectrum of flavours and making memories
 date: "2017-02-10 16:10:40 +0000"
+# Attributes from Felix Online V1
 id: "6771"
 old_path: /food/6771/talk-dirty-to-me--banana-tree
 aliases:
  - /food/6771/talk-dirty-to-me--banana-tree
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101610-felix-Picture13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Shanzeh Khurshid"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

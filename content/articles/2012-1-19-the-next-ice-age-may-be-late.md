@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carys Cook on how human activity may cause a delay in the next ice age
 date: "2012-01-19 20:03:21 +0000"
+# Attributes from Felix Online V1
 id: "2003"
 old_path: /science/2003/the-next-ice-age-may-be-late
 aliases:
  - /science/2003/the-next-ice-age-may-be-late
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192001-pk1811-aylesiceshelfoffshore30may2006vincent3.jpg"
 image_caption: >
   A super cool place to live, but at what cost?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

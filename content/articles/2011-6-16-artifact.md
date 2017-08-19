@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students from Imperial and the Royal College of Art team up in daring collaboration. Meredith Thomas reports
 date: "2011-06-16 20:40:47 +0100"
+# Attributes from Felix Online V1
 id: "1396"
 old_path: /arts/1396/artifact
 aliases:
  - /arts/1396/artifact
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

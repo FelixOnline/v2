@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Delivering ‘death from above’ won’t weaken ISIS’ battle for hearts and minds
 date: "2015-11-19 22:42:12 +0000"
+# Attributes from Felix Online V1
 id: "5746"
 old_path: /comment/5746/are-air-strikes-the-right-response
 aliases:
  - /comment/5746/are-air-strikes-the-right-response
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511192241-ygr12-black-and-white-city-bird-people.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "pexels.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

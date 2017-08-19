@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
+# Attributes from Felix Online V1
 id: "412"
 old_path: /news/412/activists-plan-lib-dem-hq-occupation-
 aliases:
  - /news/412/activists-plan-lib-dem-hq-occupation-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182149-ks607-millbank.jpg"
 image_caption: >
   Protestors at Millbank Tower
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

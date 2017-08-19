@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park runs down the best of the 70s
 date: "2013-01-10 23:08:15 +0000"
+# Attributes from Felix Online V1
 id: "3105"
 old_path: /film/3105/the-best-films-from-the-1970s
 aliases:
  - /film/3105/the-best-films-from-the-1970s
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102305-tna08-godfather.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

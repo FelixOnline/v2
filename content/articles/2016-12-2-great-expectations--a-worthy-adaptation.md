@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christian Burgess delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing
 date: "2016-12-02 15:03:09 +0000"
+# Attributes from Felix Online V1
 id: "6538"
 old_path: /arts/6538/great-expectations--a-worthy-adaptation
 aliases:
  - /arts/6538/great-expectations--a-worthy-adaptation
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Guildhall School | Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

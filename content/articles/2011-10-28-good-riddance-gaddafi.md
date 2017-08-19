@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The only way for Libya to start afresh was with the death of Gaddafi
 date: "2011-10-28 00:31:29 +0100"
+# Attributes from Felix Online V1
 id: "1631"
 old_path: /comment/1631/good-riddance-gaddafi
 aliases:
  - /comment/1631/good-riddance-gaddafi
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

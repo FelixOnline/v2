@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We have an obsession with cars – it needs to stop
 date: "2011-11-17 21:37:33 +0000"
+# Attributes from Felix Online V1
 id: "1781"
 old_path: /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
 aliases:
  - /comment/1781/car-sick-why-we-need-to-reclaim-our-streets
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172137-felix-luke-sheldon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

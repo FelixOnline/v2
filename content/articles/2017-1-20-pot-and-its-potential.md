@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lara Bailey looks at the useful applications of marijuana
 date: "2017-01-20 15:09:38 +0000"
+# Attributes from Felix Online V1
 id: "6664"
 old_path: /science/6664/pot-and-its-potential
 aliases:
  - /science/6664/pot-and-its-potential
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201509-felix-baking-1293986_1280.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

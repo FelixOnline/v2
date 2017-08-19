@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial has erupted with flyers, posters, sweets, and lecture speeches, Tim Arbabzadah reports on the latest goings on as election campaigning kicks off
 date: "2013-03-07 23:48:23 +0000"
+# Attributes from Felix Online V1
 id: "3446"
 old_path: /news/3446/the-big-elections-2013-the-race-is-on
 aliases:
  - /news/3446/the-big-elections-2013-the-race-is-on
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

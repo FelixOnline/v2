@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emotions run high at film artist and photographer Zarina Bhimji’s retrospective at Whitechapel
 date: "2012-01-26 22:19:28 +0000"
+# Attributes from Felix Online V1
 id: "2059"
 old_path: /arts/2059/enter-the-zarina
 aliases:
  - /arts/2059/enter-the-zarina
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262218-ams111-your-sadness-is-drunk---003.jpg"
 image_caption: >
   ‘Your Sadness is Drunk’
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oppression in Sri Lanka may lead on to more uprisings
 date: "2011-11-24 22:43:42 +0000"
+# Attributes from Felix Online V1
 id: "1840"
 old_path: /comment/1840/sri-lankas-silent-genocide-
 aliases:
  - /comment/1840/sri-lankas-silent-genocide-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242243-pk1811-srilankaarmy.jpg"
 image_caption: >
   Sri Lankan armed forces are accused of carrying out genocide
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

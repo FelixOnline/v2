@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oscar favorite for best motion picture.
 date: "2011-01-27 20:09:14 +0000"
+# Attributes from Felix Online V1
 id: "686"
 old_path: /film/686/gutsy-black-swan-should-get-best-picture
 aliases:
  - /film/686/gutsy-black-swan-should-get-best-picture
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

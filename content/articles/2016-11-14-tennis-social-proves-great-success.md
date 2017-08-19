@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They had a ball
 date: "2016-11-14 14:20:28 +0000"
+# Attributes from Felix Online V1
 id: "6449"
 old_path: /sport/6449/tennis-social-proves-great-success
 aliases:
  - /sport/6449/tennis-social-proves-great-success
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141420-felix-thumbnail_TennisComp1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

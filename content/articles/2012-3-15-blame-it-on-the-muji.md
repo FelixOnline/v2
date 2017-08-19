@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Step into the world of Japan with MUJI
 date: "2012-03-15 20:13:39 +0000"
+# Attributes from Felix Online V1
 id: "2357"
 old_path: /arts/2357/blame-it-on-the-muji
 aliases:
  - /arts/2357/blame-it-on-the-muji
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152006-ig711-l1010502.jpg"
 image_caption: >
   The cost-cutting decision to construct open toilets in one corner of the exhbition was not widely we
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

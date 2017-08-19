@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They don't reward the player enough to sustain his/her attention
 date: "2011-02-27 12:36:02 +0000"
+# Attributes from Felix Online V1
 id: "901"
 old_path: /comment/901/video-games-just-arent-as-good-as-they-used-to-be
 aliases:
  - /comment/901/video-games-just-arent-as-good-as-they-used-to-be
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271233-ks607-jigglypu.jpg"
 image_caption: >
   Oh Jigglypuff, so many memories...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

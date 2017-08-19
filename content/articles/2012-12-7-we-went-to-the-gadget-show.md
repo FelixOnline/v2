@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl and the Felix Tech team play around on some of the latest tech
 date: "2012-12-07 02:52:24 +0000"
+# Attributes from Felix Online V1
 id: "3055"
 old_path: /tech/3055/we-went-to-the-gadget-show
 aliases:
  - /tech/3055/we-went-to-the-gadget-show
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070247-tna08-gadget1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

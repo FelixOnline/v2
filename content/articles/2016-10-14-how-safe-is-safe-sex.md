@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The side effects linked to hormonal contraception.
 date: "2016-10-14 11:03:28 +0100"
+# Attributes from Felix Online V1
 id: "6335"
 old_path: /science/6335/how-safe-is-safe-sex
 aliases:
  - /science/6335/how-safe-is-safe-sex
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141302-so515-3268160011_f75ba2e782_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sarah C"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

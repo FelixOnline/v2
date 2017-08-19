@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film runs down the winners and losers
 date: "2013-05-28 13:50:09 +0100"
+# Attributes from Felix Online V1
 id: "3624"
 old_path: /film/3624/2013-cannes-film-festival
 aliases:
  - /film/3624/2013-cannes-film-festival
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305281436-tna08-movies-cannes-film-festival-2013-poster-paul-newman-joanne-woodward.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

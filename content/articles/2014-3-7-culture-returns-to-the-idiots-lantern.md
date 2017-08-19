@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ryan Ehlers takes a ride in Stewart Lee’s Comedy Vehicle
 date: "2014-03-07 05:55:28 +0000"
+# Attributes from Felix Online V1
 id: "4469"
 old_path: /tv/4469/culture-returns-to-the-idiots-lantern
 aliases:
  - /tv/4469/culture-returns-to-the-idiots-lantern
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

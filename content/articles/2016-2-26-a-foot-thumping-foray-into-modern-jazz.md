@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
+# Attributes from Felix Online V1
 id: "5973"
 old_path: /music/5973/a-foot-thumping-foray-into-modern-jazz
 aliases:
  - /music/5973/a-foot-thumping-foray-into-modern-jazz
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261152-felix-gogopenguin.jpg"
 image_caption: >
   The band named themself after a stuffed penguin.
@@ -22,6 +27,7 @@ image_attribution: "GoGo Penguin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Quite an innocuous, and yet surprising vegetable, the humble aubergine (or eggplant) is a versatile food for all manners of culinary pursuits, and others.
 date: "2017-01-20 15:44:04 +0000"
+# Attributes from Felix Online V1
 id: "6675"
 old_path: /food/6675/aubergines-and-their-many-uses
 aliases:
  - /food/6675/aubergines-and-their-many-uses
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201543-felix-Screen Shot 2017-01-20 at 15.42.24.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

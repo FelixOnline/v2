@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Rosenthal on the bibliography of Henry James
 date: "2013-10-12 00:27:01 +0100"
+# Attributes from Felix Online V1
 id: "3837"
 old_path: /books/3837/best-of-henry-james
 aliases:
  - /books/3837/best-of-henry-james
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310120126-jal08-james.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hollywood’s extortionate spending on last year’s worst films.
 date: "2011-02-03 19:52:50 +0000"
+# Attributes from Felix Online V1
 id: "729"
 old_path: /film/729/why-are-we-still-accepting-bad-films
 aliases:
  - /film/729/why-are-we-still-accepting-bad-films
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031949-nm1010-tourrist.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jh308"
 author_name: "Jade Hoffman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

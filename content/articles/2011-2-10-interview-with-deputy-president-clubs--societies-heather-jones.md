@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "It often requires a lot of patience and being able to multi-task is pretty useful. That said, it’s amazingly rewarding and challenging"
 date: "2011-02-10 20:01:48 +0000"
+# Attributes from Felix Online V1
 id: "761"
 old_path: /news/761/interview-with-deputy-president-clubs--societies-heather-jones
 aliases:
  - /news/761/interview-with-deputy-president-clubs--societies-heather-jones
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102101959-ks607-heather.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

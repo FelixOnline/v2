@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oxford follows Cambridge and Imperial and announces rise in fees
 date: "2011-03-17 20:59:13 +0000"
+# Attributes from Felix Online V1
 id: "1098"
 old_path: /news/1098/oxford-university-formally-signals-rise-to-9000-fees
 aliases:
  - /news/1098/oxford-university-formally-signals-rise-to-9000-fees
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104212139-felix-bodleian-library---radcliffe-camera---oxford-university---oxford-weekend-city-break-travel-guide.jpeg"
 image_caption: >
   Oxford's Bodleian Library
@@ -22,6 +27,7 @@ image_attribution: "Craig Moore"
 image_attribution_link: "http://www.moorewallpaper.com/holiday-travel-tips-Oxford-University-city-break.htm"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

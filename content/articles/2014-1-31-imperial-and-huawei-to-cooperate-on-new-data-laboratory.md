@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A top global ICT solutions company and Imperial will collaborate and invest on a data science lab.
 date: "2014-01-31 17:11:44 +0000"
+# Attributes from Felix Online V1
 id: "4309"
 old_path: /news/4309/imperial-and-huawei-to-cooperate-on-new-data-laboratory
 aliases:
  - /news/4309/imperial-and-huawei-to-cooperate-on-new-data-laboratory
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

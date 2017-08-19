@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Netflix’s new rom-com series does not disappoint
 date: "2016-06-03 09:25:07 +0100"
+# Attributes from Felix Online V1
 id: "6240"
 old_path: /tv/6240/the-complex-and-real-parts-of-love
 aliases:
  - /tv/6240/the-complex-and-real-parts-of-love
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031124-felix-love1.jpg"
 image_caption: >
   Fast food is the way to a person’s heart.
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

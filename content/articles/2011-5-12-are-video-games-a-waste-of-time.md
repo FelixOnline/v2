@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two of the Games section's finest writers duke it out
 date: "2011-05-12 19:05:57 +0100"
+# Attributes from Felix Online V1
 id: "1202"
 old_path: /games/1202/are-video-games-a-waste-of-time
 aliases:
  - /games/1202/are-video-games-a-waste-of-time
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105122004-felix-timewaster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

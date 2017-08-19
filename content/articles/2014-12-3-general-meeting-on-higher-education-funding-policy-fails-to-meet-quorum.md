@@ -4,15 +4,20 @@ title: >
 subtitle: >
   49 students out of the required 200 attended the meeting on Monday
 date: "2014-12-03 00:53:53 +0000"
+# Attributes from Felix Online V1
 id: "4983"
 old_path: /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
 aliases:
  - /news/4983/general-meeting-on-higher-education-funding-policy-fails-to-meet-quorum-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412030056-ps3110-img_0007.jpg"
 image_caption: >
   Those in attendance of the meeting
@@ -22,6 +27,7 @@ image_attribution: "P. Skett"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

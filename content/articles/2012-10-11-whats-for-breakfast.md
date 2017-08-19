@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Making missing the "most important meal of the day" a thing of the past
 date: "2012-10-11 21:19:08 +0100"
+# Attributes from Felix Online V1
 id: "2670"
 old_path: /food/2670/whats-for-breakfast
 aliases:
  - /food/2670/whats-for-breakfast
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112218-felix-pouring-milk-on-cereal-carol-articlergbizzle.jpg"
 image_caption: >
   I’m going rogue and pouring LOADS of milk on the cereal
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter gives Chilly Gonzales a thumbs up. Or at least he would, if he weren't too cool to do such actions
 date: "2012-11-01 23:15:46 +0000"
+# Attributes from Felix Online V1
 id: "2820"
 old_path: /music/2820/gonzales-at-the-barbican
 aliases:
  - /music/2820/gonzales-at-the-barbican
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012315-tna08-gonzales.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

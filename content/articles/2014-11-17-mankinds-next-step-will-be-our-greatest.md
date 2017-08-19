@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman reviews what he calls Nolan’s near-perfect film
 date: "2014-11-17 18:12:30 +0000"
+# Attributes from Felix Online V1
 id: "4900"
 old_path: /film/4900/mankinds-next-step-will-be-our-greatest
 aliases:
  - /film/4900/mankinds-next-step-will-be-our-greatest
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411171812-ps3110-interstellar-for-the-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

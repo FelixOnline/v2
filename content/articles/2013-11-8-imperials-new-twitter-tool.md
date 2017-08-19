@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A group of academics at Imperial have created a tool that is able to rank the most influential speakers on any topic.
 date: "2013-11-08 03:38:21 +0000"
+# Attributes from Felix Online V1
 id: "4020"
 old_path: /news/4020/imperials-new-twitter-tool
 aliases:
  - /news/4020/imperials-new-twitter-tool
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311080910-felix-screen-shot-2013-11-08-at-00.26.22.png"
 image_caption: >
   How influential is Imperial?
@@ -22,6 +27,7 @@ image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alternative music is like so like mainstream man
 date: "2012-11-29 22:56:17 +0000"
+# Attributes from Felix Online V1
 id: "2994"
 old_path: /music/2994/atp-xmas-special
 aliases:
  - /music/2994/atp-xmas-special
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

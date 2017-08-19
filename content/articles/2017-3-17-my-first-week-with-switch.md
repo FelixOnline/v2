@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Switch made the news for its innovation but is it any good? Cale Tilford dishes on its performance
 date: "2017-03-17 17:31:54 +0000"
+# Attributes from Felix Online V1
 id: "6919"
 old_path: /games/6919/my-first-week-with-switch
 aliases:
  - /games/6919/my-first-week-with-switch
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171731-felix-screen-shot-2016-10-20-at-10-07-34-am.jpg"
 image_caption: >
   Technology: helping to put people either with each other or against each other
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

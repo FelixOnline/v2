@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah with more NY Resolution-friendly healthy grub
 date: "2013-01-18 01:20:51 +0000"
+# Attributes from Felix Online V1
 id: "3152"
 old_path: /food/3152/the-lunchbox-lowdown-02
 aliases:
  - /food/3152/the-lunchbox-lowdown-02
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

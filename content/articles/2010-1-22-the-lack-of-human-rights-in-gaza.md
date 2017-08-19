@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ali Jawad on the lack of human rights in Gaza
 date: "2010-01-22 13:26:03 +0000"
+# Attributes from Felix Online V1
 id: "49"
 old_path: /comment/49/the-lack-of-human-rights-in-gaza
 aliases:
  - /comment/49/the-lack-of-human-rights-in-gaza
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001221324-rsp07-comment.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

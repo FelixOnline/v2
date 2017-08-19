@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tired of the same old songs, or just like listening to live music? The new music scene in London is vibrant and flourishing, beginning with the Roundhouse Rising Festival next week.
 date: "2017-02-10 15:23:13 +0000"
+# Attributes from Felix Online V1
 id: "6762"
 old_path: /music/6762/londons-new-music-scene-
 aliases:
  - /music/6762/londons-new-music-scene-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101522-felix-5847999331_7d0a5f8f9c_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "RoundHouse, pittaya"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

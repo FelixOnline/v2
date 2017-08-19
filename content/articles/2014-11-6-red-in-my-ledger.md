@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol talks about her food memories
 date: "2014-11-06 21:05:07 +0000"
+# Attributes from Felix Online V1
 id: "4795"
 old_path: /food/4795/red-in-my-ledger
 aliases:
  - /food/4795/red-in-my-ledger
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062104-snb11-0-1-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Safe sex should be something to shout about
 date: "2016-03-18 11:46:12 +0000"
+# Attributes from Felix Online V1
 id: "6057"
 old_path: /features/6057/we-need-to-talk-about-contraception
 aliases:
  - /features/6057/we-need-to-talk-about-contraception
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181144-felix-CondomOlympics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

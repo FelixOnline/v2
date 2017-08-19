@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lilly Le examines the intricacies of Laura Marling’s latest effort
 date: "2013-05-28 14:04:31 +0100"
+# Attributes from Felix Online V1
 id: "3625"
 old_path: /music/3625/soar-like-an-eagle
 aliases:
  - /music/3625/soar-like-an-eagle
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305281503-tna08-laura-marling-once-i-was-an-eagle-1024x1024.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

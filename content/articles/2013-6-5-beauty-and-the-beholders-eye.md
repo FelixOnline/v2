@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Meredith Thomas interviews Jennifer Louise Martin on the male gaze
 date: "2013-06-05 19:00:43 +0100"
+# Attributes from Felix Online V1
 id: "3661"
 old_path: /arts/3661/beauty-and-the-beholders-eye
 aliases:
  - /arts/3661/beauty-and-the-beholders-eye
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

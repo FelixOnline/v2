@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The phone hacking scandal has left print media in an unenviable position, to say the least
 date: "2011-07-22 10:33:12 +0100"
+# Attributes from Felix Online V1
 id: "1452"
 old_path: /comment/1452/the-death-of-print-media
 aliases:
  - /comment/1452/the-death-of-print-media
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: "http://"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

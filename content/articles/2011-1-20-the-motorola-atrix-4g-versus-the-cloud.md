@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The device that rule them all, Motorola Atrix
 date: "2011-01-20 19:16:51 +0000"
+# Attributes from Felix Online V1
 id: "602"
 old_path: /tech/602/the-motorola-atrix-4g-versus-the-cloud
 aliases:
  - /tech/602/the-motorola-atrix-4g-versus-the-cloud
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201911-nm1010-atrixlap.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

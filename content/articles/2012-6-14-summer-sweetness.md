@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A lemon pie recipe
 date: "2012-06-14 20:29:38 +0100"
+# Attributes from Felix Online V1
 id: "2566"
 old_path: /food/2566/summer-sweetness
 aliases:
  - /food/2566/summer-sweetness
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142129-ams111-food2.jpg"
 image_caption: >
   Zest is best
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

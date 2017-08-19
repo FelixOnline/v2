@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We were robbed of one of the most spectacular, queer inclusive, and diverse shows shows on TV.
 date: "2017-06-09 15:11:14 +0100"
+# Attributes from Felix Online V1
 id: "7017"
 old_path: /tv/7017/an-ode-to-sense8
 aliases:
  - /tv/7017/an-ode-to-sense8
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091711-ea3211-sense8_filmloverss.jpg"
 image_caption: >
   H8 to see you go
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   AHAAAAAAAAA. It's another Alan Partridge reference
 date: "2012-10-26 02:48:48 +0100"
+# Attributes from Felix Online V1
 id: "2757"
 old_path: /food/2757/steakday-bloody-steakday
 aliases:
  - /food/2757/steakday-bloody-steakday
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

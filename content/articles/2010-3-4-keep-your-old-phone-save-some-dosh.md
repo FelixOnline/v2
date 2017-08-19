@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ken Lo takes a look at SIM-only tarifs, saving you a decent chunk of change on your phone bill
 date: "2010-03-04 12:59:25 +0000"
+# Attributes from Felix Online V1
 id: "119"
 old_path: /tech/119/keep-your-old-phone-save-some-dosh
 aliases:
  - /tech/119/keep-your-old-phone-save-some-dosh
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003041252-srg03-Savings.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

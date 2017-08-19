@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week’s report from Lord Alton and Baroness Cox, following their latest visit to North Korea, argues that we should be building bridges, not walls with the hermit state
 date: "2010-11-04 18:43:47 +0000"
+# Attributes from Felix Online V1
 id: "308"
 old_path: /politics/308/peace-in-korea-
 aliases:
  - /politics/308/peace-in-korea-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041840-ma1307-happyppl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

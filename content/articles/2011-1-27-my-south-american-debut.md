@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion
 date: "2011-01-27 20:20:57 +0000"
+# Attributes from Felix Online V1
 id: "689"
 old_path: /travel/689/my-south-american-debut-
 aliases:
  - /travel/689/my-south-american-debut-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

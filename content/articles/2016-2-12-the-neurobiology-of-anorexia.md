@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A glimpse into the calorie counting culture promoted by fitness apps
 date: "2016-02-12 11:26:38 +0000"
+# Attributes from Felix Online V1
 id: "5901"
 old_path: /science/5901/the-neurobiology-of-anorexia
 aliases:
  - /science/5901/the-neurobiology-of-anorexia
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121126-felix-anor.jpg"
 image_caption: >
   All about the numbers – waist measurements and calorie counts.
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Watson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

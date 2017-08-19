@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Harrogate is touring the country until November 16, passing through Oxford, Cantebury, Norwich, and Cambridge, among others.
 date: "2016-11-04 14:33:10 +0000"
+# Attributes from Felix Online V1
 id: "6393"
 old_path: /arts/6393/harrogate-
 aliases:
  - /arts/6393/harrogate-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041430-aib116-102016HightideHouseRoyalCourtHarrogateProduction-1-0033.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Richard Lakos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

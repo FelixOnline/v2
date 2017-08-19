@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Loïc Baboulaz makes his mark on the Malawian healthcare system
 date: "2012-02-02 23:19:54 +0000"
+# Attributes from Felix Online V1
 id: "2108"
 old_path: /travel/2108/making-a-difference-in-malawi
 aliases:
  - /travel/2108/making-a-difference-in-malawi
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
 image_caption: >
   Joining a Malawian primary school for the day
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

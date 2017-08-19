@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
+# Attributes from Felix Online V1
 id: "547"
 old_path: /news/547/opposition-to-life-sciences-cuts-grows
 aliases:
  - /news/547/opposition-to-life-sciences-cuts-grows
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

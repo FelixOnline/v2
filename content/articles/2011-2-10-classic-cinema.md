@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kramer vs. Kramer: A milestone of a film
 date: "2011-02-10 20:50:59 +0000"
+# Attributes from Felix Online V1
 id: "786"
 old_path: /film/786/classic-cinema
 aliases:
  - /film/786/classic-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102048-dr910-kramerkr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jh308"
 author_name: "Jade Hoffman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

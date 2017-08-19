@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Harvard-MIT Center for Ultracold Atoms has created “photonic molecules” by binding photons together, as published in Nature last week.
 date: "2013-10-04 00:33:27 +0100"
+# Attributes from Felix Online V1
 id: "3799"
 old_path: /science/3799/new-form-of-matter-created-from-photons
 aliases:
  - /science/3799/new-form-of-matter-created-from-photons
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040132-jal08-sci_photonmolecule.jpg"
 image_caption: >
   Photonic Molecule
@@ -22,6 +27,7 @@ image_attribution: "MIKHAIL LUKIN, VLADAN VULETIC/NATURE Mikhail D. Lukin & Vlad
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

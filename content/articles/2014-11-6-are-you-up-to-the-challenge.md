@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
+# Attributes from Felix Online V1
 id: "4773"
 old_path: /features/4773/are-you-up-to-the-challenge
 aliases:
  - /features/4773/are-you-up-to-the-challenge
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061904-snb11-201002191228-felix-universi-copy.jpg"
 image_caption: >
   Spot the Felix cat chilling with the team from 2009. Fun fact, Amit was so amazing he made it into t
@@ -22,6 +27,7 @@ image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

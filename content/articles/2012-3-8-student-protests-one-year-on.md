@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Luke Sheldon asks where the student movement is now, twelve months after it began
 date: "2012-03-08 21:23:30 +0000"
+# Attributes from Felix Online V1
 id: "2324"
 old_path: /news/2324/student-protests-one-year-on
 aliases:
  - /news/2324/student-protests-one-year-on
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082120-ams111-student-protest-in-london-001.jpg"
 image_caption: >
   No ifs, no buts...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

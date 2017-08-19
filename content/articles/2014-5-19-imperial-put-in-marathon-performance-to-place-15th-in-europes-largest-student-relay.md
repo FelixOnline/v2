@@ -4,15 +4,20 @@ title: >
 subtitle: >
   On Friday 9th May 2014, a team of from the Imperial College Cross Country and Athletics Club set off to the Netherlands to take on Europe’s largest student relay race; de Batavierenrace. Having been invited year on year by Dutch participants of the Imperial’s own Hyde Park Relays...
 date: "2014-05-19 13:47:04 +0100"
+# Attributes from Felix Online V1
 id: "4610"
 old_path: /sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay
 aliases:
  - /sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405191447-jal08-anne-at-the-start.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "de Batavierenrace"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

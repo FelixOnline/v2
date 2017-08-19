@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kent caught up with the winners on results night
 date: "2015-03-19 23:44:39 +0000"
+# Attributes from Felix Online V1
 id: "5408"
 old_path: /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
 aliases:
  - /news/5408/highest-ever-voter-turnout-as-big-elections-come-to-a-close
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192344-cj914-election-sabbs.jpg"
 image_caption: >
   Next year’s Officer Trustees celebrate on the Metric stage
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester, ThroughBensLens.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

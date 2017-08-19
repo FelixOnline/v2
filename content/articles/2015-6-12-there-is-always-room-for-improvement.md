@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
+# Attributes from Felix Online V1
 id: "5618"
 old_path: /comment/5618/there-is-always-room-for-improvement
 aliases:
  - /comment/5618/there-is-always-room-for-improvement
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506121336-cj914-uk-imperial-college-albert-hall.jpg"
 image_caption: >
   Imperial is full of happy memories, but looking back there are always ways it could be better.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

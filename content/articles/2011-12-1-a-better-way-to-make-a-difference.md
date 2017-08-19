@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The TEKUA project comes to London in co-operation with local businesses and Imperial College students in order to raise money towards better Tanzanian education
 date: "2011-12-01 20:22:56 +0000"
+# Attributes from Felix Online V1
 id: "1868"
 old_path: /arts/1868/a-better-way-to-make-a-difference
 aliases:
  - /arts/1868/a-better-way-to-make-a-difference
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012020-pk1811-tekua5.jpg"
 image_caption: >
   They make art which is sold around the world
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

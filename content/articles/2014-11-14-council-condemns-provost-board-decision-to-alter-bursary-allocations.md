@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports on Council’s damning motion
 date: "2014-11-14 20:03:22 +0000"
+# Attributes from Felix Online V1
 id: "4865"
 old_path: /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
 aliases:
  - /news/4865/council-condemns-provost-board-decision-to-alter-bursary-allocations
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142003-ps3110-download.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

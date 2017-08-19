@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Success story of an Imperial miser finding happiness on the islands of manta rays, volcanoes, surfs and opposite-sex attention
 date: "2011-01-20 19:15:06 +0000"
+# Attributes from Felix Online V1
 id: "601"
 old_path: /travel/601/the-hawaiian-antidepressant-
 aliases:
  - /travel/601/the-hawaiian-antidepressant-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
 author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Welcome to Felix’s new, unimaginatively-titled, Science Fiction Column
 date: "2010-12-02 20:33:38 +0000"
+# Attributes from Felix Online V1
 id: "473"
 old_path: /science/473/science-fiction-column
 aliases:
  - /science/473/science-fiction-column
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

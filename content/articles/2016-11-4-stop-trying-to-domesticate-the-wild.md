@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Eden discusses the wild animal adoption trend and its consequences
 date: "2016-11-04 14:17:48 +0000"
+# Attributes from Felix Online V1
 id: "6388"
 old_path: /comment/6388/stop-trying-to-domesticate-the-wild
 aliases:
  - /comment/6388/stop-trying-to-domesticate-the-wild
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041417-felix-3159669562_2429cc381a_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dave Stokes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

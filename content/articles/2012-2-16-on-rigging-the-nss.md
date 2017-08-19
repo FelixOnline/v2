@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Karapetian discusses issues regarding the NSS's reliability
 date: "2012-02-16 21:59:13 +0000"
+# Attributes from Felix Online V1
 id: "2203"
 old_path: /comment/2203/on-rigging-the-nss
 aliases:
  - /comment/2203/on-rigging-the-nss
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162157-ams111-alex-k-meme.jpg"
 image_caption: >
   Not sure if meme or caption. Oh, wait, caption. Oh well...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

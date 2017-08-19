@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The science behind the iGem team’s successful project
 date: "2010-11-25 20:03:45 +0000"
+# Attributes from Felix Online V1
 id: "424"
 old_path: /science/424/students-with-parasight
 aliases:
  - /science/424/students-with-parasight
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011251958-nm1010-bacillus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "vbb08"
 author_name: "Victoria Bignet"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter gets to grips with London’s latest dance music pioneers
 date: "2012-03-15 21:34:22 +0000"
+# Attributes from Felix Online V1
 id: "2387"
 old_path: /music/2387/techno-nonsense-hyperdub
 aliases:
  - /music/2387/techno-nonsense-hyperdub
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152133-ig711-hyperdub.jpg"
 image_caption: >
   Honey for the bears of the future.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

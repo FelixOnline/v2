@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are hijab wearing women facing unjust discrimination?
 date: "2017-03-17 16:51:35 +0000"
+# Attributes from Felix Online V1
 id: "6905"
 old_path: /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
 aliases:
  - /comment/6905/imperial-students-react-to-the-ecjs-motion-on-the-banning-of-religious-symbols
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171651-felix-8340338177_da540f5360_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Azlan DuPree"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

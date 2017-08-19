@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Design Museum's latest exhibition has its flaws, but reveals a new side to Soviet architecture
 date: "2017-03-23 16:41:52 +0000"
+# Attributes from Felix Online V1
 id: "6922"
 old_path: /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
 aliases:
  - /arts/6922/imagine-moscow--a-melancholy-reminder-of-what-could-have-been-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703231640-ff712-Valentina Kulagina.jpeg"
 image_caption: >
   Valentina Kulagina, Front cover design
@@ -22,6 +27,7 @@ image_attribution: "Ne Boltai! Collection"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

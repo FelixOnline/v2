@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-20 09:24:18 +0100"
+# Attributes from Felix Online V1
 id: "6192"
 old_path: /tv/6192/this-week-on-game-of-thrones-
 aliases:
  - /tv/6192/this-week-on-game-of-thrones-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201124-felix-Screenshot-201-1200x675.jpg"
 image_caption: >
   Dany gets her groove back!
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

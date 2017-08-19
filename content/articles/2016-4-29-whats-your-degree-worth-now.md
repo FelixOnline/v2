@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial is giving out more firsts and 2:1s than ever
 date: "2016-04-29 10:34:03 +0100"
+# Attributes from Felix Online V1
 id: "6097"
 old_path: /features/6097/whats-your-degree-worth-now
 aliases:
  - /features/6097/whats-your-degree-worth-now
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291132-felix-hand.jpg"
 image_caption: >
   What did I freakin’ get?!
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

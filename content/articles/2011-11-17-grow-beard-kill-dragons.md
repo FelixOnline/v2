@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven on The Elder Scrolls V: Skyrim and incredible manliness
 date: "2011-11-17 20:44:35 +0000"
+# Attributes from Felix Online V1
 id: "1764"
 old_path: /games/1764/grow-beard-kill-dragons
 aliases:
  - /games/1764/grow-beard-kill-dragons
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172042-pk1811-screenshot5.jpg"
 image_caption: >
   New research has shown that dragons make everything 110% more badass
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

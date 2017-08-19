@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sport Editor Sam Smith does sports. Sports! Sports! Sports!
 date: "2017-01-20 15:49:08 +0000"
+# Attributes from Felix Online V1
 id: "6678"
 old_path: /sport/6678/time-to-become-immortal
 aliases:
  - /sport/6678/time-to-become-immortal
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201548-felix-20170115_123752.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Daw"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

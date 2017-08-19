@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le is left disappointed by their live "offering"
 date: "2012-01-19 21:08:10 +0000"
+# Attributes from Felix Online V1
 id: "2027"
 old_path: /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
 aliases:
  - /music/2027/the-horrors-still-horrify-but-not-in-a-good-way
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

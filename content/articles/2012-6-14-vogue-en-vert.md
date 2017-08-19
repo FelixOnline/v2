@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The perfect excuse to get yourself to Topshop today!
 date: "2012-06-14 19:50:28 +0100"
+# Attributes from Felix Online V1
 id: "2552"
 old_path: /comment/2552/vogue-en-vert
 aliases:
  - /comment/2552/vogue-en-vert
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142049-ams111-comment4.jpg"
 image_caption: >
   Part of the sustainable range at Topshop. Not sure how socially sustainable blue hair is, but it loo
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

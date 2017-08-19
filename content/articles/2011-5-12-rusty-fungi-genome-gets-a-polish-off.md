@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another step towards food security
 date: "2011-05-12 16:31:55 +0100"
+# Attributes from Felix Online V1
 id: "1189"
 old_path: /science/1189/rusty-fungi-genome-gets-a-polish-off
 aliases:
  - /science/1189/rusty-fungi-genome-gets-a-polish-off
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

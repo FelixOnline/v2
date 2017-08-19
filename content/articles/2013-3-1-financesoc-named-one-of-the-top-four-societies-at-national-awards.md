@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bang for your buck it seems
 date: "2013-03-01 00:39:06 +0000"
+# Attributes from Felix Online V1
 id: "3406"
 old_path: /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
 aliases:
  - /news/3406/financesoc-named-one-of-the-top-four-societies-at-national-awards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010036-tna08-finance_society_logo_final_version_wide1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

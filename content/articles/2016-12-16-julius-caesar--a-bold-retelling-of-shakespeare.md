@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Julius Caesar is on at the King's Cross Theatre until Saturday, the 17th of December
 date: "2016-12-16 15:04:17 +0000"
+# Attributes from Felix Online V1
 id: "6612"
 old_path: /arts/6612/julius-caesar--a-bold-retelling-of-shakespeare
 aliases:
  - /arts/6612/julius-caesar--a-bold-retelling-of-shakespeare
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161504-felix-Harriet Walter Brutus in Julius Caesar Photos by Helen Maybanks 3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

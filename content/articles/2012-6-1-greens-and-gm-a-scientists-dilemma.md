@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
+# Attributes from Felix Online V1
 id: "2512"
 old_path: /comment/2512/greens-and-gm-a-scientists-dilemma
 aliases:
  - /comment/2512/greens-and-gm-a-scientists-dilemma
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011343-mc4509-pinky-and-the-brain.jpg"
 image_caption: >
   Don’t blame the genetic modification for Brain’s insanity
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

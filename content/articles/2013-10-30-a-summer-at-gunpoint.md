@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming.
 date: "2013-10-30 15:42:39 +0000"
+# Attributes from Felix Online V1
 id: "3958"
 old_path: /games/3958/a-summer-at-gunpoint
 aliases:
  - /games/3958/a-summer-at-gunpoint
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310301541-me1711-games_gunpoint.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Getting tested can be a fun day out
 date: "2016-05-13 09:01:18 +0100"
+# Attributes from Felix Online V1
 id: "6152"
 old_path: /features/6152/what-makes-a-good-gum-clinic
 aliases:
  - /features/6152/what-makes-a-good-gum-clinic
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131100-felix-p01l937f.jpg"
 image_caption: >
   Don't these look like people you'd want to stick a speculum up your foof?
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

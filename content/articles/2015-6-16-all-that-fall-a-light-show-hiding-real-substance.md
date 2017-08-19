@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emiel de Lange finds that the auditory component of Beckett's work far outweighs the visuals
 date: "2015-06-16 18:55:52 +0100"
+# Attributes from Felix Online V1
 id: "5624"
 old_path: /arts/5624/all-that-fall-a-light-show-hiding-real-substance
 aliases:
  - /arts/5624/all-that-fall-a-light-show-hiding-real-substance
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506161952-ff712-rsz_203.jpg"
 image_caption: >
   Pan Pan Theatre, All That Fall
@@ -22,6 +27,7 @@ image_attribution: "Ros Kavanagh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

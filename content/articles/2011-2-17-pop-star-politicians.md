@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We don’t want politicians who watch X Factor, so stop faking it guys, and get back to running the country
 date: "2011-02-17 19:54:14 +0000"
+# Attributes from Felix Online V1
 id: "827"
 old_path: /comment/827/pop-star-politicians-
 aliases:
  - /comment/827/pop-star-politicians-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171952-ks607-borisjoh.jpg"
 image_caption: >
   Easy now Boris...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They were taking their class picture outside the Royal Albert Hall when they were ‘discovered’
 date: "2016-05-20 08:45:04 +0100"
+# Attributes from Felix Online V1
 id: "6170"
 old_path: /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
 aliases:
  - /news/6170/aero-students-invited-to-william-gig-because-director-liked-their-boiler-suits
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201043-felix-IMG_1774.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wojciech Kowalski"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

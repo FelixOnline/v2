@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Bowers tells of his predictions for fifty years’ time
 date: "2011-11-03 18:09:53 +0000"
+# Attributes from Felix Online V1
 id: "1647"
 old_path: /tech/1647/what-does-the-future-hold
 aliases:
  - /tech/1647/what-does-the-future-hold
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031808-fa608-i-robot-2004-42-g1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

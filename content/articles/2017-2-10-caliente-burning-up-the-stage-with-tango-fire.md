@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You don’t need to be a tango aficionado for the raw appeal of Tango Fire’s bold and flamboyant dancing
 date: "2017-02-10 15:54:21 +0000"
+# Attributes from Felix Online V1
 id: "6767"
 old_path: /arts/6767/caliente-burning-up-the-stage-with-tango-fire
 aliases:
  - /arts/6767/caliente-burning-up-the-stage-with-tango-fire
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101554-felix-Oblivion -18.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sadlers Wells"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

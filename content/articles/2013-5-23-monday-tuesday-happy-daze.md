@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mo Mirza gets within touching distance of Kurt Vile in Camden
 date: "2013-05-23 22:19:48 +0100"
+# Attributes from Felix Online V1
 id: "3615"
 old_path: /music/3615/monday-tuesday-happy-daze
 aliases:
  - /music/3615/monday-tuesday-happy-daze
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232319-tna08-kurt_vile11_website_image_wugd_standard.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

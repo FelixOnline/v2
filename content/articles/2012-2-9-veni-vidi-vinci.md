@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deepka Rana and George Howard came to the Leonardo exhibition, had a look around then, err, wrote a review, unearthing a few conspiracy theories along the way
 date: "2012-02-09 22:28:00 +0000"
+# Attributes from Felix Online V1
 id: "2149"
 old_path: /arts/2149/veni-vidi-vinci
 aliases:
  - /arts/2149/veni-vidi-vinci
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092222-cac111-davinci-natlgal003.jpg"
 image_caption: >
   The consumer response to the release of the Samsung Galaxy Tab didn’t match that of its competitors
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The crowd greeted Yannis almost like a messiah
 date: "2015-11-20 09:25:42 +0000"
+# Attributes from Felix Online V1
 id: "5755"
 old_path: /music/5755/what-went-down-at-dreamland
 aliases:
  - /music/5755/what-went-down-at-dreamland
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200925-ygr12-foals2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

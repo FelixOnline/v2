@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Sport gets the lowdown on cricket’s continued success
 date: "2013-05-16 17:59:31 +0100"
+# Attributes from Felix Online V1
 id: "3576"
 old_path: /sport/3576/summer-and-cricket-is-here
 aliases:
  - /sport/3576/summer-and-cricket-is-here
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161856-tna08-942774_527955110594822_767625679_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

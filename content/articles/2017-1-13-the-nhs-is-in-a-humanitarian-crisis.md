@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Naulles discusses the government’s inability to recognise the current crisis at the NHS.
 date: "2017-01-13 14:02:52 +0000"
+# Attributes from Felix Online V1
 id: "6637"
 old_path: /comment/6637/the-nhs-is-in-a-humanitarian-crisis
 aliases:
  - /comment/6637/the-nhs-is-in-a-humanitarian-crisis
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131407-felix-6127363514_d7529610b3_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Trades Union Congress"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

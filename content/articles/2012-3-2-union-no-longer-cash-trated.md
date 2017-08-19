@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New cash machine installed in Union building
 date: "2012-03-02 01:11:10 +0000"
+# Attributes from Felix Online V1
 id: "2303"
 old_path: /news/2303/union-no-longer-cash-trated
 aliases:
  - /news/2303/union-no-longer-cash-trated
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203020110-felix-pounds_sterling_cash.jpg"
 image_caption: >
   Dare you go for the fifty pound note?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Games Designer - Hugh Osborn
 date: "2012-06-14 20:20:59 +0100"
+# Attributes from Felix Online V1
 id: "2562"
 old_path: /phoenix/2562/the-games-designer---hugh-osborn-
 aliases:
  - /phoenix/2562/the-games-designer---hugh-osborn-
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Rhinoa’s Photography"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

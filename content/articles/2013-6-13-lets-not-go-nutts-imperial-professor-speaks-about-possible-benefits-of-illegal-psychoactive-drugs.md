@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But is the government suppressing research? Philippa Skett takes a look at Nutt’s latest paper
 date: "2013-06-13 22:44:19 +0100"
+# Attributes from Felix Online V1
 id: "3681"
 old_path: /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
 aliases:
  - /science/3681/lets-not-go-nutts-imperial-professor-speaks-about-possible-benefits-of-illegal-psychoactive-drugs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132343-tna08-mdma11.jpg"
 image_caption: >
   Psychostimulants such as MDMA could have health benefits, if we were actually trusted with these in
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

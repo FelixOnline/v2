@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I bet you won’t even read this, you undemocratic filth
 date: "2016-10-28 14:40:26 +0100"
+# Attributes from Felix Online V1
 id: "6348"
 old_path: /news/6348/does-anyone-still-care-about-union-council
 aliases:
  - /news/6348/does-anyone-still-care-about-union-council
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610281639-felix-UnionCouncil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

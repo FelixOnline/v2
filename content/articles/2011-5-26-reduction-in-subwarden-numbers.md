@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wardening review recommends rebalancing in favour of counselling and disability services
 date: "2011-05-26 18:39:22 +0100"
+# Attributes from Felix Online V1
 id: "1250"
 old_path: /news/1250/reduction-in-subwarden-numbers
 aliases:
  - /news/1250/reduction-in-subwarden-numbers
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105261937-felix-imperialcampus-313.jpg"
 image_caption: >
   Eastside will lose three subwardens
@@ -22,6 +27,7 @@ image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Wii U was, to be frank, not that successful and probably dented Nintendo’s position. Now they’ve introduced the Switch with a load of new features. Question is, will it be enough?
 date: "2016-11-11 17:01:54 +0000"
+# Attributes from Felix Online V1
 id: "6432"
 old_path: /games/6432/are-you-making-the-switch
 aliases:
  - /games/6432/are-you-making-the-switch
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111701-felix-NintendoSwitch03.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Arab world's first popular revolution
 date: "2011-01-20 20:37:06 +0000"
+# Attributes from Felix Online V1
 id: "629"
 old_path: /politics/629/optimism-among-the-trouble-in-tunisia
 aliases:
  - /politics/629/optimism-among-the-trouble-in-tunisia
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202030-dr910-tunisias.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ap1509"
 author_name: "Andrew Purcell"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

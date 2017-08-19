@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pioneering new vehicle set to beat the record for fastest journey to South Pole
 date: "2010-10-28 19:14:15 +0100"
+# Attributes from Felix Online V1
 id: "255"
 old_path: /science/255/imperial-bid-for-antarctic-record-
 aliases:
  - /science/255/imperial-bid-for-antarctic-record-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282013-ks607-guyinthi.jpg"
 image_caption: >
   David Pierson in the Winston Wong Bio-Inspired Ice Vehicle
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

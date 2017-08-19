@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Zuehlsdorff discusses solutions to the apparent conflict between a free financial market and a stable economy
 date: "2012-01-19 20:05:30 +0000"
+# Attributes from Felix Online V1
 id: "2004"
 old_path: /biz/2004/democracy-and-capitalism-an-unhappy-marriage
 aliases:
  - /biz/2004/democracy-and-capitalism-an-unhappy-marriage
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

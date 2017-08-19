@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite all of the magic on offer, this production of Shakespeare's play fails to really take off
 date: "2011-11-03 21:39:44 +0000"
+# Attributes from Felix Online V1
 id: "1689"
 old_path: /arts/1689/nothing-stormy-about-trevor-nunns-tempest
 aliases:
  - /arts/1689/nothing-stormy-about-trevor-nunns-tempest
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032137-felix-ralphfiennes.jpg"
 image_caption: >
   Four days in and Ralph was already sick of people asking for Movember donations
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

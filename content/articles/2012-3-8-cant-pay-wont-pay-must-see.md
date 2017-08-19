@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope reviews DramSoc's most recent production
 date: "2012-03-08 20:29:34 +0000"
+# Attributes from Felix Online V1
 id: "2316"
 old_path: /arts/2316/cant-pay-wont-pay-must-see
 aliases:
  - /arts/2316/cant-pay-wont-pay-must-see
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

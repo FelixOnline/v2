@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on Acton, and a bit on the Translation Studies Unit – the line from College is rather vague at the moment
 date: "2013-03-01 00:58:00 +0000"
+# Attributes from Felix Online V1
 id: "3413"
 old_path: /comment/3413/soap-opera-acton
 aliases:
  - /comment/3413/soap-opera-acton
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

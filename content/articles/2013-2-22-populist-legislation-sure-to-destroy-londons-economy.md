@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A defence of banking’s most controversial practice: bonuses, by Ross Gray
 date: "2013-02-22 01:46:58 +0000"
+# Attributes from Felix Online V1
 id: "3366"
 old_path: /comment/3366/populist-legislation-sure-to-destroy-londons-economy
 aliases:
  - /comment/3366/populist-legislation-sure-to-destroy-londons-economy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220145-tna08-ross-banking-drawing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Aaniya Ahmed"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

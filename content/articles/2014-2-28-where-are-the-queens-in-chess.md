@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Recently the Imperial College chess team arrived back from BUCA. After multiple rounds, Imperial managed to dominate the entire tournament. It was a great weekend of fun and exciting chess games.
 date: "2014-02-28 07:15:12 +0000"
+# Attributes from Felix Online V1
 id: "4444"
 old_path: /comment/4444/where-are-the-queens-in-chess
 aliases:
  - /comment/4444/where-are-the-queens-in-chess
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

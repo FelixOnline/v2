@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A few words from the Editor-in-Chief
 date: "2013-10-03 23:02:54 +0100"
+# Attributes from Felix Online V1
 id: "3795"
 old_path: /comment/3795/the-first-week-back
 aliases:
  - /comment/3795/the-first-week-back
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

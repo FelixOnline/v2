@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous response to the recent comment articles on the virtues of the EU
 date: "2013-03-01 00:55:44 +0000"
+# Attributes from Felix Online V1
 id: "3412"
 old_path: /comment/3412/love-europe-hate-the-eu
 aliases:
  - /comment/3412/love-europe-hate-the-eu
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010201-tna08-domino.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film wishes a warm and happy birthday to England’s very own Kate Winslet, celebrating her 37th birthday today; and as a special thank you to one of the most talented actresses of our time, we look back at the highlights in the extraordinarily diverse career of a supremely gifted English actres
 date: "2012-10-05 12:09:20 +0100"
+# Attributes from Felix Online V1
 id: "2611"
 old_path: /film/2611/kate-winslet---titanic-ego
 aliases:
  - /film/2611/kate-winslet---titanic-ego
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051309-felix-kate-winslet-hairstyle.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

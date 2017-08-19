@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Finally, a possible explanation for those self-inflicted Facebook/Youtube-laden all-nighters...
 date: "2012-02-16 22:00:48 +0000"
+# Attributes from Felix Online V1
 id: "2205"
 old_path: /science/2205/my-body-clock-and-i
 aliases:
  - /science/2205/my-body-clock-and-i
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162200-cac111-homer_sleeping2.jpg"
 image_caption: >
   Sleeping like a log...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

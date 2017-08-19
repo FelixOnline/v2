@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The president of the RSC takes to the floor for the Friends of Imperial College
 date: "2011-12-08 20:50:09 +0000"
+# Attributes from Felix Online V1
 id: "1923"
 old_path: /science/1923/a-brave-new-molecular-world
 aliases:
  - /science/1923/a-brave-new-molecular-world
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082048-pk1811-b010t31j_640_360.jpg"
 image_caption: >
   Professor David Phillips, president of the Royal Society of Chemistry
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

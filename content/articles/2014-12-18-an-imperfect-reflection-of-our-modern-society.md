@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes a glance at the new MIRRORCITY exhibition
 date: "2014-12-18 15:41:59 +0000"
+# Attributes from Felix Online V1
 id: "5058"
 old_path: /arts/5058/an-imperfect-reflection-of-our-modern-society
 aliases:
  - /arts/5058/an-imperfect-reflection-of-our-modern-society
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501212237-ps3110-rsz_mirrorcity_-_john_steazker_double_shadow_v_cropped.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

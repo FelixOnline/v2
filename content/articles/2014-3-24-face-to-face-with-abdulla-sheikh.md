@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week I interviewed Abdulla Sheikh. He is a MSc student at Imperial who has recently started a business and is currently organising TedX Imperial as well as working on a number of other exciting projects.
 date: "2014-03-24 03:40:04 +0000"
+# Attributes from Felix Online V1
 id: "4496"
 old_path: /features/4496/face-to-face-with-abdulla-sheikh
 aliases:
  - /features/4496/face-to-face-with-abdulla-sheikh
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403240340-jal08-whotter.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

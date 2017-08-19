@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
+# Attributes from Felix Online V1
 id: "5617"
 old_path: /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
 aliases:
  - /comment/5617/nigeria-bans-fgm-but-how-much-still-needs-to-change
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506121334-cj914-140327-fgm-somalia_8848dfa4754b4ff1bec6ead22b1b2e8c.jpg"
 image_caption: >
   In some parts of the world, FGM is the norm, but while it is seen as so horrific in the UK, it is rarely mentioned.
@@ -22,6 +27,7 @@ image_attribution: "flipboard.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

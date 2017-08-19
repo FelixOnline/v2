@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
+# Attributes from Felix Online V1
 id: "2290"
 old_path: /arts/2290/great-expectations
 aliases:
  - /arts/2290/great-expectations
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012244-cac111-4-14-hine-breakerboys-01139u11.jpg"
 image_caption: >
   Not exactly an upbeat revolution
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

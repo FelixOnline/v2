@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Henry Abbot criticizes the Union's decision to cut Clubs and Societies' funding by 10% despite an underspend below 4%
 date: "2012-02-23 20:19:05 +0000"
+# Attributes from Felix Online V1
 id: "2231"
 old_path: /comment/2231/the-great-executive-committee-blunder
 aliases:
  - /comment/2231/the-great-executive-committee-blunder
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

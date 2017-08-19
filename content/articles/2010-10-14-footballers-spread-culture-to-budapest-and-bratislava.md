@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's finest report on their annual tour
 date: "2010-10-14 19:41:13 +0100"
+# Attributes from Felix Online V1
 id: "210"
 old_path: /sport/210/footballers-spread-culture-to-budapest-and-bratislava-
 aliases:
  - /sport/210/footballers-spread-culture-to-budapest-and-bratislava-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142036-ks607-sports.jpg"
 image_caption: >
   Spot the ball...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

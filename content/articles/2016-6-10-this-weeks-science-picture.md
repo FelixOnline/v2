@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-10 08:27:46 +0100"
+# Attributes from Felix Online V1
 id: "6257"
 old_path: /science/6257/this-weeks-science-picture
 aliases:
  - /science/6257/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101027-felix-14817357391_1eaab3c8a5_o.jpg"
 image_caption: >
   Extensive stand of severely bleached coral.
@@ -22,6 +27,7 @@ image_attribution: "Petchrung Sukpong"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

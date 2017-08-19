@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
+# Attributes from Felix Online V1
 id: "6710"
 old_path: /comment/6710/making-my-life-great-again
 aliases:
  - /comment/6710/making-my-life-great-again
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.02.10.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

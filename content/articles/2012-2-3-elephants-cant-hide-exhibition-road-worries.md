@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Road safety continues to be a concern around South Kensington
 date: "2012-02-03 12:01:28 +0000"
+# Attributes from Felix Online V1
 id: "2133"
 old_path: /comment/2133/elephants-cant-hide-exhibition-road-worries
 aliases:
  - /comment/2133/elephants-cant-hide-exhibition-road-worries
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

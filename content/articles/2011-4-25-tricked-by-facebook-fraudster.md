@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
 date: "2011-04-25 17:20:44 +0100"
+# Attributes from Felix Online V1
 id: "1139"
 old_path: /news/1139/tricked-by-facebook-fraudster
 aliases:
  - /news/1139/tricked-by-facebook-fraudster
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104251816-felix-profilepic.jpg"
 image_caption: >
   The photo used as a profile picture for 'Demi Atkinson'
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

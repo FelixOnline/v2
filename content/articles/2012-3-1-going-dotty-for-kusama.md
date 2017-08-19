@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate Modern has us turning Japanese and just a little mad
 date: "2012-03-01 21:50:30 +0000"
+# Attributes from Felix Online V1
 id: "2280"
 old_path: /arts/2280/going-dotty-for-kusama
 aliases:
  - /arts/2280/going-dotty-for-kusama
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012151-cac111-yayoikusama.jpg"
 image_caption: >
   More like Tate Magenta...
@@ -22,6 +27,7 @@ image_attribution: "Eikoh Hosoe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

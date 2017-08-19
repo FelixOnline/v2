@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student was approached by Queen’s Gate by men selling “cheap designer clothing”
 date: "2012-10-18 21:45:26 +0100"
+# Attributes from Felix Online V1
 id: "2721"
 old_path: /news/2721/more-con-men-by-campus
 aliases:
  - /news/2721/more-con-men-by-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191344-tna08-tricksters.jpg"
 image_caption: >
   At it again
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

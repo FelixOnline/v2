@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The fifth sabb will return next year
 date: "2016-05-27 08:40:28 +0100"
+# Attributes from Felix Online V1
 id: "6199"
 old_path: /news/6199/nominations-for-dpfs-to-reopen-next-week
 aliases:
  - /news/6199/nominations-for-dpfs-to-reopen-next-week
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271040-felix-Screen Shot 2016-05-25 at 12.01.11.jpg"
 image_caption: >
   Could this be you?
@@ -22,6 +27,7 @@ image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Researchers conclude that coffee first thing in the morning might not be as effective as you thought
 date: "2013-11-15 11:41:45 +0000"
+# Attributes from Felix Online V1
 id: "4086"
 old_path: /food/4086/are-you-drinking-it-right
 aliases:
  - /food/4086/are-you-drinking-it-right
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

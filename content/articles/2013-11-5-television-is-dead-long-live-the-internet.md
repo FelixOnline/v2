@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With Orange is the New Black, Netflix shows TV execs how it’s done
 date: "2013-11-05 09:45:48 +0000"
+# Attributes from Felix Online V1
 id: "4003"
 old_path: /tv/4003/television-is-dead-long-live-the-internet
 aliases:
  - /tv/4003/television-is-dead-long-live-the-internet
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

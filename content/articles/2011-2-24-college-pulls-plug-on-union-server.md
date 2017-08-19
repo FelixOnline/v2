@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union calls move “overblown” as Rector apologises
 date: "2011-02-24 19:37:14 +0000"
+# Attributes from Felix Online V1
 id: "863"
 old_path: /news/863/college-pulls-plug-on-union-server
 aliases:
  - /news/863/college-pulls-plug-on-union-server
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/ditocujo"
 image_attribution_link: "http://www.flickr.com/photos/ditocujo/3228845133/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

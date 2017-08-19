@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The RA launches a surprisingly emotive edition of its trademark summer show
 date: "2017-06-15 15:17:14 +0100"
+# Attributes from Felix Online V1
 id: "7024"
 old_path: /arts/7024/the-summer-exhibition-at-the-royal-academy
 aliases:
  - /arts/7024/the-summer-exhibition-at-the-royal-academy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706151710-im1413-20170608_125006.jpg"
 image_caption: >
   Assorted works the The Summer Exhibition | Photo: Indira Mallik
@@ -22,6 +27,7 @@ image_attribution: "Indira Mallik"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

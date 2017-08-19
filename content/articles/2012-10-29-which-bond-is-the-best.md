@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film rates the Bonds to see who we think is the best. Let the arguments start...
 date: "2012-10-29 18:15:03 +0000"
+# Attributes from Felix Online V1
 id: "2775"
 old_path: /film/2775/which-bond-is-the-best
 aliases:
  - /film/2775/which-bond-is-the-best
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210291818-tna08-allbonds.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

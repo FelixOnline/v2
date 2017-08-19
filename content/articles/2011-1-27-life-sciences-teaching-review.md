@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses
 date: "2011-01-27 18:06:47 +0000"
+# Attributes from Felix Online V1
 id: "649"
 old_path: /news/649/life-sciences-teaching-review-
 aliases:
  - /news/649/life-sciences-teaching-review-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
 image_caption: >
   Professor Ian Owens announced the teaching review in a meeting with students
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

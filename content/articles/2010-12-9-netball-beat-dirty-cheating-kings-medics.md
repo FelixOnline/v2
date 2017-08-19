@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Netball trumps GKT. By Bernice Marie Cutler
 date: "2010-12-09 20:15:32 +0000"
+# Attributes from Felix Online V1
 id: "519"
 old_path: /sport/519/netball-beat-dirty-cheating-kings-medics
 aliases:
  - /sport/519/netball-beat-dirty-cheating-kings-medics
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anastasia Eleftheriou reckons this is the real Greek deal
 date: "2011-02-24 19:34:06 +0000"
+# Attributes from Felix Online V1
 id: "862"
 old_path: /food/862/as-greek-as-it-gets
 aliases:
  - /food/862/as-greek-as-it-gets
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241928-nm1010-greekgre.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

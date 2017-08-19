@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at five brilliant science fiction and fantasy anthologies and short story collections - perfect for fitting around your revision timetable
 date: "2013-05-07 19:21:50 +0100"
+# Attributes from Felix Online V1
 id: "3541"
 old_path: /books/3541/summer-short-reads
 aliases:
  - /books/3541/summer-short-reads
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305072019-tna08-solaris.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

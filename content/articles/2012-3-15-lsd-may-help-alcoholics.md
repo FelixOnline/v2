@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lysergic acid diethylamide appears to support alcoholics' efforts to rewire their brain away from addiction
 date: "2012-03-15 19:45:10 +0000"
+# Attributes from Felix Online V1
 id: "2348"
 old_path: /science/2348/lsd-may-help-alcoholics
 aliases:
  - /science/2348/lsd-may-help-alcoholics
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

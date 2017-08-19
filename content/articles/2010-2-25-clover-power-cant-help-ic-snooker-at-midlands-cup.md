@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hard luck for IC in tournament
 date: "2010-02-25 18:41:51 +0000"
+# Attributes from Felix Online V1
 id: "104"
 old_path: /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
 aliases:
  - /sport/104/clover-power-cant-help-ic-snooker-at-midlands-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251840-mb506-ICSnooke.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

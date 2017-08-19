@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Replace that Red Stripe with a Venti Cappuccino
 date: "2016-01-29 09:35:48 +0000"
+# Attributes from Felix Online V1
 id: "5850"
 old_path: /frontpage/5850/savages-before-breakfast
 aliases:
  - /frontpage/5850/savages-before-breakfast
-category: all
 
+# Article Taxonomies
+categories:
+ - all
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602011702-cet13-savages1.jpg"
 image_caption: >
   Look at all these people who are going to be late for work.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELA! is a shocking window into 70s Nigeria
 date: "2010-12-12 17:10:45 +0000"
+# Attributes from Felix Online V1
 id: "556"
 old_path: /arts/556/fela-leave-your-shy-outside-
 aliases:
  - /arts/556/fela-leave-your-shy-outside-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

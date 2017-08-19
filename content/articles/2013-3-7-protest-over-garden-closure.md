@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students show support for Garden Hall as future looks unclear
 date: "2013-03-07 23:32:21 +0000"
+# Attributes from Felix Online V1
 id: "3441"
 old_path: /news/3441/protest-over-garden-closure
 aliases:
  - /news/3441/protest-over-garden-closure
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072327-tna08-save-hall-front-page.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

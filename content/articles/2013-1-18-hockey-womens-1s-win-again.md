@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another victory for the ladies
 date: "2013-01-18 01:01:31 +0000"
+# Attributes from Felix Online V1
 id: "3147"
 old_path: /sport/3147/hockey-womens-1s-win-again
 aliases:
  - /sport/3147/hockey-womens-1s-win-again
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180100-tna08-ce.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

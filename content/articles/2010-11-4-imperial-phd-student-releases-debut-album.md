@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unsigned Imperial student Todd Kuffner unveils first body of work
 date: "2010-11-04 18:28:02 +0000"
+# Attributes from Felix Online V1
 id: "298"
 old_path: /music/298/imperial-phd-student-releases-debut-album-
 aliases:
  - /music/298/imperial-phd-student-releases-debut-album-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041824-ks607-toddkuff.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

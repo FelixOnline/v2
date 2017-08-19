@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nazi plots, fine beer, and gorgeous architecture
 date: "2011-05-08 13:26:55 +0100"
+# Attributes from Felix Online V1
 id: "1178"
 old_path: /travel/1178/a-weekend-in-scenic-prague
 aliases:
  - /travel/1178/a-weekend-in-scenic-prague
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105081424-felix-prague.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Maksim Mijovic"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

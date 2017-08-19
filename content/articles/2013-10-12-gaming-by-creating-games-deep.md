@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl discovers that, woah, he can totally develop games
 date: "2013-10-12 23:45:05 +0100"
+# Attributes from Felix Online V1
 id: "3869"
 old_path: /games/3869/gaming-by-creating-games-deep-
 aliases:
  - /games/3869/gaming-by-creating-games-deep-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310130044-jal08-games_dev-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A story of literal and figurative revolution
 date: "2017-05-25 12:42:02 +0100"
+# Attributes from Felix Online V1
 id: "6978"
 old_path: /arts/6978/life-of-galileo--space-and-rock-and-roll
 aliases:
  - /arts/6978/life-of-galileo--space-and-rock-and-roll
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705251441-im1413-Billy Howle in Life of Galileo at the Young Vic. Photo by Johan Persson..jpg"
 image_caption: >
   Billy Howle in the Life of Galileo at the Young Vic | Photo: Johan Persson
@@ -22,6 +27,7 @@ image_attribution: "Photo: Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

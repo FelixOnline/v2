@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The original Girl with the Dragon Tattoo's role in the new Sherlock Holmes film could've used some beefing up - nevertheless, the film is still an enjoyable watch
 date: "2012-01-12 22:51:17 +0000"
+# Attributes from Felix Online V1
 id: "1993"
 old_path: /film/1993/noomi-lands-her-h-debut
 aliases:
  - /film/1993/noomi-lands-her-h-debut
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122250-cac111-sherlock_holmes_2_3ab779b263ba0a04035f85f4b698ab96.jpg"
 image_caption: >
   Elementary my dear Watson, you should never start with French
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

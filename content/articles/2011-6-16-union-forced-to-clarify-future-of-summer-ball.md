@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
+# Attributes from Felix Online V1
 id: "1375"
 old_path: /news/1375/union-forced-to-clarify-future-of-summer-ball
 aliases:
  - /news/1375/union-forced-to-clarify-future-of-summer-ball
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106161945-felix-timsmith.jpg"
 image_caption: >
   Last year's Summer Ball
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London/Tim Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stoic TV host first ever live online hustings
 date: "2011-03-03 20:13:43 +0000"
+# Attributes from Felix Online V1
 id: "1004"
 old_path: /news/1004/a-stoic-effort
 aliases:
  - /news/1004/a-stoic-effort
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032010-ks607-stoicliv.jpg"
 image_caption: >
   The panel: Jenny Wilson, presenter Elizabeth Skrzypiec, Alex Kendall, and Dan Wan
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

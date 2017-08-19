@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Range of medals for Imperial Judo in Sheffield
 date: "2011-05-12 18:19:39 +0100"
+# Attributes from Felix Online V1
 id: "1193"
 old_path: /sport/1193/bucs-success-for-imperial-judo-yet-again
 aliases:
  - /sport/1193/bucs-success-for-imperial-judo-yet-again
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephanie Walton visits an exotic paradise, while you're in the Library eating a j pot. Damn.
 date: "2013-05-07 19:37:17 +0100"
+# Attributes from Felix Online V1
 id: "3544"
 old_path: /travel/3544/making-a-splash-in-mexico
 aliases:
  - /travel/3544/making-a-splash-in-mexico
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305072036-tna08-tulum-3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "All photos: Stephanie Walton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

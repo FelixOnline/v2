@@ -4,15 +4,20 @@ title: >
 subtitle: >
   China secretly slaps it’s knees whenever Kim Jong Il makes a weird speech
 date: "2010-12-09 20:34:54 +0000"
+# Attributes from Felix Online V1
 id: "528"
 old_path: /comment/528/our-leaders-are-idiots-no-shit
 aliases:
  - /comment/528/our-leaders-are-idiots-no-shit
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182209-nm1010-angrygee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mrangry"
 author_name: "Mr Angry"
 author_image_path: "img/upload/201104240247-jk708-angry-geek.jpg"

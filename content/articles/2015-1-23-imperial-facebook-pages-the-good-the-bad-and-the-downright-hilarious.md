@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A general overview of the stuff populating our feeds
 date: "2015-01-23 01:21:34 +0000"
+# Attributes from Felix Online V1
 id: "5121"
 old_path: /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
 aliases:
  - /news/5121/imperial-facebook-pages-the-good-the-bad-and-the-downright-hilarious
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230121-cac111-screen-shot-2015-01-23-at-01.20.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

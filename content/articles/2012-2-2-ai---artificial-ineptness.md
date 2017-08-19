@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cave Johnson discusses artificial intelligence, so listen up. Just watch out for the velociraptors.
 date: "2012-02-02 20:49:16 +0000"
+# Attributes from Felix Online V1
 id: "2099"
 old_path: /games/2099/ai---artificial-ineptness
 aliases:
  - /games/2099/ai---artificial-ineptness
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022042-ams111-jurassic_park_raptor_kitchen-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

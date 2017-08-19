@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We gear up for another year of politics by rounding up the events of the summer
 date: "2011-09-30 11:35:59 +0100"
+# Attributes from Felix Online V1
 id: "1459"
 old_path: /politics/1459/looting-libya-and-chaos-on-capitol-hill
 aliases:
  - /politics/1459/looting-libya-and-chaos-on-capitol-hill
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201109301232-felix-building-on-fire-during-t-007.jpg"
 image_caption: >
   A Tottenham carpet store burns during the riots
@@ -22,6 +27,7 @@ image_attribution: "guardian.co.uk"
 image_attribution_link: "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2011/8/7/1312718209368/Building-on-fire"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

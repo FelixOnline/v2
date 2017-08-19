@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
+# Attributes from Felix Online V1
 id: "5702"
 old_path: /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
 aliases:
  - /comment/5702/how-it-feels-when-your-home-country-goes-to-the-polls
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061355-ygr12-turkish-election.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "balkanist.net"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

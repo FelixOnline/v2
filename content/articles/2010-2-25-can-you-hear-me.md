@@ -4,15 +4,20 @@ title: >
 subtitle: >
    A look at how mobile phones have brought private conversations into the public space to the annoyance of everyone
 date: "2010-02-25 13:08:26 +0000"
+# Attributes from Felix Online V1
 id: "97"
 old_path: /tech/97/can-you-hear-me
 aliases:
  - /tech/97/can-you-hear-me
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251303-srg03-CellBoot.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

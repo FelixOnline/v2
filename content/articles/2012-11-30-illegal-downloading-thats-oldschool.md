@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
+# Attributes from Felix Online V1
 id: "3017"
 old_path: /tech/3017/illegal-downloading-thats-oldschool
 aliases:
  - /tech/3017/illegal-downloading-thats-oldschool
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211301139-jp1409-torrent-websites.png"
 image_caption: >
   The fallen torrenting giants, well mostly
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   His talk wasn't attended by "plebs"
 date: "2015-01-23 01:16:28 +0000"
+# Attributes from Felix Online V1
 id: "5119"
 old_path: /news/5119/andrew-mitchell-mp-speaks-at-imperial
 aliases:
  - /news/5119/andrew-mitchell-mp-speaks-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230116-cac111-screen-shot-2015-01-23-at-01.15.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

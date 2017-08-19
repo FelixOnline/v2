@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is the referendum we ought to be having
 date: "2016-06-03 08:56:36 +0100"
+# Attributes from Felix Online V1
 id: "6228"
 old_path: /comment/6228/london-should-leave-the-uk
 aliases:
  - /comment/6228/london-should-leave-the-uk
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031056-felix-car.jpg"
 image_caption: >
   Stop trying to get in on all the nice stuff we have.
@@ -22,6 +27,7 @@ image_attribution: "driven.co.nz"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

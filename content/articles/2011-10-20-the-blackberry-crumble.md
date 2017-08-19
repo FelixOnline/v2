@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pinpointing the causes of the messaging service crash
 date: "2011-10-20 21:25:19 +0100"
+# Attributes from Felix Online V1
 id: "1563"
 old_path: /tech/1563/the-blackberry-crumble
 aliases:
  - /tech/1563/the-blackberry-crumble
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202224-felix-blackberry_logo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

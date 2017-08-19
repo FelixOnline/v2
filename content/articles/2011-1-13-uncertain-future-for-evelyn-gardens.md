@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Planning application proposes conversion of Fisher Hall to care homes for the elderly
 date: "2011-01-13 21:45:23 +0000"
+# Attributes from Felix Online V1
 id: "595"
 old_path: /news/595/uncertain-future-for-evelyn-gardens-
 aliases:
  - /news/595/uncertain-future-for-evelyn-gardens-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132143-ks607-fisherha.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

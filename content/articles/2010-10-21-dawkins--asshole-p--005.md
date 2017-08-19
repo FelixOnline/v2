@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Hey kids! I’m Professor Dawkins! I really, really do not like religion!”
 date: "2010-10-21 19:00:40 +0100"
+# Attributes from Felix Online V1
 id: "230"
 old_path: /comment/230/dawkins--asshole-p--005-
 aliases:
  - /comment/230/dawkins--asshole-p--005-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

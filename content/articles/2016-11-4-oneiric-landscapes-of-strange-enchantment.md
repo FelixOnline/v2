@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paul Nash is on at the Tate Britain until 5 March 2017
 date: "2016-11-04 14:41:25 +0000"
+# Attributes from Felix Online V1
 id: "6396"
 old_path: /arts/6396/oneiric-landscapes-of-strange-enchantment
 aliases:
  - /arts/6396/oneiric-landscapes-of-strange-enchantment
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041440-aib116-spring_in_the_trenches_ridge_wood_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

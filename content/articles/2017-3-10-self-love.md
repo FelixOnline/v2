@@ -4,15 +4,20 @@ title: >
 subtitle: >
   if you can’t love yourself how in the hell you gonna love somebody else
 date: "2017-03-10 14:16:10 +0000"
+# Attributes from Felix Online V1
 id: "6883"
 old_path: /sex/6883/self-love-
 aliases:
  - /sex/6883/self-love-
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101414-felix-Screen Shot 2017-03-10 at 14.14.22.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

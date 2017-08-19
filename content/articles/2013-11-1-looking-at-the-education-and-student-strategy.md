@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix takes a quick look at the newly released strategy document
 date: "2013-11-01 09:26:29 +0000"
+# Attributes from Felix Online V1
 id: "3969"
 old_path: /features/3969/looking-at-the-education-and-student-strategy
 aliases:
  - /features/3969/looking-at-the-education-and-student-strategy
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

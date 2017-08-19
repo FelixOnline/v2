@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Taking a look at every street-wearing teen's wet dream
 date: "2017-03-10 13:10:22 +0000"
+# Attributes from Felix Online V1
 id: "6863"
 old_path: /news/6863/fashion-reigns-supreme
 aliases:
  - /news/6863/fashion-reigns-supreme
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sunghwan Yoon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

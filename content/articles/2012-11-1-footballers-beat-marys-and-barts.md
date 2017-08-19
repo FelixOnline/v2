@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington
 date: "2012-11-01 23:18:30 +0000"
+# Attributes from Felix Online V1
 id: "2824"
 old_path: /sport/2824/footballers-beat-marys-and-barts
 aliases:
  - /sport/2824/footballers-beat-marys-and-barts
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

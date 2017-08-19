@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oxford University’s Students Union (OUSU), not to be confused with the Oxford Union, a debating society, narrowly voted to disaffiliate from the National Union of Students (NUS) in a referendum that concluded on Wednesday.
 date: "2014-05-23 14:22:04 +0100"
+# Attributes from Felix Online V1
 id: "4627"
 old_path: /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
 aliases:
  - /news/4627/oxford-university-students-union-disaffiliates-from-nus-in-close-result
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231522-jal08-1577_news_oxford.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Julie anne Johnson / Flickr"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

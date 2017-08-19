@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jessi Wunder walks in Wales over the holiday
 date: "2013-06-05 16:56:49 +0100"
+# Attributes from Felix Online V1
 id: "3658"
 old_path: /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
 aliases:
  - /sport/3658/sun-sea-sand-fellwanderers-hike-pembrokeshire
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051756-tna08-7fell.jpg"
 image_caption: >
   Must be up north; blue skies, beach and still they have coats on! All pictures courtesy of Terrence
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

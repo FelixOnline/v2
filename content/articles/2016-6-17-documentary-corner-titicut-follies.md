@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-17 09:34:57 +0100"
+# Attributes from Felix Online V1
 id: "6286"
 old_path: /film/6286/documentary-corner-titicut-follies
 aliases:
  - /film/6286/documentary-corner-titicut-follies
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171134-felix-titicut_follies.jpg"
 image_caption: >
   Titicut Follies takes an unflinching look at mental health in America.
@@ -22,6 +27,7 @@ image_attribution: " Zipporah Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

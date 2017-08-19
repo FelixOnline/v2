@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Carr on the shortcomings of this year's Man Booker prize winner
 date: "2011-10-28 09:33:27 +0100"
+# Attributes from Felix Online V1
 id: "1634"
 old_path: /arts/1634/not-exactly-a-booker-novel
 aliases:
  - /arts/1634/not-exactly-a-booker-novel
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281033-felix-1018_barnes.jpg"
 image_caption: >
   Julian Barnes – master of the extended essay?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

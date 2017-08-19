@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fen kicks off a showcase of female playwrights in Fulham
 date: "2011-03-18 08:28:05 +0000"
+# Attributes from Felix Online V1
 id: "1112"
 old_path: /arts/1112/fenimism-with-flair
 aliases:
  - /arts/1112/fenimism-with-flair
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103180827-ks607-fenwoman.jpg"
 image_caption: >
   Katharine Burford as Val
@@ -22,6 +27,7 @@ image_attribution: "Paul Toeman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

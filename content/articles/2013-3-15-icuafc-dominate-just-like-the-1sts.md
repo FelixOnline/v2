@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Football win, but it's not as big a victory as the title may suggest
 date: "2013-03-15 02:01:05 +0000"
+# Attributes from Felix Online V1
 id: "3482"
 old_path: /sport/3482/icuafc-dominate-just-like-the-1sts
 aliases:
  - /sport/3482/icuafc-dominate-just-like-the-1sts
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150159-tna08-footy1s.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

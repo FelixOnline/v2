@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A step forward in the fight against autism
 date: "2012-02-23 20:48:52 +0000"
+# Attributes from Felix Online V1
 id: "2245"
 old_path: /science/2245/new-autism-diagnosis-in-infants
 aliases:
  - /science/2245/new-autism-diagnosis-in-infants
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This zippered slipcase offers good protection from the bumps and knocks your iPad might encounter in day to day life
 date: "2010-10-21 18:57:59 +0100"
+# Attributes from Felix Online V1
 id: "229"
 old_path: /tech/229/an-alluring-ipad-case
 aliases:
  - /tech/229/an-alluring-ipad-case
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010211954-nm1010-ipadcove.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

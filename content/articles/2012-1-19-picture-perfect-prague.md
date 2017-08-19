@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dushi Arumuganesan sees in the New Year in the buzzing Czech capital
 date: "2012-01-19 20:07:48 +0000"
+# Attributes from Felix Online V1
 id: "2006"
 old_path: /travel/2006/picture-perfect-prague
 aliases:
  - /travel/2006/picture-perfect-prague
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192002-cac111-p1010146.png"
 image_caption: >
   One of a few hidden European lovelock bridges – on Kampa Island
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

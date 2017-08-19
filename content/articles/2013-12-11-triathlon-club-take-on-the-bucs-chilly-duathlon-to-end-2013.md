@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.
 date: "2013-12-11 00:40:08 +0000"
+# Attributes from Felix Online V1
 id: "4200"
 old_path: /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
 aliases:
  - /sport/4200/triathlon-club-take-on-the-bucs-chilly-duathlon-to-end-2013
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICU Triathlon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

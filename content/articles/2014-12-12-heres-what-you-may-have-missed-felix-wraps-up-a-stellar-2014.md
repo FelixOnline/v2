@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A recap of all the main news stories from 2014
 date: "2014-12-12 13:01:10 +0000"
+# Attributes from Felix Online V1
 id: "5050"
 old_path: /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
 aliases:
  - /news/5050/heres-what-you-may-have-missed-felix-wraps-up-a-stellar-2014
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412121301-ps3110-img_2985.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

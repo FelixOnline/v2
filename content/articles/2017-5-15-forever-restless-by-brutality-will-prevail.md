@@ -4,15 +4,20 @@ title: >
 subtitle: >
   BWP have really pulled it out of the bag with this sludge influenced hardcore album
 date: "2017-05-15 17:17:01 +0100"
+# Attributes from Felix Online V1
 id: "6960"
 old_path: /music/6960/forever-restless-by-brutality-will-prevail-
 aliases:
  - /music/6960/forever-restless-by-brutality-will-prevail-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151916-felix-a3313749749_10.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "holyroarrecords"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

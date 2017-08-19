@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I was born in Kenya. I lived there until I was 10 years old. I learned to swear at someone in Kiswahili and Kikuyu. One of my fondest Kenyan memories is my first ever live cricket match at the Gymkhana Stadium in Nairobi. It was the 2003 World Cup and Sri Lanka were in town...
 date: "2013-11-08 03:46:01 +0000"
+# Attributes from Felix Online V1
 id: "4026"
 old_path: /comment/4026/kenya-what-is-next
 aliases:
  - /comment/4026/kenya-what-is-next
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311080921-felix-screen-shot-2013-11-08-at-09.21.15.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

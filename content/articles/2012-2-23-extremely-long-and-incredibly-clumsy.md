@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
+# Attributes from Felix Online V1
 id: "2232"
 old_path: /film/2232/extremely-long-and-incredibly-clumsy
 aliases:
  - /film/2232/extremely-long-and-incredibly-clumsy
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232020-pk1811-2011_extremely_loud_and_incredibly_close_004.jpg"
 image_caption: >
   Now listen, that headline up there is in no way sexual. I swear!!!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

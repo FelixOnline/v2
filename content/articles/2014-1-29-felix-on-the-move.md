@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Tech interviewing Kunal Wagle, the creator of the Felix app.
 date: "2014-01-29 16:24:43 +0000"
+# Attributes from Felix Online V1
 id: "4305"
 old_path: /tech/4305/felix-on-the-move
 aliases:
  - /tech/4305/felix-on-the-move
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401291629-me1711-tech_felapp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

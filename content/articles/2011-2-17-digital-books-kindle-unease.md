@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I see people using Kindles and worry they’re giving away their birthright
 date: "2011-02-17 20:07:00 +0000"
+# Attributes from Felix Online V1
 id: "833"
 old_path: /comment/833/digital-books-kindle-unease-
 aliases:
  - /comment/833/digital-books-kindle-unease-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104230143-felix-kindle-2-front1.jpeg"
 image_caption: >
   Do e-book readers make it harder to protect freedom of speech?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-03 09:23:26 +0100"
+# Attributes from Felix Online V1
 id: "6238"
 old_path: /science/6238/this-weeks-science-picture
 aliases:
  - /science/6238/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031123-felix-esp-robot.jpg"
 image_caption: >
   The Environmental Sample Processor being deployed in open water.
@@ -22,6 +27,7 @@ image_attribution: "NOAA National Ocean service"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's resident former advisor's new book is an intriguing read on the science and history of drugs
 date: "2012-11-09 12:48:17 +0000"
+# Attributes from Felix Online V1
 id: "2853"
 old_path: /science/2853/sex-drugs-and-professor-david-nutt
 aliases:
  - /science/2853/sex-drugs-and-professor-david-nutt
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091248-tna08-drugs.jpg.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

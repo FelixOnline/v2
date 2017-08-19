@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The semi-finals of the ICCA's will be held this Saturday at Imperial
 date: "2015-01-23 00:42:08 +0000"
+# Attributes from Felix Online V1
 id: "5113"
 old_path: /news/5113/a-cappella-comes-to-imperial
 aliases:
  - /news/5113/a-cappella-comes-to-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230040-cac111-large-header-novello1-1.jpg"
 image_caption: >
   The Techtonics are just one of three Imperial groups competing on Saturday
@@ -22,6 +27,7 @@ image_attribution: "The Techtonics"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

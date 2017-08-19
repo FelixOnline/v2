@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Real Estate – Days (2011)
 date: "2011-11-10 20:33:33 +0000"
+# Attributes from Felix Online V1
 id: "1715"
 old_path: /music/1715/kadhims-totally-hot-album-of-the-week-6
 aliases:
  - /music/1715/kadhims-totally-hot-album-of-the-week-6
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Enjoy your breakfast, lunch and dinner - guilt-free
 date: "2013-01-10 23:08:44 +0000"
+# Attributes from Felix Online V1
 id: "3106"
 old_path: /food/3106/sophia-goldberg-on-the-1-new-years-resolution
 aliases:
  - /food/3106/sophia-goldberg-on-the-1-new-years-resolution
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102307-csw09-pea-soup!.jpg"
 image_caption: >
   Pea soup!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

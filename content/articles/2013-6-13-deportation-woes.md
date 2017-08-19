@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Government’s treatment of overseas nationals is reprehensible, and is threatening a large number of students at Imperial
 date: "2013-06-13 22:35:27 +0100"
+# Attributes from Felix Online V1
 id: "3679"
 old_path: /comment/3679/deportation-woes
 aliases:
  - /comment/3679/deportation-woes
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132335-tna08-2013032817063530565.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

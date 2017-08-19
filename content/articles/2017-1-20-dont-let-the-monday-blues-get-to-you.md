@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Jane Cramphorn pumps you up and reminds you it's ok to get the blues
 date: "2017-01-20 15:03:38 +0000"
+# Attributes from Felix Online V1
 id: "6661"
 old_path: /comment/6661/dont-let-the-monday-blues-get-to-you
 aliases:
  - /comment/6661/dont-let-the-monday-blues-get-to-you
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201503-felix-Screen Shot 2017-01-20 at 15.03.21.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

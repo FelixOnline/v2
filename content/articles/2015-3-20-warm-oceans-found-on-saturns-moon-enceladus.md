@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Researchers studied tiny grains of rock to determine their hydrothermal origins at the core of the icy moon
 date: "2015-03-20 00:54:00 +0000"
+# Attributes from Felix Online V1
 id: "5418"
 old_path: /science/5418/warm-oceans-found-on-saturns-moon-enceladus
 aliases:
  - /science/5418/warm-oceans-found-on-saturns-moon-enceladus
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503200053-cj914-enceladus-geysers.jpg"
 image_caption: >
   This cutaway image shows an artist's impression of the ocean under Enceladus' icy crust
@@ -22,6 +27,7 @@ image_attribution: "NASA/JPL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall
 date: "2011-02-03 19:33:34 +0000"
+# Attributes from Felix Online V1
 id: "717"
 old_path: /news/717/9000-fees-preferable-says-union-president-
 aliases:
  - /news/717/9000-fees-preferable-says-union-president-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "skd09"
 author_name: "Sophia David"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

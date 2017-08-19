@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs explain the impact of branding
 date: "2012-01-19 19:57:45 +0000"
+# Attributes from Felix Online V1
 id: "2002"
 old_path: /biz/2002/brand-identity
 aliases:
  - /biz/2002/brand-identity
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201191957-ams111-cola.jpg"
 image_caption: >
   Two of the most recognisable brands in the world have been warring over the soft drinks market
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

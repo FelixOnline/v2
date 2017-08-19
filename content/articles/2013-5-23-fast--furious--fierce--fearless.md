@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fast & Furious 6 is furiously fun
 date: "2013-05-23 21:39:11 +0100"
+# Attributes from Felix Online V1
 id: "3603"
 old_path: /film/3603/fast--furious--fierce--fearless
 aliases:
  - /film/3603/fast--furious--fierce--fearless
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232238-tna08-fast-furious-6-vin-diesel.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

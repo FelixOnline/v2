@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
+# Attributes from Felix Online V1
 id: "3583"
 old_path: /film/3583/may-jj-abrams-live-long-and-prosper
 aliases:
  - /film/3583/may-jj-abrams-live-long-and-prosper
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161921-tna08-hr_star_trek_into_darkness_20.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

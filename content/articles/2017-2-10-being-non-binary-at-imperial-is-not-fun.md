@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One Imperial student discusses their time at uni, wishing things would “get better” faster
 date: "2017-02-10 14:35:38 +0000"
+# Attributes from Felix Online V1
 id: "6757"
 old_path: /features/6757/being-non-binary-at-imperial-is-not-fun
 aliases:
  - /features/6757/being-non-binary-at-imperial-is-not-fun
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101435-felix-Screen Shot 2017-02-10 at 14.34.53.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

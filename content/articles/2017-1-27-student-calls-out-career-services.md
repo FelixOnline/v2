@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union pushes for resolving funding and staffing issues
 date: "2017-01-27 14:11:55 +0000"
+# Attributes from Felix Online V1
 id: "6681"
 old_path: /news/6681/student-calls-out-career-services-
 aliases:
  - /news/6681/student-calls-out-career-services-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271411-felix-141112_imp_careers_046--tojpeg_1453133537311_x1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

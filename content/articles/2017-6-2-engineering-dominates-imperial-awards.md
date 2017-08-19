@@ -4,15 +4,20 @@ title: >
 subtitle: >
   SACAs, President’s Awards and NSS scores all say the same thing
 date: "2017-06-02 12:44:10 +0100"
+# Attributes from Felix Online V1
 id: "6984"
 old_path: /news/6984/engineering-dominates-imperial-awards
 aliases:
  - /news/6984/engineering-dominates-imperial-awards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021443-felix-18518019_1290491971019297_1314277974552387098_o.jpg"
 image_caption: >
   Most of the award winners were from the Faculty of Engineering
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

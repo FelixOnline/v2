@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix boldly uses the lab experience acquired at this noble institution to probe the depths of SCOBYs, tea and Kombucha. Is it the elixir we’ve all been looking for, or just a another fad? More importantly, will it be drinkable at the end of it all? Place your bets, and read on.
 date: "2017-03-10 14:07:21 +0000"
+# Attributes from Felix Online V1
 id: "6881"
 old_path: /food/6881/kombucha-kraft
 aliases:
  - /food/6881/kombucha-kraft
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101406-felix-IMG_2349 2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College offers support to any students feeling affected
 date: "2016-12-09 11:58:42 +0000"
+# Attributes from Felix Online V1
 id: "6562"
 old_path: /news/6562/ongoing-investigation-into-acton-stabbing
 aliases:
  - /news/6562/ongoing-investigation-into-acton-stabbing
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-06 10:12:44 +0100"
+# Attributes from Felix Online V1
 id: "6130"
 old_path: /film/6130/the-top-three-superhero-films-that-arent-marvel
 aliases:
  - /film/6130/the-top-three-superhero-films-that-arent-marvel
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

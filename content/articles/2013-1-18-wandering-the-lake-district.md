@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Fellwanderers walk about in the cold and the rain... mad...
 date: "2013-01-18 01:07:23 +0000"
+# Attributes from Felix Online V1
 id: "3149"
 old_path: /sport/3149/wandering-the-lake-district
 aliases:
  - /sport/3149/wandering-the-lake-district
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180106-tna08-fell2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

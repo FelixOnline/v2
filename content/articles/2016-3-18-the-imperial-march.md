@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cross country take on the Salisbury 10
 date: "2016-03-18 12:08:30 +0000"
+# Attributes from Felix Online V1
 id: "6078"
 old_path: /sport/6078/the-imperial-march
 aliases:
  - /sport/6078/the-imperial-march
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181208-felix-Salisbury 2.jpg"
 image_caption: >
   Off they go!
@@ -22,6 +27,7 @@ image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

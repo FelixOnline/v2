@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charity fundraiser helps out HIV victims in Southern Africa
 date: "2010-02-25 18:39:48 +0000"
+# Attributes from Felix Online V1
 id: "103"
 old_path: /sport/103/imperial-college-football-and-kick-4-life-join-forces
 aliases:
  - /sport/103/imperial-college-football-and-kick-4-life-join-forces
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sally Archer will be performing at ICU on Friday 16 March
 date: "2012-03-15 21:32:40 +0000"
+# Attributes from Felix Online V1
 id: "2386"
 old_path: /music/2386/archers-wonder
 aliases:
  - /music/2386/archers-wonder
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

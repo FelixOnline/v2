@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is something so intensely vigorous and exciting about Ron Howard’s Formula 1 biopic Rush. Focusing on British driver James Hunt (Hemsworth, excellent) and his rivalry with the German Niki Lauda (Brühl, a worthy opponent), here is a winning film that concentrates on having fun as well as...
 date: "2013-10-12 12:02:01 +0100"
+# Attributes from Felix Online V1
 id: "3843"
 old_path: /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
 aliases:
  - /film/3843/fasten-your-seatbelts-its-going-to-be-a-bumpy-night
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

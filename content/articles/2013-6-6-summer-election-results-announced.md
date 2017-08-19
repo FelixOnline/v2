@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spoiler warning: DPE for next year is RON. Nah, just kidding, it's...
 date: "2013-06-06 10:53:19 +0100"
+# Attributes from Felix Online V1
 id: "3662"
 old_path: /news/3662/summer-election-results-announced
 aliases:
  - /news/3662/summer-election-results-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306071409-tna08-natdpe.jpg"
 image_caption: >
   Next year's Deputy President (Education): Natalie Kempson
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

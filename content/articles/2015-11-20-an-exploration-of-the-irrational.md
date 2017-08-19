@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We head down to the opening night of the ICA’s Buñuel retrospective, where a selection of his key films – Un Chien Andalou, Eating Sea Urchins, and L’Age D’Or – display his mastery of the surreal.
 date: "2015-11-20 09:23:35 +0000"
+# Attributes from Felix Online V1
 id: "5754"
 old_path: /film/5754/an-exploration-of-the-irrational
 aliases:
  - /film/5754/an-exploration-of-the-irrational
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200923-ygr12-2.jpg"
 image_caption: >
   The brutal eye-slicing scene of Un Chien Andalou, which remains one of the most iconic scenes of modern experimental cinema.
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   First debuting as a web-series in late 2015, The Benefits of Gusbandry has only recently joined the Amazon Prime arsenal. As a series trying to portray a different side of the relationships between man and woman, how does it stack up?
 date: "2017-02-10 15:56:39 +0000"
+# Attributes from Felix Online V1
 id: "6769"
 old_path: /tv/6769/criminally-short--the-benefits-of-gusbandry
 aliases:
  - /tv/6769/criminally-short--the-benefits-of-gusbandry
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101556-felix-3d30460412b0d093783b8c413b698813.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The Benefits of Gusbandry LLC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

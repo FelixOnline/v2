@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Interbreeding between Orangutan sub-species could lead to thier extinction
 date: "2016-03-04 11:35:57 +0000"
+# Attributes from Felix Online V1
 id: "6002"
 old_path: /science/6002/the-deadly-orangutan-cocktail
 aliases:
  - /science/6002/the-deadly-orangutan-cocktail
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041135-felix-12626939765_1e1d97bfc3_o.jpg"
 image_caption: >
   What lies ahead for the futrue of this little one?
@@ -22,6 +27,7 @@ image_attribution: " Eric Kilby  "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

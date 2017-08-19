@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New technologies promise improved efficiency
 date: "2012-10-05 12:00:45 +0100"
+# Attributes from Felix Online V1
 id: "2608"
 old_path: /science/2608/solar-cells-get-a-boost
 aliases:
  - /science/2608/solar-cells-get-a-boost
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051257-nn1209-nl-2012-02796f_0005.jpeg"
 image_caption: >
   Peak absorbance around natural light increases efficiency
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

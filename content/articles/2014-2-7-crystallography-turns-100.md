@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer on the triumphs of one of the most influential scientific techniques
 date: "2014-02-07 05:13:55 +0000"
+# Attributes from Felix Online V1
 id: "4364"
 old_path: /science/4364/crystallography-turns-100
 aliases:
  - /science/4364/crystallography-turns-100
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

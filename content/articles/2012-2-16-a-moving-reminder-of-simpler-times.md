@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
+# Attributes from Felix Online V1
 id: "2184"
 old_path: /books/2184/a-moving-reminder-of-simpler-times
 aliases:
  - /books/2184/a-moving-reminder-of-simpler-times
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

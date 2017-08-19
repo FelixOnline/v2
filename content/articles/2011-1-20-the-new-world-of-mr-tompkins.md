@@ -4,15 +4,20 @@ title: >
 subtitle: >
   by George Gamow and Russell Stannard
 date: "2011-01-20 19:38:52 +0000"
+# Attributes from Felix Online V1
 id: "611"
 old_path: /science/611/the-new-world-of-mr-tompkins-
 aliases:
  - /science/611/the-new-world-of-mr-tompkins-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

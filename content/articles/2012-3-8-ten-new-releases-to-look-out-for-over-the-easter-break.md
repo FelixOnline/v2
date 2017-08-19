@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A guide to cinematic experiences during the five-week holiday
 date: "2012-03-08 21:47:33 +0000"
+# Attributes from Felix Online V1
 id: "2328"
 old_path: /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
 aliases:
  - /film/2328/ten-new-releases-to-look-out-for-over-the-easter-break
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203111450-mc4509-hunger-games.jpg"
 image_caption: >
   Jennifer Lawrence in The Hunger Games
@@ -22,6 +27,7 @@ image_attribution: "Lionsgate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

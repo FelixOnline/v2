@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two Imperial College researchers have been placed on list of 100 top practising scientists compiled by the Science Council.
 date: "2014-01-31 17:13:00 +0000"
+# Attributes from Felix Online V1
 id: "4311"
 old_path: /news/4311/imperial-academics-on-list-of-top-uk-practising-scientists
 aliases:
  - /news/4311/imperial-academics-on-list-of-top-uk-practising-scientists
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

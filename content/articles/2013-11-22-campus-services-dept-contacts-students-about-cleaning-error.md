@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Last week Felix reported on College Campus Services’ decisions to change the campus cleaning services during a re-tendering of the cleaning contract. It transpired that one of the department’s decisions...
 date: "2013-11-22 03:31:14 +0000"
+# Attributes from Felix Online V1
 id: "4094"
 old_path: /news/4094/campus-services-dept-contacts-students-about-cleaning-error
 aliases:
  - /news/4094/campus-services-dept-contacts-students-about-cleaning-error
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311241659-jal08-news_icu_bins.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

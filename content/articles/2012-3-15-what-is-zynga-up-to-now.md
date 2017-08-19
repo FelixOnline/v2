@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Maxey looks at the past and present of Zynga
 date: "2012-03-15 19:32:53 +0000"
+# Attributes from Felix Online V1
 id: "2344"
 old_path: /tech/2344/what-is-zynga-up-to-now
 aliases:
  - /tech/2344/what-is-zynga-up-to-now
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151932-pk1811-zynga-games.jpg"
 image_caption: >
   Zynga are responsible for many of the most popular games on Facebook
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

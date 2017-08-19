@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ever wanted yummy and ethical food? Look no further
 date: "2013-05-01 18:21:38 +0100"
+# Attributes from Felix Online V1
 id: "3518"
 old_path: /news/3518/food-co-op-launching-at-imperial
 aliases:
  - /news/3518/food-co-op-launching-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305011921-tna08-final3.jpg-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

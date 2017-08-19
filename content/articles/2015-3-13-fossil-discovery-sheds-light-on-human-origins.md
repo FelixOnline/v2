@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Humans are unmistakably tied to our ape origins, says Jane Courtnell
 date: "2015-03-13 00:42:20 +0000"
+# Attributes from Felix Online V1
 id: "5386"
 old_path: /science/5386/fossil-discovery-sheds-light-on-human-origins
 aliases:
  - /science/5386/fossil-discovery-sheds-light-on-human-origins
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130043-cj914-jawbone---photoshopped-copy.jpg"
 image_caption: >
   The discovery of this jawbone made fossil hunters get hot under the collar
@@ -22,6 +27,7 @@ image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Asghar Farhadi’s Academy Award-winning film examines how single incidents spiral out, affecting all aspects of our lives, as a couple deal with the fallout from an assault committed in their own home.
 date: "2017-03-17 17:07:55 +0000"
+# Attributes from Felix Online V1
 id: "6911"
 old_path: /film/6911/the-salesman--exploring-the-impact-of-violent-acts
 aliases:
  - /film/6911/the-salesman--exploring-the-impact-of-violent-acts
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171707-felix-Salesman.jpg"
 image_caption: >
   Shahab Hosseini and Taraneh Alidooti play the couple at the heart of Asghar Farhadi’s latest film
@@ -22,6 +27,7 @@ image_attribution: "Cannes film festival"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

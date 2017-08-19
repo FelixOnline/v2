@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-11-04 12:54:58 +0000"
+# Attributes from Felix Online V1
 id: "6383"
 old_path: /science/6383/i-once-was-blind-but-now-i-see
 aliases:
  - /science/6383/i-once-was-blind-but-now-i-see
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

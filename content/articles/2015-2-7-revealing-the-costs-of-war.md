@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland on the Royal Court’s new play
 date: "2015-02-07 19:23:42 +0000"
+# Attributes from Felix Online V1
 id: "5208"
 old_path: /arts/5208/revealing-the-costs-of-war
 aliases:
  - /arts/5208/revealing-the-costs-of-war
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071923-ps3110-michael-ajao-in-liberian-girl-at-the-royal-court.-credit-johan-persson.--01011-copya.jpg"
 image_caption: >
   Michael Ajao in Liberian Girl
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

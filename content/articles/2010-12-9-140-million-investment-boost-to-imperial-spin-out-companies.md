@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stock market floatation raises millions for research
 date: "2010-12-09 21:38:50 +0000"
+# Attributes from Felix Online V1
 id: "539"
 old_path: /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
 aliases:
  - /news/539/140-million-investment-boost-to-imperial-spin-out-companies-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "za710"
 author_name: "Zainab Ali"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

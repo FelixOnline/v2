@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Missing athletes, lost bikes and misdirection from marshalls
 date: "2016-05-06 10:24:06 +0100"
+# Attributes from Felix Online V1
 id: "6139"
 old_path: /sport/6139/trials-and-tribulations-at-bucs-sprint-16
 aliases:
  - /sport/6139/trials-and-tribulations-at-bucs-sprint-16
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061123-felix-13116016_10100539315795845_4258963349234723363_o-1024x576.jpg"
 image_caption: >
   Quick get a parking space.
@@ -22,6 +27,7 @@ image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

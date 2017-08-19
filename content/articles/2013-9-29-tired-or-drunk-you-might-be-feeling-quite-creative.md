@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Science Editor Fiona Hartley explores the link between creativity and alcohol (and tiredness).
 date: "2013-09-29 14:05:52 +0100"
+# Attributes from Felix Online V1
 id: "3770"
 old_path: /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
 aliases:
  - /science/3770/tired-or-drunk-you-might-be-feeling-quite-creative
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291502-jal08-drunkeness.jpg"
 image_caption: >
   Should you really be at the wheel?
@@ -22,6 +27,7 @@ image_attribution: "The Simpsons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

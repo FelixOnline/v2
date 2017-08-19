@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two wins, three losses and a draw: pre-season matches offer some insight into the teams ahead of a new season
 date: "2011-10-21 10:08:11 +0100"
+# Attributes from Felix Online V1
 id: "1584"
 old_path: /sport/1584/ic-hockey-friendlies-yield-mixed-results
 aliases:
  - /sport/1584/ic-hockey-friendlies-yield-mixed-results
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211107-ak6309-dsc_0301modified-copywebsite.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

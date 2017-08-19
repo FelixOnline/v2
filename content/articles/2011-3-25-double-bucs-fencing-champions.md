@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperials men's and women's fencers win BUCS Championships
 date: "2011-03-25 14:56:37 +0000"
+# Attributes from Felix Online V1
 id: "1127"
 old_path: /sport/1127/double-bucs-fencing-champions
 aliases:
  - /sport/1127/double-bucs-fencing-champions
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103251451-jn104-BUCSFenc.jpg"
 image_caption: >
   Imperial's fencing teams celebrate their win
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

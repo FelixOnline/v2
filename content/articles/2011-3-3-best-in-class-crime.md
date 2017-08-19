@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Simpson on television’s best cops, robbers, detectives and con-men
 date: "2011-03-03 20:01:39 +0000"
+# Attributes from Felix Online V1
 id: "1001"
 old_path: /tv/1001/best-in-class-crime
 aliases:
  - /tv/1001/best-in-class-crime
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kent reports on ICTV’s exciting new show
 date: "2015-02-20 00:04:39 +0000"
+# Attributes from Felix Online V1
 id: "5281"
 old_path: /news/5281/imperial-questions-live-looks-into-the-tough-subjects
 aliases:
  - /news/5281/imperial-questions-live-looks-into-the-tough-subjects
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502200004-ps3110-iqlaughigforphilip.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICTV/Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

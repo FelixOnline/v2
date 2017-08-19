@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Statisticians at UCL and Imperial College London have found that contrary to popular belief UK entries to Eurovision have not been “systematically shunned” by the rest of Europe.
 date: "2014-05-09 01:57:22 +0100"
+# Attributes from Felix Online V1
 id: "4566"
 old_path: /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
 aliases:
  - /news/4566/eurovision-voting-pattern-reveals-no-prejudice-against-the-uk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090257-jal08-news_eurovision.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "eurovision.tv"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I spent my time on the red carpet taking selfies
 date: "2015-10-30 14:45:46 +0000"
+# Attributes from Felix Online V1
 id: "5690"
 old_path: /news/5690/i-went-to-the-bond-premiere
 aliases:
  - /news/5690/i-went-to-the-bond-premiere
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

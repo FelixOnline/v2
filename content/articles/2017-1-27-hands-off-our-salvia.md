@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The state's fight against legal highs
 date: "2017-01-27 17:42:10 +0000"
+# Attributes from Felix Online V1
 id: "6704"
 old_path: /millennials/6704/hands-off-our-salvia
 aliases:
  - /millennials/6704/hands-off-our-salvia
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701272046-felix-Screen Shot 2017-01-27 at 20.44.24.png"
 image_caption: >
   Not sure why but we think this is relevant
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

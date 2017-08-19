@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn talks about the importance of eating disorder awarenees and how conversation is the only way to tackle the stigma
 date: "2017-03-03 14:50:18 +0000"
+# Attributes from Felix Online V1
 id: "6840"
 old_path: /comment/6840/we-really-need-to-talk-about-eating-disorders
 aliases:
  - /comment/6840/we-really-need-to-talk-about-eating-disorders
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031454-felix-Emily Jane Cramphorn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

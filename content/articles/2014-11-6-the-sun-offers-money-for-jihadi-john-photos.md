@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah on the paper offering money for bad taste costume photos
 date: "2014-11-06 18:43:32 +0000"
+# Attributes from Felix Online V1
 id: "4767"
 old_path: /news/4767/the-sun-offers-money-for-jihadi-john-photos
 aliases:
  - /news/4767/the-sun-offers-money-for-jihadi-john-photos
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061839-cj914-v3-towers-costume-sun-front.jpg"
 image_caption: >
   Two girls dressed as the World Trade Centre during 9/11, as reported in The Sun.
@@ -22,6 +27,7 @@ image_attribution: "The Sun"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

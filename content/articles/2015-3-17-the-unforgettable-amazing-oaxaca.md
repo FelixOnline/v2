@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
+# Attributes from Felix Online V1
 id: "5398"
 old_path: /travel/5398/the-unforgettable-amazing-oaxaca
 aliases:
  - /travel/5398/the-unforgettable-amazing-oaxaca
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503171441-ync111-view-of-a-pool-formed-by-spring-at-hierve-el-agua,-with-range-of-mountains-in-background.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

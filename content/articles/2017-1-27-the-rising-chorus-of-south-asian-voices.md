@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's happening. Slowly, but steadily and inevitably.
 date: "2017-01-27 17:04:05 +0000"
+# Attributes from Felix Online V1
 id: "6700"
 old_path: /tv/6700/the-rising-chorus-of-south-asian-voices
 aliases:
  - /tv/6700/the-rising-chorus-of-south-asian-voices
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271703-felix-Aziz_Anzari_December_2011.jpg"
 image_caption: >
   Change rarely comes from where you expect it
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

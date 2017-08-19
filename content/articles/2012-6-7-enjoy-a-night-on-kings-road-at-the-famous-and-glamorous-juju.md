@@ -4,15 +4,20 @@ title: >
 subtitle: >
   'A cocktail bar that does food' – that must be the most beautiful sentence in the English language.
 date: "2012-06-07 18:57:16 +0100"
+# Attributes from Felix Online V1
 id: "2527"
 old_path: /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
 aliases:
  - /food/2527/enjoy-a-night-on-kings-road-at-the-famous-and-glamorous-juju
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072000-ams111-food1.jpg"
 image_caption: >
   Just like Made in Chelsea, but with a crippling lack of Francis Boulle
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

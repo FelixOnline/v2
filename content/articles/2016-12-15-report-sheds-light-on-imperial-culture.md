@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And the picture ain’t pretty
 date: "2016-12-15 23:46:35 +0000"
+# Attributes from Felix Online V1
 id: "6597"
 old_path: /news/6597/report-sheds-light-on-imperial-culture
 aliases:
  - /news/6597/report-sheds-light-on-imperial-culture
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

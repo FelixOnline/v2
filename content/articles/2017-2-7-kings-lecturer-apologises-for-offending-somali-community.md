@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Perkins tweets public apology following felix investigation
 date: "2017-02-07 15:15:42 +0000"
+# Attributes from Felix Online V1
 id: "6741"
 old_path: /news/6741/kings-lecturer-apologises-for-offending-somali-community
 aliases:
  - /news/6741/kings-lecturer-apologises-for-offending-somali-community
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "poppet with a camera"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

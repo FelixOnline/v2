@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We interviewed the ICSMU President about ICSM's response to last year's Daily Mail scandal, along with Alcohol Awareness Week
 date: "2012-01-12 21:23:54 +0000"
+# Attributes from Felix Online V1
 id: "1969"
 old_path: /news/1969/an-interview-with-medic-president-suzie-rayner
 aliases:
  - /news/1969/an-interview-with-medic-president-suzie-rayner
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122123-cac111-medicss.jpg"
 image_caption: >
   Last year's Daily Mail article
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

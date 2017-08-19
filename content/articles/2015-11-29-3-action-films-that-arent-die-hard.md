@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It might be a great film, but here are some alternatives to Bruce Willis
 date: "2015-11-29 16:48:07 +0000"
+# Attributes from Felix Online V1
 id: "5785"
 old_path: /film/5785/3-action-films-that-arent-die-hard
 aliases:
  - /film/5785/3-action-films-that-arent-die-hard
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291647-ff712-gallery-diehard-3.jpg"
 image_caption: >
   Don't be sad Bruce, there are loads of other films you can see!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

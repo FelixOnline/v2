@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Revolution: Russian Art 1917 – 1932 is on at the Royal Academy until 17th April 2017
 date: "2017-02-17 15:13:11 +0000"
+# Attributes from Felix Online V1
 id: "6791"
 old_path: /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
 aliases:
  - /arts/6791/revolution-russian-art-1917--1932--a-terrible-festival-of-dead-leaves
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171512-felix-Key 20.jpg"
 image_caption: >
   Bolshevik, Boris Mikailovich Kustodiev, 1920
@@ -22,6 +27,7 @@ image_attribution: "State Tretyakov Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

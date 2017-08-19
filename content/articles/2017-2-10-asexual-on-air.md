@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Even terms such as ‘LGBT’ can sometimes forget to include certain groups of people
 date: "2017-02-10 15:55:30 +0000"
+# Attributes from Felix Online V1
 id: "6768"
 old_path: /tv/6768/asexual-on-air
 aliases:
  - /tv/6768/asexual-on-air
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten on Nintendo's positive influence on the younger generation
 date: "2013-10-18 21:26:31 +0100"
+# Attributes from Felix Online V1
 id: "3891"
 old_path: /comment/3891/nintendos-ethical-legacy
 aliases:
  - /comment/3891/nintendos-ethical-legacy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182224-jal08-mewtwo.png"
 image_caption: >
   Mewtwo
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

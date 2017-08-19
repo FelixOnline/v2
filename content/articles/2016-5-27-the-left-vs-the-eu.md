@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A vote to remain in the EU is a vote for right-wing idealogies
 date: "2016-05-27 08:49:02 +0100"
+# Attributes from Felix Online V1
 id: "6206"
 old_path: /comment/6206/the-left-vs-the-eu
 aliases:
  - /comment/6206/the-left-vs-the-eu
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271048-felix-conservatives say yes.jpg"
 image_caption: >
   The referendum is not just a left-right debate.
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

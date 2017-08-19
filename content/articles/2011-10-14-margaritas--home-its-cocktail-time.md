@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We reveal the recipe for Mexico's most famous cocktail
 date: "2011-10-14 00:04:20 +0100"
+# Attributes from Felix Online V1
 id: "1532"
 old_path: /food/1532/margaritas--home-its-cocktail-time
 aliases:
  - /food/1532/margaritas--home-its-cocktail-time
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140104-sjw209-margaritas.jpg"
 image_caption: >
   The thinking man's Slush Puppie
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

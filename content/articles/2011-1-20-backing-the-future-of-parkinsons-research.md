@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hollywood star Michael J Fox launches global Parkinson's initiative
 date: "2011-01-20 19:27:25 +0000"
+# Attributes from Felix Online V1
 id: "607"
 old_path: /science/607/backing-the-future-of-parkinsons-research-
 aliases:
  - /science/607/backing-the-future-of-parkinsons-research-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201924-ks607-backtoth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

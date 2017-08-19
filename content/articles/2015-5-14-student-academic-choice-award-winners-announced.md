@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah finds out which staff get the student’s vote
 date: "2015-05-14 22:32:33 +0100"
+# Attributes from Felix Online V1
 id: "5522"
 old_path: /news/5522/student-academic-choice-award-winners-announced
 aliases:
  - /news/5522/student-academic-choice-award-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142332-cj914-tbl_sacas_18h42m37s-copy.jpg"
 image_caption: >
   Pascal Loåose, left, hosted the evening
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester/Through Ben’s Lens"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Since his 2011 arrest, Iranian director Jafar Panahi’s fimmaking has become a cause célèbre in the cinema world. We take a look at his life, his work, and the events leading up to his ban on producing films.
 date: "2015-11-06 14:07:05 +0000"
+# Attributes from Felix Online V1
 id: "5706"
 old_path: /film/5706/jafar-panahi-is-the-iranian-neo-realist
 aliases:
  - /film/5706/jafar-panahi-is-the-iranian-neo-realist
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061406-ygr12-jafar-panahi1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "AFP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

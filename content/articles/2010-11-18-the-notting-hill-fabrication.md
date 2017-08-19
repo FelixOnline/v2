@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What do you do when your erotic obsession with your teenage son drives you to self-destruction? Let’s see
 date: "2010-11-18 19:54:31 +0000"
+# Attributes from Felix Online V1
 id: "380"
 old_path: /arts/380/the-notting-hill-fabrication
 aliases:
  - /arts/380/the-notting-hill-fabrication
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

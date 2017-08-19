@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boris Johnson takes on the people in the Great Hall
 date: "2013-11-08 03:42:07 +0000"
+# Attributes from Felix Online V1
 id: "4023"
 old_path: /news/4023/peoples-question-time
 aliases:
  - /news/4023/peoples-question-time
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311080913-felix-screen-shot-2013-11-08-at-09.13.11.png"
 image_caption: >
   Top: Boris under questioning Bottom: Boris doing 'the creep'
@@ -22,6 +27,7 @@ image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Being a foetus is fun”: daydreaming begins before birth
 date: "2010-11-04 18:40:05 +0000"
+# Attributes from Felix Online V1
 id: "305"
 old_path: /science/305/do-babies-dream-in-the-womb
 aliases:
  - /science/305/do-babies-dream-in-the-womb
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial West gets planning permission
 date: "2012-10-18 21:44:49 +0100"
+# Attributes from Felix Online V1
 id: "2720"
 old_path: /news/2720/new-campus-approved
 aliases:
  - /news/2720/new-campus-approved
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

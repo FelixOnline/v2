@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s hard to avoid the feeling that it’s all a bit... underwhelming
 date: "2010-10-10 15:24:17 +0100"
+# Attributes from Felix Online V1
 id: "188"
 old_path: /arts/188/the-turner-prize-disappoints-again-
 aliases:
  - /arts/188/the-turner-prize-disappoints-again-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010101622-ks607-TurnerPr.jpg"
 image_caption: >
   Angela de la Cruz's "sawn-up and deformed canvasses"
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

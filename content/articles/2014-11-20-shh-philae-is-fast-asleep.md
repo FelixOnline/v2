@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
+# Attributes from Felix Online V1
 id: "4909"
 old_path: /science/4909/shh-philae-is-fast-asleep
 aliases:
  - /science/4909/shh-philae-is-fast-asleep
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411202042-cj914-rosetta_s_philae_lander_on_comet_nucleus.jpg"
 image_caption: >
   Plucky Philae settles on the surface of comet 67P
@@ -22,6 +27,7 @@ image_attribution: "ESA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

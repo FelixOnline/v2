@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A step-by-step guide to creating a successful iPhone app
 date: "2011-01-27 19:24:52 +0000"
+# Attributes from Felix Online V1
 id: "668"
 old_path: /tech/668/make-your-own-iphone-app-
 aliases:
  - /tech/668/make-your-own-iphone-app-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271919-ks607-robertna.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jl4310"
 author_name: "Jacob Lea-Wilson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

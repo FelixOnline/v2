@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Those who impress may even secure internships
 date: "2016-02-05 12:53:53 +0000"
+# Attributes from Felix Online V1
 id: "5888"
 old_path: /cands/5888/new-financial-worlds-conference-
 aliases:
  - /cands/5888/new-financial-worlds-conference-
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051252-felix-The_City_London.jpg"
 image_caption: >
   Does this life appeal to you? You should probably apply then.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

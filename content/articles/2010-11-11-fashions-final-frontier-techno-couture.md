@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The latest obsession in the world of fashion: technology
 date: "2010-11-11 20:33:22 +0000"
+# Attributes from Felix Online V1
 id: "339"
 old_path: /fashion/339/fashions-final-frontier-techno-couture
 aliases:
  - /fashion/339/fashions-final-frontier-techno-couture
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

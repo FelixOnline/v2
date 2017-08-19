@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It is time for London to elect a mayor
 date: "2012-03-15 22:24:22 +0000"
+# Attributes from Felix Online V1
 id: "2398"
 old_path: /comment/2398/back-boris-not-bloody-likely
 aliases:
  - /comment/2398/back-boris-not-bloody-likely
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152223-ams111-boris-hand1.jpg"
 image_caption: >
   Just a persona? Boris in action
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

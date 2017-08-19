@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
+# Attributes from Felix Online V1
 id: "5250"
 old_path: /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
 aliases:
  - /fashion/5250/musics-biggest-night-the-best-and-worst-outfits-of-the-2015-grammys-
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

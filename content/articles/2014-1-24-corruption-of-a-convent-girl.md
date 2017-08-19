@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Manon premiered in 1884, at the height of the Belle Époque.
 date: "2014-01-24 09:49:04 +0000"
+# Attributes from Felix Online V1
 id: "4279"
 old_path: /arts/4279/corruption-of-a-convent-girl
 aliases:
  - /arts/4279/corruption-of-a-convent-girl
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

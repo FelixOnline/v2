@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Funkology dancing to the finish line
 date: "2013-03-07 21:53:24 +0000"
+# Attributes from Felix Online V1
 id: "3432"
 old_path: /news/3432/funkology-wins-largest-uk-university-dance-competition
 aliases:
  - /news/3432/funkology-wins-largest-uk-university-dance-competition
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

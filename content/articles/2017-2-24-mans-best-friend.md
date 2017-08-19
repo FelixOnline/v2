@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hint: It's me Dog
 date: "2017-02-24 13:56:36 +0000"
+# Attributes from Felix Online V1
 id: "6816"
 old_path: /science/6816/mans-best-friend
 aliases:
  - /science/6816/mans-best-friend
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241356-felix-3881790828_c97f7f15fa_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

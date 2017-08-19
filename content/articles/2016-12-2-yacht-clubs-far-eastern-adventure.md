@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They're on a boat
 date: "2016-12-02 16:46:25 +0000"
+# Attributes from Felix Online V1
 id: "6551"
 old_path: /sport/6551/yacht-clubs-far-eastern-adventure
 aliases:
  - /sport/6551/yacht-clubs-far-eastern-adventure
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021646-felix-yacht 6.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

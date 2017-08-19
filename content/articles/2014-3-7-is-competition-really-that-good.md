@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I seem to be in a bit of a gaming rut at the moment. I bought a few games in the Steam sales and in Humble Bundles that I haven’t given due gaming time. Instead of exploring the vastness of my steam library, I am always playing the same game: CounterStrike Global Offensive.
 date: "2014-03-07 05:59:28 +0000"
+# Attributes from Felix Online V1
 id: "4471"
 old_path: /games/4471/is-competition-really-that-good
 aliases:
  - /games/4471/is-competition-really-that-good
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

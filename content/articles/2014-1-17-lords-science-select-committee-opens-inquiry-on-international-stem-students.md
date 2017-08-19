@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Union has helped secure an inquiry by the House of Lords for the Science and Technology Committee.
 date: "2014-01-17 02:58:59 +0000"
+# Attributes from Felix Online V1
 id: "4218"
 old_path: /news/4218/lords-science-select-committee-opens-inquiry-on-international-stem-students
 aliases:
  - /news/4218/lords-science-select-committee-opens-inquiry-on-international-stem-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401170259-jal08-news_lords_chamber_(landscape)_terry_moore_parl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Terry Moore, Parliamentary copyright images are reproduced w
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Making visible: what an unimaginative name for an art exhibition! – This was my first thought, but the Paul Klee exhibition in the Tate Modern surprisingly deserves that name. Through a collection of pictures it conveys a lot more than “just” art...
 date: "2013-11-05 09:31:18 +0000"
+# Attributes from Felix Online V1
 id: "3988"
 old_path: /arts/3988/paul-klee-made-visible-at-tate
 aliases:
  - /arts/3988/paul-klee-made-visible-at-tate
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

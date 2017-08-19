@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kurukgy tells us how the Tories won him over
 date: "2017-06-02 14:14:03 +0100"
+# Attributes from Felix Online V1
 id: "7002"
 old_path: /comment/7002/why-im-voting-conservative-
 aliases:
  - /comment/7002/why-im-voting-conservative-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021613-felix-33331160870_f0a3690f0e_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jay Allen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

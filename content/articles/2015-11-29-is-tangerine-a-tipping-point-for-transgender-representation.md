@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As transgender rights become more prominent in popular culture, we are seeing an increasing momentum for films that break the binary
 date: "2015-11-29 17:00:32 +0000"
+# Attributes from Felix Online V1
 id: "5786"
 old_path: /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
 aliases:
  - /film/5786/is-tangerine-a-tipping-point-for-transgender-representation
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291650-ff712-tangerine_041-1600x900-c-default.jpg"
 image_caption: >
   Changing the conversation – Mya Taylor and Kitana Kiki Rodriguez in the ground-breaking film Tangerine.
@@ -22,6 +27,7 @@ image_attribution: "Magnolia Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

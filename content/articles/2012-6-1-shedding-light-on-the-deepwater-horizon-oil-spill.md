@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Second anniversary of disaster sees new report criticise scientific models used
 date: "2012-06-01 13:56:07 +0100"
+# Attributes from Felix Online V1
 id: "2518"
 old_path: /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
 aliases:
  - /science/2518/shedding-light-on-the-deepwater-horizon-oil-spill
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011454-mc4509-burning-oil-rig-explosion-fire-photo11.jpg"
 image_caption: >
   The BP oil rig ablaze
@@ -22,6 +27,7 @@ image_attribution: "U.S. Coast Guard"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

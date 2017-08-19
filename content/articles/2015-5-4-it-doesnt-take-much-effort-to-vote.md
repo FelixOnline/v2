@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thomas Lim asks why students don’t care about the election
 date: "2015-05-04 16:14:52 +0100"
+# Attributes from Felix Online V1
 id: "5486"
 old_path: /comment/5486/it-doesnt-take-much-effort-to-vote
 aliases:
  - /comment/5486/it-doesnt-take-much-effort-to-vote
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

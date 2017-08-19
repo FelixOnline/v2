@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This down to earth outfit talks Glastonbury, being Kylie super-fans, and what’s next after a huge 2016
 date: "2016-11-07 17:37:41 +0000"
+# Attributes from Felix Online V1
 id: "6413"
 old_path: /music/6413/felix-meets--formation
 aliases:
  - /music/6413/felix-meets--formation
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Instagram @formationmusic"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

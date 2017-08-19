@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Play at the new Park Theatre is breathtaking, says Blaise Verhasselt
 date: "2013-11-15 02:33:45 +0000"
+# Attributes from Felix Online V1
 id: "4076"
 old_path: /arts/4076/angolan-civil-war-makes-powerful-subject-matter
 aliases:
  - /arts/4076/angolan-civil-war-makes-powerful-subject-matter
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

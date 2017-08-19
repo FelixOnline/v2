@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Women's team cruise past opponents
 date: "2013-02-28 23:53:26 +0000"
+# Attributes from Felix Online V1
 id: "3396"
 old_path: /sport/3396/womens-rugby-top-of-bucs
 aliases:
  - /sport/3396/womens-rugby-top-of-bucs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282353-tna08-rugby.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

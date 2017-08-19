@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Jeffrey on the fruits of UK hardcore
 date: "2011-11-03 20:56:56 +0000"
+# Attributes from Felix Online V1
 id: "1677"
 old_path: /music/1677/something-brilliant-from-the-terrible-midlands
 aliases:
  - /music/1677/something-brilliant-from-the-terrible-midlands
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032056-pk1811-ui.jpg"
 image_caption: >
   Black & white bearer
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

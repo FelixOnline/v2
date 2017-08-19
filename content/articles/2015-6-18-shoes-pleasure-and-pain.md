@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
+# Attributes from Felix Online V1
 id: "5635"
 old_path: /fashion/5635/shoes-pleasure-and-pain-
 aliases:
  - /fashion/5635/shoes-pleasure-and-pain-
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182159-jyg11-screen-shot-2015-06-18-at-21.59.22.png"
 image_caption: >
   Shoes, glorious shoes.
@@ -22,6 +27,7 @@ image_attribution: "Victoria & Albert Museum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

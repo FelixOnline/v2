@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They didn’t realise they couldn’t sublet the place
 date: "2016-05-06 09:41:21 +0100"
+# Attributes from Felix Online V1
 id: "6113"
 old_path: /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
 aliases:
  - /news/6113/students-sign-up-to-three-year-125000-housing-contract-by-accident
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

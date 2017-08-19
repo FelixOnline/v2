@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mazen Almaskati discusses what it takes for aspiring musicians to make it in music industry full of obscure managerial branches.
 date: "2017-02-24 14:48:03 +0000"
+# Attributes from Felix Online V1
 id: "6823"
 old_path: /music/6823/no-unsolicited-mail
 aliases:
  - /music/6823/no-unsolicited-mail
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241447-felix-27905877831_576585f333_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Martin Fisch i.e. marfis75"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

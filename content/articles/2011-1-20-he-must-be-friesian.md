@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ski Trip spots Super Cow shredding up the slopes!
 date: "2011-01-20 20:50:29 +0000"
+# Attributes from Felix Online V1
 id: "634"
 old_path: /sport/634/he-must-be-friesian
 aliases:
  - /sport/634/he-must-be-friesian
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

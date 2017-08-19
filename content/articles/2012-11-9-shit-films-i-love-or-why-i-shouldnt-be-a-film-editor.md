@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Katy Bettany opens her cupboard of shame. Next to that cupboard there's a stack of these DVDs...
 date: "2012-11-09 13:50:57 +0000"
+# Attributes from Felix Online V1
 id: "2862"
 old_path: /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
 aliases:
  - /film/2862/shit-films-i-love-or-why-i-shouldnt-be-a-film-editor
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091338-tna08-topgun.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

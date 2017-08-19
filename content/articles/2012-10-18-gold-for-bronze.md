@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Royal Academy succeeds with an exhibition on bronze sculpture throughout history
 date: "2012-10-18 20:56:40 +0100"
+# Attributes from Felix Online V1
 id: "2684"
 old_path: /arts/2684/gold-for-bronze
 aliases:
  - /arts/2684/gold-for-bronze
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182156-felix-b01myjqs_640_360.jpg"
 image_caption: >
   Hard body; bad skin
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

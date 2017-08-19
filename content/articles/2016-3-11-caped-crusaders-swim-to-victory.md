@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A Batman theme won the syncronised swimmers a silver medal
 date: "2016-03-11 12:15:47 +0000"
+# Attributes from Felix Online V1
 id: "6047"
 old_path: /sport/6047/caped-crusaders-swim-to-victory
 aliases:
  - /sport/6047/caped-crusaders-swim-to-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111215-felix-synchro 3.JPG"
 image_caption: >
   Gotham City has a new swim group.
@@ -22,6 +27,7 @@ image_attribution: "Syncronised Swimming"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

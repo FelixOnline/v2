@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Crown takes a rare look at the formative years of Queen Elizabeth, and chronicles the royal family’s escapades through the 20th century. Does it stack up well? Or is is just aimless royalty-porn?
 date: "2016-12-16 15:14:01 +0000"
+# Attributes from Felix Online V1
 id: "6617"
 old_path: /tv/6617/crowning-glory--the-crown
 aliases:
  - /tv/6617/crowning-glory--the-crown
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161514-felix-the-crown.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

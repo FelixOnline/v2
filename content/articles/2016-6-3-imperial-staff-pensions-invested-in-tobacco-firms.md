@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cancer Research UK-funded posts contribute to pension that has £211 million in British American Tobacco
 date: "2016-06-03 08:29:50 +0100"
+# Attributes from Felix Online V1
 id: "6222"
 old_path: /news/6222/imperial-staff-pensions-invested-in-tobacco-firms
 aliases:
  - /news/6222/imperial-staff-pensions-invested-in-tobacco-firms
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031029-felix-smoking.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An all authentic Korean food experience
 date: "2010-12-09 19:55:56 +0000"
+# Attributes from Felix Online V1
 id: "512"
 old_path: /food/512/no-missiles-at-assa
 aliases:
  - /food/512/no-missiles-at-assa
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

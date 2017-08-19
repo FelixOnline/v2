@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Turns out people really want to get away from Imperial
 date: "2016-12-02 13:43:30 +0000"
+# Attributes from Felix Online V1
 id: "6522"
 old_path: /news/6522/jailbreakers-return-breaking-past-records
 aliases:
  - /news/6522/jailbreakers-return-breaking-past-records
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021341-felix-15233636_10211602484240783_1082226068_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

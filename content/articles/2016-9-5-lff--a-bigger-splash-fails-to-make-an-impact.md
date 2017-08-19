@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite the best efforts of Swinton and co, Luca Guadagnino's latest dissapoints
 date: "2016-09-05 20:25:55 +0100"
+# Attributes from Felix Online V1
 id: "6293"
 old_path: /film/6293/lff--a-bigger-splash-fails-to-make-an-impact
 aliases:
  - /film/6293/lff--a-bigger-splash-fails-to-make-an-impact
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201609052225-ff712-201602191135-felix-a-bigger-splash-3.jpg"
 image_caption: >
   Dakota Johnson as Penelope, in the sun-drenched erotic thriller A Bigger Splash.
@@ -22,6 +27,7 @@ image_attribution: "Moviestore/Rex/Shutterstock"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

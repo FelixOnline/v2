@@ -4,15 +4,20 @@ title: >
 subtitle: >
   London’s annual International mime festival lands once again, showcasing physical theatre from all over the world. We tried just a couple to get a taste of what’s been going on
 date: "2011-01-27 19:50:53 +0000"
+# Attributes from Felix Online V1
 id: "678"
 old_path: /arts/678/lets-talk-about-mime
 aliases:
  - /arts/678/lets-talk-about-mime
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271945-nm1010-mimemime.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

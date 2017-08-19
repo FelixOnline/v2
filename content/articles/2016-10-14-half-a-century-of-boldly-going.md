@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It was a utopian dream for the era of space races, civil rights marches, racism, and presidential assasinations. But how does Star Trek hold up today, and what is its cultural legacy?
 date: "2016-10-14 10:30:03 +0100"
+# Attributes from Felix Online V1
 id: "6334"
 old_path: /tv/6334/half-a-century-of-boldly-going
 aliases:
  - /tv/6334/half-a-century-of-boldly-going
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141218-so515-TOS.png"
 image_caption: >
   In the future no one cares about your awkward grins.
@@ -22,6 +27,7 @@ image_attribution: "CBS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

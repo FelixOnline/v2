@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the second of a series of articles on the privatisation of our universities, Stephen Smith asks why many students seem disappointed with heavily sponsored Careers Services
 date: "2012-06-08 08:47:57 +0100"
+# Attributes from Felix Online V1
 id: "2544"
 old_path: /news/2544/privatisation-the-dangers-of-too-much-sponsorship
 aliases:
  - /news/2544/privatisation-the-dangers-of-too-much-sponsorship
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206080946-mc4509-feat.jpg"
 image_caption: >
   The Careers Advisory Service, located on Level 5 of Sherﬁ eld
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

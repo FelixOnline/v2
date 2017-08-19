@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the Republicans retake the House of Representatives, analysts debate whether they will they ease the burden on businesses or let them down like it’s 1994
 date: "2010-11-04 18:15:44 +0000"
+# Attributes from Felix Online V1
 id: "293"
 old_path: /biz/293/midterm-elections-what-do-they-mean-for-us-businesses-
 aliases:
  - /biz/293/midterm-elections-what-do-they-mean-for-us-businesses-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041811-ma1307-bbbssnzz.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sa1908"
 author_name: "Sina Ataherian"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

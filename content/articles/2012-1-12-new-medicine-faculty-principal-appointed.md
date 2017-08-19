@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Immune response pioneer arrives from Trinity College Dublin
 date: "2012-01-12 22:38:45 +0000"
+# Attributes from Felix Online V1
 id: "1988"
 old_path: /news/1988/new-medicine-faculty-principal-appointed
 aliases:
  - /news/1988/new-medicine-faculty-principal-appointed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122236-felix-prof-kelleher.jpg"
 image_caption: >
   Professor Dermot Kelleher
@@ -22,6 +27,7 @@ image_attribution: "Trinity College Dublin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

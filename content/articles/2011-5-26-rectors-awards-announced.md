@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Academics affected by Life Sciences restructure among those recognised for teaching excellence
 date: "2011-05-26 18:32:24 +0100"
+# Attributes from Felix Online V1
 id: "1249"
 old_path: /news/1249/rectors-awards-announced
 aliases:
  - /news/1249/rectors-awards-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105261933-felix-dr_jane_saffell.jpg"
 image_caption: >
   Dr Jane Saffell: 'Outstanding Innovation in Teaching'
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

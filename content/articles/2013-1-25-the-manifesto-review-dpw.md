@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) dusts the cobwebs off the campaign material and sees what she thinks she has and hasn’t done
 date: "2013-01-25 01:59:54 +0000"
+# Attributes from Felix Online V1
 id: "3190"
 old_path: /news/3190/the-manifesto-review-dpw
 aliases:
  - /news/3190/the-manifesto-review-dpw
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250159-tna08-becky-lane-white-background.jpg"
 image_caption: >
   Becky Lane, Deputy President (Welfare)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

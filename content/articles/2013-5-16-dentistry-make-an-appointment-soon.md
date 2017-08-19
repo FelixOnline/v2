@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Riaz Agahi speaks to dark, ambient up-and-comers Dentistry
 date: "2013-05-16 14:43:10 +0100"
+# Attributes from Felix Online V1
 id: "3566"
 old_path: /music/3566/dentistry-make-an-appointment-soon
 aliases:
  - /music/3566/dentistry-make-an-appointment-soon
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

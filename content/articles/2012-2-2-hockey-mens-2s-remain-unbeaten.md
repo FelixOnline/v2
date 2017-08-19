@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men's 2nd – 1 / Roehampton – 0
 date: "2012-02-02 23:05:16 +0000"
+# Attributes from Felix Online V1
 id: "2105"
 old_path: /sport/2105/hockey-mens-2s-remain-unbeaten
 aliases:
  - /sport/2105/hockey-mens-2s-remain-unbeaten
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022305-sjw209-img_0877.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Hockey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

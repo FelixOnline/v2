@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hopefully it’ll go better than that time Mike Tyson returned
 date: "2012-11-01 22:52:36 +0000"
+# Attributes from Felix Online V1
 id: "2798"
 old_path: /comment/2798/angry-geek-is-back
 aliases:
  - /comment/2798/angry-geek-is-back
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

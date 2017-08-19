@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
+# Attributes from Felix Online V1
 id: "449"
 old_path: /news/449/celebrating-science-in-media-
 aliases:
  - /news/449/celebrating-science-in-media-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

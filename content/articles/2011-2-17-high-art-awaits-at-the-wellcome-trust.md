@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rocío Molia Atienza reviews the onging High Art exhibition at Wellcome Gallery
 date: "2011-02-17 18:53:10 +0000"
+# Attributes from Felix Online V1
 id: "807"
 old_path: /arts/807/high-art-awaits-at-the-wellcome-trust
 aliases:
  - /arts/807/high-art-awaits-at-the-wellcome-trust
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171848-nm1010-imageima.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

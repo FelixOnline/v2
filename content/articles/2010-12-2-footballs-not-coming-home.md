@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The English bid has been sliding down a slippery slope since May. By David Wilson
 date: "2010-12-02 20:40:10 +0000"
+# Attributes from Felix Online V1
 id: "476"
 old_path: /sport/476/footballs-not-coming-home
 aliases:
  - /sport/476/footballs-not-coming-home
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

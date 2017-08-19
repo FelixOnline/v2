@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The annual artistic extravaganza returns to draw the crowds to the Royal Academy for a mixed bag of works
 date: "2011-06-23 21:10:02 +0100"
+# Attributes from Felix Online V1
 id: "1433"
 old_path: /arts/1433/have-a-ball-at-the-ras-summer-exhibition
 aliases:
  - /arts/1433/have-a-ball-at-the-ras-summer-exhibition
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

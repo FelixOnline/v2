@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we
 date: "2014-02-03 15:41:36 +0000"
+# Attributes from Felix Online V1
 id: "4331"
 old_path: /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
 aliases:
  - /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

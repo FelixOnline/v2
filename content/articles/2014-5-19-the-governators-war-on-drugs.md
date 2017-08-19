@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The director of End of Watch (an interesting take on police films that didn’t quite succeed) combining with one of two classic 80s action heroes suffering a string of mediocre...
 date: "2014-05-19 14:01:02 +0100"
+# Attributes from Felix Online V1
 id: "4616"
 old_path: /film/4616/the-governators-war-on-drugs
 aliases:
  - /film/4616/the-governators-war-on-drugs
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405191501-jal08-sabotage-arnold-schwarzenegger.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

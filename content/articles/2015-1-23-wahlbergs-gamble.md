@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark hits the casinos in the remake of one of James Caan's favourite films
 date: "2015-01-23 17:16:32 +0000"
+# Attributes from Felix Online V1
 id: "5133"
 old_path: /film/5133/wahlbergs-gamble
 aliases:
  - /film/5133/wahlbergs-gamble
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231659-jyg11-the-gambler-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Rupert Wyatt, Paramount Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

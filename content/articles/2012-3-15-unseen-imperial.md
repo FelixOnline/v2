@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
+# Attributes from Felix Online V1
 id: "2384"
 old_path: /news/2384/unseen-imperial-
 aliases:
  - /news/2384/unseen-imperial-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152127-pk1811-frayed_rope.jpg"
 image_caption: >
   Email icu-disabilities@imperial.ac.uk if you would like to share your anonymous experiences of topic
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial once again get close to the Ultimate Field Trip
 date: "2013-01-31 22:29:39 +0000"
+# Attributes from Felix Online V1
 id: "3196"
 old_path: /news/3196/imperial-students-in-bp-semi-finals
 aliases:
  - /news/3196/imperial-students-in-bp-semi-finals
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312229-tna08-bpuft12_076.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Political diversity is to be cherished, not shouted down as “problematic”
 date: "2015-12-15 12:51:30 +0000"
+# Attributes from Felix Online V1
 id: "5821"
 old_path: /comment/5821/thatcherites-of-the-world-unite
 aliases:
  - /comment/5821/thatcherites-of-the-world-unite
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

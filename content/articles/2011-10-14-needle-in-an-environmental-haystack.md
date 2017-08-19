@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eoghan J.Totten reveals his first impressions of London
 date: "2011-10-14 00:39:31 +0100"
+# Attributes from Felix Online V1
 id: "1540"
 old_path: /comment/1540/needle-in-an-environmental-haystack
 aliases:
  - /comment/1540/needle-in-an-environmental-haystack
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140139-felix-eoghan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

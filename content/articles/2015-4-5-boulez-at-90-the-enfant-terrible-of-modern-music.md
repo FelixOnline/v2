@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th century’s most controversial composers
 date: "2015-04-05 13:00:38 +0100"
+# Attributes from Felix Online V1
 id: "5461"
 old_path: /music/5461/boulez-at-90-the-enfant-terrible-of-modern-music
 aliases:
  - /music/5461/boulez-at-90-the-enfant-terrible-of-modern-music
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504051350-km2612-tumblr_mz1ze5vzzv1rk7b35o1_1280.jpg"
 image_caption: >
   Pierre Boulez as conductor of the BBC Symphony Orchestra
@@ -22,6 +27,7 @@ image_attribution: "BBC Radio 3"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on Outreach and opticians
 date: "2013-06-13 23:04:54 +0100"
+# Attributes from Felix Online V1
 id: "3687"
 old_path: /comment/3687/difficulty-in-reaching-out
 aliases:
  - /comment/3687/difficulty-in-reaching-out
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial suffers 0.1% decrease from 2011 to 2012
 date: "2012-02-02 23:58:42 +0000"
+# Attributes from Felix Online V1
 id: "2117"
 old_path: /news/2117/fewer-students-apply-to-university
 aliases:
  - /news/2117/fewer-students-apply-to-university
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

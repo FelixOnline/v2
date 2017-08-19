@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr Rafael Palacios giving us a little demo of his modelling.
 date: "2016-03-04 11:41:45 +0000"
+# Attributes from Felix Online V1
 id: "6005"
 old_path: /science/6005/this-weeks-science-picture
 aliases:
  - /science/6005/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041141-felix-12790191_10156530568410394_1029293828_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.
 date: "2014-02-17 17:24:41 +0000"
+# Attributes from Felix Online V1
 id: "4393"
 old_path: /comment/4393/3am-mocaine-with-an-ex-banker-
 aliases:
  - /comment/4393/3am-mocaine-with-an-ex-banker-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

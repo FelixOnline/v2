@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vivien Tang and Caroline Wood were joint winners of the £20,000 Mayor's award
 date: "2015-03-19 23:49:32 +0000"
+# Attributes from Felix Online V1
 id: "5411"
 old_path: /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
 aliases:
  - /news/5411/imperial-entrepreneurs-receive-prize-for-sustainable-fashion-initiative
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192348-cj914-clotho-girls.jpg"
 image_caption: >
   Vivien Tang and Caroline Wood, AKA The Clotho Girls
@@ -22,6 +27,7 @@ image_attribution: "Clotho"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

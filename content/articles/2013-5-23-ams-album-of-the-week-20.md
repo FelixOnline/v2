@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ensemble Pearl – Ensemble Pearl
 date: "2013-05-23 22:18:39 +0100"
+# Attributes from Felix Online V1
 id: "3614"
 old_path: /music/3614/ams-album-of-the-week-20
 aliases:
  - /music/3614/ams-album-of-the-week-20
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232318-tna08-cover_ensemble-pearl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The small and eclectic festival returns at the end of the end of September.
 date: "2013-09-11 10:55:14 +0100"
+# Attributes from Felix Online V1
 id: "3759"
 old_path: /books/3759/return-of-the-soho-literary-festival
 aliases:
  - /books/3759/return-of-the-soho-literary-festival
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309111202-mtm10-johnson2.jpg"
 image_caption: >
   Journalist and editor Rachel Johnson returns to lead one of the teams in the Classics Quiz
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

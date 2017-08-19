@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Calum Skene reviews some great indie games (yes, again)!
 date: "2013-11-24 16:37:22 +0000"
+# Attributes from Felix Online V1
 id: "4130"
 old_path: /games/4130/indied-games-that-you-will-surely-love
 aliases:
  - /games/4130/indied-games-that-you-will-surely-love
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

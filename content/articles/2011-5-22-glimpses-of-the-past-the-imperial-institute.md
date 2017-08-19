@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at our campus as it once was
 date: "2011-05-22 12:23:12 +0100"
+# Attributes from Felix Online V1
 id: "1239"
 old_path: /news/1239/glimpses-of-the-past-the-imperial-institute
 aliases:
  - /news/1239/glimpses-of-the-past-the-imperial-institute
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

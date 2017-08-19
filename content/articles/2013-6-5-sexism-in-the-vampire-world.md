@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Byzantium: a great vampire tale
 date: "2013-06-05 12:24:11 +0100"
+# Attributes from Felix Online V1
 id: "3652"
 old_path: /film/3652/sexism-in-the-vampire-world
 aliases:
  - /film/3652/sexism-in-the-vampire-world
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051322-tna08-byzantium09.jpg"
 image_caption: >
   The same meal every single day must get boring
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

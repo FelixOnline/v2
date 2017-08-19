@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pavitar Devgon asks what ever could go wrong...
 date: "2013-02-13 20:04:04 +0000"
+# Attributes from Felix Online V1
 id: "3315"
 old_path: /science/3315/electricity-and-bubbles
 aliases:
  - /science/3315/electricity-and-bubbles
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302132004-tna08-1382844_12541003.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

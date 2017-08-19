@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The South African rugby team spends some time training at the Imperial gym
 date: "2010-12-02 20:47:52 +0000"
+# Attributes from Felix Online V1
 id: "478"
 old_path: /sport/478/south-africa-train-at-ethos
 aliases:
  - /sport/478/south-africa-train-at-ethos
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

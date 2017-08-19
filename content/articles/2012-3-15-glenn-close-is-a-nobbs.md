@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "It’s about companionship, loneliness and survival during tough, conservative times"
 date: "2012-03-15 20:45:57 +0000"
+# Attributes from Felix Online V1
 id: "2363"
 old_path: /film/2363/glenn-close-is-a-nobbs
 aliases:
  - /film/2363/glenn-close-is-a-nobbs
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152041-ams111-glenn-close-albert-nobbs-and-mia-wasikowska.jpg"
 image_caption: >
   I don’t boil bunnies anymore! You must believe me!! I’m not crazy!!!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

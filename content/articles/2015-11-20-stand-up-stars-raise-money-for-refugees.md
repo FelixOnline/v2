@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Greg Davies and friends perform at the Apollo to help UNHCR and Action Aid
 date: "2015-11-20 09:40:08 +0000"
+# Attributes from Felix Online V1
 id: "5761"
 old_path: /arts/5761/stand-up-stars-raise-money-for-refugees
 aliases:
  - /arts/5761/stand-up-stars-raise-money-for-refugees
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

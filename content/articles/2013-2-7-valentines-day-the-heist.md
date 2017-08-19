@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster keeps his money under his mattress
 date: "2013-02-07 23:35:58 +0000"
+# Attributes from Felix Online V1
 id: "3264"
 old_path: /games/3264/valentines-day-the-heist
 aliases:
  - /games/3264/valentines-day-the-heist
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072335-tna08-pdth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A freedom of information request to Imperial College has revealed that undergraduate and taught postgraduate students graduating from Imperial College left over £13,465.09 of unused printer credit on the College’s system...
 date: "2014-02-07 04:58:59 +0000"
+# Attributes from Felix Online V1
 id: "4353"
 old_path: /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
 aliases:
  - /news/4353/graduating-students-leave-thousands-of-pounds-on-print-service
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

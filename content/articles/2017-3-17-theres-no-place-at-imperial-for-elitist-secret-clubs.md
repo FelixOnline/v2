@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Andrew Olson thinks it's time the exclusive drinking societies were held to the same standard as everyone else
 date: "2017-03-17 17:01:58 +0000"
+# Attributes from Felix Online V1
 id: "6908"
 old_path: /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
 aliases:
  - /comment/6908/theres-no-place-at-imperial-for-elitist-secret-clubs
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171701-felix-Screen Shot 2017-03-17 at 17.01.43.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

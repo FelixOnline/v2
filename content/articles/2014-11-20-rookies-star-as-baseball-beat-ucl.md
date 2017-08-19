@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Baseball team comes from behind twice to snatch double header
 date: "2014-11-20 21:37:49 +0000"
+# Attributes from Felix Online V1
 id: "4917"
 old_path: /sport/4917/rookies-star-as-baseball-beat-ucl
 aliases:
  - /sport/4917/rookies-star-as-baseball-beat-ucl
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411242030-ps3110-logo_icbc_rgb_256.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

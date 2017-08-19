@@ -4,15 +4,20 @@ title: >
 subtitle: >
   So bad it's awesome
 date: "2012-03-15 20:25:34 +0000"
+# Attributes from Felix Online V1
 id: "2361"
 old_path: /film/2361/all-hail-the-crime-fighting-hobo
 aliases:
  - /film/2361/all-hail-the-crime-fighting-hobo
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152025-ams111-2011_hobo_with_a_shotgun_002.jpg"
 image_caption: >
   Boris Johnson is getting serious about winning his London Mayor campaign
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

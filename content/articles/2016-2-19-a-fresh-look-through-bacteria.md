@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Synechocystis have eyes
 date: "2016-02-19 11:28:29 +0000"
+# Attributes from Felix Online V1
 id: "5932"
 old_path: /science/5932/a-fresh-look-through-bacteria
 aliases:
  - /science/5932/a-fresh-look-through-bacteria
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191127-felix-7629005292_920e1dd8d1_o.png"
 image_caption: >
   Bacteria or eyes? Synechocystis elicit a primitive version of ‘sight’.
@@ -22,6 +27,7 @@ image_attribution: "BASF"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

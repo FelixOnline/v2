@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dreamy science professor turning students on... to science
 date: "2013-01-25 01:25:51 +0000"
+# Attributes from Felix Online V1
 id: "3177"
 old_path: /news/3177/the-brian-cox-effect
 aliases:
  - /news/3177/the-brian-cox-effect
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250125-tna08-briancox.jpg"
 image_caption: >
   Oh, Brian, touch me with your hadron
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

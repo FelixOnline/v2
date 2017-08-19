@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSMSU Muslim Medics host another successful evening of academic prowess
 date: "2011-01-20 20:56:03 +0000"
+# Attributes from Felix Online V1
 id: "636"
 old_path: /science/636/young-scientists-symposium-2010-
 aliases:
  - /science/636/young-scientists-symposium-2010-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

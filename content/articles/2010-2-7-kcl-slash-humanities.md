@@ -4,15 +4,20 @@ title: >
 subtitle: >
   King's College London criticised for making cuts
 date: "2010-02-07 03:37:55 +0000"
+# Attributes from Felix Online V1
 id: "81"
 old_path: /news/81/kcl-slash-humanities
 aliases:
  - /news/81/kcl-slash-humanities
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002070334-ak6309-KingsCol.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sara Hamilton is angry about the environment. Again.
 date: "2017-01-13 14:02:19 +0000"
+# Attributes from Felix Online V1
 id: "6636"
 old_path: /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
 aliases:
  - /comment/6636/imperial-trump-and-other-things-that-piss-sara-off
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131407-felix-15219031445_e779569ec1_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dan (catching up)"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

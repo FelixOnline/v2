@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances
 date: "2010-12-09 21:45:21 +0000"
+# Attributes from Felix Online V1
 id: "541"
 old_path: /news/541/imperial-finally-awakens
 aliases:
  - /news/541/imperial-finally-awakens
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092141-dr910-imperial.jpg"
 image_caption: >
   Students gather to make their views on the restructure clear
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

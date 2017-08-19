@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hopefully the elephant costume will help them remember equations...
 date: "2013-05-02 13:45:39 +0100"
+# Attributes from Felix Online V1
 id: "3535"
 old_path: /news/3535/project-nepal-run-the-london-marathon
 aliases:
  - /news/3535/project-nepal-run-the-london-marathon
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021444-tna08-nepal.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

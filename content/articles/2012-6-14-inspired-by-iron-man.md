@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Marvin Tan Xing Haw, Physics student at Imperial, has applied for a patent for a novel way to make electricity
 date: "2012-06-14 20:15:40 +0100"
+# Attributes from Felix Online V1
 id: "2560"
 old_path: /science/2560/inspired-by-iron-man
 aliases:
  - /science/2560/inspired-by-iron-man
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142114-ams111-science3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Royal Academy springs an esoteric jumble to get you thinking, until the end of January
 date: "2011-01-13 19:19:18 +0000"
+# Attributes from Felix Online V1
 id: "563"
 old_path: /arts/563/the-clothes-youre-not-supposed-to-wear
 aliases:
  - /arts/563/the-clothes-youre-not-supposed-to-wear
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131916-ks607-clothes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rm1509"
 author_name: "Roxanne Middleton"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

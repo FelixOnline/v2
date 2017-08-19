@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hope is a last resort, an admission of defeat. You hope when there is nothing left to do, nothing you can do: you can’t act, repair, work, correct or strive anymore, so you wish that things could go your way.
 date: "2014-06-23 13:14:13 +0100"
+# Attributes from Felix Online V1
 id: "4710"
 old_path: /comment/4710/the-falsity-of-hope
 aliases:
  - /comment/4710/the-falsity-of-hope
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406231414-jal08-screen-shot-2014-06-23-at-14.14.28.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

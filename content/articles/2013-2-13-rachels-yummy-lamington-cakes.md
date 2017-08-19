@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Australia Day has never been so tasty
 date: "2013-02-13 14:00:09 +0000"
+# Attributes from Felix Online V1
 id: "3300"
 old_path: /food/3300/rachels-yummy-lamington-cakes
 aliases:
  - /food/3300/rachels-yummy-lamington-cakes
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131354-tna08-lamington.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

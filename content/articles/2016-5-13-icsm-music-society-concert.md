@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What a night
 date: "2016-05-13 09:40:00 +0100"
+# Attributes from Felix Online V1
 id: "6168"
 old_path: /cands/6168/icsm-music-society-concert
 aliases:
  - /cands/6168/icsm-music-society-concert
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131139-felix-11209592_10153330167295917_54200595470464036_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

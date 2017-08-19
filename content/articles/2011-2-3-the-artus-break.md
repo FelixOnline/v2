@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What to do then? How about you jump off a cliff mate, and find out?
 date: "2011-02-03 20:31:11 +0000"
+# Attributes from Felix Online V1
 id: "749"
 old_path: /comment/749/the-artus-break
 aliases:
  - /comment/749/the-artus-break
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271936-ks607-darianai.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

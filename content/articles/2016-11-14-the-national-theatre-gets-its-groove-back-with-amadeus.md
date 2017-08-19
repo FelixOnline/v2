@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amadeus is on at the National Theatre until 1st February
 date: "2016-11-14 14:16:47 +0000"
+# Attributes from Felix Online V1
 id: "6446"
 old_path: /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
 aliases:
  - /arts/6446/the-national-theatre-gets-its-groove-back-with-amadeus
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141416-felix-adam_gillen_-_wolfgang_amadeus_mozart_background_sarah_amankwah_hammed_animashaun_as_venticelli_image_by_marc_brenner1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

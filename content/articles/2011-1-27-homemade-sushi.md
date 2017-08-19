@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
+# Attributes from Felix Online V1
 id: "696"
 old_path: /food/696/homemade-sushi
 aliases:
  - /food/696/homemade-sushi
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/ukaaa"
 image_attribution_link: "http://www.flickr.com/photos/ukaaa/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

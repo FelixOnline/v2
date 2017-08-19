@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joe Brown reports on the disappointing performance of the 1st XV against Tokyo University
 date: "2010-07-08 04:06:33 +0100"
+# Attributes from Felix Online V1
 id: "151"
 old_path: /sport/151/tokyo-university-see-away-indisciplined-ninjas
 aliases:
  - /sport/151/tokyo-university-see-away-indisciplined-ninjas
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201007080455-jn104-ICvsToky.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jb306"
 author_name: "Joseph Brown"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cruelty Free International aren’t buying it
 date: "2017-01-13 13:54:18 +0000"
+# Attributes from Felix Online V1
 id: "6630"
 old_path: /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
 aliases:
  - /news/6630/animal-rights-group-protest-imperials-receipt-of-animal-research-award
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131354-felix-8224204466_4f0dfafd90_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Understanding Animal Research"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

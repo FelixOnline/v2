@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
+# Attributes from Felix Online V1
 id: "6860"
 old_path: /news/6860/chemical-spill-causes-closure-of-rsm
 aliases:
  - /news/6860/chemical-spill-causes-closure-of-rsm
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031845-felix-IMG_7179.JPG"
 image_caption: >
   The Royal Schoo of Mines
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

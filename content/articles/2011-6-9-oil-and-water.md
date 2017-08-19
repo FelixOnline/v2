@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oil and Water
 date: "2011-06-09 18:00:09 +0100"
+# Attributes from Felix Online V1
 id: "1328"
 old_path: /phoenix/1328/oil-and-water
 aliases:
  - /phoenix/1328/oil-and-water
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106091858-felix-oilandwater.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.com/"
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

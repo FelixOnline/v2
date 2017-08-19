@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The best of the year in cinema
 date: "2012-12-07 14:48:46 +0000"
+# Attributes from Felix Online V1
 id: "3072"
 old_path: /film/3072/2012-felix-film-awards-
 aliases:
  - /film/3072/2012-felix-film-awards-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

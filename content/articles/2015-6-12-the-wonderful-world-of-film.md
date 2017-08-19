@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman looks back at this week’s news
 date: "2015-06-12 12:42:08 +0100"
+# Attributes from Felix Online V1
 id: "5621"
 old_path: /film/5621/the-wonderful-world-of-film
 aliases:
  - /film/5621/the-wonderful-world-of-film
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506121341-cj914-spectre.png"
 image_caption: >
   Christoph Waltz looks suitable menacing and shadowy as Franz Oberhauser in the teaser for the newest Bond film.
@@ -22,6 +27,7 @@ image_attribution: "Sam Mendes/Sony"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

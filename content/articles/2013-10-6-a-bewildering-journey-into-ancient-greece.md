@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Fulham reviews the latest fantasy offering from the BBC
 date: "2013-10-06 10:15:34 +0100"
+# Attributes from Felix Online V1
 id: "3816"
 old_path: /tv/3816/a-bewildering-journey-into-ancient-greece
 aliases:
  - /tv/3816/a-bewildering-journey-into-ancient-greece
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310061114-jal08-tv-atlantis2-copy.jpg"
 image_caption: >
   A friendly conversation takes a sudden turn for the worst when Pythagoras gets asked to find the squ
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: "http://www.BBC.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

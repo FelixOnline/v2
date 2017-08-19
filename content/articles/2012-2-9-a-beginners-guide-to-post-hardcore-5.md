@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lesson 5: The Fall of Troy
 date: "2012-02-09 22:16:53 +0000"
+# Attributes from Felix Online V1
 id: "2144"
 old_path: /music/2144/a-beginners-guide-to-post-hardcore-5
 aliases:
  - /music/2144/a-beginners-guide-to-post-hardcore-5
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

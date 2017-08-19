@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
+# Attributes from Felix Online V1
 id: "1728"
 old_path: /biz/1728/the-end-of-the-big-four
 aliases:
  - /biz/1728/the-end-of-the-big-four
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102122-pk1811-financial-planning-audit-reporting.jpg"
 image_caption: >
   Oonly four professional service firms perform the majority of audits for companies
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

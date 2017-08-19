@@ -4,15 +4,20 @@ title: >
 subtitle: >
   UN goal to seek greater female presence in science
 date: "2015-10-23 11:35:36 +0100"
+# Attributes from Felix Online V1
 id: "5666"
 old_path: /science/5666/women-are-needed-to-increase-productivity
 aliases:
  - /science/5666/women-are-needed-to-increase-productivity
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231237-cj914-un_general_assembly_hall-copy.jpg"
 image_caption: >
   The UN Assembly Hall, where the magic happens.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

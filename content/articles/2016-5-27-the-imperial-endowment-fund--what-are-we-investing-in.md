@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We take a closer look at where Imperial is putting its cash
 date: "2016-05-27 08:43:23 +0100"
+# Attributes from Felix Online V1
 id: "6201"
 old_path: /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
 aliases:
  - /features/6201/the-imperial-endowment-fund--what-are-we-investing-in
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271043-felix-huell money breaking bad.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

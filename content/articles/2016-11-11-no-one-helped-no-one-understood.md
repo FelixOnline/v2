@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous student shares their story of the damage done by misconceptions about consent
 date: "2016-11-11 14:00:08 +0000"
+# Attributes from Felix Online V1
 id: "6424"
 old_path: /comment/6424/no-one-helped-no-one-understood
 aliases:
  - /comment/6424/no-one-helped-no-one-understood
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

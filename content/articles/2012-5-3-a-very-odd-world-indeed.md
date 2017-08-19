@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope on how Oddworld’s rampant industrialisation makes for a pretty cracking game series
 date: "2012-05-03 18:45:52 +0100"
+# Attributes from Felix Online V1
 id: "2417"
 old_path: /games/2417/a-very-odd-world-indeed
 aliases:
  - /games/2417/a-very-odd-world-indeed
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031945-ams111-0000004887.1024x768.jpg"
 image_caption: >
   Oddworld: Abe’s Exoddus still holds up today
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

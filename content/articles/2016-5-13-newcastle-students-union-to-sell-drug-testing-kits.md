@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The kits will tell you if your drugs are safe
 date: "2016-05-13 08:52:30 +0100"
+# Attributes from Felix Online V1
 id: "6146"
 old_path: /news/6146/newcastle-students-union-to-sell-drug-testing-kits
 aliases:
  - /news/6146/newcastle-students-union-to-sell-drug-testing-kits
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131052-felix-JS89131250.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

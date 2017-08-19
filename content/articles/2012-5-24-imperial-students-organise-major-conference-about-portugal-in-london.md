@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LUSO 2012 to go ahead as speakers are confirmed
 date: "2012-05-24 23:04:54 +0100"
+# Attributes from Felix Online V1
 id: "2485"
 old_path: /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
 aliases:
  - /news/2485/imperial-students-organise-major-conference-about-portugal-in-london
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250001-mc4509-luso-meeting-29jan12-006.jpg"
 image_caption: >
   The LUSO 2012 organising committee
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

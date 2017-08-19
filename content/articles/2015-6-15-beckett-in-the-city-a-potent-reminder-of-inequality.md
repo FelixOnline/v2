@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
+# Attributes from Felix Online V1
 id: "5623"
 old_path: /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
 aliases:
  - /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506151230-ff712-09.jpg"
 image_caption: >
   Company SJ, Act Without Words II, Bryan Burroughs,
@@ -22,6 +27,7 @@ image_attribution: "Hazel Coonagh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robots is on at the Science Museum until 3rd September
 date: "2017-02-17 15:17:32 +0000"
+# Attributes from Felix Online V1
 id: "6794"
 old_path: /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
 aliases:
  - /arts/6794/robots--all-hail-our-benevolent-mechanical-overlords
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171516-felix-IMG_8109.jpg"
 image_caption: >
   Maria, the infamous robot from Fritz Lang's Metropolis
@@ -22,6 +27,7 @@ image_attribution: "Agnese Abrusci"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

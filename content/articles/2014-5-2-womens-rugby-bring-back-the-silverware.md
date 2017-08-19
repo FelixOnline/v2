@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the final game of the season, Imperial needed a win against Kingston to successfully defend their LUSL title. The weather and train engineering works did not seem to be in the team’s favour but once on the pitch, little could stop Imperial continuing to play some magnificent rugby.
 date: "2014-05-02 02:04:34 +0100"
+# Attributes from Felix Online V1
 id: "4562"
 old_path: /sport/4562/womens-rugby-bring-back-the-silverware
 aliases:
  - /sport/4562/womens-rugby-bring-back-the-silverware
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020304-jal08-image-(2).jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

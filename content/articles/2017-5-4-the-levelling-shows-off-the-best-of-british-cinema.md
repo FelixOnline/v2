@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hope Dickson Leach's first feature film explores grief and relationships in rural Somerset
 date: "2017-05-04 08:29:55 +0100"
+# Attributes from Felix Online V1
 id: "6928"
 old_path: /film/6928/the-levelling-shows-off-the-best-of-british-cinema
 aliases:
  - /film/6928/the-levelling-shows-off-the-best-of-british-cinema
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705041029-ff712-BFILFFTheLevellingReview.jpg"
 image_caption: >
   Ellie Kendrick as Clover in The Levelling
@@ -22,6 +27,7 @@ image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

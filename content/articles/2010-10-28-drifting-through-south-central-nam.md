@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
 date: "2010-10-28 19:45:53 +0100"
+# Attributes from Felix Online V1
 id: "276"
 old_path: /travel/276/drifting-through-south-central-nam
 aliases:
  - /travel/276/drifting-through-south-central-nam
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282042-ks607-Mudmadne.jpg"
 image_caption: >
   Gotta be careful when you visit the elephants...
@@ -22,6 +27,7 @@ image_attribution: "Christopher Richardson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

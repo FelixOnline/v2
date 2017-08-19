@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out the ROH’s classic opera
 date: "2015-03-25 13:25:43 +0000"
+# Attributes from Felix Online V1
 id: "5450"
 old_path: /arts/5450/a-night-of-operatic-magic
 aliases:
  - /arts/5450/a-night-of-operatic-magic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251324-ff712-16002973044_229642317d_b.jpg"
 image_caption: >
   Janai Brugger as Pamina and Anna Siminska as Queen of the Night in Die Zauberflöte
@@ -22,6 +27,7 @@ image_attribution: "ROH. Mark Douet 2015"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

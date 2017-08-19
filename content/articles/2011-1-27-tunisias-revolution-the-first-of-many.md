@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The overthown Tunisian Government as people come to streets.
 date: "2011-01-27 19:19:14 +0000"
+# Attributes from Felix Online V1
 id: "666"
 old_path: /politics/666/tunisias-revolution-the-first-of-many
 aliases:
  - /politics/666/tunisias-revolution-the-first-of-many
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271916-nm1010-tunisia.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

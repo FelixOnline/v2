@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Has Italian tapas' time come?
 date: "2011-03-03 19:39:35 +0000"
+# Attributes from Felix Online V1
 id: "999"
 old_path: /food/999/ciccetti-the-italian-gastro-fad
 aliases:
  - /food/999/ciccetti-the-italian-gastro-fad
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103031934-nm1010-fooodfoo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/foodieguide"
 image_attribution_link: "http://www.flickr.com/photos/helenyuetlingpang/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

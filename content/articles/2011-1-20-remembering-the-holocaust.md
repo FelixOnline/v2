@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Experience of Holocaust survivor
 date: "2011-01-20 20:03:04 +0000"
+# Attributes from Felix Online V1
 id: "621"
 old_path: /politics/621/remembering-the-holocaust-
 aliases:
  - /politics/621/remembering-the-holocaust-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

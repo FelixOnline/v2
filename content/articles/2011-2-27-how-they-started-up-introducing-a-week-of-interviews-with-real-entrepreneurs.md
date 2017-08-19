@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week, Felix interviews three innovative businesses about their experiences
 date: "2011-02-27 19:01:48 +0000"
+# Attributes from Felix Online V1
 id: "906"
 old_path: /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
 aliases:
  - /biz/906/how-they-started-up-introducing-a-week-of-interviews-with-real-entrepreneurs
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271857-ks607-pathmoti.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

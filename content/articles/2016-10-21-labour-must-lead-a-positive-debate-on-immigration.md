@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy implores the Labour Party to change public perception of immigration
 date: "2016-10-21 12:28:51 +0100"
+# Attributes from Felix Online V1
 id: "6344"
 old_path: /comment/6344/labour-must-lead-a-positive-debate-on-immigration
 aliases:
  - /comment/6344/labour-must-lead-a-positive-debate-on-immigration
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610211428-ajp15-Screen Shot 2016-10-21 at 14.28.09.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sarah Gates urges Imperial students to do the unthinkable and have fun over summer...
 date: "2013-07-05 15:09:21 +0100"
+# Attributes from Felix Online V1
 id: "3742"
 old_path: /music/3742/secret-garden-party-a-four-day-party-like-no-other
 aliases:
  - /music/3742/secret-garden-party-a-four-day-party-like-no-other
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201307081114-tna08-sgp-image-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

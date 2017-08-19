@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
+# Attributes from Felix Online V1
 id: "5610"
 old_path: /news/5610/ucl-students-threatened-after-rent-strikes
 aliases:
  - /news/5610/ucl-students-threatened-after-rent-strikes
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112311-cj914-ucl.jpg"
 image_caption: >
   Residents protesting outside Campbell House, where many students have withheld rent due to poor living conditions.
@@ -22,6 +27,7 @@ image_attribution: "David Dahlborn"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

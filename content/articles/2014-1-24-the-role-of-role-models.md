@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I will confess now that I have never really understood the appeal of role models. It has always seemed slightly ridiculous to treat someone as if they were an exemplary figure, and with a little maturity I also came to recognise the symbolic violence in raising that someone above...
 date: "2014-01-24 09:53:48 +0000"
+# Attributes from Felix Online V1
 id: "4283"
 old_path: /comment/4283/the-role-of-role-models
 aliases:
  - /comment/4283/the-role-of-role-models
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

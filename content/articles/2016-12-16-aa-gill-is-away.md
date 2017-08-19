@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One of the most notable food writers and critics of the 21st century, AA Gill passed away last week following a battle with cancer. Here are some thoughts from a fan.
 date: "2016-12-16 15:55:59 +0000"
+# Attributes from Felix Online V1
 id: "6620"
 old_path: /food/6620/aa-gill-is-away
 aliases:
  - /food/6620/aa-gill-is-away
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161552-felix-AA Gill (c.Peter Marlow).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Peter Marlow"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

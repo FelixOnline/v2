@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton reveals (almost) all with a look at the hot new “Secret” app.
 date: "2014-05-09 02:01:22 +0100"
+# Attributes from Felix Online V1
 id: "4569"
 old_path: /features/4569/tell-me-friends-what-is-your-secret
 aliases:
  - /features/4569/tell-me-friends-what-is-your-secret
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090301-jal08-feat_secret_ring.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

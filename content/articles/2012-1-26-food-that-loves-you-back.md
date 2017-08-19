@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exploring 'tibits', the Regent Street Veggie Paradise
 date: "2012-01-26 21:47:42 +0000"
+# Attributes from Felix Online V1
 id: "2045"
 old_path: /food/2045/food-that-loves-you-back
 aliases:
  - /food/2045/food-that-loves-you-back
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262146-ams111-pic-of-food-boat.jpg"
 image_caption: >
   And it's healthy to boot, nice
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ae1409"
 author_name: "Anastasia Eleftheriou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

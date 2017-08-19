@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Science is the spark that aid needs in the world
 date: "2011-12-01 21:35:39 +0000"
+# Attributes from Felix Online V1
 id: "1897"
 old_path: /comment/1897/we-need-a-new-kind-of-giving
 aliases:
  - /comment/1897/we-need-a-new-kind-of-giving
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

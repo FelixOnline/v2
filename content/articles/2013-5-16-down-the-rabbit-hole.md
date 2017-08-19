@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James and the Rabbit Hole at the Uni Music League
 date: "2013-05-16 15:13:26 +0100"
+# Attributes from Felix Online V1
 id: "3568"
 old_path: /music/3568/down-the-rabbit-hole
 aliases:
  - /music/3568/down-the-rabbit-hole
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161607-js2310-969427_499040590145469_774806092_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

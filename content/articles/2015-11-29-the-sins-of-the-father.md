@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An intriguing documentary, My Nazi Legacy takes a look at how evil can change a family
 date: "2015-11-29 16:42:55 +0000"
+# Attributes from Felix Online V1
 id: "5783"
 old_path: /film/5783/the-sins-of-the-father
 aliases:
  - /film/5783/the-sins-of-the-father
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291642-ff712-1799.jpg"
 image_caption: >
   Do the sins of the father reflect onto the children?
@@ -22,6 +27,7 @@ image_attribution: "My Nazi Legacy PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

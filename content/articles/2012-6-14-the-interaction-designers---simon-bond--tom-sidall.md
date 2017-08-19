@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Interaction Designers - Simon Bond & Tom Sidall
 date: "2012-06-14 20:16:07 +0100"
+# Attributes from Felix Online V1
 id: "2561"
 old_path: /phoenix/2561/the-interaction-designers---simon-bond--tom-sidall
 aliases:
  - /phoenix/2561/the-interaction-designers---simon-bond--tom-sidall
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142114-pk1811-physical-pixels-heads-index.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look back at a year of sport
 date: "2011-06-28 12:10:11 +0100"
+# Attributes from Felix Online V1
 id: "1447"
 old_path: /sport/1447/a-successful-year-for-sport-at-imperial
 aliases:
  - /sport/1447/a-successful-year-for-sport-at-imperial
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

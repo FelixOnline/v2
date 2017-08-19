@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robot and Frank review
 date: "2013-04-30 10:23:37 +0100"
+# Attributes from Felix Online V1
 id: "3498"
 old_path: /film/3498/the-old-man-and-the-machine
 aliases:
  - /film/3498/the-old-man-and-the-machine
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012040-tna08-url.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

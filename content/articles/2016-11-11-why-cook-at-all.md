@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the age of Deliveroo and convenience foods, why should you cook at all? felix finds how the easiest way to connect with people isn’t in Metric or Nandos – it’s over your stovetop (wine helps too).
 date: "2016-11-11 17:06:30 +0000"
+# Attributes from Felix Online V1
 id: "6434"
 old_path: /food/6434/why-cook-at-all-
 aliases:
  - /food/6434/why-cook-at-all-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111706-felix-Felix Food 161110NM Nearly done.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

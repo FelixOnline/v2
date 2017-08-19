@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In-keeping with the shearling trend for winter, Felix checks out Ugg’s competition, which comes in the unusual form of CAT’s uber-functional and furry footwear. By: Jennifer Smith
 date: "2010-11-11 20:37:30 +0000"
+# Attributes from Felix Online V1
 id: "341"
 old_path: /fashion/341/the-search-of-the-perfect-winter-boot
 aliases:
  - /fashion/341/the-search-of-the-perfect-winter-boot
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112034-nm1010-winterug.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

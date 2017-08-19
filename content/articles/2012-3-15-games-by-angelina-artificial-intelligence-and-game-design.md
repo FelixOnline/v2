@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Laurence Pope takes some time out to chat to Michael Cook, a PhD student designing an A.I. software program, Angelina, that can create games all by itself
 date: "2012-03-15 20:35:24 +0000"
+# Attributes from Felix Online V1
 id: "2362"
 old_path: /games/2362/games-by-angelina-artificial-intelligence-and-game-design
 aliases:
  - /games/2362/games-by-angelina-artificial-intelligence-and-game-design
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152029-ig711-santa-game-2.jpg"
 image_caption: >
   It’s not Crysis 2 quite yet I’ll admit... (An Angelina designed game)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

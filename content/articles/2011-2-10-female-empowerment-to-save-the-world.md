@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But is the U.N.’s newest agency’s plan to end gender inequality and poverty in one fell swoop just more of the same?
 date: "2011-02-10 20:56:06 +0000"
+# Attributes from Felix Online V1
 id: "788"
 old_path: /politics/788/female-empowerment-to-save-the-world-
 aliases:
  - /politics/788/female-empowerment-to-save-the-world-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102054-ks607-amandadi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Amanda Diez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

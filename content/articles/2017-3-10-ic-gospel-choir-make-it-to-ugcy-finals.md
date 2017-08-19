@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wooh!
 date: "2017-03-10 14:39:00 +0000"
+# Attributes from Felix Online V1
 id: "6885"
 old_path: /cands/6885/ic-gospel-choir-make-it-to-ugcy-finals
 aliases:
  - /cands/6885/ic-gospel-choir-make-it-to-ugcy-finals
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101438-felix-gospel choir.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ICGC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jawaad Farooq muses on what the possible solutions to an overcrowded world may be, what the future may have in store, and why we should care
 date: "2016-11-11 16:06:08 +0000"
+# Attributes from Felix Online V1
 id: "6431"
 old_path: /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
 aliases:
  - /science/6431/overpopulation--is-it-a-myth-is-it-inevitable-should-we-be-worried-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111602-felix-crowd-of-people-1488213_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

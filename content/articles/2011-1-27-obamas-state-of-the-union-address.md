@@ -4,15 +4,20 @@ title: >
 subtitle: >
   State of the union address the Obama way!
 date: "2011-01-27 19:23:58 +0000"
+# Attributes from Felix Online V1
 id: "667"
 old_path: /politics/667/-obamas-state-of-the-union-address-
 aliases:
  - /politics/667/-obamas-state-of-the-union-address-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

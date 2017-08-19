@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Naomi Pratt addresses the global struggle against extractivism
 date: "2017-05-19 15:03:17 +0100"
+# Attributes from Felix Online V1
 id: "6974"
 old_path: /comment/6974/fuelling-the-resistance
 aliases:
  - /comment/6974/fuelling-the-resistance
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705191703-felix-33551761313_d7461ff5bb_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Mark Dixon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Umar Nasser, Chair of IC Ahmadiyya Muslim Students Association, argues that extremists have masked the true meaning of Islam
 date: "2014-12-04 18:44:34 +0000"
+# Attributes from Felix Online V1
 id: "4988"
 old_path: /comment/4988/true-caliphate-promotes-peace-not-terror
 aliases:
  - /comment/4988/true-caliphate-promotes-peace-not-terror
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041843-cj914-1409564461000-isis-militants.jpg"
 image_caption: >
   Extremists mask the true meaning of Islam.
@@ -22,6 +27,7 @@ image_attribution: "gannett-cdn.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

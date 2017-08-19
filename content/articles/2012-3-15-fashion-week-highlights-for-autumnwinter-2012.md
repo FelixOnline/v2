@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From New York to London, Milan to Paris; Saskia Verhagen and Alice Yang bring you the best bits from last month’s catwalks
 date: "2012-03-15 20:55:31 +0000"
+# Attributes from Felix Online V1
 id: "2365"
 old_path: /fashion/2365/fashion-week-highlights-for-autumnwinter-2012
 aliases:
  - /fashion/2365/fashion-week-highlights-for-autumnwinter-2012
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152023-pk1811-alexander-mcqueen-fall-2012-rtw-podium-004_runway.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week's recipe
 date: "2016-05-13 09:34:59 +0100"
+# Attributes from Felix Online V1
 id: "6166"
 old_path: /food/6166/pavlovas-dog
 aliases:
  - /food/6166/pavlovas-dog
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131134-felix-FullSizeRender.jpg"
 image_caption: >
   I mean, whoever thought this looked like a ballerina had clearly never actually seen one.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

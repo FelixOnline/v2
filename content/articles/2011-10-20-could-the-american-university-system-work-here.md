@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two Alexs go head-to-head over new degree proposals
 date: "2011-10-20 22:59:18 +0100"
+# Attributes from Felix Online V1
 id: "1577"
 old_path: /comment/1577/could-the-american-university-system-work-here
 aliases:
  - /comment/1577/could-the-american-university-system-work-here
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

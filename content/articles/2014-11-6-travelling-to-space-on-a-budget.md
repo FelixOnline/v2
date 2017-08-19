@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
+# Attributes from Felix Online V1
 id: "4783"
 old_path: /science/4783/travelling-to-space-on-a-budget-
 aliases:
  - /science/4783/travelling-to-space-on-a-budget-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Man of Steel Review
 date: "2013-06-21 00:21:55 +0100"
+# Attributes from Felix Online V1
 id: "3731"
 old_path: /film/3731/fit-cavill-in-tights
 aliases:
  - /film/3731/fit-cavill-in-tights
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210121-tna08-man-of-steel-2165999.jpg"
 image_caption: >
   I’m so pretty
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

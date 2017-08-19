@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Proposals could see care homes on Evelyn Gardens
 date: "2012-01-12 22:24:41 +0000"
+# Attributes from Felix Online V1
 id: "1983"
 old_path: /news/1983/permission-granted-for-fisher-hall-development
 aliases:
  - /news/1983/permission-granted-for-fisher-hall-development
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122223-felix-dusk003.jpg"
 image_caption: >
   The proposals would see new care housing at Evelyn Gardens
@@ -22,6 +27,7 @@ image_attribution: "Simon Kreitem"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

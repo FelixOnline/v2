@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
+# Attributes from Felix Online V1
 id: "2321"
 old_path: /biz/2321/imperial-college-hackathon-launched
 aliases:
  - /biz/2321/imperial-college-hackathon-launched
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082058-ams111-dsc_0642-1.jpg"
 image_caption: >
   Security at the event was tight, but the guy in the hat still managed to wander in for the nibbles
@@ -22,6 +27,7 @@ image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

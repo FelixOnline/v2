@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The union has more pressing priorities than air conditioning
 date: "2016-06-03 08:41:16 +0100"
+# Attributes from Felix Online V1
 id: "6227"
 old_path: /comment/6227/sweat-over-something-more-important
 aliases:
  - /comment/6227/sweat-over-something-more-important
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031040-felix-20160526_155625 (1).jpg"
 image_caption: >
   It's not that big of a deal (p.s. please sign our petition).
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Head-to-Head about the merits of Wayne Rooney. Tom Welch and Charles Betts
 date: "2010-10-28 19:44:22 +0100"
+# Attributes from Felix Online V1
 id: "274"
 old_path: /comment/274/is-wayne-rooney-worth-it
 aliases:
  - /comment/274/is-wayne-rooney-worth-it
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282041-ks607-TOMCUT.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
 author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"

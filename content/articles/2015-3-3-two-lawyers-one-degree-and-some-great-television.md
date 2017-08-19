@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken reviews Suits, currently on its fourth season
 date: "2015-03-03 14:54:45 +0000"
+# Attributes from Felix Online V1
 id: "5327"
 old_path: /tv/5327/two-lawyers-one-degree-and-some-great-television
 aliases:
  - /tv/5327/two-lawyers-one-degree-and-some-great-television
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503031454-ps3110-suits.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
+# Attributes from Felix Online V1
 id: "2409"
 old_path: /music/2409/bloc-bigger-better-and-free-
 aliases:
  - /music/2409/bloc-bigger-better-and-free-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031904-ams111-bloc-lineup.jpg"
 image_caption: >
   A small peak at this massive line-up
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

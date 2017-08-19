@@ -4,15 +4,20 @@ title: >
 subtitle: >
   My advice to anyone thinking of a one, two or even three year degree? Do what you think will suit you and just dive in
 date: "2010-11-11 21:52:05 +0000"
+# Attributes from Felix Online V1
 id: "369"
 old_path: /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
 aliases:
  - /comment/369/is-the-first-year-of-a-degree-a-waste-of-time
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

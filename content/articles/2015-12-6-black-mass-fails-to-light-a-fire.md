@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite a strong performance from the central cast, Black Mass is little more than a competent crime drama
 date: "2015-12-06 14:14:38 +0000"
+# Attributes from Felix Online V1
 id: "5800"
 old_path: /film/5800/black-mass-fails-to-light-a-fire
 aliases:
  - /film/5800/black-mass-fails-to-light-a-fire
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061414-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

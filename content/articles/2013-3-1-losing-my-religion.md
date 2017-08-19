@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton on growing up faithless in a Catholic country
 date: "2013-03-01 00:51:42 +0000"
+# Attributes from Felix Online V1
 id: "3411"
 old_path: /comment/3411/losing-my-religion
 aliases:
  - /comment/3411/losing-my-religion
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All you need is an internet connection and a subsciption and you’re ready to go
 date: "2016-02-05 12:49:47 +0000"
+# Attributes from Felix Online V1
 id: "5885"
 old_path: /tv/5885/rise-of-netflix-fall-of-cable
 aliases:
  - /tv/5885/rise-of-netflix-fall-of-cable
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051249-felix-netflix_house_of_cards_a_l.jpg"
 image_caption: >
   House of Cards, a compelling and amazing Netflix original.
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philip Kent on the move which makes TfL the first public transport operator to accept the payment technology
 date: "2015-06-11 22:16:19 +0100"
+# Attributes from Felix Online V1
 id: "5612"
 old_path: /news/5612/transport-for-london-to-accept-apple-pay
 aliases:
  - /news/5612/transport-for-london-to-accept-apple-pay
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112314-cj914-tfl.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Tony Wilson, JellyLondon.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

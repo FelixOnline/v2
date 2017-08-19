@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An unusual biography of a fascinating philosopher
 date: "2012-01-19 20:11:29 +0000"
+# Attributes from Felix Online V1
 id: "2008"
 old_path: /books/2008/an-epic-quest-for-truth
 aliases:
  - /books/2008/an-epic-quest-for-truth
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192010-ams111-bertrand_russell.jpg"
 image_caption: >
   Russell-ing up some serious artwork
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

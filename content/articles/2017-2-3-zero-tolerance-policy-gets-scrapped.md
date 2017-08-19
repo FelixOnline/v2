@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You spoke the Union listened
 date: "2017-02-03 15:04:11 +0000"
+# Attributes from Felix Online V1
 id: "6708"
 old_path: /news/6708/zero-tolerance-policy-gets-scrapped
 aliases:
  - /news/6708/zero-tolerance-policy-gets-scrapped
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

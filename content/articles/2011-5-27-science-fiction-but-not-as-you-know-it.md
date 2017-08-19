@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
+# Attributes from Felix Online V1
 id: "1278"
 old_path: /arts/1278/science-fiction-but-not-as-you-know-it-
 aliases:
  - /arts/1278/science-fiction-but-not-as-you-know-it-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

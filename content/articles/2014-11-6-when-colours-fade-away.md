@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chanon Wongs atayanont discusses the effects of depression how it feels
 date: "2014-11-06 20:22:02 +0000"
+# Attributes from Felix Online V1
 id: "4788"
 old_path: /welfare/4788/when-colours-fade-away
 aliases:
  - /welfare/4788/when-colours-fade-away
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062021-snb11-depression-xalt.png"
 image_caption: >
   You might know that different things are happening to you, but they don't feel very different. – Hyp
@@ -22,6 +27,7 @@ image_attribution: "Allie Brosh"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

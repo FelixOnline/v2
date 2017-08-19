@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Todd Haynes excels, as Rooney Mara and Cate Blanchett blow us away with nuanced performances
 date: "2016-09-05 20:31:48 +0100"
+# Attributes from Felix Online V1
 id: "6294"
 old_path: /film/6294/lff--carol--a-ravishing-relentless-romance
 aliases:
  - /film/6294/lff--carol--a-ravishing-relentless-romance
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201609052230-ff712-201512061428-ff712-carol2-xlarge.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

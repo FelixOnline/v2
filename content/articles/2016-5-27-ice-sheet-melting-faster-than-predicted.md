@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Any small changes have a big influence globally
 date: "2016-05-27 08:54:11 +0100"
+# Attributes from Felix Online V1
 id: "6210"
 old_path: /science/6210/ice-sheet-melting-faster-than-predicted
 aliases:
  - /science/6210/ice-sheet-melting-faster-than-predicted
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271053-felix-8382308336_d80b1d49bb_o.jpg"
 image_caption: >
   Antarctica
@@ -22,6 +27,7 @@ image_attribution: "Chrisopher Michel"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emiel de Lange revels in life’s big questions at the National’s new production
 date: "2015-03-25 13:19:38 +0000"
+# Attributes from Felix Online V1
 id: "5448"
 old_path: /arts/5448/man-and-superman-comedy-and-philosophy
 aliases:
  - /arts/5448/man-and-superman-comedy-and-philosophy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251318-ff712-jpeg-9a.jpg"
 image_caption: >
   Don Juan (Ralph Fiennes) in Bernard Shaw’s Man and Superman.
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

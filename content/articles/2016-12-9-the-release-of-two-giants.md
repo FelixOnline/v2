@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Qasim Mahmood gives the dirt on the development of two widely anticipated games and why they’re only being released now
 date: "2016-12-09 16:07:05 +0000"
+# Attributes from Felix Online V1
 id: "6590"
 old_path: /games/6590/the-release-of-two-giants
 aliases:
  - /games/6590/the-release-of-two-giants
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091606-felix-8485649953_12890f4009_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Pauli Marttinen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

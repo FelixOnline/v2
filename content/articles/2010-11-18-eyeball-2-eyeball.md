@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Gibbs goes hands, eyes and ears-on with Blue’s latest HD webcam, the Eyeball 2.0, and finds it wanting
 date: "2010-11-18 20:09:07 +0000"
+# Attributes from Felix Online V1
 id: "384"
 old_path: /tech/384/eyeball-2-eyeball
 aliases:
  - /tech/384/eyeball-2-eyeball
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182007-ks607-eyeballb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

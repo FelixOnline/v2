@@ -4,15 +4,20 @@ title: >
 subtitle: >
   That's the Alexandra Palace to you and me...
 date: "2012-02-16 21:50:01 +0000"
+# Attributes from Felix Online V1
 id: "2198"
 old_path: /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
 aliases:
  - /music/2198/blacks-keys-rock-a-heart-at-the-ally-pally-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202272116-sh1207-theblackkeys_gq_14feb12_rex_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Rex Features"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

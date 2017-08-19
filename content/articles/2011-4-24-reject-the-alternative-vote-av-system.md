@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhodri Oliver urges you to reject this "miserable little compromise"
 date: "2011-04-24 11:29:03 +0100"
+# Attributes from Felix Online V1
 id: "1137"
 old_path: /comment/1137/reject-the-alternative-vote-av-system
 aliases:
  - /comment/1137/reject-the-alternative-vote-av-system
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Andrew Parsons/Parsons Media"
 image_attribution_link: "http://www.flickr.com/photos/conservatives/5574880690/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland checks out one of the new shows at the ICA
 date: "2015-02-07 19:15:22 +0000"
+# Attributes from Felix Online V1
 id: "5206"
 old_path: /arts/5206/dor-guez--a-new-israeli-history
 aliases:
  - /arts/5206/dor-guez--a-new-israeli-history
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071915-ps3110-the-painter-2015-courtesy-the-artist--copya.jpg"
 image_caption: >
   Dor Guez, Frame from The Painter, 2015.
@@ -22,6 +27,7 @@ image_attribution: "Dor Guez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

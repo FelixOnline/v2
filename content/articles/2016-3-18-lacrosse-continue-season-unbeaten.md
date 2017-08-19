@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The first team came top of the league
 date: "2016-03-18 12:06:46 +0000"
+# Attributes from Felix Online V1
 id: "6077"
 old_path: /sport/6077/lacrosse-continue-season-unbeaten
 aliases:
  - /sport/6077/lacrosse-continue-season-unbeaten
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181206-felix-image4.JPG"
 image_caption: >
   They’re an unstoppable force.
@@ -22,6 +27,7 @@ image_attribution: " Imperial Lacrosse"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

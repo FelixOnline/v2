@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We are even closer to seeing Britain become the first country in the world to allow a three person baby to be born through IVF, as draft rules were announced last week to regulate the process.
 date: "2014-03-28 11:44:15 +0000"
+# Attributes from Felix Online V1
 id: "4516"
 old_path: /features/4516/three-is-no-longer-a-crowd
 aliases:
  - /features/4516/three-is-no-longer-a-crowd
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403281144-jal08-1573---3-parent-familyb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

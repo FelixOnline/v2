@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Rebel is the punctuation mark to 19th and early 20th century philosophy
 date: "2016-11-25 14:21:17 +0000"
+# Attributes from Felix Online V1
 id: "6510"
 old_path: /arts/6510/albert-camus--the-rebel
 aliases:
  - /arts/6510/albert-camus--the-rebel
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251420-felix-Camus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Robert Edwards"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

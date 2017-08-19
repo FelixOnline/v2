@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-11 11:52:31 +0000"
+# Attributes from Felix Online V1
 id: "6036"
 old_path: /film/6036/goodnight-mommy
 aliases:
  - /film/6036/goodnight-mommy
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111152-felix-goodnight-mommy-1-credit-courtesy-of-radius.jpg"
 image_caption: >
   What lies behind the bandages? Susanne Wuest in chilly horror Goodnight Mommy.
@@ -22,6 +27,7 @@ image_attribution: "RADiUS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

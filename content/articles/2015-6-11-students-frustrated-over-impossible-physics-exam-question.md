@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
+# Attributes from Felix Online V1
 id: "5616"
 old_path: /news/5616/students-frustrated-over-impossible-physics-exam-question
 aliases:
  - /news/5616/students-frustrated-over-impossible-physics-exam-question
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506112347-cj914-prof-michelle-dougherty-w---tojpeg_1414600890691_x2.jpg"
 image_caption: >
   This has not been the only issue for Physics undergraduate students this term.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hong Kong is going through a tumultuous period of civil unrest, but what were the real reasons behind the latest outbreaks of violence?
 date: "2016-02-19 11:11:20 +0000"
+# Attributes from Felix Online V1
 id: "5926"
 old_path: /comment/5926/fishballs-to-bullets--that-escalated-quickly
 aliases:
  - /comment/5926/fishballs-to-bullets--that-escalated-quickly
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191110-felix-Umbrella_Revolution_in_Admiralty_Night_View_20141010.jpg"
 image_caption: >
   The 2014 Hong Kong protests.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

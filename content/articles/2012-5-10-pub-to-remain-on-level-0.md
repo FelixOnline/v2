@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Holland Club set to be saved in College U-Turn
 date: "2012-05-10 19:10:14 +0100"
+# Attributes from Felix Online V1
 id: "2431"
 old_path: /news/2431/pub-to-remain-on-level-0
 aliases:
  - /news/2431/pub-to-remain-on-level-0
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

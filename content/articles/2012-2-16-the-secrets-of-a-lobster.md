@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anastasia Eleftheriou discusses this seemingly esoteric foodstuff
 date: "2012-02-16 21:48:30 +0000"
+# Attributes from Felix Online V1
 id: "2197"
 old_path: /food/2197/the-secrets-of-a-lobster
 aliases:
  - /food/2197/the-secrets-of-a-lobster
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162147-ams111-lobster_rolls.jpg"
 image_caption: >
   Grilled, spaghetti or sushi? The choice is yours!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

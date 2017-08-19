@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Incredible performance from squash to nick title from favourites
 date: "2016-02-12 12:08:35 +0000"
+# Attributes from Felix Online V1
 id: "5920"
 old_path: /sport/5920/imperial-squash-opposition
 aliases:
  - /sport/5920/imperial-squash-opposition
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121208-felix-Imperial Winners.JPG"
 image_caption: >
   The whole gang.
@@ -22,6 +27,7 @@ image_attribution: "Imperial Squash"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

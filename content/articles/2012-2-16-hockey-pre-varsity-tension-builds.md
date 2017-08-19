@@ -4,15 +4,20 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
+# Attributes from Felix Online V1
 id: "2221"
 old_path: /sport/2221/hockey-pre-varsity-tension-builds
 aliases:
  - /sport/2221/hockey-pre-varsity-tension-builds
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162331-sjw209-hockey.jpg"
 image_caption: >
   Another one bites the astroturf
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

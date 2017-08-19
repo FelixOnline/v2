@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Worthington looks at the so called 'secure' Chip-and-PIN verification system and how it might not be as safe as you think
 date: "2010-02-18 14:29:05 +0000"
+# Attributes from Felix Online V1
 id: "91"
 old_path: /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
 aliases:
  - /tech/91/chip-and-pin-yourself-into-a-world-of-hurt
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002181426-srg03-ChipandP.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

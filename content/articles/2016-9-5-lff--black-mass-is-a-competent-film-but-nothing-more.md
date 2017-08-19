@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Johnny Depp and co put on a good performance, but Black Mass fails to truly impress
 date: "2016-09-05 20:35:46 +0100"
+# Attributes from Felix Online V1
 id: "6295"
 old_path: /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
 aliases:
  - /film/6295/lff--black-mass-is-a-competent-film-but-nothing-more
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201609052235-ff712-201512061419-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpg"
 image_caption: >
   Johnny Depp as Whitey Bulger in Boston-set Black Mass
@@ -22,6 +27,7 @@ image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

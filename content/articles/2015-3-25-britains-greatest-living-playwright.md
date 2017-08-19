@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman champions Tom Stoppard’s right to the title
 date: "2015-03-25 12:51:56 +0000"
+# Attributes from Felix Online V1
 id: "5438"
 old_path: /arts/5438/britains-greatest-living-playwright
 aliases:
  - /arts/5438/britains-greatest-living-playwright
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
 image_caption: >
   Tom Stoppard, perhaps the greatest living playwright?
@@ -22,6 +27,7 @@ image_attribution: "Laura Hynd"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

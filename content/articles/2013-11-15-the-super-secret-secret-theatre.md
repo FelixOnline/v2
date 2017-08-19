@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Buy the ticket – take the ride
 date: "2013-11-15 02:30:38 +0000"
+# Attributes from Felix Online V1
 id: "4073"
 old_path: /arts/4073/the-super-secret-secret-theatre
 aliases:
  - /arts/4073/the-super-secret-secret-theatre
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

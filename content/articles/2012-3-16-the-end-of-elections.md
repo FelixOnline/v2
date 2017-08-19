@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union hopes for record turnout
 date: "2012-03-16 01:41:07 +0000"
+# Attributes from Felix Online V1
 id: "2401"
 old_path: /news/2401/the-end-of-elections
 aliases:
  - /news/2401/the-end-of-elections
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203160140-felix-screen-shot-2012-03-15-at-23.58.05.jpg"
 image_caption: >
   Procrastination tool of the now: the Elections statistics website
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

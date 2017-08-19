@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shaul Rosten laments the future of the U.K. in which an unoposed Galadr... uhm Theresa May rules a broken democracy
 date: "2017-06-02 12:51:33 +0100"
+# Attributes from Felix Online V1
 id: "6989"
 old_path: /comment/6989/all-shall-love-me-in-despair
 aliases:
  - /comment/6989/all-shall-love-me-in-despair
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021451-felix-Screen Shot 2017-06-02 at 14.51.17.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

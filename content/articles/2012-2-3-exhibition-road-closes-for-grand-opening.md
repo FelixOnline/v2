@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boris Johnson takes to the streets to inaugurate new layout
 date: "2012-02-03 00:28:44 +0000"
+# Attributes from Felix Online V1
 id: "2121"
 old_path: /news/2121/exhibition-road-closes-for-grand-opening-
 aliases:
  - /news/2121/exhibition-road-closes-for-grand-opening-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202030027-sjw209-dsc_6912.jpg"
 image_caption: >
   “Exquisite, my parents don’t let me use scissors at home!”
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

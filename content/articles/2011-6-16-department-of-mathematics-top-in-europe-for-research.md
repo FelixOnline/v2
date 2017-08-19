@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial ranked 13th in world, above any non–US institution overall
 date: "2011-06-16 19:43:32 +0100"
+# Attributes from Felix Online V1
 id: "1385"
 old_path: /news/1385/department-of-mathematics-top-in-europe-for-research
 aliases:
  - /news/1385/department-of-mathematics-top-in-europe-for-research
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

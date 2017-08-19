@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ‘Crippling’ levels of debt are not the way forward for a sustainable higher education system says Aaron Porter in a Felix op-ed
 date: "2010-10-14 20:05:56 +0100"
+# Attributes from Felix Online V1
 id: "220"
 old_path: /comment/220/reject-higher-fees-
 aliases:
  - /comment/220/reject-higher-fees-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142104-ks607-aaronpor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

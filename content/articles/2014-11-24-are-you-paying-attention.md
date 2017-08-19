@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ellen Mathieson decrypts Cumberbatch’s The Imitation Game
 date: "2014-11-24 12:39:05 +0000"
+# Attributes from Felix Online V1
 id: "4941"
 old_path: /film/4941/are-you-paying-attention
 aliases:
  - /film/4941/are-you-paying-attention
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241239-ps3110-tig-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "hoto: Morten Tyldum/Lionsgate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

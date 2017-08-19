@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A refreshing antidote to all that pop nonsense
 date: "2011-05-06 08:59:25 +0100"
+# Attributes from Felix Online V1
 id: "1165"
 old_path: /music/1165/fuck-buttons-is-the-music-scenes-saviour
 aliases:
  - /music/1165/fuck-buttons-is-the-music-scenes-saviour
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105061001-felix-fuck-buttons.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christopher Richardson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

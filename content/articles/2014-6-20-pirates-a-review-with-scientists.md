@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One of Cosmo’s top tips to “spice up your sex life” suggests watching porn together. After weeks of trying to convince Max, he finally conceded, with the condition that it be in HD, in Dolby Surround.
 date: "2014-06-20 16:13:51 +0100"
+# Attributes from Felix Online V1
 id: "4698"
 old_path: /features/4698/pirates-a-review-with-scientists
 aliases:
  - /features/4698/pirates-a-review-with-scientists
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406201718-jal08-pirates_edit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

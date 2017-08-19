@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s high time Maciej Matuszewski tackled one of the best known science fiction phenomena out there, Star Trek
 date: "2011-02-10 20:30:45 +0000"
+# Attributes from Felix Online V1
 id: "775"
 old_path: /science/775/star-trek-deep-space-nine
 aliases:
  - /science/775/star-trek-deep-space-nine
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102030-ks607-startrek.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

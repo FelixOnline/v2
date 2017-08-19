@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Deteriorating eyesight in bonobos shows that we’re not the only ones that may need to wear glasses as we get older
 date: "2016-11-18 14:51:25 +0000"
+# Attributes from Felix Online V1
 id: "6464"
 old_path: /science/6464/do-old-bonobos-need-to-go-to-specsavers-
 aliases:
  - /science/6464/do-old-bonobos-need-to-go-to-specsavers-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181450-felix-14433762334_6e651d1bce_k.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cloudtail the Snow Leopard"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

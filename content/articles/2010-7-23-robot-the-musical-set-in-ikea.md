@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caz Knight gets her first taste of Improv, hidden in tunnels beneath Waterloo station
 date: "2010-07-23 10:47:50 +0100"
+# Attributes from Felix Online V1
 id: "153"
 old_path: /arts/153/robot-the-musical-set-in-ikea
 aliases:
  - /arts/153/robot-the-musical-set-in-ikea
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201007231139-ks607-tunnels.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

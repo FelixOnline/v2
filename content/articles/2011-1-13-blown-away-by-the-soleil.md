@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Think Pocahontas, but on adrenaline
 date: "2011-01-13 19:22:57 +0000"
+# Attributes from Felix Online V1
 id: "564"
 old_path: /arts/564/blown-away-by-the-soleil
 aliases:
  - /arts/564/blown-away-by-the-soleil
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131920-ks607-totem.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "dhl106"
 author_name: "Dana Li"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

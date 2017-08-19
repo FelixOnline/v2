@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
+# Attributes from Felix Online V1
 id: "1774"
 old_path: /music/1774/reports-from-a-sick-night-in-metric-no-seriously
 aliases:
  - /music/1774/reports-from-a-sick-night-in-metric-no-seriously
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172121-pk1811-csc_0605.jpg"
 image_caption: >
   Mikill Pane poses with students
@@ -22,6 +27,7 @@ image_attribution: "Gordon Kam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

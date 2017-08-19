@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Xavier Dolan, the critically-acclaimed enfant terrible of French-Canadian cinema, is set to release his sixth feature film later this year, but isn’t even in his thirties. Léo Diaz lifts the lid on his oeuvre, and finds out what makes his films tick
 date: "2017-05-15 17:21:25 +0100"
+# Attributes from Felix Online V1
 id: "6961"
 old_path: /film/6961/xavier-dolan--in-praise-of-popular-art
 aliases:
  - /film/6961/xavier-dolan--in-praise-of-popular-art
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151918-felix-image.jpg"
 image_caption: >
   Xavier Dolan’s Mommy, a festival hit, finds the director flexing his directorial muscles, expanding his technique
@@ -22,6 +27,7 @@ image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

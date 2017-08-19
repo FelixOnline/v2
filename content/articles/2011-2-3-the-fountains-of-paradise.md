@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A review of Arthur C. Clarke's latest novel
 date: "2011-02-03 20:11:38 +0000"
+# Attributes from Felix Online V1
 id: "738"
 old_path: /science/738/the-fountains-of-paradise
 aliases:
  - /science/738/the-fountains-of-paradise
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032009-ks607-fountain.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

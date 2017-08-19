@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Furse ponders fast food
 date: "2011-05-27 13:57:11 +0100"
+# Attributes from Felix Online V1
 id: "1275"
 old_path: /food/1275/cheap-chicken
 aliases:
  - /food/1275/cheap-chicken
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105271456-felix-fried-chicken-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

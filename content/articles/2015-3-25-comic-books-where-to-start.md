@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A fan of comic books, but not sure which ones to go for next? Never fear! Cale Tilford is here to take us on a journey through five of his current favourite comic series, perfect for those unacquainted with the art form
 date: "2015-03-25 13:39:28 +0000"
+# Attributes from Felix Online V1
 id: "5455"
 old_path: /arts/5455/comic-books-where-to-start
 aliases:
  - /arts/5455/comic-books-where-to-start
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

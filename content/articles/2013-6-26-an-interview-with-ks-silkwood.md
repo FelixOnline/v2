@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco talks to the author of King of the Jungle
 date: "2013-06-26 17:32:33 +0100"
+# Attributes from Felix Online V1
 id: "3741"
 old_path: /books/3741/an-interview-with-ks-silkwood
 aliases:
  - /books/3741/an-interview-with-ks-silkwood
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306201645-txl11-silkwood.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

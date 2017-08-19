@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is mightily impressed by the Royal Shakespeare Company's latest tour-de-force, which centres around the creation of the atomic bomb
 date: "2015-04-07 16:34:11 +0100"
+# Attributes from Felix Online V1
 id: "5462"
 old_path: /arts/5462/learning-to-love-the-bomb
 aliases:
  - /arts/5462/learning-to-love-the-bomb
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504071727-ff712-rsz_oppenheimer_production_photos__2014_photo_by_keith_pattison__c__rsc_rscoppie4034.jpg"
 image_caption: >
   The cast of Oppenheimer, currently on at the Vaudeville Theatre
@@ -22,6 +27,7 @@ image_attribution: "RSC/Keith Pattison"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

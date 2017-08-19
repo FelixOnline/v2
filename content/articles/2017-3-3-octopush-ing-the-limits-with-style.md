@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nothing says style like a tight speedo
 date: "2017-03-03 16:17:27 +0000"
+# Attributes from Felix Online V1
 id: "6857"
 old_path: /sport/6857/octopush-ing-the-limits-with-style
 aliases:
  - /sport/6857/octopush-ing-the-limits-with-style
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031617-felix-Image-1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

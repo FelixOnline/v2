@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey thinks that millennial entitlement is a good thing
 date: "2017-05-15 15:52:57 +0100"
+# Attributes from Felix Online V1
 id: "6946"
 old_path: /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
 aliases:
  - /comment/6946/are-millennials-too-entitled-or-do-we-just-deserve-better
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151751-felix-32514422900_c9365314fa_o.jpg"
 image_caption: >
   This generation is soooooo entitled
@@ -22,6 +27,7 @@ image_attribution: "Eloise Acuna"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

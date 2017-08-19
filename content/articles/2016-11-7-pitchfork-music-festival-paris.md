@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It wasn't too bad actually.
 date: "2016-11-07 17:34:50 +0000"
+# Attributes from Felix Online V1
 id: "6412"
 old_path: /music/6412/pitchfork-music-festival-paris
 aliases:
  - /music/6412/pitchfork-music-festival-paris
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071734-felix-IMG_5846.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ellen Zheng"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

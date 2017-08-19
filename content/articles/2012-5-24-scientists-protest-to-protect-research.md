@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial professor chief organiser of campaign
 date: "2012-05-24 22:57:50 +0100"
+# Attributes from Felix Online V1
 id: "2484"
 old_path: /news/2484/scientists-protest-to-protect-research
 aliases:
  - /news/2484/scientists-protest-to-protect-research
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205242356-mc4509-chemistry_lab_29.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

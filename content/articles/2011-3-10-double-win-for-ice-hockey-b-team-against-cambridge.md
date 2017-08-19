@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial 5 – 3 & 6 – 1 Cambridge
 date: "2011-03-10 21:15:36 +0000"
+# Attributes from Felix Online V1
 id: "1081"
 old_path: /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
 aliases:
  - /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

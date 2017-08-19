@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kazakhstan’s largest miner battles Canadian rival over property rights in a war-torn and impoverished region
 date: "2010-10-14 19:33:38 +0100"
+# Attributes from Felix Online V1
 id: "209"
 old_path: /biz/209/two-miners-rumble-in-the-congo-
 aliases:
  - /biz/209/two-miners-rumble-in-the-congo-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104191806-felix-file-|-dation-a-copper-mine-in-kolwezi,-katanga,-dr-congo.jpeg"
 image_caption: >
   A copper mine in the Congo
@@ -22,6 +27,7 @@ image_attribution: "onlinenigeria.com"
 image_attribution_link: "http://news2.onlinenigeria.com/news/general/63673-Genuine-restitution-for-sports.txt"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

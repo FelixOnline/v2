@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park looks at the top film nominations in each category at the London Film Festival
 date: "2013-09-29 15:55:06 +0100"
+# Attributes from Felix Online V1
 id: "3783"
 old_path: /film/3783/57th-bfi-london-film-festival-categories
 aliases:
  - /film/3783/57th-bfi-london-film-festival-categories
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

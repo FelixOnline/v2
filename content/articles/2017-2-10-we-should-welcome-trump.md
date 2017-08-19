@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shaul Rosten explains why banning Trump from the UK would be counterproductive and hypotricical
 date: "2017-02-10 13:42:40 +0000"
+# Attributes from Felix Online V1
 id: "6745"
 old_path: /comment/6745/we-should-welcome-trump
 aliases:
  - /comment/6745/we-should-welcome-trump
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101342-felix-Screen Shot 2017-02-10 at 13.42.26.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

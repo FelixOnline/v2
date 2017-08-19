@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite knowing about it since November, college officials have decided to stop the charity event just three days beforehand
 date: "2016-02-22 18:53:14 +0000"
+# Attributes from Felix Online V1
 id: "5952"
 old_path: /news/5952/college-puts-a-stop-to-rag-bungee-jump
 aliases:
  - /news/5952/college-puts-a-stop-to-rag-bungee-jump
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602221908-felix-bungee.jpg"
 image_caption: >
   The bungee jump in full swing over Queen's Lawn last year.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

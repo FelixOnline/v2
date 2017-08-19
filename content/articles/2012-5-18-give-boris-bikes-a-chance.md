@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In praise of the blue scheme
 date: "2012-05-18 06:29:14 +0100"
+# Attributes from Felix Online V1
 id: "2462"
 old_path: /comment/2462/give-boris-bikes-a-chance
 aliases:
  - /comment/2462/give-boris-bikes-a-chance
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

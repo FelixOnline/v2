@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland is disgusted by this year's Frieze
 date: "2014-12-18 15:47:25 +0000"
+# Attributes from Felix Online V1
 id: "5060"
 old_path: /arts/5060/frieze---where-art-goes-to-die
 aliases:
  - /arts/5060/frieze---where-art-goes-to-die
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501212234-ps3110-rsz_frieze_2014_gagosian.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

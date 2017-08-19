@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An enlightening look at the making of Le Mans, Steve McQueen: The Man & Le Mans affords us an inciteful glimpse of the 'King of Cool'
 date: "2015-11-29 16:37:25 +0000"
+# Attributes from Felix Online V1
 id: "5781"
 old_path: /film/5781/the-road-and-the-fury
 aliases:
  - /film/5781/the-road-and-the-fury
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291636-ff712-2526.jpg"
 image_caption: >
   Yeah, you wish you were as cool as McQueen. We all do.
@@ -22,6 +27,7 @@ image_attribution: "Steve McQueen: The Man & Le Mans PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

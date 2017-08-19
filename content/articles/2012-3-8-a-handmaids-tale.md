@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Margaret Atwood creates a powerful novel with an equally well-developed protagonist
 date: "2012-03-08 20:43:54 +0000"
+# Attributes from Felix Online V1
 id: "2319"
 old_path: /books/2319/a-handmaids-tale
 aliases:
  - /books/2319/a-handmaids-tale
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082042-ams111-handmaids-tale.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

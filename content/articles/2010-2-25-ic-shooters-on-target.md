@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial impress up North
 date: "2010-02-25 19:01:11 +0000"
+# Attributes from Felix Online V1
 id: "108"
 old_path: /sport/108/ic-shooters-on-target
 aliases:
  - /sport/108/ic-shooters-on-target
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251900-mb506-Imperial.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

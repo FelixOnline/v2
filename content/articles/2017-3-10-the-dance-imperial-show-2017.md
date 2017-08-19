@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There will be dance, there will be scantily clad dancers.
 date: "2017-03-10 14:41:35 +0000"
+# Attributes from Felix Online V1
 id: "6887"
 old_path: /cands/6887/the-dance-imperial-show-2017
 aliases:
  - /cands/6887/the-dance-imperial-show-2017
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101441-felix-Image uploaded from iOS (1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Graduate Students Union (GSU) Elections close on the 26th July. For those of you who haven't heard about it here's a quick list of candidates and manifestos...
 date: "2013-07-25 04:28:18 +0100"
+# Attributes from Felix Online V1
 id: "3746"
 old_path: /news/3746/the-gsu-election-manifestos
 aliases:
  - /news/3746/the-gsu-election-manifestos
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201307250631-jal08-screen-shot-2013-07-25-at-6.31.18-am.png"
 image_caption: >
   The GSU Summer Elections, are we sure they exist?
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

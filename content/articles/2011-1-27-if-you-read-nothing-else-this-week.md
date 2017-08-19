@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Zainab Ali puts the case for this collection of poems and short stories by a darkly original author
 date: "2011-01-27 19:52:55 +0000"
+# Attributes from Felix Online V1
 id: "680"
 old_path: /arts/680/if-you-read-nothing-else-this-week-
 aliases:
  - /arts/680/if-you-read-nothing-else-this-week-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272032-ks607-zainabbo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "za710"
 author_name: "Zainab Ali"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a time when all-female casts are still seen as a gimmick Jack Steadman discusses the importance of bending and breaking original texts and taking gender off the list of casting specifications
 date: "2016-10-31 16:20:26 +0000"
+# Attributes from Felix Online V1
 id: "6367"
 old_path: /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
 aliases:
  - /arts/6367/casting-women-in-male-roles-is-not-a-gimmick
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311618-felix-15829773349_c985934aca_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Rafael MArtinez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

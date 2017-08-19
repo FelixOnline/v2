@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bridging the gap between modern Westerns, Bone Tomahawk shines through
 date: "2016-02-26 11:42:33 +0000"
+# Attributes from Felix Online V1
 id: "5969"
 old_path: /film/5969/the-good-the-bad-and-the-cannibalistic
 aliases:
  - /film/5969/the-good-the-bad-and-the-cannibalistic
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261142-felix-Bone-Tomahawk-kurt-russell.jpg"
 image_caption: >
   Kurt Russell, stealing scenes as the town sheriff, in the bloody, brutal Bone Tomahawk.
@@ -22,6 +27,7 @@ image_attribution: "Shutterstock"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

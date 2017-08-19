@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Masters on the NUS initiative to encourage students to vote against “pledge breakers”
 date: "2015-05-01 00:11:44 +0100"
+# Attributes from Felix Online V1
 id: "5478"
 old_path: /news/5478/the-40k-campaign-condemning-lib-dems
 aliases:
  - /news/5478/the-40k-campaign-condemning-lib-dems
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505010111-ps3110-n-nus-liar-liar-large570.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

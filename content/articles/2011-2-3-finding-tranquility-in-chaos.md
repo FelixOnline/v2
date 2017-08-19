@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Following a somewhat manic debut in Brazil, Priya Garg finds time to unwind and uncovers some of Rio de Janeiro’s hidden treasures.
 date: "2011-02-03 18:43:18 +0000"
+# Attributes from Felix Online V1
 id: "704"
 old_path: /travel/704/finding-tranquility-in-chaos
 aliases:
  - /travel/704/finding-tranquility-in-chaos
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031839-nm1010-redeemer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simulator time!
 date: "2012-10-26 02:43:09 +0100"
+# Attributes from Felix Online V1
 id: "2754"
 old_path: /games/2754/i-left-my-will-to-live-in-san-francisco
 aliases:
  - /games/2754/i-left-my-will-to-live-in-san-francisco
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ainsley Harriot discusses his life, work and recipes in conversation with Anastasia Eleftheriou
 date: "2011-11-03 21:33:54 +0000"
+# Attributes from Felix Online V1
 id: "1688"
 old_path: /food/1688/ready-steady-chat
 aliases:
  - /food/1688/ready-steady-chat
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032132-pk1811-ains-white-shirt-to-use.jpg"
 image_caption: >
   Ainsley Harriot remains involved in the production of a variety of recipes
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

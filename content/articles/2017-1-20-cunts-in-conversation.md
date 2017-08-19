@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucille Calmon tells us all about FemSoc's plans to put on The Vagina Monologues, Eve Ensler's powerful exploration of the role the snatch plays in society
 date: "2017-01-20 15:30:29 +0000"
+# Attributes from Felix Online V1
 id: "6673"
 old_path: /arts/6673/cunts-in-conversation
 aliases:
  - /arts/6673/cunts-in-conversation
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201530-felix-16145802_10210543447155333_1530005167_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Paul Stein"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

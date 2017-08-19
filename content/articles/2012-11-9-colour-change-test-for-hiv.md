@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A cheap and effective way of detecting HIV has been developed by Imperial academics
 date: "2012-11-09 12:45:28 +0000"
+# Attributes from Felix Online V1
 id: "2851"
 old_path: /science/2851/colour-change-test-for-hiv
 aliases:
  - /science/2851/colour-change-test-for-hiv
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091243-tna08-colour-change-hiv-test-rgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

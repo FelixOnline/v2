@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
+# Attributes from Felix Online V1
 id: "5518"
 old_path: /news/5518/can-religion-and-science-get-on
 aliases:
  - /news/5518/can-religion-and-science-get-on
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142313-cj914-winston-copy.jpg"
 image_caption: >
   Lord Winston took the opinion that religion is not harmful to the progress of science at the debate.
@@ -22,6 +27,7 @@ image_attribution: "Imperial Debating"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

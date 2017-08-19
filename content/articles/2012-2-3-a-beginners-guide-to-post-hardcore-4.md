@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Every Time I Die
 date: "2012-02-03 11:26:20 +0000"
+# Attributes from Felix Online V1
 id: "2132"
 old_path: /music/2132/a-beginners-guide-to-post-hardcore-4
 aliases:
  - /music/2132/a-beginners-guide-to-post-hardcore-4
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

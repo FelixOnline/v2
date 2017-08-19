@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As you settle back into the College academic year you are no doubt becoming aware of the myriad of events that the Careers Service arranges to help you come to a career decision and to set you on the pathway for a rewarding and fulfilling career.
 date: "2013-11-05 09:52:14 +0000"
+# Attributes from Felix Online V1
 id: "4009"
 old_path: /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
 aliases:
  - /features/4009/more-than-getting-a-degree-developing-your-key-transferable-skills
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

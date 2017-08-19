@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Amanda Diez on the the poem dressed up as prose
 date: "2013-01-18 00:44:53 +0000"
+# Attributes from Felix Online V1
 id: "3140"
 old_path: /books/3140/michael-ondaatje-the-english-patient
 aliases:
  - /books/3140/michael-ondaatje-the-english-patient
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

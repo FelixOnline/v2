@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial
 date: "2011-01-27 19:42:18 +0000"
+# Attributes from Felix Online V1
 id: "674"
 old_path: /comment/674/wish-i-was-there-
 aliases:
  - /comment/674/wish-i-was-there-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ial08"
 author_name: "Indy Leclercq"
 author_image_path: "img/upload/201101271938-ks607-indylecl.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It was written by an Imperial Alumnus, but is it any good?
 date: "2010-12-02 20:06:49 +0000"
+# Attributes from Felix Online V1
 id: "458"
 old_path: /arts/458/the-looking-glass-club-reviewed
 aliases:
  - /arts/458/the-looking-glass-club-reviewed
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lm08"
 author_name: "Louise Murphy"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Art should comfort the disturbed and disturb the comfortable. It’s an instantly quotable adage from Banksy, but what does it actually mean? Can a line be drawn between outright political propaganda and the canvases hanging in every hip gallery in London?
 date: "2014-03-07 04:56:49 +0000"
+# Attributes from Felix Online V1
 id: "4461"
 old_path: /arts/4461/is-all-art-propaganda
 aliases:
  - /arts/4461/is-all-art-propaganda
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

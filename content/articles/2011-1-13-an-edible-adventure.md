@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Furse rediscovers the pleasures of food
 date: "2011-01-13 19:49:35 +0000"
+# Attributes from Felix Online V1
 id: "570"
 old_path: /food/570/an-edible-adventure-
 aliases:
  - /food/570/an-edible-adventure-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/justinpoliachik"
 image_attribution_link: "http://www.flickr.com/photos/justinpoliachik/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

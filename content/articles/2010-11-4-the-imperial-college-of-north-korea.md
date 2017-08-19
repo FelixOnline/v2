@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
+# Attributes from Felix Online V1
 id: "314"
 old_path: /politics/314/the-imperial-college-of-north-korea-
 aliases:
  - /politics/314/the-imperial-college-of-north-korea-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lorddavidalton"
 author_name: "Lord David Alton"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

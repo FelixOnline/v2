@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Titmuss defends the UK's renewal of (necessarily) scary nuclear weapons
 date: "2017-02-03 15:54:58 +0000"
+# Attributes from Felix Online V1
 id: "6713"
 old_path: /comment/6713/leave-trident-alone
 aliases:
  - /comment/6713/leave-trident-alone
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031606-felix-Screen Shot 2017-02-03 at 16.05.42.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

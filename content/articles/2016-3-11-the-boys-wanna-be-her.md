@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In honour of International Women’s Day we celebrate the female artists who inspire us
 date: "2016-03-11 12:04:24 +0000"
+# Attributes from Felix Online V1
 id: "6042"
 old_path: /arts/6042/the-boys-wanna-be-her-
 aliases:
  - /arts/6042/the-boys-wanna-be-her-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nickolas Muray Photo Archives"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

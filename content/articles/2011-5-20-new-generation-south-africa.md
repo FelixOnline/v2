@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Figures and Fictions gives a platform to contemporary South African photographers
 date: "2011-05-20 05:45:45 +0100"
+# Attributes from Felix Online V1
 id: "1226"
 old_path: /arts/1226/new-generation-south-africa
 aliases:
  - /arts/1226/new-generation-south-africa
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200645-felix-martin_machapa.1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Martin Machapa – Zanele Muholi, courtesy of Michael Steven
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

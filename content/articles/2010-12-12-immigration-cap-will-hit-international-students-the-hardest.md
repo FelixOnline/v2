@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Restrictions on immigration will endanger universities
 date: "2010-12-12 14:27:10 +0000"
+# Attributes from Felix Online V1
 id: "552"
 old_path: /politics/552/immigration-cap-will-hit-international-students-the-hardest-
 aliases:
  - /politics/552/immigration-cap-will-hit-international-students-the-hardest-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121425-ks607-theresea.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

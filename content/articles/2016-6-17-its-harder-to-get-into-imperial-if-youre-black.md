@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Huge gap between offers and applicants from black and disadvantaged backgrounds even when they’re predicted the same grades
 date: "2016-06-17 08:50:04 +0100"
+# Attributes from Felix Online V1
 id: "6269"
 old_path: /news/6269/its-harder-to-get-into-imperial-if-youre-black
 aliases:
  - /news/6269/its-harder-to-get-into-imperial-if-youre-black
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171048-felix-151019_ugcomm_078.jpg"
 image_caption: >
   We're using this picture ironically because all these people are white.
@@ -22,6 +27,7 @@ image_attribution: "Thomas Angus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Social media has driven Conservatives to keep their views quiet
 date: "2015-05-14 22:35:36 +0100"
+# Attributes from Felix Online V1
 id: "5523"
 old_path: /comment/5523/why-is-it-so-taboo-to-be-tory
 aliases:
  - /comment/5523/why-is-it-so-taboo-to-be-tory
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142335-cj914-a-labour-supporter-wearin-009.jpg"
 image_caption: >
   You probably have though, admit it
@@ -22,6 +27,7 @@ image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tad08"
 author_name: "Theresa Davey"
 author_image_path: "img/upload/201411062201-snb11-tessa_headshot.jpg"

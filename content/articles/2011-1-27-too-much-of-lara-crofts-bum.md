@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
+# Attributes from Felix Online V1
 id: "694"
 old_path: /games/694/too-much-of-lara-crofts-bum
 aliases:
  - /games/694/too-much-of-lara-crofts-bum
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "oh106"
 author_name: "Omar Hafeez-Bore"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

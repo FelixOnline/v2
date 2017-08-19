@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Standing tall but crumbling inside
 date: "2010-11-25 21:08:53 +0000"
+# Attributes from Felix Online V1
 id: "437"
 old_path: /politics/437/north-korea-attacks--an-act-of-desperation
 aliases:
  - /politics/437/north-korea-attacks--an-act-of-desperation
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lorddavidalton"
 author_name: "Lord David Alton"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

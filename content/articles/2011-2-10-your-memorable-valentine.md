@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It may be a ridiculously overhyped and commercialised, but then again, we’ll take any excuse for a celebration
 date: "2011-02-10 20:58:19 +0000"
+# Attributes from Felix Online V1
 id: "789"
 old_path: /arts/789/your-memorable-valentine
 aliases:
  - /arts/789/your-memorable-valentine
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102055-dr910-meredith.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

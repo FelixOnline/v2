@@ -4,15 +4,20 @@ title: >
 subtitle: >
   [Tabloid Special] As a group of representatives of the Student’s Unions and Associations of the Russell Group, you would expect them to be doing, well something...
 date: "2014-06-23 10:59:34 +0100"
+# Attributes from Felix Online V1
 id: "4702"
 old_path: /news/4702/whats-happened-to-the-aldwych-group
 aliases:
  - /news/4702/whats-happened-to-the-aldwych-group
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

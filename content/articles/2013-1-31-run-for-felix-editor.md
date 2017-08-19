@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on running for a sabbatical position
 date: "2013-01-31 22:32:51 +0000"
+# Attributes from Felix Online V1
 id: "3197"
 old_path: /comment/3197/run-for-felix-editor
 aliases:
  - /comment/3197/run-for-felix-editor
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

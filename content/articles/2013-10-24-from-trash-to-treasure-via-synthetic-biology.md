@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's Team Plasticity on Genetic Engineering
 date: "2013-10-24 23:43:21 +0100"
+# Attributes from Felix Online V1
 id: "3912"
 old_path: /features/3912/from-trash-to-treasure-via-synthetic-biology
 aliases:
  - /features/3912/from-trash-to-treasure-via-synthetic-biology
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250042-felix-feat_maple.png"
 image_caption: >
   MAPLE - Team Plasticity's  home bioreactor.
@@ -22,6 +27,7 @@ image_attribution: "Imperial iGEM"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

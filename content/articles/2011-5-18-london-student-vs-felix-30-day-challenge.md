@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
+# Attributes from Felix Online V1
 id: "1210"
 old_path: /music/1210/london-student-vs-felix-30-day-challenge
 aliases:
  - /music/1210/london-student-vs-felix-30-day-challenge
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105180808-felix-182937_10150111413718588_505563587_6305490_4324313_n.jpg"
 image_caption: >
   Joe Rennison looking worried about the ass-whupping he's about to receive
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

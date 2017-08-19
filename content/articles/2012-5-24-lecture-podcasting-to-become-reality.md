@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Autumn Term will see introduction of new scheme
 date: "2012-05-24 22:50:19 +0100"
+# Attributes from Felix Online V1
 id: "2483"
 old_path: /news/2483/lecture-podcasting-to-become-reality
 aliases:
  - /news/2483/lecture-podcasting-to-become-reality
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205242349-mc4509-homepage-slide-2.jpg"
 image_caption: >
   Panopto provides services for Fortune 500 companies
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

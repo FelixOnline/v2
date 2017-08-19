@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cave Johnson here folks. Shut up and read.
 date: "2012-01-19 20:23:49 +0000"
+# Attributes from Felix Online V1
 id: "2013"
 old_path: /games/2013/go-get-your-hustle-on-for-science
 aliases:
  - /games/2013/go-get-your-hustle-on-for-science
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192023-ams111-ascdt_cave.jpg"
 image_caption: >
   The man himself
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

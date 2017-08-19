@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yi Liu reminisces about his first Toastmasters speech
 date: "2013-09-29 16:28:09 +0100"
+# Attributes from Felix Online V1
 id: "3790"
 old_path: /features/3790/my-speech-my-little-story
 aliases:
  - /features/3790/my-speech-my-little-story
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

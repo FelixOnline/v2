@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the US government steps in to tackle sexual harassment, it’s time to ask, what is it going to take to fix this problem?
 date: "2016-01-29 09:05:39 +0000"
+# Attributes from Felix Online V1
 id: "5841"
 old_path: /science/5841/is-science-for-everyone
 aliases:
  - /science/5841/is-science-for-everyone
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290905-felix-U.S.-Rep.-Jackie-Spieir.jpg"
 image_caption: >
   Jackie Speier fights to tackle the current sexual harassment issues and the lack of repercussions.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

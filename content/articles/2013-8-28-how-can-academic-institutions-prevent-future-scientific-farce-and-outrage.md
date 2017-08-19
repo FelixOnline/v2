@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After the sentencing of Gary Bolton, the man who had been caught selling fake bomb detectors to governments worldwide, comment editor Eoghan Totten wonders how the world's scientific minds could join to prevent this from occurring again.
 date: "2013-08-28 08:52:02 +0100"
+# Attributes from Felix Online V1
 id: "3754"
 old_path: /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
 aliases:
  - /comment/3754/how-can-academic-institutions-prevent-future-scientific-farce-and-outrage
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308280949-jal08-the-ade-651.jpg"
 image_caption: >
   The ADE 651, the false detector sold by McCormick
@@ -22,6 +27,7 @@ image_attribution: "SWNS"
 image_attribution_link: "http://www.mirror.co.uk/news/uk-news/british-businessman-sold-golf-ball-1750300"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

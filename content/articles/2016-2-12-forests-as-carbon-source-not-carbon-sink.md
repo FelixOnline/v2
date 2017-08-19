@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Human management of European forests to mitigate climate change could be counterintuitive
 date: "2016-02-12 11:29:33 +0000"
+# Attributes from Felix Online V1
 id: "5903"
 old_path: /science/5903/forests-as-carbon-source-not-carbon-sink
 aliases:
  - /science/5903/forests-as-carbon-source-not-carbon-sink
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121128-felix-John_Deere_2054_DHSP_forestry_swing_machine,_Kaibab_National_Forest_1.jpg"
 image_caption: >
   Human forest management – a waste of time?
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

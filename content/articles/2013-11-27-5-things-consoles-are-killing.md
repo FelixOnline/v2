@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With the recent releases of the Xbox One and PlayStation 4, it’s high time we examine the victims consoles have claimed since their heralding in the 70’s. Will they be the ultimate culprit in our murder series?
 date: "2013-11-27 16:09:23 +0000"
+# Attributes from Felix Online V1
 id: "4142"
 old_path: /games/4142/5-things-consoles-are-killing
 aliases:
  - /games/4142/5-things-consoles-are-killing
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311271609-me1711-gaming_gamer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

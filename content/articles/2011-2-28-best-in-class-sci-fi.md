@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski kicks off our week long look at the highlights of our favourite genres
 date: "2011-02-28 20:35:32 +0000"
+# Attributes from Felix Online V1
 id: "930"
 old_path: /tv/930/best-in-class-sci-fi
 aliases:
  - /tv/930/best-in-class-sci-fi
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282034-ks607-defyingg.jpg"
 image_caption: >
   The brilliant Defying Gravity was cancelled after only one season
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

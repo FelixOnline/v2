@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Karapetian discusses the implication of the recent hacking events
 date: "2012-01-26 22:57:20 +0000"
+# Attributes from Felix Online V1
 id: "2071"
 old_path: /comment/2071/sopa-who-got-the-last-lulz
 aliases:
  - /comment/2071/sopa-who-got-the-last-lulz
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262259-ak6309-karapetian-banner.jpg"
 image_caption: >
   Sorry, we know some of you are so street the sight of feds is terrifying
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

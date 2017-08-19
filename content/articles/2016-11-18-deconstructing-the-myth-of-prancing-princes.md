@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why is male ballet not acceptable in the context of heteromasculinity?
 date: "2016-11-18 15:10:39 +0000"
+# Attributes from Felix Online V1
 id: "6471"
 old_path: /arts/6471/deconstructing-the-myth-of-prancing-princes
 aliases:
  - /arts/6471/deconstructing-the-myth-of-prancing-princes
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181510-felix-7822736186_817e702bde_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Michel e Carlo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

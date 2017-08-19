@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Kids are All Right, but what about everyone else?
 date: "2010-11-04 18:17:10 +0000"
+# Attributes from Felix Online V1
 id: "294"
 old_path: /film/294/a-warm-and-witty-modern-family-film-
 aliases:
  - /film/294/a-warm-and-witty-modern-family-film-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041815-ks607-algkidsa.jpg"
 image_caption: >
   Clever writing makes this a warm and witty film, the hugs helped too
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

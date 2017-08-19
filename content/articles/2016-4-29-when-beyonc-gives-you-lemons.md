@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We need to talk about Lemonade
 date: "2016-04-29 10:36:37 +0100"
+# Attributes from Felix Online V1
 id: "6098"
 old_path: /music/6098/when-beyonc-gives-you-lemons
 aliases:
  - /music/6098/when-beyonc-gives-you-lemons
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291136-felix-beyonce3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

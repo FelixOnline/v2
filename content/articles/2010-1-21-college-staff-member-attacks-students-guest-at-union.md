@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College staff member attack's student's guest at Union
 date: "2010-01-21 21:39:27 +0000"
+# Attributes from Felix Online V1
 id: "44"
 old_path: /news/44/college-staff-member-attacks-students-guest-at-union
 aliases:
  - /news/44/college-staff-member-attacks-students-guest-at-union
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001212137-rsp07-unionnig.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

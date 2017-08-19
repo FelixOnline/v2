@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Between 19:30 on Saturday and 22:45 on Sunday, the cast of MTSoc's 24-hour musical threw themselves heart and soul into non-stop rehearsals of Ben Elton's (and Queen's) "We Will Rock You". If you want to take a look behind the scenes of the rehearsals, read through this liveblog (now closed).
 date: "2011-05-07 16:56:47 +0100"
+# Attributes from Felix Online V1
 id: "1177"
 old_path: /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
 aliases:
  - /arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105081739-gda07-img_3244lores.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

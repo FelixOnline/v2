@@ -4,15 +4,20 @@ title: >
 subtitle: >
   AMS’ album of the week
 date: "2012-10-11 21:29:57 +0100"
+# Attributes from Felix Online V1
 id: "2680"
 old_path: /music/2680/tame-impala---lonerism
 aliases:
  - /music/2680/tame-impala---lonerism
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112229-felix-lonerism.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

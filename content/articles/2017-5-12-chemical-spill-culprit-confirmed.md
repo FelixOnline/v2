@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It was totally what we thought it was
 date: "2017-05-12 15:40:44 +0100"
+# Attributes from Felix Online V1
 id: "6933"
 old_path: /news/6933/chemical-spill-culprit-confirmed
 aliases:
  - /news/6933/chemical-spill-culprit-confirmed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121740-felix-28010851402_0584c1a3dc_o.jpg"
 image_caption: >
   This is nothing like what happened but a girl can dream right?
@@ -22,6 +27,7 @@ image_attribution: "Ruth Hartnup"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The newbies took to the field
 date: "2015-10-30 15:29:22 +0000"
+# Attributes from Felix Online V1
 id: "5693"
 old_path: /sport/5693/immortals-put-through-their-paces
 aliases:
  - /sport/5693/immortals-put-through-their-paces
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301521-ygr12-immort.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial Immortals"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

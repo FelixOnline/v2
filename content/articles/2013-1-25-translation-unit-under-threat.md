@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Petition to save Unit gets over 4,700 signatures in just one week Members of staff now unsure of their future
 date: "2013-01-25 01:04:24 +0000"
+# Attributes from Felix Online V1
 id: "3173"
 old_path: /news/3173/translation-unit-under-threat
 aliases:
  - /news/3173/translation-unit-under-threat
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250104-tna08-sherfield.jpg"
 image_caption: >
   The Translation Studies Unit is in the Sherfield Building
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

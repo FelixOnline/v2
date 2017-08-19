@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sniper Elite: Nazi Zombie Army review
 date: "2013-09-29 16:10:21 +0100"
+# Attributes from Felix Online V1
 id: "3786"
 old_path: /games/3786/as-hitler-once-said-execute-plan-z
 aliases:
  - /games/3786/as-hitler-once-said-execute-plan-z
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291710-tna08-sniperzombie-1.jpg"
 image_caption: >
   Thankfully that didn’t ruin my shirt!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial see off rivals Oxford, the LSE and Brunel
 date: "2010-12-09 20:10:15 +0000"
+# Attributes from Felix Online V1
 id: "517"
 old_path: /sport/517/equestrian-team-gallop-to-victory
 aliases:
  - /sport/517/equestrian-team-gallop-to-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092008-ac1507-equestri.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

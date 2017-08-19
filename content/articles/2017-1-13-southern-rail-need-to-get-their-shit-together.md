@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey just wants to be able to commute for less than five hours a day
 date: "2017-01-13 14:00:51 +0000"
+# Attributes from Felix Online V1
 id: "6634"
 old_path: /comment/6634/southern-rail-need-to-get-their-shit-together
 aliases:
  - /comment/6634/southern-rail-need-to-get-their-shit-together
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131408-felix-Screen Shot 2017-01-13 at 14.04.21.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

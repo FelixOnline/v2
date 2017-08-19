@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah offers a healthy solution to the instant stuff
 date: "2015-01-23 18:30:51 +0000"
+# Attributes from Felix Online V1
 id: "5143"
 old_path: /food/5143/how-to-quickly-use-your-noodles
 aliases:
  - /food/5143/how-to-quickly-use-your-noodles
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231830-jyg11-screen-shot-2015-01-23-at-18.30.33.png"
 image_caption: >
   "But Caz, why are you so angry with that Italian chef?" "It's fusilli reasons."
@@ -22,6 +27,7 @@ image_attribution: "Felix Food"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

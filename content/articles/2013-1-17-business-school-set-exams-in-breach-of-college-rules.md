@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One exam set late in the night followed by one in the morning
 date: "2013-01-17 23:40:57 +0000"
+# Attributes from Felix Online V1
 id: "3116"
 old_path: /news/3116/business-school-set-exams-in-breach-of-college-rules
 aliases:
  - /news/3116/business-school-set-exams-in-breach-of-college-rules
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

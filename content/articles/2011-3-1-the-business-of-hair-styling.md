@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Afonso Campos talks shop to Drew Foster, one half of the duo behind Foster London
 date: "2011-03-01 20:49:09 +0000"
+# Attributes from Felix Online V1
 id: "958"
 old_path: /biz/958/the-business-of-hair-styling
 aliases:
  - /biz/958/the-business-of-hair-styling
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012047-ks607-hairdres.jpg"
 image_caption: >
   Drew Foster's business was truly launched when he was forced to sell his flat to the Council
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

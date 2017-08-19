@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto in conversation with artist Chris Salter and engineer Marije Baalman
 date: "2014-06-23 14:56:11 +0100"
+# Attributes from Felix Online V1
 id: "4716"
 old_path: /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
 aliases:
  - /music/4716/n_polytope-behaviours-in-light--sound-after-iannis-xenakis
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406231556-jal08-n_polytope_berlin_016.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Inigo Martinez de Rituerto"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists propose hydrothermal vents on the ocean floor as possible locations for the beginning of life itself
 date: "2012-03-01 21:21:48 +0000"
+# Attributes from Felix Online V1
 id: "2273"
 old_path: /science/2273/origin-of-life-may-be-geothermal-pool
 aliases:
  - /science/2273/origin-of-life-may-be-geothermal-pool
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

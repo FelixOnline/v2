@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Graduation and Hackery, very hastily discussed at 1am...
 date: "2012-10-26 01:43:51 +0100"
+# Attributes from Felix Online V1
 id: "2732"
 old_path: /comment/2732/real-world
 aliases:
  - /comment/2732/real-world
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

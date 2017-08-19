@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players
 date: "2014-11-14 21:27:17 +0000"
+# Attributes from Felix Online V1
 id: "4896"
 old_path: /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
 aliases:
  - /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142129-ps3110-7d-003_-_victorious_medics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

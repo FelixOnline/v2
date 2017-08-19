@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's LGBT Officer, Kyle Hellemans wants to know about your experience in sport
 date: "2015-01-21 11:54:59 +0000"
+# Attributes from Felix Online V1
 id: "5105"
 old_path: /welfare/5105/lets-score-a-goal-for-equality
 aliases:
  - /welfare/5105/lets-score-a-goal-for-equality
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501211155-ps3110-rainbow_flag_and_blue_skies.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

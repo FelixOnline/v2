@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nathaniel Gallop on why losing control in US Politics can be good
 date: "2014-11-06 18:40:09 +0000"
+# Attributes from Felix Online V1
 id: "4765"
 old_path: /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
 aliases:
  - /comment/4765/the-midterms-why-every-red-cloud-has-a-blue-lining
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102227-ps3110-141104111650-midterm-elections-2014-pivit-620xa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

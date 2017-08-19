@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This year's theme is early intervention
 date: "2017-02-24 13:45:55 +0000"
+# Attributes from Felix Online V1
 id: "6811"
 old_path: /news/6811/eating-disorder-awareness-week-hits-ic
 aliases:
  - /news/6811/eating-disorder-awareness-week-hits-ic
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

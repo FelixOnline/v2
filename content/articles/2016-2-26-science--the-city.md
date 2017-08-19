@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-02-26 11:35:17 +0000"
+# Attributes from Felix Online V1
 id: "5963"
 old_path: /science/5963/science--the-city
 aliases:
  - /science/5963/science--the-city
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261134-felix-Chemicals_in_flasks.jpg"
 image_caption: >
   Our science and engineering mix is wrong – there’s too much specialisation and not enough generalists.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

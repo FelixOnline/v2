@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Event to be similar to the 1851 Great Exhibition
 date: "2011-11-17 21:06:25 +0000"
+# Attributes from Felix Online V1
 id: "1769"
 old_path: /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
 aliases:
  - /news/1769/exhibition-road-hosts-festival-to-coincide-with-olympic-games
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "e-architect.co.uk"
 image_attribution_link: "http://www.e-architect.co.uk/images/jpgs/london/exhibition_road_bl300609_1.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

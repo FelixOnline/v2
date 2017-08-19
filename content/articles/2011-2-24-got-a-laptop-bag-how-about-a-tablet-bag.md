@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The latest line of iPad bags for you.
 date: "2011-02-24 20:03:08 +0000"
+# Attributes from Felix Online V1
 id: "877"
 old_path: /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
 aliases:
  - /tech/877/got-a-laptop-bag-how-about-a-tablet-bag
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242001-nm1010-bagbagba.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

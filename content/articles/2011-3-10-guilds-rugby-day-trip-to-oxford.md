@@ -4,15 +4,20 @@ title: >
 subtitle: >
   C&G Rugby: C&G 44 – 29 Balliol College
 date: "2011-03-10 21:02:27 +0000"
+# Attributes from Felix Online V1
 id: "1080"
 old_path: /sport/1080/guilds-rugby-day-trip-to-oxford-
 aliases:
  - /sport/1080/guilds-rugby-day-trip-to-oxford-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

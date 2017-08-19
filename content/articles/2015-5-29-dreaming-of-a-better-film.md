@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Disney's Tomorrowland leaves Jack Steadman feeling disappointed
 date: "2015-05-29 10:42:43 +0100"
+# Attributes from Felix Online V1
 id: "5583"
 old_path: /film/5583/dreaming-of-a-better-film
 aliases:
  - /film/5583/dreaming-of-a-better-film
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291135-js5913-tomorrowland-1-cmyk.jpg"
 image_caption: >
   All of the other promotional images are people standing in a field of corn.
@@ -22,6 +27,7 @@ image_attribution: "Brad Bird/Disney"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

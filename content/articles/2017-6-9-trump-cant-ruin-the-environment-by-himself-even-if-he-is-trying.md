@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sara Hamilton thinks the withdrawal of the US from the Paris Agreement is not ideal, but the rest of the world can still try to make a difference
 date: "2017-06-09 14:56:26 +0100"
+# Attributes from Felix Online V1
 id: "7010"
 old_path: /comment/7010/trump-cant-ruin-the-environment-by-himself-even-if-he-is-trying
 aliases:
  - /comment/7010/trump-cant-ruin-the-environment-by-himself-even-if-he-is-trying
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091656-ea3211-Screen Shot 2017-06-09 at 16.56.13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

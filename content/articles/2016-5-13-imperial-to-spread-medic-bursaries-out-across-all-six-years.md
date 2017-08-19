@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This comes a year after the survey that said 97% of final year students were in the red
 date: "2016-05-13 08:48:29 +0100"
+# Attributes from Felix Online V1
 id: "6141"
 old_path: /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
 aliases:
  - /news/6141/imperial-to-spread-medic-bursaries-out-across-all-six-years
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

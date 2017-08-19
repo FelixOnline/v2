@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"
+# Attributes from Felix Online V1
 id: "2158"
 old_path: /news/2158/holland-club-change-on-the-cards-
 aliases:
  - /news/2158/holland-club-change-on-the-cards-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092239-felix-hollandclub-4475.jpg"
 image_caption: >
   The Holland Club is named after Sir Thomas Holland, former Rector of Imperial College
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

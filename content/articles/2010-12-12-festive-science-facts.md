@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All the Christmas science you'll need to bore your relatives to death
 date: "2010-12-12 13:55:46 +0000"
+# Attributes from Felix Online V1
 id: "551"
 old_path: /science/551/festive-science-facts-
 aliases:
  - /science/551/festive-science-facts-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121351-ks607-familych.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

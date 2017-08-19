@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get the lowdown on a fresh UNESCO site in the heart of China’s Zhejiang Province
 date: "2013-10-12 19:45:41 +0100"
+# Attributes from Felix Online V1
 id: "3859"
 old_path: /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
 aliases:
  - /travel/3859/hangzhou-a-forgotten-pearl-from-heaven
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122045-jal08-tulips-in-taiziwan-garden---frany-zhang.jpg"
 image_caption: >
   Tulips in Taiziwan Garden
@@ -22,6 +27,7 @@ image_attribution: "Frany Zhang"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

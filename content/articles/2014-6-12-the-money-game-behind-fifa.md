@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From passionate Torcedores to angry protesters, where is FIFA taking us?
 date: "2014-06-12 13:42:26 +0100"
+# Attributes from Felix Online V1
 id: "4681"
 old_path: /comment/4681/the-money-game-behind-fifa
 aliases:
  - /comment/4681/the-money-game-behind-fifa
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406121442-me1711-brazil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

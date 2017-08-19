@@ -4,15 +4,20 @@ title: >
 subtitle: >
   #ImperialWomen can
 date: "2016-03-11 11:21:24 +0000"
+# Attributes from Felix Online V1
 id: "6018"
 old_path: /news/6018/international-womens-day-at-imperial
 aliases:
  - /news/6018/international-womens-day-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111120-felix-20160310_140432.jpg"
 image_caption: >
   Fun fact – there have been four female FELIX Editors so far.
@@ -22,6 +27,7 @@ image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

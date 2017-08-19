@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phil Gerstenburg return from Victoria Park scarred after facing a waterlogged pitch
 date: "2015-02-12 22:59:05 +0000"
+# Attributes from Felix Online V1
 id: "5246"
 old_path: /sport/5246/imperial-leave-it-late-to-snatch-victory-against-hult
 aliases:
  - /sport/5246/imperial-leave-it-late-to-snatch-victory-against-hult
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122259-jyg11-js30759917.jpg"
 image_caption: >
   An artist's impression of the challenging conditions the 7th XI faced at the weekend
@@ -22,6 +27,7 @@ image_attribution: "Steve Porter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

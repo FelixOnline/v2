@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Universal healthcare actually protects human lives during tougher economic times
 date: "2016-06-17 09:11:17 +0100"
+# Attributes from Felix Online V1
 id: "6277"
 old_path: /science/6277/public-healthcare-cuts-cause-otherwise-preventable-deaths
 aliases:
  - /science/6277/public-healthcare-cuts-cause-otherwise-preventable-deaths
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171110-felix-2129079425_291111a332_o.jpg"
 image_caption: >
   During periods of economic austerity easily treatable illnesses thrive.
@@ -22,6 +27,7 @@ image_attribution: "pudgeefeet"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

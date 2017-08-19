@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's all things chocolate this October
 date: "2011-10-07 13:02:01 +0100"
+# Attributes from Felix Online V1
 id: "1495"
 old_path: /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
 aliases:
  - /food/1495/chocolate-week-announces-a-melt-in-your-mouth-lineup
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071401-felix-chocolate-liquid-1vds4o9.jpg"
 image_caption: >
   So much chocolate, so little time...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

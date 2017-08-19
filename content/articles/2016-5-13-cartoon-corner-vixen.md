@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-05-13 09:24:31 +0100"
+# Attributes from Felix Online V1
 id: "6161"
 old_path: /tv/6161/-cartoon-corner-vixen
 aliases:
  - /tv/6161/-cartoon-corner-vixen
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131124-felix-vixen.jpg"
 image_caption: >
   Another hero is in on the action.
@@ -22,6 +27,7 @@ image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

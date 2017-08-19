@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Come the Revolution, I’ll be using you as the wall against which I’ll shoot the people I dislike slightly less than you
 date: "2010-10-14 20:00:52 +0100"
+# Attributes from Felix Online V1
 id: "218"
 old_path: /comment/218/youre-a-bunch-of-greedy-tts
 aliases:
  - /comment/218/youre-a-bunch-of-greedy-tts
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

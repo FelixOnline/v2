@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Cautionary Tale of Mansa Musa of Mali – by Beñat Gurrutxaga-Lerma and Nina Kearsey
 date: "2011-10-20 22:46:14 +0100"
+# Attributes from Felix Online V1
 id: "1574"
 old_path: /biz/1574/the-economy-in-history
 aliases:
  - /biz/1574/the-economy-in-history
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202345-felix-mansa_musa.jpg"
 image_caption: >
   Mansa (Emperor) Musa of Mali (1312-1337), holding one of the golden nuggets Mali was so famous for d
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The next threat to British security could be coming from closer to home than you think...
 date: "2010-10-28 19:46:44 +0100"
+# Attributes from Felix Online V1
 id: "277"
 old_path: /comment/277/pigeons-of-prey-
 aliases:
  - /comment/277/pigeons-of-prey-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104201812-felix-cartoonpigeon1.jpg"
 image_caption: >
   London's pigeons are ruthless and evil, with possible fascist sympathies. Beware
@@ -22,6 +27,7 @@ image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

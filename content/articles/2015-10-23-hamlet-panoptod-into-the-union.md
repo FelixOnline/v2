@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial students enjoy Cumberbatch’s performance without leaving campus
 date: "2015-10-23 11:46:29 +0100"
+# Attributes from Felix Online V1
 id: "5672"
 old_path: /arts/5672/hamlet-panoptod-into-the-union
 aliases:
  - /arts/5672/hamlet-panoptod-into-the-union
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231246-ygr12-hamlet1.jpg"
 image_caption: >
   Cumberbatch in zoomed-in glorious HD.
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

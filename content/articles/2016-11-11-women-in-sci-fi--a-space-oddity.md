@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
 date: "2016-11-11 13:44:59 +0000"
+# Attributes from Felix Online V1
 id: "6420"
 old_path: /film/6420/women-in-sci-fi--a-space-oddity
 aliases:
  - /film/6420/women-in-sci-fi--a-space-oddity
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111337-so515-amyadams_arrival.jpg"
 image_caption: >
   Amy Adams in Arrival
@@ -22,6 +27,7 @@ image_attribution: "Paramount Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

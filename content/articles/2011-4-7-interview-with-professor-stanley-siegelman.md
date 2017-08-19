@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Medical Student Suha Bachir discovers how to balance a successful academic career with teaching, and even editing!
 date: "2011-04-07 21:06:20 +0100"
+# Attributes from Felix Online V1
 id: "1131"
 old_path: /science/1131/interview-with-professor-stanley-siegelman
 aliases:
  - /science/1131/interview-with-professor-stanley-siegelman
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104072208-ks607-pr-siegelman.jpg"
 image_caption: >
   Professor Siegelman in his office at Johns Hopkins
@@ -22,6 +27,7 @@ image_attribution: "Suha Bachir"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

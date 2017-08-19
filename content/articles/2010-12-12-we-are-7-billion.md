@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But how many could we be? You know, if we really ‘went’ for it...
 date: "2010-12-12 13:48:09 +0000"
+# Attributes from Felix Online V1
 id: "549"
 old_path: /science/549/we-are-7-billion
 aliases:
  - /science/549/we-are-7-billion
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

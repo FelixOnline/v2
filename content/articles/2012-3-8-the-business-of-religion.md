@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson discusses the ongoing conversations resulting from the Occupy movement
 date: "2012-03-08 21:13:08 +0000"
+# Attributes from Felix Online V1
 id: "2322"
 old_path: /news/2322/the-business-of-religion
 aliases:
  - /news/2322/the-business-of-religion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082110-ams111-dscf2614.jpg"
 image_caption: >
   The relationship between religious traditions and business could provide a new angle to Occupy
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

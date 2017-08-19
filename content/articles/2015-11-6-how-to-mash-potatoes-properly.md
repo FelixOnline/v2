@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Smash might be easy, but it won’t impress your housemates like this will
 date: "2015-11-06 14:04:00 +0000"
+# Attributes from Felix Online V1
 id: "5705"
 old_path: /food/5705/how-to-mash-potatoes-properly
 aliases:
  - /food/5705/how-to-mash-potatoes-properly
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

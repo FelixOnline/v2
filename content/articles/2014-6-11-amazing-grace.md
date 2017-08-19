@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Destroyed critically, but is it really so bad?
 date: "2014-06-11 22:00:08 +0100"
+# Attributes from Felix Online V1
 id: "4675"
 old_path: /film/4675/amazing-grace
 aliases:
  - /film/4675/amazing-grace
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112259-me1711-grace-of-monaco-nicole-kidman-ftr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Council paper brings talk of adding responsibilities to the roles and changing the names
 date: "2013-05-30 13:22:07 +0100"
+# Attributes from Felix Online V1
 id: "3645"
 old_path: /news/3645/extra-sabbatical-remits-discussed
 aliases:
  - /news/3645/extra-sabbatical-remits-discussed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301421-tna08-201110272007-felix-img_6764.jpg"
 image_caption: >
   The Union gives us its come to bed eyes
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

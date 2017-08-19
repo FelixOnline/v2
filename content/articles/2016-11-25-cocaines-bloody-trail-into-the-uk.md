@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Eden criticises the West’s obsession with nose clams
 date: "2016-11-25 13:32:43 +0000"
+# Attributes from Felix Online V1
 id: "6497"
 old_path: /comment/6497/cocaines-bloody-trail-into-the-uk
 aliases:
  - /comment/6497/cocaines-bloody-trail-into-the-uk
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251332-felix-Screen Shot 2016-11-25 at 13.32.03.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maya Kaushik interviews Anita from Britain and Ireland’s Next Top Model
 date: "2012-12-07 02:41:15 +0000"
+# Attributes from Felix Online V1
 id: "3053"
 old_path: /tv/3053/models-bring-sexy-back
 aliases:
  - /tv/3053/models-bring-sexy-back
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070241-tna08-anita-with-horse.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

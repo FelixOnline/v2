@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sony were the next of the big three to take the stage. Last year, Sony’s conference was a roaring success; a two hour “fuck you” to Microsoft.
 date: "2014-06-11 21:41:59 +0100"
+# Attributes from Felix Online V1
 id: "4672"
 old_path: /games/4672/e3-sony-exclusives-now
 aliases:
  - /games/4672/e3-sony-exclusives-now
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112241-me1711-games_e3sony.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

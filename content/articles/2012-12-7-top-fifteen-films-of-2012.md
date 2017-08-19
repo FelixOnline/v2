@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film takes you on a tour of the best films this year
 date: "2012-12-07 14:53:35 +0000"
+# Attributes from Felix Online V1
 id: "3073"
 old_path: /film/3073/top-fifteen-films-of-2012
 aliases:
  - /film/3073/top-fifteen-films-of-2012
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212071453-tna08-2012_beasts_of_the_southern_wild_006.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

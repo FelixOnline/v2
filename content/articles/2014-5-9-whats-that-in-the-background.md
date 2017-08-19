@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What are paintings all about anyway?
 date: "2014-05-09 02:17:19 +0100"
+# Attributes from Felix Online V1
 id: "4580"
 old_path: /arts/4580/whats-that-in-the-background
 aliases:
  - /arts/4580/whats-that-in-the-background
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090317-jal08-arts-ng.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Domenico Beccafumi, The Story of Papirius, mid 1520s"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

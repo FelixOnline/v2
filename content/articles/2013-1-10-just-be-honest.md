@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial about telling the truth, the whole truth and nothing but the truth so help your reputation.
 date: "2013-01-10 21:58:47 +0000"
+# Attributes from Felix Online V1
 id: "3076"
 old_path: /comment/3076/just-be-honest
 aliases:
  - /comment/3076/just-be-honest
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102156-tna08-liar-liar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

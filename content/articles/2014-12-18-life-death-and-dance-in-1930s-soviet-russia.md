@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is impressed by GRAD's exploration of USSR ballet The Bolt
 date: "2014-12-18 16:21:15 +0000"
+# Attributes from Felix Online V1
 id: "5075"
 old_path: /arts/5075/life-death-and-dance-in-1930s-soviet-russia
 aliases:
  - /arts/5075/life-death-and-dance-in-1930s-soviet-russia
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

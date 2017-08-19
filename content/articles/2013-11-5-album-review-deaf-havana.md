@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This show made me realise they’re not wrong (maybe grammatically, but, you know…). Surrounded by teenagers having the time of their young lives, I came to the startling realisation that I am no longer young.
 date: "2013-11-05 09:37:40 +0000"
+# Attributes from Felix Online V1
 id: "3995"
 old_path: /music/3995/album-review-deaf-havana
 aliases:
  - /music/3995/album-review-deaf-havana
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

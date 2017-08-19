@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Activision kills off the popular music game series
 date: "2011-02-17 20:17:05 +0000"
+# Attributes from Felix Online V1
 id: "837"
 old_path: /games/837/guitar-hero-comes-to-a-timely-demise
 aliases:
  - /games/837/guitar-hero-comes-to-a-timely-demise
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb908"
 author_name: "Chris Bowers"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

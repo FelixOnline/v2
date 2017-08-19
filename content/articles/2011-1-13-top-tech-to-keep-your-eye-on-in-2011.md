@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Four products that are destined to make a big splash in the coming year
 date: "2011-01-13 20:38:02 +0000"
+# Attributes from Felix Online V1
 id: "583"
 old_path: /tech/583/top-tech-to-keep-your-eye-on-in-2011
 aliases:
  - /tech/583/top-tech-to-keep-your-eye-on-in-2011
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132036-ks607-3DTelevi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

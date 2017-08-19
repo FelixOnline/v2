@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Prashant Mahendran reports on the third London Climate Forum
 date: "2014-12-04 18:49:47 +0000"
+# Attributes from Felix Online V1
 id: "4989"
 old_path: /cands/4989/building-a-cleaner-future
 aliases:
  - /cands/4989/building-a-cleaner-future
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041849-cj914-_mg_5196.jpg"
 image_caption: >
   Imperial Hub have hosted the London Climate forum for three years now.
@@ -22,6 +27,7 @@ image_attribution: "Ziyaun Mao"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

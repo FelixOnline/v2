@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le goes on an emotional and interesting journey
 date: "2012-11-15 21:25:51 +0000"
+# Attributes from Felix Online V1
 id: "2895"
 old_path: /arts/2895/moving-pictures-at-the-barbican-
 aliases:
  - /arts/2895/moving-pictures-at-the-barbican-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152125-tna08-nails.jpg"
 image_caption: >
   © Boris Mikhailov
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

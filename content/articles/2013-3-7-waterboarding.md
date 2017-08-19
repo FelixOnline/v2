@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Radcliffe interrogates an artist
 date: "2013-03-07 23:52:38 +0000"
+# Attributes from Felix Online V1
 id: "3448"
 old_path: /arts/3448/waterboarding
 aliases:
  - /arts/3448/waterboarding
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072352-tna08-erikacraigpaintings3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

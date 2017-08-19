@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton looks back at the Special Relationship
 date: "2011-11-24 21:28:30 +0000"
+# Attributes from Felix Online V1
 id: "1821"
 old_path: /politics/1821/from-the-united-states-with-love
 aliases:
  - /politics/1821/from-the-united-states-with-love
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242127-pk1811-david_cameron_and_barack_obama_at_the_g20_summit_in_toronto.jpg"
 image_caption: >
   I hope you don’t mind a bit of London Pride?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

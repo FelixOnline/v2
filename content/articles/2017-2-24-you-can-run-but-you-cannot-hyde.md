@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The punnage
 date: "2017-02-24 15:33:22 +0000"
+# Attributes from Felix Online V1
 id: "6831"
 old_path: /sport/6831/you-can-run-but-you-cannot-hyde
 aliases:
  - /sport/6831/you-can-run-but-you-cannot-hyde
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241533-felix-hyde park run.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

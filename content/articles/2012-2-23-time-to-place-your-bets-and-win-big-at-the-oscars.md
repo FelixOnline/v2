@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Film gazes into the future and predicts the winners for this year’s Oscars – read at your own risk
 date: "2012-02-23 20:03:18 +0000"
+# Attributes from Felix Online V1
 id: "2229"
 old_path: /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
 aliases:
  - /film/2229/time-to-place-your-bets-and-win-big-at-the-oscars
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202231958-pk1811-the-artist-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

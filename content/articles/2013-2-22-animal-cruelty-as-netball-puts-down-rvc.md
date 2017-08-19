@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Poppy Pinnock swears that RVC are on a farm...
 date: "2013-02-22 02:12:01 +0000"
+# Attributes from Felix Online V1
 id: "3374"
 old_path: /sport/3374/animal-cruelty-as-netball-puts-down-rvc
 aliases:
  - /sport/3374/animal-cruelty-as-netball-puts-down-rvc
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

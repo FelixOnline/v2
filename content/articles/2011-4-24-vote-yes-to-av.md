@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies
 date: "2011-04-24 11:26:11 +0100"
+# Attributes from Felix Online V1
 id: "1136"
 old_path: /comment/1136/vote-yes-to-av
 aliases:
  - /comment/1136/vote-yes-to-av
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

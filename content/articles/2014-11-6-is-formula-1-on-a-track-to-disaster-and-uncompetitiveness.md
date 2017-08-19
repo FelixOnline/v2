@@ -4,15 +4,20 @@ title: >
 subtitle: >
   People drive cars repeatedly in circles; Henry Lambley investigates
 date: "2014-11-06 19:39:07 +0000"
+# Attributes from Felix Online V1
 id: "4780"
 old_path: /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
 aliases:
  - /sport/4780/is-formula-1-on-a-track-to-disaster-and-uncompetitiveness
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061938-cj914-1414711932818_wps_108_file_photo_marussia_f1_te.jpg"
 image_caption: >
   Marussia and Caterham have gone into administration. Could more follow them?
@@ -22,6 +27,7 @@ image_attribution: "James Moy/PA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

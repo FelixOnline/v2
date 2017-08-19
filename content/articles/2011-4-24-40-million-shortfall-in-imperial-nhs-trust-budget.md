@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mounting financial challenge for Imperial NHS Trust
 date: "2011-04-24 11:04:15 +0100"
+# Attributes from Felix Online V1
 id: "1134"
 old_path: /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
 aliases:
  - /news/1134/40-million-shortfall-in-imperial-nhs-trust-budget
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104241207-felix-prof_steve_smith_04.jpg"
 image_caption: >
   Professor Stephen Smith
@@ -22,6 +27,7 @@ image_attribution: "Mike Finn-Kelcey/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jessica Cheng
 date: "2012-06-14 20:09:20 +0100"
+# Attributes from Felix Online V1
 id: "2558"
 old_path: /phoenix/2558/the-designer---jessica-cheng
 aliases:
  - /phoenix/2558/the-designer---jessica-cheng
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142109-pk1811-tumblr_m02avsfvpf1r72f37o1_500.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

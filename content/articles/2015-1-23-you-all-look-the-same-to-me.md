@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ellen Mathieson on three films with just one plot between them
 date: "2015-01-23 16:50:36 +0000"
+# Attributes from Felix Online V1
 id: "5131"
 old_path: /film/5131/you-all-look-the-same-to-me
 aliases:
  - /film/5131/you-all-look-the-same-to-me
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231649-jyg11-screen-shot-2015-01-23-at-16.49.13.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Alejandro G. Iñárritu, New Regency Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What is the best eggy soldier of them all?
 date: "2011-11-24 21:33:37 +0000"
+# Attributes from Felix Online V1
 id: "1823"
 old_path: /food/1823/food-experiments-
 aliases:
  - /food/1823/food-experiments-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242133-pk1811-eggsperimentsrsc-lowres.jpg"
 image_caption: >
   I know you’ve had it with eggscruciating yolks
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

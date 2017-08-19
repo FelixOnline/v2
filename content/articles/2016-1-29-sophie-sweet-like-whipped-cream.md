@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX gets that fizzy feeling
 date: "2016-01-29 09:33:51 +0000"
+# Attributes from Felix Online V1
 id: "5849"
 old_path: /music/5849/sophie-sweet-like-whipped-cream
 aliases:
  - /music/5849/sophie-sweet-like-whipped-cream
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602011702-cet13-sophie1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

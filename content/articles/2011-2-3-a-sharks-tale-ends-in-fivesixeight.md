@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kate Turner wants to start a fish fight with you
 date: "2011-02-03 19:01:15 +0000"
+# Attributes from Felix Online V1
 id: "708"
 old_path: /food/708/a-sharks-tale-ends-in-fivesixeight
 aliases:
  - /food/708/a-sharks-tale-ends-in-fivesixeight
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031858-nm1010-sharrrrk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

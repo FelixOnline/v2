@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Webster takes a tour through the island of Android bundle 5
 date: "2013-03-15 01:43:02 +0000"
+# Attributes from Felix Online V1
 id: "3479"
 old_path: /games/3479/the-humble-end-of-term-bundle
 aliases:
  - /games/3479/the-humble-end-of-term-bundle
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150140-tna08-ss_74d0cae5569f20353ac8519f4aebd1301c246eb5.1920x1080.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

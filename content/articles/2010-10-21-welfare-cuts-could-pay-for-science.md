@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Science funding must be protected over welfare
 date: "2010-10-21 19:14:24 +0100"
+# Attributes from Felix Online V1
 id: "235"
 old_path: /politics/235/welfare-cuts-could-pay-for-science
 aliases:
  - /politics/235/welfare-cuts-could-pay-for-science
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

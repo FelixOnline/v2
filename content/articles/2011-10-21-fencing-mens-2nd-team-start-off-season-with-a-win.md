@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men's 2nd 135-90
 date: "2011-10-21 10:13:24 +0100"
+# Attributes from Felix Online V1
 id: "1585"
 old_path: /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
 aliases:
  - /sport/1585/fencing-mens-2nd-team-start-off-season-with-a-win
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211113-ak6309-dsc_5484website.jpg"
 image_caption: >
   Cut, thrust, parry, riposte...oh wait, there’s two lights. Referee needed
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

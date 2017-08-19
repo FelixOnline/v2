@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Google announced as main event sponsor
 date: "2012-02-09 22:44:23 +0000"
+# Attributes from Felix Online V1
 id: "2159"
 old_path: /news/2159/registration-opens-for-tedx
 aliases:
  - /news/2159/registration-opens-for-tedx
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

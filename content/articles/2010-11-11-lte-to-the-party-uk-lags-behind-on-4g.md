@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s almost 2011 already. Where’s my super fast 4G?!
 date: "2010-11-11 20:34:39 +0000"
+# Attributes from Felix Online V1
 id: "340"
 old_path: /tech/340/lte-to-the-party-uk-lags-behind-on-4g
 aliases:
  - /tech/340/lte-to-the-party-uk-lags-behind-on-4g
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112033-ks607-3g3g33g3.jpg"
 image_caption: >
   Now that's what I call 'fast'
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

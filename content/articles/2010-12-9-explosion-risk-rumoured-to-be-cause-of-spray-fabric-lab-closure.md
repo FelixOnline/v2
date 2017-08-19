@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Highly inflammable substance causes explosion risk in spray-on fabric lab
 date: "2010-12-09 22:04:27 +0000"
+# Attributes from Felix Online V1
 id: "545"
 old_path: /news/545/explosion-risk-rumoured-to-be-cause-of-spray-fabric-lab-closure
 aliases:
  - /news/545/explosion-risk-rumoured-to-be-cause-of-spray-fabric-lab-closure
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092159-dr910-fabrican.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb403"
 author_name: "Charles Betts"
 author_image_path: "img/upload/201111172217-felix-charles-betts.jpg"

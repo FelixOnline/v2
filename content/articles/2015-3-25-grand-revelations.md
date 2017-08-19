@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Science Museum's latest show of scientific photography is an incredible triumph
 date: "2015-03-25 14:00:15 +0000"
+# Attributes from Felix Online V1
 id: "5457"
 old_path: /arts/5457/grand-revelations
 aliases:
  - /arts/5457/grand-revelations
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251420-ff712-chronophotograph-of-a-man-clearing-a-hurdle,-c.1892,-êtienne-jules-marey-∏-national-media-museum,-bradford-sspl.jpg"
 image_caption: >
   Chronophotograph of a Man Clearing a Hurdle, c.1892, Étienne Jules Marey
@@ -22,6 +27,7 @@ image_attribution: "National Media Museum, Bradford SSPL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

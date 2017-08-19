@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hedda Gabler is on at the Lyttelton Theatre until the 21st of March, 2017
 date: "2016-12-16 15:05:19 +0000"
+# Attributes from Felix Online V1
 id: "6613"
 old_path: /arts/6613/ruth-wilson-breathes-new-life-into-hedda-gabler
 aliases:
  - /arts/6613/ruth-wilson-breathes-new-life-into-hedda-gabler
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161505-felix-4724.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

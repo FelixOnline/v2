@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Life affirming, if a bit pretentious.
 date: "2013-04-30 14:59:57 +0100"
+# Attributes from Felix Online V1
 id: "3507"
 old_path: /books/3507/herman-hesses-siddhartha
 aliases:
  - /books/3507/herman-hesses-siddhartha
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012038-tna08-siddhartha-cover-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

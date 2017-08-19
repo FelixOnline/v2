@@ -4,15 +4,20 @@ title: >
 subtitle: >
   High tea in Metric you say?
 date: "2013-06-20 23:38:10 +0100"
+# Attributes from Felix Online V1
 id: "3724"
 old_path: /news/3724/volunteer-awards
 aliases:
  - /news/3724/volunteer-awards
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210038-tna08-volunteer-awards-ceremony-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

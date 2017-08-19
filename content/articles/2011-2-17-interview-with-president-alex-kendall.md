@@ -4,15 +4,20 @@ title: >
 subtitle: >
   He fought the Life Sciences cuts but supports higher fees: Alex Kendall on why he picks his fights carefully
 date: "2011-02-17 19:07:09 +0000"
+# Attributes from Felix Online V1
 id: "812"
 old_path: /news/812/interview-with-president-alex-kendall
 aliases:
  - /news/812/interview-with-president-alex-kendall
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102171856-ks607-alexkend.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

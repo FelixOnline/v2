@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yes, the problems with the animation start early. Everything looks exactly the same.
 date: "2014-06-02 12:52:56 +0100"
+# Attributes from Felix Online V1
 id: "4642"
 old_path: /film/4642/the-worst-movies-of-2014-so-far---tarzan
 aliases:
  - /film/4642/the-worst-movies-of-2014-so-far---tarzan
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406021353-felix-tarzan-3d.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

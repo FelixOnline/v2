@@ -4,15 +4,20 @@ title: >
 subtitle: >
   More information has come to light on the scandal that hit the final exam for first year students on the Electronic and Information Engineering (EIE) course.
 date: "2014-06-23 10:58:06 +0100"
+# Attributes from Felix Online V1
 id: "4701"
 old_path: /news/4701/new-info-adds-to-eie-exam-scandal
 aliases:
  - /news/4701/new-info-adds-to-eie-exam-scandal
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

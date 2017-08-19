@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the run up to elections Union President Paul Beaumont looks at what he has and hasn’t done this year...
 date: "2013-01-17 23:59:28 +0000"
+# Attributes from Felix Online V1
 id: "3124"
 old_path: /news/3124/the-manifesto-review
 aliases:
  - /news/3124/the-manifesto-review
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301172359-tna08-429063_10150700147291858_2138106809_n.jpg"
 image_caption: >
   Paul's poster from last year
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

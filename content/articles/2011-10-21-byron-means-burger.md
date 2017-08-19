@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Byron, reviewed
 date: "2011-10-21 11:54:58 +0100"
+# Attributes from Felix Online V1
 id: "1604"
 old_path: /food/1604/byron-means-burger
 aliases:
  - /food/1604/byron-means-burger
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

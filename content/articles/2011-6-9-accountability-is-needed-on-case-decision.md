@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whomever made the decision should have the decency to explain their reasoning
 date: "2011-06-09 21:47:41 +0100"
+# Attributes from Felix Online V1
 id: "1356"
 old_path: /comment/1356/accountability-is-needed-on-case-decision
 aliases:
  - /comment/1356/accountability-is-needed-on-case-decision
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

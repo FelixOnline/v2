@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After a super successful Xbox 360, which most people claim won the last console generation wars, Microsoft is now releasing the next iteration into a less clear cut market.
 date: "2013-11-13 22:59:35 +0000"
+# Attributes from Felix Online V1
 id: "4054"
 old_path: /games/4054/xbox-one-for-you
 aliases:
  - /games/4054/xbox-one-for-you
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

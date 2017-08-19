@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure
 date: "2011-10-27 23:16:21 +0100"
+# Attributes from Felix Online V1
 id: "1620"
 old_path: /travel/1620/volunteering-on-top-of-the-world
 aliases:
  - /travel/1620/volunteering-on-top-of-the-world
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280015-felix-dscn2103.jpg"
 image_caption: >
   Getting to know a Himalayan local...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

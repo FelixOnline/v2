@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A team of EEE students are working to help establishing internet access in rural areas of developing countries
 date: "2012-02-16 20:55:36 +0000"
+# Attributes from Felix Online V1
 id: "2179"
 old_path: /tech/2179/providing-internet-to-all
 aliases:
  - /tech/2179/providing-internet-to-all
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162054-ams111-aurora.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

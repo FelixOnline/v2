@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Veli Akiner ventures to northern Finland in search of snow, and finds braised reindeer, dubiously advertised toys, and long nights along the way
 date: "2012-02-09 22:47:54 +0000"
+# Attributes from Felix Online V1
 id: "2162"
 old_path: /travel/2162/things-to-do-in-saariselk
 aliases:
  - /travel/2162/things-to-do-in-saariselk
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092248-pk1811-4.jpg"
 image_caption: >
   What’s the time, Mr. Wolf? I don’t have a bloody clue
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Coen brothers show the importance of never standing still
 date: "2016-03-11 12:00:09 +0000"
+# Attributes from Felix Online V1
 id: "6040"
 old_path: /film/6040/a-rough-guide-to-the-coen-brothers
 aliases:
  - /film/6040/a-rough-guide-to-the-coen-brothers
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111200-felix-tumblr_nzpqrtwNwo1ulczhzo1_400.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

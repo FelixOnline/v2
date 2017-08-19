@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
+# Attributes from Felix Online V1
 id: "1678"
 old_path: /games/1678/the-future-of-gaming
 aliases:
  - /games/1678/the-future-of-gaming
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
 image_caption: >
   Fuel up on plutonium, ‘cos we’re heading into the future!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

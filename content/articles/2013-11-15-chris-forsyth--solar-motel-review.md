@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Forsyth is an American psych rock guitarist much admired by myself for his dabblings in drone and general guitar badass-ery.
 date: "2013-11-15 18:07:10 +0000"
+# Attributes from Felix Online V1
 id: "4079"
 old_path: /music/4079/chris-forsyth--solar-motel-review
 aliases:
  - /music/4079/chris-forsyth--solar-motel-review
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

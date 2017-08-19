@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland takes in the Sam Wanamaker Playhouse’s atmosphere
 date: "2015-03-25 13:00:42 +0000"
+# Attributes from Felix Online V1
 id: "5442"
 old_path: /arts/5442/mark-rylance---long-live-the-king
 aliases:
  - /arts/5442/mark-rylance---long-live-the-king
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251300-ff712-farinelli-555-captioneda.jpg"
 image_caption: >
   Mark Rylance as King Philippe in Farinelli and the King.
@@ -22,6 +27,7 @@ image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

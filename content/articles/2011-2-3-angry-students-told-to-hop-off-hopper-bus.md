@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No prior warning given, says Medic President
 date: "2011-02-03 19:19:21 +0000"
+# Attributes from Felix Online V1
 id: "712"
 old_path: /news/712/angry-students-told-to-hop-off-hopper-bus-
 aliases:
  - /news/712/angry-students-told-to-hop-off-hopper-bus-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031914-ks607-hopperbu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Katherine Bettany"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

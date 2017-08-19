@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Steve Ballmers thoughts reviewing the year according to Max Eggl
 date: "2013-06-21 00:29:40 +0100"
+# Attributes from Felix Online V1
 id: "3734"
 old_path: /tech/3734/microsoft-kicked-everyones-asshard
 aliases:
  - /tech/3734/microsoft-kicked-everyones-asshard
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210129-tna08-cat-breading2.jpg"
 image_caption: >
   For all of you unfortunate enough not to know what this is:  This.  Is. Cat.Breading.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

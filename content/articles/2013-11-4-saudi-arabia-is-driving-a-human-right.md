@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I’ve always been in love with driving. In school, when I was learning to drive, my Physics teacher told me that he wished that we were in Saudi Arabia, where women are banned from driving, because then at least I’d shut up about it in his lessons.
 date: "2013-11-04 13:43:40 +0000"
+# Attributes from Felix Online V1
 id: "3981"
 old_path: /comment/3981/saudi-arabia-is-driving-a-human-right
 aliases:
  - /comment/3981/saudi-arabia-is-driving-a-human-right
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

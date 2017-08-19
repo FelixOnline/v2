@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hopefully, debunking lies and unscientific non-sense is not going to end
 date: "2011-11-10 20:46:49 +0000"
+# Attributes from Felix Online V1
 id: "1720"
 old_path: /comment/1720/the-death-of-bad-science
 aliases:
  - /comment/1720/the-death-of-bad-science
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111110952-felix-sam-furse.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

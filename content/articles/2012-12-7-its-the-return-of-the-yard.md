@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paul Beaumont proposes a new policy that allows yards and keeps the bar open later and
 date: "2012-12-07 00:23:06 +0000"
+# Attributes from Felix Online V1
 id: "3024"
 old_path: /news/3024/its-the-return-of-the-yard
 aliases:
  - /news/3024/its-the-return-of-the-yard
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

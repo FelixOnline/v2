@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles finds common ground between two very different shows
 date: "2015-05-13 14:23:09 +0100"
+# Attributes from Felix Online V1
 id: "5516"
 old_path: /arts/5516/from-the-renaissance-to-the-modern
 aliases:
  - /arts/5516/from-the-renaissance-to-the-modern
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505131521-ps3110-image-2.-meiko-laughing-2005.jpg"
 image_caption: >
   Kodak Three Point Reflection Guide (Meiko laughing) by Christopher Williams.
@@ -22,6 +27,7 @@ image_attribution: "Galerie Gisela Capitain and David Zwirner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

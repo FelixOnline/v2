@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Senegalese protests intensify
 date: "2012-02-02 19:48:27 +0000"
+# Attributes from Felix Online V1
 id: "2095"
 old_path: /politics/2095/fresh-protests-in-senegal
 aliases:
  - /politics/2095/fresh-protests-in-senegal
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202021947-ams111-abdoulaye_wade_wef_2004.jpg"
 image_caption: >
   Abdoulaye Wade remains defiant
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

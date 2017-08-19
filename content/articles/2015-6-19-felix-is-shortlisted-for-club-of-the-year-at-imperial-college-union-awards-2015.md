@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports on the awards night that celebrates achievements of Union clubs, societies and projects
 date: "2015-06-19 13:33:42 +0100"
+# Attributes from Felix Online V1
 id: "5644"
 old_path: /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
 aliases:
  - /news/5644/felix-is-shortlisted-for-club-of-the-year-at-imperial-college-union-awards-2015
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506191433-ps3110-img_8134.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

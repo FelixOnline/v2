@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fine, it's not a hypothesis, but the Hyperloop concept could revolutionise medium and long distance transport in the blink of an eye...
 date: "2013-08-13 09:32:12 +0100"
+# Attributes from Felix Online V1
 id: "3750"
 old_path: /tech/3750/the-hyperloop-hypothesis
 aliases:
  - /tech/3750/the-hyperloop-hypothesis
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308131028-jal08-screen-shot-2013-08-13-at-10.10.20-am.png"
 image_caption: >
   Hyperloop or snazzy remote control?
@@ -22,6 +27,7 @@ image_attribution: "Elon Musk"
 image_attribution_link: "http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

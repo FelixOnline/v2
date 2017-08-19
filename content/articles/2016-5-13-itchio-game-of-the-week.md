@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
 date: "2016-05-13 09:30:36 +0100"
+# Attributes from Felix Online V1
 id: "6164"
 old_path: /games/6164/itchio-game-of-the-week
 aliases:
  - /games/6164/itchio-game-of-the-week
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131130-felix-langeskov.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Crows Crows Crows"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They came, they played, and everyone had a really good time. Can you really ask for more?
 date: "2010-11-04 18:32:26 +0000"
+# Attributes from Felix Online V1
 id: "300"
 old_path: /music/300/feeder-blast-classics-and-bring-the-rock-
 aliases:
  - /music/300/feeder-blast-classics-and-bring-the-rock-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Symphony Orchestra’s Spring Concert
 date: "2015-03-25 12:37:55 +0000"
+# Attributes from Felix Online V1
 id: "5432"
 old_path: /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
 aliases:
  - /music/5432/hitting-the-right-notes-icso-at-cadogan-hall
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251237-ff712-5d-115-icso-concert---cadogan-hall---28-february-2015---bowa.jpg"
 image_caption: >
   Imperial College Symphony Orchestra at Cadogan Hall for their Spring Concert
@@ -22,6 +27,7 @@ image_attribution: "Ian Gillet"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

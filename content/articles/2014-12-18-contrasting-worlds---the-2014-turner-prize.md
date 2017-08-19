@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland assesses the contrived controversy of this year's prize
 date: "2014-12-18 15:40:43 +0000"
+# Attributes from Felix Online V1
 id: "5057"
 old_path: /arts/5057/contrasting-worlds---the-2014-turner-prize
 aliases:
  - /arts/5057/contrasting-worlds---the-2014-turner-prize
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

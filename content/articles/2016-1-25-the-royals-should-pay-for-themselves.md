@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If we cut spending on the royals, the money could be better spent elsewhere
 date: "2016-01-25 14:28:57 +0000"
+# Attributes from Felix Online V1
 id: "5832"
 old_path: /comment/5832/the-royals-should-pay-for-themselves
 aliases:
  - /comment/5832/the-royals-should-pay-for-themselves
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The defense started out solidly
 date: "2016-02-05 12:55:48 +0000"
+# Attributes from Felix Online V1
 id: "5889"
 old_path: /sport/5889/lions-trump-immortals
 aliases:
  - /sport/5889/lions-trump-immortals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051254-felix-Imperial V Birmingham.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

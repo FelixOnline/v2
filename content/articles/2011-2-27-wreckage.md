@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After the success of Untethered, Leosoc reveal a brand-new exhibition on Wednesday
 date: "2011-02-27 19:36:14 +0000"
+# Attributes from Felix Online V1
 id: "917"
 old_path: /arts/917/wreckage-
 aliases:
  - /arts/917/wreckage-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s amazing how things happen and time passes without you realising it. For some of you reading this, the upcoming Spring All-Nighter could very well be your last. This could be your final chance to sit in a crowded room and spend an evening, a night and part of a morning watching some of the...
 date: "2014-03-26 13:50:56 +0000"
+# Attributes from Felix Online V1
 id: "4505"
 old_path: /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
 aliases:
  - /features/4505/a-night-of-sun-sex-and-slavery-with-imperial-cinema
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

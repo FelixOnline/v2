@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
+# Attributes from Felix Online V1
 id: "1888"
 old_path: /comment/1888/lets-talk-about-ron-paul-
 aliases:
  - /comment/1888/lets-talk-about-ron-paul-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012119-pk1811-ron-paul-2012-campaign.jpg"
 image_caption: >
   Would you have known if we had just put a picture of a random guy that wasn’t Ron Paul?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

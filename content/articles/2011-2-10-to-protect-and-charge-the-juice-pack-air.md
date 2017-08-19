@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Mophie Air almost doubles the iPod touch’s playback time
 date: "2011-02-10 20:34:53 +0000"
+# Attributes from Felix Online V1
 id: "777"
 old_path: /tech/777/to-protect-and-charge-the-juice-pack-air
 aliases:
  - /tech/777/to-protect-and-charge-the-juice-pack-air
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102032-dr910-samuelgi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

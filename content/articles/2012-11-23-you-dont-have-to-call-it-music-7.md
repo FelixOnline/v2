@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pt. 7 noise
 date: "2012-11-23 00:22:52 +0000"
+# Attributes from Felix Online V1
 id: "2972"
 old_path: /music/2972/you-dont-have-to-call-it-music-7
 aliases:
  - /music/2972/you-dont-have-to-call-it-music-7
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

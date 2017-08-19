@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
+# Attributes from Felix Online V1
 id: "766"
 old_path: /news/766/940-million-cut-to-higher-education-funding-
 aliases:
  - /news/766/940-million-cut-to-higher-education-funding-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104222236-felix-4624547316_9fb7da38c0_b.jpeg"
 image_caption: >
   The universities minister, David Willetts, has called on universities to adapt to a new environment
@@ -22,6 +27,7 @@ image_attribution: "flickr/bisgovuk"
 image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4624547316/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mike Peacock reports on the latest American Football results
 date: "2011-11-17 23:01:15 +0000"
+# Attributes from Felix Online V1
 id: "1796"
 old_path: /sport/1796/holloway-bears-get-mauled-by-ic
 aliases:
  - /sport/1796/holloway-bears-get-mauled-by-ic
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172301-felix-379139_10150351565334094_502249093_8258203_1261507787_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

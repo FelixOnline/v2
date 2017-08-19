@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They’re like vultures with high-vis jackets
 date: "2010-12-02 21:46:59 +0000"
+# Attributes from Felix Online V1
 id: "496"
 old_path: /comment/496/flee-flee-the-st-john-ambulance-service
 aliases:
  - /comment/496/flee-flee-the-st-john-ambulance-service
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rjd08"
 author_name: "Rhys Davies"
 author_image_path: "img/upload/201104240246-jk708-rhys-davies.jpg"

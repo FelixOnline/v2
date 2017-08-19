@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ernest Lo reports as Imperial A team grab silver
 date: "2015-03-06 14:09:35 +0000"
+# Attributes from Felix Online V1
 id: "5356"
 old_path: /sport/5356/shots-fired-at-bucs
 aliases:
  - /sport/5356/shots-fired-at-bucs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061409-kmw13-photo-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Rifle and Pistol"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

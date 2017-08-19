@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After the initial blinding from the blonde hair and the fake tans, we collected as a team.
 date: "2014-02-07 04:52:36 +0000"
+# Attributes from Felix Online V1
 id: "4349"
 old_path: /sport/4349/made-in-chelsea-vs-the-only-way-is-essex
 aliases:
  - /sport/4349/made-in-chelsea-vs-the-only-way-is-essex
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

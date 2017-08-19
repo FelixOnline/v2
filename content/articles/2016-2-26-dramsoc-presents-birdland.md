@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Life of Paul.
 date: "2016-02-26 12:08:10 +0000"
+# Attributes from Felix Online V1
 id: "5986"
 old_path: /cands/5986/dramsoc-presents-birdland
 aliases:
  - /cands/5986/dramsoc-presents-birdland
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261207-felix-mattoscar.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "DramSoc"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

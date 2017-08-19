@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cedric Colle comments on what has been a very impressive start to the season for all Basketball teams
 date: "2014-12-04 20:33:45 +0000"
+# Attributes from Felix Online V1
 id: "5012"
 old_path: /sport/5012/imperial-basketball-make-strong-start-to-the-season
 aliases:
  - /sport/5012/imperial-basketball-make-strong-start-to-the-season
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042033-cj914-basketball_pic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Basketball"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

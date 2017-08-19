@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s not because you lied when you were seventeen. Sam Furse discusses Britain’s recent drought, floods and the plight of the blue whale
 date: "2011-06-16 20:10:12 +0100"
+# Attributes from Felix Online V1
 id: "1389"
 old_path: /science/1389/why-does-it-always-rain-on-me
 aliases:
  - /science/1389/why-does-it-always-rain-on-me
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

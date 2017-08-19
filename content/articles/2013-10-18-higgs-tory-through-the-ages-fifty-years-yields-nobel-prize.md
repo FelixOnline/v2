@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett gives us an exciting history lesson about the Higgs boson and how its existence was finally confirmed last year
 date: "2013-10-18 20:57:38 +0100"
+# Attributes from Felix Online V1
 id: "3887"
 old_path: /science/3887/higgs-tory-through-the-ages-fifty-years-yields-nobel-prize
 aliases:
  - /science/3887/higgs-tory-through-the-ages-fifty-years-yields-nobel-prize
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182157-jal08-impression-of-higgs.jpg"
 image_caption: >
   Impression of Higgs Boson
@@ -22,6 +27,7 @@ image_attribution: "Josef Kristofoletti"
 image_attribution_link: "http://kristofoletti.com"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

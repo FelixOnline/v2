@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Female video game characters today are very different from the ones twenty or so years ago. The steps along the way have been small but have added towards the big picture
 date: "2016-10-31 23:14:44 +0000"
+# Attributes from Felix Online V1
 id: "6372"
 old_path: /games/6372/the-evolution-of-female-characters-in-games
 aliases:
  - /games/6372/the-evolution-of-female-characters-in-games
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610312313-felix-14750534824_416a5998fa_k.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Leonardo Veras"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

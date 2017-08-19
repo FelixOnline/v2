@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The results of the polls to rename the Union bars are in, but the Union have taken the decision to hold off on a final name for the new Da Vinci&8217;s. Rox Middleton reports on the latest decisions made this week
 date: "2010-02-27 17:40:05 +0000"
+# Attributes from Felix Online V1
 id: "114"
 old_path: /news/114/imperial-converted-to-metric
 aliases:
  - /news/114/imperial-converted-to-metric
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

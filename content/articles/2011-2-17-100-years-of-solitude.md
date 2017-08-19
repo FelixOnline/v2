@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Majid Al-Khalil recounts a book which is called the most influential Latin American text of all time
 date: "2011-02-17 18:57:41 +0000"
+# Attributes from Felix Online V1
 id: "809"
 old_path: /arts/809/100-years-of-solitude
 aliases:
  - /arts/809/100-years-of-solitude
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mma09"
 author_name: "Majid Al-Khalil"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial's website will be redesigned for the first time since 2007
 date: "2013-02-08 01:16:46 +0000"
+# Attributes from Felix Online V1
 id: "3286"
 old_path: /news/3286/imperial-website-redesign-needs-your-input
 aliases:
  - /news/3286/imperial-website-redesign-needs-your-input
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080228-tna08-screen-shot-2013-02-08-at-02.27.44.png"
 image_caption: >
   The current website, which was designed in 2007
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

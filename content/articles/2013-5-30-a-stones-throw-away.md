@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah cannot translate the Rosetta Stone
 date: "2013-05-30 09:16:03 +0100"
+# Attributes from Felix Online V1
 id: "3639"
 old_path: /arts/3639/a-stones-throw-away
 aliases:
  - /arts/3639/a-stones-throw-away
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305301015-tna08-rosetta_stone.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

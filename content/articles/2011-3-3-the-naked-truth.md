@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the Felix centrefold teaches us, nudity is no laughing matter
 date: "2011-03-03 20:59:14 +0000"
+# Attributes from Felix Online V1
 id: "1019"
 old_path: /comment/1019/the-naked-truth
 aliases:
  - /comment/1019/the-naked-truth
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

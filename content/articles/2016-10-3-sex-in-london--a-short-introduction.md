@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A not so practical "guide"
 date: "2016-10-03 20:32:39 +0100"
+# Attributes from Felix Online V1
 id: "6309"
 old_path: /sex/6309/sex-in-london--a-short-introduction
 aliases:
  - /sex/6309/sex-in-london--a-short-introduction
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610032238-felix-Screen Shot 2016-10-03 at 22.38.00.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

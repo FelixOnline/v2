@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the statistically most depressing day of the year nears, Channel 4 is prepared with a little treat
 date: "2012-01-12 22:57:43 +0000"
+# Attributes from Felix Online V1
 id: "1996"
 old_path: /tv/1996/theres-a-new-girl-on-channel-4
 aliases:
  - /tv/1996/theres-a-new-girl-on-channel-4
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122257-cac111-new-girl.jpg"
 image_caption: >
   This picture is in no way sexual
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

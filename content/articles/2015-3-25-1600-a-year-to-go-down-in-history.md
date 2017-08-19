@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola takes us through the life of Giordano Bruno
 date: "2015-03-25 12:39:11 +0000"
+# Attributes from Felix Online V1
 id: "5433"
 old_path: /arts/5433/1600-a-year-to-go-down-in-history
 aliases:
  - /arts/5433/1600-a-year-to-go-down-in-history
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251239-ff712-rome_statue_giordano_bruno_campo_dei_fiori.jpg"
 image_caption: >
   The Statue of Giordano Bruno, Campo dei Fiori, Rome
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons/Remi Jouan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

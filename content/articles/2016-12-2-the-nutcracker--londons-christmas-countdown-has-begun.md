@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Nutcracker is on at the Royal Opera House until 12th January 2017.
 date: "2016-12-02 15:00:30 +0000"
+# Attributes from Felix Online V1
 id: "6536"
 old_path: /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
 aliases:
  - /arts/6536/the-nutcracker--londons-christmas-countdown-has-begun
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021459-felix-23602280866_31701f4877_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The Royal Opera House © 2015 ROH // Photograph by Tristram 
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski takes aim at the gaping plot holes in the acclaimed film 'Moon'
 date: "2010-12-17 10:52:46 +0000"
+# Attributes from Felix Online V1
 id: "558"
 old_path: /film/558/moon-completely-unwatchable
 aliases:
  - /film/558/moon-completely-unwatchable
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012171047-ks607-moonfilm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mtm10"
 author_name: "Maciej Matuszewski"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

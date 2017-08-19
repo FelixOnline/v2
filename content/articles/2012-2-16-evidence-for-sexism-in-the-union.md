@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kelly Osborne and Marissa Lewis discuss the Union's refusal to approve a proposed Gender Equality Society
 date: "2012-02-16 22:25:16 +0000"
+# Attributes from Felix Online V1
 id: "2213"
 old_path: /comment/2213/evidence-for-sexism-in-the-union
 aliases:
  - /comment/2213/evidence-for-sexism-in-the-union
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

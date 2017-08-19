@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes a trip to the new Earth-based Lunar Embassy
 date: "2014-01-17 03:41:20 +0000"
+# Attributes from Felix Online V1
 id: "4238"
 old_path: /arts/4238/republic-of-the-moon
 aliases:
  - /arts/4238/republic-of-the-moon
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401170343-jal08-arts-moon.jpg"
 image_caption: >
   Republic of the Moon, London, presented by The Arts Catalyst
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

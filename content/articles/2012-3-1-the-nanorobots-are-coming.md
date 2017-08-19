@@ -4,15 +4,20 @@ title: >
 subtitle: >
   DNA Origami techniques reveal advances in medical technology
 date: "2012-03-01 21:10:11 +0000"
+# Attributes from Felix Online V1
 id: "2271"
 old_path: /science/2271/the-nanorobots-are-coming
 aliases:
  - /science/2271/the-nanorobots-are-coming
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012106-ams111-dna-nano-robot.jpg"
 image_caption: >
   Is it just me or do these look like hammocks?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

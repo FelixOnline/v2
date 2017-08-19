@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson reports on the amazing fundraising achievement that has been accomplished in tragic circumstances
 date: "2015-03-19 23:39:31 +0000"
+# Attributes from Felix Online V1
 id: "5404"
 old_path: /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
 aliases:
  - /news/5404/25000-raised-by-imperial-college-phd-student-for-cyclone-hit-vanuatu
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192339-cj914-rachel-1.jpg"
 image_caption: >
   Rachel with a group of Tanbok islanders
@@ -22,6 +27,7 @@ image_attribution: "Rachel Brooks, Tanbok Project"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

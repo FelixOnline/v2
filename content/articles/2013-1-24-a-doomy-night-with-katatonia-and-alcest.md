@@ -4,15 +4,20 @@ title: >
 subtitle: >
   London plays host to a French connection
 date: "2013-01-24 22:51:20 +0000"
+# Attributes from Felix Online V1
 id: "3167"
 old_path: /music/3167/a-doomy-night-with-katatonia-and-alcest
 aliases:
  - /music/3167/a-doomy-night-with-katatonia-and-alcest
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242251-mc4509-img_0850.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union policies threaten the Overseas Societies Committee
 date: "2012-03-15 22:25:48 +0000"
+# Attributes from Felix Online V1
 id: "2399"
 old_path: /comment/2399/ics-international-scene
 aliases:
  - /comment/2399/ics-international-scene
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152225-pk1811-london-fireworks_1515810c.jpg"
 image_caption: >
   Does the international scene need to reach explosive new heights?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

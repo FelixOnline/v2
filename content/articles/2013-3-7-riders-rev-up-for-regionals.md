@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This team isn't having a mare
 date: "2013-03-07 21:59:34 +0000"
+# Attributes from Felix Online V1
 id: "3435"
 old_path: /sport/3435/riders-rev-up-for-regionals-
 aliases:
  - /sport/3435/riders-rev-up-for-regionals-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072159-mc4509-horse.jpg"
 image_caption: >
   Tomorrow's burger
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

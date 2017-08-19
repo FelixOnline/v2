@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft.
 date: "2014-06-11 21:40:19 +0100"
+# Attributes from Felix Online V1
 id: "4671"
 old_path: /games/4671/e3-microsoft-focus-on-gamers
 aliases:
  - /games/4671/e3-microsoft-focus-on-gamers
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112239-me1711-games_e3ms.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

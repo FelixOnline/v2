@@ -4,15 +4,20 @@ title: >
 subtitle: >
   To be honest, we don't really know what we're talking about
 date: "2016-06-03 09:02:34 +0100"
+# Attributes from Felix Online V1
 id: "6230"
 old_path: /comment/6230/who-are-we-to-vote-on-eu-membership
 aliases:
  - /comment/6230/who-are-we-to-vote-on-eu-membership
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031102-felix-o-DAVID-CAMERON-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

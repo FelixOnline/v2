@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang enters the magical world of fashion photography
 date: "2012-10-26 02:18:47 +0100"
+# Attributes from Felix Online V1
 id: "2739"
 old_path: /fashion/2739/tim-walker-story-teller
 aliases:
  - /fashion/2739/tim-walker-story-teller
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210281226-ay310-tim_walker_storyteller_annoucement.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AY310"
 author_name: "Alice Yang"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

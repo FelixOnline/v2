@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A review of some classic and pertinent finance titles
 date: "2010-12-09 19:32:13 +0000"
+# Attributes from Felix Online V1
 id: "507"
 old_path: /biz/507/books-for-intellectual-city-type-sellouts
 aliases:
  - /biz/507/books-for-intellectual-city-type-sellouts
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

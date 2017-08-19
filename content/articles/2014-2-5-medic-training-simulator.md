@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Transplanting the fun back into simulator games
 date: "2014-02-05 10:29:30 +0000"
+# Attributes from Felix Online V1
 id: "4335"
 old_path: /games/4335/medic-training-simulator
 aliases:
  - /games/4335/medic-training-simulator
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201402051029-me1711-games_surgeon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

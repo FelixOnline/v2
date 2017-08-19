@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
+# Attributes from Felix Online V1
 id: "774"
 old_path: /science/774/take-two-leeches-and-call-me-tomorrow-
 aliases:
  - /science/774/take-two-leeches-and-call-me-tomorrow-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

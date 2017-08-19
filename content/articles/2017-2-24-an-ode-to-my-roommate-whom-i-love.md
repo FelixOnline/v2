@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous writer shares their love letter to their room- (and soul-) mate
 date: "2017-02-24 13:49:04 +0000"
+# Attributes from Felix Online V1
 id: "6813"
 old_path: /comment/6813/an-ode-to-my-roommate-whom-i-love
 aliases:
  - /comment/6813/an-ode-to-my-roommate-whom-i-love
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241401-felix-Screen Shot 2017-02-24 at 13.58.25.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

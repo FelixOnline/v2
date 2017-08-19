@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how robots are becoming increasingly humanoid, and how refining 3D printing is creating endless opportunities for new innovative technology
 date: "2017-06-09 15:03:59 +0100"
+# Attributes from Felix Online V1
 id: "7015"
 old_path: /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
 aliases:
  - /science/7015/bionic-skin-could-give-robots-the-sense-of-touch
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091703-ea3211-94356751warwick1_original.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kevin Warwick, the “living cyborg” with his wife"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

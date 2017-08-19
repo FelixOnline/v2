@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If Mickey Mouse comes anywhere near me...kill him I will
 date: "2012-11-09 13:32:10 +0000"
+# Attributes from Felix Online V1
 id: "2860"
 old_path: /film/2860/disney-buys-lucasfilm
 aliases:
  - /film/2860/disney-buys-lucasfilm
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091332-tna08-yoda.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

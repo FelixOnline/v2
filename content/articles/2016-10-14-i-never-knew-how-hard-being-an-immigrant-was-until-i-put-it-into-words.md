@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lef Apostolakis shares the reality of post-Brexit life for an immigrant
 date: "2016-10-14 10:08:51 +0100"
+# Attributes from Felix Online V1
 id: "6332"
 old_path: /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
 aliases:
  - /comment/6332/i-never-knew-how-hard-being-an-immigrant-was-until-i-put-it-into-words
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141214-felix-Screen Shot 2016-10-14 at 12.08.27.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

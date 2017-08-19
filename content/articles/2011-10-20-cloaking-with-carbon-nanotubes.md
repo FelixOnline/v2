@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven provides an update on the latest forays into invisibility
 date: "2011-10-20 21:01:21 +0100"
+# Attributes from Felix Online V1
 id: "1559"
 old_path: /science/1559/cloaking-with-carbon-nanotubes
 aliases:
  - /science/1559/cloaking-with-carbon-nanotubes
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202201-felix-eight_allotropes_of_carbon.jpg"
 image_caption: >
   The prize for identifying Diamond is a smug sense of satisfaction
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

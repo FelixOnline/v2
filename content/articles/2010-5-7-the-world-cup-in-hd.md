@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There's only 34 days left till kick off. Are you and your TV ready?
 date: "2010-05-07 11:50:20 +0100"
+# Attributes from Felix Online V1
 id: "136"
 old_path: /tech/136/the-world-cup-in-hd
 aliases:
  - /tech/136/the-world-cup-in-hd
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005071248-srg03-WorldCup.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Undercover investigation on standard of animal care at Imperial Researchers alleged to not understand terms and abuse animals Allegations to be investigated by Imperial Letter calling for independent inquiry delivered to Home Office
 date: "2013-05-02 14:16:35 +0100"
+# Attributes from Felix Online V1
 id: "3539"
 old_path: /news/3539/alleged-animal-abuse
 aliases:
  - /news/3539/alleged-animal-abuse
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021508-tna08-buav.jpg"
 image_caption: >
   A photo from the BUAV investigation
@@ -22,6 +27,7 @@ image_attribution: "(C) BUAV"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

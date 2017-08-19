@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Long overdue works are set to be started
 date: "2016-12-02 13:48:30 +0000"
+# Attributes from Felix Online V1
 id: "6523"
 old_path: /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
 aliases:
  - /news/6523/islamic-society-prayer-room-to-finally-get-refurbishment-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

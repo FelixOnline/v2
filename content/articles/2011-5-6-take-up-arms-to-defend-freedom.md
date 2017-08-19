@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In 1848, democrats offered their lives for freedom. Today’s liberals can scarcely be bothered to lift their pens. By Alessandro Guazzi
 date: "2011-05-06 08:44:46 +0100"
+# Attributes from Felix Online V1
 id: "1160"
 old_path: /comment/1160/take-up-arms-to-defend-freedom
 aliases:
  - /comment/1160/take-up-arms-to-defend-freedom
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

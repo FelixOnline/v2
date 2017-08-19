@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Spencer Bennett goes on a lads holiday (they even got matching shirts)
 date: "2013-09-29 16:30:55 +0100"
+# Attributes from Felix Online V1
 id: "3791"
 old_path: /sport/3791/tour-de-football-poland-edition
 aliases:
  - /sport/3791/tour-de-football-poland-edition
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Maciej Witkowski"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

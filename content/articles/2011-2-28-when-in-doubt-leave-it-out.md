@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Cook talks making shortcuts and artificial intelligence
 date: "2011-02-28 20:45:00 +0000"
+# Attributes from Felix Online V1
 id: "934"
 old_path: /games/934/when-in-doubt-leave-it-out
 aliases:
  - /games/934/when-in-doubt-leave-it-out
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103010939-ks607-gamesmik.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

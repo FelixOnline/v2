@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Cook suggests something new for us all to try this 2012 - fret not, coding's actually easier to pick up than you think!
 date: "2012-01-19 20:16:13 +0000"
+# Attributes from Felix Online V1
 id: "2011"
 old_path: /comment/2011/new-year-resolution-get-coding
 aliases:
  - /comment/2011/new-year-resolution-get-coding
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192020-cac111-lecture-theatre-comment-michael-cook-picture.jpg"
 image_caption: >
   A representation of how you look to others when you are a knowledgable computing lecturer
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

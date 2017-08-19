@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson and Maciej Matuszewski go head to head
 date: "2010-12-09 21:35:17 +0000"
+# Attributes from Felix Online V1
 id: "537"
 old_path: /comment/537/is-christmas-just-for-christians
 aliases:
  - /comment/537/is-christmas-just-for-christians
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092124-ac1507-nativity.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

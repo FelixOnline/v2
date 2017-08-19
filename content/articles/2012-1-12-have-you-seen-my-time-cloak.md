@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pavitar Devgon explores how this object that currently only exists in the world of sci-fi could soon become reality
 date: "2012-01-12 22:12:39 +0000"
+# Attributes from Felix Online V1
 id: "1981"
 old_path: /science/1981/have-you-seen-my-time-cloak
 aliases:
  - /science/1981/have-you-seen-my-time-cloak
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122212-cac111-student_sleeping_in_lecture_theatre_is0266n4p.jpg"
 image_caption: >
   Still the best way to escape from truly awful lectures
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

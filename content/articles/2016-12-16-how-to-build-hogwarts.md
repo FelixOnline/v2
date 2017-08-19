@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It all started as friends in halls. The Christmas tradition started in 2008, and by 2009 we’d first discovered gingerbread together. Since then, it’s escalated, trying to be bigger and better each year. In a true Imperial spirit, we’ve taken a scientific, competitive approach.
 date: "2016-12-16 16:06:16 +0000"
+# Attributes from Felix Online V1
 id: "6622"
 old_path: /food/6622/how-to-build-hogwarts
 aliases:
  - /food/6622/how-to-build-hogwarts
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161557-felix-15181381_10209879786924407_2702047499125047172_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

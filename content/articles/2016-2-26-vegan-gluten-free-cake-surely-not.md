@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
+# Attributes from Felix Online V1
 id: "5984"
 old_path: /food/5984/vegan-gluten-free-cake-surely-not
 aliases:
  - /food/5984/vegan-gluten-free-cake-surely-not
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261204-felix-IMG_3429.jpg"
 image_caption: >
   Look at that. Don’t you just want it in your mouth?
@@ -22,6 +27,7 @@ image_attribution: "Sanjay Bhattacharya"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

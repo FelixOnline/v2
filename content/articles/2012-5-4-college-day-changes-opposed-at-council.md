@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Heath also outlines plan to introduce Postgraduate Sabbatical Officer
 date: "2012-05-04 01:22:07 +0100"
+# Attributes from Felix Online V1
 id: "2427"
 old_path: /news/2427/college-day-changes-opposed-at-council
 aliases:
  - /news/2427/college-day-changes-opposed-at-council
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205040221-felix-dsc_2345.jpg"
 image_caption: >
   Heath opposed the extension of teaching on Wednesday until 1pm on the grounds of students having to
@@ -22,6 +27,7 @@ image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

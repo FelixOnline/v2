@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If God exists he is a jerk. Once you take a minute to think about it, it explains everything so beautifully it brings a tear to my eye.
 date: "2011-02-17 20:18:27 +0000"
+# Attributes from Felix Online V1
 id: "839"
 old_path: /comment/839/time-to-meet-your-malevolent-maker
 aliases:
  - /comment/839/time-to-meet-your-malevolent-maker
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

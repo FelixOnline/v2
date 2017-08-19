@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
+# Attributes from Felix Online V1
 id: "1696"
 old_path: /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
 aliases:
  - /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032156-felix-cilla.jpg"
 image_caption: >
   Not the Blind Date you might be thinking of
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg interviews Vampire Diaries’ Michael Malarkey, as he releases his debut EP
 date: "2015-01-23 18:50:04 +0000"
+# Attributes from Felix Online V1
 id: "5147"
 old_path: /music/5147/interview-with-a-vampire
 aliases:
  - /music/5147/interview-with-a-vampire
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231848-jyg11-screen-shot-2015-01-23-at-18.47.10.png"
 image_caption: >
   Michael Malarkey wowing crowds Wilton's Music Hall
@@ -22,6 +27,7 @@ image_attribution: "Mystic Sons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

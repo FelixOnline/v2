@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Smith on the road to Trakai...
 date: "2012-10-11 21:28:02 +0100"
+# Attributes from Felix Online V1
 id: "2678"
 old_path: /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
 aliases:
  - /sport/2678/ic-rowers-take-on-world-u23s-in-trakai-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112226-csw09-u23rowing1.jpg"
 image_caption: >
   Rowing
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

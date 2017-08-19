@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Colvin tries the new Bond title 007 Blood Stone while Jamie Gollings and Alex Gray review GoldenEye 007
 date: "2010-11-18 20:57:41 +0000"
+# Attributes from Felix Online V1
 id: "397"
 old_path: /games/397/double-trouble-from-daniel-craig-in-bond-games-spectacular-
 aliases:
  - /games/397/double-trouble-from-daniel-craig-in-bond-games-spectacular-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182052-ks607-jamesbon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

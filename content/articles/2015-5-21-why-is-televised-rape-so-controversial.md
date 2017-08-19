@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Game of Thrones doesn’t deserve all the hate, argues Cecily Johnson
 date: "2015-05-21 22:56:54 +0100"
+# Attributes from Felix Online V1
 id: "5552"
 old_path: /comment/5552/why-is-televised-rape-so-controversial
 aliases:
  - /comment/5552/why-is-televised-rape-so-controversial
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212355-cj914-game-of-thrones.jpg"
 image_caption: >
   This is not the first time Game of Thrones has been criticised for the way it features rape and sexual violence.
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

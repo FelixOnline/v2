@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The universal charger is here.
 date: "2011-02-17 20:19:20 +0000"
+# Attributes from Felix Online V1
 id: "840"
 old_path: /tech/840/eu-ends-charger-nightmare
 aliases:
  - /tech/840/eu-ends-charger-nightmare
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172017-nm1010-chargerc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

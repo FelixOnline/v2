@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The veteran playwright packs a punch with a powerful and lyrical indictment of modernity
 date: "2016-02-05 12:12:44 +0000"
+# Attributes from Felix Online V1
 id: "5872"
 old_path: /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
 aliases:
  - /arts/5872/escaped-alone-is-churchill-at-her-surrealist-best
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051211-felix-escaped.jpg"
 image_caption: >
   Escaped Alone at the Royal Court.
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

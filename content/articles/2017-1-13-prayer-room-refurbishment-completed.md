@@ -4,15 +4,20 @@ title: >
 subtitle: >
   And it took less than a decade!
 date: "2017-01-13 13:55:23 +0000"
+# Attributes from Felix Online V1
 id: "6631"
 old_path: /news/6631/prayer-room-refurbishment-completed
 aliases:
  - /news/6631/prayer-room-refurbishment-completed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131355-felix-15967129_10158043184975298_388485648_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   January saw Imperial Cricket take on a variety of university teams
 date: "2012-02-16 23:38:47 +0000"
+# Attributes from Felix Online V1
 id: "2222"
 old_path: /sport/2222/womens-cricket-at-lords
 aliases:
  - /sport/2222/womens-cricket-at-lords
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162333-sjw209-cricket.jpg"
 image_caption: >
   The ladies in front of the pavillion end... Howzat!
@@ -22,6 +27,7 @@ image_attribution: "IC Cricket"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

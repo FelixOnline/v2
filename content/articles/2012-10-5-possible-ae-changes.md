@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charing Cross likely to close. Waiting times questioned
 date: "2012-10-05 15:52:02 +0100"
+# Attributes from Felix Online V1
 id: "2632"
 old_path: /news/2632/possible-ae-changes
 aliases:
  - /news/2632/possible-ae-changes
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051651-felix-charing-cross.jpg"
 image_caption: >
   Exciting front page pictures are what you can expect all year...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

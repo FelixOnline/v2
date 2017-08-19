@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
+# Attributes from Felix Online V1
 id: "2514"
 old_path: /comment/2514/social-media-never-achieves-anything
 aliases:
  - /comment/2514/social-media-never-achieves-anything
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
 image_caption: >
   We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

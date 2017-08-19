@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This team doesn't deserve any stick judging by their performance
 date: "2013-03-07 21:53:43 +0000"
+# Attributes from Felix Online V1
 id: "3433"
 old_path: /sport/3433/icsm-girls-promoted-with-game-in-hand
 aliases:
  - /sport/3433/icsm-girls-promoted-with-game-in-hand
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

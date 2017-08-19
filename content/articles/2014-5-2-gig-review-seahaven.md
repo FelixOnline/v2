@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson reviews the Californian band’s recent Birthday’s gig
 date: "2014-05-02 01:24:39 +0100"
+# Attributes from Felix Online V1
 id: "4550"
 old_path: /music/4550/gig-review-seahaven
 aliases:
  - /music/4550/gig-review-seahaven
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020225-jal08-seahaven.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

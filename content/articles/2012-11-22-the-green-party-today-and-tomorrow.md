@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Lucas et al
 date: "2012-11-22 23:18:37 +0000"
+# Attributes from Felix Online V1
 id: "2944"
 old_path: /politics/2944/the-green-party-today-and-tomorrow
 aliases:
  - /politics/2944/the-green-party-today-and-tomorrow
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222318-tna08-take+the+flour+back+protest.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

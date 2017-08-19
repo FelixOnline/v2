@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “How can you defend a country where 5% of the people control 95% of the wealth?” postulates Comrade Juggernutx
 date: "2011-11-03 21:11:50 +0000"
+# Attributes from Felix Online V1
 id: "1683"
 old_path: /biz/1683/every-man-a-king-
 aliases:
  - /biz/1683/every-man-a-king-
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032110-pk1811-anonymous1.jpg"
 image_caption: >
   This guy has obviously been silenced by a 1 dollar bill. Quite a bit cheap, really.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

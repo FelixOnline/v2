@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszeski reviews Ray Monk’s Oppenheimer biography
 date: "2013-01-18 00:43:20 +0000"
+# Attributes from Felix Online V1
 id: "3139"
 old_path: /books/3139/inside-the-centre
 aliases:
  - /books/3139/inside-the-centre
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180042-tna08-robert_oppenheimer_3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

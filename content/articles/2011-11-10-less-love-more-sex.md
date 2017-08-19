@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Margot Pikovsky reviews Love, Question Mark
 date: "2011-11-10 21:31:03 +0000"
+# Attributes from Felix Online V1
 id: "1731"
 old_path: /arts/1731/less-love-more-sex
 aliases:
  - /arts/1731/less-love-more-sex
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102130-pk1811-lovequestionmark.jpg"
 image_caption: >
   She was very inspired
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

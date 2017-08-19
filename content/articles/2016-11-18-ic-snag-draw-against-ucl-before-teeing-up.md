@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There was heavy breathing
 date: "2016-11-18 17:06:08 +0000"
+# Attributes from Felix Online V1
 id: "6487"
 old_path: /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
 aliases:
  - /sport/6487/ic-snag-draw-against-ucl-before-teeing-up-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181705-felix-Pub Golf.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

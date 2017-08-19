@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Synchronised Swimming jump out of the pool and into a chat with our tireless Sport Editor
 date: "2011-11-24 23:56:18 +0000"
+# Attributes from Felix Online V1
 id: "1854"
 old_path: /sport/1854/captains-interviews-synchronised-swimming
 aliases:
  - /sport/1854/captains-interviews-synchronised-swimming
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242357-felix-rgb.jpg"
 image_caption: >
   Left to right: Delphine Rolando, Carla Canturri-Gispert and Zara Ganase
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

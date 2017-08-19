@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It may be a surprise that you find me in this pokey newspaper
 date: "2011-01-13 21:17:18 +0000"
+# Attributes from Felix Online V1
 id: "590"
 old_path: /comment/590/prince-philip-my-family-and-other-animals
 aliases:
  - /comment/590/prince-philip-my-family-and-other-animals
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132115-ks607-princeph.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "dofe"
 author_name: "HRH the Duke of Edinburgh"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

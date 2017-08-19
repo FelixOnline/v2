@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National Portrait Gallery Freudian slips into something more...
 date: "2012-03-15 19:58:03 +0000"
+# Attributes from Felix Online V1
 id: "2353"
 old_path: /arts/2353/showing-some-flesh
 aliases:
  - /arts/2353/showing-some-flesh
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151957-ig711-freud_1952749b.jpg"
 image_caption: >
   Lucian was on the whole disappointed with the results of his diet regime
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
+# Attributes from Felix Online V1
 id: "5395"
 old_path: /politics/5395/oh-oil-is-there-nothing-you-cant-do
 aliases:
  - /politics/5395/oh-oil-is-there-nothing-you-cant-do
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130130-cj914-baracknsalman-copy.jpg"
 image_caption: >
   Barack Obama met with King Salman to pay his respects to the former King and Prime Minister of Saudi Arabia, Abdullah bin Abdulaziz Al Saud after his death in January
@@ -22,6 +27,7 @@ image_attribution: "itv"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

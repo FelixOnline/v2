@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Karapetian on computing and important mathematical problems
 date: "2012-02-03 11:01:45 +0000"
+# Attributes from Felix Online V1
 id: "2128"
 old_path: /news/2128/does-computer-science-hold-the-answer
 aliases:
  - /news/2128/does-computer-science-hold-the-answer
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031101-sjw209-complex-zeta.jpg"
 image_caption: >
   A plot of the Riemann-Zeta function over the Complex Plane. Trippy.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

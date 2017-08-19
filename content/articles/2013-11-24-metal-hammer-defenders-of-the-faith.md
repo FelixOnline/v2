@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thomas Heaven watches some of metal’s biggest bands
 date: "2013-11-24 16:24:21 +0000"
+# Attributes from Felix Online V1
 id: "4119"
 old_path: /music/4119/metal-hammer-defenders-of-the-faith
 aliases:
  - /music/4119/metal-hammer-defenders-of-the-faith
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

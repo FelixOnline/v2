@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At least 120 Tibetans have set themselves alight in protest against Chinese rule since 2009. It’s the only peaceful way they’ve been able to broadcast their recurrent message: Save Tibet. It seems that their message has fallen on deaf ears...
 date: "2013-11-08 03:48:00 +0000"
+# Attributes from Felix Online V1
 id: "4027"
 old_path: /comment/4027/what-does-the-future-hold-for-tibet
 aliases:
  - /comment/4027/what-does-the-future-hold-for-tibet
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

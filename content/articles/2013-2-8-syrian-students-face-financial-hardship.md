@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Government urged to help those who face deportation to Syria if removed from courses
 date: "2013-02-08 01:19:08 +0000"
+# Attributes from Felix Online V1
 id: "3287"
 old_path: /news/3287/syrian-students-face-financial-hardship
 aliases:
  - /news/3287/syrian-students-face-financial-hardship
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080118-tna08-action-syria.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

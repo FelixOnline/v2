@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hayley Lesserstein tells you how to do ghetto gourmet
 date: "2013-06-20 23:25:45 +0100"
+# Attributes from Felix Online V1
 id: "3721"
 old_path: /food/3721/epicly-broke-meal-time---instant-ramen
 aliases:
  - /food/3721/epicly-broke-meal-time---instant-ramen
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210030-tna08-emt2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

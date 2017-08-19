@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on lowering your risk of colon cancer
 date: "2015-05-15 12:01:20 +0100"
+# Attributes from Felix Online V1
 id: "5526"
 old_path: /science/5526/swap-out-those-burgers-for-beans
 aliases:
  - /science/5526/swap-out-those-burgers-for-beans
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151300-cj914-phaseolus_beans.jpg"
 image_caption: >
   New research from a team of scientists, involving some from Imperial College London, suggests that a Western diet, high in protein and fat, can lead to an increased risk of colon cancer compared to one high in starch
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

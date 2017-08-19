@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caz Knight reviews Jerusalem- a baudy satire about Binge Drinking and Morris Dancing
 date: "2010-02-18 16:50:10 +0000"
+# Attributes from Felix Online V1
 id: "93"
 old_path: /arts/93/jerusalem--perfection-in-the-west-end
 aliases:
  - /arts/93/jerusalem--perfection-in-the-west-end
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002181646-lh106-Jerusale.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

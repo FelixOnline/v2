@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George R. R. Martin's masterpiece
 date: "2011-06-28 11:53:16 +0100"
+# Attributes from Felix Online V1
 id: "1446"
 old_path: /arts/1446/dark-tales-of-ice-and-fire
 aliases:
  - /arts/1446/dark-tales-of-ice-and-fire
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281253-felix-wikifullasoiafsizeedit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

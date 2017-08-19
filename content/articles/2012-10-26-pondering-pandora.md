@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Barclay wants to talk about his love for wub wub
 date: "2012-10-26 02:42:25 +0100"
+# Attributes from Felix Online V1
 id: "2753"
 old_path: /games/2753/pondering-pandora-
 aliases:
  - /games/2753/pondering-pandora-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260342-tna08-bl2_tundra_express.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

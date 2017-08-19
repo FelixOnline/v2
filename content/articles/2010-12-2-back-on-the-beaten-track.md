@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Because there’s only so much self-discovery and figurative bridge-building you can handle before you’re in desperate need of a well-deserved heroin cookie
 date: "2010-12-02 20:26:19 +0000"
+# Attributes from Felix Online V1
 id: "470"
 old_path: /travel/470/back-on-the-beaten-track
 aliases:
  - /travel/470/back-on-the-beaten-track
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cr709"
 author_name: "Christopher Richardson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why is it taking so long for businesses to adopt greener strategies?
 date: "2016-02-05 12:08:32 +0000"
+# Attributes from Felix Online V1
 id: "5870"
 old_path: /science/5870/the-elusive-green-business-model
 aliases:
  - /science/5870/the-elusive-green-business-model
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
 image_caption: >
   The Adobe headquarters in San Jose, California.
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

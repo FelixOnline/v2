@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maggie Smith is acerbic and rancid in this Alan Bennett-scripted film
 date: "2015-11-20 14:05:31 +0000"
+# Attributes from Felix Online V1
 id: "5767"
 old_path: /film/5767/the-lady-doth-protest-too-much
 aliases:
  - /film/5767/the-lady-doth-protest-too-much
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511201404-ff712-3296.jpg"
 image_caption: >
   Maggie Smith and Alex Jennings in The Lady in the Van
@@ -22,6 +27,7 @@ image_attribution: "Snap Stills"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

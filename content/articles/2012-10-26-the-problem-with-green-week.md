@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Becky Lane tells of the issues with ephemeral initiatives
 date: "2012-10-26 02:33:50 +0100"
+# Attributes from Felix Online V1
 id: "2748"
 old_path: /comment/2748/the-problem-with-green-week
 aliases:
  - /comment/2748/the-problem-with-green-week
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210291842-tna08-institution_full_510_imperial_college_london_south_kensington_campus_at_night20120906-2-1khskiw.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

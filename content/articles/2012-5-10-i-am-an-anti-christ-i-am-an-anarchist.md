@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plabon Saha tells of his encounter with Johnny Rotten
 date: "2012-05-10 20:22:03 +0100"
+# Attributes from Felix Online V1
 id: "2446"
 old_path: /music/2446/i-am-an-anti-christ-i-am-an-anarchist
 aliases:
  - /music/2446/i-am-an-anti-christ-i-am-an-anarchist
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102157-felix-johnnyrottenglaremic.jpg"
 image_caption: >
   The world indeed moves in mysterious ways
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

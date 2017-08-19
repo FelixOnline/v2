@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sir David Attenborough strikes back, showcasing life at the poles
 date: "2011-11-10 21:59:23 +0000"
+# Attributes from Felix Online V1
 id: "1739"
 old_path: /tv/1739/frozen-planet--a-true-masterpiece
 aliases:
  - /tv/1739/frozen-planet--a-true-masterpiece
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102158-felix-frozen-planet.jpg"
 image_caption: >
   The culmination of years of filming in barren conditions, married with the inimitable voice of Sir D
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

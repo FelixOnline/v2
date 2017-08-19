@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX visits BAO, the hip Taiwanese restaurant in SoHo
 date: "2016-05-27 09:05:28 +0100"
+# Attributes from Felix Online V1
 id: "6221"
 old_path: /food/6221/minute-trip-to-taiwan
 aliases:
  - /food/6221/minute-trip-to-taiwan
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271105-felix-Exterior 1-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

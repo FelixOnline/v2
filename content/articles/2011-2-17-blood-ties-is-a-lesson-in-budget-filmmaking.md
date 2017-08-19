@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It captures beauftiful interactions between characters
 date: "2011-02-17 19:34:21 +0000"
+# Attributes from Felix Online V1
 id: "820"
 old_path: /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
 aliases:
  - /film/820/blood-ties-is-a-lesson-in-budget-filmmaking-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

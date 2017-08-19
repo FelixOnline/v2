@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhidian Thomas and Max Moynan discuss the things that the oil companies don't want us to know
 date: "2017-05-15 15:55:16 +0100"
+# Attributes from Felix Online V1
 id: "6947"
 old_path: /comment/6947/what-is-so-bad-about-fossil-fuel-companies-anyway
 aliases:
  - /comment/6947/what-is-so-bad-about-fossil-fuel-companies-anyway
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151755-felix-Screen Shot 2017-05-15 at 17.54.48.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

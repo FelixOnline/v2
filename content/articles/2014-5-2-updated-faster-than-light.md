@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful Kickstarter campaigns, achieving over 20 times the goal that the developers had asked for.
 date: "2014-05-02 02:00:14 +0100"
+# Attributes from Felix Online V1
 id: "4560"
 old_path: /games/4560/updated-faster-than-light
 aliases:
  - /games/4560/updated-faster-than-light
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405020300-jal08-games_ftl.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

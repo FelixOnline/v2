@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Kingsley is on a mission to help Bangladesh’s rural poor
 date: "2012-12-07 02:34:35 +0000"
+# Attributes from Felix Online V1
 id: "3050"
 old_path: /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
 aliases:
  - /comment/3050/putting-the-bang-in-bangladesh-an-alternative-way-to-spend-spring
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

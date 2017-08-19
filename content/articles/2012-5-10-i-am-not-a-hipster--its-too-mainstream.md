@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Being a hipster is not a black and white situation
 date: "2012-05-10 20:10:44 +0100"
+# Attributes from Felix Online V1
 id: "2443"
 old_path: /comment/2443/i-am-not-a-hipster--its-too-mainstream
 aliases:
  - /comment/2443/i-am-not-a-hipster--its-too-mainstream
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102110-pk1811-nathanbarley.jpg"
 image_caption: >
   Well fucking Mexico yeah. That’s a Nathan Barley reference, you’ve probably never heard of it
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

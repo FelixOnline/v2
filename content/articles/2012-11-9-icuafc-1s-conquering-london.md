@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Henry Garner and Chris Nielsen bring you up to speed on their dominance
 date: "2012-11-09 14:38:55 +0000"
+# Attributes from Felix Online V1
 id: "2877"
 old_path: /sport/2877/icuafc-1s-conquering-london
 aliases:
  - /sport/2877/icuafc-1s-conquering-london
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091438-tna08-footy-tactics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

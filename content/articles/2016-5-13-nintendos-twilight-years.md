@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s a sad time to be a Nintendo gamer and a Wii U owner
 date: "2016-05-13 09:29:36 +0100"
+# Attributes from Felix Online V1
 id: "6163"
 old_path: /games/6163/nintendos-twilight-years
 aliases:
  - /games/6163/nintendos-twilight-years
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131129-felix-twilight.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

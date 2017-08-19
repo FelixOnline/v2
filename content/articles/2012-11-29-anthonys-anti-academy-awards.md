@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “It makes me want to throw up, it really does. It’s sick-making"
 date: "2012-11-29 23:08:12 +0000"
+# Attributes from Felix Online V1
 id: "3004"
 old_path: /film/3004/anthonys-anti-academy-awards
 aliases:
  - /film/3004/anthonys-anti-academy-awards
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

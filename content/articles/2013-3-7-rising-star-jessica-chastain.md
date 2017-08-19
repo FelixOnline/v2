@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mama Review
 date: "2013-03-07 23:59:57 +0000"
+# Attributes from Felix Online V1
 id: "3451"
 old_path: /film/3451/rising-star-jessica-chastain
 aliases:
  - /film/3451/rising-star-jessica-chastain
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072359-tna08-jessica-chastain-sag-awards-post2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

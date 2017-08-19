@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Adina de Wit kisses and tells...
 date: "2013-02-08 00:27:20 +0000"
+# Attributes from Felix Online V1
 id: "3272"
 old_path: /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
 aliases:
  - /sport/3272/womens-water-polo-can-also-handle-balls-pretty-well
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080026-tna08-819375_570720982939466_73482403_o-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

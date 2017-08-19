@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The French are experiencing a renewed involvement in world affairs
 date: "2013-01-18 00:28:23 +0000"
+# Attributes from Felix Online V1
 id: "3133"
 old_path: /politics/3133/france-steps-up-intervention-in-mali
 aliases:
  - /politics/3133/france-steps-up-intervention-in-mali
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180028-tna08-mali-flag.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

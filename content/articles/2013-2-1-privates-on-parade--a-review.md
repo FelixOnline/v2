@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Rosenthal enjoys a camp play with just enough serious tinges
 date: "2013-02-01 00:13:37 +0000"
+# Attributes from Felix Online V1
 id: "3223"
 old_path: /arts/3223/privates-on-parade--a-review
 aliases:
  - /arts/3223/privates-on-parade--a-review
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010013-tna08-simon-russell-beale-(captain-terri-dennis)-and-the-sadusea-company.-by-johan-persson.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

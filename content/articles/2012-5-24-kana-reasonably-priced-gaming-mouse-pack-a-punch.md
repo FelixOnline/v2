@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The price is right for these mice
 date: "2012-05-24 23:31:38 +0100"
+# Attributes from Felix Online V1
 id: "2489"
 old_path: /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
 aliases:
  - /tech/2489/kana-reasonably-priced-gaming-mouse-pack-a-punch
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250031-mc4509-kana.png"
 image_caption: >
   Who can resist an orange glowing scrollwheel!?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

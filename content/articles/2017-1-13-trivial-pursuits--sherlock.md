@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sherlock’s always hotly anticipated new years debut proved disapointing this year. A lukewarm mytery made for boring watching. So why couldn’t TV’s darling detective find his footing this year?
 date: "2017-01-13 14:43:46 +0000"
+# Attributes from Felix Online V1
 id: "6647"
 old_path: /tv/6647/trivial-pursuits--sherlock
 aliases:
  - /tv/6647/trivial-pursuits--sherlock
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131443-felix-1480701024-sherlock-season-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

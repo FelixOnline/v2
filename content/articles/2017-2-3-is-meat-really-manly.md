@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Man want meat | Is society killing men?
 date: "2017-02-03 16:45:10 +0000"
+# Attributes from Felix Online V1
 id: "6719"
 old_path: /science/6719/is-meat-really-manly
 aliases:
  - /science/6719/is-meat-really-manly
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031645-felix-Burgers.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cyclonebill"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

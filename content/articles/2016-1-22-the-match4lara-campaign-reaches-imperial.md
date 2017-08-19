@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stem cell donation drive hits SAF today
 date: "2016-01-22 12:48:27 +0000"
+# Attributes from Felix Online V1
 id: "5831"
 old_path: /news/5831/the-match4lara-campaign-reaches-imperial
 aliases:
  - /news/5831/the-match4lara-campaign-reaches-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601221246-felix-Match4Lara3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "match4lara campaign"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After a search for a new President, College has appointed Chemical Engineer Professor Alice P. Gast, President of Lehigh University to the role.
 date: "2014-01-03 12:21:06 +0000"
+# Attributes from Felix Online V1
 id: "4202"
 old_path: /news/4202/imperial-college-welcomes-new-president-in-september
 aliases:
  - /news/4202/imperial-college-welcomes-new-president-in-september
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401031221-jal08-alice-gast-49.jpg"
 image_caption: >
   President-designate Professor Gast
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

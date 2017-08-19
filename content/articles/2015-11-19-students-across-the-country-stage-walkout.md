@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Neighbouring RCA protested outside the Daily Mail
 date: "2015-11-19 22:23:37 +0000"
+# Attributes from Felix Online V1
 id: "5741"
 old_path: /news/5741/students-across-the-country-stage-walkout
 aliases:
  - /news/5741/students-across-the-country-stage-walkout
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511192223-ygr12-screen-shot-2015-11-19-at-19.37.28.png"
 image_caption: >
   RCA students outside the Daily Mail
@@ -22,6 +27,7 @@ image_attribution: "Twitter / @RCAStudentUnion"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

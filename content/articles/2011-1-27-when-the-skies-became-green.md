@@ -4,15 +4,20 @@ title: >
 subtitle: >
   International effort to make air travel greener begins at Imperial
 date: "2011-01-27 19:05:44 +0000"
+# Attributes from Felix Online V1
 id: "662"
 old_path: /science/662/when-the-skies-became-green-
 aliases:
  - /science/662/when-the-skies-became-green-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "vbb08"
 author_name: "Victoria Bignet"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

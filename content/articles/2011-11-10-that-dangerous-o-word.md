@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders
 date: "2011-11-10 22:26:58 +0000"
+# Attributes from Felix Online V1
 id: "1747"
 old_path: /games/1747/that-dangerous-o-word
 aliases:
  - /games/1747/that-dangerous-o-word
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102226-pk1811-gta1.jpg"
 image_caption: >
   Claims that games like GTA IV negatively impact on one’s mental state need to be supported
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

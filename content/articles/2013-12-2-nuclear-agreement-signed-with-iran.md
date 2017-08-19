@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But will it really manage to make the world a safer place?
 date: "2013-12-02 21:57:41 +0000"
+# Attributes from Felix Online V1
 id: "4160"
 old_path: /politics/4160/nuclear-agreement-signed-with-iran
 aliases:
  - /politics/4160/nuclear-agreement-signed-with-iran
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

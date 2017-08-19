@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Femsoc introduce their new campaign, ICSexism
 date: "2015-02-13 14:56:44 +0000"
+# Attributes from Felix Online V1
 id: "5255"
 old_path: /cands/5255/everyday-sexism-or-a-deep-rooted-issue
 aliases:
  - /cands/5255/everyday-sexism-or-a-deep-rooted-issue
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502131455-bwh12-icsexism.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Femsoc"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

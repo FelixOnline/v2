@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhys Davies finally gets down to reading a dated classic of SF literature
 date: "2012-05-03 18:39:07 +0100"
+# Attributes from Felix Online V1
 id: "2415"
 old_path: /books/2415/will-this-book-crash-and-burn
 aliases:
  - /books/2415/will-this-book-crash-and-burn
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031938-ams111-snow-crash.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

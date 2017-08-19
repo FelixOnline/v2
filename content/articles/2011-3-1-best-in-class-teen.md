@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The, fluffy angsty world of Teen TV
 date: "2011-03-01 21:00:41 +0000"
+# Attributes from Felix Online V1
 id: "962"
 old_path: /tv/962/best-in-class-teen-
 aliases:
  - /tv/962/best-in-class-teen-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012059-ks607-dawsonsc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

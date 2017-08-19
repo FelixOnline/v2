@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Little Matchgirl is on at the Sam Wanamaker Playhouse until the 22nd of January 2017
 date: "2016-12-09 15:57:54 +0000"
+# Attributes from Felix Online V1
 id: "6587"
 old_path: /arts/6587/the-little-matchgirl-and-other-happier-tales
 aliases:
  - /arts/6587/the-little-matchgirl-and-other-happier-tales
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612121553-felix-TAN13890 (1)_captioned.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Individuals need to band together to help solve teaching
 date: "2012-01-26 23:05:18 +0000"
+# Attributes from Felix Online V1
 id: "2073"
 old_path: /comment/2073/learn-to-think-better-of-teaching
 aliases:
  - /comment/2073/learn-to-think-better-of-teaching
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262303-felix-large-coach-carter-blu-ray3.jpg"
 image_caption: >
   Samuel L. Jackson in Coach Carter, perhaps the most inspirational teacher ever?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

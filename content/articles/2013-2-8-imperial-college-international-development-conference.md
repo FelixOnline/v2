@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dhanvi Bosamia introduces you to the inaugural event
 date: "2013-02-08 00:43:01 +0000"
+# Attributes from Felix Online V1
 id: "3277"
 old_path: /news/3277/imperial-college-international-development-conference
 aliases:
  - /news/3277/imperial-college-international-development-conference
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

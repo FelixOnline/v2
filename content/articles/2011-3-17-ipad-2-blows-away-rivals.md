@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alternative tablets have nothing on Apple's latest offering
 date: "2011-03-17 21:19:26 +0000"
+# Attributes from Felix Online V1
 id: "1100"
 old_path: /tech/1100/ipad-2-blows-away-rivals
 aliases:
  - /tech/1100/ipad-2-blows-away-rivals
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

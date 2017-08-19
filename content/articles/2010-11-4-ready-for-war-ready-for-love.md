@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Diogo Miguel Geraldes falls in love with Warpaint at Scala
 date: "2010-11-04 18:35:54 +0000"
+# Attributes from Felix Online V1
 id: "302"
 old_path: /music/302/ready-for-war-ready-for-love-
 aliases:
  - /music/302/ready-for-war-ready-for-love-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041833-ks607-warpaint.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Warpaint"
 image_attribution_link: "http://www.warpaintwarpaint.com/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

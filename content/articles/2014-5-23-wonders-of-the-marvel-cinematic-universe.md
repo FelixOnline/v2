@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s Batman & Robin.
 date: "2014-05-23 13:58:28 +0100"
+# Attributes from Felix Online V1
 id: "4622"
 old_path: /film/4622/wonders-of-the-marvel-cinematic-universe
 aliases:
  - /film/4622/wonders-of-the-marvel-cinematic-universe
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

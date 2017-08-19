@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Government’s ‘green paper’ proposals would allow fees to rise with inflation
 date: "2015-11-13 14:10:23 +0000"
+# Attributes from Felix Online V1
 id: "5717"
 old_path: /news/5717/college-fees-likely-to-rise-under-new-plans
 aliases:
  - /news/5717/college-fees-likely-to-rise-under-new-plans
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131409-ygr12-pro.jpg"
 image_caption: >
   We could be seeing more student protests if the green paper goes through.
@@ -22,6 +27,7 @@ image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

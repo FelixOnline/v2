@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Delay comes amidst ongoing protest against BBC campus redevelopment
 date: "2012-06-08 08:26:48 +0100"
+# Attributes from Felix Online V1
 id: "2540"
 old_path: /news/2540/planning-permission-for-new-imperial-west-campus-delayed
 aliases:
  - /news/2540/planning-permission-for-new-imperial-west-campus-delayed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206080926-mc4509-news1.jpg"
 image_caption: >
   The earliest possible meeting of the planning committee is 10 July
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

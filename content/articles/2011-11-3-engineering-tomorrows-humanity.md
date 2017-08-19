@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam on the interdependence of man and machine
 date: "2011-11-03 18:17:36 +0000"
+# Attributes from Felix Online V1
 id: "1648"
 old_path: /tech/1648/engineering-tomorrows-humanity
 aliases:
  - /tech/1648/engineering-tomorrows-humanity
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031817-fa608-exo2_push_ups_2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "gizmag.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "fa608"
 author_name: "Feroz Abdul Salam"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman tells us why Wilde's wit is the best around
 date: "2015-03-06 14:05:53 +0000"
+# Attributes from Felix Online V1
 id: "5354"
 old_path: /arts/5354/my-favourite-play--the-importance-of-being-earnest
 aliases:
  - /arts/5354/my-favourite-play--the-importance-of-being-earnest
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061405-ff712-oscar_wilde_by_napoleon_sarony_(1821-1896)_number_18_ba.jpg"
 image_caption: >
   Portrait of Oscar Wilde, Napoléon Sarony, 1882
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

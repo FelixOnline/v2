@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Magda Czigány, Librarian from 1986-2000, says goodby to HOST.
 date: "2013-05-23 22:17:19 +0100"
+# Attributes from Felix Online V1
 id: "3613"
 old_path: /comment/3613/farewell-to-host
 aliases:
  - /comment/3613/farewell-to-host
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232317-tna08-pierre_and_marie_curie.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

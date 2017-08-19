@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I’ll show you how to transform your cramped vegetable lasagne into a thing of simple beauty
 date: "2011-03-03 19:32:41 +0000"
+# Attributes from Felix Online V1
 id: "998"
 old_path: /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
 aliases:
  - /food/998/vegetable-lasagnewere-spreading-the-love-for-vegetarians
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/canolagrowers"
 image_attribution_link: "http://www.flickr.com/photos/canolagrowers/3570480607/in/set-72157618793887509"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

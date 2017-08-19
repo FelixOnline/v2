@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dancer-turned-choreographer Julie Cunningham presents a modern mediation on gender identity
 date: "2017-03-12 21:24:05 +0000"
+# Attributes from Felix Online V1
 id: "6893"
 old_path: /arts/6893/julie-cunningham--dance-as-performance-art
 aliases:
  - /arts/6893/julie-cunningham--dance-as-performance-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703122123-ff712-01.jpg"
 image_caption: >
   Julie Cunningham & Company, Double Bill, Harry Alexander, Julie Cunningham, Alexander Williams and Hannah Burfield in Returning
@@ -22,6 +27,7 @@ image_attribution: "Stephen Wright"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

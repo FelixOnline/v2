@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng finds this 1920s play as relevant as ever
 date: "2015-02-11 22:23:15 +0000"
+# Attributes from Felix Online V1
 id: "5231"
 old_path: /arts/5231/some-metatheatre-most-remarkable
 aliases:
  - /arts/5231/some-metatheatre-most-remarkable
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502112223-ps3110-03.jpg"
 image_caption: >
   Théâtre de la Ville – Paris, Six Characters in Search of an Author.
@@ -22,6 +27,7 @@ image_attribution: "JL Fernandez"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

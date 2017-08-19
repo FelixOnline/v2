@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alumni help to create funded degrees
 date: "2013-03-01 00:43:20 +0000"
+# Attributes from Felix Online V1
 id: "3408"
 old_path: /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
 aliases:
  - /news/3408/new-scholarship-fund-for-indian-postgraduate-students-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

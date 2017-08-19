@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg...
 date: "2011-01-13 20:02:31 +0000"
+# Attributes from Felix Online V1
 id: "573"
 old_path: /politics/573/new-years-resolutions
 aliases:
  - /politics/573/new-years-resolutions
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131958-ks607-obamaoba.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

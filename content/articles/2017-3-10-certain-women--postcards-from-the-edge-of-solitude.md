@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kelly Reichardt fashions a beautifully-intimate portrait of four women, in her sixth feature film, Certain Women, which details our relationships with the natural world, other individuals, and our own loneliness
 date: "2017-03-10 13:37:50 +0000"
+# Attributes from Felix Online V1
 id: "6871"
 old_path: /film/6871/certain-women--postcards-from-the-edge-of-solitude
 aliases:
  - /film/6871/certain-women--postcards-from-the-edge-of-solitude
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101337-felix-movies_certainwomen (1).jpg"
 image_caption: >
   Michelle Williams excells as one of the women at the heart of Reichardt’s tale
@@ -22,6 +27,7 @@ image_attribution: "Park Circus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

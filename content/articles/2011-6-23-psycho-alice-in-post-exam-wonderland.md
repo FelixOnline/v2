@@ -4,15 +4,20 @@ title: >
 subtitle: >
   DramSoc’s free re-imagining of the intoxicating tale goes on the rampage on the Queen’s Lawn
 date: "2011-06-23 21:01:05 +0100"
+# Attributes from Felix Online V1
 id: "1431"
 old_path: /arts/1431/psycho-alice-in-post-exam-wonderland
 aliases:
  - /arts/1431/psycho-alice-in-post-exam-wonderland
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232201-felix-the%20duchess.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

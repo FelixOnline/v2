@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oh no they didn't! (Oh yes they did)
 date: "2017-02-10 16:41:35 +0000"
+# Attributes from Felix Online V1
 id: "6774"
 old_path: /sport/6774/ic-american-football-clip-falcons-wings
 aliases:
  - /sport/6774/ic-american-football-clip-falcons-wings
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101641-felix-Kent second time.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

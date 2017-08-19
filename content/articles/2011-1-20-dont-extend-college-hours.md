@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jovan Nedic argues that the proposed timetable changes would adversely affect Imperial’s sports teams
 date: "2011-01-20 19:49:44 +0000"
+# Attributes from Felix Online V1
 id: "615"
 old_path: /sport/615/dont-extend-college-hours
 aliases:
  - /sport/615/dont-extend-college-hours
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexandre Adler advises you on how to win an election – warning: it involves a lot of human interaction
 date: "2017-03-17 15:09:17 +0000"
+# Attributes from Felix Online V1
 id: "6903"
 old_path: /comment/6903/so-you-want-to-run-an-elections-2018-campaign
 aliases:
  - /comment/6903/so-you-want-to-run-an-elections-2018-campaign
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171508-felix-IMG_7293.JPG"
 image_caption: >
   Getting blasted in the face with confetti make it all worth it
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

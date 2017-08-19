@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Thor: The Dark World Director: Alan Taylor Writers: Christopher Yost, Christopher Markus, Stephen McFeely Starring: Chris Hemsworth, Natalie Portman, Anthony Hopkins, Tom Hiddleston, Christopher Eccleston, Idris Elba, Jaimie Alexander, Ray Stevenson, Zachary Levi, Kat Dennings, Stellan Skarsgård, A
 date: "2013-11-08 10:01:26 +0000"
+# Attributes from Felix Online V1
 id: "4041"
 old_path: /film/4041/the-return-of-the-australian-norse-god
 aliases:
  - /film/4041/the-return-of-the-australian-norse-god
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

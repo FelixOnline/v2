@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Hockey Club serve up free shots and more!
 date: "2012-02-16 21:32:26 +0000"
+# Attributes from Felix Online V1
 id: "2191"
 old_path: /news/2191/vintage-bar-night-for-hockey-club
 aliases:
  - /news/2191/vintage-bar-night-for-hockey-club
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162132-pk1811-img_0069-(copy).jpg"
 image_caption: >
   When they break out the pens, it’s time to get out
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

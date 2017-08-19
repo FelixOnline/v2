@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eoghan J. Totten arques that a new attitude to climate change is necessary
 date: "2011-11-03 21:56:49 +0000"
+# Attributes from Felix Online V1
 id: "1695"
 old_path: /comment/1695/should-climate-change-be-labelled
 aliases:
  - /comment/1695/should-climate-change-be-labelled
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032155-sjw209-eoghan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

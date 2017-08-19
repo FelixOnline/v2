@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In Partenope, Claire Chan finds the most entertaining opera she has seen this year
 date: "2017-03-22 17:09:08 +0000"
+# Attributes from Felix Online V1
 id: "6921"
 old_path: /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
 aliases:
  - /arts/6921/partenope--a-brilliantly-off-piste-version-of-a-little-performed-classic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703231635-ff712-ENO Partenope Patricia Bardon, Matthew Durkan, Stephanie Windsor-Lewis (c) Donald Cooper.jpg"
 image_caption: >
   Patricia Bardon, Matthew Durkan, and Stephanie Windsor-Lewis in ENO's Partenope
@@ -22,6 +27,7 @@ image_attribution: "Donald Cooper"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

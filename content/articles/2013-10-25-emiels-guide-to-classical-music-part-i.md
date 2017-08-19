@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Episode 1: What is Art?
 date: "2013-10-25 00:40:43 +0100"
+# Attributes from Felix Online V1
 id: "3934"
 old_path: /music/3934/emiels-guide-to-classical-music-part-i
 aliases:
  - /music/3934/emiels-guide-to-classical-music-part-i
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Council votes to let Hobson live to play another day
 date: "2014-12-10 15:15:07 +0000"
+# Attributes from Felix Online V1
 id: "5023"
 old_path: /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
 aliases:
  - /news/5023/council-votes-against-motion-of-no-confidence-for-rubgy-club-captain-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412101513-ps3110-edited_council.jpg"
 image_caption: >
   Council met to discuss the sanctions against Hobson
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Don't hate them cause they're well protected
 date: "2016-12-16 16:25:17 +0000"
+# Attributes from Felix Online V1
 id: "6626"
 old_path: /sport/6626/ic-american-football-in-playoff-contention
 aliases:
  - /sport/6626/ic-american-football-in-playoff-contention
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161625-felix-2nd game vs pirates.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

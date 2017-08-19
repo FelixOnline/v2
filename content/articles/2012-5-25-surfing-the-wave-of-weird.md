@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whirring and beeping in Battersea
 date: "2012-05-25 18:26:35 +0100"
+# Attributes from Felix Online V1
 id: "2498"
 old_path: /arts/2498/surfing-the-wave-of-weird-
 aliases:
  - /arts/2498/surfing-the-wave-of-weird-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

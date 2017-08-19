@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Fernando implores you to help the homeless in London
 date: "2013-06-21 00:59:57 +0100"
+# Attributes from Felix Online V1
 id: "3738"
 old_path: /news/3738/help-soup-run-feed-londons-homeless
 aliases:
  - /news/3738/help-soup-run-feed-londons-homeless
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

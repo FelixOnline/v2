@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emilie Beauchamp gets Sketchy
 date: "2013-06-20 21:11:35 +0100"
+# Attributes from Felix Online V1
 id: "3710"
 old_path: /arts/3710/put-lead-in-your-pencil
 aliases:
  - /arts/3710/put-lead-in-your-pencil
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306202353-tna08-greenfairy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

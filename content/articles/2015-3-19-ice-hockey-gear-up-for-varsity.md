@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tonight the Imperial Devils face the UCL Yetis
 date: "2015-03-19 23:47:08 +0000"
+# Attributes from Felix Online V1
 id: "5410"
 old_path: /sport/5410/ice-hockey-gear-up-for-varsity
 aliases:
  - /sport/5410/ice-hockey-gear-up-for-varsity
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192346-kmw13-image1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Hockey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

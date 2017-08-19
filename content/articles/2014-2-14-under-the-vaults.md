@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles goes underground as part of the Waterloo Vaults Festival
 date: "2014-02-14 03:26:48 +0000"
+# Attributes from Felix Online V1
 id: "4373"
 old_path: /arts/4373/under-the-vaults
 aliases:
  - /arts/4373/under-the-vaults
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

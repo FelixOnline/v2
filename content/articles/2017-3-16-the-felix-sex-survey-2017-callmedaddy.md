@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's here...
 date: "2017-03-16 19:22:26 +0000"
+# Attributes from Felix Online V1
 id: "6894"
 old_path: /sex/6894/the-felix-sex-survey-2017-callmedaddy
 aliases:
  - /sex/6894/the-felix-sex-survey-2017-callmedaddy
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171104-felix-Screen Shot 2017-03-17 at 11.03.43.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

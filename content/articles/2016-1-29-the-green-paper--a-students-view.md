@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are we about to witness the sculpting of a new higher educational landscape?
 date: "2016-01-29 09:52:50 +0000"
+# Attributes from Felix Online V1
 id: "5855"
 old_path: /comment/5855/the-green-paper--a-students-view
 aliases:
  - /comment/5855/the-green-paper--a-students-view
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290950-felix-20151104_141456.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor G. ‘Anand’ Anandalingam has been named the new Dean of Imperial College Business School and Professor of Management Science. Also named owner of a very long name.
 date: "2013-05-09 11:39:03 +0100"
+# Attributes from Felix Online V1
 id: "3555"
 old_path: /news/3555/business-school-appoint-new-dean
 aliases:
  - /news/3555/business-school-appoint-new-dean
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305091239-tna08-newdean.jpeg"
 image_caption: >
   Professor G. ‘Anand’ Anandalingam
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

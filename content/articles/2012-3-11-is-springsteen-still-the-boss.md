@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Krestas finds reason to celebrate with the release of Wrecking Ball
 date: "2012-03-11 16:15:17 +0000"
+# Attributes from Felix Online V1
 id: "2339"
 old_path: /music/2339/is-springsteen-still-the-boss
 aliases:
  - /music/2339/is-springsteen-still-the-boss
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203111614-mc4509-bruce.jpg"
 image_caption: >
   Bruce wants to know why you haven’t bought the album. It was out March 5th!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

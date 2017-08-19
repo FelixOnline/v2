@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Off his tits on politics, Joshua Renken tackles the issue of low voter turnout amongst the millennial generation.
 date: "2015-03-06 16:49:11 +0000"
+# Attributes from Felix Online V1
 id: "5359"
 old_path: /politics/5359/why-dont-more-young-people-vote
 aliases:
  - /politics/5359/why-dont-more-young-people-vote
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061649-cj914-brand96_w_3147107b.jpg"
 image_caption: >
   Comedian and political activist Russell Brand has been encouraging young people not to vote and has written a book on modern politics titled Revolution
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

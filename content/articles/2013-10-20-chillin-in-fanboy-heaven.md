@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Masson reviews Mountain Goats at the Union Chapel
 date: "2013-10-20 01:50:36 +0100"
+# Attributes from Felix Online V1
 id: "3903"
 old_path: /music/3903/chillin-in-fanboy-heaven-
 aliases:
  - /music/3903/chillin-in-fanboy-heaven-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

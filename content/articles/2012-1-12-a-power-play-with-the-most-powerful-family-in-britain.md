@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plabon Saha uses his powers of deduction on the new series of Sherlock
 date: "2012-01-12 22:55:58 +0000"
+# Attributes from Felix Online V1
 id: "1995"
 old_path: /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
 aliases:
  - /tv/1995/a-power-play-with-the-most-powerful-family-in-britain
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122255-cac111-sherlock-and-watson-bbc-2010.jpg"
 image_caption: >
   No one could look as cool as Sherlock in this jacket
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

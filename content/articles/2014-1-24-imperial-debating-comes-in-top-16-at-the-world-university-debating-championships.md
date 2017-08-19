@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Debating saw success at the World University Debating Championships.
 date: "2014-01-24 09:39:37 +0000"
+# Attributes from Felix Online V1
 id: "4270"
 old_path: /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
 aliases:
  - /news/4270/imperial-debating-comes-in-top-16-at-the-world-university-debating-championships
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

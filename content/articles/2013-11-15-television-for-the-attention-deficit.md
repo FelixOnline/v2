@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From Shakespeare to the Iraq War, Emily Fulham celebrates the unsung art of the miniseries
 date: "2013-11-15 18:13:46 +0000"
+# Attributes from Felix Online V1
 id: "4083"
 old_path: /tv/4083/television-for-the-attention-deficit
 aliases:
  - /tv/4083/television-for-the-attention-deficit
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

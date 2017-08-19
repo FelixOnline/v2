@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oops
 date: "2017-05-12 16:51:40 +0100"
+# Attributes from Felix Online V1
 id: "6942"
 old_path: /news/6942/bioengineering-lecturer-accidentally-shares-exam-paper-with-students
 aliases:
  - /news/6942/bioengineering-lecturer-accidentally-shares-exam-paper-with-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121851-felix-3005650135_f3fabbe642_o.jpg"
 image_caption: >
   You can't upload an exam paper by accident if you don't use a computer
@@ -22,6 +27,7 @@ image_attribution: "Shawn Campbell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

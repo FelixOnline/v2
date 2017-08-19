@@ -4,15 +4,20 @@ title: >
 subtitle: >
   2016 was an outstanding year for hip-hop and urban culture, with all the major players dropping projects. Even artists like J. Cole and Frank Ocean rediscovered their ability to actually release some music. In the UK, the grime and urban scene continued to flourish. It seems like an impossible task
 date: "2017-01-27 16:53:59 +0000"
+# Attributes from Felix Online V1
 id: "6698"
 old_path: /music/6698/most-anticipated-hip-hop-albums-of-2017-
 aliases:
  - /music/6698/most-anticipated-hip-hop-albums-of-2017-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271649-felix-TheComeUpShow.jpg"
 image_caption: >
   A$AP Rocky
@@ -22,6 +27,7 @@ image_attribution: "The Come Up Show"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

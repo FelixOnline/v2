@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the committee and volunteers get back into the swing of work, RAG Chair David Goldsmith reflects on the week
 date: "2013-03-01 00:11:40 +0000"
+# Attributes from Felix Online V1
 id: "3401"
 old_path: /news/3401/a-whole-week-of-giving
 aliases:
  - /news/3401/a-whole-week-of-giving
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010010-tna08-headshave-(20-of-27).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

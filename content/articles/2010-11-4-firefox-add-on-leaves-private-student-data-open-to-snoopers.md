@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"
+# Attributes from Felix Online V1
 id: "322"
 old_path: /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
 aliases:
  - /news/322/firefox-add-on-leaves-private-student-data-open-to-snoopers-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011041857-ma1307-fbstalki.jpg"
 image_caption: >
   FireSheep is a little more subtle than this...
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

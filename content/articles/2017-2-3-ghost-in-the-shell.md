@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Appreciating the original before Scarlett Johansson ruins it forever
 date: "2017-02-03 16:52:30 +0000"
+# Attributes from Felix Online V1
 id: "6722"
 old_path: /film/6722/ghost-in-the-shell
 aliases:
  - /film/6722/ghost-in-the-shell
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031652-felix-ghost-in-the-shell-7.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Production I.G."
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

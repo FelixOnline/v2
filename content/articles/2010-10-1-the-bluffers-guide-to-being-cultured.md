@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Impress, intimidate, then lose your friends (and get some better ones), by being a total git about The Arts (capitalised, don’t you know?)
 date: "2010-10-01 21:17:28 +0100"
+# Attributes from Felix Online V1
 id: "160"
 old_path: /arts/160/the-bluffers-guide-to-being-cultured
 aliases:
  - /arts/160/the-bluffers-guide-to-being-cultured
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104181128-felix-nietzsche_colour_2.jpg"
 image_caption: >
   Get some opinions, and stick to them no matter what!
@@ -22,6 +27,7 @@ image_attribution: "Gareth Southwell"
 image_attribution_link: "http://philosophyonline.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

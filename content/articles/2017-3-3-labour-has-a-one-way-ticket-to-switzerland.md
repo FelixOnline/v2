@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Titmuss explains why Labour is doomed – and it's not all Jeremy Corbyn's fault
 date: "2017-03-03 14:40:05 +0000"
+# Attributes from Felix Online V1
 id: "6837"
 old_path: /comment/6837/labour-has-a-one-way-ticket-to-switzerland
 aliases:
  - /comment/6837/labour-has-a-one-way-ticket-to-switzerland
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031455-felix-Screen Shot 2017-03-03 at 14.51.55.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

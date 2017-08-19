@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Debating Israel and Palestine
 date: "2010-11-25 21:24:16 +0000"
+# Attributes from Felix Online V1
 id: "439"
 old_path: /politics/439/debating-israel-and-palestine
 aliases:
  - /politics/439/debating-israel-and-palestine
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252119-nm1010-palestin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

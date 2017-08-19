@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton talks about his struggles with free market and government interaction
 date: "2011-10-14 10:19:40 +0100"
+# Attributes from Felix Online V1
 id: "1541"
 old_path: /politics/1541/one-little-piggy-went-to-market
 aliases:
  - /politics/1541/one-little-piggy-went-to-market
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

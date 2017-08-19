@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The first in Simon Hunter’s new series introducing the best electronic dance labels
 date: "2010-10-28 19:36:02 +0100"
+# Attributes from Felix Online V1
 id: "267"
 old_path: /music/267/techno-nonsense-permanent-vacation
 aliases:
  - /music/267/techno-nonsense-permanent-vacation
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282033-ma1307-technooo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

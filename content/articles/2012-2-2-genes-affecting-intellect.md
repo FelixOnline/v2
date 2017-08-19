@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Your academic success could be down to your genes
 date: "2012-02-02 19:34:47 +0000"
+# Attributes from Felix Online V1
 id: "2091"
 old_path: /science/2091/genes-affecting-intellect
 aliases:
  - /science/2091/genes-affecting-intellect
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202021933-ams111-a-student-working-in-the--007.jpg"
 image_caption: >
   We're all guilty of pulling all nighters...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

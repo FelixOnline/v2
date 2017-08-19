@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Medic playwright on the creative process
 date: "2012-11-15 21:24:12 +0000"
+# Attributes from Felix Online V1
 id: "2894"
 old_path: /arts/2894/the-writer-of-spring
 aliases:
  - /arts/2894/the-writer-of-spring
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

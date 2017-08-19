@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a news statement released today, Sport Imperial announced once and for all that, despite outcry from medics, the Teddington sports ground will no longer be used.
 date: "2014-07-10 13:13:08 +0100"
+# Attributes from Felix Online V1
 id: "4722"
 old_path: /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
 aliases:
  - /news/4722/sport-imperial-announces--there-are-no-plans-for-student-sport-to-take-place-at-teddington
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sport Imperial"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

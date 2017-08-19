@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anastasia Eleftheriou pays a visit to Los Locos
 date: "2011-06-23 21:18:27 +0100"
+# Attributes from Felix Online V1
 id: "1436"
 old_path: /food/1436/ai-chihuahua
 aliases:
  - /food/1436/ai-chihuahua
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232218-felix-bar_small-(1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

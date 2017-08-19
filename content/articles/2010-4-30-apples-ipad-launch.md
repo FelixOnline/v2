@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Apple launched the iPad whilst you were out
 date: "2010-04-30 10:47:38 +0100"
+# Attributes from Felix Online V1
 id: "130"
 old_path: /tech/130/apples-ipad-launch
 aliases:
  - /tech/130/apples-ipad-launch
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004301144-srg03-ApplesiP.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles and Kamil McClelland give five overlooked artists that you should know about
 date: "2015-01-31 19:04:23 +0000"
+# Attributes from Felix Online V1
 id: "5170"
 old_path: /arts/5170/theres-more-to-art-than-white-western-males
 aliases:
  - /arts/5170/theres-more-to-art-than-white-western-males
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501311904-ff712-aboudia_spiritual_conversations_2014.jpg"
 image_caption: >
   Detail from Spiritual Conversations
@@ -22,6 +27,7 @@ image_attribution: "Aboudia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

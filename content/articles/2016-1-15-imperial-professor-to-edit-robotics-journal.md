@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor Guang-Zhong Yang is the currently the Director of the Hamlyn Centre for robotics
 date: "2016-01-15 11:22:37 +0000"
+# Attributes from Felix Online V1
 id: "5828"
 old_path: /news/5828/imperial-professor-to-edit-robotics-journal
 aliases:
  - /news/5828/imperial-professor-to-edit-robotics-journal
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601151122-felix-Screen Shot 2016-01-13 at 14.57.36.png"
 image_caption: >
   Professor Yang
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

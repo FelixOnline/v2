@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
+# Attributes from Felix Online V1
 id: "781"
 old_path: /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
 aliases:
  - /games/781/playstation-suite-to-bring-big-titles-to-android-phones-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

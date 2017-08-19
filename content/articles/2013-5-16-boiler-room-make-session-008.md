@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Real G's wear white T's
 date: "2013-05-16 15:22:26 +0100"
+# Attributes from Felix Online V1
 id: "3569"
 old_path: /music/3569/boiler-room-make-session-008
 aliases:
  - /music/3569/boiler-room-make-session-008
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161618-js2310-g037-1000x-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

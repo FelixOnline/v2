@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In this well-balanced documentary, an HIV-positive gay Israeli man searches for acceptance in London
 date: "2017-04-27 15:37:59 +0100"
+# Attributes from Felix Online V1
 id: "6926"
 old_path: /film/6926/whos-gonna-love-me-now-an-intimate-look-at-an-israeli-mans-search-for-belonging
 aliases:
  - /film/6926/whos-gonna-love-me-now-an-intimate-look-at-an-israeli-mans-search-for-belonging
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
+# Attributes from Felix Online V1
 id: "5402"
 old_path: /news/5402/the-world-reputation-rankings-place-imperial-14th
 aliases:
  - /news/5402/the-world-reputation-rankings-place-imperial-14th
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192337-cj914-college-buildings.jpg"
 image_caption: >
   Imperial was the 3rd highest ranked UK university after Cambridge and Oxford
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

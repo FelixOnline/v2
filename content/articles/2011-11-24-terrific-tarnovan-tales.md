@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Exploring the “Old Capital” of Bulgaria to discover the deep-seated history of a state abundant in old-fashioned splendour and beauty
 date: "2011-11-24 20:13:14 +0000"
+# Attributes from Felix Online V1
 id: "1801"
 old_path: /travel/1801/terrific-tarnovan-tales
 aliases:
  - /travel/1801/terrific-tarnovan-tales
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242013-pk1811-bulgaria.jpg"
 image_caption: >
   Looking down on Veliko and the Yantra from midway up the Tsaravets...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

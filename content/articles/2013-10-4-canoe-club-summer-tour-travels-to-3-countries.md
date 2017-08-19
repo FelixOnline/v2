@@ -4,15 +4,20 @@ title: >
 subtitle: >
   President Reece Blunt reveals all
 date: "2013-10-04 02:21:36 +0100"
+# Attributes from Felix Online V1
 id: "3813"
 old_path: /sport/3813/canoe-club-summer-tour-travels-to-3-countries
 aliases:
  - /sport/3813/canoe-club-summer-tour-travels-to-3-countries
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040321-jal08-sport_iccc.jpg"
 image_caption: >
   ICU Canoe Club
@@ -22,6 +27,7 @@ image_attribution: "ICU Canoe Club"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

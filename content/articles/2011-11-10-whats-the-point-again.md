@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It seems to be possibly slightly pointless, but it is still somehow enjoyable
 date: "2011-11-10 20:39:37 +0000"
+# Attributes from Felix Online V1
 id: "1717"
 old_path: /arts/1717/whats-the-point-again
 aliases:
  - /arts/1717/whats-the-point-again
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

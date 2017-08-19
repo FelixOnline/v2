@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New anti-psychotic drugs in pipeline
 date: "2010-11-25 20:08:42 +0000"
+# Attributes from Felix Online V1
 id: "426"
 old_path: /science/426/new-anti-psychotic-drugs-in-pipeline
 aliases:
  - /science/426/new-anti-psychotic-drugs-in-pipeline
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252007-nm1010-brainsca.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

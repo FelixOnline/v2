@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Alumnus Enrico Fantoni talks about his experience as a second year Chemist on an IAESTE placement.
 date: "2013-10-13 00:09:28 +0100"
+# Attributes from Felix Online V1
 id: "3876"
 old_path: /features/3876/iaeste---a-journey-without-an-end
 aliases:
  - /features/3876/iaeste---a-journey-without-an-end
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310130109-jal08-car_iaeste_pic1-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IAESTE"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

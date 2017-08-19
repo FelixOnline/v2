@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Damage and theft on Medic RAG Pub Crawl
 date: "2013-02-08 01:24:19 +0000"
+# Attributes from Felix Online V1
 id: "3289"
 old_path: /news/3289/banned-from-ucl-union
 aliases:
  - /news/3289/banned-from-ucl-union
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302080123-tna08-uclunion.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

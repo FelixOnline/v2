@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman rounds up your more titillating sex survey responses
 date: "2015-06-04 23:36:13 +0100"
+# Attributes from Felix Online V1
 id: "5601"
 old_path: /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
 aliases:
  - /features/5601/never-have-i-ever-the-sexual-adventures-of-imperial-students
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050034-cj914-bondage.jpg"
 image_caption: >
   On brand.
@@ -22,6 +27,7 @@ image_attribution: "Mel Hattie"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
+# Attributes from Felix Online V1
 id: "6317"
 old_path: /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
 aliases:
  - /comment/6317/why-is-fat-shaming-the-last-socially-acceptable-form-of-discrimination
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101338-felix-2038661012_aed2362473_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Yosra T"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

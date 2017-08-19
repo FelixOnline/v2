@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Ford returns after a seven-year absence with Nocturnal Animals, a luscious, scintillating thriller that shows off his eye for beauty
 date: "2016-11-04 14:15:11 +0000"
+# Attributes from Felix Online V1
 id: "6387"
 old_path: /film/6387/a-dark-descent-into-artistic-depths
 aliases:
  - /film/6387/a-dark-descent-into-artistic-depths
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041414-aib116-nocturnal-animals-amy-adams-image.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "FOCUS"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

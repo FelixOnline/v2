@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An uplifting tale of a group of people that discover a different culture and develop a new outlook on life
 date: "2012-05-03 18:16:08 +0100"
+# Attributes from Felix Online V1
 id: "2410"
 old_path: /film/2410/quite-the-best-exotic-marigold-hotel
 aliases:
  - /film/2410/quite-the-best-exotic-marigold-hotel
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031916-ams111-best_exotic_marigold11.jpg"
 image_caption: >
   Must find Bond, must find Bond, must find Bond, must find Bond...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

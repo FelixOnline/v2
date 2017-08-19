@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sherfield branch closes its doors for last time
 date: "2011-05-12 16:08:25 +0100"
+# Attributes from Felix Online V1
 id: "1185"
 old_path: /news/1185/bye-bye-natwest
 aliases:
  - /news/1185/bye-bye-natwest
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121705-felix-dsc_0614.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

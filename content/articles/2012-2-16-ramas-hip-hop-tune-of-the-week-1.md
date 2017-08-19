@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Schoolboy Q - ‘Hands On The Wheel’ (feat. A$AP Rocky)
 date: "2012-02-16 21:59:41 +0000"
+# Attributes from Felix Online V1
 id: "2204"
 old_path: /music/2204/ramas-hip-hop-tune-of-the-week-1
 aliases:
  - /music/2204/ramas-hip-hop-tune-of-the-week-1
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162158-pk1811-school-boy-q-things-i-carry.jpg"
 image_caption: >
   South Ken street cred
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

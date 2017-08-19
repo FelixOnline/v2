@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Women's 2nd XI 14 - 0 St Bart's Womens 2nd XI
 date: "2010-02-25 18:37:28 +0000"
+# Attributes from Felix Online V1
 id: "102"
 old_path: /sport/102/hockeys-winning-streak-continues
 aliases:
  - /sport/102/hockeys-winning-streak-continues
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

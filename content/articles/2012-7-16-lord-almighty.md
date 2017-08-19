@@ -4,15 +4,20 @@ title: >
 subtitle: >
   To reform and beyond: an interview with the Right Honourable Professor Lord Norton of Louth
 date: "2012-07-16 11:36:46 +0100"
+# Attributes from Felix Online V1
 id: "2585"
 old_path: /politics/2585/lord-almighty-
 aliases:
  - /politics/2585/lord-almighty-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201207161233-mc4509-lord-norton-msp_79121.jpeg"
 image_caption: >
   Lord Norton
@@ -22,6 +27,7 @@ image_attribution: "http://nortonview.files.wordpress.com/"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You can make bags of cash and be a good person
 date: "2016-10-31 13:40:02 +0000"
+# Attributes from Felix Online V1
 id: "6360"
 old_path: /news/6360/union-launches-social-enterprise-scheme
 aliases:
  - /news/6360/union-launches-social-enterprise-scheme
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311339-felix-9681101370_f839b54a70_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "OTA Photos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

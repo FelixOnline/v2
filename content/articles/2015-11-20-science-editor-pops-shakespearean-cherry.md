@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Royal Shakespeare Company’s Henry V at the Barbican sursprises and delights
 date: "2015-11-20 09:41:24 +0000"
+# Attributes from Felix Online V1
 id: "5762"
 old_path: /arts/5762/science-editor-pops-shakespearean-cherry-
 aliases:
  - /arts/5762/science-editor-pops-shakespearean-cherry-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200941-ygr12-henryv.jpg"
 image_caption: >
   There’s something awfully disconcerting about this image – why no real horse?
@@ -22,6 +27,7 @@ image_attribution: "RSC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I hate reviewing if I haven't paid
 date: "2011-06-23 21:11:35 +0100"
+# Attributes from Felix Online V1
 id: "1434"
 old_path: /food/1434/confessions-of-a-food-editor
 aliases:
  - /food/1434/confessions-of-a-food-editor
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

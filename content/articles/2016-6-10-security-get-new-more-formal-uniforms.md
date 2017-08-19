@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Security wear ties and full suits now
 date: "2016-06-10 08:16:26 +0100"
+# Attributes from Felix Online V1
 id: "6249"
 old_path: /news/6249/security-get-new-more-formal-uniforms
 aliases:
  - /news/6249/security-get-new-more-formal-uniforms
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

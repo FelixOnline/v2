@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One remains in critical condition
 date: "2016-11-24 16:44:23 +0000"
+# Attributes from Felix Online V1
 id: "6490"
 old_path: /news/6490/road-accident-hospitalises-medical-students
 aliases:
  - /news/6490/road-accident-hospitalises-medical-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nikita Kumar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

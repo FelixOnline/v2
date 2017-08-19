@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One year on from the real start of the Arab Spring
 date: "2011-11-24 21:26:08 +0000"
+# Attributes from Felix Online V1
 id: "1820"
 old_path: /politics/1820/west-sahara-and-the-arab-spring
 aliases:
  - /politics/1820/west-sahara-and-the-arab-spring
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242125-pk1811-imported-photos-00047.jpg"
 image_caption: >
   One of the long term refugee camps situated in Algeria
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Lindsey"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

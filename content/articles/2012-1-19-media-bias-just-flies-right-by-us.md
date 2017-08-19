@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim muses on how today's print media seems to have blurred the line between news and commentary - leaving us in a bit of an opinion tug o' war
 date: "2012-01-19 20:41:09 +0000"
+# Attributes from Felix Online V1
 id: "2019"
 old_path: /comment/2019/media-bias-just-flies-right-by-us
 aliases:
  - /comment/2019/media-bias-just-flies-right-by-us
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192036-cac111-zooey-comment.jpg"
 image_caption: >
   Zooey Deschanel? Relevant as she’s standing in front of the famously unbiased Fox’s logo
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

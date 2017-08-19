@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Betts and Matt Allinson duke it out over the impact of watching TV
 date: "2011-02-03 20:28:08 +0000"
+# Attributes from Felix Online V1
 id: "746"
 old_path: /comment/746/does-watching-tv-ruin-your-life
 aliases:
  - /comment/746/does-watching-tv-ruin-your-life
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102032026-ks607-couchpot.jpg"
 image_caption: >
   This guy need less TV, more exercise, and a perm. That's right...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

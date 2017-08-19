@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shock and horror. JK
 date: "2017-05-12 16:13:15 +0100"
+# Attributes from Felix Online V1
 id: "6934"
 old_path: /news/6934/jazz-and-rock-fans-still-homeless-
 aliases:
  - /news/6934/jazz-and-rock-fans-still-homeless-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121812-felix-18318799_10206484846959786_1979038611_o.jpg"
 image_caption: >
   Almost there?
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

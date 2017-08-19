@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle voices his frustrations at the England Cricket Board
 date: "2015-05-21 20:25:28 +0100"
+# Attributes from Felix Online V1
 id: "5550"
 old_path: /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
 aliases:
  - /sport/5550/an-ipl-contract-an-autobiography-and-a-lack-of-trust-the-kevin-pietersen-saga
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505212124-kmw13-kevin-pietersen3.jpg"
 image_caption: >
   Pietersen walks off after his 355*
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

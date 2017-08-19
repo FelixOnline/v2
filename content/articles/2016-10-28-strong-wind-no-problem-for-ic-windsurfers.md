@@ -4,15 +4,20 @@ title: >
 subtitle: >
   IC Windsurfing hits Aussie Kiss 15
 date: "2016-10-28 15:49:28 +0100"
+# Attributes from Felix Online V1
 id: "6356"
 old_path: /sport/6356/strong-wind-no-problem-for-ic-windsurfers
 aliases:
  - /sport/6356/strong-wind-no-problem-for-ic-windsurfers
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610281813-aib116-14627878_10153756983691577_1409556302_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

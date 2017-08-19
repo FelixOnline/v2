@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student loses £70 to a man near campus
 date: "2012-10-11 20:20:48 +0100"
+# Attributes from Felix Online V1
 id: "2639"
 old_path: /news/2639/con-man-near-campus-takes-students-money
 aliases:
  - /news/2639/con-man-near-campus-takes-students-money
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112236-felix-hustle-adrian-lest_1215162c.jpeg"
 image_caption: >
   DAMMIT MICKEY
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

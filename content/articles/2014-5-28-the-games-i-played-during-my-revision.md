@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Studying is important, but so is taking a break. Here I take a break in style!
 date: "2014-05-28 21:37:52 +0100"
+# Attributes from Felix Online V1
 id: "4633"
 old_path: /games/4633/the-games-i-played-during-my-revision
 aliases:
  - /games/4633/the-games-i-played-during-my-revision
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

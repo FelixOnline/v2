@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Purge: once a year all crime is legal, and siege films are also
 date: "2013-06-05 12:28:48 +0100"
+# Attributes from Felix Online V1
 id: "3653"
 old_path: /film/3653/let-us-all-cleanse-our-souls
 aliases:
  - /film/3653/let-us-all-cleanse-our-souls
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051327-tna08-the-purge01.jpg"
 image_caption: >
   Remember everyone, make sure not to get any blood on my brand new white tee
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

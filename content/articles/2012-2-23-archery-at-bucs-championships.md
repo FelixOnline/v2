@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Like Legolas, but without the pointy ears
 date: "2012-02-23 21:28:05 +0000"
+# Attributes from Felix Online V1
 id: "2254"
 old_path: /sport/2254/archery-at-bucs-championships
 aliases:
  - /sport/2254/archery-at-bucs-championships
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232129-cac111-hannahbucs.jpg"
 image_caption: >
   You wouldn't wanna mess with her!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Arts judges some books by their covers
 date: "2013-05-23 21:47:33 +0100"
+# Attributes from Felix Online V1
 id: "3605"
 old_path: /arts/3605/top-10-book-covers
 aliases:
  - /arts/3605/top-10-book-covers
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232246-tna08-top10books.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

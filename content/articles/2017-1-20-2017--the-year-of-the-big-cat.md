@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Eden discusses the UAE's new ban on exotic pets and Ipswich's new hedgehog officer
 date: "2017-01-20 15:02:17 +0000"
+# Attributes from Felix Online V1
 id: "6660"
 old_path: /comment/6660/2017--the-year-of-the-big-cat
 aliases:
  - /comment/6660/2017--the-year-of-the-big-cat
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201502-felix-Screen Shot 2017-01-20 at 15.01.57.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

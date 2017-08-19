@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nutrition writer Alexandra Lim encourages us to eat more pale vegetables
 date: "2016-10-31 15:42:09 +0000"
+# Attributes from Felix Online V1
 id: "6362"
 old_path: /science/6362/pale-vs-kale
 aliases:
  - /science/6362/pale-vs-kale
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311542-felix-8059921247_20283e39d7_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jon Bunting"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

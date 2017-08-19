@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After marking 56 papers we become a bit overdramatic
 date: "2013-11-24 16:08:18 +0000"
+# Attributes from Felix Online V1
 id: "4111"
 old_path: /comment/4111/confessions-of-a-gta-part-6
 aliases:
  - /comment/4111/confessions-of-a-gta-part-6
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311241649-jal08-3383896412_ecee24dea3_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

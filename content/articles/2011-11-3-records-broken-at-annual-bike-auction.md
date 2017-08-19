@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over £7000 raised for RAG from bargain bikes
 date: "2011-11-03 19:29:24 +0000"
+# Attributes from Felix Online V1
 id: "1652"
 old_path: /news/1652/records-broken-at-annual-bike-auction
 aliases:
  - /news/1652/records-broken-at-annual-bike-auction
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031930-pk1811-img_6796-copy.jpg"
 image_caption: >
   Deputy President (Welfare) Nicolas Massie shows his goods
@@ -22,6 +27,7 @@ image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber talks with the Luxembourger ahead of his appearance at Diggidy Dawg this Saturday
 date: "2012-06-07 22:29:10 +0100"
+# Attributes from Felix Online V1
 id: "2539"
 old_path: /music/2539/sun-glitters-flies-over-for-the-felix-music-night
 aliases:
  - /music/2539/sun-glitters-flies-over-for-the-felix-music-night
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072328-felix-sun-glitters.jpeg"
 image_caption: >
   Did he fall asleep on those flowers or is he just hiding behind them? Is that poison ivy?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray discusses the electronic cassette label with Stephen Bishop
 date: "2013-05-08 20:31:01 +0100"
+# Attributes from Felix Online V1
 id: "3554"
 old_path: /music/3554/cassette-culture-opal-tapes-interview-
 aliases:
  - /music/3554/cassette-culture-opal-tapes-interview-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305082130-tna08-opal-tapes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

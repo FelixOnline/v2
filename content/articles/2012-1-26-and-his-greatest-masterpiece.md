@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Catcher in the Rye – the archetypical story of teenage disillusionment, confusion and rebellion
 date: "2012-01-26 22:33:03 +0000"
+# Attributes from Felix Online V1
 id: "2066"
 old_path: /books/2066/and-his-greatest-masterpiece
 aliases:
  - /books/2066/and-his-greatest-masterpiece
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262232-ams111-catcherintherye.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

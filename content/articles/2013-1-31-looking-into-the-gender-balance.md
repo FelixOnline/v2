@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We all know about the infamous ‘ratio’ at Imperial. Is it about the STEM subjects, just Imperial, or a worldwide issue? Matt Proctor and Eoghan J Totten investigate
 date: "2013-01-31 22:43:42 +0000"
+# Attributes from Felix Online V1
 id: "3199"
 old_path: /news/3199/looking-into-the-gender-balance
 aliases:
  - /news/3199/looking-into-the-gender-balance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302041012-tna08-gender-balance-rgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

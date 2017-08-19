@@ -4,15 +4,20 @@ title: >
 subtitle: >
   National walkout to hit Imperial unless pensions dispute is resolved
 date: "2011-03-10 19:26:55 +0000"
+# Attributes from Felix Online V1
 id: "1051"
 old_path: /news/1051/lecturers-to-strike
 aliases:
  - /news/1051/lecturers-to-strike
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103101916-ks607-lectures.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Collier reviews a film that will send chills down your spine
 date: "2016-12-09 15:50:21 +0000"
+# Attributes from Felix Online V1
 id: "6583"
 old_path: /film/6583/documentary-corner--citizenfour
 aliases:
  - /film/6583/documentary-corner--citizenfour
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091549-felix-2_CITIZENFOUR.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "HBO Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

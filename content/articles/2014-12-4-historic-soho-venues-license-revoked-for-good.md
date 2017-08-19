@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman reflects on Madame JoJo’s rich past and uncertain future
 date: "2014-12-04 19:21:24 +0000"
+# Attributes from Felix Online V1
 id: "4996"
 old_path: /music/4996/historic-soho-venues-license-revoked-for-good
 aliases:
  - /music/4996/historic-soho-venues-license-revoked-for-good
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041921-cj914-alex.jpg"
 image_caption: >
   Dev Hynes and Alex Turner share the White Heat stage way back in 2008 for the Falling Off Lavender B
@@ -22,6 +27,7 @@ image_attribution: "Emir Shad"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

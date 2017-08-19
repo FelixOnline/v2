@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cuts in services to postgraduates still unclear
 date: "2013-06-20 23:42:31 +0100"
+# Attributes from Felix Online V1
 id: "3726"
 old_path: /news/3726/health-centre-confusion
 aliases:
  - /news/3726/health-centre-confusion
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210042-tna08-london_ambulance_at_abbey_road.jpg"
 image_caption: >
   Health Centre blame the College for not filling the gap in funding. College say they increased fundi
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

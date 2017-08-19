@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Have you ever been lost in a building? I don’t mean in the physical sense.
 date: "2014-04-07 12:53:40 +0100"
+# Attributes from Felix Online V1
 id: "4524"
 old_path: /arts/4524/can-you-sense-a-space
 aliases:
  - /arts/4524/can-you-sense-a-space
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404071354-jal08-arts-spaces.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Pezo von Ellrichshausen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

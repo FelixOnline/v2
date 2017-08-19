@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There’s plenty more fish in the sea – or are there?
 date: "2012-10-05 11:56:31 +0100"
+# Attributes from Felix Online V1
 id: "2606"
 old_path: /science/2606/fishing-for-the-facts
 aliases:
  - /science/2606/fishing-for-the-facts
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051256-nn1209-1-020.jpg"
 image_caption: >
   National papers would have you think these could soon be a rarity, but not is all as it seems...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

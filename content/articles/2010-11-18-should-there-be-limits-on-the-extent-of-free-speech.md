@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A range of opinions on the ever important issue of freedom of speech
 date: "2010-11-18 20:24:40 +0000"
+# Attributes from Felix Online V1
 id: "387"
 old_path: /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
 aliases:
  - /politics/387/should-there-be-limits-on-the-extent-of-free-speech-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

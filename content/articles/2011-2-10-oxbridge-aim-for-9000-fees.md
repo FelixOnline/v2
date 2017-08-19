@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £3,000 reduction for poor students
 date: "2011-02-10 19:58:42 +0000"
+# Attributes from Felix Online V1
 id: "760"
 old_path: /news/760/oxbridge-aim-for-9000-fees-
 aliases:
  - /news/760/oxbridge-aim-for-9000-fees-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

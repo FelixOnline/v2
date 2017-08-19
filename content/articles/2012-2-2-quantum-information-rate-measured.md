@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Information regarding changes to individual atoms in a lattice structure has been shown to propagate at roughly twice the speed of sound
 date: "2012-02-02 19:26:31 +0000"
+# Attributes from Felix Online V1
 id: "2088"
 old_path: /science/2088/quantum-information-rate-measured
 aliases:
  - /science/2088/quantum-information-rate-measured
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

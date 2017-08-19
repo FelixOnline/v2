@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
+# Attributes from Felix Online V1
 id: "658"
 old_path: /science/658/superfast-genome-sequencing-on-a-chip-
 aliases:
  - /science/658/superfast-genome-sequencing-on-a-chip-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271848-ks607-dnadnadn.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ko407"
 author_name: "Kelly Oakes"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

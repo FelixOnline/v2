@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The RSMU President explains how new Union policy has effectively killed bar nights
 date: "2011-10-28 00:17:43 +0100"
+# Attributes from Felix Online V1
 id: "1629"
 old_path: /comment/1629/the-real-effects-of-the-new-bar-night-policy
 aliases:
  - /comment/1629/the-real-effects-of-the-new-bar-night-policy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202027-felix-union-bar.jpg"
 image_caption: >
   Some club chairs want to call time on the new regulations
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

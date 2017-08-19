@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah got the answer through the post
 date: "2013-10-08 03:17:59 +0100"
+# Attributes from Felix Online V1
 id: "3818"
 old_path: /food/3818/what-does-gousto-mean
 aliases:
  - /food/3818/what-does-gousto-mean
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310080417-jal08-cimg4863.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

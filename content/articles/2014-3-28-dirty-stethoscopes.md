@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A study published this month has displayed the possibility that a doctor’s stethoscope could be a major source of bacterial transmission in clinical practice.
 date: "2014-03-28 10:42:15 +0000"
+# Attributes from Felix Online V1
 id: "4514"
 old_path: /features/4514/dirty-stethoscopes-
 aliases:
  - /features/4514/dirty-stethoscopes-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403281042-jal08-1573_doctor_stethescope.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

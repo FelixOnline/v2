@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg follows 1927's Golem, as it makes its move from the Young Vic to the West End
 date: "2015-05-01 10:13:06 +0100"
+# Attributes from Felix Online V1
 id: "5484"
 old_path: /arts/5484/a-surreal-counterargument-to-capitalist-society
 aliases:
  - /arts/5484/a-surreal-counterargument-to-capitalist-society
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505011111-ff712-9shamira_turner_in_1927s_golem_at_the_young_vic_9_dec_2014_-_17_jan_2015._photo_by_bernhard_muller._3.jpg"
 image_caption: >
   Shamira Turner in 1927's Golem
@@ -22,6 +27,7 @@ image_attribution: "Bernhard Müller"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

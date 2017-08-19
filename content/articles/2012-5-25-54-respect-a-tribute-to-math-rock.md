@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pt. IV - Hella
 date: "2012-05-25 18:53:34 +0100"
+# Attributes from Felix Online V1
 id: "2503"
 old_path: /music/2503/54-respect-a-tribute-to-math-rock
 aliases:
  - /music/2503/54-respect-a-tribute-to-math-rock
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251952-mc4509-hella.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

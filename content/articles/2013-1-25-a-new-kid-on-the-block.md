@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Allinson on the new online newspaper at Imperial
 date: "2013-01-25 01:56:24 +0000"
+# Attributes from Felix Online V1
 id: "3189"
 old_path: /news/3189/a-new-kid-on-the-block
 aliases:
  - /news/3189/a-new-kid-on-the-block
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250156-tna08-tab-screenshot.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

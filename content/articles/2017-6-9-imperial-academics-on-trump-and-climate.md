@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Grantham Institute spills the beans
 date: "2017-06-09 14:48:26 +0100"
+# Attributes from Felix Online V1
 id: "7006"
 old_path: /features/7006/imperial-academics-on-trump-and-climate
 aliases:
  - /features/7006/imperial-academics-on-trump-and-climate
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091648-ea3211-5440384453_67fef2d0ee_o.jpg"
 image_caption: >
   Fuck this guy
@@ -22,6 +27,7 @@ image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

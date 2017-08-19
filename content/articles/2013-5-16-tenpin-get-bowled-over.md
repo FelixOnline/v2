@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial come fourth, but weren't too upset by it. Josephine Chiu reports
 date: "2013-05-16 17:50:02 +0100"
+# Attributes from Felix Online V1
 id: "3573"
 old_path: /sport/3573/tenpin-get-bowled-over
 aliases:
  - /sport/3573/tenpin-get-bowled-over
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305161850-tna08-bowling1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

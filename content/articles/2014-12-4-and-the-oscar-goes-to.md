@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park sets the scene for this year's Oscar Race
 date: "2014-12-04 19:39:37 +0000"
+# Attributes from Felix Online V1
 id: "5001"
 old_path: /film/5001/and-the-oscar-goes-to
 aliases:
  - /film/5001/and-the-oscar-goes-to
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041939-cj914-oscars-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "chrisreedfilm.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

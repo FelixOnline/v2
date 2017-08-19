@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Winter Olympics have come to our television screens again, and Gilead Amit shares the view from his couch.
 date: "2010-02-27 17:13:41 +0000"
+# Attributes from Felix Online V1
 id: "113"
 old_path: /comment/113/the-icemen-cometh
 aliases:
  - /comment/113/the-icemen-cometh
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gda07"
 author_name: "Gilead Amit"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

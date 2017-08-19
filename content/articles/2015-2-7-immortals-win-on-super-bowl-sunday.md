@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Hill writes as the Immortals record close victory in Brighton
 date: "2015-02-07 17:25:24 +0000"
+# Attributes from Felix Online V1
 id: "5199"
 old_path: /sport/5199/immortals-win-on-super-bowl-sunday
 aliases:
  - /sport/5199/immortals-win-on-super-bowl-sunday
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

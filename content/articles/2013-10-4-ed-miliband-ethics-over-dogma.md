@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This article was catalysed by the recent conference of The Conservative Party held in Manchester, where voluminous Government policy was proposed and discussed.
 date: "2013-10-04 00:46:26 +0100"
+# Attributes from Felix Online V1
 id: "3803"
 old_path: /comment/3803/ed-miliband-ethics-over-dogma
 aliases:
  - /comment/3803/ed-miliband-ethics-over-dogma
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040145-jal08-comm_ed_milli-copy.jpg"
 image_caption: >
   Red Ed Miliband
@@ -22,6 +27,7 @@ image_attribution: "They could have used a less striking background"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

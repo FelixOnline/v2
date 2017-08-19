@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Furse explores why we dump our dosh in Greggs
 date: "2011-05-06 15:03:43 +0100"
+# Attributes from Felix Online V1
 id: "1175"
 old_path: /food/1175/convenience-for-the-poor
 aliases:
  - /food/1175/convenience-for-the-poor
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

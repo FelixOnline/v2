@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kartikeya Rana analyses the implications of US foreign policy
 date: "2013-11-01 09:29:06 +0000"
+# Attributes from Felix Online V1
 id: "3970"
 old_path: /politics/3970/tensions-escalate-between-us-and-germany
 aliases:
  - /politics/3970/tensions-escalate-between-us-and-germany
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

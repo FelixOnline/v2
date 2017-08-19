@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pt. 3: musique concrète
 date: "2012-10-26 03:11:18 +0100"
+# Attributes from Felix Online V1
 id: "2768"
 old_path: /music/2768/you-dont-have-to-call-it-music-3
 aliases:
  - /music/2768/you-dont-have-to-call-it-music-3
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

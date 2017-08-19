@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Venice has its charms, but more often than not the fact that I was a tourist was shoved in my face at every corner I turned
 date: "2011-05-20 04:24:22 +0100"
+# Attributes from Felix Online V1
 id: "1215"
 old_path: /travel/1215/venice-a-pragmatists-guide
 aliases:
  - /travel/1215/venice-a-pragmatists-guide
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105200523-felix-use-canal.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dana Li"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

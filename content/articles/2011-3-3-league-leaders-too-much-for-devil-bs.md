@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ice Hockey : Imperial B’s 2 - 10 Warwick B’s
 date: "2011-03-03 21:31:22 +0000"
+# Attributes from Felix Online V1
 id: "1028"
 old_path: /sport/1028/league-leaders-too-much-for-devil-bs
 aliases:
  - /sport/1028/league-leaders-too-much-for-devil-bs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

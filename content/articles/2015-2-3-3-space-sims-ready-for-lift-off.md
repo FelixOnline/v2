@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl compares three games you might find space-ial
 date: "2015-02-03 14:58:39 +0000"
+# Attributes from Felix Online V1
 id: "5187"
 old_path: /games/5187/3-space-sims-ready-for-lift-off
 aliases:
  - /games/5187/3-space-sims-ready-for-lift-off
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031458-ps3110-nms.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

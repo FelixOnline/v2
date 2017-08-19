@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Microtransactions and DLC: a bright idea or a big mistake? Laurence Pope decides
 date: "2011-10-21 10:28:37 +0100"
+# Attributes from Felix Online V1
 id: "1591"
 old_path: /games/1591/dlc---to-pay-or-not-to-pay
 aliases:
  - /games/1591/dlc---to-pay-or-not-to-pay
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211559-sjw209-lil_saxton.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Valve"
 image_attribution_link: "http://teamfortress2.com"
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

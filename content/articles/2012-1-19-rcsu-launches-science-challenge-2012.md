@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Overall winner to receive tour of CERN, House of Lords reception and £2,000
 date: "2012-01-19 22:41:41 +0000"
+# Attributes from Felix Online V1
 id: "2034"
 old_path: /news/2034/rcsu-launches-science-challenge-2012
 aliases:
  - /news/2034/rcsu-launches-science-challenge-2012
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192239-felix-aimg_0620.jpg"
 image_caption: >
   (Left to right) Peter Lacy, Lord Robert Winston, and Pallab Ghosh
@@ -22,6 +27,7 @@ image_attribution: "Maria Veiga"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

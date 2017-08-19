@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The club has been placed on hiatus pending investigation
 date: "2015-01-22 19:42:20 +0000"
+# Attributes from Felix Online V1
 id: "5104"
 old_path: /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
 aliases:
  - /news/5104/another-broken-coach-window-and-a-suspension-for-icsm-boat-club
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501221942-ps3110-screen-shot-2015-01-20-at-13.21.44.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tell Spring Not to Come This Year is a vital, beautiful exploration of a broken country
 date: "2015-11-20 14:13:16 +0000"
+# Attributes from Felix Online V1
 id: "5769"
 old_path: /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
 aliases:
  - /film/5769/a-mournful-brilliantly-told-story-of-warfare-in-afghanistan
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511201412-ff712-1874.jpg"
 image_caption: >
   Scared, tired and alone in the fight. Tell Spring paints an intimately grim picture of the lives of these Afghan soldiers
@@ -22,6 +27,7 @@ image_attribution: "Tell Spring Not to Come This Year PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

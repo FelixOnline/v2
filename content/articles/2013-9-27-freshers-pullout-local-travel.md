@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A quick guide to travelling around London.
 date: "2013-09-27 23:20:58 +0100"
+# Attributes from Felix Online V1
 id: "3763"
 old_path: /features/3763/freshers-pullout-local-travel
 aliases:
  - /features/3763/freshers-pullout-local-travel
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309280022-jal08-boris-johnson.jpg"
 image_caption: >
   Eeny, meeny, miny, moe...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

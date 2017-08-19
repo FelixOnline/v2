@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is analysed by Fred Fyles
 date: "2014-11-24 12:20:58 +0000"
+# Attributes from Felix Online V1
 id: "4935"
 old_path: /arts/4935/a-lacklustre-show-from-the-father-of-misogyny
 aliases:
  - /arts/4935/a-lacklustre-show-from-the-father-of-misogyny
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241221-ps3110-xoxmi5opj2t1n9cv4zzc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

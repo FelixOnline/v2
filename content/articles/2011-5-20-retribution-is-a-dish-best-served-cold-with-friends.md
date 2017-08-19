@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tagore Nakornchai has his space cake and eats it in real-time strategy Dawn of War II: Retribution, where a enjoyable if repetitive single player campaign makes way for a fantastic multiplayer experience
 date: "2011-05-20 04:35:28 +0100"
+# Attributes from Felix Online V1
 id: "1219"
 old_path: /games/1219/retribution-is-a-dish-best-served-cold-with-friends
 aliases:
  - /games/1219/retribution-is-a-dish-best-served-cold-with-friends
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105211049-sjw209-retribution-logo.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "thekoalition.com"
 image_attribution_link: "http://www.thekoalition.com"
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

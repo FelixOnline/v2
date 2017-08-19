@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Antonio Torrisi reports on a study of attitudes towards geoengineering
 date: "2011-11-03 19:52:21 +0000"
+# Attributes from Felix Online V1
 id: "1657"
 old_path: /science/1657/do-the-public-trust-scientists
 aliases:
  - /science/1657/do-the-public-trust-scientists
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031951-pk1811-p1030933_4_5_6_7_8_9_tonemapped.jpg"
 image_caption: >
   Cloudy skies could become an even more common sight if geoengineering technique cloud seeding become
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

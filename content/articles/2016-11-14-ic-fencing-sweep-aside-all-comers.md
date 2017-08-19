@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They were on point
 date: "2016-11-14 14:22:19 +0000"
+# Attributes from Felix Online V1
 id: "6451"
 old_path: /sport/6451/ic-fencing-sweep-aside-all-comers-
 aliases:
  - /sport/6451/ic-fencing-sweep-aside-all-comers-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141422-felix-fencing.PNG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

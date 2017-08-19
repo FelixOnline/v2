@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mo Mirza finds a treat at Bush Hall
 date: "2012-11-23 00:19:53 +0000"
+# Attributes from Felix Online V1
 id: "2969"
 old_path: /music/2969/grass-is-greener
 aliases:
  - /music/2969/grass-is-greener
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211230019-tna08-adambinki2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

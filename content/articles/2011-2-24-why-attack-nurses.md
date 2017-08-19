@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Do nurses deserve the brunt?
 date: "2011-02-24 20:31:46 +0000"
+# Attributes from Felix Online V1
 id: "891"
 old_path: /comment/891/why-attack-nurses
 aliases:
  - /comment/891/why-attack-nurses
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett reports as College secure new Varsity Trophy
 date: "2015-03-19 23:44:30 +0000"
+# Attributes from Felix Online V1
 id: "5407"
 old_path: /sport/5407/college-comfortably-win-varsity-2015
 aliases:
  - /sport/5407/college-comfortably-win-varsity-2015
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192344-kmw13-tbl_varsity_quick_set_20h38m25s.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

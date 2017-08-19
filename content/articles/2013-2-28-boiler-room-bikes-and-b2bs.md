@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray gets a taste of the Red Stripe Make Session series
 date: "2013-02-28 23:28:10 +0000"
+# Attributes from Felix Online V1
 id: "3387"
 old_path: /music/3387/boiler-room-bikes-and-b2bs
 aliases:
  - /music/3387/boiler-room-bikes-and-b2bs
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282327-tna08-g035-800x-4.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

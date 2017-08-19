@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Warm up the kitchen with some classic Christmas baking
 date: "2011-12-08 21:50:23 +0000"
+# Attributes from Felix Online V1
 id: "1947"
 old_path: /food/1947/frosty-the-cupcake-
 aliases:
  - /food/1947/frosty-the-cupcake-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082150-pk1811-img_7297.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

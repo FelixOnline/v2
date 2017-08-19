@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As Eating Disorder Awareness Week edges closer, one reader shares with us their struggle with anorexia. Through the haziness they try to recall the ups, the downs and the lessons learned.
 date: "2017-02-03 18:07:32 +0000"
+# Attributes from Felix Online V1
 id: "6737"
 old_path: /features/6737/starving-anxiety-into-submission--anorexia
 aliases:
  - /features/6737/starving-anxiety-into-submission--anorexia
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031807-felix-Screen Shot 2017-02-03 at 18.06.27.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

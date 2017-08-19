@@ -4,15 +4,20 @@ title: >
 subtitle: >
   External organisation seeks to influence student votes
 date: "2013-11-01 09:07:09 +0000"
+# Attributes from Felix Online V1
 id: "3964"
 old_path: /news/3964/british-influence-approaches-the-union-to-make-a-stance-on-ukip
 aliases:
  - /news/3964/british-influence-approaches-the-union-to-make-a-stance-on-ukip
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010907-felix-eu-flag.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Federico Gambarini/EPA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

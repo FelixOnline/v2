@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Affleck's lastest outing as a director is a masterclass in dark comedy and political satire
 date: "2012-11-01 23:04:29 +0000"
+# Attributes from Felix Online V1
 id: "2808"
 old_path: /film/2808/argo-f-yourself
 aliases:
  - /film/2808/argo-f-yourself
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012303-tna08-argo_2332534b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

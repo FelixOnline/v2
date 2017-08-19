@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Going Big, or Going Home for the candidates, as it's the last chance to gain votes.
 date: "2013-03-15 00:30:00 +0000"
+# Attributes from Felix Online V1
 id: "3461"
 old_path: /news/3461/big-elections-voting-shuts-at-midday-on-friday
 aliases:
  - /news/3461/big-elections-voting-shuts-at-midday-on-friday
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150030-tna08-rtv-logo-styled-square.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

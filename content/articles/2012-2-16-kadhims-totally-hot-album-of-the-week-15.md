@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Black Keys - El Camino - Nonesuch Records - 2011
 date: "2012-02-16 21:38:58 +0000"
+# Attributes from Felix Online V1
 id: "2192"
 old_path: /music/2192/kadhims-totally-hot-album-of-the-week-15
 aliases:
  - /music/2192/kadhims-totally-hot-album-of-the-week-15
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162138-pk1811-elcamino.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

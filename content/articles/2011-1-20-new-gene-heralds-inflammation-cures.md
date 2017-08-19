@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College London develops potential method to control the body's inflammatory response
 date: "2011-01-20 19:24:19 +0000"
+# Attributes from Felix Online V1
 id: "605"
 old_path: /science/605/new-gene-heralds-inflammation-cures-
 aliases:
  - /science/605/new-gene-heralds-inflammation-cures-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

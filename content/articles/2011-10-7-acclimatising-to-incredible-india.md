@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Follow the adventures of a backpacker across the mighty subcontinent, beginning with some sightseeing in the country’s brilliant capital city
 date: "2011-10-07 13:10:56 +0100"
+# Attributes from Felix Online V1
 id: "1497"
 old_path: /travel/1497/acclimatising-to-incredible-india
 aliases:
  - /travel/1497/acclimatising-to-incredible-india
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071409-felix-delhi.jpg"
 image_caption: >
   Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

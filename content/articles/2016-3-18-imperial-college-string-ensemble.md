@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
+# Attributes from Felix Online V1
 id: "6075"
 old_path: /cands/6075/imperial-college-string-ensemble
 aliases:
  - /cands/6075/imperial-college-string-ensemble
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181204-felix-ICSE-Image-2.jpg"
 image_caption: >
   A very happy ensemble on a very successful trip!
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Rawlinson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Life without Internet: Egypt Diaries
 date: "2011-02-03 20:24:12 +0000"
+# Attributes from Felix Online V1
 id: "744"
 old_path: /tech/744/egypt-in-complete-internet-blackout-
 aliases:
  - /tech/744/egypt-in-complete-internet-blackout-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

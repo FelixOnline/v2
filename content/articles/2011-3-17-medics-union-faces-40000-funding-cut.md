@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Healthcare Charity to reduce support for Medic Union
 date: "2011-03-17 19:20:44 +0000"
+# Attributes from Felix Online V1
 id: "1087"
 old_path: /news/1087/medics-union-faces-40000-funding-cut
 aliases:
  - /news/1087/medics-union-faces-40000-funding-cut
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103171916-ks607-medicstu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

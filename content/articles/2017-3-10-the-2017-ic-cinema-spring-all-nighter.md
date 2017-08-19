@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Have you even gone to Imperial if you haven't been to one of these?
 date: "2017-03-10 14:37:21 +0000"
+# Attributes from Felix Online V1
 id: "6884"
 old_path: /cands/6884/the-2017-ic-cinema-spring-all-nighter
 aliases:
  - /cands/6884/the-2017-ic-cinema-spring-all-nighter
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101435-felix-6883264549_91e06f3034_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Diego David Garcia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

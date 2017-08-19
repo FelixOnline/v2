@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The right to protest is being violated by those whose job it is to defend it
 date: "2012-11-22 23:58:38 +0000"
+# Attributes from Felix Online V1
 id: "2953"
 old_path: /comment/2953/totally-shambolic-policing-tactics
 aliases:
  - /comment/2953/totally-shambolic-policing-tactics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222358-tna08-2012-11-21-12.55.55.jpg"
 image_caption: >
   Photo by Benjamin Lester
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

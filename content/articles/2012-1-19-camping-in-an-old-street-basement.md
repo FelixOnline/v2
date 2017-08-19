@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Don't judge a place by its handle
 date: "2012-01-19 21:03:54 +0000"
+# Attributes from Felix Online V1
 id: "2025"
 old_path: /music/2025/camping-in-an-old-street-basement
 aliases:
  - /music/2025/camping-in-an-old-street-basement
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192103-cac111-camp-inigo.jpg"
 image_caption: >
   Redrum in the basement
@@ -22,6 +27,7 @@ image_attribution: "Íñigo Martínez de Rituerto"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

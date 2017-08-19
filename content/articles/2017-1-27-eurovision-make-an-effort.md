@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Masters doesn't care about Trump, but does care about Eurovision
 date: "2017-01-27 16:23:21 +0000"
+# Attributes from Felix Online V1
 id: "6688"
 old_path: /comment/6688/eurovision-make-an-effort
 aliases:
  - /comment/6688/eurovision-make-an-effort
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271639-felix-Screen Shot 2017-01-27 at 16.27.08.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

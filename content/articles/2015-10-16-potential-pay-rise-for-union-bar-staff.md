@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union council asked about paying students the London Living Wage
 date: "2015-10-16 14:28:40 +0100"
+# Attributes from Felix Online V1
 id: "5656"
 old_path: /news/5656/potential-pay-rise-for-union-bar-staff
 aliases:
  - /news/5656/potential-pay-rise-for-union-bar-staff
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161528-ygr12-201101132133-ks607-fivesixe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

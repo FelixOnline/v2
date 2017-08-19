@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Hecker's Ravedeath
 date: "2011-10-21 11:27:07 +0100"
+# Attributes from Felix Online V1
 id: "1599"
 old_path: /music/1599/piano-drops-in-iceland
 aliases:
  - /music/1599/piano-drops-in-iceland
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

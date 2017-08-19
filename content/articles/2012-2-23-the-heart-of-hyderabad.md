@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A whistle-stop tour through the sights of the famous Indian city
 date: "2012-02-23 20:45:27 +0000"
+# Attributes from Felix Online V1
 id: "2242"
 old_path: /travel/2242/the-heart-of-hyderabad-
 aliases:
  - /travel/2242/the-heart-of-hyderabad-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232049-ams111-charminar.gif"
 image_caption: >
   So much to see, so little time
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

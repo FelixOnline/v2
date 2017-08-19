@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix catches up with the City & Guilds Union. We hear what they’ve been getting up to over the last few week and what we can expect for the future.
 date: "2013-11-05 09:49:47 +0000"
+# Attributes from Felix Online V1
 id: "4007"
 old_path: /features/4007/keeping-up-with-the-engineers
 aliases:
  - /features/4007/keeping-up-with-the-engineers
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311181818-cac111-1397483_560233020715380_1477261187_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

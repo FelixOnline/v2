@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Elizabeth Crow on "a very posh pub, darling"
 date: "2012-10-18 21:44:19 +0100"
+# Attributes from Felix Online V1
 id: "2719"
 old_path: /food/2719/the-white-horse
 aliases:
  - /food/2719/the-white-horse
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

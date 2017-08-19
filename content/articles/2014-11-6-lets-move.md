@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park explores the health epidemic plaguing the lives of Americans
 date: "2014-11-06 19:25:35 +0000"
+# Attributes from Felix Online V1
 id: "4778"
 old_path: /film/4778/lets-move
 aliases:
  - /film/4778/lets-move
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061925-snb11-fed-up-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "huffingtonpost"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

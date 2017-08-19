@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grace Rahman reflects on the events of a year that hasn’t really ended
 date: "2015-06-18 19:56:51 +0100"
+# Attributes from Felix Online V1
 id: "5631"
 old_path: /music/5631/the-years-biggest-moments-in-music
 aliases:
  - /music/5631/the-years-biggest-moments-in-music
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506182049-jyg11-kate-bush.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

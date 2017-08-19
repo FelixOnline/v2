@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber interviews Union President Ashley Brown on his achievements and failings as president so far
 date: "2010-02-01 16:23:46 +0000"
+# Attributes from Felix Online V1
 id: "58"
 old_path: /news/58/the-state-of-our-union
 aliases:
  - /news/58/the-state-of-our-union
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002011617-rsp07-ashleybr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

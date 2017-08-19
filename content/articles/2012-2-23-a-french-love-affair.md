@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Wood fell in love - with a handbag
 date: "2012-02-23 20:36:11 +0000"
+# Attributes from Felix Online V1
 id: "2237"
 old_path: /comment/2237/a-french-love-affair
 aliases:
  - /comment/2237/a-french-love-affair
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232035-ams111-coco-chanel.jpg"
 image_caption: >
   Oh Coco, smoking isn’t cool, it just sort of looks it. Damn
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

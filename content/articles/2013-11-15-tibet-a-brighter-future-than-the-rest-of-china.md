@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A student responds to last week's article about Tibet
 date: "2013-11-15 02:21:45 +0000"
+# Attributes from Felix Online V1
 id: "4065"
 old_path: /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
 aliases:
  - /comment/4065/tibet-a-brighter-future-than-the-rest-of-china
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311150243-felix-dalailama.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

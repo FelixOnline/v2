@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
+# Attributes from Felix Online V1
 id: "5443"
 old_path: /arts/5443/tokyo-no-go-when-acting-goes-wrong
 aliases:
  - /arts/5443/tokyo-no-go-when-acting-goes-wrong
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
 image_caption: >
   Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls
@@ -22,6 +27,7 @@ image_attribution: "Alexander Newton"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

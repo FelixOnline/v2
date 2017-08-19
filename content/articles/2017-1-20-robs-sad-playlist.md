@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Got those pesky January blues? Exam stress getting you down? Bask in your own sweet, sweet self pity with this playlist from our very own Rob Garside.
 date: "2017-01-20 15:26:08 +0000"
+# Attributes from Felix Online V1
 id: "6670"
 old_path: /music/6670/robs-sad-playlist
 aliases:
  - /music/6670/robs-sad-playlist
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201522-felix-7366772320_351de23de2_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Paul Padshewscky"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

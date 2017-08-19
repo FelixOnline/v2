@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Worthington chats to Imperial alumni Marc Hull about the gaming industry
 date: "2011-05-27 13:39:19 +0100"
+# Attributes from Felix Online V1
 id: "1272"
 old_path: /games/1272/game-2011-marc-hull-from-frontier-developments
 aliases:
  - /games/1272/game-2011-marc-hull-from-frontier-developments
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105271440-felix-dsc01266resized.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

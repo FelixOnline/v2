@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Learn more about IC’s premier broadcasters
 date: "2012-11-15 21:35:10 +0000"
+# Attributes from Felix Online V1
 id: "2899"
 old_path: /music/2899/ic-radio-special
 aliases:
  - /music/2899/ic-radio-special
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152134-tna08-studio-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

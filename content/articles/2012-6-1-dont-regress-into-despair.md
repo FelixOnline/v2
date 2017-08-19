@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The joy of stats (and patience) in a scientific world
 date: "2012-06-01 13:30:27 +0100"
+# Attributes from Felix Online V1
 id: "2516"
 old_path: /science/2516/dont-regress-into-despair
 aliases:
  - /science/2516/dont-regress-into-despair
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011430-mc4509-20100315144150-1.jpg"
 image_caption: >
   Regression analysis. Actually as simple as drawing a big arrow through some dots
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

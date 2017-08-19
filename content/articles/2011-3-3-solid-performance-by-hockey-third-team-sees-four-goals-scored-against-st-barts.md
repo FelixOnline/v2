@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Men’s Hockey: Imperial 3s 4 - 0 St. Barts
 date: "2011-03-03 21:34:39 +0000"
+# Attributes from Felix Online V1
 id: "1029"
 old_path: /sport/1029/solid-performance-by-hockey-third-team-sees-four-goals-scored-against-st-barts
 aliases:
  - /sport/1029/solid-performance-by-hockey-third-team-sees-four-goals-scored-against-st-barts
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

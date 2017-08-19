@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A Round-Heeled Woman: as cringeworthy as a Christmas dinner gone wrong
 date: "2011-12-08 21:02:50 +0000"
+# Attributes from Felix Online V1
 id: "1927"
 old_path: /arts/1927/sexagenarian-eager-beavers
 aliases:
  - /arts/1927/sexagenarian-eager-beavers
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082102-pk1811-roundheeled.jpg"
 image_caption: >
   Sexy at sixty-seven
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

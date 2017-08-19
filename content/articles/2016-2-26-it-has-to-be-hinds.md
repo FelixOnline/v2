@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They played with a youthful exuberance
 date: "2016-02-26 11:50:09 +0000"
+# Attributes from Felix Online V1
 id: "5971"
 old_path: /music/5971/it-has-to-be-hinds
 aliases:
  - /music/5971/it-has-to-be-hinds
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261149-felix-hinds2.jpg"
 image_caption: >
   FKA Deers
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

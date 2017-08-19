@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If you know what I mean
 date: "2016-11-25 14:52:39 +0000"
+# Attributes from Felix Online V1
 id: "6517"
 old_path: /sport/6517/american-football-make-pirates-walk-plank
 aliases:
  - /sport/6517/american-football-make-pirates-walk-plank
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251452-felix-Second_game felix.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

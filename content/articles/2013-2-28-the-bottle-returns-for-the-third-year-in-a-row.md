@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sorcha Cotter on the Bottle Match. Fortunately, not on the aftermath...
 date: "2013-02-28 23:56:32 +0000"
+# Attributes from Felix Online V1
 id: "3397"
 old_path: /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
 aliases:
  - /sport/3397/the-bottle-returns-for-the-third-year-in-a-row
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282355-tna08-72360_10151269654966010_1083927323_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

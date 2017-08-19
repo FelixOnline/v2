@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Aki Matsushima compares the giants of the meat world
 date: "2011-03-21 10:49:17 +0000"
+# Attributes from Felix Online V1
 id: "1118"
 old_path: /food/1118/the-big-meat-fight
 aliases:
  - /food/1118/the-big-meat-fight
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103211037-ks607-burgerbu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lost in Cheeseland"
 image_attribution_link: "http://www.lostincheeseland.com/2010/08/good-eats-in-london.html"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

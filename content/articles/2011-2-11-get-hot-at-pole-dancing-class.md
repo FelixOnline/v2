@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Beware, this is serious exercise people
 date: "2011-02-11 06:43:35 +0000"
+# Attributes from Felix Online V1
 id: "800"
 old_path: /arts/800/get-hot-at-pole-dancing-class
 aliases:
  - /arts/800/get-hot-at-pole-dancing-class
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102110641-ks607-poledanc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

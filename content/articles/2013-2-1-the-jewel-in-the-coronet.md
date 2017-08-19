@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An amazing and tucked away cinema just down the road
 date: "2013-02-01 01:03:03 +0000"
+# Attributes from Felix Online V1
 id: "3238"
 old_path: /film/3238/the-jewel-in-the-coronet
 aliases:
  - /film/3238/the-jewel-in-the-coronet
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010102-tna08-coronet_003_edited.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

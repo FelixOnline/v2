@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It is time to acknowledge the existence of a rape culture
 date: "2012-03-15 21:49:05 +0000"
+# Attributes from Felix Online V1
 id: "2394"
 old_path: /comment/2394/just-a-joke
 aliases:
  - /comment/2394/just-a-joke
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

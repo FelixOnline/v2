@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Or at least, he tries to be! Kamil McClelland discusses *THAT* lifestyle choice
 date: "2014-11-24 20:34:58 +0000"
+# Attributes from Felix Online V1
 id: "4954"
 old_path: /food/4954/foodie-insight-02-why-im-vegetarian
 aliases:
  - /food/4954/foodie-insight-02-why-im-vegetarian
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411242034-ps3110-women_lunch_talking.jpg"
 image_caption: >
   "No dahhhling, I didn't say I was leaving him because he was going vegetarian. I just told him he wa
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

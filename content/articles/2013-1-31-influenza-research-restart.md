@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on the H5N1 moratorium and why caution isn’t bad
 date: "2013-01-31 23:31:49 +0000"
+# Attributes from Felix Online V1
 id: "3209"
 old_path: /science/3209/influenza-research-restart
 aliases:
  - /science/3209/influenza-research-restart
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302011233-tna08-h5n1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

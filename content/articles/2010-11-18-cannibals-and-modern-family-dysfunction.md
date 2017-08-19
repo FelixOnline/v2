@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We Are What We Are doubles as shock horror and social satire
 date: "2010-11-18 20:53:08 +0000"
+# Attributes from Felix Online V1
 id: "396"
 old_path: /film/396/cannibals-and-modern-family-dysfunction
 aliases:
  - /film/396/cannibals-and-modern-family-dysfunction
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182051-nm1010-wearewha.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

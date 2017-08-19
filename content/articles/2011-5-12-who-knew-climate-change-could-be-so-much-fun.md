@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Bowers becomes a global dictator while reviewing Fate of the World
 date: "2011-05-12 18:41:25 +0100"
+# Attributes from Felix Online V1
 id: "1197"
 old_path: /games/1197/who-knew-climate-change-could-be-so-much-fun
 aliases:
  - /games/1197/who-knew-climate-change-could-be-so-much-fun
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121939-felix-08_globe-with-devastation-overlay-over-arctic-or-antarctic-(2050).jpg"
 image_caption: >
   All you need to be a world leader is to be able to use Google Earth
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

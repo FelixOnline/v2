@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ezra Kitson learns about female heterosexual desire from a monologue "written by an anonymous woman, performed by an unprepared man"
 date: "2017-05-25 12:03:55 +0100"
+# Attributes from Felix Online V1
 id: "6977"
 old_path: /arts/6977/manwatching--want-women-really-want
 aliases:
  - /arts/6977/manwatching--want-women-really-want
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705251403-im1413-helenmurray-Manwatching-Royal-Court.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photo: Helen Murray"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

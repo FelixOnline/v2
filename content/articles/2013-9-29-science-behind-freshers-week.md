@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett gets you ready to face your greatest fear: socialising
 date: "2013-09-29 14:30:49 +0100"
+# Attributes from Felix Online V1
 id: "3773"
 old_path: /science/3773/science-behind-freshers-week
 aliases:
  - /science/3773/science-behind-freshers-week
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291542-jal08-mf_ddp_large.jpg"
 image_caption: >
   See this? This won’t be you. See that guy with glasses sitting in the corner texting. Guess where th
@@ -22,6 +27,7 @@ image_attribution: "Wired"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

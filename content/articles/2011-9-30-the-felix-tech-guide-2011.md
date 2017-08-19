@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
+# Attributes from Felix Online V1
 id: "1460"
 old_path: /tech/1460/the-felix-tech-guide-2011
 aliases:
  - /tech/1460/the-felix-tech-guide-2011
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201109301305-felix-314_1404.jpg"
 image_caption: >
   Freshers' Fair can wait...
@@ -22,6 +27,7 @@ image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

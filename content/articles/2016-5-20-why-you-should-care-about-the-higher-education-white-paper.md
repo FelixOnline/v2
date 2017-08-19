@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It's not good news
 date: "2016-05-20 08:56:57 +0100"
+# Attributes from Felix Online V1
 id: "6177"
 old_path: /comment/6177/why-you-should-care-about-the-higher-education-white-paper
 aliases:
  - /comment/6177/why-you-should-care-about-the-higher-education-white-paper
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201056-felix-newseventsimages.jpeg"
 image_caption: >
   Customers, customers everywhere.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

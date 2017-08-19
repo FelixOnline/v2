@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Van She supported by Sans Cisco take to the state in Camden
 date: "2012-10-18 21:33:46 +0100"
+# Attributes from Felix Online V1
 id: "2712"
 old_path: /music/2712/van-she-do-koko
 aliases:
  - /music/2712/van-she-do-koko
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191356-tna08-van-she.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

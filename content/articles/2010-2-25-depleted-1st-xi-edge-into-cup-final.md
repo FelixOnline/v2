@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Men's 1st XI 1 - 0 RUMS 1st XI
 date: "2010-02-25 18:52:49 +0000"
+# Attributes from Felix Online V1
 id: "106"
 old_path: /sport/106/depleted-1st-xi-edge-into-cup-final
 aliases:
  - /sport/106/depleted-1st-xi-edge-into-cup-final
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251850-mb506-ICUAFC.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mb506"
 author_name: "Mustapher Botchway"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

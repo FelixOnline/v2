@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking back on twenty years at the forefront of fashion
 date: "2012-01-19 21:18:12 +0000"
+# Attributes from Felix Online V1
 id: "2029"
 old_path: /arts/2029/dazed--confused-at-somerset-house
 aliases:
  - /arts/2029/dazed--confused-at-somerset-house
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192117-pk1811-dazed-and-confused-exhibition-at-somerset-house-london.jpg"
 image_caption: >
   Dazed? Confused? Our caption writers are
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

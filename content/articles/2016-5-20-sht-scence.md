@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-20 09:08:42 +0100"
+# Attributes from Felix Online V1
 id: "6184"
 old_path: /science/6184/sht-scence
 aliases:
  - /science/6184/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201108-felix-12446542923_a85e11e511_o.jpg"
 image_caption: >
   The study suggests that our ancenstors might have had a better diet than us, but maybe they just never stopped eating.
@@ -22,6 +27,7 @@ image_attribution: "Mike Mozart"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

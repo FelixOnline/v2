@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland explores one of the world’s leading art fairs
 date: "2013-10-25 00:26:31 +0100"
+# Attributes from Felix Online V1
 id: "3928"
 old_path: /arts/3928/more-than-a-hipster-art-safari
 aliases:
  - /arts/3928/more-than-a-hipster-art-safari
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "LINDA NYLAND © FRIEZE"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

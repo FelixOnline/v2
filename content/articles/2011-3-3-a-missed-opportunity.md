@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You will meet a disappointing film in Woody Allen’s fortieth feature length rom-com
 date: "2011-03-03 06:15:25 +0000"
+# Attributes from Felix Online V1
 id: "986"
 old_path: /film/986/a-missed-opportunity
 aliases:
  - /film/986/a-missed-opportunity
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

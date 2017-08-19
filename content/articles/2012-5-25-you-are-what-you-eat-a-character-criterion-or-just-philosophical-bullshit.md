@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Renos Karamanis analyses Imperial’s food habits.
 date: "2012-05-25 18:11:35 +0100"
+# Attributes from Felix Online V1
 id: "2496"
 old_path: /food/2496/you-are-what-you-eat-a-character-criterion-or-just-philosophical-bullshit
 aliases:
  - /food/2496/you-are-what-you-eat-a-character-criterion-or-just-philosophical-bullshit
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ioanna Kalogeraki"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

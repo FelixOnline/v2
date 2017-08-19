@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The letter is full of the most exquisite wording, with all the subtlety of an elephant–based strip parlour
 date: "2011-01-20 21:06:17 +0000"
+# Attributes from Felix Online V1
 id: "642"
 old_path: /comment/642/tv-license-to-kill-your-patience
 aliases:
  - /comment/642/tv-license-to-kill-your-patience
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

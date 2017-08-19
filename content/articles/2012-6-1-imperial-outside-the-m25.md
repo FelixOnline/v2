@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All about Silwood – improvement and evolution
 date: "2012-06-01 12:38:12 +0100"
+# Attributes from Felix Online V1
 id: "2511"
 old_path: /comment/2511/imperial-outside-the-m25
 aliases:
  - /comment/2511/imperial-outside-the-m25
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011336-mc4509-silwood.jpg"
 image_caption: >
   Don’t worry, they’ve put a new facade on Mech Eng so it now looks as good as this...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

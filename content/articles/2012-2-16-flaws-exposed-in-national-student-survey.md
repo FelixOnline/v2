@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
+# Attributes from Felix Online V1
 id: "2212"
 old_path: /news/2212/flaws-exposed-in-national-student-survey
 aliases:
  - /news/2212/flaws-exposed-in-national-student-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202201456-felix-nss.jpg"
 image_caption: >
   Information gained from the TeachDB database includes name, CID, and year
@@ -22,6 +27,7 @@ image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

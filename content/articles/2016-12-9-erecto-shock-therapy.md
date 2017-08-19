@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lara Bailey explores how brain stimulation can affect our libidos
 date: "2016-12-09 12:05:59 +0000"
+# Attributes from Felix Online V1
 id: "6564"
 old_path: /science/6564/erecto-shock-therapy
 aliases:
  - /science/6564/erecto-shock-therapy
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091204-aib116-9163839223_a0527f5cc3_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BiERLOS a.k.a. photörhead.ch"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

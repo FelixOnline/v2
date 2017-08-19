@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rebekah Judge tries to convince you to confront your own mortality and become an organ donor
 date: "2013-05-09 22:03:21 +0100"
+# Attributes from Felix Online V1
 id: "3563"
 old_path: /news/3563/organ-donor-drive-at-imperial
 aliases:
  - /news/3563/organ-donor-drive-at-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305092302-tna08-donor-card-001.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

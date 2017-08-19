@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Can Twitter’s recently re-instated CEO, Jack Dorsey, do better this time?
 date: "2015-10-16 14:56:48 +0100"
+# Attributes from Felix Online V1
 id: "5660"
 old_path: /biz/5660/old-dog-new-tricks
 aliases:
  - /biz/5660/old-dog-new-tricks
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161556-ygr12-twitter_town_hall-dorsey_obama.png"
 image_caption: >
   Pete Souza
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
+# Attributes from Felix Online V1
 id: "543"
 old_path: /news/543/the-human-cost-of-the-restructure
 aliases:
  - /news/543/the-human-cost-of-the-restructure
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "skd09"
 author_name: "Sophia David"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

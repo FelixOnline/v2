@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Italy may be a ship full of holes but it refuses to sink and there’s no better captain than Silvio
 date: "2010-11-11 21:13:17 +0000"
+# Attributes from Felix Online V1
 id: "355"
 old_path: /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
 aliases:
  - /politics/355/forza-berlusconi-at-least-hes-living-la-dolce-vita
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112111-ks607-berlusco.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

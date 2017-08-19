@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "With performances like this, the 7s are sure to quickly rise up the table."
 date: "2011-12-01 21:24:43 +0000"
+# Attributes from Felix Online V1
 id: "1891"
 old_path: /sport/1891/football-mens-7s-make-light-work-of-heythrop
 aliases:
  - /sport/1891/football-mens-7s-make-light-work-of-heythrop
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012123-ams111-picture.jpg"
 image_caption: >
   Darren Ambrose, eat your heart out
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

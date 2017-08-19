@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rocío Molina on the tough process that it takes to produce great art
 date: "2013-02-13 16:43:32 +0000"
+# Attributes from Felix Online V1
 id: "3312"
 old_path: /arts/3312/flukeworms
 aliases:
  - /arts/3312/flukeworms
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

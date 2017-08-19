@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
+# Attributes from Felix Online V1
 id: "4809"
 old_path: /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
 aliases:
  - /arts/4809/voyeur-at-the-courtauld-schieles-radical-nude-impresses
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062149-snb11-two-girls-embracing-(friends)-1915-copy.jpg"
 image_caption: >
   Two Girls Embracing (Friends) 1915
@@ -22,6 +27,7 @@ image_attribution: "Egon Schiele"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

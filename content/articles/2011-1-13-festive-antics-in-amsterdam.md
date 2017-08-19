@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At the mere mention of the place certain thoughts spring to mind. Felix decided it would be the perfect Christmas revision getaway
 date: "2011-01-13 20:43:23 +0000"
+# Attributes from Felix Online V1
 id: "584"
 old_path: /travel/584/festive-antics-in-amsterdam-
 aliases:
  - /travel/584/festive-antics-in-amsterdam-
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

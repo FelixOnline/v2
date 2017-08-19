@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park awards three stars to St. Vincent
 date: "2014-12-04 19:43:21 +0000"
+# Attributes from Felix Online V1
 id: "5003"
 old_path: /film/5003/when-the-saints-go-marching-in
 aliases:
  - /film/5003/when-the-saints-go-marching-in
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412041943-cj914-st-vincent.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "shockya.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

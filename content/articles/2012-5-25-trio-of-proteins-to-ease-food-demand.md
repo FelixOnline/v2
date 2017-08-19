@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Demand for food and fuels could be reduced
 date: "2012-05-25 14:29:14 +0100"
+# Attributes from Felix Online V1
 id: "2494"
 old_path: /science/2494/trio-of-proteins-to-ease-food-demand
 aliases:
  - /science/2494/trio-of-proteins-to-ease-food-demand
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205251528-mc4509-s3.jpg"
 image_caption: >
   Part of the ribbon diagram for an X-ray crystal structure
@@ -22,6 +27,7 @@ image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yariv Mozer visits Imperial
 date: "2016-11-18 15:35:19 +0000"
+# Attributes from Felix Online V1
 id: "6479"
 old_path: /film/6479/yariv-mozer---the-invisible-men
 aliases:
  - /film/6479/yariv-mozer---the-invisible-men
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181535-felix-invisible-men-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Mozer Films"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

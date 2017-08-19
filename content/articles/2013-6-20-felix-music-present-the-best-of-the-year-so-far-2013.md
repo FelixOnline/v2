@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray offers dark obscurities and a dreamy indie release
 date: "2013-06-20 23:10:56 +0100"
+# Attributes from Felix Online V1
 id: "3717"
 old_path: /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
 aliases:
  - /music/3717/felix-music-present-the-best-of-the-year-so-far-2013
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

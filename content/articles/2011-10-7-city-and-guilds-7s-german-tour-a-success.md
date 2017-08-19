@@ -4,15 +4,20 @@ title: >
 subtitle: >
   City & Guilds 7s tour Berlin
 date: "2011-10-07 01:14:08 +0100"
+# Attributes from Felix Online V1
 id: "1473"
 old_path: /sport/1473/city-and-guilds-7s-german-tour-a-success
 aliases:
  - /sport/1473/city-and-guilds-7s-german-tour-a-success
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

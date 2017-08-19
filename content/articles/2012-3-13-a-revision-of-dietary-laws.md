@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chewing over dietary restrictions
 date: "2012-03-13 14:19:41 +0000"
+# Attributes from Felix Online V1
 id: "2340"
 old_path: /comment/2340/a-revision-of-dietary-laws
 aliases:
  - /comment/2340/a-revision-of-dietary-laws
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

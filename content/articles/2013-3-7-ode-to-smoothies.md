@@ -4,15 +4,20 @@ title: >
 subtitle: >
   How to get your 5 a day whilst still downing pints
 date: "2013-03-07 21:50:57 +0000"
+# Attributes from Felix Online V1
 id: "3431"
 old_path: /food/3431/ode-to-smoothies
 aliases:
  - /food/3431/ode-to-smoothies
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

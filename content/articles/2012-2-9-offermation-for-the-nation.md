@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah catches up with comedian Chris Ramsey about his latest tour, while giving you a master class in how to ask long, rambling and non-concise questions...
 date: "2012-02-09 22:12:58 +0000"
+# Attributes from Felix Online V1
 id: "2142"
 old_path: /news/2142/offermation-for-the-nation
 aliases:
  - /news/2142/offermation-for-the-nation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092211-felix-chris-ramsey-picture-for-feature.jpg"
 image_caption: >
   That’s right, it’s a totally unnecessary, time consuming, Photoshop. MSci project? What’s that?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

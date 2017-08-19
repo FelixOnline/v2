@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Beioley reviews the London Climate Forum
 date: "2012-11-29 21:57:55 +0000"
+# Attributes from Felix Online V1
 id: "2984"
 old_path: /news/2984/just-the-right-climate
 aliases:
  - /news/2984/just-the-right-climate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292157-tna08-255103_307100902729978_431362906_n.jpg"
 image_caption: >
   Photo by Sonali Campion
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Simpson tries to forget the horrors of lolshock.com
 date: "2011-06-28 11:36:28 +0100"
+# Attributes from Felix Online V1
 id: "1444"
 old_path: /tv/1444/what-we-watched
 aliases:
  - /tv/1444/what-we-watched
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

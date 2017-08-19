@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix has your back just in case you can’t find a space in the library to study and you’re forced to stay home a.k.a no more library cafe food for you
 date: "2017-01-13 14:58:24 +0000"
+# Attributes from Felix Online V1
 id: "6650"
 old_path: /food/6650/basic-food-for-basic-students-youre-basic
 aliases:
  - /food/6650/basic-food-for-basic-students-youre-basic
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701131511-felix-7885846128_19f61ed706_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Kiran Foster"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

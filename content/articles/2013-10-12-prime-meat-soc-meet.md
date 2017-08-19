@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Helen Pennington with a meaty (groan!) review
 date: "2013-10-12 19:57:07 +0100"
+# Attributes from Felix Online V1
 id: "3861"
 old_path: /food/3861/prime-meat-soc-meet
 aliases:
  - /food/3861/prime-meat-soc-meet
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122056-jal08-food_green_door.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

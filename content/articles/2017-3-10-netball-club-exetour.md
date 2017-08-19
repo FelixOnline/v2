@@ -4,15 +4,20 @@ title: >
 subtitle: >
   15 of Imperial Netball Club’s finest take Devon (and also play some Netball)
 date: "2017-03-10 14:40:12 +0000"
+# Attributes from Felix Online V1
 id: "6886"
 old_path: /cands/6886/netball-club-exetour
 aliases:
  - /cands/6886/netball-club-exetour
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101439-felix-17016472_10212239375399489_54928250_o (1).jpg"
 image_caption: >
   Partay!
@@ -22,6 +27,7 @@ image_attribution: "ICUNC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “There are all sorts of birds here”
 date: "2014-11-16 00:10:34 +0000"
+# Attributes from Felix Online V1
 id: "4899"
 old_path: /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
 aliases:
  - /arts/4899/fred-fyles-reviews-far-away-at-the-young-vic
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411160010-ps3110-samantha_colley_as_adult_joan_in_far_away_at_the_young_vic._photo_by_richard_hubert_smith._1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

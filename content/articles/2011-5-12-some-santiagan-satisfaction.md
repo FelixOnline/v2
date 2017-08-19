@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
+# Attributes from Felix Online V1
 id: "1195"
 old_path: /travel/1195/some-santiagan-satisfaction
 aliases:
  - /travel/1195/some-santiagan-satisfaction
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ricardo Baeza-Yates"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

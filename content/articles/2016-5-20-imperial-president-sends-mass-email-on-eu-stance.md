@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Email said "it is not our role to tell people how to vote" but mentioned pro-EU position
 date: "2016-05-20 08:43:13 +0100"
+# Attributes from Felix Online V1
 id: "6169"
 old_path: /news/6169/imperial-president-sends-mass-email-on-eu-stance
 aliases:
  - /news/6169/imperial-president-sends-mass-email-on-eu-stance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201042-felix-20160519_163334.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They’ve landed themselves in hot, oily water
 date: "2016-10-14 09:30:09 +0100"
+# Attributes from Felix Online V1
 id: "6328"
 old_path: /news/6328/science-museum-exhibition-criticised
 aliases:
  - /news/6328/science-museum-exhibition-criticised
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141135-felix-AB9A1979-01.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christian Buus"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

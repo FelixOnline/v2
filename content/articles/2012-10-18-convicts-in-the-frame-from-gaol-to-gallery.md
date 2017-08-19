@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le looks at some art from behind bars, by which we don't mean that she is at a pub...
 date: "2012-10-18 21:00:23 +0100"
+# Attributes from Felix Online V1
 id: "2687"
 old_path: /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
 aliases:
  - /arts/2687/convicts-in-the-frame-from-gaol-to-gallery
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182200-felix-disappoint-man.jpg"
 image_caption: >
   Tweezer shortage affects Wayne Rooney
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

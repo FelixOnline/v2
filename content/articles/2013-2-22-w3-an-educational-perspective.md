@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The educational experience of future first-years will sufer as a result of being housed in North Acton, says Doug Hunt
 date: "2013-02-22 01:43:13 +0000"
+# Attributes from Felix Online V1
 id: "3365"
 old_path: /comment/3365/w3-an-educational-perspective
 aliases:
  - /comment/3365/w3-an-educational-perspective
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

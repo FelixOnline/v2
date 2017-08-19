@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Polls support ban on performing animals
 date: "2011-06-23 19:56:13 +0100"
+# Attributes from Felix Online V1
 id: "1417"
 old_path: /science/1417/government-calls-for-better-circus-animal-welfare
 aliases:
  - /science/1417/government-calls-for-better-circus-animal-welfare
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106232055-felix-animal-wallpapers-lion-tamer-ate-.1920x1080.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

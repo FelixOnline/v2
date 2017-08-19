@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The gang get back together for another slice
 date: "2012-05-10 20:32:39 +0100"
+# Attributes from Felix Online V1
 id: "2450"
 old_path: /film/2450/bye-bye-miss-american-pie
 aliases:
  - /film/2450/bye-bye-miss-american-pie
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

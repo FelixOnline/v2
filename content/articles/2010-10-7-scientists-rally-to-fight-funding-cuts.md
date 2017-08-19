@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Government’s Spending Review looms ever closer, and UK science research is in peril
 date: "2010-10-07 22:31:58 +0100"
+# Attributes from Felix Online V1
 id: "178"
 old_path: /news/178/scientists-rally-to-fight-funding-cuts
 aliases:
  - /news/178/scientists-rally-to-fight-funding-cuts
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104181235-felix-4973119165_b97d1b7550_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Cole"
 image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4973119165/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

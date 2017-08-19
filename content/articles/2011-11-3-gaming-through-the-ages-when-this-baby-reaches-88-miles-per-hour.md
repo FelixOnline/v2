@@ -4,15 +4,20 @@ title: >
 subtitle: >
   With a combination of persuasive power, begging and bribery we’ve managed to get together three of Gaming section’s biggest writers to talk about videogaming through the ages, as well as what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 20:28:34 +0000"
+# Attributes from Felix Online V1
 id: "1667"
 old_path: /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
 aliases:
  - /games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032029-sjw209-atari_2600.jpg"
 image_caption: >
   This stuff’s so retro even hipsters don’t know what that console is
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

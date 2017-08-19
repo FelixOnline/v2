@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
+# Attributes from Felix Online V1
 id: "5679"
 old_path: /comment/5679/can-we-ignore-human-rights-abuses-in-china
 aliases:
  - /comment/5679/can-we-ignore-human-rights-abuses-in-china
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231257-cj914-president-of-china.jpg"
 image_caption: >
   Xi Jinping is in the UK as a guest of the Queen.
@@ -22,6 +27,7 @@ image_attribution: "AOL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

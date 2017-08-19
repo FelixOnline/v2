@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saturn just keeps giving us the retro gaming gold
 date: "2012-12-07 01:29:26 +0000"
+# Attributes from Felix Online V1
 id: "3036"
 old_path: /science/3036/waka-waka-waka-pac-man-the-sequel
 aliases:
  - /science/3036/waka-waka-waka-pac-man-the-sequel
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212121227-lap08-img004673-br500.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "saturn.jpl.nasa.gov"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

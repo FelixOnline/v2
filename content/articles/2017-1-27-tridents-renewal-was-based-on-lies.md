@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Avirup Banerjee thinks Trident is an expensive accident waiting to happen
 date: "2017-01-27 16:24:12 +0000"
+# Attributes from Felix Online V1
 id: "6689"
 old_path: /comment/6689/tridents-renewal-was-based-on-lies
 aliases:
  - /comment/6689/tridents-renewal-was-based-on-lies
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271638-felix-Screen Shot 2017-01-27 at 16.27.24.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

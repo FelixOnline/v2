@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven investigates claims that alcohol does not affect behaviour
 date: "2011-10-27 23:49:15 +0100"
+# Attributes from Felix Online V1
 id: "1624"
 old_path: /science/1624/doggone-drunks
 aliases:
  - /science/1624/doggone-drunks
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280048-felix-bottles-of-drink.jpg"
 image_caption: >
   It might be “bizarre beliefs” that make you act like an idiot, not all that alcohol...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

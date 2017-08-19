@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The organisers give you the low down...
 date: "2013-01-25 02:17:54 +0000"
+# Attributes from Felix Online V1
 id: "3194"
 old_path: /news/3194/the-overseas-society-presents-i-night-one-world
 aliases:
  - /news/3194/the-overseas-society-presents-i-night-one-world
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250218-tna08-i-night-poster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shiladitya Ghosh guides you through a novel way to manipulate heat
 date: "2013-01-25 01:49:39 +0000"
+# Attributes from Felix Online V1
 id: "3185"
 old_path: /science/3185/turning-the-heat-back-on
 aliases:
  - /science/3185/turning-the-heat-back-on
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301250149-tna08-18909.jpg"
 image_caption: >
   When he released the single Nelly didn’t know hot to control heat, but maybe researchers at MIT do..
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

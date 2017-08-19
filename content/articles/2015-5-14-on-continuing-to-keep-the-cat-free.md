@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
+# Attributes from Felix Online V1
 id: "5525"
 old_path: /comment/5525/on-continuing-to-keep-the-cat-free
 aliases:
  - /comment/5525/on-continuing-to-keep-the-cat-free
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151257-cj914-screen-shot-2015-05-15-at-12.55.45.jpg"
 image_caption: >
   One thing not being handed out at Imperial Festival was copies of Felix
@@ -22,6 +27,7 @@ image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

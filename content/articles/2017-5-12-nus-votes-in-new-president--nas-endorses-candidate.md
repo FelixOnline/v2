@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We're not even part of the NUS
 date: "2017-05-12 16:26:59 +0100"
+# Attributes from Felix Online V1
 id: "6938"
 old_path: /news/6938/nus-votes-in-new-president--nas-endorses-candidate
 aliases:
  - /news/6938/nus-votes-in-new-president--nas-endorses-candidate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121825-felix-18160222_10155467573612223_836229520_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Not sure who took this but it's great and thank you for subm
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

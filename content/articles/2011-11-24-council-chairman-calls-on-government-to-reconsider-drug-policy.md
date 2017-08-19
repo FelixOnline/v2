@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Baroness Eliza Manningham-Buller questions current status of UK cannabis legalisation
 date: "2011-11-24 22:15:02 +0000"
+# Attributes from Felix Online V1
 id: "1829"
 old_path: /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
 aliases:
  - /news/1829/council-chairman-calls-on-government-to-reconsider-drug-policy
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242212-pk1811-img_0472.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

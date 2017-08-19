@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Apparently the one and only center of your new Multimedia world! It may even catch you masturbating...
 date: "2013-05-29 12:38:20 +0100"
+# Attributes from Felix Online V1
 id: "3628"
 old_path: /tech/3628/xbox-one-ton-of-fun
 aliases:
  - /tech/3628/xbox-one-ton-of-fun
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291655-tna08-xboxone_rgb_stacked.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

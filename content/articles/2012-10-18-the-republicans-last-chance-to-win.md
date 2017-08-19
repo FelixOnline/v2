@@ -4,15 +4,20 @@ title: >
 subtitle: >
   US Presidential Elections 2012
 date: "2012-10-18 21:22:11 +0100"
+# Attributes from Felix Online V1
 id: "2703"
 old_path: /politics/2703/the-republicans-last-chance-to-win
 aliases:
  - /politics/2703/the-republicans-last-chance-to-win
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210191349-tna08-mitt-romney-laughing.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

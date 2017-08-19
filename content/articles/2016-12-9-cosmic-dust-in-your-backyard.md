@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...
 date: "2016-12-09 12:09:59 +0000"
+# Attributes from Felix Online V1
 id: "6567"
 old_path: /science/6567/cosmic-dust-in-your-backyard
 aliases:
  - /science/6567/cosmic-dust-in-your-backyard
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

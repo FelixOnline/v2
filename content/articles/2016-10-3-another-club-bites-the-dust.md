@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
+# Attributes from Felix Online V1
 id: "6302"
 old_path: /news/6302/another-club-bites-the-dust
 aliases:
  - /news/6302/another-club-bites-the-dust
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610031909-felix-Screen Shot 2016-10-03 at 19.08.50.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Fabric"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

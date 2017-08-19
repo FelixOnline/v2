@@ -4,15 +4,20 @@ title: >
 subtitle: >
   £5000 or more to be paid for repairs to a Coach after Rugby player smashes a window whilst on Tour
 date: "2014-11-06 22:12:45 +0000"
+# Attributes from Felix Online V1
 id: "4812"
 old_path: /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
 aliases:
  - /news/4812/another-rugby-team-suspended-after-imperial-medicals-smash-coach-window
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062211-snb11-s2010008-copy.jpg"
 image_caption: >
   The window was smashed from the inside, allegedly with an emergency hammer.
@@ -22,6 +27,7 @@ image_attribution: "Blogspot"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Edward Bals takes us back to the 90s with Twin Peaks
 date: "2013-01-24 21:53:49 +0000"
+# Attributes from Felix Online V1
 id: "3162"
 old_path: /tv/3162/a-damn-fine-cup-of-coffee
 aliases:
  - /tv/3162/a-damn-fine-cup-of-coffee
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242146-mc4509-twin-peaks.jpg"
 image_caption: >
   A deep vein of surrealism
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

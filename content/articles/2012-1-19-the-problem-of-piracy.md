@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Online piracy is a growing problem, but planned, potentially disastrous US legislation is not the way to tackle it. Laurence Pope discusses
 date: "2012-01-19 20:33:39 +0000"
+# Attributes from Felix Online V1
 id: "2016"
 old_path: /games/2016/the-problem-of-piracy
 aliases:
  - /games/2016/the-problem-of-piracy
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201192031-ams111-pirate-flag-1024x819.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

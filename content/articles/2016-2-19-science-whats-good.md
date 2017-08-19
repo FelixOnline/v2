@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our weekly roundup of the week's science news
 date: "2016-02-19 11:26:11 +0000"
+# Attributes from Felix Online V1
 id: "5931"
 old_path: /science/5931/science-whats-good
 aliases:
  - /science/5931/science-whats-good
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

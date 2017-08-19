@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Art Section Editors Introduce Style
 date: "2014-11-06 21:27:06 +0000"
+# Attributes from Felix Online V1
 id: "4801"
 old_path: /arts/4801/editorial--the-style-week
 aliases:
  - /arts/4801/editorial--the-style-week
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

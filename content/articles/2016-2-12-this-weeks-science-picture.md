@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Book Club transformed into a venue exploring the links between our senses and the recipe for true love
 date: "2016-02-12 11:33:40 +0000"
+# Attributes from Felix Online V1
 id: "5905"
 old_path: /science/5905/this-weeks-science-picture
 aliases:
  - /science/5905/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121133-felix-12695610_10156453692850394_802890096_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

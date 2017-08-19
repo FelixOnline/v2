@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New insight into the language-processing functions of the brain
 date: "2012-02-16 21:43:57 +0000"
+# Attributes from Felix Online V1
 id: "2195"
 old_path: /science/2195/mind-reading-programs
 aliases:
  - /science/2195/mind-reading-programs
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162142-cac111-redneuronal.gif"
 image_caption: >
   Neural networks are used to simulate brain activity, but cannot interpret thoughts
@@ -22,6 +27,7 @@ image_attribution: "networksandservers.blogspot.com"
 image_attribution_link: "http://networksandservers.blogspot.com"
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

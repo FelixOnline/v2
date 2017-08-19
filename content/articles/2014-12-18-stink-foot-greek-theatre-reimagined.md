@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Peter Sarvari heads along to the Yard Theatre, where treacle meets tragedy
 date: "2014-12-18 16:09:34 +0000"
+# Attributes from Felix Online V1
 id: "5069"
 old_path: /arts/5069/stink-foot-greek-theatre-reimagined
 aliases:
  - /arts/5069/stink-foot-greek-theatre-reimagined
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

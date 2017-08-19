@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature
 date: "2011-11-24 20:24:08 +0000"
+# Attributes from Felix Online V1
 id: "1804"
 old_path: /biz/1804/silicon-valley-comes-to-imperial
 aliases:
  - /biz/1804/silicon-valley-comes-to-imperial
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242023-pk1811-svc2i.jpg"
 image_caption: >
   Some of Imperial’s budding entrepreneurs gather for the the SVC2I event
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Betts makes us envious with his glorious food escapade
 date: "2011-03-03 19:25:14 +0000"
+# Attributes from Felix Online V1
 id: "997"
 old_path: /food/997/savouring-the-tuscan-hills
 aliases:
  - /food/997/savouring-the-tuscan-hills
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103031922-nm1010-tuscanhi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "flickr/jukkavuokko"
 image_attribution_link: "http://www.flickr.com/photos/jvuokko/455102866/in/set-72157594414352098"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

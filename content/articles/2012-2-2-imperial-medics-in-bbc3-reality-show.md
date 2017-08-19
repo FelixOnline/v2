@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Junior Doctors storm back with an Imperial twist
 date: "2012-02-02 22:49:19 +0000"
+# Attributes from Felix Online V1
 id: "2103"
 old_path: /tv/2103/imperial-medics-in-bbc3-reality-show
 aliases:
  - /tv/2103/imperial-medics-in-bbc3-reality-show
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

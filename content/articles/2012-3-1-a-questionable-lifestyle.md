@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cave Johnson advises on how to get the best possible start as an evil scientist
 date: "2012-03-01 22:55:23 +0000"
+# Attributes from Felix Online V1
 id: "2294"
 old_path: /games/2294/a-questionable-lifestyle
 aliases:
  - /games/2294/a-questionable-lifestyle
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012254-cac111-300dpi-pb-107005-1.jpg"
 image_caption: >
   “I can see the family resemblance - he’s got Aunt Gertrude’s plasmids”
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But you can go to the summer festival. Jovan Nedic takes a look at the debate over the new format of the Summer Ball
 date: "2011-05-05 23:48:48 +0100"
+# Attributes from Felix Online V1
 id: "1149"
 old_path: /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
 aliases:
  - /news/1149/no-cinderella-you-shant-go-to-the-summer-ball
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060047-felix-5588442875_55120c11d4_o.jpg"
 image_caption: >
   Headliner Laura Marling
@@ -22,6 +27,7 @@ image_attribution: "flickr/rowl images"
 image_attribution_link: "http://www.flickr.com/photos/rowlimages/5588442875/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Xuan Chen discusses his disappointing trip to the UK Apps Conference
 date: "2014-11-24 12:58:42 +0000"
+# Attributes from Felix Online V1
 id: "4947"
 old_path: /tech/4947/commercialisation-in-creative-technology
 aliases:
  - /tech/4947/commercialisation-in-creative-technology
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241258-ps3110-appsworldpic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photo: Xuan Chen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

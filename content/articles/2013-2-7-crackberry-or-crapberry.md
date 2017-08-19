@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl looks at the fortunes of a different fruity company
 date: "2013-02-07 23:47:47 +0000"
+# Attributes from Felix Online V1
 id: "3267"
 old_path: /tech/3267/crackberry-or-crapberry-
 aliases:
  - /tech/3267/crackberry-or-crapberry-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072347-tna08-wpid-photo-feb-4-2013-452-pm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

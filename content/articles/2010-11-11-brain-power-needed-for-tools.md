@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Question of how Stone Age man evolved to craft increasingly superior stone tools answered
 date: "2010-11-11 21:01:12 +0000"
+# Attributes from Felix Online V1
 id: "350"
 old_path: /science/350/brain-power-needed-for-tools
 aliases:
  - /science/350/brain-power-needed-for-tools
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112058-ks607-caveman.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

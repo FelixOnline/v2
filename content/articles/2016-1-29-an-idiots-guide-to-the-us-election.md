@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Primary? Caucus? Superdelegate? What does it all mean?
 date: "2016-01-29 09:07:51 +0000"
+# Attributes from Felix Online V1
 id: "5842"
 old_path: /features/5842/an-idiots-guide-to-the-us-election
 aliases:
  - /features/5842/an-idiots-guide-to-the-us-election
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290906-felix-GTY_donald_trump_hillary_clinton_sk_150619_16x9_992.jpg"
 image_caption: >
   There’s gonna be hell toupée.
@@ -22,6 +27,7 @@ image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

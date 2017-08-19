@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chromaroma hits the London transport network
 date: "2011-06-09 21:42:59 +0100"
+# Attributes from Felix Online V1
 id: "1354"
 old_path: /tech/1354/the-game-best-played-on-the-move
 aliases:
  - /tech/1354/the-game-best-played-on-the-move
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092242-felix-screen-shot-2011-02-01-at-10.26.40.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

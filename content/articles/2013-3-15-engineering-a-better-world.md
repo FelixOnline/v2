@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chaplaincy brings you an unmissable evening with His Holiness Radhanath Swami
 date: "2013-03-15 02:33:11 +0000"
+# Attributes from Felix Online V1
 id: "3489"
 old_path: /news/3489/engineering-a-better-world
 aliases:
  - /news/3489/engineering-a-better-world
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150231-tna08-rns-and-obama.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
+# Attributes from Felix Online V1
 id: "5607"
 old_path: /travel/5607/travel-made-easy---the-world-of-apps
 aliases:
  - /travel/5607/travel-made-easy---the-world-of-apps
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506242307-ync111-untitled-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzie Riach explores new research into how wounds heal, and why older people are at a significant disadvantage if they injure themselves
 date: "2016-11-25 13:36:26 +0000"
+# Attributes from Felix Online V1
 id: "6500"
 old_path: /science/6500/wounds-heal-with-a-lot-of-time
 aliases:
  - /science/6500/wounds-heal-with-a-lot-of-time
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251335-felix-hand-525988_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

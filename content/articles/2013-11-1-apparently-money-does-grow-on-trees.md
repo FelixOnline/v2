@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fiona Hartley finds it difficult to ignore a golden opportunity for puns
 date: "2013-11-01 09:45:20 +0000"
+# Attributes from Felix Online V1
 id: "3975"
 old_path: /science/3975/apparently-money-does-grow-on-trees
 aliases:
  - /science/3975/apparently-money-does-grow-on-trees
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311010946-felix-science-gold-leaves.jpeg.jpg"
 image_caption: >
   Particulate gold in eucalyptus leaves
@@ -22,6 +27,7 @@ image_attribution: "CSIRO Australia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "frh10"
 author_name: "Fiona Hartley"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charity fads raise money for animal testing, but should the public should be better informed?
 date: "2014-11-06 18:14:33 +0000"
+# Attributes from Felix Online V1
 id: "4760"
 old_path: /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
 aliases:
  - /comment/4760/research-ethics-at-the-bottom-of-the-ice-bucket
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102232-ps3110-download.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

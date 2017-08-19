@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Artificial Intelligence won't overtake us
 date: "2011-03-10 18:59:11 +0000"
+# Attributes from Felix Online V1
 id: "1048"
 old_path: /science/1048/theres-no-need-to-fear-robots
 aliases:
  - /science/1048/theres-no-need-to-fear-robots
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103101852-nm1010-terminat.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

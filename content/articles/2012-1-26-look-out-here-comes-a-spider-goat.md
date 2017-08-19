@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Breeding creatures that are part goat part spider.
 date: "2012-01-26 21:53:47 +0000"
+# Attributes from Felix Online V1
 id: "2047"
 old_path: /science/2047/look-out-here-comes-a-spider-goat
 aliases:
  - /science/2047/look-out-here-comes-a-spider-goat
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262153-ak6309-p00nc1ng.jpg"
 image_caption: >
   An actual spider goat... Batteries not included
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

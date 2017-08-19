@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucia Podhorska takes a retrospective look at LOST
 date: "2011-10-13 23:06:00 +0100"
+# Attributes from Felix Online V1
 id: "1519"
 old_path: /tv/1519/sometimes-answers-just-lead-to-more-questions
 aliases:
  - /tv/1519/sometimes-answers-just-lead-to-more-questions
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132357-felix-lost.png"
 image_caption: >
   WE HAVE TO GO BAAAACK... to reading this review
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Heather Jones on how public behaviour by a few individuals can negatively influence a whole range of unrelated social interactions
 date: "2012-06-14 19:28:44 +0100"
+# Attributes from Felix Online V1
 id: "2547"
 old_path: /comment/2547/alter-your-behaviour
 aliases:
  - /comment/2547/alter-your-behaviour
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142028-ams111-comment1.jpg"
 image_caption: >
   It seems like everyone suffers from the thoughtless acts of a minority. By which it is meant the poo
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

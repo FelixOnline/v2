@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nick Farmer doesn’t think that there’s any rationale in being Green
 date: "2015-02-09 19:48:17 +0000"
+# Attributes from Felix Online V1
 id: "5228"
 old_path: /comment/5228/dont-get-swept-away-by-the-green-surge
 aliases:
  - /comment/5228/dont-get-swept-away-by-the-green-surge
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502091948-ps3110-green.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

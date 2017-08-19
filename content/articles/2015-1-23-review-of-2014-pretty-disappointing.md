@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximillian Eggl takes you through what could've been the defining games of last year
 date: "2015-01-23 18:22:20 +0000"
+# Attributes from Felix Online V1
 id: "5141"
 old_path: /games/5141/review-of-2014-pretty-disappointing
 aliases:
  - /games/5141/review-of-2014-pretty-disappointing
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

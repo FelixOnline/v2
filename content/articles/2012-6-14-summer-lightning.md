@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Summer Lightning
 date: "2012-06-14 20:52:22 +0100"
+# Attributes from Felix Online V1
 id: "2571"
 old_path: /phoenix/2571/summer-lightning
 aliases:
  - /phoenix/2571/summer-lightning
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142152-pk1811-img_2645.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

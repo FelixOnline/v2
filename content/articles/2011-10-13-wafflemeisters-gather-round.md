@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Wafflemeister announces a new waffle-eating competition
 date: "2011-10-13 23:59:28 +0100"
+# Attributes from Felix Online V1
 id: "1530"
 old_path: /food/1530/wafflemeisters-gather-round-
 aliases:
  - /food/1530/wafflemeisters-gather-round-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110140057-sjw209-wafflemeister.jpg"
 image_caption: >
   I want it all... and I want it now
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

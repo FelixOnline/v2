@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Petition for the government to protect imports of research animals.
 date: "2012-11-29 21:53:05 +0000"
+# Attributes from Felix Online V1
 id: "2981"
 old_path: /news/2981/imperial-scientists-launch-petition
 aliases:
  - /news/2981/imperial-scientists-launch-petition
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
+# Attributes from Felix Online V1
 id: "2457"
 old_path: /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
 aliases:
  - /news/2457/now-this-is-the-story-all-about-how-will-smith-was-at-ethos
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181013-felix-ethos-sports-hall-1-690x430-copy.jpg"
 image_caption: >
   Obviously, things didn't pan out this way
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Union Media Group launches its first live broadcast of the year with a bang (well, a live audience and five panellists).
 date: "2015-02-15 23:45:08 +0000"
+# Attributes from Felix Online V1
 id: "5261"
 old_path: /news/5261/imperial-questions-live-broadcasts-on-wednesday
 aliases:
  - /news/5261/imperial-questions-live-broadcasts-on-wednesday
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502152343-txl11-screen-shot-2015-02-15-at-23.34.20.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "txl11"
 author_name: "Thomas Lim"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

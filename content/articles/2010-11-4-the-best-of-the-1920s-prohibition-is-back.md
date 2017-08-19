@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new night aims to bring back the feel of the 'Roaring Twenties'
 date: "2010-11-04 18:36:52 +0000"
+# Attributes from Felix Online V1
 id: "304"
 old_path: /food/304/the-best-of-the-1920s-prohibition-is-back-
 aliases:
  - /food/304/the-best-of-the-1920s-prohibition-is-back-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Prohibition 1920s"
 image_attribution_link: "http://www.prohibition1920s.com"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

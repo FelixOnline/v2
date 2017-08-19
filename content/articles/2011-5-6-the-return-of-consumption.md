@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As consumption, or tuberculosis, continues to spread, scientists are racing to find a new vaccine
 date: "2011-05-06 08:07:21 +0100"
+# Attributes from Felix Online V1
 id: "1151"
 old_path: /science/1151/the-return-of-consumption
 aliases:
  - /science/1151/the-return-of-consumption
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060907-felix-doctors-looking-at-xray.jpg"
 image_caption: >
   Oh yes, definitely a bad case of Bieber fever
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hewa Khalilifar dresses up as a superhero, and so should you...
 date: "2013-03-01 00:34:43 +0000"
+# Attributes from Felix Online V1
 id: "3405"
 old_path: /news/3405/the-marrowthon
 aliases:
  - /news/3405/the-marrowthon
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010032-tna08-marrow-fun-run.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

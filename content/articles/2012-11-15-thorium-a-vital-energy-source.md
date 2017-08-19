@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alasdair Wynn and Matt O’Neill explore an untapped resource
 date: "2012-11-15 21:08:19 +0000"
+# Attributes from Felix Online V1
 id: "2893"
 old_path: /science/2893/thorium-a-vital-energy-source
 aliases:
  - /science/2893/thorium-a-vital-energy-source
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152107-tna08-cooling-towers-of-a-nuclear-power-station.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rick Santorum... more queer than a strangely frothy mixture
 date: "2012-05-10 20:07:48 +0100"
+# Attributes from Felix Online V1
 id: "2442"
 old_path: /comment/2442/santorums-queer-ideas
 aliases:
  - /comment/2442/santorums-queer-ideas
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102107-pk1811-rick-santorum.jpg"
 image_caption: >
   Just be glad we didn’t put a picture of the Wiktionary definition up...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

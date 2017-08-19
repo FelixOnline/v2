@@ -4,15 +4,20 @@ title: >
 subtitle: >
   "Has the world fell? Each of us in our own way was broken. It was hard to know who was more crazy; me, or everyone else.” - Max Rockatansky
 date: "2015-05-19 21:22:27 +0100"
+# Attributes from Felix Online V1
 id: "5543"
 old_path: /film/5543/mad-max-fury-road-review-
 aliases:
  - /film/5543/mad-max-fury-road-review-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505192221-jr2514-madmax.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

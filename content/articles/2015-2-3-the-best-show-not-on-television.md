@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken gives a spoiler-free overview of the U.S. Netflix hit show, House of Cards
 date: "2015-02-03 14:51:24 +0000"
+# Attributes from Felix Online V1
 id: "5183"
 old_path: /tv/5183/the-best-show-not-on-television
 aliases:
  - /tv/5183/the-best-show-not-on-television
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031451-ps3110-house-of-cards-review-1.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Joseph savours the curry delights and tries to decipher their origin
 date: "2010-11-18 21:13:34 +0000"
+# Attributes from Felix Online V1
 id: "403"
 old_path: /food/403/a-dummys-guide-to-indian-curries
 aliases:
  - /food/403/a-dummys-guide-to-indian-curries
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AJ710"
 author_name: "Alexander Joseph"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
+# Attributes from Felix Online V1
 id: "553"
 old_path: /politics/553/printing-money-to-pay-debt-
 aliases:
  - /politics/553/printing-money-to-pay-debt-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121427-ks607-printing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "TM1510"
 author_name: "Tomokazu Miyamoto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

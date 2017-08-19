@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Butcher argues that the BBC are alright, what other organisation would publicly grill its boss?
 date: "2012-11-16 17:17:58 +0000"
+# Attributes from Felix Online V1
 id: "2920"
 old_path: /comment/2920/hypocrites-and-the-bbc
 aliases:
  - /comment/2920/hypocrites-and-the-bbc
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211161715-tna08-154603173.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

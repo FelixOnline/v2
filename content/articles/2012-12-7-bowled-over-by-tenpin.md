@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pinheads like bowling... Jessica Chan reports on their latest exploits
 date: "2012-12-07 03:08:38 +0000"
+# Attributes from Felix Online V1
 id: "3061"
 old_path: /sport/3061/bowled-over-by-tenpin
 aliases:
  - /sport/3061/bowled-over-by-tenpin
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070308-tna08-bowling1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

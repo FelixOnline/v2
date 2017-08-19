@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles on why Alan Bennett may be becoming a national treasure, just don't tell him that...
 date: "2012-12-07 02:31:18 +0000"
+# Attributes from Felix Online V1
 id: "3049"
 old_path: /arts/3049/dealing-with-trust-issues
 aliases:
  - /arts/3049/dealing-with-trust-issues
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070229-tna08-peoplejpeg10.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

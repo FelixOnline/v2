@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This genre of television is so vague you dream up the missing narrative so the writers don’t have to
 date: "2010-10-28 19:49:32 +0100"
+# Attributes from Felix Online V1
 id: "279"
 old_path: /comment/279/the-event-went-off-with-a-pfft-
 aliases:
  - /comment/279/the-event-went-off-with-a-pfft-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

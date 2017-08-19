@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Will Stocker interviews the American songstress
 date: "2012-06-22 16:45:10 +0100"
+# Attributes from Felix Online V1
 id: "2581"
 old_path: /music/2581/zola-jesus
 aliases:
  - /music/2581/zola-jesus
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206221745-felix-zola-jesus.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

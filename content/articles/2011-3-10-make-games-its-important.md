@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking back at IC.HACK, the developer argues in favour of gamers making their own games
 date: "2011-03-10 20:36:00 +0000"
+# Attributes from Felix Online V1
 id: "1073"
 old_path: /games/1073/make-games-its-important
 aliases:
  - /games/1073/make-games-its-important
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032114-ks607-ichackic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

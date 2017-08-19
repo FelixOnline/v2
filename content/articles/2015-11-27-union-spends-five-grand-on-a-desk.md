@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a controversial redevelopment of the union offices, thousands of pounds were spent on stickers, a light-up reception desk and a glass wall
 date: "2015-11-27 11:52:12 +0000"
+# Attributes from Felix Online V1
 id: "5773"
 old_path: /news/5773/union-spends-five-grand-on-a-desk
 aliases:
  - /news/5773/union-spends-five-grand-on-a-desk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271152-ygr12-onlien.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

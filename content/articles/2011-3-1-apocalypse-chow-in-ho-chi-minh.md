@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Peter Quicke and Jamie Rickman share their Vietnamese food know-how
 date: "2011-03-01 21:19:05 +0000"
+# Attributes from Felix Online V1
 id: "968"
 old_path: /food/968/apocalypse-chow-in-ho-chi-minh
 aliases:
  - /food/968/apocalypse-chow-in-ho-chi-minh
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012119-ks607-Apocalyp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "beautifulinsidemyhead.blogspot.com"
 image_attribution_link: "http://beautifulinsidemyhead.blogspot.com"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

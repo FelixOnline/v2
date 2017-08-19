@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman reports on the dodgy translations of the recent Avengers film
 date: "2015-05-21 23:22:05 +0100"
+# Attributes from Felix Online V1
 id: "5558"
 old_path: /film/5558/avengers-subtitles-too-literal
 aliases:
  - /film/5558/avengers-subtitles-too-literal
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505220022-jmm311-avengers-hulkbuster.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

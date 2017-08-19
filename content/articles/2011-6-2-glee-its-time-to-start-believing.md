@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Allinson relented, watched the damned show, and found out he liked it
 date: "2011-06-02 20:08:43 +0100"
+# Attributes from Felix Online V1
 id: "1317"
 old_path: /tv/1317/glee-its-time-to-start-believing
 aliases:
  - /tv/1317/glee-its-time-to-start-believing
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022108-felix-cmykglee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ma1307"
 author_name: "Matthew Allinson"
 author_image_path: "img/upload/201411062055-snb11-allinson.png"

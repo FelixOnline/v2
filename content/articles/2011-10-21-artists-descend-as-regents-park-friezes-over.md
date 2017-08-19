@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Galleries from around the world bring their best to London
 date: "2011-10-21 10:47:35 +0100"
+# Attributes from Felix Online V1
 id: "1594"
 old_path: /arts/1594/artists-descend-as-regents-park-friezes-over
 aliases:
  - /arts/1594/artists-descend-as-regents-park-friezes-over
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211144-felix-frieze1.jpg"
 image_caption: >
   They thought the complete Stairway to Heaven was a bit too expensive
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

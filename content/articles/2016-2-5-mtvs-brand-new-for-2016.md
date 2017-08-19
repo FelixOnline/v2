@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bloc Party were not on form
 date: "2016-02-05 12:38:28 +0000"
+# Attributes from Felix Online V1
 id: "5879"
 old_path: /music/5879/mtvs-brand-new-for-2016
 aliases:
  - /music/5879/mtvs-brand-new-for-2016
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051238-felix-mtv"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Aiden Langan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

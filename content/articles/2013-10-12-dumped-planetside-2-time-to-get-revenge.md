@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Like a good meal, steak as the main and planets on the side
 date: "2013-10-12 19:27:57 +0100"
+# Attributes from Felix Online V1
 id: "3854"
 old_path: /games/3854/dumped-planetside-2-time-to-get-revenge
 aliases:
  - /games/3854/dumped-planetside-2-time-to-get-revenge
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122027-jal08-games_ps2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

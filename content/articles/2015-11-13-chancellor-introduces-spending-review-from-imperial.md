@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Osborne was back again
 date: "2015-11-13 14:14:39 +0000"
+# Attributes from Felix Online V1
 id: "5718"
 old_path: /news/5718/chancellor-introduces-spending-review-from-imperial
 aliases:
  - /news/5718/chancellor-introduces-spending-review-from-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131413-ygr12-georgeos.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

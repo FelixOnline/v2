@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nefeli Maria Skoufu-Papoutsaki explains new research into this potential renewable energy source
 date: "2014-12-11 20:29:47 +0000"
+# Attributes from Felix Online V1
 id: "5027"
 old_path: /science/5027/algae-growing-fuel-with-cells-in-the-sea
 aliases:
  - /science/5027/algae-growing-fuel-with-cells-in-the-sea
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112029-cj914-algae.jpg"
 image_caption: >
   Algae could be used to produce renewable energy without the negative impacts of conventional biofuel
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

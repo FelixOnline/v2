@@ -4,15 +4,20 @@ title: >
 subtitle: >
   He was ICU President, was awarded honorary fellowship by college, and now he’s made a controversial program claiming to show “what Muslims really think”
 date: "2016-04-29 10:03:48 +0100"
+# Attributes from Felix Online V1
 id: "6088"
 old_path: /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
 aliases:
  - /news/6088/ex-student-trevor-philips-says-muslims-in-britain-do-not-want-to-participate
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291103-felix-1700.jpg"
 image_caption: >
   Any first year statistician would think this poll was dodgy.
@@ -22,6 +27,7 @@ image_attribution: "Richard Ansett/Publicity image"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

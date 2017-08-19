@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX talks to the first female Head of Physics at Imperial
 date: "2016-03-18 11:54:03 +0000"
+# Attributes from Felix Online V1
 id: "6064"
 old_path: /science/6064/women-of-imperial-professor-jo-haigh
 aliases:
  - /science/6064/women-of-imperial-professor-jo-haigh
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603181153-felix-12528563_10156595569485394_223107068_o.jpg"
 image_caption: >
   Professor Joanna Haigh.
@@ -22,6 +27,7 @@ image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

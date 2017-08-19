@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The twisted tales by Roald Dahl
 date: "2011-02-03 19:34:55 +0000"
+# Attributes from Felix Online V1
 id: "718"
 old_path: /arts/718/twisted-but-is-it-twisted-enough
 aliases:
  - /arts/718/twisted-but-is-it-twisted-enough
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031932-nm1010-roalddah.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

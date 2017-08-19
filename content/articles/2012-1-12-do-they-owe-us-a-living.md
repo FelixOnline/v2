@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Theo Pavlakou on selling out to bring home the bacon
 date: "2012-01-12 22:49:21 +0000"
+# Attributes from Felix Online V1
 id: "1992"
 old_path: /music/1992/do-they-owe-us-a-living
 aliases:
  - /music/1992/do-they-owe-us-a-living
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122248-felix-ssp.jpg"
 image_caption: >
   Ever heard of ScarletSnowPrelude? – No! Because they didn’t sell out... or they suck?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

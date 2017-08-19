@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Come back to me when you’ve had years of practice
 date: "2016-05-06 09:51:14 +0100"
+# Attributes from Felix Online V1
 id: "6120"
 old_path: /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
 aliases:
  - /comment/6120/can-men-advise-on-how-to-respond-to-sexual-harassment
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061050-felix-Meghan-Trainor-NO_01.jpg"
 image_caption: >
   Sometimes “no” isn’t all you gotta say.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

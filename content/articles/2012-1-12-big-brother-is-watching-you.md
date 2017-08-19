@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Matt Allinson muses on the feasibility (or otherwise) of 24/7 surveillance in every aspect of our lives
 date: "2012-01-12 21:40:33 +0000"
+# Attributes from Felix Online V1
 id: "1973"
 old_path: /comment/1973/big-brother-is-watching-you
 aliases:
  - /comment/1973/big-brother-is-watching-you
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122139-cac111-italian-police.jpg"
 image_caption: >
   Italian police have guns, but more importantly, style and swagger
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

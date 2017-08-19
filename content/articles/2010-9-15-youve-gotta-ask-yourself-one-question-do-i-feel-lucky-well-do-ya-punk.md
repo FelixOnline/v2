@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caz Knight starts off the school year with banter, bullying and brutality at the Hammersmith Lyric
 date: "2010-09-15 17:12:07 +0100"
+# Attributes from Felix Online V1
 id: "156"
 old_path: /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
 aliases:
  - /arts/156/youve-gotta-ask-yourself-one-question-do-i-feel-lucky-well-do-ya-punk
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201009151806-ck806-willaim.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ck806"
 author_name: "Caroline Knight"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix investigates Imperial’s preconceptions with a profession keen to take on some of the country’s top science graduates
 date: "2011-10-20 19:48:15 +0100"
+# Attributes from Felix Online V1
 id: "1556"
 old_path: /news/1556/why-should-you-go-into-teaching
 aliases:
  - /news/1556/why-should-you-go-into-teaching
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202045-felix-img_6609.jpg"
 image_caption: >
   The unused green chalk looks on enviously at his academically superior comrade
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

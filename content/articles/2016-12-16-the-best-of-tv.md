@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But, let’s avoid ending on a sour note. Despite everything, 2016 has been a remarkably good year for television. In fact, so much so that narrowing this down to just five was quite the challenge. So, in case you missed them, here are the highest highs of the year’s offerings.
 date: "2016-12-16 15:12:56 +0000"
+# Attributes from Felix Online V1
 id: "6616"
 old_path: /tv/6616/the-best-of-tv
 aliases:
  - /tv/6616/the-best-of-tv
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161510-felix-maxresdefault (1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

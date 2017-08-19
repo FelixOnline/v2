@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eat Pray Love boils down to nothing but a shallow travelogue
 date: "2010-10-21 19:21:42 +0100"
+# Attributes from Felix Online V1
 id: "239"
 old_path: /film/239/cynics-beware-julia-roberts-eat-pray-love-
 aliases:
  - /film/239/cynics-beware-julia-roberts-eat-pray-love-
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010212019-ks607-eatprayt.jpg"
 image_caption: >
   Eat Pray Throwup...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

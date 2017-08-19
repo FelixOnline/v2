@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Multimillion pound redevelopment “significantly worsened” student facilities
 date: "2015-12-04 15:07:37 +0000"
+# Attributes from Felix Online V1
 id: "5790"
 old_path: /news/5790/beit-basement-project-deemed-inferior
 aliases:
  - /news/5790/beit-basement-project-deemed-inferior
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

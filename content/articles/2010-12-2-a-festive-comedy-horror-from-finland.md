@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A great example of modern independent film-making driven by rare originality
 date: "2010-12-02 20:21:08 +0000"
+# Attributes from Felix Online V1
 id: "467"
 old_path: /film/467/a-festive-comedy-horror-from-finland
 aliases:
  - /film/467/a-festive-comedy-horror-from-finland
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022018-ks607-rareexpo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jl4310"
 author_name: "Jacob Lea-Wilson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

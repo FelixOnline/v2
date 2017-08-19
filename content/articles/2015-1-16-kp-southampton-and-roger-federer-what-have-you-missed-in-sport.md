@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle recaps some of the major stories from the holiday.
 date: "2015-01-16 15:35:01 +0000"
+# Attributes from Felix Online V1
 id: "5102"
 old_path: /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
 aliases:
  - /sport/5102/kp-southampton-and-roger-federer-what-have-you-missed-in-sport
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161534-kmw13-201911.3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yiango Mavrocostanti shows you how to make someone melt on Valentine's Day
 date: "2013-02-07 23:00:57 +0000"
+# Attributes from Felix Online V1
 id: "3250"
 old_path: /food/3250/valentines-heaven-cupcakes
 aliases:
  - /food/3250/valentines-heaven-cupcakes
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072300-tna08-cupcakes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

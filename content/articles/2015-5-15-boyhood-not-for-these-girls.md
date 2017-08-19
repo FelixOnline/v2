@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Abena Taylor-Smith reviews Celine Sciamma's "Trilogy of Youth"
 date: "2015-05-15 12:05:27 +0100"
+# Attributes from Felix Online V1
 id: "5527"
 old_path: /film/5527/boyhood-not-for-these-girls
 aliases:
  - /film/5527/boyhood-not-for-these-girls
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151304-cj914-girlhood-cmyk.jpg"
 image_caption: >
   Director Celine Sciamma employed street-casting to bring her characters to life
@@ -22,6 +27,7 @@ image_attribution: "Celine Sciamma/Studiocanal"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

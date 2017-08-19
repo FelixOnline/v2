@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anum Farooq explores the wonders of tea
 date: "2013-05-23 22:15:59 +0100"
+# Attributes from Felix Online V1
 id: "3612"
 old_path: /comment/3612/tea-a-taste-of-harmony
 aliases:
  - /comment/3612/tea-a-taste-of-harmony
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

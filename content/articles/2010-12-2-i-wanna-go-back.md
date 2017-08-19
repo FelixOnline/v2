@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at the re-issue of one of the 90’s greatest albums
 date: "2010-12-02 20:51:08 +0000"
+# Attributes from Felix Online V1
 id: "479"
 old_path: /music/479/i-wanna-go-back
 aliases:
  - /music/479/i-wanna-go-back
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cdd09"
 author_name: "Christopher D Dean"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix visits the refined Camino for a relaxed brunch of spanish delights, with crisp Patatas Bravas, inky Arroz Negor and Baby squid. Oh, and a bottle of cava for good measure.
 date: "2016-10-31 23:18:16 +0000"
+# Attributes from Felix Online V1
 id: "6373"
 old_path: /food/6373/plates-of-simple-luxury
 aliases:
  - /food/6373/plates-of-simple-luxury
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610312316-felix-IMG_4793.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cristy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The formation of a “small lake” on the track didn’t stop Imperial Triathalon Club
 date: "2016-02-05 12:57:52 +0000"
+# Attributes from Felix Online V1
 id: "5890"
 old_path: /sport/5890/drenched-duathletes-dominate-gravesend
 aliases:
  - /sport/5890/drenched-duathletes-dominate-gravesend
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051257-felix-12615319_10208435310861198_4970862720359336288_o.jpg"
 image_caption: >
   Run, Anna, run!
@@ -22,6 +27,7 @@ image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

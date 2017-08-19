@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Driving Dead
 date: "2013-01-24 21:13:18 +0000"
+# Attributes from Felix Online V1
 id: "3157"
 old_path: /games/3157/a-bit-that-will-really-drive-you-a-long-way
 aliases:
  - /games/3157/a-bit-that-will-really-drive-you-a-long-way
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242113-mc4509-screenshot_20120913_01.jpg"
 image_caption: >
   Now that’s just cheating
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

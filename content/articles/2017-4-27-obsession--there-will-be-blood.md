@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jude Law excels in Ivo van Hove's adaptation of Visconti's original film
 date: "2017-04-27 19:00:19 +0100"
+# Attributes from Felix Online V1
 id: "6927"
 old_path: /arts/6927/obsession--there-will-be-blood
 aliases:
  - /arts/6927/obsession--there-will-be-blood
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201704272058-ff712-21.jpg"
 image_caption: >
   Barbican/Toneelgroep Amsterdam, Obsession, Halina Reijn, Jude Law and Gijs Scholten van Ascha
@@ -22,6 +27,7 @@ image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

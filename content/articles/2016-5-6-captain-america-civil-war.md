@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-05-06 10:13:29 +0100"
+# Attributes from Felix Online V1
 id: "6131"
 old_path: /film/6131/captain-america-civil-war
 aliases:
  - /film/6131/captain-america-civil-war
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

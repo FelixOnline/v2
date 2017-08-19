@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Calling it a misunderstanding doesn’t make it better
 date: "2016-10-14 09:56:51 +0100"
+# Attributes from Felix Online V1
 id: "6330"
 old_path: /news/6330/government-accused-of-barring-foreign-expertise
 aliases:
  - /news/6330/government-accused-of-barring-foreign-expertise
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Umezo Kamata"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

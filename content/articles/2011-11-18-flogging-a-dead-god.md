@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When will everyone realise that the debate on divine existence is over?
 date: "2011-11-18 00:09:23 +0000"
+# Attributes from Felix Online V1
 id: "1797"
 old_path: /comment/1797/flogging-a-dead-god
 aliases:
  - /comment/1797/flogging-a-dead-god
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111180005-sjw209-god.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

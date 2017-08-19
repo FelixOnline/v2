@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indy Leclercq interviews Didier Nohlmans
 date: "2011-10-13 22:59:22 +0100"
+# Attributes from Felix Online V1
 id: "1518"
 old_path: /sport/1518/club-captain-interview-mens-fencing
 aliases:
  - /sport/1518/club-captain-interview-mens-fencing
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132358-ak6309-dsc_3447.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

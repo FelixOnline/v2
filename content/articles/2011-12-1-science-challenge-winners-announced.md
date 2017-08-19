@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists gather at The Gore Hotel to receive awards
 date: "2011-12-01 21:35:25 +0000"
+# Attributes from Felix Online V1
 id: "1896"
 old_path: /news/1896/science-challenge-winners-announced
 aliases:
  - /news/1896/science-challenge-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012135-felix-rcsu.jpg"
 image_caption: >
   This year’s dinner was held at The Gore Hotel
@@ -22,6 +27,7 @@ image_attribution: "Maria Han Veiga"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

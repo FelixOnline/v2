@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Keir Little discusses why the gaming community needs to buck up its ideas if it ever wants to be taken seriously
 date: "2012-03-08 22:20:43 +0000"
+# Attributes from Felix Online V1
 id: "2332"
 old_path: /games/2332/the-impact-of-immaturity
 aliases:
  - /games/2332/the-impact-of-immaturity
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082219-ams111-soul-calibur-iv-screenshot-ivy-big-boobs-1.jpg"
 image_caption: >
   Explain to me why someone would wear armour vulnerable to a pair of blunt scissors
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

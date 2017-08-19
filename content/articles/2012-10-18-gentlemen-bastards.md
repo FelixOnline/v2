@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about Scott Lynch’s debut series
 date: "2012-10-18 21:10:51 +0100"
+# Attributes from Felix Online V1
 id: "2693"
 old_path: /books/2693/gentlemen-bastards
 aliases:
  - /books/2693/gentlemen-bastards
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

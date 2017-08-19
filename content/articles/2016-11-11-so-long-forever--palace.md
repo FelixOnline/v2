@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A woozy, melodic gem
 date: "2016-11-11 18:28:06 +0000"
+# Attributes from Felix Online V1
 id: "6442"
 old_path: /music/6442/so-long-forever--palace
 aliases:
  - /music/6442/so-long-forever--palace
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111827-felix-Palace-So-Long-Forever.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

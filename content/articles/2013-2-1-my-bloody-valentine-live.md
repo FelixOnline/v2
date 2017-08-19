@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray is not talking about Bullet For My Valentine
 date: "2013-02-01 00:52:27 +0000"
+# Attributes from Felix Online V1
 id: "3236"
 old_path: /music/3236/my-bloody-valentine-live
 aliases:
  - /music/3236/my-bloody-valentine-live
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010052-tna08-img_0186.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rbg10"
 author_name: "Ross Gray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

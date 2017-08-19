@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gilead Amit, Deputy Editor, kicks off our new feature with his favourite work of literature: De Profundis
 date: "2010-10-08 06:33:54 +0100"
+# Attributes from Felix Online V1
 id: "184"
 old_path: /arts/184/if-you-read-nothing-else-this-week
 aliases:
  - /arts/184/if-you-read-nothing-else-this-week
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010080731-ks607-OscarWil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

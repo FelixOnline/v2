@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Johnny Depp and co all perform well in this Boston-set thriller, but it fails to reach true heights
 date: "2015-12-06 14:11:10 +0000"
+# Attributes from Felix Online V1
 id: "5799"
 old_path: /film/5799/black-mass-is-a-solid-crime-drama-but-fails-to-light-a-fire
 aliases:
  - /film/5799/black-mass-is-a-solid-crime-drama-but-fails-to-light-a-fire
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512061409-ff712-01d9f6d1-e423-4ead-a849-2e2566035050-620x372.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

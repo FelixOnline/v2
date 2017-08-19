@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It doesn't make sense for Imperial College to charge them international fees
 date: "2017-05-19 14:58:40 +0100"
+# Attributes from Felix Online V1
 id: "6971"
 old_path: /news/6971/migrant-students-gain-financial-aid
 aliases:
  - /news/6971/migrant-students-gain-financial-aid
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   56% of Imperial students are voting Lib Dem at the General Election, but who should you be voting for?
 date: "2010-05-01 19:12:48 +0100"
+# Attributes from Felix Online V1
 id: "135"
 old_path: /news/135/taking-your-pick-general-election-2010
 aliases:
  - /news/135/taking-your-pick-general-election-2010
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

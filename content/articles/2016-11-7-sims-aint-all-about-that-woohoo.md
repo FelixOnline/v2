@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Norrie discusses the main features of what he thinks made the Sims so enjoyable and just plain fun
 date: "2016-11-07 13:12:28 +0000"
+# Attributes from Felix Online V1
 id: "6403"
 old_path: /games/6403/sims-aint-all-about-that-woohoo
 aliases:
  - /games/6403/sims-aint-all-about-that-woohoo
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071312-felix-Sims3_02.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Maxis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

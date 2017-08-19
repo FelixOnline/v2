@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We should relax the rules on performance enhancing drugs
 date: "2010-11-11 21:37:28 +0000"
+# Attributes from Felix Online V1
 id: "365"
 old_path: /comment/365/steroids-would-improve-sport
 aliases:
  - /comment/365/steroids-would-improve-sport
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

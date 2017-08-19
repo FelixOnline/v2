@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yasmin Malik and IC Belly Dancing gets close and personal with Sunny the Shake Boy
 date: "2014-11-06 21:04:07 +0000"
+# Attributes from Felix Online V1
 id: "4794"
 old_path: /cands/4794/never-really-knew-that-he-could-dance-like-this
 aliases:
  - /cands/4794/never-really-knew-that-he-could-dance-like-this
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062103-cj914-arabic-night--sunny.jpg"
 image_caption: >
   Sunny the Shake Boy at Arabic Night.
@@ -22,6 +27,7 @@ image_attribution: "Meilin Sancho"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

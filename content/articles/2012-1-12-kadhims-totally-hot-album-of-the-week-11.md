@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oneohtrix Point Never – Replica – Software – 2011
 date: "2012-01-12 22:44:32 +0000"
+# Attributes from Felix Online V1
 id: "1990"
 old_path: /music/1990/kadhims-totally-hot-album-of-the-week-11
 aliases:
  - /music/1990/kadhims-totally-hot-album-of-the-week-11
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122244-felix-kadhim-album.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

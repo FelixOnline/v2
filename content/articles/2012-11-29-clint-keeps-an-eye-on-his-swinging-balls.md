@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Starring: Clint Eastwood, Amy Adams, Justin Timberlake
 date: "2012-11-29 23:03:09 +0000"
+# Attributes from Felix Online V1
 id: "2999"
 old_path: /film/2999/clint-keeps-an-eye-on-his-swinging-balls
 aliases:
  - /film/2999/clint-keeps-an-eye-on-his-swinging-balls
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292302-csw09-trouble-with-the-curve.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

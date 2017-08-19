@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hide yo wives! Hide yo kids!
 date: "2016-10-07 17:01:00 +0100"
+# Attributes from Felix Online V1
 id: "6312"
 old_path: /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
 aliases:
  - /news/6312/immigration-lawyers-invited-to-imperial-to-guide-european-staff-post-brexit
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101231-felix-69729963_a737132ad6_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "TS Pakhrin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

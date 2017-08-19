@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Knowing your history, a blast from the past, part 3.
 date: "2014-06-11 22:32:41 +0100"
+# Attributes from Felix Online V1
 id: "4679"
 old_path: /film/4679/get-out-the-hankies-weepies-from-the-eighties---the-fabulous-baker
 aliases:
  - /film/4679/get-out-the-hankies-weepies-from-the-eighties---the-fabulous-baker
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112332-me1711-baker2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

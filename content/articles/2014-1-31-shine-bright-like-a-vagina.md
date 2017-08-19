@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on the silver lining that is coming to a crotch near you
 date: "2014-01-31 17:16:41 +0000"
+# Attributes from Felix Online V1
 id: "4315"
 old_path: /science/4315/shine-bright-like-a-vagina
 aliases:
  - /science/4315/shine-bright-like-a-vagina
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401311718-jal08-silver-3.jpg"
 image_caption: >
   The contents of your pants could one day look like this
@@ -22,6 +27,7 @@ image_attribution: "images-of-elements.com"
 image_attribution_link: "http://www.images-of-elements.com"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

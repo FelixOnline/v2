@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dunson - 'Count On It'
 date: "2012-02-23 21:31:36 +0000"
+# Attributes from Felix Online V1
 id: "2256"
 old_path: /music/2256/ramas-hip-hop-tune-of-the-week-2
 aliases:
  - /music/2256/ramas-hip-hop-tune-of-the-week-2
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232131-ams111-the-count.jpg"
 image_caption: >
   I vant to sack your Courvoisier
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

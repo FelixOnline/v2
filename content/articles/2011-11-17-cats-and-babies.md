@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two of the most sinister threats that we face today
 date: "2011-11-17 21:48:05 +0000"
+# Attributes from Felix Online V1
 id: "1786"
 old_path: /comment/1786/cats-and-babies
 aliases:
  - /comment/1786/cats-and-babies
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172148-felix-catsandbabies.jpg"
 image_caption: >
   The only thing terrifying about this whole situation is that yarn ball. Dang
@@ -22,6 +27,7 @@ image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

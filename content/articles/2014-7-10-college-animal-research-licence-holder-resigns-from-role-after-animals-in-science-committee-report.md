@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Today during a statement by Norman Baker MP, it has emerged that the College’s Establishment Licence Holder has resigned from the position with immediate effect.
 date: "2014-07-10 16:56:11 +0100"
+# Attributes from Felix Online V1
 id: "4724"
 old_path: /news/4724/college-animal-research-licence-holder-resigns-from-role-after-animals-in-science-committee-report
 aliases:
  - /news/4724/college-animal-research-licence-holder-resigns-from-role-after-animals-in-science-committee-report
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
+# Attributes from Felix Online V1
 id: "57"
 old_path: /film/57/a-prophet-review
 aliases:
  - /film/57/a-prophet-review
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001281549-egk08-AProphet.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "egk08"
 author_name: "Edmund Knock"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

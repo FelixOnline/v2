@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why protest is important and what it tries to achieve
 date: "2011-11-10 20:24:09 +0000"
+# Attributes from Felix Online V1
 id: "1711"
 old_path: /comment/1711/doth-the-lady-protest-too-much
 aliases:
  - /comment/1711/doth-the-lady-protest-too-much
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111102023-pk1811-comment-student-protest.jpg"
 image_caption: >
   This banner only rhymes with certain accents. Just wanted to put it out there
@@ -22,6 +27,7 @@ image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

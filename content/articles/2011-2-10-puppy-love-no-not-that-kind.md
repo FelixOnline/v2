@@ -4,15 +4,20 @@ title: >
 subtitle: >
   My name came up and in a matter of seconds I was holding the biggest heart-shaped card
 date: "2011-02-10 21:04:34 +0000"
+# Attributes from Felix Online V1
 id: "793"
 old_path: /comment/793/puppy-love-no-not-that-kind
 aliases:
  - /comment/793/puppy-love-no-not-that-kind
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The hair’s looking better this season, at least
 date: "2017-01-20 15:17:02 +0000"
+# Attributes from Felix Online V1
 id: "6667"
 old_path: /tv/6667/a-series-of-final-problems--sherlock
 aliases:
  - /tv/6667/a-series-of-final-problems--sherlock
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201515-felix-p04m9tlx.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

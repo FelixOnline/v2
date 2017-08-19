@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Wiles takes a look at this twelve-time BAFTA nominated French offering
 date: "2012-01-26 22:19:14 +0000"
+# Attributes from Felix Online V1
 id: "2057"
 old_path: /film/2057/silence-is-golden-so-shhhhhhhhhhhhhhhhh
 aliases:
  - /film/2057/silence-is-golden-so-shhhhhhhhhhhhhhhhh
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

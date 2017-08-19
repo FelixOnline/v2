@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Devang Metha talks about a fascinating multi-layered novel
 date: "2012-11-01 22:59:43 +0000"
+# Attributes from Felix Online V1
 id: "2803"
 old_path: /books/2803/mitchells-cloud-atlas
 aliases:
  - /books/2803/mitchells-cloud-atlas
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012259-csw09-cloudatlas.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

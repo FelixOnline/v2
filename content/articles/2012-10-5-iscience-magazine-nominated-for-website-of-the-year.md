@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bossing awards
 date: "2012-10-05 15:53:31 +0100"
+# Attributes from Felix Online V1
 id: "2633"
 old_path: /news/2633/iscience-magazine-nominated-for-website-of-the-year
 aliases:
  - /news/2633/iscience-magazine-nominated-for-website-of-the-year
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051653-felix-iscience.jpg"
 image_caption: >
   The grid background is what turns me on...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

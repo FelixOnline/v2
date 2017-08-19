@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
+# Attributes from Felix Online V1
 id: "5654"
 old_path: /news/5654/prince-andrew-hosts-entrepreneurial-contest
 aliases:
  - /news/5654/prince-andrew-hosts-entrepreneurial-contest
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161504-ygr12-potenchal2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London / Layton Thompson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

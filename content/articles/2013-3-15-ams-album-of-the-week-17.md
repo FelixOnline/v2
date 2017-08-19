@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stuart Mason reviews The Flaming Lips' The Terror
 date: "2013-03-15 02:53:57 +0000"
+# Attributes from Felix Online V1
 id: "3493"
 old_path: /music/3493/ams-album-of-the-week-17
 aliases:
  - /music/3493/ams-album-of-the-week-17
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150253-tna08-the-flaming-lips-the-terror-608x608.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

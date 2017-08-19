@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The world is definitely getting smaller, and I can only see that as being a good thing
 date: "2011-02-03 20:13:44 +0000"
+# Attributes from Felix Online V1
 id: "739"
 old_path: /comment/739/dude-wheres-my-country-
 aliases:
  - /comment/739/dude-wheres-my-country-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Charles Titmuss explains why Putin is probably ecstatic right now
 date: "2017-02-17 14:46:58 +0000"
+# Attributes from Felix Online V1
 id: "6787"
 old_path: /comment/6787/putin-has-a-huge-power-hard-on
 aliases:
  - /comment/6787/putin-has-a-huge-power-hard-on
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171446-felix-Screen Shot 2017-02-17 at 14.46.45.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

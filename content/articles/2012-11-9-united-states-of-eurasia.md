@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The college’s Europe-centric approach to overseas study is something we should change.
 date: "2012-11-09 12:07:31 +0000"
+# Attributes from Felix Online V1
 id: "2844"
 old_path: /comment/2844/united-states-of-eurasia
 aliases:
  - /comment/2844/united-states-of-eurasia
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

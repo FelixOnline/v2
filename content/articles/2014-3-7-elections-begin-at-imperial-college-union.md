@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Big Elections for 2014 have started this week at Imperial College. Campaigning started on Monday 3rd March and will continue through till the 14th March and voting opens next week on Friday 7th March and will last one week.
 date: "2014-03-07 04:35:46 +0000"
+# Attributes from Felix Online V1
 id: "4453"
 old_path: /news/4453/elections-begin-at-imperial-college-union
 aliases:
  - /news/4453/elections-begin-at-imperial-college-union
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

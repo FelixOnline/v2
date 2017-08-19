@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kier Little on the new trend of supercapacitors made from graphite
 date: "2013-02-28 18:00:58 +0000"
+# Attributes from Felix Online V1
 id: "3383"
 old_path: /science/3383/graphite-supercapacitors-are-taking-charge
 aliases:
  - /science/3383/graphite-supercapacitors-are-taking-charge
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302281758-txl11-graphite-rod-sg-007-.jpg"
 image_caption: >
   Some graphite rods
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

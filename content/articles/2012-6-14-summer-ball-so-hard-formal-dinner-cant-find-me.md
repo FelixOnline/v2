@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A review of the Union
 date: "2012-06-14 19:43:49 +0100"
+# Attributes from Felix Online V1
 id: "2550"
 old_path: /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
 aliases:
  - /comment/2550/summer-ball-so-hard-formal-dinner-cant-find-me
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

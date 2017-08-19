@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten presents a stimulating article on the problems surrounding the nuclear reactor in Fukushima
 date: "2013-09-05 18:40:37 +0100"
+# Attributes from Felix Online V1
 id: "3757"
 old_path: /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
 aliases:
  - /comment/3757/honour-before-pragmatism-what-lessons-can-we-learn-from-the-fukushima-nuclear-debacle
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309051935-jal08-tumblr_mmstipuyid1rfyiu4o1_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

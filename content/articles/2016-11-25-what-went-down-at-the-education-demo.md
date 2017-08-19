@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over 15,000 students participated
 date: "2016-11-25 13:24:07 +0000"
+# Attributes from Felix Online V1
 id: "6495"
 old_path: /news/6495/what-went-down-at-the-education-demo
 aliases:
  - /news/6495/what-went-down-at-the-education-demo
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Harisson Jones"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

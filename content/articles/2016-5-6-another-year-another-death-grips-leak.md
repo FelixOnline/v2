@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
+# Attributes from Felix Online V1
 id: "6126"
 old_path: /music/6126/another-year-another-death-grips-leak
 aliases:
  - /music/6126/another-year-another-death-grips-leak
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061057-felix-bottomlesspit.jpg"
 image_caption: >
   A bottomless balloon pit?
@@ -22,6 +27,7 @@ image_attribution: "Death Grips"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

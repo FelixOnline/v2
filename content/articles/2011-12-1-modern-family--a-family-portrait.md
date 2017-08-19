@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
+# Attributes from Felix Online V1
 id: "1873"
 old_path: /tv/1873/modern-family--a-family-portrait
 aliases:
  - /tv/1873/modern-family--a-family-portrait
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201091740-js2310-gloria2.jpg"
 image_caption: >
   The well-endowed Sofia Vergara as Gloria
@@ -22,6 +27,7 @@ image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

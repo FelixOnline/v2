@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles heads to the Barbican, where they are currently celebrating the work of Samuel Beckett, to watch Lessness and Waiting for Godot
 date: "2015-06-09 11:59:52 +0100"
+# Attributes from Felix Online V1
 id: "5605"
 old_path: /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
 aliases:
  - /arts/5605/meaning-in-madness-barbicans-celebration-of-beckett
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506091256-ff712-02.jpg"
 image_caption: >
   Sydney Theatre Company, Waiting for Godot, Hugo Weaving, Philip Quast, Richard Roxburgh and Luke Mullins
@@ -22,6 +27,7 @@ image_attribution: "Lisa Tomasetti"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

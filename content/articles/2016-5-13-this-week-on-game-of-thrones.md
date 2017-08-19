@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Series 6, Episode 3
 date: "2016-05-13 09:23:17 +0100"
+# Attributes from Felix Online V1
 id: "6160"
 old_path: /tv/6160/this-week-on-game-of-thrones
 aliases:
  - /tv/6160/this-week-on-game-of-thrones
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131122-felix-929f1cb0-f83c-0133-8045-0e31b36aeb7f.jpeg"
 image_caption: >
   Welcome back home!
@@ -22,6 +27,7 @@ image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

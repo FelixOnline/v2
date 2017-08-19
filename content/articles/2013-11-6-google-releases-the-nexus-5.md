@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After many weeks of speculations, leaks, and overwhelming anticipation, Google has finally taken the wraps off their new flagship phone, the Nexus 5.
 date: "2013-11-06 17:22:21 +0000"
+# Attributes from Felix Online V1
 id: "4018"
 old_path: /tech/4018/google-releases-the-nexus-5
 aliases:
  - /tech/4018/google-releases-the-nexus-5
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311061722-me1711-tech_n5.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

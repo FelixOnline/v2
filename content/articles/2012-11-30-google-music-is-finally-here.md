@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jason Parmar looks at Google’s venture into the digital music market
 date: "2012-11-30 11:25:45 +0000"
+# Attributes from Felix Online V1
 id: "3016"
 old_path: /tech/3016/google-music-is-finally-here
 aliases:
  - /tech/3016/google-music-is-finally-here
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211301126-jp1409-music-players.png"
 image_caption: >
     Google comes into a pretty competitive market against these badass’ of digital music
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

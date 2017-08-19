@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The team aims to produce a fully functioning creatinine sensor which rivals those currently available
 date: "2016-05-06 10:18:43 +0100"
+# Attributes from Felix Online V1
 id: "6136"
 old_path: /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
 aliases:
  - /cands/6136/imperial-puts-forward-a-team-in-an-international-sensor-building-competition
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061118-felix-12698176_216110085402467_4463194750077487305_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " SensUs Imperial"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Samuel Furse takes a critical look at a highly praised feminist work
 date: "2012-03-01 21:35:40 +0000"
+# Attributes from Felix Online V1
 id: "2277"
 old_path: /books/2277/how-to-be-a-woman
 aliases:
  - /books/2277/how-to-be-a-woman
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203012135-ams111-caitlin_moran_5048.jpg"
 image_caption: >
   Caitlin Moran is an acclaimed broadcaster and columnist at The Times
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

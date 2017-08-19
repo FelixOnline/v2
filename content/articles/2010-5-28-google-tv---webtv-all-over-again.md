@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Google's launched it's attempt to shoehorn the web into the living room, but will it succeed?
 date: "2010-05-28 10:48:44 +0100"
+# Attributes from Felix Online V1
 id: "141"
 old_path: /tech/141/google-tv---webtv-all-over-again
 aliases:
  - /tech/141/google-tv---webtv-all-over-again
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201005281135-srg03-GoogleTV.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

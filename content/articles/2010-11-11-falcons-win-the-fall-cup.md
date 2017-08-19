@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Baseball Club win British University Cup. By Arun Krishnan & Kevin Ling
 date: "2010-11-11 20:49:34 +0000"
+# Attributes from Felix Online V1
 id: "345"
 old_path: /sport/345/falcons-win-the-fall-cup-
 aliases:
  - /sport/345/falcons-win-the-fall-cup-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112048-ks607-baseball.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

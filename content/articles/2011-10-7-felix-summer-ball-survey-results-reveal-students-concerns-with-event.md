@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Common complaints centre around format change, though funfair is praised
 date: "2011-10-07 00:30:27 +0100"
+# Attributes from Felix Online V1
 id: "1470"
 old_path: /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
 aliases:
  - /news/1470/felix-summer-ball-survey-results-reveal-students-concerns-with-event-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071531-felix-felix-summer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

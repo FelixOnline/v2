@@ -4,15 +4,20 @@ title: >
 subtitle: >
   By Jula Humphries
 date: "2012-02-09 22:34:40 +0000"
+# Attributes from Felix Online V1
 id: "2155"
 old_path: /science/2155/norway-puts-genome-sequencing-in-national-health-system
 aliases:
  - /science/2155/norway-puts-genome-sequencing-in-national-health-system
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

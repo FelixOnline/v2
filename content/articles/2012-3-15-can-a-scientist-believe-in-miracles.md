@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Faux discusses the apparent conflict between science and religion
 date: "2012-03-15 21:37:50 +0000"
+# Attributes from Felix Online V1
 id: "2389"
 old_path: /comment/2389/can-a-scientist-believe-in-miracles
 aliases:
  - /comment/2389/can-a-scientist-believe-in-miracles
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152137-ams111-blue_sea_parting.jpg"
 image_caption: >
   Personally, I’m getting memories of Bognor Regis
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

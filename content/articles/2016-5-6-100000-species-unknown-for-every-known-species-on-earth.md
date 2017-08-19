@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Estimating the number of species on Earth is among the great challenges in biology
 date: "2016-05-06 09:53:10 +0100"
+# Attributes from Felix Online V1
 id: "6121"
 old_path: /science/6121/100000-species-unknown-for-every-known-species-on-earth
 aliases:
  - /science/6121/100000-species-unknown-for-every-known-species-on-earth
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
 image_caption: >
   With over 200 genera they still only represent a fraction of Earth’s diversity.
@@ -22,6 +27,7 @@ image_attribution: "Picturepest"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

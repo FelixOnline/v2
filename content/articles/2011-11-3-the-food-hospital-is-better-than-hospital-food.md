@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Channel 4 mix science and not in a delicious documentary
 date: "2011-11-03 20:30:51 +0000"
+# Attributes from Felix Online V1
 id: "1668"
 old_path: /tv/1668/the-food-hospital-is-better-than-hospital-food
 aliases:
  - /tv/1668/the-food-hospital-is-better-than-hospital-food
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032030-pk1811-hospital-food.jpg"
 image_caption: >
   Yeah, that’ll make you better love
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js2310"
 author_name: "James Simpson"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

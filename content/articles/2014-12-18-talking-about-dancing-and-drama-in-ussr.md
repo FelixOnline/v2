@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Interview: Fred Fyles speaks to Bolt curator Alex Chirac
 date: "2014-12-18 16:22:52 +0000"
+# Attributes from Felix Online V1
 id: "5077"
 old_path: /arts/5077/talking-about-dancing-and-drama-in-ussr
 aliases:
  - /arts/5077/talking-about-dancing-and-drama-in-ussr
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

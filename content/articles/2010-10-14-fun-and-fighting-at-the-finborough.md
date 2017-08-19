@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This small 'pub theatre' puts on a great show
 date: "2010-10-14 18:45:11 +0100"
+# Attributes from Felix Online V1
 id: "196"
 old_path: /arts/196/fun-and-fighting-at-the-finborough-
 aliases:
  - /arts/196/fun-and-fighting-at-the-finborough-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matthew Turner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

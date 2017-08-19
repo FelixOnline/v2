@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Youth stop AIDS
 date: "2016-03-11 11:46:41 +0000"
+# Attributes from Felix Online V1
 id: "6031"
 old_path: /cands/6031/speaking-against-stigma
 aliases:
  - /cands/6031/speaking-against-stigma
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

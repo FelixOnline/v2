@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate Modern's exhibition explores the age-old relationship between photography and performance
 date: "2016-04-15 18:08:26 +0100"
+# Attributes from Felix Online V1
 id: "6084"
 old_path: /arts/6084/but-first-let-me-take-a-selfie
 aliases:
  - /arts/6084/but-first-let-me-take-a-selfie
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604151907-jc7413-excellences_perfections_instagram_update_8th_july_2014_itsjustdifferent1.jpg"
 image_caption: >
   Amalia Ulman, Excellences & Perfections (Instagram Update, 8th July 2014),(#itsjustdifferent)
@@ -22,6 +27,7 @@ image_attribution: "Artist & Arcadia Missa"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

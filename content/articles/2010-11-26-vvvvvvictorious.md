@@ -4,15 +4,20 @@ title: >
 subtitle: >
   VVVVVV almost defeats Omar Hafeez-Bore. Almost...
 date: "2010-11-26 14:56:21 +0000"
+# Attributes from Felix Online V1
 id: "454"
 old_path: /games/454/vvvvvvictorious
 aliases:
  - /games/454/vvvvvvictorious
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261456-ks607-aious.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "oh106"
 author_name: "Omar Hafeez-Bore"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

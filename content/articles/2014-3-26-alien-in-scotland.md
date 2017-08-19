@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grating noise over a blackout. A pinprick of light. The noise intensifies, the light grows. More. More. The light spills out, begin to refract. Colours seep through.
 date: "2014-03-26 13:47:22 +0000"
+# Attributes from Felix Online V1
 id: "4504"
 old_path: /film/4504/alien-in-scotland
 aliases:
  - /film/4504/alien-in-scotland
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403261347-jal08-under-the-skin-scarlett-johansson-1024x601.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

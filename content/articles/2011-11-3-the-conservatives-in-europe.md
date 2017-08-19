@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Cameron is still feeling blue about events on the continent
 date: "2011-11-03 20:07:10 +0000"
+# Attributes from Felix Online V1
 id: "1662"
 old_path: /politics/1662/the-conservatives-in-europe
 aliases:
  - /politics/1662/the-conservatives-in-europe
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The title is a reference to Nouvelle Vague, I think. For more information on niche references, email arts.felix@imperial.ac.uk
 date: "2013-05-16 17:46:13 +0100"
+# Attributes from Felix Online V1
 id: "3572"
 old_path: /arts/3572/la-neuro-vague
 aliases:
  - /arts/3572/la-neuro-vague
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

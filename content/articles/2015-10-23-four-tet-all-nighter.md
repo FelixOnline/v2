@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our music editor left feeling underwhelmed
 date: "2015-10-23 11:54:29 +0100"
+# Attributes from Felix Online V1
 id: "5677"
 old_path: /music/5677/four-tet-all-nighter
 aliases:
  - /music/5677/four-tet-all-nighter
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231254-ygr12-fourtet2.jpg"
 image_caption: >
   The dark can be fun and exciting – the Four Tet All Nighter was neither.
@@ -22,6 +27,7 @@ image_attribution: "Crack Magazine"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

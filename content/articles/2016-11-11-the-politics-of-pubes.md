@@ -4,15 +4,20 @@ title: >
 subtitle: >
   how much is too much?
 date: "2016-11-11 15:44:32 +0000"
+# Attributes from Felix Online V1
 id: "6426"
 old_path: /sex/6426/the-politics-of-pubes
 aliases:
  - /sex/6426/the-politics-of-pubes
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111544-felix-Screen Shot 2016-11-11 at 15.44.03.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Celestial objects outdo students in terms of alcohol abuse. Comet named ‘Lovejoy’ has an atmosphere that cooks up a unique cocktail
 date: "2015-11-06 14:01:06 +0000"
+# Attributes from Felix Online V1
 id: "5704"
 old_path: /science/5704/go-home-comet-youre-drunk
 aliases:
  - /science/5704/go-home-comet-youre-drunk
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061359-ygr12-c2014_q2.jpg"
 image_caption: >
   Look at that green glowy beauty.
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

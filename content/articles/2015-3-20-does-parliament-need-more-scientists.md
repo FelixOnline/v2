@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer talks to Lord Winston about his experience in politics
 date: "2015-03-20 00:46:46 +0000"
+# Attributes from Felix Online V1
 id: "5415"
 old_path: /science/5415/does-parliament-need-more-scientists
 aliases:
  - /science/5415/does-parliament-need-more-scientists
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503200047-cj914-robert-winston.jpg"
 image_caption: >
   Robert Winston was made a Labour peer in 1995 and has been instrumental in getting many key science and healthcare bills through parliament
@@ -22,6 +27,7 @@ image_attribution: "ytimg.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

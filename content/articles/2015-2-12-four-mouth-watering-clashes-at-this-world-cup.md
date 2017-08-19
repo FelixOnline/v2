@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle picks out the four group stage matches that he is most looking forward to at this year’s World Cup
 date: "2015-02-12 22:57:02 +0000"
+# Attributes from Felix Online V1
 id: "5245"
 old_path: /sport/5245/four-mouth-watering-clashes-at-this-world-cup
 aliases:
  - /sport/5245/four-mouth-watering-clashes-at-this-world-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122255-jyg11-screen-shot-2015-02-12-at-22.55.38.png"
 image_caption: >
   The rivalry between India and Pakistan is fierce
@@ -22,6 +27,7 @@ image_attribution: "Asia Cup"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

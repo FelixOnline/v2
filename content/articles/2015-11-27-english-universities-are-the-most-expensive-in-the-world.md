@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Study finds that on average, degrees in the England cost more than in the US
 date: "2015-11-27 11:47:35 +0000"
+# Attributes from Felix Online V1
 id: "5770"
 old_path: /news/5770/english-universities-are-the-most-expensive-in-the-world
 aliases:
  - /news/5770/english-universities-are-the-most-expensive-in-the-world
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511271147-ygr12-online.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From the blatant rejection of some races to the fetishisation of others, OkCupid shows us that you probably are.
 date: "2016-10-21 12:49:40 +0100"
+# Attributes from Felix Online V1
 id: "6346"
 old_path: /sex/6346/are-you-a-tinder-racist
 aliases:
  - /sex/6346/are-you-a-tinder-racist
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610211459-so515-Screen Shot 2016-10-21 at 14.56.40.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

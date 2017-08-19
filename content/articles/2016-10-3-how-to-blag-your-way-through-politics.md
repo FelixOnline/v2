@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey teaches you how to look like you know what you’re talking about, without any of the pesky consequences of expressing an opinion.
 date: "2016-10-03 18:47:19 +0100"
+# Attributes from Felix Online V1
 id: "6305"
 old_path: /comment/6305/how-to-blag-your-way-through-politics
 aliases:
  - /comment/6305/how-to-blag-your-way-through-politics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610032046-felix-29726247376_386e18525f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles mulls on the radical British politics on display at the National Theatre's latest offering
 date: "2015-04-27 10:57:04 +0100"
+# Attributes from Felix Online V1
 id: "5471"
 old_path: /arts/5471/a-very-british-revolution
 aliases:
  - /arts/5471/a-very-british-revolution
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504271154-ff712-jpeg-11.jpg"
 image_caption: >
   . L-r Nicholas Gleaves (Star) and Trystan Gravelle (Briggs) in Light Shining in Buckinghamshire
@@ -22,6 +27,7 @@ image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

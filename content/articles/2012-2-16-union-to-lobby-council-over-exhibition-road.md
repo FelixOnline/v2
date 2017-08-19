@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unclear roundabout highlighted as potential risk
 date: "2012-02-16 22:25:26 +0000"
+# Attributes from Felix Online V1
 id: "2214"
 old_path: /news/2214/union-to-lobby-council-over-exhibition-road
 aliases:
  - /news/2214/union-to-lobby-council-over-exhibition-road
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162224-sjw209-dsc_6844.jpg"
 image_caption: >
   The unveiling of the new Exhibition Road, not lobbying in action
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

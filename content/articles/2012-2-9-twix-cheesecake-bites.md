@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Heat up the kitchen this Valentine’s Day with this decadent treat!
 date: "2012-02-09 22:31:45 +0000"
+# Attributes from Felix Online V1
 id: "2151"
 old_path: /food/2151/twix-cheesecake-bites
 aliases:
  - /food/2151/twix-cheesecake-bites
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092239-pk1811-cimg2023.gif"
 image_caption: >
   Can’t spell cheesecake without ‘eese’. As in ‘ease’? Yeah? Thought not
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

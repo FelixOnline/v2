@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two men used “racially aggravated language” at Discover Islam stall before assault
 date: "2016-03-11 11:24:49 +0000"
+# Attributes from Felix Online V1
 id: "6020"
 old_path: /news/6020/kings-student-has-niqab-ripped-off
 aliases:
  - /news/6020/kings-student-has-niqab-ripped-off
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111124-felix-Screen Shot 2016-03-10 at 12.12.44.png"
 image_caption: >
   An extract from the letter to the Principal.
@@ -22,6 +27,7 @@ image_attribution: " KCL Islamic Society"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

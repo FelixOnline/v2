@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oluwatosin Ajayi reviews DramSoc’s Earthquakes in London
 date: "2012-11-29 22:06:01 +0000"
+# Attributes from Felix Online V1
 id: "2986"
 old_path: /arts/2986/earthshatteringly-good
 aliases:
  - /arts/2986/earthshatteringly-good
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

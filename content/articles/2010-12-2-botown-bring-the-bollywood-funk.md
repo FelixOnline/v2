@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
+# Attributes from Felix Online V1
 id: "485"
 old_path: /music/485/botown-bring-the-bollywood-funk
 aliases:
  - /music/485/botown-bring-the-bollywood-funk
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rm1709"
 author_name: "Rishi Mistry"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

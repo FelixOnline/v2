@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Underwater Club takes a dive.
 date: "2014-11-06 21:11:42 +0000"
+# Attributes from Felix Online V1
 id: "4797"
 old_path: /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
 aliases:
  - /cands/4797/barracuda-the-world-cup-and-suspicious-gopros-
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062111-cj914-gopr0234-copy.jpg"
 image_caption: >
   It is rumoured that one of the divers in this picture was celebrating a world cup result.
@@ -22,6 +27,7 @@ image_attribution: "Ryan McCartney"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

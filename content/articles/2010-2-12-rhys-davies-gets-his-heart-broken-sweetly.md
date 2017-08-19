@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I knew we were having problems when we were fighting over bread
 date: "2010-02-12 01:58:55 +0000"
+# Attributes from Felix Online V1
 id: "85"
 old_path: /comment/85/rhys-davies-gets-his-heart-broken-sweetly
 aliases:
  - /comment/85/rhys-davies-gets-his-heart-broken-sweetly
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002120157-rsp07-butteran.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

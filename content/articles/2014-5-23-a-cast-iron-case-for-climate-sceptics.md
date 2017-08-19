@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on the ice caps leaking iron into the ocean
 date: "2014-05-23 13:46:04 +0100"
+# Attributes from Felix Online V1
 id: "4618"
 old_path: /science/4618/a-cast-iron-case-for-climate-sceptics
 aliases:
  - /science/4618/a-cast-iron-case-for-climate-sceptics
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405231446-jal08-an-iceberg-melts-drips-wa-002.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "guim.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

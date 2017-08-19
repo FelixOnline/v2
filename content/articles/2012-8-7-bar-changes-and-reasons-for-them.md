@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stefan Nubert, Deputy President (Finance & Services) explains the changes and reasons for them.
 date: "2012-08-07 20:04:24 +0100"
+# Attributes from Felix Online V1
 id: "2590"
 old_path: /comment/2590/bar-changes-and-reasons-for-them
 aliases:
  - /comment/2590/bar-changes-and-reasons-for-them
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201208072303-felix-stefan-white-background.jpg"
 image_caption: >
   Stefan Nubert (got it right, YES!) Deputy President (Finance & Services)
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

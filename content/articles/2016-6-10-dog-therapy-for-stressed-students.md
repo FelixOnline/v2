@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dogs during exam season proves huge hit with engineers
 date: "2016-06-10 08:12:32 +0100"
+# Attributes from Felix Online V1
 id: "6246"
 old_path: /news/6246/dog-therapy-for-stressed-students
 aliases:
  - /news/6246/dog-therapy-for-stressed-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101012-felix-pups.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix gives you the low-down on where to eat on campus...
 date: "2013-09-27 23:30:30 +0100"
+# Attributes from Felix Online V1
 id: "3764"
 old_path: /features/3764/freshers-pullout-food-near-and-on-campus
 aliases:
  - /features/3764/freshers-pullout-food-near-and-on-campus
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309280031-jal08-icl_catering_104.jpg"
 image_caption: >
   The library café at non-peak times
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/eatinganddrinking"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

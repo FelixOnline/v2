@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucia Podhorksa tells us about Friends, geeks and talk-show psychiatrists
 date: "2011-03-03 06:13:29 +0000"
+# Attributes from Felix Online V1
 id: "985"
 old_path: /tv/985/best-in-class-comedy-
 aliases:
  - /tv/985/best-in-class-comedy-
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030610-ks607-bigbangt.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

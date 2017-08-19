@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Josh Price gives us his thoughts on last weekend’s SimCity beta
 date: "2013-02-01 00:00:06 +0000"
+# Attributes from Felix Online V1
 id: "3219"
 old_path: /games/3219/simcity-not-5
 aliases:
  - /games/3219/simcity-not-5
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312358-tna08-untitled-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

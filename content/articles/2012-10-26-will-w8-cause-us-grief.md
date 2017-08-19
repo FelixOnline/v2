@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yong Wen Chua tries to decide if Windows 8 is a good thing or not
 date: "2012-10-26 02:25:06 +0100"
+# Attributes from Felix Online V1
 id: "2742"
 old_path: /tech/2742/will-w8-cause-us-grief
 aliases:
  - /tech/2742/will-w8-cause-us-grief
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

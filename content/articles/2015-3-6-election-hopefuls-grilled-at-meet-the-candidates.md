@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You can watch the video here: https://www.youtube.com/watch?v=_XYGHr7zr3M
 date: "2015-03-06 13:56:28 +0000"
+# Attributes from Felix Online V1
 id: "5352"
 old_path: /news/5352/election-hopefuls-grilled-at-meet-the-candidates
 aliases:
  - /news/5352/election-hopefuls-grilled-at-meet-the-candidates
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503061354-ps3110-screen-shot-2015-03-05-at-21.00.56.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

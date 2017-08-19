@@ -4,15 +4,20 @@ title: >
 subtitle: >
   adsfasdfasdfad
 date: "2011-06-09 18:36:33 +0100"
+# Attributes from Felix Online V1
 id: "1333"
 old_path: /phoenix/1333/the-fishing-trip
 aliases:
  - /phoenix/1333/the-fishing-trip
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106091934-felix-zoltan-vargas.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Zoltan Vargas"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

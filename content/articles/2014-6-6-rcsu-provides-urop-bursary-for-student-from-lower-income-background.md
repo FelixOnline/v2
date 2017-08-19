@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The RCSU UROP bursary has been awarded to an undergraduate student from the Department of Chemistry. This is a new initiative where the funding will be from the RCSU for students from lower income backgrounds.
 date: "2014-06-06 02:38:04 +0100"
+# Attributes from Felix Online V1
 id: "4654"
 old_path: /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
 aliases:
  - /news/4654/rcsu-provides-urop-bursary-for-student-from-lower-income-background
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

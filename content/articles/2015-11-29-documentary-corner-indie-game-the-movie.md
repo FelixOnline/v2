@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
+# Attributes from Felix Online V1
 id: "5779"
 old_path: /film/5779/documentary-corner-indie-game-the-movie
 aliases:
  - /film/5779/documentary-corner-indie-game-the-movie
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511291623-ff712-indiegamemovie_05.jpg"
 image_caption: >
   Jonathan Blow, god of indie games
@@ -22,6 +27,7 @@ image_attribution: "Indie Game: The Movie PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

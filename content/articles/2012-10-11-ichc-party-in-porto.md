@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
+# Attributes from Felix Online V1
 id: "2681"
 old_path: /sport/2681/ichc-party-in-porto
 aliases:
  - /sport/2681/ichc-party-in-porto
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

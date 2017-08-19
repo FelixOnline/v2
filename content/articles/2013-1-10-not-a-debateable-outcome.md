@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Niall Jeffrey gets arguing with everyone in sight at the World Universities Debating Championships
 date: "2013-01-10 22:03:46 +0000"
+# Attributes from Felix Online V1
 id: "3077"
 old_path: /news/3077/not-a-debateable-outcome
 aliases:
  - /news/3077/not-a-debateable-outcome
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102204-tna08-imperial-debating.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

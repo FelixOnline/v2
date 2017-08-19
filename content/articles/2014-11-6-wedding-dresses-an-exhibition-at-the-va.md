@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at dresses from 1775 onwards
 date: "2014-11-06 20:59:50 +0000"
+# Attributes from Felix Online V1
 id: "4793"
 old_path: /fashion/4793/wedding-dresses-an-exhibition-at-the-va
 aliases:
  - /fashion/4793/wedding-dresses-an-exhibition-at-the-va
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062059-snb11-wedding_dresses_1775-2014_3.jpg"
 image_caption: >
   John Galliano wedding gown, worn by Kate Moss
@@ -22,6 +27,7 @@ image_attribution: "Victoria and Albert Museum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

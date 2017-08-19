@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An interview with Physics’ artist in residence
 date: "2012-11-09 13:13:59 +0000"
+# Attributes from Felix Online V1
 id: "2855"
 old_path: /arts/2855/fusion-achieved-at-last-in-huxley
 aliases:
  - /arts/2855/fusion-achieved-at-last-in-huxley
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The hype, pure shock and amazement created by this move by Woman of the Match Ami provided the catalyst for a vigorous, heartfelt and inspiring comeback from Imperial....
 date: "2012-11-01 23:07:40 +0000"
+# Attributes from Felix Online V1
 id: "2811"
 old_path: /sport/2811/gaelic-football-girls-score-at-double-header
 aliases:
  - /sport/2811/gaelic-football-girls-score-at-double-header
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

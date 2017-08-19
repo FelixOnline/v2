@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rufus Norris ushers in his tenure at the National Theatre with this updated morality play, featuring a powerhouse performance by Chiwetel Ejiofor
 date: "2015-05-07 09:52:48 +0100"
+# Attributes from Felix Online V1
 id: "5497"
 old_path: /arts/5497/the-extraordinary-journey-of-everyman
 aliases:
  - /arts/5497/the-extraordinary-journey-of-everyman
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505071050-ff712-jpeg-7-everyman.jpg"
 image_caption: >
   A scene from Everyman - Chiwetel Ejiofor - Everyman
@@ -22,6 +27,7 @@ image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

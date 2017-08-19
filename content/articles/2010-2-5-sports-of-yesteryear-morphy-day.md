@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Whatever happened to Morphy Day, more to the point, what is Morphy Day? Jovan Nedi&#263; looks back at the forgotten inter-faculty sporting events of Imperial&8217;s illustrious past
 date: "2010-02-05 17:27:39 +0000"
+# Attributes from Felix Online V1
 id: "78"
 old_path: /sport/78/sports-of-yesteryear-morphy-day
 aliases:
  - /sport/78/sports-of-yesteryear-morphy-day
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

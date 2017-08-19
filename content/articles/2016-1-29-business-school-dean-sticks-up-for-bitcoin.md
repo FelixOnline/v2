@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The dean spoke out on the economic fad dividing the internet in City A.M.
 date: "2016-01-29 08:50:25 +0000"
+# Attributes from Felix Online V1
 id: "5838"
 old_path: /news/5838/business-school-dean-sticks-up-for-bitcoin
 aliases:
  - /news/5838/business-school-dean-sticks-up-for-bitcoin
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

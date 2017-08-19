@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ipsita Herlekar explains how taste and flavour can be brought back in tomatoes
 date: "2017-02-03 16:37:58 +0000"
+# Attributes from Felix Online V1
 id: "6718"
 old_path: /science/6718/making-tomatoes-tasty-again-
 aliases:
  - /science/6718/making-tomatoes-tasty-again-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031637-felix-3036852901_801fd59122_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Missy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

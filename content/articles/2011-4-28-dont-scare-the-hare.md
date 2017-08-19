@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Television sneaks under-cover reporter "Captain Reynolds" into the BBC Head Of Programming office to record this secret conversation about the commissioning of their new Saturday night show.
 date: "2011-04-28 13:43:55 +0100"
+# Attributes from Felix Online V1
 id: "1145"
 old_path: /tv/1145/dont-scare-the-hare
 aliases:
  - /tv/1145/dont-scare-the-hare
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104280941-ma1307-dont_scare_the_hare.jpg"
 image_caption: >
   The Hare in question, looking suitably worried.
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

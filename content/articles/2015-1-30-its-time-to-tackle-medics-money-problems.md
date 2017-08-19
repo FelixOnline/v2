@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jennifer Watson asks whether the College offer enough support
 date: "2015-01-30 00:03:33 +0000"
+# Attributes from Felix Online V1
 id: "5161"
 old_path: /comment/5161/its-time-to-tackle-medics-money-problems
 aliases:
  - /comment/5161/its-time-to-tackle-medics-money-problems
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501300003-ps3110-screen-shot-2015-01-30-at-00.04.40.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

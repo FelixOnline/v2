@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
+# Attributes from Felix Online V1
 id: "2955"
 old_path: /comment/2955/are-you-facing-charges
 aliases:
  - /comment/2955/are-you-facing-charges
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211230002-tna08-_001-(1).jpg"
 image_caption: >
   Lizzy Griffith's amazing drawing
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

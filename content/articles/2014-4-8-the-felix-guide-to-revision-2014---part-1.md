@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix breaks the exam panic with some useful revision tips!
 date: "2014-04-08 13:52:16 +0100"
+# Attributes from Felix Online V1
 id: "4531"
 old_path: /features/4531/the-felix-guide-to-revision-2014---part-1
 aliases:
  - /features/4531/the-felix-guide-to-revision-2014---part-1
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404081452-jal08-201309271824-jal08-studyhabitspicture.jpg"
 image_caption: >
   Something to do with Fluid Mechanics maybe?
@@ -22,6 +27,7 @@ image_attribution: "Joe Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

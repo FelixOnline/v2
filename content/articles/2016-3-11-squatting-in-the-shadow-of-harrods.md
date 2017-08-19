@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A squat in SW3 highlighting the London housing crisis is served eviction papers
 date: "2016-03-11 11:23:36 +0000"
+# Attributes from Felix Online V1
 id: "6019"
 old_path: /news/6019/squatting-in-the-shadow-of-harrods
 aliases:
  - /news/6019/squatting-in-the-shadow-of-harrods
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111121-felix-12833275_971574509558882_307790599_n.jpg"
 image_caption: >
   Fight the power! Then pop to Pret for lunch.
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: "https://www.youtube.com/watch?v=Y_X-hL5bhKg&feature=youtu.be"
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

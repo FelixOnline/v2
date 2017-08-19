@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Researchers have found the hobbit is not human
 date: "2016-02-26 11:33:57 +0000"
+# Attributes from Felix Online V1
 id: "5962"
 old_path: /science/5962/back-to-the-shire
 aliases:
  - /science/5962/back-to-the-shire
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261133-felix-one skull.jpg"
 image_caption: >
   One skull tells a different story.
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

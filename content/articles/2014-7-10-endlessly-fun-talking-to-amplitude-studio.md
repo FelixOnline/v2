@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Felix games team, given the opportunity, wracked the brains of Amplitude Studio's CEO Romain de Waubert de Genlis and Director of Marketing Max Von Knorring to see what their games as well as gaming are all about!
 date: "2014-07-10 16:44:42 +0100"
+# Attributes from Felix Online V1
 id: "4723"
 old_path: /games/4723/endlessly-fun-talking-to-amplitude-studio
 aliases:
  - /games/4723/endlessly-fun-talking-to-amplitude-studio
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

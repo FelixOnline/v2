@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alleged animal cruelty during the filming of the Tolkien stories’ film franchise
 date: "2012-11-29 23:09:25 +0000"
+# Attributes from Felix Online V1
 id: "3006"
 old_path: /film/3006/peter-vs-peta
 aliases:
  - /film/3006/peter-vs-peta
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

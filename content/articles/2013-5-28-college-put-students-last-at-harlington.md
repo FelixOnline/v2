@@ -4,15 +4,20 @@ title: >
 subtitle: >
   By selling use of the sports grounds to the highest bidder, college is forgetting the families of the WWI dead who paid for them. A letter from a former Union President.
 date: "2013-05-28 14:52:07 +0100"
+# Attributes from Felix Online V1
 id: "3627"
 old_path: /comment/3627/college-put-students-last-at-harlington
 aliases:
  - /comment/3627/college-put-students-last-at-harlington
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305281552-tna08-56677701.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

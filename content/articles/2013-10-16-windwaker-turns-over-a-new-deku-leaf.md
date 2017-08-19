@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Windwaker HD is a welcome addition to the Wii U
 date: "2013-10-16 14:11:47 +0100"
+# Attributes from Felix Online V1
 id: "3881"
 old_path: /games/3881/windwaker-turns-over-a-new-deku-leaf
 aliases:
  - /games/3881/windwaker-turns-over-a-new-deku-leaf
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310161511-me1711-games_wiwa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

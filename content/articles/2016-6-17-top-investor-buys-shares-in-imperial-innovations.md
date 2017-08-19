@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Neil Woodford now owns 20% of our research and development arm
 date: "2016-06-17 08:51:48 +0100"
+# Attributes from Felix Online V1
 id: "6270"
 old_path: /news/6270/top-investor-buys-shares-in-imperial-innovations
 aliases:
  - /news/6270/top-investor-buys-shares-in-imperial-innovations
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171051-felix-bio.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

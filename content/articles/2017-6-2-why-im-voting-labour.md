@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Abhijay Sood tells us all about why he's in love with labour
 date: "2017-06-02 14:16:12 +0100"
+# Attributes from Felix Online V1
 id: "7003"
 old_path: /comment/7003/why-im-voting-labour-
 aliases:
  - /comment/7003/why-im-voting-labour-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021615-felix-jezspeaker.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "twcuddleston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

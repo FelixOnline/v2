@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous writer thinks you should stop making this all about you
 date: "2017-06-09 14:57:36 +0100"
+# Attributes from Felix Online V1
 id: "7011"
 old_path: /comment/7011/its-not-rational-to-be-scared-of-terrorism
 aliases:
  - /comment/7011/its-not-rational-to-be-scared-of-terrorism
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

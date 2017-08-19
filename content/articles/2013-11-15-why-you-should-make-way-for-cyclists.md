@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I was initially cautious, sticking to journeys through parks and laughing with unbridled joy as I left hapless pedestrians and the occasional horse in my wake. What chance did they stand? The bicycle was the vehicle of the future and I its shiny jacketed prophet.
 date: "2013-11-15 02:24:21 +0000"
+# Attributes from Felix Online V1
 id: "4067"
 old_path: /comment/4067/why-you-should-make-way-for-cyclists
 aliases:
  - /comment/4067/why-you-should-make-way-for-cyclists
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

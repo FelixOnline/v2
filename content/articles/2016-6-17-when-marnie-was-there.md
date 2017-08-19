@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-17 09:38:00 +0100"
+# Attributes from Felix Online V1
 id: "6289"
 old_path: /film/6289/when-marnie-was-there
 aliases:
  - /film/6289/when-marnie-was-there
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606171137-felix-f01falmxnfjslhlvx8h4 (1).jpg"
 image_caption: >
   When Marnie Was There, apparently the 'last' of the Studio Ghibli films.
@@ -22,6 +27,7 @@ image_attribution: "Studio Ghibli"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

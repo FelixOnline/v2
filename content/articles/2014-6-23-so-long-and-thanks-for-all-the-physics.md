@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton reminisces about his six years at IC
 date: "2014-06-23 13:09:58 +0100"
+# Attributes from Felix Online V1
 id: "4706"
 old_path: /comment/4706/so-long-and-thanks-for-all-the-physics
 aliases:
  - /comment/4706/so-long-and-thanks-for-all-the-physics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

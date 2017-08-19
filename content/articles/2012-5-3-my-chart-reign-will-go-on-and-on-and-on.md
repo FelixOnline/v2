@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An old classic re-released
 date: "2012-05-03 18:29:36 +0100"
+# Attributes from Felix Online V1
 id: "2413"
 old_path: /film/2413/my-chart-reign-will-go-on-and-on-and-on
 aliases:
  - /film/2413/my-chart-reign-will-go-on-and-on-and-on
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031929-ams111-02012_titanic_3d_001.jpg"
 image_caption: >
   There’s nooooooooooooooooooooooooooooooooooooooooooooooothing I fear (ex
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

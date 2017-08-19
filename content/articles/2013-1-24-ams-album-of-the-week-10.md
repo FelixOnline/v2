@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dutch Uncles: Out of Touch in the Wild
 date: "2013-01-24 22:21:37 +0000"
+# Attributes from Felix Online V1
 id: "3165"
 old_path: /music/3165/ams-album-of-the-week-10
 aliases:
  - /music/3165/ams-album-of-the-week-10
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301242222-mc4509-198597_10151109398769232_868641925_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

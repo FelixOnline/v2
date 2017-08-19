@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Last Exorcism? Probably not.
 date: "2013-06-05 12:18:38 +0100"
+# Attributes from Felix Online V1
 id: "3650"
 old_path: /film/3650/will-this-truly-be-the-last
 aliases:
  - /film/3650/will-this-truly-be-the-last
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051317-tna08-the_last_exorcism_part2-2.jpg"
 image_caption: >
   Purging all of that useless knowledge after exams
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

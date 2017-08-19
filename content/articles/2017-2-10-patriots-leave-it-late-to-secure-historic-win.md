@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Winning isn’t everything, it’s the only thing
 date: "2017-02-10 16:49:55 +0000"
+# Attributes from Felix Online V1
 id: "6776"
 old_path: /sport/6776/patriots-leave-it-late-to-secure-historic-win
 aliases:
  - /sport/6776/patriots-leave-it-late-to-secure-historic-win
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101649-felix-File_000.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

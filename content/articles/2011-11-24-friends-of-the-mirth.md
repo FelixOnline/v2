@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Paul Beaumont takes a look at a typical Friday night down at the Apollo
 date: "2011-11-24 22:32:50 +0000"
+# Attributes from Felix Online V1
 id: "1836"
 old_path: /arts/1836/friends-of-the-mirth
 aliases:
  - /arts/1836/friends-of-the-mirth
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242232-pk1811-screen-shot-2011-11-23-at-12.25.47-pm.png"
 image_caption: >
   Greg clocked up his sixth failed marriage proposal this year
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

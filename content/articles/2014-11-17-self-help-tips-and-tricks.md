@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chanon Wongsatayanont on coping with mental illnesses
 date: "2014-11-17 18:21:04 +0000"
+# Attributes from Felix Online V1
 id: "4905"
 old_path: /welfare/4905/self-help-tips-and-tricks
 aliases:
  - /welfare/4905/self-help-tips-and-tricks
-category: welfare
 
+# Article Taxonomies
+categories:
+ - welfare
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411171820-ps3110-writing-a-list-1024x692.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

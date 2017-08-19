@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Into and One Night Stand, two short narrative experiments, tell interactive stories in profound new ways
 date: "2016-06-03 09:26:27 +0100"
+# Attributes from Felix Online V1
 id: "6241"
 old_path: /games/6241/scratching-an-itch
 aliases:
  - /games/6241/scratching-an-itch
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031125-felix-games1.jpg"
 image_caption: >
   I’m seeing double.
@@ -22,6 +27,7 @@ image_attribution: "animal phase"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

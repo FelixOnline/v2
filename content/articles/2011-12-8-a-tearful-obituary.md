@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gareth Campbell says goodbye to a band that is close to his heart
 date: "2011-12-08 21:17:59 +0000"
+# Attributes from Felix Online V1
 id: "1934"
 old_path: /music/1934/a-tearful-obituary
 aliases:
  - /music/1934/a-tearful-obituary
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082117-pk1811-pr.jpg"
 image_caption: >
   The band thought it was time to take an indefinitely extended nap
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

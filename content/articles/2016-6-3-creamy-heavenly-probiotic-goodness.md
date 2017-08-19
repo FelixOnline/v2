@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We talk yoghurt in our weekly nutrition column
 date: "2016-06-03 09:11:55 +0100"
+# Attributes from Felix Online V1
 id: "6234"
 old_path: /science/6234/creamy-heavenly-probiotic-goodness
 aliases:
  - /science/6234/creamy-heavenly-probiotic-goodness
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606031111-felix-6853278652_e1f3517207_o.jpg"
 image_caption: >
   Yoghurt, bitches.
@@ -22,6 +27,7 @@ image_attribution: "Jules"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

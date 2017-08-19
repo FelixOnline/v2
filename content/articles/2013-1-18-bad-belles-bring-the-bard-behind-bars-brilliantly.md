@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva goes to an all female production of Julius Caesar set in a jail
 date: "2013-01-18 00:37:50 +0000"
+# Attributes from Felix Online V1
 id: "3137"
 old_path: /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
 aliases:
  - /arts/3137/bad-belles-bring-the-bard-behind-bars-brilliantly
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180037-tna08-jc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

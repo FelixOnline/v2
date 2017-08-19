@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College submits planning application to Westminster Council for cooling plant on roof of Sherfield Building
 date: "2014-05-09 01:56:19 +0100"
+# Attributes from Felix Online V1
 id: "4565"
 old_path: /news/4565/library-inches-closer-towards-air-conditioning
 aliases:
  - /news/4565/library-inches-closer-towards-air-conditioning
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405090256-jal08-news_library_cooling.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London/Savills"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

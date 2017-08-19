@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jasper Menkus reviews the event
 date: "2014-10-17 15:10:14 +0100"
+# Attributes from Felix Online V1
 id: "4735"
 old_path: /news/4735/rcsu-ballin-in-moderation
 aliases:
  - /news/4735/rcsu-ballin-in-moderation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

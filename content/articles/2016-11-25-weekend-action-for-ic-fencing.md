@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Poking action
 date: "2016-11-25 14:53:57 +0000"
+# Attributes from Felix Online V1
 id: "6518"
 old_path: /sport/6518/weekend-action-for-ic-fencing
 aliases:
  - /sport/6518/weekend-action-for-ic-fencing
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251453-felix-fencing picture .jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Blade Fencing Equipment"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

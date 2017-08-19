@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College stress they will continue to look for cheap, close accommodation Structural inspection of Evelyn Gardens and Garden Hall Garden removed from website with Paragon and Xenia remaining Working group of staff and students set up for Acton development
 date: "2013-05-09 12:18:57 +0100"
+# Attributes from Felix Online V1
 id: "3561"
 old_path: /news/3561/dialogue-over-acton
 aliases:
  - /news/3561/dialogue-over-acton
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305091456-tna08-berkeley_first_one_victoria_road_exterior_day.jpg"
 image_caption: >
   Artist's impression of the new halls. Also a level on The Sims 5, maybe...
@@ -22,6 +27,7 @@ image_attribution: "Berkeley First"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

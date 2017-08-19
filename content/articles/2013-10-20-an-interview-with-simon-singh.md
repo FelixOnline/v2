@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Calum Grant interviews science writer Simon Singh.
 date: "2013-10-20 01:30:06 +0100"
+# Attributes from Felix Online V1
 id: "3901"
 old_path: /books/3901/an-interview-with-simon-singh
 aliases:
  - /books/3901/an-interview-with-simon-singh
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310200229-jal08-simon_singh_at_the_merseyside_skpetics_society.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

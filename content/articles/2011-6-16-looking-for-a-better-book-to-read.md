@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A lacklustre second novel in the trilogy
 date: "2011-06-16 20:46:01 +0100"
+# Attributes from Felix Online V1
 id: "1398"
 old_path: /arts/1398/looking-for-a-better-book-to-read
 aliases:
  - /arts/1398/looking-for-a-better-book-to-read
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106162145-felix-6a00e54f0e675e88340133f4050907970b-320wi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

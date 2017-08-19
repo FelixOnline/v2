@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A turning point for American cinema
 date: "2011-05-12 18:52:27 +0100"
+# Attributes from Felix Online V1
 id: "1199"
 old_path: /film/1199/classic-cinema-on-the-waterfront
 aliases:
  - /film/1199/classic-cinema-on-the-waterfront
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105121952-felix-waterfront.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

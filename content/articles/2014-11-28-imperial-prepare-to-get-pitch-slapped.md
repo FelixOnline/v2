@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ben Howitt on the International singing competition to be hosted at Imperial
 date: "2014-11-28 00:46:24 +0000"
+# Attributes from Felix Online V1
 id: "4964"
 old_path: /news/4964/imperial-prepare-to-get-pitch-slapped
 aliases:
  - /news/4964/imperial-prepare-to-get-pitch-slapped
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411280045-kmw13-10683732_728913800525673_16642474235144590_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "The Imperielles"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

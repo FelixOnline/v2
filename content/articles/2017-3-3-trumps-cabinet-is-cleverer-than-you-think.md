@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alexander Luisi compares the language used by Trump's administration and the Party in Orwell's 1984
 date: "2017-03-03 14:41:04 +0000"
+# Attributes from Felix Online V1
 id: "6838"
 old_path: /comment/6838/trumps-cabinet-is-cleverer-than-you-think
 aliases:
  - /comment/6838/trumps-cabinet-is-cleverer-than-you-think
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031454-felix-Screen Shot 2017-03-03 at 14.51.17.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

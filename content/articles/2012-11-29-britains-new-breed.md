@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mo Mirza hits the Spector show to find the future of guitar pop
 date: "2012-11-29 22:59:53 +0000"
+# Attributes from Felix Online V1
 id: "2997"
 old_path: /music/2997/britains-new-breed
 aliases:
  - /music/2997/britains-new-breed
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

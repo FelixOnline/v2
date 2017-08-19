@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Grey matter linked with number of friends on the social network
 date: "2011-10-28 00:16:54 +0100"
+# Attributes from Felix Online V1
 id: "1628"
 old_path: /science/1628/study-links-facebook-friends-with-brain-regions
 aliases:
  - /science/1628/study-links-facebook-friends-with-brain-regions
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280115-felix-facebook2_1299511c_1699534c.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

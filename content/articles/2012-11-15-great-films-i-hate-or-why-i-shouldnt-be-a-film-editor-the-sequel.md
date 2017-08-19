@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Katy Bettany's pick of the widely regarded films that she thinks are awful
 date: "2012-11-15 21:42:57 +0000"
+# Attributes from Felix Online V1
 id: "2902"
 old_path: /film/2902/great-films-i-hate-or-why-i-shouldnt-be-a-film-editor-the-sequel
 aliases:
  - /film/2902/great-films-i-hate-or-why-i-shouldnt-be-a-film-editor-the-sequel
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152246-tna08-brad-pitt-fight-club-body.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dan Wan hacks away at the new news
 date: "2010-02-12 01:41:40 +0000"
+# Attributes from Felix Online V1
 id: "82"
 old_path: /comment/82/oh-hackery
 aliases:
  - /comment/82/oh-hackery
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002131126-felix-BeitQUAD.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

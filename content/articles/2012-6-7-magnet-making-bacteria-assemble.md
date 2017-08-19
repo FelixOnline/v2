@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A step towards more environmentally friendly electronics is found in nature
 date: "2012-06-07 18:46:23 +0100"
+# Attributes from Felix Online V1
 id: "2523"
 old_path: /science/2523/magnet-making-bacteria-assemble
 aliases:
  - /science/2523/magnet-making-bacteria-assemble
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206071944-pk1811-bact.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

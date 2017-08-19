@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX explores the secret eats in this charming neighbourhood
 date: "2016-06-10 08:37:07 +0100"
+# Attributes from Felix Online V1
 id: "6267"
 old_path: /food/6267/a-food-journey-in-notting-hill
 aliases:
  - /food/6267/a-food-journey-in-notting-hill
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101036-felix-Snaps 1.jpg"
 image_caption: >
   The most photogenic sandwich ever from Snaps + Rye
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

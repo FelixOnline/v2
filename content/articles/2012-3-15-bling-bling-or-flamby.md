@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Isaid Benitez-Cabral takes a look at the choices facing the French people at the Presidential Elections
 date: "2012-03-15 19:49:29 +0000"
+# Attributes from Felix Online V1
 id: "2350"
 old_path: /politics/2350/bling-bling-or-flamby
 aliases:
  - /politics/2350/bling-bling-or-flamby
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151948-ig711-rtr2xiyr.jpg"
 image_caption: >
   Between a rock and a hard place: I don’t envy the French people
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

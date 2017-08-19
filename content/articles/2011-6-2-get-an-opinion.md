@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Worrying about offending people makes celebrities bland
 date: "2011-06-02 19:23:21 +0100"
+# Attributes from Felix Online V1
 id: "1305"
 old_path: /comment/1305/get-an-opinion
 aliases:
  - /comment/1305/get-an-opinion
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022020-felix-sheen.jpeg"
 image_caption: >
   Everyone needs to take a leaf out of this guy’s book
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

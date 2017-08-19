@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Leonardo Ialongo discusses the value of European sovereignity in an increasingly competitive world
 date: "2013-02-22 01:53:59 +0000"
+# Attributes from Felix Online V1
 id: "3368"
 old_path: /comment/3368/a-european-citizenship-part-ii
 aliases:
  - /comment/3368/a-european-citizenship-part-ii
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302220153-tna08-europe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

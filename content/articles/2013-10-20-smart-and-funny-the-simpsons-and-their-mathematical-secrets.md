@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Calum Grant explores a nefarious plot to educate cartoon viewers
 date: "2013-10-20 01:25:50 +0100"
+# Attributes from Felix Online V1
 id: "3900"
 old_path: /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
 aliases:
  - /books/3900/smart-and-funny-the-simpsons-and-their-mathematical-secrets
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310200225-jal08-81pfazijnpl._sl1500_.jpg"
 image_caption: >
   The Simpsons and their Mathematical Secrets
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

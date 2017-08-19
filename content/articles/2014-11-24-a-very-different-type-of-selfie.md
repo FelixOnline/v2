@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles checks out photographs down at the National Portrait Gallery
 date: "2014-11-24 12:24:08 +0000"
+# Attributes from Felix Online V1
 id: "4937"
 old_path: /arts/4937/a-very-different-type-of-selfie
 aliases:
  - /arts/4937/a-very-different-type-of-selfie
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241224-ps3110-npg_900_1342_konradlarshast.jpg"
 image_caption: >
   Konrad Lars Hastings Titlow, by David Titlow
@@ -22,6 +27,7 @@ image_attribution: "Konrad Lars Hastings Titlow, by David Titlow"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

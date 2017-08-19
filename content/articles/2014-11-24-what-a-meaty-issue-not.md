@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
+# Attributes from Felix Online V1
 id: "4956"
 old_path: /food/4956/what-a-meaty-issue-not-
 aliases:
  - /food/4956/what-a-meaty-issue-not-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411242038-ps3110-confectionery-close-for-website.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

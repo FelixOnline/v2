@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Candidates take to visual media in order to win over voters
 date: "2012-03-09 01:11:41 +0000"
+# Attributes from Felix Online V1
 id: "2335"
 old_path: /news/2335/election-campaigning-begins-across-campus
 aliases:
  - /news/2335/election-campaigning-begins-across-campus
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151729-jk708-selection_017.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

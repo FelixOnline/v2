@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood spend loads of money selflessly eating out every night to bring you the best from the local area
 date: "2012-10-05 11:47:52 +0100"
+# Attributes from Felix Online V1
 id: "2603"
 old_path: /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
 aliases:
  - /food/2603/a-tour-of-some-of-the-best-places-in-south-kensington
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

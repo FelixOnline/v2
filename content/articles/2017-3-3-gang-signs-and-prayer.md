@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The pressure was on, and at the tail-end of 2016, Stormzy went AWOL
 date: "2017-03-03 15:24:50 +0000"
+# Attributes from Felix Online V1
 id: "6847"
 old_path: /music/6847/gang-signs-and-prayer-
 aliases:
  - /music/6847/gang-signs-and-prayer-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031708-felix-7bb6e11ec2fa4e8ce6293eb27c37e2b9.1000x1000x1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "#Merky Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

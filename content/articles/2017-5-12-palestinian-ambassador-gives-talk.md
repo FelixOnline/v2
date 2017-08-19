@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In response to the Israeli Ambassador’s visit
 date: "2017-05-12 16:54:06 +0100"
+# Attributes from Felix Online V1
 id: "6943"
 old_path: /news/6943/palestinian-ambassador-gives-talk
 aliases:
  - /news/6943/palestinian-ambassador-gives-talk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121854-felix-Screen Shot 2017-05-12 at 18.53.43.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

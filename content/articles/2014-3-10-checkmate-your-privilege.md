@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Ann Cheah revisits Malaysian Night - now as a non-performing/producing outsider
 date: "2014-03-10 10:06:37 +0000"
+# Attributes from Felix Online V1
 id: "4474"
 old_path: /news/4474/checkmate-your-privilege
 aliases:
  - /news/4474/checkmate-your-privilege
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403101009-cac111-mnight1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

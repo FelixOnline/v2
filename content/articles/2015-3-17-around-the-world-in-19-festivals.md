@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah brings you the best festivals in the world
 date: "2015-03-17 18:14:38 +0000"
+# Attributes from Felix Online V1
 id: "5400"
 old_path: /travel/5400/around-the-world-in-19-festivals
 aliases:
  - /travel/5400/around-the-world-in-19-festivals
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503171759-ync111-coachella-07-flickr-redfishingboat.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

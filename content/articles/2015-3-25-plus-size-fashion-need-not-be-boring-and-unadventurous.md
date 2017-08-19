@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey explores the beauty in fashion for the plus-size woman, and the politics behind it
 date: "2015-03-25 12:06:45 +0000"
+# Attributes from Felix Online V1
 id: "5425"
 old_path: /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
 aliases:
  - /arts/5425/plus-size-fashion-need-not-be-boring-and-unadventurous
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251206-ff712-tessmunster2.jpg"
 image_caption: >
   Tess Munster, one of the world's leading plus-size models
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Stewart has diet tips for the fat and lazy
 date: "2010-02-01 16:57:03 +0000"
+# Attributes from Felix Online V1
 id: "62"
 old_path: /comment/62/diet-tips-for-the-fat-and-lazy
 aliases:
  - /comment/62/diet-tips-for-the-fat-and-lazy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002011653-rsp07-overwirg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

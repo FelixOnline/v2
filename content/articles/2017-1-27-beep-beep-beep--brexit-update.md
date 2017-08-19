@@ -4,15 +4,20 @@ title: >
 subtitle: >
   More optimistic than you getting a 2:1 degree?
 date: "2017-01-27 14:19:55 +0000"
+# Attributes from Felix Online V1
 id: "6684"
 old_path: /features/6684/beep-beep-beep--brexit-update
 aliases:
  - /features/6684/beep-beep-beep--brexit-update
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271419-felix-31557197953_b08a5aa0bd_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jay Allen"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

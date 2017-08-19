@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hamilton’s coolness disappoints at the National
 date: "2012-11-01 22:48:22 +0000"
+# Attributes from Felix Online V1
 id: "2793"
 old_path: /arts/2793/the-naked-truth-about-the-late-works
 aliases:
  - /arts/2793/the-naked-truth-about-the-late-works
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012248-tna08-richard_hamiltons_late_works_national_gallery.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

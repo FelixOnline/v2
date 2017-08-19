@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Proposals include 34-storey residential tower to be built at Wood Lane
 date: "2012-01-12 22:32:19 +0000"
+# Attributes from Felix Online V1
 id: "1985"
 old_path: /news/1985/imperial-west-masterplan-unveiled
 aliases:
  - /news/1985/imperial-west-masterplan-unveiled
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201122231-felix-01141_imperial_vbuilddbase_2011-11-15_a_full.jpg"
 image_caption: >
   Imperial West will provide accommodation from autumn 2012
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

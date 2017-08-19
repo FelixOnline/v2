@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is let down by the humour at this Barbican production
 date: "2015-05-13 14:16:54 +0100"
+# Attributes from Felix Online V1
 id: "5514"
 old_path: /arts/5514/brighton-beach-humour-at-barbican
 aliases:
  - /arts/5514/brighton-beach-humour-at-barbican
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

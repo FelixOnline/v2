@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jessica Poore on the club’s Summer tour
 date: "2011-06-12 16:28:19 +0100"
+# Attributes from Felix Online V1
 id: "1371"
 old_path: /sport/1371/imperial-hockey-visit-malaysia
 aliases:
  - /sport/1371/imperial-hockey-visit-malaysia
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

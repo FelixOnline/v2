@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews the Royal Opera House’s take on a ballet classic
 date: "2015-02-07 19:03:49 +0000"
+# Attributes from Felix Online V1
 id: "5201"
 old_path: /arts/5201/onegin--the-best-of-ballet
 aliases:
  - /arts/5201/onegin--the-best-of-ballet
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071903-ps3110-fc-onegin-thiago-soares-marianela-nunez-knees_1000.jpg"
 image_caption: >
   Thiago Soares and Marianela Nunez in Onegin
@@ -22,6 +27,7 @@ image_attribution: "oteini Christofilopoulou"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

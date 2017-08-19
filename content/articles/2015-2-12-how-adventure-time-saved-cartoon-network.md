@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Rivlin reviews the highlights of an absolutely crazy cartoon
 date: "2015-02-12 23:19:04 +0000"
+# Attributes from Felix Online V1
 id: "5248"
 old_path: /tv/5248/how-adventure-time-saved-cartoon-network
 aliases:
  - /tv/5248/how-adventure-time-saved-cartoon-network
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122312-jyg11-bravest-warriors-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Pendleton Ward"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

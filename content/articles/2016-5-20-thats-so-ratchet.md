@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A game based on a movie based on a game
 date: "2016-05-20 09:17:08 +0100"
+# Attributes from Felix Online V1
 id: "6189"
 old_path: /games/6189/thats-so-ratchet
 aliases:
  - /games/6189/thats-so-ratchet
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201116-felix-ratchet1.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

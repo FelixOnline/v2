@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I’m thankful that I’m not from a country whose culture relies on such awful drinks
 date: "2016-04-29 10:31:47 +0100"
+# Attributes from Felix Online V1
 id: "6096"
 old_path: /comment/6096/you-have-bad-taste-if-you-like-ales
 aliases:
  - /comment/6096/you-have-bad-taste-if-you-like-ales
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291131-felix-ales.jpg"
 image_caption: >
   None of these are any good.
@@ -22,6 +27,7 @@ image_attribution: "wvgazettemail.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

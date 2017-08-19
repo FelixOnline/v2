@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Firedog is on a mission to revamp the hipster breakfast, causing panic amongst avocado growers worldwide. Enter a morning realm of grilled halloumi, Sujuk and Lor.
 date: "2017-01-27 17:38:26 +0000"
+# Attributes from Felix Online V1
 id: "6703"
 old_path: /food/6703/avocado-for-breakfast-so-2k16
 aliases:
  - /food/6703/avocado-for-breakfast-so-2k16
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271736-felix-IMG_7331.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

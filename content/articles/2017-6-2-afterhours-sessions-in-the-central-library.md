@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix investigates what goes on in the Library after midnight ( SPOIlER ALERT: NOT MUCH)
 date: "2017-06-02 13:29:00 +0100"
+# Attributes from Felix Online V1
 id: "6996"
 old_path: /features/6996/afterhours-sessions-in-the-central-library
 aliases:
  - /features/6996/afterhours-sessions-in-the-central-library
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021545-felix-18379612_1178685945574419_1304019873_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

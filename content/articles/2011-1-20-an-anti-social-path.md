@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships
 date: "2011-01-20 19:23:12 +0000"
+# Attributes from Felix Online V1
 id: "604"
 old_path: /tech/604/an-anti-social-path
 aliases:
  - /tech/604/an-anti-social-path
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ec610"
 author_name: "Elizabeth Crouch"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

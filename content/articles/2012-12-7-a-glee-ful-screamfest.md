@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Astrid Armgarth gives American Horror Story: Asylum a raving review
 date: "2012-12-07 02:42:36 +0000"
+# Attributes from Felix Online V1
 id: "3054"
 old_path: /tv/3054/a-glee-ful-screamfest
 aliases:
  - /tv/3054/a-glee-ful-screamfest
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070242-tna08-american-horror-story-asylum-american-horror-story-32431052-1600-1200.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

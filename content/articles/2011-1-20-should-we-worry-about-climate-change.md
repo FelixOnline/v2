@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We are told that climate change is the most dangerous threat to the world today, but as measures to combat it stall, how much should we worry?
 date: "2011-01-20 21:22:20 +0000"
+# Attributes from Felix Online V1
 id: "645"
 old_path: /comment/645/should-we-worry-about-climate-change
 aliases:
  - /comment/645/should-we-worry-about-climate-change
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

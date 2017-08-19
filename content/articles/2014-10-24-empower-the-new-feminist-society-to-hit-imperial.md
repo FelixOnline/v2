@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Empower held its first mingle with a surprise VIP appearance from Imperial’s new President, Professor Alice Gast.
 date: "2014-10-24 13:02:01 +0100"
+# Attributes from Felix Online V1
 id: "4750"
 old_path: /news/4750/empower-the-new-feminist-society-to-hit-imperial
 aliases:
  - /news/4750/empower-the-new-feminist-society-to-hit-imperial
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

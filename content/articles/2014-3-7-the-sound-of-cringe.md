@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Sound of Music is without doubt one of the most beloved films of all time whether you like it or not. There isn’t a Christmas that goes by without Julie Andrews running on top of a hill singing at the top of her lungs...
 date: "2014-03-07 05:54:28 +0000"
+# Attributes from Felix Online V1
 id: "4468"
 old_path: /tv/4468/the-sound-of-cringe
 aliases:
  - /tv/4468/the-sound-of-cringe
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

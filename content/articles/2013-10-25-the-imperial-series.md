@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Introducing the Imperial Series
 date: "2013-10-25 01:09:56 +0100"
+# Attributes from Felix Online V1
 id: "3949"
 old_path: /features/3949/the-imperial-series
 aliases:
  - /features/3949/the-imperial-series
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

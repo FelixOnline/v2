@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Last Guardian is out on the Playstation 4
 date: "2017-03-03 15:54:30 +0000"
+# Attributes from Felix Online V1
 id: "6851"
 old_path: /games/6851/game-review--the-last-guardian
 aliases:
  - /games/6851/game-review--the-last-guardian
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031554-felix-theVideoGameGallery_26725_1920x1200.jpg"
 image_caption: >
          Boy’s best friend, a weird, Griffin-like monster
@@ -22,6 +27,7 @@ image_attribution: "genDESIGN and Sony Interactive Entertainment"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

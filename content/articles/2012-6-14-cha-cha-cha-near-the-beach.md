@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A day well spent
 date: "2012-06-14 19:19:06 +0100"
+# Attributes from Felix Online V1
 id: "2546"
 old_path: /arts/2546/cha-cha-cha-near-the-beach
 aliases:
  - /arts/2546/cha-cha-cha-near-the-beach
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

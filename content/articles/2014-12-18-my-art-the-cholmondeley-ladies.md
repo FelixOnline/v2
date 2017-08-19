@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles chooses his favourite work of art from the Tate Britain's collection
 date: "2014-12-18 15:14:27 +0000"
+# Attributes from Felix Online V1
 id: "5051"
 old_path: /arts/5051/my-art-the-cholmondeley-ladies
 aliases:
  - /arts/5051/my-art-the-cholmondeley-ladies
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501212217-ps3110-rsz_british_school_17th_century_-_the_cholmondeley_ladies_-_google_art_project.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

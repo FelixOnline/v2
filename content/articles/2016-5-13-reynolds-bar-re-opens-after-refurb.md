@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Its grand opening happened on Friday
 date: "2016-05-13 08:50:44 +0100"
+# Attributes from Felix Online V1
 id: "6144"
 old_path: /news/6144/reynolds-bar-re-opens-after-refurb
 aliases:
  - /news/6144/reynolds-bar-re-opens-after-refurb
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131050-felix-REYNOLDS.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Reynolds"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

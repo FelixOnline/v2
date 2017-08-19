@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A group of MIT researchers recently presented their findings regarding an improved algorithm for Fast Fourier Transforms.
 date: "2012-02-02 19:37:09 +0000"
+# Attributes from Felix Online V1
 id: "2092"
 old_path: /science/2092/faster-fast-fourier-transform-found
 aliases:
  - /science/2092/faster-fast-fourier-transform-found
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202030340-ak6309-sfft4.png"
 image_caption: >
   Fourier Transforms are highly useful for signal processing
@@ -22,6 +27,7 @@ image_attribution: "MIT"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

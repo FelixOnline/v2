@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Entire Prince Consort Road closed during night
 date: "2012-10-05 16:00:41 +0100"
+# Attributes from Felix Online V1
 id: "2634"
 old_path: /news/2634/fire-in-chem-eng-labs
 aliases:
  - /news/2634/fire-in-chem-eng-labs
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051659-felix-fire-story2.jpg"
 image_caption: >
   The view from the steps of the Royal Albert Hall on Tuesday 2nd October
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

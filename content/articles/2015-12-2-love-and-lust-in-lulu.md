@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
+# Attributes from Felix Online V1
 id: "5789"
 old_path: /arts/5789/love-and-lust-in-lulu
 aliases:
  - /arts/5789/love-and-lust-in-lulu
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512021705-mff113-online-copy.jpg"
 image_caption: >
   Clive Brada/ Guildhall School 2015
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mff113"
 author_name: "Max F Falkenberg McGillivray"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

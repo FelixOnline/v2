@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Evolution leads to key behind a scared response
 date: "2011-11-03 19:49:27 +0000"
+# Attributes from Felix Online V1
 id: "1656"
 old_path: /science/1656/why-we-allow-fear-to-take-control
 aliases:
  - /science/1656/why-we-allow-fear-to-take-control
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Should freedom of speech be given when it threatens social peace?
 date: "2015-01-16 13:22:01 +0000"
+# Attributes from Felix Online V1
 id: "5097"
 old_path: /comment/5097/freedom-of-speech-in-a-civilised-society
 aliases:
  - /comment/5097/freedom-of-speech-in-a-civilised-society
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161321-ps3110-o-french-muslims-terrorism-facebook.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

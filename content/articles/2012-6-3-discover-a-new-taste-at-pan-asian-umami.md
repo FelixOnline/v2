@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Outside of Imperial lies a Thai paradise
 date: "2012-06-03 16:08:41 +0100"
+# Attributes from Felix Online V1
 id: "2520"
 old_path: /food/2520/discover-a-new-taste-at-pan-asian-umami
 aliases:
  - /food/2520/discover-a-new-taste-at-pan-asian-umami
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206031707-felix-umami---ped-mekham.jpg"
 image_caption: >
   Cromwell Road's Umami offers a unique and peaceful atmosphere
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

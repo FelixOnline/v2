@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Girlfriend Experience is an intriguing look at the widely acknowledged problem to student finance and how far people have to go to pay it off. So, does this TV drama do justice to it’s weighty topic?
 date: "2016-12-02 15:07:11 +0000"
+# Attributes from Felix Online V1
 id: "6541"
 old_path: /tv/6541/working-girls--the-girlfriend-experience
 aliases:
  - /tv/6541/working-girls--the-girlfriend-experience
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021507-felix-15-girlfriend-experience-4.w750.h560.2x.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Starz"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

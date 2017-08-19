@@ -4,15 +4,20 @@ title: >
 subtitle: >
   So what is aid? Aid can come in many forms – such as military aid to help a country fight terrorists, or budgetary aid sent with no strings attached to bolster a government’s finances, or the cancelling of historic debts.
 date: "2013-12-02 13:11:22 +0000"
+# Attributes from Felix Online V1
 id: "4147"
 old_path: /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
 aliases:
  - /features/4147/how-to-analyse-aid-using-statistical-analysis-to-improve-effectiveness
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201312031601-jal08-features_fmsc-food-distribution-kenya.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

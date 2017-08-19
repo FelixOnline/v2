@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clubs with 150 members will now have to run their elections in the Union's Big Election system
 date: "2015-01-16 13:06:33 +0000"
+# Attributes from Felix Online V1
 id: "5095"
 old_path: /news/5095/all-change-come-elections-time
 aliases:
  - /news/5095/all-change-come-elections-time
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501161306-ps3110-10007506_614561735278994_1607643032_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

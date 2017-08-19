@@ -4,15 +4,20 @@ title: >
 subtitle: >
   or the limits of bourgeois pacifism
 date: "2014-06-02 12:45:23 +0100"
+# Attributes from Felix Online V1
 id: "4640"
 old_path: /comment/4640/the-rising-wind-of-japanese-nationalism
 aliases:
  - /comment/4640/the-rising-wind-of-japanese-nationalism
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Coral can kill its own cells when adverse conditions are coming
 date: "2011-11-24 21:14:41 +0000"
+# Attributes from Felix Online V1
 id: "1816"
 old_path: /science/1816/suicidal-corals-know-whats-coming
 aliases:
  - /science/1816/suicidal-corals-know-whats-coming
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242114-pk1811-coral-endangered-bleaching-climate-change-1024x768.jpg"
 image_caption: >
   The IPCC sees coral bleaching as the greatest threat to the world’s reefs
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

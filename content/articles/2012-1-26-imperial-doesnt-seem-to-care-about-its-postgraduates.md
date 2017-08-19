@@ -4,15 +4,20 @@ title: >
 subtitle: >
   News about Clayponds and the Holland Club highlight inadequacies in Imperial's view of postgraduate students
 date: "2012-01-26 22:35:18 +0000"
+# Attributes from Felix Online V1
 id: "2067"
 old_path: /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
 aliases:
  - /comment/2067/imperial-doesnt-seem-to-care-about-its-postgraduates
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262216-felix-street_view[1].jpg"
 image_caption: >
   Griffon Studios – the best a postgrad can get?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

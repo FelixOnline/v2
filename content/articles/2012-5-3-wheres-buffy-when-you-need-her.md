@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Not the usual horror movie
 date: "2012-05-03 18:21:43 +0100"
+# Attributes from Felix Online V1
 id: "2411"
 old_path: /film/2411/wheres-buffy-when-you-need-her
 aliases:
  - /film/2411/wheres-buffy-when-you-need-her
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205031921-ams111-the_cabin_in_the_woods.jpg"
 image_caption: >
   Yep, she's definitely in Team Jacob
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

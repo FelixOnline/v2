@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There’s been a movement in the last couple of years to get people talking about their experiences with mental health, whether it’s on a national scale such as Mind’s Time to Talk campaign or Imperial’s own OpenMinds campaign.
 date: "2014-03-07 04:41:51 +0000"
+# Attributes from Felix Online V1
 id: "4456"
 old_path: /features/4456/recovering-from-depression
 aliases:
  - /features/4456/recovering-from-depression
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

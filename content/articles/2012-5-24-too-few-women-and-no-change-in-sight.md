@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Feroz Salam on how equality is a long way away in the world of ‘brogrammers’
 date: "2012-05-24 23:24:09 +0100"
+# Attributes from Felix Online V1
 id: "2488"
 old_path: /tech/2488/too-few-women-and-no-change-in-sight
 aliases:
  - /tech/2488/too-few-women-and-no-change-in-sight
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One bacteria derived vaccine for many infectious diseased
 date: "2011-02-24 20:17:54 +0000"
+# Attributes from Felix Online V1
 id: "885"
 old_path: /science/885/genetically-engineered-vaccination
 aliases:
  - /science/885/genetically-engineered-vaccination
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242014-nm1010-kidvacci.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Washington, we have a problem
 date: "2010-12-02 20:42:00 +0000"
+# Attributes from Felix Online V1
 id: "477"
 old_path: /politics/477/washington-we-have-a-problem
 aliases:
  - /politics/477/washington-we-have-a-problem
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022036-dr910-JulianAs.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ghc07"
 author_name: "Guo Heng Chin"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

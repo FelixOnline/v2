@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The comedy is disarming and charming, but still manages to maintain a wry edge. It very much has the feel of a coming of age comedy
 date: "2016-12-02 15:06:01 +0000"
+# Attributes from Felix Online V1
 id: "6540"
 old_path: /tv/6540/big-talk--speechless
 aliases:
  - /tv/6540/big-talk--speechless
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021505-felix-18SPEECHLESS1-facebookJumbo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

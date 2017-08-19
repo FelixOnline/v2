@@ -4,15 +4,20 @@ title: >
 subtitle: >
   London’s nightlife is constantly evolving. A prescriptive list of clubs would be futile
 date: "2010-10-02 07:17:04 +0100"
+# Attributes from Felix Online V1
 id: "169"
 old_path: /music/169/an-ode-to-the-city
 aliases:
  - /music/169/an-ode-to-the-city
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010020815-ks607-TowerBri.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

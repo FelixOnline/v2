@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles feels that the balance is slightly off in the Young Vic's production of Ah, Wilderness!
 date: "2015-04-24 13:49:14 +0100"
+# Attributes from Felix Online V1
 id: "5469"
 old_path: /arts/5469/an-american-in-the-wilderness
 aliases:
  - /arts/5469/an-american-in-the-wilderness
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201504241447-ff712-rsz_1members_of_the_company_in_in_ah_wilderness_at_the_young_vic_photo_by_johan_persson.jpg"
 image_caption: >
   Members of the company in Ah, Wilderness!
@@ -22,6 +27,7 @@ image_attribution: "Johan Persson "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An impressive collaboration for the London medical schools neuroscience societies
 date: "2016-02-12 11:59:50 +0000"
+# Attributes from Felix Online V1
 id: "5917"
 old_path: /cands/5917/london-students-neuroscience-network-
 aliases:
  - /cands/5917/london-students-neuroscience-network-
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121158-felix-brain_dissection.jpg"
 image_caption: >
   Ew... We mean, ooh!
@@ -22,6 +27,7 @@ image_attribution: "Azmi Rahman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There are many places to get help at Imperial
 date: "2010-12-02 21:40:24 +0000"
+# Attributes from Felix Online V1
 id: "494"
 old_path: /news/494/how-much-support-does-imperial-provide-
 aliases:
  - /news/494/how-much-support-does-imperial-provide-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022136-ks607-deniswri.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ec610"
 author_name: "Elizabeth Crouch"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
+# Attributes from Felix Online V1
 id: "442"
 old_path: /comment/442/dont-be-a-james-blunt-
 aliases:
  - /comment/442/dont-be-a-james-blunt-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011261007-ks607-bluntjam.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rjc409"
 author_name: "Robert Cleaver"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

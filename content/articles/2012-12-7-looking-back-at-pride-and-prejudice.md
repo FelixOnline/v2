@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhys Davies reads a classic
 date: "2012-12-07 01:24:18 +0000"
+# Attributes from Felix Online V1
 id: "3034"
 old_path: /books/3034/looking-back-at-pride-and-prejudice
 aliases:
  - /books/3034/looking-back-at-pride-and-prejudice
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

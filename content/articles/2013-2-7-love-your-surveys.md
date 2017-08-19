@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial on Valentine's Day (not really)
 date: "2013-02-07 23:07:25 +0000"
+# Attributes from Felix Online V1
 id: "3252"
 old_path: /comment/3252/love-your-surveys
 aliases:
  - /comment/3252/love-your-surveys
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

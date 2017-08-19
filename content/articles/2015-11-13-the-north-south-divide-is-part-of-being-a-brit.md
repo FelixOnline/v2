@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Why can’t we stop making fun of each other’s accents and get along?
 date: "2015-11-13 14:33:23 +0000"
+# Attributes from Felix Online V1
 id: "5726"
 old_path: /comment/5726/the-north-south-divide-is-part-of-being-a-brit
 aliases:
  - /comment/5726/the-north-south-divide-is-part-of-being-a-brit
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131433-ygr12-ned-and-jaime.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

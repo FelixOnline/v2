@@ -4,15 +4,20 @@ title: >
 subtitle: >
   He had the audience positively howling at times
 date: "2011-02-11 06:46:14 +0000"
+# Attributes from Felix Online V1
 id: "801"
 old_path: /arts/801/if-laughter-be-the-food-of-love-hear-here
 aliases:
  - /arts/801/if-laughter-be-the-food-of-love-hear-here
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102110644-ks607-aluncoch.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

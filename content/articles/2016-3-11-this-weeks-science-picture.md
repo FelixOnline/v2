@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-03-11 11:42:20 +0000"
+# Attributes from Felix Online V1
 id: "6029"
 old_path: /science/6029/this-weeks-science-picture
 aliases:
  - /science/6029/this-weeks-science-picture
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111142-felix-12018709_10156556234415394_842175580_o.jpg"
 image_caption: >
   Claudia Schulz holding her Graduate Teaching Assistant Award in the Department of Computing.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

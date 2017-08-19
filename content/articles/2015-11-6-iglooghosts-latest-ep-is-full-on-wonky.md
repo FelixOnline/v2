@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Like the worm in a witch hat on its cover, Chinese Nü Yr will wiggle its way into your heart
 date: "2015-11-06 14:19:41 +0000"
+# Attributes from Felix Online V1
 id: "5711"
 old_path: /music/5711/iglooghosts-latest-ep-is-full-on-wonky
 aliases:
  - /music/5711/iglooghosts-latest-ep-is-full-on-wonky
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061418-ygr12-tniy.jpg"
 image_caption: >
   Nü, nutty, noncomformist.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

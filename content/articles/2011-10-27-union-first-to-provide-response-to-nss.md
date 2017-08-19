@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Report unveils move towards better teaching and automated feedback
 date: "2011-10-27 19:38:51 +0100"
+# Attributes from Felix Online V1
 id: "1606"
 old_path: /news/1606/union-first-to-provide-response-to-nss
 aliases:
  - /news/1606/union-first-to-provide-response-to-nss
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110272007-felix-img_6764.jpg"
 image_caption: >
   Imperial College Union aim to combat Imperial’s low ranking for assessment and feedback in the NSS
@@ -22,6 +27,7 @@ image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

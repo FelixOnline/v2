@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mike and Caz share their pick of foodie-related comforts
 date: "2014-06-02 13:19:14 +0100"
+# Attributes from Felix Online V1
 id: "4650"
 old_path: /food/4650/a-few-of-our-favourite-things---cazs-take
 aliases:
  - /food/4650/a-few-of-our-favourite-things---cazs-take
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406021421-felix-10169365_10152235970964442_2572885061645500569_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

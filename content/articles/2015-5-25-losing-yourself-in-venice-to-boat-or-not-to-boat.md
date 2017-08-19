@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her tip for navigating the city of water
 date: "2015-05-25 12:59:52 +0100"
+# Attributes from Felix Online V1
 id: "5561"
 old_path: /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
 aliases:
  - /travel/5561/losing-yourself-in-venice-to-boat-or-not-to-boat
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505251358-ync111-p1100656.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

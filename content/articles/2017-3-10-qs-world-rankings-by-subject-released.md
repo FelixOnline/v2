@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial down to ninth place but Engineering still in top ten
 date: "2017-03-10 13:11:58 +0000"
+# Attributes from Felix Online V1
 id: "6864"
 old_path: /news/6864/qs-world-rankings-by-subject-released
 aliases:
  - /news/6864/qs-world-rankings-by-subject-released
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101311-felix-Screen Shot 2017-03-10 at 13.11.34.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

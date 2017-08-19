@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
+# Attributes from Felix Online V1
 id: "362"
 old_path: /music/362/techno-nonsense-night-slugs
 aliases:
  - /music/362/techno-nonsense-night-slugs
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011112122-ks607-ivisboki.jpg"
 image_caption: >
   Founders L-Vis 1990 and Bok Bok
@@ -22,6 +27,7 @@ image_attribution: "Shola Branson"
 image_attribution_link: "http://scndtonone.com/2010/05/monki-interviews-l-vis-1990-bok-bok/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

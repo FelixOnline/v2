@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the Tate Britain’s new photography exhibition, showcasing McQueen’s final collection
 date: "2015-03-25 13:34:23 +0000"
+# Attributes from Felix Online V1
 id: "5454"
 old_path: /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
 aliases:
  - /arts/5454/a-fitting-legacy-nick-waplingtonalexander-mcqueen--working-process
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
 image_caption: >
   Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process
@@ -22,6 +27,7 @@ image_attribution: "Nick Waplington"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

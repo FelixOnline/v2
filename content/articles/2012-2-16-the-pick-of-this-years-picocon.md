@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at some of the books by the Guests of Honour at Imperial’s Sci-Fi convention
 date: "2012-02-16 21:24:26 +0000"
+# Attributes from Felix Online V1
 id: "2188"
 old_path: /books/2188/the-pick-of-this-years-picocon
 aliases:
  - /books/2188/the-pick-of-this-years-picocon
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232222-pk1811-201202162121-cac111-real.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

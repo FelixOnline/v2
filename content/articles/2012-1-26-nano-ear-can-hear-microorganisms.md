@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists create nano ear which can pick up sounds
 date: "2012-01-26 22:06:10 +0000"
+# Attributes from Felix Online V1
 id: "2051"
 old_path: /science/2051/nano-ear-can-hear-microorganisms
 aliases:
  - /science/2051/nano-ear-can-hear-microorganisms
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

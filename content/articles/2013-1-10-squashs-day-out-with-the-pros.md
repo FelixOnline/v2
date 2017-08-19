@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephanie Walton on glass squash courts.
 date: "2013-01-10 23:19:49 +0000"
+# Attributes from Felix Online V1
 id: "3111"
 old_path: /sport/3111/squashs-day-out-with-the-pros
 aliases:
  - /sport/3111/squashs-day-out-with-the-pros
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102319-csw09-queens-squash.jpg"
 image_caption: >
   IC Squash in action....one day
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

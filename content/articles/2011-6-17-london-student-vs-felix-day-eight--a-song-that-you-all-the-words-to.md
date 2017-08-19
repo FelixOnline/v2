@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day eight of our 30-day Song Challenge duel
 date: "2011-06-17 12:21:38 +0100"
+# Attributes from Felix Online V1
 id: "1405"
 old_path: /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
 aliases:
  - /music/1405/london-student-vs-felix-day-eight--a-song-that-you-all-the-words-to
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

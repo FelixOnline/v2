@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Engineers defeat Miners for first time in 17 years. By Ed Labinski
 date: "2010-11-18 21:10:08 +0000"
+# Attributes from Felix Online V1
 id: "402"
 old_path: /sport/402/city-and-guilds-record-historic-victory
 aliases:
  - /sport/402/city-and-guilds-record-historic-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182108-ks607-cgcursm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

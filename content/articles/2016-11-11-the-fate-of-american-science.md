@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What’s in store for the rest of the scientific world?
 date: "2016-11-11 15:54:20 +0000"
+# Attributes from Felix Online V1
 id: "6428"
 old_path: /science/6428/the-fate-of-american-science
 aliases:
  - /science/6428/the-fate-of-american-science
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611111554-felix-Trump.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lizzie Riach"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College urges vigilance after spate of thefts on campus
 date: "2011-03-03 05:45:56 +0000"
+# Attributes from Felix Online V1
 id: "980"
 old_path: /news/980/break-ins-reported-in-eee-building
 aliases:
  - /news/980/break-ins-reported-in-eee-building
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030544-ks607-electric.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

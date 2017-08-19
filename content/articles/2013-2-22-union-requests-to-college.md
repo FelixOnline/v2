@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The letter to College about the North Acton halls, Evelyn Gardens, and Garden Hall.
 date: "2013-02-22 00:12:14 +0000"
+# Attributes from Felix Online V1
 id: "3354"
 old_path: /news/3354/union-requests-to-college
 aliases:
  - /news/3354/union-requests-to-college
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

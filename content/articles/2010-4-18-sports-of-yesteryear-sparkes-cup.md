@@ -4,15 +4,20 @@ title: >
 subtitle: >
   From the UDH to the green fields of Harlington, Jovan Nedic moves onto rugby
 date: "2010-04-18 17:09:11 +0100"
+# Attributes from Felix Online V1
 id: "127"
 old_path: /sport/127/sports-of-yesteryear-sparkes-cup
 aliases:
  - /sport/127/sports-of-yesteryear-sparkes-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jn104"
 author_name: "Jovan Nedic"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

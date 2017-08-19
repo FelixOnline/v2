@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Oh, and a Happy New Year
 date: "2012-12-07 01:05:56 +0000"
+# Attributes from Felix Online V1
 id: "3030"
 old_path: /comment/3030/merry-christmas
 aliases:
  - /comment/3030/merry-christmas
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070105-tna08-deer.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

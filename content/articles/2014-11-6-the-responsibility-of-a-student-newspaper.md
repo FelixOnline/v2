@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Editorial for 1587
 date: "2014-11-06 22:18:35 +0000"
+# Attributes from Felix Online V1
 id: "4813"
 old_path: /comment/4813/the-responsibility-of-a-student-newspaper
 aliases:
  - /comment/4813/the-responsibility-of-a-student-newspaper
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411102231-ps3110-screen-shot-2014-11-10-at-22.30.40.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

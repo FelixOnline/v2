@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The RCSU are raising funds for the victims of the accident in Bangladesh. This is the price of our budget clothes
 date: "2013-05-01 14:50:36 +0100"
+# Attributes from Felix Online V1
 id: "3515"
 old_path: /news/3515/the-real-cost-of-our-cheap-clothing
 aliases:
  - /news/3515/the-real-cost-of-our-cheap-clothing
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305011552-tna08-130424112019-bangladesh-factory-collapse-620xa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Want to know more about the Croatia's upcoming Unknown Festival? Daniel Oppenheimer gives the deets.
 date: "2013-08-09 19:48:06 +0100"
+# Attributes from Felix Online V1
 id: "3749"
 old_path: /music/3749/festival-preview-unknown-festival---croatia
 aliases:
  - /music/3749/festival-preview-unknown-festival---croatia
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308092050-jal08-screen-shot-2013-08-09-at-8.50.26-pm.png"
 image_caption: >
   Not even the organisers know what it is...
@@ -22,6 +27,7 @@ image_attribution: "UknownCroatia"
 image_attribution_link: "http://www.unknowncroatia.com"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

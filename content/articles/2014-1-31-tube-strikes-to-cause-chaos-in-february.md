@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Transport for London have announced that next week there will be disruption to underground travel.
 date: "2014-01-31 17:13:48 +0000"
+# Attributes from Felix Online V1
 id: "4313"
 old_path: /news/4313/tube-strikes-to-cause-chaos-in-february
 aliases:
  - /news/4313/tube-strikes-to-cause-chaos-in-february
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

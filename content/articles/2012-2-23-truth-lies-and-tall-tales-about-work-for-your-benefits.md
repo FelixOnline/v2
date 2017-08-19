@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
+# Attributes from Felix Online V1
 id: "2268"
 old_path: /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
 aliases:
  - /news/2268/truth-lies-and-tall-tales-about-work-for-your-benefits
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232355-felix-workfare-cartoon.jpg"
 image_caption: >
   A cartoon demonstrating the popular perception of workfare
@@ -22,6 +27,7 @@ image_attribution: "Joseph O'Brien"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gareth Holden and Shiv Patel talk about their strong performance at the University of London Championships in Lee Valley.
 date: "2014-11-28 01:15:46 +0000"
+# Attributes from Felix Online V1
 id: "4979"
 old_path: /sport/4979/imperial-athletics-dominate-university-of-london-champs
 aliases:
  - /sport/4979/imperial-athletics-dominate-university-of-london-champs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

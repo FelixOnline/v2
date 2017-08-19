@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fiona Hartley tells us why scientists will soon be adding a new weapon to our arsenal against flu
 date: "2013-10-04 00:30:55 +0100"
+# Attributes from Felix Online V1
 id: "3798"
 old_path: /science/3798/blood-snot-and-students
 aliases:
  - /science/3798/blood-snot-and-students
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "frh10"
 author_name: "Fiona Hartley"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

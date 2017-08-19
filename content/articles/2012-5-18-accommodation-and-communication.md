@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Those in the wardening system needs to be made aware of potential barriers to their way of life
 date: "2012-05-18 06:19:28 +0100"
+# Attributes from Felix Online V1
 id: "2459"
 old_path: /comment/2459/accommodation-and-communication
 aliases:
  - /comment/2459/accommodation-and-communication
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

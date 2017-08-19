@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students in halls saving energy
 date: "2011-01-27 18:31:56 +0000"
+# Attributes from Felix Online V1
 id: "654"
 old_path: /news/654/students-switch-off-to-success-
 aliases:
  - /news/654/students-switch-off-to-success-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271828-ks607-students.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

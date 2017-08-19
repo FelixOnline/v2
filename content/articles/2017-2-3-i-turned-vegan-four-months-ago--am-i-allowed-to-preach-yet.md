@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Chaudhri talks (not preaches) about why he decided to ditch animal products
 date: "2017-02-03 15:55:35 +0000"
+# Attributes from Felix Online V1
 id: "6714"
 old_path: /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
 aliases:
  - /comment/6714/i-turned-vegan-four-months-ago--am-i-allowed-to-preach-yet
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031610-felix-14103703882_289d8d6bc6_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Helen Alfvegren"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

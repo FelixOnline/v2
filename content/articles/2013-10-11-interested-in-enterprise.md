@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Hub Project: Become a mentor for school businesses
 date: "2013-10-11 23:08:16 +0100"
+# Attributes from Felix Online V1
 id: "3824"
 old_path: /biz/3824/interested-in-enterprise
 aliases:
  - /biz/3824/interested-in-enterprise
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310120009-jal08-bus_pic3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

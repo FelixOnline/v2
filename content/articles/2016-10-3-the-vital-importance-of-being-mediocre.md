@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vivien Hadlow advocates a more realistic approach to life, Imperial and everything.
 date: "2016-10-03 18:39:49 +0100"
+# Attributes from Felix Online V1
 id: "6304"
 old_path: /comment/6304/the-vital-importance-of-being-mediocre
 aliases:
  - /comment/6304/the-vital-importance-of-being-mediocre
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610101210-felix-3596476766_0feee3d08c_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "danjo paluska"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

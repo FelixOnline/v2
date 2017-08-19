@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The huge art sale is still a good show
 date: "2011-01-27 19:44:35 +0000"
+# Attributes from Felix Online V1
 id: "675"
 old_path: /arts/675/london-art-fair
 aliases:
  - /arts/675/london-art-fair
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jj1909"
 author_name: "Jack Jelfs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

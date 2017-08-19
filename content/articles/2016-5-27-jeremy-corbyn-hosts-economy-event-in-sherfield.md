@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Corbyn, McCluskey and McDonnell were all at Imperial
 date: "2016-05-27 08:39:03 +0100"
+# Attributes from Felix Online V1
 id: "6197"
 old_path: /news/6197/jeremy-corbyn-hosts-economy-event-in-sherfield
 aliases:
  - /news/6197/jeremy-corbyn-hosts-economy-event-in-sherfield
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605271038-felix-Screen Shot 2016-05-25 at 19.36.14.png"
 image_caption: >
   Look familiar?
@@ -22,6 +27,7 @@ image_attribution: "Twitter / @UKLabour"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

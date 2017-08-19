@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl tells the tale of Imperial Chess Heros’ campaign in the land of Freedom. Ah, ‘Murica
 date: "2013-10-12 23:57:26 +0100"
+# Attributes from Felix Online V1
 id: "3874"
 old_path: /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
 aliases:
  - /features/3874/hardcore-pawn-ic-chess-takes-the-americas-by-storm-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

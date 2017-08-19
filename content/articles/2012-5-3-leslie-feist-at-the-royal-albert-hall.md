@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Falling in love all over again with Canada’s finest
 date: "2012-05-03 17:56:43 +0100"
+# Attributes from Felix Online V1
 id: "2408"
 old_path: /music/2408/leslie-feist-at-the-royal-albert-hall
 aliases:
  - /music/2408/leslie-feist-at-the-royal-albert-hall
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

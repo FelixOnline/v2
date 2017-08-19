@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Steve Bohnel is opinionated about fake news
 date: "2016-12-09 15:38:17 +0000"
+# Attributes from Felix Online V1
 id: "6574"
 old_path: /comment/6574/fake-news-you-wont-believe-what-i-think
 aliases:
  - /comment/6574/fake-news-you-wont-believe-what-i-think
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.36.26.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

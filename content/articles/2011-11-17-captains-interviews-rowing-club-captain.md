@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indy Leclercq visits the Boathouse for the latest Club Captain Interview
 date: "2011-11-17 22:56:40 +0000"
+# Attributes from Felix Online V1
 id: "1795"
 old_path: /sport/1795/captains-interviews-rowing-club-captain
 aliases:
  - /sport/1795/captains-interviews-rowing-club-captain
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172257-felix-dsc_4631.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

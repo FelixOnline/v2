@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
+# Attributes from Felix Online V1
 id: "1304"
 old_path: /biz/1304/writing-a-business-plan
 aliases:
  - /biz/1304/writing-a-business-plan
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "betadaily.com"
 image_attribution_link: "http://www.betadaily.com/2010/02/07/professional-business-plan-writer/"
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

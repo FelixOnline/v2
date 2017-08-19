@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-01-27 16:31:50 +0000"
+# Attributes from Felix Online V1
 id: "6692"
 old_path: /science/6692/i-dont-think-youre-ready-for-this-jelly
 aliases:
  - /science/6692/i-dont-think-youre-ready-for-this-jelly
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701271631-felix-Glow-icecream.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A flock of origami birds set loose in the Blyth Gallery
 date: "2011-02-27 19:24:47 +0000"
+# Attributes from Felix Online V1
 id: "912"
 old_path: /arts/912/untethered
 aliases:
  - /arts/912/untethered
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271923-ks607-untether.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

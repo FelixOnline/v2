@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Navid Nabijou probes the latest results from the NSS. See the paper for the tables.
 date: "2012-10-18 21:50:17 +0100"
+# Attributes from Felix Online V1
 id: "2726"
 old_path: /news/2726/feedback-woes-highlighted
 aliases:
  - /news/2726/feedback-woes-highlighted
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

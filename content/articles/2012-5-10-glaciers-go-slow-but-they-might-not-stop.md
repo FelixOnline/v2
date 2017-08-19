@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Glaciers move more slowly than expected – but they're not slowing down either
 date: "2012-05-10 20:37:52 +0100"
+# Attributes from Felix Online V1
 id: "2452"
 old_path: /science/2452/glaciers-go-slow-but-they-might-not-stop
 aliases:
  - /science/2452/glaciers-go-slow-but-they-might-not-stop
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102137-ams111-commonwealth-glacier-face.jpg"
 image_caption: >
   Commonwealth glacier, Taylor Valley, Antarctica, January 1956
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

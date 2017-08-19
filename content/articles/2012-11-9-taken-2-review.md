@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The follow up to the action packed Taken is disappointing
 date: "2012-11-09 13:33:25 +0000"
+# Attributes from Felix Online V1
 id: "2861"
 old_path: /film/2861/taken-2-review
 aliases:
  - /film/2861/taken-2-review
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091333-tna08-taken.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union to announce exact prices and drinks on offer later on in the summer
 date: "2012-08-03 11:47:26 +0100"
+# Attributes from Felix Online V1
 id: "2588"
 old_path: /news/2588/new-prices-of-drinks-for-next-year
 aliases:
  - /news/2588/new-prices-of-drinks-for-next-year
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201208031242-felix-felix-drowns-sorrow.jpg"
 image_caption: >
   First a bad lab report mark, then pennied by 240 people. Welcome to cat versus booze
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two seriously groat games you should go for!
 date: "2014-06-06 02:53:14 +0100"
+# Attributes from Felix Online V1
 id: "4668"
 old_path: /games/4668/grand-theft-goat
 aliases:
  - /games/4668/grand-theft-goat
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406060353-jal08-goat-sim-3.jpg"
 image_caption: >
   HEY GUYS, LET’S PLAY A GAME!
@@ -22,6 +27,7 @@ image_attribution: "coffeestainstudios.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

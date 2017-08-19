@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Downey, 62, was a main suspect for the murder of four soldiers by the IRA (Provisional Irish Republican Army) and has now been let free due to a police error that gave him effective immunity.
 date: "2014-02-28 07:12:41 +0000"
+# Attributes from Felix Online V1
 id: "4442"
 old_path: /news/4442/key-ira-suspect-of-the-hyde-park-bombings-walks-free-on-a-police-blunder
 aliases:
  - /news/4442/key-ira-suspect-of-the-hyde-park-bombings-walks-free-on-a-police-blunder
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

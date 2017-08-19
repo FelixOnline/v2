@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Suffering from a lack-spirited fearlessness, controversy and attitude, the withering genre of ‘Rock and Roll’ music is feared to be losing its roots and nearing its end
 date: "2011-01-20 20:32:04 +0000"
+# Attributes from Felix Online V1
 id: "628"
 old_path: /music/628/rock--roll-is-dead
 aliases:
  - /music/628/rock--roll-is-dead
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101202028-nm1010-brmcbrmc.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

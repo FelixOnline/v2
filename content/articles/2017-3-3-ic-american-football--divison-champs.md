@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial 1s are smashing the competition
 date: "2017-03-03 16:18:17 +0000"
+# Attributes from Felix Online V1
 id: "6858"
 old_path: /sport/6858/ic-american-football--divison-champs
 aliases:
  - /sport/6858/ic-american-football--divison-champs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

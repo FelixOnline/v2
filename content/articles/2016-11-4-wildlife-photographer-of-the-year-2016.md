@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Madeleine Webb and George Brooks pair up to discuss the science and technical skill behind the 52 yearold exhibition and of course, what it takes to bag that coveted first prize.
 date: "2016-11-04 12:45:41 +0000"
+# Attributes from Felix Online V1
 id: "6380"
 old_path: /science/6380/wildlife-photographer-of-the-year-2016
 aliases:
  - /science/6380/wildlife-photographer-of-the-year-2016
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611041647-felix-NayanKhanolkar_WildlifePhotographeroftheYear-Urbanwinner.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Nayan Khanolkar, courtesy of the Natural History Museum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

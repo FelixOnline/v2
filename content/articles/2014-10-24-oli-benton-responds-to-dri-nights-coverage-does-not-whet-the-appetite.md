@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I feel that the article may have been slightly misinterpreted.
 date: "2014-10-24 13:57:59 +0100"
+# Attributes from Felix Online V1
 id: "4753"
 old_path: /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
 aliases:
  - /comment/4753/oli-benton-responds-to-dri-nights-coverage-does-not-whet-the-appetite
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411021856-ps3110-img_0505.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

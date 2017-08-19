@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken on the protests across the country, and how the biggest are yet to come
 date: "2015-05-15 12:38:26 +0100"
+# Attributes from Felix Online V1
 id: "5534"
 old_path: /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
 aliases:
  - /news/5534/anti-austerity-riots-break-out-in-whitehall-and-beyond
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151337-cj914-whitehallriots.jpg"
 image_caption: >
   Thousands took to the streets in peaceful anti-austerity demonstrations, but riots persisted
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ...despite the Higher Education and Research Bill ammendments
 date: "2016-11-18 14:30:05 +0000"
+# Attributes from Felix Online V1
 id: "6457"
 old_path: /news/6457/education-demo-still-happening
 aliases:
  - /news/6457/education-demo-still-happening
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181429-felix-8250197392_d5a1fcdb1d_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Chatham House"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   My position works bcause I don’t differentiate; I simply hate everyone
 date: "2011-02-17 19:56:13 +0000"
+# Attributes from Felix Online V1
 id: "828"
 old_path: /comment/828/i-cant-stand-intolerant-people
 aliases:
  - /comment/828/i-cant-stand-intolerant-people
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

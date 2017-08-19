@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reflects on a week that included the emotional funeral of Phillip Hughes and the release of the report into the accident that put Jules Bianchi into a coma
 date: "2014-12-04 20:54:13 +0000"
+# Attributes from Felix Online V1
 id: "5014"
 old_path: /sport/5014/putoutyourbats-chelsea-and-jules-bianchi--the-world-sport-column
 aliases:
  - /sport/5014/putoutyourbats-chelsea-and-jules-bianchi--the-world-sport-column
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042053-cj914-_79473402_phil_story_sheet_getty.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

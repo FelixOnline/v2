@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Callum Ballard & Jamie Gollings were whipped up into a frenzy under the arches
 date: "2010-11-18 20:35:58 +0000"
+# Attributes from Felix Online V1
 id: "389"
 old_path: /music/389/tokyo-police-club-live
 aliases:
  - /music/389/tokyo-police-club-live
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jtg09"
 author_name: "James Gollings"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

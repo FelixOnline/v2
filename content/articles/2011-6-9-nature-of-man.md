@@ -4,15 +4,20 @@ title: >
 subtitle: >
   sdfasdf
 date: "2011-06-09 19:50:42 +0100"
+# Attributes from Felix Online V1
 id: "1338"
 old_path: /phoenix/1338/nature-of-man
 aliases:
  - /phoenix/1338/nature-of-man
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092050-felix-moniqueho.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Monique Ho"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

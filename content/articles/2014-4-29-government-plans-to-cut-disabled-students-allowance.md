@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Willetts, Universities Minister recently announced plans to "modernise" the Disabled Students' Allowance, to the detriment of students nationwide.
 date: "2014-04-29 12:46:31 +0100"
+# Attributes from Felix Online V1
 id: "4534"
 old_path: /news/4534/government-plans-to-cut-disabled-students-allowance
 aliases:
  - /news/4534/government-plans-to-cut-disabled-students-allowance
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404291520-jal08-money-notes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "https://www.ljmu.ac.uk/MKG_Global_Images/money-notes.jpg"
 image_attribution_link: "https://www.ljmu.ac.uk"
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

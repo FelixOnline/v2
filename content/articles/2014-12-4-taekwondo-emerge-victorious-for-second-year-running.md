@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the hosts of the third Imperial College Open Taekwondo Competition, the club secured their second victory in a row
 date: "2014-12-04 20:42:16 +0000"
+# Attributes from Felix Online V1
 id: "5013"
 old_path: /sport/5013/taekwondo-emerge-victorious-for-second-year-running
 aliases:
  - /sport/5013/taekwondo-emerge-victorious-for-second-year-running
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042039-cj914-icx_201-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "IC Taekwondo"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

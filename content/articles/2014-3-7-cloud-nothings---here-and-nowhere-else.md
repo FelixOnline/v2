@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It has been an unusual journey for Dylan Baldi, the man behind Cleveland based Cloud Nothings. He was signed as a one-man band and released his first two albums, Turned On and the self-titled Cloud Nothings, were recorded as such.
 date: "2014-03-07 05:46:08 +0000"
+# Attributes from Felix Online V1
 id: "4464"
 old_path: /music/4464/cloud-nothings---here-and-nowhere-else
 aliases:
  - /music/4464/cloud-nothings---here-and-nowhere-else
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chair Baroness Manningham-Buller will step down later this year, reports Cecily Johnson
 date: "2015-03-13 01:24:37 +0000"
+# Attributes from Felix Online V1
 id: "5393"
 old_path: /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
 aliases:
  - /news/5393/sir-philip-dilley-appointed-as-chair-of-imperials-council
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503130123-cj914-new-council-chair-sir-philip-dilley.jpeg"
 image_caption: >
   Sir Philip will take over as Chair this May
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

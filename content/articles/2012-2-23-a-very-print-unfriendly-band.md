@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mourning the loss of a beloved eccentric
 date: "2012-02-23 21:25:31 +0000"
+# Attributes from Felix Online V1
 id: "2253"
 old_path: /music/2253/a-very-print-unfriendly-band
 aliases:
  - /music/2253/a-very-print-unfriendly-band
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232109-ams111-anal-cunt.jpg"
 image_caption: >
   Featuring the ballad, ‘I Respect Your Feelings as a Woman and a Human’
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

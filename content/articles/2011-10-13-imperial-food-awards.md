@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Who is going to be the next Imperial MasterChef?
 date: "2011-10-13 23:52:58 +0100"
+# Attributes from Felix Online V1
 id: "1529"
 old_path: /food/1529/imperial-food-awards
 aliases:
  - /food/1529/imperial-food-awards
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

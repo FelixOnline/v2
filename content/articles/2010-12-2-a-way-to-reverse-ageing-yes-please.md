@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I don't mind getting old, it's just the ageing and dying that annoys me
 date: "2010-12-02 21:48:36 +0000"
+# Attributes from Felix Online V1
 id: "497"
 old_path: /comment/497/a-way-to-reverse-ageing-yes-please
 aliases:
  - /comment/497/a-way-to-reverse-ageing-yes-please
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

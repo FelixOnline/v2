@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICU Snooker's 'Internal League' competition. By James Carver
 date: "2011-06-28 12:16:22 +0100"
+# Attributes from Felix Online V1
 id: "1448"
 old_path: /sport/1448/internal-tussle-sees-imperials-top-two-progress
 aliases:
  - /sport/1448/internal-tussle-sees-imperials-top-two-progress
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281316-felix-aaaaa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

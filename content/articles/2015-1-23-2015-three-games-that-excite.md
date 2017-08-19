@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl really, really looking forward to these titles
 date: "2015-01-23 18:15:51 +0000"
+# Attributes from Felix Online V1
 id: "5140"
 old_path: /games/5140/2015-three-games-that-excite
 aliases:
  - /games/5140/2015-three-games-that-excite
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231815-jyg11-zelda.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken interviews the RESPECT Party candidate for Mayor of London, George Galloway, on his mayoral bid and current affairs
 date: "2015-07-05 10:02:34 +0100"
+# Attributes from Felix Online V1
 id: "5648"
 old_path: /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
 aliases:
  - /politics/5648/an-interview-with-mayor-of-london-candidate-george-galloway
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201507051101-jr2514-galloway.jpg"
 image_caption: >
   Mr Galloway threw his hat in the ring three weeks after the general election
@@ -22,6 +27,7 @@ image_attribution: "The Independent"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

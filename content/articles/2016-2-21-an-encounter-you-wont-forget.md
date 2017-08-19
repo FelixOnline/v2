@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
+# Attributes from Felix Online V1
 id: "5950"
 old_path: /arts/5950/an-encounter-you-wont-forget
 aliases:
  - /arts/5950/an-encounter-you-wont-forget
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602211251-jc7413-encounter_1.jpg"
 image_caption: >
   Simon McBurney in The Encounter.
@@ -22,6 +27,7 @@ image_attribution: "Barbican Centre"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

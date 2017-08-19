@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Make use of upcoming postgraduate panel
 date: "2012-02-09 23:17:20 +0000"
+# Attributes from Felix Online V1
 id: "2175"
 old_path: /comment/2175/have-your-say-on-the-holland-club-and-clayponds
 aliases:
  - /comment/2175/have-your-say-on-the-holland-club-and-clayponds
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

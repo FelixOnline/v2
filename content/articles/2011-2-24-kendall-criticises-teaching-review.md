@@ -4,15 +4,20 @@ title: >
 subtitle: >
   President says teaching review should be dealing with effects of restructure
 date: "2011-02-24 19:46:52 +0000"
+# Attributes from Felix Online V1
 id: "869"
 old_path: /news/869/kendall-criticises-teaching-review
 aliases:
  - /news/869/kendall-criticises-teaching-review
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101271758-ks607-profiano.jpg"
 image_caption: >
   Professor Ian Owens announced the teaching review in a meeting with students
@@ -22,6 +27,7 @@ image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

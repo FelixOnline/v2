@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After mixed performances in the Autumn internationals, Henry Lambley examines whether winning the world cup next year is a realistic dream
 date: "2014-12-04 20:23:07 +0000"
+# Attributes from Felix Online V1
 id: "5010"
 old_path: /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
 aliases:
  - /sport/5010/autumn-internationals-how-far-off-are-england-from-lifting-the-world-cup
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
 image_caption: >
   Ben Morgan scores a try for England in their 26-17 victory over Australia. They won two out of four
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

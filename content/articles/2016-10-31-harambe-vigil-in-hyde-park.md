@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial computing student organises memorial
 date: "2016-10-31 13:41:12 +0000"
+# Attributes from Felix Online V1
 id: "6361"
 old_path: /news/6361/harambe-vigil-in-hyde-park
 aliases:
  - /news/6361/harambe-vigil-in-hyde-park
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311340-felix-20161026_161827.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

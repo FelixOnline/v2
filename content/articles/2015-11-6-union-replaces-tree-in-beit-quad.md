@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s been tripping you up for years, and now it’s gone forever
 date: "2015-11-06 13:35:04 +0000"
+# Attributes from Felix Online V1
 id: "5697"
 old_path: /news/5697/union-replaces-tree-in-beit-quad
 aliases:
  - /news/5697/union-replaces-tree-in-beit-quad
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061334-ygr12-tiny2.jpg"
 image_caption: >
   The weedy new tree is barely visible to the naked eye.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

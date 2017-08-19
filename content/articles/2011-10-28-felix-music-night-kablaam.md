@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mikill Pane headlines as Imperial's music scene comes to the fore
 date: "2011-10-28 10:30:22 +0100"
+# Attributes from Felix Online V1
 id: "1637"
 old_path: /music/1637/felix-music-night-kablaam
 aliases:
  - /music/1637/felix-music-night-kablaam
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281118-felix-scary_cat_fin.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

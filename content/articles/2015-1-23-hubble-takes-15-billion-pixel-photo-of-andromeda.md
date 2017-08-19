@@ -4,15 +4,20 @@ title: >
 subtitle: >
   They too a photo in a galaxy far, far away...
 date: "2015-01-23 17:54:37 +0000"
+# Attributes from Felix Online V1
 id: "5136"
 old_path: /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
 aliases:
  - /science/5136/hubble-takes-15-billion-pixel-photo-of-andromeda
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231754-jyg11-hubble-andromeda-picture.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "NASA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jian Chew goes to great efforts to free himself from Western colonisation
 date: "2016-10-28 15:02:59 +0100"
+# Attributes from Felix Online V1
 id: "6351"
 old_path: /comment/6351/decolonising-my-mind-decolonising-my-life
 aliases:
  - /comment/6351/decolonising-my-mind-decolonising-my-life
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311312-felix-5299247162_2a58c783e2_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Gerald Jackson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

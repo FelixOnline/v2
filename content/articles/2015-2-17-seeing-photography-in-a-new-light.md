@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng examines how Drawn by Light reimagines photography
 date: "2015-02-17 16:37:29 +0000"
+# Attributes from Felix Online V1
 id: "5265"
 old_path: /arts/5265/seeing-photography-in-a-new-light
 aliases:
  - /arts/5265/seeing-photography-in-a-new-light
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502171637-ps3110-leicester-square,-1896,-paul-martin.jpg"
 image_caption: >
   Leicester Square, 1896, Paul Martin, The Royal Photographic Society Collection.
@@ -22,6 +27,7 @@ image_attribution: "National Media Museum, Bradford / SSPL"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

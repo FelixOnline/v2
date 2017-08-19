@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Saunders' absurdist play Next Time I'll Sing To You gets an airing at Richmond's Orange Tree Theatre; Alex Roocroft is in attendance
 date: "2011-11-17 21:41:46 +0000"
+# Attributes from Felix Online V1
 id: "1784"
 old_path: /arts/1784/tales-of-the-absurd
 aliases:
  - /arts/1784/tales-of-the-absurd
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111172138-pk1811-getthumbimage.asp.jpeg"
 image_caption: >
   Putting superglue on his hand was bad, but the fly swat was too far
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sheperd’s Bush Empire, 23rd November 2010
 date: "2010-12-02 21:01:22 +0000"
+# Attributes from Felix Online V1
 id: "484"
 old_path: /music/484/beach-house-are-the-cherry-on-the-cake
 aliases:
  - /music/484/beach-house-are-the-cherry-on-the-cake
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012022058-ac1507-beachhou.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tm208"
 author_name: "Tytus Murphy"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

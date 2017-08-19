@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter on the beat scene groundbreakers
 date: "2012-02-03 11:13:09 +0000"
+# Attributes from Felix Online V1
 id: "2129"
 old_path: /music/2129/techno-nonsense-stones-throw
 aliases:
  - /music/2129/techno-nonsense-stones-throw
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202031112-sjw209-stones-throw.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

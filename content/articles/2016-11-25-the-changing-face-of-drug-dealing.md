@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shopping for drugs on the Dark Web
 date: "2016-11-25 14:42:50 +0000"
+# Attributes from Felix Online V1
 id: "6515"
 old_path: /millennials/6515/the-changing-face-of-drug-dealing
 aliases:
  - /millennials/6515/the-changing-face-of-drug-dealing
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251442-felix-Screen Shot 2016-11-25 at 14.42.32.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

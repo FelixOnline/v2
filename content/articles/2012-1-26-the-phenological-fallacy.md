@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Christopher Nichols on why the first cuckoo of spring doesn’t necessarily tell us much
 date: "2012-01-26 22:20:51 +0000"
+# Attributes from Felix Online V1
 id: "2060"
 old_path: /science/2060/the-phenological-fallacy
 aliases:
  - /science/2060/the-phenological-fallacy
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262220-ak6309-hedgehogsdsds937.jpg"
 image_caption: >
   He doesn’t look very defiant, does he?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

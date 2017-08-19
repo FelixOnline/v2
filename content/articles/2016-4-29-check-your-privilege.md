@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s time to recognise that it’s not an expression of your freedom of speech to make jokes about marginalised parties
 date: "2016-04-29 10:10:46 +0100"
+# Attributes from Felix Online V1
 id: "6093"
 old_path: /comment/6093/check-your-privilege
 aliases:
  - /comment/6093/check-your-privilege
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291109-felix-Women@Imperial_Web-Banner_2-(2)--tojpeg_1425484491963_x2.jpg"
 image_caption: >
   YAS QUEEN!
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sports Editor Indy Leclerq's thoughts on Andy Murray's chances in Oz
 date: "2010-01-22 13:21:11 +0000"
+# Attributes from Felix Online V1
 id: "48"
 old_path: /sport/48/murray--co-down-under
 aliases:
  - /sport/48/murray--co-down-under
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

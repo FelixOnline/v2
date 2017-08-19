@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICT tells computing students to change their passwords
 date: "2011-02-27 11:47:44 +0000"
+# Attributes from Felix Online V1
 id: "896"
 old_path: /news/896/department-of-computing-server-hacked
 aliases:
  - /news/896/department-of-computing-server-hacked
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271138-ks607-hackingt.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

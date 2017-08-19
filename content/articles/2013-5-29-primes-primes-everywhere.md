@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"
+# Attributes from Felix Online V1
 id: "3637"
 old_path: /science/3637/primes-primes-everywhere-
 aliases:
  - /science/3637/primes-primes-everywhere-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305291828-tna08-stained-glass.jpg"
 image_caption: >
   A stained glass window of primes. Pretty if nothing else...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

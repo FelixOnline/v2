@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get spotting
 date: "2016-10-03 19:56:05 +0100"
+# Attributes from Felix Online V1
 id: "6308"
 old_path: /culture/6308/a-field-guide-to-the-culture-tribes-of-london
 aliases:
  - /culture/6308/a-field-guide-to-the-culture-tribes-of-london
-category: culture
 
+# Article Taxonomies
+categories:
+ - culture
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610032156-felix-binocolours.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

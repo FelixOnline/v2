@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Masters investigates the latest entrepreneurial endeavour by the Imperial graduate who prefers to pour his own pint
 date: "2015-05-01 00:34:33 +0100"
+# Attributes from Felix Online V1
 id: "5483"
 old_path: /features/5483/do-you-want-a-firetruck-with-your-beer
 aliases:
  - /features/5483/do-you-want-a-firetruck-with-your-beer
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505010135-ps3110-untitled-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

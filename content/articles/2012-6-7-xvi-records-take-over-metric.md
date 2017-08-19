@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kadhim Shubber chats with Josh Byrne, head of XVI Records
 date: "2012-06-07 22:22:37 +0100"
+# Attributes from Felix Online V1
 id: "2538"
 old_path: /music/2538/xvi-records-take-over-metric
 aliases:
  - /music/2538/xvi-records-take-over-metric
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072319-felix-josh1.jpg"
 image_caption: >
   XVI rolling deep
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

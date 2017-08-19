@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Before Midnight Review
 date: "2013-06-21 00:18:53 +0100"
+# Attributes from Felix Online V1
 id: "3730"
 old_path: /film/3730/celine--jesse-forever
 aliases:
  - /film/3730/celine--jesse-forever
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306210119-tna08-before-midnight-ethan-hawke-julie-delpy.jpg"
 image_caption: >
   No. I ordered Coke. If I wanted a fucking Pepsi I would HAVE SAID
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

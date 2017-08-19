@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method
 date: "2012-02-09 23:53:18 +0000"
+# Attributes from Felix Online V1
 id: "2178"
 old_path: /film/2178/felix-film-talks-to-aragorn
 aliases:
  - /film/2178/felix-film-talks-to-aragorn
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092348-felix-viggo-mortensen-7.jpg"
 image_caption: >
   Dear Mr Mortensen, will you be my Valentine?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

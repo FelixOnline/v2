@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Self quizzes Mindy Lee, curator of Imperial’s Blyth Gallery
 date: "2010-10-10 15:21:01 +0100"
+# Attributes from Felix Online V1
 id: "187"
 old_path: /arts/187/discovering-art-at-imperial
 aliases:
  - /arts/187/discovering-art-at-imperial
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104182008-felix-mindy_lee_02.jpg"
 image_caption: >
   Mindy Lee has curated the Blyth Gallery for six years
@@ -22,6 +27,7 @@ image_attribution: "Neville Miles/Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

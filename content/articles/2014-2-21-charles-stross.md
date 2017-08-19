@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joseph Henderson talks about the popular Picocon 31 guest
 date: "2014-02-21 03:20:37 +0000"
+# Attributes from Felix Online V1
 id: "4424"
 old_path: /books/4424/charles-stross
 aliases:
  - /books/4424/charles-stross
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

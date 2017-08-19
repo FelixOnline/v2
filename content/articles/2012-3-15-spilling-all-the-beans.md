@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We speak to studentbeans.com founder James Eder, who takes the time out to teach us a short lesson in business.
 date: "2012-03-15 19:41:10 +0000"
+# Attributes from Felix Online V1
 id: "2346"
 old_path: /biz/2346/spilling-all-the-beans
 aliases:
  - /biz/2346/spilling-all-the-beans
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203151941-pk1811-james-sb-logo-2011.png"
 image_caption: >
   Full of beans – James Eder
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

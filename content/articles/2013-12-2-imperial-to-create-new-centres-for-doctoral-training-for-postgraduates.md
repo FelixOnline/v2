@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over 400 postgraduates will join seven Imperial doctoral training centres in the next five years.
 date: "2013-12-02 12:27:03 +0000"
+# Attributes from Felix Online V1
 id: "4144"
 old_path: /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
 aliases:
  - /news/4144/imperial-to-create-new-centres-for-doctoral-training-for-postgraduates
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

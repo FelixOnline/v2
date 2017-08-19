@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Swim, bike, run, done
 date: "2012-05-18 17:03:46 +0100"
+# Attributes from Felix Online V1
 id: "2479"
 old_path: /sport/2479/tri-ing-for-imperial-at-bucs-championship
 aliases:
  - /sport/2479/tri-ing-for-imperial-at-bucs-championship
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181803-felix-sprinttri-090.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

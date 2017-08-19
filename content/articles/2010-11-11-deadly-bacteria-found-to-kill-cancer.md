@@ -4,15 +4,20 @@ title: >
 subtitle: >
   MRSA could be used to fight cancer
 date: "2010-11-11 21:02:54 +0000"
+# Attributes from Felix Online V1
 id: "351"
 old_path: /science/351/deadly-bacteria-found-to-kill-cancer
 aliases:
  - /science/351/deadly-bacteria-found-to-kill-cancer
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "as2710"
 author_name: "Amberley Stephens"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

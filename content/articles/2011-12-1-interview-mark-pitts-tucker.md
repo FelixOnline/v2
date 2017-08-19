@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shooting the Bries with Cathedral City’s very own ‘cheese grader’
 date: "2011-12-01 20:43:34 +0000"
+# Attributes from Felix Online V1
 id: "1875"
 old_path: /food/1875/interview-mark-pitts-tucker-
 aliases:
  - /food/1875/interview-mark-pitts-tucker-
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012042-pk1811-mark-pitts-1024x840.jpg"
 image_caption: >
   Tuition Cheese – Mark Pitts-Tucker shares his cheese-based experiences
@@ -22,6 +27,7 @@ image_attribution: "Davidstow Cheddar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

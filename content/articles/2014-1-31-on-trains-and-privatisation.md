@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions....
 date: "2014-01-31 17:52:18 +0000"
+# Attributes from Felix Online V1
 id: "4323"
 old_path: /comment/4323/on-trains-and-privatisation
 aliases:
  - /comment/4323/on-trains-and-privatisation
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

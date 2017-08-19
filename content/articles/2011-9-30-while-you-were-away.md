@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As term begins, we sift through Imperial's science headlines to bring you the latest news
 date: "2011-09-30 11:02:39 +0100"
+# Attributes from Felix Online V1
 id: "1458"
 old_path: /science/1458/while-you-were-away
 aliases:
  - /science/1458/while-you-were-away
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201109301204-felix-statin-medicines.jpg"
 image_caption: >
   Unexpected results have shown that statins may reduce the risk of death by infection
@@ -22,6 +27,7 @@ image_attribution: "howshealth.com"
 image_attribution_link: "http://howshealth.com/wp-content/uploads/2010/06/Statin-medicines.jpg"
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

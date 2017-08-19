@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Union welcomes recommendations as helpful and sensitive to complex issues
 date: "2011-02-28 21:13:35 +0000"
+# Attributes from Felix Online V1
 id: "941"
 old_path: /news/941/protect-campus-free-speech-says-report
 aliases:
  - /news/941/protect-campus-free-speech-says-report
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282107-ks607-malcolmg.jpg"
 image_caption: >
   Malcolm Grant, UCL Provost, chaired the group behind the report
@@ -22,6 +27,7 @@ image_attribution: "University College London"
 image_attribution_link: "http://www.ucl.ac.uk/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

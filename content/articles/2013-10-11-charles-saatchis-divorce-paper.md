@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mario Lepore visits the latest exhibition in Saatchiʼs gallery
 date: "2013-10-11 23:57:46 +0100"
+# Attributes from Felix Online V1
 id: "3834"
 old_path: /arts/3834/charles-saatchis-divorce-paper
 aliases:
  - /arts/3834/charles-saatchis-divorce-paper
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310120058-jal08-artssaatchi4.jpg"
 image_caption: >
   Couch for a long time (2009) by Jessica Jackson Hutchins
@@ -22,6 +27,7 @@ image_attribution: "SAM DRAKE/SAATCHI GALLERY"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

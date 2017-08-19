@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Around one billion euros worth of art has been discovered in the home of an 80 year old man in Munich.
 date: "2013-11-08 09:44:51 +0000"
+# Attributes from Felix Online V1
 id: "4034"
 old_path: /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
 aliases:
  - /arts/4034/1500-masterpieces-looted-by-the-nazis-found-in-munich
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

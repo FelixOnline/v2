@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rishi Mistry and KOP/RAG’s army of Santas want you to join them
 date: "2012-11-22 22:49:45 +0000"
+# Attributes from Felix Online V1
 id: "2933"
 old_path: /news/2933/run-santa-run
 aliases:
  - /news/2933/run-santa-run
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211222250-tna08-santa-run.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

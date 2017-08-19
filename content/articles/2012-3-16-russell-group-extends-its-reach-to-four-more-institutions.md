@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
+# Attributes from Felix Online V1
 id: "2403"
 old_path: /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
 aliases:
  - /news/2403/russell-group-extends-its-reach-to-four-more-institutions-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203160158-felix-russell.jpg"
 image_caption: >
   The group held their first meeting in the Hotel Russell in London
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

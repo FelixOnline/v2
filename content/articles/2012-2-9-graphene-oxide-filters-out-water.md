@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Humorous application includes making vodka stronger
 date: "2012-02-09 22:36:47 +0000"
+# Attributes from Felix Online V1
 id: "2156"
 old_path: /science/2156/graphene-oxide-filters-out-water
 aliases:
  - /science/2156/graphene-oxide-filters-out-water
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092236-pk1811-brooklyn_the_richardson_mixologist_joel_lee_kulp_vw_2010-19.jpg_693_471_0_80_1_50_50.jpg"
 image_caption: >
   90% vodka, anyone?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

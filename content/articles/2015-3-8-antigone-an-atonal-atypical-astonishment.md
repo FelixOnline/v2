@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Juliette Binoche impresses Fred Fyles, in this measured, unique production of Sophocles' Antigone
 date: "2015-03-08 16:48:22 +0000"
+# Attributes from Felix Online V1
 id: "5365"
 old_path: /arts/5365/antigone-an-atonal-atypical-astonishment
 aliases:
  - /arts/5365/antigone-an-atonal-atypical-astonishment
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503081627-ff712-04a.jpg"
 image_caption: >
   Ivo van Hove, Antigone, Obi Abili, Juliette Binoche, and Patrick O’Kane (From Left to Right)
@@ -22,6 +27,7 @@ image_attribution: "Jan Versweyveld "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli on the Erasmus experience
 date: "2013-10-11 23:00:21 +0100"
+# Attributes from Felix Online V1
 id: "3823"
 old_path: /features/3823/so-you-think-youre-an-erasmuser
 aliases:
  - /features/3823/so-you-think-youre-an-erasmuser
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122131-jal08-erasmus-logo.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ERASMUS"
 image_attribution_link: "http://www.esn.org/"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   French Society want you for some light reparté
 date: "2013-02-13 15:40:11 +0000"
+# Attributes from Felix Online V1
 id: "3307"
 old_path: /news/3307/debating-in-french
 aliases:
  - /news/3307/debating-in-french
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131541-tna08-french-revolution.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

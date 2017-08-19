@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In brief
 date: "2013-05-02 13:27:19 +0100"
+# Attributes from Felix Online V1
 id: "3528"
 old_path: /news/3528/empty-computer-room-in-library-kept-locked-for-days
 aliases:
  - /news/3528/empty-computer-room-in-library-kept-locked-for-days
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021427-tna08-pic2-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

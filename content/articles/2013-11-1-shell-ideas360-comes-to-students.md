@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Competition to solve the energy, food and water issues of future!
 date: "2013-11-01 10:36:50 +0000"
+# Attributes from Felix Online V1
 id: "3976"
 old_path: /biz/3976/shell-ideas360-comes-to-students
 aliases:
  - /biz/3976/shell-ideas360-comes-to-students
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311011036-felix-ideas360-what-if.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Shell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Gunning for a game? Have a look at these Crafty reviews which will be the Portal to your fantasy world!
 date: "2013-09-29 16:04:28 +0100"
+# Attributes from Felix Online V1
 id: "3784"
 old_path: /games/3784/broke-and-bored-felix-has-the-answer
 aliases:
  - /games/3784/broke-and-bored-felix-has-the-answer
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291705-tna08-minecraft-screen-shot-009.jpg"
 image_caption: >
   Graphics are sooooooo realistic
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

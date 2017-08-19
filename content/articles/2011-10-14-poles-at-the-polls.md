@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Radical Liberals look set to be incumbent's kingmaker
 date: "2011-10-14 10:24:17 +0100"
+# Attributes from Felix Online V1
 id: "1542"
 old_path: /politics/1542/poles-at-the-polls
 aliases:
  - /politics/1542/poles-at-the-polls
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110141122-felix-4c75738e07c92_o.jpg"
 image_caption: >
   10.2%! It brings a tear to my eye. Where's my hanky?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

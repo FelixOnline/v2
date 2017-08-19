@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England gets it, they are epic.
 date: "2013-03-15 02:54:57 +0000"
+# Attributes from Felix Online V1
 id: "3494"
 old_path: /music/3494/so-epic-it-hurts
 aliases:
  - /music/3494/so-epic-it-hurts
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150255-tna08-the-hurts.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

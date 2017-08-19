@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
+# Attributes from Felix Online V1
 id: "2122"
 old_path: /news/2122/imperial-storm-bp-semi-finals
 aliases:
  - /news/2122/imperial-storm-bp-semi-finals
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202030033-sjw209-bp_uft11finals056.jpg"
 image_caption: >
   Professor Brian Cox hosted last year’s Ultimate Field Trip final
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
+# Attributes from Felix Online V1
 id: "5042"
 old_path: /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
 aliases:
  - /fashion/5042/-the-victorias-secret-fashion-show--landing-on-home-turf
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412112133-cj914-fantasy-red.jpg"
 image_caption: >
   Alessandra Ambrosio in The Fantasy Bra
@@ -22,6 +27,7 @@ image_attribution: "Photo: Dimitrious Kambouris via Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

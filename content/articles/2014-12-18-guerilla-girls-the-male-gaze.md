@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles explores the role the 'Male Gaze' plays in art
 date: "2014-12-18 15:57:53 +0000"
+# Attributes from Felix Online V1
 id: "5065"
 old_path: /arts/5065/guerilla-girls-the-male-gaze
 aliases:
  - /arts/5065/guerilla-girls-the-male-gaze
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Former Imperial employee now in USA. High Court refused last minute application
 date: "2012-10-11 20:19:43 +0100"
+# Attributes from Felix Online V1
 id: "2638"
 old_path: /news/2638/babar-ahmad-extradited
 aliases:
  - /news/2638/babar-ahmad-extradited
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112119-felix-barbar.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AR3310"
 author_name: "Aemun Reza"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Immortals returned to Harlington to take on the Royal Holloway Bears in another tense game of American football.
 date: "2014-01-17 04:41:27 +0000"
+# Attributes from Felix Online V1
 id: "4262"
 old_path: /sport/4262/immortals-barely-beat-bears
 aliases:
  - /sport/4262/immortals-barely-beat-bears
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

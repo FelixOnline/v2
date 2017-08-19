@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anxious wait for the final years
 date: "2013-03-01 01:22:20 +0000"
+# Attributes from Felix Online V1
 id: "3418"
 old_path: /news/3418/medics-in-career-limbo-after-marking-mixup
 aliases:
  - /news/3418/medics-in-career-limbo-after-marking-mixup
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010121-tna08-paris_tuileries_garden_facepalm_statue-(2).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anthony Vaquero on Men's 1sts going for gold. Well, silver...
 date: "2012-11-15 22:24:36 +0000"
+# Attributes from Felix Online V1
 id: "2917"
 old_path: /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
 aliases:
  - /sport/2917/hockey-mens-1s-make-first-bid-for-sliverware-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

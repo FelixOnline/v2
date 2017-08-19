@@ -4,15 +4,20 @@ title: >
 subtitle: >
   He obviously wasn’t going to win standing for Labour in Kensington
 date: "2016-05-13 08:49:06 +0100"
+# Attributes from Felix Online V1
 id: "6142"
 old_path: /news/6142/students-political-dreams-shattered
 aliases:
  - /news/6142/students-political-dreams-shattered
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

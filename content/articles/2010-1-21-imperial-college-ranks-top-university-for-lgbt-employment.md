@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College ranks top university for LGBT employment
 date: "2010-01-21 22:26:08 +0000"
+# Attributes from Felix Online V1
 id: "46"
 old_path: /news/46/imperial-college-ranks-top-university-for-lgbt-employment
 aliases:
  - /news/46/imperial-college-ranks-top-university-for-lgbt-employment
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001212223-rsp07-RainbowF.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

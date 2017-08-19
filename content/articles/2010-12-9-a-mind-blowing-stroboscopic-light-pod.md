@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I began to see galaxies and orbiting planets in my eyes. By Rosie Milton
 date: "2010-12-09 21:32:07 +0000"
+# Attributes from Felix Online V1
 id: "536"
 old_path: /arts/536/a-mind-blowing-stroboscopic-light-pod-
 aliases:
  - /arts/536/a-mind-blowing-stroboscopic-light-pod-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092129-ks607-lightpod.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

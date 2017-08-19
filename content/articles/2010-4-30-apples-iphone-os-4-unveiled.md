@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Apple show's the world the next iteration of the iPhone OS powering the iPhone, iPod touch and the iPad
 date: "2010-04-30 11:03:34 +0100"
+# Attributes from Felix Online V1
 id: "131"
 old_path: /tech/131/apples-iphone-os-4-unveiled
 aliases:
  - /tech/131/apples-iphone-os-4-unveiled
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201004301200-srg03-iPhoneOS.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "srg03"
 author_name: "Samuel R S Gibbs"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

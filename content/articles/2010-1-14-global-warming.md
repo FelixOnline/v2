@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhys Davies voives his opinions on Global Warming
 date: "2010-01-14 12:51:23 +0000"
+# Attributes from Felix Online V1
 id: "24"
 old_path: /comment/24/global-warming
 aliases:
  - /comment/24/global-warming
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001141249-rsp07-RhysDavi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

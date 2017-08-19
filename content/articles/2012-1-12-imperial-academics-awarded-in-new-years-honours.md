@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Highest awards for three academics
 date: "2012-01-12 22:06:29 +0000"
+# Attributes from Felix Online V1
 id: "1979"
 old_path: /news/1979/imperial-academics-awarded-in-new-years-honours
 aliases:
  - /news/1979/imperial-academics-awarded-in-new-years-honours
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

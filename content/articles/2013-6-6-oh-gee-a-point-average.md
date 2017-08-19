@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A quick word on the GPA. All too quick, unfortunately.
 date: "2013-06-06 18:07:44 +0100"
+# Attributes from Felix Online V1
 id: "3667"
 old_path: /comment/3667/oh-gee-a-point-average
 aliases:
  - /comment/3667/oh-gee-a-point-average
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

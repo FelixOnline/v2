@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Royal Shakespeare Company's production of Henry IV, Part I at the Barbican Centre
 date: "2015-01-21 20:27:02 +0000"
+# Attributes from Felix Online V1
 id: "5106"
 old_path: /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
 aliases:
  - /arts/5106/a-tale-of-two-halves-from-the-rsc---part-i
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501212153-ps3110-joshua-richards-antony-sh-014.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

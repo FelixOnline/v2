@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Justin Timberlake announced the "new Myspace" which is set to launch soon, but will it be second time lucky for the former social networking powerhouse.
 date: "2012-10-05 11:53:54 +0100"
+# Attributes from Felix Online V1
 id: "2605"
 old_path: /tech/2605/add-me-on-myspace
 aliases:
  - /tech/2605/add-me-on-myspace
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051246-nn1209-myspace-new-cnyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

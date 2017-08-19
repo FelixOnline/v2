@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Athena Swan Silver Award for Imperial
 date: "2013-05-02 13:39:15 +0100"
+# Attributes from Felix Online V1
 id: "3532"
 old_path: /news/3532/imperial-given-women-in-science-award
 aliases:
  - /news/3532/imperial-given-women-in-science-award
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021438-tna08-291_9200.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

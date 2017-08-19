@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kidulthood’s Adam Deacon writes, directs and stars in this long-awaited British ghetto comedy. By Vishnu Aggarwal
 date: "2011-03-03 06:16:59 +0000"
+# Attributes from Felix Online V1
 id: "987"
 old_path: /film/987/this-aint-just-any-hood-its-anuvahood
 aliases:
  - /film/987/this-aint-just-any-hood-its-anuvahood
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030615-ks607-anuvahoo.jpg"
 image_caption: >
   Adam Deacon is our hapless hero Kenneth
@@ -22,6 +27,7 @@ image_attribution: "Owen Billcliffe"
 image_attribution_link: "http://owenbillcliffe.co.uk"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

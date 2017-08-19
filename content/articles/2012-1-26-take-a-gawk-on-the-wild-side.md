@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Margot Pikovsky on the Wildlife Photographer of the Year entries currently exhibited in the Natural History Museum
 date: "2012-01-26 22:16:18 +0000"
+# Attributes from Felix Online V1
 id: "2056"
 old_path: /arts/2056/take-a-gawk-on-the-wild-side
 aliases:
  - /arts/2056/take-a-gawk-on-the-wild-side
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262212-ams111-wildlofe-photographer.jpg"
 image_caption: >
   Aahh, mate, aah, amte, aaaaahh, maaate, I'm bugging out so bad here
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

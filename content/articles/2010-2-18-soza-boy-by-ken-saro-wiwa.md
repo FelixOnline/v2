@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Edoardo Borgomeo explores the tragic themes of Soza Boy and Its Even More Tragic Backstory
 date: "2010-02-18 16:53:16 +0000"
+# Attributes from Felix Online V1
 id: "94"
 old_path: /arts/94/soza-boy-by-ken-saro-wiwa
 aliases:
  - /arts/94/soza-boy-by-ken-saro-wiwa
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lh106"
 author_name: "Lucy Harrold"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

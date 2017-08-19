@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The white crystalline powder that really drives us mad
 date: "2017-02-03 18:13:22 +0000"
+# Attributes from Felix Online V1
 id: "6739"
 old_path: /millennials/6739/that-moment-youre-rushing-on-sugar
 aliases:
  - /millennials/6739/that-moment-youre-rushing-on-sugar
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031813-felix-Screen Shot 2017-02-03 at 18.13.07.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

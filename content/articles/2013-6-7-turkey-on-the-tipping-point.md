@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
+# Attributes from Felix Online V1
 id: "3673"
 old_path: /politics/3673/turkey-on-the-tipping-point
 aliases:
  - /politics/3673/turkey-on-the-tipping-point
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306071457-tna08-turkey-lone-protester-riot-police-attack.jpg"
 image_caption: >
   Police show no restraint against peaceful demonstrators
@@ -22,6 +27,7 @@ image_attribution: "http://occupygezipics.tumblr.com/"
 image_attribution_link: "http://occupygezipics.tumblr.com/"
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

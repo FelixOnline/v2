@@ -4,15 +4,20 @@ title: >
 subtitle: >
    The great British Bake Off really was a reality show not quite like any other
 date: "2017-02-03 17:07:18 +0000"
+# Attributes from Felix Online V1
 id: "6730"
 old_path: /tv/6730/bake-sale
 aliases:
  - /tv/6730/bake-sale
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031707-felix-16102649867_82aee2042a_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Mosaic Marketing"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

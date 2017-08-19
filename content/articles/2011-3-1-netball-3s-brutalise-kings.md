@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial 3s 40-26 King’s 4s. Kings put up a fight, literally
 date: "2011-03-01 21:29:20 +0000"
+# Attributes from Felix Online V1
 id: "971"
 old_path: /sport/971/netball-3s-brutalise-kings
 aliases:
  - /sport/971/netball-3s-brutalise-kings
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012127-ks607-netballt.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Antonio Torrisi discusses new survival guidelines as frogs migrate due to climate change
 date: "2011-10-20 20:47:54 +0100"
+# Attributes from Felix Online V1
 id: "1558"
 old_path: /science/1558/frogs-habitats-affected
 aliases:
  - /science/1558/frogs-habitats-affected
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202149-felix-taricha_t_torosa_1979-08_1.jpg"
 image_caption: >
   A frog-in-hand situation
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

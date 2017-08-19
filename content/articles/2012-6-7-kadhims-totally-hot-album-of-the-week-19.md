@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kindness – World, You Need A Change of Mind – Polydor – 2012
 date: "2012-06-07 22:18:48 +0100"
+# Attributes from Felix Online V1
 id: "2537"
 old_path: /music/2537/kadhims-totally-hot-album-of-the-week-19
 aliases:
  - /music/2537/kadhims-totally-hot-album-of-the-week-19
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206072318-felix-kindness-world-you-need-a-change-608x607.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

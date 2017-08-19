@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sanchit Sharma struggles with taming his titans, in a Reus review
 date: "2013-06-05 12:57:52 +0100"
+# Attributes from Felix Online V1
 id: "3654"
 old_path: /games/3654/an-otherworldly-tutor-
 aliases:
  - /games/3654/an-otherworldly-tutor-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306051356-tna08-1029484828.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

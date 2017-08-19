@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Careers Service is back with tips on how to bag yourself a Postgrad position.
 date: "2013-10-25 01:11:11 +0100"
+# Attributes from Felix Online V1
 id: "3950"
 old_path: /features/3950/postgraduate-study-is-it-for-you
 aliases:
  - /features/3950/postgraduate-study-is-it-for-you
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

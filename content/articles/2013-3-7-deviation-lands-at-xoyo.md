@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter checks out a new residency for the party
 date: "2013-03-07 21:34:04 +0000"
+# Attributes from Felix Online V1
 id: "3426"
 old_path: /music/3426/deviation-lands-at-xoyo
 aliases:
  - /music/3426/deviation-lands-at-xoyo
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303072131-txl11-jamie-xx-benji-b-xoyo-deviation1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "txl11"
 author_name: "Thomas Lim"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

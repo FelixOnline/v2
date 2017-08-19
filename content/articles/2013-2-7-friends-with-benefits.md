@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Choose your own adventure: sexy edition!
 date: "2013-02-07 23:10:38 +0000"
+# Attributes from Felix Online V1
 id: "3254"
 old_path: /comment/3254/friends-with-benefits
 aliases:
  - /comment/3254/friends-with-benefits
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072310-tna08-awkward-men-sex.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

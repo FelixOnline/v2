@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The horror of the Holocaust is brought to life in László Nemes’ astonishing debut
 date: "2016-05-06 10:11:49 +0100"
+# Attributes from Felix Online V1
 id: "6129"
 old_path: /film/6129/son-of-saul-stares-into-the-abyss
 aliases:
  - /film/6129/son-of-saul-stares-into-the-abyss
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605061111-felix-Brody-Son-of-Saul-1200.jpg"
 image_caption: >
   Géza Röhrig brings incredible intensity to Son of Saul, described by Shoah director Claude Lanzmann as the ‘anti-Schindler’s List’.
@@ -22,6 +27,7 @@ image_attribution: "Sony Pictures"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

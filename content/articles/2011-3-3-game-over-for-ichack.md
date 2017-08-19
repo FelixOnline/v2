@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tackling all those little bugs is the most important step
 date: "2011-03-03 21:16:06 +0000"
+# Attributes from Felix Online V1
 id: "1022"
 old_path: /games/1022/game-over-for-ichack
 aliases:
  - /games/1022/game-over-for-ichack
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103032114-ks607-ichackic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

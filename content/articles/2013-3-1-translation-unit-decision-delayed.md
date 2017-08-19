@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Staff left in limbo as they await the decision
 date: "2013-03-01 01:06:55 +0000"
+# Attributes from Felix Online V1
 id: "3416"
 old_path: /news/3416/translation-unit-decision-delayed
 aliases:
  - /news/3416/translation-unit-decision-delayed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303010109-tna08-tsu-piccy-pic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

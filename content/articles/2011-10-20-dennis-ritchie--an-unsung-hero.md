@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Douglas Heaven on the passing of the mind behind C
 date: "2011-10-20 21:34:01 +0100"
+# Attributes from Felix Online V1
 id: "1564"
 old_path: /tech/1564/dennis-ritchie--an-unsung-hero
 aliases:
  - /tech/1564/dennis-ritchie--an-unsung-hero
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cb908"
 author_name: "Chris Bowers"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

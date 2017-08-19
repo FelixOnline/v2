@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Monathan Jasters hates raisins for reasons logical, physical and romantic
 date: "2017-03-17 16:57:16 +0000"
+# Attributes from Felix Online V1
 id: "6907"
 old_path: /comment/6907/raisins-are-a-complete-scam
 aliases:
  - /comment/6907/raisins-are-a-complete-scam
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171657-felix-3235917496_b8d213e0bf_o (1).jpg"
 image_caption: >
   Don't say that! No!
@@ -22,6 +27,7 @@ image_attribution: "David Salafia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

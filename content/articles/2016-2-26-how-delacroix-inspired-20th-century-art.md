@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National Gallery highlights the old masters’ influence on Impressionists
 date: "2016-02-26 11:58:11 +0000"
+# Attributes from Felix Online V1
 id: "5978"
 old_path: /arts/5978/how-delacroix-inspired-20th-century-art
 aliases:
  - /arts/5978/how-delacroix-inspired-20th-century-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261157-felix-1590.jpg"
 image_caption: >
   The Death of Sardanapalus, the reduced 1846 version, by Delacroix
@@ -22,6 +27,7 @@ image_attribution: "Philadelphia Museum of Art"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

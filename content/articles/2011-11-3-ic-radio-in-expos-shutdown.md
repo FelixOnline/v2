@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Complainant objects to alleged defamation of character
 date: "2011-11-03 19:26:08 +0000"
+# Attributes from Felix Online V1
 id: "1651"
 old_path: /news/1651/ic-radio-in-expos-shutdown
 aliases:
  - /news/1651/ic-radio-in-expos-shutdown
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111031924-pk1811-dsc_0738.jpg"
 image_caption: >
   IC Radio are back on the airwaves as of this week
@@ -22,6 +27,7 @@ image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

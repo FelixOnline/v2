@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The success of the #saveourculture campaign has led to the reopening of fabric, but has an opportunity been missed to rationalise the approach to drug-related harm in clubs?
 date: "2016-12-02 14:48:37 +0000"
+# Attributes from Felix Online V1
 id: "6533"
 old_path: /music/6533/time-for-a-fresh-approach-to-club-drugs
 aliases:
  - /music/6533/time-for-a-fresh-approach-to-club-drugs
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021448-felix-1231440162_87964caa18_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "xxnu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

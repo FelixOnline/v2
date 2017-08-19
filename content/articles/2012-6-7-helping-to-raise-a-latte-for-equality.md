@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Starbucks is more than just a coffee house
 date: "2012-06-07 19:53:00 +0100"
+# Attributes from Felix Online V1
 id: "2535"
 old_path: /comment/2535/helping-to-raise-a-latte-for-equality
 aliases:
  - /comment/2535/helping-to-raise-a-latte-for-equality
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

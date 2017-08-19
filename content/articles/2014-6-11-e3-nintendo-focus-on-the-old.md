@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Last up we have Nintendo and like last year they’re opting for a “Digital event” instead a press conference like the other big two.
 date: "2014-06-11 21:43:39 +0100"
+# Attributes from Felix Online V1
 id: "4673"
 old_path: /games/4673/e3-nintendo-focus-on-the-old-
 aliases:
  - /games/4673/e3-nintendo-focus-on-the-old-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406112243-me1711-games_e3nintendo.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

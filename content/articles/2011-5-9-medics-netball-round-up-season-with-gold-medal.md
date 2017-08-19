@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Most successful season yet for Medics Netball
 date: "2011-05-09 09:58:07 +0100"
+# Attributes from Felix Online V1
 id: "1181"
 old_path: /sport/1181/medics-netball-round-up-season-with-gold-medal
 aliases:
  - /sport/1181/medics-netball-round-up-season-with-gold-medal
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

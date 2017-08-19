@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The overall winner of the competition was Emma Wills (also a contributor to Felix Science) who wrote an essay Pallab Ghosh’s 9 year old daughter, encouraging her to study Exoplanets when she reaches university.
 date: "2014-03-24 03:30:22 +0000"
+# Attributes from Felix Online V1
 id: "4494"
 old_path: /news/4494/rcsu-science-challenge-winners-announced
 aliases:
  - /news/4494/rcsu-science-challenge-winners-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

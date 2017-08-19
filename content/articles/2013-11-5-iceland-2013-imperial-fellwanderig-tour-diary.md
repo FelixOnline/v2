@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After checking everyone had brought all the food and tents that they had been given a few days previously, (they had, apart from a couple of tins of sweet corn) we checked in and sat down for our last English breakfast for 10 days.
 date: "2013-11-05 09:55:18 +0000"
+# Attributes from Felix Online V1
 id: "4011"
 old_path: /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
 aliases:
  - /sport/4011/iceland-2013-imperial-fellwanderig-tour-diary
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

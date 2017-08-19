@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan Mason shows you how it’s done
 date: "2012-11-01 22:33:17 +0000"
+# Attributes from Felix Online V1
 id: "2785"
 old_path: /food/2785/porridgeing-for-oats
 aliases:
  - /food/2785/porridgeing-for-oats
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012234-tna08-porridge-ting.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “On a field trip a GTA is the best person to be”
 date: "2013-11-04 11:03:04 +0000"
+# Attributes from Felix Online V1
 id: "3980"
 old_path: /comment/3980/confessions-of-a-gta-part-4
 aliases:
  - /comment/3980/confessions-of-a-gta-part-4
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

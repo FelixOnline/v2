@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg delves into on-stage psychosis at the BAC
 date: "2015-02-07 19:17:15 +0000"
+# Attributes from Felix Online V1
 id: "5207"
 old_path: /arts/5207/eradication-the-extreme-of-experimental
 aliases:
  - /arts/5207/eradication-the-extreme-of-experimental
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502071917-ps3110-4_eradication_richard-davenport.jpg"
 image_caption: >
   The Eradication of Schizophrenia in Western Lapland.
@@ -22,6 +27,7 @@ image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

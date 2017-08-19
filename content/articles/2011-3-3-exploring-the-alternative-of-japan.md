@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An expat’s secret food indulgences unveiled courtesy of Aki Matsushima
 date: "2011-03-03 06:30:23 +0000"
+# Attributes from Felix Online V1
 id: "991"
 old_path: /food/991/exploring-the-alternative-of-japan
 aliases:
  - /food/991/exploring-the-alternative-of-japan
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

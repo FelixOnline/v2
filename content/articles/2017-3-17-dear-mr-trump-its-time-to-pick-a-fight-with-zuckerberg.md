@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Facebook being Facebook, with its monopoly of a network of two billion people, is arguably the most powerful company in the world
 date: "2017-03-17 15:12:28 +0000"
+# Attributes from Felix Online V1
 id: "6904"
 old_path: /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
 aliases:
  - /comment/6904/dear-mr-trump-its-time-to-pick-a-fight-with-zuckerberg
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171512-felix-Screen Shot 2017-03-17 at 15.12.00.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

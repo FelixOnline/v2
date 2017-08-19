@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jason Parmar looks at Microsoft’s new philosophy: go hard and soft
 date: "2013-02-01 01:07:47 +0000"
+# Attributes from Felix Online V1
 id: "3240"
 old_path: /tech/3240/microsoft-going-hard-
 aliases:
  - /tech/3240/microsoft-going-hard-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010107-tna08-microsoft-badass.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jp1409"
 author_name: "Jason Parmar"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

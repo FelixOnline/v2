@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"
+# Attributes from Felix Online V1
 id: "1707"
 old_path: /news/1707/college-to-tackle-feedback-
 aliases:
  - /news/1707/college-to-tackle-feedback-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111110109-felix-mfk_sirkeitho_nions_012yo.jpg"
 image_caption: >
   Rector Sir Keith O'Nions is developing a plan with Heads of Department against feedback
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

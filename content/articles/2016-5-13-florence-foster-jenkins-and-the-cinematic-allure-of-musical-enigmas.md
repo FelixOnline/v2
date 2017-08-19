@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Musical outsiders who deserve biopics
 date: "2016-05-13 09:08:55 +0100"
+# Attributes from Felix Online V1
 id: "6158"
 old_path: /film/6158/florence-foster-jenkins-and-the-cinematic-allure-of-musical-enigmas
 aliases:
  - /film/6158/florence-foster-jenkins-and-the-cinematic-allure-of-musical-enigmas
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605131108-felix-5_TSL_Shot_04_174.jpg"
 image_caption: >
   The Space Lady.
@@ -22,6 +27,7 @@ image_attribution: "Upset the Rhythm"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

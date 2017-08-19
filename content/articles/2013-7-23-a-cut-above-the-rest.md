@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The results from Imperial’s iKnife are promising, but require further validation.
 date: "2013-07-23 17:28:23 +0100"
+# Attributes from Felix Online V1
 id: "3745"
 old_path: /science/3745/a-cut-above-the-rest
 aliases:
  - /science/3745/a-cut-above-the-rest
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201307231823-jal08-am-w-iknife-20130718213933737614-620x349.jpg"
 image_caption: >
   The iKnife has the potential to improve surgical precision
@@ -22,6 +27,7 @@ image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

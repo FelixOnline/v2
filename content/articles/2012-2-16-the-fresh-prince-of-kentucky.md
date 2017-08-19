@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mark England on the coolest, baldest, and beardiest man in town
 date: "2012-02-16 21:55:45 +0000"
+# Attributes from Felix Online V1
 id: "2201"
 old_path: /music/2201/the-fresh-prince-of-kentucky
 aliases:
  - /music/2201/the-fresh-prince-of-kentucky
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162156-pk1811-bonnie-prince-billy.jpg"
 image_caption: >
   How you doin’?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

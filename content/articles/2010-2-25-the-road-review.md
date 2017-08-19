@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park takes a walk down The Road in the latest post apocalyptic thriller.
 date: "2010-02-25 15:29:43 +0000"
+# Attributes from Felix Online V1
 id: "99"
 old_path: /film/99/the-road-review
 aliases:
  - /film/99/the-road-review
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002251525-egk08-TheRoad.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ffilm"
 author_name: "Felix Film"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

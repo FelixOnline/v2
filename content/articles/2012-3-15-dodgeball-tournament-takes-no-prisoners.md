@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ‘Wilson Old Boys’ victorious after defeating ‘Handball’ in RAG Dodgeball Tournament
 date: "2012-03-15 21:18:16 +0000"
+# Attributes from Felix Online V1
 id: "2376"
 old_path: /news/2376/dodgeball-tournament-takes-no-prisoners
 aliases:
  - /news/2376/dodgeball-tournament-takes-no-prisoners
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152117-ig711-010.jpg"
 image_caption: >
   The clue’s in the name
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

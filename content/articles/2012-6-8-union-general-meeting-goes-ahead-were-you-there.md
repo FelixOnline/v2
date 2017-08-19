@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Some interesting proposals were raised, after all
 date: "2012-06-08 08:41:39 +0100"
+# Attributes from Felix Online V1
 id: "2543"
 old_path: /comment/2543/union-general-meeting-goes-ahead-were-you-there
 aliases:
  - /comment/2543/union-general-meeting-goes-ahead-were-you-there
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

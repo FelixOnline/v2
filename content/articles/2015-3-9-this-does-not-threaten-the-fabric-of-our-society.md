@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor Robert Winston talks to James Bezer about the vote to allow ‘three-parent babies’
 date: "2015-03-09 19:16:04 +0000"
+# Attributes from Felix Online V1
 id: "5379"
 old_path: /science/5379/this-does-not-threaten-the-fabric-of-our-society
 aliases:
  - /science/5379/this-does-not-threaten-the-fabric-of-our-society
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091916-ps3110-screen-shot-2015-03-09-at-19.16.11.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

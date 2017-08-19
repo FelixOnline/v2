@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plans for its demolition are to be put to the public
 date: "2016-11-18 14:28:41 +0000"
+# Attributes from Felix Online V1
 id: "6456"
 old_path: /news/6456/save-charing-cross-hospital
 aliases:
  - /news/6456/save-charing-cross-hospital
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181630-felix-Screen Shot 2016-11-18 at 16.29.44.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

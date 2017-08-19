@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck
 date: "2011-10-28 00:12:50 +0100"
+# Attributes from Felix Online V1
 id: "1627"
 old_path: /comment/1627/abandon-the-old-grade-system
 aliases:
  - /comment/1627/abandon-the-old-grade-system
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

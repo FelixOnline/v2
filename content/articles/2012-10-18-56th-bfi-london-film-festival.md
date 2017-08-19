@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three picks from the 56th BFI London Film Festival
 date: "2012-10-18 21:26:54 +0100"
+# Attributes from Felix Online V1
 id: "2706"
 old_path: /film/2706/56th-bfi-london-film-festival
 aliases:
  - /film/2706/56th-bfi-london-film-festival
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

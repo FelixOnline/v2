@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Vatican has a lot of serious questions to answer
 date: "2011-06-11 17:23:01 +0100"
+# Attributes from Felix Online V1
 id: "1357"
 old_path: /comment/1357/mass-deception
 aliases:
  - /comment/1357/mass-deception
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106111822-felix-the-pope.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

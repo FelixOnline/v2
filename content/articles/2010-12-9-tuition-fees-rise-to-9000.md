@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Student protests fail to stop coalition plans
 date: "2010-12-09 22:11:43 +0000"
+# Attributes from Felix Online V1
 id: "546"
 old_path: /news/546/tuition-fees-rise-to-9000-
 aliases:
  - /news/546/tuition-fees-rise-to-9000-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

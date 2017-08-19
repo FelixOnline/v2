@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-06-10 08:31:34 +0100"
+# Attributes from Felix Online V1
 id: "6261"
 old_path: /film/6261/versus-the-life-and-films-of-ken-loach
 aliases:
  - /film/6261/versus-the-life-and-films-of-ken-loach
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101031-felix-versus_still_2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Dogwoof"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

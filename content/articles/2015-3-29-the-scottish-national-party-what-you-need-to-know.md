@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of what you need to know about the SNP before heading to the polling station in May
 date: "2015-03-29 23:06:37 +0100"
+# Attributes from Felix Online V1
 id: "5458"
 old_path: /politics/5458/the-scottish-national-party-what-you-need-to-know
 aliases:
  - /politics/5458/the-scottish-national-party-what-you-need-to-know
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

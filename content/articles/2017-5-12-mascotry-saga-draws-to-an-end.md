@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We know no one cares but this is our job
 date: "2017-05-12 16:30:10 +0100"
+# Attributes from Felix Online V1
 id: "6940"
 old_path: /news/6940/mascotry-saga-draws-to-an-end
 aliases:
  - /news/6940/mascotry-saga-draws-to-an-end
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121829-felix-spanner.jpg"
 image_caption: >
   Look mom! I found a giant... tool!
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

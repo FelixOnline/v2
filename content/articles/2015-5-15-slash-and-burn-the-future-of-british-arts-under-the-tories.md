@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Indira Mallik guides us through the proposed changes to funding for culture under the Conservative majority
 date: "2015-05-15 12:59:53 +0100"
+# Attributes from Felix Online V1
 id: "5542"
 old_path: /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
 aliases:
  - /arts/5542/slash-and-burn-the-future-of-british-arts-under-the-tories
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505151359-cj914-portfolio-barbican-arts-centre-01.jpg"
 image_caption: >
   The Barbican Centre, above, one of London's best cultural centres, will be one of the hardest hit, with an ACE cut of 20%
@@ -22,6 +27,7 @@ image_attribution: "Mindseye Lighting"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

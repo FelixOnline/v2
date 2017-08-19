@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
+# Attributes from Felix Online V1
 id: "5007"
 old_path: /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
 aliases:
  - /arts/5007/guy-bourdins-glamour-sinister-surreal--sexual
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412042001-cj914-charles_jourdan__spring_1979____guy_bourdin.jpg"
 image_caption: >
   Charles Jourdan, Spring 1979 - an example of Bourdin's surreal and sexually sinister style
@@ -22,6 +27,7 @@ image_attribution: "Guy Bourdin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

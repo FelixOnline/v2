@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We know you're on it
 date: "2017-02-17 16:06:40 +0000"
+# Attributes from Felix Online V1
 id: "6800"
 old_path: /millennials/6800/drug-bible--modafinil-101
 aliases:
  - /millennials/6800/drug-bible--modafinil-101
-category: millennials
 
+# Article Taxonomies
+categories:
+ - millennials
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171606-felix-Screen Shot 2017-02-17 at 16.05.50.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

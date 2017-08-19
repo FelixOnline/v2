@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hyde Park Relays 2016 proves yet again that Valentine’s Weekend is better with a hangover
 date: "2016-02-26 12:16:31 +0000"
+# Attributes from Felix Online V1
 id: "5992"
 old_path: /sport/5992/batons-bevs-and-baked-potatoes
 aliases:
  - /sport/5992/batons-bevs-and-baked-potatoes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602261216-felix-HPR Photo 1.jpg"
 image_caption: >
   The race was enjoyed by athletes of a whole range of abilities.
@@ -22,6 +27,7 @@ image_attribution: " Dave Tan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

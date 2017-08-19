@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Plabon Saha on the first solo album of Johnny Marr
 date: "2013-02-28 23:29:48 +0000"
+# Attributes from Felix Online V1
 id: "3388"
 old_path: /music/3388/johnny-marr-scores-above-par
 aliases:
  - /music/3388/johnny-marr-scores-above-par
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282329-tna08-jonny.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

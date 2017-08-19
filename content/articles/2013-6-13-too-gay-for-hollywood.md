@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Behind the Candelabra review
 date: "2013-06-13 23:33:59 +0100"
+# Attributes from Felix Online V1
 id: "3694"
 old_path: /film/3694/too-gay-for-hollywood
 aliases:
  - /film/3694/too-gay-for-hollywood
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140033-tna08-behind-the-candelabra1.jpg"
 image_caption: >
   It’s okay - we’ll be the new Jeremy and Megan
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

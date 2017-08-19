@@ -4,15 +4,20 @@ title: >
 subtitle: >
   (Yes, it’s that guy from University Challenge!)
 date: "2012-11-01 22:49:33 +0000"
+# Attributes from Felix Online V1
 id: "2794"
 old_path: /comment/2794/italys-new-illuminati
 aliases:
  - /comment/2794/italys-new-illuminati
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

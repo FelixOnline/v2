@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial and St Mary's team up in Greenford
 date: "2011-11-03 22:10:56 +0000"
+# Attributes from Felix Online V1
 id: "1699"
 old_path: /sport/1699/ic-hurlers-off-to-strong-start
 aliases:
  - /sport/1699/ic-hurlers-off-to-strong-start
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111032209-sjw209-p1010118.jpg"
 image_caption: >
   We’re not entirely sure what the giant mound of earth is for
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chrysostomos Meli discusses the revolution of automobiles lead by Tesla
 date: "2014-11-06 20:20:06 +0000"
+# Attributes from Felix Online V1
 id: "4787"
 old_path: /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
 aliases:
  - /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062019-cj914-tesla_model_s.jpg"
 image_caption: >
   Electric car enthusiasts appearing ecstatic at the unveiling of the first Model S at the Tesla facto
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

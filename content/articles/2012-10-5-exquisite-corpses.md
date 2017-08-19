@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eva Rosenthal finds beauty beneath the skin
 date: "2012-10-05 11:28:52 +0100"
+# Attributes from Felix Online V1
 id: "2595"
 old_path: /arts/2595/exquisite-corpses
 aliases:
  - /arts/2595/exquisite-corpses
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051228-nn1209-the_muscles_of_the_shoulder_arm_and_neck_919008.jpg"
 image_caption: >
   Getting hench, Leo style
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nn1209"
 author_name: "Navid Nabijou"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

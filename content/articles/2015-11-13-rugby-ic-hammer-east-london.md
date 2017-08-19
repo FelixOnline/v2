@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In a shocking defeat for UEL, Imperial’s 2nd XV return triumphant with a 65-0
 date: "2015-11-13 15:06:14 +0000"
+# Attributes from Felix Online V1
 id: "5737"
 old_path: /sport/5737/rugby-ic-hammer-east-london
 aliases:
  - /sport/5737/rugby-ic-hammer-east-london
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131502-cet13-fb.jpg"
 image_caption: >
   The team had a victory so great, it was almost embarrassing
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cet13"
 author_name: "Cale E Tilford"
 author_image_path: "img/upload/201610151549-cet13-cet13.png"

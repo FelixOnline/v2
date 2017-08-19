@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Falkenberg is let down by the Orange Tree Theatre’s play
 date: "2015-03-25 13:29:56 +0000"
+# Attributes from Felix Online V1
 id: "5452"
 old_path: /arts/5452/play-mas-fails-to-live-up-to-its-promise
 aliases:
  - /arts/5452/play-mas-fails-to-live-up-to-its-promise
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251329-ff712-_samuel-(seun-shote),-chuck-reynolds-(rob-heanley),-ramjohn-gookool-(johann-myers)-in-play-mas-at-the-orange-tree-theatre---photo-by-robert-day.jpg"
 image_caption: >
   Samuel (Seun Shote), Chuck Reynolds (Rob Heanley), Ramjohn Gookool (Johann Myers) in Play Mas at the Orange Tree Theatre
@@ -22,6 +27,7 @@ image_attribution: "Robert Day"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

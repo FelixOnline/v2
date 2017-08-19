@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Robot was on at the Barbican from the 22nd – 25th February
 date: "2017-03-03 15:15:29 +0000"
+# Attributes from Felix Online V1
 id: "6844"
 old_path: /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
 aliases:
  - /arts/6844/robot--a-confusing-hodgepodge-of-man-and-machine-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031514-felix-04.jpg"
 image_caption: >
   Blanca Li Dance Company, Robot
@@ -22,6 +27,7 @@ image_attribution: "Laurent Philippe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

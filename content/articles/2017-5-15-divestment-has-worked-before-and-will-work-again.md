@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Conor O’Riordan wants to harness the power of student activism
 date: "2017-05-15 15:57:18 +0100"
+# Attributes from Felix Online V1
 id: "6948"
 old_path: /comment/6948/divestment-has-worked-before-and-will-work-again
 aliases:
  - /comment/6948/divestment-has-worked-before-and-will-work-again
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151757-felix-Screen Shot 2017-05-15 at 17.56.50.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

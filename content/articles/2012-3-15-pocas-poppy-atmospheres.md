@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anastasia Eleftheriou finds even traffic signs can inspire
 date: "2012-03-15 21:12:57 +0000"
+# Attributes from Felix Online V1
 id: "2372"
 old_path: /music/2372/pocas-poppy-atmospheres
 aliases:
  - /music/2372/pocas-poppy-atmospheres
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152112-ams111-poca-keyboard.jpg"
 image_caption: >
   You can’t read my P-P-P-P-POCA face
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

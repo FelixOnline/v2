@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Itch.io is full of weird and wonderful games
 date: "2016-04-29 10:57:17 +0100"
+# Attributes from Felix Online V1
 id: "6107"
 old_path: /games/6107/emily-is-away
 aliases:
  - /games/6107/emily-is-away
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

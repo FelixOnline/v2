@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You! Yes you there! Considering closing libraries down?
 date: "2012-02-23 20:34:54 +0000"
+# Attributes from Felix Online V1
 id: "2236"
 old_path: /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
 aliases:
  - /books/2236/a-call-to-arms-in-the-fight-to-save-our-libraries
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

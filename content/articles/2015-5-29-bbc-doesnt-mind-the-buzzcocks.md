@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jack Steadman breaks down the BBC's axing of the beloved panel show.
 date: "2015-05-29 10:59:07 +0100"
+# Attributes from Felix Online V1
 id: "5585"
 old_path: /tv/5585/bbc-doesnt-mind-the-buzzcocks
 aliases:
  - /tv/5585/bbc-doesnt-mind-the-buzzcocks
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505291300-js5913-never-mind.jpg"
 image_caption: >
   A typical line up for Never Mind the Buzzcocks during one of its guest host phases. I know who some of hese people are, honest.
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

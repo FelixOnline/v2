@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Carol Yang discusses why Starcraft has become such a phenomenal success
 date: "2012-05-18 16:01:09 +0100"
+# Attributes from Felix Online V1
 id: "2473"
 old_path: /games/2473/starcraft-the-revolution-of-esports
 aliases:
  - /games/2473/starcraft-the-revolution-of-esports
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181705-felix-starcraft-2006proleaguefinals.jpg"
 image_caption: >
   The audience of the Starcraft: Brood War Proleague finals in Seoul, South Korea, 2006
@@ -22,6 +27,7 @@ image_attribution: "Fighterforum"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

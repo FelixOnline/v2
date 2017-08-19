@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As those at NME continue to ruin the minds of the musically naïve, enforcing their ‘law-of-music’, their live shows give us hope
 date: "2011-02-10 20:25:47 +0000"
+# Attributes from Felix Online V1
 id: "773"
 old_path: /music/773/nme-awards-show
 aliases:
  - /music/773/nme-awards-show
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

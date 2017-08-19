@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox have survived the first five days of their quest in veganism
 date: "2012-02-23 20:36:53 +0000"
+# Attributes from Felix Online V1
 id: "2238"
 old_path: /food/2238/vegan-diary-week-one
 aliases:
  - /food/2238/vegan-diary-week-one
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202232033-pk1811-couscous-salad-2.jpg"
 image_caption: >
   First week dish for the vegans. Alternatively, visit Gaucho for a juicy steak
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

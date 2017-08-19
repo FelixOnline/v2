@@ -4,15 +4,20 @@ title: >
 subtitle: >
   “Ed is as ineffective as a Facebook status update”
 date: "2010-12-12 14:32:27 +0000"
+# Attributes from Felix Online V1
 id: "554"
 old_path: /politics/554/weakness-plagues-british-politics-but-not-top-gear-
 aliases:
  - /politics/554/weakness-plagues-british-politics-but-not-top-gear-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

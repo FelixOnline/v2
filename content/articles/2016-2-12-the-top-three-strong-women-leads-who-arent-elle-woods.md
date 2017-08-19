@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Legally Blonde isn't intersectional
 date: "2016-02-12 11:48:57 +0000"
+# Attributes from Felix Online V1
 id: "5912"
 old_path: /film/5912/the-top-three-strong-women-leads-who-arent-elle-woods
 aliases:
  - /film/5912/the-top-three-strong-women-leads-who-arent-elle-woods
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

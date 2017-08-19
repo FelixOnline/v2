@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jonathan London on depression
 date: "2013-01-31 23:24:44 +0000"
+# Attributes from Felix Online V1
 id: "3207"
 old_path: /news/3207/unseen-imperial--depression-the-stigmatised-illness
 aliases:
  - /news/3207/unseen-imperial--depression-the-stigmatised-illness
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312325-tna08-depression-loss_of_loved_one-(1).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

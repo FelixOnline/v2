@@ -4,15 +4,20 @@ title: >
 subtitle: >
   you've assembled the Special Needs X-Men. ...Now it's time to start work!
 date: "2010-02-12 02:13:20 +0000"
+# Attributes from Felix Online V1
 id: "88"
 old_path: /comment/88/angry-geek-with-this-weeks-offering
 aliases:
  - /comment/88/angry-geek-with-this-weeks-offering
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002120208-rsp07-groupwor.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lonely fishkeepers vidicated: fish can tell when you’re being a dick
 date: "2016-06-10 08:26:43 +0100"
+# Attributes from Felix Online V1
 id: "6256"
 old_path: /science/6256/sht-scence
 aliases:
  - /science/6256/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101026-felix-21234616215_fa138e0d78_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Joseph Bylund"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

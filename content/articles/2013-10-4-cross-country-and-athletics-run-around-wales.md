@@ -4,15 +4,20 @@ title: >
 subtitle: >
   On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus inst
 date: "2013-10-04 02:17:57 +0100"
+# Attributes from Felix Online V1
 id: "3811"
 old_path: /sport/3811/cross-country-and-athletics-run-around-wales
 aliases:
  - /sport/3811/cross-country-and-athletics-run-around-wales
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310040317-jal08-sport_icxca.jpg"
 image_caption: >
   Cross Country & Athletics Team Photo
@@ -22,6 +27,7 @@ image_attribution: "ICU Cross Country & Athletics"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

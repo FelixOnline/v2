@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman
 date: "2010-12-09 19:53:54 +0000"
+# Attributes from Felix Online V1
 id: "511"
 old_path: /food/511/shakin-your-cocktail-feather
 aliases:
  - /food/511/shakin-your-cocktail-feather
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ac1507"
 author_name: "Afonso Campos"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

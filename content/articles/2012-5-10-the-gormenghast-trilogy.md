@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski looks back at Mervyn Peake’s gothic masterpiece
 date: "2012-05-10 19:46:15 +0100"
+# Attributes from Felix Online V1
 id: "2435"
 old_path: /books/2435/the-gormenghast-trilogy
 aliases:
  - /books/2435/the-gormenghast-trilogy
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102045-ams111-titus-groan-large.jpg"
 image_caption: >
   Peake’s haunting illustrations are a major asset of the series
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

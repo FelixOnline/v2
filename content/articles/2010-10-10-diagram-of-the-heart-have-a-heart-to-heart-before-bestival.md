@@ -4,15 +4,20 @@ title: >
 subtitle: >
   At the heart of Imperial on the weekend, all diagrams were out of mind save the endlessly energetic Diagram of the Heart. They shared their love of ginger-nut biscuits before playing Bestival this summer
 date: "2010-10-10 15:27:13 +0100"
+# Attributes from Felix Online V1
 id: "189"
 old_path: /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
 aliases:
  - /music/189/diagram-of-the-heart-have-a-heart-to-heart-before-bestival
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010101626-ks607-Diagramo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

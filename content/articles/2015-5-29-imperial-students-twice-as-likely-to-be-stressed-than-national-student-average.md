@@ -4,15 +4,20 @@ title: >
 subtitle: >
   NUS data shows that Imperial students are more stressed than students at other UK universities on average
 date: "2015-05-29 00:49:05 +0100"
+# Attributes from Felix Online V1
 id: "5575"
 old_path: /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
 aliases:
  - /news/5575/imperial-students-twice-as-likely-to-be-stressed-than-national-student-average
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505290149-ps3110-3028_833_neville-miles.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

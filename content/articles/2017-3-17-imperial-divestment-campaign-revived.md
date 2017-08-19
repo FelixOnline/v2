@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But will it succeed where the last one failed?
 date: "2017-03-17 12:59:12 +0000"
+# Attributes from Felix Online V1
 id: "6895"
 old_path: /news/6895/imperial-divestment-campaign-revived
 aliases:
  - /news/6895/imperial-divestment-campaign-revived
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171259-felix-divest_rectangle.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

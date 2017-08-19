@@ -4,15 +4,20 @@ title: >
 subtitle: >
   CHOO CHOO! Max Eggl welcomes you to the Star Wars hype train!
 date: "2015-06-12 12:38:09 +0100"
+# Attributes from Felix Online V1
 id: "5619"
 old_path: /games/5619/a-long-time-ago-in-a-game-far-far-away
 aliases:
  - /games/5619/a-long-time-ago-in-a-game-far-far-away
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506121337-cj914-star-wars-battlefront.jpeg"
 image_caption: >
   A childhood dream come true?
@@ -22,6 +27,7 @@ image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

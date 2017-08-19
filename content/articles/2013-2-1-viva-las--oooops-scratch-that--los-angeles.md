@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LA is the place to go for sun, sand, and anything else you may want, says Natalia Petrou
 date: "2013-02-01 00:06:54 +0000"
+# Attributes from Felix Online V1
 id: "3220"
 old_path: /travel/3220/viva-las--oooops-scratch-that--los-angeles
 aliases:
  - /travel/3220/viva-las--oooops-scratch-that--los-angeles
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010005-tna08-travel3.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

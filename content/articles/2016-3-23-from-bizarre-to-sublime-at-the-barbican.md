@@ -4,15 +4,20 @@ title: >
 subtitle: >
   LA Philharmonic's performance is a tour through favourites old and new.
 date: "2016-03-23 14:50:48 +0000"
+# Attributes from Felix Online V1
 id: "6080"
 old_path: /arts/6080/from-bizarre-to-sublime-at-the-barbican
 aliases:
  - /arts/6080/from-bizarre-to-sublime-at-the-barbican
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An incredible success and a large amount raised for charity after some expensive cakes
 date: "2012-12-07 01:02:07 +0000"
+# Attributes from Felix Online V1
 id: "3029"
 old_path: /news/3029/over-45000-raised-at-charity-week
 aliases:
  - /news/3029/over-45000-raised-at-charity-week
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070102-tna08-charity-week.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AR3310"
 author_name: "Aemun Reza"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

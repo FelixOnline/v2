@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Falling through the net as a Masters student
 date: "2012-05-04 00:17:13 +0100"
+# Attributes from Felix Online V1
 id: "2419"
 old_path: /comment/2419/holes-in-postgraduate-representation
 aliases:
  - /comment/2419/holes-in-postgraduate-representation
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205040116-felix-vote_ballot_paper.jpg"
 image_caption: >
   GSA elections were online, mainly because this is what the ballot paper would have looked like. Grim
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

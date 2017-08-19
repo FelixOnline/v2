@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le goes up north
 date: "2013-03-15 01:05:47 +0000"
+# Attributes from Felix Online V1
 id: "3469"
 old_path: /science/3469/the-science-museum-thinktank-style-
 aliases:
  - /science/3469/the-science-museum-thinktank-style-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150105-tna08-image-4103-orig.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "thinktank.ac"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

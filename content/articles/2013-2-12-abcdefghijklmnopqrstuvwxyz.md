@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ABCs of Death showcases 26 short, disturbing films
 date: "2013-02-12 18:28:18 +0000"
+# Attributes from Felix Online V1
 id: "3291"
 old_path: /film/3291/abcdefghijklmnopqrstuvwxyz
 aliases:
  - /film/3291/abcdefghijklmnopqrstuvwxyz
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302121827-tna08-abcs-of-death-featured-1024x561.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

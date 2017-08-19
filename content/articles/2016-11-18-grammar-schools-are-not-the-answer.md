@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Husain Al-Jabir gives his first-hand opinion of Grammar schools
 date: "2016-11-18 14:32:54 +0000"
+# Attributes from Felix Online V1
 id: "6458"
 old_path: /comment/6458/grammar-schools-are-not-the-answer-
 aliases:
  - /comment/6458/grammar-schools-are-not-the-answer-
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181432-felix-Screen Shot 2016-11-18 at 14.32.05.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

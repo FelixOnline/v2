@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yiango Mavrocostanti has some yummy Italian food at the Italian societies first event.
 date: "2013-02-13 14:12:01 +0000"
+# Attributes from Felix Online V1
 id: "3301"
 old_path: /food/3301/aperitivo-all-italiana
 aliases:
  - /food/3301/aperitivo-all-italiana
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302131410-tna08-820643_264778900320289_1437876619_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

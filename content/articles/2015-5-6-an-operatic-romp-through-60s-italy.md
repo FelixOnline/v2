@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Clara Clark Nevola is taken on a journey to the fun side of the ROH
 date: "2015-05-06 16:34:38 +0100"
+# Attributes from Felix Online V1
 id: "5496"
 old_path: /arts/5496/an-operatic-romp-through-60s-italy
 aliases:
  - /arts/5496/an-operatic-romp-through-60s-italy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505061733-ps3110-il-turco-in-italia-009.jpg"
 image_caption: >
   The Royal Opera House’s Il Turco In Italia
@@ -22,6 +27,7 @@ image_attribution: "Tristram Kenton/The Guardian"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

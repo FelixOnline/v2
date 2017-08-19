@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sport Imperial employee allegedly said “I don’t care how those fat girls get home”
 date: "2015-03-19 23:42:37 +0000"
+# Attributes from Felix Online V1
 id: "5406"
 old_path: /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
 aliases:
  - /news/5406/premature-coach-departures-and-misogynistic-abuse-from-staff-member-for-womens-rugby
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192343-cj914-tbl_varsity_quick_set_21h42m27s.jpg"
 image_caption: >
   IC run through to score one of their three tries on the night
@@ -22,6 +27,7 @@ image_attribution: "Ben Lester ThroughBensLens.co.uk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

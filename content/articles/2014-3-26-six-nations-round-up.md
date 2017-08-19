@@ -4,15 +4,20 @@ title: >
 subtitle: >
   In the aftermath of one of the most poetic endings to the Six Nations yet, familiar foes Jonny Pratt and Tessa Davey give their verdict on the best, and worst, of the Six Nations
 date: "2014-03-26 15:33:55 +0000"
+# Attributes from Felix Online V1
 id: "4510"
 old_path: /sport/4510/six-nations-round-up
 aliases:
  - /sport/4510/six-nations-round-up
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201403261536-jal08-irelandtrophy_3101962.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

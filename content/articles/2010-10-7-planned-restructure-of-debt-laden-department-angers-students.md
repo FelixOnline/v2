@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The future of Plant Sciences at Imperial is under threat as Life Sciences department seeks to plug £1.5m hole in finances
 date: "2010-10-07 21:51:02 +0100"
+# Attributes from Felix Online V1
 id: "171"
 old_path: /news/171/planned-restructure-of-debt-laden-department-angers-students
 aliases:
  - /news/171/planned-restructure-of-debt-laden-department-angers-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010072254-ks607-PlantSci.jpg"
 image_caption: >
   The Union claims that Plant Sciences research will suffer
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

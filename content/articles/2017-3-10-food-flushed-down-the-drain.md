@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ipsita Herlekar talks food waste and how it’s not just about the food that goes in the bin but also about the food that goes in your tum-tum
 date: "2017-03-10 13:36:17 +0000"
+# Attributes from Felix Online V1
 id: "6870"
 old_path: /science/6870/food-flushed-down-the-drain
 aliases:
  - /science/6870/food-flushed-down-the-drain
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101336-felix-4713741392_e477441f57_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "\ Anthony Albright"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

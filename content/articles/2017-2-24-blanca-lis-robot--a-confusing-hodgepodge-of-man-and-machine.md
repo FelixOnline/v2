@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Blanca Li's show mixes human dancers with robot androids, but its message seems unclear
 date: "2017-02-24 17:25:11 +0000"
+# Attributes from Felix Online V1
 id: "6833"
 old_path: /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
 aliases:
  - /arts/6833/blanca-lis-robot--a-confusing-hodgepodge-of-man-and-machine-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702241722-ff712-04.jpg"
 image_caption: >
   Blanca Li Dance Company, Robot
@@ -22,6 +27,7 @@ image_attribution: "Laurent Philippe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

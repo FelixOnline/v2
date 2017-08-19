@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe’s new production of a classic
 date: "2014-11-06 21:36:09 +0000"
+# Attributes from Felix Online V1
 id: "4805"
 old_path: /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
 aliases:
  - /arts/4805/tis-pity-shes-a-whore--shakespeares-moral-dilemma
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
 image_caption: >
   Fiona Button as Annabella and Max Bennett as Giovanni in Michael Longhurst's production.
@@ -22,6 +27,7 @@ image_attribution: "Simon Kane"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

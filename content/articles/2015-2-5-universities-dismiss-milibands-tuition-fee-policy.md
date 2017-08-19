@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Move could cost government £2.5 billion a year
 date: "2015-02-05 23:43:43 +0000"
+# Attributes from Felix Online V1
 id: "5196"
 old_path: /news/5196/universities-dismiss-milibands-tuition-fee-policy
 aliases:
  - /news/5196/universities-dismiss-milibands-tuition-fee-policy
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502052343-ps3110-screen-shot-2015-02-05-at-23.43.30.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

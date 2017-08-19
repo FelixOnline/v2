@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lizzy Griffiths goes to Newquay for the waves, and the 'bants' probably
 date: "2013-05-01 10:22:48 +0100"
+# Attributes from Felix Online V1
 id: "3509"
 old_path: /sport/3509/everyones-gone-surfing-surfing-newquay
 aliases:
  - /sport/3509/everyones-gone-surfing-surfing-newquay
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305012035-tna08-surf2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

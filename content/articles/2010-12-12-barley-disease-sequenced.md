@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Research suggests genome parasites help adaption
 date: "2010-12-12 13:50:32 +0000"
+# Attributes from Felix Online V1
 id: "550"
 old_path: /science/550/barley-disease-sequenced
 aliases:
  - /science/550/barley-disease-sequenced
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121348-ks607-barleyfi.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

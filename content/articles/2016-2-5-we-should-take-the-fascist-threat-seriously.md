@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
+# Attributes from Felix Online V1
 id: "5867"
 old_path: /comment/5867/we-should-take-the-fascist-threat-seriously
 aliases:
  - /comment/5867/we-should-take-the-fascist-threat-seriously
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602051158-felix-copyright_photograph_@bat020.Twitter2.jpg"
 image_caption: >
   People and property were damaged in clashes.
@@ -22,6 +27,7 @@ image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

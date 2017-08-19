@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There’s nothing wrong with being the other woman
 date: "2017-05-15 16:31:51 +0100"
+# Attributes from Felix Online V1
 id: "6957"
 old_path: /sex/6957/its-not-my-job-to-please-your-girlfriend
 aliases:
  - /sex/6957/its-not-my-job-to-please-your-girlfriend
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151831-felix-13922144631_5cc127ca95_o (1).jpg"
 image_caption: >
   So yeah. I’m married. But like we have an agreement
@@ -22,6 +27,7 @@ image_attribution: "Paula Satijn"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

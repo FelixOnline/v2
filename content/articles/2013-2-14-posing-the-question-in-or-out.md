@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Silvia Davey asks what UK citizens should consider come referendum time
 date: "2013-02-14 17:02:18 +0000"
+# Attributes from Felix Online V1
 id: "3324"
 old_path: /politics/3324/posing-the-question-in-or-out
 aliases:
  - /politics/3324/posing-the-question-in-or-out
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302141702-tna08-concerned-cam.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Alex Folkes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

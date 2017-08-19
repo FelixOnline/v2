@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Trust receives money to aid new Clinical Research Facility
 date: "2012-03-09 01:05:28 +0000"
+# Attributes from Felix Online V1
 id: "2334"
 old_path: /news/2334/10-million-awarded-to-college-healthcare
 aliases:
  - /news/2334/10-million-awarded-to-college-healthcare
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203090105-felix-icl_hammersmith_213.jpg"
 image_caption: >
   Hammersmith Hospital
@@ -22,6 +27,7 @@ image_attribution: "Layton Thompson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

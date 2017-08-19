@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Everyone knows breaking up is horrible. We’re here to make the process better for you (although probably worse for the other person)
 date: "2017-06-09 16:16:21 +0100"
+# Attributes from Felix Online V1
 id: "7023"
 old_path: /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
 aliases:
  - /sex/7023/how-to-dump-someone-you-met-in-metric-and-subsequently-fell-in-love-with
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

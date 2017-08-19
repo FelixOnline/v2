@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?
 date: "2012-11-01 23:09:59 +0000"
+# Attributes from Felix Online V1
 id: "2813"
 old_path: /sport/2813/knights-in-shining-armour-win-again
 aliases:
  - /sport/2813/knights-in-shining-armour-win-again
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012309-csw09-420259_325176234206045_620695444_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

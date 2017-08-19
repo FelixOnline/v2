@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
+# Attributes from Felix Online V1
 id: "4589"
 old_path: /food/4589/this-weeks-food-for-thought
 aliases:
  - /food/4589/this-weeks-food-for-thought
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201405091649-jal08-food_pedestrian.jpg"
 image_caption: >
   Someone left their breakfast on Bayswater Road #FELIXFOOD
@@ -22,6 +27,7 @@ image_attribution: "Michael Y K Chung"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

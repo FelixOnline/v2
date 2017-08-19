@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Max Eggl rewrites the history of the Emerald Isle in Crusader Kings II
 date: "2012-11-15 21:55:43 +0000"
+# Attributes from Felix Online V1
 id: "2906"
 old_path: /games/2906/my-wild-irish-prose-
 aliases:
  - /games/2906/my-wild-irish-prose-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211152155-tna08-games.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

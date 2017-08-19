@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A Cappella and Musical Theatre came together for the midweek ArtsFest showcase
 date: "2015-02-20 00:19:59 +0000"
+# Attributes from Felix Online V1
 id: "5284"
 old_path: /cands/5284/artsfest-a-very-vocal-evening-30
 aliases:
  - /cands/5284/artsfest-a-very-vocal-evening-30
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502200017-ps3110-screen-shot-2015-02-20-at-00.17.20.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

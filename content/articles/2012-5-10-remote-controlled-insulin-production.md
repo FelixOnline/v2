@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A new use for therapeutic nanoparticles in diabetes treatment
 date: "2012-05-10 20:14:53 +0100"
+# Attributes from Felix Online V1
 id: "2445"
 old_path: /science/2445/remote-controlled-insulin-production
 aliases:
  - /science/2445/remote-controlled-insulin-production
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205102110-ams111-4ceb4db26f1f3ff8370a5128df9beb06.gif"
 image_caption: >
   ... but only in mice, so far
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "lap08"
 author_name: "Laurence Pope"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

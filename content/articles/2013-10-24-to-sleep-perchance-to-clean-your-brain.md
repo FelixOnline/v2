@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After hundreds of years of hypothesis, the primary function for sleep may now have been discovered.
 date: "2013-10-24 23:58:52 +0100"
+# Attributes from Felix Online V1
 id: "3917"
 old_path: /science/3917/to-sleep-perchance-to-clean-your-brain
 aliases:
  - /science/3917/to-sleep-perchance-to-clean-your-brain
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250059-felix-bedroom.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Amrita Ghosh and Arya Mehta"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

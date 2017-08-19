@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on one of the survey’s sadder revelations
 date: "2015-06-04 23:37:12 +0100"
+# Attributes from Felix Online V1
 id: "5602"
 old_path: /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
 aliases:
  - /features/5602/the-transgender-community-at-imperial-those-who-are-silently-struggling
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506050036-cj914-transflag.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "One of the international symbols of transgender activism and
 image_attribution_link: "http://GENEQ"
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   But not without drama (and extensive amendments)
 date: "2017-05-12 15:29:30 +0100"
+# Attributes from Felix Online V1
 id: "6930"
 old_path: /news/6930/controversial-tie-clubs-paper-passed
 aliases:
  - /news/6930/controversial-tie-clubs-paper-passed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705121726-felix-18318761_10206484962882684_617786527_o.jpg"
 image_caption: >
   Media Chair Rob Garside literally eating popcorn at Council
@@ -22,6 +27,7 @@ image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

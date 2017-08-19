@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial iGem team brings laurels back home, all the way from the US! By Benjamin Miller and Harriet Gliddon
 date: "2010-11-18 21:58:45 +0000"
+# Attributes from Felix Online V1
 id: "417"
 old_path: /news/417/imperial-igem-team-win-in-us
 aliases:
  - /news/417/imperial-igem-team-win-in-us
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182154-nm1010-igemigem.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "hg308"
 author_name: "Harriet Gliddon"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After coming close to the bone. Puns away...
 date: "2012-12-07 00:17:12 +0000"
+# Attributes from Felix Online V1
 id: "3023"
 old_path: /news/3023/feasting-on-sciences-at-imperial-fringe
 aliases:
  - /news/3023/feasting-on-sciences-at-imperial-fringe
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070014-tna08-child_hitting_skeleton_with_bone.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

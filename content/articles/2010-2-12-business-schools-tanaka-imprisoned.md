@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sina Ataherian reports on the 5-year sentence that Imperial College benefactor Gary Tanaka faces this week
 date: "2010-02-12 01:45:34 +0000"
+# Attributes from Felix Online V1
 id: "83"
 old_path: /news/83/business-schools-tanaka-imprisoned
 aliases:
  - /news/83/business-schools-tanaka-imprisoned
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002120144-rsp07-tannakab.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

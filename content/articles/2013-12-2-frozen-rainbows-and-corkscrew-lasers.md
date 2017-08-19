@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Professor Ortwin Hess speaks to Keir Little about his research
 date: "2013-12-02 21:55:23 +0000"
+# Attributes from Felix Online V1
 id: "4158"
 old_path: /science/4158/frozen-rainbows-and-corkscrew-lasers
 aliases:
  - /science/4158/frozen-rainbows-and-corkscrew-lasers
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

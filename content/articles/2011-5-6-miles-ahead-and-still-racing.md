@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sorin Cioban finds the iPad 2 delivers consistently
 date: "2011-05-06 08:27:31 +0100"
+# Attributes from Felix Online V1
 id: "1157"
 old_path: /tech/1157/miles-ahead-and-still-racing
 aliases:
  - /tech/1157/miles-ahead-and-still-racing
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060928-felix-img_0001.jpg"
 image_caption: >
   Musn't... use... as... coaster!
@@ -22,6 +27,7 @@ image_attribution: "Sorin Cioban"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

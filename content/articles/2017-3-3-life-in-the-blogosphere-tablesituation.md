@@ -4,15 +4,20 @@ title: >
 subtitle: >
   You might envy the food bloggers of the instagram world - all those lovely free meals, cocktails and socialising with the hip and trendy from across the culinary scene. An insiders view shows that it’s sometimes a bit more superficial, but you’ll still probably be jealous at the end, sorry.
 date: "2017-03-03 15:56:09 +0000"
+# Attributes from Felix Online V1
 id: "6852"
 old_path: /food/6852/life-in-the-blogosphere-tablesituation
 aliases:
  - /food/6852/life-in-the-blogosphere-tablesituation
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703031555-felix-IMG_7992.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

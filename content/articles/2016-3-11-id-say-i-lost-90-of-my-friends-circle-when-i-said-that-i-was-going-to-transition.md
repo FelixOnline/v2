@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX interviews 29 year-old Anjeli Patel, who works at Ernst & Young, on being trans, being Indian and the equality in the workplace
 date: "2016-03-11 11:31:32 +0000"
+# Attributes from Felix Online V1
 id: "6023"
 old_path: /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
 aliases:
  - /features/6023/id-say-i-lost-90-of-my-friends-circle-when-i-said-that-i-was-going-to-transition
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

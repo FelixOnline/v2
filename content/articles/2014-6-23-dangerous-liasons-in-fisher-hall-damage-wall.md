@@ -4,15 +4,20 @@ title: >
 subtitle: >
   [Tabloid Special] Just how well maintained is Fisher Hall?
 date: "2014-06-23 10:36:31 +0100"
+# Attributes from Felix Online V1
 id: "4700"
 old_path: /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
 aliases:
  - /news/4700/dangerous-liasons-in-fisher-hall-damage-wall
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406231138-jal08-1581_news_mould.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

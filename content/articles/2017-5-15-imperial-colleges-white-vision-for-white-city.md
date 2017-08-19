@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Chaudhri and Kieran Ryan criticise Imperial's expansion in White City
 date: "2017-05-15 16:02:45 +0100"
+# Attributes from Felix Online V1
 id: "6950"
 old_path: /comment/6950/imperial-colleges-white-vision-for-white-city
 aliases:
  - /comment/6950/imperial-colleges-white-vision-for-white-city
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201705151802-felix-Screen Shot 2017-05-15 at 18.02.27.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The National preach to the converted as they captivate the Brixton Academy
 date: "2010-12-09 20:34:48 +0000"
+# Attributes from Felix Online V1
 id: "527"
 old_path: /music/527/the-national-do-it-their-way
 aliases:
  - /music/527/the-national-do-it-their-way
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Susanna Howe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

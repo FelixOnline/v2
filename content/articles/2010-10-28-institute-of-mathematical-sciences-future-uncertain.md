@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Institute forced out of 53 Prince’s Gardens after review
 date: "2010-10-28 20:06:16 +0100"
+# Attributes from Felix Online V1
 id: "289"
 old_path: /news/289/institute-of-mathematical-sciences-future-uncertain
 aliases:
  - /news/289/institute-of-mathematical-sciences-future-uncertain
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282104-nm1010-imsimsim.jpg"
 image_caption: >
   53 Prince's Gardens
@@ -22,6 +27,7 @@ image_attribution: "Marie Chkaiban"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

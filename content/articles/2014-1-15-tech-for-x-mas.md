@@ -4,15 +4,20 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money?
 date: "2014-01-15 16:23:42 +0000"
+# Attributes from Felix Online V1
 id: "4212"
 old_path: /tech/4212/tech-for-x-mas
 aliases:
  - /tech/4212/tech-for-x-mas
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

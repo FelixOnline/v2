@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
+# Attributes from Felix Online V1
 id: "606"
 old_path: /tech/606/facebook-in-address-privacy-u-turn-
 aliases:
  - /tech/606/facebook-in-address-privacy-u-turn-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

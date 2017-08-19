@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial 1st 2–6 Bath 1st.
 date: "2011-03-03 08:29:49 +0000"
+# Attributes from Felix Online V1
 id: "995"
 old_path: /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
 aliases:
  - /sport/995/-badminton-ladies-lose-to-bath-ending-bucs-cup-hopes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Jacob is riveted by a show that explores woman's place in the Middle East
 date: "2015-02-17 16:28:06 +0000"
+# Attributes from Felix Online V1
 id: "5263"
 old_path: /arts/5263/singing-stones--the-womens-spring
 aliases:
  - /arts/5263/singing-stones--the-womens-spring
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502171627-ps3110-the-singing-stones-a.jpg"
 image_caption: >
   The cast of The Singing Stones
@@ -22,6 +27,7 @@ image_attribution: "Mia Hawk"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

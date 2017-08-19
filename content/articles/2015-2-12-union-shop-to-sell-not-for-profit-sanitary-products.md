@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Kaye, Deputy President (Welfare) passed paper in Council on Tuesday
 date: "2015-02-12 20:54:55 +0000"
+# Attributes from Felix Online V1
 id: "5235"
 old_path: /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
 aliases:
  - /news/5235/union-shop-to-sell-not-for-profit-sanitary-products
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502130143-ps3110-screen-shot-2015-02-13-at-01.43.25.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

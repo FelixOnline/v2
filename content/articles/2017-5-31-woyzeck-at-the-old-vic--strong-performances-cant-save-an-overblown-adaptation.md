@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play
 date: "2017-05-31 23:31:19 +0100"
+# Attributes from Felix Online V1
 id: "6980"
 old_path: /arts/6980/woyzeck-at-the-old-vic--strong-performances-cant-save-an-overblown-adaptation
 aliases:
  - /arts/6980/woyzeck-at-the-old-vic--strong-performances-cant-save-an-overblown-adaptation
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706010129-im1413-3155.jpg"
 image_caption: >
   John Boyega and Sarah Greene in  Woyzeck. Photo: Manual Harlan
@@ -22,6 +27,7 @@ image_attribution: "Photo: Manual Harlan"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

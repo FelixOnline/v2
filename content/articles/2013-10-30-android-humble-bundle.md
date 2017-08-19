@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Humble Bundle with Android #7 is currently on sale. For those of you who don’t know what this is, the Humble Bundle is a sale in which a set of games are available for whatever price you choose.
 date: "2013-10-30 15:37:26 +0000"
+# Attributes from Felix Online V1
 id: "3957"
 old_path: /games/3957/android-humble-bundle
 aliases:
  - /games/3957/android-humble-bundle
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310301536-me1711-games_t2r.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial 1st 3–0 Southampton 1st
 date: "2011-03-03 08:28:16 +0000"
+# Attributes from Felix Online V1
 id: "994"
 old_path: /sport/994/volleyball-destroy-southampton
 aliases:
  - /sport/994/volleyball-destroy-southampton
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103030826-ks607-volleyba.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "David Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

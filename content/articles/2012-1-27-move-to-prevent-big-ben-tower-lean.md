@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial professor advises the Government on subsidence
 date: "2012-01-27 00:07:57 +0000"
+# Attributes from Felix Online V1
 id: "2078"
 old_path: /news/2078/move-to-prevent-big-ben-tower-lean
 aliases:
  - /news/2078/move-to-prevent-big-ben-tower-lean
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201270004-felix-img_0050.jpg"
 image_caption: >
   Professor Burland has worked on constructions at Westminster underground station
@@ -22,6 +27,7 @@ image_attribution: "Philip Kent"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

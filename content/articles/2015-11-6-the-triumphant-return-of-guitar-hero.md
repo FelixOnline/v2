@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FreeStyleGames’ latest rhythm game is addictive, immersive and refreshingly reactive
 date: "2015-11-06 14:23:43 +0000"
+# Attributes from Felix Online V1
 id: "5713"
 old_path: /games/5713/the-triumphant-return-of-guitar-hero-
 aliases:
  - /games/5713/the-triumphant-return-of-guitar-hero-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
 image_caption: >
   Only Imperial’s supercomputer, Helen, could render graphics this good.
@@ -22,6 +27,7 @@ image_attribution: "Activision"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look into the drug taking habits of students
 date: "2013-05-16 19:08:48 +0100"
+# Attributes from Felix Online V1
 id: "3588"
 old_path: /news/3588/felix-drugs-survey
 aliases:
  - /news/3588/felix-drugs-survey
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

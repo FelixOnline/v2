@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-05 13:20:30 +0100"
+# Attributes from Felix Online V1
 id: "2626"
 old_path: /food/2626/la-famiglia
 aliases:
  - /food/2626/la-famiglia
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051420-felix-la-famiglia-exterior.jpg"
 image_caption: >
   So Italian it comes with a scooter outside
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

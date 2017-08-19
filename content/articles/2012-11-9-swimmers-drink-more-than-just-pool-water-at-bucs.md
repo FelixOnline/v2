@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yeah, Phelps, you're pretty quick. Let's see you do that after a few drinks.
 date: "2012-11-09 14:31:54 +0000"
+# Attributes from Felix Online V1
 id: "2875"
 old_path: /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
 aliases:
  - /sport/2875/swimmers-drink-more-than-just-pool-water-at-bucs
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

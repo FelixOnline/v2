@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Smuggler is more high-brow than its subject matter suggests
 date: "2016-02-24 18:38:10 +0000"
+# Attributes from Felix Online V1
 id: "5953"
 old_path: /film/5953/its-all-going-wrong-down-under
 aliases:
  - /film/5953/its-all-going-wrong-down-under
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602241835-ff712-mule-0-2000-0-1125-crop.jpg"
 image_caption: >
   Angus Simpson as Ray, in the somewhat confused film The Smuggler
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

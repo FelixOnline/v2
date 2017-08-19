@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Greg Hands is the Conservative representative of Fulham and Chelsea
 date: "2016-04-29 10:01:53 +0100"
+# Attributes from Felix Online V1
 id: "6087"
 old_path: /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
 aliases:
  - /news/6087/local-mp-votes-to-stop-refugee-children-coming-to-uk
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291101-felix-Screen Shot 2016-04-27 at 13.30.37.png"
 image_caption: >
   Trying to find a heart, mate?
@@ -22,6 +27,7 @@ image_attribution: "greghands.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Feminist Society and why it might not be what you think it is
 date: "2012-10-11 21:25:49 +0100"
+# Attributes from Felix Online V1
 id: "2676"
 old_path: /comment/2676/mandatory-castrations-for-all
 aliases:
  - /comment/2676/mandatory-castrations-for-all
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210112225-ar3310-thatcherrbg.jpg"
 image_caption: >
   This lady is not for TURN AND FACE THE CHANGE. Sorry, I’ve just got that David Bowe song in my head
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AR3310"
 author_name: "Aemun Reza"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Dark ambient, glitch, dub and techno
 date: "2012-10-18 21:30:55 +0100"
+# Attributes from Felix Online V1
 id: "2710"
 old_path: /music/2710/movements-in-the-deep-of-night
 aliases:
  - /music/2710/movements-in-the-deep-of-night
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

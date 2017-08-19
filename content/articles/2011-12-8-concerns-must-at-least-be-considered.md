@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We cannot dismiss the claims of academics, but equally we must be cautious
 date: "2011-12-08 21:33:51 +0000"
+# Attributes from Felix Online V1
 id: "1941"
 old_path: /comment/1941/concerns-must-at-least-be-considered
 aliases:
  - /comment/1941/concerns-must-at-least-be-considered
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

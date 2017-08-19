@@ -4,15 +4,20 @@ title: >
 subtitle: >
   One French student says the divisions to blame are ingrained
 date: "2015-11-19 22:36:52 +0000"
+# Attributes from Felix Online V1
 id: "5744"
 old_path: /comment/5744/france-must-change
 aliases:
  - /comment/5744/france-must-change
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511192235-ygr12-tb.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

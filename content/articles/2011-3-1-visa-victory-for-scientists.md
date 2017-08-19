@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Government alters visa restrictions to favour researchers
 date: "2011-03-01 20:32:36 +0000"
+# Attributes from Felix Online V1
 id: "954"
 old_path: /news/954/visa-victory-for-scientists
 aliases:
  - /news/954/visa-victory-for-scientists
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012028-ks607-imrankha.jpg"
 image_caption: >
   Imran Khan, Director of CaSE
@@ -22,6 +27,7 @@ image_attribution: "CaSE"
 image_attribution_link: "http://sciencecampaign.org.uk/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

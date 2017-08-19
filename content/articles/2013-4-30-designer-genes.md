@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le isn't talking about Versace...
 date: "2013-04-30 14:39:35 +0100"
+# Attributes from Felix Online V1
 id: "3505"
 old_path: /arts/3505/designer-genes
 aliases:
  - /arts/3505/designer-genes
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305031512-tna08-1.png"
 image_caption: >
   Rotifer Farm by Raphael Kim
@@ -22,6 +27,7 @@ image_attribution: "Raphael Kim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

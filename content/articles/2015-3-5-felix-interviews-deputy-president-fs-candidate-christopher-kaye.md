@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:39:46 +0000"
+# Attributes from Felix Online V1
 id: "5345"
 old_path: /comment/5345/felix-interviews-deputy-president-fs-candidate-christopher-kaye
 aliases:
  - /comment/5345/felix-interviews-deputy-president-fs-candidate-christopher-kaye
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503052139-snb11-ck1510-5641.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

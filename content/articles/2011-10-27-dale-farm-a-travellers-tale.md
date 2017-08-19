@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
+# Attributes from Felix Online V1
 id: "1623"
 old_path: /comment/1623/dale-farm-a-travellers-tale
 aliases:
  - /comment/1623/dale-farm-a-travellers-tale
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110280043-sjw209-dale-farm-pic.jpg"
 image_caption: >
   Is nobody going to comment on the great tiling of the street?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

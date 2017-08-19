@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A true testament to the very un-Hollywood idea that money cannot buy horror
 date: "2010-12-09 19:29:23 +0000"
+# Attributes from Felix Online V1
 id: "506"
 old_path: /film/506/an-engaging-and-emotional-thriller
 aliases:
  - /film/506/an-engaging-and-emotional-thriller
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012091926-ma1307-Gasmask.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

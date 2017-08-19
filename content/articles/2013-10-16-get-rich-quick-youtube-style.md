@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All of you spend a significant amount of your life on youtube, be it watching handy tutorial videos, lets-plays, music videos and/or videos of cute-ass kittens (the last being the most time intensive).
 date: "2013-10-16 13:56:28 +0100"
+# Attributes from Felix Online V1
 id: "3878"
 old_path: /tech/3878/get-rich-quick-youtube-style
 aliases:
  - /tech/3878/get-rich-quick-youtube-style
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310161456-me1711-tech_ymoney.gif"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

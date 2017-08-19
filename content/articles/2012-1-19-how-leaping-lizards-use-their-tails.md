@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Research from the 60s vindicated by new developments
 date: "2012-01-19 20:05:35 +0000"
+# Attributes from Felix Online V1
 id: "2005"
 old_path: /science/2005/how-leaping-lizards-use-their-tails
 aliases:
  - /science/2005/how-leaping-lizards-use-their-tails
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

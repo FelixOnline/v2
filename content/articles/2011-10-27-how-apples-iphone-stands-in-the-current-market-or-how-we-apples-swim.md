@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the war between developers and consumers continues, Apple continues to dominate the applications market
 date: "2011-10-27 22:19:42 +0100"
+# Attributes from Felix Online V1
 id: "1615"
 old_path: /biz/1615/how-apples-iphone-stands-in-the-current-market-or-how-we-apples-swim
 aliases:
  - /biz/1615/how-apples-iphone-stands-in-the-current-market-or-how-we-apples-swim
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110272309-felix-4935940784_52aac8bd66_b.jpg"
 image_caption: >
   Sized apples move through an apple packing plant at one of the California Apple Commision’s factorie
@@ -22,6 +27,7 @@ image_attribution: "flickr/Anthony Dunn Photography"
 image_attribution_link: "http://www.flickr.com/photos/adunnphoto/4935940784/"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

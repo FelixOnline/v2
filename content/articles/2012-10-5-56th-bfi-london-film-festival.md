@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park takes us through the London festival
 date: "2012-10-05 12:18:24 +0100"
+# Attributes from Felix Online V1
 id: "2613"
 old_path: /film/2613/56th-bfi-london-film-festival
 aliases:
  - /film/2613/56th-bfi-london-film-festival
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210051318-felix-thumbnail.php.jpeg"
 image_caption: >
   Look where his hand is... what is he wanting you to feel? Pervert
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

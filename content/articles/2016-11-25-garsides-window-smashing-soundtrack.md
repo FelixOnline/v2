@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Punk music, and its offshoots, has always retained a continuing theme of protest against society’s wrongs. Here are some of my favourites.
 date: "2016-11-25 14:06:46 +0000"
+# Attributes from Felix Online V1
 id: "6507"
 old_path: /music/6507/garsides-window-smashing-soundtrack-
 aliases:
  - /music/6507/garsides-window-smashing-soundtrack-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251402-felix-GLOSS.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sabotage Records"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

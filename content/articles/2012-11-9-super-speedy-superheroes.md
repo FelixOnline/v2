@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Everyone accidentally dresses up as The Flash. Not flash in the good way though...
 date: "2012-11-09 14:27:37 +0000"
+# Attributes from Felix Online V1
 id: "2873"
 old_path: /sport/2873/super-speedy-superheroes
 aliases:
  - /sport/2873/super-speedy-superheroes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091427-tna08-superheroes.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

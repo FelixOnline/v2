@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
+# Attributes from Felix Online V1
 id: "5016"
 old_path: /news/5016/postgraduate-loan-system-announced
 aliases:
  - /news/5016/postgraduate-loan-system-announced
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

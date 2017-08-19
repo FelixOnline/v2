@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This world is a Machine. A Machine for Pigs. Fit only for the slaughtering of Pigs.
 date: "2013-10-12 23:46:03 +0100"
+# Attributes from Felix Online V1
 id: "3870"
 old_path: /games/3870/ive-forgotten-why-i-like-amensia-
 aliases:
  - /games/3870/ive-forgotten-why-i-like-amensia-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310130045-jal08-games_logo.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

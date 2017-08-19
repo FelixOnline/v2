@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Marsh is acclaimed as one of the best documentarians working today. Ben Collier takes a look at two of his most famous works, Man on Wire and Project Nim, to latest if the man can live up to all that hype (spoiler: not really...)
 date: "2016-12-02 14:47:09 +0000"
+# Attributes from Felix Online V1
 id: "6532"
 old_path: /film/6532/documentary-corner--james-marsh-special
 aliases:
  - /film/6532/documentary-corner--james-marsh-special
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612021446-felix-philippe-petit-man-on-wire.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jean-Louis Blondeau \ Polaris Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

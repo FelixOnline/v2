@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Machete in hand, Andrew Purcell sets off to explore our urban jungle...
 date: "2011-03-18 06:56:19 +0000"
+# Attributes from Felix Online V1
 id: "1111"
 old_path: /science/1111/urban-ecology
 aliases:
  - /science/1111/urban-ecology
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103180652-ks607-urbaneco.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Andrew Purcell"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

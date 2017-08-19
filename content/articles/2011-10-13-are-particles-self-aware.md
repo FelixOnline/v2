@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pavitar Devgon discusses Brownian motion
 date: "2011-10-13 21:56:31 +0100"
+# Attributes from Felix Online V1
 id: "1511"
 old_path: /science/1511/are-particles-self-aware
 aliases:
  - /science/1511/are-particles-self-aware
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132256-felix-white-noise.png"
 image_caption: >
   The white noise spectrum, random peaks over all frequencies without clear correlation... trippy, yo
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

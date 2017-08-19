@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College London has received a £40 million donation to build a state of the art biomedical engineering centre from a former student, Michael Uren and his Foundation.
 date: "2014-06-02 12:38:30 +0100"
+# Attributes from Felix Online V1
 id: "4635"
 old_path: /news/4635/alumnus-michael-uren-donates-40-mill-for-biomedical-engineering-hub
 aliases:
  - /news/4635/alumnus-michael-uren-donates-40-mill-for-biomedical-engineering-hub
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406021339-felix-michaeluren.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

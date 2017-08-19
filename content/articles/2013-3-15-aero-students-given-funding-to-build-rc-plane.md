@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Edward Kardouss leads the 35 strong team in their aim to build an RC plane. Gheez, and I thought freshers just cared about booze and sex.
 date: "2013-03-15 00:06:18 +0000"
+# Attributes from Felix Online V1
 id: "3457"
 old_path: /news/3457/aero-students-given-funding-to-build-rc-plane
 aliases:
  - /news/3457/aero-students-given-funding-to-build-rc-plane
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150006-tna08-year-1-aero.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

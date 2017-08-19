@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A look at the information our browsing gives away and how we're not as anonymous as you might think
 date: "2010-03-04 12:33:34 +0000"
+# Attributes from Felix Online V1
 id: "117"
 old_path: /tech/117/your-digital-footprint
 aliases:
  - /tech/117/your-digital-footprint
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201003041217-srg03-Hacker.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

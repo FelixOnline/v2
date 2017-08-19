@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maximilian Eggl dissects the taste of the future for the fruity company
 date: "2013-02-01 01:13:21 +0000"
+# Attributes from Felix Online V1
 id: "3241"
 old_path: /tech/3241/apple-sweet-or-sour-outlook-
 aliases:
  - /tech/3241/apple-sweet-or-sour-outlook-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302010109-tna08-apple-stocks.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

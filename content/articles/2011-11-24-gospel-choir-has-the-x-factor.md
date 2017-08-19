@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial and King's College singers take the stage
 date: "2011-11-24 22:26:39 +0000"
+# Attributes from Felix Online V1
 id: "1834"
 old_path: /news/1834/gospel-choir-has-the-x-factor
 aliases:
  - /news/1834/gospel-choir-has-the-x-factor
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111242226-pk1811-390369_10150407884083984_503413983_8343546_1103376120_n.jpg"
 image_caption: >
   The Gospel Choirs performing alongside contestant Marcus Collins
@@ -22,6 +27,7 @@ image_attribution: "ITV"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah lists some reasons why spending your holiday in London is awesome
 date: "2015-06-09 15:52:43 +0100"
+# Attributes from Felix Online V1
 id: "5608"
 old_path: /travel/5608/london-calling---summer-in-the-captial
 aliases:
  - /travel/5608/london-calling---summer-in-the-captial
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506091649-ync111-p1100238.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

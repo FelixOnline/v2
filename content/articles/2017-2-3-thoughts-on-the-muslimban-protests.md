@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial students share their thoughts and concerns on Trumps's Muslim Ban
 date: "2017-02-03 15:54:10 +0000"
+# Attributes from Felix Online V1
 id: "6712"
 old_path: /comment/6712/thoughts-on-the-muslimban-protests
 aliases:
  - /comment/6712/thoughts-on-the-muslimban-protests
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031607-felix-Screen Shot 2017-02-03 at 16.04.35.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

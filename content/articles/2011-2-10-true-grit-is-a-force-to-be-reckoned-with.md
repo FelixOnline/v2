@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The Coen brothers’ gun standoffs are superb and stylish.
 date: "2011-02-10 20:40:55 +0000"
+# Attributes from Felix Online V1
 id: "780"
 old_path: /film/780/true-grit-is-a-force-to-be-reckoned-with
 aliases:
  - /film/780/true-grit-is-a-force-to-be-reckoned-with
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102102037-dr910-truegrit.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ghc07"
 author_name: "Guo Heng Chin"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

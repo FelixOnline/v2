@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the House of Lords blocks electoral reform recovers from the expenses scandal, is it time to look again at an elected upper house?
 date: "2011-02-28 20:40:33 +0000"
+# Attributes from Felix Online V1
 id: "932"
 old_path: /politics/932/is-it-time-we-elected-the-house-of-lords
 aliases:
  - /politics/932/is-it-time-we-elected-the-house-of-lords
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102282032-dr710-houseofl.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Sarah Jeyaprakash "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

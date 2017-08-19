@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simone Buitendijk calls first ‘Town Hall’ meeting
 date: "2016-11-25 13:17:49 +0000"
+# Attributes from Felix Online V1
 id: "6491"
 old_path: /news/6491/vp-education-kicks-off-teaching-consultations
 aliases:
  - /news/6491/vp-education-kicks-off-teaching-consultations
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251317-felix-IMG_6251.JPG"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

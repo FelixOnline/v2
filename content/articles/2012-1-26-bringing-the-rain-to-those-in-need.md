@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Raincatcher Imperial on the vast importance of water provision
 date: "2012-01-26 22:30:24 +0000"
+# Attributes from Felix Online V1
 id: "2065"
 old_path: /news/2065/bringing-the-rain-to-those-in-need
 aliases:
  - /news/2065/bringing-the-rain-to-those-in-need
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262227-pk1811-p1050282.png"
 image_caption: >
   Easy access to water is of huge benefit to developing countries
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

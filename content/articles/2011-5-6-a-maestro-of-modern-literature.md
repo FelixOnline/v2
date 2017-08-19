@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Two-time Booker finalist David Mitchell talks about his latest book, The Thousand Autumns of Jacob de Zoet
 date: "2011-05-06 13:10:13 +0100"
+# Attributes from Felix Online V1
 id: "1170"
 old_path: /arts/1170/a-maestro-of-modern-literature-
 aliases:
  - /arts/1170/a-maestro-of-modern-literature-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

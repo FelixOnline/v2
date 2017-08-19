@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emilie Beauchamp gives the account of the latest goings on in the US Presidential Election
 date: "2012-10-26 02:17:18 +0100"
+# Attributes from Felix Online V1
 id: "2738"
 old_path: /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
 aliases:
  - /politics/2738/obama-vs-romney-the-presidential-debates-blow-by-blow-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201210260317-tna08-romney-obama-debate-main.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mike Mills’ love letter to the women that raised him has its flaws, but its uncanny evocation of shared nostalgia, and exceptional acting talent, make it a heartfelt piece of emotional cinematic drama
 date: "2017-02-17 15:11:18 +0000"
+# Attributes from Felix Online V1
 id: "6790"
 old_path: /film/6790/20-th-century-women--all-hail-annette-bening
 aliases:
  - /film/6790/20-th-century-women--all-hail-annette-bening
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171511-felix-20th_century_women_still.jpg"
 image_caption: >
   Annette Bening is outstanding as Dorothea in Mike Mills’ exploration of motherhood
@@ -22,6 +27,7 @@ image_attribution: "Alamy"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

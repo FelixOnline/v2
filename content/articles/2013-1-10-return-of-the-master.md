@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Shiladitya Ghosh talks about Clive Cussler’s fantastic new novel
 date: "2013-01-10 22:40:51 +0000"
+# Attributes from Felix Online V1
 id: "3092"
 old_path: /books/3092/return-of-the-master
 aliases:
  - /books/3092/return-of-the-master
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102240-csw09-cussler2cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

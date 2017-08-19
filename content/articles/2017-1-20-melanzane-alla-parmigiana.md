@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A classic Italian dish, our esteemed chef presents her simple, student friendly version. Cook it for that hot vegetarian girl on your corridor – who knows, she might come back for seconds?
 date: "2017-01-20 15:46:10 +0000"
+# Attributes from Felix Online V1
 id: "6676"
 old_path: /food/6676/melanzane-alla-parmigiana
 aliases:
  - /food/6676/melanzane-alla-parmigiana
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701201545-felix-14020685350_46aa22061b_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Diego"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

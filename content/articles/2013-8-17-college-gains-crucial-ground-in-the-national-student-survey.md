@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten reflects on student satisfaction at Imperial following the release of the National Student Survey results last week.
 date: "2013-08-17 18:33:35 +0100"
+# Attributes from Felix Online V1
 id: "3751"
 old_path: /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
 aliases:
  - /comment/3751/college-gains-crucial-ground-in-the-national-student-survey
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201308190610-jal08-66355719.png"
 image_caption: >
   Are our students really more satisfied?
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/media/photogallery"
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
    The policy headlines
 date: "2017-06-02 13:59:21 +0100"
+# Attributes from Felix Online V1
 id: "7001"
 old_path: /features/7001/manifesto-breakdowns
 aliases:
  - /features/7001/manifesto-breakdowns
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021646-felix-5139407571_176d0729e6_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "justgrimes"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

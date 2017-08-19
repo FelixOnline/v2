@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Examining the recommendations of the Brown Report...
 date: "2014-01-17 03:17:14 +0000"
+# Attributes from Felix Online V1
 id: "4229"
 old_path: /news/4229/brown-report-published
 aliases:
  - /news/4229/brown-report-published
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201401170317-jal08-news_lab_mouse_mg_3263.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

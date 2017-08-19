@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It’s the standard’s standard, a pennant for progress. And it certainly doesn’t use tables for layout
 date: "2011-01-27 19:17:14 +0000"
+# Attributes from Felix Online V1
 id: "665"
 old_path: /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
 aliases:
  - /tech/665/is-it-a-bird-is-it-a-plane-no-its-super-html5-
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

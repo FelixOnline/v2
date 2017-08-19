@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le reviews the Designs of the Year
 date: "2013-05-08 13:46:29 +0100"
+# Attributes from Felix Online V1
 id: "3547"
 old_path: /arts/3547/form-before-fx
 aliases:
  - /arts/3547/form-before-fx
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305081445-tna08-look-44.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

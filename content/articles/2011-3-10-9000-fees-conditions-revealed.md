@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Universities asked to invest up to 30% of fees over £6,000 into fair access schemes
 date: "2011-03-10 19:40:20 +0000"
+# Attributes from Felix Online V1
 id: "1055"
 old_path: /news/1055/9000-fees-conditions-revealed
 aliases:
  - /news/1055/9000-fees-conditions-revealed
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

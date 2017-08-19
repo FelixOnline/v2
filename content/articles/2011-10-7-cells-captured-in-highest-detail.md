@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial and Oxford team up to tackle white blood cells
 date: "2011-10-07 09:39:41 +0100"
+# Attributes from Felix Online V1
 id: "1479"
 old_path: /science/1479/cells-captured-in-highest-detail
 aliases:
  - /science/1479/cells-captured-in-highest-detail
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110071455-felix-cells.jpg"
 image_caption: >
   Wanted for murder – have you seen this NK cell?
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

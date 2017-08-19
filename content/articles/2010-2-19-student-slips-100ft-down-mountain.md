@@ -4,15 +4,20 @@ title: >
 subtitle: >
    Joanna Cai looks into the Mountaineering Club's disastrous climbing adventure in Snowdonia this week
 date: "2010-02-19 10:44:15 +0000"
+# Attributes from Felix Online V1
 id: "95"
 old_path: /news/95/student-slips-100ft-down-mountain
 aliases:
  - /news/95/student-slips-100ft-down-mountain
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002191040-felix-snowdon.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

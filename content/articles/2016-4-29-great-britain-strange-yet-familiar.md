@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Martin Parr brings together pictures of Britain as seen through outsiders’ lenses
 date: "2016-04-29 10:50:19 +0100"
+# Attributes from Felix Online V1
 id: "6104"
 old_path: /arts/6104/great-britain-strange-yet-familiar
 aliases:
  - /arts/6104/great-britain-strange-yet-familiar
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201604291149-felix-16. Strange and Familiar, Curated by Martin Parr, Barbican. Photo Tristan Fewings_Getty Images.JPG"
 image_caption: >
   Strange and Familiar is a unique take on the British way of life.
@@ -22,6 +27,7 @@ image_attribution: "The Barbican Art Gallery"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

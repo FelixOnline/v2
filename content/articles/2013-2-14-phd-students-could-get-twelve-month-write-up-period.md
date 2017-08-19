@@ -4,15 +4,20 @@ title: >
 subtitle: >
   College already on board
 date: "2013-02-14 13:13:21 +0000"
+# Attributes from Felix Online V1
 id: "3320"
 old_path: /news/3320/phd-students-could-get-twelve-month-write-up-period
 aliases:
  - /news/3320/phd-students-could-get-twelve-month-write-up-period
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

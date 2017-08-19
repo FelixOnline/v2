@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The sabbs are a financial drain on college and an emotional drain on everyone around them
 date: "2016-06-17 08:56:34 +0100"
+# Attributes from Felix Online V1
 id: "6274"
 old_path: /comment/6274/does-anyone-benefit-from-sabblife
 aliases:
  - /comment/6274/does-anyone-benefit-from-sabblife
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

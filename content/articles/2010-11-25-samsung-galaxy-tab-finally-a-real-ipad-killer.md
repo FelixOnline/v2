@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
+# Attributes from Felix Online V1
 id: "427"
 old_path: /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
 aliases:
  - /tech/427/samsung-galaxy-tab-finally-a-real-ipad-killer
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kl208"
 author_name: "Kin-hing Lo"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

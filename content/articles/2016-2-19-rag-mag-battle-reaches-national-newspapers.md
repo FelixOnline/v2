@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Daily Mail and Evening Standard both publish news stories on the banned magazine's 'sexism'
 date: "2016-02-19 11:07:00 +0000"
+# Attributes from Felix Online V1
 id: "5923"
 old_path: /news/5923/rag-mag-battle-reaches-national-newspapers
 aliases:
  - /news/5923/rag-mag-battle-reaches-national-newspapers
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "MailOnline"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

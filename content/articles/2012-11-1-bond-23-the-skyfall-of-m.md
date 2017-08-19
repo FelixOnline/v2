@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bond is most definitely back
 date: "2012-11-01 23:00:33 +0000"
+# Attributes from Felix Online V1
 id: "2804"
 old_path: /film/2804/bond-23-the-skyfall-of-m
 aliases:
  - /film/2804/bond-23-the-skyfall-of-m
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211012259-tna08-skyfall-still06.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

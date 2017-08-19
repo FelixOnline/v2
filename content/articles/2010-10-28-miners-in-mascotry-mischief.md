@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RSM throw a spanner in the works
 date: "2010-10-28 19:57:44 +0100"
+# Attributes from Felix Online V1
 id: "284"
 old_path: /news/284/miners-in-mascotry-mischief
 aliases:
  - /news/284/miners-in-mascotry-mischief
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010282052-ks607-Spannerm.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jk708"
 author_name: "Jonathan Kim"
 author_image_path: "img/upload/201302251956-tna08-scary-clown-043.jpg"

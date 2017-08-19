@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Post-match pizza isn’t only reserved for Leicester City Football Club
 date: "2016-11-07 13:18:57 +0000"
+# Attributes from Felix Online V1
 id: "6407"
 old_path: /sport/6407/netball-1s-secure-first-victories-of-the-season-
 aliases:
  - /sport/6407/netball-1s-secure-first-victories-of-the-season-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611071318-felix-14923006_10211006796265781_974381067_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

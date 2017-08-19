@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The social events provided by the amenities fund is the best part of hall life. Why take it out of students’ hands?
 date: "2011-02-24 20:21:55 +0000"
+# Attributes from Felix Online V1
 id: "888"
 old_path: /comment/888/playtime-is-over
 aliases:
  - /comment/888/playtime-is-over
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242020-nm1010-claypond.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "David Robertson"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

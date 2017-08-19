@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Third consecutive gold for Imperial College Snooker
 date: "2012-05-18 16:43:04 +0100"
+# Attributes from Felix Online V1
 id: "2477"
 old_path: /sport/2477/hat-trick-heroes
 aliases:
  - /sport/2477/hat-trick-heroes
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

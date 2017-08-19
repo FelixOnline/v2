@@ -4,15 +4,20 @@ title: >
 subtitle: >
   To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets.
 date: "2014-06-06 02:40:46 +0100"
+# Attributes from Felix Online V1
 id: "4658"
 old_path: /comment/4658/racism-in-northern-ireland
 aliases:
  - /comment/4658/racism-in-northern-ireland
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406060341-jal08-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Porter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

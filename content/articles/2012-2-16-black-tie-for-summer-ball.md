@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
+# Attributes from Felix Online V1
 id: "2209"
 old_path: /news/2209/black-tie-for-summer-ball
 aliases:
  - /news/2209/black-tie-for-summer-ball
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162206-sjw209-img_0770-1.jpg"
 image_caption: >
   Acts will perform on the Queen's Lawn and in the Great Hall
@@ -22,6 +27,7 @@ image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

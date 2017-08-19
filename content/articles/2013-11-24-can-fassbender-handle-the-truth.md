@@ -4,15 +4,20 @@ title: >
 subtitle: >
   On paper, The Counsellor should be perfect. Cormac McCarthy’s first original screenplay (a few of his other books have been adapted into screenplays – notably No Country for Old Men and The Road), directed by Ridley Scott, the genius behind Alien and the man with such a passion for McCarthy’s...
 date: "2013-11-24 16:27:35 +0000"
+# Attributes from Felix Online V1
 id: "4121"
 old_path: /film/4121/can-fassbender-handle-the-truth
 aliases:
  - /film/4121/can-fassbender-handle-the-truth
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Magicians, assemble!
 date: "2015-11-13 14:53:05 +0000"
+# Attributes from Felix Online V1
 id: "5735"
 old_path: /cands/5735/do-you-want-to-see-a-magic-trick
 aliases:
  - /cands/5735/do-you-want-to-see-a-magic-trick
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131452-ygr12-derren-brown-011.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

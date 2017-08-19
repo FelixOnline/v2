@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nicolas Cage gets mad in Drive Angry 3D, what else did you expect from him?
 date: "2011-03-01 21:03:08 +0000"
+# Attributes from Felix Online V1
 id: "963"
 old_path: /film/963/cage-loses-his-shit-in-3d
 aliases:
  - /film/963/cage-loses-his-shit-in-3d
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012101-ks607-driveang.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

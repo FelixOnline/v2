@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simran Kukran tells us why Shappi Khorsandi's newest show is one to look out for...
 date: "2017-01-25 22:54:21 +0000"
+# Attributes from Felix Online V1
 id: "6680"
 old_path: /arts/6680/shappi-khorsandi--oh-my-country
 aliases:
  - /arts/6680/shappi-khorsandi--oh-my-country
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201701252252-ff712-Shappi-Khorsandi-HI-RES-2016.jpg"
 image_caption: >
   Shappi Khorsdani, whose new show Oh My Country! is on at the Soho Theatre
@@ -22,6 +27,7 @@ image_attribution: "Shappi Khorsandi PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

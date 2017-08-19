@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto walks you through the influences of the weirdest band ever
 date: "2011-06-28 11:29:13 +0100"
+# Attributes from Felix Online V1
 id: "1442"
 old_path: /music/1442/the-nurse-with-wound-list
 aliases:
  - /music/1442/the-nurse-with-wound-list
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106281225-felix-chance-meeting-front.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "im808"
 author_name: "Inigo Martinez de Rituerto"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

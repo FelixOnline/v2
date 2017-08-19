@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Worthington reviews new puzzle game ilomilo, on Xbox Live Arcade or Windows Phone
 date: "2011-01-13 19:54:40 +0000"
+# Attributes from Felix Online V1
 id: "571"
 old_path: /games/571/ilomilo-cute-but-still-smart-
 aliases:
  - /games/571/ilomilo-cute-but-still-smart-
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Could low self-esteem be hindering female sexual enjoyment?
 date: "2011-06-09 21:39:40 +0100"
+# Attributes from Felix Online V1
 id: "1353"
 old_path: /science/1353/male-poor-performance-or-female-low-self-confidence
 aliases:
  - /science/1353/male-poor-performance-or-female-low-self-confidence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106092240-felix-euzix_couple5.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

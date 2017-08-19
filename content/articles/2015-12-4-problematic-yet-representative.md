@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Anywhere else, there would be wild uproar, but Imperial has a different demographic
 date: "2015-12-04 15:15:08 +0000"
+# Attributes from Felix Online V1
 id: "5794"
 old_path: /comment/5794/problematic-yet-representative
 aliases:
  - /comment/5794/problematic-yet-representative
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

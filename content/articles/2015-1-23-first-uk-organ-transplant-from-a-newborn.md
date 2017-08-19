@@ -4,15 +4,20 @@ title: >
 subtitle: >
   James Bezer on the new procedure performed at Imperial
 date: "2015-01-23 17:46:30 +0000"
+# Attributes from Felix Online V1
 id: "5135"
 old_path: /science/5135/first-uk-organ-transplant-from-a-newborn
 aliases:
  - /science/5135/first-uk-organ-transplant-from-a-newborn
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501231746-jyg11-screen-shot-2015-01-23-at-17.46.00.png"
 image_caption: >
   Hammersmith hospital: Two patients received tissues from the donor, a baby girl who died six days after birth
@@ -22,6 +27,7 @@ image_attribution: "Imperial"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

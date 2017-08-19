@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Harry Brainch, ICE - The way forward?
 date: "2010-01-22 14:16:59 +0000"
+# Attributes from Felix Online V1
 id: "53"
 old_path: /science/53/ice---the-way-forward
 aliases:
  - /science/53/ice---the-way-forward
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201001221409-rsp07-science.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

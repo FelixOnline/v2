@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Head over to the Sherfield building for a fantastic exhibition
 date: "2012-02-23 19:50:32 +0000"
+# Attributes from Felix Online V1
 id: "2226"
 old_path: /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
 aliases:
  - /arts/2226/twisted-exhibiton-gets-us-all-strung-up-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202231948-pk1811-394024_3407060380286_1383233672_3448256_2141413109_n.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photos by Yilei Wu"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Our hero is so strong that all his battles end with one punch
 date: "2016-02-12 11:57:00 +0000"
+# Attributes from Felix Online V1
 id: "5915"
 old_path: /tv/5915/cartoon-corner-one-punch-man
 aliases:
  - /tv/5915/cartoon-corner-one-punch-man
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121156-felix-onepunchman.jpg"
 image_caption: >
   Gearing up for the ultimate KO punch.
@@ -22,6 +27,7 @@ image_attribution: "Daisuki"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

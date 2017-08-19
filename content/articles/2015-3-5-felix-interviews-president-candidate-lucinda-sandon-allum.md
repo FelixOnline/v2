@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:27:41 +0000"
+# Attributes from Felix Online V1
 id: "5339"
 old_path: /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
 aliases:
  - /comment/5339/felix-interviews-president-candidate-lucinda-sandon-allum
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503052127-snb11-ljs112-5171.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

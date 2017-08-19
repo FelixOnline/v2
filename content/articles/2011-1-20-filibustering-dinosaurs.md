@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Referendum on the alternative vote system held up in the Lords
 date: "2011-01-20 19:53:17 +0000"
+# Attributes from Felix Online V1
 id: "619"
 old_path: /politics/619/filibustering-dinosaurs
 aliases:
  - /politics/619/filibustering-dinosaurs
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101201943-dr910-jameslee.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jl807"
 author_name: "James Lees"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

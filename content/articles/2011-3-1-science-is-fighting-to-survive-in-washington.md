@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nils Hanwahr examines Obama’s plan for the future of science in the United States
 date: "2011-03-01 21:40:28 +0000"
+# Attributes from Felix Online V1
 id: "975"
 old_path: /science/975/science-is-fighting-to-survive-in-washington
 aliases:
  - /science/975/science-is-fighting-to-survive-in-washington
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201103012139-ks607-stateoft.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

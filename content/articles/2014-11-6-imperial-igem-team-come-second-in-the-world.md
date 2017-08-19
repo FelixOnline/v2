@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett talks to the team on their synthetic biology triumph
 date: "2014-11-06 19:18:23 +0000"
+# Attributes from Felix Online V1
 id: "4776"
 old_path: /news/4776/imperial-igem-team-come-second-in-the-world
 aliases:
  - /news/4776/imperial-igem-team-come-second-in-the-world
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411061918-cj914-5792312_orig.png"
 image_caption: >
   The contestants at the Jamboree in Boston, USA. Imperial won a number of awards at the event.
@@ -22,6 +27,7 @@ image_attribution: "iGEM"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

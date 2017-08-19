@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rowers take on Nottingham
 date: "2012-05-18 16:46:48 +0100"
+# Attributes from Felix Online V1
 id: "2478"
 old_path: /sport/2478/bank-holiday-boat-bucs-
 aliases:
  - /sport/2478/bank-holiday-boat-bucs-
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181750-felix-tim-richards-and-wilf-kimberley.jpg"
 image_caption: >
   Tim Richards and Wilf Kimberley bask in the glory of BUCS
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Avengers: Age of Ultron is a worldwide hit, but in China the subtitles are causing issues
 date: "2015-05-14 21:47:27 +0100"
+# Attributes from Felix Online V1
 id: "5517"
 old_path: /film/5517/avengers-age-of-ultron-subtitles-too-literal
 aliases:
  - /film/5517/avengers-age-of-ultron-subtitles-too-literal
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505142246-js5913-age-of-ultron-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "js5913"
 author_name: "Jack Steadman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

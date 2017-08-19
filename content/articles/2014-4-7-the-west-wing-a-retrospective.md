@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emily Fulham takes a nostalgic look back at the Bartlet administration
 date: "2014-04-07 12:39:33 +0100"
+# Attributes from Felix Online V1
 id: "4519"
 old_path: /tv/4519/the-west-wing-a-retrospective
 aliases:
  - /tv/4519/the-west-wing-a-retrospective
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201404071340-jal08-the-west-wing.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

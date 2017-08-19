@@ -4,15 +4,20 @@ title: >
 subtitle: >
   George Barnett turns his pen to a less provocative subject
 date: "2011-10-21 10:42:26 +0100"
+# Attributes from Felix Online V1
 id: "1593"
 old_path: /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
 aliases:
  - /tv/1593/dexter-is-my-favourite-psychotic-serial-killer
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110211142-ak6309-attachment.ashx.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ak6309"
 author_name: "Alexander Karapetian"
 author_image_path: "img/upload/201111032143-sjw209-alex-karapetian.jpg"

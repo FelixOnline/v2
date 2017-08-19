@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
+# Attributes from Felix Online V1
 id: "5377"
 old_path: /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
 aliases:
  - /comment/5377/this-purist-likes-their-tea-and-biscuits-kept-separate
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503091908-ps3110-tea.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

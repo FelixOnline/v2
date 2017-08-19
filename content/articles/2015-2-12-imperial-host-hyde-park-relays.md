@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial College Cross Country places 3rd in the women's race and 4th in men's.
 date: "2015-02-12 22:34:17 +0000"
+# Attributes from Felix Online V1
 id: "5241"
 old_path: /sport/5241/imperial-host-hyde-park-relays
 aliases:
  - /sport/5241/imperial-host-hyde-park-relays
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502122227-jyg11-startline.jpg"
 image_caption: >
   The start line of the men's race
@@ -22,6 +27,7 @@ image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jyg11"
 author_name: "June Yin Y Gan"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

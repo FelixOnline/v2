@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Vivien Wong and George McIntyre put their curry taste buds through a spin on opposite sides of London
 date: "2010-11-18 21:05:21 +0000"
+# Attributes from Felix Online V1
 id: "400"
 old_path: /food/400/are-you-coming-out-for-a-ruby-murray-tonight
 aliases:
  - /food/400/are-you-coming-out-for-a-ruby-murray-tonight
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182100-nm1010-shebashe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gm1509"
 author_name: "George McIntyre"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

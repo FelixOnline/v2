@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It may smell great, but did you know it’s actually a plant’s distress call? You’re chopping it to smithereens, what did you expect it to do?
 date: "2013-05-29 17:30:17 +0100"
+# Attributes from Felix Online V1
 id: "3638"
 old_path: /science/3638/science-bites-why-does-cut-grass-smell
 aliases:
  - /science/3638/science-bites-why-does-cut-grass-smell
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

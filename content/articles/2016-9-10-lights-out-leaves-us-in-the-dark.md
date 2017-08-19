@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Sandberg's debut feature relies too much on jump scares, but attempts to tackle heavy topics
 date: "2016-09-10 16:58:38 +0100"
+# Attributes from Felix Online V1
 id: "6297"
 old_path: /film/6297/lights-out-leaves-us-in-the-dark
 aliases:
  - /film/6297/lights-out-leaves-us-in-the-dark
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201609101851-ff712-lightsout_sc01.png"
 image_caption: >
   Martin, Sophie's son, is one of the casualties pushed away by her sinister companion 'Diana'.
@@ -22,6 +27,7 @@ image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

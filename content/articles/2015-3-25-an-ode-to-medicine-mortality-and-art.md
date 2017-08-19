@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
+# Attributes from Felix Online V1
 id: "5434"
 old_path: /arts/5434/an-ode-to-medicine-mortality-and-art
 aliases:
  - /arts/5434/an-ode-to-medicine-mortality-and-art
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251239-ff712-t07009_10.jpg"
 image_caption: >
   The Scalpel 2, Barbara Hepworth, 1949
@@ -22,6 +27,7 @@ image_attribution: "Tate"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

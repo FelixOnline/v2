@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park reviews 12 Years a Slave
 date: "2013-10-25 00:46:06 +0100"
+# Attributes from Felix Online V1
 id: "3937"
 old_path: /film/3937/i-dont-want-to-survive-i-want-to-live
 aliases:
  - /film/3937/i-dont-want-to-survive-i-want-to-live
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310250146-felix-12_years_a_slave_fassbender_ejiofor.jpg.crop.article568-large.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "12 Years a Slave"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

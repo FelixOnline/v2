@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Lynch’s Blue Velvet, being reissued for the 30th anniversary this month, introduced the world to the themes that would run through the director’s work for the next three decades. A stunning world of glamour and grime, Blue Velvet is a masterpiece.
 date: "2016-12-09 15:51:10 +0000"
+# Attributes from Felix Online V1
 id: "6584"
 old_path: /film/6584/the-disquieting-strangeness-of-blue-velvet
 aliases:
  - /film/6584/the-disquieting-strangeness-of-blue-velvet
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091550-felix-6bfb4bda9934d113f85f5ddd17a4491c.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Warner Bros"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

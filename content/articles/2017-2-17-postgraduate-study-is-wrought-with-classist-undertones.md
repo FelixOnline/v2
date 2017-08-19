@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tessa Davey explains why PhDs are near-impossible to finance without family help
 date: "2017-02-17 14:37:42 +0000"
+# Attributes from Felix Online V1
 id: "6783"
 old_path: /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
 aliases:
  - /comment/6783/postgraduate-study-is-wrought-with-classist-undertones
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702171437-felix-Screen Shot 2017-02-17 at 14.37.24.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

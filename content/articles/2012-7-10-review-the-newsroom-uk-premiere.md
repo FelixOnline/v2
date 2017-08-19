@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
+# Attributes from Felix Online V1
 id: "2584"
 old_path: /tv/2584/review-the-newsroom-uk-premiere
 aliases:
  - /tv/2584/review-the-newsroom-uk-premiere
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201207101243-mc4509-the-newsroom.jpg"
 image_caption: >
   Practically the Felix Office
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

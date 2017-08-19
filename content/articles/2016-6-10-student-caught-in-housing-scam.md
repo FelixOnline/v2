@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An Imperial student paid a deposit on house he hadn't seen, before discovering the 'landlord' didn't exist
 date: "2016-06-10 08:16:00 +0100"
+# Attributes from Felix Online V1
 id: "6248"
 old_path: /news/6248/student-caught-in-housing-scam
 aliases:
  - /news/6248/student-caught-in-housing-scam
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201606101015-felix-mappi.jpg"
 image_caption: >
   The street where the flat supposedly was.
@@ -22,6 +27,7 @@ image_attribution: "mappio.net"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

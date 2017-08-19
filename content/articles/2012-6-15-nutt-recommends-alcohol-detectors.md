@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Professor aims to curb drink driving with new suggestion
 date: "2012-06-15 07:41:12 +0100"
+# Attributes from Felix Online V1
 id: "2577"
 old_path: /news/2577/nutt-recommends-alcohol-detectors
 aliases:
  - /news/2577/nutt-recommends-alcohol-detectors
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206150841-mc4509-booze.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

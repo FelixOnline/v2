@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Unknown Mortal Orchestra: II
 date: "2013-02-07 22:52:16 +0000"
+# Attributes from Felix Online V1
 id: "3247"
 old_path: /music/3247/ams-album-of-the-week-11
 aliases:
  - /music/3247/ams-album-of-the-week-11
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

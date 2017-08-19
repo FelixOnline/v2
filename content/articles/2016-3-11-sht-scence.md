@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Scientists conclude Quebeckers are pervs
 date: "2016-03-11 11:41:37 +0000"
+# Attributes from Felix Online V1
 id: "6028"
 old_path: /science/6028/sht-scence
 aliases:
  - /science/6028/sht-scence
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111141-felix-10031394203_74bfbeb927_o.jpg"
 image_caption: >
   Just a typical day out in Quebec apparently.
@@ -22,6 +27,7 @@ image_attribution: "Ed Bierman"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

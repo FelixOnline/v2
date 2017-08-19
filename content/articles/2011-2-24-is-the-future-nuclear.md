@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three of the UK’s leading experts on nuclear power debate the future of nuclear power
 date: "2011-02-24 20:00:29 +0000"
+# Attributes from Felix Online V1
 id: "875"
 old_path: /news/875/is-the-future-nuclear
 aliases:
  - /news/875/is-the-future-nuclear
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102241956-ks607-nucleard.jpg"
 image_caption: >
   Professor Gordon MacKerron, Neil Hirst, and Professor Jim Skea OBE
@@ -22,6 +27,7 @@ image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

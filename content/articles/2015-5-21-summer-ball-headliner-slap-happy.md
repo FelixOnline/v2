@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An anonymous student asks why the Union hired an unapologetic thug
 date: "2015-05-21 23:03:46 +0100"
+# Attributes from Felix Online V1
 id: "5555"
 old_path: /comment/5555/summer-ball-headliner-slap-happy
 aliases:
  - /comment/5555/summer-ball-headliner-slap-happy
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505220003-cj914-prof-green.jpg"
 image_caption: >
   Stare into the eyes of a slapper.
@@ -22,6 +27,7 @@ image_attribution: "allmusic.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

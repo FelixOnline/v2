@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Comedy for nerds of any experience
 date: "2012-06-14 19:12:56 +0100"
+# Attributes from Felix Online V1
 id: "2545"
 old_path: /arts/2545/not-for-standing-awkwardly-in-the-corner
 aliases:
  - /arts/2545/not-for-standing-awkwardly-in-the-corner
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142012-ams111-arts1.jpg"
 image_caption: >
   Keeping up the Imperial ratio with FOTSN
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

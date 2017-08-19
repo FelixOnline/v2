@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over £750,000 was raised internationally
 date: "2015-12-04 15:13:48 +0000"
+# Attributes from Felix Online V1
 id: "5793"
 old_path: /news/5793/imperials-charity-week-raises-over-61000
 aliases:
  - /news/5793/imperials-charity-week-raises-over-61000
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201512041513-ygr12-cw-mosque-cake-.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "ISoc"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   We get down and dirty to get you the messy details in ‘Wet and Messy’
 date: "2017-02-03 18:11:26 +0000"
+# Attributes from Felix Online V1
 id: "6738"
 old_path: /sex/6738/i-heard-you-like-food
 aliases:
  - /sex/6738/i-heard-you-like-food
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031811-felix-Screen Shot 2017-02-03 at 18.10.54.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Trauma and Science come together to make new art
 date: "2011-12-08 21:05:17 +0000"
+# Attributes from Felix Online V1
 id: "1929"
 old_path: /arts/1929/trauma-on-chiltern-street
 aliases:
  - /arts/1929/trauma-on-chiltern-street
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082105-pk1811-luke.jpg"
 image_caption: >
   Luke Jerram, T4 Bascteriophage, Glass
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

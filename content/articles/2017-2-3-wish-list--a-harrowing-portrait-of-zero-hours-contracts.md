@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joseph Quinn and Erin Doherty as Dean and Tamsin will enchant you
 date: "2017-02-03 17:00:21 +0000"
+# Attributes from Felix Online V1
 id: "6725"
 old_path: /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
 aliases:
  - /arts/6725/wish-list--a-harrowing-portrait-of-zero-hours-contracts
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031700-felix-Joseph Quinn as Dean Carmody and Erin Doherty as Tamsin Carmody in WISH LIST Photo Jonathan Keenan (2).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jonathan Keenan "
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

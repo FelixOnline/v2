@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A quick Hub-date
 date: "2015-10-16 14:32:16 +0100"
+# Attributes from Felix Online V1
 id: "5657"
 old_path: /news/5657/imperial-hub-lives-to-fight-another-day
 aliases:
  - /news/5657/imperial-hub-lives-to-fight-another-day
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510161531-ygr12-img_0791.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

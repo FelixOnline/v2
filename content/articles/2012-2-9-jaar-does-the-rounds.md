@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ross Gray on Nicolas Jaar at the Roundhouse
 date: "2012-02-09 22:11:11 +0000"
+# Attributes from Felix Online V1
 id: "2141"
 old_path: /music/2141/jaar-does-the-rounds
 aliases:
  - /music/2141/jaar-does-the-rounds
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202092200-pk1811-nicolasjaar1.jpg"
 image_caption: >
   Get your foot away from my face.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

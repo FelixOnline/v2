@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A round up of all the important stories. Now you can look all knowledgeable to all the fitties you meet.
 date: "2013-09-29 14:13:31 +0100"
+# Attributes from Felix Online V1
 id: "3771"
 old_path: /politics/3771/the-summer-in-politics
 aliases:
  - /politics/3771/the-summer-in-politics
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201309291512-tna08-syrianflag.jpg"
 image_caption: >
   The Syrian crisis is raging on
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

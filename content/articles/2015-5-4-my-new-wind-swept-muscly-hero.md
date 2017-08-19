@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Giulia Gabrielli looks at the Nation’s new addiction to Poldark
 date: "2015-05-04 16:58:10 +0100"
+# Attributes from Felix Online V1
 id: "5492"
 old_path: /tv/5492/my-new-wind-swept-muscly-hero
 aliases:
  - /tv/5492/my-new-wind-swept-muscly-hero
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201505041758-ps3110-screen-shot-2015-05-04-at-17.57.59.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

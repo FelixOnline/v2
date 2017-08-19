@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:48:30 +0100"
+# Attributes from Felix Online V1
 id: "4730"
 old_path: /news/4730/nus-rejects-motion-to-condemn-islamic-state
 aliases:
  - /news/4730/nus-rejects-motion-to-condemn-islamic-state
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201410171548-kmw13-alan-henning-isis.jpg"
 image_caption: >
   A video purporting to show the beheading of Alan Henning was released 2 weeks ago
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "kmw13"
 author_name: "Kunal M L Wagle"
 author_image_path: "img/upload/201412041539-snb11-kunal-wagle.jpg"

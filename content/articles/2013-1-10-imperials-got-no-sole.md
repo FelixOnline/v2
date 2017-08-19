@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Complete participation rates for SOLE released: a mixed bag
 date: "2013-01-10 22:20:40 +0000"
+# Attributes from Felix Online V1
 id: "3084"
 old_path: /news/3084/imperials-got-no-sole
 aliases:
  - /news/3084/imperials-got-no-sole
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102220-tna08-survey-ting.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

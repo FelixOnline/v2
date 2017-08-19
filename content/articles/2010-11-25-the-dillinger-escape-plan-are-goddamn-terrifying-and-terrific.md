@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dillinger Escape Plan Electric Ballroom, 5th November 2010
 date: "2010-11-25 20:55:03 +0000"
+# Attributes from Felix Online V1
 id: "435"
 old_path: /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
 aliases:
  - /music/435/the-dillinger-escape-plan-are-goddamn-terrifying-and-terrific
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011252052-nm1010-dillinge.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "gep07"
 author_name: "Gregory Power"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

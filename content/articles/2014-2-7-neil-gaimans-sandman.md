@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maciej Matuszewski explores one of the best and most influential graphic novels
 date: "2014-02-07 04:50:45 +0000"
+# Attributes from Felix Online V1
 id: "4348"
 old_path: /books/4348/neil-gaimans-sandman
 aliases:
  - /books/4348/neil-gaimans-sandman
-category: books
 
+# Article Taxonomies
+categories:
+ - books
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

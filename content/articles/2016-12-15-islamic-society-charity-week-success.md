@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Over £1,000,000 raised
 date: "2016-12-15 23:41:10 +0000"
+# Attributes from Felix Online V1
 id: "6593"
 old_path: /news/6593/islamic-society-charity-week-success-
 aliases:
  - /news/6593/islamic-society-charity-week-success-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612152340-felix-pastedImage (2).png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Islamic Society"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

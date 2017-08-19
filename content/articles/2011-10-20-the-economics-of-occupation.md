@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
+# Attributes from Felix Online V1
 id: "1565"
 old_path: /politics/1565/the-economics-of-occupation
 aliases:
  - /politics/1565/the-economics-of-occupation
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
 image_caption: >
   Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian?
@@ -22,6 +27,7 @@ image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

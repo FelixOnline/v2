@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Looking back at the 2010 F1 season
 date: "2010-11-18 21:04:33 +0000"
+# Attributes from Felix Online V1
 id: "399"
 old_path: /sport/399/pedal-to-the-vettel
 aliases:
  - /sport/399/pedal-to-the-vettel
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

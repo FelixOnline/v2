@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The word ‘fracking’ has become aligned with unconditional taboo in the United Kingdom in a two year interval. Strong public scepticism has been fuelled by the parade of paraphernalia arriving from the USA...
 date: "2013-11-08 03:45:07 +0000"
+# Attributes from Felix Online V1
 id: "4025"
 old_path: /comment/4025/fracking-versus-science-communication
 aliases:
  - /comment/4025/fracking-versus-science-communication
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201311080922-felix-screen-shot-2013-11-08-at-09.22.14.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "MotherEarthNews"
 image_attribution_link: "http://www.motherearthnews.com"
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

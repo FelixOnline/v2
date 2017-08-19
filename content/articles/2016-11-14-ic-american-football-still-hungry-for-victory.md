@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There was a forced fumble recovered by Harry ‘I don’t like being called beefy in felix’ Lawrence
 date: "2016-11-14 14:21:33 +0000"
+# Attributes from Felix Online V1
 id: "6450"
 old_path: /sport/6450/ic-american-football-still-hungry-for-victory
 aliases:
  - /sport/6450/ic-american-football-still-hungry-for-victory
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611141421-felix-Imperial Immortals_004.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

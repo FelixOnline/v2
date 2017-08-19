@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An election only works if people actually know about it, says Philip Kent
 date: "2011-12-08 22:17:21 +0000"
+# Attributes from Felix Online V1
 id: "1953"
 old_path: /comment/1953/ent-committee-elections-what-a-joke
 aliases:
  - /comment/1953/ent-committee-elections-what-a-joke
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082216-pk1811-jeff-bridges-best-actor-academy-awards-2010.jpg"
 image_caption: >
   A portrayal of how exciting being elected on the ents committee is
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

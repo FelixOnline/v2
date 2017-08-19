@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lesson 6: Reuben
 date: "2012-02-16 22:01:50 +0000"
+# Attributes from Felix Online V1
 id: "2206"
 old_path: /music/2206/george-jefferys-a-beginners-guide-to-post-hardcore-6
 aliases:
  - /music/2206/george-jefferys-a-beginners-guide-to-post-hardcore-6
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162201-pk1811-reuben-blog-photo.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

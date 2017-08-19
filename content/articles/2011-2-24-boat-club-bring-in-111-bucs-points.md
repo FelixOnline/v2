@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Boat Club score big at muddy Peterborough
 date: "2011-02-24 20:06:18 +0000"
+# Attributes from Felix Online V1
 id: "878"
 old_path: /sport/878/boat-club-bring-in-111-bucs-points
 aliases:
  - /sport/878/boat-club-bring-in-111-bucs-points
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102242000-dr910-boatclub.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

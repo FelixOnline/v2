@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chris Richardson knocks back a couple of glasses in Chile’s stunning wine region
 date: "2015-06-01 17:38:18 +0100"
+# Attributes from Felix Online V1
 id: "5593"
 old_path: /travel/5593/cruising-through-colchagua-valley
 aliases:
  - /travel/5593/cruising-through-colchagua-valley
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506021232-ync111-montes-winery.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ync111"
 author_name: "Nam N Cheah"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

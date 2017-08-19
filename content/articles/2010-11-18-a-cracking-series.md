@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Masiej Matuszewski attends the BAFTA preview of Sky One’s latest comedy series of all-star Christmas specials
 date: "2010-11-18 20:46:19 +0000"
+# Attributes from Felix Online V1
 id: "392"
 old_path: /film/392/a-cracking-series
 aliases:
  - /film/392/a-cracking-series
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182042-nm1010-littlecr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

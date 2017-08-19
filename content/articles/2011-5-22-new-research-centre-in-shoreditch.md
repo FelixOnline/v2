@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial and UCL in East London ‘Tech City’ development
 date: "2011-05-22 13:02:31 +0100"
+# Attributes from Felix Online V1
 id: "1240"
 old_path: /news/1240/new-research-centre-in-shoreditch
 aliases:
  - /news/1240/new-research-centre-in-shoreditch
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

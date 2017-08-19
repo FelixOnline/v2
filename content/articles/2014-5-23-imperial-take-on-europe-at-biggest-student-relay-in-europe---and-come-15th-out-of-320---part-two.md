@@ -4,15 +4,20 @@ title: >
 subtitle: >
   After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45...
 date: "2014-05-23 14:19:06 +0100"
+# Attributes from Felix Online V1
 id: "4625"
 old_path: /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
 aliases:
  - /sport/4625/imperial-take-on-europe-at-biggest-student-relay-in-europe---and-come-15th-out-of-320---part-two
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

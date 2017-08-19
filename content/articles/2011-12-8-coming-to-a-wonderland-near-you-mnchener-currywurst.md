@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pop off to Hyde Park for winter fun and Austrian food
 date: "2011-12-08 21:53:38 +0000"
+# Attributes from Felix Online V1
 id: "1949"
 old_path: /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
 aliases:
  - /food/1949/coming-to-a-wonderland-near-you-mnchener-currywurst
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082153-pk1811-winter-wonderland-2.jpg"
 image_caption: >
   You might not find a free lunch within Hyde Park this winter, but headaches are a real possibility
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

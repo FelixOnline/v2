@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
+# Attributes from Felix Online V1
 id: "2309"
 old_path: /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
 aliases:
  - /sport/2309/promotion-and-port-for-ic-hockey-ladies-1s-after-brunel-tussle
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

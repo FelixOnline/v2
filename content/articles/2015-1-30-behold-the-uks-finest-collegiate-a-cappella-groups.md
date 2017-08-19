@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial hosted the UK semi finals of the International Championship of Collegiate A Cappella
 date: "2015-01-30 00:06:41 +0000"
+# Attributes from Felix Online V1
 id: "5162"
 old_path: /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
 aliases:
  - /features/5162/behold-the-uks-finest-collegiate-a-cappella-groups
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501300006-ps3110-screen-shot-2015-01-30-at-00.07.33.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

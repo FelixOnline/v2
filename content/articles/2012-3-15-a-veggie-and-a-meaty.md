@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Mmm tacos
 date: "2012-03-15 20:54:23 +0000"
+# Attributes from Felix Online V1
 id: "2364"
 old_path: /food/2364/a-veggie-and-a-meaty
 aliases:
  - /food/2364/a-veggie-and-a-meaty
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203152055-ig711-1761_1_380.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ig711"
 author_name: "Iulia Gherman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

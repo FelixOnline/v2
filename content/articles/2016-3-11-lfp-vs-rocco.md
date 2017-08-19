@@ -4,15 +4,20 @@ title: >
 subtitle: >
   No, they’re not football teams – FELIX puts two South Ken eateries to the test
 date: "2016-03-11 12:08:20 +0000"
+# Attributes from Felix Online V1
 id: "6045"
 old_path: /food/6045/lfp-vs-rocco
 aliases:
  - /food/6045/lfp-vs-rocco
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111208-felix-lovepasta.jpg"
 image_caption: >
   Let’s face it, no one ever chose the kid’s size and was happy with it.
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

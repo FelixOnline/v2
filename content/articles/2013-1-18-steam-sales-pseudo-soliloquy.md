@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Pietro Aronica on “My Restraint” with foreword by Jeremy Pac-man
 date: "2013-01-18 00:48:46 +0000"
+# Attributes from Felix Online V1
 id: "3142"
 old_path: /games/3142/steam-sales-pseudo-soliloquy
 aliases:
  - /games/3142/steam-sales-pseudo-soliloquy
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180047-tna08-sindexlocations.jpg"
 image_caption: >
   Single rainbow all the way!
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

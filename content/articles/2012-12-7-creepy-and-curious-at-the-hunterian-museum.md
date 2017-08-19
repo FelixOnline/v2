@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Arianna Sorba looks around some creepy exhibits
 date: "2012-12-07 01:42:12 +0000"
+# Attributes from Felix Online V1
 id: "3040"
 old_path: /science/3040/creepy-and-curious-at-the-hunterian-museum
 aliases:
  - /science/3040/creepy-and-curious-at-the-hunterian-museum
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201212070140-tna08-foundling,-dickens-and-hunterian-museums-028.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "londonist.com"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

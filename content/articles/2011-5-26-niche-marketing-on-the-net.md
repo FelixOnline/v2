@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Nitin Nihalani from Imperial Entrepreneurs’ Society on the power of specialising
 date: "2011-05-26 19:22:41 +0100"
+# Attributes from Felix Online V1
 id: "1259"
 old_path: /biz/1259/niche-marketing-on-the-net
 aliases:
  - /biz/1259/niche-marketing-on-the-net
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cjb07"
 author_name: "Christopher Birkett"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Three students are running for President this year, although several big roles remain uncontested
 date: "2015-03-02 17:24:25 +0000"
+# Attributes from Felix Online V1
 id: "5316"
 old_path: /news/5316/candidates-for-the-big-elections-are-announced-
 aliases:
  - /news/5316/candidates-for-the-big-elections-are-announced-
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

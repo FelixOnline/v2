@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A poem by John Hilliard
 date: "2011-12-06 11:34:29 +0000"
+# Attributes from Felix Online V1
 id: "1903"
 old_path: /politics/1903/who-is-silvio
 aliases:
  - /politics/1903/who-is-silvio
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

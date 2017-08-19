@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sir Richard Sykes ousted in mining company coup
 date: "2011-06-16 19:25:14 +0100"
+# Attributes from Felix Online V1
 id: "1383"
 old_path: /news/1383/former-rector-sacked-from-board
 aliases:
  - /news/1383/former-rector-sacked-from-board
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

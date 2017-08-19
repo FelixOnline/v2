@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yung Nam Cheah breaks down the process of booking so you know what to expect
 date: "2015-02-03 14:18:12 +0000"
+# Attributes from Felix Online V1
 id: "5182"
 old_path: /travel/5182/is-buying-travel-deals-on-groupon-safe
 aliases:
  - /travel/5182/is-buying-travel-deals-on-groupon-safe
-category: travel
 
+# Article Taxonomies
+categories:
+ - travel
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502031418-ps3110-screen-shot-2015-02-03-at-14.17.51.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

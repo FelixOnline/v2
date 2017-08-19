@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dutch citizens to have restrictions placed on smoking activities
 date: "2011-11-24 22:18:17 +0000"
+# Attributes from Felix Online V1
 id: "1831"
 old_path: /news/1831/the-history-of-legalisation
 aliases:
  - /news/1831/the-history-of-legalisation
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

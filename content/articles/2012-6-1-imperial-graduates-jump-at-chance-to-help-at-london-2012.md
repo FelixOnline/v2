@@ -4,15 +4,20 @@ title: >
 subtitle: >
   New BP graduate scheme gives students an Olympic chance
 date: "2012-06-01 12:11:10 +0100"
+# Attributes from Felix Online V1
 id: "2508"
 old_path: /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
 aliases:
  - /news/2508/imperial-graduates-jump-at-chance-to-help-at-london-2012
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206011310-mc4509-bpgrads_andrew-tham-claire-madden-charles-archbold--london-2.jpg"
 image_caption: >
   BP graduates at the Olympic Stadium, including Claire Madden, but not including Kelly Holmes
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

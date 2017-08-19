@@ -4,15 +4,20 @@ title: >
 subtitle: >
   'Hand in Hand for Syria' charity caused confusion
 date: "2016-02-19 11:05:14 +0000"
+# Attributes from Felix Online V1
 id: "5922"
 old_path: /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
 aliases:
  - /news/5922/rag-jailbreakers-removed-from-flight-to-turkey-after-terror-suspicions
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602191102-felix-online.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Two and Hal Asian's Jailbreak"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

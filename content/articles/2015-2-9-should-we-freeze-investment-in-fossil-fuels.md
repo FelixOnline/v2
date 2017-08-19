@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Phoebe Tickell talks about her involvement with Fossil Free Imperial
 date: "2015-02-09 19:44:30 +0000"
+# Attributes from Felix Online V1
 id: "5227"
 old_path: /comment/5227/should-we-freeze-investment-in-fossil-fuels
 aliases:
  - /comment/5227/should-we-freeze-investment-in-fossil-fuels
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502091943-ps3110-fossil.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

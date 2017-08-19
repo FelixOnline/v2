@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Job interviews need an overhaul
 date: "2012-02-02 23:39:57 +0000"
+# Attributes from Felix Online V1
 id: "2113"
 old_path: /comment/2113/competency-wompetency
 aliases:
  - /comment/2113/competency-wompetency
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202022338-sjw209-jp-morgan.jpg"
 image_caption: >
   You think JP Morgan interviews are bad, you should do one for the Daily Mail
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

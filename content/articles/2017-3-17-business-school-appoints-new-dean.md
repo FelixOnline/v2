@@ -4,15 +4,20 @@ title: >
 subtitle: >
   *Dean-dong* There’s a new guy in town
 date: "2017-03-17 13:07:32 +0000"
+# Attributes from Felix Online V1
 id: "6899"
 old_path: /news/6899/business-school-appoints-new-dean
 aliases:
  - /news/6899/business-school-appoints-new-dean
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703171307-felix-newseventsimages.jpeg"
 image_caption: >
   He’s already staring longingly at the College Cafe
@@ -22,6 +27,7 @@ image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

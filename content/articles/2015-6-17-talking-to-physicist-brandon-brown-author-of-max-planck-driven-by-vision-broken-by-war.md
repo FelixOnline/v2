@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
+# Attributes from Felix Online V1
 id: "5626"
 old_path: /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
 aliases:
  - /science/5626/talking-to-physicist-brandon-brown-author-of-max-planck-driven-by-vision-broken-by-war
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
 image_caption: >
   Brandon Brown, giving his talk
@@ -22,6 +27,7 @@ image_attribution: "USF Faculty"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jr2514"
 author_name: "Joshua Renken"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

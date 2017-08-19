@@ -4,15 +4,20 @@ title: >
 subtitle: >
   if you're gonna follow them tho get a golf cart or something 'cos they're fast
 date: "2017-06-09 15:42:56 +0100"
+# Attributes from Felix Online V1
 id: "7022"
 old_path: /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
 aliases:
  - /sport/7022/keeping-track-of-imperials-cross-country--athletics-club
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706091742-ea3211-Picture2.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

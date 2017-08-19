@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:25:56 +0000"
+# Attributes from Felix Online V1
 id: "5338"
 old_path: /comment/5338/felix-interviews-president-candidate-luke-armitage
 aliases:
  - /comment/5338/felix-interviews-president-candidate-luke-armitage
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "bwh12"
 author_name: "Benjamin Howitt"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

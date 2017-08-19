@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Preview of DramSoc's provocative play
 date: "2011-02-27 18:19:49 +0000"
+# Attributes from Felix Online V1
 id: "905"
 old_path: /arts/905/a-view-from-the-bridge
 aliases:
  - /arts/905/a-view-from-the-bridge
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271814-sjw209-avftbpos.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

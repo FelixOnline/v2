@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kunal Wagle reports as thousands march into Parliament Square
 date: "2014-11-21 13:17:33 +0000"
+# Attributes from Felix Online V1
 id: "4926"
 old_path: /news/4926/students-march-for-free-education
 aliases:
  - /news/4926/students-march-for-free-education
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411211317-ps3110-_79133699_a2b5cc2e-eca6-4f15-aa54-8229827d9029.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

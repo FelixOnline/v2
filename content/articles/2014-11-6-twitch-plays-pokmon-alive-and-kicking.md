@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tom Rivlin on the past and future of the internet sensation
 date: "2014-11-06 20:42:58 +0000"
+# Attributes from Felix Online V1
 id: "4791"
 old_path: /games/4791/twitch-plays-pokmon-alive-and-kicking
 aliases:
  - /games/4791/twitch-plays-pokmon-alive-and-kicking
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411062043-snb11-tpp_homage-(1).jpg"
 image_caption: >
   The team that conquered all...you will never be forgotten! ALL HAIL LORD HELIX
@@ -22,6 +27,7 @@ image_attribution: "Joystiq"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "snb11"
 author_name: "Stephen Ball"
 author_image_path: "img/upload/201411062051-snb11-20141028_225253.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Cecily Johnson finds out what the new Budget has to offer
 date: "2015-03-19 23:33:38 +0000"
+# Attributes from Felix Online V1
 id: "5401"
 old_path: /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
 aliases:
  - /news/5401/budget-2015-government-announces-plans-for-25000-loans-for-phd-students
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503192334-cj914-george-osborne.jpg"
 image_caption: >
   George Osborne and his red box
@@ -22,6 +27,7 @@ image_attribution: "Leon Neal/AFP/Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

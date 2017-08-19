@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Motorway services have a captive audience – one that drove into their clutches voluntarily
 date: "2010-10-14 20:03:30 +0100"
+# Attributes from Felix Online V1
 id: "219"
 old_path: /comment/219/taking-an-unwelcome-break
 aliases:
  - /comment/219/taking-an-unwelcome-break
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

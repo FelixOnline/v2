@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This unpolished gem is well worth a watch
 date: "2016-01-29 09:31:40 +0000"
+# Attributes from Felix Online V1
 id: "5848"
 old_path: /film/5848/documentary-corner-american-movie
 aliases:
  - /film/5848/documentary-corner-american-movie
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290930-felix-american-movie.jpg"
 image_caption: >
   “Coven, man, we gotta get this sucker done, though.”
@@ -22,6 +27,7 @@ image_attribution: "American Movie PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RAG Week 2014 is coming! RAG gives you a unique opportunity to have the time of your life, while doing something good for the world.
 date: "2014-02-21 03:08:46 +0000"
+# Attributes from Felix Online V1
 id: "4417"
 old_path: /features/4417/get-ready-for-rag-week
 aliases:
  - /features/4417/get-ready-for-rag-week
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201402210310-felix-screenshot-2014-02-21-03.09.00.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

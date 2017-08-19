@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lily Le drops everything to find out who a band are while listening to the radio... NO IT'S NOT THAT DAFT PUNK SONG THAT IS ALWAYS ON
 date: "2013-05-08 20:15:20 +0100"
+# Attributes from Felix Online V1
 id: "3552"
 old_path: /music/3552/the-internet-presents-ms-mr-
 aliases:
  - /music/3552/the-internet-presents-ms-mr-
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

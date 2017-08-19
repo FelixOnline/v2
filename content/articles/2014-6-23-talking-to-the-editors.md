@@ -4,15 +4,20 @@ title: >
 subtitle: >
   As the year comes to a close we hear from the Felix Editor and his successor.
 date: "2014-06-23 14:34:50 +0100"
+# Attributes from Felix Online V1
 id: "4711"
 old_path: /comment/4711/talking-to-the-editors
 aliases:
  - /comment/4711/talking-to-the-editors
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

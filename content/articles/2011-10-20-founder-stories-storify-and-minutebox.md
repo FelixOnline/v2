@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial Entrepeneurs Jamal Khan and Rafal Szymanski report on talks from two new companies looking to harness the power of the social network
 date: "2011-10-20 22:52:32 +0100"
+# Attributes from Felix Online V1
 id: "1576"
 old_path: /biz/1576/founder-stories-storify-and-minutebox
 aliases:
  - /biz/1576/founder-stories-storify-and-minutebox
-category: business
 
+# Article Taxonomies
+categories:
+ - business
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110202352-felix-xavierdamman.png"
 image_caption: >
   Xavier Damman, founder of Storify, discusses his move to Silicon Valley
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

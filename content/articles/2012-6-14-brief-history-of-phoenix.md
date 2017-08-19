@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Brief History of P h o e n i x
 date: "2012-06-14 21:05:00 +0100"
+# Attributes from Felix Online V1
 id: "2575"
 old_path: /phoenix/2575/brief-history-of-phoenix
 aliases:
  - /phoenix/2575/brief-history-of-phoenix
-category: phoenix
 
+# Article Taxonomies
+categories:
+ - phoenix
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206142204-pk1811-phoenix1.png"
 image_caption: >
   Front cover Phoenix Vol XVII
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

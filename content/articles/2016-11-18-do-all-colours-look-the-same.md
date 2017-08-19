@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Qasim Mahmood examines the science behind seeing colours, and why experiencing them may be visually different for everyone
 date: "2016-11-18 14:53:33 +0000"
+# Attributes from Felix Online V1
 id: "6466"
 old_path: /science/6466/do-all-colours-look-the-same
 aliases:
  - /science/6466/do-all-colours-look-the-same
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611181452-felix-abstract-19141_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Maybe it isn’t good to compare myself to them, but I do
 date: "2015-01-23 01:29:08 +0000"
+# Attributes from Felix Online V1
 id: "5125"
 old_path: /comment/5125/i-want-to-say-thank-you-to-the-bad-people
 aliases:
  - /comment/5125/i-want-to-say-thank-you-to-the-bad-people
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201501230129-ps3110-dr-evil.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

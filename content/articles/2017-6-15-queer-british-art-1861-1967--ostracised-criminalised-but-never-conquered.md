@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tate Britain launches London Pride 2017 with a moving tribute to the LGBTQ artists who would not be silenced
 date: "2017-06-15 15:59:34 +0100"
+# Attributes from Felix Online V1
 id: "7026"
 old_path: /arts/7026/queer-british-art-1861-1967--ostracised-criminalised-but-never-conquered
 aliases:
  - /arts/7026/queer-british-art-1861-1967--ostracised-criminalised-but-never-conquered
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706151743-im1413-TELEMMGLPICT000124419172-large_trans_NvBQzQNjv4Bq2UT24tysUNS89v637bWo7qefKdEupUtQvEb0ay-H710.jpeg"
 image_caption: >
   Sappho and Erinna in a Garden at Mytilene ( 1864), by Simeon Solomon. Photo: TATE/PURCHASED 1980
@@ -22,6 +27,7 @@ image_attribution: "Photo: TATE/PURCHASED 1980"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   3 stars for Oz the Great and Powerful due to a lack of substance
 date: "2013-03-15 02:16:29 +0000"
+# Attributes from Felix Online V1
 id: "3487"
 old_path: /film/3487/which-witch-is-the-wicked-witch
 aliases:
  - /film/3487/which-witch-is-the-wicked-witch
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303150215-tna08-rachel-mila-oz-the-great-and-powerful-33254299-1080-810-1.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

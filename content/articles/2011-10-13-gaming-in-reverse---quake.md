@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Omar Hafeez-Bore on why old games get better when you pretend they’re new
 date: "2011-10-13 22:31:42 +0100"
+# Attributes from Felix Online V1
 id: "1514"
 old_path: /games/1514/gaming-in-reverse---quake
 aliases:
  - /games/1514/gaming-in-reverse---quake
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110132323-felix-quake_4_by_id_software.jpg"
 image_caption: >
   Let's take a step back
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

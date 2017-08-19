@@ -4,15 +4,20 @@ title: >
 subtitle: >
   If FemSoc say it wasn’t sexist, were the union’s actions justified?
 date: "2016-02-12 11:24:01 +0000"
+# Attributes from Felix Online V1
 id: "5900"
 old_path: /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
 aliases:
  - /comment/5900/the-union-lost-the-plot-and-free-speech-suffered
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201602121122-felix-1454899695952.png"
 image_caption: >
   The Malaysian PM in all his glory.
@@ -22,6 +27,7 @@ image_attribution: "Facebook / GRUPA"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

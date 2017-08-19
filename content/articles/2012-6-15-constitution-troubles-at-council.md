@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Final Union Council of the year sees Union Court question proposed constitution changes
 date: "2012-06-15 07:32:58 +0100"
+# Attributes from Felix Online V1
 id: "2576"
 old_path: /news/2576/constitution-troubles-at-council
 aliases:
  - /news/2576/constitution-troubles-at-council
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201206150832-mc4509-201110272007-felix-img_6764.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

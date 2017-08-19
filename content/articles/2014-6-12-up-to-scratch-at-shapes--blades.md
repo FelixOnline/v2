@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Letting your hair down for a trim post exam!
 date: "2014-06-12 17:56:55 +0100"
+# Attributes from Felix Online V1
 id: "4688"
 old_path: /features/4688/up-to-scratch-at-shapes--blades
 aliases:
  - /features/4688/up-to-scratch-at-shapes--blades
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

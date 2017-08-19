@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Evolution linked to climate change, say Imperial
 date: "2011-12-08 20:31:46 +0000"
+# Attributes from Felix Online V1
 id: "1913"
 old_path: /science/1913/wolves-help-predict-climate-effects
 aliases:
  - /science/1913/wolves-help-predict-climate-effects
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112082030-pk1811-20090302155850.jpg"
 image_caption: >
   A pack of wolves bed down in Yellowstone National Park
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

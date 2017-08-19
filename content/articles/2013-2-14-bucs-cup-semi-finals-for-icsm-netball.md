@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lindsay Hennah plays David to Brighton's goliath
 date: "2013-02-14 19:29:54 +0000"
+# Attributes from Felix Online V1
 id: "3326"
 old_path: /sport/3326/bucs-cup-semi-finals-for-icsm-netball
 aliases:
  - /sport/3326/bucs-cup-semi-finals-for-icsm-netball
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302151215-tna08-netball-shot.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

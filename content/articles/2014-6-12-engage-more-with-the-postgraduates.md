@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Winters on undergrads, postgrads and union engagement
 date: "2014-06-12 16:38:45 +0100"
+# Attributes from Felix Online V1
 id: "4683"
 old_path: /comment/4683/engage-more-with-the-postgraduates
 aliases:
  - /comment/4683/engage-more-with-the-postgraduates
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "me1711"
 author_name: "Maximilian Eggl"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

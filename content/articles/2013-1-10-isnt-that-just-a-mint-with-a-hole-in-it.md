@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix Sport catches up with Riding and Polo on just what makes them love their sport so much
 date: "2013-01-10 23:14:19 +0000"
+# Attributes from Felix Online V1
 id: "3108"
 old_path: /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
 aliases:
  - /sport/3108/isnt-that-just-a-mint-with-a-hole-in-it
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301102313-csw09-pb210925.jpg"
 image_caption: >
   Felix’s latest My Little Pony feature
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "csw09"
 author_name: "Caroline Wood"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

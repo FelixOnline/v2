@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There is plenty of on-going research in the field of battling cancer, whether chemically, physically or biologically. A research group from southern California is developing a new strategy on improving the transport of medicine within the patients’ body, by creating antibodies which only activate...
 date: "2013-11-08 09:38:32 +0000"
+# Attributes from Felix Online V1
 id: "4029"
 old_path: /science/4029/antibody-treatment-for-cancer
 aliases:
  - /science/4029/antibody-treatment-for-cancer
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

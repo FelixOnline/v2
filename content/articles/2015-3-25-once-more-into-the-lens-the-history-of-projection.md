@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Ellen Mathieson takes you through the last one hundred and fifty years of projection, film, and sound in the cinema industry
 date: "2015-03-25 11:55:51 +0000"
+# Attributes from Felix Online V1
 id: "5423"
 old_path: /arts/5423/once-more-into-the-lens-the-history-of-projection
 aliases:
  - /arts/5423/once-more-into-the-lens-the-history-of-projection
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
 image_caption: >
   A modern zoetrope, to be veiwed by looking through the slits
@@ -22,6 +27,7 @@ image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

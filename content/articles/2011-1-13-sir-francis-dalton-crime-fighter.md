@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The man behind fingerprinting and eugenics
 date: "2011-01-13 20:15:07 +0000"
+# Attributes from Felix Online V1
 id: "577"
 old_path: /science/577/sir-francis-dalton-crime-fighter-
 aliases:
  - /science/577/sir-francis-dalton-crime-fighter-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201101132013-ks607-francisg.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

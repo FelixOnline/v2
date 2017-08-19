@@ -4,15 +4,20 @@ title: >
 subtitle: >
   David Hockney mixes traditional and modern mediums to recreate Yorkshire landscapes of dazzling colour
 date: "2012-01-26 22:10:10 +0000"
+# Attributes from Felix Online V1
 id: "2053"
 old_path: /arts/2053/hockneys-biggest-splash-yet
 aliases:
  - /arts/2053/hockneys-biggest-splash-yet
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201262209-ams111-hockney-key-41.jpg"
 image_caption: >
   Winter Timber 2009 – Blue Wood
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

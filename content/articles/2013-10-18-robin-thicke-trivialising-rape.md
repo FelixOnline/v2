@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kirstin Hay takes on "Blurred Lines".
 date: "2013-10-18 21:43:20 +0100"
+# Attributes from Felix Online V1
 id: "3895"
 old_path: /comment/3895/robin-thicke-trivialising-rape
 aliases:
  - /comment/3895/robin-thicke-trivialising-rape
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "STAR TRAK, LLC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

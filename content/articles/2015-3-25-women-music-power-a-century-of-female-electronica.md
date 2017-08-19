@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles takes us on a tour through the history of the early pioneers of electronic music
 date: "2015-03-25 12:35:47 +0000"
+# Attributes from Felix Online V1
 id: "5431"
 old_path: /music/5431/women-music-power-a-century-of-female-electronica
 aliases:
  - /music/5431/women-music-power-a-century-of-female-electronica
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201503251233-ff712-rvngnl24_pic_print_0021a.jpg"
 image_caption: >
   Experimental composer Holly Herndon, renowned for her combination of the synthetic and organic
@@ -22,6 +27,7 @@ image_attribution: "RVNG Intl"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

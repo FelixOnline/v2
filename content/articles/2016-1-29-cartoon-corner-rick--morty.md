@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This clever and inventive show is the epitome of high-concept storytelling
 date: "2016-01-29 09:59:29 +0000"
+# Attributes from Felix Online V1
 id: "5856"
 old_path: /tv/5856/cartoon-corner-rick--morty
 aliases:
  - /tv/5856/cartoon-corner-rick--morty
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601290957-felix-rick_and_morty_s02_still.jpg"
 image_caption: >
   Let’s get Schwifty!
@@ -22,6 +27,7 @@ image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

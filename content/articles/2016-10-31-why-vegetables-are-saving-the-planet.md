@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sara Hamilton reviews London’s biggest vegan festival, commenting on how cutting down on meat may be the answer to our environmental problems
 date: "2016-10-31 16:07:16 +0000"
+# Attributes from Felix Online V1
 id: "6366"
 old_path: /science/6366/why-vegetables-are-saving-the-planet
 aliases:
  - /science/6366/why-vegetables-are-saving-the-planet
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201610311606-felix-salad-498203_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

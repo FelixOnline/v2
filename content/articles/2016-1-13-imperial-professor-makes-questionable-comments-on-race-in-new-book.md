@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
+# Attributes from Felix Online V1
 id: "5825"
 old_path: /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
 aliases:
  - /news/5825/imperial-professor-makes-questionable-comments-on-race-in-new-book
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201601131441-felix-lamb.jpg"
 image_caption: >
   Dr Lamb has previously written books on Genetics and the Queen's English
@@ -22,6 +27,7 @@ image_attribution: "Queen's English Society"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

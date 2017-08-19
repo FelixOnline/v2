@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix and funk at the Felix music night on 19.02
 date: "2011-02-03 19:20:21 +0000"
+# Attributes from Felix Online V1
 id: "713"
 old_path: /music/713/1902-fun-loving-funk
 aliases:
  - /music/713/1902-fun-loving-funk
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102031912-nm1010-19002222.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

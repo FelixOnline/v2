@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang embraces her inner rebel as she investigates the quintessential rule-breaking magazine
 date: "2012-02-16 21:42:35 +0000"
+# Attributes from Felix Online V1
 id: "2194"
 old_path: /fashion/2194/dazed-confused-and-just-a-little-hungry
 aliases:
  - /fashion/2194/dazed-confused-and-just-a-little-hungry
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162141-ams111-9780847836925.jpg"
 image_caption: >
   Dazed & Confused: Making It Up As We Go Along Written by Jefferson Hack, Edited by Jo-Ann Furniss
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "AY310"
 author_name: "Alice Yang"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

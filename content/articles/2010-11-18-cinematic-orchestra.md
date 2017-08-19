@@ -4,15 +4,20 @@ title: >
 subtitle: >
   When two things of immense beauty combine, strange things can happen. In this case, music and majesty create brilliance
 date: "2010-11-18 20:43:32 +0000"
+# Attributes from Felix Online V1
 id: "391"
 old_path: /music/391/cinematic-orchestra
 aliases:
  - /music/391/cinematic-orchestra
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201011182042-ks607-cinemati.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

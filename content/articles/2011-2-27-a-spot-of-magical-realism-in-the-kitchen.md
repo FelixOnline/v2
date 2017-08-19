@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Columbian food is something not usually encountered in London
 date: "2011-02-27 19:46:46 +0000"
+# Attributes from Felix Online V1
 id: "919"
 old_path: /food/919/a-spot-of-magical-realism-in-the-kitchen
 aliases:
  - /food/919/a-spot-of-magical-realism-in-the-kitchen
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201102271945-ks607-fruitsel.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lucie Jichova"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Classically beautiful, slim, cis, able-bodied, and overwhelming white
 date: "2016-12-09 12:42:43 +0000"
+# Attributes from Felix Online V1
 id: "6571"
 old_path: /arts/6571/the-pirelli-nofilter-2017-calendar
 aliases:
  - /arts/6571/the-pirelli-nofilter-2017-calendar
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612091239-aib116-Uma Thurman.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: " Peter Lindbergh/Pirelli Calendar"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

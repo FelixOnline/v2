@@ -4,15 +4,20 @@ title: >
 subtitle: >
   RAG count up the money raised
 date: "2013-02-21 23:57:47 +0000"
+# Attributes from Felix Online V1
 id: "3351"
 old_path: /news/3351/successful-week-for-rag
 aliases:
  - /news/3351/successful-week-for-rag
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302212356-tna08-bungee-(38-of-79).jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

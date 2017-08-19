@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Bohemian Like Them
 date: "2013-02-01 00:42:51 +0000"
+# Attributes from Felix Online V1
 id: "3231"
 old_path: /music/3231/dandy-warhols-silently-rock-le-trianon
 aliases:
  - /music/3231/dandy-warhols-silently-rock-le-trianon
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

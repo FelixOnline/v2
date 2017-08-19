@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alice Yang talks to Dr. Toby Murcott about his not so straightforward career path
 date: "2012-01-27 00:22:55 +0000"
+# Attributes from Felix Online V1
 id: "2080"
 old_path: /news/2080/how-to-become-a-science-journalist
 aliases:
  - /news/2080/how-to-become-a-science-journalist
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201201270021-felix-shapeimage_2.jpg"
 image_caption: >
   Dr. Toby Murcott
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Eliot Barford on the small things that could add up to getting rid of malaria for good
 date: "2012-02-16 21:57:11 +0000"
+# Attributes from Felix Online V1
 id: "2202"
 old_path: /science/2202/little-leaps-to-the-end-of-malaria
 aliases:
  - /science/2202/little-leaps-to-the-end-of-malaria
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202162156-cac111-800px-maternal_malaria_placenta_-_cropped_-_very_high_mag.jpg"
 image_caption: >
   A very high magnification micrograph of maternal malaria
@@ -22,6 +27,7 @@ image_attribution: "Wikipedia"
 image_attribution_link: "http://www.wikipedia.org"
 video_url: ""
 
+# Author metadata
 author_id: "cac111"
 author_name: "Carol Ann Cheah"
 author_image_path: "img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"

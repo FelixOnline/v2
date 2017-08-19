@@ -4,15 +4,20 @@ title: >
 subtitle: >
   All you need to know about tech life here at Imperial
 date: "2010-10-01 22:00:02 +0100"
+# Attributes from Felix Online V1
 id: "162"
 old_path: /tech/162/imperial-technology-survival-guide-2010
 aliases:
  - /tech/162/imperial-technology-survival-guide-2010
-category: tech
 
+# Article Taxonomies
+categories:
+ - tech
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
 image_caption: >
   In the year 3025, moisturiser is a 'must'
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

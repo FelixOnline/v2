@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Imperial’s Ultimate team ends the season on a high in Nottingham
 date: "2013-05-02 12:17:51 +0100"
+# Attributes from Felix Online V1
 id: "3527"
 old_path: /sport/3527/discdoctors-scoop-podium-finish-at-nationals
 aliases:
  - /sport/3527/discdoctors-scoop-podium-finish-at-nationals
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201305021318-tna08-ultimatefri.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Andrew Moss"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

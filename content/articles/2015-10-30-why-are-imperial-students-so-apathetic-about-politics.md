@@ -4,15 +4,20 @@ title: >
 subtitle: >
   It is time that we acknowledged our failure to act, find a cause, and make a difference
 date: "2015-10-30 12:36:55 +0000"
+# Attributes from Felix Online V1
 id: "5684"
 old_path: /comment/5684/why-are-imperial-students-so-apathetic-about-politics
 aliases:
  - /comment/5684/why-are-imperial-students-so-apathetic-about-politics
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510301236-ygr12-angry-medics.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

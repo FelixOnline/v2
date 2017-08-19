@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
+# Attributes from Felix Online V1
 id: "1639"
 old_path: /music/1639/do-you-have-a-bassface
 aliases:
  - /music/1639/do-you-have-a-bassface
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281206-felix-bassface_mampiswift15_7.jpg"
 image_caption: >
   Man is pained at sight of giant lemon
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

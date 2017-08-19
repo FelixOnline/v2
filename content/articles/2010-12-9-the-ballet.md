@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sylvia is a magical introduction to the best ticket in London this Christmas, a night at the Royal Opera House
 date: "2010-12-09 21:24:18 +0000"
+# Attributes from Felix Online V1
 id: "533"
 old_path: /arts/533/the-ballet
 aliases:
  - /arts/533/the-ballet
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092122-ks607-theballe.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Stoker
 date: "2013-03-08 00:03:46 +0000"
+# Attributes from Felix Online V1
 id: "3453"
 old_path: /film/3453/rising-star-mia-wasikowska
 aliases:
  - /film/3453/rising-star-mia-wasikowska
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

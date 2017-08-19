@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Jiaqi Shi investigates Christie's
 date: "2013-10-18 21:49:13 +0100"
+# Attributes from Felix Online V1
 id: "3896"
 old_path: /arts/3896/undercover-at-an-auction
 aliases:
  - /arts/3896/undercover-at-an-auction
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310182248-jal08-artsauctionhouse.jpg"
 image_caption: >
   No, it's the picture over there!
@@ -22,6 +27,7 @@ image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

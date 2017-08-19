@@ -4,15 +4,20 @@ title: >
 subtitle: >
   There’s sentimentality, for sure, but nothing is forced
 date: "2016-03-04 11:51:34 +0000"
+# Attributes from Felix Online V1
 id: "6011"
 old_path: /film/6011/documentary-corner-dear-zachary
 aliases:
  - /film/6011/documentary-corner-dear-zachary
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603041150-felix-516d9b42-ba71-43ae-9e4a-b8e39591143a.jpg"
 image_caption: >
   Director Kurt Kuenne (left), at the graduation of friend Andrew Bagby, the subject of the film.
@@ -22,6 +27,7 @@ image_attribution: "Mongrel Media"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

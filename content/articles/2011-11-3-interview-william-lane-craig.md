@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sam Horti talks to the renowned Christian philosopher about his work
 date: "2011-11-03 21:41:50 +0000"
+# Attributes from Felix Online V1
 id: "1691"
 old_path: /news/1691/interview-william-lane-craig
 aliases:
  - /news/1691/interview-william-lane-craig
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201111041214-felix-wlc.jpg"
 image_caption: >
   William Lane Craig recently lectured at Imperial
@@ -22,6 +27,7 @@ image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

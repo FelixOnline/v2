@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Something to buy or sell? Contact felix@imperial.ac.uk
 date: "2012-07-25 13:32:58 +0100"
+# Attributes from Felix Online V1
 id: "2587"
 old_path: /news/2587/classifieds
 aliases:
  - /news/2587/classifieds
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201207251432-mc4509-printer-2.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

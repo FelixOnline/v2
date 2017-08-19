@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Kamil McClelland explores what remains after Iraq and Afghanistan
 date: "2014-11-14 20:53:38 +0000"
+# Attributes from Felix Online V1
 id: "4879"
 old_path: /arts/4879/wounded-is-this-wars-true-legacy
 aliases:
  - /arts/4879/wounded-is-this-wars-true-legacy
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411142053-ps3110-for-the-webupload.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

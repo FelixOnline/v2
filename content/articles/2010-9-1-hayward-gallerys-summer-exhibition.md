@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caz Knight eagerly attends the intriguing summer installation at South Bank's Hayward Gallery, but is left disappointed
 date: "2010-09-01 15:59:31 +0100"
+# Attributes from Felix Online V1
 id: "154"
 old_path: /arts/154/hayward-gallerys-summer-exhibition
 aliases:
  - /arts/154/hayward-gallerys-summer-exhibition
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201009011654-ks607-Heart.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

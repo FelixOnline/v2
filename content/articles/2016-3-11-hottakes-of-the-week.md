@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Only the hottest of takes
 date: "2016-03-11 11:50:01 +0000"
+# Attributes from Felix Online V1
 id: "6034"
 old_path: /music/6034/hottakes-of-the-week
 aliases:
  - /music/6034/hottakes-of-the-week
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201603111149-felix-yeezus.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

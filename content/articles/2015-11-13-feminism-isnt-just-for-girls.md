@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Back this week from fighting the patriarchy, Angry Grad asks why we aren’t all embracing equal rights
 date: "2015-11-13 14:25:24 +0000"
+# Attributes from Felix Online V1
 id: "5722"
 old_path: /comment/5722/feminism-isnt-just-for-girls
 aliases:
  - /comment/5722/feminism-isnt-just-for-girls
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
 image_caption: >
   Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson.
@@ -22,6 +27,7 @@ image_attribution: "Fox Searchlight"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

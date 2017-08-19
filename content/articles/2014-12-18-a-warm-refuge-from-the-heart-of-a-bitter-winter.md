@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles lauds the National Theatre's newest production of 3 Winters
 date: "2014-12-18 16:19:07 +0000"
+# Attributes from Felix Online V1
 id: "5073"
 old_path: /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
 aliases:
  - /arts/5073/a-warm-refuge-from-the-heart-of-a-bitter-winter
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ff712"
 author_name: "Fred S Fyles"
 author_image_path: "img/upload/201602241711-felix-Fred Fyles.jpg"

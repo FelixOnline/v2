@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Is loving the Royal Family a prerequisite for being British?
 date: "2011-05-06 08:39:50 +0100"
+# Attributes from Felix Online V1
 id: "1159"
 old_path: /comment/1159/how-to-be-british-apparently
 aliases:
  - /comment/1159/how-to-be-british-apparently
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201105060939-felix-royal-wedding-london.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

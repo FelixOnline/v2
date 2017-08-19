@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Philippa Skett on how bisexuality and fish porn have come together this week
 date: "2013-01-18 00:23:13 +0000"
+# Attributes from Felix Online V1
 id: "3131"
 old_path: /science/3131/aquatic-pornography
 aliases:
  - /science/3131/aquatic-pornography
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301180022-tna08-poecilia-mexicana.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

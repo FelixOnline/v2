@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Staff depart natural science campus as select courses are suspended
 date: "2012-05-24 22:36:27 +0100"
+# Attributes from Felix Online V1
 id: "2481"
 old_path: /news/2481/courses-suspended-at-silwood
 aliases:
  - /news/2481/courses-suspended-at-silwood
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205242335-mc4509-cr37351200035.jpg"
 image_caption: >
   Academic campus Silwood Park is situated near Ascot
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Dan Slocombe shares hic concerns about the orwellian future we are headed towards
 date: "2016-11-25 13:34:01 +0000"
+# Attributes from Felix Online V1
 id: "6498"
 old_path: /comment/6498/they-want-our-data--the-uks-internet-crisis
 aliases:
  - /comment/6498/they-want-our-data--the-uks-internet-crisis
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251333-felix-Screen Shot 2016-11-25 at 13.33.47.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

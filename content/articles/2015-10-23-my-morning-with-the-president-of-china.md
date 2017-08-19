@@ -4,15 +4,20 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
+# Attributes from Felix Online V1
 id: "5678"
 old_path: /comment/5678/my-morning-with-the-president-of-china
 aliases:
  - /comment/5678/my-morning-with-the-president-of-china
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201510231255-cj914-president.jpg"
 image_caption: >
   It didn't rain on this writer's parade.
@@ -22,6 +27,7 @@ image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

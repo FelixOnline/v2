@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Polanski brings absolute Carnage to the screen
 date: "2012-02-04 17:19:26 +0000"
+# Attributes from Felix Online V1
 id: "2135"
 old_path: /film/2135/the-kids-are-alright-the-adults-are-not
 aliases:
  - /film/2135/the-kids-are-alright-the-adults-are-not
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202041713-felix-winslet-carnage-polanski.jpg"
 image_caption: >
   Kate ﬁnally regrets letting go of that expensive blue diamond necklace in Titanic...
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   X-rays help scientists delve deeper into fossil record
 date: "2011-06-02 18:33:10 +0100"
+# Attributes from Felix Online V1
 id: "1297"
 old_path: /science/1297/back-to-the-past-
 aliases:
  - /science/1297/back-to-the-past-
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

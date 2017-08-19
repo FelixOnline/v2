@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Morgen und Abend throws us into a man’s existence and beyond with mixed results
 date: "2015-11-20 09:39:01 +0000"
+# Attributes from Felix Online V1
 id: "5760"
 old_path: /arts/5760/birth-death-and-the-messiness-in-between
 aliases:
  - /arts/5760/birth-death-and-the-messiness-in-between
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511200938-ygr12-22574833589_4cf8f5c35d_b.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Simon Hunter on why radio is still as relevant as ever
 date: "2013-02-07 22:47:39 +0000"
+# Attributes from Felix Online V1
 id: "3245"
 old_path: /music/3245/long-live-the-radio-star
 aliases:
  - /music/3245/long-live-the-radio-star
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302072243-tna08-rinse_logotype.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   felix visits Ceru, a new addition to the South Ken restaurant scene that oozes middle eastern comfort, from the warm, welcoming interior to the sumptuous yet refined food. So that you too can treat yourselves to an excellent meal out, we’ve arranged an exclusive Imperial discount.
 date: "2017-03-10 14:02:39 +0000"
+# Attributes from Felix Online V1
 id: "6880"
 old_path: /food/6880/treasures-from-the-levant
 aliases:
  - /food/6880/treasures-from-the-levant
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201703101401-felix-CERU exterior .jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Paul Winch-Furness"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

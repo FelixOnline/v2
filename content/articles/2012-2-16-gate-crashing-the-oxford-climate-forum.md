@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Caroline Wood escapes London for a sustainable future
 date: "2012-02-16 23:12:40 +0000"
+# Attributes from Felix Online V1
 id: "2219"
 old_path: /news/2219/gate-crashing-the-oxford-climate-forum
 aliases:
  - /news/2219/gate-crashing-the-oxford-climate-forum
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

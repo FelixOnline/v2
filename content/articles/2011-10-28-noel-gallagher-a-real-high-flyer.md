@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Alex Roocroft is impressed by the Oasis guitarist’s solo debut
 date: "2011-10-28 11:27:26 +0100"
+# Attributes from Felix Online V1
 id: "1640"
 old_path: /music/1640/noel-gallagher-a-real-high-flyer
 aliases:
  - /music/1640/noel-gallagher-a-real-high-flyer
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201110281213-felix-noel-1.jpg"
 image_caption: >
   Noel takes particular care when framing his shots
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

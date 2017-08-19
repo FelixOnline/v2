@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Felix interviews MK Haneen Zoabi
 date: "2010-10-14 19:28:37 +0100"
+# Attributes from Felix Online V1
 id: "207"
 old_path: /politics/207/arabs-in-israel-
 aliases:
  - /politics/207/arabs-in-israel-
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

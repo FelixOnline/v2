@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Fred Fyles is blown away at the Barbican
 date: "2014-06-06 02:45:18 +0100"
+# Attributes from Felix Online V1
 id: "4662"
 old_path: /arts/4662/what-a-testament
 aliases:
  - /arts/4662/what-a-testament
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201406060346-jal08-arts-mary2.jpeg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "© Brigitte Lacombe"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

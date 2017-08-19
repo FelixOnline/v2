@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Get bag on trend with this selection of carrying paraphernalia
 date: "2012-07-16 12:03:13 +0100"
+# Attributes from Felix Online V1
 id: "2586"
 old_path: /fashion/2586/bag-to-basics
 aliases:
  - /fashion/2586/bag-to-basics
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201207161309-mc4509-bags.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Prior to writing this review, I stumbled upon a recent YouTube recording of Wild Beasts performing a mellow and slightly mocking rendition of Miley Cyrus’ Wrecking Ball.
 date: "2014-03-07 05:47:10 +0000"
+# Attributes from Felix Online V1
 id: "4465"
 old_path: /music/4465/wild-beasts---present-tense
 aliases:
  - /music/4465/wild-beasts---present-tense
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "jal08"
 author_name: "Joseph A L Letts"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

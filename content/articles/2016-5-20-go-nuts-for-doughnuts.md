@@ -4,15 +4,20 @@ title: >
 subtitle: >
   FELIX presents your guide to the best doughnuts in London
 date: "2016-05-20 09:22:15 +0100"
+# Attributes from Felix Online V1
 id: "6191"
 old_path: /food/6191/go-nuts-for-doughnuts
 aliases:
  - /food/6191/go-nuts-for-doughnuts
-category: food
 
+# Article Taxonomies
+categories:
+ - food
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201605201119-felix-Document2.jpg"
 image_caption: >
   CW from top left: nutella duffin, earl grey with soaked prune, apple crumble,  salted caramel cheesecake cruffin.
@@ -22,6 +27,7 @@ image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

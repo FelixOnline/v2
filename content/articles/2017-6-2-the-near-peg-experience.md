@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The ultimate feminist sexual act and a culture’s fear and obsession with butt stuff
 date: "2017-06-02 13:53:44 +0100"
+# Attributes from Felix Online V1
 id: "6999"
 old_path: /sex/6999/the-near-peg-experience
 aliases:
  - /sex/6999/the-near-peg-experience
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021553-felix-Screen Shot 2017-06-02 at 15.53.05.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

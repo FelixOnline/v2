@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The shortlist of BAFTA nominees for Best British Short Film and Animation are daring in their scope, but the quality of some leaves a little to be desired
 date: "2017-02-10 15:21:07 +0000"
+# Attributes from Felix Online V1
 id: "6761"
 old_path: /film/6761/british-short-films-take-us-around-the-globe
 aliases:
  - /film/6761/british-short-films-take-us-around-the-globe
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101520-felix-Tough_festival_still00002_1000.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Jennifer Zheng"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

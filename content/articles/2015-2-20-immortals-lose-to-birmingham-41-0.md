@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A disappointing scoreline ahead of their final game of the season next Sunday 22nd February
 date: "2015-02-20 00:20:15 +0000"
+# Attributes from Felix Online V1
 id: "5285"
 old_path: /sport/5285/immortals-lose-to-birmingham-41-0
 aliases:
  - /sport/5285/immortals-lose-to-birmingham-41-0
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "cj914"
 author_name: "Cecily Johnson"
 author_image_path: "img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"

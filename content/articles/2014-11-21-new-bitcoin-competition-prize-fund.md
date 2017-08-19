@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Competition launched by Business school for blockchain technology development
 date: "2014-11-21 13:22:59 +0000"
+# Attributes from Felix Online V1
 id: "4929"
 old_path: /news/4929/new-bitcoin-competition-prize-fund
 aliases:
  - /news/4929/new-bitcoin-competition-prize-fund
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411211321-ps3110-bitcoin11.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

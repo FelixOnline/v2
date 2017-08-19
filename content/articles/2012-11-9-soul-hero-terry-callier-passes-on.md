@@ -4,15 +4,20 @@ title: >
 subtitle: >
   United Nations gave him an award, and he got fired...
 date: "2012-11-09 14:06:31 +0000"
+# Attributes from Felix Online V1
 id: "2867"
 old_path: /music/2867/soul-hero-terry-callier-passes-on
 aliases:
  - /music/2867/soul-hero-terry-callier-passes-on
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201211091506-sh1207-terry_callier_1351512313_crop_550x425.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sh1207"
 author_name: "Simon Hunter"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Guo Heng Chin guides us through the nuts and bolts of a good story
 date: "2011-06-02 20:10:42 +0100"
+# Attributes from Felix Online V1
 id: "1318"
 old_path: /arts/1318/the-art-of-storytelling
 aliases:
  - /arts/1318/the-art-of-storytelling
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201106022110-felix-valentin_paul_writing1800x1337.jpg"
 image_caption: >
   Valentin Paul being an absolute boss, we wouldn’t expect any less
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

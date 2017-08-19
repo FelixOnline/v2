@@ -4,15 +4,20 @@ title: >
 subtitle: >
   East Meets West 2015 presents Highway
 date: "2015-02-20 00:25:44 +0000"
+# Attributes from Felix Online V1
 id: "5286"
 old_path: /cands/5286/hit-the-highway-with-indian-society
 aliases:
  - /cands/5286/hit-the-highway-with-indian-society
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502200025-ps3110-screen-shot-2015-02-20-at-00.25.30.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Chaos and noise, as Holy Fuck dominate the Electric Ballroom
 date: "2010-12-09 20:26:29 +0000"
+# Attributes from Felix Online V1
 id: "522"
 old_path: /music/522/holy-fuck-what-thats-their-name
 aliases:
  - /music/522/holy-fuck-what-thats-their-name
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012092024-ma1307-Holyfuck.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

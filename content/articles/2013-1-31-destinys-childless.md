@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lucy Hagger teaches us about the birds, the bees and the pill with some biology thrown in
 date: "2013-01-31 23:28:46 +0000"
+# Attributes from Felix Online V1
 id: "3208"
 old_path: /science/3208/destinys-childless
 aliases:
  - /science/3208/destinys-childless
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201301312328-tna08-destinys-child-love-songs-nuclear.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

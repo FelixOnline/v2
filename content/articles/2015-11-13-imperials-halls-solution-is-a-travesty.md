@@ -4,15 +4,20 @@ title: >
 subtitle: >
   The accomodation rent hikes are extortion, plain and simple
 date: "2015-11-13 14:31:30 +0000"
+# Attributes from Felix Online V1
 id: "5725"
 old_path: /comment/5725/imperials-halls-solution-is-a-travesty
 aliases:
  - /comment/5725/imperials-halls-solution-is-a-travesty
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

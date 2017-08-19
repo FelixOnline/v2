@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An essential classic for any music lover, says Clare Cheng
 date: "2011-12-01 20:53:50 +0000"
+# Attributes from Felix Online V1
 id: "1876"
 old_path: /music/1876/origin-of-symmetry
 aliases:
  - /music/1876/origin-of-symmetry
-category: music
 
+# Article Taxonomies
+categories:
+ - music
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201112012052-pk1811-musecover.jpg"
 image_caption: >
   The best forking album by the best forking band to ever set foot on forking Earth
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "pk1811"
 author_name: "Philip Kent"
 author_image_path: "img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"

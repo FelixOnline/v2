@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Challenging task ahead for Brad Amos
 date: "2012-05-18 11:10:24 +0100"
+# Attributes from Felix Online V1
 id: "2465"
 old_path: /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
 aliases:
  - /science/2465/inventor-of-confocal-microscope-develops-new-giant-lens
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201205181210-felix-screen-shot-2012-05-15-at-5.57.22-pm.jpg"
 image_caption: >
   Nerve cells captured with Amos’ mesolens
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

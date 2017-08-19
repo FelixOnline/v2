@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Lef Apostolakis joins the protesters and asks them whether recent developments have given British politics a second wind
 date: "2017-02-03 15:12:49 +0000"
+# Attributes from Felix Online V1
 id: "6709"
 old_path: /features/6709/-students-take-to-the-streets-to-protest-trump--are-the-days-of-political-apathy-over-
 aliases:
  - /features/6709/-students-take-to-the-streets-to-protest-trump--are-the-days-of-political-apathy-over-
-category: features
 
+# Article Taxonomies
+categories:
+ - features
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702031512-felix-Trump-21.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Izzat Rais"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

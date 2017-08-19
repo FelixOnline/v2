@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week’s tour guide is Sanchit Sharma. Feel free to ask him any questions
 date: "2013-06-13 22:37:03 +0100"
+# Attributes from Felix Online V1
 id: "3680"
 old_path: /games/3680/welcome-to-esther-island
 aliases:
  - /games/3680/welcome-to-esther-island
-category: games
 
+# Article Taxonomies
+categories:
+ - games
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306132339-tna08-de_lighthouse.jpg"
 image_caption: >
   Oh God no! The UrbEx itch is back! Probably need some tetanus jabs after though....
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

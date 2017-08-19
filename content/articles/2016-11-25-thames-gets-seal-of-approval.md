@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Emma Parkin talks seal sightings and how the Thames has cleaned up its act
 date: "2016-11-25 13:39:17 +0000"
+# Attributes from Felix Online V1
 id: "6502"
 old_path: /science/6502/thames-gets-seal-of-approval
 aliases:
  - /science/6502/thames-gets-seal-of-approval
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201611251338-felix-harbor-seal-991422_1280.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

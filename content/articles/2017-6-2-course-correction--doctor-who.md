@@ -4,15 +4,20 @@ title: >
 subtitle: >
   So far so good
 date: "2017-06-02 13:21:21 +0100"
+# Attributes from Felix Online V1
 id: "6993"
 old_path: /tv/6993/course-correction--doctor-who
 aliases:
  - /tv/6993/course-correction--doctor-who
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201706021521-felix-dw.jpg"
 image_caption: >
   This is why you always wear a seatbelt
@@ -22,6 +27,7 @@ image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Rhys Davies just can't argue with trees
 date: "2010-02-27 17:02:27 +0000"
+# Attributes from Felix Online V1
 id: "110"
 old_path: /comment/110/rhys-davies-just-cant-argue-with-trees
 aliases:
  - /comment/110/rhys-davies-just-cant-argue-with-trees
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "rsp07"
 author_name: "Ravi S Pall"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
+# Attributes from Felix Online V1
 id: "5287"
 old_path: /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
 aliases:
  - /cands/5287/its-time-for-you-to-get-involved--student-volunteering-week-2015
-category: clubs-and-socs
 
+# Article Taxonomies
+categories:
+ - clubs-and-socs
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201502200029-ps3110-screen-shot-2015-02-20-at-00.28.51.png"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

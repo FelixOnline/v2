@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Sara Hamilton reports on China’s new approach towards environmental legislation
 date: "2017-02-10 14:04:55 +0000"
+# Attributes from Felix Online V1
 id: "6753"
 old_path: /science/6753/china-charges-ahead-environmentally
 aliases:
  - /science/6753/china-charges-ahead-environmentally
-category: science
 
+# Article Taxonomies
+categories:
+ - science
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201702101404-felix-smoke-1580460_1920.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

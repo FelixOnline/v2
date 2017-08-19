@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Yes. We fucked fruit for you.
 date: "2016-12-16 16:21:09 +0000"
+# Attributes from Felix Online V1
 id: "6624"
 old_path: /sex/6624/tossing-fruit-salad-
 aliases:
  - /sex/6624/tossing-fruit-salad-
-category: sex
 
+# Article Taxonomies
+categories:
+ - sex
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201612161620-felix-2740283397_3088a90c4f_o.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Vladimir Morozov"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: ""
 author_name: ""
 author_image_path: ""

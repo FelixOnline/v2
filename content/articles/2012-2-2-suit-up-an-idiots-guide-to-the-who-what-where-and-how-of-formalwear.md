@@ -4,15 +4,20 @@ title: >
 subtitle: >
   A wise man once said that there is only one thing a man can do when he’s suffering from a spiritual and existential funk. Go to the zoo, flip off the monkeys? “No,” says Ron Burgundy, “buy new suits.” Saskia Verhagen and Alice Yang show you the ropes.
 date: "2012-02-02 20:32:58 +0000"
+# Attributes from Felix Online V1
 id: "2098"
 old_path: /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
 aliases:
  - /fashion/2098/suit-up-an-idiots-guide-to-the-who-what-where-and-how-of-formalwear
-category: fashion
 
+# Article Taxonomies
+categories:
+ - fashion
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201202081511-pk1811-dg-db.jpg"
 image_caption: >
   Dolce & Gabbana
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "mc4509"
 author_name: "Matthew N Colvin"
 author_image_path: "img/upload/201102102106-ks607-mattcolv.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   ICSM Drama sets the stage alight with a little cross-dressing and a lot of fun
 date: "2012-03-08 20:25:42 +0000"
+# Attributes from Felix Online V1
 id: "2315"
 old_path: /arts/2315/hot-or-imperial-hot
 aliases:
  - /arts/2315/hot-or-imperial-hot
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201203082024-ams111-somelikeit.jpg"
 image_caption: >
   Birmingham's attempt to match London Fashion Week fell a little short of the mark
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ams111"
 author_name: "Annina M Sartor"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   This week, it's Jiro Dreams of Sushi
 date: "2015-11-06 14:13:19 +0000"
+# Attributes from Felix Online V1
 id: "5708"
 old_path: /film/5708/documentary-corner
 aliases:
  - /film/5708/documentary-corner
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201511061412-ygr12-jiro-dreams-of-sushi-netflix1.png"
 image_caption: >
   Sushi-master Jiro, with his team.
@@ -22,6 +27,7 @@ image_attribution: "Jiro Dreams of Sushi PR"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ygr12"
 author_name: "Grace G Rahman"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

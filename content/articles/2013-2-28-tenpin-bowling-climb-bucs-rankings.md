@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Tsz Ki Chiu is bowled over with their success
 date: "2013-02-28 23:48:02 +0000"
+# Attributes from Felix Online V1
 id: "3395"
 old_path: /sport/3395/tenpin-bowling-climb-bucs-rankings
 aliases:
  - /sport/3395/tenpin-bowling-climb-bucs-rankings
-category: sport
 
+# Article Taxonomies
+categories:
+ - sport
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201302282347-tna08-bowling.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

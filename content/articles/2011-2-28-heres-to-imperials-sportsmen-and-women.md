@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Despite our unshakeable reputation for being nerds that goes hand in hand with the whole “science” thing, there are probably way more sports fans here than you think
 date: "2011-02-28 20:32:47 +0000"
+# Attributes from Felix Online V1
 id: "929"
 old_path: /comment/929/heres-to-imperials-sportsmen-and-women
 aliases:
  - /comment/929/heres-to-imperials-sportsmen-and-women
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "felix"
 author_name: "Lef Apostolakis  - Felix Editor"
 author_image_path: "img/upload/201610031803-felix-IMG_0035.JPG"

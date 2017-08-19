@@ -4,15 +4,20 @@ title: >
 subtitle: >
   An editorial written in the midst of a dilemma about what to do with the rest of my life.
 date: "2013-01-17 23:44:37 +0000"
+# Attributes from Felix Online V1
 id: "3118"
 old_path: /comment/3118/where-to-work
 aliases:
  - /comment/3118/where-to-work
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

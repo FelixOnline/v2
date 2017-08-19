@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Hassan Joudi assesses the coalition’s new openness website
 date: "2010-11-25 21:18:15 +0000"
+# Attributes from Felix Online V1
 id: "438"
 old_path: /politics/438/a-gimmick-or-new-era-of-transparency
 aliases:
  - /politics/438/a-gimmick-or-new-era-of-transparency
-category: politics
 
+# Article Taxonomies
+categories:
+ - politics
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "nm1010"
 author_name: "Niharika Midha"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

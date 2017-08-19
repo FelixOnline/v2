@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Six months to leave the space after lease is rescinded Opticians told a catering facility will replace them
 date: "2013-06-13 23:16:44 +0100"
+# Attributes from Felix Online V1
 id: "3691"
 old_path: /news/3691/opticians-on-walkway-shutting-down
 aliases:
  - /news/3691/opticians-on-walkway-shutting-down
-category: news
 
+# Article Taxonomies
+categories:
+ - news
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201306140016-tna08-optician.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "tna08"
 author_name: "Tim Arbabzadah"
 author_image_path: "img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"

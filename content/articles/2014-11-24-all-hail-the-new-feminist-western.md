@@ -4,15 +4,20 @@ title: >
 subtitle: >
   John Park reviews this modern take on a classic film genre
 date: "2014-11-24 12:49:22 +0000"
+# Attributes from Felix Online V1
 id: "4945"
 old_path: /film/4945/all-hail-the-new-feminist-western
 aliases:
  - /film/4945/all-hail-the-new-feminist-western
-category: film
 
+# Article Taxonomies
+categories:
+ - film
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201411241249-ps3110-the-homesman-cmyk.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: "Photo: Tommy Lee Jones/Ithaca"
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ps3110"
 author_name: "Philippa M Skett"
 author_image_path: "img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"

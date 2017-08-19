@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Latest episode demonstrates how not to tackle a rape storyline
 date: "2013-10-12 19:18:36 +0100"
+# Attributes from Felix Online V1
 id: "3851"
 old_path: /tv/3851/dark-days-in-downton-abbey
 aliases:
  - /tv/3851/dark-days-in-downton-abbey
-category: tv
 
+# Article Taxonomies
+categories:
+ - tv
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201310122018-jal08-tv2-copy.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ef510"
 author_name: "Emily Fulham"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

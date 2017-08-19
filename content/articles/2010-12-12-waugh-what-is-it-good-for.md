@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Even the Old Red Lion couldn't save Decline & Fall
 date: "2010-12-12 17:07:29 +0000"
+# Attributes from Felix Online V1
 id: "555"
 old_path: /arts/555/waugh-what-is-it-good-for-
 aliases:
  - /arts/555/waugh-what-is-it-good-for-
-category: arts
 
+# Article Taxonomies
+categories:
+ - arts
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/img/upload/201012121705-ks607-deckwqd.jpg"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "ks607"
 author_name: "Kadhim Shubber"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"

@@ -4,15 +4,20 @@ title: >
 subtitle: >
   Using the analogy of cereals, you can see why we should all just live and let live
 date: "2011-11-03 21:27:18 +0000"
+# Attributes from Felix Online V1
 id: "1686"
 old_path: /comment/1686/religious-tolerance-is-oatso-simple
 aliases:
  - /comment/1686/religious-tolerance-is-oatso-simple
-category: comment
 
+# Article Taxonomies
+categories:
+ - comment
+tags:
 headline: true
 featured: true
 
+# Image metadata
 image_path: "http://felixonline.co.uk/"
 image_caption: >
 
@@ -22,6 +27,7 @@ image_attribution: ""
 image_attribution_link: ""
 video_url: ""
 
+# Author metadata
 author_id: "sjw209"
 author_name: "Simon Worthington"
 author_image_path: "img/upload/201102092131-jk708-FelixPro.jpg"
