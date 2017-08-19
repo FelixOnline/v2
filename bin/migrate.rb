@@ -7,7 +7,7 @@ require 'nokogiri'
 
 host     = ARGV[0] || "0.0.0.0"
 username = ARGV[1] || "root"
-password = ARGV[2] || "root"
+password = ARGV[2] || "password"
 database = ARGV[3] || "felix"
 
 Dir.glob("_posts/*").each do |post|
@@ -147,5 +147,5 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   filename = "#{r["article_date"].year}-#{r["article_date"].month}-#{r["article_date"].day}-#{r["article_title"].downcase.strip.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}"
 
   # TODO: some articles are missing in the exported folder, investigate
-  File.write("_posts/#{filename}.md", md.join("\n") + "\n")
+  File.write("content/articles/#{filename}.md", md.join("\n") + "\n")
 end
