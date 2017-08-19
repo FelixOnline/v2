@@ -25,7 +25,8 @@
         </div>
          <div class="title">
           <a href="{{ .Permalink }}">{{ .Title }}</a>
-          <span class="author">By Fred Fyles</span>
+          {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+          <span class="author">{{ $authorPage.Title }}</span>
         </div>
       </div>
     {{ end }}
