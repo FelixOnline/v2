@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The landmark exhibition brings together 50 years of art and technology co-evolution
 date: "2016-02-05 12:14:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5873"
@@ -33,15 +34,6 @@ image_height: "1774"
 image_attribution: "Courtesy of Whitechapel Gallery."
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The phrase ‘electronic superhighway’ has become, a mere 40 or so years after it was coined, no more than a vague anachronism. The concept, envisioned by artist Nam June Paik in the mid-70s, has fast become a relic of the bygone age of utopian technology. While Paik’s idea of a communication revolution that has become so far-reaching as to become, in his words, ‘a springboard for new and surprising human endeavors’, modern technology has instead brought with it the threat of coercion, manipulation, and ever-present surveillance. While such an optimistic view of human endeavors has since been consigned to the growing pile of historical disappointments, the Whitechapel Gallery is unafraid to take a retrospective look at the concept. Indeed, it forms the name of its newest exhibition, which looks back at the past 50 years of interaction between the artistic and the digital; the phrase’s ethos is reflected in this retrograde collection of work, which is exuberant, ground-breaking, and wholly revolutionarily.

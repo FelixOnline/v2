@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Top research powerhouses form new consortium
 date: "2013-05-16 20:41:29 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3590"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has partnered with Oxford, Cambridge, UCL and Southampton to form a new consortium named Science and Engineering South Consortium (SES-5). The idea is to innovate and explore new ideas through collaboration. The SES-5 have a combined annual research spend of over £1.3 billion. Together they hold a substantial amount of the research awards. The universities involved are five of the six top research powers in the UK.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   President ‘discussing possibility’ of affiliating after College decision to leave
 date: "2011-06-09 20:55:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1344"
@@ -33,15 +34,6 @@ image_height: "3008"
 image_attribution: "Imperial College London/Jan Chlebik"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Union has criticised the College’s decision to [cut ties with the science lobby group CaSE](http://felixonline.co.uk/news/1291/imperial-cuts-ties-with-case/), calling the decision “cynical” and suggesting that the Union itself could affiliate with the group independently.

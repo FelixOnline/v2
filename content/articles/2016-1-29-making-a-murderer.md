@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You'll have to watch it eventually
 date: "2016-01-29 10:02:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5857"
@@ -34,15 +35,6 @@ image_height: "403"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Making a Murderer, released to stream on Netflix in December 2015, is Netflix’s second foray into documentary filmmaking after the mostly ignored Chef’s Table. It has already been described by many as the service’s most addictive program yet.

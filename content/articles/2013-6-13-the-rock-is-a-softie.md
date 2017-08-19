@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Snitch review
 date: "2013-06-13 23:35:52 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3695"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just because Dwayne “The Rock” Johnson is headlining a film that contains the plot of drug-trafficking, doesn’t automatically turn this into an action-packed ride. Which is a great surprise, since Johnson is taken out of his usual comfort zone, and his role here actually requires him to show a range of emotions to sell this story that is based on true events. And it’s certainly a change in gear that he handles extremely well, as with Snitch, Johnson shows that he has more to offer than his macho side throwing punches.

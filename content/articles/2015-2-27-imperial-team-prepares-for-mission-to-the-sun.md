@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial involved in ESA mission to improve our understanding of solar wind
 date: "2015-02-27 00:33:57 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5312"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Thomas Angus"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A team of researchers from the Space and Atmospheric Physics group have reached a new milestone in their mission to study the sun’s magnetic field.

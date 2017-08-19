@@ -4,6 +4,7 @@ title: >
 subtitle: >
   4 games you have to play before 2016, with GIFs
 date: "2015-12-14 16:16:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5817"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 TODO: image from

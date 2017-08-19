@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simone Buitendijk discusses online learning, Brexit and more
 date: "2016-12-09 15:33:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6572"
@@ -33,15 +34,6 @@ image_height: "484"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **So I guess we should probably start by welcoming you to Imperial. How are you finding it so far?**

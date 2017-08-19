@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course!
 date: "2013-11-24 16:09:08 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4112"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 What could possibly link Angelina Jolie and the first female President of Sri Lanka, Chandrika Bandaranaike Kumaratunga? Why William Hague and last week’s Commonwealth summit, of course! There has been a bizarre image occasionally popping up over the past few months, of a rather smitten MP standing beside Angelina Jolie talking about the horrors of rape and abuse that women suffer the world over. The most striking image I have of Kumaratunga is, perhaps, less comical: she had made a speech in Colombo brutally criticising the mass murder and war crimes committed by the Sri Lankan government in the closing stages of the ‘war’ against the Tamil ‘Tigers’. I never expected to hear a former head of state claim to be ashamed at being from the country they served but these were the words that came from Kumaratunga’s mouth.

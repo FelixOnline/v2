@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are you a victim of the global smartphone dictatorship?
 date: "2013-03-15 01:16:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3471"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Smartphones affect almost every aspect of the average student’s life. Marvels of modern technology, something underlined by the much quoted: “your smartphone has the equivalent processing power of the computers used for the Apollo space missions”, they have revolutionised the way we interact with other human beings as well as giving us tools to accomplish a multitude of tasks. In a sense these increasingly powerful devices have freed us from a desk-bound environment, as they can fulfil many tasks that your average desktop would do. All in all it seems smartphones enrich our daily lives.

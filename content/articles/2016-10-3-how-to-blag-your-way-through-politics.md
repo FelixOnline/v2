@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey teaches you how to look like you know what you’re talking about, without any of the pesky consequences of expressing an opinion.
 date: "2016-10-03 18:47:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6305"
@@ -34,15 +35,6 @@ image_height: "1989"
 image_attribution: "Ted Eytan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Are you more _won’t_ than _woke_ when it comes to talking politics? Do you despair at any mention of David Cameron, tremble at the thought of Theresa May, or cower away from Corbyn?

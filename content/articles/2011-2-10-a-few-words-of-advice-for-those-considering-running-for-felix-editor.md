@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Humility and fatigue; one is necessary, the other unavoidable
 date: "2011-02-10 21:00:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "790"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As the elections grow ever closer and each of the Union's Sabbaticals offers an account of their experiences and some advice for would-be successors, the arrogant urge to do the same has become uncontrollable. It would be farcical to interview oneself so I shall instead substitute what is usually a space to editorialise on 'the issue of the day' with some words of advice for the man or woman that will follow me.

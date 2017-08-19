@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park likes but is not overawed by this tale
 date: "2013-02-07 22:57:30 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3249"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Once upon a time there was a man named Alfred Hitchcock (Hopkins) and he was as huge hit in Hollywood. Many of his pictures were critically acclaimed and considerable financial success stories, with audiences worldwide entertained with his suspenseful movies. The year is 1959, and the English director is enjoying the immense hit of his latest, North by Northwest. Aged 60, is it time for him to retire whilst he’s ahead? A reporter asks. Never; as he is never finished exploring his artistic daring. With the bar set this high now, anticipation builds on what will become his next project. After a long period of searching for something he feels is exactly right, he settles on the story based on serial killer Ed Gein (Michael Wincott), who used to skin his victims. And of course, a film titled Psycho has boardroom executives and censors troubled with its potentially bold, offensive content.

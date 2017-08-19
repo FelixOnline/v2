@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Major delays on the Felix Line due to a signal failure in the Copy Editor area.
 date: "2011-12-01 21:23:55 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1890"
@@ -34,15 +35,6 @@ image_height: "1161"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Reading that title, you can probably roughly guess what this article is going to be about. It’s the trains in Britain. I used to think the trains being often delayed, expensive and not running much on the weekend was an Essex thing, innit. It appears that I was wrong in that assumption, and Mock The Week panellists must be pleased that it’s widespread enough for everyone to appreciate their jokes. I’m just going to go straight for the jugular here: the trains in Britain need to be renationalised

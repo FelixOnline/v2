@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Umar Nasser talks about the controversy over "that" film over summer
 date: "2012-10-05 12:57:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2619"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Make no mistake: “The Innocence of Muslims” is a vile film, and an insult to the Founder of Islam and Muslims the world over. Yet the response to it across the Muslim world has done far more to tarnish the name of Islam than any short film ever could.

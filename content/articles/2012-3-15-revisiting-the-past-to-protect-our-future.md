@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students from Imperial Jewish Society travelled to Lithuania to explore the country’s Jewish heritage. JSoc member Andrea Levy describes the experience of revisiting the past
 date: "2012-03-15 21:07:26 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2370"
@@ -33,15 +34,6 @@ image_height: "138"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Imperial JSoc ](http://www.union.ic.ac.uk/scc/jewish/)members wrapped up to keep warm in -25ºC temperatures during their heritage trip to Lithuania.

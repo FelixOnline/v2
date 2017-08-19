@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5623"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Hazel Coonagh"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sometimes, a creative piece comes along that leaves you thinking about its issues for a long time, surfacing now and then as a question, emerging here and there as an idea. These works leave an imprint of the artist’s thoughts on you, and you are left with a view of the world through another’s eyes. Sometimes, the full brilliance of these ideas do not take you over until you have turned the words over again and again, passed them between your hands, rubbed them between your fingers. They do what effective art is meant to do – make you ponder.

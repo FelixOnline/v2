@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Enjoy Andy Djaba's rant on his love-hate relationship with Drake
 date: "2017-02-10 15:25:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6763"
@@ -34,15 +35,6 @@ image_height: "3056"
 image_attribution: "musicientropy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Desiigner’s Panda played in the O2 arena as I sat high up waiting for Drake to take to the stage, so high up that I genuinely had a nosebleed during the show. I couldn’t help but overhear the comments of the girls sitting beside me. “I’m so glad they made a song about my favourite animal”, one said whilst her friend dabbed a bit too enthusiastically. I find myself switching from Drizzy fan boy to Drizzy hater on a regular basis. How many hip-hop artists could sell out the O2 for so many dates? On the other hand, his music has infiltrated the mainstream to such an extent that his core fan base is starting to consist largely of a group that don’t appreciate many other hip-hop artists. Is this good for the culture?

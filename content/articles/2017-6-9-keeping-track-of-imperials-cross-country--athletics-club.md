@@ -4,6 +4,7 @@ title: >
 subtitle: >
   if you're gonna follow them tho get a golf cart or something 'cos they're fast
 date: "2017-06-09 15:42:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7022"
@@ -33,15 +34,6 @@ image_height: "625"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Saturday the 27th of May saw the final event in the London Universities and Colleges Athletics (LUCA) outdoors championship take place. The series of three athletics meets between the London universities had previously visited St. Mary’s and Woodford athletics tracks, and the destination for the final was Battersea’s Millennium Arena.

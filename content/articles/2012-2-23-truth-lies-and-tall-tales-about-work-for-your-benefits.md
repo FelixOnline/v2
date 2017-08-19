@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Smith conducts an in-depth investigation of the Workfare scandal. Is it really forced labour? Who is benefitting from it? And what is our government doing in our name?
 date: "2012-02-23 23:58:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2268"
@@ -34,15 +35,6 @@ image_height: "1300"
 image_attribution: "Joseph O'Brien"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A spectre is haunting our futures – the spectre of unemployment. Most of us are soon-to-be graduates: some of us, inevitably, are the soon-to-be unemployed. With every month, [increasing numbers](http://www.guardian.co.uk/business/2012/feb/15/uk-unemployment-high-economy-flatlines) of young people are finding themselves jobless, and increasing numbers are turning to the government for support.

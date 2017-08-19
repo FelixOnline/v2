@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A few words from the Editor-in-Chief
 date: "2013-10-03 23:02:54 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3795"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 So, who knew that preparing for the Freshers’ Fair would only leave two days to produce and send off a newspaper? Certainly not me, despite my Imperial education, sometimes it makes you wonder what I actually did.

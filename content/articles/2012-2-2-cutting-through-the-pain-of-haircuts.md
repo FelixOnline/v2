@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Close shaves and the perils of the barber
 date: "2012-02-02 23:42:28 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2114"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever had to endure torture? Well, I have, and so have you. On Wednesday the 25th of January, I – wait for this – had a haircut. If that doesn’t immediately draw you in, I don’t know what will. I know it may be a bit over the top to call this torture, but bear with me.

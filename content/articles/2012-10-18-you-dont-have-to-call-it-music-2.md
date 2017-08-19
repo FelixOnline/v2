@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pt. 2 a new ear for classical, or: what post-war Polish composition has to do with British breakcore
 date: "2012-10-18 21:35:32 +0100"
+author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2713"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "im808"
-author_name: "Inigo Martinez de Rituerto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: "http://thebigracket.blogspot.com/"
-author_website_title: "The Big Racket! @ IC Radio"
 ---
 
 Classical music has been all but abandoned by the generations following the XX Century iconoclasts. Swept aside by the hormonal avalanche of the baby boomers, modern music since __Elvis__ turned to Africa for salvation from the amorphous excursions of the decades before. Percussion has informed practically all non-classical music since then, from rock’n’roll to jazz, and eventually hip-hop and techno. Rhythm and simplicity were the order of the day. Hour-long orchestral narratives were no longer acceptable. In an age of acceleration, brevity was the only way to be heard.

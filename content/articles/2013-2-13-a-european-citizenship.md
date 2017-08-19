@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the first of two articles about our friends from across the Channel, Leonardo Ialongo lays out the case for European integration
 date: "2013-02-13 16:07:02 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3309"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 For an outsider to European politics, or indeed politics in general, it can often be difficult to understand the need for the European Union. Of course it helped maintain peace, but was war really possible after the atrocities of the Second World War? Although the common market was a good and necessary step, why do we need such a powerful body to regulate and limit our national sovereignty? Not to mention the incredible amount of money we have to ‘donate’ to other countries because they cannot manage their economy well. All reasonable objections, except they happen to be slightly false, or at least to say misguided.

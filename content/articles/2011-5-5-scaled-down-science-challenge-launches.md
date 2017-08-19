@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Reduced funding means this year's Science Challenge is a distinctly sober affair
 date: "2011-05-05 23:35:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1147"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Royal College of Science Union (RCSU) Science Challenge finally launched last week. The essay writing competition offers cash prizes of up to £2,000 and is open to Imperial students and students from schools in the UK. However, the competition this year is vastly scaled-down in comparison with previous years and has faced delays due to funding problems.

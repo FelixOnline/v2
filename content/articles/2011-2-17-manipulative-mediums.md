@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Have we been here in a past life? Let me save you the trouble; the answer is no
 date: "2011-02-17 20:11:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "835"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 While enjoying one of my typically exciting weekday evenings (during which I systematically avoid any kind of social interaction and retreat to the comfort of my couch), I stumbled upon a programme about past life regression presented by ethereal pundit Phillip Schofield. The grey-haired horseshit peddler asks one of the most important questions of our time – have we been here in a past life?

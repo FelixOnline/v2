@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is despite past criticism
 date: "2016-12-15 23:59:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6598"
@@ -33,15 +34,6 @@ image_height: "434"
 image_attribution: "La Tarte au Citron"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has had a pretty rocky history with Animal Research within the College and its public image. From the low point of the 2014 Home Office statement that there was a “widespread poor culture of care”, such clear progress has been made that College have now been awarded for their work towards Animal Welfare. Imperial College has been presented with a Highly Commended award in the category of Public Engagement Activity at the annual awards for Openness on Animal Research.

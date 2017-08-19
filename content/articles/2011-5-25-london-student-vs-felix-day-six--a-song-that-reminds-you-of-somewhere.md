@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day six of our 30-day Song Challenge duel
 date: "2011-05-25 11:14:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1245"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This song will forever remind me of being in the Felix office on a Thursday with Chief Copy Editor Lizzy Griffiths, with an hour or two left until the print deadline. The metronomic shake of the beat, along with the ominous thudding opening, has helped it become our copy-editing anthem (yes, I am aware of how nauseatingly lame that sentence was...)

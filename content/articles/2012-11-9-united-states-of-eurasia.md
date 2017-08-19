@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The college’s Europe-centric approach to overseas study is something we should change.
 date: "2012-11-09 12:07:31 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2844"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of my manifesto points was that there needs to be more non-European study abroad opportunities as part of our undergraduate degrees. I believe this because when you benchmark some Imperial departments against others you will see some have the University of California and the University of Melbourne as partners, while others only have partners inside Europe.

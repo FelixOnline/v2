@@ -4,6 +4,7 @@ title: >
 subtitle: >
   So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment.
 date: "2013-10-11 22:51:44 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3821"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 So, we had a some perfectly timed technical difficulties this week, much like when the printer breaks down just before you’re supposed to be handing in an assignment. I’m praying that this arrives on Friday, so if you see it when you’re out getting lunch you’ll know that today is a lucky day!

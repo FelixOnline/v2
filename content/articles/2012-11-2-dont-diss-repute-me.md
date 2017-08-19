@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Editorial on what matters, what could matter, what doesn't matter, and my glasses
 date: "2012-11-02 11:23:21 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2827"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Once more I find myself writing this right at the last minute. Standard spelling error warning. Maybe this is good as it lets me just be completely honest.

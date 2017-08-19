@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union to announce exact prices and drinks on offer later on in the summer
 date: "2012-08-03 11:47:26 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2588"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Any student visiting the Union recently (possibly for celebrating/drowning your sorrows after resits over summer) may have noticed that the pricing has changed. For example, a pint of Stella now costs £2.40, whereas before it was £2.20, resulting in a rise of 9% (9.09 both recurring, to be precise – we are at Imperial after all).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “It makes me want to throw up, it really does. It’s sick-making"
 date: "2012-11-29 23:08:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3004"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sir Anthony Hopkins, winner of the Academy Award for Best Actor for his portrayal of Hannibal Lector in The Silence of the Lambs, has labeled the Academy Awards system ‘disgusting’.

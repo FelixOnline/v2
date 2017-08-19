@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha on the first solo album of Johnny Marr
 date: "2013-02-28 23:29:48 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3388"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At 49 years of age, it seems slightly odd that it took Johnny Marr this long to put out a solo album. Renowned for being the guitarist of the influential indie pop band The Smiths in the 80’s, Marr has been busy since then playing in many bands such as Modest Mouse, accompanied by The Healers and The Cribs. So, it’s fair to say that he’s been around the block a few times, mostly in groups without taking the role of the frontman. Well, you can argue that Johnny Marr and the Healers was a bit like Marr’s own band but I reckon The Messenger has a lot more guts than Boomslang, the Healer’s only album to date.

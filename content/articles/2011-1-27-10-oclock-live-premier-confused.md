@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New political satire show gets off to a disappointing start
 date: "2011-01-27 20:11:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "687"
@@ -34,15 +35,6 @@ image_height: "352"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In the last month Channel 4’s marketing department has done well in bombarding us all with anchormanesque billboards and amusing adverts for 10 O’Clock Live, their new topical comedy show. I suspect, however, that the hype and anticipation created is where their downfall will lie. All of us were far too young to have seen the first show of say ‘Have I Got News For You’ or Paxman doing his first interview but I have vague memories of ‘Mock the Week’ having a fairly mediocre start. These shows however were allowed to develop and grow with an increasing fan base as they found their feet but I have an inkling that this show, which does have the bare bones of great television, won’t be allowed that space to breathe and regroup. I can see why Channel 4 has gone with this approach though. The success of their alternative election coverage has prompted 10 O’Clock Live. Pissing everyone off by ending the Daily Show from airing every day and touting 10 O’Clock live as an alternative was a mistake. Talk about setting the bar far, far too high.

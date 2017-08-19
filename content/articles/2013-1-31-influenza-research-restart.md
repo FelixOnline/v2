@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the H5N1 moratorium and why caution isn’t bad
 date: "2013-01-31 23:31:49 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3209"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "With great power comes great responsibility,” one wise man once said. Although he was unknowingly hinting at those with super powers to tread carefully, it too can be applied in the wider context to those that have the capacity to seriously affect people, either for good or bad. Right now, scientists are the super heroes of the real world (that includes you, so feel free to give yourself a pat on the back right now. Yes, even if you are alone in the Library Café), and with technology accelerating at metaphorical speeds to the point where we had to even redefine the greatest literal speed, great responsibility needs to come into play too.

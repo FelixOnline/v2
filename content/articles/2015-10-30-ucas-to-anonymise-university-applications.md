@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Graduate employers have also committed to anonymising candidates
 date: "2015-10-30 12:28:28 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5682"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Reuters"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week the government announced plans to remove candidate names from university applications in a move to prevent unconscious bias against ethnic minority candidates.

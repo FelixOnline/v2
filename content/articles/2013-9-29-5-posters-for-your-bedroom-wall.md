@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Arianna Sorba turns your house into a home with posters that make you look cool, even if you aren't
 date: "2013-09-29 14:23:12 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3772"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 ####  1. Chinese Girl

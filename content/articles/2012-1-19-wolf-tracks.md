@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto speaks to the animals ahead of their appearance at next Saturday’s Felix Music Night
 date: "2012-01-19 21:17:43 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2028"
@@ -33,15 +34,6 @@ image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 ___Who’s who?___

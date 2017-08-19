@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5511"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s not much change at the top in Cameron’s cabinet reshuffle, but in the ‘bottom’ half there are far more young and fresh faces, including more women.

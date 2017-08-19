@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But they may actually be worse off than this year’s group, and here’s why
 date: "2016-06-10 08:23:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6253"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "icu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Next year’s sabbs, who were elected in March and take up their roles officially this August, will, on paper, become the best-paid full-time sabbatical officers in the country. They’ll have jumped from fourteenth highest-paid sabbs to the highest, beating last year’s highest, LSE, who pay a modest £26,582 a year. Technically, these officer trustee roles are getting a £10,000 or so pay rise in the space of one year (from £20,160 this year to £29,800). It sounds like a lot, but it’s only slightly higher than the 2013 figures for the average Imperial grad’s starting salary (£29,200). If you look at what the current sabbs get in terms of a remuneration package, next year’s cohort may actually be getting a worse deal.

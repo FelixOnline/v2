@@ -4,6 +4,7 @@ title: >
 subtitle: >
    The sheer drama of waving around metal stakes is thrilling...
 date: "2011-02-03 18:52:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "706"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Meat. That quintessential ingredient of all meals. The point of any fare. Or so I’ve been told. I love food; lunch, brunch, pudding, tea, tapas and amuse-bouche are all held in fond regard. I could however easily forgo meat. I’m not a vegetarian. I would definitely not want to be part of that fringe group, though they have my sympathies. Having seen the abuse my sister puts up with from all you rabid animals, I wouldn’t tarnish myself with that brush.

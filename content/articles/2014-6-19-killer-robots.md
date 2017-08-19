@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The end is nigh!!!!!!
 date: "2014-06-19 18:44:01 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4695"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Recently a new breakthrough was achieved in the field of robotics. Pepper, a robot from Japan, is now able to read emotions from its human masters.__

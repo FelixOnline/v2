@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stop press: our editor is Greek
 date: "2016-10-14 09:22:38 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6327"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Foreign and Commonwealth Office"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Plans released at the Conservative Party Conference last week outlined a proposal for a register of foreign workers in UK companies. Amber Rudd, the new Home Secretary, announced that companies may be forced to submit a list of workers to the government in order to “nudge them into better behaviour”. Reading between the lines, this was a plan to foreign-shame companies into hiring local, British workers.

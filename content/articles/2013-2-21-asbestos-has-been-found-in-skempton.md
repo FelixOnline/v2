@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-21 23:47:52 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3349"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Recently released [College Council minutes](https://workspace.imperial.ac.uk/secretariat/Public/Minutes/Council/Council%20Minutes%2025%20Sept%202012.pdf) from last September have revealed the discovery of asbestos in the Skempton Building. The material, which is no longer used in construction, is highly toxic and leads to a range of respiratory illnesses.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It may be a ridiculously overhyped and commercialised, but then again, we’ll take any excuse for a celebration
 date: "2011-02-10 20:58:19 +0000"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "789"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 This story starts with clenched, muscular buttocks. The buttocks in question comprise the cover art of the latest Scissor Sisters album Night Work and while they certainly deserve a second glance you would not grasp their full significance unless you had also knew of the man who took that photograph: Robert Mapplethorpe.

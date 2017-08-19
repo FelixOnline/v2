@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Harry Brainch, ICE - The way forward?
 date: "2010-01-22 14:16:59 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "53"
@@ -33,15 +34,6 @@ image_height: "427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When Ethiopia commenced construction of a dam on the Upper Omo river in 2006, groups downstream in Ethiopia and Kenya made their opposition clear. The dam, they said, would affect communities and wildlife by interfering with the annual supply of nutrient-rich floodwaters that nourish grazing areas and wetlands.

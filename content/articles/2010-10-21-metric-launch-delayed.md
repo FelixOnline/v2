@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Discovery of asbestos pushes back launch date even further
 date: "2010-10-21 19:49:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "251"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It has been a tumultuous week for the Union. While the new bar FiveSixEight has opened with great success and a generally positive response from students, the new club Metric has been further delayed by the discovery of asbestos.

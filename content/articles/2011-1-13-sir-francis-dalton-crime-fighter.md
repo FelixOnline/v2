@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The man behind fingerprinting and eugenics
 date: "2011-01-13 20:15:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "577"
@@ -33,15 +34,6 @@ image_height: "2451"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For those of you familiar with TV crime series like C.S.I and Dexter, you’ll know that fingerprinting plays a large part in catching the wanted. But you might not be aware that if it weren’t for a man named Francis Galton, using fingerprints to catch criminals wouldn’t be possible. In fact, the British psychologist not only pioneered the use of fingerprinting in criminal cases, but he also coined the ‘nature versus nurture’ debate and made serious efforts to measure brainpower in the 19th and early 20th centuries. This month marks the 100th anniversary of his death.

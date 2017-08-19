@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco discovers Peter Handke’s great novel
 date: "2012-11-01 23:02:00 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2806"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Peter Handke has been a very prolific artist during his lifetime, leaving behind several novels, plays and film scripts. He started his career working closely with the German literary avant-garde, which promoted works of post-war authors, unknown at the time, of the calibre of Günter Grass and Heinrich Böll.

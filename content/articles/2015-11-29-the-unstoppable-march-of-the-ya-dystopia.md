@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With the last five years seeing multiple YA dystopia series, we explore what makes them a continued attraction to teens
 date: "2015-11-29 17:13:24 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5787"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Lionsgate"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When the first _Hunger Games_ film was released, back in March 2012, I was still in secondary school, preparing for the end of my final year, and the subsequent upheaval of moving to university. And it was either that summer, or the summer before that that I sat down and devoured Suzanne Collins’ YA trilogy, racing against the looming deadline that would see me make my transferral to the adult world, when I would put away my childish things, no longer having an excuse to read fiction aimed at an audience several years younger than I. Looking back, it was the right time to read it; while life as a 20-something is full of upheavals of its own, mainly involving crying into hastily-made pesto-pasta, the move to higher education marked the closing of a chapter of my life, of my adolescence.

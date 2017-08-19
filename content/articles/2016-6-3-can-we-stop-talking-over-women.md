@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Men benefit from feminism, but need to know when to listen
 date: "2016-06-03 09:03:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6231"
@@ -34,15 +35,6 @@ image_height: "451"
 image_attribution: "NBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We’ve all been there – you finish your exams and suddenly there’s a deep hole, a lack of purpose in your life. What else was I to do but pick up Felix and read Arnold Tan’s “message to feminists”.

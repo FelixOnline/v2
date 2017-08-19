@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A compelling but contrariwise journey through Botticelli’s artistic influence
 date: "2016-03-11 12:01:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6041"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: "Studio LaChapelle"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 B_otticelli Reimagined_ is a curious marriage of modern sensibilities with 15th century grace, beauty, and elegance, running at the V&amp;A until July. It is about the extent to which the influence of that singular craftsman, Sandro Botticelli – father of Venus and Primavera – permeated the art world through the centuries.

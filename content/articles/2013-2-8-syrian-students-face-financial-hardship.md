@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Government urged to help those who face deportation to Syria if removed from courses
 date: "2013-02-08 01:19:08 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3287"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the last few weeks most students at university have settled back into a routine of lectures, coursework and exams as they return to university ready to face the challenges ahead. However, the story is very different for the Syrian students at UK universities; the civil war in Syria means they are unable to pay their fees or meet living costs, theyface the prospects of deportation and death. Topped with this, they are dealing with the continuous anguish facing their family and friends at home, in a war-torn country. A country that has had over 60,000 deaths since March 2011. It is currently uncertain what Imperial College will do if Syrian students are affected, although none have come forward to say they are at the present time.

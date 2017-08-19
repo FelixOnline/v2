@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl compares four of the latest student friendly tablets to buy before the Christmas rush: pre-order before Halloween!
 date: "2012-10-18 20:59:14 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2686"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Seasons come and go, but Christmas never changes and considering that it’s only 65 shopping days away, you might as well get started making your wish list (parents do need something to spend money on!). So to help you get an idea, here are 4 budget tablets that might tickle your fancy!

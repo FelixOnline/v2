@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Halls should not be subsidising alcohol with the amenities fund argues Union President
 date: "2011-02-17 19:38:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "822"
@@ -34,15 +35,6 @@ image_height: "2036"
 image_attribution: "Dave Guttridge/Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The price of university hall accommodation has come under scrutiny as a survey is set to be launched by the Union into how hall rents could be reduced. The Union has obtained a breakdown of what makes up the rent and are debating a range of cost-saving measures. Students are encouraged to take part in the debate by filling out a questionnaire, to be released early next week.

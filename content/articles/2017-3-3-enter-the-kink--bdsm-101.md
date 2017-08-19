@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This isn't 50 Shades of Grey
 date: "2017-03-03 16:11:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6854"
@@ -34,15 +35,6 @@ image_height: "1101"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the election theme, today I’m going to talk about relinquishing control of yourself to someone who you deem trustworthy enough not to cause permanent damage to your well-being. Welcome to BDSM 101.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonathan Mason shows you how it’s done
 date: "2012-11-01 22:33:17 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2785"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Although the origin of porridge is debatable, the Scots have been eating it since the late medieval times to warm themselves through the cold winters. The UK gets through almost 50 million gallons of the stuff a year, seeing a huge increase recently due to the numerous health benefits including: low GI, high fibre, high protein and low fat. Despite this, many people still picture a gloopy, wall paper paste-like sludge resembling the gruel served up in Oliver Twist, or manage to recreate this by not understanding the subtleties involved in preparing the traditional Scottish dish. Unfortunately, we live in an instant society and many opt for a microwavable, milky bland pap which they cover in silly amounts of sugar or chocolate in order to give it any form of taste. After all, what student has the time to spend 30 minutes idly stirring porridge before 9am lectures? I certainly don’t, but whenever I have a late start or on weekends I always invest the time into making the truly delicious and traditional breakfast.

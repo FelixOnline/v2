@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Over 15,000 students participated
 date: "2016-11-25 13:24:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6495"
@@ -33,15 +34,6 @@ image_height: "936"
 image_attribution: "Harisson Jones"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Saturday saw thousands of students and academics take to the streets  to protest government cuts and education reforms.

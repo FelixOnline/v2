@@ -4,6 +4,7 @@ title: >
 subtitle: >
   No image test article
 date: "2011-03-17 20:23:42 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "1091"
@@ -34,15 +35,6 @@ image_height: "495"
 image_attribution: "University of Sheffield"
 image_attribution_link: "http://www.dcs.shef.ac.uk/ml/summer_school/"
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 No image test articleNo image test articleNo image test article

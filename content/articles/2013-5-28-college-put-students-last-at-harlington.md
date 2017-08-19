@@ -4,6 +4,7 @@ title: >
 subtitle: >
   By selling use of the sports grounds to the highest bidder, college is forgetting the families of the WWI dead who paid for them. A letter from a former Union President.
 date: "2013-05-28 14:52:07 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3627"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have to say that it is my view that this communication should be going to the Rector of the College and in my day as a student we would have had the right to take a letter straight to his door. However of course in my day I could have raised this matter to the rector either in my weekly meetings with him, by picking up the telephone orby raising it at the Governing Body or Finance and Executive committees. However it seems that in today’s world even the alumni have to take a back seat in regard to communications with college officials and hence I am forced to write to you.

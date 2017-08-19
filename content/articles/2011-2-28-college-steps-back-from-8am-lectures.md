@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Reduced lunch hour still on the cards
 date: "2011-02-28 21:21:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "945"
@@ -34,15 +35,6 @@ image_height: "2144"
 image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Wednesday saw the first meeting of the committee in charge of discussing the possibility of changing college hours. Members of the committee, a mix of representatives for students, staff and Imperial College had the opportunity to begin debating the feasibility of changing college hours and possible solutions.

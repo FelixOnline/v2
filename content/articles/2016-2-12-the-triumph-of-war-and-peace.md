@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tolstoy himself would be quite pleased with this distillation of his tonic against doom
 date: "2016-02-12 11:58:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5916"
@@ -34,15 +35,6 @@ image_height: "372"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When it was announced that the BBC would be producing another adaptation of Tolstoy’s epic tome, I, like many others, was intrigued. Then came the news that veteran showrunner Andrew Davies, who has written or produced for the likes of everything from Bridget Jones to Pride and Prejudice, would be the guiding hand. This split people into mainly two camps; those who, like me, were reassured, and others who felt this was an affront to Tolstoy’s spirit. These purists believed that Davies would use this as nothing but an excuse to give us a sexed-up traipse through the 19th century glitterati. They weren’t entirely wrong. But, in his defence, the show runner only does this by showing us directly some of the subtext of the novel; subtext that Tolstoy did not elucidate himself only because the social trappings of his era did not let him.

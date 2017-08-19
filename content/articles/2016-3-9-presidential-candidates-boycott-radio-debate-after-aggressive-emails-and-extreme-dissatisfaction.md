@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Four candidates decided not to show after concerns over bias, format and attitude of IC radio presenters
 date: "2016-03-09 19:02:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6015"
@@ -34,15 +35,6 @@ image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A debate between Union President Candidates that was due to be held on IC Radio last night was scuppered after four candidates decided to boycott the show an hour before it went on air.

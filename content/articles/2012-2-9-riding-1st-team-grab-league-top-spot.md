@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Impressive win in Buckinghamshire
 date: "2012-02-09 23:16:25 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2174"
@@ -33,15 +34,6 @@ image_height: "1936"
 image_attribution: "IC Riding"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first riding team have moved into first place in their league after an impressive win in Buckinghamshire on Wednesday. Picking up individual 1st 3rd and 7th places, Rachel Gregory, Ilse daly, Sinead Conneely and Mikaela Bryant-Meisner are now in a favourable position with two competitions left, one being their home event at Trent Park in Oakwood.

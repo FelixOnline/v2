@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam reviews Livescribe’s new infrared superpen
 date: "2011-10-13 23:07:42 +0100"
+author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1520"
@@ -33,15 +34,6 @@ image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fa608"
-author_name: "Feroz Abdul Salam"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have to admit that when I first picked up [Livescribe’s Echo Smartpen](http://www.livescribe.com/en-gb/smartpen/) I was more than a little skeptical, for good reason. I’ve seen electronic note-taking aids from my first year at Imperial, and there’s good reason why the Union Shop does such good business at the start of term: it will take a lot to beat the simplicity of pen and paper.

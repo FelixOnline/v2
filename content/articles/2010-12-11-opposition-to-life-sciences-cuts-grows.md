@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "547"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The Department of Life Sciences came under further pressure as the Director of the influential [John Innes Centre](http://www.jic.ac.uk/corporate/index.htm) (JIC), a plant science and microbiology research institute, called the changes "misguided". It also been revealed that the College's annual surplus, or the profit, has almost trebled to [£41.3 million](http://www.imperial.ac.uk/workspace/finance/Public/annual_report/annual_report_09_10.pdf) for 2009-10.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A defence of banking’s most controversial practice: bonuses, by Ross Gray
 date: "2013-02-22 01:46:58 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3366"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Aaniya Ahmed"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Well, this is turning into a [delightful little serial isn’t it?](http://felixonline.co.uk/comment/3314/dr-strangelove-or-why-i-just-really-love-finance-not-salary/) Today, I would like to discuss the most controversial of all issues concerning investment banking: [remuneration](http://en.wikipedia.org/wiki/Bankers'_bonuses). This has been a hot topic since the (thoroughly understandable) moral outrage at bankers still raking in massive bonuses following the crisis. Whilst I understand this viewpoint, there is a piece of legislation coming in from the EU that is pretty much sheer insanity; which will almost certainly destroy our financial services sector and deepen any future recessions. I know everyone dislikes bankers these days but I can’t help but feel we might miss the substantial amount of GDP and tax they contribute once the EU has decimated what was once the jewel in the British economic crown.

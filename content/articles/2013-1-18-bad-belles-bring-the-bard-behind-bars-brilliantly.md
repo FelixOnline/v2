@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eva goes to an all female production of Julius Caesar set in a jail
 date: "2013-01-18 00:37:50 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3137"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At the Donmar Warehouse, I have always found my way into the parallel reality that theatre should create. With Phillipa Lloyd’s new production of Julius Caesar, one can simultaneously find oneself in not one, but two different realities.

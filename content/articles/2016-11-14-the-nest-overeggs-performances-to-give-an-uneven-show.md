@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Nest is on at the Young Vic until 26 November 2016.
 date: "2016-11-14 14:18:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6447"
@@ -33,15 +34,6 @@ image_height: "3744"
 image_attribution: "David Sandison"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Having just read _We Need to Talk About Kevin_ I seated myself in the packed Young Vic theatre with considerable foreboding. All I knew of _The Nest_, Franz Xaver Kroetz’ parable with an ecological warning, was that it involved a great tragedy becoming two young parents. I quickly realised that my assumptions had been partly wrong, unlike Lionel Shirver’s portrait of a psychopath, there is no evil child here, or at least not an ostensible one, instead the demon lurks in poverty and the exploitation of labour.

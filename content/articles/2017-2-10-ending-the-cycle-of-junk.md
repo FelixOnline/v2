@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim looks at the science behind our cravings, and why it’s easier to stop bingeing than we think
 date: "2017-02-10 14:02:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6751"
@@ -34,15 +35,6 @@ image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As I type, I’m eating a thin slice of Japanese soufflé cheesecake I made yesterday. But the pleasure I took in eating it triggered a glitch of annoyance. I realised such fine nuances of taste and texture are easily overlooked in today’s world where easy access to and high abundance of  high-energy, palatable, chemical-laden foods is the norm. These are the reasons that drive the overwhelming prevalence of obesity and metabolic disease.

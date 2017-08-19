@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The due date has already been pushed back two months
 date: "2017-03-17 13:00:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6896"
@@ -34,15 +35,6 @@ image_height: "381"
 image_attribution: "Iggyshoot"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the Spring term draws to an end, so should the West Basement refurbishment which has seen numerous student media facilities intermittently being cordoned off over the course of the last few years. This last leg of the works should mark the end of a cumulative £1.27 million investment.

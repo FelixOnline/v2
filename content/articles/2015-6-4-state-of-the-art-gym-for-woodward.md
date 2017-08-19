@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle looks at the fitness centre planned for North Acton
 date: "2015-06-04 23:15:41 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5596"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Pulse Fitness"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A leading fitness equipment company has agreed a deal with Imperial College London to design and kit-out a new state of the art gym in the new Woodward halls in Acton. Pulse Fitness, who have also created gyms at 500 further and higher education institutions in the country, including King’s College London, London South Bank University, and Goldsmiths, aim to start the project in June 2015. The gym is estimated to take ten weeks to complete and is timed to open before the first year of students take up residence in the first week of October.

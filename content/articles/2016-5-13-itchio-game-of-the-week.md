@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
 date: "2016-05-13 09:30:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6164"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Crows Crows Crows"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 D_r. Langeskov_ is the first game by Crows Crows Crows – a studio formed by game writer and designer William Pugh of _The Stanley Parable_ fame. The first person exploration game, that will be familiar to anyone who has played Pugh’s previous works, lasts around 20 minutes (it’s free, so don’t complain). In this short burst of narrative, Simon Amstell voices a stage manager who talks to the player over a loudspeaker. His character is both charming and hilarious (which pretty much sums up Amstell).

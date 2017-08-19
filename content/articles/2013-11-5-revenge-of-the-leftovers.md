@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cloudy with a Chance of Meatballs 2 Directors: Cody Cameron, Kris Pearn Writers: Judi Barrett, Ron Barrett, John Francis Daley, Jonathan M. Goldstein, Phil Lord, Chris Miller, Erica Rivinoja Starring: (voices) Bill Hader, Anna Faris, James Caan, Will Forte, Andy Samberg, Benjamin Bratt, Neil Patric
 date: "2013-11-05 09:41:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3998"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The original Cloudy was a wacky, high-energy romp through the world of Flint Lockwood (Bill Hader), inventor extraordinaire (well, if you count rat birds and spray-on shoes as deserving of such a title) and his creation of the FLDSMDFR (no, I am not spelling out that acronym for you, go look it up), a machine which takes water and turns into food. Any food.

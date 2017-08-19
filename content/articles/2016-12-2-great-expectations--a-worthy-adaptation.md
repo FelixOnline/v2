@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christian Burgess delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing
 date: "2016-12-02 15:03:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6538"
@@ -33,15 +34,6 @@ image_height: "648"
 image_attribution: "Guildhall School | Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The advice of Mr Jaggers is "Take nothing on its looks; take everything on evidence. There’s no better rule." It is keenly observed by Christian Burgess who delivers a no frills production of Great Expectations superbly carried by convincing performances and slick directing.

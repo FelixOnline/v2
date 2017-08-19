@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions....
 date: "2014-01-31 17:52:18 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4323"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The British railway system is the biggest example of the failures of privatisation. I’m not old enough to remember the change, but I’m sure the arguments were the same as those touted today for the privatisation of other well-functioning institutions: “private companies will run an efficient service, and competition with each other will improve that service while driving down prices.” This school-level economic argument hinges on consumer choice, but when it comes to transport, there is none.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Elizabeth Riach evaluates the future of Australia’s biggest attraction
 date: "2016-12-02 14:04:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6530"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the general vibes of this tragic excuse of a year, scientists have now confirmed that 2016 has seen the largest coral die-off ever recorded on Australia’s Great Barrier Reef.

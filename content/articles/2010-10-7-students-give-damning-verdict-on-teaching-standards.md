@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The College makes coursework feedback and marking a priority as Rector tells staff he is “extremely disappointed” by the National Student Survey results
 date: "2010-10-07 22:12:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "174"
@@ -33,15 +34,6 @@ image_height: "2912"
 image_attribution: "Mike Finn-Kelcey/Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The results of the latest [National Student Survey](http://www.thestudentsurvey.com/) have led Imperial College to announce a campaign to improve the assessment of students’ work, with the Rector Sir Keith O'Nions becoming personally involved in an attempt to lead a noted improvement across all College departments.

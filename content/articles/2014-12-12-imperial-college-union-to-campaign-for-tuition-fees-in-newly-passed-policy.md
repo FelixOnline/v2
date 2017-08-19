@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Opposing paper, to campaign for Free Education, was rejected
 date: "2014-12-12 12:44:59 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5046"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Council’s session on Tuesday 9th was dominated by the motion of No Confidence against the ICURFC Club Captain, but the new Higher Education Funding Policy which was passed will probably have even wider implications.

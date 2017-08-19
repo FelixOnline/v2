@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix speaks to graduates about the old system, the proposed changes and how greatly their student debt affects their lives
 date: "2010-12-02 21:57:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "501"
@@ -33,15 +34,6 @@ image_height: "1495"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The latest higher education reforms have not been without significant resistance from many, with one of the key issues being the fear of significant debt following a proposed increase in tuition fees. Current graduates are no strangers to debt, with many owing several thousand pounds following their degree. Felix sought to discover just how dramatically the current system affects graduates and whether they themselves approve of the impending changes or stand against them.

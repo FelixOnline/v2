@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness
 date: "2010-12-02 21:36:15 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "492"
@@ -34,15 +35,6 @@ image_height: "2912"
 image_attribution: "Slobodan Radosavljevic"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Two o’clock in the morning. I had got home from an amazing night out and was falling asleep when I heard people running in the corridor. It was a Friday night and we were Freshers, so I thought nothing of it; I turned over and pulled the duvet tighter around me.

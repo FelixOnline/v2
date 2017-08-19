@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "The press release promised a man bursting through walls at full throttle, and pairs of elegant swimmers hanging just on top of the audience’s head"
 date: "2013-01-10 22:38:26 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3091"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Argentinian dance troop came to town preceded by its reputation. Some six years ago, Fuerzabruta re-opened the Roundhouse with an acrobatic extravaganza that left a permanent mark in the minds of so many Londoners as the most amazing show they had ever seen. The group, directed by Diqui James and Alejandro Garcia, combines high-tech light and sound effects with elegant pirouettes to create dashing visual effects.

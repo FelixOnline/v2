@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lets be real – none of us can afford GBK anyhow. Fortunately, buying burger patties and cooking them up doesn’t get your hands too messy, and the results are delicious, as felix finds out.
 date: "2016-12-02 15:23:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6546"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I must start this article by giving credits to my Anonymous Kitchen Helpers: they are the ones who remade the puff-pastry last time, after ruining it. It’s always great having helping hands, even if sometimes they can be more of a hindrance.

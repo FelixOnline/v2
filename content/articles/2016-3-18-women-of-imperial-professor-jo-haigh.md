@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX talks to the first female Head of Physics at Imperial
 date: "2016-03-18 11:54:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6064"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Professor Joanna Haigh is one of Imperial’s leading scientists. In 2009, she became the first woman to become Head of the Physics Department. As she’s eager to say herself,  “It’s a great department and a lot of fantastic science is going on here.”

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah goes on pun overload as he asks the stand-up comedian/actor about everything from his university days to his ongoing tour
 date: "2012-03-02 01:48:23 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2306"
@@ -33,15 +34,6 @@ image_height: "303"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Tim: First off, I apologise if I ask any questions that you’ve been asked before...__

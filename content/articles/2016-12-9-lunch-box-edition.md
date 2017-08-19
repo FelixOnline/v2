@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Follow Andrada as she makes egg-stuffed mushroom, pan fried chicken breast and a simple salad for lunch
 date: "2016-12-09 11:50:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6558"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Lunch at somewhere outside of university is ‘the thing’ nowadays, but who has time for that with all the lab reports and homework and tutorial sheets and so on? Besides the money it saves, eating in school seems to be a pretty good idea, especially if you have to stay in pretty late: socialising (some) and working (less) at the same time as you eat. Win on both (actually three) sides, right?

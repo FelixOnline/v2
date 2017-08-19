@@ -4,6 +4,7 @@ title: >
 subtitle: >
   When will everyone realise that the debate on divine existence is over?
 date: "2011-11-18 00:09:23 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1797"
@@ -34,15 +35,6 @@ image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 My unquestionable faith in the non-existence of an ineffable, unfathomable and utterly unintelligible being has been brought into question. “Aha! The fundamentalist atheist finally sees that the existence of the ultimate voyeur (as Sartre would put it…) is still very much up for debate.” What has brought about this paradigm shift?

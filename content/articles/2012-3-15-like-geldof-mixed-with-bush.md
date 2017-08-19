@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent
 date: "2012-03-15 19:44:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2347"
@@ -34,15 +35,6 @@ image_height: "399"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If you’ve been online at all in the past week, chances are you’ll have seen [Kony 2012](http://www.kony2012.com/), a 30-minute video about the Lord’s Resistance Army (LRA) in central Africa made by the charity Invisible Children, officially the most viral video in the history of the internet. But along with the inevitable memes, the criticisms came hard and fast. You will likely have heard that the charity has dubious finances, spending just 30% of its income on projects in Africa, much of the rest on publicity. But this isn’t why we should be concerned by the success of Kony 2012. Now a week later, we can reflect on a video that was dangerously simplistic, misleading and ultimately deeply patronising to Africans. This article explains why.

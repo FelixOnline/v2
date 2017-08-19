@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily Fulham reviews a better Sex and the City?
 date: "2013-03-15 01:18:28 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3472"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "I don’t want to freak you out, but I think that I may be the voice of my generation.” So says Hannah Horvath, the main character of HBO’s Girls, in the very first episode of the show. It’s a line that’s come back to haunt Lena Dunham, the show’s creator, writer and co-producer, who also plays the character of Hannah – in spite of the line being uttered by the naïve, self-involved character of her own creation, it’s often been attributed to Dunham herself. Fans believe the show is a raw, realistic picture of what it’s like to be fresh into adulthood in today’s society, while critics attack it for being vapid and self-indulgent. So, is Girls really the show that’s defining a whole new generation of young women?

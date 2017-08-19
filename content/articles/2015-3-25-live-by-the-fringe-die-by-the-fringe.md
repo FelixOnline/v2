@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grace Rahman takes us through the five best bangs in pop music
 date: "2015-03-25 12:32:15 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5430"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Long before Kate Moss brought the fringe back into the mainstream in 2007, these indie babes were rocking some seriously vision-impairing styles. Forget Cara Delevingne; where we’re going there are no eyebrows. It’s not about seeing the audience anyway, as long as they can see your fringe and you can see your guitar, and the rain doesn’t hit it, you’re away.

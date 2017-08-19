@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Despite its flaws, The Grand Tour is an amicable successor to the Top Gear of old
 date: "2016-12-09 15:44:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6579"
@@ -33,15 +34,6 @@ image_height: "2400"
 image_attribution: "Amazon Studios"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Top Gear is dead. Long Live Top Gear? Following Jeremy Clarkson’s, lets face it, rightful dismissal from the BBC and the subsequent decline of Top Gear’s quality, fans have been hanging their hopes on The Grand Tour. Thankfully, the new series does not disappoint. Well, mostly.

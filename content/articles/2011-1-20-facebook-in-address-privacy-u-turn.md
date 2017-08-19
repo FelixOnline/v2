@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "606"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Facebook was forced to beat a hasty retreat over the previous week as plans to allow third party access to user phone numbers and addresses caused strong concerns among security experts, even before the feature was fully rolled out. Less than 72 hours after a blog post announced the new capabilities, another posting was made stating that the capabilities were ‘temporarily on hold’ until required changes were made to the system.

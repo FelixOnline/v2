@@ -4,6 +4,7 @@ title: >
 subtitle: >
   LGBT fans deserve, and are demanding better from TV networks and producers
 date: "2016-05-13 08:55:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6148"
@@ -34,15 +35,6 @@ image_height: "683"
 image_attribution: "The 100"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The 100 is a cult teen drama focused on post-apocalyptic America. It has a significant, primarily American following who mobilised quickly following the airing of an episode on the 3rd March to launch an enormous online campaign. During the show, a character is shot as part of the story arc that is directly linked to her finally acting on her feelings and kissing another female character. This exploitation – the ‘Bury Your Gays’ TV trope – understandably did not sit well with fans of the show, leading to the hashtag #LGBTFansDeserveBetter trending for seven hours, with over 300,000 tweets written immediately after the show aired. The nature of this campaign is that it has long progressed from a complaint about a character being killed off on one show, and is now about challenging the industry for overall representation.

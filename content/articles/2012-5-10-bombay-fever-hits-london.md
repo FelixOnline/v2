@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England catches up with Bombay Bicycle Club
 date: "2012-05-10 19:59:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2438"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _I interviewed Jack Steadman from __Bombay Bicycle Club__ before they played the biggest ever UK headline show of thier career at London’s Alexandra Palace. With the North London band returning home to celebrate their extra-ordinary third album, _[A Different Kind of Fix](http://vimeo.com/30065851)_, it was to prove a memorable night._

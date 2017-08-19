@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers...
 date: "2014-05-02 01:03:47 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4539"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This week saw another session of Union Council, the body of elected representatives that create and approve policies that shape the views and the functionality of the Union. The week saw another inquorate session of Council, during which the body was unable to vote effectively on papers due to poor attendance.

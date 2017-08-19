@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This recession malarky has got everyone worried about their career prospects. Apart from Matt. And Danny Dyer
 date: "2011-02-28 20:30:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "928"
@@ -34,15 +35,6 @@ image_height: "427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The world’s a pretty scary place at the moment, not least because of the abundance of Danny Dyer films being produced. In these uncertain times, it’s good to have a bit of security, so it’s no surprise that one of the hottest topics at the moment is one which turns even the most studious into career-hungry businessmen and women – internships.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Madonna has made a film, and it is called W.E.
 date: "2012-01-19 20:34:18 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2017"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Director__ Madonna

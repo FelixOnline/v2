@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New hall in Waterloo takes its place
 date: "2012-05-10 19:17:11 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2432"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wilson House has been removed from Imperial College’s accommodation website for prospective students. In February, it was [reported](http://felixonline.co.uk/news/2152/wilson-review-could-lead-to-rehousing/) in Felix that the hall could potentially be closed for refurbishment for the 2012-2013 academic year.

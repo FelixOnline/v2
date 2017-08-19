@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A timeless masterpiece
 date: "2011-02-24 20:00:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "874"
@@ -33,15 +34,6 @@ image_height: "785"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Casablanca, a black and white timeless masterpiece, was released in 1943. The script for the unstaged play on which the film is based fatefully found its way to the desk of a Warner Brothers employee the day after Pearl Harbour, and was rapidly adapted into an iconic wartime romance set in the North African city of Casablanca.

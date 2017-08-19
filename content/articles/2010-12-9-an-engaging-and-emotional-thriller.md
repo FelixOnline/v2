@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A true testament to the very un-Hollywood idea that money cannot buy horror
 date: "2010-12-09 19:29:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "506"
@@ -34,15 +35,6 @@ image_height: "298"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A film titled [Monsters](http://www.youtube.com/watch?v=V_-gL3U1T5Y) carries with it a certain level of expectation to show something – well – monstrous. Considering this, the common criticism that this micro-budget indie film lacks exactly that is fully understandable. Make no mistake, only $200,000 was spent on the production which is nowhere near close to most CGI-loaded films, and this is not your regular “mutant monsters are taking over the planet and killing our protagonists one by one” kind of film. Instead – and this is what has been often overlooked – Monsters relies on the consistent, underlying tone of fear.

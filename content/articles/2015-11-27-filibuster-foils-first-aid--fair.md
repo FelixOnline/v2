@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Children should not be denied the opportunity to learn first aid by an old man who has difficulties remembering his childhood
 date: "2015-11-27 14:22:06 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5777"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Friday, a group of Conservative MPs killed a bill intended to make first aid training compulsory in state-run secondary schools by “talking it to death.”

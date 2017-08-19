@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Proposals could see care homes on Evelyn Gardens
 date: "2012-01-12 22:24:41 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1983"
@@ -34,15 +35,6 @@ image_height: "2912"
 image_attribution: "Simon Kreitem"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The topic of [Fisher Hall](http://www.union.ic.ac.uk/halls/fisher/)’s closure in Evelyn Gardens has been revived after a planning permission request from the college aiming to shift the building’s use from Halls of Residence to Care Housing was granted.

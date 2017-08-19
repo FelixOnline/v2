@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey is perpetually disappointed by Sport Imperial’s attitude to women in sport
 date: "2016-11-04 14:34:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6394"
@@ -34,15 +35,6 @@ image_height: "923"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are a lot of things that Imperial girls can do, including studying science and engineering, leading clubs and societies, and, presumably, going through adolescence, meaning that by the time we’re at Imperial, we’re probably women, not girls. But one area where we seem to be lacking, according to Sport Imperial, is in our ability to engage in any sporting activities.

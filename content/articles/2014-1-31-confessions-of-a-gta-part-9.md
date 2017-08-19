@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Here, let me Google that for you... Actually, that’s not our job
 date: "2014-01-31 17:52:45 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4324"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This week’s confession is pretty bad. Most of the time I enjoy GTAing. The students are nice and unusually polite, but in every class there are always students you try to avoid. These have been getting more frequent and must stop for our sanity. So here are a few you might recognise:

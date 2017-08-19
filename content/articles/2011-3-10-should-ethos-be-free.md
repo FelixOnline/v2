@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the Halls survey launches, we shouldn't ignore the fact that free access to Ethos is also under scrutiny
 date: "2011-03-10 20:03:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1060"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When the Union President Alex Kendall said that using the amenities fund to subsidise alcohol was immoral, there was an eruption of anger. Postgraduate students rose to the defense of the amenities fund, and Kendall claimed that he was merely encouraging debate. The discussions about hall rents have almost entirely focused on this subject, but beneath the furore another, perhaps more contentious, question is being asked by the [survey](http://www.surveymonkey.com/s/hallrent): Should Imperial continue to offer free gym and swim facilities at Ethos?

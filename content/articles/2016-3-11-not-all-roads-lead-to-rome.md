@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The latest from the Coen brothers is solid filmmaking, but lacks a sense of energy
 date: "2016-03-11 11:51:35 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6035"
@@ -34,15 +35,6 @@ image_height: "1942"
 image_attribution: "Universal Pictures/EPA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Old Hollywood’ is a hell of a drug. In an age of social media saturation and online engagement, we long for the halcyon days of the glamourous star, as perfect and distant as a far-flung constellation. No matter how much dirt is unearthed on the horror of the old studio system – which includes forced marriages, arranged murders, and dodgy mob connections – there’s still an aching for a time long past; a willingness to swap enlightened debates about gender and race for just one more Rita Hayworth flick. _Hail, Caesar!_, the latest from the Coen brothers, takes aim at our love for nostalgia, throwing us into the wheelings and dealings of the chaotic world of Hollywood, communist tap dancers and all.

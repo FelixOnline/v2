@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Islam Society warmly invite you to their week of events
 date: "2013-02-22 01:17:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3357"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There seems to be a ‘KEEP CALM….’ slogan for every situation including ‘KEEP CALM IT’S ONLY THE OLYMPICS’. But here’s one you may not have thought of, ‘[KEEP CALM AND DISCOVER ISLAM’](http://theisoc.com/diw/), perhaps because mainstream media has done such an effective job in portraying that word ‘Islam’ with terrorsism…‘Islamism’...radicalism…list goes on. But just how much do you really know about it? There are loads of misconceptions and Discover Islam Week aims to address them.

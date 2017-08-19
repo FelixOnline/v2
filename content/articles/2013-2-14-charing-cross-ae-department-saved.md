@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A&E Department to remain open after a U-Turn, but campaigners say it doesn't go far enough
 date: "2013-02-14 21:20:11 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3336"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Fulham Chronicle"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Plans to close the Accident and Emergency department of Charing Cross Hospital ](http://felixonline.co.uk/news/3095/charing-cross-and-hammersmith-hospital-ae-departments-to-close/)have been scrapped in a last minute decision. The original plan to downgrade Charing Cross Hospital has been changed so that the hospital will still have a 24/7 emergency service for those who make their own way to the A&E. More complicated emergencies, including blue light emergencies will be directed to specialist centres. Many have said that the A&E Department hasn't properly been saved at all.

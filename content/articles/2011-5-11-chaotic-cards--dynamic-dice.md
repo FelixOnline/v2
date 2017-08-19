@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr Frank Berkshires give a Friends of Imperial lecture on mathematics and gambling
 date: "2011-05-11 09:18:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1182"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The audience, of what was effectively a maths lecture, was a mixed crowd. Organised by Friends of Imperial – an organisation that encourages alumni and the public to get involved in the work of the College – the lecture drew people from a range of ages and walks of life, but all with an interest in science. Interests no doubt like mine that picked up at the mention of the sub title: “How to Win a Small fortune”. Not suggesting that people who have an interest in science are always after a quick buck – no one does a PhD expecting a fast car and penthouse – but rather the dynamics of the statistics and numbers behind gambling and tricks excites in the scientific mind a possibility to win through knowledge and shrewd planning alone. And, well, if you manage to walk away from a Blackjack table with a couple of hundred grand in your front pocket in the process then all the better.

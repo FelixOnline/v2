@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The punnage
 date: "2017-02-24 15:33:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6831"
@@ -33,15 +34,6 @@ image_height: "1356"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Saturday, the 11th of February, more than 600 runners from universities across the UK, Netherlands and Sweden took part in the 69th Annual Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Men’s and mixed teams were made up of six runners and women’s teams of four, with each runner completing a five-kilometre lap around the east side of Hyde Park.

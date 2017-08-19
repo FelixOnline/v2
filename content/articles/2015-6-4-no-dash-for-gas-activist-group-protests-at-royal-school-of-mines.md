@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Howitt writes as ‘Reclaim the Power’ occupy front entrance
 date: "2015-06-04 23:12:52 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5594"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "No Dash for Gas"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal School of Mines (RSM) entrance was occupied on Monday 1st June by a group of students and members of the public representing the activist group ‘Reclaim the Power’.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonah Beaudin discusses the internet’s propensity for turning tragedies into jokes
 date: "2016-10-21 12:38:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6345"
@@ -33,15 +34,6 @@ image_height: "448"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The story about Harambe gained global attention this summer. Then the Cincinnati Zoo wrote “We are not amused by the memes, petitions and signs about Harambe.” And that broke the internet. The number of memes created skyrocketed. Songs were composed, signs were made, petitions were signed. God it was hilarious. But it seems like nobody really cared about the gorilla.

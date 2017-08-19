@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three Imperial teams through to the final of the Engineers Without Borders Challenge Finals
 date: "2013-05-30 12:26:51 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3644"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "All photos: Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Three teams of prospective year two students dominated a 2,500 strong national field from thirteen Universities to secure a place in the Engineering Without Borders Challenge Finals taking place at Coventry University next month. The teams, consisting of individuals from multidisciplinary backgrounds (outside of Engineering) endeavoured to solve complex problems affecting the impoverished community of An Minh, Vietnam. All work was co-ordinated in context of the ‘Global Challenges’ field of Imperial Horizons. Their success manifests the core skill bases championed by Imperial Horizons tutors; many hope that it will mark the inception of more future success related to the ancillary courses.

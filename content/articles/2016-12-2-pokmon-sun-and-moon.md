@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pokémon Sun and Moon is out on the Nintendo 3DS
 date: "2016-12-02 15:17:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6542"
@@ -33,15 +34,6 @@ image_height: "900"
 image_attribution: "Game Freak - Nintendo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been a while since Pokémon Go’s surprise popularity peak, but with the release of the latest games, Sun and Moon, the Pokémon franchise is back in the limelight. The new games offer a fresh and updated take on the title while still staying true to the original formula; they remind us why the series is still so popular after 20 years.

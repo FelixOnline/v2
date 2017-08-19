@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Guys play girls and girls play guys in comically dark Japanese kidnapping
 date: "2012-02-03 10:36:46 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2126"
@@ -33,15 +34,6 @@ image_height: "958"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The ease with which Ido, protagonist of [_The Bee_](http://www.sohotheatre.com/whats-on/the-bee/), morphs from law-abiding and rather boring businessman – of the kind who present their sons with calculators for their 6th birthday – to terrorising monster is stupefying but altogether not far removed from reality. After all, murderers lead at least some semblance of a ‘normal’ life up until that fateful murderous day. Perhaps it was because of this knowledge that _The Bee_ made for such unsettling viewing. When his family is kidnapped, Ido refuses to play the victim and takes the kidnappers’ wife and son as hostages. What was initially a matter of revenge on Ogoro, the stammering escapee murderer who wants his wife back, soon descends into cold sickening pleasure for Ido.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Chinese Students and Scholars Association has been caught up in an election scandal only weeks after the Christian Union had its own election dispute. The election is being re-run on May 2nd with the DPFS acting as a returning officer.
 date: "2014-04-23 17:15:38 +0100"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4533"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "http://www.thehindu.com"
 image_attribution_link: "http://www.thehindu.com/multimedia/dynamic/00970/2006101414420101_970956e.jpg"
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Chinese Students and Scholars Association (CSSA) has joined the Christian Union in having a major election dispute this year after a number of its members wrote a joint letter of complaint to the Imperial College Union reporting that ballot papers were destroyed and that the current committee holds a weighted vote allowing them to chose the new committe. David Goldsmith, Union President, has declared the original election invalid citing multiple violations of the Union's Bye-laws for Minor Elections. The new election will take place on May 2nd 17:00 in Meeting Room 3 and the Deputy President: Finance and Services will be acting as the Returning Officer.

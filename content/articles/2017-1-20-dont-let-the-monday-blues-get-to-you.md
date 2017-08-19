@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily Jane Cramphorn pumps you up and reminds you it's ok to get the blues
 date: "2017-01-20 15:03:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6661"
@@ -33,15 +34,6 @@ image_height: "1072"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you been feeling down this week? Allegedly there is an explanation for this – some claim it is the most depressing week of the year. More specifically, the Monday that just passed has been christened 'Blue Monday' as a result of post-holiday reality kicking in and everyone generally feeling a bit shit. The third Monday of January was described as the most depressing day of the year by Cliff Arnell using an equation which supposedly took into consideration a multitude of variables such as weather, debt, monthly salary, time since Christmas, time since failing our new year’s resolutions and low motivational levels.

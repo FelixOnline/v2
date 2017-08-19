@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lecturer speaks out against "departmental cuts"
 date: "2012-01-19 22:20:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2033"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Concerns have been raised about the future of the [Humanities department](http://www3.imperial.ac.uk/humanities) at Imperial by one of its lecturers, Didier Occhipinti. Mr Occhipinti, who teaches French at the College, was due to present a lecture to the Political Philosophy Society late last term but cancelled the event in protest of what he sees as the threat of a "death by a thousand cuts" to the department.

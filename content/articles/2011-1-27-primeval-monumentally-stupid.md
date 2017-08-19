@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Surprise, surprise, another TV show with an indefensible plot...
 date: "2011-01-27 19:10:18 +0000"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "663"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Those of you who complained about me focusing so much on the plot holes in my [Moon review](http://www.felixonline.co.uk/?article=558) should stop reading now because this is much of the same. I’m sorry, but I just couldn’t pass up the opportunity to review a show as monumentally stupid as Primeval.

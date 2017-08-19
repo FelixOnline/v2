@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We can do anything we want, and that’s not usually helping people for the greater good
 date: "2017-01-13 15:05:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6652"
@@ -33,15 +34,6 @@ image_height: "1050"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a year, 2016 really pissed me off. I remember when 2008 ended. I remember people saying that it would be consigned to history as the year of the Great Recession. My call is that 2016 will be seen as the year of the fuck-up. The future looks uncertain and shaky. No one planned for political tragedy and who knows when deaths of refugees on the Mediterranean, of Syrians in their homes and terrorist bombings will end. Last year the world saw a profound change.

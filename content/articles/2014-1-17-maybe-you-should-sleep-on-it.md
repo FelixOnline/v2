@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Did you, like everyone else, vow to get more sleep this year? Sleeping is common to all animals and a vital part of staying healthy and alert. However, when we sleep we are missing opportunities to be more productive, and by switching off we leave ourselves vulnerable to attack.
 date: "2014-01-17 03:31:39 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4233"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Did you, like everyone else, vow to get more sleep this year? Sleeping is common to all animals and a vital part of staying healthy and alert. However, when we sleep we are missing opportunities to be more productive, and by switching off we leave ourselves vulnerable to attack.

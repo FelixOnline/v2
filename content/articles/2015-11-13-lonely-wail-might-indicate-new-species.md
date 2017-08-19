@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5732"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "NOAA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 How many species do you think exist on planet earth? 100 thousand, one million, ten million? Recent estimations have induced a species count of 8.7 million. More than 1000 years would be needed to catalogue such a vast number. It’s really a question of ‘where do we start?’

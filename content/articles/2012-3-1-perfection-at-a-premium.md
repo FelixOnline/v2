@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam finally gets his hands on a Macbook Air
 date: "2012-03-01 21:18:03 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2272"
@@ -33,15 +34,6 @@ image_height: "1714"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 I’m quite ambivalent when it comes to the relative merits of operating systems and the devices they run on. The Mac vs. PC debate has been stumbling along for almost as long as I can remember, and much of what can be said has been said, many times over. Suffering the minor misfortune of having to use Windows, OS X and Linux on a regular basis, it’s hard to have strong opinions when at the end of the day a computer is really just a lump of metal and plastic, and not a philosophical statement, despite what Stephen Fry would have you believe.

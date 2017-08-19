@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An uplifting tale of a group of people that discover a different culture and develop a new outlook on life
 date: "2012-05-03 18:16:08 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2410"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [The Best Exotic Marigold Hotel](http://www.imdb.com/title/tt1412386/)

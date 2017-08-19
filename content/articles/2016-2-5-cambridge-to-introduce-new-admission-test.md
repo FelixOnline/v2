@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The new test will fill in gaps that AS Level changes will leave
 date: "2016-02-05 11:50:35 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5863"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Cambridge university is set to introduce new admissions tests for every subject to make up for changes to the qualification system that will see AS Levels no longer count towards A Level results.

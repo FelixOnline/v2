@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Commercial services to run Level 0 pub. Holland Club set to close on 21 December 2012. No current offer of alternate premises. Campaign to save the club didn’t work
 date: "2012-11-22 22:38:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2931"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The tender process has come to an end and the Holland Club will close the bar on 21 December 2012. Commercial Services will open a new, unnamed outlet in the space at the end of September 2013.

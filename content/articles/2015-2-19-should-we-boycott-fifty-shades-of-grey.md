@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey thinks that it’s time to talk about domestic violence
 date: "2015-02-19 23:52:10 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5276"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _F__ifty Shades of Grey_ has opened the door for us to talk about sex candidly and honestly in a way that has never been done before, something that can only be a good thing. People are more open to discussing their desires and fantasies than ever, with millions of people exploring new sensations, and rejuvenating their sex lives. But along with this comes a dark side, and ignoring that could be potentially damaging.

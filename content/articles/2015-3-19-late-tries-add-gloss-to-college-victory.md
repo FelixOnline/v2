@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as College are victorious in the Men's match at the Stoop
 date: "2015-03-19 23:39:09 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5403"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two dominant periods at the start and end of the match ensured that Imperial College claimed a more than comfortable victory over the Imperial Medicals at The Stoop on Wednesday. Having scored an early penalty, the College then put away two unanswered tries before the Medics hit back to give themselves a chance at 15-5 at half-time. Another try two minutes into the second half for the boys in red had the College worried. But their overall superiority shone through in the end as they went over three more times before the end of the game to underline their great performance, though the Medics may feel slightly aggrieved that the final score looked so one sided after an encouraging performance.

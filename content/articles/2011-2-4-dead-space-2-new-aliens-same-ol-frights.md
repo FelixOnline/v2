@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dead Space 2 can’t scare me, claims Laurence Pope
 date: "2011-02-04 16:55:20 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "755"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the immortal words of John McClane: [“How can the same shit happen to the same guy twice?”](http://www.imdb.com/title/tt0099423/quotes?qt0457572) In this case the ‘shit’ is another alien infection and the ‘guy’ is everyone’s favourite space engineer, Isaac Clarke (lose a thousand nerd points if you miss the reference).

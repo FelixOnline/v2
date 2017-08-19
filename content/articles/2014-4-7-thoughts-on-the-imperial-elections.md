@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I must have manifestos on the brain because after three weeks writing about a certain famous Communist one, I turn to our own election manifestos. Voting has occasioned the re-emergence of some long dormant reflections, recounted here.
 date: "2014-04-07 13:02:11 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4529"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I must have manifestos on the brain because after three weeks writing about a certain famous Communist one, I turn to our own election manifestos. Voting has occasioned the re-emergence of some long dormant reflections, recounted here.

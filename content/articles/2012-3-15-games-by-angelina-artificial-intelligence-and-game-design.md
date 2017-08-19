@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope takes some time out to chat to Michael Cook, a PhD student designing an A.I. software program, Angelina, that can create games all by itself
 date: "2012-03-15 20:35:24 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2362"
@@ -33,15 +34,6 @@ image_height: "571"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Laurence: So, first question, for someone who’s never heard of [Angelina](http://www.gamesbyangelina.org/), how would you best describe it?

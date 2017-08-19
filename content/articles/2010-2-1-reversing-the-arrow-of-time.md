@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Forgotten what happened last night? Now you know why
 date: "2010-02-01 16:49:40 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "61"
@@ -33,15 +34,6 @@ image_height: "918"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This may end up in the bullshit graveyard of sensationalist physics speculation, but seemingly impossible occurrences – such as a shattered pane of glass returning instantaneously to its original form, a Latte separating back into pure coffee and milk, or Megan Fox replying to my emails – are not as conceptually absurd as they may appear at first glance.

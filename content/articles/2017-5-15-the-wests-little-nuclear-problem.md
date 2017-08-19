@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Titmuss thinks that North Korea hold all the cards in the little game of nuclear war
 date: "2017-05-15 15:48:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6945"
@@ -33,15 +34,6 @@ image_height: "853"
 image_attribution: "Pascal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the last month, relations between North Korea and the rest of the world have soured, due to a series of missile launches. North Korea is one of the world’s most secretive and oppressive states, and has harboured nuclear ambitions for a long time. Its complex relationship with the rest of the world can be put down to its history and the governing Kim dynasty.

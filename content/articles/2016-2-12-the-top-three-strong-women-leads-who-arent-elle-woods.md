@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Legally Blonde isn't intersectional
 date: "2016-02-12 11:48:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5912"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Legally Blonde_ is a decent enough film, and I appreciate the effort of the filmmakers to create a stereotype-defying and intelligent female lead. However, the fact remains that Woods only gets into law school because the admissions officer fancies her, and her big show of intelligence at the end of the film has nothing to do with any knowledge of complex law. I’ll take any of these badasses over Ms. Woods:

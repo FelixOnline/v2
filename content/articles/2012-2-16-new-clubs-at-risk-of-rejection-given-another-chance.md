@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Proposals to determine viability of new ventures include test events
 date: "2012-02-16 22:45:10 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2215"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 New proposals set out by the Union could mean that some prospective clubs and societies at risk of rejection must hold a test event in order to judge their viability and popularity. The suggested changes aim to ease decisions made by the New Clubs Committee on whether to accept or reject “border-line” applications of clubs whose future success is unclear. However, the proposals are yet to be approved by the Clubs & Societies Board.

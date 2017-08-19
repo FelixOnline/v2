@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Musings about last week's storm in a teacup
 date: "2012-02-16 22:18:23 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2211"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Deep breaths everyone. Let’s open with the statement that no-one finds rape funny. So let’s do that: it’s not funny. No-one likes to see or hear about anyone being abused in such a way. I’m not particularly interested if you think male rape is under-represented, or if rape law only protects women, or anything like that. This is not Reddit. Rape isn’t ha-ha funny, plain and simple. I’ve never seen an episode of Friends about someone getting jovially drugged, abused and dumped somewhere.

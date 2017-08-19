@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fallout as event loses over £15,000
 date: "2012-05-18 06:14:07 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2458"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The financial outcome of the charity event [Fusion@London](http://fusionatlondon.com/) has finally become clear. [As reported previously in Felix](http://felixonline.co.uk/news/2301/confusion-over-event-success/), there was initially a long, slow, and confusing period of uncertainty as to exactly what the situation was. Up until as recently as 1 May, there were still invoices that needed to be paid. However, the loss is now known and eActivities (the online record of transactions for clubs and societies) currently gives an accurate representation of the financial failure of the event. In total, the event lost £15,506.91.

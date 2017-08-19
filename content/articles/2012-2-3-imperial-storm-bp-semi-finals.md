@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nine students take leading positions
 date: "2012-02-03 00:34:29 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2122"
@@ -34,15 +35,6 @@ image_height: "3744"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [BP Ultimate Field Trip](http://www.bp.com/fieldtrip) semi-finalists have been revealed, and include nine Imperial students. They will compete in the regional semi-final that will take place towards the end of February for the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

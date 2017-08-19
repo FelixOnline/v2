@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caz Knight goes to her first Fringe Festival and finds out what happens when women wee and how to achieve enlightenment in 8 steps
 date: "2010-09-01 16:08:28 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "155"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The Camden Fringe, you say? Nestled into nine venues dotted around the already eclectic Camden Town, NW1’s answer to the Edinburgh Fringe gives us veteran and fresh artists alike, in what is an August-long month of theatre and comedy.

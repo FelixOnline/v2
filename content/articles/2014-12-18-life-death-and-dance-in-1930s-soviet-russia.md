@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is impressed by GRAD's exploration of USSR ballet The Bolt
 date: "2014-12-18 16:21:15 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5075"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The ballet can be boring. There. I’ve said it. As Arts Editor, you would think it antithetical that I could find dance deathly dull, but in all honesty I can’t tell my _plié_ from my _pointe_, and have held a deep dislike of the art ever since being forced by my parents to attend ballet lessons in my childhood (I protested; they switched me to piano; everyone was happy). So when attending the __Gallery of Russian Art and Design__, whose newest exhibition is centred around a Shostakovich ballet entitled _The Bolt_, I encountered one of those all-too-frequent moments that made me think: “well, perhaps I should have been born in early 20th century Russia”

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Underwater hockey - a fast paced sport invented in the 50s
 date: "2012-03-15 21:23:30 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2381"
@@ -33,15 +34,6 @@ image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial’s Underwater Hockey team played their first ever University Nationals tournament last month in Coventry, finishing 7th out of 18 universities.

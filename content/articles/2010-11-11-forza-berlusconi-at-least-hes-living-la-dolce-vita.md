@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Italy may be a ship full of holes but it refuses to sink and there’s no better captain than Silvio
 date: "2010-11-11 21:13:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "355"
@@ -34,15 +35,6 @@ image_height: "1085"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Silvio Berlusconi is, in his own words, “the best political leader in Europe and the world.” To most foreign commentators, however, he is at best a carefree, flamboyant playboy who likes to throw sexy parties at his Sardinian Villa. He makes Hugh Hefner seem an amateur, and Bill Clinton a choir boy. At worst, he is accused of being a supremely corrupt businessman, with excessive control over the nation’s media, alleged links to the mafia, and a predisposition for bribery and fraud. Defending this ex-cruise ship crooner might therefore seem as difficult as supporting the intentions of a charming spotty-faced, white tracksuit-laden youth who likes to loiter around bus stops at three in the morning. But there are arguments in favour of the Italian Prime Minister, and they merit attention, starting with his gaffes and highly charged libido.

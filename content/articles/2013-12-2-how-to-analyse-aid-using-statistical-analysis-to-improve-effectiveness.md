@@ -4,6 +4,7 @@ title: >
 subtitle: >
   So what is aid? Aid can come in many forms – such as military aid to help a country fight terrorists, or budgetary aid sent with no strings attached to bolster a government’s finances, or the cancelling of historic debts.
 date: "2013-12-02 13:11:22 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4147"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 There is probably no other question in economics that evokes such strong emotions and creates such a clear divide between left and right. To the left, the world’s poor are caught in a poverty trap; without the minimum resources to help them help themselves, they will never break out of this cycle. Aid, then, is clearly needed as a big push to kick things off. To the right, aid encourages dependency, distorts markets and props up nasty regimes – keeping the poor in their place. There is no sign of either side winning this battle. But subjecting individual aid projects to robust statistical analysis through randomised controlled trials (RCTs), modelled on medical trials, could provide a way out of the ideological mire.

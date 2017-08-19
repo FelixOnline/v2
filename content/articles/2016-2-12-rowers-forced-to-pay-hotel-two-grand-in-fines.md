@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The boat club had their annual party there last month
 date: "2016-02-12 11:10:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5895"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The rowing club have been forced to pay £2050 in reparations to the Ambassadors Hotel in Bloomsbury, where they held their annual dinner three weeks ago.

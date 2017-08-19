@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhodri Oliver urges you to reject this "miserable little compromise"
 date: "2011-04-24 11:29:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1137"
@@ -34,15 +35,6 @@ image_height: "675"
 image_attribution: "Andrew Parsons/Parsons Media"
 image_attribution_link: "http://www.flickr.com/photos/conservatives/5574880690/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If you want to make Nick Clegg’s day because he is your favourite politician then vote YES to the Alternative Vote (AV). Or you can choose to reject this "miserable little compromise" (to quote Mr Clegg) as the political stitch-up it is.

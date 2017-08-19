@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Well, they’re in The Thick of It now...
 date: "2011-11-03 20:22:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1664"
@@ -34,15 +35,6 @@ image_height: "390"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After three different Waterstones (ironically, nobody could find the single copy supposedly in stock) and two failed Amazon deliveries, I finally got my hands on the book: “The Thick of It: The Missing DoSAC Files”. Bringing to the paper Armando Iannucci’s BAFTA-winning comedy, this brilliant set of documents has provided me with enough entertainment for another decade (or at least until the next series).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Wednesday November 6th, the President of the Republic of Korea, Park Geun-hye, came on a visit of Imperial College, in order to make a speech outlining her vision for scientific partnership with “leading scientific nations, such as the UK”.
 date: "2013-11-08 03:39:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4021"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Layton Thompson / IMPERIAL COLLEGE LONDON"
 image_attribution_link: "http://imperial.ic.ac.uk"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Wednesday November 6th, the President of the Republic of Korea, Park Geun-hye, came on a visit of Imperial College, in order to make a speech outlining her vision for scientific partnership with “leading scientific nations, such as the UK”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton on growing up faithless in a Catholic country
 date: "2013-03-01 00:51:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3411"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is nothing more liberating than simply being yourself. There is probably also nothing harder. For many across the UK struggling to leave their family’s religion, this is exactly the challenge they face everyday. I know – I was one of them.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How I despair at Boris’ slightly annoying antics
 date: "2012-10-05 12:44:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2617"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Boris Johnson does something funny, isn’t he great!” seems to be the standard title for news stories about the man. Its like “Jim’s dad dresses up as Elvis, hilarious”; but I feel like Jim. Whilst some people find him hilarious and willingly vote for him, I think: “Oh God, I have to put up with this on a day-to-day basis.” I can’t even escape him when I go home to Norway: damned Olympics. And then he started dancing at the closing ceremony: that drunk-middle-aged-dad-at-a-wedding-dance (not for the faint of heart).

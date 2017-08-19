@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports
 date: "2014-10-17 14:53:34 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4731"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 NBA legend Kareem Abdul-Jabbar announced this week that he will be kicking off a diabetes week in the United Arab Emirates. Imperial College London’s Diabetes Centre (ICLDC) is the title partner of the Take a Step for Diabetes Week, which this year will start on the 28th October.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jake Lea-Wilson explores the challenges that lie behind ‘futureproofing’ our history
 date: "2011-05-20 05:58:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1234"
@@ -34,15 +35,6 @@ image_height: "394"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In 1986 the BBC launched an ambitious campaign to repeat the Domesday Book collection of data in the 11th Century. The information was thought lost, a victim to digital obsolescence which is when a form of data storage becomes unreadable due to outdated technology. Through the perseverance and hard work of many at the BBC and The National Archives, the data gathered by over 1 million people has now been made public again after 25 years.

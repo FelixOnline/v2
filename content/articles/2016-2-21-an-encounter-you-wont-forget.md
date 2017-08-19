@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon McBurney’s masterpiece is timeless in nature.
 date: "2016-02-21 13:01:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5950"
@@ -34,15 +35,6 @@ image_height: "582"
 image_attribution: "Barbican Centre"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _McBurney’s performance recounts the story of Loren McIntyre– an American photographer who travels into the Amazon rainforest to attempt to capture on film an elusive, indigenous people called the Mayoruna. It quickly becomes apparent however that this story did not happen in the past alone, but is also happening in the present. This is uniquely done through the engaging auditory experience._

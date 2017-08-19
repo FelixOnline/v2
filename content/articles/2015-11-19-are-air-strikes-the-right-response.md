@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Delivering ‘death from above’ won’t weaken ISIS’ battle for hearts and minds
 date: "2015-11-19 22:42:12 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5746"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "pexels.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the wake of last Friday’s horrific attacks on Paris, it’s important that we remain calm and collected when dealing with our enemies. To defeat terrorism we need a well thought out and multilateral response. Instead, on Saturday, Francois Hollande responded with a futile act of revenge. By bombing ISIS and declaring war, we prove their world view, that the world is black and white, and play into the insidious narrative of us versus them.

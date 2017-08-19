@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A continuation of the best films series. The top spot? It had to be the epic epic.
 date: "2012-11-09 13:55:32 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2863"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Recently, the British Film Institute (BFI) released the results of their celebrated poll, “THE GREATEST FILMS OF ALL TIME”, in which they surveyed film critics and directors to list their ten favourite films. Now the Felix Film team, as much as we’d love to, doesn’t have that kind of time or resources. And so we decided to split the films up according to the decades in which they were released. So every week, we will present you with our top films of each decade

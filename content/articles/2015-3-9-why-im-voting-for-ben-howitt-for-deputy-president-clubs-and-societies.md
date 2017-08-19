@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grace Rahman talks us through why she thinks Ben Howitt should be DPCS next year
 date: "2015-03-09 14:15:32 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5367"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s that time of year again. Endless Facebook invites, Haribo flung at you down every corridor and people you’ve never heard of stopping you legging it from your last lecture by shouting terrible hashtags as you, so by the time you get to the JCR only the crap paninis are left.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores the role the 'Male Gaze' plays in art
 date: "2014-12-18 15:57:53 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5065"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 1984, the __Museum of Modern Art__ in New York opened a new exhibition: ‘_An International Survey of Recent Painting and Sculpture_’. it promised to be a survey of the most important artists currently working in the art world. Not everyone was impressed. Out of the 169 works featured, only 13 were by women artists, a fact that was not helped by the curator, Kynaston McShine, saying that any artist not in the show should rethink his career. In 1985, one year after the show opened, the Guerrilla Girls were formed by seven women artists. And the rest, as they say, is history.

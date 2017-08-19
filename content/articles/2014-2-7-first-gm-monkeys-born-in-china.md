@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Yates on the potential of the technique that made cute custom monkeys
 date: "2014-02-07 05:15:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4366"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 A gene-editing technique that has taken the world by storm over the past year has for the first time been carried out in primates, hinting at the potential for more accurate models of human diseases like Alzheimer’s.

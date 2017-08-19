@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach discusses the subtleties of a meteor apocalypse
 date: "2017-05-15 17:37:57 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6966"
@@ -33,15 +34,6 @@ image_height: "2312"
 image_attribution: "IvyMike"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 New computer simulations have found that if an asteroid impacted Earth, humans would be more likely to die from the blast itself, and not the subsequent effects it would have on the planet. A comforting thought. The shock waves, extreme winds and falling bits of space rock would probably deal the surrounding humanity its final blow. That is, according to recent computer simulations conducted by planetary scientists lead by Clemens Rumpf.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First year geophysics students surprised to open file that included solutions
 date: "2016-05-06 09:40:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6112"
@@ -34,15 +35,6 @@ image_height: "5312"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a classic example of exam season drama, first year geophysics students were given a paper with the answers at the bottom.

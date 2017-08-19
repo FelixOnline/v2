@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Does this sequel to one of the best strategies games live up to the hype?
 date: "2013-11-24 16:35:36 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4128"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I have meant to write this article for quite a while. This game was released on the 3 of september 2013, almost two months ago. I had pre-ordered it almost a month earlier in my excitement. Let me just explain to you, I LOVED the Total War series. Beginning with Medieval, all the way to Empire, I had been a fan of this series. It just epitomised everything that a strategy game was supposed to be. Complex enough to keep me playing for hours, yet simple enough to pick it up and understand everything within 5 minutes. These games were exactly what I thought the perfect strategy game should be. All in all, for those 4 games I must have poured roughly 800 hours into this game over 6 years. In fact with the original Rome Total War I managed to conquer the entire map with three different factions. It was pretty much the only game I played in my school days.

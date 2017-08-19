@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Winter Olympics have come to our television screens again, and Gilead Amit shares the view from his couch.
 date: "2010-02-27 17:13:41 +0000"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "113"
@@ -33,15 +34,6 @@ image_height: "695"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When I was younger, and had time on my hands and nothing better to do, I frequently fell ill. Nothing particularly debilitating or life-threatening, you understand, only regular healthy doses of the common cold or flu. Influenza, as they say, and out flew my health.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You can criticise Israel without being anti-semitic
 date: "2016-05-06 09:50:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6119"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: "Al Jazeera"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s like that old saying goes, ‘you wait for one anti-semitism scandal, and then three come along at once’. First was the election of Malia Bouattia as NUS president, whose labelling of Birmingham as a Zionist outpost was quite problematic, then came the four-year-old posts of MP Naz Shah saying that the people of Israel should be relocated to America (okay, more than a little more problematic). Finally, the nail in the coffin for the Labour party’s anti-semitism problem, the former Mayor of London compared the intentions of Israel to that of Hitler. Well. That is very problematic.

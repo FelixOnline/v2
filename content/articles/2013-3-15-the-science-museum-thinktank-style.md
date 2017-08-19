@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lily Le goes up north
 date: "2013-03-15 01:05:47 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3469"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "thinktank.ac"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 ”A science museum... in Birmingham?! HA!” is the typical response received when I mention Thinktank Science Museum to anyone outside of the West Midlands.

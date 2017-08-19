@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Could marketing efforts be behind poor nomination numbers?
 date: "2017-03-03 14:15:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6834"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A lukewarm candidate turnout marks the beginning of this year’s Leadership Elections, as revealed by the publication of the manifestos earlier last Monday, after nominations closed on Sunday.

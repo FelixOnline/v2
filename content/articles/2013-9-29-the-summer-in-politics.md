@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A round up of all the important stories. Now you can look all knowledgeable to all the fitties you meet.
 date: "2013-09-29 14:13:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3771"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Well hello there all you freshers (and everybody else)! Here comes yet another year of Imperial. A small amount of us do tend to have an interest in politics surprisingly enough. So if you are one of those people who likes to learn about world affairs or likes to have a drunk rant, like I do, about how good or bad things are around the world, then read on. Now is the time to empower yourself with every bit of information needed to thwart those who don’t agree with you. How? By reading up on the most important issues of course.

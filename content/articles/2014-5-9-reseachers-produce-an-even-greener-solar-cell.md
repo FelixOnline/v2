@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new solar cell is being pioneered by researchers at the Northwestern University, USA. Rather than using lead perovskite as the conductor to harvest light, the research team developed cells which utilise tin.
 date: "2014-05-09 02:07:26 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4573"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 A new solar cell is being pioneered by researchers at the Northwestern University, USA. Rather than using lead perovskite as the conductor to harvest light, the research team developed cells which utilise tin. The research paper was published in the Nature Photonics journal earlier this week.

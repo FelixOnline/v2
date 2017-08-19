@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Owen Leech on why we should all hit hot metal with hammers
 date: "2014-12-11 21:26:35 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5040"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Lord of the Rings"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Well, what can I say? Blacksmithing is one of the most rewarding things I have ever done. The satisfaction that you get from turning a lump of dull metal into something useful or beautiful, and on the rare occasion both, is incomparable to anything else!

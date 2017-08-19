@@ -4,6 +4,7 @@ title: >
 subtitle: >
   People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot.
 date: "2014-03-07 04:53:10 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4459"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 People are always on the hunt for a place to party, a place to have a blast, for it to be a hoot. Maybe, if luck will have it, you manage to make love sideways to the rhythm of Mandy and Stella Artoorhys in Dalston or Metric. But sadly, London can be a bit of a ‘les incompetents’ in this department. It can fail to deliver the goods.

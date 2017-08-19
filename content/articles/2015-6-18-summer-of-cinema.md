@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman gets ready for the next batch of blockbusters
 date: "2015-06-18 20:28:14 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5633"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Disney/Pixar/Pete Docter"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With the summer upon us, it means the inevitable onslaught of blockbusters. By normal standards, 2015’s a pretty quiet year for the summer, with most of this year’s big hitters either already out, or landing towards Christmas time (_Star Wars_, I’m looking at you).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jian Li Chew takes you through his day channelling his new idol
 date: "2017-02-03 15:25:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6710"
@@ -34,15 +35,6 @@ image_height: "1160"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As I watched Trump’s inauguration ceremony at fivesixeight, where I work, and observed exuberant Americans celebrating with champagne, I got thinking about my life. It’s been in a rut lately, just doing my tutorial sheets, coursework, revising, cooking my meals, feeling homesick over Chinese New Year, dealing with crippling insecurity etc. I needed to do something to pump some excitement into my boring life. After all, you’re only young once.

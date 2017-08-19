@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Meredith Thomas, aka Charles Thomas, doesn't want to give anything away...
 date: "2012-12-07 02:24:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3047"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [Architect](http://www.nationaltheatre.org.uk/shows/the-architects-shunt-at-the-biscuit-factory) is Shunt’s first production in three years and it was well worth the wait. Shunt is an unusual collective centred round an experimental theatre company. The group have had a presence around East London for years. Some readers might just remember the astonishing club they ran in the tunnels under London Bridge station of the same name. It was amazing folks; the only dance floor I have ever graced where one of the major dangers was drunk rickshaw drivers. The core work of Shunt however has always been theatre and so, as I traipsed my way into the wilds of Bermondsey to their new hideout in an abandoned biscuit factory, I was more than a little excited.

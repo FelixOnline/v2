@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An impressive collaboration for the London medical schools neuroscience societies
 date: "2016-02-12 11:59:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5917"
@@ -34,15 +35,6 @@ image_height: "913"
 image_attribution: "Azmi Rahman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend, Imperial played host to the largest ever student-led Neuroscience conference, organised under the banner of the London Students’ Neuroscience Network (LSNeuroN). For the first time, neuroscience societies of the five London medical schools – Imperial, UCL, King’s College London, Bart’s and St George’s – collaborated to put together the weekend affair, consisting of keynote speeches and a wide variety of symposia organised by each neuroscience society, as well as a poster prize session.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett recaps the tragedy that has captured the world’s attention, and how it has resonated through the capital
 date: "2015-01-16 12:55:17 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5090"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The world was stunned by the news last Wednesday, when two masked gunmen entered the offices of Charlie Hebdo, a French satirical magazine. Within half an hour, twelve people had been shot dead, including the editor of the magazine, two policemen and several cartoonists that had drawn the “blasphemous” and controversial front covers.

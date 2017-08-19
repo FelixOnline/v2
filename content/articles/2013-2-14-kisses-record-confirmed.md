@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Greasley now holds the world record
 date: "2013-02-14 13:14:54 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3322"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sarah Greasley, an Imperial postgraduate student, has received her certificate for the new World Record. She managed a total of 127 kisses in the end.

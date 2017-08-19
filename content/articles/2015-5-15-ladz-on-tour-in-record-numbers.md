@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deputy President (Clubs and Societies) Abi de Bruin says keep sending in those requests!
 date: "2015-05-15 12:48:26 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5536"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "IC Skydiving"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Imperial probably one of my favourite things that we get to support Clubs, Societies and Projects with is tours. If I mention it to anyone at other Students’ Unions they can’t believe that we not only support students going on tour but also fund it. Though I guess that in a lot of other places ‘tour’ is often more synonymous with ‘drinking tour’ rather than “we’re going to go do our club activity somewhere new that lets us experience it in a different, exciting way”.

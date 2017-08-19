@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Confusion as government believed it could legally prevent universities charging £9,000
 date: "2011-02-27 12:00:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "897"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The government has delayed the publication of its plans to reform universities after it discovered that it was unable to stop universities charging the £9,000 maximum rate of tuition fees. The Times Higher Education (THE) [revealed that ministers mistakenly believed](http://www.timeshighereducation.co.uk/story.asp?sectioncode=26&storycode=415292&c=1) the Office for Fair Access (Offa) could “impose” rates of tuition fees on universities. The government is now struggling to regain control and prevent universities from charging the highest rate of tuition fees. Greater competition is the government’s new strategy to regulate fees, with caps on student places being lifted and public loans being extended to students studying at private higher education institutions.

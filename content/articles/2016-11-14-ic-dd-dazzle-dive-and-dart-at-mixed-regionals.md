@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Although nerve-racking at times, the team were able to pull out a win
 date: "2016-11-14 14:19:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6448"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After a great start to the year for the disc Doctors (dD - Imperial’s Ultimate Frisbee club) with the women performing brilliantly at SICKO and our very own beginners’ tournament, the women in particular were outstanding, scoring an impressive number of points and maintaining the quality of their game. #ImperialGirlsCan.

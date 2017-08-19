@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl dissects the taste of the future for the fruity company
 date: "2013-02-01 01:13:21 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3241"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Apple have undeniably changed the world. It used to be the most valuable company on Earth, ever. Now, stockholders are insecure and other brands have come close, if not eclipsed, the atmosphere of ‘coolness’ that Apple once made its own. Have they diverted off their successful path, have they done wrong? Or is this just a momentarily glitch?

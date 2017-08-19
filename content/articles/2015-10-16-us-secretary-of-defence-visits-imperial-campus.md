@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ashton Carter spends his one day in the UK wondering round ICL
 date: "2015-10-16 14:21:59 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5655"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London / Layton Thompson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 United States Secretary of Defence Dr Ashton Carter paid a visit to Imperial College London this week to discuss research ties between the UK and US, including how Imperial researchers are taking on a variety of challenges faced by both countries in the field of defence.

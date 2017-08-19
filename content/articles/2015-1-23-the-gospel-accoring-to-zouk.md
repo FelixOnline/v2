@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Richardson catches some house and techno heavyweights along Singapore’s coastline
 date: "2015-01-23 18:53:13 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5148"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 By the time it came around to __ZoukOut__ I’d been on the road for several months, a continuing holiday trend throughout my time at Imperial that’s led to me missing almost every major music festival since I started uni. This year was supposed to be different but, alas, my optimistic KaZantipplans crumbled in the face of the Crimean crisis when organisers were forced to cancel. I swore to myself that if I heard the words “turn down for what” or “why you gotta be so rude” one more time, I was just about ready to cut someone and/or myself. Embracing music is certainly a healthy part of any travel experience. I mean I love reggaeton as much as the next guy, totally digged that __Omar Souleyman__ record and even managed to sniff out some tidy South African tribal house on a trip there, but nothing could compare to the heavyweights on the bill of ZoukOut 2014.

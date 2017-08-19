@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey is really annoyed by the new hand dryers in Blackett and Huxley, and wants you to share your equally colossal problems with her in Comment this year
 date: "2013-09-29 13:55:50 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3768"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s not just the stories making international headlines that are important to Imperial students. As well as giving different viewpoints on current events, Comment showcases any other issues that are significant to your life. Whether you think that the food in the JCR is actually pretty good, or you feel strongly that lab demonstrators don’t get the credit they deserve, there’s always space for an opinion. Whether you think that the Union could be doing something better, or you’re pretty confident that the Student Loans Company has made it their personal mission to make you miserable, we want to know. I personally, am outraged that all the paper towel dispensers in Blackett and Huxley have been replaced with hand dryers over the summer, and will quite happily wax lyrical about this for quite some time. I think big, you see. Students care what other students think, and so why not share your perspectives?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-08 01:08:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3283"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, the Union opened nominations for the upcoming elections for its part- and full-time positions. [The Big Elections 2013](https://www.union.ic.ac.uk/elections/), as the Union are publicising them, are this year the stage for 56 people to be chosen to represent Imperial students in their respective capacities.

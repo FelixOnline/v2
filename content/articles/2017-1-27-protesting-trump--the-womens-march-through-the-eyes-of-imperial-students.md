@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We talked to some of our editors, contributors and readers about their participation in the weekend’s anti-Trump marches. Here are their hopes, their fears. Here are their thoughts. Here are their testimonials.
 date: "2017-01-27 14:54:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6685"
@@ -34,15 +35,6 @@ image_height: "3024"
 image_attribution: "Tom Hartley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 TODO: image from

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Ball and Ben Fernando see the new rooms at One Victoria road
 date: "2014-11-21 13:14:20 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4924"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Stephen Ball"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Felix paid a visit to the construction site of the new Halls, One Victoria Road, to investigate how things were progressing and to talk to Campus Services about the latest news and updates ον τηε προϕεχτ.

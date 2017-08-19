@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4783"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Not many of us have a spare quarter-of-a-million dollars to blow on a half-hour joy-ride.

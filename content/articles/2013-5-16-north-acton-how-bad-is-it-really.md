@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Fernando takes a trip to the new hall’s location to investigate
 date: "2013-05-16 18:55:19 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3587"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At first sign, North Acton station appears prettier than most – there’s even a cherry tree in front of the ticket barriers. Travel time from South Kensington: 45 minutes 18 seconds. That’s 45 metric minutes at 60 seconds/minute, not these new 80 second imperial-Acton minutes that the college use in their 30 minute estimate for travel time.

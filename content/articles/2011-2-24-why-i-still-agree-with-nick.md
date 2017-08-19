@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Liberal Democrats are doing the right thing argues Tagore Nakornchai
 date: "2011-02-24 20:06:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "879"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Lib Dems have been criticized by everyone and their dog since they joined the coalition last May – the turnaround on tuition fees, their complicity in the public sector cuts, allowing the Tories in to Number 10. We’ve all heard it before: the Lib Dems are doomed, we’ll never vote for them again, yadda, yadda, yadda.

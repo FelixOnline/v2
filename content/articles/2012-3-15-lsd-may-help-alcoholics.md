@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lysergic acid diethylamide appears to support alcoholics' efforts to rewire their brain away from addiction
 date: "2012-03-15 19:45:10 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2348"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A powerful hallucinogenic drug once used by the CIA in torture experiments may help alcoholics stop drinking, according to new research.

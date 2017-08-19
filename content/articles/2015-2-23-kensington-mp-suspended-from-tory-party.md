@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Politicians for hire: Rifkind suspended from Tory Party pending investigation into ‘cash for access’ scandal.
 date: "2015-02-23 15:43:05 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5306"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wiki Commons: SE7"
 image_attribution_link: "http://en.wikipedia.org/wiki/Malcolm_Rifkind#mediaviewer/File:Rt_Hon_Sir_Malcolm_Rifkind_MP_at_Policy_Fight_Club.jpg"
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The party whip and MP Sir Malcolm Rifkind has been suspended from the Conservative party in parliament after becoming embroiled in ‘cash for access’ allegations.

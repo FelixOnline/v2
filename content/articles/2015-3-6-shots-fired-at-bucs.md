@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ernest Lo reports as Imperial A team grab silver
 date: "2015-03-06 14:09:35 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5356"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IC Rifle and Pistol"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over BUCS weekend at the end of February, six brave Imperial souls left the comfort and warmth of their London flats to compete in the BUCS Smallbore Rifle Finals. After a hearty Chinese takeaway dinner, something of a team tradition, they set off for Sheffield ready for the upcoming two days of individual and team shooting.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "The 3D worked straight from the off"
 date: "2011-02-10 20:44:23 +0000"
+author_id: "cb908"
 
 # Attributes from Felix Online V1
 id: "782"
@@ -34,15 +35,6 @@ image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cb908"
-author_name: "Chris Bowers"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend I bagged tickets to an exclusive [Nintendo 3DS hands-on preview](http://trynintendo3ds.co.uk) – and first impressions were excellent! After a vague demonstration of StreetPass, “real-life” demonstrations of _Street Fighter_ and _Resident Evil_, and a brief introductory video featuring Jonathan Ross (seemingly the new face of Nintendo Europe), I got my hands on the 3DS.

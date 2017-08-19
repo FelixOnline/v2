@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Newly refurbished halls are anything but
 date: "2016-12-15 23:44:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6595"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Several students currently housed at Evelyn Gardens are reporting being unhappy with the quality of the accommodation they are receiving, with complaints coming in ranging from issues with pest control, to problems with plumbing and electrical works.

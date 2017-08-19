@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Concerns about the implications of a Sino-American currency devaluation race continue to rise
 date: "2010-10-28 19:30:01 +0100"
+author_id: "lh1009"
 
 # Attributes from Felix Online V1
 id: "263"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh1009"
-author_name: "Lingxi Huang"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After their meeting in Seoul, G-20 finance ministers expressed optimisim that a much-hyped global currency war may yet be avoided. Thoughts have now turned to the longer-term motivations for countries to manipulate their currencies to help exporters, and measures that can be taken against this.

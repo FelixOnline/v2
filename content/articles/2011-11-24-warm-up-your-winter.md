@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The stunningly festive bar and restaurant Spiegel Saloon returns to Hyde Park’s Winter Wonderland
 date: "2011-11-24 21:35:13 +0000"
+author_id: "mk4410"
 
 # Attributes from Felix Online V1
 id: "1824"
@@ -33,15 +34,6 @@ image_height: "1198"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mk4410"
-author_name: "Michael Krestas"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Spiegel Saloon returns to Central London as part of Hyde Park’s Winter Wonderland. Open until Tuesday 3rd January, the stunning bar and restaurant is the only fully heated place within Winter Wonderland. Going back to the early 19th century, Spiegel Tents were travelling ballrooms and entertainment salons, originating in Belgium. Spiegel Saloon maintains this charming aura of tradition; the bar is spacious – the saloon seats up to 200 visitors – and the comfy sofas and beanbags contribute to a warm welcoming.

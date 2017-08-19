@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Macbeth was on at the National Theatre from the 6th – 20th February
 date: "2017-02-24 14:33:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6820"
@@ -33,15 +34,6 @@ image_height: "2000"
 image_attribution: "Ellie Kurtz"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Shakespeare for schools is an attempt by director Justin Audibert to bring Shakespeare closer to a ‘younger audience’: school children, especially those who may have been disillusioned by endless GCSE English lessons analysing iambic pentameter, may not have had the chance to step back and simply appreciate gripping Shakespearean narratives, such as Macbeth.

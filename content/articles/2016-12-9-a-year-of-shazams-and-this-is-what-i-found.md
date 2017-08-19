@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If you’re gonna be the guy that walks up to a speaker, phone first, while asking an entire room of people to shut up so that you can shazam something, at least put that song in a playlist
 date: "2016-12-09 15:43:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6577"
@@ -33,15 +34,6 @@ image_height: "480"
 image_attribution: "Sean Lucas - Shazam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So it’s Sunday; I’m tending to some life admin, such as paying rent, doing laundry, binge-watching Gilmore Girls, you know, the usual. All of a sudden an amazing cover of I Drove All Night (originally by legendary Céline Dion) comes up on the radio and I just have to know who it’s by. So I whip out my phone, open Shazam and… well shazam the shit out of the song until it’s registered and BOOM: I Drove All Night (B Side) \ The Maccabees \ 129 shazams.

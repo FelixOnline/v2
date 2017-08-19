@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Radio offline after “member of public” complains about racially offensive term
 date: "2011-02-03 19:50:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "727"
@@ -34,15 +35,6 @@ image_height: "256"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College Radio ([IC Radio](http://www.icradio.com/)) was shut down by the Union last Tuesday evening after a “member of the public” complained to the Rector about the use of racially offensive language during a broadcast. A non-Imperial guest on an IC Radio show referred to a close friend as a “Paki”, which the College and Union say breaks Imperial’s regulations governing media content.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On the eve of the Ashes, in our new column we preview the series.
 date: "2013-11-19 18:31:04 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4093"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 If there is one thing that almost seems certain, it is that England face a much tougher task than the one they undertook during the summer. With the addition of George Bailey (who showed strong form in the recent one-day series in India), Australia’s batting looks a bit stronger. England’s bowling hasn’t impressed as much as they would have liked in the tour matches, and the England management don’t seem too sure which bowling combination is their strongest.

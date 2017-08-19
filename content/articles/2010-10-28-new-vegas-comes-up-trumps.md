@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fresh out of his Vault, Sean Harbinson is bowled over by Fallout: New Vegas
 date: "2010-10-28 19:26:46 +0100"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "262"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Fallout: New Vegas brings us back to post-apocalyptic America to travel the vast wastelands once again. The story begins with you awaking in a room to discover you’ve just gone through surgery after being found shot and left for dead.

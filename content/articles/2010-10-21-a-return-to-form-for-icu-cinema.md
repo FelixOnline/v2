@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Union's Cinema is reborn!
 date: "2010-10-21 19:18:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "237"
@@ -33,15 +34,6 @@ image_height: "3744"
 image_attribution: "Roberto Tenace"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s easy to underestimate the scope for fun at Imperial – other universities probably had fully operational bars during Fresher’s Week and students camping out for days or even weeks in the library are not uncommon. With this in mind, when you hear about Imperial College’s Cinema, you may very well envision some shabby little screen and one lonely film geek hunched over a DVD player, but you would be wrong. Just above the newly opened FiveSixEight, the Union Concert Hall hides a 33ft screen and, with a professional 35mm projector and full Dolby Surround Sound, the [iCU Cinema](http://www.union.ic.ac.uk/arts/cinema/) rivals any average Odeon or Cineworld in London.

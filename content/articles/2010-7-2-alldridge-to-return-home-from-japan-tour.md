@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Loose-head prop, Jamie Alldridge, suffers an injury to his wrist
 date: "2010-07-02 01:01:50 +0100"
+author_id: "jn104"
 
 # Attributes from Felix Online V1
 id: "149"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jn104"
-author_name: "Jovan Nedic"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union Rugby Football Club have suffered their first major injury on tour.

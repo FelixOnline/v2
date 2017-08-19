@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We swear it's not porn
 date: "2017-01-27 17:33:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6701"
@@ -33,15 +34,6 @@ image_height: "1370"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Randori nationals are coming up, and Imperial Jiu Jitsu has to be prepared! This weekend an Imperial versus Queen Mary friendly, regional ground-fighting competition took place as practice for both clubs before nationals. Groundwork is a lot of fun, but very tiring when you’re the one stuck in a hold. It is very much like trying to escape a really, REALLY tight hug. Here, most competitors agreed not to use any chokes or strangles; let’s all play nice and friendly.

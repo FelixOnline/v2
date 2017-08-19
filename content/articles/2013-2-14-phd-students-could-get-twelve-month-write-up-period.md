@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College already on board
 date: "2013-02-14 13:13:21 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3320"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is likely that PhD students will be getting their writeup period extended to twelve months for all Departments, it emerged on Tuesday 12 February.

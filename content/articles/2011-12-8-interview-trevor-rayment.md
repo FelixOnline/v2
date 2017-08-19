@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alice Yang talks to the Director of Physical Sciences at Diamond Light Source
 date: "2011-12-08 20:26:54 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1912"
@@ -34,15 +35,6 @@ image_height: "649"
 image_attribution: "Alice Yang"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Diamond Light Source](http://www.diamond.ac.uk/), the UK’s national synchrotron facility, sits in the form of a gigantic steel ring amongst stretches of the green countryside surrounding the Harwell Science and Innovation Campus in Oxfordshire. Less than a decade old, this facility is at the cutting edge of research and luckily for me, having interned here for eight weeks, [Professor Trevor Rayment](http://www.diamond.ac.uk/Home/About/Company/Management.html), Director of Physical Sciences at Diamond, has managed to find a few minutes in his busy schedule for this interview.

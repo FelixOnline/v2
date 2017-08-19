@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Consent training could become mandatory from October onwards
 date: "2017-06-09 14:49:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7007"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two terms since consent training became a subject of contention amongst Imperial students, the Consent Matters pilot has finally been launched.

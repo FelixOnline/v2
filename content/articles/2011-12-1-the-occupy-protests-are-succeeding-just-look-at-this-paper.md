@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three comment pieces is enough for Padraic Calpin's seal of approval
 date: "2011-12-01 21:27:07 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1892"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Occupy movement, inspired by protest in Spain, made famous in New York and now a global phenomenon, is succeeding. On the face of it, this might seems to be an audacious claim. Indeed, some of you will be reading this and audibly scoffing; “They have no clear goals; what are they succeeding at?”

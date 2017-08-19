@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As 2011 draws to a close Philip Kent summarises the big events of the year – gaming related, of course
 date: "2011-12-08 21:41:14 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1942"
@@ -33,15 +34,6 @@ image_height: "338"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Hacks, cracks and website attacks__

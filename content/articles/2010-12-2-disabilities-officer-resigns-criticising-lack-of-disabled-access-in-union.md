@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "502"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The Union’s commitment to disabled students was called into question last week as the Union Disabilities Officer resigned saying that the Union “should be leading the way in accessibility for students, not lagging behind the rest of the university”.

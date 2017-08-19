@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IERS to apply this to resolve inaccuracies in timekeeping
 date: "2012-01-12 22:27:06 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1984"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Astronomers and engineers at the International Earth Rotation and Reference Systems Service (IERS) Earth Orientation Centre recently announced that a leap second will be applied at the end of June this year. Leap seconds are introduced by the IERS to make up for inaccuracies in timekeeping, made as a result of the slowdown of the Earth’s rotation. This additional second means that June 30 will last until 23:59:60UTC, instead of ending at the end of the 59th second. As this is during British Summer Time, the change will be applied at 1AM, and will be marked by a 7th ‘pip’ from the BBC’s time signal.

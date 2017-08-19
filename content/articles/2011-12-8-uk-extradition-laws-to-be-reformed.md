@@ -4,6 +4,7 @@ title: >
 subtitle: >
   MPs call for applied changes to Babar Ahmad case following evidence admissions
 date: "2011-12-08 20:16:53 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1911"
@@ -34,15 +35,6 @@ image_height: "642"
 image_attribution: "UK Parliament"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [A parliamentary debate](http://www.publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0002.htm#11120526000001) on extradition took place on Monday 5 December where it was concluded that there should be further calls for a public inquiry into the [Crown Prosecution Service](http://www.cps.gov.uk/) (CPS). The debate came as a result of an e-petition to put Babar Ahmad on trial in the UK securing over 141,000 signatures within three months.

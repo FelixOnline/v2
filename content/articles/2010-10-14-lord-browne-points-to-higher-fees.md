@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Browne Review recommends that universities be allowed to charge as much as they want
 date: "2010-10-14 19:07:38 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "198"
@@ -33,15 +34,6 @@ image_height: "531"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Universities should be unlimited in charging fees to students, the [Browne review of university funding has recommended](http://webarchive.nationalarchives.gov.uk/+/hereview.independent.gov.uk/hereview//). The influential review, released early this week, outlined various proposals and potential changes in higher education funding to the government, including lifting the current cap on annual tuition fees, which currently stand at £3,290. The review also proposed raising the threshold earning salary for graduate repayment to £21,000 to ease the rise.

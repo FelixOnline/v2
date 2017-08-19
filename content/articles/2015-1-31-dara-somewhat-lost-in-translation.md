@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles heads to Hindustan for the National Theatre’s new play
 date: "2015-01-31 18:49:34 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5167"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ellie Kurttz"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first challenge that presented itself to writer Tanya Ronder and director Nadia Fall, when planning on bringing a production of Pakistani play _Dara_ to the __National Theatre__, was how to tell a story that is a legend in the Indian subcontinent, but largely unknown in the UK? _Dara_, originally written by Pakistani playwright Shahid Nadeem, had an outing in India a couple of years ago, where most are familiar with the struggle between brothers Dara Shikoh and Emperor Aurangzeb for the throne of the Mughal Empire. While some aspects of the play are translated well, notably the set design and performances, on the whole much of the nuance and drama is lost on its journey to the South Bank.

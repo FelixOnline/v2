@@ -4,6 +4,7 @@ title: >
 subtitle: >
   No concrete long-term strategy in place says Union
 date: "2011-06-16 18:45:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1375"
@@ -34,15 +35,6 @@ image_height: "3744"
 image_attribution: "Imperial College London/Tim Smith"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Union has been forced to clarify that no plans for the future of the Summer Ball have been set in stone after several Deputy Presidents raised concerns following [last week’s Felix article](http://felixonline.co.uk/news/1350/union-unveil-ambitious-future-for-summer-ball/). Union President Alex Kendall said that the statement given to Felix regarding plans for the future of the Ball gave the “wrong impression” that the decisions had already been made and emphasied that student input would be sought and included in future decisions.

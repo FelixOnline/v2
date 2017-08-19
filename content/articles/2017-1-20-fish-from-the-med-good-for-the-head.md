@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim explains why the Mediterranean diet may be the best there is...
 date: "2017-01-20 15:13:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6666"
@@ -33,15 +34,6 @@ image_height: "905"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Think back to the last time you dipped sourdough into balsamic, mixed with a gleaming pool of olive oil. Extra virgin, please. As the world of nutrition science continues to shift our perceptions between food ideals, a new study has come to light featuring the sunny, olive oil lifestyle. The paper, published in the online journal Neurology, has shown that those who sustain themselves on a Mediterranean diet retain more brain volume than those who don’t. There is however, one key and slightly unusual exception – the amount of fish consumed, regardless of how much other meat is eaten, fails to make an overall difference. This particular finding contrasts with earlier studies looking into health benefits of a Mediterranean diet. So why is it so healthy for us, even without the fish?

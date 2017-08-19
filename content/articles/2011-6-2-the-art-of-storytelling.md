@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Guo Heng Chin guides us through the nuts and bolts of a good story
 date: "2011-06-02 20:10:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1318"
@@ -33,15 +34,6 @@ image_height: "1337"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Do you remember that one time when you stumbled upon a book that captivated you so much you could skip meals and read it way beyond bedtime just because you couldn’t bear to tear yourself away from the pages? Or that pang of sadness and longing as you came to the end of the novel and had to part with the wonderful cast of characters with whom you travelled though the pages of the book? There’s one thing in common with those books: good storytelling. Here’s a brief rundown of the cogs and gears of what makes a story engrossing.

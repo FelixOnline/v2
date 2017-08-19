@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stefan Zeeman takes a plunge into the seedy world of French prison-life.
 date: "2010-01-28 15:52:46 +0000"
+author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "57"
@@ -34,15 +35,6 @@ image_height: "853"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "egk08"
-author_name: "Edmund Knock"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Reviewed by Stefan Zeeman

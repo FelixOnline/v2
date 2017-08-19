@@ -4,6 +4,7 @@ title: >
 subtitle: >
   35% of students will be voting Conservative next week, whilst another 30% will be choosing Labour
 date: "2015-05-01 00:09:01 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5477"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 35% of students will be voting for the Conservative party this year, although a further 30% will be giving the Labour party their vote, our Felix opinion poll shows.

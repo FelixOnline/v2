@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Snowsports clubs collaboration will ‘reduce prices’
 date: "2011-10-07 01:06:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1472"
@@ -34,15 +35,6 @@ image_height: "484"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In this ‘age of austerity’ skiing and snowboarding can still remain affordable for students. Tough times call for tough measures. So now, Snowsports clubs from across the land of London have come together to bring snowy fun to the masses (i.e. you) at good ol’, pre-tuition-fee-scandal, student prices! While you were busy working on those tans that the days of revision and exams denied you, your lovely Snowsports committee were looking out for your winter needs.

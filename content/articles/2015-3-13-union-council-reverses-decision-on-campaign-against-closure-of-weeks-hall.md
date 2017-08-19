@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as council is flooded with Weeks residents
 date: "2015-03-13 01:17:22 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5390"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Union Council met this Tuesday and voted to reverse its previous decision not to campaign against the closure of Weeks Hall.

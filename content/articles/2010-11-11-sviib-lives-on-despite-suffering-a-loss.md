@@ -4,6 +4,7 @@ title: >
 subtitle: >
   School of Seven Bells at Heaven
 date: "2010-11-11 21:17:48 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "357"
@@ -33,15 +34,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 It’s been a tough few weeks for School of Seven Bells. The announcement of Claudia Deheza’s departure, one of the twin sisters whose vocal harmonies make their sound so distinctive, arrived suddenly and without warning on their Facebook account. Fans were shocked, and despite their decision to continue with their tour, they’ve received mediocre reviews in her absence.

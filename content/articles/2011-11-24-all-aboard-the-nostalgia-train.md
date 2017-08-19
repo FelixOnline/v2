@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There is magic to be experienced in Britain's train network
 date: "2011-11-24 22:47:42 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1843"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are many ways to travel and I like to think that I’ve experienced most of them. Each one has its own charm, best suited to different needs and situations; from the humdrum of buses to the out-of-this-world splendour of airplanes, and, for the adventurous among you, the awesome majesty of riding an ostrich to college. But there is one form that will hold a special place in my heart.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Johnny Depp and co put on a good performance, but Black Mass fails to truly impress
 date: "2016-09-05 20:35:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6295"
@@ -33,15 +34,6 @@ image_height: "372"
 image_attribution: "Black Mass PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There's an episode of David Mitchell's brilliant YouTube series _Soapbox_ in which he talks about the problem with gangster movies: one great film about gangsters gets made in the seventies, he argues, and suddenly everyone thinks they can make three hour long dirges filled with smoky wood-finished rooms, hilariously thick swear-riddled accents, and overly masculine geriatric men droning on and on about who's next to get whacked. He blames _The Godfather_. It feels almost unfair to compare any film to _The Godfather_, except perhaps _The Godfather Part II_, but watching the Boston-set crime drama _Black Mass_, it's easy to see what Mitchell was on about.

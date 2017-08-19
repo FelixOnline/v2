@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A bizarre world where tube lines celebrate Christmas
 date: "2010-12-09 21:45:32 +0000"
+author_id: "va208"
 
 # Attributes from Felix Online V1
 id: "542"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "va208"
-author_name: "Veli Akiner"
-author_image_path: "http://felixonline.co.uk/img/upload/201102172002-ks607-silhouet.jpg"
-author_twitter: "VeliAkiner"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You know that friend of yours who's always busy on weekends when you ask her to come out? She recently left a relationship that was just going round and round. Welcome to the Circle Line.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The future of Plant Sciences at Imperial is under threat as Life Sciences department seeks to plug £1.5m hole in finances
 date: "2010-10-07 21:51:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "171"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A bitter row between the Union and the Department of Life Sciences has erupted over what Union President Alex Kendall terms as the “deletion of Plant Sciences” from Imperial. The re-structure of the Life Sciences department, aimed at plugging a £1.5 million hole in the department’s finances, has provoked a series of controversial accusations from the Union including claims that the Department has “severely misused” its statistics.

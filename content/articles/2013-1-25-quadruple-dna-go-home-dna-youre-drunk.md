@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett thinks DNA are now causing a scene and need to be sent home in a taxi
 date: "2013-01-25 01:54:20 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3188"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The traditional double helix configuration of every biologist’s favourite acid, DNA, is a common sight in the media. It’s on textbook covers, in adverts and even in logos attempting to convey scientific superiority, but which are really playing on the naivety of the general public (anti-aging creams, I am looking at you). The dual swirl has been incredibly romanticised since its discovery by the biology big shots James Watson and Francis Crick, but new research is showing that this structure may not be all that DNA has up its molecular sleeve.

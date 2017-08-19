@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Music has an exciting competition this month, write a short article for them and you could win 2 tickets to see the Wailers live in concert.
 date: "2013-09-05 09:50:11 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3756"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Felix Music"
 image_attribution_link: "https://www.facebook.com/ICFelixMusic?fref=ts"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 COMPETITION ALERT!

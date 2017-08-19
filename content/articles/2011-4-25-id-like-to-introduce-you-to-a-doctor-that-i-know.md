@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There hasn't been a better time to start watching Doctor Who. The new season is going to be a scorcher
 date: "2011-04-25 21:57:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1142"
@@ -34,15 +35,6 @@ image_height: "532"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Saturday brought the long-awaited first episode of the new season of Dr Who. “The Impossible Astronaut” is the 771st episode of the longest running SciFi TV series, featuring Matt Smith as the eleventh Doctor. The series has made it into the Guinness World Records, employed writers such as Douglas Adams, and experienced a revival in 2005 after 16 years off the air. The run up to this event has been carrying on since the Boxing Day episode – nearly exactly five months of countdown.

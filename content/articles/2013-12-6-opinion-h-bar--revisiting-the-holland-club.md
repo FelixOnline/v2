@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Holland Club was so popular because it was a unique facility within the College offering a traditional ‘local’ pub ambience for staff and postgraduates to relax and socialise in...
 date: "2013-12-06 03:47:48 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4179"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Holland Club was so popular because it was a unique facility within the College offering a traditional ‘local’ pub ambience for staff and postgraduates to relax and socialise in. The bar was carpeted and comfortably furnished, the lighting sympathetic, the atmosphere warm and friendly.

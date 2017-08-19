@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Taekwondo in medal haul at the WTF London International open
 date: "2012-02-16 23:26:48 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2220"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "IC Taekwondo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College TaeKwonDo (ICUTKD) has returned to its [World Taekwondo Federation](http://www.wtf.org/) (WTF) roots this year, and recently entered its first WTF competition in a long time. On Sunday 5th February, Brentford Leisure Centre was host to the Taekwondo London International Open 2012, with competitors from all over the world – notably a team of specialists, which included an Olympic athlete from Korea (the home of the exciting sport.) ICUTKD put forward a team of six fighters for the intermediate level sparring category, and came back strong with a six medal haul.

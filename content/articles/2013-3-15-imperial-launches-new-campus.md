@@ -4,6 +4,7 @@ title: >
 subtitle: >
   BoJo hits up QTR in search of an invisibility cloak
 date: "2013-03-15 00:22:48 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3460"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week the new campus, Imperial West, was launched at an event that attracted the London Mayor, Boris Johnson, and Universities & Science Minister, David Willetts. At the event the Mayor and the Minister took time to have some hands on time with the College’s latest research (including the famous invisibility cloak) in an event that attempted to display the potential of the new campus.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Men's 7s football report
 date: "2011-05-20 02:51:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1212"
@@ -33,15 +34,6 @@ image_height: "524"
 image_attribution: "Alexander Johnstone Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Procrastination has only served man kind: The pizza burger, Kite Surfing, Skittle Vodka and now the PistolShrimps! An invitational rugby 7s team formed by Alex Johnstone and Joe Brown whilst trying to revise for their finals…The idea was that the team would be made up of the best players to have passed through Imperial over the past 5 years and a couple of ringers. The intention of the team was to be competitive at the big national tournaments and have a good time doing it.

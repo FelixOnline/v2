@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Far-fetched state-school drama tops National TV Awards
 date: "2011-11-24 21:20:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1819"
@@ -33,15 +34,6 @@ image_height: "363"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I don’t normally watch shows in the ‘so bad it’s good’ category – there are far too many genuinely good programmes which I can devote my time to. The one exception to this rule is [_Waterloo Road_](http://www.bbc.co.uk/programmes/b006t1p7)__.

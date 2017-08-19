@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shock! Horror! Buckets used for raising money, not vomit... By Catherine Lu and Genevieve Pugh
 date: "2011-02-28 21:15:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "942"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week our medical students recalled, distantly, their reason for being here: the hazy memory of a burning desire to make a difference to the world and help those unable to help themselves. Enthused with a newly found raison-d’etre not involving bodily fluids outside of the body, they have devoted themselves to RAG week and its causes.

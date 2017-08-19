@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Taking the Edinburgh Fringe Festival head on
 date: "2012-05-25 18:30:37 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2499"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Having first seen comedy group [WitTank](http://www.wittank.com/) two years ago at the __Edinburgh Fringe__ on the recommendation of a friend, I’ve been coming back for more at every opportunity. These are the guys who compete against some other 2500 shows for an audience at the Fringe every year and still manage to pack the house for every performance.

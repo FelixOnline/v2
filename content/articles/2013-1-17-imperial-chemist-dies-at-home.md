@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joachim H. G. Steinke died suddenly last Tuesday
 date: "2013-01-17 23:42:34 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3117"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I knew Joachim for the last 23 years having done our PhD’s together at the University of Strathclyde under Professor David’s Sherrington’s fine leadership.

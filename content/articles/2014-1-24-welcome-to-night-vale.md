@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski invites you to visit America’s most unusual town
 date: "2014-01-24 10:05:45 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4292"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 How to write a review of something whose own creator describes as “weird and impossible to describe”? At its simplest, _Welcome to Night Vale_, produced by Commonplace Books, is a fortnightly audio podcast in the format of a radio news broadcast from the fictional American desert town of Night Vale. However, Night Vale is not what we would recognise as an ordinary town, it is a weird and shadowy place where the laws of physics don’t always work and where behind every corner lurk eldritch abominations, ancient conspiracies and “vague yet menacing” government agencies.

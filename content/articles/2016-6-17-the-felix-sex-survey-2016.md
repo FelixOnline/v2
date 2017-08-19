@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's finally come. Have you?
 date: "2016-06-17 09:01:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6275"
@@ -33,15 +34,6 @@ image_height: "1040"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Here it is, for the sixth year running, the infamous FELIX Sex Survey results. Thank you so much to everyone who trusted us with your deepest, darkest, and occasionally unrealistic and obviously made-up secrets (we deleted those responses from our data). Six hundred or so of you took the time to fill it out though, and we are very grateful. Your data was always anonymous, and now it will be deleted forever, but remains immortalised below in emoji-enhanced infographic form, for generations to come to enjoy. We’ve looked at how student sexuality has changed over the years, whether or not it really is harder to find a girl if you’re a guy at Imperial, and which departments are most into butt stuff – looking at you, mech eng. Enjoy!

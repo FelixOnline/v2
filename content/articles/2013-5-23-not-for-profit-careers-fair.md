@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In Brief
 date: "2013-05-23 22:29:41 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3619"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London is hosting a careers fair that is just for the Not For Profit sector on Thursday 13 June. It is a new event that has been added after feedback from Imperial students. Companies in attendance will range from the Civil Service Fast Stream to Teach First to Global Vision International.

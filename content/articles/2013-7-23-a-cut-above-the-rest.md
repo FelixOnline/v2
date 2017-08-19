@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The results from Imperial’s iKnife are promising, but require further validation.
 date: "2013-07-23 17:28:23 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3745"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It sounds like something Apple would produce, not a team of Imperial researchers: the iKnife, the surgical device that can ‘sniff out’ cancer.

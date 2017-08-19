@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A different set of highlights from Sunday's events
 date: "2012-03-01 22:36:20 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2288"
@@ -33,15 +34,6 @@ image_height: "632"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After a struggle to grab the interest of viewers the last couple of years, the 84th Oscars may have created a positive future for the show. Billy Crystal kept the night running smoothly with his humorous skits, and all the attendees were charismatic and optimistic. Although comedy was present throughout the night, it was a classy and elegant event that when all mixed together, wonderfully celebrated another year of film.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Planetary scientists come up with weather system model for one of Saturn's moons
 date: "2012-01-12 21:56:22 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1976"
@@ -33,15 +34,6 @@ image_height: "583"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Scientists have developed the most advanced model yet of the weather system on Titan, one of Saturn’s moons and the only place in the solar system other than Earth that harbours lakes.

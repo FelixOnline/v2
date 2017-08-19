@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC confirm reigning champion status at Ethos in weekend tournament
 date: "2012-02-02 23:10:07 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2106"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Charlotte Levin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The mantle of success is never an easy thing to bear, especially so in sport. Success breeds expectation, which translates into pressure – exactly the sort of thing you don’t want when you’re trying to reproduce past exploits.

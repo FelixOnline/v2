@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exploration Society invite “the Mountaineer’s Mountaineer” to Imperial College
 date: "2012-02-16 21:28:07 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2189"
@@ -33,15 +34,6 @@ image_height: "3072"
 image_attribution: "Arnaud Sors"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever sat in the Library, staring out of the window and wondering what else you could be doing? On the last day in January, [Exploration Society](http://www.union.ic.ac.uk/rcc/exploration/) helped fuel the imagination of adventure by hosting a talk by Mick Fowler.

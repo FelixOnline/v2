@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Indira Mallik guides us through the proposed changes to funding for culture under the Conservative majority
 date: "2015-05-15 12:59:53 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5542"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Mindseye Lighting"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Friday, Britain woke up to an entirely changed political landscape. Instead of days of coalition talks, or discussing the constitutional ins and outs of a minority government, we were faced with a Conservative majority. Within the space of hours, the commentators went from discussing the probability of the vote share to the probability of who would end up in the cabinet. On Monday we found out that David Cameron had appointed John Whittingdale as Secretary of State for Culture, Media and Sport. Already the tabloids have claimed this as “declaring war on the BBC”. Whittingdale has a history of being notoriously anti-licence fee, proclaiming it as “worse than the poll tax”. Despite no doubt ruffling a few feathers at __Broadcasting House__, the choice of John Whittingdale, who was Shadow Culture secretary and later Chairman of the Media Select Committee, certainly seems to makes more sense than his predecessor Sajid Javid, who by all accounts struggled to convince journalists and the art world alike that we was interested in the performances it was his job to attend.

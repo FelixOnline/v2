@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kate Pumphrey takes you on a tour of coffee
 date: "2013-03-15 03:15:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3495"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are prices you pay for obsessions, and mine is a small, daily coronary. This occurs at some point between the hours of 10.40 and 11.30am and, like most heart conditions, is usually triggered by anxiety, stress and/or over-indulgence.

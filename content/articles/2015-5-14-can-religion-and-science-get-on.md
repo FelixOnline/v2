@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nick Farmer checks in at Debating Society’s public debate
 date: "2015-05-14 22:00:23 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5518"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial Debating"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union Debating Society’s first public debate of the year saw students debate Lord Professor Robert Winston and Bioengineering Senior Lecturer Dr Jennifer Siggers on the motion “This house believes that religion is harmful to the progress of science” in front of a packed lecture theatre.

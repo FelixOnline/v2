@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What are you supposed to do when you leave Imperial?
 date: "2011-01-20 20:53:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "635"
@@ -34,15 +35,6 @@ image_height: "1714"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I passed my viva a few months ago. The day before my 27th birthday, coincidentally. This should have marked the beginning of the next stage in my life but I now feel strangely confused, unable to move on. Where is my life going and all that? I’m hoping this article will have a cathartic effect. Writing for my former university paper to help me move on might seem ironic but this is not some purely egomaniacal exercise. I’m sure others are going through a similar experience, or will go through it on graduating from university. So this article is dedicated to you.

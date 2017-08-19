@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mike and Caz share their pick of foodie-related comforts
 date: "2014-06-02 13:12:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4649"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Okay, it’s not winter - but summer term is still a high-stress term here in Imperial, we’ll grant you that. Everyone’s got their own comfort foods/snacks (season be damned), favourite eateries, kitchen gadgets they’re biased towards. Even us as Food editors - we’re not going to pretend we don’t have a few favourites of our own; things that keep us going when the chips (hurr!) are down.

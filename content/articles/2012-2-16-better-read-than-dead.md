@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Games editor Laurence Pope reviews Yahtzee Croshaw’s epic MMORPG parody
 date: "2012-02-16 21:04:13 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2183"
@@ -33,15 +34,6 @@ image_height: "1482"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Death is a real nuisance. You can’t move, you can’t see, you can’t – well, let’s be honest here, you can’t do much at all. The best you can manage is a bit of basic decomposition, but it’s not really something to brag about (not that you can talk anyway). On the plus side though, you do get some well-deserved shuteye. That is, unless you’re awakened by a rogue necromancer who runs monthly entertainment nights for his undead minions.

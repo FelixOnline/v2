@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The annual ‘Leadership Elections’ begin
 date: "2016-01-29 08:49:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5837"
@@ -34,15 +35,6 @@ image_height: "1366"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Get ready for off-puttingly upbeat lecture shout outs, a fortnight of Facebook spam and unwelcome accosting in the library over your jacket potato – it’s election time.

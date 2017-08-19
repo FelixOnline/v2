@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A device to allow drinking from a cup in the absence of gravity has been developed
 date: "2012-03-08 20:19:51 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2314"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Drinking in space can be a messy affair. In the absence of gravity liquid floats, requiring all drinks to be sucked up from a pouch using a straw – a particularly odd sensation when having your hot coffee in the morning. But now, thanks to NASA astronaut Dr. Don Pettit, sipping from an open top cup is possible, even in the zero gravity.

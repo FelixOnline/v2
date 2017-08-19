@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It is time for London to elect a mayor
 date: "2012-03-15 22:24:22 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2398"
@@ -34,15 +35,6 @@ image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This May, Londoners will again be called upon to elect a mayor, and if the polls are anything to go by the race between incumbent Boris Johnson and returning rival Ken Livingstone is too close to call. The thing is, I have real difficulty understanding how that can be so. Cynics remark that British politics is increasingly being reduced to a personality contest and, worryingly, it seems to me that the 2012 mayoral election has a candidate basing their entire campaign on a persona.

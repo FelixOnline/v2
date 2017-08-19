@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An Imperial student paid a deposit on house he hadn't seen, before discovering the 'landlord' didn't exist
 date: "2016-06-10 08:16:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6248"
@@ -33,15 +34,6 @@ image_height: "430"
 image_attribution: "mappio.net"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A student was caught out by scammers this week after paying a deposit on a flat that turned out not to be for rent.

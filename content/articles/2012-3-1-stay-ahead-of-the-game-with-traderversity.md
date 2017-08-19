@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An exciting virtual trading game for university students
 date: "2012-03-01 22:46:41 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2291"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Traderversity is an exciting new, free, virtual trading game designed exclusively for UK university students. The interactive online game at [www.traderversity.com](http://www.traderversity.com) lets students try their hand at trading with real-time access to the stock market without investing any real money. Creating healthy competition, players can get to grips with the basics of trading, interact with other student traders and be in with the chance to win a share of the £5,000 monthly prize fund!

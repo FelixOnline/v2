@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All the best tech news you missed during the Easter break
 date: "2010-04-30 10:40:22 +0100"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "129"
@@ -33,15 +34,6 @@ image_height: "280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 Welcome back all you holidaying Imperialites. I hope you had a refreshing break or as so many of you were, your revision went well. It's back to the daily grind from now until the end of the academic year with the summer term punctuated by exams and projects.

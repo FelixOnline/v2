@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Basel Chamali argues that there is no peaceful solution in Syria
 date: "2012-03-08 21:39:28 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2327"
@@ -33,15 +34,6 @@ image_height: "541"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the “Arab Spring” unfolded, many Syrians looked on with envy, hoping for a chance to ride the waves of change. Yet, after a few failed attempts – the first being on February 5 2011 – many had lost hope. However, no one had envisioned the regime itself providing the spark for the revolution.

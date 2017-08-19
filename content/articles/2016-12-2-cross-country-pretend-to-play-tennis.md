@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The youth has gone mad, MAD I TELL YA
 date: "2016-12-02 16:52:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6555"
@@ -33,15 +34,6 @@ image_height: "4000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Thinking of Wimbledon, visions of grassy courts, world-ranking tennis pros, and Sue Barker should come to mind. So when we told our runners that the next race would be in Wimbledon, there was a predictable wave of excitement. Those who were savvy enough to deduce we weren’t tennis players, or that it wasn’t July, may have known there may not be green grass involved, but rather hills, cross country trails, and grass of a browner shade. Mud – I’m talking about mud.

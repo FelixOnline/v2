@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah is on his best behaviour around office Nigel Lewis
 date: "2012-10-05 11:57:45 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2607"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tim Arbabzadah: What basic advice would you give to freshers in halls?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I was born in Kenya. I lived there until I was 10 years old. I learned to swear at someone in Kiswahili and Kikuyu. One of my fondest Kenyan memories is my first ever live cricket match at the Gymkhana Stadium in Nairobi. It was the 2003 World Cup and Sri Lanka were in town...
 date: "2013-11-08 03:46:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4026"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I was born in Kenya. I lived there until I was 10 years old. I learned to swear at someone in Kiswahili and Kikuyu. One of my fondest Kenyan memories is my first ever live cricket match at the Gymkhana Stadium in Nairobi. It was the 2003 World Cup and Sri Lanka were in town. The gulf in class was enormous and yet we trounced them by 53 runs. It really doesn’t get better than that. Sadly enough the fortunes of Kenya Cricket (and I guess the entire country in 2007) have plummeted to some painful lows, mainly due to financial and personnel mismanagement.

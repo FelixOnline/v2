@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union say College have been involved from the outset and that the company chosen had a good record of animal safety and welfare
 date: "2013-05-16 20:46:01 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3592"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 PETA have written to the President & Rector of Imperial College London urging him to stop the Union’s plans for a petting zoo on Queen’s Lawn on Thursday 23 May. The letter calls the petting zoo “ill-conceived” and asks for Imperial to “make a formal to avoiding future events that promote the mistreatment of animals”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Keir Little thinks that you should know
 date: "2013-10-25 00:12:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3924"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "NaNoWriMo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Whether it’s swimming 500 lengths or climbing 5,000 metres, we all know about the athletic challenges that some people rise to. Fewer know about the creative challenge that over a quarter of a million aspiring authors take up each year: writing a 50,000 word novel in thirty days.

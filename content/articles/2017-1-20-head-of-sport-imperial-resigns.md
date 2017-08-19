@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's not been a great year for Sport Imperial
 date: "2017-01-20 14:55:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6658"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Grant Danskine, Head of Sport Imperial, has resigned amidst resurfaced criticism of the organisation’s treatment of female athletes. Although the criticism – which resurfaced after Imperial published its institutional culture report – is unrelated to Danskine’s direction of Sport Imperial, it did manage to receive national coverage once more.

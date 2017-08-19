@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexander Joseph savours the curry delights and tries to decipher their origin
 date: "2010-11-18 21:13:34 +0000"
+author_id: "aj710"
 
 # Attributes from Felix Online V1
 id: "403"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "aj710"
-author_name: "Alexander Joseph"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Walk through most high streets in London and you’re bound to find an Indian restaurant of some sort. The curry industry is worth in excess of £1 billion a year in the U.K. Curry has captured the hearts of the nation to such an extent that the England 1998 World Cup anthem was named after a dish first concocted on the other side of the globe. The curry was only narrowly beaten to Britain’s favourite dish by the pizza. But what are the stories behind these national treasures and are they even truly Indian or an example of multiculturalism working at its best.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Weekend win on the cards
 date: "2012-01-20 12:09:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2041"
@@ -33,15 +34,6 @@ image_height: "5184"
 image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Imperial fencing men’s and women’s teams stand to win their respective leagues this weekend, the men’s and women’s Southern Premiership, if they can fight off the likes of Oxford, Cambridge, and London rivals such as Queen Mary or ULU.

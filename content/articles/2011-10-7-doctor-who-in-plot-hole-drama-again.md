@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's time to pick holes in the Doctor's nebulous, wibbly wobbly, timey-wimey thread
 date: "2011-10-07 12:44:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1493"
@@ -34,15 +35,6 @@ image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Given that this is Imperial I’m sure that few of you will be unaware that last Saturday saw the broadcast of [‘The Wedding of River Song’](http://www.youtube.com/watch?v=DwYy-gj3oiQ) - the final episode of the latest series of Doctor Who. This has been probably one of the best series since the 2005 revival of the show. Starting with the chilling image of a future version of the Doctor being killed in [‘The Impossible Astronaut’](http://www.youtube.com/watch?v=_6wTNPpXXOM) it included the wonderful exploration of the Doctor’s companion Amy that was [‘The Girl Who Waited’](http://www.youtube.com/watch?v=M7tsEpOi1y0) and the near perfect [‘Let’s Kill Hitler’](http://www.youtube.com/watch?v=N-Zw1QDpg9g). It’s not surprising that I had high hopes for this episode.

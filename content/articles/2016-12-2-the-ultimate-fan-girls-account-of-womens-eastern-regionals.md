@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If you're a fan of the letter D you're gonna love this article
 date: "2016-12-02 16:54:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6556"
@@ -33,15 +34,6 @@ image_height: "2482"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 19th and 20th of November, I participated in the Women’s Eastern Regionals for Ultimate Frisbee. While I could just list the outcomes of matches, I think it’s time the sports section of felix discussed what goes the behind the scenes of an ultimate tournament – particularly from the lens of an inexperienced player.

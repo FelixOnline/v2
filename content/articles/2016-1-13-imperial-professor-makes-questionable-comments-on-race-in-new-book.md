@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr Lamb bemoans “the mess which over-zealous multiculturalism has got Britain into”
 date: "2016-01-13 14:45:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5825"
@@ -34,15 +35,6 @@ image_height: "226"
 image_attribution: "Queen's English Society"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.

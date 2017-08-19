@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The makers of Monument Valley return with the first great VR experience on mobile
 date: "2016-02-05 12:43:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5882"
@@ -34,15 +35,6 @@ image_height: "1100"
 image_attribution: "Ustwo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For a gaming device to truly succeed it needs a great launch title. Land’s End, a virtual reality puzzle adventure from the creators of Monument Valley, is the game that every owner of the device must play. Developers Ustwo truly understand the power of the new medium and where it works best, and they’ve used that knowledge to create something that feels completely new.

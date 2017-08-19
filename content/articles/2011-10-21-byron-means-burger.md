@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Byron, reviewed
 date: "2011-10-21 11:54:58 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1604"
@@ -33,15 +34,6 @@ image_height: "2550"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 “I want to keep fighting because it is the only thing that keeps me out of the hamburger joints. If I don’t fight, I’ll eat this planet.” Take this George Foreman quote, replace ‘fight’ with ‘study’ and ‘hamburger joints’ with ‘Byron’ and it’s instantly applicable to me. Well, sort of. OK, not really, but I still really like Byron.

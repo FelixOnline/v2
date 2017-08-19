@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent looks at the latest Alzheimer’s research
 date: "2012-01-26 22:41:48 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2069"
@@ -33,15 +34,6 @@ image_height: "425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Alzheimer’s is an as-yet incurable disease that accounts for the majority of cases of dementia. A characteristic symptom of people with Alzheimer’s is memory loss, with the person affected gradually becoming increasingly forgetful; unable to remember their own identity, and eventually, complete unresponsiveness in its later stages. This is amongst many other symptoms.

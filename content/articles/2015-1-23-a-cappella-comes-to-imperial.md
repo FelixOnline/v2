@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The semi-finals of the ICCA's will be held this Saturday at Imperial
 date: "2015-01-23 00:42:08 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5113"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "The Techtonics"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The semi-finals of the International Championship of Collegiate A Cappella (ICCA) will be held this Saturday at Imperial College. The competition is presented by Varsity Vocals, in conjunction with the Union’s A Cappella Society, which is also sending three groups to compete against a range of University A Cappella groups from around the UK.

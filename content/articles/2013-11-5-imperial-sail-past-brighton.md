@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Cox reports from Harlington
 date: "2013-11-05 10:01:22 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4015"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On a windy Wednesday in west London, Imperial 1st XV hosted Brighton at Harlington for their third match of the season. Off the back of a 24-0 win against their inferior university colleagues, IC were brimming with confidence going into this game with a very strong team on paper, only missing centre Mike Floyd (suffering from a bruised shoulder), and albino winger Fred White (busy scouting next year’s fresher intake whilst modelling vests in Korea).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Planning application proposes conversion of Fisher Hall to care homes for the elderly
 date: "2011-01-13 21:45:23 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "595"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The long-term future of student accommodation in the Evelyn Gardens area is currently under review, with the high cost of necessary refurbishment likely to mean the closure of halls such as Fisher. The uncertainty comes as Imperial is reviewing all areas of its accommodation provision including the wardening system and an investigation by Facilities Management into state of repair of all halls. The Director of Commercial Services, Jane Neary, stressed that the College is committed to providing accommodation for 1st year students and that the halls would remain open for the foreseeable future, until they could be replaced.

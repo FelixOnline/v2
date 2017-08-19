@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Heather Jones on how public behaviour by a few individuals can negatively influence a whole range of unrelated social interactions
 date: "2012-06-14 19:28:44 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2547"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 This morning I realised that something has fundamentally gone wrong. Having finished exams I was wandering around in Hyde Park after a delicious coffee with a friend and noticed the horses from the Hyde Park barracks practicing. I went over to watch and was being impressed by their formation horsing when a gentleman with a huge smile came up and asked me what they were doing. My reaction was a sinking feeling wondering how to extricate myself.

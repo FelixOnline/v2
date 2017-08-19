@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3610"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Though everyone seems to be resigned to the Coalition trundling along to 2015, there’s still a bite to British (though perhaps more specifically English) politics. It’s been a tumultuous month, with waves of Tory rebellion unsettling David Cameron and the guffawing face of Farage barely off the front pages.

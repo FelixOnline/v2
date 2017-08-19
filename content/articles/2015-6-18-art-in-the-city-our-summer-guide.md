@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Arts presents our cultural guide of what’s on this summer
 date: "2015-06-18 22:02:17 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5639"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ### BP Portrait Award 2015

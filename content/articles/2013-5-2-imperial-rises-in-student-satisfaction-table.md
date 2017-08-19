@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shooting up the table, but still only coming in at 41. Workload highlighted as major problem
 date: "2013-05-02 13:33:35 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3530"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London have placed 41 in the [Times Higher Education Student Experience Survey](http://www.timeshighereducation.co.uk/news/the-student-experience-survey-2013/2003450.article). This is up from a position of 71 last year. University of East Anglia came top of the table, with Oxford in second and Sheffield in third.

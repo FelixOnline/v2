@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Meredith Thomas interviews Jennifer Louise Martin on the male gaze
 date: "2013-06-05 19:00:43 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3661"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I met Jennifer Louise Martin in the food hall at Selfridges. To get there I had to walk through the cosmetics hall. Through the haze of perfume, immaculate girls stared out with twinkling eyes, watching my progress as I picked my way though counters stacked with foundation, mascara and lipsticks. I had wondered whether Jennifer was setting herself up to make a point. As it emerged, she is far too straightforward for intricate ploys.

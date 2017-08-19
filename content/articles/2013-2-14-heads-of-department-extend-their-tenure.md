@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chemical Engineering and EEE to have same Heads for next couple of years
 date: "2013-02-14 13:14:15 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3321"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Heads of the Department of Chemical Engineering and Electrical and Electronic Engineering have both accepted an extension of their roles.

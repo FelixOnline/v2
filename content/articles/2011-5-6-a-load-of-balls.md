@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wear whatever you want to the Summer Ball – I will
 date: "2011-05-06 08:32:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1158"
@@ -34,15 +35,6 @@ image_height: "2598"
 image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Summer Ball is once more drawing ever closer. The time when the girls get to wear expensive dresses, and the guys get to wear tuxedos with a real bowtie, (not one of those pre–tied ones, which don’t allow you to wear it with the knot undone for that cool after party look). But wait, what’s that in the sky? Is it a bird? Is it a plane? Yes, it is a plane. It’s actually several planes doing a flyby for the Royal Wedding, but the plane I was referring to is the metaphorical one behind them. It’s here to drop a bomb, a metaphorical bomb; this year the Summer Ball isn’t officially black tie.

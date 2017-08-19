@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Andrew Foster reviews MT Soc's latest show
 date: "2013-03-15 01:26:57 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3474"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “The greatest happiness of the greatest number is the foundation of morals and justice.” Really Mr Bentham? We beg to differ, as we think you’ll find that it’s actually Musical Theatre Society’s latest production, Parade!, that will be providing all the moral and judicial foundations we will be needing from now on…

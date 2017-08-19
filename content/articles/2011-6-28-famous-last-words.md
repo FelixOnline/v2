@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gregory Power wishes you a fond farewell
 date: "2011-06-28 11:21:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1441"
@@ -33,15 +34,6 @@ image_height: "574"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Dear Friend: it would appear that we are approaching the end. We’ve had some laughs, we’ve shed some tears. I think overall we had a pretty damn good time, wouldn’t you say?

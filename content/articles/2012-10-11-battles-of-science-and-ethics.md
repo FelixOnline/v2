@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Battle of Ideas
 date: "2012-10-11 20:42:18 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2650"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Battle of Ideas is a weekend long festival of talks and debates hosted by the Institute of Ideas, an independent think tank. On the 20th and 21st of October, 350 speakers and 2000+ attendees are expected to gather at the Barbican centre for 80 talks and debates on some of the most pressing contemporary issues in politics, culture and science. The battles are an opportunity, says the Institute, to be fearless in the face of controversy and to explore the intellectual legacy of our generation, summed up by their punchy tag-line: FREE SPEECH ALLOWED.

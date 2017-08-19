@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett investigates the plans to build flats on the Silwood site
 date: "2014-11-14 19:53:26 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4858"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A petition to “Protect Silwood from losing its identity” has amassed over 250 signatures, after it has been announced that redevelopment work on the site is to take place. However, with no straight answers yet available as to what this redevelopment may entail, rumours are running rife through the student body based at the campus.

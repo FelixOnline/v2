@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caroline Wood fell in love - with a handbag
 date: "2012-02-23 20:36:11 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2237"
@@ -34,15 +35,6 @@ image_height: "3071"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Anyone that knows me well will know that over the past few months I have fallen hopelessly in love. Forgive me for using such a tired cliché, but it really was love at first sight. Yes, since the moment I first clasped my eyes on a Chanel handbag, I was infatuated.

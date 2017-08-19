@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yes, Jiu Jitsu is a sport and completely unrelated to the jewish people
 date: "2016-12-16 16:26:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6627"
@@ -33,15 +34,6 @@ image_height: "483"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday saw London host the Jiu Jitsu grading. If competitions are scary, then gradings are a halloween movie marathon with the lights off and the creepy neighbour wearing his Freddy Krueger outfit staring through the window.

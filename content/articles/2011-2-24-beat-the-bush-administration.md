@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A combination of inspiring biopic and politics in Fair Game
 date: "2011-02-24 19:54:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "873"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Here is what happened: the United States government decided to invade Iraq for possessing dangerous weapons supplied by the African nation of Niger. An American international consultant was asked to gather sufficient evidence from Africa to prove that Iraq was in fact buying these weapons. He found none, and wrote a report that said exactly that. So when he realised that his very clear report was completely ignored and The White House went to war anyway, he wrote another article, this time to The New York Times, about the invalidity of the American invasion. Ill-advised of course, but his conscience didn’t allow him to just look the other way.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Daquise Restaurant: A South Kensington gem
 date: "2011-02-24 19:39:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "864"
@@ -34,15 +35,6 @@ image_height: "5184"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Established in 1947, Daquise Restaurant on Thurloe St. never fails to transport alumnis down memory lane. Mr. Gessler, a prominent figure in the restaurant scene in Poland, has recently acquired into one of the longest serving Polish restaurants in London where impeccable food quality is coupled with a homely ambience that makes for a most enjoyable meal.

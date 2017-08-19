@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saskia Verhagen reveals the tucked-away West London spa which caters for worn-out professionals and students alike – luxury and affordable? Show me the way...
 date: "2010-11-18 20:03:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "381"
@@ -34,15 +35,6 @@ image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There is a place, inconspicuous and elusive to the untrained eye, where the weathered creatures of West London emerge calm, bright and restored. A spa, in South Kensington, which offers the most advanced techniques to enhance and perfect the skin. Only what they don’t tell you, is that it all goes a little deeper than that.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
+author_id: "tm1510"
 
 # Attributes from Felix Online V1
 id: "574"
@@ -34,15 +35,6 @@ image_height: "1418"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tm1510"
-author_name: "Tomokazu Miyamoto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “We can abandon the euro if our proposal is refused.” Angela Merkel, the German chancellor, said to George Papandreou, the Greece prime minister, during dinner at the EU summit in Brussels last October. The summit was held to discuss the euro crisis and a plan to bail out Ireland. Merkel had demanded a new legislation stating that bailed-out countries should lose certain voting rights in EU councils. Since it is only Germany that can pay a large amount of money as a bailout, the country is asked to bear the greatest burden whenever a debt crisis happens. Such unfairness has certainly made the German populace uncomfortable, but insisting on the loss of EU council voting rights was opposed by many other EU governments.

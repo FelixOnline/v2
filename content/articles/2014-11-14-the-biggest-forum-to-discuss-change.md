@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pippa Smith introduces the London Climate Forum 2014
 date: "2014-11-14 20:40:39 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4872"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Climate change is a hotter topic than ever. The 2014 IPCC report, hot from the press, recommends that 80%of the world’s power should be from low-carbon sources by 2050. This will limit the warming of the atmosphere to 2°C, the agreed ‘tipping point’ for disastrous consequences.

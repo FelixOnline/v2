@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sexism is everywhere: it’s about time we grew up and realised this
 date: "2012-11-22 23:57:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2952"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I am a white male, born in the UK, and therefore I know as much about being oppressed, excluded or prejudiced against as David Cameron knows about struggling to make rent. There are, though, some things I feel I can say about sexism at Imperial, particularly in light of some recent Felix Comment articles.

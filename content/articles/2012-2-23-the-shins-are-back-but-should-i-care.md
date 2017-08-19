@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England ponders the question on everybody’s lips
 date: "2012-02-23 21:06:34 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2250"
@@ -33,15 +34,6 @@ image_height: "607"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I would like to be honest and say that I had little hope for [__The Shins__](http://mercerhouse.theshins.com/) in 2012. Their Grammy nominated delight, _Wincing the Night Away_, shoved lead singer/songwriter into the limelight but nearly five years have passed and the musical landscape has changed significantly. When I heard the announcement that The Shins were going to release a new album, _Port of Morrer_, in March, on frontman James Mercers’ own label ___Aural Apothecary___, I pondered as to where the poetic indie pop which I used to so enjoy would fit; guitar music has dropped entirely out of the charts and the young dreamers who would once have been exposed to jangly alternative rock through watching the OC are now transfixed on the overproduced pomp that is Glee. Let us say that it is not 2007 anymore. I am pleasantly surprised to report then, that after listening to _Port of Morrer_, none of these issues matter. Mercer has returned with a mature and elegant album, and the wait has certainly done him and the band no harm.

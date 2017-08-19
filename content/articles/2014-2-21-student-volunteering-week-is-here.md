@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Next week is Student Volunteering Week (SVW), a nationwide celebration of the power of student volunteering. Imperial College London is one of many universities celebrating SVW, with activities coordinated by students from Imperial Hub’s Local Action Committee in collaboration with the Union.
 date: "2014-02-21 03:07:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4416"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Next week is Student Volunteering Week (SVW), a nationwide celebration of the power of student volunteering. Imperial College London is one of many universities celebrating SVW, with activities coordinated by students from Imperial Hub’s Local Action Committee in collaboration with the Union. We’re aiming to showcase the diverse positive impact that we can make in our local communities, inspire new or further engagement with social issues, and highlight how easy it is to get involved as a student. The week is organised by students for students, and whether you volunteer weekly, in the holidays, or not at all, there’s something for everyone.

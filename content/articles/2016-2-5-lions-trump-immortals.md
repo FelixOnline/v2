@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The defense started out solidly
 date: "2016-02-05 12:55:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5889"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Sunday the Immortals faced the top team of the Southern Premiership league, the Birmingham Lions. The Immortals knew that with such a strong team like the Lions, they had to come out firing. The Immortals did just that and despite putting up a phenomenal fight the Lions had the edge towards the end of the game and came out victorious with a score of 6-20.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-11 11:53:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6037"
@@ -33,15 +34,6 @@ image_height: "360"
 image_attribution: "RADiUSTWC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Darlene Love, Merry Clayton, Lisa Fischer… you probably don’t know these names but I guarantee you know the voices. _20 Feet from Stardom_ is a talking-heads documentary that tells of the relatively unknown world of such backup vocalists. Prior to making this film, its director, Morgan Neville, spent much of his career documenting various musician’s careers, from Jack Clement to Johnny Cash to Iggy Pop; with this feature however, he gives us his most ambitious project, as well as his first Oscar winner. Going into this film I had a lot of expectations about what I was going to see; I anticipated a depressing tale of talent-gone-unnoticed, and failure to achieve one’s dreams. This isn’t what I got.

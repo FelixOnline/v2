@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial about how everyone is secretly a bit terrible at their job. Including me. Definitely me. Mostly me.
 date: "2013-05-16 20:42:52 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3591"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week brings some [news](http://felixonline.co.uk/news/3593/alleged-animal-abuse-investigation-scope-announced/) about the allegations of [animal cruelty levelled against Imperial](http://felixonline.co.uk/news/3539/alleged-animal-abuse/). They’re rushing to the rescue with a three month long investigation. In other words “let’s just kick this can into the distance, and then write a report that will be long and boring and hopefully nobody will read”. Of course you couldn’t have a two week investigation and find everything there is to know, but it definitely feels like the PR machine is in overdrive here. Sorry to be cynical. If they were serious, they could just walk up to the researchers now and give all involved in animal testing a pop quiz. If they don’t know details they should, well, then there is cause for concern.

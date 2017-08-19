@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Like a good meal, steak as the main and planets on the side
 date: "2013-10-12 19:27:57 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3854"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Ever wanted to take part into a continent wide battle for control of an entire planet? PlanetSide 2 (released November 2012) the revamp of the succesful MMOFPS PlanetSide allows you to do exactly that! It revolves around the control of the mysterious planet of Auraxis.

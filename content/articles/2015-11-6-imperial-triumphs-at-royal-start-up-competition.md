@@ -4,6 +4,7 @@ title: >
 subtitle: >
   'Unmade' took home the grand prize
 date: "2015-11-06 13:37:09 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5698"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Duke of York’s Pitch@Palace competition, held this year’s finals at St James’s Palace on Tuesday, with Imperial entrepreneurs taking home both first and third place.

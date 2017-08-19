@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stay with us for the latest developments as Alex Bellotti comments on Aaron Sorkin's return to the small screen
 date: "2012-07-10 11:43:58 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2584"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It seems a long time ago that Aaron Sorkin was last on our TV screens. After the success of [_The West Wing_](http://www.youtube.com/watch?v=FScv89J6rro), everyone expected [_Studio 60 on the Sunset Strip_](http://www.youtube.com/watch?v=1INS1Rp3o9M) to be the next step towards greatness for the burgeoning screenwriter. Unfortunately, the show flopped within the first few episodes and was cancelled after one series. Sorkin disappeared off the radar and many thought that his best work was already behind him.

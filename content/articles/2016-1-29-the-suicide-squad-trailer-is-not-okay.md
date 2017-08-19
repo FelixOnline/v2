@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This fan-boy isn't happy
 date: "2016-01-29 09:13:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5844"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When it comes to the shortcomings of Marvel or DC’s cinematic output, as a self-confessed comic book fan-boy, I’m usually pretty forgiving. Unfortunately, the first official trailer for DC’s latest film, _Suicide Squad,_ which dropped last week, hints at a film with some serious flaws. It might only be a two-minute trailer, but the way it trivialises mental health and sexualises its female cast has me worried for its release this August.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The film’s vomit-inducing tagline, “this is not a true story, this is true love” should give seasoned film viewers a vague idea as to the kind of cheesy territory the film is headed towards. But nothing can possibly prepare you for the kind of bonkers rubbish Winter’s Tale has in store...
 date: "2014-06-02 12:55:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4643"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Winter’s Tale__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "206"
@@ -33,15 +34,6 @@ image_height: "595"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Apparently, very big things are happening in American Literary Fiction (ALF). In August, Time Magazine put author Jonathan Franzen on its front cover and the whole of the ALF establishment went bonkers. I confess that I haven’t read Franzen’s new ‘masterpiece’, but last year I did force myself through his previous work, 'The Corrections'.

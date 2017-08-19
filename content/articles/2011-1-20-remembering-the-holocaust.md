@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Experience of Holocaust survivor
 date: "2011-01-20 20:03:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "621"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 We are approaching a time when Holocaust survivors and other eye witnesses of the largest mass murder in modern history will no longer be alive. On Tuesday 25th January, it will be both an honour and a privilege to have Holocaust survivor Mrs Lily Ebert among us, to tell us her experiences, on the occasion of Holocaust Memorial Day.

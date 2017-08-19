@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Perfect Lens – an Interview with Professor Sir John Pendry
 date: "2014-11-10 23:34:51 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4853"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Professor Sir John Pendry, FRS, holds a Chair in Theoretical Solid State Physics here at Imperial. In 2014 he was awarded the $1M Kavli Prize by the Norwegian Academy of Science and Letters in recognition of his work in the field of nano-optics. This article is a summary of an interview for Felix that took place on September 26, 2014.

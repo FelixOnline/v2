@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Utsav Radia reports on Imperial’s research into getting a good nights sleep
 date: "2014-11-28 01:01:09 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4973"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the UK, 1 in 4 people suffer from some form of sleep disorder resulting in excessive daytime sleepiness. Researchers at Imperial College London, led by Professors William Wisden and Nicholas Franks of the Department of Life Sciences and Dr Mick Hastings’ group at the MRC Laboratory of Molecular Biology in Cambridge, have shined new light on exactly how the body controls when you wake up and when you fall asleep (the circadian rhythm).

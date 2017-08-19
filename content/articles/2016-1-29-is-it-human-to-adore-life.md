@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Assured defiance from Savages' second album
 date: "2016-01-29 09:37:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5851"
@@ -34,15 +35,6 @@ image_height: "1035"
 image_attribution: "Matador"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A_dore Life_ is an album about the good and the bad parts of love. The title should really be a question because Jenny Beth and her band are conflicted: “Is it human to adore life?”

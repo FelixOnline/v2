@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As transgender rights become more prominent in popular culture, we are seeing an increasing momentum for films that break the binary
 date: "2015-11-29 17:00:32 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5786"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Magnolia Films"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On 9th June 2014, American actor Laverne Cox became the first transgender person to appear on the cover of _Time _magazine. Statuesque in a deep blue dress, Cox’s face, framed by flowing tresses, stares deep into the viewer’s eyes; to her left, the title of the lead article is written – _The Transgender Tipping Point: America’s Next Civil Rights Frontier_; it is a direct challenge, a confrontation for those who stand in the way of trans rights.

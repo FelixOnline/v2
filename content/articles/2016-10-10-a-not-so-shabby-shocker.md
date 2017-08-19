@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Reviewing Puccini's Tosca at the London Coliseum
 date: "2016-10-10 14:40:45 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6325"
@@ -33,15 +34,6 @@ image_height: "600"
 image_attribution: "English National Opera"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Puccini’s _Tosca_ is well-known for being a melodramatic opera. After its premiere in 1900, it received mixed reviews from critics despite its popularity with the public - the musicologist Joseph Kerman famously dismissed it as “a shabby little shocker”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones).
 date: "2013-11-06 17:20:55 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4017"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones). So here goes (in no particular order).

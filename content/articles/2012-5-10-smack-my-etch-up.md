@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The British Museum displays its rare collection of Picasso prints, never before seen in Britain
 date: "2012-05-10 20:25:40 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2447"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Even on a rainy, bleak and depressing morning the British Museum managed to lift my spirits up. The Great Court was dazzling in all its whiteness, filled with noisy and enthusiastic tourists and school groups. Making my way through the crowds I ventured into a part of the Museum that I had never experienced before: a couple of hidden rooms filled with etchings.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.” “I think I learn more in a movie or in a story when I see what a person does wrong and what happens because of that.”
 date: "2014-01-24 10:11:38 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4297"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 _“You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.”_

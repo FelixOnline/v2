@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sam Horti takes a look back at one of gaming’s unique classics, Grim Fandango
 date: "2011-12-08 21:25:58 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1937"
@@ -33,15 +34,6 @@ image_height: "2012"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have come to realise that there is one thing that gamers crave above all else in their video games: uniqueness. It's something that we only seem to see fleeting glances of in the modern day. Where did all the innovation and inspiration go? Well, a lot of it was spent in 1998 with the conception of _Grim Fandango_.

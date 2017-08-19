@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Raincatcher Imperial on the vast importance of water provision
 date: "2012-01-26 22:30:24 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2065"
@@ -34,15 +35,6 @@ image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The German secretary of defense has finally stepped down after his PhD was exposed as plagiarised
 date: "2011-03-03 20:52:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1016"
@@ -34,15 +35,6 @@ image_height: "2495"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The tedious work of assembling footnotes that usually torments scores of postgraduate students and research assistants has suddenly become a matter of national importance in Germany. After extensive passages of plagiarized material were discovered in his PhD dissertation, the German Secretary of Defense Karl Theodor zu Guttenberg [resigned this Tuesday morning](http://www.guardian.co.uk/world/2011/mar/01/german-defence-minister-resigns-plagiarism).

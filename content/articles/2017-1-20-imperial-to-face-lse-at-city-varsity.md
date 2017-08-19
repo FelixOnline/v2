@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A budding new rivalry?
 date: "2017-01-20 14:51:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6655"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial will be taking on LSE this year during a showcase event to take place in  March. The event, christened the City Varsity, will mark the first time in a long time that Imperial plays against another University. (Though earlier last year the first e-sports varsity was launched at Gfinity Arena between King’s , LSE, UCL yours truly)

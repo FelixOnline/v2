@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Swim, bike, run, done
 date: "2012-05-18 17:03:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2479"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A 6-strong team from TriIC donned their lycra (or to be precise a pleasant Nylon-Spandex mix) to compete in the 340-strong field of May’s BUCS sprint triathlon championship. Arriving at the sunny Wiltshire in the morning, avoiding the wealth of carbon time trial bikes in the car park, the task of 750m of swimming, 25km of cycling and 5km of running lay ahead.

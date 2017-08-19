@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Furse explores why we dump our dosh in Greggs
 date: "2011-05-06 15:03:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1175"
@@ -34,15 +35,6 @@ image_height: "413"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is just fat pikeys that shop in Greggs. Surely? I mean, it must only be they who demand an opening time of 0700 on weekdays, freshly-baked multi-grain loaves, Empire biscuits, and roasted chicken sandwiches complete with delicate slivers of red onion. Must be. There is no other answer, clearly.

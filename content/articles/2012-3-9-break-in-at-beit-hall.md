@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2336"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Student residence Beit Hall was disrupted on Wednesday 29 February following a series of thefts that took place during a fire alarm. Following the alarm, which began at 1am and lasted for 45 minutes, students who left their doors open during the commotion returned to find items such as cash, jewellery and personal items missing. Concerns were soon raised as to whether the fire alarm was set off with the express intent of creating the opportunity to raid students’ rooms.

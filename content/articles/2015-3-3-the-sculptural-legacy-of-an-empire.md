@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores the Victorians’ love for statues at Tate Britain
 date: "2015-03-03 14:13:07 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5321"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An empire can be measured not by the length of its borders, or by the riches of its lands, but by the quality of its sculptures. At least, this is what the __Tate Britain__ is trying to argue, with its newest exhibition _Sculpture Victorious_, an ode to the golden age of British sculpture. Actually, perhaps that first sentence should be amended to read “the quantity of its sculptures”, since it was during the Victorian era that the country experienced a surge in sculpture production, unprecedented in its history, which culminated in the reconstruction of the Palace of Westminster, destroyed in a fire a couple of years before Victoria came to the throne.

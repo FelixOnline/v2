@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Guildhall's final-year actors take on Frank Wedekind's wild classic
 date: "2015-12-02 17:08:09 +0000"
+author_id: "mff113"
 
 # Attributes from Felix Online V1
 id: "5789"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mff113"
-author_name: "Max F Falkenberg McGillivray"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: "Max Falkenberg"
 ---
 
 Frank Wedekind’s Lulu is a story of seduction and tragedy. Choosing adjectives to describe Nicholas Wright’s adaptation of this controversial nineteenth-century play is challenging. It’s humorous at first, Lulu (though she is known by a variety of names) works her way through several husbands in German high society and gains considerable notoriety. She enjoys her power, the attention she receives and the privilege of wealth.

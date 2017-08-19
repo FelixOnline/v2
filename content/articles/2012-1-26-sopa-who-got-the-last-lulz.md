@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian discusses the implication of the recent hacking events
 date: "2012-01-26 22:57:20 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2071"
@@ -34,15 +35,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 You cannot censor the Internet. You cannot subpoena a hashtag. You cannot arrest an idea. You CAN expect us.” These are the words of decentralised hacktivist online group Anonymous, tweeted as they launched a hailstorm of Distributed Denial of Service (DDOS) attacks on various websites just hours after the US Government shut down [Megaupload.com](http://megaupload.com) on Thursday 19 January. Their attacks successfully brought down websites belonging to the RIAA, MPAA, Universal Music, the Department of Justice, the US Copyright Office, EMI, the FBI and others by flooding them with requests, but a number of outlets have begun accusing them of falling head first into a trap.

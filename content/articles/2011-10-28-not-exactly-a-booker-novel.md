@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Carr on the shortcomings of this year's Man Booker prize winner
 date: "2011-10-28 09:33:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1634"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week saw [Julian Barnes claim the Man Booker](http://www.themanbookerprize.com/prize/authors/45) for his short novel ‘[The Sense of an Ending](http://www.themanbookerprize.com/prize/books/449)’ in what has been derided as the worst shortlist in the prize’s 43 year history. No doubt this was caused in part by the judges’ reward for readability; a strange requirement for the pre-eminent award for literary fiction in the UK.

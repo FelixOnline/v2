@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Margot Pikovsky despairs at the College’s apathy
 date: "2012-11-09 11:54:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2843"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Anybody who has ever seen The History Boys, whether on stage or on screen, will remember the moment when Irwin, that world-wise and world-weary teacher, turns round to his pupils observing a monument to fallen soldiers and says: “All this mourning has veiled the truth. Because you should realise... there’s no better way of forgetting something than by commemorating it.” But whilst I’m a huge fan of Alan Bennett’s play otherwise, I couldn’t disagree more with this statement. Moreover, it saddens me that so many people choose neither to mourn, nor commemorate, on what I see as one of the most important dates in our calendar: Remembrance Day.

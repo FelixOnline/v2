@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Hooftman looks back at Interpol’s sophomore album
 date: "2012-10-26 03:16:07 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2772"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There aren’t many rock albums in the past decade which have been as darkly unique and memorable as Antics, the second release from New York based foursome Interpol. When Interpol are discussed nowadays, it is more in the context of what could have been, as their third and fourth releases flattered to deceive. However I would argue that this is not because they are actually poor records, but rather testament to the quality of Antics and 2002 debut Turn On The Bright Lights which set the bar so high that it was always going to be difficult to reach those same heights. And so it proved after the disappointment of their self-titled fourth album, as the band have been on hiatus since 2011 “to pursue separate projects”, according to drummer Sam Fogarino.

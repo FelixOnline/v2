@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe on converting waste carbon dioxide into useful materials
 date: "2015-03-13 00:39:34 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5385"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "3.aba.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If we are to avoid further aggravating climate change we need to find a way to store or transform the hundreds of billions of tonnes of carbon dioxide produced by power stations worldwide into something useful. A team at Imperial’s Department of Chemistry have done just this. Working with the spin-off company, Econic Technologies, they have developed a cleaner way to produce valuable materials from waste carbon dioxide and are bringing it to the market.

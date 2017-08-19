@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Times Higher Education World Reputation Ranking came out this week
 date: "2016-05-06 09:43:45 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6115"
@@ -33,15 +34,6 @@ image_height: "3840"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has been named the university with the 3rd best reputation in the UK, and the 15th best in the world.

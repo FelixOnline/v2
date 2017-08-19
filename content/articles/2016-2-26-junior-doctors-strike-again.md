@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three dates set for 48-hour strikes
 date: "2016-02-26 11:20:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5954"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 England's Junior Doctors are set to strike again with three 48-hour walkouts planned for the coming two months, meaning that planned operations and procedures may well be affected, but emergency care will be maintained.

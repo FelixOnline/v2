@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange reflects on a season of Pierre Boulez at the Barbican
 date: "2015-05-06 12:36:02 +0100"
+author_id: "km2612"
 
 # Attributes from Felix Online V1
 id: "5495"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ensemble Intercontemporain"
 image_attribution_link: "http://ensembleinter.com"
 video_url: ""
-
-# Author metadata
-author_id: "km2612"
-author_name: "Kamil McClelland"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The __Barbican__ brought their _Boulez at 90_ celebrations to an end last week with a tribute from the composer’s own ensemble, the Ensemble Intercontemporain. This was a rare chance for Londoners to hear cutting edge music from one of the world’s best contemporary music groups and a fitting tribute to one of modern music’s sharpest minds.

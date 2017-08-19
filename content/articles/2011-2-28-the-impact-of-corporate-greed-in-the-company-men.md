@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Wells’ debut venture as a film director is an astute and absorbing drama
 date: "2011-02-28 20:42:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "933"
@@ -33,15 +34,6 @@ image_height: "366"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For a white-collar worker earning a six-figure salary, the priorities are golf, his Porsche, his nice house, providing for his family and of course, keeping his job. But, during the recent economic downturn that resulted in some major corporate downsizing, a hefty number of confident employees faced and still do face, some major unanticipated cutbacks. Speaking directly to the present-day American worker, John Wells’ debut venture as a film director draws on his huge body of experience as executive producer for such television masterpieces as The West Wing and E.R. to produce this astute and absorbing drama.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We couldn’t find a micrometeorite, so here is the cosmos instead.
 date: "2016-05-27 08:52:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6209"
@@ -33,15 +34,6 @@ image_height: "1841"
 image_attribution: "Hubble ESA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At the end a of white-washed hallway on the second floor of the RSM building, Dr Matthew Genge has been unlocking the mysteries of the universe through his research on micrometeorites – otherwise known as cosmic dust. Last week however, Genge published a paper in Nature which opened some doors to understanding Earth’s secrets, and has potentially turned some age-old scientific theories on their head.

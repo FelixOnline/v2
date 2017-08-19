@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A short story by Eoghan Totten
 date: "2014-02-21 03:23:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4426"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 One day I may look back on my life and realise that my first love was not a person but a place...

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonathan Masters is on the case as officer lands herself in hot water
 date: "2015-05-21 20:06:28 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5547"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A petition has been launched to remove Bahara Mustafa, the current Diversity officer for Goldsmiths University, from her position following a recent tweet featuring the inflammatory hashtag “Kill all white men”.

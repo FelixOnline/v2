@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Going to the cinema in the middle of the day is the perfect form of self-care – indulgent, self-focussed, relaxing – as Culture Editor Fred Fyles realised when he went along to a midday screening of Jacques Rivette’s Celine and Julie Go Boating. Here, he encourages you to take a break and treat yo'
 date: "2017-03-10 13:38:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6872"
@@ -33,15 +34,6 @@ image_height: "1032"
 image_attribution: "BFI"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In Jacques Rivette’s 1974 new wave classic, Celine and Julie Go Boating, there exists the perfect metaphor for going to the cinema in the middle of the day: the plot revolves around two women playing magical games in a Paris-turned-playground; towards the second half of the film, they discover a mysterious house, into which they repeatedly disappear, only to return several hours later, dazed, with no memory of what has happened.

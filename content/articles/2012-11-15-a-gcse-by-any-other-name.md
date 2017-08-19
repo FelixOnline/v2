@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joseph Spiking explains the EBacc is more than just a rebranding
 date: "2012-11-15 22:08:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2909"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 2015, the biggest educational reform of our generation shall be put into place. The much maligned GCSE shall be replaced with the ‘English Baccalaureate’ (EBacc), the brain child of the Coalition’s combined educational reforms. This initial bout of reformation is reserved only for specific subjects – Mathematics, English Literature and Language, Chemistry, Biology and Physics. However, Geography, History and the languages shall also get to undergo the EBacc transformation in 2017, the inclusion of the Languages being hailed by Stephen Twigg, the shadow Minister for Education.

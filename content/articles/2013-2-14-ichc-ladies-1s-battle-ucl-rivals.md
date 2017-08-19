@@ -4,6 +4,7 @@ title: >
 subtitle: >
   UCL, bitter rivals...
 date: "2013-02-14 19:30:44 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3327"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ready for a re-match with long-time rivals UCL, we got to Harlington early, and had a good strategy session with Coach Oli, only slightly distracted by the un-named players who wouldn’t keep their shirts on. Ears ringing with assertions that we should play defensively and win with superior numbers behind the ball, we had a good warm up and prepared to play running into strong wind.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey explores what it is about coach travel that makes people so inconsiderate.
 date: "2016-12-09 15:39:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6575"
@@ -34,15 +35,6 @@ image_height: "753"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are three types of people who take overnight coaches: the stupid, those trying to fulfil a stereotype, and the desperate.

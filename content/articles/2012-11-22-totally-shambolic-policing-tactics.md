@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The right to protest is being violated by those whose job it is to defend it
 date: "2012-11-22 23:58:38 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2953"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the first students paying £9,000 fees have started this term the fight against fees and cuts to education hit the streets again this Wednesday. Whilst the last National Union of Students (NUS) march two years ago saw the destruction of Tory HQ on Millbank, the fire that ignited from this and saw 50 universities enter occupation and a number of self-organised national demonstrations has died down. Cynically this is probably why the NUS felt it was safe to organise another demo, with out fearing the “embarrassment” of people directing their own movement.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Only Lovers Left Alive Director: Jim Jarmusch Writers: Jim Jarmusch Starring: Tom Hiddleston, Tilda Swinton, Mia Wasikowska, John Hurt, Anton Yelchin, Jeffrey Wright Runtime: 123 minutes
 date: "2013-11-08 09:59:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4040"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The veteran American actor Martin Mull once said ‘a cult following is a nice way of saying very few people like you’. Perhaps this is a worrying thought for legendary independent director Jim Jarmusch, whose latest feature film Only Lovers Left Alive has been chosen to headline the ‘Cult’ section of the London Film Festival’s programme. The components that make up the film - existential crises, nocturnal wanderings, and fetishisation of all things vintage - make it sound a bit like some kind of obnoxious arts student’s final project; they’ve read a bit of Satre, seen A Bout de Souffle a couple of times, and now can’t wait to show the world how achingly hip they are. However, despite some hipster-esque pretentions, Jarmusch’s light touch and shades of black humour make this film incredibly entertaining.

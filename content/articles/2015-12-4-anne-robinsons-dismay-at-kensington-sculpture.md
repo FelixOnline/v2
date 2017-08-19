@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You are a terrible waste of money, goodbye
 date: "2015-12-04 15:11:52 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5791"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, plans to install a new sculpture on the roundabout just off Gloucester Road were damned by ex-presenter of The Weakest Link and Watchdog, Anne Robinson.

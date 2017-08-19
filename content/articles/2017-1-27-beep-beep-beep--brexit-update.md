@@ -4,6 +4,7 @@ title: >
 subtitle: >
   More optimistic than you getting a 2:1 degree?
 date: "2017-01-27 14:19:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6684"
@@ -34,15 +35,6 @@ image_height: "1557"
 image_attribution: "Jay Allen"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The sun keeps on rising, the world keeps on spinning and the Brexit debate rages on. Last week Theresa May made a speech at Lancaster House which outlined her twelve point plan for the UK’s negotiation plan as she looks to trigger Article 50 and leave the European Union for good.

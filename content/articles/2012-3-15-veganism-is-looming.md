@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking back on a vegan experience
 date: "2012-03-15 20:59:50 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2367"
@@ -33,15 +34,6 @@ image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With our final week of veganism looming, it’s time for us to look back at what we’ve achieved so far as well as look forward to our unrestricted diets! We’ve enjoyed being vegan more than we thought we would. Our preconception of the vegan lifestyle was that of tasteless and unfulfilling meals that satisfied your body, but not your mind. So it was a surprise when we found that actually some parts of being vegan were pretty good.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski tells of his first time with Sci-Fi
 date: "2011-02-17 20:29:24 +0000"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "844"
@@ -33,15 +34,6 @@ image_height: "1174"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first science fiction television show I ever saw and the series that got me interested in the entire genre was Stargate SG-1, the follow-up to Roland Emmerich’s forgettable 1994 film.

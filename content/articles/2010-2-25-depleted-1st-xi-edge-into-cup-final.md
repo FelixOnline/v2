@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Men's 1st XI 1 - 0 RUMS 1st XI
 date: "2010-02-25 18:52:49 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "106"
@@ -33,15 +34,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Saturday 20 February was meant to be a free day for Imperial’s 1st XI. Given the fact that just under half of the starting XI were abroad, captain Mustapher Botchway had informally agreed with the RUMS (UCL Medicals) captain to reschedule the ULU Challenge Cup Semi-Final to the week after (27 February). However, in attempt to capitalise on this, the captain had reneged on this agreement and stipulated that the game was to take place on its original date, to avoid conceding a walkover.

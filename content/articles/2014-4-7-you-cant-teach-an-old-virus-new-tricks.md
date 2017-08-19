@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Bezer on the giant virus that is still infectious despite its age
 date: "2014-04-07 12:57:37 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4526"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Julia Bartoli / Chantal Abergel / IGS / CNRS / AMU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 After spending 30,000 years lurking deep within the Siberian permafrost, an enormous virus has escaped its icy lair. Even after all those years encased in ice, it’s still deadly. But this isn’t the plot of a low-budget horror film. This is real science.

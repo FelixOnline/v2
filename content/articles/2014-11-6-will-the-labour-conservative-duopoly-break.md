@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the theory behing political economic modelling
 date: "2014-11-06 18:46:35 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4768"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IBTimes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the most common complaints in politics is that all political parties seem the same. Douglas Carswell has profited from the rise of UKIP by switching alliances from the Conservatives, claiming that the far-right political party supports “fundamental change” in British politics. However, the fact is that extreme political parties have not fared too well in Britain.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The LE Rush could be the protective laptop bag for you
 date: "2011-01-27 19:15:45 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "664"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 If you’ve ever carried a MacBook Pro out and about with you, you’ll know that a laptop bag is essential. Considering you’re carrying around the best part of £1000 at least, when it comes to a bag you’re going to want something well built and with decent padding, God-forbid you drop the thing. Be.ez thinks it has the answer with the LE rush, a range of Apple laptop bags that combine lightweight materials with silicon padding.

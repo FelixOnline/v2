@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Human-like dogs and more in one of the BBC's latest comedies
 date: "2011-11-03 20:24:33 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1665"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A hapless ex-lawyer (Elijah Wood) wakes up after trying to commit suicide the night before. Clearly a fruitless attempt – damn you sugar pills! Ryan is confronted by his neighbour, Jenna, asking him to look after her dog, the eponymous Wilfred (played superbly by Jason Gann, and no, I hadn’t heard of him either). Ryan’s opinion of Jenna is fairly self evident – she’s pretty hot – so he obliges.

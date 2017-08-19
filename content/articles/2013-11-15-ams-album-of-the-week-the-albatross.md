@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Foxing released an EP last year called Old Songs. I did not care for it.
 date: "2013-11-15 18:08:22 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4080"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Foxing released an EP last year called Old Songs. I did not care for it. It was everything post-rock-tinged emo shouldn’t be. The three songs were overthought and overstretched, but worst of all, they were really dull. It was an emo band trying to be a post-rock band with little success. Since then they’ve appeared on a few splits that I’ve completely ignored and I didn’t really plan on giving them any more of my time. However, I saw The Albatross getting a lot of positive comments and decided to give them another chance. I’m really glad I did. It’s ruddy bloody good.

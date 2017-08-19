@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The death of the conservative judge during the run up to elections means the seat could reain empty for eleven months
 date: "2016-02-26 11:29:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5959"
@@ -34,15 +35,6 @@ image_height: "1440"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Love him, hate him, agree or disagree with him, it is undeniable that US supreme Court Justice Antonin Scalia was one of the most divisive and outspoken American political figures of this generation. A gifted jurist and bastion of American conservatism, his aggressive style of questioning and acerbic put-downs of opposing opinion made him respectively loved and reviled by Republicans and Democrats of all stripes. His passing, while away at a luxury ranch in Texas, in many ways marks the end of a political era.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Try to express your sensitive side – or, if missing, fake one
 date: "2011-02-10 21:16:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "798"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Of all the highlights that come with every lap the Earth makes around the Sun, Valentine’s Day I think is the trickiest. For some, it’s plain tiresome, as all media seem to gravitate around hearts and puppies and little naked children with wings. On any other day, these things would rarely feature among your top interests, unless you’re a veterinary cardiologist...or a paedophile. But for those you for whom it has become important, it is on a par with the worst Lovecraftian nightmare: finding that special someone (for 24 hours at least), making reservations, rehearsing with painstaking precision your spontaneous wit for the evening, practising dance moves that suggest a basic understanding of rhythm, and at last, at the end of evening, scouring the whole of west London for a place that sells...a puncture repair kit.

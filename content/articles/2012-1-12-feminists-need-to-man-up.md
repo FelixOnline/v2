@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marie-Laure Hicks on the mis-portrayal of today's "feminists"
 date: "2012-01-12 21:44:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1974"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I am writing from the kitchen, the place where my family believe I belong, having given me an apron, tea towels, cookbooks and sponges for Christmas. Feminism is committing suicide. Last week, the BBC’s adaptation of Arthur Conan Doyle’s _Sherlock_ was criticised for being sexist. In my opinion, this was another example of where feminism is going wrong by creating bad press. The allegations were purely based on a far-fetched interpretation of the last fifteen minutes of the show.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In Heads of State (1920), two portly figures are pictured in their bathing suits before a feminine backdrop of butterflies, flowers and a woman with a parasol.
 date: "2014-03-07 05:42:22 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4463"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 What: Hannah Hoch

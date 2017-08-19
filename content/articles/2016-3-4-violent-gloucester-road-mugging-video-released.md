@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The incident happened on Cornwall Gardens
 date: "2016-03-04 11:23:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5994"
@@ -34,15 +35,6 @@ image_height: "925"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 CCTV of a violent mugging that took place last month near Gloucester Road has been released by the Metropolitan Police, in the hopes that the perpetrators will be found.

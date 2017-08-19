@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jian Li Chew apologises for his article last week in light of new information
 date: "2017-01-20 15:01:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6659"
@@ -34,15 +35,6 @@ image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After the publishing of my article last week, I was informed that The Telegraph article on which I based my own, which was picked up from The Daily Mail, was a gross misrepresentation of SOAS Student Union’s campaign. Reading the official SU statement, I am here to retract my previous article and to write an apology.

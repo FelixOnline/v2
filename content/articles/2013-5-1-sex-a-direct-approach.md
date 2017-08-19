@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Whether you’re in a committed relationship or having a one night stand, you shouldn’t be too afraid to ask for what you want
 date: "2013-05-01 17:59:10 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3517"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "Can I come on your tits?” – I thought this was a somewhat forward request for our first night together but personally I’m quite sexually liberated and as a result didn’t think much to it. Well not until later when he asked to come on my face. Don’t get me wrong It’s not that I have anything against experimental ejaculation per se, hell I think it’s kind of hot. However, it did strike me as pretty unorthodox coming from someone I’d only met a couple of times. What if I’d been a demure, reserved kind of girl, who only enjoyed missionary and spooning? And whilst I think it’s fair to assume that I don’t exactly exude timid wallflower, the question remains: what made this guy think it was okay to make such a request?

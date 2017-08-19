@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Population: Ross Webster
 date: "2013-02-13 14:52:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3306"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has been a long time since my brain has hurt this much. I’ve just worked out how to reach the bottom of an endless staircase, and now I’m faced with alaser puzzle that needs 30 pieces, when I’ve only got 12, and I can’t even move them around. Welcome to Antichamber.

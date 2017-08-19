@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6008"
@@ -34,15 +35,6 @@ image_height: "1152"
 image_attribution: "The Guardian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The question of whether the arts are a luxury or a necessity has become one of the issues surrounding the ‘Jungle’ refugee camp just outside Calais.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The College’s current tirade against smokers is stupid and unfair – smokers should be proud of what they do, says Meredith Thomas
 date: "2013-03-01 00:48:03 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3410"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [College seems to be on the anti-smoking warpath again](http://felixonline.co.uk/news/3409/smokers-told-to-stop-lighting-up-by-buildings/). Bins and ashtrays are mysteriously disappearing from places like the RSM entrance and my inbox is filling up with passive-aggressive emails. Interfering busy-bodies have made it their mission to enforce the ridiculous ‘smoke-free’ zones around campus and teenagers with the glazed look of Jehovah’s witnesses, wearing NHS tabards, roam the streets ambushing perfectly innocent pedestrians. All right and good? No it is bloody not. I am a proud smoker and I am starting to get seriously peeved.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day eleven of our 30-day Song Challenge duel
 date: "2011-05-30 10:40:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1283"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Ok so this [unsigned instrumental hip-hop producer from California](http://www.myspace.com/beatsbybahwee) isn't necessarily my favourite musician of all time. I'm not really sure that I could choose just one artist anyway. However, he is my favourite musician as of 10:27 this morning when former Science Editor [Katya-yani Vyas](http://felixonline.co.uk/user/kv07/) recommended that I listen to his sick album [Flavors](http://open.spotify.com/album/6pUluYZmRXt8eMBflruEMz).

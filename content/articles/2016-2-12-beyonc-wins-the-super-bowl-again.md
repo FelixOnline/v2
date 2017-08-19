@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Politically charged and gloriously celebratory
 date: "2016-02-12 11:53:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5913"
@@ -34,15 +35,6 @@ image_height: "412"
 image_attribution: "Beyoncé Foundation Video"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Beyoncé has never been one to shy away from making a statement; the surprise release of her self-titled album in 2013 proved that. The release of ‘Formation’ 24 hours before upstaging **Coldplay** at their headline gig at the Super Bowl could be a new high. Not only the manner of its release, but the message it sends, at once politically charged and gloriously celebratory, makes ‘Formation’ one of **Beyoncé’s** most powerful songs yet.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A surreal and messy depiction of reality where the sublime is twisted up with the violent and a young person lives in squalor and his own inner world
 date: "2012-05-03 17:38:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2404"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 God, redemption, religion, the forces of good and evil. It is hard to tackle these none too light topics in a manner which doesn’t become cumbersome. Peter Cadwell did it in The Fighter’s Ballad, but confronts the bull head-on – the film is no laughing matter. Enda Walsh’s Misterman deals with similar ideas of Right and Wrong, albeit couched in the very Irish and Catholic setting of Innisfree – a small isle lagooned in the Emerald Isle.

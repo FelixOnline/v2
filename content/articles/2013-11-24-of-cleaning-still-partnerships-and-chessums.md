@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The recent cleaning response from Campus Services (see front page) indicates that some progress is being made in the ‘cleaning situation’.
 date: "2013-11-24 16:10:04 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4113"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The recent cleaning response from Campus Services (see front page) indicates that some progress is being made in the ‘cleaning situation’. However, one wonders why the department has taken so long to give an apology, even if they’re only apologising for taking so long to provide adequate information to all hall residents. Felix would still like an answer to the list of questions we sent to them over seven days ago, we feel that the students should be getting some proper answers about the ways in which decisions were made that have a strong impact of their wellbeing and studying experience. Felix knows about at least one student who lives on a room where cleaning was not completed during the second rotation of the schedule, leaving the student to have a room that has only been cleaned once (so far) this term. While it is true that mistakes can be made (or possibly the room was particularly untidy) did Campus Services think about the repercussions it’s actions would have on the students, and indeed had the potential for these changes ever been discussed prior to the re-tender?

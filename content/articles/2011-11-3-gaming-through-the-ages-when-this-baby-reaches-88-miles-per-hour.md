@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With a combination of persuasive power, begging and bribery we’ve managed to get together three of Gaming section’s biggest writers to talk about videogaming through the ages, as well as what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 20:28:34 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1667"
@@ -34,15 +35,6 @@ image_height: "293"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Interested in what our writers think of the future of gaming? [See the companion article here!](http://felixonline.co.uk/games/1678/the-future-of-gaming/)_

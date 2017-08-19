@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the medical side of the popular clubbing drug
 date: "2014-11-10 21:28:48 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4820"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 MDMA, or for you chemists out there 3,4-methylenedioxmethamphetamne, more recognisably referred to as ecstasy is a prevalent and well-known drug. It’s no state secret that a majority of people who are reading this have encountered it - whether that be through occasional to regular recreational use or simply knowing someone who has taken it.

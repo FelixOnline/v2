@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the university's reaction to accommodation issues
 date: "2015-06-11 22:12:27 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5610"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "David Dahlborn"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students living in accommodation run by University College London (UCL) have been threatened by the university with serious repercussions after withholding rent due to allegedly ‘unliveable’ conditions in their halls.

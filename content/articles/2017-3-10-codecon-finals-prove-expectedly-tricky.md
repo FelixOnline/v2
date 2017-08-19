@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “Firefighter Tim” posed particular difficulties
 date: "2017-03-10 13:08:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6862"
@@ -33,15 +34,6 @@ image_height: "681"
 image_attribution: "Peretz Partensky"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 London has been host to amazing competitions in recent years. We hosted the Olympic Games in 2012 and shows like The X Factor and Britain’s Got Talent have been world renowned hits for the better half of a decade, but last January, London was host to a different kind of competition, one that it was no surprise to see Imperial students thriving in.

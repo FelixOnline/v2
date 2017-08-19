@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Satisfaction skyrockets
 date: "2012-11-09 20:08:43 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2882"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday 6 November 2012, Sarah Greasley, a newly arrived PhD student in the Materials department at Imperial, broke a World Record in Ethos. The record was for most kisses received in one minute. Shockingly, at Imperial there must have been plenty of men out there willing to help her achieve this aim.

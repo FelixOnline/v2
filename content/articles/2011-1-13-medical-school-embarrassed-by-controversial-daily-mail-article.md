@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "593"
@@ -34,15 +35,6 @@ image_height: "1588"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 In an unpromising start to the New Year, the reputation of Imperial College School of Medicine was brought into disrepute by a scathing article published in the Daily Mail.

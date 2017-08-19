@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Depressed and damaged — these are two qualities Kate Winslet can absolutely nail role-after-role. (Probably the only actress who can top Winslet in this respect is Nicole Kidman) And part of what makes Labour Day so intriguing is what the actors make of their highly unusual, fascinating characters
 date: "2013-10-25 00:48:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3938"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Labour Day

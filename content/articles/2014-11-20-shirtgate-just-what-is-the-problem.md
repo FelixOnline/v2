@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We’re alienating future female scientists, says George Butcher
 date: "2014-11-20 21:00:51 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4913"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I love a good space mission. Pushing the final frontier, venturing into the unknown, lots of robots, rockets and risk – as a budding engineer, what more could I want?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol talks about her food memories
 date: "2014-11-06 21:05:07 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4795"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I managed to get a trip down memory lane this week – well, this was when I was making a batch of red velvet cupcakes for our ed-in-chief’s birthday on Tuesday (happy birthday again Philippa!) Many moons ago, when I was a not-so-jaded fresher, I was actually known amongst some peers as the queen of red velvet. I totally blame the South Kensington outpost of the Hummingbird Bakery for this one; they were the ones who sold me my first red velvet cake, and I fell in love.

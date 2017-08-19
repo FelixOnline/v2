@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cruelty Free International aren’t buying it
 date: "2017-01-13 13:54:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6630"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: "Understanding Animal Research"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just before the end of last term we ran an article about the fact that Imperial College had been awarded for Public Engagement Activity in the annual ‘Openness on Animal Research Awards’. In response we were contacted by Cruelty Free International and given a press release from the animal rights group.

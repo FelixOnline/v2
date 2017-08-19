@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I began to see galaxies and orbiting planets in my eyes. By Rosie Milton
 date: "2010-12-09 21:32:07 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "536"
@@ -33,15 +34,6 @@ image_height: "464"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 James Turrell’s Bindu Shards was what I can only describe as an ‘experience’. I managed to obtain an elusive time slot for the exhibit which I have read elsewhere as ‘mind orgasmic’. I approached with some trepidation and the usual stiff, white cube-ness of the Gagosian space on Britannia Street did not help to quell my nerves. I hurried through the white halls to the large room in the corner in which sat a spherical pod – something borrowed from a dated science-fiction movie.

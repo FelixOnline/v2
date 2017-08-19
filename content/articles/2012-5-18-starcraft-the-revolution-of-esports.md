@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Yang discusses why Starcraft has become such a phenomenal success
 date: "2012-05-18 16:01:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2473"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Fighterforum"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The lights of the metropolis shine brightly on the clear summer night. Down on the bay, a crowd gathers around a giant outdoor screen. Spotlights flood the area as the audience,now exceeding 50,000 people, work themselves into a fever pitch. The two teams come out on stage to deafening cheers. Teenage girls scream as one idol from each team is chosen for the first round of combat. They each enter a booth. The music swells, and the video game begins.

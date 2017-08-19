@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Women's team comfortably defeat the University of West London
 date: "2012-02-09 23:09:12 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2170"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite the sub-zero temperatures for this outdoor fixture in Chiswick, both teams came out ready for a fight and the match started off as an end-to-end struggle. UWL opened the scoring; a clinical finish despite some sloppy play around the D.

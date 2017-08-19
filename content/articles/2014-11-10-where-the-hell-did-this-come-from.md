@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tom Rivlin looks at Rick and Morty in the Cartoon Corner
 date: "2014-11-10 22:10:11 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4839"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dan Harmon’s beloved sitcom _Community _has long been known to fans as a ‘genre’ show smuggled onto our screens under the disguise of a regular comedy about a community college. In Adult Swim cartoon _Rick and Morty_, co-creator Dan Harmon has done the opposite – he’s managed to smuggle an earnest, real family drama out to us under the disguise of a wacky, high-concept sci-fi adventure series.

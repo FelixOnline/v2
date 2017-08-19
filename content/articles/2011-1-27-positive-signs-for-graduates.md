@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Report suggests that the graduate market is overcoming the impact of the recession”
 date: "2011-01-27 18:26:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "653"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A [poll by the Association of Graduate Recruiters](http://www.agr.org.uk/content/Brighter-outlook-for-graduates-as-vacancy-numbers-increase-for-first-time-since-recession-began) (AGR) of 222 recruiters in the UK reveals an 8.9% annual increase in graduate jobs, with a forecast of a further 3.8% increase for this year.

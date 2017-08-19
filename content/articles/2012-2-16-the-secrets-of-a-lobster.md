@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anastasia Eleftheriou discusses this seemingly esoteric foodstuff
 date: "2012-02-16 21:48:30 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2197"
@@ -33,15 +34,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The next time you see live lobsters at a restaurant market, don’t be afraid of them! You will see that they’re pretty easy to cook and enjoy.

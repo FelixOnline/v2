@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emmilyn Yeoh tells us the ups and downs of this popular island
 date: "2014-11-06 20:42:43 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4790"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Emmilyn Yeoh"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A single mention of Greece would bring squeals from the general public considering the fact that it is typically described as a true heaven by most tourists. I don’t know about you, but it definitely makes me wonder sometimes, does it actually live up to its reputation? I therefore decided to pay a short visit to the Greek islands: Santorini to testify to its postcard beauty and Crete, to check out the dark horse.

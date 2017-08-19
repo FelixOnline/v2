@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The commercial bomb is dropped on the latest and greatest in contemporary art
 date: "2015-10-23 11:43:58 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5671"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The dirty side of the art world isn’t always obvious, but Frieze London is making every effort to scream it in your face. The fair ranges from the dull to the exceptional – as you would expect from any art fair – but the commercial machine seems to bleed through everything. Located in a giant glorified marquee in Regent’s Park, Frieze London in its thirteenth year claims to offer an unrivalled breadth and vision into contemporary art. In many respects it succeeds and given enough patience, the Frieze is quite an experience. Everything is on offer and everyone will be impressed, but the atmosphere is all wrong.

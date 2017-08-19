@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexandre Adler knows Imperial will eventually divest, but will it be too late?
 date: "2017-03-03 14:49:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6839"
@@ -34,15 +35,6 @@ image_height: "1115"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last year, while doing my Erasmus at King’s College London, I spotted a small placard on the wall calling on the university to "divest" from fossil fuels. By this, they meant that the college should not invest in corporations linked to fossil fuel extraction and exploitation. I am not a large fan of endowment funds in general and would really like to see a greener world, so the idea appealed to me immediately. This year, apparently, a few King’s students took the campaign a little further, and spray-painted a few pillars on the Strand building, an offence for which they promptly got arrested (anybody who has seen that building’s façade knows that the architect of the Strand building is the real culprit as far as urban vandalism is concerned).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nutrition writer Alexandra Lim encourages us to eat more pale vegetables
 date: "2016-10-31 15:42:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6362"
@@ -33,15 +34,6 @@ image_height: "2539"
 image_attribution: "Jon Bunting"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Something we are constantly told when it comes to food is to ‘eat the rainbow’. Densely packed nutrients bind to colour pigments, hence why colourful veggies are thought of as bright bundles of nourishment. Most white or pale foods are overlooked, with many lacking fibre and nutrients. However, a few of these pasty provisions lack the attention they deserve.

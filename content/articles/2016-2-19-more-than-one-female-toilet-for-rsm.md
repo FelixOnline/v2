@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All but one female toilet was removed from the Goldsmith’s Wing by College Estates over the summer but now they’re getting changed back
 date: "2016-02-19 11:08:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5925"
@@ -34,15 +35,6 @@ image_height: "2160"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Women in the Goldsmith’s wing of the RSM building had a bit of a shock after coming back over the summer: all but a single female toilet had been converted to men’s only. This meant that women had to either queue to use one loo or walk to another building if it was out of order.

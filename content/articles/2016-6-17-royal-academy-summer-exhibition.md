@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This summer’s headline event showcases the work of artistic duos
 date: "2016-06-17 09:26:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6281"
@@ -33,15 +34,6 @@ image_height: "656"
 image_attribution: "Stephen White"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Summer Exhibition at the Royal Academy is a bit like Glastonbury of the arts world, if the people who went were 97% white with a mean age of sixty. Along with fixtures like Wimbledon, it heralds in the summer, bringing together established artists from all the different disciplines: printmaking, painting, sculpture, video, while offering a platform for the work of lesser known artists and amateurs through the open submission policy.

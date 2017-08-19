@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Could minds interact with each other? Paul Garwood investigates...
 date: "2011-11-24 21:18:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1817"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Have you ever wondered how your dog knows when your partner is on their way home even if they are miles away? Or how you so often know who is calling before you pick up the phone?

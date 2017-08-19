@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Henry Abbot criticizes the Union's decision to cut Clubs and Societies' funding by 10% despite an underspend below 4%
 date: "2012-02-23 20:19:05 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2231"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union’s Executive Committee is charged with deciding how the Union is run on a day-to-day basis. It approves things like the Summer Ball, and the whole Union’s budget to make sure things are progressing how the student body wants them to. Three weeks ago the Executive Committee chose to reallocate nearly £35,000 away from Clubs and Societies funding. The rationale given by Michael Foster (Deputy President for Finance and Services) for this 10% cut was that “the total grant underspend [by clubs and societies] last year was greater than the changes to funding.” Grant money left unspent at the end of the year by a club is reabsorbed by the Union and generally deemed as unnecessary funding. Foster then went on to say “the reallocated money will be much more effective invested in support mechanisms.”

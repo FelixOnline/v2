@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Arianna Sorba finds bad acting deflates Harajuku Girl’s fine script
 date: "2015-03-25 13:02:42 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5443"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Alexander Newton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m pretty obsessed with Japanese culture. I’m also an ardent feminist, and I’m constantly moaning to anyone who’ll listen about the lack of interesting female characters in modern literature. So I was more than ready to love _Harajuku Girls_, a new play about three women growing up in modern day Tokyo, treading the line between empowerment and victimhood as they take up work in Tokyo’s notorious red light district. Heck, they even gave me a free pint with my press ticket. When I settled in to my excellent seat at the __Finborough Theatre__, a tiny venue above a pub, I was already glowing with admiration for the whole thing.

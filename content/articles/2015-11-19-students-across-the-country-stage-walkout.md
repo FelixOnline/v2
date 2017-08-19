@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Neighbouring RCA protested outside the Daily Mail
 date: "2015-11-19 22:23:37 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5741"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Twitter / @RCAStudentUnion"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday, a number of UK university students took part in mass walkouts, talks and demonstrations as part of a “day of solidarity” with refugees. The students were acting in protest of the government’s mistreatment of refugees, along with migrants and international students.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shaul Rosten discusses executive pay and whether or not the government should have any influence.
 date: "2016-12-16 14:31:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6600"
@@ -33,15 +34,6 @@ image_height: "3270"
 image_attribution: "Jeremy Segrott"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Theresa May announced this week that she intends to force companies to “justify” executive pay in response to reports that, at times, executives earn 140 times more than the average worker. High executive pay has been thrust into the headlines recently amidst the furore of the BHS collapse, and the harsh working conditions discovered at Sports Direct. Whilst I am not in favour of spending other people’s pension money on yachts (depending on who the people are, and the size of the yacht), I am outraged at the suggestion that the Government has the right to determine what a company pays its staff.

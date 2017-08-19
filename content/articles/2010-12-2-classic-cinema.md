@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Breakfast Club helps you remember what it feels like to go from suicidal confessions, to flailing 80s style dancing in the average time it takes a teenage guy to ‘rock your world’. And that really isn’t long, trust me
 date: "2010-12-02 20:17:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "464"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Ever felt like your parents don’t understand you? Do they put pressure on you to achieve? Do they spoil you? Beat you? Or worse, ignore you? Everything is their fault. In fact, all adults just don’t understand kids, because ‘when you grow up, your heart dies’. Or so I’ve learnt from watching John Hughes’ 80s classic [The Breakfast Club](http://www.imdb.com/title/tt0088847/).

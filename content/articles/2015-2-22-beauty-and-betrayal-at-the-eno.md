@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng takes on Verdi’s classic La Traviata
 date: "2015-02-22 17:32:13 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5301"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Donald Cooper"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When it was first performed in 1853, the Venetian opera house __La Fenice __insisted that Verdi’s _La Traviata_ be staged in the past, around 1700, despite his original intention of a contemporary staging. Perhaps the initial resistance was due to the opera’s controversial nature painting the main character of a prostitute as a human and a victim, but it was not until the 1880s that Verdi’s intentions were realized. In this modern production with the __English National Opera__ however, director Peter Konwitschny is acutely aware of the timeless appeal and relevance of love, death, and the hypocrisy of society. What struck me was the minimalism of the production, with basic, monochromatic costumes and hardly any set – a story that could have happened anywhere, in any period of time.

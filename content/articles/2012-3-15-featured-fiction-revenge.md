@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon tells a shocking tale of violent hatred and gruesome vengeance
 date: "2012-03-15 21:22:46 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2379"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A lonely tree stood solitary on a darkening hill. Its branches were bare and no birds would roost in its empty canopy. The bark towards its trunk was peeling off and patchy in many places giving a diseased appearance. Gnarled roots grew twisted in the parched earth, meaning that the whole tree leaned crookedly on its base.

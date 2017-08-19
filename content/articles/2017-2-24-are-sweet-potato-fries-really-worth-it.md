@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6808"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week (yes, sweet potato fries are vegan, we asked).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or, why it might not be such a great idea to make long-term wish lists
 date: "2011-10-14 00:22:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1535"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A guy got on the tube and sat down next to me last week, which is a momentous enough event for me to open the column with because being that close to another human is a sure-fire way to ruin my week in spectacular style. Fortunately for me, the chap in question pulled out an iPhone and opened the notes app, where he began adding to a list – a list which would turn out to be the highlight of the day.

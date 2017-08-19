@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems.
 date: "2014-03-24 03:29:38 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4493"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Dr Maria Fernanda Jimenez Solomon was awarded the prize; which is awarded to excellent PhD students who are doing research that helps solve industrial problems. Maria’s supervisor is the Head of the Department in Chemical Engineering, Professor Andrew Livingston.

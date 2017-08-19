@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Theorem by Imperial scientists could change our understanding of the wavefunction
 date: "2011-11-24 20:37:03 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1806"
@@ -34,15 +35,6 @@ image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Scientists at Imperial College London have presented a theorem which suggests that the wavefunction is a physical object. The paper, which emphasises that the quantum state cannot be interpreted statistically, was submitted on November 14 and has potential to shake the foundations of quantum theory.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anthony Vaquero on Men's 1sts going for gold. Well, silver...
 date: "2012-11-15 22:24:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2917"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite the almost blinding light from the dying sun, a strong start from IC produced the first opportunity within just a few minutes. Graham took it perfectly, dribbling easily into the D and dragging the ball straight past the keeper for a great first goal. This, however, was shortly followed with a quick response from UCL which equalised the game at 1-1.

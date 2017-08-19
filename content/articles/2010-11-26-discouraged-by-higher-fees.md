@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Survey show majority of Imperial students would be discouraged from university by £10,000 tuition fees
 date: "2010-11-26 07:13:21 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "447"
@@ -34,15 +35,6 @@ image_height: "1257"
 image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 With [protests](http://www.felixonline.co.uk/?article=452) going on up and down the country, there is a great deal of anger about the government’s plans for higher education. Almost all of us will be leaving university with some debt, however this debt did not deter us from coming to Imperial in the first place. However a Union survey has shown that Imperial students are just as concerned by debt and rising fees as other students in the U.K. In light of the Union’s support for the Browne Review and the government’s proposals, is it [being truly representative](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html) of the majority of Imperial students?

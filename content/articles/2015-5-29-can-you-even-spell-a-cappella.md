@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson enjoys the return of the Bellas in Pitch Perfect 2
 date: "2015-05-29 10:54:26 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5584"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Elizabeth Banks/Universal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s a well-known fact that comedy sequels are tricky. For every occasional good one, there is a whole host of bad ones. _Pitch Perfect_ was one of 2009 most surprising hits, making back its money in a big way and having one of the most downloaded soundtracks of the year.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ipsita Herlekar talks food waste and how it’s not just about the food that goes in the bin but also about the food that goes in your tum-tum
 date: "2017-03-10 13:36:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6870"
@@ -33,15 +34,6 @@ image_height: "1871"
 image_attribution: "Anthony Albright"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Food waste is a global problem. As per the Food and Agriculture Organization (FAO), over 870 million people are malnourished and the figures will grow in the future with increase in population.

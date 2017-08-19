@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Corbyn, McCluskey and McDonnell were all at Imperial
 date: "2016-05-27 08:39:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6197"
@@ -33,15 +34,6 @@ image_height: "992"
 image_attribution: "Twitter / @UKLabour"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday, members of the Labour party gathered in the Sherfield great hall to discuss the future of the British economy.

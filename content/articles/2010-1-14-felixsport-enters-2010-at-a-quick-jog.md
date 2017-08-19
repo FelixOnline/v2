@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FelixSport enters 2010, at a quick jog...
 date: "2010-01-14 22:33:45 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "40"
@@ -34,15 +35,6 @@ image_height: "458"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Welcome back! A new year, and a new term, are upon us, and 2010 promises to be a massive one in terms of sport. For starters, the winter Olympics are set to kick off in Vancouver next month.

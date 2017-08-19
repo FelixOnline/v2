@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bland architecture makes Imperial an even more unpleasant place to be
 date: "2016-06-10 08:21:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6252"
@@ -33,15 +34,6 @@ image_height: "4008"
 image_attribution: "Christian Richters"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hello Imperial, we need to talk.

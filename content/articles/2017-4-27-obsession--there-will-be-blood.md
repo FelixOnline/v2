@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jude Law excels in Ivo van Hove's adaptation of Visconti's original film
 date: "2017-04-27 19:00:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6927"
@@ -33,15 +34,6 @@ image_height: "3149"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For fans of Brutalism, the Barbican’s architecture is a fixation in itself, so I thought that was the perfect venue for the world premiere of _Obsession_, the new play by the highly acclaimed Belgian director Ivo van Hove.

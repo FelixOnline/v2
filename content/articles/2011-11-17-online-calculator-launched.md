@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Prospective students to have increased access to financial support information as new package approaches
 date: "2011-11-17 21:04:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1768"
@@ -34,15 +35,6 @@ image_height: "3000"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A new online calculator was launched this week by Imperial, aiming to give prospective students better access to information on the financial support available to help fund their studies.

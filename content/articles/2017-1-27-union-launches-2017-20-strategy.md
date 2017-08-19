@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But where did all the measurables go?
 date: "2017-01-27 14:17:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6683"
@@ -34,15 +35,6 @@ image_height: "795"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union launched a new three year strategy last week in Metric, at an event that was the culmination of a six month effort to meet (or at the very least express) the needs and wants of Imperial students. Despite vigorous consultation though, student reaction was luke-warm.

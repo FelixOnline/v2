@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Entering the glamorous world of competitive dance at the Royal Albert Hall
 date: "2016-10-31 22:18:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6369"
@@ -33,15 +34,6 @@ image_height: "1278"
 image_attribution: "Paul Hudson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What is it about ballroom dancing that so enthrals us? The public’s fascination with ballroom dancing began years ago in Hollywood, with Fred Astaire and Ginger Rogers lighting up the silver screen. And as the wild success of TV programs like Strictly Come Dancing and Dancing With The Stars shows, its glamour and beauty has captured our imagination ever since. Is it the beauty of the figures danced in tandem? The delight of seeing movement and music perfectly aligned? Or even the dazzling costumes that the dancers wear?

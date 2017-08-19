@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Fashion Designer - Emma Amoafo
 date: "2012-06-14 20:44:25 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2569"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Emma Amoafa is a third year medic. After a day on the ward most students can only think about bedsheets but Emma has another fabric on her mind. Her embryonic label Friday Born splashes colour across the streets of London in a life-saving injection of Ghanaian vibrance.

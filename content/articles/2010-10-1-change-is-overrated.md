@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You haven’t come to uni to be ‘re-born’; just have fun
 date: "2010-10-01 22:34:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "164"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 You’re on the brink of it. You’ve spent the last few months being told that your exams were too easy, your future is jobless, your university fees higher than ever, your hair too long and your generation’s romantic comedies too full of Gerard Butler. Most of these things are not true. Gerard Butler does appear to be able to star in several movies simultaneously, however.

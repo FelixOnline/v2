@@ -4,6 +4,7 @@ title: >
 subtitle: >
   BARBICAN
 date: "2011-06-09 18:22:05 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1331"
@@ -33,15 +34,6 @@ image_height: "5184"
 image_attribution: "Marie Chkaiban"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 His sister is always busy

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson helps you ease your exam woes
 date: "2013-05-01 20:07:41 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3523"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “I’m an atheist and I’m interested in meditation.” Last year I had a number of conversations with people who all began with this comment. It is too small a sample from which to interpret the changing nature of atheism or if there is an increasing interest in meditation. (And anyway all of these comments may have arisen from the realisation ‘OMG, it’s the vicar, quick what can I talk about?’)

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Nevola Clark finds Soho Theatre’s play divisive
 date: "2015-05-13 14:12:19 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5513"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just when we thought there couldn’t possibly be another _Romeo and Juliet _reinterpretation, the __Tamasha Theatre Company __chipped in with their own modern tale of star-crossed lovers (can’t talk about that play without saying the word star-crossed folks, it’s a legal requirement for reviewing). After all, reinterpretations are all about the retelling of classic story in a way a modern audience can relate to, right? So Emteaz Hussain wrote _Blood_ – as she herself puts it, “a contemporary urban love story” of two British Muslims, Caneze and Sully, fighting their family ties for the sake of love. The result is a play even more removed from a modern audience than the 16th century one it’s inspired by.

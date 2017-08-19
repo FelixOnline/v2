@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-03-18 11:58:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6069"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ok, so the original plan for this week was to put together an election-themed section. Maybe ‘best films featuring presidents’ or ‘best political dramas’? The truth of it is that I’m a bit election’d out right now… Either that or I couldn’t find anything on Google other than _Lincoln_. You know what’s more exciting than student elections though? Murder. Hitchcock’s _Rear Window_ may be the best but it’s not the be-all-and-end-all:

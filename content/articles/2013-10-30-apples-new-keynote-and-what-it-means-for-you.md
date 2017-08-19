@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As mentioned in last weeks news bubble Apple had a key note last tuesday.
 date: "2013-10-30 15:59:20 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3961"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As mentioned in last weeks news bubble Apple had a key note last tuesday. That day confirmed most rumours on the internet as well as some pleasant surprises. However if you are looking at the news, scratching your head and wondering how this will affect anything in your life, read on dear reader and all shall be explained!

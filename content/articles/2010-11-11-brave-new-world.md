@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the music industry bleeds itself to death a new breed of artists emerges online
 date: "2010-11-11 21:19:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "359"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Something crazy is going on with this internet thing. Oh sure, there’s always some kind of weird video of [people shooting a bear](http://www.youtube.com/watch?v=4ba1BqJ4S2M) and doing ungodly things over it afterwards, but I’m not talking about that. I mean a social media revolution, involving music in particular. Social media is Youtube, Twitter, Bandcamp, and all those other websites you might check out once in a while for new music.

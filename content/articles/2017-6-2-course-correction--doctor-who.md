@@ -4,6 +4,7 @@ title: >
 subtitle: >
   So far so good
 date: "2017-06-02 13:21:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6993"
@@ -33,15 +34,6 @@ image_height: "900"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Halfway into the latest season of Doctor Who, set to be Peter Capaldi and showrunner Steven Moffat’s last, we have yet to be disappointed. After a rocky few seasons, the show began to show signs of recovery with last Christmas’ delightful, superhero themed fix. The first six episodes of series ten have continued this upward trend, with new companion Bill proving to be quite a highlight, and Capaldi being allowed to flourish.

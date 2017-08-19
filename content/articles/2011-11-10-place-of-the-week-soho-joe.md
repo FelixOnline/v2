@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Reasonable food in a fantastic atmosphere to be found in Soho
 date: "2011-11-10 21:58:23 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1738"
@@ -33,15 +34,6 @@ image_height: "2250"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Soho Joe is the product of a husband and wife team who both have more than twenty years experience in the catering industry. Open from early morning until late at night, Soho Joe is an exciting new venture situated in the heart of Soho, serving a range of food and drinks at extremely affordable prices._

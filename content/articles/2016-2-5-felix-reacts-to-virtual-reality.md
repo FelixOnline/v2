@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The future is here and you’ll look like a fool wearing it
 date: "2016-02-05 12:42:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5881"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year of virtual reality is finally upon us. This week, the FELIX team tried Gear VR, Samsung’s mobile virtual reality headset.

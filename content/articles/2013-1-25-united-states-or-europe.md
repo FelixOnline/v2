@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We need more, not less European integration. Much, much more.
 date: "2013-01-25 01:46:31 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3184"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the most baffling things I’ve come across constantly when talking to British people is their use of the word “European” to mean “Beyond The Channel”, as if sharing strong political, historical, geographical, economic and cultural ties weren’t enough to make the UK part of the continent. Rule Britannia, God Save The Queen, and all of that, but isn’t it time to put the nostalgia for the 19th century away in favour of some common sense?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   LA Philharmonic's performance is a tour through favourites old and new.
 date: "2016-03-23 14:50:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6080"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tuesday saw the first of three performances by the Los Angeles Philharmonic Orchestra in residency at the Barbican. Dudamel led the players in five pieces (four programmed and then surprisingly an encore, which we don’t see that often with British orchestras) that ranged from novel to bizarre and sublime.

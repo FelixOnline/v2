@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The entirety of Shakespeare’s works in two hours in a low budget pub setting? Count us in!
 date: "2011-05-26 23:49:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1270"
@@ -33,15 +34,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Maybe you’ve had your fair share of proper Shakespeare, maybe you’ve already seen more than you want to, maybe you just like the idea of efficiency in getting through all of Shakespeare’s work in two hours. Well, you might just find this show appealing. A fun romp through famous plays and their derivatives, it achieves well what it sets out to do and certainly makes for a pleasant evening out.

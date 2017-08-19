@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The original Girl with the Dragon Tattoo's role in the new Sherlock Holmes film could've used some beefing up - nevertheless, the film is still an enjoyable watch
 date: "2012-01-12 22:51:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1993"
@@ -33,15 +34,6 @@ image_height: "323"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 ###  Sherlock Holmes: A Game of Shadows

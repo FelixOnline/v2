@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Ashford on Clapham’s best summer offering
 date: "2011-06-12 15:50:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1364"
@@ -33,15 +34,6 @@ image_height: "2336"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Jealous of your friends going backpacking this summer? Don’t be. London in the summer is wonderful and the weather rivals that on any expensive holiday abroad. One of the best things about spending summer here has to be [South West Four](http://www.southwestfour.com/). What better way to celebrate the end of your exams than two days dancing till the sun goes down (or comes up) to the world’s best house and techno DJs? It’s on your doorstep in Clapham Common so there’s no need to travel to a muddy field in the middle of nowhere, or pay the ludicrous prices of going to Ibiza.

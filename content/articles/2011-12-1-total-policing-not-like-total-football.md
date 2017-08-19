@@ -4,6 +4,7 @@ title: >
 subtitle: >
   12 hours of protesting has simply dissolved "the idea of protesters as lazy hippies"
 date: "2011-12-01 21:33:49 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1895"
@@ -33,15 +34,6 @@ image_height: "4142"
 image_attribution: "Andrew Fok"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After 12 hours of protest, beginning at 7 in the morning at Liverpool Street, the idea of protesters as lazy hippies has simply dissolved. They believe the mantra that the early anarchist gets the worm. We saw electricians, librarians, teachers, council workers and children line the pickets and march in protest against the changes to public sector pensions. However, following on from the November 9 student protest where 4,000 police, 3 helicopters, steel barriers and numerous surveillance techniques were used against 5,000-10,000 protestors, the strike day in London was marked by unprovoked heavy handed policing.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You feeling the post Valentine's blues yet
 date: "2017-02-17 15:59:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6799"
@@ -34,15 +35,6 @@ image_height: "1151"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let’s be real. Love is a drug. It inhibits our ability to think clearly, turns us into terrible people, and makes us do stupid things. Face it, it’s far more harmful than a few hours gurning at the weekend. But just like with drugs, there are different kinds of highs, and so now, in honour of the just-passed Valentine’s Day, I present you the different people you have fallen in love with, and the associated stupid things they will make you do.

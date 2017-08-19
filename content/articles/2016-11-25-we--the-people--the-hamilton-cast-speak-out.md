@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Theatre is special but Trump is wrong, theatre is not safe. Theatre Can't be safe
 date: "2016-11-25 14:10:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6509"
@@ -33,15 +34,6 @@ image_height: "1146"
 image_attribution: "Michel e Carla"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 By now, it’s a near certainty you’ll already have heard about Vice President-elect Mike Pence’s trip to Broadway’s hip-hop musical sensation, Hamilton. If you haven’t, it’s all rather simple: Pence went to the show, and following the curtain call, one of the cast stepped forward and addressed Pence directly. Flanked by one the most diverse casts on Broadway, Brandon V. Dixon (the show’s Vice president Aaron Burr) read a speech written by Hamilton creator Lin-Manuel Miranda, director Thomas Kail, and producer Jeffrey Seller from a piece of paper: "We are the diverse Americans who are alarmed and anxious that your new administration will not protect us, our planet, our children, our parents, or defend us and uphold our inalienable rights." Dixon went on to ask Pence to "work on behalf of all of us… men and women of different colors, creeds and orientations."

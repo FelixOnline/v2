@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s hard to avoid the feeling that it’s all a bit... underwhelming
 date: "2010-10-10 15:24:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "188"
@@ -33,15 +34,6 @@ image_height: "261"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The 2010 Turner prize opened on Monday amidst the usual publicity circus, highlights of which this year included Tate Britain attempting to ban any photographers whose work may “result in any adverse publicity” for the prize, and Stuckist Charles Thompson leading his traditional anti-prize protest colourfully ‘engaging’ with director Nicholas Serota on the steps of the gallery.

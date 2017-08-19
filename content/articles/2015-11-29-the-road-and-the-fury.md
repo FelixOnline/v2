@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An enlightening look at the making of Le Mans, Steve McQueen: The Man & Le Mans affords us an inciteful glimpse of the 'King of Cool'
 date: "2015-11-29 16:37:25 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5781"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Steve McQueen: The Man & Le Mans PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the avid cinephile, whose interest in films borders on the obsessive, there is a special passion for the ‘making-of’ narrative. _Steve McQueen: The Man & Le Mans_ taps into this with a behind-the-scenes look at _Le Mans_, a 1971 passion project of ‘King of Cool’ Steve McQueen, based on the legendary 24 hour motor race. With little in term of plot or dialogue, the film was an unmitigated flop, but still holds a special place in motorists’ hearts for the realism it brought to the screen.

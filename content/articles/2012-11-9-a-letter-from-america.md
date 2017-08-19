@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A report from right inside San Francisco
 date: "2012-11-09 12:26:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2846"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At 6am on Monday morning, groggy from jetlag and the 15mg of valium I took on the plane, I sat in a taxi in downtown San Francisco waiting to be driven to a car rental company. The driver asked if it was my first time in San Francisco and I told him that it was. In the blunt light of dawn, we crashed up and down San Francisco’s inclined streets, and I noticed steam rising from the man-hole covers. It was America as I had imagined it. Lurching down another main road, he pointed and said, “There’s a lone midget hooker”. When I looked I saw a dwarf in an uncompromising red dress checking her long, blonde hair in a shop window. There was no hint of judgement by the taxi driver. This was not America as I had imagined it.

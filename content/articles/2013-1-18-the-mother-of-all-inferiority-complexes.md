@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial is a world-leading university: we should all stop moaning about Oxbridge, says George Butcher
 date: "2013-01-18 00:29:16 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3134"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week Felix published an article discussing the differences in workload between Oxbridge and Imperial. ‘Who works harder?’ seemed to be the question it was asking. It threw lots of figures at the reader and seemed to suggest that Oxbridge gives students more contact hours and was much better value for money. The comments online erupted. Imperial’s longer terms were pointed out as an explanation for reduced contact times and there were debates on the quality of the course content, particularly amongst the physicists.

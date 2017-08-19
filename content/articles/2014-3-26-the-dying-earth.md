@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Jack Vance’s highly influencial series set far in the future on a dying planet Earth
 date: "2014-03-26 13:28:01 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4500"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Though I fancy myself reasonably well read in the field of science fiction and fantasy I must admit that there are quite a few classic authors of the genre whose work I haven’t read at all. Of these the one I probably felt most guilty about not checking out was Jack Vance. After all, he was a Science Fiction and Fantasy Writers of America Grand Master and has been cited as an influence by a number of my favourite writers, including Neil Gaiman and Gene Wolfe. Therefore, having found myself with a little spare time a few months back, I decided to check out one of his most notable works – the epic _Tales of the Dying Earth _series.

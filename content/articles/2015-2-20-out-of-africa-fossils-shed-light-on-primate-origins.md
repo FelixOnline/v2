@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the discovery of the oldest New World monkey species
 date: "2015-02-20 00:02:01 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5278"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Jorge González"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The discovery of three new fossilised monkey specimens in the heart of Amazonian Peru could shed light on the origins and early evolution of primates in South America; one of the most controversial issues in primate palaeontology.

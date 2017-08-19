@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The social side of university must not be overlooked
 date: "2011-10-31 11:07:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1645"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As this year’s cohort of new graduates [eases itself away from university life](http://felixonline.co.uk/news/1554/largest-ever-graduation/), many will either be beginning or continuing in their new careers. However, it is important to realise that unemployment remains an ever present issue for graduates. Unemployment finds itself at its highest total since 1994, with just over two and a half million people finding themselves out of work – a significant proportion being newly graduated students. Despite these solemn figures, it is good to take a step back and realise that Imperial degrees remain highly sought after, and that we must not lose focus on what this university has to offer other than study.

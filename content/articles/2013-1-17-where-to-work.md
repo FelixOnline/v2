@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial written in the midst of a dilemma about what to do with the rest of my life.
 date: "2013-01-17 23:44:37 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3118"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week there is a [feature on page 10 (it’s one of my picks) about internships](http://felixonline.co.uk/news/3127/internship-decisons-city--or-charity/). The basic idea is to interview a few people who have done city internships and some that have done third sector work. The plan is to see what similarities and differences there are. Obviously, this isn’t some survey from the survey fetishists over at Ipsos MORI, so it’s not the largest most scientific set of data. What’s interesting is the general trend: we like internships (and you can extrapolate jobs) where we gain some kind of valuable experience, and where we feel like we are actually a valued and important member of the team. Of course, if your long term goal is to just work for the company, then you may be more interested in networking during an internship, and there are many other situations where you may want different experiences. For example, horny people may be seeking multiple sexual partners while also wanting to be valued for their hard work – but I wouldn’t put down “sex drive of Russell Brand” on your CV. The point is that we obviously want to feel wanted in some way. Nobody wants to just be the person updating a calendar or reformatting a word document.

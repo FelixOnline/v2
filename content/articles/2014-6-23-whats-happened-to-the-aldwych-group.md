@@ -4,6 +4,7 @@ title: >
 subtitle: >
   [Tabloid Special] As a group of representatives of the Student’s Unions and Associations of the Russell Group, you would expect them to be doing, well something...
 date: "2014-06-23 10:59:34 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4702"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 [Tabloid Special]

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stay safe when out in London
 date: "2011-12-08 20:09:17 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1909"
@@ -33,15 +34,6 @@ image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Since the start of term Imperial students have lost thousands of pounds to practised conmen and women. ‘How could they be so stupid?’ you might wonder… it’s not as straightforward as that. These people employ all sorts of tactics – and they’re doing their Christmas shopping. Below are examples of the three most common scams, all of which have happened to IC students since the beginning of term:

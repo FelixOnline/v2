@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The return of the All Nighter
 date: "2012-12-07 01:22:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3033"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 And you thought you were done with staying up late sipping coffee staring at a screen? Except this time the screen’s 33ft, and it hasn’t got tomorrow’s lab report minimized while reddit gently soothes your woes. Imperial Cinema brings you six of the latest releases, back-to-back, for your chance to catch up on the recent blockbusters. With the added challenge of trying to decipher the mind of Joss Whedon at 6am.

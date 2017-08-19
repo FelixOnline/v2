@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Despite dubious musical choices, they seem to be hitting the big times
 date: "2013-03-15 02:05:48 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3484"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 After a long season, ICUAFC 1s were hoping to follow in the footsteps of Dante emerging from the Inferno and Purgatory into the long awaited Heaven (minus a Roman poet as a guide and lasting considerably longer than 66 Cantos). The week beginning 25th February was the definition of make or break, with matches against Hertfordshire 2s—placed 2nd in BUCS—and a LUSL cup semi-final against Kings Medic 2s (GKT [TK MAXX]).

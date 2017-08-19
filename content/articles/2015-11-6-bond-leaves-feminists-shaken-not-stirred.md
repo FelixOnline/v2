@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Everything else has been brought into the present, but the portrayal of women is stuck in the past
 date: "2015-11-06 13:42:20 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5700"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, along with half the country, I decided to brave the crowded cinemas to see the newest James Bond film, Spectre. Some have described Spectre as gratuitous, but I thought that it was fantastic, both in terms of the cinematography, and the primal enjoyment in watching people get beaten to a pulp. But despite enjoying it, I came out of the cinema with a slightly bitter taste in my mouth.

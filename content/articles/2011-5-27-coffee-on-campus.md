@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Not everyone is that fussed it would seem
 date: "2011-05-27 14:05:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1276"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I was going to dazzle you all with a review of a restaurant this week but seeing the almost prolific response we received to [our coffee article last week](http://felixonline.co.uk/food/1216/please-sir-where-can-i-find-good-coffee/) I thought I would join in with the conversation. It seems when it comes to our caffeinated sustenance we all have rather exacting standards and I would not expect anything less than that from any true coffee aficionado.

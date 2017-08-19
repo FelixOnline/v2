@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter finally gets to grips with a warm piece of potato. Oh, or maybe he meant the band...
 date: "2012-10-26 03:12:42 +0100"
+author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2769"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sh1207"
-author_name: "Simon Hunter"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "simonhunter28"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’ve never really understood where __Hot Chip__ fit in. Having shot to musical prominence during the years of ‘nu-rave’ (terrible clothes, a lot of dick heads but hell, the music was fun), the band mix catchy pop riffs and delicate vocals with synths that time and again slay the dancefloor. This combination helped the band pass through throughthe years of nu-rave unscathed - __Hadouken__, __Test Icicles__ where are you now? In many ways Hot Chip were the antithesis of most nu-rave bands; Joe Goddard and Alexis Taylor (the two founding members) went to university at Oxford and Cambridge respectively. They also play the stereotypical nerd very well indeed and nowadays are old enough to be some of their younger fans’ dads. They’re not your stereotypical electro-pop act, and neither are they a balls to the wall dance collective; that leaves only one conclusion: they don’t fit in.

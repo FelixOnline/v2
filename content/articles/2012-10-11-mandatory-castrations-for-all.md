@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Feminist Society and why it might not be what you think it is
 date: "2012-10-11 21:25:49 +0100"
+author_id: "ar3310"
 
 # Attributes from Felix Online V1
 id: "2676"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ar3310"
-author_name: "Aemun Reza"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Because that’s what feminism’s all about, right? Right? Wrong, but from the incredulous looks, comments and questions we got at Freshers’ Fair, it seems like a lot of you really believe that the goals of feminism are to overthrow and subjugate men and introduce a gynocratic fempire. Consider your entrance to Imperial and this article your welcome to reality. You’re in the real world now, and you’re here to learn. So, get learning:

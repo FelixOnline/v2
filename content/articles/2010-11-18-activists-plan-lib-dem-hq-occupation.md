@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "412"
@@ -33,15 +34,6 @@ image_height: "3584"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 The dust has barely settled from the thousands of students who [descended on London last week](http://felixonline.co.uk/gallery/?albumID=2) to demonstrate against the planned rise of tuition fees, but plans are already being set in motion across the country for further protests. [Wednesday 24th November](http://www.facebook.com/event.php?eid=134751449911080&ref=ts) has been proposed by several anti-cuts groups as the next significant occasion to bring the issue to the forefront of both the political and public mindset.

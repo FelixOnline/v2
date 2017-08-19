@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey takes us through some of the most empowering plus-size women in the fashion world, including an interview with Natashia Judge
 date: "2015-03-25 12:02:24 +0000"
+author_id: "tad08"
 
 # Attributes from Felix Online V1
 id: "5424"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Girlie Show Photography"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tad08"
-author_name: "Theresa Davey"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062201-snb11-tessa_headshot.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tess Munster, also known as Tess Holliday, has recently become the largest model ever to be signed to a major modelling agency, MiLK Model Management. Her size being a UK 22-24, and 5’5”, she describes herself as a “body-positive activist”, and is most well known for her #effyourbeautystandards movement, created to encourage larger women to accept and love themselves.

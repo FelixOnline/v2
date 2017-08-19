@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sadly, it has to be said that we are a wasteful species - and this is often most apparent on our plates. We’ve got some ideas as to how you can change that, and why you should bother doing so.
 date: "2017-03-03 15:57:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6853"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: "modernfamer.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is no way of denying it: we overproduce. Constantly. We throw. Shamelessly. We waste. Consciously. Every day, tonnes of food are thrown away simply because some food legislation has put a standardized limit ‘eat before’ date or due to surplus. Worse, because we buy more than we really need. However, for catering companies, restaurants and cafés, for which food waste is a daily issue, acknowledging it is still something inconsiderable. As if by admitting a truth we all know – although we refuse to believe it ourselves – it would expose them to shame, customers’ disapproval and ultimately to bankruptcy.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nicolas Cage gets mad in Drive Angry 3D, what else did you expect from him?
 date: "2011-03-01 21:03:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "963"
@@ -33,15 +34,6 @@ image_height: "2772"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When a film uses the suffix of “3D” in its title, it comes with several expectations. Not only does this generally promise an excessive, gratuitous use of 3D, but it also often means that the film will be entirely ludicrous from start to finish Enter Nicolas Cage in Drive Angry 3D. This film not only deliver all of the above, but it also – as the rest of the title suggests – has Academy Award winning actor Cage doing a lot of angry driving.

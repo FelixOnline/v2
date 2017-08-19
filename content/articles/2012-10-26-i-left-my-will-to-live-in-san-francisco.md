@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simulator time!
 date: "2012-10-26 02:43:09 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2754"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 So, for those of you who actually read these colour-anemic boxes, last week I put up a vote for which simulator game I should play and review. I had a deluge of emails telling me to try the ‘social life’ simulator and that I should get out of the Felix office, but the joke’s on them – I’m dead inside anyway. I chose to give the Bus & Cable Car Simulator – San Francisco a spin, as I felt like seeing the sights and sounds of a hustling and bustling bay city.

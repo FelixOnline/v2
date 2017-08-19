@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Whatever happened to Morphy Day, more to the point, what is Morphy Day? Jovan Nedi&#263; looks back at the forgotten inter-faculty sporting events of Imperial&8217;s illustrious past
 date: "2010-02-05 17:27:39 +0000"
+author_id: "jn104"
 
 # Attributes from Felix Online V1
 id: "78"
@@ -34,15 +35,6 @@ image_height: "537"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jn104"
-author_name: "Jovan Nedic"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As some of you may know, Imperial was founded when three different college’s joined together back in 1907; the Royal College of Science (RCS), the Royal School of Mines (RSM) and the City and Guilds College (C&G). There was a sense of belonging, a sense of identity to the constituent College’s and rivalry that puts the current IC vs Medics one to shame. This rivalry, much like the Varsity matches of today, was focused around sports, however it was not exclusively left to the sports field, the rivalry also extended to the mascotry, but that’s another story for another time.

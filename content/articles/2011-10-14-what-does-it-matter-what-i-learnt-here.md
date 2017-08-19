@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There's always room in your head for new knowledge
 date: "2011-10-14 00:15:23 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1533"
@@ -34,15 +35,6 @@ image_height: "485"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s my 6th year here and my brain has been permanently disfigured, forever transformed by all that Science. It’s my 6th year of student discounts. My 6th year of Tuna-pasta dinners. My 6th year of pretending that I know stuff, and my 6th year of exam-period all-nighters because I don’t.

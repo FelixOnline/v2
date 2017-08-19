@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Future of the Left have generated a reputation for absurd lyrics
 date: "2016-05-20 09:14:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6186"
@@ -33,15 +34,6 @@ image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From their formation of the ashes of the wonderful **Mclusky** in 2005, Welsh noisy alt-rock savants **Future of the Left** have generated a reputation for absurd lyrics, excellent musicianship and live shows that Pitchfork would label as incendiary. A reputation justified by their fifth album _The Peace &amp; Truce of Future of the Left_.

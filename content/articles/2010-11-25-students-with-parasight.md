@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The science behind the iGem team’s successful project
 date: "2010-11-25 20:03:45 +0000"
+author_id: "vbb08"
 
 # Attributes from Felix Online V1
 id: "424"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "vbb08"
-author_name: "Victoria Bignet"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 MIT hosts an annual undergraduate Synthetic Biology competition called iGEM (International Genetically Engineered Machine), aiming for each university team to build biological systems and operate them in living cells. Imperial made an outstanding performance and landed fourth on the podium out of a total of some 129 participating universities.

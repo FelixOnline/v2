@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken considers the pros and cons of changing our voting system
 date: "2015-05-30 09:43:43 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5592"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "ChatPolitics"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The election is finally over. It was a tightly contested campaign but in the end, the Tories carried the day. The final tally put the Conservatives on a slim majority, and sent Labour back to the opposition benches for another five years. The country has moved further to the right, which ironically would bring us closer to Europe, and Miliband will not take the top spot in UK politics.

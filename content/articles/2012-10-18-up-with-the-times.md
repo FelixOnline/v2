@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aemun Reza looks at The Times’ league tables to see our place
 date: "2012-10-18 21:53:40 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2727"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Overall Rankings__

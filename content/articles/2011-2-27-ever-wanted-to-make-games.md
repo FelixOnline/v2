@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Cook is doing just that this week, and he’ll tell you how you can too
 date: "2011-02-27 12:58:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "903"
@@ -34,15 +35,6 @@ image_height: "569"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _Read the article and ready to play IC.HACK? Get all the necessary materials [here](http://sn.im/ichack)! See the next day's tutorial at [Day 2 - AI](http://felixonline.co.uk/?article=934)._

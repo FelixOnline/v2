@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The most distant example of a gravitational lens has been discovered by scientists in Germany.
 date: "2013-10-24 23:51:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3915"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Stefan Seip (TWAN)"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The most distant example of a gravitational lens has been discovered by scientists in Germany. The large galaxy, 9.4 billion light years away from us, focuses light towards the earth, like a sort of cosmic telescope, enabling us to detect another smaller, more distant galaxy that would normally be too dim for us to pick up. But the unexpected discovery of this smaller galaxy has puzzled the astronomers behind the research, at the Max Planck Institute for Astronomy in Heidelberg.

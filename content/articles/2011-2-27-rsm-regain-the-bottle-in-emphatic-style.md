@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Royal School of Mines win the 109th Bottle Match
 date: "2011-02-27 19:52:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "921"
@@ -34,15 +35,6 @@ image_height: "683"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Bottle Match was the decisive game for the Royal School of Mines. Win and R.S.M. would boast a 5-3 victory over their bitter rivals Camborne School of Mines following wins in golf, netball, squash and women’s hockey. Lose and the weekend of fixtures would be drawn at four apiece. None of the R.S.M. faithful would be content with sharing the spoils with C.S.M., especially if it meant losing out on the Bottle for the second year running.

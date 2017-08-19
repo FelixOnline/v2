@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our hero is so strong that all his battles end with one punch
 date: "2016-02-12 11:57:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5915"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Daisuki"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This anime is one which is a stark departure from how typical anime, or indeed superhero stories, usually are and that is a completely good thing. The biggest quality of this show is that it feels fresh and new. It was originally a webcomic which was so popular it got its own animated adaption, and it is not hard to see why. The show features Saitama, our protagonist, who is so strong he can defeat all his enemies with, as the title suggests, one punch. What follows are episodes filled with intense action, outlandish hilarity, and just some plain, crazy fun.

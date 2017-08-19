@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ryan Ehlers takes a ride in Stewart Lee’s Comedy Vehicle
 date: "2014-03-07 05:55:28 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4469"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I am culture,” declares a delusional and ranting Stewart Lee in the final episode of the new series of Comedy Vehicle, 30 minute episodes of stand-up comedy. He lists some admittedly impeccable credentials: books published by Faber and Faber(1) (“not Tesco’s own brand”), having co-written and directed an award-winning opera(2), having curated jazz festivals, and performed John Cage pieces to paying audiences. He does not count among these credentials the BAFTA that the second series of Comedy Vehicle won in 2010 for Best Comedy Program(3). This is perhaps unsurprising, given that in previous series he has denounced television as “the idiots’ lantern”, and Channel 4 as “like a flood of sewage that comes unbidden into your home”. He has not, he assures us, seen Breaking Bad.

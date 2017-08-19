@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gunning for a game? Have a look at these Crafty reviews which will be the Portal to your fantasy world!
 date: "2013-09-29 16:04:28 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3784"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ahead of you, dear reader, be you fresher or a returning student, is a substantial (or perhaps not so substantial) amount of work. To provide some relief from the never ending coursework and lab reports, this article will try to introduce you to some games that will serve you well this year, without breaking the bank. These games, while not the newest you will ever see, have a lot of replay value and are easily worth their money. In fact, comparing them to some of the new stuff out there, I would take these any day. I try to split these beauties into their different genres, so that you get a quick overview of the games on hand.

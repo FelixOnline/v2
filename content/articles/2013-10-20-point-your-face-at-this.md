@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emma Wills on Demetri Martin's new book of drawings
 date: "2013-10-20 01:33:34 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3902"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Demetri Martin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Demetri Martin’s first book of drawings is an utterly beguiling read from start to finish. Perhaps it isn’t accurate to say ‘read’ as there are few words in it ­– each page is taken up by a new simple black-and-white line drawing of charming hilarity, ranging from a graph of melted cheese temperature against time (with a discontinuity at perfect temperature) to a man walking a fish.

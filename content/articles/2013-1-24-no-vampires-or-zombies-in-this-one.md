@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Spielberg takes on Lincoln in a battle for Oscar glory
 date: "2013-01-24 21:42:04 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3161"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Lincoln__

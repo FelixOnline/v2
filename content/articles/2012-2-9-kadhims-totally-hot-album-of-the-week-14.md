@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Django Django Django Django Because Music 2012
 date: "2012-02-09 22:23:05 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2148"
@@ -33,15 +34,6 @@ image_height: "368"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I’m bAAAAAck! Terribly sorry about last week; unfortunately my ghostwriter was on holiday, so doing my column was a bit trickier than expected. But now that he’s taken his leave for the next 12 years, we can continue on as normal. __Django Django’__s _Django Django [[Spotify](http://open.spotify.com/album/3pqPOPqLgIwLaE4ZuVhYlg)]_ is this week’s Totally Hot Album of the Week (try saying that while covered in cheese, hanging upside down from a [monkey’s uncle](http://www.youtube.com/watch?v=SQG10A-ymtg)). The 1st class students amongst you may have noticed that, that sentence didn’t make sense; this album is just as awesomely weird.

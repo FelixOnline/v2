@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In fact, it's the people who actively defend the royals who rile me up
 date: "2011-04-24 11:14:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1135"
@@ -34,15 +35,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The BBC posted [a strange story on their site last week](http://www.bbc.co.uk/news/magazine-13091768), where it equated not being excited about the royal wedding to being a staunch republican. I’d never heard the word being used outside the States until then, and the whole thing kind of weirds me out. News stations seem to have a real problem with handling the kind of person who just doesn’t give a flying jet-propelled fuck about something. A lot of people seem to cynically believe that this is put on by them to get juicier stories, but I think it’s more of a self-delusion they’ve managed to get into. Theirs is a world seen through Marmite-coated spectacles, where everything is either hated or loved, and as a result everything is tinged with a slight hue of brown, sticky shit.

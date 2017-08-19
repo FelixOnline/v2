@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One less place to tick off in freshers’ week
 date: "2016-10-03 17:04:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6302"
@@ -34,15 +35,6 @@ image_height: "1064"
 image_attribution: "Fabric"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The iconic Islington Club, Fabric, shut it’s doors for possibly the last time over summer after it had its licence revoked by the local council.

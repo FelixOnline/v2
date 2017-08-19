@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The 'secret' Tie Clubs are the target of a new Council paper
 date: "2017-03-17 13:06:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6898"
@@ -34,15 +35,6 @@ image_height: "332"
 image_attribution: "the22club.org"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A paper is to be presented at next week’s Council meeting asking the Union to stop handing out tankards to the so-called ‘Tie Clubs’. These are invite-only ‘secret’ clubs, members of which can be easily identified on a night out as they adorn characteristic ties.

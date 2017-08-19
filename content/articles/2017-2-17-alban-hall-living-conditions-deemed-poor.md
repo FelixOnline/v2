@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students considering withholding rent
 date: "2017-02-17 14:27:44 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6779"
@@ -34,15 +35,6 @@ image_height: "592"
 image_attribution: "memetho"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the reveal of the poor housing conditions at Evelyn Gardens earlier last year, another Hall of Residence has been found guilty of offering sub-par accommodation, after numerous reports were brought to felix’s attention.

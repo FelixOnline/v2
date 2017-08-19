@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A long weekend of artistic pleasures and historical delights: the perfect European city getaway
 date: "2011-10-13 23:34:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1525"
@@ -34,15 +35,6 @@ image_height: "374"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Having been bitten by the travel bug severely this summer, and with just enough time and money (for once!), I wanted to book a holiday somewhere remote and unexplored. I wanted to discover the sights, sounds and smells of a foreign land for myself without feeling obligated to visit all the suggested attractions in a travel guide. However, after realising a return flight to anywhere “remote and unexplored” would involve spending at least a month’s rent, I felt that ignoring Ryanair’s mid-season sale would just be cutting off my nose to spite my face – a city break in Berlin it was.

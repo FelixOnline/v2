@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Wednesday, Imperial became one of the 72 organisations to sign a Concordat on Animal Research within the United Kingdom. The Concordat, which promises that the organisations will be transparent about their experiments on animals, follows an opinion poll conducted in 2012.
 date: "2014-05-16 01:43:25 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4598"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday, Imperial became one of the 72 organisations to sign a Concordat on Animal Research within the United Kingdom. The Concordat, which promises that the organisations will be transparent about their experiments on animals, follows an opinion poll conducted in 2012. This poll showed that the public wanted more information surrounding animal research and was a key factor in the development of the Concordat. The 72 signatories include organisations from various sectors, including research councils, charities, pharmaceutical companies and universities. The promises in the document centre around four key points. These are that the organisations will be transparent about “when, how and why” animals are used in research, that they will “enhance communication with the media”, that they will provide opportunities for the public to discover more about the use of animals in research, and that annual progress will be reported.

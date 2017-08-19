@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clash between certain premier league managers
 date: "2011-01-27 20:39:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "699"
@@ -33,15 +34,6 @@ image_height: "2148"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 One of the stories that has emerged over the transfer window period is the clash between certain premier league managers. Houllier is such a manager, who has received criticism due to his conduct over the signing of Darren Bent and what is seen as an insulting bid for Blackpool’s Charlie Adam.

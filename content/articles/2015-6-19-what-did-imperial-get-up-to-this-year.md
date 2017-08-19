@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the academic year draws to a close, Felix takes a look back at the biggest headlines of the past year
 date: "2015-06-19 13:26:15 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5643"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year, Felix has covered a plethora of stories from all corners of the campus, covering stories relevant to staff and students alike. We recap the stories we’ve brought to you this year, and what to watch out for next year.

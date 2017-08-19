@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Further details on recently-discovered planet leads to familiar results
 date: "2011-11-03 19:47:50 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1655"
@@ -33,15 +34,6 @@ image_height: "769"
 image_attribution: "Thierry Lombry"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever since Pluto’s demotion from planetary status, astronomers have been on the lookout for other similarly-sized and located dwarf planets. The region beginning from the orbit of Neptune and extending away from us is known as the Kuiper belt, inhabited by rocks, dust, debris and large numbers of small planetesimals and dwarf planets. Since its discovery in 1992, the known population of the Kuiper belt has increased to over 1000 objects, one of these being the small dwarf planet Eris.

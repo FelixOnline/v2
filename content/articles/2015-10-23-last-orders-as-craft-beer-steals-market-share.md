@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will a mega-merger in the brewing industry save big beer?
 date: "2015-10-23 11:15:09 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5664"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "BBC / Boundless"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the UK back in 2006 the majority of pubs served mostly identical lagers on keg; variety was achieved by a changing assortment of warm cask ales that often left younger drinkers wanting. In the US, the situation was similar; bars served a narrow range of indistinguishable beers: Bud Light, Coors Light, Budweiser and the like. Any variety found came in the form of expensive import beers like Guinness.

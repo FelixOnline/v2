@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "854"
@@ -33,15 +34,6 @@ image_height: "892"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Imperial's David Robertson](http://www.felixonline.co.uk/?article=851) might be up for a Bloggie, but what about the rest of us? It might not be something you've thought about, but science blogging is an activity that could be worth considering. And with funding tighter than ever, it might be time to start fleshing out that CV and publications list with some extras.

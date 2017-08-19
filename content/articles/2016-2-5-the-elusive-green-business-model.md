@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why is it taking so long for businesses to adopt greener strategies?
 date: "2016-02-05 12:08:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5870"
@@ -34,15 +35,6 @@ image_height: "2154"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Business sustainability as a concept came about in the early 70s, with controversial publications such as The Limits to Growth, addressing environmental and social consequences of economic growth.  Since the ‘green business’ model began to establish its domain, little attention was paid to the discipline until the last 7-8 years. We can now see an exponential growth in the number of businesses and organisations looking to minimise their local and global harm to the environment, community, and society – aiming to make profits without compromising future generations.

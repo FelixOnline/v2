@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jenny Wilson's homage to the fleet of vintage vehicles that belong to all of us
 date: "2011-03-10 19:58:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1059"
@@ -34,15 +35,6 @@ image_height: "2040"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Pride is a funny sort of thing. It tends to only come out on special occasions: times like when you realise the person you are overhearing on the tube went to a university that is rated 3rd from the bottom rather than 3rd from the top of the league tables and you sit there thinking that you’re pleased that you go to Imperial. I think part of our pride comes from the fact that Imperial offers somewhat ‘classical’ subjects, showing a reverence for the timeless and historically robust. In particular, those things that make sense to us but the rest of the world think are slightly bizarre, such as the fact that we have Varsity against ourselves and that we have a Mountain Hut in the midst of Wales. We are one of three universities (guess the other two) with an Exploration Board that encourages students to get off campus and explore the world, and we are one of two taking care of Vintage Vehicles.

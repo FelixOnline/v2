@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With Orange is the New Black, Netflix shows TV execs how it’s done
 date: "2013-11-05 09:45:48 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4003"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Netflix are branching out. No longer content with being the mother of all procrastination techniques (in the battle of lab report against the entire series of Gossip Girl, there can only be one winner) and bringing in the internet streaming revolution, the American website has started showing original content available exclusively on Netflix. The first test subject in this experiment was political drama House of Cards, which proved an uncontested success when it went on to be nominated for nine Emmys, including Outstanding Drama series. Following this, when the cult US comedy Arrested Development was cancelled by Fox, Netflix bought the rights and revived it for a fourth series, to the great delight of fans everywhere.

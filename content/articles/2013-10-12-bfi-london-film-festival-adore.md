@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park Reviews "Adore"
 date: "2013-10-12 19:08:06 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3847"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Roz (Wright) and Lil (Watts) are best friends. Roz’s son Tom (Frencheville) and Lil’s son Ian (Samuel) are also best friends. So far so good right? Now here’s where it gets weird. Ian starts sleeping with Roz first. Then Tom starts sleeping with Liz. Yes, the two female best friends are engaged in romantic relationships with each other’s sons. It doesn’t take long for them to find out about all of this, and even when they do, their reactions are shockingly tame. They don’t mind, as they want each other to be happy, which is fine for now, but we all know this arrangement is one that cannot possibly have a happy ending… right? More definitely so since Roz is actually married.

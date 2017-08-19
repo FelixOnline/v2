@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nick Farmer reports from Harlington, where RSM come from behind to retain the bottle
 date: "2015-03-06 14:02:53 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5353"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Matt Pike"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the fifth year running Imperial’s Royal School of Mines were victorious in the Bottle Match against Camborne School of Mines, held at the Harlington Sports Ground on February 21st. Teams from the two mining schools went head to head in badminton, squash, netball, hockey, football and rugby in a weekend-long event hosted by the RSM, with a large contingent of CSM supporters making the journey up from Cornwall by coach. Friday saw the squash and badminton matches, held at Ethos. While RSM dominated the squash 5-0, they were not so fortunate in the badminton, winning 3 games, but losing 6 and the match to a CSM side featuring several players who are allegedly no longer students. RSM were also unlucky in the netball, with a strong CSM team featuring a particularly tall goal attack pressing their advantage, and the match ending a 72-22 loss of RSM.

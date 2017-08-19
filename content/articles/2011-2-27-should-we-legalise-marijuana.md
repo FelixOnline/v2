@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As California attempts to decriminalise marijuana but Amsterdam tries to introduce new controls we debate the legalisation of weed
 date: "2011-02-27 12:31:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "900"
@@ -34,15 +35,6 @@ image_height: "453"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Yes – Chris Dillon__

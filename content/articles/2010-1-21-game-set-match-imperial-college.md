@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College take a decisive win!
 date: "2010-01-21 21:16:20 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "42"
@@ -33,15 +34,6 @@ image_height: "472"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Monday, Imperial won the first of their quarter-final matches against Edinburgh University in the latest episode of University Challenge. At this stage in the competition, Imperial needs one more win against Emmanuel College Cambridge to secure a place in the semi-finals.

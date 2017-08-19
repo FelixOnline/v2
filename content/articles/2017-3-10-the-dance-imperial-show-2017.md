@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There will be dance, there will be scantily clad dancers.
 date: "2017-03-10 14:41:35 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6887"
@@ -34,15 +35,6 @@ image_height: "1060"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Next week, for the third year in a row, all dancers at Imperial are going to come together and show that it is not wise to underestimate the motor skills of scientists and that it’s time to start thinking about taking dance classes to become just as light-footed as DI’s performers!

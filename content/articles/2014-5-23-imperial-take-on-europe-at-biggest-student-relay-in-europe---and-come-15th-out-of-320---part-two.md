@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After having been woken up by bright lights and house music at three o’clock in the morning, it’s safe to say that I was barely awake when me, Siân, Will and Sophie got into Sophie’s car at 05.45...
 date: "2014-05-23 14:19:06 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4625"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 [___Continued from last week’s issue___](../sport/4610/imperial-put-in-marathon-performance-to-place-15th-in-europes-largest-student-relay/)

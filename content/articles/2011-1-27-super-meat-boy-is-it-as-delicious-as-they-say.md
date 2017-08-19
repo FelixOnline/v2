@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Let’s not sugar-coat this, Super Meat Boy is balls to the wall hard
 date: "2011-01-27 20:23:59 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "692"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Three things are required to complete a game like _Super Meat Boy_ successfully: The first is a sturdy keyboard or controller, the second is a level of patience few devout Zen Buddhists can ever hope to attain and the third is more free time than your average Arts or Media Studies student. Whilst I’m rich enough to afford the first and lazy enough to possess the third, I sadly fall short on requirement two, and boy does it show when I play.

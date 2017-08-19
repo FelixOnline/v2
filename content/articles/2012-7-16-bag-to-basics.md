@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Get bag on trend with this selection of carrying paraphernalia
 date: "2012-07-16 12:03:13 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2586"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So summer has finally arrived and it’s time to pack up our precious belongings and start travelling. Whether it’s lugging a heavy laptop to the office, or, for those more fortunate, a chance to explore the world with SLRs slung around our necks, there’s no doubt that expensive pieces of technology are slowly swirling into the epicentre of our lives.

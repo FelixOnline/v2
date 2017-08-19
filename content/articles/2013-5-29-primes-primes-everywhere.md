@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3637"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mathematicians from the US, Hungary and Turkey just might be one step closer towards the impossible. One of the greatest problems in number theory is determining whether the number of prime tuples, prime numbers which lie very close to each other, is infinite. In short, “are there an infinite number of prime tuples which lie next to each other?”

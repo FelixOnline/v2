@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski presents an electic list of some of his favourite authors for you to check out
 date: "2014-06-12 13:27:19 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4680"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ### __Bolesław Prus__

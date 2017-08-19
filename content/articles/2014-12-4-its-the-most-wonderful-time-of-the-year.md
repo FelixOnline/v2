@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her top pick of upcoming festive activities in the UK
 date: "2014-12-04 19:01:49 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4991"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every Christmas holiday, people are often tempted to go abroad, whether to visit famous Christmas markets or enjoy the festive vibes of the country.

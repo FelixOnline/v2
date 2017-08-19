@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports from meeting that brands hall “an inefficient use of space”, but also supports cutting the prices of new halls in North Acton.
 date: "2015-02-12 21:56:48 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5240"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Union Council voted this week to support the closure of Weeks hall in order to transform it into space that could be used for childcare provisions for academics.

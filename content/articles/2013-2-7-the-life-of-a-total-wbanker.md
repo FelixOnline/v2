@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The City life ain’t all it’s cracked up to be, warns Adam Billing
 date: "2013-02-07 23:11:56 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3255"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You’ve finished your degree. You worked hard and you got the grades. The world is your metaphorical oyster. With your hard earned piece of paper you can do whatever your heart desires. So why do nearly a third of us end up working in the financial services?

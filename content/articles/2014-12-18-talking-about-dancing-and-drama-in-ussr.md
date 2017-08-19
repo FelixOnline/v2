@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Interview: Fred Fyles speaks to Bolt curator Alex Chirac
 date: "2014-12-18 16:22:52 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5077"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Q: How did you first hear about ___The Bolt___, and what made you want to run an exhibition on it?__

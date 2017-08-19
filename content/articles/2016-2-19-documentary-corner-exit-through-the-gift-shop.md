@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Banksy is cool!!1
 date: "2016-02-19 12:09:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5938"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Exit Through the Gift Shop PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week we had _The Imposter_ – a gripping documentary following a bizarre case of identity fraud and murder. The film was heavy with recreation scenes and utilised them to such an extent that it blurred the lines between documentary and feature drama. The documentary of choice this week continues the theme of mixing reality and fiction. The difference here is that it's kind of the point. In reality, _Exit Through the Gift Shop_ may not even be allowed to feature in this section, as it’s not really clear if it can really be called a ‘documentary’.

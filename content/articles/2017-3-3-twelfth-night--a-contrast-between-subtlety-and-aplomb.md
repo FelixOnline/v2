@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Twelfth Night is on at the National Theatre until 13th May
 date: "2017-03-03 15:16:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6845"
@@ -34,15 +35,6 @@ image_height: "2977"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Going into the National Theatre’s production of Shakespeare’s Twelfth Night, I was expecting a slightly less-conventional production. I was not wrong. Director Simon Godwin is certainly not afraid to show us that this is a modern play from the off, with a flashy display of a shiny car cruising onto the stage piled with Orsino (Oliver Chris) and his dapper entourage. One lady I spoke to noted that the production was ‘unorthodox’, which is saying something, considering just how outrageous the original play is in terms of the themes it addresses: much of Twelfth Night’s charm can be attributed to its storyline, centring around classic cases of mistaken identity and complicated, mutating love polygons, of which Shakespeare is undoubtedly a master of.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In response to ‘Yet another nail in the coffin of the student experience’ by George Butcher
 date: "2014-11-06 18:06:51 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4758"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Oh how trendy it is to decry the College for their financial decisions! Mind you, short of stating parallels with ‘Butcher of the Somme’, we can settle for glorifying an ambiguous term such as ‘student experience’ – nails in the coffin, I tell you! But do we try to view this topic from a rational perspective? I’m afraid the morality fever has permeated the campus a little too far for that – let’s hope I’m mistaken.

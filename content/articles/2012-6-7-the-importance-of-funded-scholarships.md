@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Not every student has the luxury of a healthy bank balance
 date: "2012-06-07 19:50:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2534"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Like an excitable kid on Christmas morning, A-level results day saw me up before dawn, frantically refreshing the beloved UCAS track page to see whether or not I’d cut the mustard. Unfortunately, I had to be up and at work early that morning, so couldn’t make it in to school to find out my exact results or jump into one of those coveted Guardian photographs (though I’m sure I lack the breasts and extra X chromosome to meet their criteria, anyway).

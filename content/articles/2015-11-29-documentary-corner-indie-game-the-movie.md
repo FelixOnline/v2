@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5779"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Indie Game: The Movie PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the last decade or so, the video game industry has seen a meteoric rise in success. Previously seen as a pastime for nerds alone, the medium is now as mainstream and popular as any other. A relatively new phenomenon is the concept of the ‘indie developer’; while game production was previously reserved for big-budget, AAA developers, the emergence of platforms such as Steam, as well as the downloadable stores on PlayStation and Xbox, now afford independents a shot at the market.

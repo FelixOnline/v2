@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Head over to the Sherfield building for a fantastic exhibition
 date: "2012-02-23 19:50:32 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2226"
@@ -33,15 +34,6 @@ image_height: "742"
 image_attribution: "Photos by Yilei Wu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you go down to the woods tonight you’ll be in for a surprise, as there will be a teddy bear’s picnic. Alternatively, if you go to the [Blyth Gallery](http://www3.imperial.ac.uk/arts/visualart/blythgallery) (fifth floor of Sherfield) you will find another surprise. It’s a shocking day for you, isn’t it.

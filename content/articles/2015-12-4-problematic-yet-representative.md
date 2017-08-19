@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anywhere else, there would be wild uproar, but Imperial has a different demographic
 date: "2015-12-04 15:15:08 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5794"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In an interview on IC Radio two weeks ago, our union president revealed a number of potentially problematic views. We all say things we later go on to regret; it’s symptomatic of the social media age. But, our union president chose to defend her contentious tweets, including one which some Imperial students might find offensive.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Graduate Tax is a model of higher education funding that shockingly involves students paying a tax in line with their income after graduation.
 date: "2014-06-06 02:43:11 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4660"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Graduate Tax is a model of higher education funding that shockingly involves students paying a tax in line with their income after graduation. Some models of graduate tax involve graduates paying a rate of tax until retirement, or for a certain number of years after graduation or until the cost of the degree is paid. For the sake of distinguishing this from a simple rebrand of our current model, I’ll argue for a rate of taxation until retirement to be sporting.

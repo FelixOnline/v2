@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Venue bars non-medic boat club after accusations of damage and disorder
 date: "2016-01-29 08:43:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5833"
@@ -34,15 +35,6 @@ image_height: "367"
 image_attribution: "Tripadvisor"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday, Imperial College Boat Club’s annual party ended early when students were chucked out for bad behaviour.

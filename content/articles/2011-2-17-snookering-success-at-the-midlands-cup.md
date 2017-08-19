@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The IC snooker team makes us proud
 date: "2011-02-17 20:42:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "849"
@@ -33,15 +34,6 @@ image_height: "711"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On the weekend 5th/6th February the ICU Snooker team descended on Coventry for the annual pre-BUCS warm-up; the Midlands Cup Tournament. After an eventful journey in which one player missed the train, the team arrived with high spirits. The 1st team consisted of experienced old heads whereas the 2nd team composed of enthusiastic Freshers and 2nd years who had worked their way into the team.

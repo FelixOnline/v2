@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After the sentencing of Gary Bolton, the man who had been caught selling fake bomb detectors to governments worldwide, comment editor Eoghan Totten wonders how the world's scientific minds could join to prevent this from occurring again.
 date: "2013-08-28 08:52:02 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3754"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "SWNS"
 image_attribution_link: "http://www.mirror.co.uk/news/uk-news/british-businessman-sold-golf-ball-1750300"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On August 20th 2013 Gary Bolton was dealt a seven year prison sentence for the sale of fake bomb detectors. His chief crime was classed as fraud, having pocketed up to £10,000 per unit.

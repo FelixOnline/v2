@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial and King's College singers take the stage
 date: "2011-11-24 22:26:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1834"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: "ITV"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If you were watching ITV closely this Saturday evening you may have seen some familiar faces. Members of the Imperial College Gospel Choir (ICGC) were featured giving it their all, with their best clicks, jazz hands and on Saturday evening’s live edition of _The X Factor_.

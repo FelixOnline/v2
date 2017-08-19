@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Editorial
 date: "2012-06-14 20:02:27 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2555"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 On the auspicious 125th anniversary of this magazine one is more conscious than normal of the burden history places on the editorial yoke of such venerable publications as Phoenix. I was initially impressed with all the doubts and uncertainties you might imagine when embarking on this foreword. However even the most cursory glance at the recent issues of this periodical makes one thing abundantly clear; at the risk of coining a cliché, the only constant is change. More precisely in this case what remains consistent is rebirth. Every modern volume of Phoenix in its annual format has been compiled by a new editor, bringing his or her unique vision. Perhaps if there is a second constant, it is boldness, as the editor of an annual, letters of complaint will probably not reach me. As they will have no effect it is doubtful that anyone would bother to write one. So I find myself somewhat emboldened. I am free to imprint these pages with my mark and leave. As Phoenix 2012 experiences its transient moment in the present, poised in its voyage between future and obscurity, I would be neglecting my duty if I did not launch my one broadside; sincere, possibly provocative and unashamedly pompous.

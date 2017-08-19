@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nobody knows what it is
 date: "2016-03-11 11:26:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6021"
@@ -34,15 +35,6 @@ image_height: "853"
 image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At this week’s union council a paper was tabled... on the problems faced by union council.

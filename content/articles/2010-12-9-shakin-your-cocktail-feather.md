@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman
 date: "2010-12-09 19:53:54 +0000"
+author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "511"
@@ -33,15 +34,6 @@ image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ac1507"
-author_name: "Afonso Campos"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the cold and dark winter draws swiftly around us there is but one thing to warm the cockles on a dreary evening. Cocktails, the perfect pick-me-up for pre or post-prandial pleasure. Imperial students, you’re now in the nexus of the UK’s cocktail scene, just down the road from the Savoy hotel where ‘The Savoy Cocktail Book’ was first compiled in 1930. If you’re sitting on a trust fund from Daddy that could have bailed out Iceland, then this is the place to be. However if like us your recession-frayed purse strings are tightening slowly around your neck, read on to enjoy cocktails on the cheap.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Let’s hope not, argues Rajvinder Virdee in this debate
 date: "2011-11-10 21:22:29 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1728"
@@ -34,15 +35,6 @@ image_height: "950"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 PwC, Deloitte, KPMG and Ernst and Young – better known collectively as the Big Four. The word ‘Big’ really doesn’t do them justice; enormous, gigantic and colossal are more appropriate adjectives. It’s hard to get a grasp of how big they are compared to other accountancy firms until you look at the raw figures.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anum Farooq is a little bit lost in nature, and recommends you should be too.
 date: "2011-11-10 20:43:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1719"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 How many moments have you actually lived? Or reflected upon, or marvelled… or just, been? Now, this is not some kind of hippy wisdom, this is an understanding of the world around us. Have you ever ran through rain puddles on a sunny day and seen a rainbow at your side? It might seem comical, but try it, and then we’ll see who is smiling. Tennyson personifies nature as an eagle:

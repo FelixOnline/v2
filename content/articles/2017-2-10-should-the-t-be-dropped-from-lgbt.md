@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Elizabeth Windo goes over a brief history of the T movement and discusses the place of transgender people within the queer community
 date: "2017-02-10 14:37:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6758"
@@ -34,15 +35,6 @@ image_height: "1062"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s easy to look from the outside at a pride parade and see a unified grouping of similarly minded people. But under this facade of togetherness, within the LGBT community lies a volatile mixture of groups that sometimes have radically different goals. An example of this is the recent push that has led some, particularly from outside the trans community, to question the place of the T in LGBT.

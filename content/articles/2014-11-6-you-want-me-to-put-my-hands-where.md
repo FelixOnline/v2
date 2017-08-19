@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alisha Wong tries out the newest circus class to hit Imperial
 date: "2014-11-06 21:15:13 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4798"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday, in typical gloomy and rainy weather, myself and eleven other Imperial girls from ICU Pole Dance trekked over to Hammersmith for the society’s very first Aerial ‘taster’ session.

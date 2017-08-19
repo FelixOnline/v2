@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Phillipa Skett writes about the latest findings in HIV research
 date: "2013-10-04 00:36:28 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3800"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "forcollegeandcommunity"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It is a drug whose users come from across all walks of life; from traders in the big cities to celebrities in the bathrooms, cocaine is a substance commonly associated with excess, confidence, and power. This week scientists also drew links between this Class A drug and something far less desirable; research conducted by University of California, Los Angeles (UCLA) has found that cocaine use may increase the possibility of successful HIV infection, and not just due to lifestyle choices alone.

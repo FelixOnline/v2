@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Poetry Café's Poetry Unplugged night is a nice idea, but ultimately a bit shit
 date: "2010-11-11 20:24:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "333"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Poetry Café is a sweet little place with a rather unattractive poetry night, [Poetry Unplugged](http://www.poetrysociety.org.uk/content/cafe/events/), on Tuesday evenings. Poetry Unplugged gives anyone the opportunity to read poetry in public. Amateur poets can read their poetry in public to an accepting audience. Unfortunately, the mix of amateur poets and nice audience members make for some truly terrible poetry. Any mildly good verse was quickly outshone by a host of overly emotional, unoriginal or simply crazy sonnets.

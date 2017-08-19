@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Alumnus Enrico Fantoni talks about his experience as a second year Chemist on an IAESTE placement.
 date: "2013-10-13 00:09:28 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3876"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IAESTE"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It was something as innocuous as an online search where I discovered the International Association for the Exchange of Students for Technical Experience - or IAESTE (eye∙ee∙es∙ta) –during my second year reading Chemistry at Imperial College London. I’d already considered a number of similar schemes, all offering undergrads the opportunity to work abroad for 6-12 weeks during the summer (sometimes a year) with full pay, but often only in business, language assistance, the tourism industry or with some other caveat or restriction.

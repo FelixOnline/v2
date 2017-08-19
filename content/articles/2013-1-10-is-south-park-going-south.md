@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl gets animated about the latest season
 date: "2013-01-10 22:57:25 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3099"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Like it or not, South Park is a cultural phenomenon, often quoted, reminisced about or each episode carefully dissected. The fact that South Park just finished its 16th season does nothing to lessen its appeal; in fact the show has now been extended to finish in 2016 bringing it to 20 seasons.

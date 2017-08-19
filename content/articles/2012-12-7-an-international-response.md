@@ -4,6 +4,7 @@ title: >
 subtitle: >
   International students reply to the fees
 date: "2012-12-07 00:03:28 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "3021"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Concerns have been raised about the [high fees that Imperial charges international students](http://felixonline.co.uk/news/2830/imperial-has-highest-international-fees/). The average (excluding medicine) yearly undergraduate international fee is over £24,000. This is greater than most UK other UK universities – UCL charges £18,500 a year for laboratory based subjects while Kings charges £17,800. The fees, however, are one par with Oxbridge, once their additional College fees are taken into account, and the most prestigious US universities – MIT asks students for $40,732, equivalent to about £25,580.

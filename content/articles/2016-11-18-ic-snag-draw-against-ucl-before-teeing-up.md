@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There was heavy breathing
 date: "2016-11-18 17:06:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6487"
@@ -33,15 +34,6 @@ image_height: "770"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The 9th of November saw the rugby 1st XV arrive at their ever windy fortress Harlington to face UCL. After a brief hiatus during the warm-up, the team were out for a few minutes before heading back into the changing room to slide on their ‘mysteriously moist’ playing shirts.

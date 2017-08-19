@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Website is “outstanding” says Deputy President (Education) Alex Dahinten
 date: "2011-06-09 20:57:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1345"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Physics students Deep Shah, Kin-Hing Lo, and Victor See have developed the ‘[Imperial Physics Wiki](http://rcsu.org.uk/physoc/wiki)’, a website which allows students to share lecture notes and past-paper solutions. The collaborative website is built upon the same technology behind Wikipedia. It’s fully integrated into the Imperial system, such as logins and email alerts, and by using open-source software, the whole thing hasn’t cost the department a penny.

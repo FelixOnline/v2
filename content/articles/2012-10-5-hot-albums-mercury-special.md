@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three totally awesome albums
 date: "2012-10-05 11:37:53 +0100"
+author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2600"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nn1209"
-author_name: "Navid Nabijou"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Alt-J (∆)

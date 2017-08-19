@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Film wishes a warm and happy birthday to England’s very own Kate Winslet, celebrating her 37th birthday today; and as a special thank you to one of the most talented actresses of our time, we look back at the highlights in the extraordinarily diverse career of a supremely gifted English actres
 date: "2012-10-05 12:09:20 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2611"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Powerful debut: Heavenly Creatures (1994):__

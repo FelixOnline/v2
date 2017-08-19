@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis.
 date: "2014-03-28 11:47:17 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4517"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis. The campaign aimed to improve public awareness regarding this. Its tagline portrayed how those with pancreatic cancer wished they had other types which have better survival rates and well researched treatment options hence the named ‘envy’ campaign. Kerry, a sufferer herself, said she honestly wished she had breast cancer. She pushed for pancreatic cancer to gain more attention and in consequence more funding for research to help people like her, which is definitely positive and to be applauded. However, the comparing of different cancers is a controversial concept, which evoked strong opinions, especially from those with the identified ‘preferable’ cancers like breast cancer.

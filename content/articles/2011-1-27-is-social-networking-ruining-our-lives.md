@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is the rise of Facebook and Twitter a positive or negative influence in the 21st century?
 date: "2011-01-27 19:58:46 +0000"
+author_id: "ann09"
 
 # Attributes from Felix Online V1
 id: "682"
@@ -34,15 +35,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ann09"
-author_name: "Alexandra Nowbar"
-author_image_path: "http://felixonline.co.uk/img/upload/201104240248-jk708-alex-nowbar-(custom).jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Ben Good– No__

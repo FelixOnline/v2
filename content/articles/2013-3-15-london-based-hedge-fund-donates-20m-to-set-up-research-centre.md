@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In Brief
 date: "2013-03-15 00:14:08 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3459"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A London-based Hedge Fund, [Brevan Howard](http://www.brevanhoward.com/), have decided to donate £20.1 million ($30 million) to Imperial College in order to set up a finance research centre after them.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   More than just an homage to early Spielberg films, J.J. Abram’s 2011 sci-fi adventure film Super 8 explores the relationships between families, and the tricky navigation teenagers must face as they start to leave childhood behind
 date: "2017-05-15 17:24:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6964"
@@ -33,15 +34,6 @@ image_height: "833"
 image_attribution: "aramount Pictures"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 J. J. Abrams’ sci-fi adventure Super 8 is a poetic tribute to early Spielberg films, taking us down the avenue of their childhood memories: shooting action films with neighbourhood friends on an 8mm format camera – known as the Super 8, it was first marketed in the 60’s as a user-friendly sound-recording camera. The film’s beautiful visuals are hard to ignore and coupled with an emotionally-stirring storyline, Super 8 succeeds in becoming more than a mere homage to Spielberg.

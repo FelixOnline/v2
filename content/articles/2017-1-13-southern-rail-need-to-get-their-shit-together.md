@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey just wants to be able to commute for less than five hours a day
 date: "2017-01-13 14:00:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6634"
@@ -34,15 +35,6 @@ image_height: "1094"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There were train strikes this week, you might have heard. No, not the tube strikes, they happen like once a year; you can take a bus for a day, get over yourself, no one cares. I’m talking about Southern Rail, whose staff are on strike for three days this week, causing a genuine total shutdown of all services.

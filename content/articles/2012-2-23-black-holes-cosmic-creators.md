@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New insights into mysterious black holes
 date: "2012-02-23 20:46:05 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2244"
@@ -33,15 +34,6 @@ image_height: "1770"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the 1930s, soon after Einstein came up with his equations on general relativity, [Karl Schwarzchild ](http://www-history.mcs.st-and.ac.uk/Biographies/Schwarzschild.html)developed a solution that predicted what became known as a black hole. Essentially a mass compressed into such a small volume that its gravitational pull is literally irresistible; not even light is fast enough to escape. But then you already knew that.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Design Collective talk about their sessions on creativity
 date: "2012-10-11 20:46:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2653"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 What if the word “career” meant “fun”, “passion”, and “entrepreneurship”, instead of “oil-platform”, “finance”, or “academia”? We want to show a different set of doors the education at Imperial College unlocks for you far from the obvious and spineless paths Imperial’s flocked careers fairs hold. Imperial College Design Collective (ICDC) demonstrates how knowledge acquired at Imperial can be applied in all design fields.

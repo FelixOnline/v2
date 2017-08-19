@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-03 14:21:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1324"
@@ -34,15 +35,6 @@ image_height: "3240"
 image_attribution: "Ben Scally"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 All four of the officers accused of assaulting Babar Ahmad in 2003 have been acquitted this morning at Southwark Crown Court. Detective Constable John Donohue said that he was "relieved" by the jury's decision. The officers' solicitor Colin Reynolds said that "they are hoping to put these unfounded and unsubstantiated allegations behind them."

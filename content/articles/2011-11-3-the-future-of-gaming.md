@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1678"
@@ -33,15 +34,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Interested in how gaming got to where it is today? [See our companion article here!](http://felixonline.co.uk/games/1667/gaming-through-the-ages-when-this-baby-reaches-88-miles-per-hour/)_

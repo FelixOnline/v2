@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matthew Colvin reports on what prevents students from taking to the streets
 date: "2011-11-17 21:12:18 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1771"
@@ -34,15 +35,6 @@ image_height: "2736"
 image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The past year has seen student activism reach previously unmatched levels. Just over a year since the first major protest against the Coalition Government’s policies on higher education, the past week has seen another take place on the streets of London. Organiser for the National Campaign Against Fees and Cuts Michael Chessum has announced a further day of action next week on November 23.

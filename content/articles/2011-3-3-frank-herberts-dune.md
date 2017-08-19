@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Frank Herbert wrote six Dune novels; read the first and forget the rest
 date: "2011-03-03 20:36:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1012"
@@ -34,15 +35,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’ve done very few book reviews over the past few weeks so I thought that I’d remedy this today by reviewing one of the most well known and respected series of science fiction novels: Frank Herbert’s Dune.

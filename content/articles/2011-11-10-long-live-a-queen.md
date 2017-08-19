@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maintaining a misogynist monarchy
 date: "2011-11-10 20:18:00 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1710"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "flickr/incurable_hippie"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A couple of weeks ago, at the Commonwealth summit in Perth, the sixteen leaders of countries where Elizabeth II is head of state unanimously agreed to change the succession laws to give women equal priority as men. This means should the Duke and Duchess of Cambridge (aka Wills and Kate) have a daughter before any sons, she will be eligible for the throne before her younger brothers. It will also allow any monarch, or anyone else in the succession line, to marry a Catholic without losing their right to the throne. A retroactive clause has been added to prevent hundreds of pretenders to the throne from emerging.

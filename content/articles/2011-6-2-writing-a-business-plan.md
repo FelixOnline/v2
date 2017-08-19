@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1304"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "betadaily.com"
 image_attribution_link: "http://www.betadaily.com/2010/02/07/professional-business-plan-writer/"
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 If you are a young, aspiring entrepreneur, with an idea that will earn you millions (or at least enough money to pay for drinks on a night out), you are likely to eventually receive a speech from an older, more experienced entrepreneur on the importance of writing a business plan. A business plan describes the business, its objectives, its strategies and its market, allowing you, the entrepreneur, to give answers to the questions you are bound to have.

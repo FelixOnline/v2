@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hodgson comes to London with a heartfelt and hilarious story of growing up, betrayal by professional athletes, and redemption.
 date: "2015-11-12 11:34:57 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5716"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 2003 a young, frail lad from West Yorkshire had only one idol, the great Lance Armstrong. Inspired by the serene, omnipotent cyclist come lying bastard, Kieran Hodgson is taking the world by storm with his completely honest, unadulterated, dope-free journey. Fun and easy-going, Hodgson’s set is smooth and simple, effortlessly offering his joyous accounts of cycling’s favourite bad guy.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They joined 10,000 others protesting against cuts to maintenance grants
 date: "2015-11-06 13:32:53 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5696"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wednesday saw 10,000 students, including several from Imperial, march for free education. The protest was organised by the National Campaign Against Fees and Cuts. Kieran Ryan (pictured) organised the Imperial bloc, which included the union’s elected Deputy President of Welfare and campaigns officer.

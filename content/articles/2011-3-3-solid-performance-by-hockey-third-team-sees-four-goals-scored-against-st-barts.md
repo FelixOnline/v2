@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Men’s Hockey: Imperial 3s 4 - 0 St. Barts
 date: "2011-03-03 21:34:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1029"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Men’s 3’s overcame the odds to produce a sterling performance to embarrass St Bart’s 2s. Quick play mixed with characteristic flair saw the 3s put 4 past a solid Bart’s team.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles and Kamil McClelland give five overlooked artists that you should know about
 date: "2015-01-31 19:04:23 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5170"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Aboudia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Cyprien Tokoudagba is quite simply my favourite contemporary African artist yet hardly known outside a very small group of art consumers, left in the wake of the well established El Anatsui and Ablade Glover. Unlike the stereotypical loud, busy and somewhat overwhelming African art, Tokoudagba draws from influences other than the continent’s rapid urbanisation and explores aspects of the region’s rich cultural and spiritual history. Harking from Benin, the home of _Vodun_ (voodoo) and the powerful Kingdom of Dahomey, the sculptor and painter established his career as a restorer of traditional royal palaces and temples and hence had unprecedented access to the dying traditions of the Fon people. Creating surreal works steeped in _Vodun_ symbolism, his works leave you with a sense of unease, haunting, as if left in a trance by the creatures suspended on the cream background. His works paint a different picture of Africa, one of its too often overlooked history, as opposed to its perceived present of corruption, war and famine.

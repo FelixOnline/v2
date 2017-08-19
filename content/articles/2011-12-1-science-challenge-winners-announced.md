@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists gather at The Gore Hotel to receive awards
 date: "2011-12-01 21:35:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1896"
@@ -34,15 +35,6 @@ image_height: "533"
 image_attribution: "Maria Han Veiga"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Royal College of Science Union](http://rcsu.org.uk/exec/) (RCSU) held a formal dinner for alumni and the Science Challenge 2011 winners on Thursday 24 November. The Science Challenge competition is an annual, national scientific essay writing competition aiming to encourage scientific debate, reasoning and the communication of science in a public-friendly context.

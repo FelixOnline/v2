@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Katy Sayer discusses why Council need to change their mind about campaigning against closing Weeks
 date: "2015-02-19 23:49:44 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5274"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Weeks Hall was kindly donated to Imperial by British engineering firm Vickers in 1959 to be used as affordable undergraduate accommodation. Ungratefully, College have now rejected this generosity and plan to make “more efficient” (i.e. more profitable) use of the space.

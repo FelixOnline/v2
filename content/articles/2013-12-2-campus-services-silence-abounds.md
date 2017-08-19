@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Do Campus Services truly care about their stakeholders?
 date: "2013-12-02 12:33:51 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4145"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 One week further into the confusion over cleaning in halls and Campus Services has yet to reply to the questions sent to them by Felix over two weeks ago, begging the question: Does the department feel any obligation to providing its stakeholders with satisfactory information? We now approach the end of the first term of the academic year, and for some students there is still confusion over their cleaning rotas, and some would still like to see some token of apology from the department in regards to the poor communication that has gotten so out of hand.

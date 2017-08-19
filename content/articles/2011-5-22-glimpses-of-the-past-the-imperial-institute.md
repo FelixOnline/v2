@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A look at our campus as it once was
 date: "2011-05-22 12:23:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1239"
@@ -34,15 +35,6 @@ image_height: "3324"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When construction began on the grand Imperial Institute in 1887, fears were already being expressed that it would turn into a wasteful white elephant. Barely a year later, in fact, Thomas Henry Huxley had already pronounced the monumental project ‘a failure’. But when Rector Sir Patrick Linstead decided to tear the building down over half a century later, he was met with public outrage. At the time, it was reported that the decision to demolish the Institute was partly because its ‘architecture would be “difficult to reconcile” with the new science buildings’.

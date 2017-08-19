@@ -4,6 +4,7 @@ title: >
 subtitle: >
   United Nations gave him an award, and he got fired...
 date: "2012-11-09 14:06:31 +0000"
+author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2867"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sh1207"
-author_name: "Simon Hunter"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "simonhunter28"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two weeks ago Terry Callier’s name was added to the ever increasing list of great soul artists who are no longer with us. Callier, born in 1940’s Chicago released his first record in 1968 to little commercial success. This was followed, in the first half of the 70’s, with two more albums, including the brilliant What Colour is Love. Again, despite being critically acclaimed, little commercial success followed. While Callier toured with the likes of Gil Scott-Heron and Jerry Butler he struggled to join them at the top of billboards. Two releases later and into the early 1980’s Callier retired from music to concentrate on bringing up his daughter.

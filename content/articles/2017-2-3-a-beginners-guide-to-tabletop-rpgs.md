@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Henry Wild gives you the know-how on how role-playing games work, as well as his recommendations on how to begin your first adventure
 date: "2017-02-03 17:33:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6732"
@@ -34,15 +35,6 @@ image_height: "673"
 image_attribution: "Benjamin Esham"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So you want to learn how I’ve slaughtered dragons, conquered galaxies, and made my legend? Well, you’re in the right place.

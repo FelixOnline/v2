@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stem cell donation drive hits SAF today
 date: "2016-01-22 12:48:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5831"
@@ -34,15 +35,6 @@ image_height: "960"
 image_attribution: "match4lara campaign"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Today, the Anthony Nolan branch at Imperial is running a bone marrow drive in an attempt to find a match for a Thai-Italian student,  the 24 year old Lara Casalotti, who has been diagnosed with leukaemia.

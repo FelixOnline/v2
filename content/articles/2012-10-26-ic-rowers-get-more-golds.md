@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Sullivan puts you in awe of the rowers at the Diamond Jubilee Regatta
 date: "2012-10-26 02:58:01 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2761"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Diamond Jubilee Regatta was held over the weekend of the 20-21st October at the scene of the summer’s Olympic rowing frivolities, Dorney Lake. The prospect of a major 2 kilometre sprint event just three weeks into the autumn term struck fear into even the hardiest IC rower. However, despite the shock to the system, it turned out to be a hugely successful event. Imperial College Boat Club arrived in force, storming their way up the medal table and finishing second in the Victor Ludorum at the end of the weekend.

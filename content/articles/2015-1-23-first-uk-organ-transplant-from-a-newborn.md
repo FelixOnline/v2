@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Bezer on the new procedure performed at Imperial
 date: "2015-01-23 17:46:30 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5135"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The UK’s first organ donation from a newborn baby has been performed at an Imperial College NHS Trust hospital.

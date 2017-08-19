@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With twice as many respondents as the year before, Felix brings you another snapshot of the sexual lives of Imperial students – now with more statistical relevance
 date: "2012-03-01 22:17:01 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2285"
@@ -34,15 +35,6 @@ image_height: "2363"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The number of respondents we had to the sex survey this year has been almost overwhelming. 1063 of you replied, and only about 20 of them as far as we could tell were blatant trolls (thank you guys btw for making us laugh).

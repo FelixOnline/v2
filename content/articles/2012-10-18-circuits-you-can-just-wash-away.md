@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "The structure successfully dissolves at both body and room temperature"
 date: "2012-10-18 21:19:06 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2700"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A well-known property of modern silicon-based electronics is their resilience to change: a printed circuit board (PCB) doesn’t dissolve, and only melts at high temperatures. However, following research recently published in Science, this may no longer be the case, with the production of a complimentary metal-oxide semiconductor (CMOS) that can physically disappear at the end of use.

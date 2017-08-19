@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman sees Brandon Flowers command the Brixton Academy stage
 date: "2015-05-29 12:19:33 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5587"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Brian Rasic/Redferns"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Brandon Flowers__ going solo has always been an interesting proposition, begging the question: when it comes to __The Killers__ and everything they’ve done, how much of their sound is down to him?

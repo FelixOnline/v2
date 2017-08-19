@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Padraic Calpin looks at the parallels in this Egyptian government and the last
 date: "2013-02-07 23:15:25 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3256"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 January 25th 2013 wasthe second anniversary of the Egyptian protests that led to the fall of the autocratic regime of Hosni Mubarak. Tahrir Square was once again filled with protesters, their anger now directed at the current elected President Mohamed Morsi, and the police who are accused of excessive violence in a series of clashes in recent months. Two years on, Egypt still seems to be on a precipice.

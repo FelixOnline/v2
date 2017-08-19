@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park finds A Place in the Sun
 date: "2013-02-12 18:23:48 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3290"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A Place in the Sun shows the tragic fall of a man who strived to gain everything in life: wealth, power, class, love, and ultimately, happiness. He worked hard; very hard in fact, since he had to work all the way up from the bottom of the corporate foodchain. A little misunderstanding jeopardises everything and in a heart-beat, the man is left with nothing. It shows us the fragile nature of objects around us, mirroring our very own human emotions.

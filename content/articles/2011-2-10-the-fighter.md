@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Passionate and cool: not just another film about boxing...
 date: "2011-02-10 20:48:17 +0000"
+author_id: "jl4310"
 
 # Attributes from Felix Online V1
 id: "784"
@@ -33,15 +34,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jl4310"
-author_name: "Jacob Lea-Wilson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jakeisrowing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do we really need another boxing film? Can anyone make a film that will better the much loved Rocky? Or a film that is as aesthetically pleasing as Raging Bull, which has the reputation of being so beautiful that each frame could be hung on a wall as a piece of art? Will we ever see a true story documentary as thrilling and as exciting as Rumble In The Jungle? The trailer for The Fighter leaves us guessing.

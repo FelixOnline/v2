@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kickstarter is one of many crowdfunding options for budding creators, looking to shake up the world of cinema
 date: "2016-04-29 10:38:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6100"
@@ -33,15 +34,6 @@ image_height: "520"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Struck by lightning and bitten by a cobra, Kung Fury is a kung-fu freak of nature and the chosen one. Working as a cop on streets drenched in neon and soaked in synth pop, he defends 1980’s Miami. Enter Adolf Hitler, A.K.A. the Kung-Führer. On a temporal murder spree to prove his supremacy, Hitler must be stopped. With the help of his friends Hackerman, Triceracop (it’s exactly what you think), and the Norse god Thor (to name but a few) Kung Fury must travel back in time to defeat the Third Reich and take down the worst criminal in history.

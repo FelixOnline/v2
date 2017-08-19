@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Surely the overwhelming critical success of Breaking Bad could have set up Aaron Paul for a better cinematic role than this one. He has won two Primetime Emmys, and yet one of the first roles he manages to land is in a video game adaptation...
 date: "2014-03-26 13:43:53 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4502"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Need for Speed

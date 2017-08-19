@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This unpolished gem is well worth a watch
 date: "2016-01-29 09:31:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5848"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "American Movie PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s not often you see a documentary split opinion in such a love-it-or-hate-it fashion. I suppose that is something that comes with ‘cult film’ territory, and personally, when I think of the label of ‘cult classic’, _American Movie_ is the first film that comes to mind. The star here is Mark Borchardt – an amateur filmmaker who has spent his whole life trying to inspire his family and slacker friends to fund, star in, and help produce a short horror film ‘_Coven_’. He does this in order to garner interest and money, eventually allowing him to produce his magnum opus ‘_Northwestern_’.

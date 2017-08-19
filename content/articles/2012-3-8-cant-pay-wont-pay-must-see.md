@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope reviews DramSoc's most recent production
 date: "2012-03-08 20:29:34 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2316"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Once more I managed to wangle my way into watching __DramSoc__’s second spring term production, _Can’t Pay? Won’t Pay!_, Nobel laureate Dario Fo’s 1974 farcical comedy, involving pseudo-pregnant woman, confused husbands and a suspiciously similar-looking string of police inspectors and undertakers. I was promised a barrelful of laughs, and I certainly didn’t leave empty handed.

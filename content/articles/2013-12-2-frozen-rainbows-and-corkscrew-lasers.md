@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Professor Ortwin Hess speaks to Keir Little about his research
 date: "2013-12-02 21:55:23 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4158"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Ortwin Hess is known for the ‘trapped rainbow’ principle, but this is just one step towards his exciting vision for metamaterials. “It stops light,” he says about it, “so the only thing it can do is ‘lase’ energy off its surface. Why is this different to a good old normal laser? It doesn’t have a cavity and is about a factor of ten thinner. You could include this in integrated circuits.”

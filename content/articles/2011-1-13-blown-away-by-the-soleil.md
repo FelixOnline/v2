@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Think Pocahontas, but on adrenaline
 date: "2011-01-13 19:22:57 +0000"
+author_id: "dhl106"
 
 # Attributes from Felix Online V1
 id: "564"
@@ -34,15 +35,6 @@ image_height: "5153"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "dhl106"
-author_name: "Dana Li"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Totem. Avid Inception fans will immediately think back to the object with which Dom Cobb differentiates between the real and the imaginary. Did it or did it not stop spinning? That is the question. For other Londoners, however, Totem signifies the latest touring Cirque du Soleil show at the Royal Albert Hall. I was lucky enough to win a pair of tickets for the show’s premiere on January 5th and, although I failed to rub shoulders with the celebrities in the stalls, I was blown away by the tremendous performance.

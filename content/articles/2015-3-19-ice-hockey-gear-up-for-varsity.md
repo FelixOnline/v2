@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tonight the Imperial Devils face the UCL Yetis
 date: "2015-03-19 23:47:08 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5410"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IC Hockey"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tonight, the Imperial Devils Ice Hockey team take on the UCL Yetis in the 3rd annual “London Ice Varsity”. The Devils will be eager to retain their unbeaten record, having triumphed two years in a row so far.

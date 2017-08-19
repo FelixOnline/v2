@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky discusses the issues in the 2015 elections
 date: "2014-11-14 20:31:03 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4870"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the 2015 election, one of the largest issues will be the size of the Government. People are asking questions, such as “what should the Government provide?”, and “how much control should the Government have in our lives?”. These questions split the political parties, with Conservatives generally in favour of having a smaller Government, and Labour in favour of a larger one. Parties have a spectrum of answers to this question.

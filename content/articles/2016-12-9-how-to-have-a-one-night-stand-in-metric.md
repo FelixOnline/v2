@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I know this says that this is about Metric, but really it could apply to any place, at any time, with any person.
 date: "2016-12-09 16:14:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6591"
@@ -33,15 +34,6 @@ image_height: "820"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 1 | Preparation

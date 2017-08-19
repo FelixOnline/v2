@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Improvements on previous nanotechnology research reach new levels
 date: "2012-05-10 20:39:45 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2453"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A mass sensor has been developed by a group of Spanish scientists, lead by Julien Chaste from the Catalan Institute of Nanotechnology, capable of weighing individual molecules, atoms, and even protons.

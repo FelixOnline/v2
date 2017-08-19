@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX reviews Maitre Choux, a snazzy patisserie in South Kensington
 date: "2016-05-13 09:34:05 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6165"
@@ -33,15 +34,6 @@ image_height: "1024"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Engineers are pretty obsessed with matrices.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles heads to the Barbican, where they are currently celebrating the work of Samuel Beckett, to watch Lessness and Waiting for Godot
 date: "2015-06-09 11:59:52 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5605"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Lisa Tomasetti"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The great Irish dramatist and writer Samuel Beckett, whose oeuvre the __Barbican Centre__ are celebrating through the month of June, said that he wrote because writing was all that he was good for. Far be it from me to disagree with him, but the man greatly misestimated his talents. Beckett’s writing does not really exist in the realm of the written word; instead, what he was exceptionally talented at was creating an atmosphere. His works may be endlessly interpreted by generation upon generation of scholars, eager to eake out more and more meaning from every syllable, but it is upon the stage that his words really come to life, forcing us to sit up, pay attention, and be awed.

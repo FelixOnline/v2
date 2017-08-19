@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They're not likable, they're not strong and independent, they're real
 date: "2016-11-01 00:02:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6375"
@@ -33,15 +34,6 @@ image_height: "2000"
 image_attribution: "Lane Savage // Comedy Central"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was during the last US Presidential Debate that Donald Trump muttered ‘what a nasty woman’ Hillary Clinton was, the latest of Donald Trump’s transgressions. Minutes after the debate had finished, Twitter was ablaze with women reclaiming the insult. Elizabeth Warren made ‘nasty women’ the centre of her speech stumping for Hillary Clinton, and Samantha Bee, the only female host on late night comedy in America wore a ‘nasty woman’ T-shirt to host this week’s episode of Full Frontal with Samantha Bee.

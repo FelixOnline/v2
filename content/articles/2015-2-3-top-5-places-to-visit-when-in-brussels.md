@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her favourite spots in the capital of Belgium
 date: "2015-02-03 14:11:50 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5181"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Only a two hour train ride away is the dazzling city of Brussels, full of gastronomical and architectural treasures. The capital of Belgium is known to be small, but the three days I spent there wasn’t enough to visit everywhere I wanted to – though if you go all out on the transport, you might be more fortunate than me! Here are my top five favourite places – though they are more like a concentrated area of sights – in the historical city:

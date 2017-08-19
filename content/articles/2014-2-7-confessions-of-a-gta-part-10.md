@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Talking to MSc students can be highly disconcerting
 date: "2014-02-07 05:10:00 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4361"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 For most of my time as a GTA here, I have stuck very securely to the undergrads. These are people I may not always like but at least I know where they are coming from. I have been there. I have experienced the peaks and troughs (or more likely deep underwater trenches) of undergrad life. With the MScs, however, it is different. They make more exotic and hard to find GTA work than 3rd year undergrads. Their courses are an awful lot smaller (lowering their sighting chances) and they are only taught by certain departments (lowering the habitats). Due to their rarity they also hang around in one big group and when threatened by countless undergrads generally stake out some sort of back room not many people know about and claim it as theirs. As my supervisor is not really involved with them, I had assumed that was that for me, but somehow early this term I talked my way into one. I was not really sure what to expect, but prepped the notes as usual, on the, um… night before.

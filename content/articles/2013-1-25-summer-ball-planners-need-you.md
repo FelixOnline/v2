@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ents Working Group to be held on Friday 1 February
 date: "2013-01-25 01:19:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3176"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A meeting of the Ents Working Group, chaired by [Stefan Nubert, Deputy President (Finance & Services)](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/stefan-nubert), is due to be held on Friday 1 February at 12:30 – 1:30 pm. The group is set to convene in order to consolidate a budget for future events orchestrated by Ents, including the prospective 2013 Summer Ball. All students are welcome to attend and sit in session. A draft budget is said to have been written but is open to modification (barring meeting charges). Students attending the session are invited to have an active input and submit any suggestions as appropriate. Budget finalisation will take place over the coming month of February. The current draft budget hopes to give a bar tab of over £22,000.

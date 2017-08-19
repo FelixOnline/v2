@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Space to be replaced by study area
 date: "2017-06-02 12:45:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6985"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Electrical and Electronic Engineering library, one of only a handful of departmental libraries remaining in the South Ken Campus, will be turned into a study space over the course of the summer. Departmental Facilities Manager for the EEE department, Andy Paice told felix that following consultations with the students and as part of a larger development taking place at the EEE building the teaching office will be moving where the EEE library currently resides, and the vacant space will be turned into a study area.

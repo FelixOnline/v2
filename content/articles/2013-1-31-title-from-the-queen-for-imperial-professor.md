@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One of only twelve in the UK
 date: "2013-01-31 22:34:04 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3198"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London’s Faculty of Engineering has been awarded a rare honour from Her Majesty the Queen to mark the Diamond Jubilee. The title is Regius Professor, and only two have been awarded in the past 100 years.

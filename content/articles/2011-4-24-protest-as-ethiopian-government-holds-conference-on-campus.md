@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Network Against Injustice and Repression in Ethiopia stage demonstration outside Sherfield
 date: "2011-04-24 10:55:01 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1133"
@@ -34,15 +35,6 @@ image_height: "2736"
 image_attribution: "Ben Scally"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Chaos broke out at a demonstration held on campus when a fire alarm was triggered and forced hundreds of students to evacuate the central library. The demonstration was in protest at an Ethiopian government conference being held in the Great Hall on Saturday 16th April. In the confusion that followed the alarm, protesters breached police barriers and attempted to storm the Sherfield building.

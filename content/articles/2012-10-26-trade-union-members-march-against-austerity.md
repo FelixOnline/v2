@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “I’ve never even kissed a Tory, why should I be fucked by one?”
 date: "2012-10-26 02:14:51 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2737"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The sea of people ruining everyone’s travel plans around London on October 20th were the trade unionists marching against the government’s cuts to services. Teachers, nurses, fire-fighters, professors, factory workers, politicians, actors, and many more – all there to oppose what they saw as damage being done to ordinary people’s lives and the economy.

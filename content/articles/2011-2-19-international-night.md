@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And the winner is... Cypriot Society!
 date: "2011-02-19 15:55:07 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "857"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Last Friday, 11th of February at 7:00 p.m, the Great Hall of Sherfield Building was packed from Imperial College students, friends, parents and staff. The reason? One of the most entertaining and full of fun event that is organized annually by the Imperial College Overseas Societies Committee; the International Night 2011!

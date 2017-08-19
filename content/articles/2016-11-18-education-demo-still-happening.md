@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ...despite the Higher Education and Research Bill ammendments
 date: "2016-11-18 14:30:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6457"
@@ -33,15 +34,6 @@ image_height: "1034"
 image_attribution: "Chatham House"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A march for education is taking place on Saturday the 19th of November in London, where students and academics will be protesting budget cuts, tuition fee rises and increases of student debt.

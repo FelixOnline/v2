@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial just behind LSE, but green wise, are lagging behind
 date: "2013-05-02 13:51:58 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3537"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London have come fourth in the 2014 Complete University Guide league table. This is the same spot that Imperial occupied last year. Cambridge (pictured) came top, with Oxford second and LSE third.

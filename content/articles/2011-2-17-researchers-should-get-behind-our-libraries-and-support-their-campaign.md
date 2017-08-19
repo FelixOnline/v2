@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The zeitgeist has changed irrevocably. University libraries have understood this; it is essential that researchers and publishers do the same.
 date: "2011-02-17 20:15:50 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "836"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Universities are facing a drastic funding shortfall. As Felix [reported last week](http://felixonline.co.uk/?article=766), the Higher Education Funding Council for England has announced that it will be cutting the money that it gives to universities by almost £1 billion for 2011/12. These cuts could affect all areas of a university’s activities, and it will be up to individual institutions to decide what to prioritize. Even though fees of £9,000 will go some way to plugging the shortfall in funding, austere times lie ahead of us.

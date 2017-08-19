@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Jazz Café, 5th November 2010
 date: "2010-12-02 21:04:47 +0000"
+author_id: "rm1709"
 
 # Attributes from Felix Online V1
 id: "485"
@@ -34,15 +35,6 @@ image_height: "655"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rm1709"
-author_name: "Rishi Mistry"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A week ago I unexpectedly stumbled across [Botown](http://www.botown.co.uk/), a band promising reborn Bollywood grooves with a funk soul twist. I’ve never considered placing these music genres together, especially as their roots lie half way around the world, but the prospect of a night in the Jazz Café with a new take on funk and soul was something I couldn’t pass on.

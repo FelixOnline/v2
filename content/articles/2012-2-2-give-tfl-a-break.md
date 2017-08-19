@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa risks online censoring and defends Transport for London
 date: "2012-02-02 23:35:55 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2112"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 "Ah sorry I’m late, fucking Transport for London” – the familiar refrain uttered by thousands of Londoners every day. I mean it was obviously a failure of the bastards that you couldn’t make it to drinks/lectures/sessions of parliament on time. Right?

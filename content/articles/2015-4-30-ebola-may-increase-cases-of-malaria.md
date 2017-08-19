@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5473"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The most recent findings from the Medical Research Council (MRC) Centre for Outbreak Analysis & Modelling has predicted an extra 3.5 million cases of malaria as a result of the epidemic. Researchers based at the Centre have also found that the disease hits those under one year of age hardest, with 90% of those infected dying shortly after.

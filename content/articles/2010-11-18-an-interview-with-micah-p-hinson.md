@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Daniel Oppenheimer grills the enigma that is...
 date: "2010-11-18 20:34:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "388"
@@ -33,15 +34,6 @@ image_height: "1181"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Micah P Hinson’s music combines lyrical wisdom beyond his twenty-nine or so years with the kind of deep, reassuring voice your dad might use to read bedtime stories to you in. Hailing from Abilene, Texas he is often introduced as ‘the guy who dated the Vogue model and went to prison for forging prescriptions,’ but in person, he comes across as incredibly articulate, grounded and open. Since 2006 he has brought out several EPs and five albums the most recent of which, Micah P Hinson and the Pioneer Saboteurs, just released.

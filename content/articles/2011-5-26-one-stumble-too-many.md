@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Bowers asks if Google may be losing its innovative edge
 date: "2011-05-26 19:02:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1253"
@@ -34,15 +35,6 @@ image_height: "3508"
 image_attribution: "Elizabeth Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Google – a name we all know. I’m sure that the majority of you use one of the internet giant’s services on a near-daily basis. They of course burst into popularity with the now almost ubiquitous search engine, and have since made inroads into many areas of our digital lives. So their annual [Google I/O](http://www.google.com/events/io/2011/index-live.html) event would usually have technology buffs salivating over what exciting new technologies may be announced. However, this year’s event may not have been so widely anticipated, especially with some of their releases in the last couple of years having a less than pleasing reaction.

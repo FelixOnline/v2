@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An election only works if people actually know about it, says Philip Kent
 date: "2011-12-08 22:17:21 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1953"
@@ -34,15 +35,6 @@ image_height: "883"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Did you know that voting for First Year Entertainments Committee Members opened last week? Nope, me neither – until it was pointed out to me. In fact, for that matter, I never knew that you could stand for it!

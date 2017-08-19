@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aki Matsushima compares the giants of the meat world
 date: "2011-03-21 10:49:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1118"
@@ -33,15 +34,6 @@ image_height: "1167"
 image_attribution: "Lost in Cheeseland"
 image_attribution_link: "http://www.lostincheeseland.com/2010/08/good-eats-in-london.html"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This year, it's all about meat in the London restaurant scene. Hot new arrivals include pop-up joint [#Meateasy](http://www.themeatwagon.co.uk/) (New Cross) serving minced 28 day aged chuck steak burgers, Philly cheesesteaks and other North American grill classics. Satisfying our pure, primitive desire to eat meat provides the comfort that lets us forget about the grim times we're in. Aside from the new faces, capitalist London is full of legendary gastronomic rivals who strive to outdo each other in nothing other than preparing the most exquisite meat. So where's the beef?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Indira Mallik takes a tour of artistic history at the National Gallery
 date: "2015-03-25 13:17:16 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5447"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "National Museum of Western Art, Tokyo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s not often that exhibitions are staged in celebration of art collectors. Perhaps it feels more like honouring the monetary value of the work than its impact, but _Inventing Impressionism_ at the __National Gallery__ shows how focussing on the collector can sometimes be a stroke of genius. The exhibition showcases the work of Renoir, Monet, and Degas amongst others through the life of Paul Durand-Ruel, a French art collector who is credited with championing the work of the Impressionists when contemporary reviews were mostly hostile.

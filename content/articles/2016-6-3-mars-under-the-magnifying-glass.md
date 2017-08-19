@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How new super resolution imaging technology can help mankind reach for the stars
 date: "2016-06-03 09:17:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6235"
@@ -33,15 +34,6 @@ image_height: "750"
 image_attribution: "Yu Tao and Jan-Peter Muller, UCL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I get angry waiting for Google Maps to load on my iPhone and I tell this to Jan-Peter Muller, Professor of Image Understanding and Remote Sensing at the Department of Space and Climate Physics at UCL. He looks as if he’s experienced a similar thing. “If you think 3G or GPRS is bad, try processing an image of Mars”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are there any greater joys of a modern existence than the Reduced Price section of a supermarket?
 date: "2011-01-13 21:09:28 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "588"
@@ -33,15 +34,6 @@ image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Christmas has now come and gone, hopefully fulfilling its promise as a time of goodwill to all people. According to A Christmas Carol, it is a time when rich people should have been kind and generous to the poor as, statistically at least; many of them are people too!

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society...
 date: "2013-10-11 23:45:19 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3831"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Ever since I was little I dreamed about becoming a teacher and taking care of kids within and beyond a classroom. I strongly believed that good teachers were the leaders of tomorrow and that they were a key element to a strong society. Ask yourselves this question: Would you be here without the one inspirational teacher who believed in you and pushed you to the top? I know that I would not. My parents moved me around a lot when I was little and I was educated in French my whole life. When they decided to put me in an International school aged sixteen-where the main language was English-I started to give upon my big dreams of making it to a prestigious university in France. I was convinced that I would never have sufficient grades to apply where I wanted (as my English was really poor). My literature teacher believed in me from the start, pushing me to apply to even more prestigious universities; they were not the best in France. They belonged to the best in the world. He was an exceptional teacher, the kind of person that does not look at your academic record alone, seeing much more in you than a nondescript kid with ‘such and such’ grades.

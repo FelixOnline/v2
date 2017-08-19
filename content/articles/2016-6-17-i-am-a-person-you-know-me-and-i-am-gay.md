@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Being a member of the LGBTQ+ community shouldn't have to be a big deal, but it is
 date: "2016-06-17 08:54:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6272"
@@ -33,15 +34,6 @@ image_height: "759"
 image_attribution: "eonline.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I am gay.

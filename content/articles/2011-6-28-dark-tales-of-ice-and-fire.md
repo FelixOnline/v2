@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George R. R. Martin's masterpiece
 date: "2011-06-28 11:53:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1446"
@@ -33,15 +34,6 @@ image_height: "599"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [A Song of Ice and Fire](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire) starts out with the Seven Kingdoms under one rule – the Iron Throne at the capital, conveniently called King’s Landing. The ruling House is the Baratheons, who deposed of the Mad King Targayen. Troubles stir as rumours arise that the wealthy and ambitious House Lannister are plotting to take over the throne. After the mysterious death of the King’s Hand (prime minister), Lord Eddard Stark of House Stark, a close friend and confidante of King Robert is summoned to King’s Landing to take over the job of the King’s Hand. So begins a series of events which would lead you through a murder mystery, an incestuous secret, lots of Machiavellian political play and backstabbing as everyone wants the Iron Throne for him/herself.

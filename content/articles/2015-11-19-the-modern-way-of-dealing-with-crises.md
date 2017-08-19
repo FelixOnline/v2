@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook’s ‘I’m safe’ button and French flag filters have divided critics
 date: "2015-11-19 22:43:00 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5747"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the deadliest attack on French soil since WWII, panic and chaos unfolded in the French capital this week. Many people were left worried that their relatives, family and friends had been amongst those murdered or injured.

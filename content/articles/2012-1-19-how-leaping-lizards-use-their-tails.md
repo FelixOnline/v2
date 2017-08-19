@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Research from the 60s vindicated by new developments
 date: "2012-01-19 20:05:35 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2005"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever since 1969, when J H Ostrom proposed that theropod dinosaurs used their tails to maintain balance during fast movement, scientists have suggested that a wide range of animals, from primates to rodents, use active motion of appendages such as arms or tails to stabilise their motion. Now a team of scientists from the University of California, Berkeley, has found that by moving their tails, lizards can maintain a near constant pitch when moving through the air after a jump.

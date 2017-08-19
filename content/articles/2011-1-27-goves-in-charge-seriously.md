@@ -4,6 +4,7 @@ title: >
 subtitle: >
   His lack of professionalism is remarkable
 date: "2011-01-27 19:44:44 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "676"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I try not to listen to BBC Radio if I can help it, because I want old age to hold some surprises and given that I already eat mint imperials all day and complain about ‘the youth’ I’m feeling that it’s not holding much back.

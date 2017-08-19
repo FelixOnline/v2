@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "265"
@@ -34,15 +35,6 @@ image_height: "563"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The iOS App Store: over 250,000 apps and more than 6.5 billion downloads onto 120 million iPads, iPhones and iPod touches, which are themselves growing, at a rate of 230,000 devices per day.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A play with more than the average number of sofa-wetting whale references
 date: "2011-12-01 20:34:03 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1872"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: "Alexander Yip"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been nearly eight years to the day since the final installment of the _Lord of the Rings_ trilogy hit our screens - eight long years with little but over-sexed vampires and under-sexed boy wizards to fill the void. Clearly spotting an audience starved of orcs and elves, DramSoc’s latest productions takes the Dungeons and Dragons out of Beit basements and brings them to the stage.

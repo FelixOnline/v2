@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Blue Sky Black Death – Noir (2011)
 date: "2011-10-28 10:05:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1636"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Of all the shit stage-names artists have given themselves in the history of music, ‘[Bono](http://www.youtube.com/watch?v=Eih_ybKdVXU)’ has got to be the worst. But ‘Young God’, one-half of Seattle-based [__Blue Sky Black Death__](http://www.bsbdmusic.com/) (BSBD), is definitely a close second. In fact, if BSBD weren’t so damn fantastic, I’d say he was an arrogant so-and-so (thankfully __U2__’s songs [afford them no such protection](http://www.youtube.com/watch?v=19KstSgU-c0&ob=av2e)).

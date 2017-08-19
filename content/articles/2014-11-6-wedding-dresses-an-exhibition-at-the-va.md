@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at dresses from 1775 onwards
 date: "2014-11-06 20:59:50 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4793"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Victoria and Albert Museum"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Today, brides of many faiths and nationalities wear white to celebrate their marriages, even in countres where it is not traditional to do so. The globalisation phenomenon and the influence and strength of the wedding industry have contributed to this homogenisation in wedding trends. The white dress has become the universal symbol of the bride.

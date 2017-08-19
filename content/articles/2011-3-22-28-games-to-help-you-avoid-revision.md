@@ -4,6 +4,7 @@ title: >
 subtitle: >
   For the past two terms, Games Editor Simon Worthington has been exploring the untamed world of online gaming and bringing back the best for your enjoyment. We've brought them all together here but be warned, they are extremely fun, addictive and time-consuming. Happy procrastination Imperial!
 date: "2011-03-22 16:33:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1126"
@@ -34,15 +35,6 @@ image_height: "398"
 image_attribution: "tinyurl.com/nanaca"
 image_attribution_link: "http://tinyurl.com/nanaca"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Nanaca Crash__

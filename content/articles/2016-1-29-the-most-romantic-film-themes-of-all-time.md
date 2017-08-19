@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And none of them are from Love Actually
 date: "2016-01-29 09:17:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5845"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **Henry Mancini’s “Moon River”, from _BreakfastatTiffany’s_ (1961)**

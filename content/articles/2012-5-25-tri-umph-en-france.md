@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Synchronised Swimming take third place out of all French university teams, reports Delphine Rolando
 date: "2012-05-25 17:45:21 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2495"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We already knew London was the sixth French city, now it also has a synchronized swimming team ranked third in the French University Championship (the French equivalent of BUCS). With its five keen members and two amazing coaches, it was no mean feat for Imperial College Synchronised Swimming team to just to participate to this competition. Being the only university team in the UK, they had no choice but to try to compete abroad.

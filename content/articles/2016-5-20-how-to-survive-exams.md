@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dealing with stress and getting help are easier than you might have thought
 date: "2016-05-20 09:25:05 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6193"
@@ -33,15 +34,6 @@ image_height: "2665"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is a lot to be stressed out about at exam time. Whether it is your first year or your last, it is difficult to balance the intense workload with other commitments, such as arranging accommodation for next year. First and foremost, if you feel you are struggling to cope, whether you have pre-existing health conditions or not, the most important thing to do is consult a medical professional. If feelings of anxiety are disrupting your life, speak to your GP – a quarter of all GP appointments are regarding mental health, so a good GP should not have problems with leading the conversation.

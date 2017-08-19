@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous student thinks that there needs to be significant change to the services that the college provides for severe mental health problems
 date: "2017-05-19 15:05:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6975"
@@ -33,15 +34,6 @@ image_height: "4000"
 image_attribution: "Kevin Simmons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everyone gets stressed at uni at some point. If you don’t, I applaud your Jedi level of inner peace. But for the rest of us mere mortals, it hits at some point. Because it affects everyone, I just assumed that what I was feeling was normal, that my course was always going to be a tough one and it would have its harder moments. For the first year, that was true. I managed the steep learning curve and new social setting with a normal number of bumps in the road. But last summer, and at the start of the winter term, an onlooker would have seen things take a turn for the worse. I, however, didn’t think anything of it for a long time.

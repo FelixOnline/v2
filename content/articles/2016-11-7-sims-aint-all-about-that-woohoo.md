@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Norrie discusses the main features of what he thinks made the Sims so enjoyable and just plain fun
 date: "2016-11-07 13:12:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6403"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Maxis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The games section of a newspaper can be a tough environment for flourishing writers, what with the challenge of finding entertaining topics or games that people are familiar with  However I think I would be hard pressed to find a person who hasn’t heard of _The Sims_.

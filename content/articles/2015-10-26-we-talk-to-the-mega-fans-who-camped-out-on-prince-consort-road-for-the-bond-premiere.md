@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They’ve been here since Saturday
 date: "2015-10-26 13:10:35 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5680"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Grace Rahman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You might well be skiving lectures this afternoon to catch a glimpse of national treasure Daniel Craig and a handful of royals as they attend tonight’s _Spectre_ premiere. That’s nothing compared to these fans, who have been camping out on Prince Consort Road for three days to secure a place right at the front of the crowds lining the red carpet.

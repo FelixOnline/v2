@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gareth Holden and Shiv Patel talk about their strong performance at the University of London Championships in Lee Valley.
 date: "2014-11-28 01:15:46 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4979"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Sunday 23rd December, Imperial College Cross Country and Athletics club along with the ICSM (Imperial Medics) athletics club competed in the annual University of London championship at the Lee Valley Athletics centre. Having (somewhat unfairly) lost out to LSE last year in the battle for the top spot, our team was hungry for a chance to take back the championship, which has been won by Imperial for 10 out of the last 12 years.

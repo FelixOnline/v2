@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dizzee Rascal – DirteeTv.com Mixtape – Dirtee Stank Recordings – 2012
 date: "2012-01-27 09:56:54 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2082"
@@ -33,15 +34,6 @@ image_height: "413"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The most irritating thing about Tim Westwood is this: he’s actually 100% credible. He’s been supporting UK hip-hop since the 80s and, by all fair metrics, has earned the right to ram obnoxious horns and gunshot sounds up the backside of every track he plays on [his radio show](http://www.bbc.co.uk/programmes/b0082kyx). I, on the other hand, have absolutely zero street-cred – unless of course you count the Walkway as a street, and you accept furiously avoiding eye contact as ‘cred’.

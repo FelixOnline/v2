@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Today, for all intents and purposes, is Friday the 14th of February, 2014 A.D. Many people are divided over embracing a modern fad called St. Valentine’s Day, with those favoured by Cupid’s Arrows largely choosing to play along and pander...
 date: "2014-02-16 12:18:53 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4385"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Today, for all intents and purposes, is Friday the 14th of February, 2014 A.D. Many people are divided over embracing a modern fad called St. Valentine’s Day, with those favoured by Cupid’s Arrows largely choosing to play along and pander to the irrational significance attributed to this day, while those (un)lucky enough to have been missed often grumbling sorely about how it’s all a money-making conspiracy instituted by the American floral industry making fine fools of all of us and even finer fools of those whom we desire to impress.

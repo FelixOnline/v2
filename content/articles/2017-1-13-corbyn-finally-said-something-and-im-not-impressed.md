@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giacomo Bosaini-Gilroy examines Corbyn’s latest boring opinion
 date: "2017-01-13 14:00:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6633"
@@ -33,15 +34,6 @@ image_height: "3342"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 News flash; Jeremy Corbyn emerged from his ferret hole in North London and made a speech! He must have read my article about how he needed to get his act together and talk positively about immigration. As if I were felix’s de facto Labour immigration policy correspondent, I have returned to give a judgement on JC’s words.

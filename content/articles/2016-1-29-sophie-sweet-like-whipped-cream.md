@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX gets that fizzy feeling
 date: "2016-01-29 09:33:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5849"
@@ -34,15 +35,6 @@ image_height: "1435"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the last few years, **SOPHIE** (the stage name of Samuel Long) has played many times in London and around the world. I’ve been lucky enough to see him twice. This time he played at Village Underground, one of London’s most hip venues. With each successive live performance he has debuted new material to the audience and each time a new song is debuted the reaction is the same: pure unadulterated joy.

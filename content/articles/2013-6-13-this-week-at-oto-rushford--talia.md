@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi speaks to duo and Ambarchi collaborators
 date: "2013-06-13 23:02:25 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3686"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Between a live date in Oto as a duo and another in a large ensemble with Oren Ambarchi, I was able to grab an interview with Australian musucians James Rushford and Joe Talia. Aside from my aiming for an inside scoop about the night’s rendition of ‘Knots’ (from Ambarchi’s Audience Of One), we primarily discuss their work as a duo. and especially their 2013 album Manhunter.

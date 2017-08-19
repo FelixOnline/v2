@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Henry Garner and Chris Nielsen bring you up to speed on their dominance
 date: "2012-11-09 14:38:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2877"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 27th of October the “ICUAFC elite” (Tofis, 2012) ventured north of the wall to a place so windy that Dorothy and Toto thanked their lucky stars that they live in Kansas: Shenley. The opposition were the old enemy and second best university in London, UCL. A fixture steeped in history, this was always going to be a difficult fixture. It wasn’t. With new recruits James Murphy, Luke Butler, Marius Wedemeyer, Amine Cherif (aka Cherif Snr) and the returning Peter Bjorkstrand, on top of 13 goals without reply in 270 minutes, ICUAFC 1s were full of confidence. We arrived at Shenley with no sign of the opposition; rumours were banded about that Imperial’s multicultural line up had scared the UCL army into submission. However, just when it looked like there would be a no show, they appeared over the hill, armed for battle (a football match).

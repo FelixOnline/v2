@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Controversy over drop from 10th to 13th in latest Guardian tables
 date: "2012-05-24 22:44:38 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2482"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has dropped from 10th to 13th place in the [_Guardian_ University Guide 2013](http://www.guardian.co.uk/education/universityguide), the results of which were published on Monday 21 May. The guide, which ranks universities across the United Kingdom, saw institutions ranked across various areas, including results from the [National Student Survey](http://www.thestudentsurvey.com/), expenditure per student, and the student to staff ratio.

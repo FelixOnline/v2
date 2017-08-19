@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Midnight in Paris is effective, moving and humble
 date: "2011-10-21 09:53:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1583"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Midnight in Paris__

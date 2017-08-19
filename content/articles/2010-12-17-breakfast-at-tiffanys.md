@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The BFI Southbank's Audrey Hepburn season
 date: "2010-12-17 11:35:31 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "560"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 5am, October 2nd 1960 and director Blake Edwards is granted an extremely rare and fortuitous moment of calmness, undisturbed by traffic, on New York’s Fifth Avenue. It is the first hour of the first day of filming what will become one of the most iconic romantic comedies of all time. A young woman in black evening attire gets out of a cab and drifts to the windows of Tiffany’s, coffee and pastry in hand; black sunglasses hiding any trace of the night gone by.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5120"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Monday, an event hosted by the Imperial Entrepreneurs society (IE) saw Huxley flooded with students hoping to see ASOS co-founder and CEO, Nick Robertson, give his insight into the success of his company. As the queue of hopeful students extended onto the Sherfield walkway, members of IE handed out flyers “guaranteeing” entry to the event.

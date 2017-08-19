@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Roth's profoud novel tests our values
 date: "2016-12-16 15:03:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6611"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: "Houghton Mifflin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have always found myself inexplicably drawn to books about regret, lost opportunities, death, and dying. Perhaps there is something cathartic about reading of other people’s regrets, regrets that are disturbingly close to home yet safely ensconced in the realm of fiction. Perhaps it is the ritual of a young person trying to pre-empt and avoid the dark and looming future – as if reading about them will prevent me from falling into similar traps of life.

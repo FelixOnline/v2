@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "M83 managed to get the crowd disgustingly sweaty"
 date: "2012-10-18 21:27:28 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2707"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first thing all Polish attendees of Open’er said when I explained that was British was how crazy I was to go to Poland when Britain has some of the best festivals in the world. They may have a point, but international festivals are definitely underrated.

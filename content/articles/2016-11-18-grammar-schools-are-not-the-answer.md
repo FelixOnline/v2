@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Husain Al-Jabir gives his first-hand opinion of Grammar schools
 date: "2016-11-18 14:32:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6458"
@@ -33,15 +34,6 @@ image_height: "703"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Disclaimer: I’m an alumnus of a well-known North London grammar school, having joined in the sixth form from a high achieving comprehensive school. I’ve studied under both school systems, coming out the other side with insights into each. No-one could accuse me of not being qualified enough to speak about the virtues and pitfalls of the grammar system. A significant number of Imperial students attended grammars and most likely support the grammar system, either vociferously or nonchalantly; however, I wonder if from the privilege of your educational bubble, you have ever looked outside?

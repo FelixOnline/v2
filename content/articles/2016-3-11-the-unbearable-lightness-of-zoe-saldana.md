@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Race, colourism and the estate of Nina Simone
 date: "2016-03-11 11:57:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6039"
@@ -34,15 +35,6 @@ image_height: "1997"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Telling the story of turbulent genius Nina Simone on film was never going to be easy; Simone’s life was complex, and her music beloved by so many that any casting choice would be liable to ignite tensions. However, the controversy upcoming biopic _Nina_ has stirred up would be enough to make hardened producers question their career choices. The issue? Casting Zoe Saldana, of Avatar fame, as Simone, which has led some commentators to argue that the racism and colourism that dogged Simone for her whole life have raised their ugly heads again.

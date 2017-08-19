@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A range of opinions on the ever important issue of freedom of speech
 date: "2010-11-18 20:24:40 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "387"
@@ -33,15 +34,6 @@ image_height: "3209"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Minister for Communities and Local Government, Andrew Stunnell visited Imperial last month to speak at Interfaith’s student led debate on the right to freedom of speech. Views were heard from members of the Jewish Society, Islamic Society, Christian Union and a secular member of the Debating Society.

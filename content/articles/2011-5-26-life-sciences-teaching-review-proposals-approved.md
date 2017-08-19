@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Science Studies Committee satisfied that department addressed their concerns
 date: "2011-05-26 18:17:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1246"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Science Studies Committee has approved the recommendations of the Life Sciences Teaching Review, after initially rejecting them last week. The committee were satisfied that the department had addressed their concerns and that “its requirements for the academic quality of degree programmes had been met”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Part 2 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-11-01 09:25:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3968"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 With David Cameron recently officially backing the development of a new nuclear power station in Britain for the first time in our generation, the UK looks to be more comfortable than not with accepting the presence of nuclear energy production operations, even as the discovery of healthy shale gas reserves were made known last year by a British Geological Survey report. However, not very many countries around the world are in a similarly happy dilemma about choosing which means of energy production to pursue. Further to that, which one ought the UK to be really pursuing as well, when climate change and environmental effects are considered?

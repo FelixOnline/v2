@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We know no one cares but this is our job
 date: "2017-05-12 16:30:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6940"
@@ -33,15 +34,6 @@ image_height: "381"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It only took about a year but the ‘heated’ topic of mascotry conduct seems to have finally been put to rest. Sort of. During the final council meeting of the spring term, the reworked mascotry paper was almost successfully passed. Almost, because following a mass exodus after the presentation of the tie club paper, Council was no longer quorate.

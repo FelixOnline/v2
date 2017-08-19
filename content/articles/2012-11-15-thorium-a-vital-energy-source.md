@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alasdair Wynn and Matt O’Neill explore an untapped resource
 date: "2012-11-15 21:08:19 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2893"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 limate change and energy sources are two of the key issues of our time. While our climate becomes more and more volatile by the year, the strain on our planets limited resources is becoming exasperated by the development of large economies such as China and India, which in turn is damaging the climate.

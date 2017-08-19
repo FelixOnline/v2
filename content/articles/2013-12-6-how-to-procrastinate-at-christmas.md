@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And not feel (too) guilty about it
 date: "2013-12-06 04:06:16 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4189"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 As a student at Imperial, the lead up to Christmas can seem like one of the busiest times of the year, a feeling compounded by the multitude of seasonal events that you just have to go to. No matter how overwhelmed you’re feeling, there are always some parties that you will just refuse to miss, because everyone knows that reservations and propriety fly out the window as soon as mulled wine and mistletoe are involved. Whether you’re the kind of person who’s at the front line of the drama, or you just like watching it unfold, Christmas parties are often unmissable, and a good way to release the stress that’s gradually built up throughout the term.

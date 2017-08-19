@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kelly Oakes, a glimpse of dark matter?
 date: "2010-01-22 14:24:10 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "54"
@@ -33,15 +34,6 @@ image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In early December last year, the particle physics community was abuzz with rumours of a discovery made by the Cryogenic Dark Matter Search (CDMS-II) collaboration in the US. Announcement talks were scheduled for 18th December, all seminars before that cancelled and there were rumours of a paper submitted by the collaboration to Nature (a rumour, however, that was refuted by a Senior Editor at Nature shortly after it was started). The CDMS had, it was said, found evidence of the existence of dark matter.

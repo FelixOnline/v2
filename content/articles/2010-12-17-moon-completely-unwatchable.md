@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski takes aim at the gaping plot holes in the acclaimed film 'Moon'
 date: "2010-12-17 10:52:46 +0000"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "558"
@@ -34,15 +35,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In my [previous column](http://felixonline.co.uk/?article=473) I mentioned my dislike of the film ‘Moon’. I’ve always been surprised by its popularity so I’d thought I’d talk a bit more about it this week. Spoiler Alert: If you don’t want to know the plot of this film then stop reading.

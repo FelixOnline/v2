@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are we supporting suffering by allying ourselves academically?
 date: "2015-10-23 11:58:00 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5679"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "AOL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 According to the College website, we are the UK’s number one research partner with China. In a speech welcoming Xi Jinping, Professor Alice Gast, president of the university, said “brilliant students and academic collaborations are making both the UK and China stronger, more prosperous and ready to deal with the challenges of this century”. Surely these challenges of the century should include opposing inequality, imprisonment without trial and the persecution of ethnic minorities?

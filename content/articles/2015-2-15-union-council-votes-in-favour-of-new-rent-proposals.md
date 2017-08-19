@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Council vote in favour of reducing the rent for new halls in Acton, but increasing the rent for halls closer to campus
 date: "2015-02-15 23:04:02 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5260"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students present at Union Council this week voted in favour of new rent proposals, which included lowering the suggested rates for the new student accommodation based in Acton. The new hall, now named Woodward, will open next academic year; students will face a commute time upwards of thirty minutes to get to campus.

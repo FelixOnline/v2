@@ -4,6 +4,7 @@ title: >
 subtitle: >
   From e.quinox to Raincatcher Imperial; students gather to discuss their experiences
 date: "2011-11-10 22:06:39 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1741"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Are you part of a student-led project at Imperial? Or perhaps you’d like to join one – or better yet, even start your own? No doubt you’ve heard of the achievements of some of the College’s most ambitious student projects, which include e.quinox, who deliver electric power to rural villages in Rwanda, and Raincatcher Imperial, who aim to improve the availability of clean water to residents in Tanzania. Such projects clearly have a wealth of experience and knowledge in implementing solutions that are of benefit to the wider community.

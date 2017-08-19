@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking back at the 2010 F1 season
 date: "2010-11-18 21:04:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "399"
@@ -34,15 +35,6 @@ image_height: "2466"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Nine months is a long time in Formula 1. In March the motoring clique feverishly anticipated the return of the seven-times world champion Michael Schumacher. Arguably the best driver in the history of the sport was making an epic comeback, driving the car that was originally intended for the then current world champion Jenson Button. But the enticing combination did not work. What could have been the fastest driver in the fastest car turned out to be a disappointingly mediocre mix, lingering far behind the pace of Red Bull, Ferrari, and McLaren. The legendary German just did not know when to pack it in – Take That, take note. That Sebastian Vettel, also known as “Baby Schuey”, took the 2010 crown on the weekend only serves to underline how the sport has moved on from the days when the season results read: Australia: Schumacher 1st, Brazil: Schumacher 1st, Malaysia: Schumacher 1st… well, you get the gist. Or has it?

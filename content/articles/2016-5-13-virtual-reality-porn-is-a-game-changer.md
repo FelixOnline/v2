@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You really need to make sure that your bedroom door is locked
 date: "2016-05-13 08:58:38 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6150"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: "askmen.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When Palmer Luckey kickstarted the virtual reality revolution in 2012 I doubt he expected that one of primary uses of his new technology would be pornography. We’ve seen smartphones change the way we watched porn, and VR is set to do the same. While 3D porn itself is nothing new (it’s been around for decades), virtual reality porn is significant in that it is able to simulate physical presence via a combination of head tracking and stereoscopic vision. The porn set is now all encompassing and you become the porn star. No longer merely the spectator, you are now a spectre in another person’s body.

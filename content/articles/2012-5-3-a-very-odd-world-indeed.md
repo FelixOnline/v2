@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope on how Oddworld’s rampant industrialisation makes for a pretty cracking game series
 date: "2012-05-03 18:45:52 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2417"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s a shame Oddworld Inhabitants, an American game company founded way back when I was just knee-high to a grasshopper, stopped making games. Why? Because they made some pretty kick-ass stuff, that’s why. So kick-ass in fact that many modern-day game developers could learn a thing or two from them. They won’t, obviously — until reading this piece, that is. Maybe.

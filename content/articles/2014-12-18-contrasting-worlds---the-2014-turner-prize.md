@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland assesses the contrived controversy of this year's prize
 date: "2014-12-18 15:40:43 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5057"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Tate____ Britain__’s two main shows may be similar in name but in reality are worlds apart. The first, an exhibition of J.M.W. Turner’s late works, is a life-affirming homage to one of Britain’s greatest painters and offers glimpses into the beginnings of modern art. The other, shamefully named after this great artist, is something of an anticlimax.The_ Turner Prize_, now in its 30th year, is meant to showcase the best of what British art has to offer, helping define how the country’s art shall progress. Well, if that is true, it’s not looking good; this year’s celebrations went off with little more than a whimper.

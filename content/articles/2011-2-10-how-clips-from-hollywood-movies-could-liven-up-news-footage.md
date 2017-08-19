@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "796"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As news breaks at 7am about a man fighting the Russian airforce in the Indian Ocean, the BBC use live footage. They cut to Tom Cruise celebrating victory after shooting down all the enemies, despite his sadness at the loss of his co-pilot.

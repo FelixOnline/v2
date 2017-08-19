@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Government’s visa proposals risk catasrophe argues Ksenia Rostislavleva
 date: "2011-02-10 20:07:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "764"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: "Antony Theobald"
 image_attribution_link: "http://www.flickr.com/photos/antphotos/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On January 26th, a press-conference focused on the international student migration regulations was held in the Queen Elizabeth II Conference Center. The speakers included Tony Millns (English UK), Aaron Porter (National Union of Students), Dominic Scott (Universities and Colleges Information Systems Association), Susan Hindley (Study UK), Nicola Dandridge (Universities UK) and Professor Edward Acton (University of East Anglia).

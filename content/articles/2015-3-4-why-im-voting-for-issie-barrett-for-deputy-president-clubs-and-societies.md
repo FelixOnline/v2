@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange explains why he thinks Issie deserves your vote
 date: "2015-03-04 13:58:37 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5333"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Clubs and societies needs someone who cares about them, and no one cares more than Issie. Clubs are where people make friends, try new things and do the things they love, and without them university life would be much poorer.

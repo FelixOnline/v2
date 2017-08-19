@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What are you saying by wearing a poppy?
 date: "2015-11-06 13:45:19 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5701"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wednesday 11th November marks 97 years since the armistice of the First World War. Across the UK, the poppy will be worn this month as a symbol of commemoration for all the lives lost and affected by conflict.

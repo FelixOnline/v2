@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A shoutout to all so-called ‘science lovers’: go hard or go home.
 date: "2013-01-25 01:38:07 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3182"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s happened: geek is chic, nerds are sexy, and everyone and their dog is ready to debate with creationists. Like Brian Cox’s smiling, wistful face, science itself is increasingly entering the public consciousness. Every haunt of internet culture – Reddit, 4chan, your Facebook friends, etc. – discusses and valiantly defends science against the evils of false belief.

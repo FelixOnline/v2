@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "453"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Around 200 students from the Royal College of Art (RCA) held an hour long protest as part of a national day of walkouts, sit-ins and marches against the government’s planned cuts to higher education.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial seals the deal in the dying seconds
 date: "2011-02-24 20:11:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "883"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Victory rarely tastes so sweet as when you spend 59 minutes behind on goals, only to seal the deal in the dying seconds. The ICs 4s appetite was whetted for the run up to the end of the season when they did just that against their visitors, Queen Marys 4s.

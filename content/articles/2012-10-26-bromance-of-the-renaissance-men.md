@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tate Britian honours Pre-Raphaelite rebels
 date: "2012-10-26 03:05:58 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2765"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year is 1848. Railways are being deposited left, right and centre; the Industrial Revolution is in full swing; and next year, Darwin will publish his infamous ‘Origin of Species’. It is no surprise, then, that today, in the 21st century, we always look back on this period as a time of incredible technical progress and profound leaps in our scientific understanding. It is against this fascinating backdrop that three men came together and founded the Pre-Raphaelite Brotherhood, British art’s answer to the complete upheaval of 19th century society. Together, John Everett Milais, Dante Gabriel Rossetti and William Holman Hun sought to rebel against the ‘slavery’ of the modern factory. They wanted to reject the idea that Raphael, the great Italian master, represented the pinnacle of aesthetic achievement. Instead, they decided to draw their inspiration from the freshness of early Renaissance art: the bright colours, flat surfaces and truth to nature.

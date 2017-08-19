@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Landslides aren't just dirt
 date: "2016-02-26 11:32:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5961"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We are all familiar with the catastrophic consequences a landslide can have. Only last week, 250 people were trapped in their hometown in Idaho, USA,  as a result of a massive landslide blocking the highway connecting them to the rest of the world. This week, one man died and another two were injured during a minor landslide in Ara Damansara, Malaysia, and five villages were covered in dust and debris threatening residents with suffocation, as a result of a dry landslide at Myagdi, a popular tourist destination in Nepal.

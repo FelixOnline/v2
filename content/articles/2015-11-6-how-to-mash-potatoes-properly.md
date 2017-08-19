@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Smash might be easy, but it won’t impress your housemates like this will
 date: "2015-11-06 14:04:00 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5705"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Now, you’re all going to think I’m crazy - telling you how to cook steak one week, and then mash the next? Madness – this bloke must think we can’t cook for toffee! Well, I’ve taken all the feedback from the few of you who did read it and not think it was a complete pile of garbage, and am going to focus on what you liked – the scientific part of it. Plus, I’ve had recipe requests, so I’ll slip one in this time – as well as nattering on less, if I can. If you feel like i’m insulting your cooking genius, apologies – I’m just trying to change the way you might look at food and why you do the things you do in cooking.

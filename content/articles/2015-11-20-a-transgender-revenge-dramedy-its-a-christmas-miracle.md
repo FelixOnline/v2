@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tangerine may be bombastic in its approach, but there is real warmth and joy within the film
 date: "2015-11-20 14:08:28 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5768"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Radium/AP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Transgender revenge dramedies are somewhat hard to come by in a cinema. In fact I’m not sure many of them exist at all. If you need to bump up your street cred, then, _Tangerine_ will definitely be the edgiest film you’ll see this month, perhaps this year. Fortunately it’s got enough substance in it that you can get more out of it than just a good story.

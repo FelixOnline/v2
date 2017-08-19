@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Capdown – Koko (November 6, 2011)
 date: "2011-11-10 21:03:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1724"
@@ -33,15 +34,6 @@ image_height: "629"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s an unusual setting for [Capdown](http://www.capdown.net/)’s final gig, skin heads and punks looking incredibly out of place in the theatrical grandeur of [KOKO](http://www.koko.uk.com/). For years these veterans of the UK ska scene (and perhaps the only good thing ever to come out of Milton Keynes) have toured the country’s basements, only now, at the end, getting the recognition and large scale venues they deserve.

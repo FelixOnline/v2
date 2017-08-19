@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Investigating groups that oppose democracy
 date: "2011-10-27 22:57:30 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1619"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Many people have argued that democracy is actually one of the most radical ideas in political history. To treat people as equals with equal votes sits well with most people today. We can also see the effects of ideas like these in the West in the last 300 years or so with mass education, rising standards of living, and the abolition of slavery, infanticide, child labour, serfdom and feudalism. There has also been greatly reduced infant mortality, religious persecution, racism, misogyny, superstition and war. The few wars that do occur tend to be tremendously more violent, but it is also a long-term trend that they are getting rarer.

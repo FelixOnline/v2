@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kitty Pryde – haha im sorry – 2012
 date: "2012-06-22 17:01:07 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2582"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 So, this exists... By ‘this’ I mean _haha im sorry_, __Kitty Pryde__’s debut mixtape. Words truly fail me – ok, well maybe not entirely, but let’s not get meta here. Let’s imagine, for a horrifying moment, that you teamed a tumblr tween up with the guys behind [__Main Attrakionz__](http://felixonline.co.uk/music/1833/kadhims-totally-hot-album-of-the-week-8/). You’d end up with lazy, hazy hip-hop beats (the type that define [__Clams Casino__](http://felixonline.co.uk/music/1499/kadhims-totally-hot-album-of-the-week-1/), [__A$AP Rocky__](http://felixonline.co.uk/music/1776/kadhims-totally-hot-album-of-the-week-7/), and, of course, Main Attrakionz) and a tumblr tween making you facepalm about our future with her inane rap...

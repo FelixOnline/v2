@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Episode VII - Josquin
 date: "2014-02-21 03:33:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4433"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Josquin des Prez, or Josquin for short, was an artist of mythical proportions. This was partly due to his massive talent, but also partly a result of the changing humanist culture. At the start of his career music was still grouped with geometry and arithmetic in the Quadrivium of taught subjects – something natural, following divine laws.

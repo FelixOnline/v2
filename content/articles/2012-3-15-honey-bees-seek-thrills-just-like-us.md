@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists have investigated differences in bees' neurochemistry determining the way in which they forage for food
 date: "2012-03-15 19:53:52 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2352"
@@ -34,15 +35,6 @@ image_height: "1169"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Honey bee scouts are at the forefront of bee exploration, seeking out new sources of food for the hungry hive and finding suitable nest sites for the colony when it outgrows its current home. These bees differ from their fellow foragers. They do not wait to be told where to go or what to do, but seek novelty, maybe even adventure.

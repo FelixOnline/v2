@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dawkins, rather than being a profiteer, is savvy in providing monetary support for his foundation
 date: "2010-11-04 19:11:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "329"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For those of you who did not read [Alexander Khanin’s comment piece](http://www.felixonline.co.uk/?article=230), his thesis can be reduced to a number of playground-worthy statements. I have a big problem with his reasoning and the nature of his claims so let us work our way through them. It will not take long I promise, but for the sake of intelligent debate everywhere he needs to be cut down to size.

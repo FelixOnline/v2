@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is the dream finally coming true?
 date: "2017-01-20 14:54:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6657"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "Alexandre Adler"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Happy days. Imperial College will finally be taking steps to solve issues with temperature regulation at the Central Library. Probably.

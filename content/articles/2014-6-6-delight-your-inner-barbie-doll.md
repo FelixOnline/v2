@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wedding days: they’re everyone’s opportunity to live out their fairy tale. And, of course, the best way to feel like a princess is to look like a princess – cue the ever-fascinating obsession of the wedding dress.
 date: "2014-06-06 02:47:21 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4663"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Illustrated London News Ltd/Mary Evans"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __What: __Wedding Dresses 1775-2014

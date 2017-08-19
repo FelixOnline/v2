@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students get 18 days to prepare for a resit
 date: "2017-05-19 14:59:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6972"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Turns out Imperial isn’t the only London uni to routinely fuck up exams, neither is it the worst at it. Last week at UCL a mechanical engineering exam had to be rescheduled after the department realised it had accidentally leaked the paper.

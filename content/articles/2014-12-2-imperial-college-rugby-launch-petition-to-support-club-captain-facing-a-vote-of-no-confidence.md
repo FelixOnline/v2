@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vote of no confidence to take place at Imperial College Union Council next Tuesday
 date: "2014-12-02 15:22:44 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4980"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ICURFC have launched an online petition that has already amassed 500 signatures at the time of press. The petition, to show support for the Club Captain, Thomas Hobson, currently at risk of losing his position, was launched yesterday, and has been signed by students and clubs and societies as a whole.

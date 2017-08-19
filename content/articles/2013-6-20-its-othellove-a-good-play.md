@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ....and it's not yo gramma's Shakespeare, according to Kate Pumphrey
 date: "2013-06-20 20:52:24 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3709"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 What is your notion of prime, weeknight entertainment? If the answer is a three-and-a-quarter hour performance of an early Jacobean tragedy, executed in the original lexicon, dwelling on jealousy, treachery and racism, and ending in a bloodbath, I suspect that most people would be, well – disconcerted.

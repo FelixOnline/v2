@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial on running for a sabbatical position
 date: "2013-01-31 22:32:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3197"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Elections are here once again. It seems like only yesterday I was putting my name down for [Felix Editor ](http://www.youtube.com/watch?v=EfKUDSLPias)and hoping someone seconds me.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Teams from Imperial take runner-up places in BP Ultimate Field Trip
 date: "2012-05-10 19:49:04 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2436"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two teams from Imperial reached the Final of [BP’s Ultimate Field Trip](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9032498&contentId=7065301) competition, which was held on Tuesday 8 May. The prize of a six week internship at BP Trinidad & Tobago was ultimately won by a team from the [University of Strathclyde](http://www.strath.ac.uk/).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Dark ambient, glitch, dub and techno
 date: "2012-10-18 21:30:55 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2710"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fellow Bristolian Vessel’s 2012 offering, Order of Noise, manages to successfully intertwine dark ambient, glitch, dub and techno to throw us back to those grimy Bristol moments where the stims have ran out and everyone is desperately caning the ketamine, milking the absolute last out of the depraved party that has just run its course.

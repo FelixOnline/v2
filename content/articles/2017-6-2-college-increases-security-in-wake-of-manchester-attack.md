@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ....a bit
 date: "2017-06-02 12:48:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6988"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a statement sent out by President Alice Gast and Provost James Stirling, Imperial students and staff were told that there will now be an increased presence of security at College’s campuses.

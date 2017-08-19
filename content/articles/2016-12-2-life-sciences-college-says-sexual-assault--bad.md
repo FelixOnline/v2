@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Department sends weird email mentioning sexual assault incident
 date: "2016-12-02 13:49:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6524"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An email was sent out on Wednesday, to the Department of Life Sciences, informing recipients of a serious incident of sexual assault taking place last year between members of the department.

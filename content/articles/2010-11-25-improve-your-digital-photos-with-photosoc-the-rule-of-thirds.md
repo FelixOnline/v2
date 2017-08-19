@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “Remember that breaking the rule, once you’ve learnt it, can result in some striking shots too”
 date: "2010-11-25 20:23:08 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "429"
@@ -34,15 +35,6 @@ image_height: "419"
 image_attribution: "Jonathan Kim"
 image_attribution_link: "http://www.flickr.com/photos/jkim1"
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Perhaps the most well known principle of photographic composition is the “Rule of Thirds”. It is one of the most basic tools that can be used to create balanced and visually appealing shots. However, before we get into it I must warn you that rules are meant to be broken and ignoring this one does not mean that your pictures will necessarily be unbalanced or uninteresting. In fact, the opposite can often be true!

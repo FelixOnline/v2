@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Evolution linked to climate change, say Imperial
 date: "2011-12-08 20:31:46 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1913"
@@ -33,15 +34,6 @@ image_height: "1467"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists at Imperial College have devised an evolutionary model based on climate change and a study of grey wolves.

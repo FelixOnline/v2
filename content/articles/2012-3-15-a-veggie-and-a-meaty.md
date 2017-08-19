@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mmm tacos
 date: "2012-03-15 20:54:23 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2364"
@@ -33,15 +34,6 @@ image_height: "380"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Black Bean, Courgette, & Olive Tacos served with Garlic-Lemon Yogurt – makes 8 tacos

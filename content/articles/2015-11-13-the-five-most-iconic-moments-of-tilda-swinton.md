@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Last week saw the 55th anniversary of the birth of the saviour of modern cinema, Tilda Swinton. To celebrate, we take a look back at her legendary career; choosing what to feature was difficult, but we have managed to narrow down five of her most iconic moments, and what they teach us about life and
 date: "2015-11-13 15:00:33 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5736"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 #### 1. Her Collaborations with Derek Jarman

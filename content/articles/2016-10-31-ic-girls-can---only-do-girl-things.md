@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Celebrate women’s sport by “jumping away the calories”
 date: "2016-10-31 13:36:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6359"
@@ -34,15 +35,6 @@ image_height: "2000"
 image_attribution: "Strelka Institute for Media, Architecture and Design Follow"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Continuing on from the successful This Girl Can campaign, Sport England have joined forces with BUCS to promote female sport participation at universities nationwide between 31 October and 6 November. This means the Sports Imperial is launching Imperial Girls Can again this year in an attempt “to encourage and celebrate womens sport”.

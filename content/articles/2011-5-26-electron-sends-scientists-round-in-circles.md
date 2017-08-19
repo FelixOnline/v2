@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Electron found to be extremely spherical, with implications for matter vs. anti-matter puzzle
 date: "2011-05-26 19:16:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1257"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Electrons are almost perfect spheres, [new research published in Nature](http://www.nature.com/nature/journal/v473/n7348/full/nature10104.html) this week has reported. Scientists here at Imperial have made the most accurate measurement yet of the size of an electron, and discovered that it is only 0.000000000000000000000000001 cm away from being perfectly round.

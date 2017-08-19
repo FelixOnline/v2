@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Saturday 19th February 2011, Felix hosted its first Music Night at Metric. It was a glorious event
 date: "2011-02-28 21:25:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "946"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This one goes out to all the cool cats and saucy mamas who turned up for the first ever Felix Music Night on Saturday 19th February. I hope all 250 people who were there that night had a great time, and from the looks on people’s faces as they left Metric when the event was over, I believe it was a great success.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Government Immigration Bill deemed to have possible impact on international students
 date: "2013-11-01 09:09:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3965"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The second meeting of the Union Council was held on Tuesday, October 29. The main issue of discussion was the Union’s response to the government’s Immigration Bill 2013-2014. Proposed by Home Secretary Theresa May on October 10 the Bill had its second reading on October 22 and is expected to pass through parliament and receive royal assent early next spring. The Bill is of potential concern to international students since it would require them to pay a minimum fee of £200 a year to use non-emergency NHS services and would place a legal obligation on landlords to check the immigration status of their tenents – potentially biasing them against international students.

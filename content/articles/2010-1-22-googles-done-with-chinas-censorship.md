@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Worthington takes a look at the story that has the technology press going crazy over censorship
 date: "2010-01-22 19:04:37 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "56"
@@ -34,15 +35,6 @@ image_height: "1190"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Google and China have never really been the best of friends, and now finally it's all over. Following security breaches of Google servers by hackers thought to originate from China, last week Google announced that it would be removing censorship from all of its Chinese services. Although the future is still uncertain, it's extremely likely that we'll see the end of Google.cn and the company effectively exiled from the country. As is usual, Google claims the moral high ground and reinforces its “don't be evil” attitude, but other evidence suggests that Google may have another hidden agenda.

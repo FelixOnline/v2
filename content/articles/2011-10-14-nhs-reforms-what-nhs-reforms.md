@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fingers crossed for a vote against
 date: "2011-10-14 00:20:56 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1534"
@@ -34,15 +35,6 @@ image_height: "972"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You’d think that when Parliament was on the verge of passing a bill to effectively abolish the NHS it would be front page news, but apparently not. By the time you’re reading this, the House of Lords will have decided whether or not to pass the 2011 Health and Social Care Bill. For both your sake and mine I hope they have not; here’s why.

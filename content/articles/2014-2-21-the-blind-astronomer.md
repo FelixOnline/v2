@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is science emotional? Clara Clark Nevola interviews theatre maker Tom Espiner about the play Going Dark to find out
 date: "2014-02-21 03:14:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4420"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Does the life of a man relate to that of a star? _Going Dark _tells the history of the universe as the story of how we perceive it, creating a deeply human, emotional and immersive piece of theatre.

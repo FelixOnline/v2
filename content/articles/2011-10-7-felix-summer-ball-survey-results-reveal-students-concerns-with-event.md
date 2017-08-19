@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Common complaints centre around format change, though funfair is praised
 date: "2011-10-07 00:30:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1470"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 “Errrm...where were all the people?” was one of the many questions asked after last year’s Summer Ball. With less than half the expected turnout and a 6-ﬁgure loss, it will come as no surprise that the initial results of the Felix survey are looking rather bleak.

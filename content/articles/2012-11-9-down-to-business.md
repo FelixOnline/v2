@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nida Mahmud probes the latest ranking of the Business School
 date: "2012-11-09 00:25:59 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2837"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London has consistently ranked within the World Top 10 in the QS rankings as well as in other respectable league tables. However, Imperial’s Business school rankings for the MBA programme are slipping, with Imperial’s MBA currently being ranked 46th place in the Financial Times. These rankings are a significant decrease from previous years, when the business school took 37th place last year and was ranked 32nd in 2010, which was the highest ranking achieved by Imperial’s MBA programme. Imperial’s business school entered the top 90 in 2002, it first broke into the Financial Times world’s top 50 MBA rankings in 2006. This equated to an impressive rise of 30 places within 3 years. Yet the 14 place slip over the last 3 years may suggest that the rapid boom was short lived.

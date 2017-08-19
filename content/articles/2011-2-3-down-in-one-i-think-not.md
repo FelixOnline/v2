@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christian Franke advises you on how to expand your drinking horizons
 date: "2011-02-03 18:47:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "705"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Not everybody may agree with me, but is there a more satisfying tipple than a whisky? The aromas, the warmth, the flavour, come to think of it, there are few drinks I would rate more than a good scotch. Whilst its taste is acquired and occasionally referred to as a kin to petrol by philistines, this makes it even more rewarding when you begin to appreciate it, yet despite these points, perhaps the best feature of whisky is its versatility. Whisky is great for mixing as well drinking neat, bourbon and coke, has a far more complex and enjoyable taste than its vodka alternative and any kind of whisky (preferably nothing too expensive) with ginger ale is also highly agreeable. On top of that, the drink is fairly good value compared to its distant cousin brandy for equivalent qualities.

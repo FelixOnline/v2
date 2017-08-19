@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alice Yang embraces her inner rebel as she investigates the quintessential rule-breaking magazine
 date: "2012-02-16 21:42:35 +0000"
+author_id: "ay310"
 
 # Attributes from Felix Online V1
 id: "2194"
@@ -33,15 +34,6 @@ image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ay310"
-author_name: "Alice Yang"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Born in Hertfordshire in 1996, John Rankin Waddell has come much further than most ex-accounting students, inspiring millions of people worldwide with his renowned collection of portraits. From top models and famous celebrities to the Queen, all the way to the less glamorous Mugunga refugee camp in Congo, his hefty Mamiya camera has seen it all.

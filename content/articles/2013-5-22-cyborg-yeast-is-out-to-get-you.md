@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You will be terminated
 date: "2013-05-22 14:29:09 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3597"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists have succeeded in creating an artificial feedback loop between a computer and yeast. Algorithmic programs on the computer controlled flashes of light to start and stop gene expression, thus regulating how much protein was produced. This innovative technique could possibly be used in industry to control production of biofuel by microbes.

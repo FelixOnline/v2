@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mo’ doctors, mo’ problems
 date: "2016-10-14 09:48:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6329"
@@ -33,15 +34,6 @@ image_height: "427"
 image_attribution: "NHS Confederation"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Jeremy Hunt revealed his new plan for the future of the NHS last week, a mix of creating more British doctors and attempting to keep the ones that are trained here for longer.

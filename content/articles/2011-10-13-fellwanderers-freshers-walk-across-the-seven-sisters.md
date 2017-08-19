@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New students head towards Eastbourne
 date: "2011-10-13 23:29:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1524"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Early on Sunday morning, more than 70 sleepy freshers made their way to Victoria and began to congregate around the Fellwanderers banner which was proudly flying between two poles. Once everyone had purchased their tickets and handed them to Heather, our responsible adult, we made our way to the platform. The group’s size quickly became evident, much to the dismay of the ticket collectors - who promptly opened the gates and waved us through without much question.

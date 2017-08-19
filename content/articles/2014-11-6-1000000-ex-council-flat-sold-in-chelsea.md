@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Expensive-ass flat yo.
 date: "2014-11-06 19:00:31 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4772"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A flat on Kings Road, Chelsea, has become the first ex-council flat to sell for near £1 million. The flat, which has three bedrooms as well as a communal courtyard, was bought by its former owners under the “Right to Buy” scheme in 1989 for the grand total of £48,000 (equivalent to around £110,000 in today’s prices), but has recently sold for £999,950.

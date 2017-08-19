@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paavo Schafer is hotly anticipating The Hobbit
 date: "2012-11-01 23:03:26 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2807"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 13 December 2012. This is a date that should be imprinted into everyone’s mind – from those who know that by divine law, Olórin is not allowed to use his magic directly against orcs to those who only know him as Gandalf.

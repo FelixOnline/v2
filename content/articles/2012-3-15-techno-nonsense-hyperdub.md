@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter gets to grips with London’s latest dance music pioneers
 date: "2012-03-15 21:34:22 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2387"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Regular readers of my column probably need little introduction to the label that I concern myself with this week. Hyperdub has, with not a hint of exaggeration, been the most influential electronic music label to have come out of London in a long, long time. Why then, you may ask, has it taken me so goddamn long to dedicate some prime Felix real-estate to the imprint? Well Hyperdub is the music label equivalent of a seven foot, teardrop-tattooed, switchblade-wielding nut job: fucking intimidating.

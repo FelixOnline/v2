@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Antonio Torrisi discusses new survival guidelines as frogs migrate due to climate change
 date: "2011-10-20 20:47:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1558"
@@ -33,15 +34,6 @@ image_height: "1716"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Climate change and global warming caused by greenhouse gas emissions have important implications on re-shaping Earth’s landscape. Animal species can suffer dramatic consequences, possibly even extinction, from these changes.

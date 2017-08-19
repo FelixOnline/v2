@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We’re doing it for you guys
 date: "2016-05-27 08:41:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6200"
@@ -33,15 +34,6 @@ image_height: "2282"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Sign the petition [here](http://felixonline.co.uk/go/library)._

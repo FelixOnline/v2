@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A strike ballot follows the demonstration on Whitehall that saw 20,000 flock to parliament
 date: "2015-10-23 10:54:55 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5663"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over 20,000 people took part in a protest march in London against proposed government changes to junior doctors’ contracts last Saturday. Protests also took place in Belfast, Nottingham and Dundee.

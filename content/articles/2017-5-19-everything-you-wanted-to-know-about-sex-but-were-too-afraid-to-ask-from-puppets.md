@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ezra Kitson discovers how Edie Edmundson is staging the sex education revolution
 date: "2017-05-19 13:12:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6969"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: "Edie Edmundson | Wondering Hands "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ‘Sex and Puppets’ is reimagining the way we talk about sex. The show devised by the puppet company Wondering Hands uses a series of witty sketches - composed from verbatim transcripts of real life experiences - to explore different aspects of sex.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou profiles the controversial director and his latest work, Inglourious Basterds
 date: "2010-11-25 19:56:32 +0000"
+author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "423"
@@ -33,15 +34,6 @@ image_height: "1050"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nn1209"
-author_name: "Navid Nabijou"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the past two decades, few directors have managed to excite such acclaim – and controversy – as Quentin Tarantino. His work has sharply polarised critics, spawning a plethora of varied interpretations and deconstructions. Each new release is followed by a blaze of feverish publicity, and through all of this, Tarantino and his films remain something of an enigma.

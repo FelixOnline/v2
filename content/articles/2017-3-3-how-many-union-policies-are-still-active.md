@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Less than half according to the website but is that true?
 date: "2017-03-03 14:16:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6835"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union has fallen behind maintaining up to date policies responsible for managing a range of issues, from Equality of Opportunities to Club Society and Project (CSP) Equipment.

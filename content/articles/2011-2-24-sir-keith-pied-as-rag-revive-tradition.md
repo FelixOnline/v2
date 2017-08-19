@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rector Sir Keith O'Nions gets pied for charity
 date: "2011-02-24 19:52:16 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "872"
@@ -34,15 +35,6 @@ image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 _See more photos of the Rector getting pied [here](http://felixonline.co.uk/gallery/?albumID=8)_

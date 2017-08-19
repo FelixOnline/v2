@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The perfect excuse to get yourself to Topshop today!
 date: "2012-06-14 19:50:28 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2552"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s summer; exams are over, there are parties to go to, holiday destinations to jet off to, and of course, the Summer Ball to attend. For many of us, all of these occasions probably warrant new clothes.

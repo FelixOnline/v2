@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bombay Bicycle Club command the stage
 date: "2012-05-10 20:06:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2441"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This was my first time at the epic venue which is Alexandra Palace and I was not disappointed. With support from __Rae Morris__ and __Lianne la Havves__, the evening had a solid start but it was the first few songs of __Bombay Bicycle Club__’s set that really kicked the show into gear.

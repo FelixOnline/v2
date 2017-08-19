@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kin-Hing Lo puts the Galaxy Tab through its paces
 date: "2010-11-25 20:12:59 +0000"
+author_id: "kl208"
 
 # Attributes from Felix Online V1
 id: "427"
@@ -34,15 +35,6 @@ image_height: "2268"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kl208"
-author_name: "Kin-hing Lo"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Galaxy Tab is a 7-inch Android-based tablet device from Samsung. It’s been dubbed the first serious competitor to the current king of the slates, Apple’s iPad. But does the the Galaxy Tab really have what it takes to top wishlists this Christmas or will the iPad reign supreme? Read on to find out.

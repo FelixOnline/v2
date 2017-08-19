@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:53:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6122"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Humans have always looked up at the sky in awe and fascination. For thousands of years we’ve searched for light and guidance in its movements, while hanging our fables and myths on the celestial bodies like regal robes. And little wonder – almost all of the elements in our bodies are made from cosmic stardust, spewed out from the fiery bowels at the hearts of stars billions of years ago. As the astronomer and philosopher Carl Sagan quoted famously, “We’re made of star stuff.”

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Any more punny headlines and I'll be forced to hand myself in...
 date: "2011-10-28 13:32:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1643"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It was recently announced that a new series of [Arrested Development](http://www.imdb.com/title/tt0367279/) is in the works and will be aired at some point in the future. The plan is to then make a film. If you are anywhere near as big an AD fan (as those in the know call it – although it does make it sound a bit like a disorder) as I am you will have flipped your shit, I believe that is the technical term. Don’t worry, that is purely metaphorical shit-flipping going on.

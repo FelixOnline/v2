@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sentimental columnists concludes all science is worthwhile science
 date: "2016-06-17 09:20:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6279"
@@ -33,15 +34,6 @@ image_height: "2019"
 image_attribution: "Heather Paul"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ence, we’ve been trying to provide evidence that the scientific method that is in place is an effective filter, and that as such, there is no such thing as ‘shit science’. But as it is the end of the year, and you might be going off to glorious academic careers, here are a few things you should know to be able to judge a scientific paper critically.

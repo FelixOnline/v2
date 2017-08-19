@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jasmine French (Blanchett) is a hard character for Imperial students to relate to: she’s rich, she wants to go into interior decorating, she knows nothing about finance, and she’s a woman. The film intercuts scenes from two periods of her life; one shows the ostentatious life she leads paid for by h
 date: "2013-10-06 10:22:54 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3817"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 ####  Blue Jasmine

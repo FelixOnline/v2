@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Naulls takes you through recent political developments aiming at tackling the country’s housing crisis while discussing how students are affected and what they can expect.
 date: "2017-03-03 14:19:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6836"
@@ -34,15 +35,6 @@ image_height: "800"
 image_attribution: "Dionisos Olympian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s that time of year again. The ‘Private Housing Event’ invitation has appeared on Facebook, your housemates are suspiciously quiet about that looming deadline to renew your tenancy, and the thought of going through the whole process again makes you even more nauseous than that seventh snakebite you had at Reynolds the previous evening.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha says: seriously, we stole everyone’s shit
 date: "2012-10-11 20:49:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2654"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Fresher’s Fair 2012 saw an unprecedented rise in mascotry and the RCSU-CGCU rivalry was re-ignited with a burning vengeance. After the capture of the ICSMU’s Phoenix head last year the RCSU went a step further as it is currently holding onto City and Guild Union’s Bolt and Spanner and the ICSMU’s Phoenix feet. However, it pains me to say that our beloved mascot Theta was violated as well and one of its four parts is currently in the hands of the dirty engineers in CGCU.

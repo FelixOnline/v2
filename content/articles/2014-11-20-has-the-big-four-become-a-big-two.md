@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle explains his fears after last week’s final that wasn’t
 date: "2014-11-20 21:35:48 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4916"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week Novak Djokovic won his third consecutive ATP World Tour Finals title whilst also in the process securing the World Number One ranking for the year. Apart from a minor (and temporary) blip against Japanese player Kei Nishikori in the semi-final, Djokovic swept aside all those in his way with disdain.

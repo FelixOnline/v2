@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Summer tour to Malta sees a haul of medals
 date: "2010-11-04 18:47:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "313"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Imperial College Fencing Club](http://www.union.ic.ac.uk/acc/fencing/) summer tour saw them invade Malta, escaping from their exams, and starting the week with a bit of night swimming at the villa they had rented in Mellieha for the competition.

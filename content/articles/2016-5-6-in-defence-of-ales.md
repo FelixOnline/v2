@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ales are heavenly elixirs that don’t need to be cold and fizzy to taste wonderful
 date: "2016-05-06 09:48:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6118"
@@ -34,15 +35,6 @@ image_height: "650"
 image_attribution: "Brewdog"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every Friday I pick up a copy of FELIX to glance at the headline, look at the centrefold to see if I recognise anyone in it, quietly complain to myself that my half-hearted attempts at developing a six-pack have yet to succeed, read Hangman, lament the fact that it's only one page long, and amuse myself with the idea of running for Felix Editor just to convert the whole damn thing into 32 pages of Hangman 4 teh lulz (note to Grace, I’m not actually seriously going to do it).

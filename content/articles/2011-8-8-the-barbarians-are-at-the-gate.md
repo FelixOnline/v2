@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As Morrisons begins to stock truffles on its shelves, Sam Furse dives headfirst into the world of supermarkets to find out why
 date: "2011-08-08 13:52:13 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1454"
@@ -34,15 +35,6 @@ image_height: "1800"
 image_attribution: "KamCity"
 image_attribution_link: "http://www.kamcity.com/images/retailer/morrisons.jpg"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Everyone thinks Morrisons is for cheap northerners. At least, [according to a recent report](http://www.telegraph.co.uk/foodanddrink/foodanddrinknews/8668574/Italian-black-truffles-on-sale-in-Morrisons.html), Morrisons think that people think that they are for cheap northerners. So, they have started selling black Italian truffles.

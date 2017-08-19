@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Apple launched the iPad whilst you were out
 date: "2010-04-30 10:47:38 +0100"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "130"
@@ -33,15 +34,6 @@ image_height: "496"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 Whilst you were out, Apple launched a little thing called the iPad. You might have seen our feature on Mr. Jobs' 'magical' device last term, which was released in its WiFi only form to avid fans across the US on April 3rd. Is it as amazing as all Apple fanboys hoped and dreamed? Maybe.

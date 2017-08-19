@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Interested in surfing? Surfsoc welcomes beginner/intermediate/Kelly slater quality surfers. To be put on the mailing list and learn more about surfsoc simply email: surfsoc@imperial.ac.uk
 date: "2011-12-01 21:28:11 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1894"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Surfing__

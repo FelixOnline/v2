@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Russell Group uni will be investing the £250 million in student facilities
 date: "2016-02-26 11:26:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5957"
@@ -34,15 +35,6 @@ image_height: "460"
 image_attribution: "Which? University"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Leeds university has issued its own bond, with an interest rate comparable to the UK government’s own low-risk Gilts.

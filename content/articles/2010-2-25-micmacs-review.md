@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Film editor Ed Knock finds himself thrown into another fantastic world of Jean Pierre Jeunet
 date: "2010-02-25 15:53:53 +0000"
+author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "101"
@@ -33,15 +34,6 @@ image_height: "699"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "egk08"
-author_name: "Edmund Knock"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Micmacs_ starts very sombrely; a soldier crouching over a landmine, gingerly sweeping the dirt off its surface amongst the cruel barenness of the desert. The camera cuts to a longshot and the mine suddenly explodes in the soldiers face throwing him high into the air. This sounds like a step into darker themes for Jean Pierre Jeunet, the man who gave us the surreal brilliance of _Delicatessen_ and the anarchic spirit of _Amelie_.

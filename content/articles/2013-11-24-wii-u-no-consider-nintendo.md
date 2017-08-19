@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention...
 date: "2013-11-24 16:36:27 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4129"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Last week my fellow games Editor Maximilian Eggl pointed out some of the main differences between the upcoming PS4 and Xbox One. Although I see many good things in both of these consoles I feel that even though it has already been out for a year, the Wii U deserves a mention. I am, as some may have noticed, a pretty hardcore Nintendo fan but I shall try and keep this as informative and unbiased as I can. So here follows an account of why I believe the Wii U is a real competitor and something that should be considered, and just a general overview of what I think of consoles.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2232"
@@ -34,15 +35,6 @@ image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)

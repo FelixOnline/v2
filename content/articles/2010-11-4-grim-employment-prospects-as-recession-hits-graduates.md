@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Graduate unemployment at 8.9%
 date: "2010-11-04 19:12:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "330"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Graduate unemployment has risen to 8.9%, a rise of one percentage point from the previous year. This is the conclusion of a survey by the [Higher Education Careers Services Unit](http://www.hecsu.ac.uk/index.htm) (HECSU) of 225,000 graduates questioned in January this year, after leaving university in the summer of 2008.

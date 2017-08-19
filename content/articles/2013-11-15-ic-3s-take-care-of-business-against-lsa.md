@@ -4,6 +4,7 @@ title: >
 subtitle: >
   n the 6th of November – a sinisterly drab Wednesday (the kind that taunts at the beginning of a cold, dark winter) – ICUAFC 3rd Team played against LCA Business School 1st Team. The 5-0 score-line showed the match to be (ironically) not just business as usual for the opposition, and indeed the same
 date: "2013-11-15 11:52:03 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4091"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On the 6th of November – a sinisterly drab Wednesday (the kind that taunts at the beginning of a cold, dark winter) – ICUAFC 3rd Team played against LCA Business School 1st Team. The 5-0 score-line showed the match to be (ironically) not just business as usual for the opposition, and indeed the same was true of both teams’ journeys to the match.

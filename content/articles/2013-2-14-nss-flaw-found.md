@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A hold is exposed again, or, re-exposed
 date: "2013-02-14 21:17:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3335"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A flaw in the NSS has been exposed once more. It is possible, and not too difficult, for students to fill out the survey on behalf of others, raising concerns over the security of the survey – particularly due to the importance place on its results in league tables.

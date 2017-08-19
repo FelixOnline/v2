@@ -4,6 +4,7 @@ title: >
 subtitle: >
   RAG drops Imperial Rugby from their Nude Calendar after Rugby made the national press.
 date: "2014-11-06 22:09:43 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4811"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In light of recent events surrounding Imperial College Rugby Club, the RAG committee chose to remove the team from their naked calendar for 2015.

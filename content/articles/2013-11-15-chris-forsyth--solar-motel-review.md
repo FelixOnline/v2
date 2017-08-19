@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Forsyth is an American psych rock guitarist much admired by myself for his dabblings in drone and general guitar badass-ery.
 date: "2013-11-15 18:07:10 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4079"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Chris Forsyth is an American psych rock guitarist much admired by myself for his dabblings in drone and general guitar badass-ery. In my review of his previous full length, Kenzo Deluxe, I noted that Forsyth was essentially returning the guitar to some past glory, shedding it of the threadbare stereotype engendered by cock-rock’s (along with many other genres) self-indulgence and reverting it to an instrument of experimentation, where many of the older guitar based genres, especially blues, rear their head at one time or another.

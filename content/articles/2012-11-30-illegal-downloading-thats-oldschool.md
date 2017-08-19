@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Has the market, giving consumers better deals, reduced illegal torrenting?
 date: "2012-11-30 11:40:24 +0000"
+author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "3017"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jp1409"
-author_name: "Jason Parmar"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jason_parmar"
-author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
-author_website_url: "http://www.jasonparmar.com"
-author_website_title: "Personal Website"
 ---
 
 Writing the previous article on Google Music’s introduction to the UK market reminded me of an interesting question that I’ve been asking myself for a while, “has the progress in the digital music market, which gives consumers a better deal, reduced the amount we illegal download?”

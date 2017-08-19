@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Experiment between staff and PhD students breaks down
 date: "2011-10-27 20:22:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1610"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An experiment in the [Mechanical Engineering department](http://www3.imperial.ac.uk/mechanicalengineering) whereby PhD students have been allowed to share the academic common room (701) with staff members has ended after six months – with the eviction of students. In an email sent to the students involved, [Mike Lowe, Chair of the Space Committee](http://www3.imperial.ac.uk/people/m.lowe), listed a combination of contributing reasons why “the facility is no longer working out to be convenient.”

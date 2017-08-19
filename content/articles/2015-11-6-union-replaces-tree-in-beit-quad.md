@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s been tripping you up for years, and now it’s gone forever
 date: "2015-11-06 13:35:04 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5697"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the two large, established cherry trees dominating Beit quad has been completely removed, and replaced with a younger model. Many readers will be familiar with the trees’ knobbly roots which have lifted the paving around the union’s seating area, forming a trip hazard.

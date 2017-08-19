@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union pushes for resolving funding and staffing issues
 date: "2017-01-27 14:11:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6681"
@@ -33,15 +34,6 @@ image_height: "290"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union has resolved to put pressure on Imperial College to Improve Career Services. The decision came after Eric Suen, a third year medic raised the issue during Council last Tuesday.

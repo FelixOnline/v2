@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Film runs down the winners and losers
 date: "2013-05-28 13:50:09 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3624"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The world’s most prestigious film festival came to a close last Sunday, with renowned filmmakers, actors, models, singers and Cheryl Cole all making an appearance on the fancy red carpet – there were highs, lows, and some downright bizarre films in competition, as with every year, and Felix Film goes through this year’s big winners – we’ll look at the others next week – we’ve got exams...!

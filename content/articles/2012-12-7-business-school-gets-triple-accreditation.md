@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Business School is now in the top 1%
 date: "2012-12-07 00:12:35 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3022"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Imperial College Business School](http://www3.imperial.ac.uk/business-school) has achieved triple accreditation. This comes after meeting the required standard from the [Association to Advance Collegiate Schools of Business](http://www.aacsb.edu/) (AACSB).

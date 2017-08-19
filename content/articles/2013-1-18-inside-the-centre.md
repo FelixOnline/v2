@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszeski reviews Ray Monk’s Oppenheimer biography
 date: "2013-01-18 00:43:20 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3139"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ray Monk has long been highly regarded as a skilled biographer. A philosopher himself, his 1991 biography of Wittgenstein won him the John Llewellyn Rhys Prize. In his latest work, however, Monk has chosen to explore the life of one of America’s most controversial scientists – Robert Oppenheimer.

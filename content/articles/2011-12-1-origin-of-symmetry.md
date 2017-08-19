@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An essential classic for any music lover, says Clare Cheng
 date: "2011-12-01 20:53:50 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1876"
@@ -34,15 +35,6 @@ image_height: "953"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Back in 2001; the year iTunes was born, [__J-Lo__](http://www.jenniferlopezonline.com/) got her first UK number 1 single and George Bush began his war on terror, [__Muse__](http://muse.mu/) released the amazingly beautiful album that is _Origin of Symmetry_. Although this was the Devonshire band’s second album after _Showbiz_, it was the collection of songs that marked the greatness that was to come.

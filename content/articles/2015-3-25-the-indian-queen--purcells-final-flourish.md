@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland reviews Peter Sellars’ contemporary take on a classic
 date: "2015-03-25 13:12:51 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5446"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ENO / Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 To call this production of _The Indian Queen_ at the __ENO__ Purcell’s opera might be seen as unfaithful to the extent to which Peter Sellars has reinvented the work. First performed in 1695 only a short walk away at __Theatre Royal__ in Drury Lane, _The Indian Queen_ was Henry Purcell’s final work, for he was to pass away tragically prematurely later that year. Based on a libretto of the same name written thirty years previously by John Dryden, Purcell was unable to finish the work, and hence it has been largely left abandoned from the contemporary repertoires of the world’s great opera houses. Yet, as brilliantly illustrated in this interpretation of the piece, Purcell’s music still carries all of the weight and majesty of his original vision, proving to any listeners that he was a true master of Baroque opera.

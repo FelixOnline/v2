@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College London has a £3.9 million stake in the arms industry, according to a report in the London Student.
 date: "2014-02-07 05:08:19 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4359"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial College London has a £3.9 million stake in the arms industry, according to a report in the London Student. The report, published on Monday 27th January, details the shares that London universities have invested in various arms companies. Imperial has by far the largest stake with £3.9 million out of a total of £7.4 million. More specifically: Imperial has £1.75 million invested in General Electric, £922 thousand in Inmarsat, £489 thousand in Texas Instruments and £753 thousand in Rolls Royce. The report says Imperial College refused to comment on its holdings. To my knowledge, it has yet to change this decision.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don’t be a James Blunt...
 date: "2010-11-25 21:38:43 +0000"
+author_id: "rjc409"
 
 # Attributes from Felix Online V1
 id: "442"
@@ -34,15 +35,6 @@ image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rjc409"
-author_name: "Robert Cleaver"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "denimcollar"
-author_facebook: "http://www.facebook.com/rob.james.cleaver"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Anyone can claim to have saved the world. I stopped the toast from going that little bit too brown this morning. I don't know it yet, but this could have saved the world.

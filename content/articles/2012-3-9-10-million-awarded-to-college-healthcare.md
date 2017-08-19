@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Trust receives money to aid new Clinical Research Facility
 date: "2012-03-09 01:05:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2334"
@@ -34,15 +35,6 @@ image_height: "3744"
 image_attribution: "Layton Thompson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Imperial College Healthcare Trust](http://www.imperial.nhs.uk/) has been awarded over £10m from the National Institute for Health Research (NIHR) to develop new treatments. The Trust successfully bid for the funding to support its newly refurbished Wellcome Trust McMichael Clinical Research Facility at Hammersmith Hospital.

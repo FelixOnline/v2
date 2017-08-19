@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why Elon Musk’s newest invention is smart, sexy and sustainable
 date: "2016-11-04 12:47:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6381"
@@ -33,15 +34,6 @@ image_height: "282"
 image_attribution: "Tesla Motors "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Unless you’ve been living under a cave for the last few years, you will have heard of Elon Musk, the founder of Tesla Motors, SolarCity and SpaceX. This South African born engineer, inventor and progressive thinker is on a quest to save mankind from itself through renewable energy, space exploration and by tackling whatever global issue he sets his mind on. Musk has often been compared to a real life Tony Stark.

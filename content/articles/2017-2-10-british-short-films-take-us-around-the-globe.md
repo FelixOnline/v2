@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The shortlist of BAFTA nominees for Best British Short Film and Animation are daring in their scope, but the quality of some leaves a little to be desired
 date: "2017-02-10 15:21:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6761"
@@ -34,15 +35,6 @@ image_height: "562"
 image_attribution: "Jennifer Zheng"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If there is a theme of the nominees for the BAFTAs for Best British Short Film and Best British Short Animation, it would probably be ‘journey’. Across the eight shorts, we are catapulted from one corner of the globe to the next, dealing with themes both big and small. One of the most engaging films, however, deals with the instantly-recognisable institution of the British police force: Charlotte Regan’s Standby takes place entirely in a police car, with all shots taken from the same angle. Andrew Paul and Alexa Morden play the officers, and we join them on a whistle-stop tour of birthdays, breakdowns, and promotions, punctuated by hilarious sequences of the two cops rapping along to Skepta. It’s not the most profound of pieces, but it’s lively and amusing.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Art Section Editors Introduce Style
 date: "2014-11-06 21:27:06 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4801"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Style. It’s different to fashion. Fashion suggests something fleeting, with trends that slip by like wind. Style, in contrast, is much more constant. It evokes a timeless ideal of chic-ness, a trend that will never go out of style; in other words, a classic.

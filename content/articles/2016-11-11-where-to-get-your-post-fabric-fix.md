@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After fabric’s tragic closure at the end of October, many of us are left frantically searching for a substitute to tide us over until the appeal on 28th November. Fear not, felix has you covered! Take a look at these great venues...
 date: "2016-11-11 18:36:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6444"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "Rob Searle"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Corsica Studios

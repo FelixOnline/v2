@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Engineering students prove they are smart and sporty
 date: "2015-03-03 14:51:18 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5325"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 4am on a weekday morning is rarely a time you see students trooping into College, far less seemingly excited about the prospect of doing so. Yet this was the scene on Tuesday 17th February, as 150 Chemical Engineering students set off to Birmingham to compete in their annual sports competition – Frank Morton’s.

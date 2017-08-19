@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou embarks on a spirituo-materialistic journey
 date: "2011-11-10 22:21:00 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1746"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Navid Nabijou"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There isn’t a whole lot of space in my flat. Its close proximity to college is a massive plus, but one of the trade-offs is having to share rooms. This isn’t all bad by any means, but at times it can grow a bit trying.

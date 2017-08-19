@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pavitar Devgon on what makes some people become psychopaths
 date: "2011-11-17 20:27:24 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1758"
@@ -33,15 +34,6 @@ image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We can all name famous psychopaths, be they the fictional Hannibal Lecter or real life Jack the Ripper. They can cause fear or uneasiness in even the most hardy of us. But what really makes a serial killer? Why are psychopaths so different from ‘us’?

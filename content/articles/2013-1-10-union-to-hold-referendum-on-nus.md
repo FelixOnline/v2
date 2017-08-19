@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In or out? You decide.
 date: "2013-01-10 22:23:10 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3086"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union will hold an NUS referendum during this year’s sabbatical elections, which will take place from 8-15 March 2013.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Student body remains unimpressed
 date: "2017-02-10 13:37:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6743"
@@ -34,15 +35,6 @@ image_height: "2113"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills.

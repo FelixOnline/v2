@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam looks at the Whistle Blower's best friend and govrnmental enemy
 date: "2010-06-16 19:49:04 +0100"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "147"
@@ -33,15 +34,6 @@ image_height: "278"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 Where would you go if you had a government secret that you felt needed publishing? Just as there’s a wiki for encyclopaedia articles and another for dictionary entries, you might want to try the wiki for whistleblowers and activists, Wikileaks. Among its eclectic collection of leaks are a manual on the ‘Boomerang’ method of sniper location, a description of FBI methods for mobile phone tapping, a full list of British postcodes and a roster of BNP members. Their website describes their mission as providing ‘a multi-jurisdictional public service designed to protect whistleblowers, journalists and activists who have sensitive materials to communicate to the public.’ For a website that has little funding, Wikileaks has shown a remarkable ability to stay in the headlines, bragging of more scoops in its 3 year lifetime than the Washington Post has had in 30. Yet how long the website will be able to survive is questionable, as it is hounded by governments and corporations that often come with the power to switch off servers, confiscate documents and launch major legal battles - weighty financial burdens on a site that survives largely on donations and awards from human rights activists.

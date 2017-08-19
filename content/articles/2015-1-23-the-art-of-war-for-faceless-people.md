@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Osama Awara discusses the modern weaponisation of hacking
 date: "2015-01-23 18:09:50 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5139"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "filmschoolrejects, ITV, The New Yorker"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The previous few weeks have seen a surge in cyber warfare like no other. From the __Sony Pictures __hacking over _The Interview_ – a satire film depicting the assassination attempt of Kim Jong-Un, to the ISIS hacking of US Central Command Twitter account. The hacktivist group Anonymous have vowed to take down pro-Islamic extremist websites and social media accounts in light of the recent Paris attacks on Charlie Hebdo. The main objective that all these hacks have in common is not necessarily to undermine security, but to create a psychological impact.

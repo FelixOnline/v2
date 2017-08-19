@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances
 date: "2010-12-09 21:45:21 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "541"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Afonso Campos"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 When will Imperial march?’ was the question Felix asked [last week](http://www.felixonline.co.uk/?article=499). Government cuts to higher education and tuition fees of up to £9,000 had failed to bring out the inner revolutionary in the average Imperial student. What then would it take to inflame passions on campus? The answer arrived with a flurry of leaves on Wednesday, as hundreds of students took the Life Sciences department to account over what they see as the unjustified and unjustifiable cuts being made to what is, as the department itself admits, ‘[one of the largest life science groups in Europe](http://www3.imperial.ac.uk/lifesciences)’.

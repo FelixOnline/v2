@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The nuclear sector has contributed £9.36 million
 date: "2017-06-02 13:49:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6997"
@@ -34,15 +35,6 @@ image_height: "604"
 image_attribution: "Defence Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Atomic Weapons Establishment (AWE) has long been responsible for the UK’s nuclear deterrence programme. In addition to providing the nuclear warheads for each of the Vanguard submarines that make up Trident, the AWE contributes significant amounts to the coffers of Imperial.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds that the bravado of The Motherfucker with the Hat hides subtler themes
 date: "2015-06-20 16:25:58 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5646"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Mark Douet"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ‘I mean, what are we - Europeans or some shit?’ cries Jackie, the hot-headed, recently-out-of-prison, honour-bound, macho-man central character of Stephen Adly Guirgis’ 2011 play _The Motherfucker with the Hat_, making its UK debut at the __National’s__ Lyttelton Theatre. And he’s right. This play, with its screeching city soundscape, larger-than-life characters, and tendency for expletives in every line, positively screams New York City. There are even the iconic fire escapes, hanging over the stage like swords of Damocles, reminding us that this certainly isn’t a European domestic drama.

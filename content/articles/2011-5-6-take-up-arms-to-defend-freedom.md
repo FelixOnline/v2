@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In 1848, democrats offered their lives for freedom. Today’s liberals can scarcely be bothered to lift their pens. By Alessandro Guazzi
 date: "2011-05-06 08:44:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1160"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Spain, 1936. As civil war sweeps through the country, volunteers from all over Europe flock to the standards of the Republican and Nationalist armies. Made iconic through Hemingway’s dry prose and Picasso’s chilling canvas, the Spanish Civil war was probably the last real instance in which thousands of individuals across Europe took up arms to defend their ideals in a foreign state regardless of their own nation’s views on the matter.

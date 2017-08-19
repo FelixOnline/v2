@@ -4,6 +4,7 @@ title: >
 subtitle: >
   More anonymous accounts of students and their experiences with depression
 date: "2012-05-04 01:17:02 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2426"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   St Bart's are made short work of
 date: "2012-01-20 12:10:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2042"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On a cold Wednesday evening, IC M3 clinically dispatched St. Bart’s M2 to reach the dizzying heights of the top of ULU. A 3-0 scoreline did not flatter IC, with our boys creating many chances and defending solidly throughout.

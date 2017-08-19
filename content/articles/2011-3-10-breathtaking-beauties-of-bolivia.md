@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I know you’d rather hear about cocaine, but instead Christopher Walmsley discovers some of the other countless wonders this fascinating country has to offer
 date: "2011-03-10 20:50:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1077"
@@ -34,15 +35,6 @@ image_height: "681"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Perhaps best known for its exports, the landlocked South American country that takes its name in honour of revolutionary [Simón Bolívar](http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar) is lesser known for its tourism. Indeed Bolivia does remain a rather unknown quantity to many outside of the narcotics trade. There is a story that Queen Victoria once avenged her embarrassed diplomat to the country, after realising that it was far too inaccessible to attack, by simply declaring "[Bolivia no longer exists](http://www.time.com/time/magazine/article/0,9171,820493,00.html)". Despite this snub and with a little notoriety gained from the book Marching Powder this country has become a well trodden destination on the continent’s Gringo trail.

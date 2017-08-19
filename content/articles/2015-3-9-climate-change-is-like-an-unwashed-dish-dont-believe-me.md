@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5378"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You guys already know that global warming is not a myth, nor an April fools trick. It’s a growing concern that we and future generations are facing. Earth’s blood, so to speak, is on humanity’s hands and it is our responsibility to acknowledge, understand and find solutions to this challenge. I talk about ‘humanity’, but in reality it is the actions of every individual, both you and me, which shape the course of our amalgam.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Homework is one of the less racy nights held at BGWMC, making for an ideal, gentle midweek night out
 date: "2010-11-11 20:12:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "331"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Before anyone builds up a mental image of cockney miners drinking pints of bitter, let me set out a few facts. Whilst [Bethnal Green Working Men’s Club](http://www.workersplaytime.net/) at one point probably lived up to its name, those in charge now clearly don’t care for preserving history. Men in overalls and bingo nights have been replaced by perverse shows and barmen transvestites.

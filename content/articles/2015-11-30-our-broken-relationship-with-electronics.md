@@ -4,6 +4,7 @@ title: >
 subtitle: >
   When your phone breaks, what do you do with it?
 date: "2015-11-30 12:03:51 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5788"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 How many phones have you owned in the last ten years? Maybe the non-removable battery died or the device became unbearably slow and it was just cheaper to get a new one. Or maybe it was just time for an upgrade. The new model always seems to have the essential features that were missing from the old version. Short lifetimes, sealed hardware and shiny new designs every year. It’s almost like electronics companies want us to keep buying an endless supply of brand new devices from them.

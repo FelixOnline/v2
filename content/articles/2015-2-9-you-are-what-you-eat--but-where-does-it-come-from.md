@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jane Courtnell on the woes of unsustainable agriculture
 date: "2015-02-09 19:30:25 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5222"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fertile Crescent of Western Asia provides the earliest evidence so far of agricultural development; dated to have occurred in this region around 11,000 years ago. This behaviour originated independently at several locations and spread globally.

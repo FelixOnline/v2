@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An opera that speaks to the heart
 date: "2017-02-03 17:02:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6727"
@@ -33,15 +34,6 @@ image_height: "5106"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An exhibition of harlotry upon the public stage!” denounced The Times when La Traviata was first staged in London in 1856. Although it is now the most frequently staged opera worldwide, La Traviata’s beginnings were plagued by stern censorship and moral outrage. That a common prostitute should be portrayed in anything other than a negative light – worse, for her to be the star of the show – was a shocking statement to make in the Victorian era.

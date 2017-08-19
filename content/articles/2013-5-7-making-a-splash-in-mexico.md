@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephanie Walton visits an exotic paradise, while you're in the Library eating a j pot. Damn.
 date: "2013-05-07 19:37:17 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3544"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "All photos: Stephanie Walton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mexico receives such bad press these days that it is hard to believe it has a safe and beautiful peninsula kicking out into the Caribbean Sea. There are white beaches, fascinating Mayan ruins and magnificent colonial cities. It seems that the only two drawbacks to this balmy “Yucatán” Peninsula are that place names are unpronounceable (try “Xkeken” or “Xcaret”) and that although the street food looks great, it might be regretted later.

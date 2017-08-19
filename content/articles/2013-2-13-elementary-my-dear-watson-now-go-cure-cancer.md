@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yong Wen Chua is wondering if he could beat Watson at Jeopardy
 date: "2013-02-13 12:38:58 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3296"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Watson might be becoming smarter than Holmes after all, if IBM gets its way.

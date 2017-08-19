@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What would happen if the next UK Government Chief Scientific Adviser (GCSA) was elected through a public vote? That’s exactly what a group of us from the science communication masters are attempting to find out.
 date: "2014-03-17 17:22:27 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4484"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 What would happen if the next UK Government Chief Scientific Adviser (GCSA) was elected through a public vote? That’s exactly what a group of us from the science communication masters are attempting to find out. The GCSA is the head of the Government Office for Science, and the personal adviser on science and technology-related policies to the Prime Minister and the Cabinet. The GCSA also heads the Chief Scientific Adviser (CSA) network and a CSA sits at the top table of most government departments. It's an important position and the project is trying to answer the crucial question: what kind of person do you think should be leading science?

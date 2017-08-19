@@ -4,6 +4,7 @@ title: >
 subtitle: >
   oop
 date: "2017-02-17 16:22:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6802"
@@ -34,15 +35,6 @@ image_height: "2340"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Still buzzing after their triumph last week, Imperial were roaring to get at a UCL Medical School (RUMS) side which had evaded defeat in the past five meetings, including a 49-10 drubbing earlier this season. With RUMS 2nd top and IC 2nd from bottom in our league, the scene was set for a tough afternoon.

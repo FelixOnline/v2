@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As well as hurting those caught in the cross-fire, the hatred and fear of refugees is spreading
 date: "2016-02-05 11:59:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5867"
@@ -34,15 +35,6 @@ image_height: "427"
 image_attribution: "Twitter"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Racism, xenophobia and Islamophobia have reached a new height in light of the ‘refugee-crisis’ and more recently the sexual harassment incidents in Germany on New Year’s Eve. This Saturday, Dover saw another big anti-immigration rally by groups like the English Defense League, National Front, South East Alliance, Britain First, BNP and UK PEGIDA (don’t even try to figure out what PEGIDA stands for, the acronym only “makes sense” in German).

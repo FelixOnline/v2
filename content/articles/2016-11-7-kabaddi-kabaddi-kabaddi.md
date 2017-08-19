@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix tries a sport. Oh yeah
 date: "2016-11-07 13:15:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6404"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Right, now I’ve got your attention, listen up. I’m the new Sport editor, I love playing sports, I love writing about sports, and right now I’m writing about one sport most of you probably haven’t heard of (including myself until a week ago). Apologies in advance for those expecting a heroic sports story, I’m more likely to star in _The Benchwarmers_ than _The Mighty Ducks_.

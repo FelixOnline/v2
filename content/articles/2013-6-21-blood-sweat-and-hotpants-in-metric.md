@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Metric turns on Pole Soc for a dramatic end to their Summer Showcase
 date: "2013-06-21 01:25:41 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3740"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pole is one of the hottest fitness trends in the country, combining ballet and gymnastics to create routines as physically impressive as they are sexy. Don’t let the hotpants fool you – the Pole Soc girls (and guys!) routinely bust out human flags and the exposed skin is used for grip.

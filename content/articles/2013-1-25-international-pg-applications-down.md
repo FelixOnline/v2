@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Applications have fallen for the first time in 16 years
 date: "2013-01-25 01:30:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3179"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The number of Non-EU postgraduate applicants has fallen for the first time in 16 years. In previous years the numbers had risen annually by an average of more than 10%. Figures released by the Higher Education Statistical Agency (Hesa) shows a 1% drop fuelling ideas that the government’s immigration crackdown is deterring students continuing their education in the UK.

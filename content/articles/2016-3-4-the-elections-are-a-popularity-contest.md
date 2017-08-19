@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s the university equivalent of a beauty paegant
 date: "2016-03-04 11:32:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6000"
@@ -34,15 +35,6 @@ image_height: "1146"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Year on year, students put themselves forward as candidates for leadership positions in the Union because they feel strongly that things need to change, and they think that their ideas and their drive can help implement that. They campaign, putting their faces and ideas out there, and, in the case of the sabbatical officers, some earn themselves a job at the end of it. But is this fair?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yasser Mahmoud on the recent conflict in Gaza
 date: "2012-11-29 23:12:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3007"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m sat across the table from my friend from Gaza; he only got back a week ago but somehow home has managed to find its way back on the news. In between bites of SCR chicken he tells me about his friends back home. I ask if they’re OK and he nods. Suddenly he remembers that one of his friend’s sisters has died. He tells me that she left behind a baby, a little girl only 14 months old – another orphan and another dead mother. Of course she was Palestinian, nationless and now dead, her only crime to have been born in Gaza.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Campaigners for huge cuts in number of sabbs vow they "will be back".
 date: "2014-12-12 12:47:06 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5047"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 UCL Union has voted to not reduce the number of sabbatical officers in a close-fought debate at a General Assembly on Tuesday. The motion, which was voted for by a simple majority of students, failed to pass as it did not reach the 75% majority necessary to modify UCLU’s governing documents.

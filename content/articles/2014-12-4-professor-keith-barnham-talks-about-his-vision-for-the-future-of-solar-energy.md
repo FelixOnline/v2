@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “If we could produce our own, free, solar fuel on our rooftops, we could use it in fuel cells to power cars. You’d have free mileage for life.” James Bezer talks to Professor Keith Barnham about his vision for the future of solar energy
 date: "2014-12-04 21:32:01 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "5015"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __James: You originally started your career in particle physics—why did you change to researching solar panels?__

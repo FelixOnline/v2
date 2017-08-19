@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Most people work so that they can live, but a lucky few live so that they can work. All you need is inspiration, says Saskia Verhagen
 date: "2013-03-07 20:56:27 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3420"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Complacency is a cruel mistress. She lures you in with a sense of comfort: that failing an exam, or not getting the degree you wanted, or that mediocrity itself might just be… fine. That you’ll survive, and see tomorrow, and the next day – and nothing will really change. And if nothing changes, there’s nothing to be afraid of. Those ensnared in her trap will drift with the tide, not having to think, or imagining what on earth it might be that could bring life to the days they spend breathing the air, walking the streets, eating their dinner, sleeping dreamlessly through the night.

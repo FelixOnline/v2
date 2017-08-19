@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange examines whether the ENO can grapple with Wagner’s masterpiece
 date: "2015-02-17 16:34:43 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5264"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hyperbole has never been my enemy, and I won’t shy from it now; Wagner’s _The Mastersingers of Nuremberg_ is one of the pinnacles of Western art. But works of such scope and breadth of vision are notoriously difficult, and expensive, to perform. Opera houses must offer enlarged orchestras, vast crowds of singer-actors, numerous sets, and the scores demand almost superhuman abilities from the principle cast. With this production, the __English National Opera__ has created something that delivers all this, and fully lives up to the mind-blowing depths of Wagner’s vision.

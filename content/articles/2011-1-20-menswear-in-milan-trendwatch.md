@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
+author_id: "stv07"
 
 # Attributes from Felix Online V1
 id: "613"
@@ -34,15 +35,6 @@ image_height: "665"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "stv07"
-author_name: "Saskia Verhagen"
-author_image_path: "http://felixonline.co.uk/img/upload/201303072218-sjw209-saskia.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Crayola Bright Colour__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exceptional life forms on earth may be a key to sustaining life on mars
 date: "2012-06-14 20:13:35 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2559"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 New microbial lifeforms have been discovered on the slopes of high-altitude volcanoes in the Atacama desert, South America, an area previously thought inhospitable. Temperatures range from -10°C to 56°C, and incident ultraviolet radiation is twice that at sea level in the extremely arid areas where researchers from the University of Colorado took soil samples at over 6000 metres above sea level.

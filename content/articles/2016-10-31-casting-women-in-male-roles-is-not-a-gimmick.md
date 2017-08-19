@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In a time when all-female casts are still seen as a gimmick Jack Steadman discusses the importance of bending and breaking original texts and taking gender off the list of casting specifications
 date: "2016-10-31 16:20:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6367"
@@ -33,15 +34,6 @@ image_height: "4320"
 image_attribution: "Rafael MArtinez"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Shakespeare. “Who owns Shakespeare? “. This is the idea Phyllida Lloyd and company set out to challenge with her all-female production of Julius Caesar at the Donmar Warehouse in 2012.

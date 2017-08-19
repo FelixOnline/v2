@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Men’s 1st team win ULU Challenge Cup Final
 date: "2011-05-09 09:56:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1180"
@@ -34,15 +35,6 @@ image_height: "3000"
 image_attribution: "James Brown"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The end of spring term saw the 1st XI clash with UCL in the ULU Cup Final. The two teams had been head and shoulders above the competition throughout the year, with Imperial denied the league title by a single point after suffering their only defeat of the season against UCL’s. This only strengthened Imperial’s resolve, and the squad went into the game in high spirits, and with a legion of fans to help them on their way.

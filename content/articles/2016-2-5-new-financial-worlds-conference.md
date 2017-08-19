@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Those who impress may even secure internships
 date: "2016-02-05 12:53:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5888"
@@ -34,15 +35,6 @@ image_height: "2383"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College Finance Society proudly presents the 5th annual New Financial Worlds Conference 2016, which is set to take place on the 17th February at the prestigious Bloomberg Auditorium in London. This year will mark the first conference in several years and will focus on two key themes of Investment Banking and Global Markets. The conference is aimed at providing students with a strong insight into the most cutting-edge and relevant topics in finance in a medium that is far beyond what they can learn from just reading the Financial Times.

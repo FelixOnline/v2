@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Willetts suggests that government is considering reforming, not scrapping, the post-study work route
 date: "2011-03-10 19:35:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1053"
@@ -34,15 +35,6 @@ image_height: "333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The government is reconsidering its student visa proposals announced at the end of January. These included raising the minimum level of English proficiency required for entry, limiting opportunities for work experience and part time work for students, total abolishment of the post-study work route and restricting the number of dependants that can enter the UK with students. After “[profound concern](http://www.guardian.co.uk/theobserver/2011/mar/05/letters-international-student-cuts)” expressed by sixteen university vice-chancellors in a letter to the Observer, universities minister, David Willetts, has said that the government is considering reforming rather than scrapping the post-study work route as well as re-thinking its restrictions on entry of dependants.

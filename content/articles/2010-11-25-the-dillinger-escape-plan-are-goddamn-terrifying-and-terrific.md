@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dillinger Escape Plan Electric Ballroom, 5th November 2010
 date: "2010-11-25 20:55:03 +0000"
+author_id: "gep07"
 
 # Attributes from Felix Online V1
 id: "435"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gep07"
-author_name: "Gregory Power"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dillinger have been one of my favorite bands ever since I first heard “Calculating Infinity”. I distinctly recall a spasm-inducing epiphany. Since then they’ve changed a fair amount: guitar virtuoso Ben Weinman is the only remaining original member of the band and their music, though firmly rooted in math-metal and avant-garde metal, has known some pretty wacky stylistic mutations.

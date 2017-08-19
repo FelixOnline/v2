@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Natalia Petrou introduces you to a beautiful world of sun, sea, beaches, parties... sigh
 date: "2013-05-07 19:32:30 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3543"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "All photos: Natalia Petrou"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 With summer vacations just a stone’s throw away, it seemed ideal for me to think about possible summer destinations. The first thing that crosses all our minds when thinking about summer is, of course, sun, and consequently we think about Mediterranean countries. This article will be dedicated to my personal home country, namely Greece.

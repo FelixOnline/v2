@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
+author_id: "bs2610"
 
 # Attributes from Felix Online V1
 id: "448"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bs2610"
-author_name: "Ben Scally"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Israeli newspaper The Jerusalem Post attacked [Imperial College Islamic Society](http://www.union.ic.ac.uk/scc/islamic/) on Monday, publishing an article entitled “[UK university hosts ‘anti-west’ week under ‘justice’ guise](http://www.jpost.com/home/article.aspx?id=196237)”. Justice Week is described by its organizers at ISoc as an opportunity to “educate ourselves about some of the injustices found in the world and show what we as individuals can do about them”. Scheduled [events](http://www.facebook.com/event.php?eid=116407028422645) include talks on exploitation of the 3rd world, Guantanamo bay imprisonment and a screening of the latest Michael Moore film; but will also stage controversial speakers.

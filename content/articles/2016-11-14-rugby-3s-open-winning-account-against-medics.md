@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Though three is a crowd
 date: "2016-11-14 14:23:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6452"
@@ -33,15 +34,6 @@ image_height: "897"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The IC third XV faced the medics at the fortress of Harlington, hoping to follow in the footsteps of the varsity whitewash last year. Falling on the same day as the much-anticipated RVC night, this game could very well go down as one of the most important of the season for the 3s.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Never before in the 56-year history of the Paralympic Games have we faced circumstances like thi
 date: "2016-12-02 16:48:02 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6552"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "Kentaro Iemoto"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The partying and fireworks on a wet, rainy night in and around the Maracanã Stadium marked the grand finale of the biggest sporting showpiece of the year and brought a happy ending to two weeks full of sweat, grit, determination, tension, sportsmanship, joy, tears, more sportsmanship and the very best that sport has to offer. The joyous end to the Rio 2016 Olympic Games was just as well, considering the numerous issues and controversies in the build-up, and even during the Games, ranging from a green diving pool and empty seats to the Zika virus outbreak and the filthy state of Guanabara Bay, its waters containing “superbugs” and even dead bodies, among a plethora of other nasty things.

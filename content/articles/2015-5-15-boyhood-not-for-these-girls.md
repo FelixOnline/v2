@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Abena Taylor-Smith reviews Celine Sciamma's "Trilogy of Youth"
 date: "2015-05-15 12:05:27 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5527"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Celine Sciamma/Studiocanal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The latest film in director Celine Sciamma’s ‘Trilogy of Youth’ is _Girlhood (Bande des Filles)_, a coming-of-age story set on the housing projects bordering Paris.

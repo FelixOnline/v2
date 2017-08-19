@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Outside of Imperial lies a Thai paradise
 date: "2012-06-03 16:08:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2520"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There’s no way you can stand another lunch at Queen’s Tower, or the Library Cafe, or even the JCR after your exams. It’s just unacceptable! If you feel that life at Imperial has become monotonic (and at the moment your mind thinks of functions) then you need a getaway. Today we’ll present you with an alternative choice.

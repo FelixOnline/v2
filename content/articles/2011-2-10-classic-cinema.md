@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kramer vs. Kramer: A milestone of a film
 date: "2011-02-10 20:50:59 +0000"
+author_id: "jh308"
 
 # Attributes from Felix Online V1
 id: "786"
@@ -33,15 +34,6 @@ image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jh308"
-author_name: "Jade Hoffman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With Valentine's Day approaching, I realise that it's pretty pessimistic to be reviewing Kramer vs. Kramer – a milestone of a film that discussed the then-rare topic of divorce in frank, almost brutal honesty. Nevertheless, Kramer vs. Kramer was a hit at the Oscars in the late 70s and continues to be an enduring embodiment of modern families. Starring the ineffable duo of Meryl Streep and Dustin Hoffman as a couple parting ways, leaving their young son caught in between, Kramer vs. Kramer could be considered to be pioneering in the way it portrayed its characters.

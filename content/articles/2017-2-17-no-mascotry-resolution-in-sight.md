@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why bother with reforms if nobody cares?
 date: "2017-02-17 14:21:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6777"
@@ -34,15 +35,6 @@ image_height: "381"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The age-old Imperial tradition of mascot stealing (also known as mascotry) was once again brought up at Union Council on Monday, in an attempt to create a new, contemporary set of rules to regulate the competitive ‘sport’.

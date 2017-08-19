@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Andrew Ryan fears the strength of the majority vote. Should you?
 date: "2013-03-07 21:57:18 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3434"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Staff and students of Imperial College London, my name is Andrew Ryan. No doubt many of you have heard of the city built upon free enterprise and thought - my city of Rapture.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marcus Bishop reviews the key themes and outcomes of the London International Development Conference
 date: "2015-03-03 14:31:11 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5323"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At the Millennium Summit in September 2000, the largest gathering of world leaders in history adopted the UN Millennium Declaration, committing their nations to a new global partnership to reduce extreme poverty and setting out a series of time-bound targets, with a deadline of 2015, that have become known as the Millennium Development Goals (MDGs). Now we’ve hit 2015, the London International Development Conference (IDC) asked what progress has been made, and more significantly, how can the global development agenda adapt to address a different set of challenges?

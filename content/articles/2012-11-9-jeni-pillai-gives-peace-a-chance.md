@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Trying to be too cool for school, or actually a good band?
 date: "2012-11-09 14:09:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2868"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At first glance, Peace appear to be yet another so-cool-it-hurts, indier-than-thou, guitar band. Just have a look at their haircuts and you’ll see where I’m going with this. But after seeing them play at the Lexington on Tuesday night, I can confirm there’s definitely more to them than that.

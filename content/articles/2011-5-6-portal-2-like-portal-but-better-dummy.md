@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aperture Science CEO Cave Johnson on why you should hand over your money
 date: "2011-05-06 14:59:38 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1173"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hello Felix readers, Cave Johnson here, founder and CEO of [Aperture Science](http://half-life.wikia.com/wiki/Aperture_Science). Now I’m sure you’re all wondering, “Cave, why are you writing about _Portal 2_? Why are you breaking the fourth wall?” I’ll tell you why, it’s because I’m Cave Johnson and I don’t let silly little things like rules and regulations get in MY way. I’ll do whatever I damn well please and damn the consequences.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After a colleague reported his social media updates, he found himself demoted from his management position
 date: "2015-11-19 22:28:24 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5743"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Professor Liang Xinsheng of Lingnan Normal University has lost his managerial position in light of posts made on Weibo expressing discontent over social issues. The demotion has been widely seen as a symptom of an increasing crackdown on dissent in academia, a crackdown led by China’s premier Xi Jinping.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-06 14:11:25 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5707"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I love Pixar. Chances are you love Pixar. too. In all honesty, I’d hazard a guess that the vast majority of sane people on earth love them. Their films are iconic and have set the precedent for animated films that both children, adolescents and their parents can enjoy. But instead of watching Finding Nemo for the eleventh time, why not give some other storytellers a chance to wow you?

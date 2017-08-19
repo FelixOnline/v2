@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Autumn Term will see introduction of new scheme
 date: "2012-05-24 22:50:19 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2483"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Plans to record lectures are set to finally come to fruition next academic year. College is set to work with video capture platform [Panopto](http://www.panopto.com/) in order to ensure that lectures are made more accessible to students.

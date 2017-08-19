@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Online piracy is a growing problem, but planned, potentially disastrous US legislation is not the way to tackle it. Laurence Pope discusses
 date: "2012-01-19 20:33:39 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2016"
@@ -33,15 +34,6 @@ image_height: "819"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Some readers may well be familiar with the acronyms SOPA and PIPA, both of which have been bounded about in the news over the last few months or so. They stand for the Stop Online Piracy Act and the closely related Protect IP (Intellectual Property) Act. Both are bills that are currently being considered, respectively, by the US House of Representatives and the Senate. As their names suggest, they are aimed at combating online piracy. The issues surrounding these proposed laws are both numerous and complicated in nature, as are the arguments wielded by its supporters and critics; if you’re spurned into action by this piece then there’s a wealth of information that can be found in the very medium the bills will impact – namely, the internet.

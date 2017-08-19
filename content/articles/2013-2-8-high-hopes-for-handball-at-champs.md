@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Red Elmadi hands us the news
 date: "2013-02-08 00:23:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3270"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend saw the eagerly anticipated UK universities Handball tournament of the year – the Association of British University Handball Clubs (ABUHC) University Championships 2013. After winning 3rd place in the 2012 tournament and a dedicated start to year for the Imperial Eagles handball club, with weeks of intense recruiting and months of training, this tournament was due to show us just how we compare to the rest of the UK’s university enthusiasts in this popular European sport.

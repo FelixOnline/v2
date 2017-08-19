@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A call for input has been issued
 date: "2013-05-02 13:30:34 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3529"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London have created a paper on the future [Education and Student Experience strategy](http://www3.imperial.ac.uk/educationoffice/strategy). Between now and Friday 10 May staff, students, and alumni are asked to give their views on the outcome. Views are being sought for actions proposed and on what to prioritise. To contribute online, go to the [website](http://www3.imperial.ac.uk/educationoffice/strategy). There will also be two open meetings on 17 April from 13.00 -14.00 in the Read Lecture Theatre, Sherfield Building and on 25 April from 17.00-18.00 in the Clore Lecture Theatre, Huxley Building.

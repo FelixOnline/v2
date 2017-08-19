@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming.
 date: "2013-10-30 15:42:39 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3958"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Lets turn the clock back to the end of the summer term, 2013. The days were long and hard, but then the term ended, and all was well. And suddenly I found myself with much more time for gaming. This in turn allowed me to finally catch up with a game I had been anticipating for a year, Gunpoint. I’d first learned about it from the developer’s blog/website (www.gunpointgame.com) back in my first year. Here’s the general idea:

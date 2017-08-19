@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As an intelligent species, we should recognise that eating meat is not natural
 date: "2016-02-05 11:54:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5865"
@@ -34,15 +35,6 @@ image_height: "596"
 image_attribution: "thedodo.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 No. If you guessed by reading the title that I was going to say warfare, you are wrong. Poverty? We built that ourselves. Famine? Yet another consequence of capitalism. The Holocaust? Although a stigma that will forever stain the history of mankind, it did not sustain itself for relatively long. Inquisition? Read the previous. What about, say, the food industry? And moreover, the carnivorous food industry?

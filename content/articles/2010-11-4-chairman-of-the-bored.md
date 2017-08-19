@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I thought I’d help the mice loosen up by dosing them with marijuana... (that I just happened to stumble upon)
 date: "2010-11-04 19:00:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "323"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 They say that when a man is bored of London, he is bored of life. If this is true, I should take a running leap off Hammersmith Bridge in my solid concrete Hushpuppies – however, no matter how boring life may get, I’m certain that the alternative is even more so. To clarify, of course I’m not bored of London, merely bored in London.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven provides an update on the latest forays into invisibility
 date: "2011-10-20 21:01:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1559"
@@ -33,15 +34,6 @@ image_height: "1895"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 By recreating the naturally occurring effect of a mirage in the lab, researchers have hit upon a way to create cloaking devices that work for visible light, effectively making objects invisible when viewed from certain angles. Now, let’s just try to get through this without mentioning Harry Potter.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ‘The Jail’ halls get secret inspection
 date: "2013-10-03 23:08:04 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3796"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ben Fernando"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Much of last year’s #AgainstActon campaign focused on the impending closure of Evelyn Gardens’ Fisher Hall. The huge campaign lasted months but the plans to create the halls were continued.

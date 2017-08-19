@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How Japan’s buildings coped in the face of one of the worst quakes in recent history, and the struggle to secure the Fukushima nuclear power plant
 date: "2011-03-17 20:55:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1097"
@@ -33,15 +34,6 @@ image_height: "642"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Like all large earthquakes, the Japanese quake occurred in what is known as a subduction zone. In these zones – which are common in the Pacific – large slabs of solid rock called tectonic plates move towards each other. When they collide, the less dense plate will ride over the denser plate, which is forced below the other.

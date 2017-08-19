@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jaco Van Dormael and Michéle Anne De Mey's short piece shows off choreography, cinematography, and lighting to dazzling effect
 date: "2017-02-06 16:15:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6740"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: "Marteen Van Abeele"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Jaco Van Dormael and Michéle Anne De Mey, the husband-and-wife team behind Kiss and Cry, have taken the ‘Mime’ of the ‘London International Mime Festival’ – of which their piece is a part – and stretched the definition to its absolute limit. Kiss and Cry, which consists of a single 80-minute piece, incorporates dance, stagecraft, cinematography, and storytelling to impressive effect; it’s a far cry from the traditional idea of mime, with its associations of face-paint and striped shirts.

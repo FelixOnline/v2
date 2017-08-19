@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The annual artistic extravaganza returns to draw the crowds to the Royal Academy for a mixed bag of works
 date: "2011-06-23 21:10:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1433"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Over the past three terms, I’ve made a habit of sitting on the fence when it comes to reviewing. I’ve never known quite why we don’t include ratings in the Arts section, but I suspect it might be due to the fact that it would just be a constant stream of three star reviews. Having said this, I wouldn’t give the RA Summer Exhibition three stars. Well, at least some bits of it. Christ, other bits I wouldn’t even care to deign with attention. This, dear reader, is the Summer Exhibition dilemma.

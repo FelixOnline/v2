@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam picks out the top tech debuting this summer
 date: "2011-06-23 20:35:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1424"
@@ -33,15 +34,6 @@ image_height: "1070"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As summer draws nearer and the spring round of exhibitions and trade fairs draws to a close, there’s a lot of shiny new technology to look forward to over the next few months. Driving the latest round of products is the incessant slide towards perpetual connectivity: be it mobile, tablet, laptop or the increasingly elusive desktop, all major tech players are pushing to have you wired 24/7.

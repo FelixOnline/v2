@@ -4,6 +4,7 @@ title: >
 subtitle: >
   No matter what we say, or do, we seem stuck in a whirlpool of superficiality
 date: "2010-11-18 22:15:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "421"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 We are all somewhat superficial. Looks are an easy way to gauge the physiological and genetic stature of a potential mate (someone with one non-functional eye and no legs probably won’t be any good at fending off savage beasts), and so evolution has designed human beings to judge other members of the species largely on their appearance. We all do it, however vehemently some of us might try to deny it. Why else would our favourite magazines be filled with advice from the arcane and mysterious world of fashion about what to wear and, much more importantly, what not to wear?

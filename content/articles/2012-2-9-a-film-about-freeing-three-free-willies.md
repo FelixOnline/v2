@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park reviews Big Miracle
 date: "2012-02-09 23:38:59 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2177"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Big Miracle__

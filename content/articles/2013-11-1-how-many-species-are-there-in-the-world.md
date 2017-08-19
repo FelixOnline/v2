@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett discusses the difficulties associated with determining biodiversity
 date: "2013-11-01 09:34:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3972"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Philippe Kok"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Just how many species actually are there in the world? This mystery is up there with the other big questions that dominate science, and has been pursued by all manner of scientists over the years. The flummoxing phylogeny of organisms throughout history is one of the many factors as to why we just can’t seem to pinpoint a magic number, alongside the natural ebbing and flowing of numbers of species all the time; after all, it is the ultimate goal of genes to propagate their organismal stronghold into something bigger, better, faster or stronger, so species come and go as fast as evolution allows.

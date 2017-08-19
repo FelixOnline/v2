@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.
 date: "2013-12-11 00:40:08 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4200"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "ICU Triathlon"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 With the biggest turn out the triathlon club has ever seen, twenty five athletes travelled in an entourage of cars, minibus and van down the M4. The term was to culminate on Sunday 24th at the 2013 BUCS Duathlon at Castle Combe.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Restrictions on immigration will endanger universities
 date: "2010-12-12 14:27:10 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "552"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Speaking to the House of Commons on 23rd of November, the Home Secretary Theresa May announced plans to cut the number of non-EU immigrants by a fifth from next year. Student visas are amongst one the proposed targets for the cut. In light of the impending visa restrictions, the future of international students in UK seems increasingly uncertain.

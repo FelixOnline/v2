@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Say goodbye to those foreign flings
 date: "2016-10-03 16:00:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6299"
@@ -34,15 +35,6 @@ image_height: "3300"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair-Jones.

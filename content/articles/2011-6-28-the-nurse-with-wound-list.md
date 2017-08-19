@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Iñigo Martinez de Rituerto walks you through the influences of the weirdest band ever
 date: "2011-06-28 11:29:13 +0100"
+author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "1442"
@@ -33,15 +34,6 @@ image_height: "932"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "im808"
-author_name: "Inigo Martinez de Rituerto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: "http://thebigracket.blogspot.com/"
-author_website_title: "The Big Racket! @ IC Radio"
 ---
 
 1979 holds the key to the farthest reaches of musical conception. That year, [Nurse With Wound](http://brainwashed.com/nww/) released their debut album _Chance Meeting on a Dissecting Table of a Sewing Machine and an Umbrella_. Their music is the aural equivalent to the paintings of Salvador Dalí, stretching the mind and questioning reality. The surrealistic instrumentation and Dadaist approach are an amalgam of some of the strangest music of modern times. Tucked into the vinyl gatefold, the revered NWW List payed homage to their influences and bore the wonder for others to discover.

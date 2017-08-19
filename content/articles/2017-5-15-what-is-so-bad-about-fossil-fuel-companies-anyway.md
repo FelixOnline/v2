@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhidian Thomas and Max Moynan discuss the things that the oil companies don't want us to know
 date: "2017-05-15 15:55:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6947"
@@ -33,15 +34,6 @@ image_height: "1111"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Divest Imperial are calling on College to remove its investments from fossil fuel companies, but what exactly is so bad about fossil fuel companies, anyway? Most attention is given to their impact on the climate through their carbon emissions, but fossil fuel companies often make headlines (or conspicuously don’t) for altogether more sinister reasons. Many have a track record of human rights abuses and environmental lapses that would embarrass even the most hardened dictator.

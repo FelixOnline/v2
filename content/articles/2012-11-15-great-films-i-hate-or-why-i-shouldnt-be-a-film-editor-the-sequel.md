@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Katy Bettany's pick of the widely regarded films that she thinks are awful
 date: "2012-11-15 21:42:57 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2902"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following on from last week’s feature, 'Shit films I love', I decided to continue my public shaming. The following films have caused much contension in the Felix Office – one in particular is one of my co-Editor's favourite films. But I'm sure everyone has been there – watching a film that everyone else thinks is amazing/wonderful/life-changing (delete as appropriate), but you just can't understand what the fuss is about. It's not that I can't appreciate the intrinsic cinematic worth of some of these films, because I can, but that doesn't mean I enjoy watching them. And if everyone can resist the temptation to lynch me/form an angry mob on campus I'd be very appreciative...

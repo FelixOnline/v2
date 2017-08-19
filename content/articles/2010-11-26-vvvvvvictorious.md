@@ -4,6 +4,7 @@ title: >
 subtitle: >
   VVVVVV almost defeats Omar Hafeez-Bore. Almost...
 date: "2010-11-26 14:56:21 +0000"
+author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "454"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "oh106"
-author_name: "Omar Hafeez-Bore"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Am I the most successful person ever? Winston Churchill described success as “going from failure to failure without losing enthusiasm”. Well, I did that.

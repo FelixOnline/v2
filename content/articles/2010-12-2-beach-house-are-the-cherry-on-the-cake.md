@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sheperd’s Bush Empire, 23rd November 2010
 date: "2010-12-02 21:01:22 +0000"
+author_id: "tm208"
 
 # Attributes from Felix Online V1
 id: "484"
@@ -34,15 +35,6 @@ image_height: "858"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tm208"
-author_name: "Tytus Murphy"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Beloved by [Pitchfork](http://pitchfork.com/reviews/albums/13872-teen-dream/), Jay-Z and Beyonce as well as your humble reviewer, Beach House are a well regarded twosome emanating from Baltimore that comprise of Alex Scally and Victoria Legrand. This scruffy and seductive pair have been riding an ever-growing wave of critical adoration since 2004 which now appears to be translating into a wider commercial acclaim, as evidenced by healthy sales of their beautifully beguiling 2010-released LP [Teen Dream](http://open.spotify.com/album/72mGz9Dnt42euozq8yBULe) and their sell-out gig at the Shepherd’s Bush Empire.

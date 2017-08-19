@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Perkins tweets public apology following felix investigation
 date: "2017-02-07 15:15:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6741"
@@ -33,15 +34,6 @@ image_height: "2597"
 image_attribution: "poppet with a camera"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dr Adam Perkins, the King’s lecturer who last week sparked public outrage after a series of offensive tweets were brought to the attention of King’s Intersectional Feminist Community, has issued a public apology on twitter.

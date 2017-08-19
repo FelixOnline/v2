@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The club has been placed on hiatus pending investigation
 date: "2015-01-22 19:42:20 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5104"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Another sports club tour has resulted in a broken coach window, with the club now currently suspended as a result.

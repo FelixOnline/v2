@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sniper Elite: Nazi Zombie Army review
 date: "2013-09-29 16:10:21 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3786"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As CollegeHumour once said: “The two things you could always kill in videogames were nazis and zombies, there was no moral ambiguity there. So to combine them is just brilliant!” Now combine this with the award winning game Sniper Elite, and it seems like you have a high chance of a really fun game. The game Sniper Elite on its own is a tactical sniper simulation, set in world war two. With heavy focus on gameplay and realism, it was quite a fun game to play. Furthermore Sniper elite included an absolutely visually brilliant X-Ray kill cam, which played on every other successful long distance head shot. Now considering the way that many games have gone (Call of Duty, Red Dead Redemption etc.) releasing a zombie version is not that farfetched.

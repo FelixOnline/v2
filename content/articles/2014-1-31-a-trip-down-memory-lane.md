@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Utsav Radia on why and when you stop remembering your early years
 date: "2014-01-31 17:35:29 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4316"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "NASA, ESA, J. Lotz Space Telescope Science Institute (STScI)"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Have you ever wondered why we tend to remember some things more than others? Our nervous system is a highly organised, complex system of neurones (units that communicate via electrical signals), their dendrites (highly branched outgrowths) and support cells called glia (involved in processes such as maintenance and protection). It is estimated that the human brain contains around 86.1 billion neurones, with some capable of having up to 400,000 dendrites.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Madeleine Maxwell let’s you know what it’s all about, and why you should care
 date: "2013-02-08 00:51:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3278"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students – other than being the drunken, lazy, selfish creatures we’re perceived to be by all those people with real jobs – are also an amazing resource. We are young, healthy (hopefully), intelligent people with a massive capacity to bring about real change.

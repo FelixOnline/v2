@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In ten years time a doctor may no longer be prodding around inside you
 date: "2013-05-01 19:16:37 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3520"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Would you trust a robot to operate on your brain? Why not? Robotic neurosurgery can provide a less painful, less dangerous and less invasive alternative to traditional open methods.

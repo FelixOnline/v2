@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix talks to Siân Berry
 date: "2017-02-24 13:42:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6809"
@@ -33,15 +34,6 @@ image_height: "3648"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week we reported on the suspension and arrests of several students from King’s College London following their involvement in a campaign to persuade KCL to divest from fossil fuels. Since then, several members of the Green Party have written to King’s to show their support for the students.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caffeine addiction, bizarre haircuts and onesies. Snowsports report on their biggest ski trip in recent memory
 date: "2012-01-12 23:02:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1997"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Simon Federer"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 “I dunno why there’s so much snow, it’s just like MAGIC,” the words of the little girl in the ski film [_Attack of La Niña_](http://www.youtube.com/watch?v=KNI0ZKPA48A) echoed amongst Imperial students throughout the first week of the holidays. The last night of term saw the departure of three coaches of us as we journeyed to Les Arcs in the Alps. A total of 137 attendees made this the biggest ski trip in recent memory by quite a long way. Just two weeks before we left for the Alps there was no snow – none. The wait for snow was painful but after enough Snow Dances praising the God of Pow (powder snow) we were blessed with an unprecedented amount. A mere two days before the trip our chosen French resort, Les Arcs was reporting “Dumping Snow” – the biggest and most consistent snow fall in 10 years. It really was magic.

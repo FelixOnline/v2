@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I see people using Kindles and worry they’re giving away their birthright
 date: "2011-02-17 20:07:00 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "833"
@@ -34,15 +35,6 @@ image_height: "1300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Tyrants and autocrats have always understood that literacy, learning, books and newspapers are potentially dangerous. They can put independent and even rebellious ideas in the heads of their subjects.

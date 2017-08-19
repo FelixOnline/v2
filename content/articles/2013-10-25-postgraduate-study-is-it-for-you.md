@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Careers Service is back with tips on how to bag yourself a Postgrad position.
 date: "2013-10-25 01:11:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3950"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Every year, approximately 30% of Imperial College undergraduates go on to further study, so we know it’s a popular option. But what do you need to know and how do you make the best choice of course and institution?

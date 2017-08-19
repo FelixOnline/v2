@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If the rich get to pay their way into university, I’m emigrating
 date: "2011-05-12 19:17:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1205"
@@ -34,15 +35,6 @@ image_height: "1634"
 image_attribution: "Ben Kennedy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I try not to get too interested in politics. It leads to disappointment and raised blood pressure, and I get enough of that during exam season as it is. I raised an eyebrow at the NHS reform debate, but even that managed to cool down after a week of whining from pressure groups, and my eyebrow repositioned itself on my face in its classic, slanted, hateful place, knotted between my eyes.

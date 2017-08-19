@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:25:56 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5338"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ![Screen Shot 2015-03-02 at 17.23.50.png](../inc/timthumb.php?src=/img/upload/201503091457-ps3110-screen-shot-2015-03-02-at-17.23.50.png&w=460px&zc=1&a=t)

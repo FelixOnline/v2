@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They’re like vultures with high-vis jackets
 date: "2010-12-02 21:46:59 +0000"
+author_id: "rjd08"
 
 # Attributes from Felix Online V1
 id: "496"
@@ -34,15 +35,6 @@ image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rjd08"
-author_name: "Rhys Davies"
-author_image_path: "http://felixonline.co.uk/img/upload/201104240246-jk708-rhys-davies.jpg"
-author_twitter: "quinnfeld"
-author_facebook: "http://www.facebook.com/Rhys.John.Davies"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Before coming to London, my friends and family loaded me up with good advice. A common theme running through these kernels of sagacity was that London is a very dangerous place – something I won’t even try and refute.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Concerns raised over impact of financial reallocation
 date: "2012-02-03 00:18:48 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2119"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week the Union’s Executive Committee ruled to cut the grant available next year to the Clubs & Societies Board, the Representation & Welfare Board and the Executive itself by ten percent. The £33,820 total, the vast majority of which comes from the Clubs & Societies Board owing to its large budget, will be reallocated to help improve student activity support services.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   £3,000 subscription to Campaign for Science and Engineering better spent on ‘core activities’ says College
 date: "2011-06-02 18:02:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1291"
@@ -34,15 +35,6 @@ image_height: "1452"
 image_attribution: "CaSE"
 image_attribution_link: "http://sciencecampaign.org.uk/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial has ended its subscription to influential science lobby group the Campaign for Science and Engineering ([CaSE](http://sciencecampaign.org.uk/)). The decision, which CaSE director Imran Khan called “puzzling”, means that Imperial is now one of only two Russell Group institutions, the other being the LSE, that is not affiliated with CaSE.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aggressive off-road biking, token temple exploration and a cheeky mud spa – cruising along Vietnam’s South Central Coast
 date: "2010-10-28 19:45:53 +0100"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "276"
@@ -33,15 +34,6 @@ image_height: "1944"
 image_attribution: "Christopher Richardson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 I was already well acquainted with Vietnam’s somewhat inconvenient electricity shortages and Facebook firewall (hey, who needs an international social networking site when you’ve got access to ‘go.vn’, where the Communist Party are more than happy to be your “friend”) by the time I arrived in Nha Trang, a quaint little town in the South Central Coast. Unfortunately this place is often equated to Koh Phangan, Thailand’s infamous full moon party island, when in actual fact it has a lot of hidden pleasures beyond the cheap beer and easy girls (and guys).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman can't stop thinking about the RSC's powerful production of Death of a Salesman.
 date: "2015-05-26 12:47:27 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5562"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ellie Kurttz"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With 2015 marking the centenary of Arthur Miller’s birth, it was inevitable that a fresh crop of revivals of the great American playwright’s works would spring up across the theatre world. Last year saw Yael Farber direct a production of _The Crucible_, staged in the round at the __Old Vic__ and starring Richard Armitage, while Ivo Van Hoe brought _A View from the Bridge _back to life in a startlingly minimalist production that moved from the __Young Vic__ to the __Wyndham’s Theatre__ for early 2015.

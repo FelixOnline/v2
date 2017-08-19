@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s less than two weeks until the RCSU Science Challenge 2014 launch event, on Tuesday December 3rd. Come along to find out what prizes will be on offer and to hear the judges speak about science communication and reveal their questions for this year’s Challenge.
 date: "2013-11-24 15:55:05 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4103"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It’s less than two weeks until the RCSU Science Challenge 2014 launch event, on Tuesday December 3rd. Come along to find out what prizes will be on offer and to hear the judges speak about science communication and reveal their questions for this year’s Challenge. You can book your free place now online at http://bit.ly/1ekv9Vj. And there will of course be free food and drink afterwards! You really have no reason not to attend.

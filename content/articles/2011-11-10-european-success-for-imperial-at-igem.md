@@ -4,6 +4,7 @@ title: >
 subtitle: >
   AuxIn and Gene Guard bring huge success to Imperial team
 date: "2011-11-10 22:08:13 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1742"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The iGEM (international Genetically Engineered Machine) competition is run every year with hundreds of teams from all over the world competing for the top prize in synthetic biology – a shiny piece of glass. It is now in its eighth year running and bigger than ever before, with the grand finale at MIT now preceded by three regionals in Europe, Asia and America. The objective of the competition is to essentially engineer bacteria to do something awesome – find land mines, produce fiery luminescence, you name it.

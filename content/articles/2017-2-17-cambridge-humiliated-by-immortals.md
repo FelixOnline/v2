@@ -4,6 +4,7 @@ title: >
 subtitle: >
   HAHAHAHAHAHA WHO"S LAUGHING NOW?
 date: "2017-02-17 16:23:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6803"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has been only two weeks since the Immortals fell victim to the Cambridge Pythons. With a lapse of concentration (from a heavily fatigued Defence) the score was 6-0 for Pythons when the bell did toll. The loss was particularly painful due to the honest fact we are the better team, and on that day it was insufficient preparation that ultimately let us down.

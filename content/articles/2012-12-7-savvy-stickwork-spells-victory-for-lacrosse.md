@@ -4,6 +4,7 @@ title: >
 subtitle: >
   La cross, isn't that what Joey Barton calls a ball into the box from the wing?
 date: "2012-12-07 03:07:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3060"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wednesday 4th December brought the Ladies 1st Lacrosse team a brilliant win following a 16-4 score finish against the University of Reading.

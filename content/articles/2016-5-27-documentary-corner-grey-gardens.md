@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-27 09:00:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6216"
@@ -33,15 +34,6 @@ image_height: "595"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Edith Bouvier Beale, or Little Edie, is a staunch character. S-T-A-U-N-C-H. She doesn’t weaken, no matter what. That’s what she tells directors Albert and David Maysles, whose 1975 feature documentary _Grey Gardens_ captured Little Edie’s spirit – once a young socialite on the town, now living in a dilapidated mansion in East Hampton, losing her hair, and surrounded by cats. _Grey Gardens_ takes its name from the house in which Little Edie lives with her mother – Edith Ewing Bouvier Beale, or Big Edie – but really it is the two women, and their dysfunctional relationship, which lies at the heart of the film.

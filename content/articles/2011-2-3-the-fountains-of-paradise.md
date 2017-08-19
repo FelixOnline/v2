@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of Arthur C. Clarke's latest novel
 date: "2011-02-03 20:11:38 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "738"
@@ -34,15 +35,6 @@ image_height: "1302"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 You might remember my review of Arthur C. Clarke’s Childhood’s End last term in the Arts section in which I announced it to be my favourite book. Since then I’ve had a chance to read some more of his work, which has cemented my opinion of him as one of history’s finest science fiction authors. This week I’d like to review, The Fountains of Paradise, the latest of his novels I’ve had the pleasure of reading.

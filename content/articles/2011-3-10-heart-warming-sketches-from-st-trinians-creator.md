@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Find it at the Cartoon Museum until 20th March, students £3
 date: "2011-03-10 20:20:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1068"
@@ -33,15 +34,6 @@ image_height: "761"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In 1969, cartoonist Ronald Searle’s wife Monica was diagnosed with a particularly virulent form of breast cancer and given six months to live. She went on to undergo a series of experimental and particularly unpleasant chemotherapy treatments.

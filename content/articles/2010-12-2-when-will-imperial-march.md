@@ -4,6 +4,7 @@ title: >
 subtitle: >
   While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "499"
@@ -34,15 +35,6 @@ image_height: "2466"
 image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 The government’s planned changes to university funding are anything but inconsequential. Protests and sit-ins have sprung up at universities around the country, but the anger does not seem to have reached Imperial in any significant way. Walking around campus, the only signs of opposition to these changes are a few discreet posters. Indeed, the Imperial Student Union’s Council recently [voted to broadly support the Browne review](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html), which proposes lifting the tuition fee cap for home students.

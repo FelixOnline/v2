@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Richardson’s epic three day hike up Lombok’s beastly volcano
 date: "2015-01-23 19:07:36 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5150"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 To the unacquainted, volcano climbing in the Indonesian archipelago might seem a little dumb, but in reality there’s only so much tanning and partying you can handle before you get the itch to do something a little more challenging. Having done my homework, I’d come to the conclusion that Mount Bromo on Java was a glorified tourist trap, and the two hour climb offered by Mount Batur on Bali wouldn’t really scratch my hiking itch. So I decided on Mount Rinjani on Lombok, a treacherous three day hike, to be completed before passing out on the neighbouring Gili islands.

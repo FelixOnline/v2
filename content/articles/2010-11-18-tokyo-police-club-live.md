@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Callum Ballard & Jamie Gollings were whipped up into a frenzy under the arches
 date: "2010-11-18 20:35:58 +0000"
+author_id: "jtg09"
 
 # Attributes from Felix Online V1
 id: "389"
@@ -34,15 +35,6 @@ image_height: "1365"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jtg09"
-author_name: "James Gollings"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Canada has given us a choice, if scant, of alternative music in the last decade, with NME darlings, Arcade Fire and Crystal Castles both achieving critical acclaim with recent releases, although the chances are you’ve probably not heard of Ontario’s Tokyo Police Club.

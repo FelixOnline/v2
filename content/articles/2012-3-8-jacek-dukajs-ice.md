@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A political and philosophical alternate history thriller
 date: "2012-03-08 20:40:24 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2318"
@@ -34,15 +35,6 @@ image_height: "1551"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I find it rather disappointing how so few of the books available to readers in this country are written by foreign language authors. Sure, you can find translations of all the French and Russian classics in the larger bookshops but not much from other countries and certainly nothing contemporary. I’m somewhat at a loss to explain this phenomenon. Other European countries don’t seem to have this problem, with some bookshops devoting up to half their fiction section to translations. I think that it’s a great loss for the British public – foreign literature is a way of immersing yourself in new cultures without leaving your home – it broadens the mind and gives you a new viewpoint. I bet that not many of you have even heard of Henryk Sienkiewicz, despite the man having won a Nobel Prize in Literature. It seems that, in general, publishers have seemingly decided not to run the risk of giving their readers something different. I was therefore pleasantly surprised when I heard that the independent British publisher Atlantic Books will be putting out an English translation of Jacek Dukaj’s acclaimed science fiction alternate history novel _Ice_ before the year is out.

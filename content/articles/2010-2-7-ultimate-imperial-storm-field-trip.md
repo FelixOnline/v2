@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Five teams through to BP's Ultimate Field Trip Challenge
 date: "2010-02-07 03:27:24 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "80"
@@ -33,15 +34,6 @@ image_height: "2120"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Five teams of Imperial students who entered BP's Ultimate Field Trip competition are through to the semi finals, in which they will compete by presenting their ideas on tackling the carbon challenge to a panel of BP experts. The fifteen students are competing for the opportunity to receive a paid internship with BP in their North Sea business unit this summer.

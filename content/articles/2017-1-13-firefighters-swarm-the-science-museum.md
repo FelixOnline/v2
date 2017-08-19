@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC security guards not amused by having to open the Falmouth Gate
 date: "2017-01-13 13:52:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6629"
@@ -33,15 +34,6 @@ image_height: "1000"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just before noon last Wedensday, hundreds of visitors were evacuated from the Science Museum. As the visitors collected outside the museum on Exhibition Road, three firefighter squads arrived and created a perimeter around the historical building, amounting to a total of seven fire engines with aerial support from a helicopter.

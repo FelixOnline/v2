@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonathan Peek takes in a night of comedy
 date: "2012-10-05 11:30:11 +0100"
+author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2596"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nn1209"
-author_name: "Navid Nabijou"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With most of the advertising targeting the Freshers, Monday’s Big Tickle comedy evening seemed to have slipped past the rest of the college unnoticed. Despite this, the predominantly fresher based audience gave the comics plenty to work with. Where else, but Imperial, would a debate over whether a pterodactyl (or more correctly, a pterosaur) is a dinosaur or a ring tone of R2-D2’s beeps and whistles get truly appreciated?

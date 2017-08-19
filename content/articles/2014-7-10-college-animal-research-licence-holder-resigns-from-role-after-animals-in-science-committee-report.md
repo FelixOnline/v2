@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Today during a statement by Norman Baker MP, it has emerged that the College’s Establishment Licence Holder has resigned from the position with immediate effect.
 date: "2014-07-10 16:56:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4724"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Today during a statement by Norman Baker MP, it has emerged that the College’s Establishment Licence Holder has resigned from the position with immediate effect.

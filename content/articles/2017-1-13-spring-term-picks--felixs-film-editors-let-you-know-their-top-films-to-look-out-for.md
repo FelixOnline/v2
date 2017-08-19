@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We pick so you won't have to
 date: "2017-01-13 14:37:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6645"
@@ -33,15 +34,6 @@ image_height: "466"
 image_attribution: "Sundance"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Christine | Released 27th January

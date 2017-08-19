@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College has recently announced the closure of the 4-year fast track graduate-entry medicine course.
 date: "2014-06-13 03:03:09 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4690"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 College has recently announced the closure of the 4-year fast track graduate-entry medicine course. Students will instead have to apply for a new 5-year graduate medical course, which will open in 2015. The withdrawal of the 4-year option does not affect students currently on the programme.

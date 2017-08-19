@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg visits the new Orange Tree Theatre show
 date: "2015-02-17 16:14:26 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5262"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s something very familiar about watching siblings argue. Whether you’re brother or sister, older or younger, at some point in your relationship a certain degree of sibling rivalry seems inevitable. So, for a change, it was rather refreshing to see _Little Light_ open on what felt like a reasonably normal concept: two sisters, seeing each other once a year to tell little bits about their little lives, and occasionally losing it.

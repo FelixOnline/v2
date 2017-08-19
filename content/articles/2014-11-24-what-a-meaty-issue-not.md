@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4956"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When Kamil (you’ll recognise him as one of our Arts Editors) pitched this piece, I was really stoked. I’m not deeply for or against vegetarianism myself; after all, I live happily with a vegetarian housemate (who taught me how to make one of my favourite cream pasta dishes), and I willingly go meat-free for my meals sometimes, so long as I’ve had my fix of milk and eggs. I do adore the taste as well of certain quality meat dishes (c’mon, I work at a burger joint!), and for us girls it’s a safe way of making sure iron levels are in check. What I am against though is overtly-extreme “militant activists” (as Kamil himself describes them) – y’know, the ones who guilt-trip you for not subscribing to their cause, their school of thought, etc. So it’s really nice to see some level-headed thoughts on the matter... given that the main reasons I eat less meat when I’m buying and cooking for myself is both cost, and concerns over the quality (think battery chickens et al).

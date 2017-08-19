@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joseph Spiking looks back on the life of JD Salinger
 date: "2012-01-26 22:28:07 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2064"
@@ -34,15 +35,6 @@ image_height: "1317"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Holden Caulfield, Salinger’s most auto-biographical literary creation, once said, “What really knocks me out is a book that, when you’re all done reading it, you wish the author was a terrific friend of yours and you could call him up on the phone whenever you felt like it.” Salinger, a man known for his inaccessibility, was not going to give his phone number away to his devoted readers. Instead, he gave them a greater gift – the gift of a conversation with himself through his novels.

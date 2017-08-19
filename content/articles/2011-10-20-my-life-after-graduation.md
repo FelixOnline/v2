@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anum Farooq on how getting your degree is just the beginning
 date: "2011-10-20 23:20:37 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1580"
@@ -34,15 +35,6 @@ image_height: "416"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is an irrelevant time of the year for this article. As usual, my timing is wrong (must set a reminder to be in sync with the rest of the herd). Thoughts and hopes of graduation begin to emanate at about early May to late June, sparkly spring seems to set in motion a chain of celebration. Then, reality hits: you still have to get through those exams.

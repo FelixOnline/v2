@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Star Trek: Into Darkness review
 date: "2013-05-16 18:21:13 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3583"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Director J. J. Abrams no doubt reignited the dying Star Trek franchise and this follow-up to his 2009 reboot further cements his reputation as a director capable of delivering plenty of fun as well as a more than adequate plot and heart.

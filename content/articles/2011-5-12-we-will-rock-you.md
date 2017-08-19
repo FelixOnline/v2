@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Musical Theatre Society rehearse and perform Ben Elton’s smash hit in only 24 hours
 date: "2011-05-12 19:11:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1203"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When a cast is given the name of the musical they will perform 24 hours before curtain-up, no-one should expect anything particularly special. When that cast is from the glorious [Musical Theatre Society](http://mtsoc.co.uk/), the tables are turned. This rendition of ‘We Will Rock You’ was absolutely phenomenal. With a cast of 22, plus technical crew, choreographer, director, musical director, and a band, they kept the Union Concert Hall enthralled for nearly three hours.

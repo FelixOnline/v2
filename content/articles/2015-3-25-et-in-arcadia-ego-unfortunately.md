@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman is less than entranced by Stoppard’s classic drama
 date: "2015-03-25 12:55:02 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5439"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Amie Stamp"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A disclaimer, before this review goes any further. I have extraordinarily strong feelings and opinions about _Arcadia_. I studied the text for A-Level, and directed the show for DramSoc in the summer of my first year of university. It’s been a huge part of my life for the past few years, and it’s only fair to the __English Touring Theatre__ production that I make that plain before passing comment on their show.

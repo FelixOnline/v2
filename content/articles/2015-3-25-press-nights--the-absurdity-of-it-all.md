@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland gives us a tour of a world of tweed, gossip and wine
 date: "2015-03-25 12:44:43 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5436"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the perks of writing for the Felix Arts section has of course got to be all of the free tickets we get: plays, exhibitions, opera, you name it (even puppetry…)! I still find it amazing to think that these art establishments actually somewhat value our work, even if it is just that free publicity trumps empty seats.

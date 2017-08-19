@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pop off to Hyde Park for winter fun and Austrian food
 date: "2011-12-08 21:53:38 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1949"
@@ -33,15 +34,6 @@ image_height: "2554"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Winter is coming.

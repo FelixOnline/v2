@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The relationship between the print and web version of Felix
 date: "2011-05-12 19:14:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1204"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A common declaration amongst many people in publishing is that ‘print is dead’. By which they mean the idea that the public will continue to read content on paper in the future is laughably ignorant. While the print edition of this cat probably has quite a few years in it yet, we would be foolish to try and resist the inexorable push and pull towards web-based content.

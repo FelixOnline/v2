@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Hundreds of male MPs vote to continue charging women for having vaginas
 date: "2015-10-30 12:42:21 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5685"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "shockmymind.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a student, the list of items I would define as “luxury” is quite long. Branded chocolate, new razors, shoes without holes in – for all these things there is a feasible, if less appealing, alternative.

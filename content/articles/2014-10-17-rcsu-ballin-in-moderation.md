@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jasper Menkus reviews the event
 date: "2014-10-17 15:10:14 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4735"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In my ancestral Tennessee, we have a saying: “if it ain’t broke, don’t fix it”. Certainly this appears to be the approach the RCSU has adopted in regards to their entertainments over the last few years. The recipe goes something like this: 1) Take a dark room in Central London. 2) Add some loud music. 3) Fill with scientists soaked in inexpensive (or free) alcohol. Shake and serve over ice with a garnish of mint leaves. The mixture is simple but effective – in some cases cripplingly so.

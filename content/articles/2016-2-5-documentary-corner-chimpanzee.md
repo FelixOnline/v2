@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Disney made a doc!
 date: "2016-02-05 12:34:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5878"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Oh a genuine big-budget nature documentary," I thought excitedly. As a biologist and lover of all things primate I was instantly excited to watch this film upon seeing its name online. Unfortunately, my excitement quickly flip-flop’d when I saw the second part of the title: ‘Disney nature’. Expectations dropped considerably. Disney, as a company, has several connotations which, whilst fitting for children’s cartoons and comedies, doesn’t seem to blend well with the themes and tropes of a mature nature documentary.

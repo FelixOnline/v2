@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Becks to remain at £2 per pint but other drinks see price hikes as Government introduces controversial 2.5% VAT increase
 date: "2011-01-13 21:35:20 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "592"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Spendthrift students returning from their Christmas break might have noticed a subtle shift in the cost of food and drink around campus. The recent rise in the rate of VAT has been cited as the main driver of the cost increase, although other pressures – including an increase in fuel duty, also put into place this month – have contributed to the mounting financial pressure.

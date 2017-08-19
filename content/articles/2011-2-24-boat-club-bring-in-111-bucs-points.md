@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Boat Club score big at muddy Peterborough
 date: "2011-02-24 20:06:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "878"
@@ -34,15 +35,6 @@ image_height: "1068"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The River Nene has been kind to Imperial College Boat Club (ICBC) on occasions, and this year’s BUCS 4s and 8s Head was one of those as success after success was had over the weekend. Every crew entered were in the top ten of their event, 111 BUCS points were won from the club’s performance in the Championship events and the medal haul was impressive with 4 golds, 2 silvers and 4 bronzes awarded.

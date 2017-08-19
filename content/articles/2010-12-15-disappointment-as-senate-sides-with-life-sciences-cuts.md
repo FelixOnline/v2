@@ -4,6 +4,7 @@ title: >
 subtitle: >
   160 students turn out in the rain to lobby Imperial College Senate to protect teaching in the Life Sciences department to no avail
 date: "2010-12-15 17:35:35 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "557"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 The movement to [stop the Life Sciences cuts](http://www.facebook.com/home.php?sk=group_122828327782072) suffered a setback today as Imperial College Senate rejected the Imperial College Union [paper](http://www.imperialcollegeunion.org/data/files/imperial-college-senate-859.pdf) that called for a halt to the restructure. The [Senate](http://www3.imperial.ac.uk/secretariat/governance), which is made up of senior members of College management, including the Rector, failed to support the paper to the disappointment of students who [assembled outside the meeting](http://www.facebook.com/album.php?aid=313242&id=151335511288&saved) at the Rector's house. However pressure has continued to build this week as Mustafa Djamgoz, a Professor of Cancer Biology at Imperial and Chair of the Science Council at the College of Medicine, warned that the cuts could cause "long-term damage" and Union President Alex Kendall told Imperial College Union Council that he felt that the department was "lying" about the effect of the cuts on teaching.

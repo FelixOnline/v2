@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Farhan Abdullah investigates whether certain drugs can bring about fatigued doctors
 date: "2011-10-20 20:42:20 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1557"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A preliminary study published recently in [Annals of Surgery](http://journals.lww.com/annalsofsurgery/pages/default.aspx) suggests that modafinil, an analeptic drug, can help sleep-deprived doctors to improve their cognitive process, but not their clinical psychomotor performance.

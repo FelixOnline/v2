@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England find a band who can inspire young and old alike
 date: "2012-11-29 22:58:07 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2996"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wandering around the large and looming Alexandra Palace, simultaneuosly trying to avoid drunky, lairy forty year old men who wanted to “ave it large” while attempting not to trip over the large number of excited teenage girls scurrying about, it became blindingly obvious how much of a big deal The Vaccines have become. Few bands at the moment could captivate such a diverse crowd whilst releasing a new album, which although not revolutionary, provided a darker, more sinister step up from their wide-eyed debut.

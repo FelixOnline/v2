@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-20 09:08:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6184"
@@ -33,15 +34,6 @@ image_height: "1468"
 image_attribution: "Mike Mozart"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ence we like to defend the lil’ science, the science that gets bullied, the science that gets wedgies from the bigger sciences when it tries to speak up, because we believe that every science, no matter how puny, has value and should be respected. This week: archaeology. Need I say more?

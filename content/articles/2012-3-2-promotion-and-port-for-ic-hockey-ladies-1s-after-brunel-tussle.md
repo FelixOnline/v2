@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rounding off a successful season for the ladies
 date: "2012-03-02 17:42:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2309"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 TODO: image from

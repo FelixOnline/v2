@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Motorway services have a captive audience – one that drove into their clutches voluntarily
 date: "2010-10-14 20:03:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "219"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Since I live in Cardiff and Imperial is in London, I am well-versed in the pages of English countryside that is the M4 corridor. Queues around Newport, chevrons outside of Bristol, roadworks just past Reading, I’m better than any SatNav. As well as speed cameras, lane narrowing and caravans, there is a section of motorway life that I have grown to know and loathe.

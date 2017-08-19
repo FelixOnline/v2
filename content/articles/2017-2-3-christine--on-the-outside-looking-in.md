@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rebecca Hall astonishes in this biopic of Christine Chubbuck, a Florida news reporter who killed herself live on air, which powerfully explores the events leading to her death in an anxiety-ridden tour de force
 date: "2017-02-03 16:48:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6720"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "Allstar - Great Point Media"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The television, with its ability to repeatedly display the images of those who have long since departed, can act as an electronic graveyard, conjuring up spirits from the past. It is fitting, therefore, that Christine – the latest film by Antonio Campos, which deals with the on-air suicide of news reporter Christine Chubbuck – opens with an image of a TV screen, on which flickers a ghostly, pale Chubbuck, in the middle of interviewing Richard Nixon. This on-screen image is divorced from reality, giving us the unsettling feeling that we’re looking back into the past. We soon find out that Chubbuck is not in fact interviewing Nixon, but rather trying to analyse how she comes across to the camera, planning on evaluating every lilt in her speech and movement of her head; it is a scene that immediately communicates her indomitable work ethic, her capacity for self-criticism, and her dreams for a larger market-share, all of which play a part in her descent into depression. This scene is revisited later in the film, becoming an anchor to the departed reporter, as Chubbuck’s one-sided dialogue becomes more pointed: ‘is it paranoia,’ this spectral Chubbuck asks, ‘if indeed everyone is coming after you?’

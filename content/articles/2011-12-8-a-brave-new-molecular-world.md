@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The president of the RSC takes to the floor for the Friends of Imperial College
 date: "2011-12-08 20:50:09 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1923"
@@ -33,15 +34,6 @@ image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Professor David Phillips](http://www.rsc.org/AboutUs/Governance/RSCCouncil/CouncilMembersBiography/DPhillipsBio.asp), current president of the [Royal Society of Chemistry](http://www.rsc.org/), took to the lectern on November 8 for the latest [Friends of Imperial College](http://www.friendsofimperial.org.uk/) (FOIC) event.

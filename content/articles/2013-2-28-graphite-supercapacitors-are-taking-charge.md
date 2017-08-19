@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kier Little on the new trend of supercapacitors made from graphite
 date: "2013-02-28 18:00:58 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3383"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a viral video released last week from the website [www.upworthy.com](http://www.upworthy.com), Richard Kaner and Maher El-Kady of the University of California, Los Angeles [revealed that they have discovered a cheap and efficient new way of manufacturing graphene](http://www.nature.com/ncomms/journal/v4/n2/full/ncomms2446.html), in a way which could lead to the development of affordable graphene-based capacitors and batteries.

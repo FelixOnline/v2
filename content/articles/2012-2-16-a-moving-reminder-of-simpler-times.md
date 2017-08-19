@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2184"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I know what you’re thinking – surely this can’t be a review of a series of children’s stories in Felix. Well, if the television section can review My Little Pony I can review the Nicholas books. Indeed, while it can classified as children’s literature, I for one think that the main appeal of the series is for adults.

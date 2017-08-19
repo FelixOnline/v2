@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A student responds to last week's article about Tibet
 date: "2013-11-15 02:21:45 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4065"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _N.B. Articles in the comment section are the opinion of the author and do not necessarily reflect the opinion of the newspaper or Imperial College. -Ed._

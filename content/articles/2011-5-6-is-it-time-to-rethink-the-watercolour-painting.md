@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New Tate Britain exhibition challenges preconceptions about watercolour as a medium
 date: "2011-05-06 08:54:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1164"
@@ -34,15 +35,6 @@ image_height: "748"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Tate’s attempt at redefining our vision of a medium, watercolour, so commonly associated with amateurship and spinsters trying to show off their artistic talent is definitely successful. After viewing this exhibit your conception of what can be done with watercolours will have drastically changed, and you may leave with a feeling of greater respect towards what may seem at first an easy medium to master.

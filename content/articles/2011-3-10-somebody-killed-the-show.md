@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This version of Hitchcock’s classic 'Dial M for Murder' seemed to be more of a technical run through than an opening night
 date: "2011-03-10 20:16:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1066"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Sitting down in a dingy backroom of a pub in Camden, it seemed that we the audience were to play a more crucial role in this Hitchcock parody than previously anticipated. I turned to my ‘Partner in Crime’ and wryly noted that there were 13 members of the audience, indeed an unlucky number for the opening night of this performance. Over the next twenty minutes we witnessed the murder, not of a human being (it was clearly a red handkerchief and not blood spewing from the actress’s neck) but of the play itself.

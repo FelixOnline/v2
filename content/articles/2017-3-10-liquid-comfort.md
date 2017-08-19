@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The penicillin for all woes, we couldn’t leave booze out of the comfort equation, especially when it makes you feel so damn good. We’ve taken a range of scenarios that we found ourselves in over the last few weeks and developed extensively tested cures. Don’t worry, alcohol free options are availabl
 date: "2017-03-10 14:00:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6879"
@@ -33,15 +34,6 @@ image_height: "4000"
 image_attribution: "Achim Schleuning"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This will start as usual, with a funny story. I wanted to write about some lamb ribs - see, I kind of have a thing with ribs, but then the subject changed to comfort food (I am stating this in case you didn’t notice already) and because East Europeans don’t do comfort foods, they do alcohol, here I am.

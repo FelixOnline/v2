@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First debuting as a web-series in late 2015, The Benefits of Gusbandry has only recently joined the Amazon Prime arsenal. As a series trying to portray a different side of the relationships between man and woman, how does it stack up?
 date: "2017-02-10 15:56:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6769"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: "The Benefits of Gusbandry LLC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Built from the ground up by creator Alicia J. Rose, this series of ten-ish minute shorts chronicles the ever-evolving relationship between 40-something Oregonite Jackie, and her so-called ‘gay husband’, River. Now, to the uninitiated (as I was) this may conjure up images of cringe-worthy sitcom shenanigans. Rather, what we get is an often genuine and frequently heartfelt attempt at eschewing the traditional relationship paradigms one finds on TV.

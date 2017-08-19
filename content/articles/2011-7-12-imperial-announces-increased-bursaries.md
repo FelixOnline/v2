@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College and Union unveil plans to 'reassure' prospective students following rise in tuition fees
 date: "2011-07-12 15:14:18 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1449"
@@ -34,15 +35,6 @@ image_height: "3422"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College London has [today unveiled](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_12-7-2011-8-25-24) a new bursary package for UK students due to be affected by the planned rise in tuition fees.

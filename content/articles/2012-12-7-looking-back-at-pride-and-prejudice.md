@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhys Davies reads a classic
 date: "2012-12-07 01:24:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3034"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pride and Prejudice by Jane Austen was first published in 1813. It hardly belongs on the latest bestsellers chart so why have I landed on this book, now? A few reasons. One, it’s one of those classic books that you always promise yourself that you’ll read (but never do). Indeed, I’ve put off reading this book for nearly two hundredyears. Two, my girlfriend adores Austen and I wanted to know what all the fuss with this chick-lit is. So, in total, a milieu of self-improving and self-motivated reasons.

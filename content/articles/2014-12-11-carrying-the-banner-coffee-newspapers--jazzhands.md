@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Howitt reports on the caffeine-fuelled epic that was MTSoc’s Autumn season
 date: "2014-12-11 21:23:24 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5038"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Shankho Chaudhuri"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Musical Theatre Society (MTSoc) ended their Autumn season last week with an all-singing, all-dancing musical revue. _Carrying The Banner _featured numbers from a spectrum of different musicals and cabaret acts, including _Wicked_ and _Avenue Q_.

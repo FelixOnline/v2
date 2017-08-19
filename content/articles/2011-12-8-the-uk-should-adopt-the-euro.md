@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dimitri Raphaelovich argues that the UK should become part of the Eurozone
 date: "2011-12-08 20:56:42 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1925"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 In last Wednesday’s Autumn Statement, George Osborne confirmed that the UK economy’s health was far worse than his office had expected. He blamed the ongoing Eurozone crisis of negatively affecting the UK’s economic growth, by pointing out the negative impact the former had had in our country’s exports.

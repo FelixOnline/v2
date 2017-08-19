@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You spoke the Union listened
 date: "2017-02-03 15:04:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6708"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Tuesday, during Union Council, Student Deputy President of Education, Luke McCrone announced a repeal to the university’s zero-tolerance late submission policy.

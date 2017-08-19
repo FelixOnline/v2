@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Callum Hunter welcomes parliament’s involvement in the Brexit process
 date: "2016-11-18 14:46:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6461"
@@ -33,15 +34,6 @@ image_height: "494"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 3rd November, the High Court handed down a decision stating that the Government needed parliamentary approval before triggering Article 50. Whilst the Brexiteers have made an outcry, stating that this is a breach of democracy, it is actually a vindication of the United Kingdom’s parliamentary sovereignty, something they campaigned for earlier this year. We must therefore use this judgement to push the Remain camp’s ideas to the forefront, so that they are not neglected as they have been so far.

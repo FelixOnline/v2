@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What is the link between excessive coffee consumption and multiple sclerosis?
 date: "2016-03-11 11:37:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6026"
@@ -33,15 +34,6 @@ image_height: "1807"
 image_attribution: "Olga Filonenko"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Even though I don’t drink coffee, which coming from an Imperial college student may sound like an oxymoron, I have managed to successfully get through all-nighters on tea instead. Yet new research suggests that drinking coffee may have other benefits besides waking your brain up for that 9am lecture. Specifically, evidence suggests that six cups of coffee a day can significantly decrease chance of developing multiple sclerosis (MS).

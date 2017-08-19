@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aaina Mittal explains why junior doctors are striking not for their wallets, but for the future of the NHS.
 date: "2016-10-10 10:37:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6316"
@@ -33,15 +34,6 @@ image_height: "3648"
 image_attribution: "Garry Knight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Not only is the economic forecast of the country already in uncertainty post-Brexit, bringing with it the threatened loss of some of the biggest financial companies’ headquarters, but we are also on the verge of setting off along a trajectory of losing one of our most prized possessions – the NHS.

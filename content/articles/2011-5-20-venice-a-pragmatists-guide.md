@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Venice has its charms, but more often than not the fact that I was a tourist was shoved in my face at every corner I turned
 date: "2011-05-20 04:24:22 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1215"
@@ -33,15 +34,6 @@ image_height: "821"
 image_attribution: "Dana Li"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 “What do you think of Venice?” I asked. “Tourist trap”, replied Dylan. When he next told me that he hadn’t even been, I decided his opinion was invalid: I wasn’t prepared to discuss the pitfalls of this dream destination, considering the countless praise it gets.

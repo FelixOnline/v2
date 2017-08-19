@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chanon Wongsatayanont on coping with mental illnesses
 date: "2014-11-17 18:21:04 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4905"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Now that we’ve gone through some kinds of mental illnesses, it’s time we talk about how to deal with them.

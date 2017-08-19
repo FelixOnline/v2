@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial are FINALLY 3rd in a table
 date: "2012-10-26 01:42:21 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2731"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every student at Imperial can get 8GB worth of free storage on the online website Dropbox. This is part of the Dropbox SpaceRace.

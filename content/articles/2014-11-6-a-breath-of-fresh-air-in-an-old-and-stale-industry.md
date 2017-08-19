@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chrysostomos Meli discusses the revolution of automobiles lead by Tesla
 date: "2014-11-06 20:20:06 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4787"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You don’t have to be a petrolhead to know that the automobile industry hasn’t been the most innovative over the years. Since the introduction of the Model T in 1908, the car has remained largely unchanged. It might have become faster, more reliable and more efficient over those 100 years but no radical new ideas have managed to take hold.

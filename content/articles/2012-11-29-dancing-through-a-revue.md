@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of Dancing Through Life
 date: "2012-11-29 22:31:22 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2988"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 When I attended a run-through of MTSoc’s new production, Dancing Through Life, none of them suspected that I was in fact a theatre critic in disguise. This was probably because I occasionally make a somewhat convincing keyboard player. So convincing I’m actually playing in the show next week. None-the-less I had my critic’s hat on as I settled down to watch the performers for the first time.

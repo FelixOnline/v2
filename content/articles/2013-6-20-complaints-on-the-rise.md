@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Upward trends as 2012 is a record year for complaints
 date: "2013-06-20 23:39:53 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3725"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Figures](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx) from the official watchdog, the[ Office of the Independent Adjudicato](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx)r (OIA), show that complaints by students at universities in England and Wales have reached an all time high.

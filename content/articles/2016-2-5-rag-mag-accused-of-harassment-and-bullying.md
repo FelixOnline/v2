@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The handout will no longer be distributed after union tells RAG it's "an unacceptable personal attack"
 date: "2016-02-05 11:43:40 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5860"
@@ -34,15 +35,6 @@ image_height: "2551"
 image_attribution: "RAG"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yesterday the union told RAG its magazine of adverts and satire was “beyond the acceptable bounds of satire or mockery”. RAG were also warned that the individuals involved in writing it could be faced with serious consequences from the college if they continued to distribute the magazine as this would be considered “elevated harassment”.

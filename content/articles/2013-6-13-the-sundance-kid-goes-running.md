@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Company You Keep review
 date: "2013-06-13 23:37:23 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3696"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Robert Redford’s standing in Hollywood must be a good one for him to have attracted so much star power and talent for his latest directorial effort that is at best, distinctly average. Marketed as a clever political thriller, it shows a lot of promise from its opening scenes, but what we find is a gradual dip in quality as it becomes clear the film doesn’t have too much to say for itself.

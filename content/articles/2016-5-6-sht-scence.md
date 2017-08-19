@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-05-06 09:55:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6123"
@@ -34,15 +35,6 @@ image_height: "1151"
 image_attribution: "Noodles and Beef"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ience, we believe that all science, no matter how stupid it sounds, has a purpose and adds to the sum of human knowledge. This week: the science of gingerness.

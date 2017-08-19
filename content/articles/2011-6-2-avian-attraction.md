@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Research shows sparrows to be quite discerning in choosing their mates
 date: "2011-06-02 18:34:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1298"
@@ -34,15 +35,6 @@ image_height: "1463"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When it comes to choosing a mate, female sparrows have shown they’re anything but bird-brained. According to new research, the feathered females don’t simply pick the most physically attractive, but instead assess the quality of their potential suitor’s inner values.

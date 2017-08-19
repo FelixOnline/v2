@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Overtime cup progression for the mighty Rugby 2s
 date: "2015-11-20 09:47:40 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5765"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday the 11th November, IC 2nd XV travelled to Regents’ Park to face the School of Oriental and Asian Studies in the first cup game of the season. After four consecutive wins for IC, the last two of which were by over 50 points, playing a team from a different league meant a solid performance would be necessary. Motivation for IC was at it’s peak with the whole squad knowing that the toughest teams we will face will be in this cup, so progression would be crucial for the team’s development this season.

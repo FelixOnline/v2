@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Falling in love all over again with Canada’s finest
 date: "2012-05-03 17:56:43 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2408"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Albert Hall was ready to welcome back the queen of Broken Social Scene for a truly magical end of 2012’s spring equinox weekend after __M. Ward__ played a very pleasant stripped down version of his repertoire and __David Bowie__’s ‘Let’s Dance’.

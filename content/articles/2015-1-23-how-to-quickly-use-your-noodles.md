@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah offers a healthy solution to the instant stuff
 date: "2015-01-23 18:30:51 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5143"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Felix Food"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Happy 2015, everyone! Between deadlines in early January, prepping for new module lectures this term and catching up with the stuff I missed last term when the Vile Bug of Winter ‘14 hit Imperialites (and their dogs...) finding time to cook decent meals has been rather difficult: So difficult that the headline pun this week is an awfully poor reference to what most of us have been doing during the exam week just gone.

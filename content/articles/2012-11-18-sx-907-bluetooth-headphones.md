@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl discovers an incredible pair at a banging price, just £20. Get in!
 date: "2012-11-18 13:07:38 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2922"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes, dear readers, I have recently discovered the world of wireless headphones. Two weeks ago, bored and not feeling like untangling my normal headphones, I decided to peruse the various stores of the internet, to discover if the World Wide Web had anything to tickle my fancy. Lo and behold, on Amazon, I stumbled upon a whole array of Bluetooth headphones and, perhaps more surprisingly, very (and I mean VERY) attractively priced ones. I had previously visited an apple store (to check out the iPad Mini) and had seen headphones priced at £300, so to see these puppies being displayed from £20 to £70 was really astounding! Anyway, before I launch into my review of one of these headphones that I purchased, I will firstly talk pros and cons of Bluetooth/wireless headphones in general.

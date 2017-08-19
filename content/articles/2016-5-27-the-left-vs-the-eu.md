@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A vote to remain in the EU is a vote for right-wing idealogies
 date: "2016-05-27 08:49:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6206"
@@ -34,15 +35,6 @@ image_height: "576"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Before Obama’s recent tour of the country (mainly London, of course), I was largely on the fence over how I’d vote in the EU referendum. Unfortunately for him however, he didn’t manage to convince me to vote to remain. Instead, his warnings of being put at the back of the line for neoliberal negations like TTIP reinforced my left wing case against the EU.

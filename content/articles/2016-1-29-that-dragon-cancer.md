@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Numinous Games’ debut adventure is great, but you probably shouldn’t play it
 date: "2016-01-29 10:05:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5858"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "Numinous Games"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The titular metaphor of Ryan and Amy Green’s autobiographical exploration game – that cancer is a dragon – is used to describe their young son’s condition to a more innocent audience. Cancer is a beast that is likely to haunt most of us directly or indirectly throughout our lives.  The sheer power of the word cancer makes it a hard subject to discuss and communicate. ‘That Dragon, Cancer’ is the first (mainstream) game to explore cancer and its effect on the families of sufferers; it portrays a difficult struggle between hope and despair, acknowledging that we all react in different ways.

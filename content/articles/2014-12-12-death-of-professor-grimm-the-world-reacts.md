@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5048"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After the initial uproar amongst academics caused by the publication of Stefan Grimm’s damning posthumous email, discussion has spread amongst academics outside the English-speaking scientific community.

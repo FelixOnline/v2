@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven investigates claims that alcohol does not affect behaviour
 date: "2011-10-27 23:49:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1624"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Despite the millions it spends on cultivating an image of arch sophistication, Stella isn't likely to shrug off its “wife-beater” epithet anytime soon – and especially not now it's become the tipple of choice for tosspot terriers. But the story of [a Staffordshire Bull Terrier attacking a child](http://www.telegraph.co.uk/news/uknews/8845153/Boy-mauled-by-dog-that-was-drunk-on-Stella.html) after someone poured Stella down its throat isn't the only piece about alcohol abuse that stood out recently.

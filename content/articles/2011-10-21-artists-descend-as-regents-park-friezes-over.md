@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Galleries from around the world bring their best to London
 date: "2011-10-21 10:47:35 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1594"
@@ -33,15 +34,6 @@ image_height: "681"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Frieze Art Fair](http://www.friezeartfair.com/) – the 21st century’s answer to the Field of the Cloth of Gold – pitched up in Regent’s Park last week for its ninth year. Drawing galleries from not just the major art hubs but from the world over, they come to present the best of their wares – a shopping opportunity for a (predominantly Russian) few, for the rest of us, a chance to bask in an abundance of the foremost in contemporary art.

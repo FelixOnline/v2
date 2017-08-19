@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Second album looks set to impress
 date: "2012-05-23 16:27:45 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2480"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following what appeared to be an indefinite hiatus after the release of their eponymous debut in 2010, [__The Hundred in the Hands__](http://www.myspace.com/thehundredinthehands) are back on the scene. And while that said debut managed to rapidly rack up favourable reviews from the likes of Pitchfork and Metacritic, it looks as though we can expect much more from their forthcoming second album _Red Night_, which gets released next month.

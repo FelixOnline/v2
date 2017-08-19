@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The comedy is disarming and charming, but still manages to maintain a wry edge. It very much has the feel of a coming of age comedy
 date: "2016-12-02 15:06:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6540"
@@ -33,15 +34,6 @@ image_height: "550"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever since the success of the show, ABC seems to have made ‘Modern Family’ its motto. Leading the charge on diverse sitcoms, in recent years it has put out excellent shows like Black-ish, Fresh off the boat and, now, Speechless. This sitcom follows the DiMeo family as they relocate to a new town in order to be able to better provide for their oldest child JJ who has cerebral palsy.

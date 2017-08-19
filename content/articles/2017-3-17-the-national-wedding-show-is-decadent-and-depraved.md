@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Has voracious commercialism taken over a traditional expression of property rights? Theo Farah ventures into the heart of matrimonial hype to learn more about creating the perfect day.
 date: "2017-03-17 17:23:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6914"
@@ -34,15 +35,6 @@ image_height: "2448"
 image_attribution: "Theo Farah"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As I walked along Hammersmith Road to the convention centre, Kensington Olympia, a faltering bundle of nerves, I scanned my brain for excuses not to enter the palatial structure. Fortified by a cocktail of stimulants, I still felt lacking in brass for my foray behind enemy lines. Twenty-one and male, I had been doubly inoculated from the mysterious world of weddings. My only experiences were the odd episode of Bridezilla or Cake Boss, highlight reels of caricatures resplendent in white, crazed by the slightest deviation from plan on their special day.

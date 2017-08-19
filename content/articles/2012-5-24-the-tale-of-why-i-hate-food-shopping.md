@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The perils of the supermarket take their toll
 date: "2012-05-24 23:16:39 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2487"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Say you’re on your way home from college, and you need to pop into the supermarket for a cheeky bit of grocery shopping, even dropping by the reduced section to buy a whole cheesecake that not only you’re never going to finish before it goes off but you end up paying more per unit of cheesecake eaten despite the reduction, but you buy it anyway because it has a yellow sticker and you grab it like a magpie in a jewellery shop. There’s also that sense of accomplishment that you’ve ‘beaten’ the supermarket by not paying full price, even though you’re probably playing straight into their hands.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi sees the institution that is Melvins
 date: "2013-05-23 22:21:48 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3616"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Melvins have long since become an institution, one of the most influential bands in modern rock. In recent years however, they have not simply been resting on the laurels of their classic albums, but exploring new territory and breaking new ground. Their album as Melvins Lite, a stripped down form of the Melvins with Ipecac favourite Trevor Dunn on double bass is one example, another is their record breaking 51 states in 51 days tour last year. It must be said, however, that a bit of retrogression from a band as great as them is always appreciated, so it was much to the delight of many when two shows consisting of Lysol/Houdini and Stoner Witch/Bullhead played in succession were announced.

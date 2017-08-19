@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz doesn't cover his ears
 date: "2013-02-13 13:15:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3299"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Free-noise duo Maranata have collaborated with some big figures in the experimental scene including Maja S.K Ratkje and C.Spencer Yeh. On this effort, released on a 175 cassette run (remember that, it’s important), they collaborate with Sayaka Himeno, Sakaya Himeno of Japanese all girl trio Nisennenmondai. This is probably the main thing that piqued my interest, as she is a drummer of the highest order and she shows it with aerobic but tightly controlled drumming which takes as much from free jazz as it does from Lightning Bolt.

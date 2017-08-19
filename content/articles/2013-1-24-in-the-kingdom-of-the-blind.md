@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Disaster on a smaller scale spells a recipe for success
 date: "2013-01-24 22:55:50 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3168"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I don’t read much modern literary fiction so José Saramago’s _Blindness_ is not something that I would usually pick up. I am, however, always looking to expand my horizons and so, having heard good things about the book, I decided to give it a go.

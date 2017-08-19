@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Source, prepare and make your own sushi, made easy.
 date: "2011-01-27 20:31:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "696"
@@ -34,15 +35,6 @@ image_height: "400"
 image_attribution: "flickr/ukaaa"
 image_attribution_link: "http://www.flickr.com/photos/ukaaa/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Japanese food is widely associated with expensive prices and not a lot of food. However that doesn’t always have to be the case. All you need to do is equip yourself with a tube map and a willingness to travel.

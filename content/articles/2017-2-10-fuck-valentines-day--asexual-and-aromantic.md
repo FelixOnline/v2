@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joanna Wormald doesn’t really have anything against V Day, but they do mind the complete invisibility of asexuals and aromantics in mainstream culture
 date: "2017-02-10 14:40:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6759"
@@ -34,15 +35,6 @@ image_height: "1098"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first two weeks in February are an infernal nightmare of constant bombardment with advertisements for jewellery, chocolates, and lingerie – all for that ‘special someone’. People in relationships presumably don’t mind. Single people complain incessantly about it. For aromantics however, Valentine’s Day represents a whole new level of hell. One which is at best an irritation. On a bad day, it can provoke outright nausea.

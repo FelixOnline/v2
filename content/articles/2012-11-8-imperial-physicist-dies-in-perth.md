@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr Barrett was killed in a car accident, when a stolen car crashed into the taxi he was in
 date: "2012-11-08 23:50:07 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2829"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 An Imperial College physicist was killed in a car crash in Austalia in the early hours of 19 October 2012. Dr Sean Barrett, a Royal Society University Research Fellow and a member of the Controlled Quantum Dynamics Group, had been in the country for less than an hour when the taxi he was in was hit by a speeding 4x4 that had previously ran a red light. Dr Barrett, 36, and his driver, Kuldeep Singh, are believed to have died instantly.

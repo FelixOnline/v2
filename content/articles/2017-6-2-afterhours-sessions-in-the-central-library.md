@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix investigates what goes on in the Library after midnight ( SPOIlER ALERT: NOT MUCH)
 date: "2017-06-02 13:29:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6996"
@@ -33,15 +34,6 @@ image_height: "669"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 How does one end up in the Library past midnight?  Maybe you had a paper to submit tomorrow. You thought you had everything under control. You were halfway there but you made the mistake of taking a break and committing to an episode of the Great British Bake Off. Six hours later you get a text from your coursemate asking you what reference you used for a thing you haven’t even heard of. You look at the time and have a mini heart episode. You get up from the sofa, the sudden movement giving you head-rush, take a deep breath and make the only decision that makes sense at 1 a.m. on a Thursday. You go to the Central Library.

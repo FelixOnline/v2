@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Episode 1: What is Art?
 date: "2013-10-25 00:40:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3934"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The definition of Art is an issue that philosophers have struggled with for millennia. In the 19th Century two greats gave fundamentally opposing views. Arthur Schopenhauer, who thought the world around us a mere representation of reality, believed Art could reveal its true nature. He argued that music alone could completely express the world ‘in itself’ as it was not representative of anything. Friedrich Nietzsche accorded Art an even greater status. To him, life is devoid of meaning or order, save for that which Man creates. Art is therefore not a means to better understand the world, but a metaphysical way of giving meaning to it.

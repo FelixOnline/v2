@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Richard Clifton reviews Chase and Status’ show at the O2 Arena
 date: "2013-11-24 16:23:07 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4118"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 After two consecutive number two albums and massive sets supporting both Eminem at Reading and Prodigy at Creamfields, Chase & Status have become one of the few dance acts with a crossover appeal large enough to play an arena tour in support of their most recent album, Brand New Machine. Whereas Pendulum or Prodigy did extended runs of late shows at Brixton Academy during the heights of their respective popularities, Chase & Status’ show at a venue that hosted One Direction for nine sold-out shows earlier this year produced some bizarre contradictions, such as MC Rage encouraging fans to rave late into the night despite an 11pm curfew and £5 drinks.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union plans all day festival and moves away from formal dinner setup
 date: "2011-02-17 19:21:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "815"
@@ -34,15 +35,6 @@ image_height: "5369"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 End of year summer exams, nobody likes them. It is the best way to ruin the best season of the year and everyone dreads them. But now there's something epic to look forward to, because this year, not only is there an end of year summer ball, but there's a whole day of live performances to go with it.

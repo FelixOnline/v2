@@ -4,6 +4,7 @@ title: >
 subtitle: >
   British media coverage of Libya is flimsy and subservient
 date: "2011-06-16 20:28:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1392"
@@ -33,15 +34,6 @@ image_height: "857"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is a strange quirk of the British media that it is generally harshly critical of the internal affairs of our government, yet often almost blindly supportive of our affairs outside the EU. Consider, for instance, NATO’s recent intervention in the Libyan civil war. Major newspapers rarely seriously questioned whether the heavy bombardment of Tripoli was a breach of UN Resolution 1973. More importantly, few major newspapers asked in any depth about why our government was apparently so keen to use our resources to “protect civilians” in Libya, but not in Syria, Yemen or Bahrain.

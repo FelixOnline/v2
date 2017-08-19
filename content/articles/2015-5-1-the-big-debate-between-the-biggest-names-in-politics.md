@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken recaps the televised election debate, and gives the lowdown on how each candidate held their own
 date: "2015-05-01 00:30:26 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5482"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first and only televised election debate for this year’s general election took place earlier this month, featuring seven party leaders from across the United Kingdom. The two-hour debate was structured around four key questions on the following topics: tackling the deficit, the future of the NHS, immigration policy and future prospects for young people.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A Holland based pun for an editorial suggesting a solution to the Holland Club issue
 date: "2012-11-23 12:22:45 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2978"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [The Holland Club has closed](http://felixonline.co.uk/news/2931/holland-club-closed/). The space will be redeveloped by College and Commercial Services into something new. Apparently, everyone was crying out for more food outlets. Dinner and such.

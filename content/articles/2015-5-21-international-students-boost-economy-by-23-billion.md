@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as report recommends migration targets be reclassified
 date: "2015-05-21 20:08:32 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5548"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A report by London First has said that overseas students in London alone contribute as much as £2.3 billion to the economy. The report also claims that students from abroad are made to feel “unwelcome”. It goes on to argue that migration targets should be reclassified and students should be given visitor status, and should be allowed to work after graduation.

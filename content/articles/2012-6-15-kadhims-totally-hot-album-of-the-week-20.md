@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tom Vek – Leisure Seizure – Island – 2011
 date: "2012-06-15 07:50:01 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2578"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I fell in love last week. I was standing in the [Now Wave](https://www.facebook.com/nowwave) tent at Parklife Festival in Manchester, when all of a sudden Cupid’s Arrow pierced my ears. I turned to my friend beside me, and pointed towards the stage with my right hand, and said, “That is the coolest man I have ever seen or heard.” The 1st class students among you will have read the subtitle and fi gured out that I’m talking about Tom Vek.

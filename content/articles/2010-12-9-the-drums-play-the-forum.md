@@ -4,6 +4,7 @@ title: >
 subtitle: >
   3 out of 5, by Daniel Beatrup
 date: "2010-12-09 20:23:22 +0000"
+author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "521"
@@ -34,15 +35,6 @@ image_height: "570"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ma1307"
-author_name: "Matthew Allinson"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062055-snb11-allinson.png"
-author_twitter: "mattallinson"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Drums took to the stage in a euphoric daze to the sound of electronic ambience that echoed the electro-pop roots of founder members Jonathan Pierce (vocals) and Jacob Graham (guitar). The four–piece were complete with Tom Haslow on guitar and Connor Hanwick providing the drums.

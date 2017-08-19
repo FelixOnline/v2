@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Praveen Gnanasambanthan why sport and politics cannot be separated
 date: "2012-10-05 13:00:30 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2620"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The summer of 2012 has been a stunning exhibition of top quality sports, as world-class athletes congregated in London for an unforgettable Olympics and arguably the best ever Paralympics. An intriguing Euro 2012 was showcased earlier in the summer in Eastern Europe, and this trio of gargantuan sporting festivals were bookended by the Wimbledon and US Open Grand Slams. Many would think that this is set to continue into September with the T20 World Cup held in Sri Lanka, but in reality the Tamils that inhabit the Northern and Eastern parts of the country and the Tamil diaspora have plenty of reason to think otherwise.

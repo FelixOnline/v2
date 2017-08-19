@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Loïc Baboulaz makes his mark on the Malawian healthcare system
 date: "2012-02-02 23:19:54 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2108"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 September 2011: From the air, it looked like a leopard’s coat: hills of dry grass were dotted with random dark spots of green mango trees and large boulders. I landed in the capital of Malawi, Lilongwe, at the peak of the dry season in south eastern Africa.

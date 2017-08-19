@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Song for Marion review
 date: "2013-02-12 20:25:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3295"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Let’s talk about sex baby, let’s talkabout you and me, let’s talk about all the good things, all the bad things that may be, let’s talk about sex!”...hardly something you would expect to hear in a choir that consists of retired pensioners but with the OAPZ (Old Age PensionerZ), formality isn’t their thing. Led by the bright and lovely volunteer music teacher Elizabeth (Arterton), the oldies have a blast singing away to some lively music.

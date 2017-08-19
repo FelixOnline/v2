@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Can't sit through three hours of Spaghetti Western? Try these on for size instead...
 date: "2015-12-06 14:35:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5806"
@@ -34,15 +35,6 @@ image_height: "414"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **The Top Western films that aren’t _The Good, the Bad, and the Ugly_**

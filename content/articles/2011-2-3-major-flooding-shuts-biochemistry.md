@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pipe connection failure sends water gushing down through Biochemistry building
 date: "2011-02-03 19:37:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "719"
@@ -34,15 +35,6 @@ image_height: "3888"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Biochemistry building has been hit with two serious floods this past week. A failure of a pipe connection to a rooftop water tank is believed to have caused the flood on Thursday morning while a suspected valve failure, or pump malfunction, caused a 6ft flood of water in the sub-basement during the weekend.

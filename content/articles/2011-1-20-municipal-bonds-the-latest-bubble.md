@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lingxi Huang considers the credibility of the latest concerns being raised about municipal bonds in the US
 date: "2011-01-20 20:27:04 +0000"
+author_id: "lh1009"
 
 # Attributes from Felix Online V1
 id: "626"
@@ -33,15 +34,6 @@ image_height: "1512"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh1009"
-author_name: "Lingxi Huang"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the sovereign default crisis in Europe continues to send tremors through the global financial system, the next perfect storm in the market may already be brewing on the other side of the Atlantic. Meredith Whitney, whose fame is attributed to her accurate predictions of the 2008 subprime mortgage crisis, issued a warning in an interview on 60 minutes, the flagship CBS interview programme, about municipal bonds.

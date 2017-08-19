@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Almost an Earth's worth of gas lost each year
 date: "2012-02-09 22:29:28 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2150"
@@ -33,15 +34,6 @@ image_height: "1333"
 image_attribution: "Wang Jinglei and Jia Hao, NASA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 According to new analysis of more than 160 years worth of data, the North Star may be wasting away, shedding an amount of gas equivalent to up to the mass of the Earth each year.

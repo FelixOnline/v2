@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sailors sail near Swansea and probably away again. It is Swansea, after all
 date: "2010-01-14 22:27:49 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "39"
@@ -34,15 +35,6 @@ image_height: "401"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In December Imperial Sailing Club ventured into the land of sheep and dragons for their first away event of the year- The Welsh Dragon. With two days of sailing and a sheep themed social the event hosted by Cardiff University was set to be a good one.

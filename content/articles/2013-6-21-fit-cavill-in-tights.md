@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Man of Steel Review
 date: "2013-06-21 00:21:55 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3731"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 After the disappointment of Superman Returns that gave very little of what audiences were really looking for, here comes another reboot that starts off a well-known superhero character story from scratch. And here is the kind of loud, bombastic action feature this definitive superhero really deserves.

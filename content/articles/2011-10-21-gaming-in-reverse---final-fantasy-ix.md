@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Because old gold is the best gold
 date: "2011-10-21 10:26:55 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1589"
@@ -33,15 +34,6 @@ image_height: "212"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _See last week's 'Gaming in Reverse' [here](http://felixonline.co.uk/games/1514/gaming-in-reverse---quake/)!_

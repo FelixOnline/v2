@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the new imaging technique that is sweaping labs nationwide
 date: "2013-05-01 19:28:54 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3522"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do you ever find yourself walking along the street, daydreaming away, and then suddenly wonder what if people around you could hear what you were thinking? What if complete strangers could see into your head, listen to your thoughts and leave no stone of your conscience unturned? With the recent advances in tissue imaging, your brain can now be as transparent as a gold fish bowl, but relax- your secrets will still remain safe for the foreseeable future.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The director tells us about their very unusual interpretation of a seasonal favourite
 date: "2010-10-14 19:20:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "203"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Over the last couple of years I have had the pleasure of putting on three little known, but well received, performances of what was codenamed ‘Panto’. In two weeks time we’ll stage the final Panto Show, laying the series to rest once and for all.

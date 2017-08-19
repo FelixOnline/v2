@@ -4,6 +4,7 @@ title: >
 subtitle: >
   'Social justice warriors' would do well to listen to their own sermon of tolerance
 date: "2016-05-27 08:46:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6202"
@@ -34,15 +35,6 @@ image_height: "616"
 image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There has been a recent rise of an online stronghold of cultural libertarianism, which has been deemed by some to be a reactionary movement against the regressive left. Classically liberal and conservative figures are breaking down the barriers between the political left and right, and are coming together to discuss a multitude of ideas including free speech, political correctness, censorship and 'safe spaces' in the university scene, and cultural relativity.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng takes to the ocean in the ROH’s opera
 date: "2015-03-03 14:09:35 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5318"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A strip of water runs across the stage, which itself slopes upstage, with vague impressions of a ship’s windows in the distance. Daland’s crew shuffles around, clearing up after a storm as Daland announces that they will be heading home soon, and Senta, his daughter, will be waiting for him. This opening scene heralds the well-known tale of the Dutchman, who is bound to sail the seas for eternity unless a maiden swears to be true to him; Senta, deeply moved by his fate, swears to follow him unto death.

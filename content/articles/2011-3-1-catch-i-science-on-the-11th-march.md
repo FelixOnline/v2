@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Issue 16 of I, Science magazine, ‘Unseen Science’, is out on Friday 11th March.
 date: "2011-03-01 20:55:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "960"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 J.B.S. Haldane famously remarked: "the universe is not only queerer than we suppose, but queerer than we can suppose". As a geneticist and evolutionary biologist, Haldane believed that there are definite limits to human comprehension. He based this belief on the fact that our intelligence has evolved to help us overcome specific problems related to our survival. Thus, it has been argued, while our brains are well-equipped to tackle the sort of problems our ancestors had to deal with out on the African plains of the Pleistocene, they are, and will forever remain, woefully inadequate when it comes to truly understanding the universe.

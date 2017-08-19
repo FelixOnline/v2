@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One-sidedness of the event down to miscommunication
 date: "2017-02-10 13:36:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6742"
@@ -34,15 +35,6 @@ image_height: "2373"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two weeks ago the Israeli ambassador to the UK, Mark Regev, visited Imperial to give a talk to students in an event that was shrouded in secrecy. An article detailing what went on at the event and the build-up to the day itself was published in felix last week but since then the chair of the talk, Dr. Matthew Wraith, and his students have contested points in the article (namely Palestinian Society’s statement). A piece on the subject can be found in Comment.

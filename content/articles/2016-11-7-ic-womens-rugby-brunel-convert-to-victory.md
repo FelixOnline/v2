@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The ball went back and forth so much you would’ve thought it was a Brexit campaigner
 date: "2016-11-07 13:17:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6406"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After last Saturday’s devastatingly close defeat to Brunel in a friendly, Imperial was on a mission to right this wrong and be deemed victorious on the pitch. They marched out with determination – the likes of which has not been seen since we put a man on the moon – with two subs to cheer them on. Alas, this would prove insufficient.

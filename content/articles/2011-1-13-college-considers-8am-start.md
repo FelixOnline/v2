@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "594"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a move sure to raise eyebrows among those who prefer an extra hour (or three) in bed, it has been revealed that a College committee is considering lengthening the academic day in order to ensure that Imperial is able to “accommodate the growing number of master’s courses and extracurricular programmes [that it] offers.” The proposals being discussed include allowing teaching during the current lunch break by reducing it to one hour.

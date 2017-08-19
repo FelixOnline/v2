@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gregory Power interviews Imperial Physics graduate Martin Archer
 date: "2010-10-21 19:38:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "247"
@@ -33,15 +34,6 @@ image_height: "415"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’ve always regretted the absence of coverage of the ‘Imperial Music Scene’ by Felix. As Music Editor I’ve made it my duty to find the brightest young musicians at Imperial and extract juicy musical knowledge from their souls.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Nutcracker is on at the Royal Opera House until 12th January 2017.
 date: "2016-12-02 15:00:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6536"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "The Royal Opera House © 2015 ROH // Photograph by Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Opera House’s The Nutcracker, like the switching on of the lights on Oxford Street, or the Selfridge’s window display, marks London’s countdown to Christmas. The Christmas themed ballet is a tradition that has roots in Imperial Russia. The ballet, which was commissioned by the director of the Russian Imperial theatres – complete with score from Pyotr Ilyich Tchaikovsky, story by Marius Petipa (who based it on a E.T.A Hoffman fairytale), and choreography by Lev Ivanov – was first performed in 1892 at the Mariinsky Theatre in St Petersburg. At the time, it received negative reviews, but since then, countless adaptations around the world have ensured its place as one of the most well known, and most beloved ballets. The score and the story are so ubiquitous in Western art, and music, that the chances are you will have heard bars of The Dance of Sugarplum Fairy, even if you’re not able to name it as such.

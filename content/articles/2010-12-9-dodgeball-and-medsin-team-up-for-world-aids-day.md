@@ -4,6 +4,7 @@ title: >
 subtitle: >
   90 keen dodgeballers, 15 teams, three balls, one winner
 date: "2010-12-09 20:06:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "515"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Thursday 2nd December, [Medsin Imperial](http://www.union.ic.ac.uk/medic/medsin/) and the [Dodgeball Club](http://www.union.ic.ac.uk/acc/dodgeball/about.php) collaborated to organise the biggest charity Dodgeball tournament Imperial has ever seen with prizes including a £50 bar tab at B@1 for the winning team. Over £200 was raised and donated to World Aids Day to combat HIV/AIDS.

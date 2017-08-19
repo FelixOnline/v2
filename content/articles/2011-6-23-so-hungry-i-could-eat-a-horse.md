@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And why shouldn't I?
 date: "2011-06-23 21:14:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1435"
@@ -33,15 +34,6 @@ image_height: "2056"
 image_attribution: "flickr/publicenergy"
 image_attribution_link: "http://www.flickr.com/photos/publicenergy/4937610935/in/set-72157624642960214"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Hunger has taken me to many weird places – Zone 6, meat free foods and even Ginster’s pasties. What I have not done is eat a donkey’s cock as Paul Merton almost did on his documentary series about China. But if I were really hungry, would I?

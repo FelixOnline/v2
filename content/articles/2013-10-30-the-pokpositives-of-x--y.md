@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pokémon X & Y saw the first ever simultaneous release of a Nintendo title worldwide.
 date: "2013-10-30 15:49:05 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3959"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pokémon X & Y saw the first ever simultaneous release of a Nintendo title worldwide. Combined with the fact that the encryption for the 3DS has not yet been broken two years into its release, this has been one of the most exciting release of a Pokémon game in several years, and spell extremely good news for Nintendo.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Information regarding changes to individual atoms in a lattice structure has been shown to propagate at roughly twice the speed of sound
 date: "2012-02-02 19:26:31 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2088"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists have measured the rate at which quantum information travels through real systems. Changes, such as those in electronic spin or energy, propagate through materials at a limited speed; similar to the speed of light, this maximum theoretical limit known as the Lieb-Robinson bound has now been determined empirically by scientists.

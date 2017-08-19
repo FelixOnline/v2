@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Poorly timed and expensive refurbishment may just have made it all pretty for the next owner
 date: "2013-01-25 01:51:19 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3186"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Institution in Mayfair has been a centre for scientific research and communication for over two centuries. Previously the workplace of such scientific greats as Michael Faraday and George Porter, the Ri now focuses on outreach, running courses, book clubs, school events, and the famous Christmas Lectures, in their 18th century building.

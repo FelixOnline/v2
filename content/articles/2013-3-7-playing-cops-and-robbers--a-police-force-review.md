@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is that a baton in your pocket are you pleased to see this review?
 date: "2013-03-07 22:04:07 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "3437"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From the pile of simulator games in the Felix office, this week’s random selection is _Police Force_. From the maker of the hit title _Emergency_, _Police Force_ sees you patrolling the streets of Germany, towing illegally parked cars, setting up speed traps and arresting vandals. Plus, there’s a gun on the back cover. That’s worth at least 2/10 on it’s own.

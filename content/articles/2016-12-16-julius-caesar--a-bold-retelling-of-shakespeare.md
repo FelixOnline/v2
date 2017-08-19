@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Julius Caesar is on at the King's Cross Theatre until Saturday, the 17th of December
 date: "2016-12-16 15:04:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6612"
@@ -33,15 +34,6 @@ image_height: "867"
 image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just before the start of the performance, as we, the soon-to-be-audience, stand packed like sardines into the small lobby of the King’s Cross Theatre, the sirens go off. The chatter falls silent in the face of the piercing wail, followed by an uniformed prison officer pushing through the crowd – “prisoners coming through!” The cast, dressed in grey sweats and hoodies, march past into the theatre, faces set in grim defiance. The Donmar Warehouse’ Shakespeare Trilogy, made up of The Tempest, Henry IV, and Julius Caesar, marks director Phyllida Lloyd’s return to the Donmar with her all-female cast adaptation of Shakespeare. The return is triumphant; the plays feel just as revolutionary, just as exhilarating as they were four years ago when the first iteration of Julius Caesar with an all-female cast was staged at the Donmar in 2012.

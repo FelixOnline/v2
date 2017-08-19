@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix’s film section picks movies for the Trump-era
 date: "2017-02-03 16:55:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6723"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## if... (1968)

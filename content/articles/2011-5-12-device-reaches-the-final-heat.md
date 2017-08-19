@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists create generator to make use of waste heat
 date: "2011-05-12 16:25:39 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1187"
@@ -33,15 +34,6 @@ image_height: "1024"
 image_attribution: "As the temperature soared, the heat was on to make use of it"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 Ever looked at the squandered energy shimmering off hundreds of idling, traffic-jammed cars and wondered, “couldn’t we do something with that?”

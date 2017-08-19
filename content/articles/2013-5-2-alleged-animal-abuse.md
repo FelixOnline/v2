@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Undercover investigation on standard of animal care at Imperial Researchers alleged to not understand terms and abuse animals Allegations to be investigated by Imperial Letter calling for independent inquiry delivered to Home Office
 date: "2013-05-02 14:16:35 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3539"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "C) BUAV"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 During the Easter break Imperial came under national scrutiny after a seven month undercover investigation by the British Union for the Abolition of Vivisection (BUAV) alleges that there is a poor standard of professional conduct by Imperial scientists. Researchers from Imperial, one of the signatories of the Declaration of Openness on Animal Research, were apparently filmed experimenting on animals in a way that the BUAV claim are inhumane; this includes operating on animals that the BUAV say were improperly anaesthetised and culling animals that were not needed by researchers. The BUAV sent an undercover veterinary nurse to Imperial, who over the course of her stay alleges that some researchers not only showed callous disregard for the animals under their care but she also claims that others acknowledged that they were untrained and some were clearly in breach of their licences.

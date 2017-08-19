@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1774"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Gordon Kam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 _See photos of the night [here](http://felixonline.co.uk/media/photo/19/kablaam-felix-music-night/)_

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   News about Clayponds and the Holland Club highlight inadequacies in Imperial's view of postgraduate students
 date: "2012-01-26 22:35:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2067"
@@ -34,15 +35,6 @@ image_height: "3508"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After finishing my undergraduate degree, I’m now in my fifth year at Imperial studying for a PhD. Recent news about [the future of Clayponds](http://felixonline.co.uk/news/2032/clayponds-in-crisis/) and [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) has led me to believe that Imperial is disconnected from the lives and needs of postgraduate students.

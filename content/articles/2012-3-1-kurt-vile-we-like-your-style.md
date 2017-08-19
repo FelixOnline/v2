@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mohammad Mirza and Mark England have a blast in Camden
 date: "2012-03-01 23:22:56 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2299"
@@ -33,15 +34,6 @@ image_height: "512"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 We are going to start this review with a bold statement: __Kurt Vile’s ___Smoke Rings for my Halo _was the hottest album of 2011. No matter how poignant PJ Harvey’s Let England Shake was or how acclaimed the Horror’s Skying was, no-one can convince us otherwise. It was with this in mind that we headed to Koko on 21 February for the NME awards with high expectations in mind.

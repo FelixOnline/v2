@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Banning an activity will never stop its practice, merely move its location.
 date: "2010-02-12 02:03:02 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "86"
@@ -33,15 +34,6 @@ image_height: "549"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The other week, the idea of banning smoking in our Union Quad was mooted. On Monday, a proposal will be made to the Council to pass this into Union rules. This appears to me to be very ill thought- out, and hopefully after reading this article, it will to you too.

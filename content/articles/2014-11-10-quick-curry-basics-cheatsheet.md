@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The cheats behind a basic but beautiful curry
 date: "2014-11-10 22:23:30 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4845"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 All good curry starts with a base that includes fragrant bulb veg, chillies and some aromatics. To make mine I blend together onions, lemongrass and dried chillies, then fry it together with curry leaves (a mainstay of Southeast Asian curries) until fragrant. Then add to this mixture chili powder and curry powder to taste/tolerance levels. It’s easy to scale this up in batches and then separate into your desired portion sizes before freezing. A cheap compact blender will do the job (no need for a fancy Vitamix), and you can use it for so many other things as well. I own a lovely turquoise one by Breville which costs about £40.

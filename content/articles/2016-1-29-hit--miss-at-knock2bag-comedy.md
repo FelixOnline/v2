@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fifteen minute funny bits
 date: "2016-01-29 09:43:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5853"
@@ -33,15 +34,6 @@ image_height: "1236"
 image_attribution: "Death of a Sails-man"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fresh outta West Basement, this comedy virgin headed out to meet Knock2Bag. Hailed by _Time Out_ as some of the best comedy in the East End at brilliant value, it had a lot to live up to.

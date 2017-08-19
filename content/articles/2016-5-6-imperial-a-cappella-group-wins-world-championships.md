@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They were even featured on the worldwide Snapchat story
 date: "2016-05-06 09:44:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6116"
@@ -34,15 +35,6 @@ image_height: "1669"
 image_attribution: "Joe Martinez"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a series of events that could have come straight out of a Glee episode, Imperial’s male A Cappella group, The Techtonics, managed to win first prize at the finals of the international competition for university A cappella groups in New York. They are the first ever British team to win.

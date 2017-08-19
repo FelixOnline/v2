@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists propose hydrothermal vents on the ocean floor as possible locations for the beginning of life itself
 date: "2012-03-01 21:21:48 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2273"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The origin of life on Earth is one of the most compelling questions in science today. Recently, hydrothermal vents on the ocean floor have been cited as potential settings for this event. However, the _Proceedings of the National Academy of Sciences_ has published a study led by Armen Mulkidjanian from the University of Osnabrück, Germany, arguing that the first life arose in pools of condensed vapour from geothermal vents on land.

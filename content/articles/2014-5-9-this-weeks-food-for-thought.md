@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history.
 date: "2014-05-09 15:43:12 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4589"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Michael Y K Chung"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Procrastinating from work, I found myself looking at my Instagram stream, and I was quite surprised how many photos of food I had in my history. I’ve got to admit, not everything looked amazing, be it the colour reproduction of my phone (curry is not the most pleasant-looking dish ever), or just the lack of lighting in a restaurant.

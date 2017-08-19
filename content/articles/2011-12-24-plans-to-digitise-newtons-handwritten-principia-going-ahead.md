@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cambridge University commences initiative to digitise original scientific papers
 date: "2011-12-24 22:48:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1962"
@@ -33,15 +34,6 @@ image_height: "276"
 image_attribution: "Cambridge University Library"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Cambridge University is to give the public access to Sir Isaac Newton's own [annotated copy of the Principia Mathematica online](http://cudl.lib.cam.ac.uk/), along with several of his other papers. Newton, born on Christmas Day in 1642, shares credit with Gottfried Leibniz for the developments in integral and differential calculus, along with several breakthroughs in mathematics and physics.

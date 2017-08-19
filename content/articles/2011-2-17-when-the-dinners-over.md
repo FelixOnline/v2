@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christian Franke lists how to end a dinner on a non-WINE note
 date: "2011-02-17 19:42:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "823"
@@ -34,15 +35,6 @@ image_height: "201"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After having a long, drawn out and indulgent dinner, what does one have whilst engaging in sophisticated conversation and to cleanse the palate after the cheese board? To continue drinking wine simply lacks imagination, besides it wouldn’t be best suited to aid digestion. Fortunately a whole genre of drink has been developed over the past several hundred years purely for this purpose, I am of course writing about the digestif.

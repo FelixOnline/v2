@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our first fixture, last week, saw us pitted against UCL’s 2nd team, a team we were initially quietly confident we would beat with ease.
 date: "2013-11-05 09:56:20 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4012"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Following the loss of many excellent players this year, namely ex Team GB vice-captain Adam, we were worried we’d find a team with as much quality and finesse as our old BUCS team this year. Fortunately we did some great work at the Fresher’s Fair and managed to recruit several outstanding players, including some girls who were actually familiar with the game, which is rare. Not to mention the guys we got, who certainly know how to handle their balls.

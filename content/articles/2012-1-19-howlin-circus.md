@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto shares liquid bread while chatting house fires and the blues ahead of THROB
 date: "2012-01-19 20:46:02 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2021"
@@ -33,15 +34,6 @@ image_height: "2554"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __So you guys just had rehearsal. How did it go?

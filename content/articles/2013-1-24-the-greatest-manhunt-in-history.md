@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Osama Bin Filmed
 date: "2013-01-24 21:33:54 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3160"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Zero Dark Thirty

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   University has started and pretty soon things will really get into full swing. You’ll feel overwhelemed, anxious and like the whole world is against you. But have no fear! felix is here to tell you all about why gaming is your outlet in such a situation to relax and think about something other than
 date: "2016-10-10 12:16:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6320"
@@ -33,15 +34,6 @@ image_height: "2736"
 image_attribution: "William Warby"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’re a fresher, welcome to Imperial! If you’re a returning student, welcome back. Right now it’s only been a week or so of University so things are probably still feeling pretty relaxed. You’re just going through introductory lectures, there’s no coursework to be on top of, and you’ve basically just been chilling, partying and having some fun.

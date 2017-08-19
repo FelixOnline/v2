@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Wilson urges a dialogue between faiths
 date: "2013-02-14 00:38:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3317"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 'It’s a dialogue, not a debate’. This declaration is the first point from the guidelines for interfaith discussion written by Imperial students. Debates can dramatise conflicting ideas but dialogue is as much about listening as it is about speaking. Debates are necessary when making public and democratic decisions. But debates rarely help us understand views that are radically different from our own. This is because beliefs, both religious and philosophical, are not just ideas. Beliefs are frequently rooted in complex identities. These can involve shared culture, social relationships and family networks. In addition beliefs often have a physical dimension – food customs, dress codes, and postures for prayer. And all of these will have an emotional component and be part of deep personal memories, values and expectations. This rich human experience cannot be explored in a debate over ideas. Dialogue partners do not seek agreement, and there is no winner. The challenge of dialogue is in exploring profound differences of view – and staying calm. The bonus, however, is that we discover the unique personal perspective of the other person. We also start to see how our beliefs, and very identity, are seen by others. This is not always a comfortable experience. It is far easier to stay with our own assumptions, projections, and tribal fears than enter into dialogue.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl tries his best to give you the low down on the newest Apple phone
 date: "2013-01-24 21:17:58 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3158"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In terms of iOS, 2012 was the year of the [iPhone 5](http://www.apple.com/uk/iphone/). After a rather disappointing iPhone 4S, the anticipation had been growing under the surface for a long time. When the iPhone 5 was revealed on the 12th of September of last year, it sported a radical new design, a better graphics processor, new A6 chip as well as LTE technology and finally Felix Tech has one to review.

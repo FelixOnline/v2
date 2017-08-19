@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week: Argentinian punk
 date: "2011-12-01 21:15:17 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1884"
@@ -33,15 +34,6 @@ image_height: "379"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Argentine punk had a troubled upbringing. Though inspired by the notoriety of the __Sex Pistols__, Argentina’s pioneers couldn’t afford to play the same kind of media-baiting games. The year that brought us punk rock brought Argentina a vicious military dictatorship, and all evidence suggests dictators don’t like punk.

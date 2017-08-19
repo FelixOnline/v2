@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yo Yo, listen up! We got the Careers Service in to give you some hints and tips for essential networking practices you can use to land that new job or competitive internship. Remember who got you that Lambourghini... -Ed.
 date: "2013-10-13 00:10:54 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3877"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 There are some common misconceptions about networking, such as that it’s difficult and only works for charismatic personalities who are good at schmoozing, or is basically a back door process for asking influential contacts to give you a job. Wrong. Networking is all about creating a mutually beneficial web of relationships, which is transparent, honest and allows you to refine your career ideas and help you find suitable opportunities. Simply, it involves developing your own personal brand and raising your profile, and connecting with professionals in your field of interest to learn more about your sector, career paths, qualification routes and potential vacancies.

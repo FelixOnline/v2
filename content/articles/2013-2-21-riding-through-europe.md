@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Would you like some horse with your burger?
 date: "2013-02-21 13:52:44 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3340"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The horse meat scandal is revealing the intricacies and complexities of the European food industry. When disconcerting discoveries were made in Ireland in November 2012 and finally the scandal erupted in the UK mid-January, no one expected it to blow up in such a dramatic way. Since then, three separate supply chains, 13 countries and 28 companies have become involved in one of the largest food crises since BSE. The scandal looks like it might even take an international turn, with products being removed from supermarkets in Hong Kong.

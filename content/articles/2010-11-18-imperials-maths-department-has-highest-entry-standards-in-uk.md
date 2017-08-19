@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is the Maths Department asking too much?
 date: "2010-11-18 21:57:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "416"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Potential undergraduate maths students may find it harder to receive an offer from Imperial this year as a result of the A*. Imperial’s Mathematics Department has the ["highest" A level entry requirements in the UK](http://www.telegraph.co.uk/education/universityeducation/8130726/Number-of-universities-requiring-A-triples.html), asking for A*A*A with the A*s in Maths and Further Maths. Although these criteria are much more demanding than those of other universities, they are only a marginal change from Imperial’s previous highest offer of AAA with As in each maths module. “We rely entirely on the UCAS form and A level results, so it is not surprising that our minimal entry requirement is higher.” Professor Alexei Skorobogatov, Imperial’s Mathematics Admissions Tutor, explains.

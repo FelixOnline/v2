@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1566"
@@ -34,15 +35,6 @@ image_height: "1071"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Saturday saw a [global day of occupation and protest in 951 cities across 82 countries](http://newsfeed.time.com/2011/10/17/solidarity-saturday-occupy-wall-street-goes-global/), making this day one of the most widespread days of resistance ever seen. Apart from Rome, they were also entirely peaceful. This was no random event but part of a global tide of uprising that began in the Arab spring and has swept across Europe and America. Although you may question the link between the protests in the Middle East and apparent Western democracies two common features have ran through them all: high unemployment combined with increasing difficulty to live on low wages and a feeling that the general public have no control over their governance.

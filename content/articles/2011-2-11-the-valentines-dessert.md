@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bobla Gnay explains how it’s done
 date: "2011-02-11 06:51:44 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "802"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Singletons hear me out, it’s coming up to that time of year again... you’re reminded that you are very single, lonely, cold and depressed.

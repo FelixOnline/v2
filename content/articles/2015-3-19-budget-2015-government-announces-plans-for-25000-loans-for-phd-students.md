@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson finds out what the new Budget has to offer
 date: "2015-03-19 23:33:38 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5401"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Leon Neal/AFP/Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The government has revealed plans to offer income-contingent loans of up to £25,000 for PhD and research-based masters students in the latest Budget report, George Osborne’s sixth as Chancellor of the Exchequer.

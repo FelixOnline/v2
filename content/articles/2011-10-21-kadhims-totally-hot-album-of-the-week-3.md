@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Slow Club - Paradise (2011)
 date: "2011-10-21 11:23:55 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1597"
@@ -33,15 +34,6 @@ image_height: "1499"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 When it comes to Twitter, musicians usually have one of two personalities:

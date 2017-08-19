@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Renos Karamanis enjoys a night alone with his laptop
 date: "2012-11-23 00:04:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2958"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I‘ve come to Imperial and my sex life sucks! What should I do?” Shut up and relax!, that’s what!”That’s what everyone should do when problems like this arise. You see, people, we all want to drive a nice car but yet sometimes we are stuck with a bicycle. What do you do then? Start crying because you’re riding a bike? No, keep working so you can buy a car and who knows, maybe on the way you will find that you do not even want a nice car.

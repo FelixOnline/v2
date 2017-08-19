@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hopefully it’ll go better than that time Mike Tyson returned
 date: "2012-11-01 22:52:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2798"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hello? Is this thing on? It’s been a while, you see. In fact, by my count less than half of the undergraduates were around the last time I wrote for Felix. I’d do a formal introduction and all, but the concept boils down to a pretty simple “I vehemently hate more things before breakfast than you’ve managed to mildly dislike in your entire life” schtick. I’ve just been a little preoccupied lately to write in Felix. I’ve kept busy, of course, thanks for asking. I’ve taken to just whispering swear words to people on the tube on the commute home. Similar audience size, but admittedly less anonymous.

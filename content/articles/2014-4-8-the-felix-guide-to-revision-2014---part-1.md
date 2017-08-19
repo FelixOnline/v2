@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix breaks the exam panic with some useful revision tips!
 date: "2014-04-08 13:52:16 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4531"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Joe Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Most of you will be revising (or trying to) over the Easter break, either panicking or comfortably smug and prepared, having started revision before the year started.

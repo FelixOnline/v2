@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fast and fun, but this musical is a tad light on plot
 date: "2011-06-02 19:43:37 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1311"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The experience of watching my first London musical, ‘Million Dollar Quartet’ at the Noël Coward Theatre left me amused, amazed but also slightly disappointed. The theatre entrance was filled with anxious people when we arrived and the air crackled with anticipation. Inside we were greeted by music from the fifties whilst waiting for curtain-up. The simple scenery was just a single room: the recording studio in which unfolded the legendary meeting of the four most renowned musicians of the fifties; Jonny Cash, Jerry Lee Lewis, Carl Perkins, and of course The King, Elvis. The story was too bland for my taste as it was the reincarnation of a recording session that had happened by chance in the Sun Studio, run by Samuel Phillips, the man who had “discovered” the four artists.

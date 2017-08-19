@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on this year's charity extravaganza, which included walking on fire, jumping from cranes, and tunnelling
 date: "2015-02-12 21:36:57 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5239"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ben Fernando"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week saw two days of bungee jumping, one evening of fire walking, a lunchtime of pancake-tossing and just under 900 doughnuts; all in the name of Raising And Giving (RAG).

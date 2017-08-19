@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2016-11-04 12:54:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6383"
@@ -33,15 +34,6 @@ image_height: "1275"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 F**act**: blind people don’t see darkness. They see nothing. I’ll admit this seems counter-intuitive; most of us would shout “I can’t see anything” when stumbling around in the pitch-dark. But understanding blindness requires a bit more thought.

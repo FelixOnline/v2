@@ -4,6 +4,7 @@ title: >
 subtitle: >
   if you can’t love yourself how in the hell you gonna love somebody else
 date: "2017-03-10 14:16:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6883"
@@ -33,15 +34,6 @@ image_height: "1038"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Toys for girls

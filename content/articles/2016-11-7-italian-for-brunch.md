@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix rolls out pasta with a Michelin star chef, and investigates the finest that Theo’s Simple Italian has to offer – none of it simple, but all widely Italian and full of fantastic flavours, with ravioli, tiramisu and more
 date: "2016-11-07 13:10:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6402"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s not every day you meet a Michelin-star chef. Not hysterically screaming after catching a glimpse some 50-metres away, but to be within talking distance, and most importantly, taking a selfie.

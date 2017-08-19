@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stefan Nubert, Deputy President (Finance & Services) explains the changes and reasons for them.
 date: "2012-08-07 20:04:24 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2590"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the summer, the prices of some draught products in our bars have been increased. We are in the process of preparing a full release about the change in prices and products available in the bars over the coming weeks.

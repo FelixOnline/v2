@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ...but dedication is compulsory for a career in science. We’re not here to be valued, we’re here to work shit out
 date: "2010-10-07 22:55:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "181"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Welcome to Imperial, home of the [insert obvious geek joke]. You’re either returning, or starting for the first time, as a scientist, engineer, or failed-medic-in-training, and congratulations to you. If you want to, you can shape the future of the world by improving our understanding and refining our control over the world we live in. Alternatively, you can do sweet Fred Astaire for four years, drag your sorry arse across the Royal Albert Hall stage, and sod off to the world of finance/law/international superstardom. As long as neither of the two paths lead to my supply of New Forest fudge being cut off, I could care less.

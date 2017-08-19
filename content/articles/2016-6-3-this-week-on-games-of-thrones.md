@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s season six, episode six!
 date: "2016-06-03 09:24:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6239"
@@ -33,15 +34,6 @@ image_height: "1152"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week’s episode came with a lot of throwbacks to characters of previous seasons. Hope you’ve got a good memory.

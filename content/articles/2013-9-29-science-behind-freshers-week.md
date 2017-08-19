@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett gets you ready to face your greatest fear: socialising
 date: "2013-09-29 14:30:49 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3773"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wired"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 According to your personal statement, ever since you can remember you have always wanted to study RNA replication, so we here know you love a bit of science. Even if you actually meant it, and we know some of you probably didn’t, science will no doubt be at the back of your mind this week. But so it should be! This week is all about making friends in halls, drinking in halls, planning to go to Ministry of Sound and then giving up after finding out the route home takes two buses.

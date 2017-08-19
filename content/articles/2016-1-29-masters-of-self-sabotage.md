@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our mentality towards mental health needs to change if we are to reduce suffering
 date: "2016-01-29 08:54:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5839"
@@ -34,15 +35,6 @@ image_height: "591"
 image_attribution: "hercampus.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is my belief that it is a question of pure, unadulterated human arrogance that has led us to the self-sabotage that I make reference to in the title.

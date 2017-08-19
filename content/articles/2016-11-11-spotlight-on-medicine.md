@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Beacons of hope in this cursed year...
 date: "2016-11-11 15:59:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6429"
@@ -33,15 +34,6 @@ image_height: "263"
 image_attribution: "NICHD"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 1 | HIV Testing USB Sticks

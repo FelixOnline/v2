@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The National - Trouble Will Find Me
 date: "2013-05-16 14:49:43 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3567"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The National are a band who have transcended modern music trends. They first came to prominence with the glut of “post-punk revival” indie bands in the mid-2000s. That scene died years ago, but The National rose from the ashes, and have continued to rise and rise. Their last album, High Violet, saw them getting top billing at some of the biggest festivals in the world and it’s a position they richly desevred. Whilst their peers desperately tried to cling to past glories by claiming their new album was “just like the first one” (Interpol) or radically changed their style all the time hoping something would stick (Bloc Party) or just gave up completely (Franz Ferdinand), The National have calmly gone about writing great music that comes naturally. The new record, Trouble Will Find Me, is a perfect extension of that. It’s truly gorgeous, and should cement the National’s place at the top of modern indie rock.

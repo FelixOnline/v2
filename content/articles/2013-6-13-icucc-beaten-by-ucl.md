@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The pressures of harder exams take their toll on a brave IC team. Jayanth Ganapthy reports
 date: "2013-06-13 22:22:56 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3674"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 With his 100% winning record as skipper on the line, Vignesh Venkateswaran once again took up the reins of captaincy as he led the ICUCC 1st XI to face off against arch-rivals UCL, in a nail-biting London derby.

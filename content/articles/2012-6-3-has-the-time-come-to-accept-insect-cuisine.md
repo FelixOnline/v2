@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Meat and fish? It may well be all about insects
 date: "2012-06-03 16:10:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2521"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Grasshopper steak, anyone? If that doesn’t tickle your fancy, how about an ant lollipop? Though these ideas may sound revolting, entomophagy, the consumption of insects, may well become more popular in the Western world as fish stocks dwindle and rising population reduces the space available for traditional meat farming.

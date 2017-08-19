@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter gives Chilly Gonzales a thumbs up. Or at least he would, if he weren't too cool to do such actions
 date: "2012-11-01 23:15:46 +0000"
+author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "2820"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sh1207"
-author_name: "Simon Hunter"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "simonhunter28"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the full flow of a performance Chilly Gonzales is a sight to behold. Dressed in a black satin dressing gown and wasabi green slippers his unkempt, sweaty hair hangs across his face as he hammers the keys of a beautiful Steinway. This is a man who loves to let his wild imagination gallop and two weekends ago, in the Barbican Hall, he was given the BBC Symphony Orchestra to, in his words, be his “sixty musical slaves”.

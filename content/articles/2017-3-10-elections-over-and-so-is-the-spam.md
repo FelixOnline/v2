@@ -4,6 +4,7 @@ title: >
 subtitle: >
   woop woop
 date: "2017-03-10 13:18:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6866"
@@ -33,15 +34,6 @@ image_height: "783"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Thank God it’s Friday. Voting for the Leadership elections ends at noon today, as does the constant online and offline harassment from your potential future leaders!

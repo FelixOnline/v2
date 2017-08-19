@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles mulls on the radical British politics on display at the National Theatre's latest offering
 date: "2015-04-27 10:57:04 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5471"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 While BBC News and the pages of the Daily Mail may seem the obvious place for a bit of political debate, currently there is a far more interesting source of discursive discussion: the stage. With plays such as the __Royal Court__’s _Hope_, the __Tricycle__’s _Multitudes_, and __Donmar__’s _The Vote_ all exploring the issue of politics within modern Britain, it is no wonder that incoming director of the __National Theatre__ Rufus Norris describes the theatre as the nation’s debating chamber. As such, his decision to put on Caryl Churchill’s play _Light Shining in Buckinghamshire_, which deals with the Levellers, a 17th Century political group, makes perfect sense. It is a credit to both Churchill’s writing and Lyndsey Turner’s direction that the production seems as relevant today as it did when it was first staged in 1976. So much has changed, and yet so little.

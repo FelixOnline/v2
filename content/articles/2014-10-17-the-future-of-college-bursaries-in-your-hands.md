@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union President Tom Wheeler explains...
 date: "2014-10-17 15:15:52 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4737"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I agree this is weird, what is someone from the Union doing writing an article in Felix about a College decision? But please keep reading because this really matters. If you are a Home Undergraduate student and receive an Imperial College Bursary (i.e.: your household’s income is <£60k), then I really want to know what you think of the bursary support package that College provides. Remember, that this is only talking about the bursary that College provides, and not the Student Finance one.

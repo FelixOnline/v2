@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Next week Marianne Teoh will be undertaking a week of humiliation to raise awareness for charities in Indonesia
 date: "2011-01-20 19:12:30 +0000"
+author_id: "cr709"
 
 # Attributes from Felix Online V1
 id: "600"
@@ -34,15 +35,6 @@ image_height: "4000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cr709"
-author_name: "Christopher Richardson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Word on the street is that next week will be a sweaty one for Biology fresher Marianne Teoh, as on Monday she gets engulfed by the crocodile suit which she’ll be confined to for the subsequent week. A far cry from the oh-so tiresome leg shaving and cookie baking ‘antics’ to which we’re all so accustomed, this campaign is one to watch. I decided to find out what it was all about.

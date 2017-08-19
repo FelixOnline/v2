@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England goes to church on a Friday night, and enjoys it...
 date: "2013-02-13 12:57:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3297"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have recently discovered the real reason the Pope is giving up on wearing his natty white gown and driving about in his suped-up Pope-mobile to devote more of his time to chillaxing. He must have been present at St Leonard’s Church last Friday where Veronica Falls blew away the congregation with an outstanding set. Evidently it became clear to him that the best way to get bums on pews and religion back into the hearts and tweets of the young is to be in a swoonsome twee indie band which specialise in jangly guitar pop. It is not surprising that this idea must have dispirited Herr Ratzinger (as he is more of a dubstep or electo-crunk kind of guy) to such an extent that he had no choice but to step down.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Food looks where else our lettuce could come from
 date: "2014-05-16 02:11:25 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4604"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "wired.co.uk"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Space is an issue in a metropolis like London. Roads crowded with cars and pedestrians, with more and more skyscrapers popping up around the capital. As the population in the UK grows, estimated around 70 million by 2028 - many of whom will be living in and around the capital and the major cities, such as Birmingham and Manchester. With less land but more mouths to feed, what would our farms be in the future?

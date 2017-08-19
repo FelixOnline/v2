@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mimi Li on the dangers of living in a polluted city.
 date: "2014-06-12 17:00:43 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4686"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 London is one of the most polluted cities in Europe and it is no surprise to hear that this pollution has potentially harmful effects on our health. Air pollution has previously been linked to an increased risk of cardiovascular and respiratory disease, as well as cancer. An estimated 7 million deaths per year are a result of air pollution exposure according to the World Health Organisation.

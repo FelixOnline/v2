@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The fifth of our 'games that never made it'
 date: "2011-03-03 21:21:18 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1025"
@@ -33,15 +34,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes, eventually I get to it. Of course, technically speaking this game has been picked up to be carried to completion by Gearbox Studios, mainly by being incredibly famous for just never showing up.

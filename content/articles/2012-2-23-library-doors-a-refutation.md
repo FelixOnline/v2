@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The new library doors are "a menace", says Ned Yoxall
 date: "2012-02-23 20:40:54 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2239"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In training for long distance things, you have to train for quite a long time. Whether I’m in the pool, on the bike, or on a run I usually get some ‘quality’ time with my own thoughts. What follows is the result of this time alone…

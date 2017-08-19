@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix sends undercover reporter MC Hämmer on a night out...
 date: "2012-10-11 20:51:03 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2655"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Undercover reporting allows for the scythe of truth to cut through wrongdoings like a wieldy knife through butter. Corruption can be unmasked! Bureaucracy criticized! All with a single tap of the keyboard, preferably followed by several more. But how could one possibly decide what deserving targets to strike? The answer, in this case, was determined by the fact that there was nothing better to do on Tuesday night. The fickle finger of fate fell upon the RCSU Autumn Ball, held at Soho’s Gem Bar.

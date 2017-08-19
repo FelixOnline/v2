@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust.
 date: "2014-01-24 09:37:03 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4269"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust. The space is currently used by a number of different groups, including the Drama, Musical Theatre and Cinema societies. The refurbishment is aimed at improving the technical capabilities of the Concert Hall.

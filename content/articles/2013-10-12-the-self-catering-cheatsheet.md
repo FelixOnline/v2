@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sage(!) advice on how to shop, cook and eat smart - fresher’s 15 begone!
 date: "2013-10-12 19:55:30 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3860"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Understandably everyone reading this article will have a different view or preference/budget when it comes to eating or food shopping. Even within Carol’s household, the boys prefer to bag everything from Sainsbury’s (everything’s in one location), whereas she doesn’t mind scouring the North End Road market and butcher’s for cheaper produce.

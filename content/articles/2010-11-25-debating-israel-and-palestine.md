@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Debating Israel and Palestine
 date: "2010-11-25 21:24:16 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "439"
@@ -33,15 +34,6 @@ image_height: "2942"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Tuesday IC Debating Society, Israeli Society and Palestinian Society collaborated, bringing together four prominent speakers to discuss the Israeli-Palestinian conflict under the title: “The Debate for Peace”.

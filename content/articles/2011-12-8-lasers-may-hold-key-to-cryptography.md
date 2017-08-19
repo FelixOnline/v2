@@ -4,6 +4,7 @@ title: >
 subtitle: >
   True random numbers generated from laser light
 date: "2011-12-08 20:54:25 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1924"
@@ -33,15 +34,6 @@ image_height: "1456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 “The generation of random numbers is too important to be left to chance.” This was the title of a 1970 article by recognised expert in pseudo-random number generation Robert R Coveyou. There are many controversies surrounding the various algorithms used to generate numbers with the illusion of randomness, but one Ottawa physicist appears to have developed a way to generate them truly randomly.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Gray explores Peter Rehberg’s dark new collaboration
 date: "2013-06-06 19:47:23 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3669"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Blackest Ever Black, the aptly named London label that has been grabbing attention with crushingly dark electronic releases for the past few years, seems like an ideal home for Peter Rehberg (PITA, Editions Mego head), Christina Nemec, and Christian Schachinger’s new project Shampoo Boy.

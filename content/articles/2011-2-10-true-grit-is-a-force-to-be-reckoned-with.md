@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Coen brothers’ gun standoffs are superb and stylish.
 date: "2011-02-10 20:40:55 +0000"
+author_id: "ghc07"
 
 # Attributes from Felix Online V1
 id: "780"
@@ -33,15 +34,6 @@ image_height: "1065"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ghc07"
-author_name: "Guo Heng Chin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 True Grit was truly a surprise at the Golden Globes. Not for any record breaking achievement but rather for its surprising lack of recognition. The film was hailed as one of the racehorses set for a slew of gongs during the awards season, but gasp! The Coen brother’s latest western was not even graced with a single nomination at the Globes.

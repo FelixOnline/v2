@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maisie Williams is establishing herself on the big screen
 date: "2015-05-08 12:03:29 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5506"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Carol Morley/Metrodome"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _The Falling_ is written and directed by Carol Morley, whose first feature film was the moving docudrama, _Dreams of a Life_.

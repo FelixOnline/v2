@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This clever and inventive show is the epitome of high-concept storytelling
 date: "2016-01-29 09:59:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5856"
@@ -34,15 +35,6 @@ image_height: "730"
 image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sometimes considered a loose and boisterous reimaging of Doc Brown and Marty, Rick and Morty is a fun and wild, animated science-fiction show where things are anything but classic Sci-Fi. If you haven’t heard of this show by now, you’ve either been subjugated by the rule of the canines or are trapped in a minverse, inside a miniverse, inside a miniverse inside your car battery.

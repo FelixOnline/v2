@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kelly Reichardt fashions a beautifully-intimate portrait of four women, in her sixth feature film, Certain Women, which details our relationships with the natural world, other individuals, and our own loneliness
 date: "2017-03-10 13:37:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6871"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Park Circus"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Certain Women, American director Kelly Reichardt’s sixth film, begins with a shot that serves as a statement of intent: a rusting old train slowly drags itself across the Montana landscape, framed by snowy mountain peaks; stoic in its solitude, it chuffs and puffs along the track, determined to reach its destination, piercing the early morning air with sharp whistles, announcing its presence. It’s a fitting representation of Reichardt’s films, which centre around the normal day-to-day lives of average Americans, portraying their struggles, their defeats, and their small triumphs with a relentless internal energy and endless empathy.

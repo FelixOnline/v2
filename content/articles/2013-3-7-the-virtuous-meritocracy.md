@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A pondering on a fair system
 date: "2013-03-07 23:41:41 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3444"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A recent article in The Economist analysed social mobility (or rather a lack thereof) in the USA, focusing on education. Extensive discourse took place surrounding a modern phenomenon known as ‘virtuous meritocracy’. In basic terms, it has its origins in previous American governmental policy. Concessions were repeatedly awarded to school pupils from humble backgrounds considered ‘bright’. Many were actively consumed into the Ivy League and State University ranks via scholarships and funding. In turn this select core of students secured the most coveted (and highest earning) business and academic positions upon graduation. It will be no surprise to learn that they were intent on retaining what they had achieved ‘on merit’; their endeavours were the embodiment of the American dream. However, like many aspects of a changing modern America, the dream has been tainted. Some argue that this group of intelligent nouveau riche monopolise both jobs and education, passing their emancipation (and their money) onto their children, with the squeezed middle and working class losing out.

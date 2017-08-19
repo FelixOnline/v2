@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pool team suffer “absolute shocker” at BUCS 8-ball Championships
 date: "2011-11-03 22:03:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1697"
@@ -33,15 +34,6 @@ image_height: "538"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The university cue sports season began last weekend in dramatic fashion as an inexperienced Imperial College English eight-ball pool team travelled up to Nottingham for the inaugural English Universities Pool Championships. Hosted by the [Nottingham University Snooker and Pool Club](http://www.su.nottingham.ac.uk/sports/club/snookerandpool/), 25 university teams and over 128 individual entrants battled it out for some early bragging rights.

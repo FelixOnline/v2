@@ -4,6 +4,7 @@ title: >
 subtitle: >
   (tho how can you not like waking people with a big stick?)
 date: "2017-03-10 14:46:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6889"
@@ -34,15 +35,6 @@ image_height: "2907"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend on the 4th and 5th of March, the annual UK Kendo University Championships took place in Cambridge, where Imperial College took home several awards, including winning the kyu grade team competition.

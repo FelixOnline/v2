@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rocks at the surface of the Moon bear the signs of water from deep below, scientists have discovered. Marion Ferrat takes a closer look at where this water comes from and how scientists can detect it.
 date: "2013-09-19 12:23:48 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3760"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "NASA.gov"
 image_attribution_link: "http://spaceflight.nasa.gov/gallery/images/apollo/apollo16/html/as16-120-19242.html"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Scientists have detected water locked in minerals deep inside the Moon using satellites. This discovery suggests that the Moon’s interior may not be as dry as previously thought.

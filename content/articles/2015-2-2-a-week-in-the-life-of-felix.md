@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Howitt investigates the daily life of the student newspaper.
 date: "2015-02-02 14:25:33 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5177"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We decided to ‘start strong’ with _Felix_, under the assumption that we could write most of this over the break.

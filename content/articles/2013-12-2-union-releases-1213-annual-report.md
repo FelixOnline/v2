@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Read here to find out about the highest paid wage at the Union and other fun facts!
 date: "2013-12-02 13:05:19 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4146"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This Tuesday the Union released their most recent annual report, covering last year’s activities. There have been some changes in the Union’s financial reporting methods, after the recent change to full charity status it now has to present financial statements according to the Charities SORP (Statement of Recommended Practice). The SORP requires a charity to not only present its finances, but also to do it in such a way that shows how financial transactions relate to their charitable activities.

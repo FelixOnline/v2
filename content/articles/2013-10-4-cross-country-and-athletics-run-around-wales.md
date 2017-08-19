@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus inst
 date: "2013-10-04 02:17:57 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3811"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ICU Cross Country & Athletics"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On Saturday the 7th of September twenty-two members of the Cross Country and Athletics Team gathered outside the Union to depart on a week- long running adventure to Pembroke. As a group of keen runners, we naturally considered jogging there, but soon decided to travel the 240 miles by minibus instead. The van, effortlessly navigated and driven by Matt Douthwaite, was loaded up with trainers, sports bags, games and twenty odd obligatory contributions of home baked goods.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola is taken on a journey to the fun side of the ROH
 date: "2015-05-06 16:34:38 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5496"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Tristram Kenton/The Guardian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It would be understandable if a comic opera about a love triangle – featuring a randy Turkish prince, a doddering old man, and his unfaithful young wife – struggled to be relevant. Throw in a few jokes about Gypsies, the inconstancy of women, and old men falling into plates of spaghetti and it turns into an unpalatable cocktail of racism, sexism and slapstick comedy.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "724"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After several recent incidents in Selkirk Halls – mainly involving alcohol – the Wardens have decided to implement a series of rules regarding ‘gatherings’ and noise levels late at night. These regulations request that students inform the wardens about gatherings so that they can be ‘approved’ and have provoked consternation amongst students there. Students have been warned that if gatherings are not reported to Wardens, after repeat offences, they may get fined.

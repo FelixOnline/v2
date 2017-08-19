@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Global warming is not bad for everything, it turns out
 date: "2012-06-07 18:56:34 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2526"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Jim Asher"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is a truth universally acknowledged that global warming is a bad thing. Icebergs are melting, seas are rising and holidays to the Maldives may become relegated to wistful anecdotes of the iPod generation. However for species such as the _Aricia agestis_ or Brown Argus butterfly, warmer autumns such as the one the UK experienced in 2011 are providing an opportunity for them to spread their wings and multiply.

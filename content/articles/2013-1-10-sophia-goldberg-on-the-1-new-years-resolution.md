@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Enjoy your breakfast, lunch and dinner - guilt-free
 date: "2013-01-10 23:08:44 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3106"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do you have the same recurring New Year’s resolutions? I’ve heard them all before: stop drinking so much, do a problem sheet, get organised, text/call mum more, text/call gran more, stop texting/calling people so much and see family/friends in person, and personally, stp speakin in txt. The most common resolution of all is to tame the bulge. Do you love food and hate scales? If you want to slash the caloricious content of your food but not the scrumptiousness then throw out your old ‘thou shalt not eat’ New Year’s resolution – armed with this week’s helpful issue you’ll see that you can still enjoy your breakfast, lunch and dinner guilt-free.

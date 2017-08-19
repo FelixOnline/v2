@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tagore Nakornchai thinks religious groups should face their critics head on
 date: "2012-02-02 23:32:44 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2111"
@@ -34,15 +35,6 @@ image_height: "460"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In case you haven’t been following the news, here’s a quick summary: the UCL Atheist, Secular and Humanist Society’s president stepped down this week after massive pressure from the UCL Union. The Society had used a picture from the “Jesus and Mo” web comic to advertise an event, and were promptly served with a takedown notice from the UCL Union. When the society shot back with a petition, 4,000 people (including Richard Dawkins) signed it overnight, and the UCLU was forced to back down.

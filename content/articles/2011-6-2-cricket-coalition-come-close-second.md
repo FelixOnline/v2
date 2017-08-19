@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead
 date: "2011-06-02 20:34:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1323"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "Priya Shah"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Cricket, cupcakes and comedy – who could ask for more on a glorious Bank Holiday? For those of you weren’t chained to your desks revising, you’ll remember that Good Friday was like the perfect English summer’s day. With the clear blue skies, sun beating down and public deciding ‘less is more’ when choosing their outfit for the day – one could have mistaken this to be in the height of summer.

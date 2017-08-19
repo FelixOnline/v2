@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Benson’s photographic journey of the solar system shines at the NHM
 date: "2016-02-12 11:37:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5907"
@@ -33,15 +34,6 @@ image_height: "4627"
 image_attribution: "NASA/JPL/Michael Benson, Kinetikon Pictures, courtesy of Flowers Gallery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The latest offering from the Natural History Museum is a photography exhibition titled _Otherworlds_. Like all great collections of art, it aims to intrigue the intellect as well as stir the emotions. In its own words, _Otherworlds_ aims no less than to “embod[y] the symbiosis between art and science”, and “simultaneously reveal the ethereal beauty of far-off worlds and clues to how the solar system…began”.

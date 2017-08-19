@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Editor-Elect Philippa Skett ponders the relationship between student publications and free speech
 date: "2014-05-09 02:04:51 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4571"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Student Publication Association (SPA) is very much in its infancy, especially when compared to other media associations, such as the Student Radio Association. This is particularly surprising considering nearly every university has a newspaper, either independently ran or overseen by their union, like Felix.

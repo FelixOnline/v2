@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is the UK’s economy going in the wrong direction?
 date: "2011-02-10 20:53:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "787"
@@ -33,15 +34,6 @@ image_height: "2496"
 image_attribution: "Joshua Yerrell"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last year the Conservative party and the Liberal Democrats seized power after the 2010 general election and since then the ruling coalition has taken austerity measures, spreading the rumour that UK was on the fiscal brink. They cut governmental employment by 460,000 workers, and slashed public spending including the educational budget and infrastructure. They also raised VAT from 17.5% to 20% this year, which is partly responsible for a rise in commodity prices. The Liberal Democrats, who had pledged to vote against any rise in university tuition fees before the election, tripled the fees last December.

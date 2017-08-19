@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reflects on a week that included the emotional funeral of Phillip Hughes and the release of the report into the accident that put Jules Bianchi into a coma
 date: "2014-12-04 20:54:13 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5014"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Cricketer Phillip Hughes was laid to rest at his funeral in his hometown in Macksville, New South Wales, on Wednesday. Australian captain Michael Clarke gave an emotional eulogy after acting as a pall bearer. Hughes, who would have turned 26 on Sunday, was struck by a bouncer last Tuesday, and died on Thursday afternoon, after an artery burst in his neck. The Test Series between Australia and India has been subsequently rearranged. Adelaide, Hughes adopted home ground, will now host the first test, with Brisbane hosting the second. A twitter hashtag, #putoutyourbats, has become a global phenomenon, with many leaving their bats outside with a cap on the handle in tribute.

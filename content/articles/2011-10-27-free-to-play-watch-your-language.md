@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Free-to-Play is often anything but. Laurence Pope debunks the idea that F2P games are a poor gamer’s wet dream
 date: "2011-10-27 23:25:52 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1621"
@@ -34,15 +35,6 @@ image_height: "429"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Free-to-play games are exactly what they say on the tin – video games that don’t cost money to play. If this is what they truly were then I could wrap this article up right now, but unfortunately the rule ‘there’s no such thing as a free lunch’ still remains unbroken. Here’s why.

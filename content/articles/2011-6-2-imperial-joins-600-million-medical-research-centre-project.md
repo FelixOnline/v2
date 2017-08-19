@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial contributes £40 million to Francis Crick Institute
 date: "2011-06-02 18:09:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1292"
@@ -33,15 +34,6 @@ image_height: "240"
 image_attribution: "Justin Piperger Photography/Wadsworth3d"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial and King’s College London are set to become involved in the construction and development of a London-based ‘world-leading’ medical research centre, the Francis Crick Institute.

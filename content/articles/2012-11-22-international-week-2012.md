@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A round up of the action from all the international societies
 date: "2012-11-22 22:55:04 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2935"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week at Imperial saw the celebration of the College’s first ever International Week with a great myriad of activities taking place. The Week was set up to promote the cultural diversity present at our university in the hope that all students and cultures are represented and encouraged to express themselves equally.

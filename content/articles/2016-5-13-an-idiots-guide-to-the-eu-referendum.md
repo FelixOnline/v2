@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Should we stay or should we go?
 date: "2016-05-13 08:57:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6149"
@@ -33,15 +34,6 @@ image_height: "3300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the course of the last UK election period and for the bulk of 2016 so far, the media and news in general has been focussed on the UK’s membership within the European Union, but what’s actually going on?

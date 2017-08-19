@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Calum reviews the latest game from indie developers Relevo
 date: "2015-02-09 15:12:30 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5212"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The games section here at Felix periodically get free games in to review. In the past, these have included such greats as Euro Bus Simulator 2 (see my past review). While these simulator games are fun to review I was very pleased when the opportunity arose to play upcoming PSVita game Baboon, as puzzle games are something I know more about. The game did not disappoint and I hope that this review will reveal why.

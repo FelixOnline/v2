@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week the GTA describes the doom of the non-believer
 date: "2014-02-28 07:14:18 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4443"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 In GTA work, a lot depends on trust from your student. Sometimes this simply depends on perceived authority, i.e. you are older and wrinklier than them and you’ve been introduced by their lecturer, therefore you must know something, right? The nicest times are when it depends on a relationship built up over several sessions when a student really believes through your umming and ahhhhing that you will be able to help them, well… eventually.

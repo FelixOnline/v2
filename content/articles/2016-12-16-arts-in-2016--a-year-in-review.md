@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three of our writers look back on their favourite productions and exhibitions from this year.
 date: "2016-12-16 15:06:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6614"
@@ -33,15 +34,6 @@ image_height: "648"
 image_attribution: "Clive Barda 2016"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Ezra  Kitson

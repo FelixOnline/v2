@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's not all just doom and gloom with exams looming...
 date: "2013-05-01 17:54:15 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3516"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s that time of year again: with the joy of the excessive chocolate consumption that is Easter comes The Fear. Exams are just round the corner and you suddenly realise you haven’t been to an entire week of lectures since October.

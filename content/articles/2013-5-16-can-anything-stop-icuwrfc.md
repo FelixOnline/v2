@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICUWRFC finish off their incredible season in style
 date: "2013-05-16 17:52:15 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3574"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 ICUWRFC saw the end of an incredible season before Easter, being promoted to the BUCS South Eastern 1A division and winning the LUSL league with an impressive win against UCL placed 2 BUCS leagues above IC. Not only this, but Imperial were also crowned BUCS South-Eastern conference cup champions for the second year in a row after another tense bout against old rivals King’s College Medics. Given all of these successes, the team would have been forgiven for taking time out this term to rest and recuperate. However, it wasn’t long before the girls were back on the rugby pitch, this time trying out their skills in 7s and 10s tournaments.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Victoria Druce may start sticking electrodes in her head to give her the edge.
 date: "2013-05-23 22:07:38 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3608"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’re still in the midst of revision, holed up in the library, cramming equations and formulae into your swollen brain, scientists might have a solution. A team of researchers have studied harmless brain stimulation and found it can be used to improve cognitive ability for up to six months.

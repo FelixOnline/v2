@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There’s sentimentality, for sure, but nothing is forced
 date: "2016-03-04 11:51:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6011"
@@ -34,15 +35,6 @@ image_height: "1411"
 image_attribution: "Mongrel Media"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Before I begin this review, I’m going to really strongly recommend that if you haven’t already seen the film you should avoid reviews or summaries online. Should you watch this documentary – as I did – with no foreknowledge then I guarantee that watching _Dear Zachary: A Letter to a Son about his Father_ will be a genuinely unique experience. Director Kurt Kuenne has a very important message to get across here, and the structure of the film – the way it progresses, slowly giving you drips of information – is essential to its effectiveness.

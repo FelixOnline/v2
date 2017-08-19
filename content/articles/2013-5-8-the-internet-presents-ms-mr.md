@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lily Le drops everything to find out who a band are while listening to the radio... NO IT'S NOT THAT DAFT PUNK SONG THAT IS ALWAYS ON
 date: "2013-05-08 20:15:20 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3552"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 During a week’s worth of listening to the radio an average of 0-3 new songs make me drop everything, frown a little in an effort to identify the song / artist, then fiddle a little with the time bar on the listen-again player to figure out what exactly the wonderful noise is.

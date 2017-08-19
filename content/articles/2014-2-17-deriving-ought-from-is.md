@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’
 date: "2014-02-17 17:24:07 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4392"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I agree with Fredric Jameson that we have witnessed a disturbing ‘return of traditional philosophy … beginning with its hoariest subfields, such as ethics.’ To quote another Marxist Antonio Negri’s Political Descartes, ‘every metaphysics is simultaneously a political ontology’ and this applies all the more to a field like ethics. And to those who suggest that politics is founded on ethics, I suggest they go and (carefully) read the first western work of political philosophy, Plato’s Republic.

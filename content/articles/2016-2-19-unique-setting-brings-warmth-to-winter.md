@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Globe’s The Winter’s Tale is striking in its clever use of an intimate atmosphere
 date: "2016-02-19 12:17:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5941"
@@ -33,15 +34,6 @@ image_height: "1151"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Winter’s Tale is a true winter’s delight. It is performed at the Globe Theatre, but fear not as it isn’t an outdoor getting-wet-standing-in-the-pit affair, rather you are welcomed to an enchanting theatre tucked next door, the recently built Sam Wanamaker Playhouse. The Playhouse is a replica of the theatre that Shakespeare’s plays were written for, with no modern giveaways in sight. It is intimate and snug; the small stage is surrounded by the limited audience and entirely lit by candlelight, giving a sense that you are peering into someone else’s living room. Along with the rich and vibrant characters, the musical quartet and the intimacy you feel warm and cosy, enough to brighten up even the dreariest of winter nights.

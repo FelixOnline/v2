@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Have the Lib Dems betrayed their manifesto?
 date: "2010-10-28 19:09:20 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "253"
@@ -33,15 +34,6 @@ image_height: "1461"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 “Building a Fairer Britain” – the slogan of the Liberal Democrat manifesto. Is this just another promise that the Liberal Democrats have compromised on in their frantic grasp for power? A question not only being asked by Liberal Democrat MPs, but one that is also at the forefront of public interest.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports on the amazing fundraising achievement that has been accomplished in tragic circumstances
 date: "2015-03-19 23:39:31 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5404"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Rachel Brooks, Tanbok Project"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A PhD student of the Department of Chemistry has raised more than £13,000 since Sunday 15th March for relief efforts in the cyclone-hit island nation Vanuatu, after previously raising £12,000 to build a library for a school on one of the remote islands.

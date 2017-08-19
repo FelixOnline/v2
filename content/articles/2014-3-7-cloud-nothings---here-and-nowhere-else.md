@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It has been an unusual journey for Dylan Baldi, the man behind Cleveland based Cloud Nothings. He was signed as a one-man band and released his first two albums, Turned On and the self-titled Cloud Nothings, were recorded as such.
 date: "2014-03-07 05:46:08 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4464"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It has been an unusual journey for Dylan Baldi, the man behind Cleveland based Cloud Nothings. He was signed as a one-man band and released his first two albums, Turned On and the self-titled Cloud Nothings, were recorded as such. They were full of lo-fi noise pop at its most frantic and fun, with catchy hooks oozing out of every song. They fitted seamlessly, although with little fanfare, into the lo-fi indie scene of the time. It was The Pains of Being Pure at Heart running late for a dentist appointment, Titus Andronicus after a Disney film or Wavves if they’d never seen any real waves. They were good, but they weren’t the most necessary of bands.

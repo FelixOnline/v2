@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?
 date: "2012-11-01 23:09:59 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2813"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s a cold Saturday morning as IC Fencing Women’s 1st‘ makes their way over to Oxford. It’s the first weekend out of two, and they’re going to fence Cardiff University, University of Oxford, University of Cambridge and UCL, the other 4 strongest teams in the South of UK. The epee team, first up on piste, consists of three new recruits: Paula Heister, Kat Young and Caitlin Jones, and an old member Charlotte Levin. The nerves are tense, for the past two years, women’s 1st has remain unbeaten; will they do it again?

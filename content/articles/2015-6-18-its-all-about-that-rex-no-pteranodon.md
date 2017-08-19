@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson takes a trip to the re-opening of Jurassic Park
 date: "2015-06-18 20:16:46 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5632"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Colin Trevorrow, Universal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 First things first, it’s not as good as _Jurassic Park_. And really it never was going to compare to the original. It’s battling years of love and nostalgia, and the film that inspired countless people to spend at least a couple of years as a kid wanting to be an archaeologist (usually somewhere before astronaut but after princess). It is the film that made dinosaurs into a thing, much as _Jaws_ made people fear sharks.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is not the first time a psilocybin study is conducted at Imperial
 date: "2016-05-20 09:06:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6182"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: "John Lecster"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Boomers, silly cybin, caps, little smoke, cubes, musk, silly putty, sherm, simple simon, god’s flesh, shrooms. Psilocybin fungi go by many names, but they’re more commonly known as magic mushrooms. These humble fungi are predominantly used recreationally as entheogens (what a word), substances that induce psychological or physiological changes, often used in a religious, or spiritual context. Users claim they can induce euphoria, synesthesia, alter the way we think and perceive time, and generally aid at the journey towards transcendence. In other words they’re a hallucinogen that will send you on a pretty psychedelic trip. All in all, there is general consensus that shrooms are pretty strong stuff, which explains why they're illegal in most countries around the world

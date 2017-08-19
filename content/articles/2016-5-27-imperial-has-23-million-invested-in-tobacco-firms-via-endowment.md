@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Investments are indirect but clash with college’s cancer research efforts
 date: "2016-05-27 08:36:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6194"
@@ -33,15 +34,6 @@ image_height: "1270"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week FELIX revealed that the college has significant investments in several tobacco firms, as part of its endowment portfolio.

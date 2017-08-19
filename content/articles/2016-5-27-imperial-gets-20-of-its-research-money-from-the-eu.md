@@ -4,6 +4,7 @@ title: >
 subtitle: >
   That amounts to £342 million over the last decade
 date: "2016-05-27 08:37:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6195"
@@ -33,15 +34,6 @@ image_height: "3300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial receives just over 20% of its research funding from the EU, according to a report by a research software firm.

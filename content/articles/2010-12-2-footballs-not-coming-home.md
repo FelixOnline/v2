@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The English bid has been sliding down a slippery slope since May. By David Wilson
 date: "2010-12-02 20:40:10 +0000"
+author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "476"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ac1507"
-author_name: "Afonso Campos"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The dust hasn’t even had time to settle; the Davids Cameron and Beckham as well as HRH Prince William are making their way back to England defeated. The 2018 World Cup will be played in Russia and the next opportunity for England to host the event will be in 20 years time. Initial reports suggest England, once favourites to stage the event, were eliminated during the first round of voting. To many, the news signals disappointment but perhaps not surprise.

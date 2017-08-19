@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our society is pretty tolerant of all lifestyles, right? Stuart Haylock and Chris Socha debate the prevalence of homophobia in the UK today
 date: "2011-03-10 20:13:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1064"
@@ -34,15 +35,6 @@ image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Yes – Stuart Haylock

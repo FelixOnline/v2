@@ -4,6 +4,7 @@ title: >
 subtitle: >
   London reacts to trump
 date: "2016-11-11 13:30:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6418"
@@ -33,15 +34,6 @@ image_height: "1249"
 image_attribution: "Izzat Haziq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We went to the US embassy protest that took place on Wednesday. A picture is a thousand words, so get ready for a 9,000 word essay. Images by Izzat Haziq and Liheng Yao.

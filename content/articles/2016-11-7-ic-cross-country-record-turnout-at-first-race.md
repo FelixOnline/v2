@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Strongest Imperial team in years
 date: "2016-11-07 13:22:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6409"
@@ -33,15 +34,6 @@ image_height: "854"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On a remarkably dry October day. the shouts of “ICXC we so sexy!” lit up the first race of the London Colleges League (LCL) last Wednesday at Parliament Hill. With their shiny new red &amp; blue vests, the newest members of the club were ready to represent against the masses of UCL, Kings, Brunel and St. Mary’s, to name but a few.

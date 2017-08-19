@@ -4,6 +4,7 @@ title: >
 subtitle: >
   sdfasdf
 date: "2011-06-09 19:50:42 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1338"
@@ -33,15 +34,6 @@ image_height: "2356"
 image_attribution: "Monique Ho"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 To recall colour beyond the fracture of days,

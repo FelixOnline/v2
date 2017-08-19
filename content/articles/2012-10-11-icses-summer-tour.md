@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cora Xydas and Rebecca Stenning gently play you through a quick guide to what they got up to in their break from work
 date: "2012-10-11 20:45:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2651"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Stands, music and instruments packed up, the Imperial College String Ensemble headed off on the 13th of September to Speldhurst in Kent for their annual Summer tour. A long weekend of music, socializing and charity events was to follow.

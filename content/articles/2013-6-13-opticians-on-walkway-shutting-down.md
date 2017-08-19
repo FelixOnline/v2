@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Six months to leave the space after lease is rescinded Opticians told a catering facility will replace them
 date: "2013-06-13 23:16:44 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3691"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The optician on the Sherfield Walkway is set to close. Just before Easter, the optician was called and told that the lease is being rescinded and that they have six months to leave – serving them notice is in the provisions of the lease. They will be gone by September and have been told that a new catering facility will be in their place.

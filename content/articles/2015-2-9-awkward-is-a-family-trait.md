@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli reviews Whitehall's Backchat
 date: "2015-02-09 19:37:29 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5226"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Jack Whitehall has returned for the second season of _Backchat with Jack Whitehall_. His attempt to break into chat shows, however, can only be summarised in one word: awkward. Be it because of the presence of his elderly father, or because of the strange formulation of the show, watching it without cringing is actually virtually impossible.

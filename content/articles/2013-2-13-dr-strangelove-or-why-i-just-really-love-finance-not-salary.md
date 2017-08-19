@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Gray provides a retort to last week’s article about banking
 date: "2013-02-13 18:55:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3314"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Aaniya Ahmed"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following[ last week’s article in Felix](http://felixonline.co.uk/comment/3255/the-life-of-a-total-wbanker/), and what I perceive to be a generally anti-finance attitude amongst Imperial undergraduates – you may think said attitude doesn’t exist, but I can assure you I have had to defend my career choices many times – I decided to take it upon myself to fight the corner of investment banking. If you’ve never read Leveraged Sell Out, this will probably be the most pro-banking piece you’ve ever encountered.

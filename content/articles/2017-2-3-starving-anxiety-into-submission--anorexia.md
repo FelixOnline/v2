@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As Eating Disorder Awareness Week edges closer, one reader shares with us their struggle with anorexia. Through the haziness they try to recall the ups, the downs and the lessons learned.
 date: "2017-02-03 18:07:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6737"
@@ -33,15 +34,6 @@ image_height: "1153"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I thought the only way I could dull my anxiety was starving it. If I was dizzy and needed to concentrate hard on staying upright, there was no space left to worry. Before long I’d reach a comfortable haze, unable to carry a thought for more than a few seconds. The emptiness inside my stomach made the tightness in my chest less noticeable. Neglecting my ever growing to-do list didn’t seem so bad if I got a kick every time I managed to avoid a meal. Avoiding any sort of consumption became my crutch. Not only had I convinced myself that restricting my intake of food would put my physical symptoms at bay, but I started believing that I was a much better version of myself when I hadn’t eaten. I’m still not sure of what was happening at the time, whether I was actually having fewer panic attacks on an empty stomach or if I was so desperate for something to take them away that I convinced myself it was working. I became obsessed with constructing a façade where it seemed everything was okay. I’d smile and agree to meet for lunch, while playing my favourite game of making it seem like I’d nearly finished my meal, having hidden most of it or rearranged it in the plate. I spent more and more hours without food, thriving off of the sense of control and independence. Soon this behaviour became second nature.

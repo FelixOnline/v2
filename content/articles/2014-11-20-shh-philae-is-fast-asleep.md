@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4909"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ESA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s the space mission that has had both scientists and members of the wider public waiting with baited breath. The Rosetta mission has been a nail-biter of a ride since the awakening of the craft back in January, and has left news rooms and control rooms alike buzzing all through summer as the craft approached its final destination that it’s taken ten years to reach.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   NUS data shows that Imperial students are more stressed than students at other UK universities on average
 date: "2015-05-29 00:49:05 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5575"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A[ similar survey to the one conducted by Mentality](%20http:/felixonline.co.uk/news/5572/three-out-of-four-students-at-imperial-suffer-from-stress-or-have-a-mental-health-condition/) was ran by the National Union of Students (NUS) back in 2013, which surveyed around 1200 students across the country via an online questionnaire.

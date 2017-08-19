@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cloud Atlas is a masterpiece, says John Park
 date: "2013-02-22 01:32:25 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3362"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There isn’t an easy way to describe or to compliment the team effort from the Wachowski siblings and Tom Tykwer, and their boldest, grandest feature adaptation of Cloud Atlas, based on the novel of the same name by David Mitchell. All that can be said is that it’s brilliant. Absolutely brilliant. Here is a film of unimaginable scale and ambition, six (and maybe an extra half) different narrative strands all put together and connected beautifully with endless smart editing, a true work of wonder that needs to be seen. It would be a crime to miss this masterpiece on the big screen.

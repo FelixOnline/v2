@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Zainab Ali puts the case for this collection of poems and short stories by a darkly original author
 date: "2011-01-27 19:52:55 +0000"
+author_id: "za710"
 
 # Attributes from Felix Online V1
 id: "680"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "za710"
-author_name: "Zainab Ali"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Smoke and Mirrors

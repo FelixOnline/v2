@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tharsis is a brutally hard space survival strategy game, with dice
 date: "2016-01-29 10:07:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5859"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Choice Provisions"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fiendishly difficult games have proven popular with gamers in recent years. Most of these games require fast reactions and an intimate understanding of each level or enemy. Tharsis is as difficult as games like Dark Souls and Bloodborne and it should be. Your spacecraft is on it’s way to Mars. It has just been hit by a meteorite and you’ve lost two members of your crew. Your chances of survival are infinitesimally small – you might never beat this game because it’s all down to luck. It’s emulating real life.

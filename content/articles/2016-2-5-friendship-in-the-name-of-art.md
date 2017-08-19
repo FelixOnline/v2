@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Photosoc and ArtSoc are giving away tickets to Wicked if you can snap a picture on this theme
 date: "2016-02-05 12:52:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5887"
@@ -33,15 +34,6 @@ image_height: "448"
 image_attribution: "Photosoc"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As an inaugural collaboration between Photography and Art Society, this photography contest revolves around the theme of ‘friendship’. Both societies organise activities of different natures: ArtSoc organises street art walking tours and musical outings every week, while PhotoSoc organises regular photo walks and workshops.

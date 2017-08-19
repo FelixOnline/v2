@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There are many fewer reasons for Imperial students to complain than there were just a year ago
 date: "2010-11-18 22:14:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "420"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 So the Union’s [£2.5 million refurbishment](http://www.felixonline.co.uk/?article=409) is finally coming to a close. The horrendous blue shed outside Metric will disappear and smoking builders in high-vis jackets will no longer grace Beit Quad. Even the decrepit lawn is being renewed. But as memories of asbestos grow faint in our minds and the constant thud and screech of construction work fades into the air, what will we think of our new Union?

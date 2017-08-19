@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking at the Kepler Telescope's newest discovery
 date: "2013-11-01 09:38:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3973"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "NASA /Jack Pfaller"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Discovering exoplanets nearly 20 years ago allowed physicists to change their view of the universe. We had always known that our Sun was not the only star in the wide universe, but then came confirmation that there are star systems like ours too, with planets of all sizes orbiting one, two or three stars at a time. Now one dwarf star in particular, KIC 11442793 (catchy name!), may hold a record for the most number of exoplanets, with two separate research groups finding a seventh orbiting the star.

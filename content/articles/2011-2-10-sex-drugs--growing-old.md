@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mean Girls, but with a west country accent
 date: "2011-02-10 20:07:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "765"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Skins, Season 5, has just started, and the first comment on Twitter was “Where is all the sex, drugs and rock ‘n’ roll?”

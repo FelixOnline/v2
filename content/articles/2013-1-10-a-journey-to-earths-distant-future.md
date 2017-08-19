@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A book is set in the distant future, when the sun has started to cool
 date: "2013-01-10 22:42:58 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3093"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Book of the New Sun is universally acclaimed as a speculative fiction classic, with its author, Gene Wolfe, having been recently awarded the title of Grand Master of the genre. However, seeing how it comes in at 1200 pages, I have never really had the time to read it. Finding myself with relatively little to do over the winter break I decided to rectify this mistake – something that I’ve not come to regret doing.

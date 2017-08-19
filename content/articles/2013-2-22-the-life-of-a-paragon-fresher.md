@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous fresher gives their experiences living in Paragon
 date: "2013-02-22 01:12:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3356"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Paragon, described on the University web-site as: “a high-quality, award-winning, purpose-built hall of residence with excellent transport links and good shopping and leisure facilities available”, has been a source of quite some controversy amongst Imperial students. Sounds idyllic, so what’s the problem?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Come back to me when you’ve had years of practice
 date: "2016-05-06 09:51:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6120"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Picture the scene: A friend of yours has just told you about an experience of theirs, one in which they experienced discrimination, and they’re pissed off.  Why did they tell you? So you could explain to them how their reaction to the situation was wrong, right?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Xuan Chen gives his thoughts on Imperial’s newest self defence class
 date: "2015-02-13 15:21:16 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5258"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Xuan Chen"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For anyone unfamiliar with _Krav Maga_, the short summary is this; it’s a brutally effective modern self-defence system invented by the Israeli military halfway through the 20th century.

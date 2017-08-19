@@ -4,6 +4,7 @@ title: >
 subtitle: >
   5,403 donors contributed to the £54 million raised
 date: "2014-12-09 13:47:15 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5017"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 25th of November, Imperial College London hosted a Thank You Reception in celebration of the record-breaking number of donations made to the College during 2013-2014. Part of the donations, which totalled £54.2 million, went towards funding 110 undergraduate scholarships through the President’s Scholarship Fund, which consists of a £3,000 reward. The fund also supported the Imperial College PhD Scholarship Scheme, which cover full tuition fees as well as additional financing for three and a half years.

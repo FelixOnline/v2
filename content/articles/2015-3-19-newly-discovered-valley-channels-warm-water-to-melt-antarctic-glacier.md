@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A study has revealed the reason why the East Antarctic Ice Shelf is thinning so rapidly
 date: "2015-03-19 23:46:47 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5409"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists from Imperial College London have revealed that the melting and thinning of Totten Glacier in East Antarctica is being accelerated by a valley underneath the ice shelf channelling warm water to the base of the glacier.

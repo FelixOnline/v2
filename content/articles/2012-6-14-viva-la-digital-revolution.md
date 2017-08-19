@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Rayner ponders the future of printed music and the dominance of downloads
 date: "2012-06-14 20:03:47 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2556"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Video killed the radio star, tape was hailed to be a killer of music (yes tapes, origin of the term mix tape and sole inventor of yet another use for the pencil) but now is digital content and cloud saving killing nearly all forms of art?

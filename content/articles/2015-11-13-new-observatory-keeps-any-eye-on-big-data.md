@@ -4,6 +4,7 @@ title: >
 subtitle: >
   KPMG are sponsoring a big data suite that will visualise data for businesses, scientists and students
 date: "2015-11-13 14:21:41 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5720"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, the KPMG Data Observatory was launched as part of Imperial’s Data Science Institute. The purpose of the observatory is to enable the analysis and visualisation of data, particularly useful for large corporations that collect massive amounts of it.

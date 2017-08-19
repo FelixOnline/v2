@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Richardson ditches the beaches and heads for the hills
 date: "2015-01-23 19:03:36 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5149"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Chris Richardson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Bali: the four letters roll eloquently off the tongue, and immediately conjure up images of beautiful beaches, bronze bods, and bottled Bintang. But a stone’s throw – literally one hour by shuttle bus – into the island’s core teleports you to a different kind of paradise: the kind that featured heavily in _Eat Pray Love_, and the kind that continuously captures the imagination of yogis and chill-seekers from across the globe. And with its seas of green, cooler climates, and cultural delights, it’s easy to see why. Welcome to Ubud.

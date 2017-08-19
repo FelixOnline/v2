@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the run up to elections Union President Paul Beaumont looks at what he has and hasn’t done this year...
 date: "2013-01-17 23:59:28 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3124"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the 2012/13 academic year flies by (this time last year, I was already saying ’14 weeks til exams’ in an attempt to motivate myself…) there are a number of developments to update everyone on. For final years, the National Student Survey is back; for the whole student body we have, what I guess is kind of a survey, the dreaded e-word – elections – looming. One term down, and already it’s nearly time to get rid of the sabbaticals.

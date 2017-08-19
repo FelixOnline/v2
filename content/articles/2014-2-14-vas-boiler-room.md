@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month.
 date: "2014-02-14 03:27:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4374"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __T__he Friday Lates are, much as the name suggests, a series of exhibitions that take place on a Friday night, specifically the last Friday of each month. The content is purposefully chosen to be very different from what one might expect to be displayed in the V&A – this most recent Friday Late, on the 31st of January, was curated by Boiler Room, a somewhat hard to describe entity.

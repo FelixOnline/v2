@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Miranda is a good show, no matter what the critics say
 date: "2013-03-15 01:21:34 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3473"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every Monday night this term, I have patiently and loyally tuned in to watch the latest episode of Miranda. After the past couple of series of goofiness and misunderstandings, we’d all probably had enough of it. There’s only a certain amount of anthropomorphic fruit one can stand. However, after having wisely kept off our screens for a few years, Miranda Hart was back on Boxing Day, ready for another season. And as the last episode came and went last week, I find myself actually missing my Monday-night dose of slapstick.

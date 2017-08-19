@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As far as young teenage characters go, Laura is a refreshing change of pace from the norm
 date: "2017-03-10 13:46:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6877"
@@ -33,15 +34,6 @@ image_height: "700"
 image_attribution: "Hulu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is a show about relationships in every sense of the word, though as its name may imply, the focus here is one of those casual, one-off encounters that many people are engaged with in this day and age. This idea is explored with a very simple premise; a woman, in the wake of her divorce, moves herself and her daughter to her brother’s home.

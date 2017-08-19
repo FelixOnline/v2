@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Washington, we have a problem
 date: "2010-12-02 20:42:00 +0000"
+author_id: "ghc07"
 
 # Attributes from Felix Online V1
 id: "477"
@@ -33,15 +34,6 @@ image_height: "854"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ghc07"
-author_name: "Guo Heng Chin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wikileaks strikes once again and this time it draws blood from not just the U.S. [Wikileaks](http://wikileaks.org/) is releasing up to [251,287](http://cablegate.wikileaks.org/) confidential US embassy cables and the cables reveal “lying, corrupt, murderous leaderships from Bahrain to Brazil”, Wikileaks figurehead Julian Assange declared in an email. The leaked cables were boasted to be 7 times larger than the leaked Iraq logs in October. Wikileaks plan to release them over the next few months and as of writing, 598 have been released. The US has been warning countries around the world to brace for the leak, according to the summary on Wikileaks’ Cablegate website.

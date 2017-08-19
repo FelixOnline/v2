@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tom Rivlin on the past and future of the internet sensation
 date: "2014-11-06 20:42:58 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4791"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Joystiq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Remember that thing that everyone cared about for one week in February? To a future historian it’ll look like a weird mind virus infected everyone for exactly a week and then disappeared. Let’s talk about it again!

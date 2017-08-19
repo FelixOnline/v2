@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Residents at postgraduate campus react to potential closure
 date: "2012-01-19 21:57:44 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2032"
@@ -34,15 +35,6 @@ image_height: "2736"
 image_attribution: "Tommy Allieri"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Students have expressed their concern at the planned closure of [postgraduate hall of residence Clayponds](http://halls.imperial.ac.uk/clayponds/), with Imperial College Union President Scott Heath expressing his "disappointment" at an alleged lack of communication between the College and the Union with regards to the College's decision.

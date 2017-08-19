@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christy Kelly talks about Equality in the Media
 date: "2014-11-06 18:26:59 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4763"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In _Signatures of the Visible_, Fredric Jameson states that “the visual is essentially pornographic” – that is, its end is in “mindless rapture”. That being said, as any reader of Orwell knows, there are degrees of equality; that is to say, while all ‘visuals’ (forgive the clumsy expression) are essentially pornographic, some are more essentially pornographic than others. The trial of Oscar Pistorius, so widely broadcast this summer, was one of these paradoxical beasts – the Napoleons and Squealers, the generally ‘more equal’. The obscene spectacle of a sordid celebrity tragedy was seized upon by the major news channels as not only a worthy news piece but further as so important as to merit global coverage. It seems this turgid carnival with a faceless protagonist succeeded in trumping George Alagiah and Adam Boulton alike. The trial even inspired some program titles – my favourite: ‘Oscar Pistorius: The Sentencing’ – reminiscent of the cheap thrillers purchased in airport lobbies, half-read before swiftly falling into desuetude.

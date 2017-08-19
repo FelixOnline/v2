@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The infamous A. Geek on what has changed at Imperial over the years
 date: "2015-03-09 19:06:00 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5375"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hello, readers. It’s been quite a while. I’m still a part of Imperial, just hanging onto the edges here, but it’s been years since I last graced these pages. New writers have to come in, and old ones have to shrivel up and quietly die in the corner under a pile of back issues – it’s the way it’s always been. It also helps that you’re all a fucking disgrace and I probably would’ve burned several key departments to the ground by now in complete disbelief at the pathetic and cynical way they’re run. But mostly it’s the new writer thing.

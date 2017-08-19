@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the second of a series of articles on the privatisation of our universities, Stephen Smith asks why many students seem disappointed with heavily sponsored Careers Services
 date: "2012-06-08 08:47:57 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2544"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s a searingly hot day in central London. The sun beats down on the Queen’s Lawn as an acquaintance and I pass by a monstrous, awkward marquee. Inside, emissaries from various companies appeal for students’ attention with all the enthusiasm of sleepy clams. The students scurry from table to table hoarding pens and slightly disappointing key-rings.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Give us your fooookin’ money, says Sir Richard Sykes
 date: "2013-02-14 21:11:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3331"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Institution (RI), one of the chief catalysts for the development of British science, has put its Mayfair residence on the market in an effort to overwrite mounting debts. Sir Richard Sykes, the current Chairman and former Rector of Imperial College London, has had to take swift action to remedy institutional losses. These were in excess of £600,000 in the 2012 academic year.

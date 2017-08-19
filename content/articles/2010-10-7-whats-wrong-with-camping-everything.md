@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All waterproofs are waterproof. The million-dollar question is for how long?
 date: "2010-10-07 22:57:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "182"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: "flickr/dtwigg98"
 image_attribution_link: "http://www.flickr.com/photos/dtwigg98/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I don’t know what you got up to with your summer. Maybe you went home, met up with some old friends and took it easy. Maybe you took off around the world in a glamorous jet-set holiday. Maybe you engaged in a whirlwind fling of summer romance (like a forest-fire, it was short-lived but passionate and not the least bit legal). I don’t know; I’m just guessing.

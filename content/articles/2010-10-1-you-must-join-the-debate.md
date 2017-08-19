@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is a time of great change for students and universities. So make sure your opinions are heard
 date: "2010-10-01 22:30:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "163"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This newspaper has a long and distinguished history of informing, supporting and entertaining students and in the coming years, during your time at this great university, this vital role that Felix plays at Imperial will be ever more important.

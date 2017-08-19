@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Osama Awara, new tech editor, informs you about 3D space printing!
 date: "2013-10-12 19:38:01 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3858"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Launching a rocket into space is in itself a tricky business; well after all it is rocket science!

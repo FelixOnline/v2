@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vivien Wong and George McIntyre put their curry taste buds through a spin on opposite sides of London
 date: "2010-11-18 21:05:21 +0000"
+author_id: "gm1509"
 
 # Attributes from Felix Online V1
 id: "400"
@@ -33,15 +34,6 @@ image_height: "322"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gm1509"
-author_name: "George McIntyre"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 National Curry Week is happening next week (22-26 November) so find yourself some drunken mates who can take the heat of a Vindaloo, bring some beer, and give these places a go..

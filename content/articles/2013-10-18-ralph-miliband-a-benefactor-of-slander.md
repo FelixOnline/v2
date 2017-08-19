@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christy Kelly explores the recent national conversation about Ralph Miliband
 date: "2013-10-18 21:29:40 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3892"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The recent Daily Mail ‘essay’ (to use Daily Mail sketch writer Quentin Letts’ wonderful euphemism) on Professor Ralph Miliband has demonstrated once more, in no uncertain terms, the vicious and quite frankly lunatic nature of some elements of the British Press. They have, quite rightly, come under the strictest censure and condemnation for what can only be described as a hateful and fear-filled piece. On the other hand (this is not to defend ‘The Mail’ in any way) I could hardly describe the article as a ‘smear’.

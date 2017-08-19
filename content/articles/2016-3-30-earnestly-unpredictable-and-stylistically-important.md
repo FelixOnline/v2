@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ROH's Importance of Being Earnest is a boldly innovative take on a well-loved classic
 date: "2016-03-30 01:25:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6081"
@@ -34,15 +35,6 @@ image_height: "3706"
 image_attribution: "Royal Opera House"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Flying cakes, crashing plates, a cacophonous score and a healthy dose of Wilde witticisms – Gerald Barry's operatic adaptation of _The Importance of Being Earnest_ has it all. Being an enormous fan of Wilde, this production brought the Wilde-ness of one of the most recognisably "Wildean" plays to levels I never thought possible.

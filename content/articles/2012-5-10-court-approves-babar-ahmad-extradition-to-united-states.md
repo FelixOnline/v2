@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Family continues to call for public enquiry into ongoing case
 date: "2012-05-10 18:55:36 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2429"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Babar Ahmad is a British Citizen and former student and staff member of [Imperial College London](http://www.imperial.ac.uk) who has been detained in prison for eight years under anti-terrorist legislation without a trial in the UK. He has been battling against extradition to the US but on 10 April the [European Court of Human Rights](http://www.echr.coe.int/ECHR/homepage_en)[approved](http://cmiskp.echr.coe.int///////tkp197/portalhbkm.asp?sessionId=95024221&skin=hudoc-pr-en&action=request&poll=6#) the decision for him to be extradited within the next three months where he may be subjected to solitary confinement in a ‘Supermax’ prison.

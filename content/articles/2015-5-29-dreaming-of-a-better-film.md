@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Disney's Tomorrowland leaves Jack Steadman feeling disappointed
 date: "2015-05-29 10:42:43 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5583"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Brad Bird/Disney"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Director:__ Brad Bird __Screenplay:__ Damon Lindelof, Brad Bird, Jeff Jensen __Cast:__ George Clooney, Hugh Laurie, Britt Robertson, Raffedy Cassidy, Tim McGraw

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Now officially known as the Devil's Persil
 date: "2016-12-02 15:30:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6547"
@@ -33,15 +34,6 @@ image_height: "943"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## What it does

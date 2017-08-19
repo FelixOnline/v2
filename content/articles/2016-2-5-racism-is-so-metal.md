@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The video is conclusive, Anselmo’s actions were horrific
 date: "2016-02-05 12:39:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5880"
@@ -33,15 +34,6 @@ image_height: "1272"
 image_attribution: "Youtube / Chris R"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This article is something I need to get off my chest. I love heavy music with aggressive themes, from Black metal to hardcore to grind – I love it all. I love the catharsis and thrill that a pounding drum and palm muted guitar line can provide but sometimes the shit that comes with it really makes me wonder why.

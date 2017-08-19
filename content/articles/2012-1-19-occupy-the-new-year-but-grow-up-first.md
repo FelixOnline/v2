@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Right motives, wrong methods – Occupy isn't all some claim it to be
 date: "2012-01-19 23:21:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2038"
@@ -34,15 +35,6 @@ image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!

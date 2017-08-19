@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anti-cuts street parties kick off
 date: "2012-05-18 06:27:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2461"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The first twelve months of austerity saw Tory HQ get smashed up and students taking to the streets in their thousands against rising tuition fees. Town halls were occupied as the budgets detailing the severity of the cuts were passed, half a million people marched in London and hundreds of tax dodging stores were occupied by the direct action group UK Uncut. But recently this anger has all died away and turned to disengagement as grown men dressed as penguins get higher votes than the Lib Dems in local elections which less than a third of the population even bothered to show up to (if we’d all rocked out maybe the penguin would have won).

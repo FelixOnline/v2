@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A Muslim perspective on the afterlife and religion in society
 date: "2011-11-10 20:41:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1718"
@@ -34,15 +35,6 @@ image_height: "1300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After reading the ‘[Hell of Heaven](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/)’ article from two weeks back, and reading a bit of Christian perspective on the subject in last week’s edition, I decided to shed some light on the subject from a Muslim’s point of view. As well as writing on the general importance of religion within a society.

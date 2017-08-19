@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A poem by John Hilliard
 date: "2011-12-06 11:34:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1903"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Who is Silvio? What is he,

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We have an obsession with cars – it needs to stop
 date: "2011-11-17 21:37:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1781"
@@ -34,15 +35,6 @@ image_height: "3056"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Our streets are currently being occupied by aggressive, murderous, polluting inhabitants: cars. They are effectively environmental squatters. Unfortunately, whereas the criminalisation of squatting, [which was voted through the Commons the other week](http://www.insidehousing.co.uk/tenancies/govt-releases-plans-to-criminalise-squatting/6518624.article), will throw thousands of the most vulnerable in our society onto the street, it will do nothing to solve the environmental and social ills of cars. However, as it’s [Green Week](http://www.imperialcollegeunion.org/news/green-week-2011,424,ICUNS.html) and all, I’m taking this opportunity to explain why we don’t need them (which hopefully won’t be too difficult as west London is the most congested area of London I cycle through).

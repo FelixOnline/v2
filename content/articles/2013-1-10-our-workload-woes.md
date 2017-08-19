@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matt Proctor compare us to Oxbridge to see who works harder
 date: "2013-01-10 22:37:51 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3090"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As students of Imperial College, we often regard ourselves as some of the hardest worked students in the country. A quick Google search reveals many students’ reviews of their time at Imperial. One such review on a website called WhatUni.com, which offers advice to those applying to University, from a former Physics student says:

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Abigail de Bruin discusses the Union’s spend on consent training in light of rising sexual crime statistics
 date: "2016-11-11 13:59:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6423"
@@ -34,15 +35,6 @@ image_height: "786"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot and in fact in the national news a lot too. So why is it that consent is such a matter of importance in the public minds at the moment? Well,  to put bluntly, if sex doesn’t involve it then it’s not sex – it’s rape. And rape and related sex crimes (or at least reported ones) have massively increased over the last year.

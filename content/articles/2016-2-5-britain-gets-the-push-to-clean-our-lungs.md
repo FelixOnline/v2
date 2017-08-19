@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will £600 million be enough to help the UK keep any of its COP21 promises?
 date: "2016-02-05 12:03:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5868"
@@ -33,15 +34,6 @@ image_height: "3168"
 image_attribution: "Luton Anderson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever smelled the air in London? Wait, stupid question. For those who aren’t aware, London’s air isn’t the best on the market. Nor is the rest of the UK’s. In fact, the UK has been found in breach of EU regulations on air quality in 16 zones nationwide for the last 15 years.

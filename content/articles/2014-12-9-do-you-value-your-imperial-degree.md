@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tell Felix in our new survey to determine just how much time, effort and money you think your degree is worth
 date: "2014-12-09 14:51:41 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5021"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Felix is launching a survey to find out of Imperial students are satisfied with their course, and see if students feel their degrees are value for money.

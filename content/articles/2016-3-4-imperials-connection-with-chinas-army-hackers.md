@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cybersecurity firm found university that will open centre at White City was recruitment hotbed
 date: "2016-03-04 11:19:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5993"
@@ -34,15 +35,6 @@ image_height: "3219"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 FELIX has discovered that the Chinese university that will partner with Imperial at a new tech hub on the White City campus has been cited by a US security firm as being a recruitment hotspot for the unit of the Chinese army alleged to be involved in the country’s cyberwarfare program.

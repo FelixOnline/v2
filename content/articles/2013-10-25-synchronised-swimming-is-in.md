@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Welcome to IC Synchronised Swimming!
 date: "2013-10-25 01:20:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3954"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "IC SYNCHRO/G.D. Photos"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last year was great and we are trying to achieve even more in the coming year! We had 29 members, more than enough to put fantastic routines together!! Only a few months on and our members – beginners, intermediates and advanced – were presenting their routines at our Christmas show in the pool of St. Mary’s hospital. This name is probably familiar to everyone given that the Royal Baby was born there. That’s also where our training sessions take place. So, if you join our team, you will see the famous hospital.

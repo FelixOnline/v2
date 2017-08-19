@@ -4,6 +4,7 @@ title: >
 subtitle: >
   My name is Alex Drake, I’ve just been shot and that bullet has sent me back to 1981. I may be one second away from life, or one second away from death. All I know is that I have to keep fighting: fight to live, fight to see my daughter, fight to get home.
 date: "2012-03-08 21:32:16 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2325"
@@ -33,15 +34,6 @@ image_height: "1133"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Alex Drake (the smoking hot Keeley Hawes) is a trained police psychologist and negotiator who has recently been researching the case of Sam Tyler, an officer who claimed to have been sent back to 1973 after being hit by a car in 2006.

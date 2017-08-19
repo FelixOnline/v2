@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rox Middleton reports as Imperial lose out to Emmanuel College on UC quarter-final
 date: "2010-02-19 12:31:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "96"
@@ -34,15 +35,6 @@ image_height: "1368"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College's University Challenge team sadly broke their winning streak on Monday in their second quarter-final match, losing against Emmanuel College, Cambridge. The final score was Emmanuel 275 – Imperial 160; a very sound defeat after three glorious previous performances. The team, Ciaran Healy, Simon Good, Gilead Amit, Ben Nicolson and Ed Brightman, as profiled in last week's _felix_, have a final chance to get into the semi-finals by playing a third quarter-final match, broadcast on 8th March. They must win against Girton College, Cambridge in order to stay in the competition.

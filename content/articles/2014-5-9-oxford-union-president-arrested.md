@@ -4,6 +4,7 @@ title: >
 subtitle: >
   According to the Tab Oxford, this week the Oxford Union President Ben Sullivan was arrested by Police and questioned concerning allegations over an incident of rape and another of attempted rape. Sullivan was woken up by police at 7.10 AM Wednesday morning and was released on bail until June 18.
 date: "2014-05-09 01:59:05 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4568"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 According to the Tab Oxford, this week the Oxford Union President Ben Sullivan was arrested by Police and questioned concerning allegations over an incident of rape and another of attempted rape.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of the book and a glance at the main problem in international development
 date: "2011-12-01 19:39:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1858"
@@ -34,15 +35,6 @@ image_height: "498"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The world of international development is more often than not more complex than the image the rock concerts and heart-strings-tugging TV ads might project. Often riddled with scandalous corruption and heated debate, a heavy dose of evidence is clearly needed. Oxford Professor [Paul Collier](http://users.ox.ac.uk/~econpco/) aims to provide just this in his 2007 book [The Bottom Billion](http://www.oup.com/us/catalog/general/subject/Economics/Developmental/?view=usa&ci=9780195311457). Billed as an explanation as to ‘Why the poorest countries are failing and what can be done about it’, the book injects a generous helping of evidence and statistical analysis in the aid debate, like smashing LSE and Imperial together in a particle accelerator.

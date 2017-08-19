@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Canadian duo played the Roundhouse
 date: "2015-11-06 14:21:22 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5712"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The electronic duo from Edmonton, Alberta played their second London gig this year, touring their album another eternity – note the lack of caps, every track on the album is similarly stylised – the first being at Shepherd’s Bush in April.

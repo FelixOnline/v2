@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If ever a piece was fitting of the descriptor ‘ensemble cast’, this would be it
 date: "2016-03-11 12:06:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6044"
@@ -34,15 +35,6 @@ image_height: "540"
 image_attribution: "Fox"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year of 1994 was a wildly different time. Institutional racism in America was under the limelight following the release of footage of police brutality against an unarmed black man. The public imagination was infatuated with a murder trial that didn’t quite make sense and seemed to unfairly target one man. Also, the Kardashians were big in the news. How the world changes, eh?

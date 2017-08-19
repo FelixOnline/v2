@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Radcliffe interrogates an artist
 date: "2013-03-07 23:52:38 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3448"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Erika Craig is one of many upcoming artists in our generation. She began her career in California where she received her BA. During this time she also studied in an inspirational and architecturally rich city, Paris.

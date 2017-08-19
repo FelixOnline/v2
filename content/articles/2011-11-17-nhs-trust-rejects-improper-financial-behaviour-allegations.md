@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Trust responds to news reports
 date: "2011-11-17 21:09:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1770"
@@ -34,15 +35,6 @@ image_height: "3676"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Imperial College Healthcare NHS Trust](http://www.imperial.nhs.uk/) has rejected allegations of impropriety from [_The Sunday Times_](http://www.thesundaytimes.co.uk/sto/news/uk_news/Health/article820891.ece) and [_Private Eye_](http://www.private-eye.co.uk/sections.php?section_link=in_the_Back&issue=1300) concerning its commissioning of management training courses from [Coalescence Consulting](http://www.coalescence.biz/), which is owned by the Trust’s interim chief executive Mark Davies and his wife Karen Johnson.

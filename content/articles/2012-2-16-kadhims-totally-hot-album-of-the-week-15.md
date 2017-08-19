@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Black Keys - El Camino - Nonesuch Records - 2011
 date: "2012-02-16 21:38:58 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2192"
@@ -33,15 +34,6 @@ image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Oh, errors of judgement. How I know you well! Last term, just as we were heading off for Christmas, I wrote, in a throwaway comment that I’d now like to dispose of properly, that the Black Keys’ latest album El Camino is a ‘[dud](http://felixonline.co.uk/music/1931/kadhims-totally-hot-album-of-the-week-10/)’. Well, it is time to make amends. Using all the powers of apology that [I acquired as Felix Editor last year](http://felixonline.co.uk/news/1242/union-president-maggie-dallman-misinformed-college-council/), let me now say, “I was wrong”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "633"
@@ -34,15 +35,6 @@ image_height: "2144"
 image_attribution: "Veronika McQuadeova"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It came as a shock to many last week when [Felix reported](http://felixonline.co.uk/?article=594) that a College committee is investigating changes to the length of the College day. The proposals, which include extending the day to 8am until 7pm for undergraduates and until 8pm for postgraduates, on Mondays and Thursdays, are still under consideration but they have been treated with apprehension by students and members of staff alike, many of whom were not officially informed of the proposals. The first meeting of the committee on Monday 17th January was cancelled at short notice for unknown reasons.

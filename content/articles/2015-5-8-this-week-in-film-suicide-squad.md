@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Harley Quinn's first live-action moments on screen
 date: "2015-05-08 12:50:21 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5507"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "David Ayer/Warner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the face of Marvel’s continued success with their Cinematic Universe, DC have begun throwing out early glimpses of their upcoming slate, kicking off with a trailer for _Batman vs Superman: Dawn of Justice_*, and now the first image of the Suicide Squad all together.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Interbreeding between Orangutan sub-species could lead to thier extinction
 date: "2016-03-04 11:35:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6002"
@@ -33,15 +34,6 @@ image_height: "4912"
 image_attribution: "Eric Kilby  "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Orangutans from a completely distinct subspecies have been accidentally introduced to another wild population, a recent genetic study has found. The population in question is situated in Camp Leakey in Tanjung Putjing National Park, within the Indonesian portion of Borneo (Central Kalimantan).

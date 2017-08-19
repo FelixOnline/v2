@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey really, really loves Shepherd's Bush, and she wants you to know why
 date: "2017-06-09 14:59:01 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7012"
@@ -33,15 +34,6 @@ image_height: "1130"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I've lived in various places all over London over the last eight years, but I always come back to Shepherd’s Bush. It's not the geographical convenience or the relative cheapness that keeps me there, it’s the fact that Shepherd’s Bush feels like home.

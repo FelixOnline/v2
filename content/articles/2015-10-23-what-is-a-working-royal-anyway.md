@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are the royal family still relevant in a democractic society?
 date: "2015-10-23 11:48:16 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5673"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Layton Thompson / Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Duke of York was at Imperial last week to host the Pitch@Palace Bootcamp to find finalists for Pitch@Palace4.0, an event where bright young entrepreneurs get to pitch to industry experts, CEOs and people with lots and lots of money. Since stepping down as the UK’s special representative for trade and investment in 2011 after concerns about the company he keeps, Prince Andrew has championed this kind of start-up, supporting hackspacey vibes around the country at various university campuses and techspots. In fact, previous finalists of the Pitch@Palace series were Imperial’s very own _YOYO_ app.

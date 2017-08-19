@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What: Madam Butterfly with English National Opera Where: London Coliseum, WC2 When: 14th Oct - 1st Dec 2013 Price: Various
 date: "2013-11-05 09:31:58 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3989"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Cherry blossom, silhouettes, golden fans and blood. Betrayal, loneliness, dishonour and regret. A young geisha, a crass American Navy Lieutenant and their young son. Puccini’s Madam Butterfly is set against the late 19th century obsession with Japan, an elusive world of decadent elegance, where beautiful 15 year olds can be bought with the same ease and propriety as villas with sea views.

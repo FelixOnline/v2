@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Follow Andrada as she tries to follow a recipe, takes a two hour detour and resigns to eating store bought cake while waiting for her pie to cook
 date: "2016-11-25 14:40:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6514"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Veganbaking.net"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The most challenging thing for me is to follow a recipe: I rarely do it, as most of the time I only improvise with what I have in the kitchen or what is given to me (thank you, nice people who stopped eating my food and started bringing their own). So imagine me standing in front of a cookbook, trying to understand how things work – some Chemistry labs have less complicated instructions, I swear!

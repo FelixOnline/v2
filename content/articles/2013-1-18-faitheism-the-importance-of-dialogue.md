@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton gets influenced by the only book to ever make him cry
 date: "2013-01-18 00:31:08 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3135"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every Christmas for the past several years I sit down and I cry. It’s not that I’m sad; it’s an important tradition. Every Christmas I sit down and watch It’s A Wonderful Life and like a predictable fool each time I’m blinking back salty water. And it’s not just with this film – name a tear jerker and it’s probably worked its magic on me. I even cried at Susan Boyle’s Britain’s Got Talent audition.

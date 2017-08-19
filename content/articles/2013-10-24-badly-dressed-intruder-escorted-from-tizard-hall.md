@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A red jacket-wearing visitor is escorted from Tizard Hall.
 date: "2013-10-24 23:31:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3909"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A mysterious stranger was caught wandering Tizard last Sunday. The man was described as tall with dark skin and badly dressed. He was wearing a red jacket and was noted to be carrying a Bible and had an American accent.

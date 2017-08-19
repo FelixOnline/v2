@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the ice caps leaking iron into the ocean
 date: "2014-05-23 13:46:04 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4618"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "guim.co.uk"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Climate change sceptics were thrown a cast-iron lifeline this week when it was revealed that the melting of ice caps containing iron could potentially be biologically beneficial. However, with some predicting that the iron equivalent of of 3,000 Boeing 747s may be leaked into the oceans per year, how exactly could this be seen to be environmentally advantageous?

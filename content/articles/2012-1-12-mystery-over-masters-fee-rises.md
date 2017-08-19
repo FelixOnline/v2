@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Former ICU President Alexander Kendall on the affordability of Imperial's postgraduate degrees - are the new price hikes justified?
 date: "2012-01-12 21:35:55 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1971"
@@ -33,15 +34,6 @@ image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Since the government cut funding for higher education and Undergraduate fees were forced up, much has been speculated about the corresponding rise in Postgraduate fees. Though technically the funding from the Government for Postgraduate fees was also cut, since it is lumped in with the total Undergraduate teaching grant it is hard to prise them apart and the two may in fact be inseparable. Across the country, we began to hear of price rises for Masters courses. The UK average is currently a 24% increase and as a student I had heard nothing from the College, the Union or Felix about any rises at Imperial until a lecturer remarked that they were going up to £9000. I decided to investigate.

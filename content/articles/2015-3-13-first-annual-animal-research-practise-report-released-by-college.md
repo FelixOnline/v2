@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah on the release of the first annual report
 date: "2015-03-13 01:22:15 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5392"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London has released its first annual report on animal research practices within College. The 30-page document was launched at a specially held event as part of the Imperial Fringe series, which was open to the public and drew a crowd of around 200.

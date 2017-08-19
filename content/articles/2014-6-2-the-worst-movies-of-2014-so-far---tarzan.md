@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yes, the problems with the animation start early. Everything looks exactly the same.
 date: "2014-06-02 12:52:56 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4642"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Tarzan__

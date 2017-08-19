@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports as Republicans are voted into control of the Senate
 date: "2014-11-06 18:56:54 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4770"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Saul Loeb/AFP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday night the Republicans took a majority in the Senate in the mid-term elections in the United States. This, along with their strengthening majority in the House of Representatives, means that the Republican party now has control over both houses for the first time since 2006. The results will come as a hammer blow to Barack Obama, who now faces an uphill battle to pass any legislation, including the budget, through Capitol Hill.

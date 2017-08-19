@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This summer, Kadhim Shubber raised £3,000 for Imperial scholarships by cycling from John O’Groats to Land’s End on a tandem... with a skeleton
 date: "2012-10-05 11:51:56 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2604"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The last day was bliss. My parents had driven down to Cornwall and had taken the bags off our bikes; after two weeks, [we finally had a support car](https://twitter.com/skeletonfund/status/224069966868119552). With the weight removed from my beleaguered back wheel, the tandem was a dream. I sped up the hills, my now mutant thighs making short work of the climbs, and then flew down the other side, enjoying gears I hadn’t realised existed before. The Claud Butler racing tandem, the “[Majestic Two](http://homepage.ntlworld.com/nkilgariff/ClaudButler.htm)”, was finally getting to spread its wings. The sun was out, and King Arthur (the skeleton) was getting to feel the wind in his… chest cavity. We arrived at Land’s End in no time.

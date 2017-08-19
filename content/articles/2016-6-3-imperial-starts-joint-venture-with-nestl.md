@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The company more famous for boycotts has £6.5 million deal with college
 date: "2016-06-03 08:32:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6223"
@@ -33,15 +34,6 @@ image_height: "310"
 image_attribution: "Metro"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has signed a deal with the food and drink giant Nestlé to launch research into nutrition together.

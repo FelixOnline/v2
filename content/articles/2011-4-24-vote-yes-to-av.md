@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies
 date: "2011-04-24 11:26:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1136"
@@ -34,15 +35,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On May 5th I'll be voting yes to introducing the Alternative Vote system for United Kingdom parliamentary elections. This isn't because I have a desire to see Lib Dems make deals with the devil at every election, but because I believe it is a better system to choose the best representative for any constituency.

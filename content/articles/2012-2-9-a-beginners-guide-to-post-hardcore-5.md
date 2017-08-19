@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lesson 5: The Fall of Troy
 date: "2012-02-09 22:16:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2144"
@@ -33,15 +34,6 @@ image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This week’s band have arguably had the most mainstream success out of all the bands that will feature in this series and prove that post-hardcore music, while perhaps a relatively niche genre, comes in various shapes and sizes.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Diba Esbati shares some of her day-to-day coping strategies
 date: "2015-02-20 16:37:57 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5290"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Depression sucks, there’s no getting around that. It’s awful and makes you feel like you’re not in control of your own emotions, sleep pattern, or motivation. But something that’s worth remembering is that it’s not unmanageable.

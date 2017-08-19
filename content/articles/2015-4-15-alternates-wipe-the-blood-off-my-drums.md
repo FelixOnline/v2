@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken reviews Whiplash
 date: "2015-04-15 22:43:58 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5465"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Written and shot by the young American director Damien Chazelle, Whiplash is an ambitious piece of storytelling that chronicles the development and suffering of a young musician with dreams of becoming one of the greatest drummers of his generation. The film follows Shaffer Conservatory of Music freshman Andrew Neyman (Miles Teller), who is handpicked by the demanding and much-feared teacher, Terrence Fletcher (J.K. Simmons), to be a drummer in a jazz orchestra created for the competition circuit.

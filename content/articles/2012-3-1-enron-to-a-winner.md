@@ -4,6 +4,7 @@ title: >
 subtitle: >
   DramSoc take on big business
 date: "2012-03-01 22:00:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2282"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week I requested a gilded invitation to see DramSoc’s latest spring term play [ENRON](http://www.enron.com/) before it went on stage. Whilst I did get my invite I didn’t get it on gold leaf coated paper, the stingy gits. In spite of this I went to see the cast perform on Tuesday, with no idea what to expect, despite everything I’d heard about both ENRON the company and ENRON the West End production. As it turned out, I was pretty impressed.

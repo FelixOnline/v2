@@ -4,6 +4,7 @@ title: >
 subtitle: >
    If you’re one of those stereotypical Imperial students who’s allergic to Ministry of Sound then you’re less likely to enjoy some good coke on a Tuesday evening
 date: "2016-12-09 16:15:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6592"
@@ -33,15 +34,6 @@ image_height: "697"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 All people are the same. Or are they? When it comes to drug use it appears they are not, especially according to the catchily-named Home Office document Drug Misuse: Findings from the 2014/15 Crime Survey for England and Wales. Second edition.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Technically speaking: Fresher tech guide
 date: "2012-10-09 10:21:31 +0100"
+author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2637"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jp1409"
-author_name: "Jason Parmar"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jason_parmar"
-author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
-author_website_url: "http://www.jasonparmar.com"
-author_website_title: "Personal Website"
 ---
 
 __General Productivity__

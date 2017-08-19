@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hong Kong is going through a tumultuous period of civil unrest, but what were the real reasons behind the latest outbreaks of violence?
 date: "2016-02-19 11:11:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5926"
@@ -34,15 +35,6 @@ image_height: "4608"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hong Kong experienced a fiery Chinese New Year as protesters and the police clashed on the night of the 7th of February. With 130 people injured and 67 people arrested, one might be surprised to find out that the riots started with fishballs, a popular local snack that could be bought from street vendors.

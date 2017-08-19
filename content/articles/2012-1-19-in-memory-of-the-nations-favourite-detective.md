@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Final episode has more holes than dutch cheese, says Maciej Matuszewski
 date: "2012-01-19 19:47:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1999"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 So the second series of the BBC’s brilliant Sherlock has come to an end. The first series showed that it is possible to make a fresh, modern television adaptation while remaining impressively faithful to the hundred year old source material. The second showed that the creative team has lost none of their spark in the intervening time.

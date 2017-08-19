@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sandy has ravaged the Eastern coast of America, caused $20billion worth of damage and left millions of Americans without power. Alexander Soloviev discusses its impact on the presidential campaigns and next Tuesday’s vote.
 date: "2012-11-01 22:42:58 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2790"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mother nature and the election campaigns seem to be syncing up: [hurricane Sandy](http://www.bbc.co.uk/news/world-us-canada-20131303) makes landfall just as the last week of campaigning is underway. But just what does this superstorm mean for the presidential hopefuls?

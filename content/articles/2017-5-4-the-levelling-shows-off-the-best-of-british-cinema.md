@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hope Dickson Leach's first feature film explores grief and relationships in rural Somerset
 date: "2017-05-04 08:29:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6928"
@@ -33,15 +34,6 @@ image_height: "1065"
 image_attribution: "Peccadillo Pictures"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Director Hope Dickson Leach’s latest film _The Levelling_ follows Clover (Ellie Kendrick), who is forced to return to her family farm in Somerset following the sudden death of her brother, Harry. However, when she arrives, she finds out her brother actually shot himself: her father Aubrey (David Troughton) claims it was an accident, that Harry was wasted at the time; the police, however, have ruled it a suicide, which Aubrey insists cannot be the case. Harry had just inherited the family farm and they’d been celebrating that same evening. He was, to all appearances, happy and optimistic about the future.

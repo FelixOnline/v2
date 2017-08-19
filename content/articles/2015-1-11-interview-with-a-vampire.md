@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We sit down to chat with singer-songwriter/actor Michael Malarkey, following his performance in London this week
 date: "2015-01-11 11:55:38 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5087"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tucked just off Cable Street, a short walk from the hustle and bustle of Aldgate, __Wilton’s Music Hall__ is one of the hidden treasures of London’s East End. Positively steeped in history and tradition, it is one of the capital’s oldest music halls, and one of the very few surviving ones that retains its original features. With such an illustrious legacy, it is understandable that some musicians may feel nervous when they emerge onto the stage; however, last week saw the London debut of a performer who is no stranger to treading the boards, and commanded the audience with poise and grace.

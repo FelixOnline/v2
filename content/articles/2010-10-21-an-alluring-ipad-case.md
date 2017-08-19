@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This zippered slipcase offers good protection from the bumps and knocks your iPad might encounter in day to day life
 date: "2010-10-21 18:57:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "229"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 So you’ve got your shiny new iPad and you want to take it everywhere with you, but what about protecting your not inconsiderable investment? The back may be made from tough aluminium, but with that large pane of glass on the front, it’s just asking for trouble.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All you need to know about tech life here at Imperial
 date: "2010-10-01 22:00:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "162"
@@ -34,15 +35,6 @@ image_height: "1810"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Welcome Freshers! You’ve made it to Imperial, a place where technology and life should go hand in hand. I’ll leave that up to you to decide whether that’s true, but here’s a quick guide to tech at college and the surrounding areas of London to see you through your first couple of weeks.

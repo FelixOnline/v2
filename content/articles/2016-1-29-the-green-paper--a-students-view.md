@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are we about to witness the sculpting of a new higher educational landscape?
 date: "2016-01-29 09:52:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5855"
@@ -34,15 +35,6 @@ image_height: "2988"
 image_attribution: "Cale Tilford"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Too many universities in England have allowed teaching to become a “poor cousin to research”.

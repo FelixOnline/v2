@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eoghan J.Totten reveals his first impressions of London
 date: "2011-10-14 00:39:31 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1540"
@@ -33,15 +34,6 @@ image_height: "1410"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 London. A seething, writhing cacophony of activity by day and a place where simmering pulses of energy remain by night. If there’s one thing you can count on, it’s that in London, a light is always turned on somewhere.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chanon Wongs atayanont discusses the effects of depression how it feels
 date: "2014-11-06 20:22:02 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4788"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Allie Brosh"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, let’s move on from anxiety to the more cheerful topic of depression. To the sufferers, it is the worst feeling in the world. But for those who have never experienced it, it is hard to truly understand how unpleasant or disruptive it is, so this article will try to explain how it feels.

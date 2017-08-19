@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nashville: Season 2 In a battle for the top of the country charts, let the cat-fights commence between an older living legend who is struggling to keep up with the evolving music industry, and a younger, fresh-faced new star who is experiencing success as a crossover artist between country and...
 date: "2013-11-08 10:04:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4043"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In a battle for the top of the country charts, let the cat-fights commence between an older living legend who is struggling to keep up with the evolving music industry, and a younger, fresh-faced new star who is experiencing success as a crossover artist between country and pop to a huge teenage fan-base. Rayna James (Connie Britton) is the older one, Juliet Barnes (Hayden Panettiere) is the younger one, and together they headline Nashville, a rather inconsistent soap opera dressed up all nice and pretty in the good original soundtrack that tries to carry the clunky series along.

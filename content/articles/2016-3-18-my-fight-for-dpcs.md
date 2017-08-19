@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Winning a new perspective on the position, Imperial, and comfort zones
 date: "2016-03-18 11:38:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6055"
@@ -34,15 +35,6 @@ image_height: "900"
 image_attribution: "redfairyproject.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year I ran for DPCS in the Union Elections, and here's the story of my campaign.

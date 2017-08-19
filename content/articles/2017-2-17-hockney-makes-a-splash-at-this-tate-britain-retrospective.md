@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Hockney is on at the Tate Modern until 29th May
 date: "2017-02-17 15:14:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6792"
@@ -33,15 +34,6 @@ image_height: "1446"
 image_attribution: "David Hockney, Private Collection"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Logistically alone, the new David Hockney exhibition at Tate Britain is a marvel. Nearly 150 pieces spanning the breadth of Hockney’s career – paintings, sketches, photography, video, and drawings – have been assembled in a thirteen-room experience. Many of the pieces have been borrowed from David Hockney Inc., or are owned by the Tate itself, but an extraordinary number have been sourced from other art museums – V&amp;A, MoMA, The Metropolitan Museum of Art, Smithsonian, Ludwig Museum etc. – and at least a third have been obtained from private collections. The team at the Tate deserve a great deal of credit in the organisation of this, the largest ever arrangement of Hockney’s work.

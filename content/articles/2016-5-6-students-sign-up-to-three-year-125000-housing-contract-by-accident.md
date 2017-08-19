@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They didn’t realise they couldn’t sublet the place
 date: "2016-05-06 09:41:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6113"
@@ -34,15 +35,6 @@ image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, college is coming to the aid of three Imperial students who accidentally signed a three year tenancy agreement for a flat on Queen’s Gate that they can’t afford.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We should pay for our own education – and our parents should have paid for theirs
 date: "2012-11-23 00:01:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2954"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Right now the NUS is congratulating itself on a job well done. Despite the rain it got ten thousand students out on the street, fights didn’t break out, there were enough placards to go around and the biggest cock up was when the President, Liam Burns, was egged and suffered a stage invasion by those who don’t like the NUS’s ‘moderate’ position. I’ll get to that in a minute.

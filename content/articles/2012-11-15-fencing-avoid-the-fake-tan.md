@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Janssen Loek pokes you in the ribs. It's called fencing, don't get so mad...
 date: "2012-11-15 22:23:41 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2916"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Rolling into Essex campus the slightly understrength 3rd team were prepared for a bashing, things started well with Jamie ‘destroyer’ Simpson damaging Essex in the warm-up. Then first up was our foil team of Andy Simpson, Niall Corry and Thoe Suter. Getting us off to a great start was old timers Thoe and Andy who dropped only three points for the first 10 to imperial, and then new to the team fresher Niall showed his worth (and flexible arm skills) in a 5-1 victory. The three musketeers continued their fine form and put imperial into an impressive 45-14 lead.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cécile Borkhataria visits the Tate Britain’s new photography exhibition, showcasing McQueen’s final collection
 date: "2015-03-25 13:34:23 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5454"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Nick Waplington"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, Nick Waplington’s photography exhibition of legendary fashion designer Alexander McQueen’s final collection opened at Pimlico’s __Tate Britain__. The exhibition, based on Nick Waplington’s book entitled _Alexander McQueen: Working Process_, features photographs of McQueen’s Fall 2009 collection – from inception to the runway show in Paris. The exhibition takes us on a tour of McQueen’s creative process, from initial concept sketches, all the way to his dramatic final show.

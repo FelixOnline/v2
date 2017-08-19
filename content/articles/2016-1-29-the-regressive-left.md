@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Has political correctness become more important than free speech?
 date: "2016-01-29 08:56:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5840"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3-year-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time (ageism, obviously), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.

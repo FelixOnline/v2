@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hasaan Choudry discovers that the President has lost his mojo
 date: "2012-11-01 23:13:50 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2818"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Music and the President of the United States of America has always had an interesting relationship. Music being played in the White House is a long standing tradition, dating back to ever since the Marine Band were invited to perform in the Executive Suite for President John Adams on New Year’s Day 1801. Fast forward to 20 January 2009, President Barack Obama was elected and that evening

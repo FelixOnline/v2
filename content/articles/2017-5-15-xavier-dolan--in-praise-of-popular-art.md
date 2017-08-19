@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Xavier Dolan, the critically-acclaimed enfant terrible of French-Canadian cinema, is set to release his sixth feature film later this year, but isn’t even in his thirties. Léo Diaz lifts the lid on his oeuvre, and finds out what makes his films tick
 date: "2017-05-15 17:21:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6961"
@@ -33,15 +34,6 @@ image_height: "2091"
 image_attribution: "Allstar"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Xavier Dolan is not your average director. What first sets him apart is that he is extremely young: 28 at the time of writing, he’s already released six full-length features. He directed his first, I Killed My Mother, when he was just 20, and his 2014 Mommy received the Jury Prize at Cannes, along with legendary director Jean-Luc Godard’s Goodbye to Language. However, while his youth and remarkable maturity must play a role, I believe they cannot account for the profoundly polarising reactions his films elicit: when watching a Dolan movie, people either cry, or resent that Dolan tells them to cry.

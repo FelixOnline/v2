@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sara Hamilton lists the top nine ground breaking discoveries in the field of nuclear physics and material science in 2016
 date: "2016-12-16 14:38:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6603"
@@ -33,15 +34,6 @@ image_height: "510"
 image_attribution: "When black holes collide - NASA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week Physics World has announced the winner of its yearly Breakthrough of the year: the Ligo Scientific Collaboration, involving more than 80 institutions worldwide, for “its revolutionary, first-ever direct observations of gravitational waves”. This is the first ever direct evidence of the existence of black holes. Nine other achievements are highly commended, groundbreaking discoveries from nuclear physics to materials science:

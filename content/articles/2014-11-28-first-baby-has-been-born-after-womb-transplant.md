@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vincent is normal and healthy
 date: "2014-11-28 00:59:48 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4972"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In early September this year, a 36 year old woman made history by giving birth to the world’s first womb-transplant baby. Absolute uterine factor infertility, caused by either an abnormal or absent uterus, is considered the only untreatable type of female infertility. It affects many women throughout the world, some of whom have resorted to other motherhood options such as surrogacy and adoption. Several uterus transplantations have previously been attempted but no live births have been reported until recently, as part of a groundbreaking clinical trial led by Dr Matt Brannstrom of the University of Gothernburg. It has taken more than a decade of intensive animal research by the team of scientists before achieving this goal.

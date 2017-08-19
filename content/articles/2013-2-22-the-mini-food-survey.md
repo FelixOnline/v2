@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sophia Goldberg discusses the best and worst food on campus, where you can get the best lunch or coffee and whether students are put off buying healthy foods because of the price tag.
 date: "2013-02-22 02:59:45 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3376"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In light of the Sex Survey, I thought: why not conduct my own Food Survey? It’s not exactly the most highly scientific of surveys (*dodges open fire*), but answered by Felix food writers and fellow food lovers, maybe the survey will give a new life into the food on campus – or not, in some cases. Most of the people I asked ate at Imperial outlets on a regular, weekly basis. About a third of the people I asked only ate in uni very rarely, when they’ve forgotten their packed lunches or are staying in late – can anything really beat a homemade lunch? I think so.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joanna Wormald discusses the rise of mental illness across UK universities and efforts (or lack of) that have been made to tackle student depression.
 date: "2017-03-10 13:23:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6867"
@@ -34,15 +35,6 @@ image_height: "1156"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Recent years show an alarming trend amongst students. Rising rates of mental illness show little sign of slowing. In the past ten years, suicide rates have almost doubled. In York, up to 50% of ambulance call-outs to the university were for self-harm or suicide attempts. This is a far from localised issue‒ it’s an epidemic.

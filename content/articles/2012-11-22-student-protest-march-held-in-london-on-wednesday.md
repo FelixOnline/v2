@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Read the title: sums it up...
 date: "2012-11-22 22:28:35 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2928"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday, 21 November 2012, saw thousands of students marching through the streets of London to protest the rising cost of education. Dubbed “Demo 2012”, the demonstration, arranged by the National Union of Students (NUS)expected to have 10,000 attendees. The demonstration by the NUS passed through central London from the Embankment before heading south of the river at Westminster. Police refused to make an estimate of the crowd. However, it was estimated that between 3,000 and 4,000 were involved. Bad weather was cited as a reason for the lower than 10,000 attendance. This is still a much lower figure than the 50,000 strong crowd of two years ago when the protests occured over raising Tution Fees.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Calum Skene, chopping and mining for survival as he is bound for the stars
 date: "2014-03-07 06:00:14 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4472"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Starbound is a platform adventure game currently in beta and being developed by Chucklefish Games, a UK indie games studio. I love this game! I am eight hours in and I’ve barely even scratched the surface of all that is available in this game. Indeed I’ve only just completed the tutorial, a fun yet disheartening experience that will be shared later in this review. This game is special, and not just because fellow games Editor Max bought it for me at Christmas or because it’s an indie game. Read on to find out why you should spend your time playing this game.

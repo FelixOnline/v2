@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Scullers Head of the River is traditionally an Imperial College dominated event, with multiple pennant and overall winners dotted around current and past IC members...
 date: "2013-01-10 23:16:39 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3110"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Scullers Head of the River is traditionally an Imperial College dominated event, with multiple pennant and overall winners dotted around current and past IC members. Unfortunately our most recent winner Jamie Kirkwood was released in the summer transfer window on a Bosman free, therefore hopes had turned to the latest crop of IC athletes to step up to the plate. And did they step up! ICBC had the quickest female sculler of the day as well as overall 3rd place, 5th place and 8 pennants, unbelievable!

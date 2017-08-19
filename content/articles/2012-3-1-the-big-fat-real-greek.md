@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don't let Greece's politico-economic situation put you off its cuisine!
 date: "2012-03-01 21:52:06 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2281"
@@ -35,15 +36,6 @@ image_height: "309"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Many of you may feel a bit unwilling to visit a Greek restaurant because of Greece’s absurd and unjustifiable dealing of its politico-economic crisis. Besides, it is a fact, especially for those studying economics, that a country so small as Greece and with such a small and limited economy, can easily drag down healthy(?) economies such as America’s, the UK’s and Europe’s. However, we suggest you try to forget for a moment that all our problems’ source is Greece and enjoy some delicious food!_

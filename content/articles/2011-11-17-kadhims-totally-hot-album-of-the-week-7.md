@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A$AP Rooky LiveLove A$AP Tri Angle 2011
 date: "2011-11-17 21:24:13 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1776"
@@ -34,15 +35,6 @@ image_height: "1037"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I recently told my friend that I couldn’t understand [the hype surrounding __A$AP Rocky__](http://stereogum.com/866912/mixtape-of-the-week-asap-rocky-liveloveaap/mp3s/). In a completely unrelated incident, I was called “[a fucking codpiece](https://twitter.com/#!/MikillPane/status/133216344341610498)” on Twitter by [Felix Music Night](http://felixonline.co.uk/music/1774/reports-from-a-sick-night-in-metric-no-seriously/) headliner __Mikill Pane__ ([we’ve since patched things up](https://twitter.com/#!/kadhimshubber/status/133278559652413440)). He didn’t think any of my questions in [an email interview](http://felixonline.co.uk/music/1674/mikill-pane-does-not-exist-survived-by-hate-of-hip-hop/) were any good. In particular, one question about why he didn’t rap about “guns and bitches” received this put down: “I’ll pretend you didn’t ask that…”

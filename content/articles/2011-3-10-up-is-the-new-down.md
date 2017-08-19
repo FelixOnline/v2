@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s easy to keep your head down and get lost in your own world. Maybe we should all get a new perspective
 date: "2011-03-10 20:06:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1062"
@@ -34,15 +35,6 @@ image_height: "2994"
 image_attribution: "Benjamin Kennedy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Someone once told me that dogs can’t look up. After the serendipitous, albeit not entirely legal acquisition of several dogs and the systematic placing of bones, dog food, and even cats on formidably high shelving, I at last determined that this was utter bollocks. But it got me thinking. Dogs can look up, but can people?

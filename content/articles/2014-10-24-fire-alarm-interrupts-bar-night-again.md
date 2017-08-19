@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oliver Benton reports as students refuse to leave until Phil Power does
 date: "2014-10-24 12:48:01 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4747"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hundreds of graduate students were looking forward to enjoying one last hurrah treading the sticky floors of Metric only for their revelry to be cut short by fire alarms and the early closing of the bars.

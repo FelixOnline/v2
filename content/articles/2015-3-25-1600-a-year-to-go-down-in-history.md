@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola takes us through the life of Giordano Bruno
 date: "2015-03-25 12:39:11 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5433"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Creative Commons/Remi Jouan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A tenuous numerical link is enough to lead us from the significance of the grand history of _Felix_, now its 1600th issue, to 1600 AD, a year in the life of Early Modern Europe. In dear old Blighty, Elizabeth I is on the throne, busily destroying the Armada and maintaining her virginity. Martin Luther has aired his doubts on the big guy in the Vatican, and protestant reformers are giving Europe a good shake-up. The Church’s astronomical dogma, already feeling touchy after Copernicus going public on the whole sun-centric thing, is further challenged by Tycho Brahe pointing out that a new star (the supernova SN 1572) had appeared, and that the celestial sphere isn’t so immutable after all. Amidst all this, on the 17th of February 1600, a man was burned at the stake in a small square in Rome. Think of this as an obituary, almost half a millennium out of date. The obituary of a man on the border between science and religion, a man both heretic and martyr. This is the story of Giordano Bruno.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The breakdown in the relationship between the University of London and the University of London Union continues as the University bans student protests on its property.
 date: "2013-08-07 08:30:10 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3748"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Oscar Webb"
 image_attribution_link: "http://www.huffingtonpost.co.uk/james-burley/protest-as-student-chalke_b_3697641.html"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 After recent escalating tension between the University of London and the soon-to-be-extinct University of London Union a new act of aggression has been revealed. The University of London has sent a letter to the ULU banning protests by students on parts of the University’s property.

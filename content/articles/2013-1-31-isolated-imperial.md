@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Catina Willows thinks Imperial needs to get out more
 date: "2013-01-31 23:41:15 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3213"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 So, imagine you’re at a party with all the UK’s universities. Standing in a corner are the Russell Group, stroking their rugby team ties and snubbing the rest of the unis, who are actually having fun. Out in the hallway are a bunch of businessmen in a circle, all jacking off onto Imperial, who willingly kneels in the middle.

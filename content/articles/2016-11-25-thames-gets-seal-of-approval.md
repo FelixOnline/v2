@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emma Parkin talks seal sightings and how the Thames has cleaned up its act
 date: "2016-11-25 13:39:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6502"
@@ -33,15 +34,6 @@ image_height: "847"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over a pint in Clapham, my friend exclaimed that they, along with the entire top deck of the 345 bus, had seen a seal in the Thames on the way to college. At first I was sceptical. Whilst the odd whale has occasionally been known to take a wrong turn, how could anything, especially something as large as a seal, live daily in such polluted water?

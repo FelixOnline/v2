@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chicken korma, cobra beer and Slumdog – made in the UK
 date: "2010-11-18 20:58:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "398"
@@ -33,15 +34,6 @@ image_height: "570"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A visit to a typical curry house in England would lead one to believe that understanding curry is pretty straightforward. A choice of three types of meat (chicken, lamb, or prawns) with some vegetables (tomatoes, onions, peas, and sometimes even, oh my God, pineapple), all swimming in the same sauce, often enhanced with food colouring (red or purple) and adjusted for your desired level of spiciness: Korma if you’re a complete chicken, Madras if you’re feeling rather confident in your ability to tolerate chilli, or Vindaloo if you’ve made a drunken bet with your friends. Wash it down with a bottle of Cobra, the authentic Indian beer that no one in India seems to have heard of. (The company is based in the very exotic location of Fulham.)

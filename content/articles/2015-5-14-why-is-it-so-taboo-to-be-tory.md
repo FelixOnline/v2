@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Social media has driven Conservatives to keep their views quiet
 date: "2015-05-14 22:35:36 +0100"
+author_id: "tad08"
 
 # Attributes from Felix Online V1
 id: "5523"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Guardian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tad08"
-author_name: "Theresa Davey"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062201-snb11-tessa_headshot.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The General Election has come and gone, and the United Kingdom has democratically elected the Conservative Party into power for the next five years. 36.9% of the country voted for them, but if you look at the articles being plastered all over the internet and social media, you would have no idea that this was the case.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl ruminates on the repercussion of our device addiction
 date: "2013-10-12 23:50:07 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3872"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This is a very interesting question I found myself talking about with a friend recently. Is technology really making us weaker, mentally and physically? If you consider that technology is part of the human condition, then you would disagree and I would be on your side. All the brilliant things that humans have invented really do make everything better (or do they? Sorry just had to put that cliché in). However if we only consider the human as the biological entity that makes him, is there a different story?

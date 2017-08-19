@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the House of Lords blocks electoral reform recovers from the expenses scandal, is it time to look again at an elected upper house?
 date: "2011-02-28 20:40:33 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "932"
@@ -34,15 +35,6 @@ image_height: "2279"
 image_attribution: "Sarah Jeyaprakash "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 __Yes – Tagore Nakornchai__

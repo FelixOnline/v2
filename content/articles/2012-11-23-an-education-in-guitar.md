@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi dissects Chris Forsyth’s latest album
 date: "2012-11-23 00:19:09 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2968"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever since I first discovered his music, Chris Forsyth has been one of my favourite musicians. A psych rock guitarist, he proved himself worthy to support Grouper due to his use of drone and a thirst for experimentalism, but he elegantly balanced this with some more conventional use of the guitar not unlike blues, folk or even bluegrass in places.

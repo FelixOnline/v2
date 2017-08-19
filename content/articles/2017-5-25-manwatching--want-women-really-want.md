@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ezra Kitson learns about female heterosexual desire from a monologue "written by an anonymous woman, performed by an unprepared man"
 date: "2017-05-25 12:03:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6977"
@@ -33,15 +34,6 @@ image_height: "455"
 image_attribution: "Photo: Helen Murray"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Manwatching offers an insight to the heterosexual world of sex from a female point of view. The show consists of a roughly sixty minute monologue, which explores several aspects of sex including masturbation, sexual fantasies and consent. The prose is raw, explicit and dynamically written. In every performance the monologue is read aloud by a male comedian who has no previous exposure to the text. The result is an impromptu experience that is funny and at times a bit shambolic.

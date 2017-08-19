@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our face is one of the main things that identifies us as an individual.
 date: "2012-01-19 20:13:08 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2009"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Babies have a tendency to attend to face and “face-like” stimuli (such as a triangle on a point as opposed to on a base). With faces practically hard-wired into our systems from a young age, it makes sense that there is a part of the brain dedicated to recognising faces in opposition to non faces – the fusiform gyrus.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists end year long voluntary halt
 date: "2013-03-01 01:01:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3414"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Research is into artificial strains of H5N1 (bird flu) is resuming following a voluntary halt from scientists in January 2012 amid safety concerns. Professor Wendy Barclay from Imperial College London is one of 40 authors of [a letter recently published in Nature](http://www.nature.com/nature/journal/v493/n7434/full/nature11858.html), which outlines the situation and why some countries are restarting research. The letter declares an “end to the voluntary moratorium on avian-flu transmission studies” following a list of safety recommendations for this type of research from The World Heath Organization.

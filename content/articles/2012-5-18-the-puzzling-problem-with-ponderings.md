@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Something to mull over
 date: "2012-05-18 06:36:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2464"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m in the grips of a dilemma. Oh dear.

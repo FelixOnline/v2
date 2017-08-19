@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "Pattern of infringements that reflected underlying systemic failings" at College according to a new report published by the Animals in Science Committee
 date: "2014-07-03 10:40:20 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4718"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Felix / Joe Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 “The regime at ICL [Imperial College London] clearly fell short of the standard required by the Animals (Scientific Procedures) Act 1986 (ASPA)” according to yesterday’s report by the government’s Animals in Science Committee (ASC).

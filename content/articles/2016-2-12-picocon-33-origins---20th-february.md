@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The annual convention returns
 date: "2016-02-12 12:01:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5918"
@@ -34,15 +35,6 @@ image_height: "1252"
 image_attribution: "www.carriehopeletcher.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Picocon is a small convention run by Imperial College Science Fiction and Fantasy Society (ICSF). It is one of the only entirely student-run conventions, and it has been held in late February each year for 33 years – this February 20th marking Picocon 33.

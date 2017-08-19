@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson takes you through the last one hundred and fifty years of projection, film, and sound in the cinema industry
 date: "2015-03-25 11:55:51 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5423"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The field of optics was founded during the scientific revolution, leading to large improvements in lenses. Photographic paper was first developed in the 19th century, around the same time that the first phonographic sound recordings were happening. Once these three existed, it was only a matter of time until they were combined to make the first moving pictures.

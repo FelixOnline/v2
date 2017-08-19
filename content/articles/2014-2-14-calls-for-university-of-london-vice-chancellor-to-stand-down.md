@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There have been a series of unpleasant events related to student protests at the University of London which has resulted in calls for Adrian Smith to resign his position as vice chancellor.
 date: "2014-02-14 05:07:15 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4382"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There have been a series of unpleasant events related to student protests at the University of London which has resulted in calls for Adrian Smith to resign his position as vice chancellor. The police have been involved in a number of allegations that attacks have been made on protestors.

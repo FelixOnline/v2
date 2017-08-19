@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook numpties fooled by Blog post and good SEO
 date: "2010-02-25 13:23:05 +0000"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "98"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 This week saw the accidental birth of a new internet meme at the expense of some rather ignorant Facebook users. I say some, it's more like thousands of Stalkerbook simpletons, and it all stems from their inability to understand a simple principle: Google is a search engine, not an address bar.

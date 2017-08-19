@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matt Allinson relented, watched the damned show, and found out he liked it
 date: "2011-06-02 20:08:43 +0100"
+author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "1317"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ma1307"
-author_name: "Matthew Allinson"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062055-snb11-allinson.png"
-author_twitter: "mattallinson"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Although difficult to explain in purely logical terms, especially when one takes into account the stratospheric amount of money produced by this show, its world tour, album sales and branded lunchbox tie-ins, I think that Glee is underrated. Undoubtedly if you haven’t already stopped reading this article it’s safe to assume that your eyebrows are raised so high right now they’d be shot down over Libya, so allow me to justify such an outrageous claim.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Collaboration between the big dawgs in London
 date: "2013-06-13 23:10:21 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3690"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A £650 million medical research centre is under construction in London. Funded by the Medical Research Council, Cancer Research UK, the Welcome Trust as well as Imperial College London, University College London and King’s College London. The Francis Crick Institute will be based in King Cross next to St Pancras International station and will open in 2015.

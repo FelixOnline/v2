@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken gives a brief overview of what you need to know about the SNP before heading to the polling station in May
 date: "2015-03-29 23:06:37 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5458"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You’ve probably heard by now that the upcoming General Election is the most unpredictable and arguably one of the most important in recent UK political history. Minor parties are winning a large number of votes, diminishing the chances of an outright single-party majority in the process.

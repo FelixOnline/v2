@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Medic playwright on the creative process
 date: "2012-11-15 21:24:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2894"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every year, societies like DramSoc and MTSoc find new ways to impress me. You would not think that in a university filled with scientists, engineers and medics, the students would be that interested in theatre. However, these clubs are more than interested, they are good at it too, finding new ways to entertain their audiences with their talent and passion.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles explores brutal photographs of wars gone by at the Tate Modern
 date: "2014-12-04 19:58:05 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5006"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Shomei Tomatsu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “_There is an aggression implicit in every use of the camera_” - Susan Sontag

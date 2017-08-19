@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed gives his recommendations on which games to play if you just want to relax, enjoy yourself and not drive yourself crazy because of bullshit random number generators
 date: "2017-03-10 13:56:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6878"
@@ -33,15 +34,6 @@ image_height: "630"
 image_attribution: "SCS Software"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Truck Simulator | Or any simulator

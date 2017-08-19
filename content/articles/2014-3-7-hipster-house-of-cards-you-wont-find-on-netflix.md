@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name.
 date: "2014-03-07 05:56:23 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4470"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name. While I have heard wonderful things about the remake I have always had somewhat of a fondness for British television and have always found the UK political system more interesting than its American counterpart. Therefore, it should be of no surprise that I decided to devote the little time that I had between lectures and project work to watching the original (though its length – just four hours in total compared to the remake’s thirteen hour long first season – was probably also a contributory factor). I must say that I wasn’t disappointed.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There is as much dignity in being honest as in staying silent
 date: "2016-04-29 10:11:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6094"
@@ -34,15 +35,6 @@ image_height: "538"
 image_attribution: "Beyoncé"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.

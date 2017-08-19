@@ -4,6 +4,7 @@ title: >
 subtitle: >
   At least it's warm somewhere
 date: "2013-01-31 23:34:08 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3210"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The enormous fusion furnace at the centre of our solar system has been continually belting out light and heat for the past 4.6 billion years since its formation. From the distance the Earth lies from the sun, the solar rays are strong enough to warm the atmosphere to around 20-30°C. The sun’s surface is understandably hotter – with measurements around the 6000°C mark. But one question which has had solar physicists baffled is that its corona – the particulate layer above the surface – has temperatures measuring up to 4,000,000°C. So where’s all this extra heat coming from?

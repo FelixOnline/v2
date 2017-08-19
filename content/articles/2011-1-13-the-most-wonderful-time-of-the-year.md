@@ -4,6 +4,7 @@ title: >
 subtitle: >
   While the rest of the country waited for flights at Heathrow, the Fellwanderers headed for the Lake District
 date: "2011-01-13 19:32:15 +0000"
+author_id: "tp407"
 
 # Attributes from Felix Online V1
 id: "566"
@@ -33,15 +34,6 @@ image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tp407"
-author_name: "Thea Powell"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Day the First: __

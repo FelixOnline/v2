@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our weekly science round-up
 date: "2016-05-20 09:04:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6180"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## A break for wind power

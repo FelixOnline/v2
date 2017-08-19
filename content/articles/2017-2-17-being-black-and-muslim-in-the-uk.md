@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Omer Mohamed discusses his intersecting identities
 date: "2017-02-17 14:41:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6786"
@@ -34,15 +35,6 @@ image_height: "1092"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The US is what most of us think of when we think of Black Civil Rights, which is where the movement was the most prominent, but seldom do we realise or remember what people in our own communities go through. The recent race row at Oxford University, in which students received an email from staff warning them to be 'vigilant' because a black graduate, Femi Nylander, was seen walking through college grounds, is a true wake-up call. Another investigation last January was called at Cardiff University after 32 undergraduates were suspended from clinical practice, after several others of African heritage, complained about a play performance where a medical student “blacked up” to impersonate a lecturer. Suddenly the wake-up call becomes an edgy, max-volume Monday-morning alarm. These are two of many examples from the university (Latin: universitas, "a whole")  scene – yet we’re supposed to be on the side of New Year where the grass is greener.

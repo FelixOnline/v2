@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Petition to protect popular cultural and social venue attracts support
 date: "2012-05-18 06:04:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2456"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A petition has been set up to save the Polish Club, Ognisko Polskie, based in Princes Gardens, which is at risk of being sold. The South Kensington club includes the Ognisko restaurant, popular with staff and students from Imperial.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ryan Browne and six others help out in the Tohoku region in Japan
 date: "2012-11-22 23:01:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2937"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A multi-dimensional national disaster – an earthquake, tsunami and nuclear threat from a damaged power plant – that is the situation Japan found itself in on March 11th 2011. Since then, how have the affected areas been recovering? What is the situation like today, in both infrastructure and the lives of ordinary people living in the aftermath?

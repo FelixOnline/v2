@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hillary's campaign isn't enough to save us from The Trump
 date: "2016-06-03 08:58:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6229"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week I bet £500 at 2:1 that the next American president will be Donald Trump. And if Hillary Clinton doesn’t sort out her campaign strategy fast, he will win a landslide victory.

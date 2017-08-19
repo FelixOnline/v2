@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Netflix’s new rom-com series does not disappoint
 date: "2016-06-03 09:25:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6240"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Created by Judd Apatow, Paul Rust, and Lesley Arfin, Love is simply great. I really enjoyed watching it; mostly for the fact that it’s different from all the usual rom-coms. It doesn’t have wishy-washy clichés but rather it dives into the complexities and realism of relationships.

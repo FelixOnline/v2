@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Umar Nasser, Chair of IC Ahmadiyya Muslim Students Association, argues that extremists have masked the true meaning of Islam
 date: "2014-12-04 18:44:34 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4988"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "gannett-cdn.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year, the true face of Islamic Caliphate has been obscured by the smoke rising from Iraq. Kindled by the horrific actions of militant extremist group ISIS, the conflict there has not only scorched the lands of Syria and Iraq, but has left in cinders the very principles on which the extremists claim to stand. True Caliphate is a spiritual leadership to promote peace, not political leadership to impose power. Understanding how and why extremists twist Islam to meet their own ends is vital in the ongoing fight against extremism.

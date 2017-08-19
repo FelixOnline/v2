@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jian Li Chew discusses decolonisation,philosophy, and special snowflakes.
 date: "2017-01-13 14:01:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6635"
@@ -34,15 +35,6 @@ image_height: "1165"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So The Telegraph reported that the SOAS’s Student Union wants the university to decolonise its philosophy to remove Plato, Descartes and Kant. I read it just after having a pint of ale at Eastside to forget the tragedy that was my Structural Mechanics paper and my Asian flush made my face redder than the time I confessed my feelings to that girl two years ago – (She very politely rejected me). You may ask me, “But didn’t you decolonise your life and go to China to be a farmer?” Let’s just say that my mum found out and beat some sense into me. Also, I can’t fly. I now have to face the horrifying reality that I can’t blame white people for everything and to take responsibility for my actions.

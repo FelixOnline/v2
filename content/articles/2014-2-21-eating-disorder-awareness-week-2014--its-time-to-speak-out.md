@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live.
 date: "2014-02-21 03:29:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4430"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Numbers. To the average Imperial student, they are part of everyday academia, to others they are enthralling and engaging, but for some of us they represent a punitive regime by which we live. Numbers are our self-worth, our being, our everything. Kilos, calories, clothes size. Small numbers are our friends, zero is our deity. We are more common than you think: we have eating disorders.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it."
 date: "2013-12-02 17:09:59 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4149"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This being my last of an excessive six years at Imperial, I can’t help but wonder, with more than a little panic, just how different life will be outside of the academic bubble. Excactly how I’ll gel with a world of 9-5s, responsibility, mortgages and early nights is uncertain. One thing I do know is clear: I’ll never again get to live in South Kensington. More precisely, I’ll never again get to live beside Exhibition Road. I’ll miss it.

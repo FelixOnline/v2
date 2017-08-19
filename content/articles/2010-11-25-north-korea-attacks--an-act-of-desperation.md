@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Standing tall but crumbling inside
 date: "2010-11-25 21:08:53 +0000"
+author_id: "lorddavidalton"
 
 # Attributes from Felix Online V1
 id: "437"
@@ -33,15 +34,6 @@ image_height: "2816"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lorddavidalton"
-author_name: "Lord David Alton"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 North Korea’s unprovoked attack this Tuesday on a South Korean island, just 120km from Seoul, threatened to break the fragile peace with its southern neighbour. Resulting in the death of two soldiers and two civilians, the artillery assault was denounced by the UN as ‘one of the worst violations’ of the armistice which ended the Korean War in 1953. But far from showing strength, many analysts are suggesting that the attacks signal the final thrashes of a dying beast. Rumours abound that North Korea’s aging ruler, Kim Jong Il, is in poor health and many have questioned his choice of his youngest son, Kim Jong Un, who is perceived as a weak choice to head the world’s fourth largest standing army.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl is dismayed after the Apple’s offering at the latest keynote
 date: "2013-09-29 16:36:05 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3793"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Yet another Apple keynote has come and gone, and once again there is a sense of frustration in the air. At least that bitter taste on the tongue is one I have gotten used to after Steve jobs died, along with all his intuition, drive and creativity. For all the fancy technical terms that Apple likes to throw around, they once again managed to frustrate.

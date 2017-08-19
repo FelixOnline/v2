@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar"
 date: "2012-11-29 23:15:20 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3010"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This was the race we’d looked forward to: the only BUCS competition this term and a highlight of the calendar. With five hundred people competing, it is the biggest duathlon event in the country. Hosted at the iconic Castle Combe race track, athletes get to fly around a track that has held motoring events for over 60 years, and holds a great sense of speed. One blessing of the race is that it kicks off at 1:20pm; a civilised time we were very grateful of after the 8am start of the Hillingdon Duathlon just weeks before.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simran Kukran tells us why Shappi Khorsandi's newest show is one to look out for...
 date: "2017-01-25 22:54:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6680"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "Shappi Khorsandi PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a Middle Eastern girl from Ealing whose life resembles a sitcom, there’s no other comedian I can relate to as much as Iranian-born Shappi Khorsandi, whose performances deliver a refreshing take on the world around us. Her new show, “Oh My Country!” is focused on “reclaiming patriotism” in celebration of her 40th year in the UK.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles recommends the best films for some indulgent viewing. From New York-based comedies, to Cantonese stories of unrequited love, these four films should leave anyone feeling a bit better after a couple of hours. So go on – treat yo’self!
 date: "2017-03-10 13:41:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6873"
@@ -33,15 +34,6 @@ image_height: "3300"
 image_attribution: "Pine District LLC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Frances Ha (2012)

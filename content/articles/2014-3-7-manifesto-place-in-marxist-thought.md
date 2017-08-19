@@ -4,6 +4,7 @@ title: >
 subtitle: >
   To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task.
 date: "2014-03-07 04:54:18 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4460"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 To round up my three weeks of commentary on the Manifesto, I shall try and place it in Marxist thought. I was originally going to write a short critique of Marxist thought but it quickly grew to an unreadable length and so I have settled for this slightly less ambitious task. Thus this text is half criticism, half recommendations for further reading. Before I start on the meat of the discussion I should say that in 1848 Marx had begun but by no means finished his study of political economy and so we should not place too much emphasis on the relative lack of ‘economic essentialism’ in the Manifesto; the outline of history in the preface of the Contribution was substantially the same as in the Manifesto, but the economic claims were stronger.

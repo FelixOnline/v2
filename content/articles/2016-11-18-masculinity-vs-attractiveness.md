@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sophie Protheroe discusses how nature has shaped our taste in men
 date: "2016-11-18 14:52:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6465"
@@ -33,15 +34,6 @@ image_height: "856"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Why do we find some people more attractive than others? Qualities such as a sense of humour, good looks, and honesty are often considered attractive. However, you may be surprised to discover that your immune system influences your choice of partner.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ed Knock examines what the Academy really looks for
 date: "2011-03-03 20:26:59 +0000"
+author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "1009"
@@ -33,15 +34,6 @@ image_height: "426"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "egk08"
-author_name: "Edmund Knock"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Best Picture Award is the most coveted prize at the Academy Awards and is awarded to the the film that Hollywood views as the greatest accomplishment of the past year. It is apparently given to the film that has the greatest script, performances, cinematography, editing and direction but if we look back at all 83 previous winners, what does the Academy really consider when deciding who receives the greatest prize in the film world?

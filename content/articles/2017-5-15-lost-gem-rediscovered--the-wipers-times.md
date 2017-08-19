@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Wipers Times is at the Arts Theatre until the 13th May and will tour the UK for the remainder of 2017
 date: "2017-05-15 16:19:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6951"
@@ -33,15 +34,6 @@ image_height: "1463"
 image_attribution: "Arts Theatre, London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 They are just a gang of back-chat comedians deliberately undermining morale with this impertinent, unpatriotic rag.” So goes Lieutenant Colonel Howfield’s complaint about The Wipers Times, a satirical trench newspaper brought to life in the Arts Theatre thanks to Ian Hislop and Nick Newman.

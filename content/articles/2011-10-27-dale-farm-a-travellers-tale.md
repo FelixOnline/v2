@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Opposition against travellers isn't about planning permission or justice, it's just racism
 date: "2011-10-27 23:46:03 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1623"
@@ -34,15 +35,6 @@ image_height: "200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, the decade of legal battles over half of the traveller site at Dale Farm culminated into a physical one. Tony Balls, the Tory leader of Basildon council, has defended this eviction on the grounds of “fairness” – that the law must apply to everyone – which has been backed by his party’s leaders. However, this neglects the different starting positions: travellers are not treated like everyone to begin with. It’s like making someone start a game of Monopoly with half the money of everyone else and then complaining that it’s not fair when they start nicking money from the bank when people aren’t paying attention.

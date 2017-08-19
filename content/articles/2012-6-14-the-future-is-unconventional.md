@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Helen Wilkes takes a look at computing inspired by biology
 date: "2012-06-14 20:09:00 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2557"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scanning the list of papers in the _International Journal of Bio-inspired Computation_, a few strange phrases jump out. ‘Neuro-fuzzy-based’, ‘cuckoo search’ and ‘bat algorithm’ are particularly good examples. Swarming appears to happen quite frequently. And even more intriguingly, I’ve just noticed a paper about slime. It appears that computing, stereotypically the domain of the digital, has acquired a life of its own.

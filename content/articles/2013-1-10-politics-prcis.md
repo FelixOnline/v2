@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Key Stories from the Holiday Season
 date: "2013-01-10 22:21:55 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3085"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Italian Elections Heat Up__

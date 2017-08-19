@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hint: It’s not nakedness. (Though that could work too... sort of...) Caroline Wood introduces you to the world of Social Enterprise
 date: "2013-01-25 02:09:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3192"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The term “social enterprise” was first coined during the late 70s. The idea is simple. A social enterprise is a business where social aims come first, and profit comes second. Yes, you read that right – social aim first, profit second. Social entrepreneurs are business minded people who are a little bit warm and fuzzy around the edge. Think Alan Sugar meets Mother Theresa, or Donald Trump meets Florence Nightingale. It’s all about business acumen being applied to doing good.

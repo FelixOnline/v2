@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Steven Abnett courts controversy
 date: "2012-03-13 14:24:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2341"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 February 10th’s edition of Felix managed, in two articles, to highlight the issue of sexism at Imperial College, in two very different ways. One was a straightforward, serious article on the issue of sexism, while the other was the (now infamous) satirical “Hangman Guide to Get Laid”. Not surprisingly, perhaps, the reception enjoyed by these articles has been extremely different. But despite their differences, are the overall viewpoints of the articles really that dissimilar?

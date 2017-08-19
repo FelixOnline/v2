@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ian MacNeil is the set designer for Everyman, currently on at the National Theatre. Felix Arts’ Jack Steadman caught up with Ian during the run of Everyman for a chat about his work on the show, as well as a look back at his career.
 date: "2015-05-26 13:20:44 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5563"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Richard Hubert Smith/National Theatre"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ian MacNeil is the set designer for _Everyman_, currently on at the __National Theatre__. Directed by Rufus Norris, the new Director of the National, and starring Academy Award-winning Chiwetel Ejiofor, the play runs until 30th August. Ian’s previous work includes the likes of _Billy Elliot: The Musical_, for which he won the Tony Award for Best Scenic Design of a Musical, and the critically acclaimed _An Inspector Calls_, which won an Olivier Award for Best Set Design.

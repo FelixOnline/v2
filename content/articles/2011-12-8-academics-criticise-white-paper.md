@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial, Oxford, and Cambridge join forces against Government policy
 date: "2011-12-08 20:12:06 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1910"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [In a letter to _The Daily Telegraph_ this week,](http://www.telegraph.co.uk/comment/letters/8938812/Universities-should-not-be-run-for-profit.html) academics, including professors from Imperial College London, Oxford and Cambridge, criticised government White Paper proposals for higher education reform, specifically the idea of universities being run by private companies, i.e. for profit. They warn it will be to the detriment of students, graduates and taxpayers. They believe the proposed system will emulate private universities in the US, claiming that in the US higher education system, “for-profit companies offer derisory graduation rates, crushing levels of debt and degrees of dubious value.”

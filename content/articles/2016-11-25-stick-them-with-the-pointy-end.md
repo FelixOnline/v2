@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The team tries SPORTS
 date: "2016-11-25 14:59:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6519"
@@ -33,15 +34,6 @@ image_height: "3120"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes it’s a Game of Thrones reference, I need something to fill the void until the next season. But even that isn’t enough, so it got me thinking. Maybe I should try this swordplay thing? And where better than IC’s Fencing team? You will have read about their continued success in previous editions but I’m not one to just read about sports: I went. It’s been a busy day, deadlines to meet, papers to read and a thesis that apparently won’t write itself. Needless to say, me with a weapon may be a safety issue.

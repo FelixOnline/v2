@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A reinvention of a cult classic from the 80s, lovingly crafted by the skilled hands of Avatar’s Lauren Montgomery & Joaquim Dos Santos. How does Netflix’s modernisation of the iconic Voltron franchise hold up?
 date: "2016-11-18 15:07:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6470"
@@ -33,15 +34,6 @@ image_height: "854"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Upon first hearing of the Voltron reboot, I was sceptical. The focus of the show was to be on giant flying robotic lions that could combine together to  form an even larger robot. It made me think that it would be a lesser version of a Transformers/Power Rangers mash-up. Two things made me decide to give it the benefit of the doubt. One was the fact that it was on Netflix, which has yet to disappoint with any of its original shows. The other was the fact that the creators of the beloved Avatar shows (Legends of Aang and Korra) were the show runners. I’m happy to say that my expectations were blown straight out of the gate and that I’m now a Voltron fan.

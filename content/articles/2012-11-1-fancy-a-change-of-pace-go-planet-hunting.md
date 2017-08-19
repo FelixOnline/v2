@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You could find the next Star Wars planet... Chris Yates introduces you to the planet hunters
 date: "2012-11-01 22:46:33 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2792"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 An iconic image from Star Wars: Episode IV is the double sunset on Luke Skywalker’s home planet Tatooine, which orbits a binary star. Not bad, but how about a quadruple sunset?

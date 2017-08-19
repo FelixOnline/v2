@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto prophesies the End Times with Music Tech
 date: "2011-11-17 21:31:21 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1779"
@@ -34,15 +35,6 @@ image_height: "4960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the interlude at the _Felix Music Night _last weekend, __Music Tech Society__ return to Metric next Saturday 26 November with their first We Are Metric night of the year. Given the Union’s new policy on clubs & societies requiring a special theme in order to host a night, what better way to welcome 2012 than naming it after one of the most widely misinterpreted biblical events of all time A.D.? Perhaps painting a van with slogans prophesying the End Times? (With stupid subwoofers in the boot perhaps?)

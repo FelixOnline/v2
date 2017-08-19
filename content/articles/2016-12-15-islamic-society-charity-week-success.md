@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Over £1,000,000 raised
 date: "2016-12-15 23:41:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6593"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: "Islamic Society"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the first time, this year’s Charity Week hit and smashed through the £1,000,000 ceiling, as students from around the globe managed to collectively raise a total of £1,057,220.12 in donations.

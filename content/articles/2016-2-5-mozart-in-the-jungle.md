@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The show’s wit is sharp and rarely predictable
 date: "2016-02-05 12:45:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5883"
@@ -33,15 +34,6 @@ image_height: "1800"
 image_attribution: "Amazon Prime"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you followed this year’s Golden Globes, you might’ve been surprised by Mozart in the Jungle sweeping the Best Television series – Comedy, and Best Actor in a Television series – Musical or Comedy categories. By virtue of being an Amazon Original, this show has flown under most people’s radars.

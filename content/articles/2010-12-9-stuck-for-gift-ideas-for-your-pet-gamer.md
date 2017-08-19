@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Got gaming friends? Maybe game gifts are the answer!
 date: "2010-12-09 19:57:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "513"
@@ -34,15 +35,6 @@ image_height: "517"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Do YOU LIKE GAMES? Do your FRIENDS like games? Do you even HAVE any friends? If you answered YES to these questions then READ ON.

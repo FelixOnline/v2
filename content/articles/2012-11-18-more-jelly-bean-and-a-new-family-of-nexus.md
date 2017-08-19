@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yong Wen Chua checks out Androids latest OS and has a look at the Nexus
 date: "2012-11-18 13:18:43 +0000"
+author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2923"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jp1409"
-author_name: "Jason Parmar"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jason_parmar"
-author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
-author_website_url: "http://www.jasonparmar.com"
-author_website_title: "Personal Website"
 ---
 
 While Hurricane Sandy was wrecking havoc on the East Coast of America, those of us on the other side of the pond were left disappointed when Google had to cancel a press event in New York. But fear not -- for Google has managed to release new details on a new version of Android and a new family of Nexus of devices that are available right now, by press time.

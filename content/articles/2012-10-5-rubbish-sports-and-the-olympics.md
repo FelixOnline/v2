@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephanie Walton puts herself in the firing line
 date: "2012-10-05 12:50:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2618"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Forgive me, reader, if you’ve reached Olympic saturation point over the summer. No doubt I would have done so long ago, had I not spent a large part of those two weeks in a lecture theatre in The Netherlands. Utrecht train station, I excitedly discovered, had a large screen TV showing the Games. I stationed myself in front of the screen, keen to catch up on all the action…

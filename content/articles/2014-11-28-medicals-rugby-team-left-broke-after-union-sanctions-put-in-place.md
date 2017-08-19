@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett investigates the financial state of the team after the punishments received for smashed coach window on tour
 date: "2014-11-28 00:42:43 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4962"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial Medicals Rugby Football Club, one of the rugby teams suspended earlier this term for smashing a coach window, appealed against the sanctions placed against them last week.

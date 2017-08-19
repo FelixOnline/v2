@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Real G's wear white T's
 date: "2013-05-16 15:22:26 +0100"
+author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "3569"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js2310"
-author_name: "James Simpson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Boiler Room sessions are always a treat. When Make Session 008 descended on Hoxton I was sure to get in the queue to get a space. Red Stripe had teamed up with long term friends T-Shirt Party. You have to love a brand whose vision is “REAL G’s WEAR WHITE T’s”. Inside an art gallery next to Hoxton Overground, the walls were decked out with hundreds of different simple, yet creative t-shirts, making the night look more like someone’s Tumblr feed than a club. Portico Quartet, Stubborn Heart, Factory Floor, Anushka, Eaux and CKTRL had teamed up for a night of artful beats and groove.

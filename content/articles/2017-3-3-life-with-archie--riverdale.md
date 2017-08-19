@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If you stop and think about it, a completely faithful adaptation ran the risk of being stale
 date: "2017-03-03 15:40:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6850"
@@ -35,15 +36,6 @@ image_height: "1690"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You can now add Riverdale to the increasing list of media adaptations of various forms of literature. Like most recent adaptations, Riverdale also goes for a darker and edgier feel; however in this case, this approach pulls off and actually works spectacularly well.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why can’t we stop making fun of each other’s accents and get along?
 date: "2015-11-13 14:33:23 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5726"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Where I come from, in rainy old Manchester, I’m considered relatively posh. Hop across the imaginary divide though, and I might as well have just come up from the mines with a pie in one hand and a ferret in the other.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The newbies took to the field
 date: "2015-10-30 15:29:22 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5693"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial Immortals"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday saw the Immortals’ three-way scrimmage against Solent and Brunel. The Immortals were hungry for some contact after many intense training sessions. The day started off with each university’s offensive team going up against each defensive team for ten plays before switching around. This was followed by a round robin scrimmage and the day ended with special teams undergoing specific scenarios. Despite some players being inexperienced, the defensive team were strong and held off the hard-hitting Brunel and Solent offense.

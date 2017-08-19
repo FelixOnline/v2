@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach is transported back in time by the RA’s Moroni exhibition
 date: "2014-11-10 21:08:41 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4814"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Are you interested in portraiture and the state of affairs in Italy during the sixteenth century? Have you ever wondered how the great masters like Caravaggio and Velasquez were inspired? The answers lie in the Royal Academy’s latest exhibition, where you are faced with works from throughout the life of Giovanni Battista Moroni, a relatively unknown Italian painter who was able to capture the likeness and personality of his sitters with apparent ease. The portraits are done with such skill that they seem to capture precise moments in time rather than simply standing in the room you are transported back to late Renaissance Italy.

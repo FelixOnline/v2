@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is mightily impressed by the Royal Shakespeare Company's latest tour-de-force, which centres around the creation of the atomic bomb
 date: "2015-04-07 16:34:11 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5462"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "RSC/Keith Pattison"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The story of the Manhattan Project, which saw the Unites States lead a team of international scientists developing the first nuclear weapon, has gone down in popular legend: Einstein (that most cuddly of nuclear physicists) recommending that the US begin work on ‘extremely powerful bombs’, mushroom clouds above the New Mexican desert, and J. Robert Oppenheimer quoting the Bhagavad Gita - it’s all been burned onto our collective consiousness. Such a thing was surely a mixed blessing to playwright Tom Morton-Smith, whose production detailing the creation of ‘The Bomb’, _Oppenheimer_, has transferred to London’s West End, following a critically acclaimed run in Stratford-upon-Avon. When the public believe that they have a good grasp on a piece of history - as I am sure a lot of people do about the Manhattan Project - it can be difficult to make them see any other way; however, with _Oppenheimer_ Morton-Smith has created a finely scripted historical drama, which sticks closely to the truth whilst still being entertaining, no doubt thanks to the fine cast of the Royal Shakespeare Company.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster shares his experiences of Eurogamer 2012
 date: "2012-10-05 11:34:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2599"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last weekend saw the start of the London Games Festival, heralded in by the fifth Eurogamer Expo. Not exactly as groundbreaking as an Apple Keynote, the Eurogamer (EG) Expo is a place for developers and publishers to offer up their latest works to the willing public, letting us play games months before their release. Being stretched over four days, the expo holds a variety of unique developers Q&A sessions, and the opportunity to meet developers – indie and professional alike. There’s the usual mix of record-breaking games with budgets larger than most films (slight exaggeration), but there’s also a fresh contingent of smaller developers who get to show off their pet projects. Hosted in Earl’s Court Exhibiton Centre (only a 30 minute walk from college) the EG expo initiates the migration of many starved gamers towards the fertile lands of central London, ready for the autumnal downpour.

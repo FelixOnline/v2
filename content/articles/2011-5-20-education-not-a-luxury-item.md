@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The purpose of education isn’t to serve the country, it is to serve everyone
 date: "2011-05-20 05:55:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1231"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The old adage about not discussing religion or politics with people is not to avoid arguments, it is because doing so makes one far too aware of how completely objectionable every other human being on the planet is. I found this out last week while responding to various opinions on the education sodomy I wrote about. People whom I had previously considered to be mildly disagreeable pieces of raw white onion in the otherwise tasty salad of life are suddenly revealed to be flecks of grated cat scrotum dipped in vomit. And the only seasonings available to mask the taste are blind ignorance and seething acceptance.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A classic Italian dish, our esteemed chef presents her simple, student friendly version. Cook it for that hot vegetarian girl on your corridor – who knows, she might come back for seconds?
 date: "2017-01-20 15:46:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6676"
@@ -33,15 +34,6 @@ image_height: "640"
 image_attribution: "Diego"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I still can remember my editor’s voice, before Christmas, saying that I might want to try writing more meaty recipes: quick and easy, student friendly meat dishes. I can even see him smiling while he reads this (maybe I should say “Hello!”) but well, this is another meat-free edition.

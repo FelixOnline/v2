@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mindlessly erotic - Elizaveta looks at Egon Schiele's works
 date: "2014-11-06 21:49:04 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4809"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Egon Schiele"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A mention of sex in any context, really, is usually enough to get people excited (pun intended). After all, to quote Oscar Wilde: “Everything in the world is about sex, except sex. Sex is about power”.

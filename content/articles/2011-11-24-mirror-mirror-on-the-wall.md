@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park tries to determine who really will be the fairest of them all...
 date: "2011-11-24 23:00:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1846"
@@ -33,15 +34,6 @@ image_height: "473"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Two films. Two Snow Whites. One fairytale. Within a short span of three months next year, we are incredibly un/fortunate (delete as appropriate), to have two films based on the popular story of Snow White. [_Mirror Mirror_](http://www.youtube.com/watch?v=kpLVO396eHs), out next March, takes a much lighter, colourful, and slap-stick approach, whereas [_Snow White and the Huntsman_](http://www.youtube.com/watch?v=VY67V0wOlz8), released in June, as its title may suggest, has a more violent, sadistic, and dark spin to it. Much like this year’s [_No Strings Attached_](http://www.youtube.com/watch?v=Ubfcfs98MBw) and [_Friends with Benefits_](http://www.youtube.com/watch?v=34xfcoRceeU), there will be stiff competition to see which the better adaptation is. Trailers have recently been posted for both films, and it’s time for Felix Film to predict which has the upper hand.

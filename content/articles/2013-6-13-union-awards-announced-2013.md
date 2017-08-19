@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gongs abound this year
 date: "2013-06-13 23:06:22 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3688"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College Union Awards Ceremony was held yesterday (Thursday June 13). The Awards Committee chose the winners and Union Council unanimously upheld the decision.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lost yourself in paradise alongside Aditya Narayanan in this paradise
 date: "2015-03-17 14:40:55 +0000"
+author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5398"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ync111"
-author_name: "Nam N Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "shadowcheah"
-author_facebook: ""
-author_website_url: "http://www.laughtraveleat.com"
-author_website_title: "Laugh Travel Eat"
 ---
 
 Holidays in Mexico are stereotypically presented as being all about that beach. From Cancun to Tijuana (and Acapulco), the golden sands and azure seas are well trodden by the average foreign tourist. With glorious sunshine all year and relatively calm and clear water, it is the perfect place to laze about aimlessly for a week or five. As it happens, this is a rather mainstream opinion, and all have become the epitome of the term tourist trap; a deluge of retirees looking for a lazy getaway and 20-somethings looking for a bacchanalian experience.

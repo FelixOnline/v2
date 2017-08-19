@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yi Liu reminisces about his first Toastmasters speech
 date: "2013-09-29 16:28:09 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3790"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ladies and Gentlemen, Imagine yourself standing on the stage with a thousand pairs of eyes staring blankly at you, anticipating the glorious moment when your mouth opens to push out the words that you have prepared for so long. Somewhere in your heart, you reassure yourself again and again that it is all going to be okay, but then what comes out is nothing more than a struggling, noiseless ‘pop’. Does this sound familiar?

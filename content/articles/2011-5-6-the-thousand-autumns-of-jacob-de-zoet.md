@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A beautifully realised piece of historical fiction from David Mitchell
 date: "2011-05-06 13:15:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1171"
@@ -34,15 +35,6 @@ image_height: "2735"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.

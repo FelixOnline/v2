@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Attempt was made to eject trans student from the toilets
 date: "2016-12-15 23:45:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6596"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A transphobic incident reportedly took place last week at the women’s restroom of the Reynolds Bar at Charing Cross Hospital, against a member of women’s rugby.

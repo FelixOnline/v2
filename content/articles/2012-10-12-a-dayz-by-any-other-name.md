@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster is looking for friendlies in Cherno
 date: "2012-10-12 10:57:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2682"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Zombie games have taken all shapes and sizes over the years, from Wii-based Evil Dead-style games within the Resident Evil universe (Umbrella Chronicles) to frantic rooftop gunfights in the Left 4 Dead series. They all bring in the element of isolation into the mix, surrounded by crumbling cities and smoking ruins, but they just manage to miss that feeling of desperation - you die, and then you respawn or reload, not that far back.

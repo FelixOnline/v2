@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Despite the best efforts of Swinton and co, Luca Guadagnino's latest dissapoints
 date: "2016-09-05 20:25:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6293"
@@ -33,15 +34,6 @@ image_height: "831"
 image_attribution: "Moviestore/Rex/Shutterstock"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you expect nothing from anybody,” writes Sylvia Plath in _The Bell Jar_, “you’re never disappointed.” Such a statement may seem bleak, but the idea that expectation is the mother of all dissatisfactions is only confirmed by _A Bigger Splash_, Luca Guadagnino’s much-awaited return to our screens that – while entertaining and well-made – fails to fulfil this reviewer’s hopes.

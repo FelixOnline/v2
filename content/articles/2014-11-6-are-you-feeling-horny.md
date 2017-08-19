@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson on Radcliffe’s latest venture, Horns
 date: "2014-11-06 19:17:50 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4775"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From the very beginning, _Horns_ is a film that doesn’t really seem to know what it’s meant to be. I’m always suspicious of a film that describes itself with more than two genres, but when you are a supernatural thriller incorporating elements of fantasy, comedy and romance, with a bit of drama to boot, it’s never going to go well.

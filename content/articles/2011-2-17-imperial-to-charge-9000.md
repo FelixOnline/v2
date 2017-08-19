@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial becomes first university to officially declare plans to raise fees to maximum level
 date: "2011-02-17 18:44:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "805"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College has this week [revealed](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_15-2-2011-16-7-31) that it plans to charge the maximum £9,000 tuition fee rate for 2012 entry. The move is an unsurprising one, with the universities of Cambridge and Oxford signalling earlier this month that higher fees would be necessary to fill a deficit created by government cuts. Imperial is currently the only university in the UK to have formally announced its intentions.

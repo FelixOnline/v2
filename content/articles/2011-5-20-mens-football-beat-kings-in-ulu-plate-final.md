@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Football complete Plate and Cup double after overcoming spirited King’s
 date: "2011-05-20 02:49:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1211"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An incredible season of football for Imperial College Football Club culminated in two cup finals, having already seen a league win for the 4s, and a narrow miss on promotion for the 3s. With the 1s cup final played on the Saturday, the 5s were out to set the cup final bar on the preceding Wednesday.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deteriorating eyesight in bonobos shows that we’re not the only ones that may need to wear glasses as we get older
 date: "2016-11-18 14:51:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6464"
@@ -33,15 +34,6 @@ image_height: "1366"
 image_attribution: "Cloudtail the Snow Leopard"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Age related far-sightedness in humans can easily be demonstrated by simply observing one of your older relatives as they tip their glasses and extend their arm out to read the morning paper. This phenomenon, known as presbyopia, is brought about by the hardening of the lens and weakening of the muscles around it over time. Many explanations for this deterioration are founded by popular opinion, with most blaming the evils of technology in one way or another.However, new research indicating that humans are not alone in this problem can, perhaps, debunk these ideas. Researchers at Kyoto University noticed how a senior male bonobo called ‘Ten’ was staying a noticeable distance away from a fellow troop member as he groomed them, appearing to require this distance to see lice in their fur. This simple observation prompted a larger study involving the analysis of a decade’s worth of behavioural footage of the grooming patterns of bonobo chimps in the Democratic Republic of Congo. The results of this study showed that, whereas younger bonobos (30 years) tended to focus at around 10cm, individuals who were 40+ had to move over 20cm away to groom properly.

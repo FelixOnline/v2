@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jawaad Farooq looks to the future of combatting climate change.
 date: "2016-12-09 15:37:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6573"
@@ -33,15 +34,6 @@ image_height: "805"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week a positive 20°C air temperature anomaly has been recorded over the Arctic Ocean. With sea temperatures averaging around 4°C higher than is usual for October and November, it looks like we are set to see more extreme effects of climate change in the near future.

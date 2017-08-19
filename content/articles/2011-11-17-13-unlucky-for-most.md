@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fresh from the successes of Earthquakes in London, Mike Bartlett's new play takes a new angle of government, protest and personal responsibility
 date: "2011-11-17 21:22:36 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1775"
@@ -33,15 +34,6 @@ image_height: "2681"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The lights dimmed, an enigmatic black cube began to descend from the ceiling, and a voice whispered unsettlingly, “You know when you’re in that deep sleep…” At this point, the production Felix saw suddenly halted – a technical glitch we were told that would be swiftly resolved. Whilst the superstitious amongst us would have us believe that something like this was inevitable, given the name of the National Theatre’s new play _13_, once restarted the play rarely faltered, and proved hypnotising throughout. Playwright Mike Bartlett’s newest endeavour is an ambitious one, at once attempting to interweave social commentary with real human drama, profound philosophising with blockbuster staging, whilst all the while trying to hold it together with a narrative that actually makes sense. And against all the odds, it largely succeeds.

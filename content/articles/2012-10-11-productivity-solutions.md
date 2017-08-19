@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr. Magdalena Bak-Maier responds to students’ queries
 date: "2012-10-11 20:38:13 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2647"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _Personally, I do not think that procrastination is entirely bad. While we delay the work, we may find out a shortcut or a better way to finish the work in short time. As Aaron Burr wisely said, “Never do today what you can do tomorrow. Something may occur to make you regret your premature action.” Do I really waste something while I decided to put off the work? Could I be productive as well when I am waiting for an idea to come up?_ – Guang Yang, EEE undergraduate.

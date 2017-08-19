@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What a year, what a dire year
 date: "2016-12-16 14:28:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6599"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "Gage Skidmore "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been a rollercoaster ride. Except a rollercoaster ride where you threw up on yourself at the start. But, let’s take a trip down memory lane; there are a few nuggets of joy to be found amongst the pile of crap that was 2016. Promise.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An always tense topic. Like discussing what Bond is the best. But not like that at all...
 date: "2012-11-01 22:18:49 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2780"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Animal testing has always been a very controversial topic amongst people. A lot of research is conducted at Imperial and sometimes this may involve the use of animals. The currently policy on the Use of Animals in Research states that “animals may only be used in research programmes where their use is shown to be

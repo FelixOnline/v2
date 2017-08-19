@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An old classic re-released
 date: "2012-05-03 18:29:36 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2413"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [__Titanic 3D__](http://www.imdb.com/title/tt1869152/)

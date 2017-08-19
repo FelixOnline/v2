@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Afonso Campos talks to to Joel Gascoigne about Buffer and startups in general
 date: "2011-06-23 20:28:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1423"
@@ -33,15 +34,6 @@ image_height: "1728"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The proliferation of Twitter is ubiquitous to say the least and despite the service being almost universally loved by its users, annoying your followers with a barrage of tweets is not a gargantuan task to accomplish. Enter [Buffer](http://bufferapp.com/).

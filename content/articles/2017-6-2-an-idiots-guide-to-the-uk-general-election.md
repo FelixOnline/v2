@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Here we go again...
 date: "2017-06-02 13:57:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7000"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: "STML"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ding ding ding, it’s election time again. No, you haven’t woken up from that nap in 2020, they’ve called an early election. Do you have no idea who you’re voting for? Well, you’re in luck my friend, because we’ve got a whole pull-out complete with manifesto breakdowns, and personal views on who fellow students are voting for. But before all that, let’s have a look at the overall state of affairs.

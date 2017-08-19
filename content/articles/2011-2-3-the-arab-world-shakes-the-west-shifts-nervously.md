@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “It is reminiscint of the Polish Solidarity movement”
 date: "2011-02-03 20:05:36 +0000"
+author_id: "rj408"
 
 # Attributes from Felix Online V1
 id: "734"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rj408"
-author_name: "Rajat Jain"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The suicide of a young Tunisian salesman last month could well change the world’s political scene. In much the same way that Paris sneezed and Europe caught a cold, which lead to (admittedly slow) liberal reform in the nineteenth century, Mass political protest in Tunisia has triggered popular movements throughout North Africa and the Near East, much of it planned on Facebook, Twitter and Internet forums.

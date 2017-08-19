@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Windwaker HD is a welcome addition to the Wii U
 date: "2013-10-16 14:11:47 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "3881"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are few new games that hold my attention for very long anymore. I’m bored of games like Assassins Creed and Halo with their endless sequels that seem to offer nothing new except better graphics (even though I still buy them). However there is something about Nintendo that makes me forgive them for doing just that. Every new Mario, Zelda and Donkey Kong game that comes out always get me excited, and Windwaker HD is no exception. As a massive fan of the original Gamecube version I was pretty sure I would like this one too, but I didn’t expect to like it as much as I do.

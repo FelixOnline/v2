@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The accomodation rent hikes are extortion, plain and simple
 date: "2015-11-13 14:31:30 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5725"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the past five years, when it comes to handling accommodation issues, Imperial has been following the mantra that two wrongs make a right and fixing problems by creating new ones. Last year prices were hiked in the South Kensington halls by 10% to compensate for the low rents in Woodward, since Freshers need to pay for a zone 3 travel card. In what seemed a victory last year, the Union Council was allowed to set the rents, but the College had a fixed bottom line, so rents had to be hiked somewhere else. The logic behind the increase in fees in Beit and Prince’s Gardens, was that if a fresher wants to live close to campus, let them pay a premium for it.

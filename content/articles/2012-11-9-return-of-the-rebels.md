@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2871"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 So last Thursday i had the good fortune to visit the Electric Brixton for the ‘Return of the Rebels’ tour. The set included Harlem based rappers Swave Sevah, Mazzi, Poison Pen and Dj Static, one of UK’s finest namely Lowkey, and the main event himself was Immortal Technique. Those who know who he is and have heard his music will probably realise that it must have been an incredible gig. And boy it was.

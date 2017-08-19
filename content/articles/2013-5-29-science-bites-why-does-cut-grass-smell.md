@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It may smell great, but did you know it’s actually a plant’s distress call? You’re chopping it to smithereens, what did you expect it to do?
 date: "2013-05-29 17:30:17 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3638"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Causing tissue damage to grass by cutting it causes it to release volatile organic compounds, collectively known as green leaf volatiles (GLVs). One effect of GLV release is to attract predatory insects to defend the plant, though how effective they’d be against a lawnmower is another question.

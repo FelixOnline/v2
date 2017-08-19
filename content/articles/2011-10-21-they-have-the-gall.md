@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah welcomes you to Tally Hall...
 date: "2011-10-21 11:20:38 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1596"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Tally Hall is a slightly quirky five-piece band, named after a shopping arcade in Michigan, with the final line-up was completed while they were studying at the University of Michigan. It consists of Rob Cantor (guitar, yellow tie), Joe Hawley (guitar, red tie), Zubin Sedghi (bass, blue tie), Andrew Horowitz (keys, green tie) and Ross Federman (drums, grey tie) with them swapping around vocal duties, and occasionally doing some excellent vocal harmonies. About the whole tie colour thing, basically, when on stage, they always wear matching shirts and trousers (recently with a dapper waistcoat) and a tie of the colour listed.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aditya Narayanan discuss the arts and footballs in this dynamic capital as a new home
 date: "2015-02-17 19:15:23 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5270"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mexico City glitters at night. Dots of yellow flow across the ground. Like a train of ants, they follow a path as if preordained, in a robotic line with no destination. I can feel the energy from my plane window.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I showed Xi Jinping what it’s like to be a student at Imperial
 date: "2015-10-23 11:56:20 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5678"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday, Imperial was honoured to welcome President Xi Jinping of the People’s Republic of China. The trip to the College was part of a four day visit to the UK, which was the first state visit by a Chinese leader in ten years. In addition to visiting Imperial, the President also met with Prime Minister, David Cameron in an extremely important meeting regarding the building of a new power plant at Hinkley Point, Somerset. Whilst in the UK he is a guest of the Queen, residing at Buckingham Palace.

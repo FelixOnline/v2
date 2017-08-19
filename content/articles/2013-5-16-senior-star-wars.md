@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stars to return for sequel?
 date: "2013-05-16 18:17:08 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3582"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s bad enough that there’s going to be another Star Wars film. It’s even worse that it’s going to be made by Disney. Worse still are the hints that some of the original cast will be returning to reprise their roles.

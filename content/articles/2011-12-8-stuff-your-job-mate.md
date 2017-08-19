@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Bowe thinks everyone should go take a gap year, instead of doing any of this working malarkey
 date: "2011-12-08 22:21:01 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1955"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I think I’m like most students heading into their last year of college. I like my student life and the thought of giving it up in place of a serious job is enough to make me want to repeat. Truth be told I’m a little terrified of stepping out into this big, bad world and experiencing life without a midweek party. Unfortunately for me, it seems the lunge is coming fast and I still lack that elusive spot of maturity which might actually make me in some way employable.

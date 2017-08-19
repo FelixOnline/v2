@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paul Nugent gives the juicy details
 date: "2013-11-25 00:00:48 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4138"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It was a cold frosty morning; luckily the weather was a little more stable than Frosty’s stomach walls. Beasley faced a huge debate though: to wear a layer underneath or not. Sacrifice warmth and endure the possibility of nipple chaffing, or lose vital fluids. It was a tough choice, almost on par with the age-old optimal banana consumption time and optimal shower temperature. We got out on to the pitch well before the opposition, making sure to lock all of our lectures notes in a safe. As we were warming up, the second half of Westminster 1s arrived, opting to jump out over a barbed wire fence rather than walking round to the actual entrance – clearly a bright bunch. I hope they’re a little smarter when I tell them what I want in my Subway.

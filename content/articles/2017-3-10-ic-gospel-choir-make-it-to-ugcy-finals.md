@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wooh!
 date: "2017-03-10 14:39:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6885"
@@ -33,15 +34,6 @@ image_height: "787"
 image_attribution: "ICGC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College Gospel Choir (ICGC) family cordially invite you to come and support us in our attempt to make ICGC history by placing top three in the University Gospel Choir of the Year (UGCY) finals.

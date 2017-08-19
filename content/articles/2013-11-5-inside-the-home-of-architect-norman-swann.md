@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Scandinavian duo Elmgreen and Dragset’s Tomorrow exhibition is quite unlike anything else you would likely come across in the rest of the V&A. Everything is arranged to be touched, to be rummaged through. It places the viewer in the role of voyeur, passing uninvited through the house of Norman..
 date: "2013-11-05 09:29:02 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3986"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Scandinavian duo Elmgreen and Dragset’s Tomorrow exhibition is quite unlike anything else you would likely come across in the rest of the V&A. Everything is arranged to be touched, to be rummaged through. It places the viewer in the role of voyeur, passing uninvited through the house of Norman Swann, an aging, failed architect.

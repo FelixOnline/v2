@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
+author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "694"
@@ -34,15 +35,6 @@ image_height: "1327"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "oh106"
-author_name: "Omar Hafeez-Bore"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Now I don’t usually start off by focusing on Lara Croft’s buttocks (who does?), but I’ve seen an awful lot of them lately and feel the need to confess why: I changed the controls I used in _Tomb Raider Anniversary_. And now I’m worried, because somehow I changed everything else too.

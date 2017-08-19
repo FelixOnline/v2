@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Going Big, or Going Home for the candidates, as it's the last chance to gain votes.
 date: "2013-03-15 00:30:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3461"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Voting in this year’s Big Elections is going to close on midday at Friday](https://www.union.ic.ac.uk/elections/). The elections are to determine who will be in various Union positions next year, including the Sabbatical positions, the RCSU, CGCU and ICSMSU Exec. Committees, and the Student Trustee positions. The Union will be hoping to beat last year’s record turnout of [41.1%, with the current total, at time of going to print, being just about 3% behind last yea](https://www.union.ic.ac.uk/elections/)r.

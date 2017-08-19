@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kelly Oakes on what to do if you need to take the edge off painful memories
 date: "2011-12-01 19:35:19 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1857"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever woken up the day after a night out and mentally recoiled in horror as you remember embarrassing things that you said or did under the influence of alcohol? Well, researchers at the University of California, Berkeley, have discovered a way to take the edge off those painful memories — all you have to do is nod off long enough to dream.

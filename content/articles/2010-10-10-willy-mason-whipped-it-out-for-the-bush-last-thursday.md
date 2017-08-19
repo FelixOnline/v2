@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Easy now. I know all this talk of ‘Willy’ and ‘Bush’ is exciting, but I assure you Mr. Mason was the only Willy getting big love in the Bush... Well, in public at least
 date: "2010-10-10 15:30:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "190"
@@ -33,15 +34,6 @@ image_height: "445"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is a wet and windy evening in Shepherd’s Bush, a resounding confirmation that autumn is indeed upon us and we can now forget our fancy dress frolics at Bestival et al and concentrate on huddling like arctic penguins in the cosy confines of our metropolis’ musical communes, such as the intimate [Bush Hall](http://www.bushhallmusic.co.uk/). Not that we gather solely for the purpose of sharing body heat but rather in order to pay homage the returning prodigal son that is [Willy Mason](http://www.myspace.com/willymason), playing his first UK headlining show since the good old days of 2007.

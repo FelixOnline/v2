@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grace Rahman rounds up the controversy surrounding Sir Bob’s latest offering
 date: "2014-11-20 21:43:55 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4919"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Band Aid Trust / Brian Anis / Camera Press"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first radio play of the rejuvenated Band Aid single, _Do They Know It’s Christmas?_, happened this week, following a first look at the music video on last Saturday’s _X Factor_. This is the fourth time in thirty years that the charity song has been recorded, but the first time the lyrics have been changed. Bono’s controversial line ‘Well tonight thank God it’s them, instead of you’ has been replaced with ‘Well tonight we’re reaching out and touching you’.

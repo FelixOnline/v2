@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christopher Reynolds reviews a biased and inaccurate account of the WikiLeaks founder’s troubles with the law
 date: "2013-03-07 23:56:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3449"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One effect of digital distribution is that books become that would previously be unreleasable become available. This is not necessarily a bad thing, as books with potential audiences too low to justify a print run can now reach their target market. Julian Assange in Sweden however, is less a book, and more of an assemblage of internet message board rantings. Literally so, as much of the book is given over to conspiracy theories which are noted as being proposed on a Swedish internet forum (the logo of which features a cat smoking a spliff, which tells you all you need to know).

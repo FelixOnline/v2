@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are celebrities a scourge on society?
 date: "2011-10-20 23:12:54 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1579"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This one sentence can kick-off a near-endless conversation of who saw who, where and doing what. Like them or loathe them, celebrities do get people talking. Off the top of my head, I can’t think of any other use they might have. Every day it gets easier to gossip – not just because of The News of the World’s standard journalistic practices – but also because of the sheer abundance of celebrities in our society today.

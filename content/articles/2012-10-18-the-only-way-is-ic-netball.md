@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Poppy Pinnock: IC vs. Essex
 date: "2012-10-18 21:08:53 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2690"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday the netball first team played Essex 1’s at home in Ethos to kick off their BUCS season. With only 3 returning members no one was quite sure how the team would perform under match pressure and there were a lot of nerves before the first whistle.

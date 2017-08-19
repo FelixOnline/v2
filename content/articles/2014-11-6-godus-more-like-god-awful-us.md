@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl doesn’t really feel like an omnipotent, omniscient god
 date: "2014-11-06 20:00:36 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4785"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Max Eggl"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I am a big fan of big overarching civilization sims. Not just the really the strategic ones which give you control over empires, huge armies and the ability to control the entire world, but also the ones where you micromanage each individual citizen of your realm, telling them to chop down this specific tree or mine that ore. You start out with a tiny number of controllable units, which then expands into a huge city. However, the one thing that I always found missing was the fact that I was at the mercy of the elements/ the game that I always found kind of frustrating.

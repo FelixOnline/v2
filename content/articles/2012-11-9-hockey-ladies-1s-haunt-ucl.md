@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Frightfully good performance by Imperial destroys UCL
 date: "2012-11-09 14:30:16 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2874"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On All Hallows Eve the Ladies 1’s set out to play some oldrivals UCL. UCL definitely had a point to prove as we had put them out of 2 cups last year. We went out hard in the first 10mins with a new line-up having fresher Bryony in central-midfield controlling the game. With some good play down the right, from Gigi and Hazman we scored our first goal from a short corner, from banana slit (Harriet).

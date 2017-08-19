@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eleftherios Apostolakis reports from Sunday’s talk
 date: "2014-03-24 03:27:51 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4492"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Last Sunday the College was visited by Adonis Georgiadis, the Greek Health Minister. The event – organised by the Imperial College Hellenic Society and held in the Clore Lecture Theatre – both from College and outside. One Imperial student gives his perspective:

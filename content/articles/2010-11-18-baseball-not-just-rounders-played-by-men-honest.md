@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An introduction to the Imperial baseball team. By Hugh McDowell
 date: "2010-11-18 21:19:11 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "405"
@@ -33,15 +34,6 @@ image_height: "3000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I would love to say that I am profiling the Imperial Baseball team as an oath of allegiance to Boston Red Sox owner John W. Henry, the not-so-evil American who is replacing the most definitely evil American former-owners of my beloved Liverpool. How romantic it would have been, after all, to celebrate Mr Henry’s arrival on these grey shores by engrossing myself in anything and everything to with America.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Just because sexism doesn't take the same form doesn't mean it is no longer real
 date: "2012-03-01 22:54:03 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2293"
@@ -34,15 +35,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 It might be hard to believe, but I actually started this article before Stephen Smith’s excellent article on sexism at Imperial and the superb piece on feminism by Veronica Gouvea. Stephen explored particular issues at Imperial and Veronica explained why feminism is important. I feel this piece is now a synthesis of the two including a reminder of what women face in society at large.

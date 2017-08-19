@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With anger and uncertainty over the Government’s immigration policy, Philip Kent finds out what’s going on
 date: "2015-02-27 00:45:19 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5315"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An influential group of MPs has criticised the Government’s student visa policy this week. In a report published by the All-Party Parliamentary Group on Migration, the MPs argued for re-opening of the “post-study work route” following graduation.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In recent times I have become quite disillusioned with Apple. The keynotes were kinda boring, and there was nothing really interesting. I usually tuned in to the keynotes just because I felt that I should. In fact, it got to the point that this time around, I almost missed the keynote. When I did op
 date: "2014-06-11 21:33:26 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4669"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In recent times I have become quite disillusioned with Apple. The keynotes were kinda boring, and there was nothing really interesting. I usually tuned in to the keynotes just because I felt that I should. In fact, it got to the point that this time around, I almost missed the keynote. When I did open the stream, I found I had missed out completely on the new OS X presentation, named Yosemite, but just managed to catch iOS 8.

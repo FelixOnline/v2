@@ -4,6 +4,7 @@ title: >
 subtitle: >
   US Presidential Elections 2012
 date: "2012-10-18 21:22:11 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2703"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Throughout the campaign, Obama has been depicted as having two advantages: the incumbent advantage and the demographic advantage. Since 1948, only three incumbent presidents have failed to be re-elected, with seven successful bids. As an incumbent, the candidate has already gone through the necessary amount of selection to become president in the first place and has four years’ experience doing the job. At the moment, with a dismal economy and gridlocked administration following the GOP takeover of the House of Representatives, many voters are disillusioned and even disappointed with Obama, reducing the momentum that carried him to victory in 2008. The demographic advantage, however, is most certainly playing its part in securing electoral votes.

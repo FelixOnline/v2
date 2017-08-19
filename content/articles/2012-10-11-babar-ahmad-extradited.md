@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Former Imperial employee now in USA. High Court refused last minute application
 date: "2012-10-11 20:19:43 +0100"
+author_id: "ar3310"
 
 # Attributes from Felix Online V1
 id: "2638"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ar3310"
-author_name: "Aemun Reza"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Babar Ahmad has been extradited to the United States after the High Court refused to review his case. Last month, the European Court of Human Rights (ECHR) gave its final approval for the extradition. At a federal district court hearing in New Haven, Connecticut, Babar Ahmad pleaded not guilty and is currently in custody.

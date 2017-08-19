@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster gives his opinion on the Xbox One
 date: "2013-05-29 16:23:49 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3635"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’ve been living under a rock these last two weeks, there was a lot of hype, building up to the reveal of Microsoft’s latest console – the last real contender in the latest saga of the console wars. As with anything that has ever had that much anticipation built up for it, you could hear the joy leaving everyone’s souls, making the noise like a rudely deflating balloon animal. It turns out that most people’s worst fears had become manifest.

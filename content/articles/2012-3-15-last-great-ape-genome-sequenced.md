@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Genome sequences for each of the four great ape groups have been investigated
 date: "2012-03-15 19:58:32 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2354"
@@ -34,15 +35,6 @@ image_height: "838"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A decade after the completion of the human genome sequence, researchers have sequenced the genome of a female western lowland gorilla called Kamilah from San Diego zoo. This means we now have a fully sequenced, representative genome sequence from each of the four great ape groups: humans, chimps and bonobos, orangutans, and gorillas. Having the full set will enable scientists to better understand when each of these groups evolved – a current matter of debate.

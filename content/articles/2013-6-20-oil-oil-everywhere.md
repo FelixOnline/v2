@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma invades a country for it's natural resources. Oh, wait, no, to topple an evil regime
 date: "2013-06-20 22:47:32 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3713"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Huh. Maxed out on oil again.” – Me, when playing Oil Rush. Oil Rush is an interesting take on the real time strategy genre. It is a naval strategy game that takes place in the future, where nuclear war has melted the polar ice caps leaving little habitable land on the planet. As such, many people live either on ships or on platforms that have been built in the sea.

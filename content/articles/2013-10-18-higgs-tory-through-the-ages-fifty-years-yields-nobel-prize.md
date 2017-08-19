@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett gives us an exciting history lesson about the Higgs boson and how its existence was finally confirmed last year
 date: "2013-10-18 20:57:38 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3887"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Josef Kristofoletti"
 image_attribution_link: "http://kristofoletti.com"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week saw the Nobel Prize in Physics go to Peter Higgs and Francois Englert for their theorisation of the Higgs Boson, only months after its confirmed detection at CERN. The controversially named “God Particle” has delivered excitement (and mass) to both the scientific community and the general public, with the tale behind this unassuming boson featuring the twists and turns of a race in science never seen before. It is also a story with many leading roles, but who deserved the prize at the end is still a matter of debate.

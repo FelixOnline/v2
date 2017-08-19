@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica gives a – mostly fictional – parody of the precise and hallowed science of marking lab reports
 date: "2013-06-05 16:44:10 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3657"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The demonstrator, working late at night, still has a stack of papers to correct for the following day. Though the bed beckons to him, he relentlessly keeps going, as students require his slightly-above-minimum wage insights and comments: without his feedback, they would have literally no other way to improve their marks. Or so he tells himself, correcting for the umpteenth time that night that the plural of “momentum” is not “momentums”.

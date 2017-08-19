@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Fry - Copenhagen & Self interest equates to Failure
 date: "2010-01-14 16:00:56 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "29"
@@ -34,15 +35,6 @@ image_height: "377"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Being carefully turned in the candlelight, crystalline reflections were cast across the scroll strewn desk. Angular yet polished, shining yet black as the unlit night, the previously worthless anthracite was becoming the focus of one of the world's greatest minds. A pair of well worn hands lightly followed the cleaved boundaries as the rock's discovery was told by an immaculately turned out senator, his tunic golden in the dim illumination, aptly matching the fossilised amber hanging from the Emperor's neck. Under the all too common canvas, the politician could feel the tangible weight of his superior's intellect as the details of extraction and combustion were divulged, almost seeing the birth of industry dancing in those deep eyes; the visions of fully mechanised campaigns that would succeed success in Gaul, life for the populous of the Empire incomparably bettered through plenty and luxury, the spread of civilisation into the wild lands.

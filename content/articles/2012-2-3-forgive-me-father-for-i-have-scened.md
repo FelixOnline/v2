@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I need more money ‘cause I need more drugs
 date: "2012-02-03 11:16:20 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2130"
@@ -33,15 +34,6 @@ image_height: "490"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Times New Viking’s third album Rip It Off, their first to be released on Matador Records, became the darling of the so called ‘shitgaze’ scene. Whichever Pitchfork employee exhausted the synonym function on his computer to come up with such labels as witch house, chillwave and nu-gaze certainly surpassed his or herself by dreaming up the genre of shitgaze. It was a short lived explosion of lo-fi guitar wailings trying to overshadow its more sullen older brother, shoegaze. At first it was hard to comprehend such a proposition as anything but a joke that I couldn’t find the punchline for. Yet there have been some promising bands to emerge, namely the gut-wrenching fuzz of A Place To Bury Strangers and the dreamy distortion of Times New Viking. Revisiting the latter’s best release, Rip It Off, and having discovered how impressive it was, I refuse to let it be forgotten in some scene which has lost its hipster appeal.

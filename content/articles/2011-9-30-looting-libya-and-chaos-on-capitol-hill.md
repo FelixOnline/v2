@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We gear up for another year of politics by rounding up the events of the summer
 date: "2011-09-30 11:35:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1459"
@@ -33,15 +34,6 @@ image_height: "276"
 image_attribution: "guardian.co.uk"
 image_attribution_link: "http://static.guim.co.uk/sys-images/Guardian/Pix/audio/video/2011/8/7/1312718209368/Building-on-fire"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Dear Freshers and regular readers, welcome to a new year at Imperial; a new year that brings new experiences and new challenges. The politics team in Felix hopes to keep you interested in the politics of the outside world while you spend your year in the bubble of university life.

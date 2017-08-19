@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Can Google’s “cheap” phone stand up to the high-end without killing your budget?
 date: "2013-01-24 21:21:46 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3159"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The best effort at a [Nexus](http://www.google.com/nexus/) phone so far, albeit with some teething issues.

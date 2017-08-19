@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Remembrance day is increasingly going against its original meaning, argues Angry Geek
 date: "2012-11-09 11:50:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2841"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You’d think that ‘anti-war’ would be a pretty easy position to present, wouldn’t you? When you think of things that we name Horsemen of the Apocalypse after, it’s not exactly a list of things that split opinion. There is no pro-Pestilence lobby. There is no Society for the Advancement of Famine. Famine especially, Famine’s a right dick. Keeps enough food around to keep an undead horse running for all eternity, and then goes around taking away everyone else’s dinner? That’s the sort of thing that makes it hard to run Horseman PR effectively.

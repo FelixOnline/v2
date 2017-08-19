@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hollywood star Michael J Fox launches global Parkinson's initiative
 date: "2011-01-20 19:27:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "607"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College is set to become a research centre in a major new study into Parkinson’s disease, led by Hollywood star Michael J Fox.

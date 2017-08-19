@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous writer worries that the Union is not doing enough for its sabbatical officers
 date: "2017-02-17 14:30:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6780"
@@ -34,15 +35,6 @@ image_height: "1072"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Year on year, the process of the Union elections cherry-picks those who are some of the most vulnerable to lead us as sabbatical officers.

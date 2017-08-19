@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pandco Ltd. wanted to change the world of gaming. And after that idea turned out to be insane, they decided to try and make a pretty good iPhone game instead
 date: "2011-03-10 20:38:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1074"
@@ -33,15 +34,6 @@ image_height: "577"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Pandco Ltd. began life with a simple idea; they wanted to change the world of gaming. And after that idea turned out to be insane, they decided to try and make a pretty good iPhone game instead.

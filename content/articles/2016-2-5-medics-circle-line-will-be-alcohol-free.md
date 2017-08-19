@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Circle Line changes will see drinking swapped for good deeds
 date: "2016-02-05 11:45:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5861"
@@ -34,15 +35,6 @@ image_height: "1036"
 image_attribution: "TfL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The ICSM Student Union has been forced to reign in its plans for RAG week, due to growing pressure from the college over recent alcohol-fuelled bad behaviour.

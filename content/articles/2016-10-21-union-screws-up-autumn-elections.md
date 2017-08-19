@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Days without election mistake: 0
 date: "2016-10-21 09:26:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6338"
@@ -33,15 +34,6 @@ image_height: "1936"
 image_attribution: "justgrimes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union had to remove 73 positions from the Autumn Elections that were underway this week, after a technical error that allowed students to vote twice.

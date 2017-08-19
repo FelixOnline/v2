@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But you can go to the summer festival. Jovan Nedic takes a look at the debate over the new format of the Summer Ball
 date: "2011-05-05 23:48:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1149"
@@ -34,15 +35,6 @@ image_height: "1848"
 image_attribution: "flickr/rowl images"
 image_attribution_link: "http://www.flickr.com/photos/rowlimages/5588442875/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [The Summer Ball](http://www.thesummerball2011.com/), a chance for staff and students to celebrate the end of their exams (sorry Chemistry, Biochemistry, and Biology), the end of another academic year, and for some, the end of university life, has always been a highlight of the Imperial social calendar. However, when the details of the Ball were announced during the Easter holidays, the response was mixed and for some the radical changes to the format have changed their end-of-year ball into an end-of-year festival. In a comment echoed by many, one student wrote on Facebook: [‘It’s no longer a Ball’](https://www.facebook.com/permalink.php?story_fbid=125401997535280&id=516486102).

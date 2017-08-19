@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hopes of reaching BUCS Final dashed
 date: "2011-02-17 20:52:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "853"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial took a squad of seven to Edgbaston, Birmingham on Sunday with genuine hopes of progressing from the semi-final of the BUCS men’s indoor tournament, despite a tough draw of Loughborough and Coventry Universities.

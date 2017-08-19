@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lesson 6: Reuben
 date: "2012-02-16 22:01:50 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2206"
@@ -33,15 +34,6 @@ image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As promised, this week I will be beginning my rampage of digging up dead, old UK post-hardcore bands. The first band to be mentioned is, obviously, [Reuben](http://www.wordsfromreuben.com/2009/). Despite their ten-year lifetime and numerous outstanding releases, they failed to gain any mainstream success (as is the story for most bands in this series). For some reason, the good post-hardcore bands from the UK seem to all come from Surrey and Reuben are no different.

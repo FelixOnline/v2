@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A breakdown on the first Union Council session for the year.
 date: "2013-10-18 20:41:43 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3884"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The first meeting of the Union Council was held in the Union Dining Hall last Monday. The Council, consisting of over two dozen student representatives – including the Management Group chairs and Constituent Union presidents, is the main policy making body of the Union and is subordinate to only the Trustee Board.

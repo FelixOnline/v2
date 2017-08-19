@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But not without drama (and extensive amendments)
 date: "2017-05-12 15:29:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6930"
@@ -33,15 +34,6 @@ image_height: "638"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 During the final Council Meeting of spring term, a paper was passed that will limit the presence of the Tie Clubs at the Union. The invite only ‘secret’ clubs have been accused of sexism, discrimination, and elitism among other things in the past and the Union has time and time again reiterated it is not in any way affiliated with them.  The paper, proposed by Andrew Olson, attempted to limit tankard use by Tie Clubs by enforcing the Equal Opportunities Policy.

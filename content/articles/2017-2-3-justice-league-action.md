@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New, kid-friendly brand justice
 date: "2017-02-03 17:08:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6731"
@@ -34,15 +35,6 @@ image_height: "819"
 image_attribution: "Warner Bros. Television"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Since there are a number of DC Comics adaptations on the horizon, it seems only fitting that an animated series be released to capitalise on its popularity. While Justice League Action is definitely entertaining, how much you personally enjoy it depends on what you’re expecting.

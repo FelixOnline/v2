@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle recaps some of the major stories from the holiday.
 date: "2015-01-16 15:35:01 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5102"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A lot has happened in football over the Christmas holidays. From a position of relative strength Chelsea drew against Southampton and lost to Tottenham to allow Manchester City back into the title race. After the Tottenham defeat Chelsea and Manchester City could in fact only be separated by alphabetical order. Since then, though, Chelsea has opened a two-point gap.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Both students and staff deserve better than this
 date: "2010-12-09 21:17:09 +0000"
+author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "531"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ac1507"
-author_name: "Afonso Campos"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are so many things that are objectionable about the redundancies in the Life Sciences department that one hardly knows where to begin. The staff being made redundant have had their teaching achievements ignored and their research talked down. Undergraduates have been repeatedly assured that their courses will not be impacted despite the overwhelming evidence that the quality of teaching will decrease and the courses that they want to do will no longer be available. Masters students have paid for a service that they will not receive to the standard that they expected when they forked over their cash and finally PhD students have been thrown into chaos with little or no information given to them. Even the academics who have survived feel insecure; if this is how the department treats the aforementioned groups, why should any of the survivors be treated differently in future?

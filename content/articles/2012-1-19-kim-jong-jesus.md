@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exploring the idea of a be-all-end-all being
 date: "2012-01-19 20:49:24 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2022"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 "Everyone ought to love, serve, even worship me above all else.” What a sinister, egotistic and deranged thing to say! If you met someone who really believed that about themselves, you would probably not want to meet them a second time. But isn’t that what Christians believe about God? When Jesus was asked which commandment was most important, he answered: “You shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.” Doesn’t that prove the point? Like a North Korean dictator, God seems to demand nothing less than wall-to-wall adoration!

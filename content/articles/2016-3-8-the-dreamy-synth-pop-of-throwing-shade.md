@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Nabihah Iqba's latest EP is a hazy blur of sharp light and colour
 date: "2016-03-08 16:51:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6014"
@@ -34,15 +35,6 @@ image_height: "3000"
 image_attribution: "Ninja Tune"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **Throwing Shade**, AKA Nabihah Iqbal, is an artist who educates. Her background in history and ethnomusicology (in which she holds a degree from SOAS) heavily influences her bi-weekly NTS Radio show, where she weaves sounds from all over the world into a culturally rich sonic tapestry, exploding with colour and exposing listeners to the “weird and wonderful”. As well as this, she’s a producer whose wealth of musical knowledge shines through in each of her glittering compositions.

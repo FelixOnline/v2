@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Professor Guang-Zhong Yang is the currently the Director of the Hamlyn Centre for robotics
 date: "2016-01-15 11:22:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5828"
@@ -34,15 +35,6 @@ image_height: "430"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of Imperial’s very own professors has been appointed editor of a newly formed journal, _Science Robotics_, which is due to launch in July of this year.

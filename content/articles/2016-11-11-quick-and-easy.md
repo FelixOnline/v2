@@ -4,6 +4,7 @@ title: >
 subtitle: >
   No, I’m not describing one of your sexcapades – that would lose me my job. Here’s a simple weeknight recipe for something you can really call home cooking.
 date: "2016-11-11 17:05:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6433"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Tara Schmidt"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imust confess – the last time I made a stew, it took me 72 hours from start to finish. Short ribs, cooked at 54oC for two-and-a-half days in my waterbath were mouthwateringly tender and exceptionally beefy, with a wonderful red wine sauce and plenty of just tender veg. But fear not! You don’t need to raid the lab for a waterbath for this stew.

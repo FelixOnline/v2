@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Learn more about IC’s premier broadcasters
 date: "2012-11-15 21:35:10 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2899"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [IC Radio](http://www.icradio.com/), one of the oldest and coolest student stations in the country, is the official sound of Imperial College London. Broadcasting and streaming in crystal quality from icradio.com, we are on air 24 hours a day, alternating between live shows and playlists from our huge music library.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The food review
 date: "2012-10-05 13:20:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2626"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It doesn’t seem quite right to say there’s a dodgy part on the King’s Road. But there is, just beyond the trendy Bluebird brasserie, where the pavement gets a bit dirtier, the shops a bit more Londis. It is here that one stumbles upon La Famiglia restaurant. A place that proves eating out is just as much about the atmosphere as it is about the food.

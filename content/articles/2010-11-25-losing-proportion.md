@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Today’s strident, aggressive atheists want to fit under the umbrella of ‘secular humanism’ – but do they deserve to?
 date: "2010-11-25 21:35:29 +0000"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "441"
@@ -34,15 +35,6 @@ image_height: "474"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Towards the end of my second year at Imperial, I was approached by the chair of what was then the Atheist and Agnostic Society with a view to becoming his successor as official Union Antichrist. Owing to a number of other commitments that would have made Beelzebub blanch, I regretfully declined. Much to my chagrin, the society has since done likewise.

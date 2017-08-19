@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bossing awards
 date: "2012-10-05 15:53:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2633"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Guardian Student Media Awards 2012 have been announced. I, Science, the student produced science magazine of Imperial College London and the sister publication of Felix, has made the shortlist in the category of “Student Website of the Year”. The website www.isciencemag.co.uk/ will face off against competition from Sheffield, Leeds, Birmingham, and Bournemouth, to be crowned Student Website of the Year 2012.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Cross Country places 3rd in the women's race and 4th in men's.
 date: "2015-02-12 22:34:17 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5241"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Saturday 7th February, more than 600 runners from universities across the UK, the Netherlands and Poland took part in the Hyde Park Relays, hosted by Imperial College Cross Country and Athletics Club. Teams comprised of 6 men or 4 women each running a lap of the 5 km course, beginning by the Serpentine and looping clockwise up to Marble Arch and returning to the bandstand.

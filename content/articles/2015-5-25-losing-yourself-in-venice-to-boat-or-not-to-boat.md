@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her tip for navigating the city of water
 date: "2015-05-25 12:59:52 +0100"
+author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5561"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ync111"
-author_name: "Nam N Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "shadowcheah"
-author_facebook: ""
-author_website_url: "http://www.laughtraveleat.com"
-author_website_title: "Laugh Travel Eat"
 ---
 
 Perhaps one of the most frequently asked question for travelers in Venice is whether they should take the water buses or not.

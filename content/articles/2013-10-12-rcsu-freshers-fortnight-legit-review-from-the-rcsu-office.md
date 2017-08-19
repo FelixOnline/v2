@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind
 date: "2013-10-12 12:12:56 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3844"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "RCSU"
 image_attribution_link: "https://www.facebook.com/RCSUnion/photos_albums"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Someone told me today that you shouldn’t write reviews of your own events. I obviously didn’t listen to their advice; after all, who can know better what went down at the RCSU events than people within the RCSU?! My sincerest apologies to the other constituent unions who are obviously lagging behind.

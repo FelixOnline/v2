@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Those in the wardening system needs to be made aware of potential barriers to their way of life
 date: "2012-05-18 06:19:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2459"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Last week](http://felixonline.co.uk/comment/2440/league-table-woes-not-a-problem/) Felix commented that it could be worthwhile to focus on improving the 'student experience' from within rather than from focusing on comparison with other universities. If anything, [it has emerged](http://felixonline.co.uk/news/2454/hall-senior-prospects-in-doubt/) that focusing internally would indeed be beneficial regarding the current Wilson House hall senior situation.

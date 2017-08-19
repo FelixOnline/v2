@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial professor chief organiser of campaign
 date: "2012-05-24 22:57:50 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2484"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday 15 May, around 80 physicists and chemists from around the UK held an unusual protest against their research funder by parading a coffin and a horse-drawn hearse down London’s Whitehall to Downing Street.

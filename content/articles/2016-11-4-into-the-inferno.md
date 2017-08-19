@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Documentary of the week
 date: "2016-11-04 15:33:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6399"
@@ -33,15 +34,6 @@ image_height: "777"
 image_attribution: "Netflix "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Violent. Destructive.Catastrophic. These may be the words you think of when encountering the word volcano. Werner Herzog, one of the world’s most influential directors, together with volcanologist Clive Oppenheimer, take you on a trip to the heart of the earth, with the question: are volcanoes all destructive?

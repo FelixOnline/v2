@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Following huge success at the University of York, the fashion and dance project hits the London universities
 date: "2011-10-21 11:08:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1595"
@@ -34,15 +35,6 @@ image_height: "853"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial is no stranger to big events; you’d have to have had your head in the sand to not know what [East Meets West](http://www.union.ic.ac.uk/osc/india/Events.html) is. Now an Imperial postgraduate hopes to bring her experiences from her previous university to break the mould with a spectacle that goes above and beyond anything that has come before.

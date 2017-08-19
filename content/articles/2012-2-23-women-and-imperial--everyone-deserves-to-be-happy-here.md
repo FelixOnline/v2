@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Union's Deputy President of Welfare discusses the debate on feminist issues that has arisen recently
 date: "2012-02-23 19:43:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2225"
@@ -34,15 +35,6 @@ image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Are women unhappy at Imperial? Some, it seems, are. Some men are too. Whether these are vocal fractions of a silent majority, or simply a vocal minority remains to be seen, but it doesn’t really matter. Every student at Imperial deserves freedom to be him/herself and to thrive to his/her full potential, minority or not – and women at Imperial are a minority. Within the central Union we do a lot of work for many of the recognised minorities but have done little recently for women.

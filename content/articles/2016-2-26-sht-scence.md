@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thin penguins waddle, but fat penguins wobble
 date: "2016-02-26 11:36:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5964"
@@ -33,15 +34,6 @@ image_height: "2944"
 image_attribution: "Liam Quinn"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ence, we argue that all research, no matter how ridiculous, has a purpose and brings us all closer to the truth.

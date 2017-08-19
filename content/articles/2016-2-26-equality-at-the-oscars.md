@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ahead of the Academy Awards this weekend, we ask whether or not it’s time to pull the plug on gender-segregated acting awards, in favour of a gender-neutral accolade
 date: "2016-02-26 11:39:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5967"
@@ -34,15 +35,6 @@ image_height: "1333"
 image_attribution: "Fox"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year that saw the first Academy Awards, 1929, also saw two landmarks in the march for equality: in the UK, the 1929 election was the first one in which women under 30 could vote, leading to it being termed the ‘Flapper Election’; and in Canada, five women led a campaign to change the legislature to recognise women as ‘persons’, meaning they could stand for any role in government. In the nine decades since, we have seen revolutionary strides in sexual equality, and yet Hollywood awards remain a region of segregation: when the Academy Awards are broadcast, the acting categories will still be split along gender lines, as they have been since their inception.

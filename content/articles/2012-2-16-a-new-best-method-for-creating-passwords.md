@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Bowers discusses how padding can make your passwords more secure and easier to remember
 date: "2012-02-16 21:00:13 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2181"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Your password will expire in 10 days. Would you like to change it now?” This is the message that greets me when I log on to Outlook Web Access. I was first told my password was going to expire at the end of January, so why have I not yet done so? The act itself of changing the password is by no means a complex task – but instead it’s the creation of its replacement that takes time and effort.

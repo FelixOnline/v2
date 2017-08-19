@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial's website will be redesigned for the first time since 2007
 date: "2013-02-08 01:16:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3286"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The College has embarked on the [Website Redesign Project 2013](http://www3.imperial.ac.uk/webredesign) and has requested volunteers to aid them in renewing the Imperial website for the first time since 2007. Events and consultations will take place over the next weeks in an attempt to gain insight into the views of student users.

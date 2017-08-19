@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New research reveals new information about the composition of the Earth's core
 date: "2011-12-01 19:44:50 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1860"
@@ -33,15 +34,6 @@ image_height: "1173"
 image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The composition of the Earth’s core has been a mystery to scientists for nearly 60 years. While we know much about how this section of our planet affects us in terms of magnetism, energy generation and planetary dynamics, its precise makeup has remained hazy. Until recently all we knew was that the core is composed of predominantly liquid iron, along with small amounts of nickel, and 10% (by weight) of light elements.

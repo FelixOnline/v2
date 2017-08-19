@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles visits The Photographers' Gallery to see what's trendy
 date: "2014-12-18 15:49:01 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5061"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On 25th January, 1955, the __MoMA__ opened its doors to the most ambitious photography exhibition ever conceived. Titled _The Family of Man_, the 503 photos aimed to reflect the world around us, highlighting the similarities between vast numbers of people who were just beginning to get their postwar lives together, living in the atomic shadow of Hiroshima. After its wildly popular run in New York, the exhibition toured the world for 8 years, building up a staggering attendance of 9 million; in 2003 its historical value was recognised by UNESCO, who placed the exhibition in their permanent archives. The curator of this grand spectacle? __Edward Steichen__ – intellectual royalty, Academy Award winner, and one of the most influential fashion photographers of his time.

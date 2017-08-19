@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With countless rap and R&B projects dropping this year, 2016 has been an incredible year for hip-hop and urban culture. There’s been an unprecedented wave of new music from giants in the modern rap game, like Drake, Kendrick Lamar and Kanye West, to exciting debut albums from the budding stars, such
 date: "2016-12-16 14:57:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6607"
@@ -34,15 +35,6 @@ image_height: "500"
 image_attribution: "Chance the Rapper"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 10. Kendrick Lamar | “Untitled Unmastered”

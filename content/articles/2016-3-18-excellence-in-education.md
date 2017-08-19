@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The President of Imperial speaks
 date: "2016-03-18 11:37:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6054"
@@ -34,15 +35,6 @@ image_height: "2444"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Since arriving at Imperial, I have been extremely impressed with our students’ excellence. I’ve seen brilliant scholars explaining their research, talented entrepreneurs describing their spin-out company and gifted musicians inspiring a rapt audience. I love to walk through College in the evening and see the ballroom dance team practicing with the jazz band rehearsing next door. This is an incredible place thanks to the great talent, energy and motivation of our students.

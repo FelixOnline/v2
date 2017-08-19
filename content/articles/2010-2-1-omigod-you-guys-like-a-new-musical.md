@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucy Harrold finally gets to see a new show after a long theatre drought and luckily it's a rather awesome choice
 date: "2010-02-01 18:04:05 +0000"
+author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "68"
@@ -33,15 +34,6 @@ image_height: "879"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh106"
-author_name: "Lucy Harrold"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You know how it is, you wait all term for a new musical to open and finally one does. Two days before my exam. See what I sacrifice for you dear reader; who am I kidding? I needed a break and Legally Blonde the Musical was the perfect excuse.

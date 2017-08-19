@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Gray on, predictably, something obscure...
 date: "2013-02-01 00:45:26 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3232"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Reviews for Grouper’s The Man Who Died in His Boat (recorded in the same sessions as my favourite work of hers, Dragging a Dead Deer up a Hill) have had a bit of a tendency to focus on the concept behind the album. Liz Harris (Grouper) has said that it’s based on a teenage memory of peering inside the cabin of a wrecked ship, with the previous occupant’s belongings still strewn around inside. I had intended not to dwell on this too much but the evocation of the scene is really incredible; from the off Harris treats us to tape-echoed ambience that resembles whispering winds over a blustering sea, and the whole album has a reflective melancholy to its sound.

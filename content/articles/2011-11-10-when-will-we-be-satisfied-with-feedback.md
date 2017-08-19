@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rector talks the talk on feedback, but will we see any improvement?
 date: "2011-11-10 20:30:02 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1713"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week saw the release of a summary of the annual Rector’s Away Day, with Sir Keith O’Nions announcing a statement pledging to improve the ‘undergraduate experience’, with the improvement of assessment and feedback becoming a priority in this aim. The battle against feedback has been continuing for some time now, however, and it may ultimately fall to tackling the individual marker rather than the department when it comes to improving feedback across College.

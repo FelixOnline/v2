@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Magnetic Man unleash a torrent of bass @ Heaven
 date: "2010-11-18 20:39:40 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "390"
@@ -34,15 +35,6 @@ image_height: "692"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Calling themselves the world’s first dubstep supergroup, this talented trio have definitely stepped up their live act (from what initially resembled a Warcraft LAN party) to a blitz of lights and torrent of bass. For those of you who have been living in the library too much, they are composed of dubstep giants Skream, Benga and Artwork (who? precisely) and have recently released their kick-ass eponymous debut. On Wednesday 3rd they shook Heaven’s foundations with the excessive dub that incited chaos on the dance floor as they were joined on-stage by guests that included the likes of Katy B and Ms. Dynamite.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I can only hope the Olympic organisers actually get people into the venue
 date: "2011-02-17 19:58:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "829"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Picture the scene: the Olympic Stadium, East London, less than a year and a half from now, on a balmy August evening. There is little wind; the heat is slowly rising from the track. The atmosphere is heavy, but that has little to do with the weather. The entire world’s gaze is fixed upon the ten men at one end of the track. Never before has one event monopolised the attention of so many people. Cameras are everywhere, and for the first time, people are watching in 3D.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The fourth of our 'games that never made it'
 date: "2011-03-03 21:18:54 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1024"
@@ -33,15 +34,6 @@ image_height: "428"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Thinking of a single reason why they didn’t make this game is really hard. If they were worried that it wasn’t going to sell enough copies to make it viable I really hope they’re reading this because I will commit right here to buying enough copies to make it worth it.

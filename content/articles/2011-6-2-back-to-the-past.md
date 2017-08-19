@@ -4,6 +4,7 @@ title: >
 subtitle: >
   X-rays help scientists delve deeper into fossil record
 date: "2011-06-02 18:33:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1297"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 X-rays could help us peer back in time to see the origins of life on Earth. Fossils, the indelible mark of ancient life, have been a vital piece of evidence for Darwin’s theory of evolution. Most, however, are from a time millions of years after life started. The evidence of life’s origin has been, until this point, been too small to see.

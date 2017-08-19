@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fen kicks off a showcase of female playwrights in Fulham
 date: "2011-03-18 08:28:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1112"
@@ -34,15 +35,6 @@ image_height: "1333"
 image_attribution: "Paul Toeman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 My first impressions on entering the [Finborough Theatre](http://www.finboroughtheatre.co.uk/productions/2011/production-fen.php), having climbed the stairs from the wine bar below, were dubious. The middle of the theatre was covered in earth, liberally strewn with potatoes, the room hummed with eerie folky music and for a good five minutes an actress in farmer’s garb darted from side to side, shaking her rattle at imaginary birds.

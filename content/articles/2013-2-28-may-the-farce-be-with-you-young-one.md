@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope reviews a farce with a space age spin
 date: "2013-02-28 23:38:10 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3391"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ben Fry"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “No. I am your father,” is a line that has gone down in film history. It is at this point that Luke Skywalker finally confronts Darth Vader, his arch enemy, and, as we find out from that immortal line, his biological father. Would the moment have been ruined by an eager audience yelling out “OH NO YOU’RE NOT!” directly after? As if! This is Andromedan Nights, DramSoc’s latest performance, a farcical sci-fi pantomime written by Imperial’s own Owain Jones.

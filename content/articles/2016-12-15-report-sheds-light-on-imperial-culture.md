@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And the picture ain’t pretty
 date: "2016-12-15 23:46:35 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6597"
@@ -33,15 +34,6 @@ image_height: "1156"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Results of a report investigating Imperial’s institutional culture were recently released to the public, revealing a troubling picture behind the shining facade of academic excellence.

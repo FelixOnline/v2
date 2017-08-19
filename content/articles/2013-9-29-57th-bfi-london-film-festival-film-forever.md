@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Film Editor John Park introduces the 57th BFI London Film Festival
 date: "2013-09-29 15:41:46 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3782"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Dear freshers, welcome to London. And to those returning, welcome back. And what a way to kick off the misery that is October with British Film Institute’s (BFI) stunning 57th London Film Festival. With films that are sure to be contenders when it comes to the big awards, the London Film Festival has that rare appeal of having a huge public presence. It’s easy to score some tickets (although the big gala screenings might be fully sold out by now), so keep an eye out for those screenings that will be shown all across central London cinemas.

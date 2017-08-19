@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With some major albums about to drop, could we soon be seeing an indie resurgence?
 date: "2017-03-17 17:06:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6910"
@@ -34,15 +35,6 @@ image_height: "3576"
 image_attribution: "Liliane Callegari"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last year, was almost unquestionably the year of hip-hop; the genre saw a huge influx of new artists and the drop of some absolutely massive albums from established names (From Chance the Rapper’s Colouring Book and A Tribe Called Quest’s We Got It From Here… Thank You 4 Your Service to Kendrick Lamar’s Untitled Unmastered). This explosion in hip-hop isn’t going anywhere any time soon but, 2017 might just see a resurgence of indie.

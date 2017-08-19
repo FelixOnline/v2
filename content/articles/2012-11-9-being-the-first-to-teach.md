@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah gets schooled in the aims of TeachFirst
 date: "2012-11-09 00:37:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2839"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "Ummm, ummm, ummm. Okay, I’ll get off at Westminster and change, that will be quick right?”. That was what was going through my head as I frantically scrambled to make it to my interview with Brett Wigdortz. Turns out I was wrong by the way (about the trains being delayed, not having the interview: this would be a very short Feature if that were to have been the case).

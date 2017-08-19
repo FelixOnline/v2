@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why do anything if it doesn’t earn you a good chunk of money?
 date: "2016-05-27 09:03:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6219"
@@ -33,15 +34,6 @@ image_height: "1000"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the renewal period for shows finally winds down and writers once more begin plotting ahead, networks start to announce which shows didn’t make the cut. The major victims for this season are the singing competition powerhouse _American Idol_, the country-music drama _Nashville_, and a personal favourite of mine, the Nathan Fillion driven, crime procedural _Castle_. But, as much as we mourn the recently departed, the reasons why individual shows are cancelled are quite varied.

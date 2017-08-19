@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Moved by the Hayward Gallery’s latest immersive offering
 date: "2011-01-07 09:46:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "562"
@@ -33,15 +34,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It all started in the early Sixties, in New York, of course. The clear delineations between artists and dancers were broken down and the Judson Dance Theatre came into being. A dance troupe operating in the spirit of its time, rebelling against the conventions of modern dance and ballet – a community where trained dancers and untrained poets, musicians, visual artists and film makers alike came together to conceive collectively created dance. Today at the [Hayward Gallery](http://www.haywardgallery.org.uk/), the delineations between artist and dancer are tested once again, but this time the dancers are you.

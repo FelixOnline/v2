@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ned Yoxall talks to Dr Jane Davies on new advances in CF treatment
 date: "2012-11-22 23:26:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2949"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In June this year, the Cystic Fibrosis Gene Therapy Consortium started a ground breaking new trial looking at the effects of regularly dosing sufferers with gene therapy. Ned Yoxall speaks to Dr Jane Davies, the clinical lead investigator in London, to find out more.

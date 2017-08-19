@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken gives a spoiler-free overview of the U.S. Netflix hit show, House of Cards
 date: "2015-02-03 14:51:24 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5183"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Based on the novels by Michael Dobbs and the British political drama by Andrew Davies, _House of Cards_ is a Netflix original series that follows U.S. Congressman and Majority Whip Francis Underwood, played by Kevin Spacey, who after being denied the position he was promised of Foreign Secretary in a new democratic cabinet sets out to take revenge on the administration he helped to elect and take the Presidency for himself. The series also stars Robin Wright as Frank’s chilling wife Claire, and Kate Mara as the young journalist Zoe Barnes, who forges a secret relationship with Frank in a desperate attempt to get her professional break.

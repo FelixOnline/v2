@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sleepy Hollow is the latest apocalyptic show to take the US by storm
 date: "2013-10-25 00:55:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3943"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Universal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 With Halloween only a week away, ‘tis the season to carve pumpkins and watch something spooky. One new show that fits the bill is Sleepy Hollow, one of the US’s new autumn shows, the first episode of which was shown last week on Universal. Whilst the show isn’t directly related to the film of the same name featuring Johnny Depp, both are based off the folktale written by American author Washington Irving, The Legend of Sleepy Hollow, which narrates the story of the ill-fated Ichabod Crane and his encounter with the Headless Horseman.

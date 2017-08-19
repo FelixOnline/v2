@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The London Student has challenged Felix to a duel of epic proportions (ok, maybe not 'epic'). This is no less than a battle between Imperial and the University of London and have no doubt, we will prevail!
 date: "2011-05-18 07:07:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1210"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On the evening of May 17th, the Editor of the London Student newspaper, Joe Rennison, threw his gauntlet down at Felix's feet. [He challenged us to play the 30-day Song Challenge](http://www.london-student.net/breaking-news/the-30-day-challenge-felix-vs-london-student/). Felix heartily accepted. Every day each newspaper will post a new article on their website with their song of choice. The newspaper with the most likes, unique comments, and tweets on their article will win that day. Follow this page to stay up-to-date with the competition.

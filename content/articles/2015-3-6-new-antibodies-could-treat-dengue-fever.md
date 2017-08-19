@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Utsav Radia on Imperial research that could lead to the first vaccine
 date: "2015-03-06 17:07:19 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5364"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers from the Department of Medicine at Imperial have identified a new class of antibodies that is effective against the virus that causes dengue fever.

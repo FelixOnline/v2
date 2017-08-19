@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX recieves a response to last week’s article from a morally minded vegetarian
 date: "2016-05-06 10:20:37 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6137"
@@ -33,15 +34,6 @@ image_height: "3179"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The foodies, meat lovers or simply punctilious readers amongst you may remember last week’s article raising arguments for meat consumption, or rather, for not feeling guilty about it as long as you accepted the responsibilities. And I thought there would be nothing better than hunting my friend’s arguments by growing from them.

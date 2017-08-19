@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICU Cinema get the Red Bull at the ready
 date: "2013-03-15 02:10:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3486"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Along time ago, in a Union room far, far away an intrepid young fresher decided to attend her first all-nighter. Young and innocent, this girl did not know what to expect and this is the magical, mystifying tale of what she found there...

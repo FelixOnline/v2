@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I’ll show you how to transform your cramped vegetable lasagne into a thing of simple beauty
 date: "2011-03-03 19:32:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "998"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "flickr/canolagrowers"
 image_attribution_link: "http://www.flickr.com/photos/canolagrowers/3570480607/in/set-72157618793887509"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is an unfortunately ubiquitous belief amongst non-vegetarian cooks that vegetables are an accompaniment to a meal rather than a meal in themselves. This means that meatless dishes can often go catastrophically wrong.

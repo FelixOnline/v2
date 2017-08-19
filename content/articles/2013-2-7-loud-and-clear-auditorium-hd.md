@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Basically synesthesia, but with less LSD involved
 date: "2013-02-07 23:34:40 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3263"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a physicist there is something about making particles swirl round and making pretty pictures from the results which I totally get deepdown inside my soul. Auditorium HD is a game about directing a stream of coloured particles into audio containers. These audio containers light up when sufficient particles of the correct colour touch them, adding a new instrument or phrase into the mix progressively unlocking what are often beautifully atmospheric tracks. To achieve this each level gives you a wide variety of tools, including splitters, black holes, coloured bubbles that change the colour of particles and accelerators amongst others.

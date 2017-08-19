@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah and Caroline Wood try them for you...
 date: "2013-01-31 23:46:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3215"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It definitely sounds as if it’s going to be amazing. The fudge is actually pretty nice. The problem is when you compare it to just a normal Chunky: doesn’t add so much that you think it’s revolutionary. Okay, we know that it’s not exactly supposed to be pioneering new grounds, but, still, some innovation please.

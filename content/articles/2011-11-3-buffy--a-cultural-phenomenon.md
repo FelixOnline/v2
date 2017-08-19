@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Move over Edward, there's a proper vampire in town
 date: "2011-11-03 20:34:48 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1669"
@@ -33,15 +34,6 @@ image_height: "362"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are shows you watch for mindless entertainment. There are shows you get hooked to, ones you simply need to watch every week. And then there are shows that come to define so many aspects of your life. For me, Buffy the Vampire Slayer is just that show.

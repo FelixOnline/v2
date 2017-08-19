@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Talks about Hawking Radiation. Pfft, show off
 date: "2016-10-21 09:39:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6339"
@@ -33,15 +34,6 @@ image_height: "350"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Esteemed theoretical physics boffin, Professor Stephen Hawking, gave a lecture on Monday evening, speaking on black holes, Hawking Radiation, and AI.

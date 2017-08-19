@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All the classic Scorsese hallmarks are also here
 date: "2016-02-26 11:55:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5976"
@@ -33,15 +34,6 @@ image_height: "490"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This show really snuck up on me. HBO seems to have pushed it out without the sort of fanfare one would expect; especially given the names attached to this project. When Martin Scorsese and Mick Jagger say they’re doing something together, you pay attention. So, I decided to give the two hour premiere (directed by Scorsese himself) a chance.

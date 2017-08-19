@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park's two cents on J. C. Chandor's new film
 date: "2015-01-23 16:56:45 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5132"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "J. C. Chandor, FilmNation Entertainment"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __A MOST VIOLENT YEAR__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian takes to Malaysian Night 2012
 date: "2012-03-01 21:31:15 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2275"
@@ -33,15 +34,6 @@ image_height: "638"
 image_attribution: "Keane Ritikos"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 I was lucky enough to buy a ticket to the [Malaysian Society’s](http://www.union.ic.ac.uk/osc/malaysia/) MNight long before the sales rush which rendered the Saturday showing sold out. It was a two-day production held in the Great Hall, and I attended the Sunday showing. It was the first time I’d been to such an event in my three years here, and my main motivation for going was to support one of my copy editors here in Felix who was on the cast. A review simply had to follow.

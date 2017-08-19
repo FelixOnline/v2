@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares her secret tips learned through experience
 date: "2015-06-09 15:03:47 +0100"
+author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5606"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ync111"
-author_name: "Nam N Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "shadowcheah"
-author_facebook: ""
-author_website_url: "http://www.laughtraveleat.com"
-author_website_title: "Laugh Travel Eat"
 ---
 
 Travelling on budget airline isn’t easy – you got the luggage restriction, liquid restriction and only airline magazines for entertainment. However, with their unbeatable prices you can only grit your teeth and adhere to the increasingly intricate rules of hand luggage restriction to save the extra dosh on something more worth it.

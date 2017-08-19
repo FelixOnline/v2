@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aislinn Hayes, IC Radio Station Manager, gives you the lo-down.
 date: "2013-05-02 13:37:18 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3531"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sick of revising? Counting down the days until you can lounge around a marque-less Queen’s Lawn with a drink in hand? Would you like IC Radio to give you a free bottle of tequila to keep you motivated for that happy day of freedom? Should I stop asking rhetorical questions?

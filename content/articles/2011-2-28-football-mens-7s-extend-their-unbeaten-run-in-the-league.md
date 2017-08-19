@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC 7s 3 - 1 St Bart’s 4s
 date: "2011-02-28 21:41:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "952"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial 7s travelled to Chislehurst to play St Bart's 4s away on a pitch that was, for lack of a better word, soupy.

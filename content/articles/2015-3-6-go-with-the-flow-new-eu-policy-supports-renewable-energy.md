@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5363"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Shutterstock"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This article comes with a health warning. We will be discussing EU legislation and, as with all things EU, there will be a wealth of unhelpful acronyms and terminology fired at you, none more so than those forming the Commission’s new ‘Energy Union Strategic Framework’, officially revealed last Wednesday. Briefly speaking, this hugely ambitious plan intends to unite gas and electricity markets in the different regions of Europe and, eventually, Europe as a whole whilst facilitating the growth of renewables at the same time.

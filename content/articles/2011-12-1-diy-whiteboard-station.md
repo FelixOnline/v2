@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou helps you to experience the fun of lectures in your own home
 date: "2011-12-01 20:41:12 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1874"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a mathematician living with a group of other mathematicians, I like to think, at least some of the time, that our conversations relate to something beyond our chosen subject. But let’s face it: we’re Imperial students. Inevitably, the moment does come when normal discourse collapses into a frenzied exposition on Graph Automorphisms and the implications of Zorn’s Lemma.

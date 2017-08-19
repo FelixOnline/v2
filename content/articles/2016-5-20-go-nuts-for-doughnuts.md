@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX presents your guide to the best doughnuts in London
 date: "2016-05-20 09:22:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6191"
@@ -33,15 +34,6 @@ image_height: "823"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Throwback to the seven years spent in an all-girls boarding school in the countryside. A weekend trip to the nearest town with an actual supermarket was a sacred privilege only to those of Year 9 and above, while you have to be at least in Year 12 to be allowed to step on the train on the opposite platform to London.

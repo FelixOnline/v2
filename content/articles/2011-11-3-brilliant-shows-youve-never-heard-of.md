@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah reviews a number of less well-known shows
 date: "2011-11-03 20:27:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1666"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week, I wrote a column about how much I love [Arrested Development](http://www.youtube.com/watch?v=N9TXVMkQ29g). It was in this obscure student publication called Felix, you probably haven’t heard of it. Inspired by this, I decided to write about other, slightly obscure, TV shows that I love. Mainly, because I want more people to talk to (read: quote incessantly at) about them. So, put your eyes roughly 5mm below, and you can see some hidden TV gems. Okay, you can’t see them, but you can see my writing about them…

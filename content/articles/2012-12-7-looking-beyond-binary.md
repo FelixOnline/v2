@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fiona Hartley explores a refreshingly different anthology
 date: "2012-12-07 01:26:05 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3035"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Speculative fiction, that hard-to-define genre that encompasses everything from science fiction to alternate histories, is all about the fantastical, the what-ifs. It is all about imagination. It’s a genre that challenges the reality that we live in, dreaming of and exploring new ideas about society. Stories exploring gender-identity, therefore, are perfect for such a genre.

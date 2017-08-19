@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cruising through Tanzania’s national parks in search of big cats
 date: "2013-11-24 16:41:36 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4132"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I’ve had the privilege of growing up in East Africa, complete with the staple diet of safaris, beaches, poor roads and corruption. So having been to most national parks and game reserves in Kenya, we finally decided to venture next door to the fellow Swahili-speaking nation that is Tanzania, home of the famous Serengeti National Park.

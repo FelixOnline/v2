@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Cinema invites you to their termly All-Nighter
 date: "2014-12-11 20:59:27 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5032"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "screenrant.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As is Imperial tradition, once again it is time for the hallowed All-Nighter where once a term we put on all the films you’ve been dying to see, all in one go and for ridiculous prices! With one of our best lineups to date, what more could you ask for?

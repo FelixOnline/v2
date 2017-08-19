@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why didn’t these people run before?
 date: "2016-06-15 13:23:57 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6268"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We asked the DPFS candidates why they didn't run for the role in March, and this is what they told us.

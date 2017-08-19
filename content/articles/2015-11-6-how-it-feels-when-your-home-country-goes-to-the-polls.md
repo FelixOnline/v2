@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Watching events in your country unfold from across the border isn't easy
 date: "2015-11-06 13:56:02 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5702"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "balkanist.net"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When talking about how it feels to live abroad, the conversation tends to revolve around the things you miss, such as family members, the weather, or food. But, if your home country is in a state of change and turmoil, the hardest thing about being away is having to live through certain events merely through the news, brought to you predominantly by social media.

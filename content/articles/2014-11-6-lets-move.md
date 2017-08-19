@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park explores the health epidemic plaguing the lives of Americans
 date: "2014-11-06 19:25:35 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4778"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "huffingtonpost"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Katie Couric is_ Fed Up_. In this new documentary, which she narrates and executively produces, we see the health epidemic plaguing the lives of Americans. It spares no one, and a sharp increase in the number of children affected by this in particular is what is so shocking. Yes, it’s the much talked-of issue of obesity. We’re at a point where more people will die of eating too much than too little. Alarming statistics of how many Americans will be obese by year 2050 and how many children develop diabetes nowadays compared to the previous near non-existent number should be a wake-up call to us all.

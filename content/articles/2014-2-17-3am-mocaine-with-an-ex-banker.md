@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.
 date: "2014-02-17 17:24:41 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4393"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This is a story of caution. A story of naivety, intense highs and bad judgement. Try to find value in it, if you can.

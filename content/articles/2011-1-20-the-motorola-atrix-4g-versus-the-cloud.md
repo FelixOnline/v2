@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The device that rule them all, Motorola Atrix
 date: "2011-01-20 19:16:51 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "602"
@@ -33,15 +34,6 @@ image_height: "508"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With the introduction of the Motorola Atrix at CES, we saw a modern implementation of the “One Device to Rule them All” paradigm. Smartphones have reached a state where they encompass our phone, media player, casual web browser and camera, all to a level that is more than acceptable to the average user. The Atrix takes this to the next level with its laptop dock accessory, potentially making it our primary computer on top of everything else.

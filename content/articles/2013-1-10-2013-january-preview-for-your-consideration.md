@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What to look out for after exams
 date: "2013-01-10 23:14:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3109"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The New Year is here – which can only mean one thing: the exciting, glittery Oscar season is well under way. Films that carry their studios’ high expectations are rolled out in late December over in the States, which means over here in England, we see their releases throughout January. Sick of feeling down and gloomy with the January blues? Felix Film takes a look at the excellent films on offer that should be worth your while.

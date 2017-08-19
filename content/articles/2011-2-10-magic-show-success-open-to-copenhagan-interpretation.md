@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of 'Real Tricks: The Quantum Mechanics Show'
 date: "2011-02-10 20:23:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "772"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is somewhat topsy-turvy to say that there are no mysteries in magic, but plenty in physics. But as Dr Nic Harrigan, our Master of Ceremonies for the evening (complete with magician’s attire), explained: all magic tricks are explicable, but not all physics is yet understood. And no area of physics is as enigmatic and so begging of explanation than quantum mechanics. ‘Real Tricks: The Quantum Mechanics Show’ aims to draw parallels between magic tricks and the quirks of quantum mechanics. As we settled down for the show, it struck me that linking quantum mechanics with a magician’s tricks most adequately demonstrated the power with which it has to bewilder even the most skilled physicists; as Richard Feynman famously opined: “I think it is safe to say that no one understands quantum mechanics.”

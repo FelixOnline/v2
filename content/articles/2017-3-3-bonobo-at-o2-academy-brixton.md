@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Each new song was met with a wave of euphoria among the crowd
 date: "2017-03-03 15:26:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6848"
@@ -34,15 +35,6 @@ image_height: "2988"
 image_attribution: "Philipp Antonas"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This was a gig that, due to Bonobo’s incredible talent and sense of sound, engendered awe throughout the packed venue, however the occasion was let down by the poor sound setup at the Academy.

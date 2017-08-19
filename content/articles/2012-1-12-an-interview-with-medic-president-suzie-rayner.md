@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We interviewed the ICSMU President about ICSM's response to last year's Daily Mail scandal, along with Alcohol Awareness Week
 date: "2012-01-12 21:23:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1969"
@@ -33,15 +34,6 @@ image_height: "264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Felix: How do you think the medical school has changed since this time last year (with respect to the Daily Mail article highlighting the binge-drinking culture of ICSM)?__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In a story straight out of Hangman, Kent Union’s Tory Society are campaigning for a 76m tall iron statue of the Iron Lady
 date: "2016-02-26 11:25:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5956"
@@ -34,15 +35,6 @@ image_height: "2160"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ding Dong, the witch is dead, but not for these students in Canterbury, who want a 70m tall idol of their idol built outside their union’s Metric equivalent.

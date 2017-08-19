@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Japandroids prove that noise can be absurdly high
 date: "2012-11-15 21:32:07 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2897"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 How much noise can two people make? I thought the decibel limit was set by Kat and Alfie from Eastenders or possibly Gordon Brown on a bad day, but it seems that Brian King and David Prowse can beat them all with the intense garage rock made by Japandroids. I used to really love this band three years ago when their debut Post-Nothing arrived with a huge slab of hype and a shimmer of reverb, but I had somewhat forgotten about them until quite recently. Their second album Celebration Rock sounds more mature but, while lacking much of the coverage that they once commanded, they continue to produce spectacular noise-pop. Japandroids may have disappeared from my radar for a while but when the chance to see them play at Heaven, I jumped at the opportunity.

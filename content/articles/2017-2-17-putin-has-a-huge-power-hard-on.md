@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Titmuss explains why Putin is probably ecstatic right now
 date: "2017-02-17 14:46:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6787"
@@ -34,15 +35,6 @@ image_height: "1054"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From his images in National Media (and yes, those do require capital letters), it’s clear that Vladimir Vladimirovich Putin has a hard on for one man: himself. Whether he’s shirtless fishing, riding a horse, or killing a bear with his bare hands, Putin’s got a thing for being the manliest manly Russian man around. And right now he has the added advantage of being the shrewdest and luckiest foreign policy operator in the world.

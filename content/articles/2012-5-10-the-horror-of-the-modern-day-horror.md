@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or, the merits of Pyramid Head over generic space monster battles
 date: "2012-05-10 19:31:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2433"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Regular readers might know I’ve covered a few horror games in my time – [_Amnesia: The Dark Descent_](http://www.youtube.com/watch?v=u1nY_5-UrY4), [_Dead Rising 2_](http://www.youtube.com/watch?v=uUdA2VVNY3w), [_Dead Space 2_](http://www.youtube.com/watch?v=z7Qy_4sWs3I), [_Limbo_](http://www.youtube.com/watch?v=Y4HSyVXKYz8), and how could I fail to mention [_Baron Wittard: Nemesis of Ragnarok_](http://www.youtube.com/watch?v=zDJt-95F8jA) (a game as scary as a furious kitten). I’ve also played a good few games I haven’t written about. Why am I telling you this? Beyond proving I have no social life, I also hope to demonstrate that I’m rather partial towards horror games. They offer a unique gaming experience – when done well.

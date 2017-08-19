@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhys Davies finally gets down to reading a dated classic of SF literature
 date: "2012-05-03 18:39:07 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2415"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 My friend read this and raved about it to me. Quickly sold (mainly by the main character’s name, Hiro Protagonist), I vowed I’d read it as soon as I could. That was in high school. Some ten years later, I’ve finally got around to it.

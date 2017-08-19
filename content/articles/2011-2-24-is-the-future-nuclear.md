@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three of the UK’s leading experts on nuclear power debate the future of nuclear power
 date: "2011-02-24 20:00:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "875"
@@ -33,15 +34,6 @@ image_height: "2632"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Thursday 17th February, three of the UK’s leading experts on nuclear power came to Imperial to discuss their pet subjects in a debate organised by [A Global Village](http://aglobalvillage.org/); Imperial’s global affairs journal. Joining the debate were Professor Jim Skea OBE, Director of the UK Energy Research Centre, Professor Gordon MacKerron, Director of the Sussex Energy Group and Chair of the UK Committee on Radioactive Waste Management and Neil Hirst, Senior Policy Fellow in Energy Mitigation and Climate Change at the Grantham Institute at Imperial.

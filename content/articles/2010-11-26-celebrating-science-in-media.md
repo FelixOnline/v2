@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "449"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 On Monday the Public Awareness of Science and Engineering organisation, PAWS, held The European Science TV and New Media Awards Evening at the prestigious Institute of Engineering and Technology (IET). A fitting location to celebrate science in the media, as the IET was once home to the BBC many years ago! This is the first year which has seen the celebration of science in TV and New Media throughout Europe. The awards recognised a variety of countries for documentaries, general programming and new media, as well as more unusual categories such as science in TV drama.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why Benicassim should be the top of your list for 2012
 date: "2012-05-03 18:50:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2418"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m sure we all agree that much of the British festival scene is in tatters. Sure, if you’re willing to deviate from the likes of Reading you might catch some acts that are a little (read: endlessly) more interesting than Kasabian, but ultimately you’ll probably still be forking out far too much money to drag your wellingtons through the rainy mud as the droves of post-GCSE revellers continue to feel each other up and piss on your tent.

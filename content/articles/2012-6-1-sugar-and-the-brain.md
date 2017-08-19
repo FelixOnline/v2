@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Zara Shubber looks at scientists’ warnings that high fructose diets may be detrimental to memory
 date: "2012-06-01 13:27:31 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2515"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "topnews.in"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists have warned students preparing for exams that eating sugary desserts makes you stupid.

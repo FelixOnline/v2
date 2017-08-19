@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "766"
@@ -34,15 +35,6 @@ image_height: "683"
 image_attribution: "flickr/bisgovuk"
 image_attribution_link: "http://www.flickr.com/photos/bisgovuk/4624547316/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 University funding for teaching and research is to be cut by £940 million for the 2011-12 academic year, a decision described as “a challenging financial settlement” by the chief executive of the Higher Education Funding Council for England (Hefce) which [announced the cuts last week](http://www.hefce.ac.uk/news/hefce/2011/funding.htm). Universities will also receive £190m less than they had anticipated for this academic year (2010-11), as an in-year cut is announced for the first time.

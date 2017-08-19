@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial’s girls put impressive score on rivals
 date: "2010-12-02 20:38:13 +0000"
+author_id: "fmg08"
 
 # Attributes from Felix Online V1
 id: "475"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fmg08"
-author_name: "Fern Gibbons"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The dedication of the Netball 3rd team to their training finally paid off with a thrilling 45-27 win over Brunel on Wednesday.

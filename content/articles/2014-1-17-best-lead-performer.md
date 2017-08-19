@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There are a many strange things about trying to decide who is the ‘best actor’ because whatever performance they give is through the lens of a director and rewritten by the editor.
 date: "2014-01-17 04:11:00 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4253"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 _Why we should join the Oscar for Best Actor and Best Actress into one award._

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paul Beaumont takes a look at a typical Friday night down at the Apollo
 date: "2011-11-24 22:32:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1836"
@@ -33,15 +34,6 @@ image_height: "477"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Me being me, and this being only my second ever comedy gig, I was a little sceptical about certain aspects of last Friday’s line-up at __The Hammersmith Apollo__. A childrens’ entertainer? Musicians telling jokes? Charity?! Retrospectively, however, my aversion to live comedy was wholly unfounded. I loved it. Being a one-night-only gig, I’m not sure however as to what a Felix report should say other than “ha, I got to see the show and you didn’t”. My perception of reviews is that they are a tool for promoters yearning to sell more tickets to subsequent nights’ shows. Perhaps I’m supposed to plug next year’s concert (it’s an annual thing for ‘Friends of the Earth’, a charity whose main focus for the foreseeable future is Climate Change). Or perhaps I’m supposed to plug comedy gigs in particular. Whatever it is, overall the whole night was exemplary.

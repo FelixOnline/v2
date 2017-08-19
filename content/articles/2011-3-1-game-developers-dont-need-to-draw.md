@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Cook can’t draw pictures or compose music, but he can still make games
 date: "2011-03-01 21:07:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "965"
@@ -33,15 +34,6 @@ image_height: "490"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _This is Day 3 of the IC.HACK tutorial series! For the previous articles click [Day 1 - Starting](http://www.felixonline.co.uk/?article=903) or [Day 2 - AI](http://www.felixonline.co.uk/?article=934), or for the next installment click [Day 4 - Maps](http://www.felixonline.co.uk/?article=988)._

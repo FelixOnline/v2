@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Barrafina strikes again, causing two food babies to spring from nowhere with delights such as croquetas, carabineros and milhojas. Confused? Read on.
 date: "2017-01-20 15:39:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6674"
@@ -33,15 +34,6 @@ image_height: "2700"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Best friend in town? You just have to take them to one of the best restaurants in town and order three times your normal portion of food – and roll out of the restaurant with a six-month food baby hoping to ‘walk’ it off with a tube journey to the next.

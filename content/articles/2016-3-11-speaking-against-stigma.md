@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Youth stop AIDS
 date: "2016-03-11 11:46:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6031"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We need to end the deafening silence – Robbie Lawlor is the charming charismatic Mr Gay Ireland. A Zoology graduate with the kind of accent romcom producers ditch their fiancées and invest in fisherman jumpers to be with. He’s also HIV Positive. That shouldn’t matter. Except it does.

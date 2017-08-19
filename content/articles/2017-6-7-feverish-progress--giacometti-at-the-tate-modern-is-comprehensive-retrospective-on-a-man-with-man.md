@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giacometti was much more than the spindly bronzes figures that made him famous
 date: "2017-06-07 08:14:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7005"
@@ -33,15 +34,6 @@ image_height: "730"
 image_attribution: "Photo: Tate, The Estate of Alberto Giacometti (Fondation Giacometti, Paris and ADAGP, Paris), licensed in the UK by ACS and DACS, London, 2017"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Alberto Giacometti’s work has always been close to my heart. He was central to the wider body of artwork that inspired me to do art for GCSE and A level, and I've based countless of my own pieces on his. Despite being known more for his extremely thinly sculpted figures, it was actually his drawing and paintwork that inspired the majority of my work. When I found out the Tate Modern was exhibiting him, I sincerely hoped that it would do his work justice, especially as it was his first large scale retrospective exhibition in the UK for twenty years.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The great ideological battle of these years of the long 21st Century is not between the liberal West and the fundamentalist Muslims. It is between the vast majority of peaceful Muslims and a small but ever-expanding radical fringe.
 date: "2010-01-14 17:46:23 +0000"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "34"
@@ -34,15 +35,6 @@ image_height: "164"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s good to see that all of you have safely made it back to college. Whether by plane, train, sleigh or snowplough, or thanks to having hitched a ride on the back of a frisky reindeer, you’ve finally made it back to the warm embracing arms of college. Some of you have had to fight snow and ice, cancelled flights and endless news reports about snow and ice, while others have had to suffer through heightened security at airports following the attempted terrorism on a flight bound for Detroit on Christmas Day.

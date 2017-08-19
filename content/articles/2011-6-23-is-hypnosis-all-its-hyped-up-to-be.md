@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Royal Society Medicine backs use of hypnosis in the NHS
 date: "2011-06-23 19:48:47 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1416"
@@ -33,15 +34,6 @@ image_height: "344"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 “It got to the stage of desperation, I tried GPs, neurologists, psychiatrists and other types of psychotherapists... it was purely because I was out of any other choices that I tried it.”

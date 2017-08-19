@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Two of London’s universities go head to head in an all-day battle for glory on the small screens
 date: "2017-03-17 17:29:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6917"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: "Gotta gSaad Ahmed"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For most people, the 12th of March was just another Sunday. For a group of certain individuals, however, it was a chance for lasting and eternal glory. Well, more like temporary happiness for a few days, but hey, we all have to take what we can get.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Call to protect staff bar attracts hundreds of members
 date: "2012-01-12 21:40:11 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1972"
@@ -34,15 +35,6 @@ image_height: "3384"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The future of Imperial College’s staff bar, the Holland Club, is in serious doubt this week as it emerged that college catering are potentially planning on converting the space into a new food outlet.

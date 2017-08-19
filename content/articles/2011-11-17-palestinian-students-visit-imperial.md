@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exchange students reveal their thoughts on Palestine's struggle for recognition.
 date: "2011-11-17 20:28:16 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1759"
@@ -33,15 +34,6 @@ image_height: "2576"
 image_attribution: "Rajat Jain"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday, Imperial was visited by a group of six Palestinian university students spending eleven days in London as part of a cultural exchange. Felix took the opportunity to speak to them.

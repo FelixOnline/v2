@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Turns out people really want to get away from Imperial
 date: "2016-12-02 13:43:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6522"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As another year nears its conclusion so does another Jailbreak challenge. This year’s annual travelling competition, organised by IC RAG, broke the previously held record for participation, as well as for distance travelled by a single team. The winners Ayush Dharap and Rohan Prasad from team Brownian Motion, managed to reach Bali, Indonesia, a whopping 12,500km away (or a return trip to the centre of the Earth) raising £355.88 In the process.

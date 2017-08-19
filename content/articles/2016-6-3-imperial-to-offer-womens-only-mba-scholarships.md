@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Female students could get £25,000 off their fees
 date: "2016-06-03 08:36:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6225"
@@ -33,15 +34,6 @@ image_height: "505"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial’s Business School has teamed up with the Forté Foundation to introduce several women-only scholarships worth £22,500 for its Masters of Business Administration (MBA) programme.

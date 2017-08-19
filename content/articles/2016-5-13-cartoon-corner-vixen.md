@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular TV column
 date: "2016-05-13 09:24:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6161"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "The CW"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Spinning out of the CW’s live action DC shows is an animated one by the name of Vixen. This series takes place in its own corner of the called ‘Arrowverse’, offering a take on a different kind of hero, as well as using animation to do the things too expensive for live action. This venture is mostly successful but not without its faults.

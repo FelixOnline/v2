@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We gotz all your m0neyz
 date: "2012-11-09 00:12:09 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2833"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial are to beone of twelve universities that are going to benefit from £6m of funding from the Higher Education Funding Council for England (HEFCE).

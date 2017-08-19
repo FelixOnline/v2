@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Union has helped secure an inquiry by the House of Lords for the Science and Technology Committee.
 date: "2014-01-17 02:58:59 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4218"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Terry Moore, Parliamentary copyright images are reproduced with the permission of Parliament"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial College Union has helped secure an inquiry by the House of Lords for the Science and Technology Committee.

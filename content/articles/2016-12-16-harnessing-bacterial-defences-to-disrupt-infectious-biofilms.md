@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Research from Caltech and the University of Oxford has identified a mycobacterial protein that inhibits biofilms of Pseudomonas aeruginosa, the major pathogen in cystic fibrosis
 date: "2016-12-16 14:34:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6601"
@@ -33,15 +34,6 @@ image_height: "2252"
 image_attribution: "Charles de Mille-Isles"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pseudomonas aeruginosa is a bacterium of considerable medical importance. It is the archetypal “multi-drug resistant (MDR) pathogen”, known for its extreme antibiotic resistance, broad host range, and an association with serious illnesses including sepsis and hospital-acquired infections, prominent among which is the life-threatening condition cystic fibrosis.

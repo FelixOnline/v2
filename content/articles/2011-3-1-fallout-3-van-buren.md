@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our second game 'that never made it'
 date: "2011-03-01 21:09:29 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "966"
@@ -33,15 +34,6 @@ image_height: "222"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hush up fanboys and those sad enough to try and pick a fight with static print, I’m gonna say it, they cancelled_ Fallout 3_. Not the one you or I played/saw/read about/licked etc. No, this game was in development by Black Isle Studios, the inventors of more cancelled games than ones to actually make it to the shelves.

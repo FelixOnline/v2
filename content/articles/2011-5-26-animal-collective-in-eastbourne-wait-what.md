@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The sleepy south coast plays host to avant-garde New York collective
 date: "2011-05-26 19:52:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1264"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It would probably be the first, and last time that the sheltered residents of Eastbourne would see the word ‘Supreme’ with the word ‘chicken’ preceding it. Yes, a sizeable crowd of hipsters had made the perilous journey out of London and Brighton to the mundane streets of my elderly hometown – also known as God’s waiting room.

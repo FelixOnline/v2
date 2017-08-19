@@ -4,6 +4,7 @@ title: >
 subtitle: >
   By Jula Humphries
 date: "2012-02-09 22:34:40 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2155"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Last year](http://www.intelligencesquared.com/events/james-watson), at an intelligence squared event, James Watson stated that one of the biggest improvements in medicine would be personalised genome sequencing, whereby patients will have a personalised healthcare plan developed from their genome sequence. Personalised genome sequencing is now becoming a reality in Norway, less than a decade after the first human genome was fully sequenced.

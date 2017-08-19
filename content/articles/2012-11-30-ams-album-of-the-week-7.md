@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deftones: Koi No Yokan
 date: "2012-11-30 13:32:50 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3019"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You need a good reason to pay attention to an alternative rock band releasing their 7th album. Since their magnum opus, White Pony, Deftones have become a household name in making “straight forward” rock songs something bigger. They’re heavy, catchy, and they know just how to structure a good song – often using more than one different chorus or recurring bridge to tell a far more interesting story. The vocals are versatile, jumping from distorted to dreamy as required. Koi No Yokan is Deftones giving all this another shot.

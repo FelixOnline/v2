@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mazen Almaskati discusses what it takes for aspiring musicians to make it in music industry full of obscure managerial branches.
 date: "2017-02-24 14:48:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6823"
@@ -33,15 +34,6 @@ image_height: "2234"
 image_attribution: "Martin Fisch i.e. marfis75"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Just last week, Camden’s very own Roundhouse opened its doors to artists and industry professionals as part of their Artist Toolkit Day. The event included a series of performances, clinics, talks and collaborations during the weeklong Roundhouse Rising Festival.

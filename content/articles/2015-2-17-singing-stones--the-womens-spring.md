@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Jacob is riveted by a show that explores woman's place in the Middle East
 date: "2015-02-17 16:28:06 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5263"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Mia Hawk"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 T_he Singing Stones_ is a new play that explores the role of women in the Arab Spring. On the stage, as the audience are finding their seats, a young woman is sitting before a backdrop of rubble and broken furniture, on an otherwise bare stage. She is smiling contentedly whilst playing with some scraps of cloth, and needle and thread. How can I begin to understand this image in front of me, and the world it’s associated with: the world of Alia Alzougbi, of countless children, with countless mothers and fathers, a world of revolution and conflict. A distant land to which I am a voyeur, following it’s ebb and flow through international news. Kay Adshead – the writer and director of this first staging of the play – has found a way.

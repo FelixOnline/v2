@@ -4,6 +4,7 @@ title: >
 subtitle: >
   MAI and Alice Yang interview fashion’s top activist and All Walks founder Caryn Franklin
 date: "2012-02-16 21:39:22 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "2193"
@@ -34,15 +35,6 @@ image_height: "391"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 A fashion industry expert for over 30 years having co-edited i-D magazine, renowned for its rebellion to conventional views towards art, fashion and music, and presented BBC’s The Clothes Show for over a decade, Caryn Franklin is anything but your ordinary fashion journalist. With no less than four books under her name as well as a range of charitable commitments including Fashion Targets Breast Cancer, and the recently launched All Walks Beyond The Catwalk campaign, Caryn Franklin is an activist, not just in fashion but in regard to the general racial, size and age discrimination that exists in the modern world.

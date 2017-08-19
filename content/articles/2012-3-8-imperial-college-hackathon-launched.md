@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Applications abound as students take to their screens, writes Sangjin Lee
 date: "2012-03-08 21:01:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2321"
@@ -34,15 +35,6 @@ image_height: "1328"
 image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College has one of the best Computing and Electrical Engineering Departments in the World, producing the most disciplined and talented software developers and programmers consistently. These programmers often benefit from high salaries and fabulous perquisites from their employers. Imperial College prides itself on this monumental achievement. However, students often observe the lack of ambition for entrepreneurship and technological innovation among Computing Undergraduates – please correct me if I am wrong.

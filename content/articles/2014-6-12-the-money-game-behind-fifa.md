@@ -4,6 +4,7 @@ title: >
 subtitle: >
   From passionate Torcedores to angry protesters, where is FIFA taking us?
 date: "2014-06-12 13:42:26 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4681"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The World Cup is starting and football fans will be delighted once more by one of the most important sports competitions in the globe. Fans all around the world are ready to support their favourite team and enjoy an event that takes place only once every four years. However, for many of us who love football, this year´s environment is not as festive as we would like. Protests, clashes between police and citizens, allegations of corruption, and Brazilian social problems, have overshadowed what should be a carnival in a country that has always been recognised as one of the most passionate about the sport. Even worse, FIFA, which is the international body that is expected to surveil the organisation, is largely responsible for this.

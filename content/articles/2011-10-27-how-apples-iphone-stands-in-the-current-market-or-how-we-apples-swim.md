@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the war between developers and consumers continues, Apple continues to dominate the applications market
 date: "2011-10-27 22:19:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1615"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "flickr/Anthony Dunn Photography"
 image_attribution_link: "http://www.flickr.com/photos/adunnphoto/4935940784/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Just before the [BlackBerry service collapse on October 10](http://felixonline.co.uk/tech/1563/the-blackberry-crumble/), the analyst firm [Enterprise Management Associates](http://www.enterprisemanagement.com/) conducted extensive research regarding the trend in enterprise mobile device management. This research concluded that more than 30% of BlackBerry users from within large enterprises are expected to move to different platforms within a year as a result of poor user satisfaction. Despite the growing popularity of the device in UK teenage market (largely due to the success of the BlackBerry Messenger application, BBM, which allows users to avoid instant messaging costs), the recent BlackBerry “black out” will likely accelerate the decline of [Research in Motion](http://www.rim.com/)’s (RIM, the maker of the BlackBerry device) market share at enterprise level. The question is, can [Apple](http://www.apple.com/uk/)’s iPhone and iOS platform can now take over BlackBerry’s piece of the marketplace following the death of its founder Steve Jobs, or will it instead follow Blackberry’s footsteps towards decline?

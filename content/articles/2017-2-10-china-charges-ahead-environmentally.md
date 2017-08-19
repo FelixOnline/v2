@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sara Hamilton reports on China’s new approach towards environmental legislation
 date: "2017-02-10 14:04:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6753"
@@ -33,15 +34,6 @@ image_height: "1132"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I can’t speak for everyone, but when I think of China in relation to the environment, an image of coal and smog-full Beijing, with millions of citizens running around in protective anti-pollution masks, springs to mind. Henry Wang, in his talk Energy and Environment Growth Strategies hosted by the Imperial Energy Society, brought a ray of optimism in the future of China’s energy mix and environmental legislation.

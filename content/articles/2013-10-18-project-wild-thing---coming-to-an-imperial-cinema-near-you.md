@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Project Wild Thing opens in Cinemas nationwide on Friday 25th October. It will be screening at Imperial Cinema on Friday 25th October at 5pm. Tickets £5 students / £7 others available online at bit.ly/wildthingimperial
 date: "2013-10-18 20:53:00 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3886"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Green Lion Studios"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 David Bond is a worried man. When he was a child, he spent his time outdoors in the natural world, but now all his children do is stare at screens and obsess with big brands. He sets out to change things, appointing himself Marketing Director for Nature. This witty and irreverent documentary follows his antics as he attempts to launch a national marketing campaign to get children back enjoying the great outdoors. Described as “Like David Attenborough and Morgan Spurlock got drunk and had a baby” by one watcher at the Sheffield Doc Fest where the film premiered this summer, it’s sure to be an interesting watch.

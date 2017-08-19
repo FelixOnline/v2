@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl looks at an unusual depiction of the zombie story
 date: "2013-02-28 18:04:30 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3384"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last year was the year of the Vampire, and it seems set that 2013 will be the year of the Zombie. Don’t understand me wrong, Zombies have always been present in movies, TV shows, games and books. However only recently this genre has achieved mainstream success, probably through a larger amount of zombie games than ever, the show The Walking Dead as well as a large amounts of movies dealing with the topic.

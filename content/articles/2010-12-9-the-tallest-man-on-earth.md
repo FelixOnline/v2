@@ -4,6 +4,7 @@ title: >
 subtitle: >
   He’s probably lying about his height – The Tallest Man On Earth fills a corner of Camden with an evening of folk and poetry
 date: "2010-12-09 20:38:38 +0000"
+author_id: "dmm04"
 
 # Attributes from Felix Online V1
 id: "529"
@@ -33,15 +34,6 @@ image_height: "950"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "dmm04"
-author_name: "Diogo M Geraldes"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "deeohgoh"
-author_facebook: "http://www.facebook.com/deeohgoh"
-author_website_url: "http://www.downingtwo.blogspot.com"
-author_website_title: "downingtwo"
 ---
 
 A packed, expectant Electric Ballroom welcomed on stage Idiot Wind’s deep enchanting voice. The simultaneously life partner and support act for Kristian Matsson comfortably slipped into the big shoes any act with a Dylan reference in its name has to walk on. Amanda Bergman’s stunningly sweet and rough voice fused into the pretty, yet simple, melodies her Yamaha piano filled the room with, creating a quietness of approval that silenced even the more chatty spectators.

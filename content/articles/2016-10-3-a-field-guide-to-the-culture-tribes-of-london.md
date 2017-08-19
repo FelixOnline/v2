@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Get spotting
 date: "2016-10-03 19:56:05 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6308"
@@ -33,15 +34,6 @@ image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the uninitiated, London can be a strange and scary place. However, for the ornithologically-inclined, it can be a place of wonder. Let _felix_ be your guide, taking you on a tour of the different culture tribes you can spot in the capital. Bonus points if you manage to see them all!

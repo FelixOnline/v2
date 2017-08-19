@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We take an uncensored look at female staff, graduate, and fresher experiences around college
 date: "2016-03-11 11:34:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6024"
@@ -34,15 +35,6 @@ image_height: "2988"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The odds are good, but the goods are odd, or so goes the saying on the ‘talent’ at our beloved university. It’s an oft-referred trope of Imperial: on open days, we’re warned that there’s no shortage of dudes, and forced conversations during freshers’ week often resort to, “Wow, there are loads of guys here!” We’re always talking about the male experience, or lack thereof in terms of sexual opportunity, but what of the women of Imperial?

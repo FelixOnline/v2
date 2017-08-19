@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Film rates the Bonds to see who we think is the best. Let the arguments start...
 date: "2012-10-29 18:15:03 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2775"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 6. Roger Moore

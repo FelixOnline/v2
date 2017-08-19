@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All this plus a parking space, presumably
 date: "2016-06-03 09:06:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6232"
@@ -33,15 +34,6 @@ image_height: "2023"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The college’s Rector does a very important job. They go on Radio 4 for us, they sign open letters in newspapers, and if you’re lucky and they’re not having a round off, they shake your hand at graduation. The amount these members of staff get paid is always a point of contention.

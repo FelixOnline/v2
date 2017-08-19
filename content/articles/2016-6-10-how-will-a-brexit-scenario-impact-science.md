@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX asks the scientists on each side of the fence so you don't have to
 date: "2016-06-10 08:25:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6255"
@@ -33,15 +34,6 @@ image_height: "1888"
 image_attribution: "Hernan Pinera"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Brexit may have finally overtaken myriad memes of Donald Trump’s hairpiece on our newsfeeds. For months, the EU referendum has loomed large in a collective public mind, bamboozled by potential impacts on everything from human rights to house prices. It is a political hot potato that when dropped on the 23rd June, could see us out on our ear in the cold, looking in through the window at the EU planning their Christmas party, wondering whether we have done the right thing.

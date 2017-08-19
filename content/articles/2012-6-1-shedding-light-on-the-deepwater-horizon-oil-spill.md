@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Second anniversary of disaster sees new report criticise scientific models used
 date: "2012-06-01 13:56:07 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2518"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "U.S. Coast Guard"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the second anniversary of the Deepwater Horizon oil spill in the Gulf of Mexico, [a new report ](https://www.nceas.ucsb.edu/news/tale-two-spills-novel-science-and-policy-implications-emerging-new-oil-spill-model)suggests that existing scientific models were inadequate to deal with the disaster. The team, based at the University of California, Santa Barbara, have published the first comprehensive study of what happened at the Deepwater oil spill in 2010.

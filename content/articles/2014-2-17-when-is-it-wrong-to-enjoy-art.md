@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Woody Allen’s confusing and highly questionable private life has once again been thrust into the open with Dylan Farrow’s accusation of being molested by him when she was seven.
 date: "2014-02-17 17:22:47 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4390"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Woody Allen’s confusing and highly questionable private life has once again been thrust into the open with Dylan Farrow’s accusation of being molested by him when she was seven. Whilst I was shocked, but not surprised by the recent happenings, I am not going to use this space to pass comment on whether he is guilty or not. I instead will focus on something slightly less controversial (or perhaps more so depending on your position): the publication of the Woody Allen two page praise spread last week in the film section.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Challenging task ahead for Brad Amos
 date: "2012-05-18 11:10:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2465"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Brad Amos, who contributed significantly to the development of the laser scanning confocal microscope while working at the Medical Research Council in Cambridge, has developed a new giant microscope, the ‘Mesolens’, that allows the imaging of an entire mouse embryo in subcellular detail.

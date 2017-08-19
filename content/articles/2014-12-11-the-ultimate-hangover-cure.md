@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5026"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Could hangovers be a thing of the past? Scientists from the University of Huddersfield have developed a new drug that could reduce the side effects of binge drinking. The compound, called ethane-beta-sultam, is a taurine ‘pro-drug’ that can easily enter the blood stream before being processed by the body. Professor Mike Page, Dr Karl Hemming and colleagues believe that taking the drug during a heavy night of drinking will prevent alcohol from damaging the brain.

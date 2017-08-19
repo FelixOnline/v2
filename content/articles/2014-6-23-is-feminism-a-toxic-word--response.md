@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A response from members of the Feminist Society...
 date: "2014-06-23 13:13:25 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4709"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __I’ve been calling myself a feminist for about 10 years, and I started doing so for a simple reason – I believe women and men should be treated equally. I was not going to pretend not to be something because it might make others around me more comfortable.__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Would you do more to help than click a button?
 date: "2015-11-19 22:40:44 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5745"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When ‘Le Tricolour’ was first adopted by the Nation of France in 1794, the three colours were meant to represent the Royalty (the white portion), with the red and blue representing the arms of the city. Their representations of the three colours then changed with the coming of the French revolution which caused the colours change meaning. They were now the three principal French ideals: liberty, equality, and fraternity; however it seems that as of Saturday morning Facebook has now appropriated these colours to signify self-indulgence, egotistic tendencies, and a disingenuous compassion for the tragedy of others.

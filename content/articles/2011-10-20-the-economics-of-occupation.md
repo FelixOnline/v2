@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton and Kadhim Shubber have some advice for the London protestors
 date: "2011-10-20 21:43:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1565"
@@ -34,15 +35,6 @@ image_height: "1366"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…

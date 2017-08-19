@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The mainstream media is not respecting the enlightenment of society
 date: "2015-01-23 01:35:38 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5130"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Comment section of last week’s _Felix_ made for interesting reading, unsurprisingly, the writers for the most part choosing to focus on the _Charlie Hebdo_ massacre, which has been dominating headlines these past weeks. I’ll start by saying that there were good ideas expressed in those articles, and in the centre-left’s media response as a whole, however, I believe that _Felix _and the rest of the mainstream media is wrong not to stand up for freedom of expression and publish the cartoons.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fiona Hartley tells us why scientists will soon be adding a new weapon to our arsenal against flu
 date: "2013-10-04 00:30:55 +0100"
+author_id: "frh10"
 
 # Attributes from Felix Online V1
 id: "3798"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "frh10"
-author_name: "Fiona Hartley"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m sure several of you are suffering with freshers’ flu by now, as I am, because sharing your germs via sniffling and/or coughing on your unfortunate peers in lectures is akin to physical intimacy here at Imperial. You’d rather be healthy, or at least in bed, as you sip your Lemsip Max and wish that you hadn’t shuffled through crowds of virus-laden students in the QTR at Freshers’ Fair.

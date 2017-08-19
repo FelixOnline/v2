@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dreamy science professor turning students on... to science
 date: "2013-01-25 01:25:51 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3177"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year “Brian Cox Effect” is once again being hailed as the factor responsible for the number of applications to physics degrees continuing to buck falling national trends seen in the majority of subjects. Manchester University, academic home of Professor Cox, seems to agree that the science populariser is at least partially responsible, as internal surveying of their students suggests.

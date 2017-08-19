@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Your academic success could be down to your genes
 date: "2012-02-02 19:34:47 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2091"
@@ -33,15 +34,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial students fall generally into two categories: those who work hard and those who don’t work at all. Students across all years either diligently trek to the library every evening or pass it completely (as in, walk awkwardly around the redundant new library porch) to go straight to the Union.

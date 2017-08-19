@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union lobby EEE department to ensure that PhD students get fair deal
 date: "2010-11-11 22:09:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "374"
@@ -33,15 +34,6 @@ image_height: "3888"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Senior figures in the Department of Electrical and Electronic Engineering have begun concerted efforts to ensure that postgraduate students understand the circumstances under which they are paid for teaching duties, introducing a potential new measure to reduce the current bursary and have students explicitly earn their lost money.

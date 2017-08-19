@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Navid Nabijou argues that you can’t claim the revolutions for Islam
 date: "2011-03-10 20:09:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1063"
@@ -33,15 +34,6 @@ image_height: "2456"
 image_attribution: "Sarah Jeyaprakash"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Thursday, the [Muslim Student Council](http://muslimstudentcouncil.org/) hosted an event entitled: “Middle East: Revolution, Democratisation, and the End of U.S. Hegemony.” The evening featured four invited speakers, talking about recent events in their home countries: Saeed Shehabi from Bahrain, Monjia Abidi from Tunisia, Kamal El-Helbawy from Egypt and Guma El-Gamaty from Libya.

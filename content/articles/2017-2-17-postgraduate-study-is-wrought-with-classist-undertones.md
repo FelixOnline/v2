@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey explains why PhDs are near-impossible to finance without family help
 date: "2017-02-17 14:37:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6783"
@@ -34,15 +35,6 @@ image_height: "1118"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The UK has a vast historic class divide – only those from the upper-middle classes who are in severe denial about our country would go so far as to say that class does not remain a huge cultural barrier today. Education has traditionally been something for the rich, and our modern higher education system is designed to, in theory, reverse this. Today, no one, politicians claim, is prevented from attending university because they can't afford it.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Complaints after high demand brings down registration system
 date: "2011-06-23 19:13:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1412"
@@ -33,15 +34,6 @@ image_height: "4271"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The registration system for optional course modules in Business In Science, Engineering & Technology (BEST) was hit with problems on Monday. The Departmental Student System (DSS) used for registering optional modules in courses across college was swamped with connection requests as students logged on to pick their chosen modules in the morning.

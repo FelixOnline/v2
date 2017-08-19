@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson introduces the College’s newest Vice President
 date: "2015-05-08 00:26:17 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5502"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sarah Porter Waterbury has this week taken up the new role of Vice President of Advancement at Imperial College London. The appointment, which was first announced in January, is among the first at such a level for a University in the UK.

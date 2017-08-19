@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular column on our favourite animation
 date: "2016-02-05 12:48:20 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5884"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Bojack Horseman is a show about an alcoholic horse who was the star of a Cosby-esque family sitcom in the 90s, now dealing with a life of loneliness and depression. Also, it is fantastic.

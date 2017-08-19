@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Even those with an entirely understandable objection to Hollywood’s never-ending, contrived war films ramming American patriotism down everyone’s throats should check out Peter Berg’s latest modern day military drama.
 date: "2014-02-07 04:42:19 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4342"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Lone Survivor

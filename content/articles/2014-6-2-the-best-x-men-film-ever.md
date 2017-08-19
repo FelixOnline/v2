@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The X-Men series has had its fair share of ups and downs over the years. The first two entries helped revive the comic book film industry (with X-2 being considered arguably the best of the genre pre-The Dark Knight), but the third film and the first spin-off received mixed reactions.
 date: "2014-06-02 13:09:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4648"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __X-Men: Days of Future Past__

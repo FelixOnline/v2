@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There are many places to get help at Imperial
 date: "2010-12-02 21:40:24 +0000"
+author_id: "ec610"
 
 # Attributes from Felix Online V1
 id: "494"
@@ -33,15 +34,6 @@ image_height: "506"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ec610"
-author_name: "Elizabeth Crouch"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are three main places that you can initially seek out help:

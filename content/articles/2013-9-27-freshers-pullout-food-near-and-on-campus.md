@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix gives you the low-down on where to eat on campus...
 date: "2013-09-27 23:30:30 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3764"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/eatinganddrinking"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 ####  CAMPUS FOOD:

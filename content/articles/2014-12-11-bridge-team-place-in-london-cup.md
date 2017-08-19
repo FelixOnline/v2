@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A great start to the year for bridge team
 date: "2014-12-11 21:25:23 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5039"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Dominic Price"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial came back the proud owners of the second place trophy in last week’s London Cup – the annual inter-university bridge tournament attended by teams from around the UK.

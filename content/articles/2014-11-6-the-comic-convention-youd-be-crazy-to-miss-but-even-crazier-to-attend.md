@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Comic Convention 2014
 date: "2014-11-06 19:12:21 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4774"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "P. Skett"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Why would someone with no knowledge of any anime, comic books, and video games attend an event aimed at bringing these people together? Curiosity, that’s why.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim muses on how today's print media seems to have blurred the line between news and commentary - leaving us in a bit of an opinion tug o' war
 date: "2012-01-19 20:41:09 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2019"
@@ -33,15 +34,6 @@ image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Something hit me the other day. It wasn’t a fist luckily/unfortunately (delete as appropriate based on your opinion of me). I’ll explain, I was reading a newspaper that wasn’t Felix (treason, I know, I wouldn’t recommend that anyone else EVER does this). I was just browsing the news section, as I’m an intellectual/was trying to look intellectual in the hope that a girl in a coffee shop would notice me and be enamoured. It didn’t work (damn you revision beard, you make me look unkempt – in a bad way, not like a loveable rogue), but I did manage to see something so obvious that I was surprised people are not up in arms about it. The newspaper was incredibly unsubtle in its bias. It was obvious what it wanted you to take away from the news story. It was, at times, so clear what side it was leaning towards, that it was bordering on being one giant comment section (being the Comment Editor, that would be both awesome and incredibly destructive to my degree).

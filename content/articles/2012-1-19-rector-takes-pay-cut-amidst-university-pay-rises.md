@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Average pay rise of £10,000 for university leaders
 date: "2012-01-19 23:03:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2036"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An examination of thirteen of the UK’s top universities’ financial statements from 2010-11 has revealed that their leaders earned an average salary of £333,000, with an average pay rise of £9,700.

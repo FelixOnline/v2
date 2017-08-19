@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Editorial: Why I am so pissed off with what happened at Varsity
 date: "2015-03-20 14:18:24 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5419"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week was meant to be a celebration of women at Imperial, as the women’s rugby team was set to headline Varsity for the very first time. The evening was meant to pay homage to the incredible progression of women’s sport and in fact women at Imperial in general, but in reality, due to the thoughtlessness of the staff of Sport Imperial, it fell flat on its face.

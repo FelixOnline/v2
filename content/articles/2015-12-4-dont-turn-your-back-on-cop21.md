@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We are all responsible for demanding action on climate change
 date: "2015-12-04 15:19:06 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5795"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Monday, 25,000 official delegates from 150 countries descended on Paris for the COP21 Climate Talks. Of all the talks we have seen to date, they are the best organised international talks, with the most potential. The biggest progress is that they are focussed around the climate action targets that countries have agreed meet by 2020, called Intended Nationally Determined Contributions or INDCs. They are also set to acknowledge at least some of the great potential of local and grassroots action on climate change by emphasising the role of individual cities, like London, in setting their own targets and actions.

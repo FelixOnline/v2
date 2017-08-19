@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And does the bursary scheme cover the price of living in the capital?
 date: "2014-11-21 13:20:54 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4928"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With college claiming that their new bursary scheme is “most generous bursary provision of any of the leading UK universities” Felix decided to investigate just how generous the university is with its money compared to others.

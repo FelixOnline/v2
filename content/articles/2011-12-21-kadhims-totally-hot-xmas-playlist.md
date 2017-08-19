@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A short little snapshot of last term's totally hot albums
 date: "2011-12-21 01:18:40 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1961"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Christmas has come early! (Kind of). Through the miraculous luxuries the 21st century has brought us, I've compiled the artists from last term's '_Totally Hot Album of the Week_' column into a Spotify playlist. It starts off with a bit of a toe-tapper from __Slow Club__, slides into the melancholy minimalism of __Youth Lagoon __and __Vondelpark__, strays into the hip-hop fuzz of __Main Attractionz__ and __A$AP Rocky__, ventures over to a near-perfect dubstep track by __Balam Acab__, before taking a short sojourn with __Blue Sky Black Death__ and __Real Estate__ and ending with a belter by __Girls__ that starts slow but finishes transcendentally. My only regret is that __Clams Casino__ isn't on Spotify and is therefore conspicuously absent. Hope you enjoy it!

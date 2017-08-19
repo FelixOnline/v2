@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A consideration of the delights of being locked in a room with opinionated people for an indefinite amount of time
 date: "2014-11-06 18:09:41 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4759"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For most people the thought of attending Union Council is not good – to be honest, most people don’t even know what Council is – but for those who do it is often thought of as a chore and is an evening that they would rather spend elsewhere. Personally I rather enjoy the process of locking people in a room until they come to an agreement on some important issues.

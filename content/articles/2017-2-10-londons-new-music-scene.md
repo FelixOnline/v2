@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tired of the same old songs, or just like listening to live music? The new music scene in London is vibrant and flourishing, beginning with the Roundhouse Rising Festival next week.
 date: "2017-02-10 15:23:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6762"
@@ -34,15 +35,6 @@ image_height: "1336"
 image_attribution: "RoundHouse, pittaya"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Part of the allure of moving to London for music lovers is the incredible access to up and coming artists. Many times while living here, I’ve high-fived myself for gaining hipster points after discovering artists who’ve yet to break into the charts. Vanity aside, the ease with which Londoners can listen to new sounds and find quality acts is exciting and inspiring.

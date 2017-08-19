@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore and Kahfeel Hussain on how Pakistani immigration to the UK changed not only this country, but parts of Pakistan and Pakistanis themselves
 date: "2011-03-10 19:51:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1058"
@@ -34,15 +35,6 @@ image_height: "2784"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For an international student from Pakistan, London is an explosion of new experiences. People form queues, food is bland, the police actually care (but families hardly seem to), dogs are walked, old men jog, commuters are silent, ‘smiling shop staff’ are rarely as described, and under the ground men sit and let women stand on tubes, whilst above it buses actually arrive on time. Compared to Islamabad, it might as well be Oz.

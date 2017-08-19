@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Gates urges Imperial students to do the unthinkable and have fun over summer...
 date: "2013-07-05 15:09:21 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3742"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As summer has started and the festival season is well underway, the anticipation and excitement for my favorite small festival is reaching boiling point. With a host of new names recently added to the line up including Cherub, Natty Serafine Steer and Pete Molinari joining the likes of Regina Spektor, Soulwax, Django Django, Bastille and Youth Lagoon, make it a spectacular four-day event not to be missed. Exclusive SGP headliner Regina Spektor, who first played the garden back in 2005 says:

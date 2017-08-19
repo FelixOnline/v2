@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall
 date: "2011-02-03 19:33:34 +0000"
+author_id: "skd09"
 
 # Attributes from Felix Online V1
 id: "717"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "Miles Robertson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "skd09"
-author_name: "Sophia David"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tuition fees of £9000 a year would be “far more preferable” according to the ICU President, Alex Kendall, as well as the norm for “the majority of universities” according to the NUS President, Aaron Porter. These latest comments have arisen as the “Student Fees and Financial Aid Working Group” established at Imperial works to determine where the tuition fee level will be set from 2012.

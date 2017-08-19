@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix asks why they are running for the role
 date: "2015-03-05 21:39:46 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "5345"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __What made you run for this position?__

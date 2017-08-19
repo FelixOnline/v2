@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's possible!
 date: "2012-03-15 20:59:22 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2366"
@@ -34,15 +35,6 @@ image_height: "510"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has returned. It’s coming to the end of term and just when you thought you might look forward to a bit of shut-eye, BAM! [iCU Cinema](http://www.union.ic.ac.uk/arts/cinema/) phwacks you in the gut with an All-Nighter. Six films, back-to-back, from the early evening to 6am the next morning, or until the projectionist goes insane and feeds his hair into the projector, whichever comes first.

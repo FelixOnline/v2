@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Do people actually revise without the TV in the background?
 date: "2011-02-24 19:25:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "861"
@@ -33,15 +34,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m from Devon. Before then, I was from Africa. To entertain myself, I used to climb trees, go hiking, cycle to the beach, and for a few hours a day, do homework/music practice/mess around on the computer. I never really watched TV, and when I did, I always had something in front of me to keep me otherwise occupied. The transition from college kid to student has shown a marked change in my behaviour. I’m in my final year, and, thinking back on it, every year has started and ended with an addiction to a new TV show.

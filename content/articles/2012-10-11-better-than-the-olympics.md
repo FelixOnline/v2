@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caroline Wood reports on the newest sports craze to hit campus
 date: "2012-10-11 20:59:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2659"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Friday, the game famous for ending disputes amongst friends and acquaintances worldwide arrived at Imperial. In what can only be described as probably the most eventful lunchtime of the term so far, Imperial played host to the inaugural Imperial College London Rock Paper Scissors Championship (or RPS, as it’s called by almost nobody). Felix brings you an on the ground report of the lunchtime’s events.

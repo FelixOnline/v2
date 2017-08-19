@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Huge gap between offers and applicants from black and disadvantaged backgrounds even when they’re predicted the same grades
 date: "2016-06-17 08:50:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6269"
@@ -33,15 +34,6 @@ image_height: "3840"
 image_attribution: "Thomas Angus"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 UCAS has released data that shows Imperial is one of the country’s worst offenders in terms of giving fewer offers to black and poorer students.

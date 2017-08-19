@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Elizabeth Windo discusses the good and the bad of the LGBT community
 date: "2017-02-10 13:51:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6749"
@@ -34,15 +35,6 @@ image_height: "1088"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## I found a home in the LGBT community

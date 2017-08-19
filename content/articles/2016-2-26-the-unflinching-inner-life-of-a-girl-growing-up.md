@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eimear McBride’s astonishing novel is transformed into an empowering performance
 date: "2016-02-26 12:00:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5980"
@@ -33,15 +34,6 @@ image_height: "624"
 image_attribution: "Mihaela Bodlovic"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The audience sits calmly, unaware of the storm that is poised to strike.

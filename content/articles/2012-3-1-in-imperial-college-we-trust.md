@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous contributor criticises the Union's choice to allocate funding away from the 'tours pot'
 date: "2012-03-01 22:55:42 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2295"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union’s Clubs & Societies Board (CSB) voted to cut its contribution towards the “tours pot” from £9,000 to £0 at its annual budgeting round on Monday. The move, at the recommendation of Deputy President (Clubs & Societies) Monya Zard, was due to a £7,500 increase in funding from the Imperial College Trust.

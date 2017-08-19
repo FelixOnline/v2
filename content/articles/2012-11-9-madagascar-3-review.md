@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucy Wiles lets her inner child out as she unashamedly watches Madagascar 3
 date: "2012-11-09 13:30:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2859"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 So the first one was good, and the second one was ok. But let’s face it, by the time the third film in a franchise turns up, nobody is expecting very much. But Madagascar 3 is surprisingly good – so good in fact that it currently holds the number two spot in the UK Box Office.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A glimpse into the calorie counting culture promoted by fitness apps
 date: "2016-02-12 11:26:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5901"
@@ -33,15 +34,6 @@ image_height: "3072"
 image_attribution: "Benjamin Watson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s amazing how science can be so fiercely intertwined with a topic as contentious as dieting. The relationship between the two became evident when I attended the past weekend’s most anticipated brainy event – the London Students’ Neuroscience Conference 2016. It heralded a most intriguing symposium on mechanisms of psychiatric disorders, with a special focus on Anorexia Nervosa.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park's Ramblings about Mr Turner
 date: "2014-11-06 19:22:26 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4777"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Acclaimed director Mike Leigh has an array of impressive films to his name. And _Mr Turner _is no exception when it comes to his expert craftsmanship. It is a hugely ambitious biopic, one that covers decades of an eccentric artist’s life, packing the narrative full with rich, colourful settings, memorable characters, and a deep, poignant view into the protagonist.

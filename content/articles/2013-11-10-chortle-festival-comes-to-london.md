@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Come along to London's newsest comedy book festival
 date: "2013-11-10 21:29:44 +0000"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "4048"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The British comedy website Chortle has announced its first comedy book festival – which will take place in Ealing at the end of this month. The festival will open with a stand up gala in Ealing Town Hall, featuring hit comedians including Richard Herring and Shappi Khorsandi. This opening event will be hosted by Logan Murray, known for his appearances in TV shows such as _Peep Show_,_ Packet of Three_ and _Pebble Mill_.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kurukgy looks into the research that earned them the recognition
 date: "2015-05-21 20:15:38 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5549"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Society of Chemistry has recognised two Imperial professors for their world-leading research. Professor Sergei Kazarian from the Department of Chemical Engineering and Professor Elaine Holmes from the Department of Surgery and Cancer have received the awards in the light of new discoveries in the field of concentration measurement, which will improve the effectiveness of pharmaceuticals and medicine.

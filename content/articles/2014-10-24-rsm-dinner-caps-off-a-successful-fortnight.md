@@ -4,6 +4,7 @@ title: >
 subtitle: >
   178 people attended the Annual Dinner at The Rembrandt Hotel, 91 of them freshers from the Materials and Earth Science departments; this reflects the high demand for the social events that the RSM provides for its members.
 date: "2014-10-24 12:41:48 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4746"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The summer months were spent catching up with friends back home, travelling, earning money to blow on rent and, for some, geological mapping. Mixed in with this, the Royal School of Mines committee had carefully planned their start of term activities leading up to the big one: Freshers' Dinner.

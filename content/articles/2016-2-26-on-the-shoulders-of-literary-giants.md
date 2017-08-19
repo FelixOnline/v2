@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Mitchell and Kazuo Ishiguro discuss ghosts, action and what they avoid writing
 date: "2016-02-26 12:01:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5981"
@@ -34,15 +35,6 @@ image_height: "5000"
 image_attribution: "Jeff Cottenden"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was an odd set-up – the 2500-seater Royal Festival Hall packed to the brim, eagerly watching just two individuals on stage. Sat slightly angled towards each other and separated by an unassuming coffee table were two of the greatest literary figures of our time. I was seated right at the back (everything else was sold out), and their figures were dwarfed by the massive screen behind them with their names emblazoned across. Kazuo Ishiguro and David Mitchell may be the only two people on a vast stage regularly used for entire orchestras or dance troupes, but their presence filled the space around them and commanded the attention of rows upon rows of fans, writers, geeks and the curious.

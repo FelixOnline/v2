@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is the end, beautiful friend
 date: "2016-11-11 11:24:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6414"
@@ -33,15 +34,6 @@ image_height: "3168"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 They only went and bloody voted for him, didn’t they? By now if you haven’t seen the news that Donald Trump, the Washington outsider, is the 45th President of The United States then I’m not sure if you’ve actually been conscious since Wednesday. For those of you that read the headline and started weeping before you could get past the opening paragraph, fear not as here’s a deeper look into what occurred.

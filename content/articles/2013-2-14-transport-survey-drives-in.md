@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or it gets the tube, maybe...
 date: "2013-02-14 21:08:50 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3329"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a scientific institution with intense research into energy and climate change, Imperial says it doesn’t take these matters lightly and realises that its everyday activities and operations have a negative impact on the environment and carbon footprint, in particular. Along with other attempts to increase sustainability such as university wide StepChange campaign, which aims to reduce College’s footprint by 20% by 2014, another measure, launched by Department of Energy and Environment, is coming – [annual travel survey](http://www3.imperial.ac.uk/facilitiesmanagement/energy/travelsurvey), which, in addition to staff, also covers students this year.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It might be a great film, but here are some alternatives to Bruce Willis
 date: "2015-11-29 16:48:07 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5785"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I love _Die Hard_. In fact, I’m one of those people who call it one of the best Christmas films of all time. The issue is that I am banned – as we all should be – from watching the film until at least the start of December. Until then, it looks like we need some other action films to fill the void:

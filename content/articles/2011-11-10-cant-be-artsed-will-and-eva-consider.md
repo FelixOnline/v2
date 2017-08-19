@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New exhibitions at the National Gallery and Royal Academy of Arts joins with the Felix Music Night in the capital's latest cultural expeditions.
 date: "2011-11-10 21:39:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1734"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is always difficult, for unfathomable reasons, to make it to even the best of cultural events taking place in your own city. As a tourist, rushing around during a fleeting visit to the newest European cultural capital, visiting every museum in sight is merely second nature. But at home, with time on one’s hands, nothing. Perhaps it is the knowledge that museums will be there the following day, maybe offering a better student rate on Friday evenings to tempt you with. Except that on Fridays, relaxing seems to be the better idea. Or maybe going to galleries or attending concerts and plays appears to be too expensive to suit a student budget.

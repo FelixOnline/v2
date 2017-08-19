@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Summer lovin’, happened so fast
 date: "2016-10-03 16:53:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6300"
@@ -33,15 +34,6 @@ image_height: "2753"
 image_attribution: "BackBorris2012 Campaign Team"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ah, summer. That brief and fleeting moment of respite between the end of one exam period and the start of the next? Well here’s a recap for those of you who either forgot what went down or were on one of those holidays where you’re in a cave for a month because it cleanses your soul.

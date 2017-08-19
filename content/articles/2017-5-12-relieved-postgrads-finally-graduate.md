@@ -4,6 +4,7 @@ title: >
 subtitle: >
   So long and thank you for all the fish
 date: "2017-05-12 15:34:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6932"
@@ -33,15 +34,6 @@ image_height: "1136"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday marked the day of the largest graduation  ceremony at Imperial where more than 3000 doctors, engineers, scientist and “future business leaders” from 93 countries graduated.

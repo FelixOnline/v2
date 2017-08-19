@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dunson - 'Count On It'
 date: "2012-02-23 21:31:36 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2256"
@@ -33,15 +34,6 @@ image_height: "344"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a week where there have been many tracks surfacing from artists of whom I am a big fan, picking one in particular has been tough. Ultimately though there can only be one ‘Rama’s Hip Hop Tune of the Week’ and it comes from someone I only came across for the first time this week whilst bored and surfing the internet.

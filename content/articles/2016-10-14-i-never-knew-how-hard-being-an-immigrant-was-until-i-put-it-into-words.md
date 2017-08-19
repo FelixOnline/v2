@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lef Apostolakis shares the reality of post-Brexit life for an immigrant
 date: "2016-10-14 10:08:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6332"
@@ -33,15 +34,6 @@ image_height: "544"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Being an immigrant was never fun but damn, it really sucks right now. Since the referendum, every week it’s become harder for me to put on a brave face and say everything is going to be OK. Every week I feel less welcome, less worthy, less secure.

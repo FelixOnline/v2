@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michelle Tan looks at some teas from further, er, afield
 date: "2014-12-04 19:12:43 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4993"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Lulla, Etsy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s no secret that Brits are known for being HUGE tea lovers. Songs are written about it, many jokes (sometimes with vicars) are made on the subject – it’s a national institution. But do you know about the many benefits of tea? Thankfully they’re not all hard-to-stomach bitter brews; there are so many different types out there that there is bound to be one that you’ll come to really enjoy the flavours of.

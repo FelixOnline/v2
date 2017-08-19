@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is a clash between civilisation and barbarism – and civilisation must triumph
 date: "2015-11-27 14:19:37 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5775"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the wake of Paris, David Cameron is set to ask the House of Commons to authorise anti-ISIS strikes in Syria. In terms of strategy, this is common sense. The RAF is already striking ISIS targets in Iraq – it is ludicrous to respect a non-existent border that our enemy does not.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Internationally chaired talks fail to deliver reform
 date: "2014-01-24 09:52:05 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4281"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __T__hose who complain that British politicians lack principles should look to Northern Ireland. There is surely no other part of the UK where so many political leaders have such stupid, boring and ultimately harmful principles. Take Edwin Poots, Northern Ireland’s Health Minister, who has spent £37,000 of taxpayer money on his legal efforts to ban gay men from donating blood and £57,000 trying to prevent civil partners from adopting, citing homosexuality as “an illness”. This is the Health Minister.

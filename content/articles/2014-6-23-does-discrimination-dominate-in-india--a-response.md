@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes.
 date: "2014-06-23 13:11:28 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4707"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __Having read Christy Kelly’s article last week asking “Does discrimination dominate in India?”, I couldn’t help but think of the simple answer: yes. In a civilised country like India the treatment of women and “untouchables” is not only completely unacceptable, but also completely unforgivable. However I think it is also wrong to say that the story is as simple as saying that the BJP Party, which was sworn into power a fortnight ago, is to blame. __

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous writer discusses the Union's interference in the democratic process
 date: "2017-02-24 13:50:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6814"
@@ -34,15 +35,6 @@ image_height: "1085"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It's a well known fact that if you’re one of the beautiful people, you’re more likely to be successful in the Union elections. But as well as having beauty be a requirement, there is also a culture of successful candidates being chosen from above.

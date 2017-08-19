@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Every Time I Die
 date: "2012-02-03 11:26:20 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2132"
@@ -33,15 +34,6 @@ image_height: "335"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What better way to wave goodbye to week 4 than with a timely fix of post-hardcore goodness. This week, I’ll be telling you all about __Every Time I Die__. As was the case with the second lesson’s band, __Refused__, Every Time I Die doesn’t strictly belong to the post-hardcore genre but for anyone following this column, this band cannot be missed.

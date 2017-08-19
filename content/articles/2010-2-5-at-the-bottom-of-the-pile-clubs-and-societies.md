@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dan Wan investigates how the Union will act in response to the now necessary College cuts
 date: "2010-02-05 15:33:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "75"
@@ -33,15 +34,6 @@ image_height: "467"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Whilst prospective students to Imperial may suffer from the budget cuts announced this week, current students may be wondering how they will be affected by the deficit left in next year's budget. Although experts have argued that teaching quality will suffer, felix looks into how Imperial's student union will suffer, and effectively any student involved with any of the 300+ Clubs or Societies.

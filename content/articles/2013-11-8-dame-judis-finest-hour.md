@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philomena Director: Stephen Frears Writers: Stephen Frears, Jeff Pope, Martin Sixsmith (novel) Starring: Judi Dench, Steve Coogan Runtime: 98 minutes Certificate: 12A
 date: "2013-11-08 10:02:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4042"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Stephen Frears’ latest “inspired by a true story” drama is a rousing crowd-pleaser that will make you cry and laugh throughout with its extraordinary retelling of what started off as a horrifying event. A child is torn away from his mother, and for 50 long years she has kept this a secret, ashamed of such past, stemming from her long-running faith in the Catholic Church. She finally gathers up the courage to share this painful information, which leads to a desperate search for her long-lost son who she knows nothing about, but who she has never stopped thinking of.

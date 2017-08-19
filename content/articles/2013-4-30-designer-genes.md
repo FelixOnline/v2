@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lily Le isn't talking about Versace...
 date: "2013-04-30 14:39:35 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3505"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Raphael Kim"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 We all fucking love science, but it has to be admitted that, frankly, it can get achingly dull. How many times have you heard the words, “after a month and a half of protocol optimisation, my experiment has failed again! Isn’t this so FUN?” That’s right, never.

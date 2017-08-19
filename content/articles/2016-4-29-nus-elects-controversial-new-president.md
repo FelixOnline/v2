@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Malia Bouattia is their first female black Muslim leader
 date: "2016-04-29 10:08:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6091"
@@ -34,15 +35,6 @@ image_height: "642"
 image_attribution: "NUS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At last week’s NUS conference, delegates from member universities around the UK elected Malia Bouattia as their new president.

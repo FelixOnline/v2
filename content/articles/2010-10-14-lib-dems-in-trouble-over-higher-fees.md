@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The reality of power for the first time in over a century is quickly turning into a nightmare
 date: "2010-10-14 19:20:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "202"
@@ -33,15 +34,6 @@ image_height: "1216"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The last few months have not been good for the Liberal Democrats. With poll ratings plummeting from 23 to 14% since joining the coalition, the reality of power for the first time in over a century is quickly turning into a nightmare. Low party morale and a new (but not, he stresses, New) Labour leader keen to brand the coalition as ‘the nasty parties’ have left the Lib Dem’s top brass finding it increasingly difficult to keep the sizeable left of the party in tow. In short, this is the worst possible time to test the party members’ commitment to the coalition’s shotgun marriage.

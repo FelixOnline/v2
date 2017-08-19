@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Butcher argues that the BBC are alright, what other organisation would publicly grill its boss?
 date: "2012-11-16 17:17:58 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2920"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [BBC](http://www.bbc.co.uk/) has been having an interesting few days. Or at least a small part of the investigative journalism section has. Not only do they fail to broadcast an allegation about [Jimmy Savile](http://www.bbc.co.uk/news/uk-19921658), leaving it to [ITV to do so several months later](http://www.itv.com/news/update/2012-10-04/watch-the-itv-documentary-on-jimmy-savile/), but they [accidentally aired a report from someone suggesting that they had been abused by a former senior polititician,](http://www.bbc.co.uk/news/uk-20348978) when actually it wasn’t the person they meant, even though they never actually gave a name. I know, I’m confused too.

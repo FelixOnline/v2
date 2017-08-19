@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial triumphs in University Challenge quarter-finals
 date: "2016-02-05 11:47:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5862"
@@ -34,15 +35,6 @@ image_height: "750"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Monday evening saw the first outing of the new term for the seemingly unstoppable University Challenge team that is Ben Fernando, Ashwin Braude, Onur Teymur and their captain James Bezer. The team were riding high on the back of their 305-75 demolition of Sidney Sussex, Cambridge, but as we all know, there are no easy games in this league.

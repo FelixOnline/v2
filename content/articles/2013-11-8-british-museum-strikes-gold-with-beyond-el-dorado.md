@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What: Beyond El Dorado: Power and Gold In Ancient Columbia Where: The British Museum, WC1 When: Until 23rd March 2014 Price: £7 students, £9 adults
 date: "2013-11-08 09:44:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4033"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 High in the Andean jungle, to the sound of drums, flutes and trumpets, ‘El Dorado’, the golden one, the future king of the Muisca tribe, prepares to dive into sacred Lake Guatavita. Covered from head to toe in gold dust, he tosses emeralds into the water below as an offering to the ethereal spirits that reside in everyone and everything.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Byzantium: a great vampire tale
 date: "2013-06-05 12:24:11 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3652"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In this day and age when vampires of fiction are all-powerful, untouchable creatures, it’s undeniably refreshing to have a more human spin on the ever popular genre. Plus it’s an extra bonus point to not have to endure a cring inducing love subplot between an immortal and mortal – what we get here is something entirely different – a more patient, slow-burning approach to telling a familiar but not at all predictable story of supernatural beings we can’t ever stop hearing about no matter what.

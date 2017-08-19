@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ernest Gonzales - Natural Traits - Friends of Friends - 2012
 date: "2012-01-19 20:40:17 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2018"
@@ -33,15 +34,6 @@ image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The [scientifically-dubious](http://www.guardian.co.uk/science/blog/2012/jan/16/blue-monday-depressing-day-pseudoscience) ‘[most depressing day of the year](http://www.telegraph.co.uk/finance/jobs/9017631/Blue-Monday-is-most-depressing-day-of-the-year-research-claims.html)’ has past us by without running aground, and unless you’re Maggie Dallman, you’ll probably make it to the end of the month without being [publicly humiliated](http://on.fb.me/A3REbG). Let’s shake off these January blues and start living again. __Ernest Gonzales__, let the beats roll.

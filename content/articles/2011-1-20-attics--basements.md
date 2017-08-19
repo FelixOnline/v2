@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We continue Charlotte Ridler’s chronicles of gigging off the beaten track with three kick-ass music venues
 date: "2011-01-20 20:24:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "625"
@@ -33,15 +34,6 @@ image_height: "184"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Tucked away down side streets, in basements and attics away from the crowds, small gig venues give you the opportunity to see the bands that will be playing the big venues in a year or two’s time up close and personal at a fraction of the price. Here are a few of the best ones:

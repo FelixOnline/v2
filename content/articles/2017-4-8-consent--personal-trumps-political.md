@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The National Theatre production teases wider themes of treatment of rape survivors by the criminal justice system
 date: "2017-04-08 21:02:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6924"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Sarah Lee"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Consent_ is a difficult play to pin down. The story revolves around a group of barristers and their families as they become embroiled in a web of affairs and past grievances. Kitty and Ed are celebrating the birth of their first child with close friends Jake and Rachel, just as it is revealed Jake has been cheating on Rachel with multiple women. Taking different sides in their battle, Kitty and Ed’s own relationship is called into question as we learn Kitty has never forgiven Ed for his own affair, five years ago. At the same time, _Consent_ introduces us to Gayle, a rape survivor. Ed is the lawyer defending her rapist, and his callous attitude to Gayle reflects his lack of remorse in his personal life.

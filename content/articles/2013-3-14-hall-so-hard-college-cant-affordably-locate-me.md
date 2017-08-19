@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial on halls, the new campus, BUCS, elections, and a quick good luck for exams...
 date: "2013-03-14 23:57:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3455"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [And we’re back to some more of the same](http://felixonline.co.uk/news/3463/halls-woes-continue/). Yeah, I get it, I know, it’s been going on for a while. But, hey, if we all just forget this and say “this is boring now let’s talk about the email storm or something else” then we do a disservice to future students. It’s exactly what everyone at the top wants us to do: just forget it, get absorbed in our work/life, and let them just do whatever they want.

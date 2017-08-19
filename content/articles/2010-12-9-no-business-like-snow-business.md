@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lisa Ashari's joyous first experience of snow
 date: "2010-12-09 20:31:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "525"
@@ -34,15 +35,6 @@ image_height: "650"
 image_attribution: "flickr/ricofermistat"
 image_attribution_link: "http://www.flickr.com/photos/54749344@N08/5214127497/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After a month at imperial, my friends had found out that I hadn’t ever touched snow. Naturally I was mildly teased as they took amusement from my winter noobness. As soon as the prospect of snow arrived in the form of a little icon on the BBC online weather forecast, I was over the moon. Of course, I was expecting to wake up to a snow day the next day so when I went to lectures that day I was rather excited. As soon as people said “it won’t settle”, I just nodded and toned down the outward enthusiasm. One Google search later I realised that meant it’ll be in the sky but not on the ground. Sad face.

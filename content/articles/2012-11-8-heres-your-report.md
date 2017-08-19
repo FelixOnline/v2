@@ -4,6 +4,7 @@ title: >
 subtitle: >
   2012 entry will have indication of performance in Horizons courses they take. Exact wording is to be decided. Report card degrees, containing information on extra-curricular activities, may be introduced?
 date: "2012-11-08 23:44:30 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2828"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Higher Education Achievement Record (HEAR)](http://www.hear.ac.uk/) have recently been suggested as an alternative to just receiving a single grade.

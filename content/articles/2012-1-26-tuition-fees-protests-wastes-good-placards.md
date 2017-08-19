@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There other issues that we should be more concerned about than fee increases, writes Stephen Smith
 date: "2012-01-26 22:58:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2072"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Apparently 2012 is going to be a bumper year for protests, and I am quite looking forward to them. As the late Christopher Hitchens once wrote, “seek out argument and disputation for their own sake; the grave will provide plenty of time for silence”. But what would the brilliant man have made of the recent tuition fees increase? Having earned a third class degree in PPE from Oxford, and having achieved in his short life much more of merit than David Cameron – who got a first class degree in precisely the same course – he would probably advise against going to university at all. He’d say that it’s vastly overrated, except for the cheap alcohol.

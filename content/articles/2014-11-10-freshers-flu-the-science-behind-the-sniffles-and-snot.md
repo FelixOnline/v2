@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4851"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Freshers’ Week for most is a time full of new experiences, stepping out of your usual comfort zone and meeting more new people than you could hope to remember. There are very few instances in your life that you will speak to as many strangers in such a short period of time, turning awkward conversations into friendships and introducing yourself so many times that you start to wonder who you are anymore. So with your luggage unpacked and the excitement building, you hold many expectations for the week to come. However, the anticipated roller-coaster adventure that is your first few weeks at University is also likely to bring with it Freshers’ Flu.

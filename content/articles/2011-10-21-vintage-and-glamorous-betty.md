@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Krestas reviews Betty Blythe
 date: "2011-10-21 12:06:10 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1605"
@@ -34,15 +35,6 @@ image_height: "2764"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 London is filled with loads of cafés, which, let’s face it, look almost the same and offer very similar products. That’s why it’s completely OK to feel sick of them. There is, however, a place in London where you can have your coffee or tea like you’ve never have before. It’s small, it’s cozy, it’s friendly, it’s “Betty Blythe”. Named after the Hollywood starlet, “Betty Blythe” is a beautiful, vintage teashop and fine food pantry in west London – just 10 minutes walking from Hammersmith Station.

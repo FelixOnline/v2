@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl looks at Apple’s latest expected and unexpected products
 date: "2012-11-01 22:40:12 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2788"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 t last week’s Apple keynote weall expected just the launch of the new iPad mini, but the keynote proved a surprise as Apple announced more new products and upgrades than most had expected.

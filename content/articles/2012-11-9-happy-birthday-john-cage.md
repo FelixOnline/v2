@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Íñigo Martinez de Rituerto is quiet for 4 minutes and 33 seconds.
 date: "2012-11-09 14:01:04 +0000"
+author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2865"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "im808"
-author_name: "Inigo Martinez de Rituerto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: "http://thebigracket.blogspot.com/"
-author_website_title: "The Big Racket! @ IC Radio"
 ---
 
 4’33’’ of silence, in three parts, for one piano.

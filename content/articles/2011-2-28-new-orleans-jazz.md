@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Betts on the addictive music of Harry Connick Jr.
 date: "2011-02-28 21:31:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "948"
@@ -34,15 +35,6 @@ image_height: "1067"
 image_attribution: "www.harryconnickjr.com"
 image_attribution_link: "http://www.harryconnickjr.com/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 New Orleans music is an addiction. Its diversity portrays every emotional state and as the legendary jazz musician Ellis Marsalis puts it, "at a time when individualism is becoming an endangered species, the sounds of the Bayou represent a celebration of the individual". Put simply, without it life would be emptier.

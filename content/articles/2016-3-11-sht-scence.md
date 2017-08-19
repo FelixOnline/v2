@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists conclude Quebeckers are pervs
 date: "2016-03-11 11:41:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6028"
@@ -33,15 +34,6 @@ image_height: "1517"
 image_attribution: "Ed Bierman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ence, we believe that all science has a purpose, and helps us better understand the fascinating world we all live in. Especially when scientists spend some time exposing the sexual deviances of Quebeckers.

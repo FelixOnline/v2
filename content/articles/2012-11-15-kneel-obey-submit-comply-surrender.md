@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Master is good, by no Masterpiece
 date: "2012-11-15 21:51:52 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2904"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is no denying that Paul Thomas Anderson (Magnolia, There Will be Blood) is the most bold and intelligent director around. He is fearless in undertaking a challenging topic, and his deliberate ambiguity in his characters, the deep complexities, the uncomfortable situations, hard-hitting scenarios, all make their appearances: very little changes in his hotly anticipated The Master. Dense, heavy narrative? Check. Top-notch performances? Check. You get the feeling that there is something great here – an insightful character study of sorts, delving into a struggling man’s psyche, but due to the many obstacles that stand in the way of the film being a widely accessible experience, it sadly misses out on becoming a classic.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We all knew it was last year's worst film, but now its got an award to prove it!
 date: "2011-02-27 19:09:30 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "908"
@@ -34,15 +35,6 @@ image_height: "839"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Los Angeles this weekend was buzzing even more than usual with the awards ceremony seeing the great minds behind Sex and the City 2 and M. Night Shyamalan’s The Last Airbender scooping most of the major prizes. At the 2011 Razzies.

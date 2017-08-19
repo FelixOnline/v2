@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent demands the right to publicly grill election candidates, else #voteicu gets it!
 date: "2012-03-15 22:28:27 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2400"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the Wednesday before elections opened, members of the Union had their questions answered live on STOIC by candidates for the ICU Sabbatical Positions, as well as the faculty union presidents and the student trustees. This is a fantastic idea – if the candidates want our vote, they should be prepared to answer our questions and be subject to our scrutiny.

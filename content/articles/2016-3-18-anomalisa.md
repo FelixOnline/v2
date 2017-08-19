@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:58:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6070"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Anomalisa_ begins with a single voice. Or maybe single voices. Multiple copies of Tom Noonan’s voice pile up over a blank screen, creating a wall of unintelligible sound. It’s a panoply of voices. A cacophony of voices. An oppression of voices.

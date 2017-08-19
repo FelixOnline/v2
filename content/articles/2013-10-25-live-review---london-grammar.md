@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles has an ambivalent experience at Electric Brixton
 date: "2013-10-25 00:30:52 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3931"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As they play, the screens behind London Grammar display visuals of flocks of birds, and wisps of smoke; these are perhaps perfect representations of their music. Transient and fleeting, most of the tracks on their debut album If You Wait begin minimally, swelling to a crescendo as the different elements come together, before ending as quickly and quietly as it began.

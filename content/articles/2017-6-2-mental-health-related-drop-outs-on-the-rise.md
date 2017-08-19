@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s easier to drop out than find support
 date: "2017-06-02 12:23:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6981"
@@ -33,15 +34,6 @@ image_height: "2346"
 image_attribution: "Hey Paul Studios"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In only five years, the number of students who have dropped out from higher education has quadrupled according to data from the Higher Education Statistics Agency (HESA). The findings which were highlighted earlier last week by the Guardian, show that just in 2014-15 a record 1,180 students struggling with mental health left higher education.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Women's rugby that is
 date: "2017-03-10 14:47:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6890"
@@ -33,15 +34,6 @@ image_height: "3024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been an amazing couple of weeks for women’s rugby, with three consecutive wins, all the hard work this season has really started to pay off. Most recently with a glowing 69-10 win over Kingston and a 38-5 win against Roehampton the week before, propelling Women’s Rugby into the South-Eastern Conference Cup Semi-Finals.This improvement can in part be attributed to the decision to focus solely on the BUCS league, and the organisation of weekly weight lifting sessions to supplement their training.

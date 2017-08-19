@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lesson 8: Blakfish
 date: "2012-03-01 23:16:46 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2298"
@@ -33,15 +34,6 @@ image_height: "250"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 This week we’ll be taking a detour into the mysterious world of so-called “math-core”. Math-core is to post-hardcore what Imperial is to UCL: the same, just a bit cleverer. There are countless math-core bands that have left their mark on post-hardcore music but the one I’m reviewing this week is rather more low-key, a hidden gem from none other than Birmingham.

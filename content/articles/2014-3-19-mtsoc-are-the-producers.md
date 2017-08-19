@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.
 date: "2014-03-19 01:22:12 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4488"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __T__his Tuesday, Imperial’s Musical Theatre society invited me to witness one of their final rehearsals – a full run through. And while it was bare bones up on the 10th floor of Physics, I still got to see all the singing, acting and dancing.

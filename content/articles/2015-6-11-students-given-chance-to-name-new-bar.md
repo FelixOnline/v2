@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as voting opens for new Woodward bar
 date: "2015-06-11 22:17:15 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5613"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union are running a poll to name the new student bar out in Acton, located on the site of the new Woodward hall.

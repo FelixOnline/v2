@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This 'War on Terror' nonsense just won't do
 date: "2011-05-20 05:54:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1230"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There is nothing like the threat of being shot in the head, for reassurance. And whether or not the threat of that has befallen you, and I hope not, on the world’s stage there seems to be something of a trend of conflict resolution and a supremacy of liberal ideals. The conflict in northern Ireland seems at an end, there is continued progress of the democracy in South Africa, and the death of Osama Bin Laden signally a deep-if-not-fatal blow to the war on the faceless enemy of terrorism. Yes, terrorism and not ‘terror’. Only Lynn Truss can be said to wage war on a verb.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Firefighters in England and Wales plan to strike on Wednesday 13th November between 10AM to 2PM.
 date: "2013-11-12 18:38:02 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4049"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "The Telegraph"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Firefighters in England and Wales are due to hold a strike this Wednesday as a response to proposed changes to the pension scheme. This will be the fourth such strike this year. The government proposed changes include cutting the pensions of those firefighters who retire early for health or fitness reasons by up to 47.1% to £9,000 a year and increasing monthly pension contributions from £320 to £340.

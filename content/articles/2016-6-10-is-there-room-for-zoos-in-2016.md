@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In a post-Harambe world, should we still be paying to see animals in captivity?
 date: "2016-06-10 08:29:52 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6259"
@@ -33,15 +34,6 @@ image_height: "3022"
 image_attribution: "Anthony"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At the end of last month we witnessed the death of a lowland gorilla in Cincinnati Zoo. Harambe, who was put down during an attempt to rescue a four-year-old  boy who had fallen into the enclosure. A week later and we’re still talking about the incident, debating who’s to blame. However, instead of playing the blame game, perhaps we should be talking about the role of zoos in the 21st century.

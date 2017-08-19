@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Steve Bohnel explains why he couldn’t support either of the main candidates
 date: "2016-11-04 14:49:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6398"
@@ -33,15 +34,6 @@ image_height: "872"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m an idiot.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexander Karapetian discusses issues regarding the NSS's reliability
 date: "2012-02-16 21:59:13 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2203"
@@ -34,15 +35,6 @@ image_height: "453"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 [Our front page story this week](http://felixonline.co.uk/news/2212/flaws-exposed-in-national-student-survey/) uncovered a method students from the Department of Computing found to be able to mass impersonate final year students in the National Student Survey (NSS), effectively skewing the results in favour of Imperial. Of course, the aforementioned technique of programmatically scraping an internal database for the names and CID numbers of final year students may be easy, but is rigging the NSS really that simple?

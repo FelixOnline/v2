@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “This is a fight to the death. For each side the only acceptable outcome is the complete elimination of the other”
 date: "2012-02-09 22:33:47 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2153"
@@ -34,15 +35,6 @@ image_height: "1537"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Oh, so you were expecting a review on a new game? What new game? January and February are hell for game reviews; nothing’s being churned out by the video game companies. So instead, I’m going to take the time to wind the clock back and review a game I played when I was eleven. It was brilliant then and it’s still a masterpiece today. I’m talking about Cavedog Entertainment’s real-time strategy game _Total Annihilation_.

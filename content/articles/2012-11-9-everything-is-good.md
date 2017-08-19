@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England may seem a bit too content by that title, but it's about a band...
 date: "2012-11-09 14:03:08 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2866"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everything Everything at the Village Underground in Shoreditch was certainly a hot ticket; the show had sold out well in advance and obscene amounts of money were being exchanged online to gain entry. As people crammed intothe relatively small venue the anticipation for hearing Everything Everything’s new album was tangible after the huge success which their debut album proved to be. This was the week in which the band got their first top forty hit in ‘Cough Cough’ which rocketed in at number thirty seven. All this proves to me is that the singles charts are fucked beyond saving but apparently it was a reason for celebration, and what better way to celebrate then playing a knock out show in East London.

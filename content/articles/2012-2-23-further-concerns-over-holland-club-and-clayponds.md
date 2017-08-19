@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Postgraduate panel highlights issues
 date: "2012-02-23 23:11:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2263"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Further student concern about the closure of Clayponds and the proposed changes to the Holland Club have been revealed at the discussion forum on postgraduate accommodation and social space held by the [Graduate Students’ Association](https://www.imperialcollegeunion.org/faculty-unions/gsaweb/index,457,ICS.html) (GSA) last Thursday.

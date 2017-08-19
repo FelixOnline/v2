@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dr Isa Abdur Rahman killed while helping British charity at a hospital in Syria. His family and friends have paid tribute to him, and a hospital will be built in his honour.
 date: "2013-05-30 14:42:59 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3646"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "HIHS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 An Imperial alumnus has been killed in Syria after a bomb hit the field hospital where he was treating patients in challenging conditions. Isa Abdur Rahman (pictured), 26, was a medical student at Imperial and was killed while helping the British charity Hand In Hand for Syria (HIHS).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park sets the scene for this year's Oscar Race
 date: "2014-12-04 19:39:37 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5001"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "chrisreedfilm.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s December, which means only one thing. The Oscar Race has officially begun. The New York Film Critics Circle has announced their winners, the Gotham Awards have given out their trophies to the independent films worthy of recognition, the National Board of Review have also announced, the Los Angeles Critics will soon follow, building up the excitement surrounding some of this year’s best films.

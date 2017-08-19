@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dushi Arumuganesan’s guide to London’s most festive frolics this winter
 date: "2011-12-08 22:01:56 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1950"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With just over two weeks left to go, the capital has been transformed into a beautifully illuminated, life-sized snow globe (minus the snow) in the countdown to Christmas day. So here’s your guide to enjoying the best of London’s Christmas highlights this year.

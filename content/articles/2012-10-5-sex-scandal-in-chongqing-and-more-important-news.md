@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marie-Laure Hicks looks into political gossip from the Far East
 date: "2012-10-05 13:04:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2621"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 China is one of the largest and fastest growing economies in the world and (to an extent) the country that gave us Jacqui Chan (I’m totally going to watch Rush Hour now – Tim). At a time when the rest of the world, especially the Eurozone, is turning towards China to solve their (money) problems, China is having its own little personal troubles. The year 2012 is proving to be rich in political gossip.

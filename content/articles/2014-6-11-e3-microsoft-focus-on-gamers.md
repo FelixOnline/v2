@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft.
 date: "2014-06-11 21:40:19 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4671"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It's June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft. It’s fair to say that in the few short months since the Xbox One has been out sales have been less than stellar, or at least less than Microsoft would have hoped. Since its announcement Microsoft have made more U-turns than the coalition government. Last May we were presented with this potentially brave console that aimed to revolutionise how games consoles interacted with our televisions both as a set top box and also through Kinect. Unfortunately the whole thing was laced with this rather unpleasant and restrictive rules on gamer ownership essentially aiming to destroy your ability to sell or even lend your games.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nobody's horsing around
 date: "2012-02-23 21:36:22 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2257"
@@ -34,15 +35,6 @@ image_height: "2441"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 It’s actually getting pretty tough to remember how many polo nationals I’ve been to these days. However, this year, with a new venue in the Midlands, we were expecting something a bit different and a bit special. With some stunning new club shirts courtesy of the extremely generous Rydges Hotel Kensington and the attached Polo Bar on Gloucester Road we felt confident that we were going to at least look the part; with marginally more practice as a team this year than on previous occasions we had fingers crossed for a strong finish.

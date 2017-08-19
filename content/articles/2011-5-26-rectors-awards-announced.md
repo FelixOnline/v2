@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Academics affected by Life Sciences restructure among those recognised for teaching excellence
 date: "2011-05-26 18:32:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1249"
@@ -34,15 +35,6 @@ image_height: "1077"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The recipients of the annual Rector’s Awards for Excellence in Teaching and in Research Supervision have been announced this week. The staff honoured range across departments and faculties and include two academics who were affected by the Life Sciences restructure.

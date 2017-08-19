@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grace Rahman reflects on Madame JoJo’s rich past and uncertain future
 date: "2014-12-04 19:21:24 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4996"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Emir Shad"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Music fans were left mourning the loss of another one of London’s live music venues last week, after Westminster council permanently revoked the licence of Madame JoJo’s in Soho, after their appeal against the initial ruling failed. For years, this had been the home of White Heat, an indie night that’s seen the likes of __The xx__, __Adele__, __Lorde__, and __Horrors__ grace it’s stage before they made it big, as well as being a favourite haunt of Imperial’s own Alternative Music Society. The council’s decision was seen as inevitable by many, considering the planned revamp of the whole area by developers.

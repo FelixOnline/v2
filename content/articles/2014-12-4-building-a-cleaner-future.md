@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Prashant Mahendran reports on the third London Climate Forum
 date: "2014-12-04 18:49:47 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4989"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ziyaun Mao"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The forum’s third year sees its growth to an even bigger event, keeping up with the pressure of climate change itself.

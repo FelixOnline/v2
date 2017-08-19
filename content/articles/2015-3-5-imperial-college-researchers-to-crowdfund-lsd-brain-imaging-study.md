@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Researchers hope to produce the world's first scans of a human brain on LSD
 date: "2015-03-05 20:07:00 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5337"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "The Beckley Foundation"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists from the Department of Medicine are reaching out to the public in an attempt to source the funding required to complete the final phase of their research. The study hopes to generate the first ever images of the brain of a person experiencing the effects of the psychedelic drug.

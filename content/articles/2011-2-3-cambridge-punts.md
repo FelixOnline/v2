@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or why the size of your laser doesn’t determine the quality of your university experience
 date: "2011-02-03 20:21:10 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "743"
@@ -33,15 +34,6 @@ image_height: "1726"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I was, as usual, fighting a losing battle.

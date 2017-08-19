@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will recognition affect the TEF ratings this June?
 date: "2017-05-12 16:16:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6936"
@@ -33,15 +34,6 @@ image_height: "612"
 image_attribution: "Darin McClure"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the Easter break, Imperial has shockingly managed to bag not one but two distinctions leaving students to wonder whether this was an April Fool’s joke. First IC won the Student Experience prize at the Guardian University Awards 2017 and shortly after, it got recognised as a centre of excellence in cyber security research.

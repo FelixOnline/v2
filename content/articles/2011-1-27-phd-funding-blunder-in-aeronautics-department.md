@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Department failed to tell students their bursary was being reduced
 date: "2011-01-27 18:24:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "652"
@@ -34,15 +35,6 @@ image_height: "4008"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Eleven PhD students in the [Department of Aeronautics](http://www3.imperial.ac.uk/aeronautics) have been left angered and confused after their monthly bursary payments were cut in December and January. No forewarning was given to the students; a blunder described as “unfortunate” by the Head of Department.

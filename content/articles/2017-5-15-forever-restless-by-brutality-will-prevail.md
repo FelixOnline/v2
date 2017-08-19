@@ -4,6 +4,7 @@ title: >
 subtitle: >
   BWP have really pulled it out of the bag with this sludge influenced hardcore album
 date: "2017-05-15 17:17:01 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6960"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: "holyroarrecords"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Plagued by member changes and after releasing a couple of pretty disappointing albums at the end of 2014, Brutality Will Prevail’s stock had taken a real hit. As one of UK Hardcore’s leading lights in the early 2000’s they built up a following alongside other alumni such as Hang the Dastard, Last Witness and Dead Swans. After their disappointing album Scatter The Ashes I was pretty cautious to ensure that I didn’t get my hopes up too much when listening to their new album In Dark Places.

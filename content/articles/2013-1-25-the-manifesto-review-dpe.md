@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Doug Hunt , Deputy President (Education) wasn’t a mug and voted for Doug. He sees what he has and hasn’t done this year...
 date: "2013-01-25 02:03:19 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3191"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I warn you now that this article is a bit dry but that is just the way I am.

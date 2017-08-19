@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The days of the printed newspaper are numbered, argues Marie-Laure Hicks, as the salad days of social media see a decline in the printing of broadsheets and Berliners
 date: "2011-12-08 20:03:21 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1907"
@@ -33,15 +34,6 @@ image_height: "627"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Take the tube and read a newspaper. Most people there are doing the same, but their number is in rapid decline. Between 2007 and 2009, newspaper circulation dropped by 25% in the UK. Only the US saw a heavier decline. This $50bn business, employing 400,000 people in the US alone, is in trouble. In the space of two years, eight major newspaper chains have declared bankruptcy and newsrooms have been cut by a quarter. British newspapers have also needed to lay off workers. The newspaper industry is living its worst crisis since the Great Depression.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Physicists perform direct measurement of photon wavefunction
 date: "2011-06-16 19:49:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1386"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Physicists have come one step closer to unveiling the elusive quantum world with a new experimental method developed by Canadian scientists. The article, [published in Nature](http://www.nature.com/nature/journal/v474/n7350/full/nature10120.html), shows how a team from the [National Research Council of Canada Institute for National Measurement Standards](http://www.nrc-cnrc.gc.ca/eng/ibp/inms.html) were able to perform a direct measurement of the wavefunction of a photon, which is the elementary unit, or ‘quanta’, of light.

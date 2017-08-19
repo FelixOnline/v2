@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Morgan Heycock describes the RAG Dollz adventure to Paris
 date: "2015-02-13 15:16:45 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5257"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Bella Dennis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After 5 hours of nervous sleep and a night spent discussing almost military tactics, myself, Sophie Johnston and Will Daubney waited in Beit Quad for 09:00 to pass with trepidation.

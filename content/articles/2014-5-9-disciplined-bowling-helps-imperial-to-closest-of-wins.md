@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With the sun and the schedule finally coalescing in a fashion allowing for a match, the Imperial 2’s kickstarted our 2014 season in the best possible fashion, delivering a win for new skipper Sam Mead.
 date: "2014-05-09 15:55:19 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4591"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Arvind Rajagopalan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 With the sun and the schedule finally coalescing in a fashion allowing for a match, the Imperial 2’s kickstarted our 2014 season in the best possible fashion, delivering a win for new skipper Sam Mead. Having lost the toss on a “dry” wicket, we were put in to field and pressure was on the frontline seamers to make best use of the new ball. The skipper himself led from the front, prising out 2 top order wickets with some good accurate bowling. He was ably supported by Nick Dunn from the other end, who was making the best use of the “mysterious” Harlington bounce and was unfortunate not to take wickets in his first spell. He was, however, able to completely tie up one end, finishing with a scarcely believable economy rate of 1.50. Johan Rekers was in as first change and chipped in with a wicket as well, along with a rather comical bouncer attempt which he insists was off a “good length”.

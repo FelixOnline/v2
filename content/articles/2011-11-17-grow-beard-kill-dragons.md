@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven on The Elder Scrolls V: Skyrim and incredible manliness
 date: "2011-11-17 20:44:35 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1764"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Skyrim is a foreign country: they do things differently there. I’ve been trekking its sunny snow-packed hills and alpine meadows for seven days now, but apart from an incredible beard I’ve little to show for it. I know I ought to be more dependable; I know there’s a lot at stake. I know that dragons have suddenly returned to the world, and I know that, as one of the Dragonborn, it’ll probably turn out to be my problem. But with so many rabbits to chase, flowers to pick and butterflies to eat I’m finding it hard to concentrate on any of the many tasks at hand.

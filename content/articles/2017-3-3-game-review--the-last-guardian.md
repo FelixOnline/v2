@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Last Guardian is out on the Playstation 4
 date: "2017-03-03 15:54:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6851"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: "genDESIGN and Sony Interactive Entertainment"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is, without a doubt, a truly phenomenal game. Created by the minds over at genDESIGN (previously Team ICO), it bears a striking resemblance to both of their previous games, Ico and Shadow of the Colossus. In Ico you played a boy guiding a helpless young girl through a castle in an attempt to escape, while Shadow of the Colossus tasks you with finding and killing 16 monstrous beasts. Despite being so different, the two games seem intrinsically linked and The Last Guardian seems to be a marriage of the two, as you partner with a massive beast to escape a ruined castle.

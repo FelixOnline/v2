@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The best of the bunch from Sci Fi society
 date: "2013-09-29 15:18:44 +0100"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3779"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Wasp - Eric Frank Russell__

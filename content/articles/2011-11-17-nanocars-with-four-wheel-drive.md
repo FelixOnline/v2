@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Four molecular motors come together to make molecular car
 date: "2011-11-17 20:18:34 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1755"
@@ -33,15 +34,6 @@ image_height: "625"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers at the University of Groningen, Netherlands have announced that they have succesfully produced a single-molecule ‘car’, capable of moving by use of its four ‘wheels’ when excited by a scanning tunnelling microscope (STM). This announcement follows previous research by the group, led by Ben Feringa, into light-driven molecular motors, first reported in 1999.

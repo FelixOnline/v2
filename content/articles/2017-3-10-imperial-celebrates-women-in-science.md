@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gender equality comes to the forefront
 date: "2017-03-10 13:16:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6865"
@@ -33,15 +34,6 @@ image_height: "800"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tuesday evening saw the launch event of the Women@Imperial Week in the College Main Entrance. Women@Imperial Week is an annual celebration of the achievements of past and present female staff and students at Imperial.

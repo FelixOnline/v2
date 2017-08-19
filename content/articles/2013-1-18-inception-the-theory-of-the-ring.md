@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An analysis of the real story told by Nolan’s movie and a different vision of the ending
 date: "2013-01-18 01:12:30 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3151"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ok, yes, I am two years late. I am aware of that. I am also aware of the fact that everyone has now seen Inception, discussed it, explained it and looked for the mathematical inconsistencies of the dream world (although I suspect the latter is only true for Imperial students). What more can possibly be said about it after two years?

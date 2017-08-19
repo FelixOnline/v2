@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg is let down by the Orange Tree Theatre’s play
 date: "2015-03-25 13:29:56 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5452"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Robert Day"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The joy of carnival is infectious. Dressing up, getting drunk and parading around town to the sound of steel drums: what could be better? Every culture has a different spin on carnival, but few know how to do it better than the Trinidadians’ annual _Play Mas_.

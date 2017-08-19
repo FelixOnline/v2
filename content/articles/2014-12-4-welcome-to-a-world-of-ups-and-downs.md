@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chrysostomos Meli looks at how you will be paying for things in the future
 date: "2014-12-04 19:24:35 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4997"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Silicon Valley has for some time now declared an all-out war on our non-electronic habits, changing them to fit around their technology. It has been a gradual process but thinking about it, we certainly don’t read books the way we used to. Writing an essay barely involves a pen anymore, we can go grocery shopping without even leaving the house and our fitness regime is becoming a lot more informative. It now seems tech companies have got their eyes set on the way we pay.

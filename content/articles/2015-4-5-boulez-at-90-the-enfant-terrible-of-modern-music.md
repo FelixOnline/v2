@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th century’s most controversial composers
 date: "2015-04-05 13:00:38 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5461"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "BBC Radio 3"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pierre Boulez is _the_ controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa. But read past these shocking soundbites and you may find yourself in fact following his arguments. Indeed the vast literature he has produced throughout his career has swayed many, undoubtedly influencing the course of music history, and it certainly does display a penetrating and unabashed intelligence. Of course, his music is the true testament to this: original, endlessly thought provoking, and constantly being reinvented; the Guardian says “it is impossible to imagine […] the entire musical world without Pierre Boulez”. But then why haven’t you heard of him? And, at the recent 90th birthday celebrations at the __Barbican__, why was the hall half empty?

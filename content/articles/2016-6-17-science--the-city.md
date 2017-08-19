@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular science column
 date: "2016-06-17 09:11:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6278"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year has come to an end. We’ve jammed and transformed our brains, learning some things better than others. We’ve prepared ourselves with the tools we need for the next chapter in our lives. As we all go our own ways this summer (unless you’re stuck here on campus toiling away while everyone jovially twirls outside in their freedom, like me) what are the really important things to remember from all we’ve experienced this year?

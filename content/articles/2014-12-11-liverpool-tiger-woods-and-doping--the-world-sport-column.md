@@ -4,6 +4,7 @@ title: >
 subtitle: >
   For the last time in 2014, Kunal Wagle rounds up the week's sport news
 date: "2014-12-11 23:41:50 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5045"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Liverpool saw their Champions League dreams end with a 1-1 draw against Basel. Brendan Rodgers’ team needed to win to qualify, but will instead have to settle with the Europa League. Arsenal, who had already qualified, thumped Galatasaray 4-1, with Aaron Ramsey scoring an early contender for goal of the season. Manchester City qualified as well, courtesy of a 2-0 win in Rome.

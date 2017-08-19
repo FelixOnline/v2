@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The white crystalline powder that really drives us mad
 date: "2017-02-03 18:13:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6739"
@@ -34,15 +35,6 @@ image_height: "959"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The dictionary definition of a drug is either “A medicine or other substance which has a physiological effect when ingested or otherwise introduced to the body” or “A substance taken for its narcotic or stimulant effects”. Each of these definitions are perfectly valid, and classify drugs as having either a medicinal or recreational purpose. This is all well and good, but what happens when the lines are blurred? Ingesting caffeine results in stimulation, leading many to take coffee frequently as their opium, yet society views only one of these addictions to be harmful (bet you can’t guess which one).

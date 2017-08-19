@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You should be more worried about Theresa May’s new Investigatory Powers bill
 date: "2015-11-13 14:29:50 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5724"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Indira Malik"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Since Edward Snowden’s leaks in 2013, many have compared the British state to The Party from George Orwell’s prophetic Nineteen Eighty-Four. The Party seeks power; not to improve the lives of others, but entirely for its own interests. From the transceiving television sets used to monitor the citizens’ thoughtcrime (the act of socially unacceptable thoughts), there are many areas where Orwell’s fiction now overlaps with the reality of 21st century Britain.

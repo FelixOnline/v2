@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Experiments are due to start in April after a lengthy battle against red tape
 date: "2015-02-20 00:02:08 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5279"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers from the Department of Medicine will perform the first human trials in nearly half a century into the medical benefits of psilocybin, the active compound in magic mushrooms. The pilot study will focus on the potential of psilocybin to help patients with depression who have failed to respond to conventional treatments.

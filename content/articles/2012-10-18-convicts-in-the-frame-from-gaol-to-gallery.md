@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lily Le looks at some art from behind bars, by which we don't mean that she is at a pub...
 date: "2012-10-18 21:00:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2687"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The current exhibition at the Royal Festival Hall at the Southbank Centre consists of paintings, poetry, sculptures, textiles, and videos by offenders, secure patients, and detainees.

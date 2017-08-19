@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Women’s 2nds dispatch Portsmouth 1sts with ease
 date: "2012-01-20 12:06:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2040"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Indy Leclercq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Wednesday, the Women’s 2nd Fencing Team played, and won, the fifth competition in their league, leaving them in third place with a total of three wins and two losses. The competition was the first one of the term, and saw a confident team facing Portsmouth’s First Team at home.

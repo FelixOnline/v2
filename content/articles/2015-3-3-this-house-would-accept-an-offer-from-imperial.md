@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICU Debating Society discuss
 date: "2015-03-03 20:37:04 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5332"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Proposition: Bruce Weaver__

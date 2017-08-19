@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe reports on the highs and lows of designer drugs
 date: "2014-11-06 19:41:09 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4781"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The UK Misuse of Drugs Act introduced in 1971 is widely regarded as the most epically failed governmental campaigns to prevent drug distribution and usage. By introducing complete prohibition it effectively promoted an underground black-market in drug trade, condemned addicts to conviction rather than treatment, and prevented any form of research on the drug’s potential medical benefits. Cameron even said himself (and I kid you not): “Politicians attempt to appeal to the lowest common denominator by posturing with tough policies and calling for crackdown after crackdown. Drugs policy has been failing for decades”. It’s interesting how this opinion changed once he became leader of the conservative party…

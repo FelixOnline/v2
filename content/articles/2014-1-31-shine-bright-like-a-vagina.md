@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the silver lining that is coming to a crotch near you
 date: "2014-01-31 17:16:41 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4315"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "images-of-elements.com"
 image_attribution_link: "http://www.images-of-elements.com"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 What’s hard, metallic and found down your pants? Despite the common answer to this usually referring to some sort of recreational, copulation mimicry device, perhaps owned by a maternal figure, this time, the answer may in fact be an anti-viral cream.

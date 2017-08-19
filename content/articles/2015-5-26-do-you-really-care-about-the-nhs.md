@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman definitely does, and so does Michael Wynne, writing for the Royal Court.
 date: "2015-05-26 13:41:45 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5565"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The title of Michael Wynne’s latest work, _Who Cares_, is both deliberately provocative and perfectly explanatory of what the audience entering the __Royal Court__ have signed themselves up for. This production for the Jerwood Theatre Upstairs is less ‘state of the nation’ and more ‘state of the national health service’, a no-holds barred examination of how the NHS has fared, is faring, and will fare under the previous and future governments.

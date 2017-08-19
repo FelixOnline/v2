@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Excellent scramble defence kept Surrey just short of the line
 date: "2017-02-10 16:43:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6775"
@@ -33,15 +34,6 @@ image_height: "1944"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A man with a Scouse accent, unfortunate bowels and admittedly good tackling technique once said: ‘Imperial have never won a game without me’. The record remained standing as IC 1s dominated the set-piece to win a comfortable away victory against Surrey. Man of the Match Tom ‘Shuz’ Szyszko put in an admirable shift as the forward pack won themselves a penalty try after numerous scrums on the opposition five metre line. Strong defence around the ruck kept Surrey’s attack to a minimum, although some slow folding caught IC off guard out wide a few times. However, excellent scramble defence kept Surrey just short of the line and IC were soon back on the front foot, and a late first half penalty helped Imperial lead 10-0 at the break.

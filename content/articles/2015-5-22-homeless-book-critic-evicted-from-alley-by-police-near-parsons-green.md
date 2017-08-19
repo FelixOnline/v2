@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as student who prints his reviews leads protests
 date: "2015-05-22 11:08:00 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5559"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An Imperial student has reached out to homeless man Mark Burns, 43, by publishing his book reviews online. Mark lives in a tent in the alleyway behind a tube stop, and reads and reviews books given to him by passing commuters.

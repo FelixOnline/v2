@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new use for therapeutic nanoparticles in diabetes treatment
 date: "2012-05-10 20:14:53 +0100"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2445"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers in New York have engineered a way to non-invasively trigger gene activation in live animals using nanoparticles and radio waves, a method that may, in the future, be used to remotely control genes in humans for medical purposes.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-21 23:52:27 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3350"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is fear in the College Council that the contractor, ISG, who have the £39 million construction contract for the accommodation blocks at the new White City campus, may not be hitting their “target completion date”.

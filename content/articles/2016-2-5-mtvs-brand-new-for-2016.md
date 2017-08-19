@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bloc Party were not on form
 date: "2016-02-05 12:38:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5879"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: "Aiden Langan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The second of MTV Brand New for 2016 showcases hit Camden’s Electric Ballroom on Wednesday 27th January, featuring up-and-comers **Nimmo** and **Rat Boy** alongside noughties indie legends **Bloc Party**.

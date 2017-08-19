@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl asks the question we are all considering at the moment.
 date: "2014-11-28 01:05:25 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4974"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wigan Athletic Football Club"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Racism is unacceptable. Regardless of who you are, the situation you find yourself in, or any excuses you may offer up, the moment you bring up someone’s race is the moment that you have crossed the line. However, there seems to be one area where casual racism is endemic, and is rarely punished. I am talking about football. If you Google football and racism, you will come upon scores of results, and ones about the lack of it are rare.

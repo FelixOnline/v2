@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A slew of new features for Android revealed at Google I/O 2013!
 date: "2013-06-06 17:47:18 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3666"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Google I/O has traditionally, for the past few years at least, been an event where Google unveils the newest and shiniest version of Android to the world. Although open source, Android is developed in-house with little known to the outside world save through the usual rumours and leaks. It’s been no different this year. Prior to Google I/O, there has been signs of a new version of Android, version 4.3 and widely believed to be a new iteration of Jelly Bean showing up in server logs. The talk of the grapevine was that this version would be unveiled during the I/O event.

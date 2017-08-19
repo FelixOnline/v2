@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICSE fills us in on their weekend away
 date: "2016-03-18 12:04:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6075"
@@ -34,15 +35,6 @@ image_height: "1295"
 image_attribution: "Jonathan Rawlinson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We all know that feeling. The moment of closure as something wonderful comes to an end. You look back and realise that it will stay with you for many years to come,  as a glowing memory in your life. This year’s weekend away  has been one of those moments for us!

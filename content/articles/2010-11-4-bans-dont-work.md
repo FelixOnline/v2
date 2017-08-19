@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our out-dated attitude to drugs is doing more harm than good. Legalising them is the most sensible solution.
 date: "2010-11-04 18:52:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "317"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Since the not so level-headed Mephedrone debate you’d have hoped that people could see how prohibition can only lead to problems and that legalisation of narcotics isn’t such a bad thing, but judging from the idiotic grumbles I keep hearing, it seems people still aren’t quite getting it.

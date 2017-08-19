@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The TEKUA project comes to London in co-operation with local businesses and Imperial College students in order to raise money towards better Tanzanian education
 date: "2011-12-01 20:22:56 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1868"
@@ -34,15 +35,6 @@ image_height: "624"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From the streets of Manhattan to the crowded squares of Europe, much of the recent media attention has been devoted to the extravagant protest of those who call themselves “Indignados”. Thousands have taken to the streets, forcibly occupying major landmarks in protest against financial injustices inflicted on them by the capitalist system. But amidst all of the ruckus, hidden deep in the background, is the persistent call for help of a people who are so often forgotten and largely ignored by the mass media of the Western World. I am talking about the atrocious statistic reporting the 92% of young Tanzanians who cannot afford to pay for secondary school. While the noisy protest aims of the “occupy” group are often sympathised with by Westerners, the silent cry of millions of Tanzanians who are denied an essential human right often falls upon deaf ears. It is to change this gruelling reality that a group of Imperial students has chosen to speak out and take concrete action. Rather than forcibly occupying town squares and pointing fingers at potential culprits, we have decided to adopt a different approach by reaching out to local businesses in search for potential fundraising opportunities. The target of all our efforts is an inspirational education establishment in north eastern Tanzania, called the TEKUA project.

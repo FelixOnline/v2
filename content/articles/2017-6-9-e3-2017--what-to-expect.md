@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Qasim Mahmood spills the beans on what to look forward to from E3 this weekend
 date: "2017-06-09 15:30:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7019"
@@ -33,15 +34,6 @@ image_height: "1116"
 image_attribution: "Sergey Galyonkin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The biggest gaming event of the year is right around the corner; all the biggest gaming companies will be taking the stage to announce their plans for the upcoming year and showcase brand new games and consoles.

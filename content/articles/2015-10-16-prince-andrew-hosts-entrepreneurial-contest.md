@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sixth in line to the throne visits Imperial
 date: "2015-10-16 14:05:12 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5654"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London / Layton Thompson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Wednesday saw the Duke of York come to Imperial, to host his Pitch@Palace entrepreneurial competition.

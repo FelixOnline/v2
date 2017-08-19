@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Any small changes have a big influence globally
 date: "2016-05-27 08:54:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6210"
@@ -33,15 +34,6 @@ image_height: "854"
 image_attribution: "Chrisopher Michel"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Antarctica boasts the largest mass of ice on earth, a colossal 27 million km3, comprised of three vast ice sheets: the East, the West and the Antarctic Peninsula. With warming seas and climbing temperatures, scientists focused their attention on the West Antarctic Ice Sheet, due to its vulnerability to rising water temperatures, being grounded far below sea level.

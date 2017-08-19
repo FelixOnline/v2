@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A step-by-step guide to creating a successful iPhone app
 date: "2011-01-27 19:24:52 +0000"
+author_id: "jl4310"
 
 # Attributes from Felix Online V1
 id: "668"
@@ -33,15 +34,6 @@ image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jl4310"
-author_name: "Jacob Lea-Wilson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jakeisrowing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Chances are you’ve read about the 14-year-old that recently [designed a mobile application for the iPhone](http://www.guardian.co.uk/technology/2011/jan/18/angry-bird-bubble-ball-itunes), which proved to be incredibly popular. So popular in fact it knocked your friend and mine, ‘Angry Birds’, off the top spot to earn the American teenager the position of number 1 free app in the UK. Upon your reading of this news you may well have thought to yourself ‘well I could do that, I’ve had hundreds of ideas for apps’. Everyone seems to like saying this, but very few actually put their wallet where their iPhone is and invest some time in their idea. Why not follow our How-To guide to become the next ‘Paper Toss’ success story.

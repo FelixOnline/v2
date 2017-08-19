@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another victory for the ladies
 date: "2013-01-18 01:01:31 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3147"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the first match this year it was definitely thermal weather as the Ladies’ 1s went out to play RUMS in the arctic conditions found at Harlington, on a pitch that was nearly frozen, although this didn’t put a damper on our spirits. We were out to get them, as earlier in theseason they had beaten us by a fair few goals to very few in return.

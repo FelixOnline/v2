@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pirates of Carthage looks at social media’s pivotal role in bringing down Ben Ali
 date: "2012-01-19 21:28:34 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2030"
@@ -33,15 +34,6 @@ image_height: "856"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Beyond being an interminable stream of the thoughts of Lethal Bizzle, Twitter for this reviewer had always been just another tool for procrastination. In 2006, many of the angel investors running their rule over the nascent microblogging site figured the same. To have said to them then that tweets of 140 characters would one day be enough to catalyse the downfall of governments, they would have dismissed you as mad. How wrong they all were.

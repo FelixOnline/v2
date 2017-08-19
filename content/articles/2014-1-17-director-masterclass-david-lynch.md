@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as Eraserhead (1977), Blue Velvet (1986) and Mulholland Drive (2001).
 date: "2014-01-17 04:04:20 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4249"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as _Eraserhead_ (1977), _Blue Velvet_ (1986) and _Mulholland Drive _(2001). He also directed the more mainstream _Elephant Man_ (1980). Though the he has been making films for 37 years there has been a set of aesthetics and themes throughout his work which bind them together to create a consistent body of work. Critics Le Blanc and Odell stated that “his films are so packed with motifs, recurrent characters, images, compositions and techniques that you could view his entire output as one large jigsaw puzzle of ideas.”

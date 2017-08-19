@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma finally hooks up a XBox controller
 date: "2014-12-04 19:34:03 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5000"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Kickbeat describes itself as “an innovative rhythm game with a kung fu theme, featuring fully 3D characters and high-energy music!” Which sounds pretty good. The reality is not quite as good as it seems at first.

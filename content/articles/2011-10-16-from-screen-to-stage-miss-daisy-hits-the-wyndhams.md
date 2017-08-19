@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Film classic returns to its roots, with Jones in driving seat
 date: "2011-10-16 14:24:05 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1545"
@@ -33,15 +34,6 @@ image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Vanessa Redgrave and James Earl Jones are acting royalty, both on stage and screen, whose careers have spanned decades and yet show no sign of slowing down. Standing tall in both stature and talent even at their admirable ages of 78 (Redgrave) and 80 (Jones), the two veterans still command the stage like never before, and it is precisely their excellent performances that make this production of “Driving Miss Daisy” worth every penny, which is why this very limited 12-week engagement in Wyndhams Theatre, Leicester Square is an experience you cannot afford to miss.

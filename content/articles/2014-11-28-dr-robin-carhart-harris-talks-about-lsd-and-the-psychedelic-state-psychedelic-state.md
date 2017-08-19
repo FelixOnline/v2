@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4971"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Complete understanding behind the powerful effects of psychedelics on the mind has remained a mystery for many decades. Over 60 years has passed since the first discovery of lysergic acid diethylamide (LSD) and since then surprisingly little concrete knowledge of its effects on the brain has been established.

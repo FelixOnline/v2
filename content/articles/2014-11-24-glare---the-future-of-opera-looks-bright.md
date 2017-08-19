@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland examines the ROH’s new production
 date: "2014-11-24 12:22:53 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4936"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Photo: Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A blinding light descends on the crowd, momentarily dazzling us. In that moment, the world of this production descends, transporting us into a dystopia, disconcertingly similar to our own, where nothing can be taken for granted.

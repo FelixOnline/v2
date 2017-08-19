@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX visits The Muffin Man Tea Shop for afternoon tea.
 date: "2016-05-20 09:18:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6190"
@@ -33,15 +34,6 @@ image_height: "3000"
 image_attribution: "Wikicommons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you had to pick one dish that represents Britain, what would it be? Mine would definitely be the traditional English afternoon tea. Probably the same as any typical Chinese girl.

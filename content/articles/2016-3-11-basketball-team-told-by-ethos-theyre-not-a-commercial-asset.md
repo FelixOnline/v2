@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Their slots had already been cancelled twice in three months without notice
 date: "2016-03-11 11:20:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6017"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "Katerina Stavri"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend Imperial’s 1st Basketball team were told as they arrived for a tournament they had organised that their court booking had been given away to a birthday party.

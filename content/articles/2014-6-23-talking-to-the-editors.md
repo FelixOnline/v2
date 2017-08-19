@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the year comes to a close we hear from the Felix Editor and his successor.
 date: "2014-06-23 14:34:50 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4711"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 ## ## __Joe__

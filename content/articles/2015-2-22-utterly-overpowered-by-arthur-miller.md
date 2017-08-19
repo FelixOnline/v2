@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg is emotionally blown apart at Wyndham’s
 date: "2015-02-22 17:44:28 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5305"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have a confession to make. In my ignorance, I know practically nothing about Arthur Miller. Arguably one of the greatest playwrights of the twentieth century, at least a superficial understanding of Miller’s work should probably be expected from me, but not even that can I offer. Clueless, but with great anticipation, it was in this mind-set that I walked into the __Wyndham’s Theatre__ for their production of _A View from the Bridge_.

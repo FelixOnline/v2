@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pop Cosmos proves the collective are still kind of relevant
 date: "2016-05-27 08:58:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6214"
@@ -33,15 +34,6 @@ image_height: "546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Thursday’s Pop Cosmos was another of PC Music’s rare live shows, assembling together the collective for an evening of non-stop music. In the run up to the event at London’s Scala, gig-goers are told that this is an evening to “lose yourself in an immersive journey to the end of time.” The stage is decorated with poorly made space-age objects, and the merchandise stand is lined with reflective foil as if it were the outside of a space-craft. It’s as if the collective are suggesting they are from the future, or at least accelerating at the speed of light towards it. I believe this understanding of PC Music is incorrect – future music is not headed in this direction. They are instead a reaction to mass consumerism and hyper-marketisation, critiquing the present.

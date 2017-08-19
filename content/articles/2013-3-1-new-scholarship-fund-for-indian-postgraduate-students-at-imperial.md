@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alumni help to create funded degrees
 date: "2013-03-01 00:43:20 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3408"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Indian alumni and Imperial College London are launching a programme of new PhD scholarships for Indian postgraduates. The scholarships will be available to those who have a degree from an Indian institute and are in financial need. The website states that “priority will be given to who have not already completed a degree at a higher education institution outside India.”

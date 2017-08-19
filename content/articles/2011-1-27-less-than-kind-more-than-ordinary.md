@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A brand new old-fashioned play, full of 1940’s atmosphere
 date: "2011-01-27 19:42:03 +0000"
+author_id: "wsp10"
 
 # Attributes from Felix Online V1
 id: "673"
@@ -33,15 +34,6 @@ image_height: "3307"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "wsp10"
-author_name: "William Prince"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everybody, it seems, loves Terrence Rattigan at the moment – or Terry, as the people who sat next to me during the Jermyn Street Theatre’s production of Less Than Kind, insisted on calling him. Last summer, After The Dance at the National Theatre paved the way for Terry’s centenary year in 2011 and the Old Vic is bringing their rendition of Cause Célèbre to the stage in March – be sure to watch this page for details. And whilst the latter two sought to add clout by drafting in big names, the Jermyn Street Theatre (JST) has taken a different approach entirely. Rather than trawl ES Magazine for glossy faces, it seems they’ve been venturing into the archives.

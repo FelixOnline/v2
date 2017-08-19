@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng examines how Drawn by Light reimagines photography
 date: "2015-02-17 16:37:29 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5265"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "National Media Museum, Bradford / SSPL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Photography exhibitions are often about particular movements, themes, or individual photographers. Rarely do you find an exhibition as all-encompassing as this show of the best of the Royal Photographic Society’s (RPS) collection. Besides including instantly recognizable photos, such as Steve McCurry’s _National Geographic_ magazine cover photo _Afghan Girl_, the exhibition is notable for its effort to present a macroscopic view of photographic history, drawing links across time, individuals and whole movements. The Society is in a unique position as both bystander and participant in the major photographic milestones of history, and this exhibition exploits both these roles ingeniously to create a fascinating and informative tribute to the art of photography.

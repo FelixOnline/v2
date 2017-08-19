@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Barbican's staging of Ivo van Hove's epic Shakespeare adaptation is bold and daring
 date: "2017-03-20 21:36:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6920"
@@ -34,15 +35,6 @@ image_height: "3149"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Enobarbus is a dying man. So overcome with grief at having betrayed his closest friend, Mark Antony, to Octavius Caesar, he can no longer bear to live. His cries and pleas for forgiveness are translated from Dutch to English courtesy of surtitles. A cameraman follows him as he stumbles across the stage; his lamenting projected above the set for the audience gawk at.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5546"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Professor Erol Gelenbe, a researcher from the Department of Electrical and Electronic Engineering, has been made a Fellow of the Royal Academy, Sciences, Letters and Art of Belgium.

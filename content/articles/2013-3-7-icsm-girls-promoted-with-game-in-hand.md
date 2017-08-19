@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This team doesn't deserve any stick judging by their performance
 date: "2013-03-07 21:53:43 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3433"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Having checked the league table a million times (no exaggeration!), we all knew this was the big one, the one to win. ICSM Ladies 1st XI was undoubtedly two points clear with a game in hand. A win on this surprisingly sunny March morning would lead us into the final match of the season, against second place Barts 1’s, inevitable champions! No pressure…

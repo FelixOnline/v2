@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caz Knight gets her first taste of Improv, hidden in tunnels beneath Waterloo station
 date: "2010-07-23 10:47:50 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "153"
@@ -33,15 +34,6 @@ image_height: "279"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 For 3 days, the bare bricked and musty tunnels under Waterloo station have been home to Slapdash – London’s first ever Improv festival. Improvisation, that is. Using nothing more than themselves, a guy on piano and a few shouted suggestions from the audience, a unique performance is simultaneously thought up and acted on the spot by a team of actors. Needless to say, what one sees is a one off occasion. Which means anything can go down. Be prepared to discard all previous preconceptions and experiences of the theatre.

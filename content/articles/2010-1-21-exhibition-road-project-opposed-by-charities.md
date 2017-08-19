@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exhibition Road Project opposed by charities
 date: "2010-01-21 22:16:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "45"
@@ -33,15 +34,6 @@ image_height: "707"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Exhibition Road Project has come up against a hurdle still standing after a group of 30 charities are looking to carry on fighting their case to stop the removal of pavements on Exhibition road, creating a shared space for pedestrians and traffic.

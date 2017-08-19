@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Idea proposed of changing Sabbatical roles
 date: "2012-06-08 08:35:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2542"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Imperial College Union General Meeting](http://www.imperialcollegeunion.org/data/files/generalmeetingfinal-1085.pdf) was held on Wednesday 6 June, with several ideas proposed that could see the structure of the Union considerably change.

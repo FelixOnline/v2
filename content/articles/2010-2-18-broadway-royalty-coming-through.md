@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucy Harrold interviews Broadway Leading Lady Stephanie J Block about her Upcoming Concert... and Beer
 date: "2010-02-18 16:43:26 +0000"
+author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "92"
@@ -33,15 +34,6 @@ image_height: "1421"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh106"
-author_name: "Lucy Harrold"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __How did your concert at the New Player’s Theatre come about? How do you find the intimate concert atmosphere in comparison to being on a huge stage?__

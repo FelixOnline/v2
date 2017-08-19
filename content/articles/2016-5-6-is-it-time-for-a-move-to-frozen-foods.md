@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular nutrition column
 date: "2016-05-06 09:56:57 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6125"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: "Rosana Prada"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Breakfast this morning got me thinking. It merely involved microwaving frozen bread prior to making French toast, but the nonchalant routine reminded me to extol the virtues of frozen food, something I think many of us tend to overlook.

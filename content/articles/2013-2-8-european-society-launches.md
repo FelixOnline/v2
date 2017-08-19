@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new society launches
 date: "2013-02-08 00:36:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3276"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 People always discuss the European Union as though it were some mysterious and distant institution that has either too much, or too little power depending on the point of view. The current financial crisis has stepped up the discussions about the EU and here in the UK, the EU has become a hot topic in the last few months. However it seems that it is more and more difficult to follow all the changes currently affecting European policies.

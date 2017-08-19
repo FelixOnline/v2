@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhys Davies just can't argue with trees
 date: "2010-02-27 17:02:27 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "110"
@@ -34,15 +35,6 @@ image_height: "800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Whilst walking through Hyde Park one day, I came across a very peculiar sight.

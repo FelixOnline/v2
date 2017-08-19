@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saul Coleman doesn't think the Israeli ambassador's talk was covered appropriately
 date: "2017-02-10 13:46:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6747"
@@ -34,15 +35,6 @@ image_height: "1095"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Opening last week’s issue of felix, I was greeted on page three by an article entitled “Israeli ambassador’s secret visit to Imperial”. And I’m pleased to say that, on the whole, the article was a very balanced read, just as the event was very civil. The sensitive nature of the discussion had clearly been recognised by felix, and was therefore covered appropriately.

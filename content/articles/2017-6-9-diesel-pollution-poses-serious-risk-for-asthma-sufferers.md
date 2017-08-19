@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rachel Baxter explores new research conducted by Imperial researchers that identifies exactly how the diesel pollution that hangs in our air may be affecting our health
 date: "2017-06-09 15:00:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7013"
@@ -33,15 +34,6 @@ image_height: "551"
 image_attribution: "David Holt"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Forty million British people are living in cities and towns with illegally high air pollution levels. This alarming statistic is in part due to diesel exhaust, which according to new research can directly affect our lungs and make respiratory conditions worse.

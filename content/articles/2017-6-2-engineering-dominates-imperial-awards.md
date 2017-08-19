@@ -4,6 +4,7 @@ title: >
 subtitle: >
   SACAs, President’s Awards and NSS scores all say the same thing
 date: "2017-06-02 12:44:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6984"
@@ -33,15 +34,6 @@ image_height: "1365"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union honoured Imperial staff last week at the annual Student Academic Choice Awards (SACAs for short) after sifting through a record breaking 831 nominations. The ceremony saw eight humans of Imperial getting recognised for their contributions in teaching.

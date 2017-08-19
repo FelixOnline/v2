@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Freeze peach
 date: "2017-05-19 15:00:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6973"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union is moving towards taking a stronger stance on Freedom of Speech. Over the past few months a conversation has begun around the role of Imperial College Union in supporting students’ freedom of speech. The question of “Are we doing enough to promote dialogue and debate?” lies at the centre of this move.

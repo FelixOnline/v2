@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Elizaveta Tchebaniouk is enchanted by the photographer’s dark inner visions
 date: "2014-12-04 20:01:06 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5007"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Guy Bourdin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __S____omerset House__ unveiled the UK’s largest ever exhibition of Guy Bourdin’s work, which spans the 40 year career of the French photographer, and features not only his most iconic photographs, but also never before seen material including Polaroid test shots, double-page spread layouts, contact sheets, as well as Bourdin’s paintings, poetry, Super-8 films, and sketches. In content and title – _Guy Bourdin: Imagine-Maker_ – the exhibition shows Bourdin as not simply a fashion photographer, but also an artist, and portrays his unique craftsmanship and perfectionist approach.

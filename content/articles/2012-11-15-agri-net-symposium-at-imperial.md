@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Bryne attends a symposium at the South Kensington campus
 date: "2012-11-15 21:06:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2892"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the biggest challenges facingtoday’s world is how to feed an increasing population, particularly with the impending threats of climate change and water shortages.

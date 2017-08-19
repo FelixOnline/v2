@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonny Jackson describes the thrill of jumping out of a plane...
 date: "2014-11-10 22:07:40 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4837"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s a long-standing myth that states that anyone who goes skydiving is either mad, has no concept of death or is emotionally-blackmailed into doing it because their mum bought them a voucher for their birthday. What I discovered was a group of inspiring, friendly people who engage in an activity with one of the best safety records of any extreme sport.

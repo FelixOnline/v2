@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They're on a boat
 date: "2016-12-02 16:46:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6551"
@@ -33,15 +34,6 @@ image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 From the 27th to 31st of October 2016, the 10th China Cup International Regatta was hosted in Shenzhen, attracting over 140 teams from all over the world including Russia, the USA, Australia and Germany, amongst others. Imperial College Yacht Club (ICYC) sent out Team Imperial,  comprised of students and alumni from Imperial, Oxford and Cambridge Universities. They were participating as the only British boat in the Regatta, the first time in seven years a British boat has competed in the event.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They’ve probably spent more time on their PC than they have on you
 date: "2016-11-25 14:33:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6512"
@@ -33,15 +34,6 @@ image_height: "3600"
 image_attribution: "Don Hankins"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Your SO (significant other) is simply the greatest, they seem to be perfect in all aspects. You think you’ve scored the jackpot and can’t do any better. But, you have a nagging suspicion about them: you think they might be a gamer. You don’t want to believe it, but you can’t deny certain features about them seem a little unusual. I’m going to explain certain tell-tale signs which would prove, without a doubt, that they are indeed a gamer.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Chung digs into the myriad ways to volunteer while you’re studying
 date: "2015-02-20 00:29:03 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5287"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Hiya! Do you have a few moments to volunteer for a good cause?“ “Ah sorry I’m in a hurry” This dialogue has occurred in the JCR for too long. And as students, who are stereotypically drunk 24/7, it is time for us to stand up and change public perceptions.

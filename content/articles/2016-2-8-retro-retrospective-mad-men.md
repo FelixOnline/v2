@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking back at one of the finest shows set in the 1960's
 date: "2016-02-08 17:41:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5892"
@@ -34,15 +35,6 @@ image_height: "576"
 image_attribution: "AMC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last year marked the end of lots of things; Jon Stewart’s run on the Daily Show, Bill Cosby’s career, Meek Mill’s career, 2014, and many beloved TV shows. Of these, one was Mad Men, a series I discovered, binge watched, and fell in love with, all in the space of about two weeks. Centring on the enigmatic and dapper Don Draper, played by a perfectly cast Jon Hamm, the show follows the exploits of the men and women of the Sterling-Cooper advertising agency; as they attempt to navigate through the rapidly changing world of 1960s New York.

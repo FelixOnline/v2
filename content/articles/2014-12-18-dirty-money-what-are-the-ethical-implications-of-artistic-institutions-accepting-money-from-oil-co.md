@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An Analysis by Fred Fyles
 date: "2014-12-18 16:21:51 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5076"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the highlights of the __Saatchi Gallery__’s collection of contemporary art is Richard Wilson’s _20:50_. Taking the form of a vast lake of used oil, it creates a black, mirrored surface that simultaneously intrigues and repels. With its surreal air, some visitors feel that the liquid needs to be felt to be believed, only to come away with a sticky residue on their fingers that contaminates everything they touch. Owned by the gallery since 1991, it has been shown in every space the gallery has moved to, with its current iteration taking up the entire basement of their building just off Sloane Square.

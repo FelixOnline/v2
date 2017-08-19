@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Greg Hands is the Conservative representative of Fulham and Chelsea
 date: "2016-04-29 10:01:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6087"
@@ -34,15 +35,6 @@ image_height: "531"
 image_attribution: "greghands.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The MP for the Fulham and Chelsea constituency, where many Imperial students live, voted on Monday night not to allow 3000 Syrian refugee children into the UK.

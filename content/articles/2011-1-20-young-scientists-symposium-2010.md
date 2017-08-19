@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICSMSU Muslim Medics host another successful evening of academic prowess
 date: "2011-01-20 20:56:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "636"
@@ -33,15 +34,6 @@ image_height: "481"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The School of Medicine has always maintained the importance of research within the medical field both as a student and once we graduate. On Tuesday 23rd November ICSMSU Muslim Medics showcased the academic research achievements of Imperial students from all years. The tough competition from 6 high-class presentations was indicative of the fact that the Young Scientist’s Symposium (YSS), now in its 4th year, had established itself as a renowned symposium for medical students.

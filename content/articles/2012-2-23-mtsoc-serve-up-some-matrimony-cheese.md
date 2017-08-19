@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Wedding Singer is an excellent watch for the end of the month
 date: "2012-02-23 19:42:06 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2224"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Arriving on the tenth floor of the Blackett Building to watch [__Musical Theatre Society__](http://mtsoc.co.uk/)’s (MTSoc) newest performance, their big spring show [_The Wedding Singer_](http://mtsoc.co.uk/current-show/2012-wedding-singer-2/), I get the feeling that either the powers of my imagination will have to be used to their fullest extent or I should keep my expectations pretty low. I have to admit, I was rather happily surprised by the end.

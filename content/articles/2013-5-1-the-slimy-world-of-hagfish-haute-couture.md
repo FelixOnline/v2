@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucy Hagger goes all haute couture
 date: "2013-05-01 19:20:04 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3521"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Clothes are important to anyone; whether you’re an avid fashionista or more of the practical sort, we all need clothes. However, the materials making up our clothes may be straying from the ordinary to the extraordinary in the not so distant future. The new source of the fabric for your brand new dress or coat could be swimming at the deep, dark depths of our ocean floor.

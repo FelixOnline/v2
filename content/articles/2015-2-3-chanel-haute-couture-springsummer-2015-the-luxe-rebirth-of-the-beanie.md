@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5179"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday, Karl Lagerfeld pushed the boundaries of haute couture fashion yet again at the Chanel haute couture fashion show. The exclusive catwalk event was held at the Grand Palais in Paris, with attendees ranging from the likes of Hollywood starlets like Kristen Stewart, to French femme fatales Vanessa Paradis and Charlotte Gainsbourg.

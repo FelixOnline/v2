@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wooden acting, clunky dialogue, and childish themes mean Love fails to light a fire
 date: "2015-11-29 16:33:49 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5780"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Curzon Artificial Eye"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the film _Love_, the walls in protagonist Murphy’s (Karl Glusman) bedroom seem to serve as a mission statement for Argentinian director Gaspar Noé: plastered with posters for shocking art-house fare – Pasolini’s _Salo_, Warhol’s _Frankenstein 3D_, Tod Browning’s _Freaks_ – it is clear to us that one day Noé wants to take his place among the auteurs of upset, the unsettlers of the staid filmgoer. But to achieve this you really need to be able to produce something shocking and offensive; unfortunately for Noé, boring your audience to the point of nausea doesn’t count.

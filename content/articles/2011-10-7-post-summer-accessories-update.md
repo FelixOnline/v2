@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new term starts a new season, and what better way to break into your student loan than by updating your look with a few accessories. Alice Yang gives you this season’s best, and remember – detail is everything
 date: "2011-10-07 12:26:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1491"
@@ -33,15 +34,6 @@ image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Hats__

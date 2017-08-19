@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett, signing off for Christmas with some festive facts
 date: "2012-12-07 01:44:59 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3041"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s beginning to look a lot like Christmas… isn’t it? No doubt you are reading this already snuggled up warm in your knitted jumper complete with reindeer design, sipping mulled wine and getting positively drunk on the festive cheer. Of course you aren’t; you are like any other Imperial student- walled up in the Library, slowly chewing your arm off. However, who said science can’t be joyous? Spice up your Christmas dinner banter with some of these festive facts, or use them to tell that particularly annoying younger relative once and for all why there is (probably) no Santa.

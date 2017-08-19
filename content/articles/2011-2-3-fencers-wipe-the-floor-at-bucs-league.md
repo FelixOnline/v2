@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Fencing undefeated
 date: "2011-02-03 20:39:23 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "752"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The second and final weekend of Men’s and Women’s, BUCS Southern Premier League took at place at Ethos on the 28th-29th January. Going into the weekend both Imperial teams looked strong contenders for their respective titles, being undefeated in the first weekend. Expectations on further victories were high and winning the league was the goal everyone was aiming for.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dat pelvic arch most certainly does not spout inaccuracies
 date: "2017-02-17 16:27:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6805"
@@ -34,15 +35,6 @@ image_height: "3289"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dancing is a sport? Of course! After months of intense training, IC Dance’s Ballroom and Latin Dancesport teams travelled to Cardiff last weekend for a clash of the southern universities. This is one of the most eagerly anticipated competitions of the year, a crucial step before the UK-wide competition in Blackpool at the end of February. Vying with universities as far as Exeter and Southampton (as well as the powerhouses Cambridge and Oxford), Imperial made an extremely strong showing, with dancers at all levels giving top-notch performances.

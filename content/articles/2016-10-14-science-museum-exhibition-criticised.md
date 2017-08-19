@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They’ve landed themselves in hot, oily water
 date: "2016-10-14 09:30:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6328"
@@ -34,15 +35,6 @@ image_height: "1920"
 image_attribution: "Christian Buus"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over 50 academics and  other campaigners, including two members of Imperial College’s Science Communication unit, have signed a letter this week calling for the Science Museum to end its deal with Statoil, a Norwegian oil and gas giant, as the headline sponsor of the new children’s exhibition, _Wonderlab_.

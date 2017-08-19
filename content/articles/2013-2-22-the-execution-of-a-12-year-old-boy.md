@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It is vital that the international community acknowledge the realities of the war in Sri Lanka, argues Visakan Balakumar
 date: "2013-02-22 10:34:48 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "3379"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is a war that has produced some of humanity’s most shocking and depraved images. But the new photographic evidence, released by Channel 4 News last Monday, is perhaps the most disturbing yet. The first photo shows Balachandran Prabakaran, the 12-year-old son of a Tamil Tiger, being held captive by the Sri Lankan army and looking up anxiously from a fortified bunker. A second photo shows him nervously eating a snack, whilst being watched by a government soldier. Less than two hours later, he will be taken, executed at gun point – and then photographed a third time.

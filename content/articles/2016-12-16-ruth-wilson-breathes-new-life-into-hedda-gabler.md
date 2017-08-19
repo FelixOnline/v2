@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hedda Gabler is on at the Lyttelton Theatre until the 21st of March, 2017
 date: "2016-12-16 15:05:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6613"
@@ -33,15 +34,6 @@ image_height: "735"
 image_attribution: "Jan Versweyveld"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Unpredictable, beautiful, haughty, callous – Hedda Gabler is one of Ibsen’s best-known anti-heroines. Trapped in a life devoid of meaning, she desires freedom and power, but is unable to seize it for herself. She is stifled and unfulfilled; the people around her bore her, from her insipid husband Tesman to his well-meaning aunts. It is her frustrated longing, her violent individuality, that turns destructive when caged. She deliberately pushes her ex-lover Lovborg back over the edge into alcoholism, burns the only copy of his manuscript, and encourages him to seek a “beautiful” death in suicide.

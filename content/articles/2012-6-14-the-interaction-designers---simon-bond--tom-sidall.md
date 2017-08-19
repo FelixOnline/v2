@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Interaction Designers - Simon Bond & Tom Sidall
 date: "2012-06-14 20:16:07 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2561"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I run into Simon Bond on the second floor landing of their Dean St. office and, assuring me that yes, the unworkable doorbell often plays up, he directs me into the studio.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Australia Day has never been so tasty
 date: "2013-02-13 14:00:09 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3300"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Australia Day came and went more than two weeks ago but if, for some unfathomable reason, you forgot to celebrate, fear not: find an excuse to pay homage to your favourite antipodeans. These traditional Australian lamington cakes are ideal for sharing with your loved ones, whether it be a boyfriend or girlfriend or your flat-mates afflicted with the late-night munchies.

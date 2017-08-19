@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But don’t let that fool you supposing that they are insignificant
 date: "2010-10-21 19:11:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "234"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 By the time that George Osborne stood to deliver the Spending Review at the Dispatch Box in the House of Commons, scientists at Imperial and around the UK had already breathed a sigh of relief. Although funding is still being cut by 10%, U.K. research has escaped the catastrophic 25% cuts that had been threatened. But we at Imperial, in our ivory towers in South Kensington, should not forget that other subjects and other universities are being hit hard; we are the lucky ones.

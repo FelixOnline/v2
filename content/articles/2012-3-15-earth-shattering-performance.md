@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Gray spends Sunday in a church... and enjoys it
 date: "2012-03-15 21:23:23 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2380"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Continuing my recent binge of church-based gigs, last Sunday I had a beautiful foray to The Union Chapel to see __Earth__’s tour, supported by __Mount Eerie__ and the pretty obscure French Canadian __Ô Paon__. If you read my recent review of __Nicolas Jaar__ at Roundhouse, you’ll be well aware that sweaty, active gigs are not really my thing. As such, spending several hours sitting in a cold church listening to some sweet ‘ATP’-presented music is pretty much ideal. Sadly this review will likely lack in humour as all the patrons were not absolute mugs, so remained quiet and respectful throughout, as it always should be.

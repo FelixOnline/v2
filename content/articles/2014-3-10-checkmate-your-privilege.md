@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah revisits Malaysian Night - now as a non-performing/producing outsider
 date: "2014-03-10 10:06:37 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "4474"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 It's one thing to write a review for an Imperial College student production. It's another thing to write a review for such a show you've personally been involved in for two years (both in acting and production) - and therefore already know the good/bad/ugly that comes with it. You find your pride and bias as an insider/alumnus of said production ("oh it was amazing and we could do no wrong!") grapples with your professional view as a neutral outsider with prior external stage experience. Still, that was the situation I willingly put myself in when I made a snap decision to attend Malaysian Society's MNight this year - this time as an audience member with no involvement.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Seymour Dicks catches up with Operation Midnight Climax’s personal butler ahead of their reapparition at KABLAAM
 date: "2011-11-03 20:53:55 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1676"
@@ -34,15 +35,6 @@ image_height: "680"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 A lot has been said over the years about Operation Midnight Climax. Some have called them the saviours of rock music, others have called them evil space demons hell-bent on destroying humanity. I would say there is truth in both those statements.

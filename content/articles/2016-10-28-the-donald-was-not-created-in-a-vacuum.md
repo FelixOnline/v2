@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shaul Rosten explains why Donald Trump’s candidacy isn’t much of a surprise after all
 date: "2016-10-28 14:59:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6350"
@@ -33,15 +34,6 @@ image_height: "3168"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Donald Trump is, as a bullyish toddler of a man, a hugely amusing individual. Except, perhaps, to those in the US whose lives may be a little more impacted by his caricature lunacy.

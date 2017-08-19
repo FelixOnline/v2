@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Impeccable building work hailed as new entrance doors experience no problems whatsoever
 date: "2012-02-09 23:13:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2173"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The new Library entrance was today unveiled in what is already being called a stunning coup for students. The entrance, which whilst still in the same place, now encompasses an incredible 3.75m2, will provide untold numbers with easier access to Imperial’s coveted study areas.

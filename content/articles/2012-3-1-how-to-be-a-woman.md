@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Furse takes a critical look at a highly praised feminist work
 date: "2012-03-01 21:35:40 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2277"
@@ -34,15 +35,6 @@ image_height: "1152"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I had been resisting reading this book for a while. Partly because I have no desire to lose the meat and two veg, and partly because publishers are canny enough to know their target audience and design the cover accordingly. Having worked for a bookshop as an undergraduate I also know that the covers are as much of a fiction as the text they are attached to. But, on a day between Christmas and New Year, having lost all my dignity by finding myself both in a Waterstone’s and in a provincial town, I seized the opportunity to satisfy my curiosity.

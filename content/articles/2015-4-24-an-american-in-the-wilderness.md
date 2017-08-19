@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles feels that the balance is slightly off in the Young Vic's production of Ah, Wilderness!
 date: "2015-04-24 13:49:14 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5469"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Johan Persson "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For her production of Eugene O’Neill’s_ Ah, Wilderness!_ director Natalie Abrahami, who returns to the__ Young Vic__ after her success of _Happy Days_, seems to have taken the title rather literally. Wilderness invades the quiet Connecticut home at the heart of the tale, both metaphorically and literally; the sands of time take on a physical quality, pouring in through the open doors, and obscuring the humble family home in a miasma of uncertainty. An effective staging device it may be, but the overall effect is to create a play that is all too cerebral when compared to the warm script.

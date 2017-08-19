@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICSM Boat Club cycle nearly 300km to Paris for RAG
 date: "2016-03-04 11:55:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6013"
@@ -34,15 +35,6 @@ image_height: "3366"
 image_attribution: "ICSM Boat Club"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Annually, the Imperial College School of Medicine Raising and Giving team organise a trip to a European city for a night out; with this year’s destination being Paris. When this was announced, the ICSM Boat Club thought, why take the coach when you can cycle there for charity instead? It’s only 295km after all!

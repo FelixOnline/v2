@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Simpson gets wicki low with da Tee to the Vee
 date: "2011-02-10 20:12:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "767"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It's that time when all the post-Christmas series are coming to an end, and writing this column is really difficult when there's sod all on telly, so a couple of the shows could possibly be repeats. They should be just as good as when they were first broadcast though so no complaining.

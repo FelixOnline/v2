@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The veteran playwright packs a punch with a powerful and lyrical indictment of modernity
 date: "2016-02-05 12:12:44 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5872"
@@ -34,15 +35,6 @@ image_height: "1152"
 image_attribution: "Tristram Kenton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Maybe Caryl Churchill should be worried. The past 14 months have seen a mass excavation of her earlier work, with four of her works being produced in the UK. From Maxine Peake’s tongue-twisting turn in _The Skriker_, a highlight of the Manchester International Festival, to the National Theatre’s double bill of _Light Shining in Buckinghamshire_ and _Here We Go_, Churchill’s work has been granted an attention normally reserved for the recently deceased.

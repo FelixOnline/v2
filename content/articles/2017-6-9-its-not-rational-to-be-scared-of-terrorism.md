@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous writer thinks you should stop making this all about you
 date: "2017-06-09 14:57:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7011"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every time there’s a terrorist attack, the more skittish of my friends set about panicking. Marking themselves safe on Facebook, making dramatic social media posts, and generally creating the hysteria and alarm that follows a terrorist attack.

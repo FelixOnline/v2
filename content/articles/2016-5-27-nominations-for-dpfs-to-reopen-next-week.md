@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The fifth sabb will return next year
 date: "2016-05-27 08:40:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6199"
@@ -33,15 +34,6 @@ image_height: "1370"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After rumours of the position’s demise, the union has re-opened nominations for the role of Deputy President (Finance and Services).

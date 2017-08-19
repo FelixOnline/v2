@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The All-Nighter returns
 date: "2011-12-13 14:27:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1958"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s that time of year again, when it is so brutally cold outside that finding a good night out where it’s socially acceptable to stay wrapped up in blankets is the stuff of dreams. Fortunately, it is also the time when [iCU Cinema](http://union.ic.ac.uk/arts/cinema/) brings us the Winter All-Nighter – the first all-nighter of the academic year, and a fantastic opportunity to catch all the films you might have missed over the last few months for only a tenner.

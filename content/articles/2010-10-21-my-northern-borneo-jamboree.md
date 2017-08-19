@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wonderful wildlife, treacherous trekking and a monstrous mountain
 date: "2010-10-21 18:53:13 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "224"
@@ -33,15 +34,6 @@ image_height: "3240"
 image_attribution: "Christopher Richardson"
 image_attribution_link: "http://felixonline.co.uk/user/cr709/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I am a huge fan of mainland Malaysia, what with its plethora of creole cuisines and party people, but its true face lies on Sabah in Malaysian Borneo. As soon as I landed in Kota Kinabalu (KK) and hit the streets, I realised I was onto something grand: the sun was smouldering, the prices cheap, and all of the locals greeted me with a friendly smile.

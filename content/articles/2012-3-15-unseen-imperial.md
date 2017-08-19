@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2384"
@@ -34,15 +35,6 @@ image_height: "566"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re alone in our experiences, when in fact, we’re probably not. Last week the Union asked the student body to submit anonymous accounts of their experiences of mental health. Sincere thanks to everyone who took part – here are the responses:_

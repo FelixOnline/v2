@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix gets out and about for your reactions too
 date: "2016-11-18 14:26:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6455"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "Gage Skidmore"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been about a week and a half since the U.S. election was held. By now, most of the world seems to know that Donald Trump is the president-elect of the United States.

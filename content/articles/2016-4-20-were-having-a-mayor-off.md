@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Who should be in control of London’s £16 billion budget?
 date: "2016-04-20 14:54:52 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6085"
@@ -34,15 +35,6 @@ image_height: "677"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Next Thursday, Londoners go to the polls to vote in their new Mayor of London. Twice-elected Conservative Boris Johnson has moved onto bigger and better things, and now Labour’s Sadiq Khan and the Conservative Zac Goldsmith are going head to head below in this: our comparison of the two frontrunners.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook being Facebook, with its monopoly of a network of two billion people, is arguably the most powerful company in the world
 date: "2017-03-17 15:12:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6904"
@@ -34,15 +35,6 @@ image_height: "1143"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dear Mr Trump: It is well known that you’re a regular reader of felix, so I sincerely hope you get to read this.

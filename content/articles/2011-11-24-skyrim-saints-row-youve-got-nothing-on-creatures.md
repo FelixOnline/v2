@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent puts aside the big releases of this season and talks about one of video gaming’s grandaddies, Creatures
 date: "2011-11-24 21:11:39 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1815"
@@ -34,15 +35,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With blockbusters such as [_Skyrim_](http://www.youtube.com/watch?v=9uNx9-cWJZc) being released, and modern legends like [_Minecraft_](http://www.minecraft.net/) celebrating its birthday, it is often possible to overlook some real masterpieces. One of these is [_Creatures_](http://creatures.wikia.com/wiki/Creatures_Wiki_Homepage), and the sad thing is that many of you will probably have never heard of it!

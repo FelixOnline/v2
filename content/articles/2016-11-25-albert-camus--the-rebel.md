@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Rebel is the punctuation mark to 19th and early 20th century philosophy
 date: "2016-11-25 14:21:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6510"
@@ -33,15 +34,6 @@ image_height: "1050"
 image_attribution: "Robert Edwards"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In Rick Famuyiwa’s Dope, Jay-Z’s Blueprint is described as the "punctuation mark to 90s Hip-hop". It seems to me that, in many ways, Albert Camus’ The Rebel is the punctuation mark to 19th, and early 20th century philosophy. Camus is often regarded, rightly, as an absurdist and, more questionably, as a humanist. In his earliest works, Camus took a purely absurdist stance: questioning the meaning of life and whether it was worth living at all. However, his experiences as part of the French Resistance during the Second World War galvanised his belief in the importance of safeguarding all human life. In his first post-war novel, The Plague, the protagonist pins down the crux of Camus’ stance – there is no grandeur or heroism in saving lives; it is simply what must be done. The Rebel, arguably the philosopher’s most important work, is the culmination of these ideas.

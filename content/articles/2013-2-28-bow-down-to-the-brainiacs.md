@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the Human Connectome Project
 date: "2013-02-28 17:55:51 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3382"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever wanted to get into the head of someone? Maybe a potential employer, your examiners or even someone you have taken a fancy to? Do you often find yourself questioning just what is even going on in your own head? Neuroscientists are planning on possibly solving the mysteries of the brain mapping as a means to treat neurodegenerative disorders, as opposed to giving you an edge in that job interview in the city, but it is exciting nonetheless. However, where is the catch, or rather, the cost?

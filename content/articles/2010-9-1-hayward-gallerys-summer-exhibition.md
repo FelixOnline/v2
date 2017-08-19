@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caz Knight eagerly attends the intriguing summer installation at South Bank's Hayward Gallery, but is left disappointed
 date: "2010-09-01 15:59:31 +0100"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "154"
@@ -34,15 +35,6 @@ image_height: "533"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 I saw the ads. I read the previews. I couldn’t wait for Ernesto Neto’s Edge of the World exhibition – this year’s summer offering from the Hayward Gallery. Weeks and months went by and I was just too busy to get to it. Rosie, my co-editor went and loved it. Yesterday I realised that it was in its final few days: I had to go or miss out on what one critic claimed was the most fun one can have in a gallery. Wrong.

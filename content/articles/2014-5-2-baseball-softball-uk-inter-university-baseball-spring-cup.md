@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Imperial Falcons participated in the BSUK Inter-university Baseball Spring Cup over the weekend of the 22nd and 23rd of March with a team composed largely of newcomers and achieved a respectable third place finish after close losses to the top two teams.
 date: "2014-05-02 02:05:42 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4563"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Imperial Falcons participated in the BSUK Inter-university Baseball Spring Cup over the weekend of the 22nd and 23rd of March with a team composed largely of newcomers and achieved a respectable third place finish after close losses to the top two teams.

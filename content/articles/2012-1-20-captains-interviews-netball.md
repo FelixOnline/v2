@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shooting the breeze with the popular club
 date: "2012-01-20 17:19:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2043"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After a nice, long (but not long enough) Christmas break, your Felix Sport captains’ interviews are back! This week, two lovely ladies from Netball: Lucie Hazell, Club Captain, and Feroza Kassam, Club Treasurer.

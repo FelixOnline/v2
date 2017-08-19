@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alic Rowlands on the propsed campus wide smoking ban.
 date: "2010-02-01 16:43:18 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "60"
@@ -34,15 +35,6 @@ image_height: "1377"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 John James, Deputy President (Welfare), presented a controversial paper to central Union's Representation and Welfare Board (RWB) last Thursday, calling for a ban on smoking on all Union premises, including Beit Quad. The paper asks the Union to: Implement a ban on smoking in any part of Union premises and a ban on the sale of tobacco by the Union and to lobby college to implement a smoke free campus.

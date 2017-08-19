@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students have been told they will receive full marks if they had pointed out it could not be solved, reports Philippa Skett
 date: "2015-06-11 22:48:38 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5616"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Physics students have been left confused and annoyed over an exam question that was proved to be impossible to answer, adding to the plethora of mistakes in papers sat by students from multiple year groups in the department this term.

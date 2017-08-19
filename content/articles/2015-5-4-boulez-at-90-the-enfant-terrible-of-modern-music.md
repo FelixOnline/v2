@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange explores the new musical vocabulary of one of the 20th Century’s most controversial composers
 date: "2015-05-04 16:22:43 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5488"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pierre Boulez is _the _controversial figure at the forefront of musical development in the 20th Century. Though equally respected by his enemies as by his supporters, a certain stubbornness and radicalism has alienated many. For instance, in 1952 he declared in one fell swoop half of the musical world as useless, in 1967 that opera houses should be blown up, and in 1971 he advocated for the destruction of the Mona Lisa.

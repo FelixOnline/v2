@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Indira Mallik explains how prejudices have clouded our appreciation of art
 date: "2014-12-18 16:12:55 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5071"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Earlier this month, the author Saladin Ahmed wrote on Twitter “the fantasy vision of a medieval Europe devoid of people of colour isn’t realism. It’s a different word that starts with ‘r’ and ends with ‘ism’.”

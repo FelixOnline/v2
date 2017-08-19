@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Builders Arms plays host to a monthly poetry evening
 date: "2012-02-03 10:27:06 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2125"
@@ -34,15 +35,6 @@ image_height: "683"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 At first sight an event that describes itself as an open mic poetry night may not seem like something everyone can enjoy. You may even assume that it, and by extension anyone writing about it, will be pretentious; perhaps you think it will be the sort of night where somebody without a beret would be persona non grata (see, not pretentious, quod erat demonstrandum… too meta a joke?). I can assure you, _[Fluent on Paper](http://www.facebook.com/events/173620746075860/)_ is not at all like that.

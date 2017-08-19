@@ -4,6 +4,7 @@ title: >
 subtitle: >
   1000 students across UCL, Roehampton, Goldsmiths and the Courtauld are withholding rent in protest
 date: "2016-05-13 08:50:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6143"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students from Goldsmiths, Roehampton and the Courtauld Institute have joined UCL in a rent strike, protesting the high fees and low quality housing offered by their universities. It’s been estimated that this amounts to about £1 million’s worth of lost revenue from all the students combined.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Poppy Pinnock swears that RVC are on a farm...
 date: "2013-02-22 02:12:01 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3374"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Previously in the season, IC 1’s ventured to muddy Hertfordshire with some usual players missing and some turning up hungover to take on RVC 1’s in the BUCs league, so understandably we suffered an unfortunate loss. However, with 2 more chances to play them, we were determined to show them what we’re made of.

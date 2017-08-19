@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Egyptian Hip Hop: Good Don’t Sleep
 date: "2012-10-26 03:17:26 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2773"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been a long two years for Egyptian Hip Hop, and after jumping off the hype machine they were so reluctantly thrust upon, they have returned with a debut album full of new material that takes a different, perhaps more accomplished direction than their earlier releases.

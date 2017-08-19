@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Black Rock review
 date: "2013-06-13 23:38:46 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3697"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s something almost primeval about the way the characters here conduct themselves. Cut off from civilisation with no technology to help them, the women here need to resort to the bare minimum to stay alive, and here is a gritty, unflinching survival drama that is impressively made, with brisk action and nasty surprises here and there.

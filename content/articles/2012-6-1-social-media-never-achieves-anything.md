@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The world of social media does not have all-encompassing power
 date: "2012-06-01 12:52:29 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2514"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’ve got a problem. A problem with you. And your friends. The whole lot of you, in fact, and the way in which you all spread your ideas using social media. Basically, over the past couple of years social media has quickly evolved from a novel way of keeping in touch into a way for people to share their passions, problems and grievances – and in doing so I’m of the firm belief that it’s become a useless, vapid place. People seem to think they are making a difference when they click the ‘Like’ button – but they are, unfortunately, kidding themselves.

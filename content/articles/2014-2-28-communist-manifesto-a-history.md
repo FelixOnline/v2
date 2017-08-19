@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Part two of Christy Kelly's history of the Communist Manifesto
 date: "2014-02-28 07:16:25 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4445"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Pre-History: The world that formed The Manifesto was a world in the process of, to use Karl Polanyi’s term, a great transformation. The American and French revolutions had shown once and for all that the old absolutist orders were anachronisms that had somehow forgotten to die; the industrial revolution had thoroughly transformed the basic modes of capitalist production and with them, the history of the future world. The industrial revolution in turn transformed society: in 1770, the year Wordsworth was born, London’s population was still somewhat less than 1 million people, but a year after Wordsworth died in 1851, Britain had an urban majority and London a population of around 3 million. The visibility of these demographic transformations are reflected by the publication of Malthus’ Essay on the Principle of Population in 1798 and the start of modern census taking at the turn of the century. Similarly the landscape was becoming similarly deformed, Blake’s ‘dark Satanic Mills’ date to the opening decade of the 19th century. However, the fact that Blake found the factories so remarkable shows how little developed industrialism was; the mills would lose their chthonic terror in the wisps of a mid-century miasmic fog.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Betts and his love for the new do-it-all Ferrari
 date: "2011-05-27 15:30:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1281"
@@ -33,15 +34,6 @@ image_height: "853"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Forgive me. I understand that the overuse of compliments can appear naïve at the best of times, and deceitful at the worst. My gut tells me that it’s a terrible, terrible mistake to not be able to spot the flaw in something, that I’m being tricked. I cringe at my credulousness. But, you see, the thing is I’m in love and, as Plato put it, I’ve become a poet. I met her for the first time last week. The most cursory glance lets you know that she’s curvaceous, strong, with plenty of character, her style effortless. And boy can she suck, squeeze, bang, blow.

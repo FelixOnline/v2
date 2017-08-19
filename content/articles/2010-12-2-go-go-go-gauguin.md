@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gauguin Uncovered at the Tate Modern until 16th January
 date: "2010-12-02 20:11:26 +0000"
+author_id: "cg708"
 
 # Attributes from Felix Online V1
 id: "461"
@@ -34,15 +35,6 @@ image_height: "421"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cg708"
-author_name: "Cecily Goodwin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tate Modern's [exhibition on Gauguin](http://www.tate.org.uk/modern/exhibitions/gauguin/default.shtm) is his first international exhibition for more than 50 years. It documents his shifting styles, focusing on his interest in depicting myth and the supernatural, and culminating in his most famous works painted in Tahiti. As well as allowing the viewer to observe Gauguin's very variable painting styles and progression as an artist, it also documents and provides context to the painter’s life, providing two rooms full of articles, letters and historical memorabilia.

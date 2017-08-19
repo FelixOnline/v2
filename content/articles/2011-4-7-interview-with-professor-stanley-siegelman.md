@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Medical Student Suha Bachir discovers how to balance a successful academic career with teaching, and even editing!
 date: "2011-04-07 21:06:20 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1131"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: "Suha Bachir"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When I was told I would be undertaking my medical elective at the very hospital House graduated from, I was over the moon. The famous Johns Hopkins Hospital has not only had 33 Nobel Laureates associated with it, but has also been voted best US hospital for twenty consecutive years. When I first saw the hospital, I must admit, I thought it was more of an enchanted castle than a hospital. Having read up about the many influential physicians and scientists from Hopkins, I was desperate to find out if it was possible to follow in their footsteps. So when I came across Professor Siegelman, a hugely influential radiologist at Johns Hopkins, I jumped at the chance to interview him. Throughout his career he has taught, edited, made scientific discoveries and has treated patients. I was keen to find out the secrets of his success in combining medicine, science and teaching.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on the last calamitous cabinet days of the Defence Secretary
 date: "2011-10-20 21:58:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1567"
@@ -34,15 +35,6 @@ image_height: "3264"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Friday, after a week of revelations over wrongdoing in his affairs, the Defence Secretary Dr Liam Fox, announced his resignation to the Prime Minister. The first Tory cabinet minister to resign has been replaced by Philip Hammond, whose Transport brief is now to be fulfilled by Treasury minister Justine Greening.

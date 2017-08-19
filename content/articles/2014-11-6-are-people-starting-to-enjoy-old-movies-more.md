@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Muni Wen ponders the revival of retro in modern cinema
 date: "2014-11-06 18:16:09 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4761"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was the sort of sunny afternoon when girls put on floral skirts and pin their hair up. As I floppily moved my mouse to click on a link someone had just shared, my eyes widened. It was a list called “Upcoming Movies 2015”, and there were many names that made my heart leap in familiarity. I saw SpongeBob, Cinderella, Peanutws, Star Wars, and loads of other old friends who suddenly look back at me from the foreseeable future. My first thought: 2015 is going to be a fun year. Second thought: are people starting to appreciate old movies more and more?

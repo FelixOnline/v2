@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gaming Society go to UCL... Tl;dr: Imperial possibly beat UCL at a bunch of video games, with a score of 2-1 or 3-2. Or maybe we drew with 2-2 - I don’t know. Just read the article.
 date: "2012-11-09 16:35:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2880"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been a question that has floated around Imperial College Union’s Gaming Club for years now – why don’t we play anyone else? This year, gears actually started moving.

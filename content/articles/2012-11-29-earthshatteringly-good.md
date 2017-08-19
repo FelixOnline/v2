@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oluwatosin Ajayi reviews DramSoc’s Earthquakes in London
 date: "2012-11-29 22:06:01 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2986"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Earthquakes in London is a play that could so easily go wrong. With (brief) nudity, temporal shifts (the narrative jumps around between 1928 and 2525) and philosophical passages on the doomed nature of man due to his treatment of the earth, it is tailor made to fulfill every “it’s all symbolic, innit” cliché of student drama.

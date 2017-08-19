@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All I bloody hear is the clock ticking
 date: "2010-01-08 16:44:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "18"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 All I bloody hear is the clock ticking. We all know what that sounds like, and we all know what the stabbing sounds of each second, ‘tick’ or ‘tock’, means. Time is slipping away, and there’s just about nothing we can do to stop it (short from building a DeLorean and taking a joyride with Marty McFly).

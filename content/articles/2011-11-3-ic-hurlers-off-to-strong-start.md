@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial and St Mary's team up in Greenford
 date: "2011-11-03 22:10:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1699"
@@ -33,15 +34,6 @@ image_height: "377"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For Imperial’s ﬁrst match there couldn’t have been much of a better way to start the Hurling season. With blue skies and a light breeze in Greenford the boys in blue new they were in for something good.

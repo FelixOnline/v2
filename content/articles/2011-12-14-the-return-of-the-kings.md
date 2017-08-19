@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Donmar reaches the end of a golden era with Shakespeare’s Richard II, and Michael Grandage as artistic director
 date: "2011-12-14 11:16:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1959"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Here lies the end of an era – both on and off stage. Richard II as King of England and Michael Grandage as artistic director of the [__Donmar Warehouse__](http://www.donmarwarehouse.com/). After almost a decade of ne’er erring productions, Grandage gives us Shakespeare’s [_Richard II_](http://www.donmarwarehouse.com/pl133.html). The stage has the hushed and sacrosanct air of a church after benediction. The King sits in meditation on his throne, and frankincense hangs in the air like a ghost.

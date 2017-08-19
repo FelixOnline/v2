@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New scheme aims to harness latest technology
 date: "2011-10-06 22:55:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1464"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College Business School is welcoming its ﬁrst students of a new Masters programme and providing them with a free iPad 2 with which to carry out their studies. The programme leaders of the [MSc in Strategic Marketing](http://www3.imperial.ac.uk/business-school/programmes/msc-strategic-marketing) are scrapping the traditional paper-based learning and teaching methods and pioneering a novel approach centred on the use of digital and social media.

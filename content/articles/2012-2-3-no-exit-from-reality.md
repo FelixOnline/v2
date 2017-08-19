@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Íñigo Martínez de Rituerto on music as a futile interrogation of the state of the world
 date: "2012-02-03 11:20:29 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2131"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Music, like all art, is a creative outlet addressing two domains: affronting reality and escaping it. The first can be witnessed in the efforts of the punk movement to criticize the values of modern society, or as a means of raising awareness and capital for charitable causes. The second aims to create an alternative reality, an escape from the mundane, numbing the ferocity of practical life.

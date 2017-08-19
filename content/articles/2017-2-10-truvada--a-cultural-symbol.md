@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One Truvada pill a day keeps the doctor away
 date: "2017-02-10 14:18:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6756"
@@ -34,15 +35,6 @@ image_height: "1025"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Truvada is a household name in the gay community. It is the name of a small blue pill containing two antiretroviral compounds, emtricitabine and tenofovir, used to treat HIV. But Truvada does so much more that carry antiretroviral properties. It is charged with symbolism and packed with historic meaning.

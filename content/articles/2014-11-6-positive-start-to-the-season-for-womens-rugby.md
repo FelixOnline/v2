@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charlie Stephens reports on games against RVC and rivals UCL
 date: "2014-11-06 19:52:22 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4784"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IC Women's Rugby"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With the graduation of so many of our senior girls last year, this season was always going to be about rebuilding and bringing new players into the squad. With that in mind we thought it important to get a new coach. We were pleased that we hired Stewart Mcguire who, with age grade international caps for Wales and Ireland and currently playing for London Scottish, has brought enthusiasm and a lot of fun to training.

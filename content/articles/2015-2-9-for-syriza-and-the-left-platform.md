@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christy Kelly discusses divides within the party taking Greece by storm
 date: "2015-02-09 19:49:57 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5229"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Syriza’s victory in the Greek elections in January is the most important event to take place in Spain and Greece since the outbreak of the 2010 Eurozone crisis forced the re-shuffle of popular left-wing parties. Syriza was formed in 2004, mainly from breakaways from the Greek Communist Party (KKE). The party gained momentum in 2012 when it became the second biggest party in the Greek election, despite a massive negative publicity campaign by the international media. With the support of the wage-earning working classes and the Greek intelligentsia, Syriza has a similar electoral base to West European socialist parties in their heydays; yet around 2012 it also had a vibrant ‘movementist’ element far more comfortable with the spectrum of radical currents than traditional parties of the Left.

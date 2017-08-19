@@ -4,6 +4,7 @@ title: >
 subtitle: >
   For a 61-year-old, you do swear a lot, don’t you Felix?
 date: "2010-12-02 21:07:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "486"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This coming Thursday will be an important day for students all across the country. Parliament will vote on controversial proposals to raise the cap on tuition fees to £9,000. For the Editors of this newspaper the day is also important for another, albeit more light-hearted, reason. It will be [61 years](http://felixonline.co.uk/?go=archive&d=1940&y=1949) to the day since the first issue of Felix was published. It is Felix's birthday.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thomas Lim on the email move that's been causing a few headaches, but bigger and better mailboxes are now in the hands of the masses.
 date: "2014-11-14 19:58:01 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4861"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A scheme which will move all undergraduate email accounts from the College’s data centre to Microsoft Office 365 will conclude today. On completion, every Undergraduate’s mailbox will be hosted in a Microsoft data centre, as part of their Office 365 product. The move promises a range of benefits, including a mailbox fifty times larger than what is currently offered, as well near unlimited file storage and much improved collaboration of Office documents.

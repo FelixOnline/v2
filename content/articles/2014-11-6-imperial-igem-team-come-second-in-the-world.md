@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett talks to the team on their synthetic biology triumph
 date: "2014-11-06 19:18:23 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4776"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "iGEM"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The International Genetically Engineered Machine (iGEM) competition saw our own Imperial team receive a number of awards at the Global Jamboree this week. The competition sees teams from hundreds of Universities bioengineer products using synthetic biology techniques and pits their ideas against each other in a giant conference held in the USA.

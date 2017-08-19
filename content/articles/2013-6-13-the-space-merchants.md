@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at a classic of the SF genre
 date: "2013-06-13 22:32:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3677"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is often a stigma attached to early works of science fiction (SF). They are often stereotyped as being poorly written and filled with bad science and bug-eyed monsters. While true for some works this is by no means universally the case. Early SF laid the groundwork for what the genre is today and it includes some of the most imaginative and thought provoking works of fiction ever written.

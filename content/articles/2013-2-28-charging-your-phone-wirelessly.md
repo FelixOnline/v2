@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will the lack of Wires (or lack thereof) ever conspire to be desired?
 date: "2013-02-28 17:35:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3380"
@@ -35,15 +36,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Qi. This sounds like some sort of Chinese “life energy” philosophy, but that’s not what we are talking about here. Pronounced “chee”, Qi is a wireless inductive power standard that is increasingly being adopted by handset manufacturers such as Nokia and LG for inclusion into their handsets. For phones that do not support the wireless charging standards, there are cases designed to envelope the devices and provide wireless charging capabilities. But is wireless charging even necessary, or is it just a solution to no one’s problem?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is 40 review
 date: "2013-02-12 18:30:26 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3293"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A follow-up to Knocked Up without actually holding onto any of its main characters, we instead have a closer look at how aged, mature relationships work, and in this case, how the “happily ever after” is much easier said than done.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chaplaincy brings you an unmissable evening with His Holiness Radhanath Swami
 date: "2013-03-15 02:33:11 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3489"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever sat in a boring lecture and thought: ‘I wonder how I could help make the world a better place?’ Or been stuck behind a bunch of chatty teenagers on the tube and wondered ‘why should I even bother?’ Well, be prepared to have all these and more of your important life questions answered. We have just the event for all of your queries!

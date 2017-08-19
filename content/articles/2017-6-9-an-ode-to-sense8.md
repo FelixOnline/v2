@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We were robbed of one of the most spectacular, queer inclusive, and diverse shows shows on TV.
 date: "2017-06-09 15:11:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7017"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Three weeks ago I embarked on an emotional binge-watch of the 2015 Netflix original Sense8. Within two weeks I’d managed to watch the 23 near hour-long episodes of the first two seasons. Then a week later it was announced that sense8 would not be getting renewed, that episode 23 would be the last ever episode, and just like that I was heart broken. To the uninitiated, the series revolves around the lives of eight strangers who one day find themselves connected, reborn as one as sensates. They become a cluster of eight people sharing their lives, their existence; for all intents and purposes from that point onwards they are a single fundamental unit. That’s the cornerstone of the title and this idea of interconnectedness is also its success.

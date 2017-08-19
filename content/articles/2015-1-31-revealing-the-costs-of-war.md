@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland reports on the Royal Court’s new play
 date: "2015-01-31 19:02:54 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5169"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The debut work of 31-year-old playwright Diana Nneka Atuona, _Liberian Girl _has already made an impact, performing at the Global Summit to End Sexual Violence in Conflict last year and winning Atuona the Alfred Fagon Award for Best New Play of the Year in 2013. So what is all the commotion about?

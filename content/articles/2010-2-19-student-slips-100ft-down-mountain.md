@@ -4,6 +4,7 @@ title: >
 subtitle: >
    Joanna Cai looks into the Mountaineering Club's disastrous climbing adventure in Snowdonia this week
 date: "2010-02-19 10:44:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "95"
@@ -34,15 +35,6 @@ image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A member of Imperial College Mountaineering Club (ICMC) fell 100ft whilst climbing in north Wales on Saturday 13th February. He was climbing with three other Imperial students during a trip with the ICU club which took place on the Welsh mountains of Cwm Cneifion in Snowdonia.

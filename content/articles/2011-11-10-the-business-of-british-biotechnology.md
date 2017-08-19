@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepeneurs report on some of the opportunities and threats facing one of the UK’s most promising industries
 date: "2011-11-10 21:26:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1730"
@@ -33,15 +34,6 @@ image_height: "338"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Alongside finance and high-tech computing, biotechnology can be thought of as one of the few sectors where Britain is still globally competitive. The British pharmaceutical industry, for example, receives 10% of global research and development funding, despite having only 3% of global sales. But this year has seen a variety of worrying developments: Pfizer, previously the country’s fourth largest investor in pharmaceutical research, announced the closure of its R&D site in Kent, resulting in the loss of 2,400 jobs; AstraZeneca continues to shed jobs, citing patent losses, as well as GlaxoSmithKline and Novartis; and start-ups complain of continual difficulties in securing venture capital. So is the UK unique in its suffering, and what successes, if any, has the year seen?

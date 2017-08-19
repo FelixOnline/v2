@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman wraps his head around the playwright’s latest
 date: "2015-03-25 12:56:39 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5440"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tom Stoppard’s latest play has been a long time coming. His last work to grace the stage was 2006’s _Rock and Roll _at __The Royal Court__ – and his last work at the__ National Theatre__ was four years before that, with _The Coast of Utopia_ in 2002. Nine years since his last play. To call expectations high might just be an understatement.

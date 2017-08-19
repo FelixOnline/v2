@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson rounds up the various league tables from the last year
 date: "2015-05-29 01:05:18 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5579"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Times Higher Education"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week Imperial College London dropped three places in [the Guardian’s 2016 University Guide](http://www.theguardian.com/education/ng-interactive/2015/may/25/university-league-tables-2016), taking eighth place out of 119 Universities.

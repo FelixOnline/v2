@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This small 'pub theatre' puts on a great show
 date: "2010-10-14 18:45:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "196"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Matthew Turner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Finborough Theatre occupies a small room above a Kensington pub (The Finborough) and seems the most unlikely place to put on a large cast musical by the great Broadway duo Rodgers and Hammerstein. Now I’m a massive fan of the intimate theatre but a broadway musical? All I can say is that “Me and Juliet” triumphed in it and in fact only a few minutes into the show the size of the place completely left my mind; quite a tricky but vital thing to achieve when putting on such a show.

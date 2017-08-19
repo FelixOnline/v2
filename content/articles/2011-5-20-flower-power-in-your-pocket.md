@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope gets all green-fingered (and goo-stained) in Plants vs Zombies DS
 date: "2011-05-20 04:31:40 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1218"
@@ -34,15 +35,6 @@ image_height: "848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I cannot stand writing articles. There, I said it.

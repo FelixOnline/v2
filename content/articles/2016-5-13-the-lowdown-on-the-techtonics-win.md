@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A Cappella catch us up on their victory in New York
 date: "2016-05-13 09:39:22 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6167"
@@ -33,15 +34,6 @@ image_height: "685"
 image_attribution: "Joe Martinez"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Techtonics, Imperial College Union’s all-male a cappella group, have made international history by becoming the first British group to win the International Championship of Collegiate A Cappella.

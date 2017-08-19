@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven listens to the 'cartoon music' of the Japanese band
 date: "2011-11-10 21:35:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1733"
@@ -33,15 +34,6 @@ image_height: "441"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As with many of its cultural exports, Japan’s punk is a little different. Epitomised by bands such as the percussion-heavy __[Boredoms](http://www.youtube.com/watch?v=ZOxCwert9lA)__, the metal-heavy __[Boris](http://www.youtube.com/watch?v=t_GgowniQWk)__, and psychedelic __[OOIOO](http://www.youtube.com/watch?v=BJ1FLn7T448)__, its brand of noise-rock tempers avant-garde intensity with kitschy dollops of fun.

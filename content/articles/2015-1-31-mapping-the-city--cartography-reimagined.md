@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng explores what Somerset House’s newest exhibition can offer
 date: "2015-01-31 18:56:46 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5168"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Courtesy of Somerset House"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _If self is a location, so is love:_

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Veli Akiner ventures to northern Finland in search of snow, and finds braised reindeer, dubiously advertised toys, and long nights along the way
 date: "2012-02-09 22:47:54 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2162"
@@ -33,15 +34,6 @@ image_height: "3648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Saariselkä is a small tourist village in mountainous northern Finland which offers a beautiful landscape, various snow-based activities to get involved in and, of course, an opportunity to see the Northern Lights.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joe Letts, next year's Felix Editor introduces himself
 date: "2013-06-20 16:12:20 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3702"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So, it has come to the end of an era, well a year-long era. Goodbye Tim and hello… me. I’m sure the Supreme Editor himself is feeling bittersweet; it’s the end of a very tiring year, but also the end of a year of fun and boundless creativity.

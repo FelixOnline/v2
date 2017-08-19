@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Valerie Wischott thinks we should all hold ourselves accountable for our unsustainable lifestyles
 date: "2017-02-17 14:40:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6785"
@@ -34,15 +35,6 @@ image_height: "1092"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I buy these flip-flops from H&amp;M for every summer – after one year, they’re broken. But it doesn’t matter, they’re only €7.” “I already booked my journey back home for Christmas holidays – got a flight for €10!” All of you have probably said something along these lines at some point. These quotes reflect the attitude that dominates today’s consumer behaviour. We are used to the permanent availability of all our desired products, from food to fashion to flights, and we can acquire them at low prices. At the same time, the world is worrying about climate change, desertification and pollution, and thus establishes goals and agreements in order to protect the environment. A common sense view on the causality chain of the environmental destruction reveals that our consumer behaviour is at the top of this chain and represents an essential factor with regard to the changes of the environment. Everyone’s daily life contains consumption decisions which have a direct or indirect influence on the environment. While some things seem obvious, others have to be investigated more carefully in order to trace back their influence. In doing so, the whole life cycle of a product or a service has to be taken into account.

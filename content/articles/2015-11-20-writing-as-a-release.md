@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Writing it on paper can act as a stepping stone
 date: "2015-11-20 09:43:41 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5763"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "unsplash.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Off the back of the Met office announcement on Monday that the climate is about to pass the one-degree threshold for global warming, I sat at my desk trying to write a coherent piece about the subject. As I typed away on my laptop, making notes from articles and reading up on the subject I asked myself – “what about the climate?” Everyone who is anyone with any real information knows climate change is happening so what more is there to write about? I lay my palms on the table and sigh– the research hadn’t given me the momentum I hoped for, and now I had hit the proverbial cul-de-sac. I thought about the issue, read most of this month’s issue of the National Geographic magazine, solely dedicated to climate change , and sunk further into my chair. To sum up climate change discussions in a nutshell: interesting statistics, the science which proves climate change is occurring, utilising renewable energy sources, climate change’s impact, and initiatives to combat this. I knew the facts, but I didn’t really have much to say. I once heard someone comment that people who don’t make good writers are those that didn’t have anything to say. So I reflected – what could I say?

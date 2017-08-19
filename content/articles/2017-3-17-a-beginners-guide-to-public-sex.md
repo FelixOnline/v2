@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Let's talk dogging
 date: "2017-03-17 17:28:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6916"
@@ -34,15 +35,6 @@ image_height: "983"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So, since this is the last issue before the Spring break, and as people customarily tend to travel during breaks, this article is going to be about taking advantage of opportunities to have sex in unusual locations. Of course, I’m not referring to France (their love of cheese is not unusual – just deal with it) or other travel destinations, but I’m trying to make a tenuous link with fucking in weird places. So, take a break from revision and prepare to be entertained.

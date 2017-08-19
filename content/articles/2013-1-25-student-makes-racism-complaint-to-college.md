@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Student angered by being stopped and asked for ID
 date: "2013-01-25 01:16:33 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3175"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A black student has raised a complaint of racism after being asked to show identification by security officers following a call made to College by a member of staff who thought the student may not be a member of Imperial.

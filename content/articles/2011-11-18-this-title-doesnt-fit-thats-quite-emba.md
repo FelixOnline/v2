@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Obviously, the headline joke is rendered inaccurate when faced with the limitless storage space of the Felix servers
 date: "2011-11-18 00:42:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1799"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I don’t really know how to start this article. That’s quite embarrassing. Then again, I think that’s a recurring theme in my life. I always find a way to embarrass myself. In a way I’m like Bob Dylan. Except it’s embarrassment’s door that I’m knock knock knocking on. I then realise that I’ve actually got the wrong door, just as it’s too late and the person who lives there is opening it.

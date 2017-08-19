@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There's a time and a place for sexual imagery, and it's not the press conference of a major achievement in science
 date: "2014-11-20 21:17:49 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4914"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imgur"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Those following ‘Shirtgate’ may have seen this image being shared on Reddit and Twitter. The Mayor of London certainly has, as this week he incorporated its idiotic message into a piece for the Telegraph, joining the keyboard warriors who have defeated feminism, showing it to be a mess of double standards and hypocrisy.

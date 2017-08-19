@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scenes from an Execution, a play originally written for the radio in the 1980s is staged by the National Theatre
 date: "2012-10-26 03:09:57 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2767"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 16th century Venice, female artist Galactia is commissioned by the state to paint a wall-sized canvas to commemorate the victory of the Battle of Lepanto. This initiates the events in Scenes from an Execution, a play originally written for the radio in the 1980s but now produced for the stage by the National Theatre.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on ICTV’s exciting new show
 date: "2015-02-20 00:04:39 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5281"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ICTV/Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday saw the very first broadcast of Imperial Questions Live, a new current affairs debating programme asking the big questions on campus.

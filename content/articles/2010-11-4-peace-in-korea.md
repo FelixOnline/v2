@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week’s report from Lord Alton and Baroness Cox, following their latest visit to North Korea, argues that we should be building bridges, not walls with the hermit state
 date: "2010-11-04 18:43:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "308"
@@ -33,15 +34,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is clear that North Korea is in a dire state in humanitarian and political terms. On the 60th anniversary of the start of the Korean War and 10th anniversary of opening diplomatic relations with the United Kingdom, from the outside it seems things have only gotten worse and this trend can only continue.

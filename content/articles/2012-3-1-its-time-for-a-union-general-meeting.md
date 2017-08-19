@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scott Heath calls for an event which hasn't occurred at Imperial for 5 years
 date: "2012-03-01 22:50:16 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2292"
@@ -34,15 +35,6 @@ image_height: "1334"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC* start rolling off the tongue. (*Student Recruitment and Admissions Strategy and Operations Committee)

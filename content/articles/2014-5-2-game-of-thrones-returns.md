@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily Fulham reviews the highlights and lowlights of the series so far
 date: "2014-05-02 01:58:20 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4558"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 As Game of Thrones enters its fourth series, it’s easy to imagine that the show’s writers and producers would be pretty pleased with themselves: the huge success of the show, unforeseen at its inception three years ago, and a vast fanbase that stretches far beyond the usual fans of genre TV means that viewings figures are predicted to stay high for the foreseeable future. After such success, there’s always a risk that the creators might sit back and rest on their laurels, confident that people will watch either way. Thankfully, that shows no sign of being the case for the series so far.

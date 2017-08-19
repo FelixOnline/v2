@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Politics is alive and kicking at Imperial, and so are world leaders from science and engineering backgrounds
 date: "2010-10-07 22:51:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "180"
@@ -34,15 +35,6 @@ image_height: "1181"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 One downside to life at Imperial is the lack of variety of students you meet. You won’t find any undergraduates studying full degrees in English Literature, Languages, Law, History or any other excuse to spend three years writing essays.

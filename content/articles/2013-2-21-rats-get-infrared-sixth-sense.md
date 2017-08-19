@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Byrne investigates the brain implant that gives the ability to see invisible light
 date: "2013-02-21 20:43:25 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3341"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers at Duke University have given lab rats the ability to ‘see’ infrared light, in research published in Nature Communications last week.

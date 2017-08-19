@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chanon Wongsatayanont offers advice on peaceful coexistence
 date: "2015-03-09 19:29:55 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5384"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You’ve probably had a flat mate who’s from a different culture. For some of you, it might have gone like this. Day one, things were going well. Day seven, tensions began with unwashed dishes. Day twenty-five, both sides mobilized for war over a party that had turned the corridor into a disaster-ravaged scene.

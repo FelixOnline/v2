@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Fourth Plinth shortlist is on at the National Gallery until 26th March
 date: "2017-02-03 16:58:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6724"
@@ -33,15 +34,6 @@ image_height: "2017"
 image_attribution: "pipnash"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Trafalgar Square’s Fourth Pinth is a temporary pedestal upon which the best, edgiest, and most relevant contemporary sculptures are displayed, and the latest spot is now up for grabs. Well, to one of the five shortlisted entries, that is. These are currently up for display (in miniature-sized versions) in the National Gallery, and it makes for an exhibition well-worth perusing, before heading upstairs to drool over the Monets and Van Goghs.

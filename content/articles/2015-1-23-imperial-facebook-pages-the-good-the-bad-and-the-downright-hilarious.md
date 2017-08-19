@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A general overview of the stuff populating our feeds
 date: "2015-01-23 01:21:34 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "5121"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 The rise of Imperial Facebook pages spans several years, but despite sprouting a number of different pages they are all for pretty much of the same audience. These include such as Imperial College Secrets, Spotted: Central Library and Humans of Imperial, some of which allow students to anonymously submit content to be posted on the page, with others having admins that track down and curate content themselves.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Congress might be taking things a step too far
 date: "2012-05-24 23:14:21 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2486"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the U.S. political scene, a Republican sponsored bill is causing quite a stir. The “[Women’s Right to Know Act](http://www.health.state.mn.us/wrtk/index.html)” requires females seeking to have an abortion to first undergo an invasive transvaginal ultrasound. This is a procedure that involves what is known as a “10-inch plastic wand” to be inserted into the vagina. The purpose is to dissuade women from having an abortion by forcing them to acknowledge the fetus that they intend to abort. In some states, congressional members have suggested that women should also be made to listen to the heartbeat of the fetus before they are able to proceed with an abortion.

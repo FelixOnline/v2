@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett weighs up the pros and cons of publishing research on H5N1
 date: "2012-05-18 11:16:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2468"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The online publication of a controversial article outlining potentially damaging data about the influenza virus finally went ahead recently, after a significant delay. _Nature_, after careful deliberation, published the paper much to the dismay of several official bodies, after the case was brought to a hearing in April by the US Senate. With scientific research being increasingly hindered by outside influences, is it time to make an absolute decision over what exactly can be published once and for all? Or would this be detrimental to scientific advances?

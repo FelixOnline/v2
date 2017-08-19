@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is it time to stop dunking?
 date: "2015-03-09 19:08:59 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5377"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Gentle reader, I’m certain that I am only the latest in a long line of commentators to compare two of the greatest influences in our British lives: tea and sex. While these might initially appear to have as much in common as, say, fashion sense and Islamic State, there’s a great deal of common ground. Like tea, sex can be enjoyed alone but is best enjoyed in company. Sex can be delightful when black, white or even Chinese (do try them all!). Like tea, things are surprisingly nice when they get fruity (or even herbal...).

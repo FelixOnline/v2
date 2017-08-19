@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Current locking accommodation is not good enough
 date: "2011-11-24 22:55:01 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1844"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Bikes are great, but getting your bike stolen isn’t. Pretty simple stuff, but at Imperial an average of two bikes per day are stolen. Now I’m sure that some of them are down to the individual, but I think a big part is the facilities and security available at Imperial. That’s why the Bike Users Group has started up a petition for an increased amount of stands and an overview of security for bike parking.

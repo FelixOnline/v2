@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix takes a brief trip to Hong Kong for an artery-clogging breakfast - best scrambled eggs, creamy white bread and gip milk tea
 date: "2017-01-13 14:54:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6649"
@@ -33,15 +34,6 @@ image_height: "3165"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Plonk.

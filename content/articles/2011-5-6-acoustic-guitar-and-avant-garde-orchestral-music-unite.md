@@ -4,6 +4,7 @@ title: >
 subtitle: >
   José González teams up with orchestral collective The Göteborg String Theory to great success
 date: "2011-05-06 11:05:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1166"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: "flickr/halfmadhalfinsane"
 image_attribution_link: "http://www.flickr.com/photos/61709281@N04/5615772569/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _[The Barbican](http://www.barbican.org.uk/)

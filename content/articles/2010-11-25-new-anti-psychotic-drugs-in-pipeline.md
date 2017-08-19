@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New anti-psychotic drugs in pipeline
 date: "2010-11-25 20:08:42 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "426"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Schizophrenia could be caused by abnormal levels of neurotransmitters dopamine and glutamate, according to new research carried out at Imperial College London.

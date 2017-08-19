@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-06 10:12:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6130"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Okay guys, seriously now, Disney is starting to scare me. Now that they own ESPN, ABC, Lucas films, Pixar AND Marvel the ludicrous amount of money they make could, theoretically (and I’m not saying this is a definite), fund a pretty decent world domination effort. I’m just saying. The only way to stop this is to not give their bloated superhero film franchise any more money. Here are some alternatives:

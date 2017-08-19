@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shamini Bundell Sneaks into the dress rehearsal for Noises Off and gets totally confused.
 date: "2010-03-17 16:04:06 +0000"
+author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "124"
@@ -33,15 +34,6 @@ image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh106"
-author_name: "Lucy Harrold"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When it comes to a play within a play, Dramsoc’s latest production takes full advantage of the confusion. Although I set out with the noble aim of relating to you the witty intricacies of the plot of Noises Off, at the time I was too busy wiping away tears of laughter to work out exactly what was going on.

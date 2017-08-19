@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Schoolboy Q - ‘Hands On The Wheel’ (feat. A$AP Rocky)
 date: "2012-02-16 21:59:41 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2204"
@@ -34,15 +35,6 @@ image_height: "413"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the imaginatively named title of this column would suggest, each week I hope to bring you a top notch hip-hop tune. This week’s song comes courtesy of [__Schoolboy Q__](http://www.myspace.com/schoolboyq)’s recently released album _Habits and Contradictions_. The song samples a live Lissie cover of the __Kid Cudi__ track ‘The Pursuit of Happiness’ for the chorus and also features critic’s favourite __A$AP Rocky__. In an album with a general tone of moody introspective aggression, ‘Hands on the Wheel’ is a relatively upbeat affair with tight production courtesy of __Best Kept Secret__.

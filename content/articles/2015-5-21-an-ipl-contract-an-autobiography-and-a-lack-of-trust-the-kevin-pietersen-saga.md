@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle voices his frustrations at the England Cricket Board
 date: "2015-05-21 20:25:28 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5550"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 If Andrew Strauss thought he’d have a pleasant honeymoon period in his new Director of Cricket role at the England and Wales Cricket Board (ECB), Kevin Pietersen had other ideas. As Strauss was partaking in his first interview with the media in the role Kevin Pietersen was piling the pressure on, smashing Leicestershire’s defenceless bowlers for 355 not out – his highest first class score.

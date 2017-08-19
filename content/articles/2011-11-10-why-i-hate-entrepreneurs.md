@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Keir Little on why they may be successful, but never mention that they were also lucky
 date: "2011-11-10 20:27:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1712"
@@ -34,15 +35,6 @@ image_height: "1460"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Don’t get me wrong – I take my hat off to anyone who can fashion a new idea, start a business, and successfully market it. But, despite this admiration (they’d be quick to call it envy), entrepreneurs are the most insufferable people that have ever talked at (rather than to) me.

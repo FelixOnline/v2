@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix takes a peek at ten of the hottest spots around London that really stand out from the rabble. Enjoy!
 date: "2017-02-03 17:50:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6736"
@@ -33,15 +34,6 @@ image_height: "997"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 1 | Bleecker Burger

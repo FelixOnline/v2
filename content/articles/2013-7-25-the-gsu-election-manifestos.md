@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Graduate Students Union (GSU) Elections close on the 26th July. For those of you who haven't heard about it here's a quick list of candidates and manifestos...
 date: "2013-07-25 04:28:18 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3746"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 For those of you who are blissfully unaware, the Graduate Students Union (formerly the GSA) elections are being held this week, although you wouldn't know it. There's a significant lack of social media campaigning, especially the usually active #voteicu twitter hashtag which normally chirps every few minutes. Aside from sending out emails and updating the online manifestos, there hasn't been much activity from the Union either, not even a change of dates for the election timetable!

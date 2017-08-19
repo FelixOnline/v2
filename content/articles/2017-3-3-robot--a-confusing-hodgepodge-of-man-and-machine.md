@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Robot was on at the Barbican from the 22nd – 25th February
 date: "2017-03-03 15:15:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6844"
@@ -33,15 +34,6 @@ image_height: "3144"
 image_attribution: "Laurent Philippe"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is little doubt that technology has pervaded every inch of our modern lives. From people plugged in on their daily commutes, to the seas of smartphones at concerts, we seem to be constantly immersed in gadgetry. But is that a good or bad thing? This question has become something of a hot topic in recent months, with shows such as Westworld and Black Mirror exploring the darker consequences of a future dominated by technology. Choreographer Blanca Li takes a more playful approach with Robot, a production filled with dancers both human and humanoid.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Members to vote on papers via email instead
 date: "2015-01-16 13:02:05 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5093"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Union Council met on Tuesday for the first time this year, although with attendance being so low was unable to meet quorum. This means that there weren’t enough students present to allow any papers to pass and any decisions to be made. Email votes are taking place instead on the papers discussed.

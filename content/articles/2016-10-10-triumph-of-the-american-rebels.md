@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Reviewing the RA's latest exhibition
 date: "2016-10-10 14:57:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6326"
@@ -33,15 +34,6 @@ image_height: "600"
 image_attribution: "Royal Academy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Abstract expressionism is a liberation. The art form’s leading American artists of the 1940’s and 50’s emphasized on spontaneous creative acts to express subjective emotion in opposition to the confining rules of realism. Though exhibited and referred as a collective for revolutionizing the art scene, it’s worth focusing on the individuality of each artist (particularly in terms of technique and vision driving their artistic expression). RA’s Abstract Expressionism aims to materialize this concept in highlighting each artist separately, but with critical references to the collective group.

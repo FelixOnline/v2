@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sara Hamilton is angry about the environment. Again.
 date: "2017-01-13 14:02:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6636"
@@ -33,15 +34,6 @@ image_height: "3011"
 image_attribution: "Dan (catching up)"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of my 2017 felix-related resolutions was to diversify my activist feelings away from the environment. Not that I’m bored about talking about it – not at all. Every week there seems to be some lab somewhere making breakthroughs on green energies, new legislation about restricting urban transport, or an international agreement to reduce our carbon emissions. And if that’s not the case, there’s always Trump sharing his insightful thoughts about how we’re all making this greenhouse gas stuff up after all.  Anyway the point was that there’s a thousand other causes that are also worth protesting weekly about, but Lef asked me to write about climate change, so blame him.

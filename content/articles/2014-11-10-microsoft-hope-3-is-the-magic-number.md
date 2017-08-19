@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Osama Awara reviews the newest member of the Surface family
 date: "2014-11-10 22:12:47 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4840"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The third generation of Windows tablets, or Lablets as I like to call them, have been released by Microsoft. They claim that the Surface Pro 3 is not only a tablet, but a laptop as well, potentially replacing both of those devices in your home. After owning one for several weeks, I can honestly back Microsoft on this one. I have not touched my old laptop since the purchase; it is currently sitting in a bedroom drawer collecting dust.

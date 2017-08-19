@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First XI reach ULU Cup final for fourth time in five years
 date: "2011-02-28 20:54:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "937"
@@ -33,15 +34,6 @@ image_height: "4288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The 1st XI, still unbeaten in all ULU competitions, went into their ULU Cup semi-final with confidence, having already beaten their opposition – King’s Medics in the League fixture. After a dramatic last minute change of venue to Harlington, the 1s quickly seized the initiative, with neat control and a fantastic finish from Robinson putting them ahead within two minutes.

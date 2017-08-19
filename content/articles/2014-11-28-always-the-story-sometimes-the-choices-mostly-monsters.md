@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma reviews a humble bundle purchase he actually plays
 date: "2014-11-28 01:08:34 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4977"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Always Sometimes Monsters is an indie game by Vagabond Dog and Devolver Digital. The first time you load it up, you’ll see a tiny (560x454) window with the game logo and 3 buttons – New Game, Credits, and Quit. Yeah, no options. This is a pretty simple game. You can adjust the window by pressing F6 or F7, which make the window bigger and fullscreen respectively. If it didn’t have those options, the size of the window would make Always Sometimes Monsters pretty much unplayable.

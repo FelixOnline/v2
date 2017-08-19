@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Teams have been suspended and made to miss key matches
 date: "2014-11-14 19:58:53 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4862"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Earlier this week, in light of the recent incidents concerning anti-social behaviour, Imperial College Union released the penalties that will be held against both Imperial College Union Rugby Football Club (ICURFC) and Imperial Medicals Rugby Football Club.

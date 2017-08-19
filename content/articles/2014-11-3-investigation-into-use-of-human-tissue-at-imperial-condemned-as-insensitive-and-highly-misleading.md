@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Royal British Legion and Imperial College London hit back at accusations made by the Mail On Sunday
 date: "2014-11-03 11:24:57 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4756"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An “investigation” into the use of human tissues at Imperial by the [Mail on Sunday](http://www.dailymail.co.uk/news/article-2817170/How-poppy-money-funds-macabre-trade-human-legs-feet-5million-British-legion-lab-opened-Prince-Harry-imports-body-parts-bomb-blasts-tests.html) has been condemned by the College and the Royal British Legion Centre.

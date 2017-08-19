@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha reports back from the Electric Ballroom
 date: "2013-03-15 02:50:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3492"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I like to think my taste in music has greatly varied over the years. I have gone through the teenage phase of listening to Green Day, Sex Pistols, Fall out Boy, Panic! At the Disco etc. You get the gist of it all. There was also a time when I used to listen to hard rock in the form of System of a Down, Bullet for My Valentine and Slipknot amongst others. These days, I have moved onto a lot more indie pop, post-punk and dream pop. The reason I am telling you this is because Halestorm doesn’t fall in any of those categories. Halestorm is in essence a hard rock band which I came across when they supported Slash last year at the Hammersmith Apollo. That was a curious gig to say the least, since the supporting act, a Dutch new wave/electronic/art punk band called Minny Pops, was booed off stage. It wasn’t all disappointment before Slash’s appearance because that’s the moment that Halestorm came on. Their energy on stage was simply admirable and at this point I think drummer Arejay Hale should get a special mention for his acrobatic efforts of constantly juggling drumsticks in the middle of a song. Lzzy Hale’s strong vocals meant it was the perfect start to a rock gig and at that point I became a fan (and went home to download their music illegally, like all the cool kids do {fyi I am not a total prick, I tend to pay for gigs rather than buy records}).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The example above shows a script that is clearly not one which will stop denigration of women in films. It does however pass the Bechdel Test.
 date: "2013-12-02 22:23:12 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4173"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The example above shows a script that is clearly not one which will stop denigration of women in films. It does however pass the Bechdel Test.

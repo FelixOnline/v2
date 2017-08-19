@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fiona Hartley explores how green a city will actually be. Can the hopes be true? Do we have a trendsetter(/badass) on our hands?
 date: "2012-11-22 23:20:34 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2946"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You don’t have to be an urban planner or an environmentalist to recognise that continued urbanisation alongside green living is the future of the planet. I’m certainly not. So we might as well do it right by considering the environmental implications of new urban development projects, and any scheme that does this will get at least one big green tick in my book.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 1 of 3)
 date: "2013-06-20 16:25:29 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3703"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Michael Llewellyn-Williams was Editor of Felix in the year [1974/75](http://felixonline.co.uk/issuearchive/year/1974/). He has had a fantastic life since being Felix Editor. He has travelled the world, “made a tonne of money” on the dot com wave, helped create Archie the Scotch Skeleton, worked with everyone from Carling Black Label to NatWest to Visa and BMW, written a book, and has had his own company since 1998. He currently lives in the San Francisco Bay Area, so I had a conversation on Skype with him.

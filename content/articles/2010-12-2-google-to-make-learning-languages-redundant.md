@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Google to make learning languages redundant?
 date: "2010-12-02 19:59:06 +0000"
+author_id: "kl208"
 
 # Attributes from Felix Online V1
 id: "456"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kl208"
-author_name: "Kin-hing Lo"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been 27 years since the first handheld portable mobile phone came out and since then it has revolutionised the world. With the development of GSM technology and seamless international roaming, it is now possible for any two people, on different corners of the Earth not connected by wires, to talk to each another at any time simply by dialling a sequence of numbers on their phone. The mobile phone has torn down geographical and national barriers and made the whole world feel a lot smaller.

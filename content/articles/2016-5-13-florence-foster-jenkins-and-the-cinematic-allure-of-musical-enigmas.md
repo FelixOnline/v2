@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Musical outsiders who deserve biopics
 date: "2016-05-13 09:08:55 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6158"
@@ -33,15 +34,6 @@ image_height: "1429"
 image_attribution: "Upset the Rhythm"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week saw the release of _Florence Foster Jenkins_, a biopic based on the life one of the worst singers of all time – Florence Foster Jenkins was widely regarded as a completely hopeless singer, a fact she didn’t let get in the way of attempting to forge a musical career. Recordings from the time betray a complete lack of pitch, rhythm, intonation, and tone – a fact that may have been linked to a syphilis-linked decay of her central nervous system. Cheery! While the Stephen Frears-directed film, starring Meryl Streep, may have been welcomed with more praise than Jenkin’s singing voice, she’s not the only outsider musician out there who deserves to have a film made about her. Here are four more left-field performers who deserve a movie of their own:

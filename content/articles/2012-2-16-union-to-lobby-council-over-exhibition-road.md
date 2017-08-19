@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Unclear roundabout highlighted as potential risk
 date: "2012-02-16 22:25:26 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2214"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Jonathan Peek"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/imperial-college-union-stance-on-exhibition-road-3971.pdf) brought to Union Council on Monday 13 February by Deputy President (Welfare) Nicolas Massie, the Union proposed to lobby Westminster City Council about multiple concerns with [the new Exhibition Road layout](http://felixonline.co.uk/news/2121/exhibition-road-closes-for-grand-opening-/). The paper pointed out the “uncertainty about the boundaries of the road on the west side, particularly the tactile borders”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Are you close to passing out from the lack of ventilation in the library? Are you tossing and turning in bed lamenting the passing of spring anf the lack of an AC? Do your friends describe you as a rice enthusiast? Well we might just have what you need.
 date: "2017-06-09 15:39:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7021"
@@ -33,15 +34,6 @@ image_height: "1090"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m back you fools and to celebrate let me share a story from my childhood.

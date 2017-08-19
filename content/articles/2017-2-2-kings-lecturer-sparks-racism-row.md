@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Racist pseudoscientific tweets cause KCLSU complaint
 date: "2017-02-02 23:30:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6705"
@@ -34,15 +35,6 @@ image_height: "2597"
 image_attribution: "poppet with a camera"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 KCL’s feminist intersectional society has condemned a lecturer at King’s College London after he released a series of tweets which were described as “racist and incredibly insulting remarks directed at the Somali community”.

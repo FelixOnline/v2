@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Medics dominate second half to win JPR Williams Cup
 date: "2011-03-17 21:52:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1107"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A strong start by Imperial was not enough to keep the Medicals at bay at this year’s Varsity, as they went on to win their ninth successive JPR Williams Cup.

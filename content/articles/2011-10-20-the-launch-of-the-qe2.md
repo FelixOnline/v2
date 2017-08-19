@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Could the Bank of England be pressing forward with more Quantitative Easing?
 date: "2011-10-20 22:42:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1573"
@@ -33,15 +34,6 @@ image_height: "293"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If central banks could instigate growth by simply printing more money, they would have done so a long time ago. A recent [Bank of Engl](http://www.bankofengland.co.uk/index.htm)[and](http://www.bankofengland.co.uk/index.htm) (BoE) research report attests to the theory that cash injections are inflationary: while the Quantitative Easing (QE) package of £200bn had an initial macroeconomic impact of 1.5-2%, it was quickly followed by an increase in Consumer Price Index (CPI, the key index for inflation) of about 1.5%. Inflation may help reduce unemployment according to Keynesian doctrine, but it will not benefit the underlying economy in the long term.

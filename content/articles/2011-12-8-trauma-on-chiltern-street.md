@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Trauma and Science come together to make new art
 date: "2011-12-08 21:05:17 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1929"
@@ -33,15 +34,6 @@ image_height: "2736"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Trauma,_[__GV Art__](http://www.gvart.co.uk/)’s new science-inspired exhibition revolves around the different manifestations of trauma. The exhibition explores physical and biological trauma, revealing the effect they have on those who suffer from them and investigating our own personal perception of them.

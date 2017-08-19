@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A stragetic and minimalist first-person shooter where time moves with you
 date: "2016-03-18 11:55:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6065"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "SUPERHOT Team"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imagine a game where you are a super assassin, well-versed in the arts of weaponry and hand-to-hand combat. You mow down countless enemies, spraying them down with machine guns, splitting them in half with a well placed katana swipe or just beating them to a pulp, like the good old days. “Wait, why is that different from tons of other games that are on the market?” I hear you cry, dear reader, and I would not disagree with you. This is where the twist and specialty of _SUPERHOT_ comes in: time moves with you. Basically, when you don’t move, time stands still. However, if you even move a finger, the clock starts ticking and all hell breaks loose. This combination of kill all bad guys and the unique time mechanic makes _SUPERHOT_ a really special game.

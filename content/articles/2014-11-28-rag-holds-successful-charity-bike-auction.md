@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports from the charity auction
 date: "2014-11-28 00:49:24 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4966"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Amy Whistlecroft"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 RAG held their charity bike auction last Thursday, raising an impressive £4,500 after selling roughly 30 bikes.

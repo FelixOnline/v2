@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster selflessly stays up all night playing Halo
 date: "2012-11-09 16:03:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2878"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let me point this out before I start – I love the Halo universe and the progression and impact the game series has made within the industry. I remember picking up Halo: CE many years ago and not having a PC that could play it, faster than I could draw the frames with a novelty pencil the size of the Eiffel Tower. But I still played the hell out of it. The idea of an artificial world, in the shape of a ring, created by an ancient and long-dead race, worshipped by your mortal enemy and explored by a super-soldier just pushes all the right buttons in my book. That being said, I never finished it – the damn flood can keep the library. I never liked books anyway.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nathaniel Gallop comments on the situation in Ferguson, Missouri
 date: "2014-12-04 18:29:25 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4986"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ibtimes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the past week, the town of Ferguson, Missouri has been racked with a continuous stream of protests and riots following the Grand Jury’s decision to not indict Officer Darren Wilson in the case of the shooting of Michael Brown. The outcome of the investigation has attracted widespread criticism from many individuals within the United States and elsewhere in the world.

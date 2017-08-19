@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook campaign established to combat £50
 date: "2012-03-02 00:58:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2300"
@@ -34,15 +35,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Having made the decision earlier this year, [Sport Imperial](http://www3.imperial.ac.uk/sports) began charging for a mountain hut used by various Clubs & Societies as a rest stop during outdoor trips. At first, the hut was free to use by societies and houses approximately twenty-five people. Prices of £50 for booking weekend use were introduced without a consultation period, focus group or notification to the clubs.

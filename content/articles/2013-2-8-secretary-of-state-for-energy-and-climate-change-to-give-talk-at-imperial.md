@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In brief
 date: "2013-02-08 01:06:10 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3282"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Edward Davey, Secretary of State for Energy and Climate Change, will be giving a talk at Imperial College London on Wednesday 13 February. He will be giving the annual Newitt Lecture on the energy challenge faced by society.

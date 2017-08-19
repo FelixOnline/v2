@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mo Mirza gets within touching distance of Kurt Vile in Camden
 date: "2013-05-23 22:19:48 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3615"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The gig was hosted at Barfly which provided an intimate setting, for what was a show for competition winners. Kurt Vile had not brought a backing band along on this occasion and he made everyone wait. The crowds were a bunch of happy campers though –true to the stoner spirit. They did not mind one bit as Vile spent some time tuning his guitar on stage and repeatedly asked his sound engineer for “more reverb, yeaa!”

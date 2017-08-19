@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The American Dream: pop to the present is on at the British Museum until 18th June
 date: "2017-03-17 17:09:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6912"
@@ -33,15 +34,6 @@ image_height: "7824"
 image_attribution: "2016 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS), New York and DACS, London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The UK’s first major exhibition of modern and contemporary American printmaking, that has recently opened at the British Museum, spans twelve rooms and six decades. The American Dream: pop to the present is as ambitious as it is controversial, with critics questioning not only pop art’s artistic value, but moreover whether it belongs in the British Museum at all.

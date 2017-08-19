@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Claire Boucher's latest album is full of bangers
 date: "2015-11-13 14:35:31 +0000"
+author_id: "cet13"
 
 # Attributes from Felix Online V1
 id: "5728"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cet13"
-author_name: "Cale E Tilford"
-author_image_path: "http://felixonline.co.uk/img/upload/201610151549-cet13-cet13.png"
-author_twitter: "tlfrd"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With Visions, Grimes (the stage name of Claire Boucher) gave us an album that combined the danceable sound of synthpop with introspection and sorrow of dark-wave. One of the defining albums of 2012, it was celebrated and adored by many including myself.

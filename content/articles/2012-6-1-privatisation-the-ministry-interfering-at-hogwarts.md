@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the first of a series of articles on the privatisation of our universities, Stephen Smith discusses the Government’s latest assault on academic freedom, through the Research Councils
 date: "2012-06-01 12:20:48 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2509"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Our universities are being privatised, or so many on the Left would have us believe. But how true is it? And is it necessarily a bad thing? In a series of features over the next few weeks, I will be investigating several areas of privatisation at Imperial and at universities across the UK, areas where corporations are filling a role that used to be public.

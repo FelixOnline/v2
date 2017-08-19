@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICSM Drama sets the stage alight with a little cross-dressing and a lot of fun
 date: "2012-03-08 20:25:42 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2315"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the year 2000, the American Film institute named _Some Like It Hot_ the greatest American comedy film of all time. At the time of its release, it won three Golden Globes and an Academy Award. It is surely a huge undertaking, then, to successfully bring a story with such pedigree to the stage. This is the challenge that __ICSM Drama__ have set themselves this term, and from what I’ve seen, they have indeed been phenomenally successful.

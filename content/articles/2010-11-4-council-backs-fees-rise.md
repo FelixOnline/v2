@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union Council passes policy supporting Browne Review, including uncapped fees
 date: "2010-11-04 18:59:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "321"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: "http://www.felixonline.co.uk/?user=ks607"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This week [Imperial College Union Council accepted Union President Alex Kendall’s Higher Education Funding Policy paper](http://www.imperialcollegeunion.org/news/union-council-vote-to-support-browne-review,422,ICUNS.html). The paper broadly supported the Browne Review, with Kendall warning against “reactionary” behaviour similar to that of the NUS, suggesting that students should be prepared to “work with universities, not against them”.

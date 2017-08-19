@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Quite an innocuous, and yet surprising vegetable, the humble aubergine (or eggplant) is a versatile food for all manners of culinary pursuits, and others.
 date: "2017-01-20 15:44:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6675"
@@ -33,15 +34,6 @@ image_height: "1048"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes, the aubergine – delicious in dips, smokey and rich, and yet equally at home in a spicy, lip-smacking curry, the aubergine is a vehicle for flavour without compare. I think my love affair began when I would take home small scoops of baba ghanouj, a levantine dip of smoked, roasted aubergine, with tahini and lemon, after school from my local turkish deli. Savouring the creamy, salty and yet slightly bitter paste, I was transported away from deary England to an oasis, filled with travellers from across the desert, sharing tales and eating. What an innocent, and dull, life I lived.

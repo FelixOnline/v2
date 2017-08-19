@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As term begins, we sift through Imperial's science headlines to bring you the latest news
 date: "2011-09-30 11:02:39 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1458"
@@ -33,15 +34,6 @@ image_height: "354"
 image_attribution: "howshealth.com"
 image_attribution_link: "http://howshealth.com/wp-content/uploads/2010/06/Statin-medicines.jpg"
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 While you’ve been busy travelling the world, waiting for term to start, the staff at Imperial have been pushing the boundaries of human knowledge. The keen students amongst you may be aware of what headlines Imperial has been making over the last few months. But for those of you whose _New Scientist_ subscription was ended abruptly as soon as you got your offer, [Felix Science](http://www.facebook.com/FelixScience) has a round up of some of the most interesting and important science coming out of the College this summer.

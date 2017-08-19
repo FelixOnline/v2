@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Bowers becomes a global dictator while reviewing Fate of the World
 date: "2011-05-12 18:41:25 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1197"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year is 2020 and climate change has reached critical levels. The global temperature is rising, the Maldives are being evacuated, and countries have realised that their individual efforts are no longer enough. 2018 brought what scientists called the world’s first ever “hypercane”, and the serious possibility of dangerously high temperatures by 2100, along with growing economic uncertainty, is leading to growing civil unrest.

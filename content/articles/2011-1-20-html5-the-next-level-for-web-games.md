@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gaming is no longer all about consoles. Welcome to HTML5 gaming!
 date: "2011-01-20 20:01:38 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "620"
@@ -34,15 +35,6 @@ image_height: "2550"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Gaming is no longer all about consoles. Web games have gone from being the domain of bespectacled nerds to the salvation of the chronically bored masses. As game authors set the bar increasingly higher and tax our browsers to the limit, a new contender enters the eternal web format wars. To make a difference, it’s going to have to be fast, good-looking and feature-rich.

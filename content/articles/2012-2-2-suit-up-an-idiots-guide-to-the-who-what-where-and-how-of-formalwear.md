@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A wise man once said that there is only one thing a man can do when he’s suffering from a spiritual and existential funk. Go to the zoo, flip off the monkeys? “No,” says Ron Burgundy, “buy new suits.” Saskia Verhagen and Alice Yang show you the ropes.
 date: "2012-02-02 20:32:58 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2098"
@@ -34,15 +35,6 @@ image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Double-Breasted Suit

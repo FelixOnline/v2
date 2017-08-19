@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tell Spring Not to Come This Year is a vital, beautiful exploration of a broken country
 date: "2015-11-20 14:13:16 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5769"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Tell Spring Not to Come This Year PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Tell Spring Not to Come This Year_ is named after a poem chosen by one of its main subjects: Commander Jalaluddin of the 3rd Brigade of the Afghan National Army (ANA). The poem is a reflection on rebirth and renewal of a country, and the impossibility of such a renewal while the land is still full of death. A mournful poem, it is in many ways a perfect encapsulation of what the film wishes to show us.

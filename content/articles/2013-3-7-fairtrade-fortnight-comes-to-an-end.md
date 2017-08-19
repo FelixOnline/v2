@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Aditya Narayanan is definitely more than just Fairly pleased at how the week went
 date: "2013-03-07 21:33:59 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3425"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It began with an old favourite. A cold Thursday in late February with the promise of ice cream; Ben & Jerry’s ice cream to be exact. The academic year had been welcomed with a raucous first session in October seeing Activity Space 1 crammed with attendees of a two hour frozen dessert buffet. This time, with the second term waning, a more relaxed affair was anticipated and with this in mind, we had divided it into two sessions. The previous three days leading to this moment saw our stands in the JCR and SAF intermittently approached for ticket purchases. But we were experienced heads in the game, knowing that this was nothing more than the calm before the storm.

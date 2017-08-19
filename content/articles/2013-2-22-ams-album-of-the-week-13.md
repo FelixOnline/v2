@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Veronica Falls: Waiting for Something to Happen
 date: "2013-02-22 01:22:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3359"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Veronica Falls released their self titled debut album back in 2011 to a smattering of applause from the indie pop scene. Adding shoegaze elements and some great little indie guitar riffs to the basic Camera Obscura template made for a very listenable and funalbum. It never really clicked for me though, and after a few listens I’d pretty much forgotten about the band. That is until a few weeks ago, when I saw they’d released a new album, and decided to give it a go. I expected very little, since bands with forgettable debuts tend to release even worse sophomore records. Instead, I was blown away. This could well be my favourite twee pop release for a couple of years.

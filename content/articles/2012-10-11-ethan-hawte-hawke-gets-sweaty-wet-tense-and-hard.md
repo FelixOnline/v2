@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Just a standard horror film? Well, the star is a bit slow to grasp the plot
 date: "2012-10-11 21:09:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2664"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s a shame characters in horror films leave things until too late to put the pieces together. They spend an agonising part of the running time going through all sorts of danger and jump scares but refuse to admit that there’s something wrong with the house they’re living in. It’s not entirely clear just what Ellison Oswalt (Hawke) is trying to achieve when he moves into the house where an entire family was hanged in their garden. Sure, he’s a true-crime writer but did he really need to drag his family into the scene of the crime? He of course keeps this little secret to himself, with his wife Tracy (Juliet Rylance) and two children completely unaware of what they are in for.

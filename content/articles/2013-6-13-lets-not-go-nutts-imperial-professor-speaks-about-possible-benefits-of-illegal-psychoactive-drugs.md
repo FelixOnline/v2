@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But is the government suppressing research? Philippa Skett takes a look at Nutt’s latest paper
 date: "2013-06-13 22:44:19 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3681"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial’s own Professor David Nutt, Head of the British Neuroscience Association, former chairman of the Advisory Council on the Misuse of Drugs (ACMA), and frenemy of Home Secretary Jacqui Smith after comparing horse riding dangers to taking ecstasy, isn’t one for keeping quiet when it comes to drugs. It therefore came as no surprise when this week his paper on drug legislation and its possible influence in neuroscience research came with an underlying message: it’s about time the government got their act together.

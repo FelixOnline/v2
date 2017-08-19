@@ -4,6 +4,7 @@ title: >
 subtitle: >
   007 comes to Imperial
 date: "2012-10-26 01:38:02 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2729"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a lot of you must know, because it would almost have been impossible to miss for even the keenest attendee of the Library, the new James Bond movie Skyfall premiered at the Royal Albert Hall on Tuesday night. Prince Consort Road was partially closed off and access was restricted around the area.

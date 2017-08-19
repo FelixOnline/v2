@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Five Imperial students will take to the road this summer in an alternative road trip
 date: "2012-03-15 21:04:48 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2368"
@@ -33,15 +34,6 @@ image_height: "859"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This summer I will be part of a group of five Imperial students cycling from Paris to Dakar. Dakar is the capital of Senegal, the most westerly point of continental Africa and over 5,500km from Paris. We will leave from Paris after exams, nipping through the traffic and cutting into the calmer interior of France. We will travel along the Way of St. James, a network of pilgrimage routes converging on the Cathedral of Santiago de Compostela in Galicia. We will depart from the Way around the Pyrenees, long before Galicia in the north west of Spain. Through Spain we will aim for Gibraltar, then taking the ferry across the Straits to the port of Cueta in Morocco.

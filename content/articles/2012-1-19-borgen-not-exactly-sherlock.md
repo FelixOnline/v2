@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Believe it or not, there were other things on tv!
 date: "2012-01-19 19:55:57 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2001"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m afraid that I missed out on the phenomenon that was The Killing so I was eager to watch the BBC’s newest Danish import [Borgen](http://www.bbc.co.uk/iplayer/episode/b019jr8c/Borgen_Series_1_100_Days/). Produced by the same broadcaster as The Killing, Borgen is a political drama about Birgitte Nyborg whose small Moderate party’s massive election gains, following damaging revelations about her rivals, has made her Denmark’s first female Prime Minister.

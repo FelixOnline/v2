@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Park reviews "Burton & Taylor"
 date: "2013-10-25 00:54:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3942"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Already twice married and divorced, this doesn’t exactly scream the best match made in heaven and yet Elizabeth Taylor (Helena Bonham Carter) is eager for her and her ex-husband Richard Burton (Dominic West) to take on a stage play together; Noel Coward’s Private Lives. The news of their upcoming reunion naturally sends the media into a frenzy, and anticipation is running high for what is to become the theatre-going event of a lifetime. The ticket prices are of course on the pricey side, but no matter, since this is Burton and Taylor, a legendary, unmatchable pairing famous both for their professional careers as well as their tempestuous personal lives. The performances sell out, and the pressure is on to put on an outstanding show to do their names justice.

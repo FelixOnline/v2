@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hopefully they’ve got 2020 vision
 date: "2016-11-25 13:20:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6493"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Union this week released its plan so far for 2017-2020 and opened it up to feedback from the student body. This is the final round of drafting, feedback, and re-drafting of the proposals, in a process that’s been ongoing since the start of this calendar year.

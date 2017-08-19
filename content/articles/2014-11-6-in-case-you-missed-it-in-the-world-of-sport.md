@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle takes a look at what’s been going on outside the BUCS League
 date: "2014-11-06 19:28:28 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4779"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Colin Lane"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the Champions League Arsenal blew a 3-0 lead to only draw against Anderlecht at the Emirates. Liverpool’s game at Real Madrid was the source of much discussion, as manager Brendan Rodgers opted to field a much changed eleven against the Galacticos. The Reds lost 1-0.

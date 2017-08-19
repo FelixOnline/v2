@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tested for your pleasure
 date: "2016-04-29 10:43:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6102"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "flowerpicturegalery.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

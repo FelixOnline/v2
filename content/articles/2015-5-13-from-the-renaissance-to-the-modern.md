@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds common ground between two very different shows
 date: "2015-05-13 14:23:09 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5516"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Galerie Gisela Capitain and David Zwirner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The end of last month saw the opening of two exhibitions that delve into the world of art history and theory, taking a critical look at the development, continuation, and deconstruction of certain techniques within the art world. At first glance, the two couldn’t seem more different, one dealing with renaissance drawings and the other focussed on modern photography. But scratch beneath the surface, and they actually share many things in common: an appreciation of the production of images, an exploration of their forms’ respective pasts, and an emphasis on the importance of context within the fine arts.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Artificial Intelligence won't overtake us
 date: "2011-03-10 18:59:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1048"
@@ -33,15 +34,6 @@ image_height: "819"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Polish restaurant on Exhibition Road, [Ognisko](http://www.ognisko.com/), seems to be out of its time. The décor and atmosphere would seem to suggest that mink-ensconced flappers and mustachioed airmen could come swooping into the dining hall at any moment. It’s in these surroundings that I have the pleasure to sit beside Emeritus Professor Igor Alexander, who has just spent the previous hour or so talking about how the interconnectedness of neural networks in the brain could be the cause of consciousness itself. I ask him if his understanding of the brain has altered his experience of the world and his awareness of his own consciousness. He gives a short sincere laugh and replies that it’s made him feel much more comfortable about the whole thing.

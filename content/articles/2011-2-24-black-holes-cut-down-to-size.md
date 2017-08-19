@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shrinking black holes have come down to 1/10th of their previous size
 date: "2011-02-24 20:12:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "884"
@@ -34,15 +35,6 @@ image_height: "1039"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 You might not be able to tell from wherever you are reading this, but black holes in the distant universe just shrunk down to as little as a tenth of their previous size. This is not some cosmic disappearing act; a new analysis of supermassive black holes at the centres of active galactic nuclei has revealed that their masses were previously overestimated by up to a factor of ten. [The paper was published in Nature last week](http://www.nature.com/nature/journal/v470/n7334/full/nature09761.html?WT.ec_id=NATURE-20110217).

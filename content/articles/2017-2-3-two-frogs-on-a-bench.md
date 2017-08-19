@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-02-03 16:36:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6717"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fact: You can win $1,000,000 if you have ‘supernatural abilities’.

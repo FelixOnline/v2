@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The French really do it well. Radio that is
 date: "2012-10-11 21:29:01 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2679"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It seems as though the older you get, the less time there is for doing fun things, like having sex or keeping up with the best new music. (Or maybe that’s just because you have a frigid boyfriend from Imperial and you finally have better things to do with your time than read the slightly ridiculous and shit NME). Although the getting-more-sex issue hasn’t been resolved, a great solution to the latter is the Laura Leishman Project, a show on French radio station Le Mouv.

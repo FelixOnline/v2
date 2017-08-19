@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Four products that are destined to make a big splash in the coming year
 date: "2011-01-13 20:38:02 +0000"
+author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "583"
@@ -33,15 +34,6 @@ image_height: "621"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fa608"
-author_name: "Feroz Abdul Salam"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __The Motorola Xoom__

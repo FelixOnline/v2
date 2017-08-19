@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5512"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Protestors threw traffic cones, smoke bombs and other objects at the police in central London, angry that the Conservatives won the general election.

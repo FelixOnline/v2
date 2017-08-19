@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grace Rahman tells us all about her favourite comic – a cheeky superhero romp
 date: "2015-03-08 16:56:18 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5366"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Image Comics"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I won’t lie, I don’t know shit about comics. I only started frequenting Soho’s GOSH! Comics for the sexy men and proximity to good record stores. Before I started lurking in the graphic novel section of Waterstones, I thought comics simply provided fuel for Marvel Studios to re-hash into a new blockbuster every summer. Don’t get me wrong, I know my Aquaman from my Iron Man, but beyond the necessary general knowledge to get me through a rogue DC/Marvel question during Mastermind, I just wasn’t interested. And I’m still not interested in the world of superhero comics, despite recent expansion from the cis white male template that the genre traditionally serves so well. The latest incarnation of Ms Marvel, written by a female Muslim convert, is a teenage Pakistani living in New York. Her parents are terrified she’ll have sex or not become a doctor.

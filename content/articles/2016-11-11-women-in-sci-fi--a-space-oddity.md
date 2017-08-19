@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Do like Arrival and Gravity mark a breakthrough of the sci-fi glass ceiling, asks Fred Fyles? Or do they play into the tropes well established in the genre?
 date: "2016-11-11 13:44:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6420"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Paramount Pictures"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Around the halfway point of Denis Villeneuve’s latest sci-fi thriller _Arrival_, which touches down this week, I found myself questioning the circular nature of time. But while the film itself – with its focus on language, neurology, and chronology – does try and upset our conventionally-held notions of time (to say any more would risk spoiling it), my confusion was more simply explained as a regular case of déjà vu: haven’t we already seen this before?

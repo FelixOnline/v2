@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Coldwood Interactive’s Unravel is smart, but frustrating
 date: "2016-02-26 11:56:37 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5977"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "Unravel, Electronic Arts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Platformers (that aren’t made by Nintendo) have seen a revival in recent years, with a large focus on artstyle and graphical fidelity. _Rayman Legends_, _LittleBigPlanet_, _Bionic Commando_, and _Shadow Complex_ are all notable for their presentation, whether realistic or stylised. Innovating within the platforming genre is hard, so developers often use visuals to distinguish their work.

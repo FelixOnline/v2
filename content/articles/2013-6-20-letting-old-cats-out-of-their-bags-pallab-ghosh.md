@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah interviews three Ex-Editors on their experiences editing the newspaper (Part 2 of 3)
 date: "2013-06-20 16:41:48 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3705"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Pallab Ghosh was Felix Editor from [1983/84](http://felixonline.co.uk/issuearchive/year/1983/). He is currently a science correspondent at the [BBC](http://www.bbc.co.uk/news/technology-22249490). I met him in the BBC offices. When he was Editor they printed in their in house print shop and the Editor was also the manager of the print shop, who printed club leaflets. He tweets as [@BBCPallab](https://twitter.com/BBCPallab).

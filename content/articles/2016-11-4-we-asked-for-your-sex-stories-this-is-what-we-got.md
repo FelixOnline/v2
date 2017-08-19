@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We took to social media and asked you for some of the funniest sex stories you felt like sharing with us. These are the best of the bunch. If you have any stories that you think deserve to be featured in the paper, send them to us at milfelix@ic.ac.uk
 date: "2016-11-04 15:48:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6400"
@@ -33,15 +34,6 @@ image_height: "1040"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Call me James

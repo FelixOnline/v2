@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Iron Man 3 Return
 date: "2013-04-30 10:46:21 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3502"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It would be safe to assume that after the events of Avengers Assemble, our Iron Man Tony Stark (Downey Jr.) is quite capable of handling almost anything that comes his way. He fought alien robots, flew off a nuclear bomb out of the earth’s atmosphere, and quite literally came back from the dead. And yet here is another sequel in which Stark is really, really about to meet his match. Every superhero film promises somewhat of an upgrade when it comes to antagonists, inventing one badass villain after another. Here the billionaire playboy philanthropist squares off against an army of fire-breathing (yes, really), explosive human bombs who also have the ability to regenerate.

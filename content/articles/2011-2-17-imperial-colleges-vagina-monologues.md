@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Review of Imperial College's Drama Society adaptation
 date: "2011-02-17 19:02:15 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "810"
@@ -33,15 +34,6 @@ image_height: "5096"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yikes, despite the title, I didn’t exactly realise that this was going to be exactly what it says on the tin. Eve Ensler’s all female and always controversial The Vagina Monologues saw an adaptation by DramSoc on three nights last week as part of SHAG Week events, and the taboo busting subject matter had me shifting uncomfortably in my seat.

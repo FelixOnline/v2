@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonathan Kim discusses the election site’s technologies
 date: "2012-03-08 21:36:28 +0000"
+author_id: "cb908"
 
 # Attributes from Felix Online V1
 id: "2326"
@@ -34,15 +35,6 @@ image_height: "1241"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cb908"
-author_name: "Chris Bowers"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The web is changing. Sites such as Facebook and Twitter keep you hooked by constantly updating in real-time any activity that happens in your social network. This is incredibly powerful and last year the Union used this to create the incredibly successful real-time voting statistics page. Along with a lot of people, I was glued to the page during election week, transfixed by the moving bars and animated numbers that were constantly changing as students placed their votes. Technically however, it was a far from perfect system that caused the entire union server to grind to a halt. This year Paul Beaumont came to me with the suggestion that I have a go at improving it, and I would like to share some thoughts on how the technology behind the new system is shaping today’s world wide web.

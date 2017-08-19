@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sit-down formal dinner back on the menu for this year’s event
 date: "2012-02-16 22:08:41 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2209"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [In a paper](http://www.imperialcollegeunion.org/data/files/summer-ball-2012-plan-3966.pdf) brought to Imperial College Union Council last Monday (February 13) Deputy President (Finance & Services) Michael Foster outlined plans for this year’s Summer Ball, which will see the return of black-tie and a formal dinner.

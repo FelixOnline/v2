@@ -4,6 +4,7 @@ title: >
 subtitle: >
   UN goal to seek greater female presence in science
 date: "2015-10-23 11:35:36 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5666"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last month the United Nations adopted a new manifesto to change the world. Sounds dramatic, but the Global Goals for Sustainable Development are the new benchmark to measure our progress as a species for the next 15 years; and it turns out the scientific community may be the key to unlocking such high ambitions.

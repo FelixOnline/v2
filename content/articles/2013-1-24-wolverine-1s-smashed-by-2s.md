@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Sport learns of the strange goings on at IC Dodgeball...
 date: "2013-01-24 20:38:52 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3153"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Sunday 13th January, the Wolverines set off for Essex with 3 teams ready to hit their first tournament of 2013 in force. In a first in the club’s history, there were no delays in setting off, nor incidents on the way there (minus Scott Esnouf’s typical minibus stalling, mind).

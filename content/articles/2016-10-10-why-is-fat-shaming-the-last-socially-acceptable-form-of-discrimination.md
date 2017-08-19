@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey discusses the abuses, challenges, and stigmas faced by fat people in our modern, Western society.
 date: "2016-10-10 11:41:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6317"
@@ -34,15 +35,6 @@ image_height: "2112"
 image_attribution: "Yosra T"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Being fat is seen as the worst thing that a person can be. Fat is often synonymous with lazy, slovenly, unattractive, and unhealthy, and becomes a reason to deny someone any semblance of humanity – fat people aren’t seen as worthy.

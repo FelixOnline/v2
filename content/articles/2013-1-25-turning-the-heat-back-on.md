@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh guides you through a novel way to manipulate heat
 date: "2013-01-25 01:49:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3185"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A researcher at the [Massachusetts Institute of Technology](http://www.mit.edu/) (MIT) has, through his self-devised technique, managed to successfully exercise control over heat the same way we enjoy control over light through mirrors and lenses (most disappointingly falling short of developing a giant heat ray, for the time being). This new technique, which utilises semiconducting alloy crystal nanostructures and similar materials, manipulates the physical separation between atoms so that they correspond to the wavelengths of heat phonons.

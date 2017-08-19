@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eva Rosenthal Mena discovers if beauty brings real happiness with the IC Drama Society.
 date: "2010-10-14 19:16:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "201"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Beauty does not bring true happiness. Marius von Mayenburg’s 'The Ugly One', produced by the [Drama Society](http://union.ic.ac.uk/arts/dramsoc/), discusses this theme in a comedic and slightly ridiculous approach whilst never letting us forget the tragedy of trying to conform to social norms.

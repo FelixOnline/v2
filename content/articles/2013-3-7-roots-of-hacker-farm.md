@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi harvests info ahead of an IC Radio exclusive
 date: "2013-03-07 21:38:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3427"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ahead of the Hacker Farm exclusive on IC Radio next week, I spoke to them about their influences, motivations and what’s coming up next. Kek W ably walked me through the HF ethos.

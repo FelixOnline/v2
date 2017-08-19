@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You can forget about elections for the rest of the year
 date: "2017-03-17 13:03:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6897"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following a 36.79% turnout (down a bit from last year but still the third-highest in the country according to the Union website), elections are finally over and winners have been announced.

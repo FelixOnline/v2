@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Indira Mallik analyses the divide between the have and have-nots, and Britain’s arts class war
 date: "2015-01-31 18:37:40 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5165"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Dominique Nabokov"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, the unlikeliest of arguments took place. The participants: the somewhat passé singer James Blunt and Labour’s new culture secretary Chris Bryant. The topic: diversity (or lack thereof) in the British arts sector. Bryant sparked the row when, in his first interview since becoming shadow culture secretary, he addressed the “cultural drought” facing Britain outside of London and the south-east due to a lack of funding. If elected, he said, Labour would work to encourage the arts world to hire from people from a variety of backgrounds. Crossed-words might have been avoided had he not added “I am delighted that Eddie Redmayne won [a Golden Globe for best actor for _The Theory of Everything_], but we can’t just have a culture dominated by Eddie Redmayne and James Blunt and their ilk,” referencing the actor and the singer’s privileged backgrounds – Eddie Redmayne was educated at Eton and Blunt at Harrow. Blunt hit back with an open letter to Chris Bryant, accusing the MP of “telling working class people that posh people like me don’t deserve [success], and that we must redress the balance.” Blunt went on to say that Bryant was peddling an “envy-based” agenda which promoted mediocrity in the name of diversity above merit. Chris Bryant replied in a letter of his own saying “I’m delighted you’ve done well for yourself… It is far tougher [to forge a career in the arts] if you come from a poor family where you have to hand over your holiday earnings to help pay the family bills.”

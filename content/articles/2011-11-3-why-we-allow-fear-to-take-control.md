@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Evolution leads to key behind a scared response
 date: "2011-11-03 19:49:27 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1656"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was a dark, misty, eerie night this Halloween. I was walking alone through a deserted, narrow street in London. The sound of footsteps behind me made me start. I stopped and listened. The noise stopped. I carried on walking. The footsteps started again. All my senses were heightened. I began to wonder if someone was in the dark behind me. The footsteps got nearer. My heart started racing, palms started sweating. The footsteps got louder. Fear took over and I started looking for somewhere to run, to hide, to get away.

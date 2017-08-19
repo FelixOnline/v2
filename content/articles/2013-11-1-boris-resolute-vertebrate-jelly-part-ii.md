@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eoghan should probably have a chat to Boris next week...
 date: "2013-11-01 10:54:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3979"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Daily Mail"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 “If the ball came loose from the back of the scrum, which it won’t of course, it would be a great, great thing to have a crack at.”

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma struggles with taming his titans, in a Reus review
 date: "2013-06-05 12:57:52 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3654"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ever wanted to build a boring wasteland of a planet into a thriving world? Or control giants that can influence the planet on a large scale? “Dammit, ocean giant, I said one space to the left!” Okay, command giants; they’re a bit imprecise. “Come back forest giant, I need you over here!” The silly things. Anyway, forget Black & White, four giants is much more fun than one creature that doesn’t even have complete control over the topography!

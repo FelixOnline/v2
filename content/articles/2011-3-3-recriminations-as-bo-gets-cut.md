@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Computer error contributes to heavy cuts during budgeting
 date: "2011-03-03 05:43:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "979"
@@ -34,15 +35,6 @@ image_height: "3264"
 image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Clubs and Societies Board ](http://www.imperialcollegeunion.org/representation/committees/index,68,COM.html)(CSB) have allocated their funding for the next academic year, with the City and Guilds College Union (CGCU) taking a 30% cut whilst the Royal Society of Science Union (RSCU) allocation is to rise by 95%.

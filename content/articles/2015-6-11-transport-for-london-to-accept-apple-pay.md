@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent on the move which makes TfL the first public transport operator to accept the payment technology
 date: "2015-06-11 22:16:19 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5612"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Tony Wilson, JellyLondon.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Transport for London have announced that they will accept Apple Pay when it launches in the UK in July.

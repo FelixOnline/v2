@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Simpson on television’s best cops, robbers, detectives and con-men
 date: "2011-03-03 20:01:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1001"
@@ -33,15 +34,6 @@ image_height: "1224"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Why is it that we love crime so much? Obviously when one is the victim of such offences (give me five minutes and a rounders bat with the bastard who stole my bike...) it’s a little different, but crime fiction persistently tops the books, films and TV charts. It’s probably the most popular category of television, all that reality piffle notwithstanding (it’s for cretins anyway).

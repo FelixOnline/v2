@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews the alt-country band’s Garage performance
 date: "2014-02-07 04:36:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4337"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I have managed to catch Providence based alt-country act Deer Tick a couple of times at festivals before. I allegedly first caught them back in 2010, although the performance was unmemorable to the point where I actually have no memory of the set. Of course, this could well not be indicative of the quality of the performance; I have forgotten any number of mid-afternoon festival sets over the years.

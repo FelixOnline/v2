@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fluent on Paper recognizes that poetry is meant to be enjoyed not alone and in silence but as a social act
 date: "2011-12-01 20:20:08 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1867"
@@ -33,15 +34,6 @@ image_height: "2358"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 The first poetry evening I attended [left me with the somewhat sour taste of disappointment](http://felixonline.co.uk/arts/333/-poetry-unplugged-and-unwanted/), enhanced, no doubt, by the dashed hopes I’d been harbouring all week. Instead of great poetry, I was faced by something resembling slapstick stand-up comedy.

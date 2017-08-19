@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles gets a look at Basil Twist's Japanese-inspired production of Dogugaeshi at the Barbican Centre
 date: "2015-01-31 17:25:44 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5163"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Richard Termine"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Puppetry is a dying art. It may not attract the same kind of think-pieces that occur when we fear that e-books may replace the comforting rustle of pages, or when small theatre companies are snuffed out one-by-one due to lack of funds, but the fate facing the puppeteer is no less uncertain. _Dogugaeshi_ at the Barbican Centre makes us aware of both how far the art form has slipped from popular opinion, and displays the work of a puppeteer who has - to the extent that puppeteers can - made it big.

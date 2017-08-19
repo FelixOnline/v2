@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5434"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Tate"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In his poem _Larynx_, Pablo Neruda implored of Death:

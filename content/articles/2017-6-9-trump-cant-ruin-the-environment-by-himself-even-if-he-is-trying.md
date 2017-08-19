@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sara Hamilton thinks the withdrawal of the US from the Paris Agreement is not ideal, but the rest of the world can still try to make a difference
 date: "2017-06-09 14:56:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7010"
@@ -33,15 +34,6 @@ image_height: "1141"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s a lot one can say against Donald Trump, but thus far he has stuck to his word (or tried to a least).  After doing his best to rid the US of ‘bad hombres’, last Thursday he proceeded to attack another of his enemies – the environment – by announcing the withdrawal of the US from the Paris agreement. The withdrawal process is expected to take four years, but has already invoked a large outcry from scientists everywhere.  Read below for a full analysis for some of the questions and answers of what the deal is, why Trump pulled out and the repercussions this has.

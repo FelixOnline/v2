@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "656"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The introduction of 18 Muslim and Jewish students acting as “campus ambassadors” in 10 universities across the UK is hoped to promote more interfaith relationships between the two communities.

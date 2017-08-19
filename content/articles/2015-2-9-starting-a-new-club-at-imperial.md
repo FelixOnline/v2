@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How hard can it be...right? Follow the flowchart to find out
 date: "2015-02-09 18:56:01 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5214"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union boasts over 340 societies, and that number grows every month, with new societies proposed including Wine Tasting, Airsoft and three different applications for weightlifting societies.

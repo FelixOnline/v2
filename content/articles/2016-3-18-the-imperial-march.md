@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cross country take on the Salisbury 10
 date: "2016-03-18 12:08:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6078"
@@ -34,15 +35,6 @@ image_height: "960"
 image_attribution: "IC Cross Country"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Cross Country team began the road season in breath-taking style last weekend, storming to victory in the Men’s team category at the Salisbury 10 mile. A road race that ranks in stature alongside the likes of the London Marathon, the Tour de France, and the Indy 500; fourteen of Imperial’s leanest athletes took to this hallowed start line with the scent of success in their nostrils. With Chris Thomas’s infamous bowels suitably cleared, the starting gun heralded the passing of 723 runners over undulating tarmac that ran through exotic Wiltshire countryside.

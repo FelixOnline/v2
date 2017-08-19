@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mohammad Mirza finds a fat slice of Brooklyn in Shepherds Bush
 date: "2013-02-01 00:49:51 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3234"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 After their successful release of Fragrant World, Yeasayer decided to grace the Shepherd’s Bush Empire with a set list heavy on songs from their latest album. In the air was a whiff of dope.

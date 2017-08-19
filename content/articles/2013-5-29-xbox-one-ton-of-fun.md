@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Apparently the one and only center of your new Multimedia world! It may even catch you masturbating...
 date: "2013-05-29 12:38:20 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3628"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hey, an article about the Xbox One, I hear you exclaim, shouldn’t that be in the gaming section? Well there probably will be one, describing all its features and games that will be available at release. However this article will focus on the Xbox One’s, as long with others, intrusion into the multimedia market.

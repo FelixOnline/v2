@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One point in it. MUST TRY HARDER.
 date: "2013-02-01 00:26:14 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3227"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On a balmy Wednesday afternoon, ICURFC travelled to the all weather pitch at Maidenhead RFC for a double header match against Reading Uni.

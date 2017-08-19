@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What happens now?
 date: "2016-07-04 09:55:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6292"
@@ -33,15 +34,6 @@ image_height: "800"
 image_attribution: "Stuart Low"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 So, we’re out. What now, eh? What came to pass last Thursday and early Friday morning was, whichever way you cut it, historic. No full country, this deep in the EU, has left it before and now we’ve got to deal with the fallout for better or for worse.

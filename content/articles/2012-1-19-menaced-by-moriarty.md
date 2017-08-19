@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah goes all Sherlock Holmes on the scriptwriting of the BBC hit
 date: "2012-01-19 19:44:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1998"
@@ -34,15 +35,6 @@ image_height: "360"
 image_attribution: "BBC"
 image_attribution_link: "http://static.bbc.co.uk/programmeimages/640x360/clip/p00n2bld.jpg?nodefault=true"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 First of all, it’s worth saying that I enjoyed _[Sherlock](http://www.bbc.co.uk/programmes/b018ttws)_ and, overall, thought it was a good watch. In fact, I think that the first series was excellent, except for one major problem which I’ll get to later. However, in the second series, there are some things that bugged me about it. I thought I’d focus on those as you’re also getting another view focussing on the best bits (we spoil you).

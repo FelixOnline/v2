@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lighter than the pile of revision notes an arts student makes. Take THAT arts students.
 date: "2013-05-22 14:30:34 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3598"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The lightest material to date has been created; weighing in at less than 10 milligrams per cubic centimetre, it is lighter than aerogels and dense foams. The Guinness world record beater has a density of just 0.9 milligrams per cubic centimetre, in perspective this is 100 times lighter than Styrofoam. The research was conducted by scientists from the University of California, Irvine, HRL Laboratories and the California Institute of Technology; it was funded by the American Defense Advanced Research Projects Agency.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don't hate them cause they're well protected
 date: "2016-12-16 16:25:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6626"
@@ -33,15 +34,6 @@ image_height: "690"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was an early rise. Apparently too early for some of our squad. We embarked on our journey to the University of East Anglia Pirates with a heavily depleted squad and a hubris that we would make them walk the plank once again.

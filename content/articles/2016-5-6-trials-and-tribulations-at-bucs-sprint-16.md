@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Missing athletes, lost bikes and misdirection from marshalls
 date: "2016-05-06 10:24:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6139"
@@ -34,15 +35,6 @@ image_height: "576"
 image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Sunday 1st May, seventeen of Imperial’s bravest triathletes descended upon the sleepy town of Calne, Wiltshire to compete in the 2016 BUCS Sprint Triathlon. Gathered outside SAF at the ungodly hour of 5:45am, some quick Imperial brains spotted that there were actually only sixteen recruits present; we were missing our secret weapon, scholarship athlete Alistair Wallace. A few panicked phone calls later and it became clear that he had slept through his alarm and was not going to make the rendez-vous. We departed one man down, hoping that he would be able to make his own way to the race.

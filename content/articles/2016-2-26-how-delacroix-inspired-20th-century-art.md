@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The National Gallery highlights the old masters’ influence on Impressionists
 date: "2016-02-26 11:58:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5978"
@@ -34,15 +35,6 @@ image_height: "1152"
 image_attribution: "Philadelphia Museum of Art"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Most would not expect the last painter of the grand style to be one of the first modern artists, and so it is quite daring and unique for an exhibition to make such a statement. _Delacroix and the Rise of Modern Art_ sheds light on Delacroix’s overlooked role as being an early modern revolutionary in both his individual style and the influence he had on succeeding modern masters.

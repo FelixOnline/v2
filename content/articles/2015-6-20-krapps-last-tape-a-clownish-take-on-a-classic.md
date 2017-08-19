@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5645"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Lucie Jansch"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the __Barbican Centre__’s month-long celebration of Samuel Beckett comes to an end, what better production can see us out than _Krapp’s Last Tape_, a tale of a man looking back on the past, evaluating his actions? There is a palpable sense of excitement in the __Barbican Theatre__, as famed director Robert Wilson is taking on the role, but from the offset, it is clear that things are going to be different with this version.

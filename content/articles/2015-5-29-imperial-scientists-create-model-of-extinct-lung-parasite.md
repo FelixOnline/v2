@@ -4,6 +4,7 @@ title: >
 subtitle: >
   3D model created by Dr Mark Sutton of Earth Science and Engineering
 date: "2015-05-29 01:16:37 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5582"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A 3D model of a 425 million year old fossil of a sea creature has allowed researchers to obtain the first examples of Invavita piratica (invading pirate) an ancient ancestor of a lung parasite called Tung Worm, sometimes found in humans.

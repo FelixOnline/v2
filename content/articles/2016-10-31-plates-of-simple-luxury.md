@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix visits the refined Camino for a relaxed brunch of spanish delights, with crisp Patatas Bravas, inky Arroz Negor and Baby squid. Oh, and a bottle of cava for good measure.
 date: "2016-10-31 23:18:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6373"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Cristy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The luxury of Sunday mornings. The only morning in the week when it is entirely appropriate to put a hush to the endless list of unwatched Panopto recordings, lie-in until the church bells ring, then lazily roll out of the house in time for grocery shopping. Aside from snatching the half-priced flowers from Waitrose to adorn my ill-maintained window sill, another one of my weekend leisures I have grown to appreciate is brunch.

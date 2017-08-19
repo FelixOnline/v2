@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach discusses plans to create a full genetic map of all life on Earth
 date: "2017-03-03 15:11:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6841"
@@ -33,15 +34,6 @@ image_height: "2293"
 image_attribution: "Marc Veraart"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 23rd of February, a small group of researchers announced they wanted to sequence “all life on Earth” at a meeting organised by the Smithsonian Initiative of Biodiversity Genomics and China-based sequencing powerhouse BGI. The plan has been aptly named the Earth BioGenome Project (EBP), and would firstly focus on sequencing the DNA of the eukaryotes – the group of organisms that includes plants, animals, fungi and single-celled microorganisms like amoebas.

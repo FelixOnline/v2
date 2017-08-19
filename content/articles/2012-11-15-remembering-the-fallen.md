@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Dickson reports from the service at the Cenotaph
 date: "2012-11-15 22:14:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2911"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s seven AM, I’ve been up for two-and-a-half hours, and the Portland Stone of Whitehall is quite literally glowing a magnificent golden-cream in the cool warmth of the winter morning’s sun. As a student you can imagine that I’m not predisposed to having a great sympathy for waking up at the unholy hour of four-thirty AM, unless for a ludicrously inexpensive flight. But here I am – with another four hours still to wait for what I came for; already starting to lose the feeling in my extremities from the cold.

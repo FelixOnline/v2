@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Does John Terry’s personal life have any bearing on his skills as a footballer? No. He just happens to be shit at both
 date: "2010-11-04 18:56:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "320"
@@ -33,15 +34,6 @@ image_height: "672"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week’s [Black Sheep certainly got the column started with a bang](http://felixonline.co.uk/comment/278/is-infidelity-really-such-a-crime-/). At least I thought it had, for the first hundred words. Then I realised the noise was coming from me smashing my head through the paper onto the desk underneath it.

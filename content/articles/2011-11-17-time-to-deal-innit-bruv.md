@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Top Boy is top stuff, blud
 date: "2011-11-17 21:49:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1787"
@@ -33,15 +34,6 @@ image_height: "838"
 image_attribution: "Channel 4"
 image_attribution_link: "http://www.channel4.com/programmes/top-boy"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Welcome to Summerhouse, fam. Here, food (the kind you smoke) is sold on the streets by 10-year olds, snakes (traitors) get stabbed and adults run farms (not the kind that grow fruit and veg). In the shadow of the mighty Canary Wharf, this Hackney estate is the centre of Dushane and Sully’s drug dealing business. And they are expanding. Ra’Nell is a local 13-year old who has to live alone and fend for himself whilst his mother is in a mental hospital. With his friend Gem, they get sucked into the gangs and violence of the streets.

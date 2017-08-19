@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix's resident Sports Editor studies Imperial's sporting past
 date: "2011-11-03 22:12:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1700"
@@ -34,15 +35,6 @@ image_height: "314"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This is it, then. The big one. The one you’ve all been waiting for. I don’t know about the rest of the Felix team, but I hope you have as much fun reading this one as us editors down here have had doing it.

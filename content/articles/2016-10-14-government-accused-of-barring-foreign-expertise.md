@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Calling it a misunderstanding doesn’t make it better
 date: "2016-10-14 09:56:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6330"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: "Umezo Kamata"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, foreign academics from the London School of Economics (LSE) accused the British Government of excluding them from advisory talks on Brexit.

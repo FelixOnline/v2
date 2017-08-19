@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles finds that The Broken Heart fails to impress
 date: "2015-03-25 13:54:32 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5456"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Marc Brenner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The descriptor ‘little performed’, when applied to a piece of theatre, is a double-edged sword: on the one hand, the idea of a play returning to a London stage after an absence of 5, 10, 20 years can be enough to get any number of culture vultures clamoring for a seat; on the other, it begs the question why? Why has the play fallen off the radar? And what does that mean for those trying to bring it back? It is these questions I have in mind when visiting the __Sam Wanamaker Playhouse__, whose latest production _The Broken Heart_ has rarely been performed on stage.

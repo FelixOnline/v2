@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Judo win trophy for the first time in four years
 date: "2010-02-25 18:55:55 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "107"
@@ -34,15 +35,6 @@ image_height: "428"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend, three London teams entered the 18th edition of Sheffield USIST, the biggest international student judo tournament held in the UK.

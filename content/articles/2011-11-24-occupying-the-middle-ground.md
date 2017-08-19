@@ -4,6 +4,7 @@ title: >
 subtitle: >
   When it comes to political ideology, it might be a good idea to be a little open-minded
 date: "2011-11-24 23:13:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1848"
@@ -34,15 +35,6 @@ image_height: "373"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 George Howard wrote ever such an interesting piece on the Occupy protests the other week. You remember? It was the one that kept using the word socialist to describe a bunch of people expressing an opinion. You don’t remember. That’s alright, it’s not really necessary for what I’m going to say anyway. Let’s begin with the Occupy protests, and leave George to one side for a while.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Kaye, Deputy President (Welfare) passed paper in Council on Tuesday
 date: "2015-02-12 20:54:55 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5235"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Christopher Kaye, Deputy President (Welfare), achieved victory in Union Council this week when his paper on reducing the cost of female sanitary products was passed by those present.

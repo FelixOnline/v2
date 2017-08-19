@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1483"
@@ -34,15 +35,6 @@ image_height: "750"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Earlier this month it was revealed that [Imperial College London had slipped eleven places in the Sunday Times University League Table for 2012](http://felixonline.co.uk/news/1467/student-satisfaction-hits-tables/). With such a dramatic fall from third to fourteenth position nationally, this is undoubtedly a cause for concern.

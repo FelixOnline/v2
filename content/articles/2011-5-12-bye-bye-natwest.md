@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sherfield branch closes its doors for last time
 date: "2011-05-12 16:08:25 +0100"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "1185"
@@ -34,15 +35,6 @@ image_height: "4928"
 image_attribution: "Rob Bishop"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College branch of NatWest in the Sherfield building closed its doors for the final time last Thursday. The reason for the closure, [which was first reported in Felix in February](http://felixonline.co.uk/news/865/sherfield-natwest-to-close-in-may/), is unknown as NatWest has repeatedly declined to comment.

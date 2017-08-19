@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saunders' absurdist play Next Time I'll Sing To You gets an airing at Richmond's Orange Tree Theatre; Alex Roocroft is in attendance
 date: "2011-11-17 21:41:46 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1784"
@@ -34,15 +35,6 @@ image_height: "425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [_Next Time I’ll Sing to You_](http://www.orangetreetheatre.co.uk/Next-Time-Ill-Sing-To-You/) is currently being staged at the Orange Tree Theatre in Richmond until December 10. Written by James Saunders in 1962 it has recently been revived by the theatre he had such a close involvement during his career. It is remembered mostly today as the play which saw Michael Caine’s West End debut as Meff when it was first staged at the Arts Theatre. As a story it, it is based around five characters planning a play about the real life story of a hermit who spent the last 36 years of his life in isolation before dying in 1942. As well as loosely telling the story of Alexander James Mason, the Great Cranfield Hermit, it involves the 5 characters bouncing around various topics covering questions of death, identity and their own existence; mostly with irony and humour. In particular, whether, as the hermit had not been seen for such a long period of time, it can be said he really existed at all.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This growing library of originals will be vital to their success
 date: "2016-03-18 12:01:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6073"
@@ -34,15 +35,6 @@ image_height: "641"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Netflix recently has rolled out measures to ban people from using proxies to access their service. What this means for the service’s customers is that you are effectively confined to watching what is available in your own country. This is an issue for subscribers basically anywhere except the US where the catalogue of available material is vastly superior. It remains to be seen, however, whether this was the right decision for them. Immediately after the announcement, there was the expected internet outrage with people saying this move was ludicrous and that they would be cancelling their subscriptions. This, of course, quickly subsided. But the issue at the heart of the dissent remains; is it still worth having a Netflix subscription?

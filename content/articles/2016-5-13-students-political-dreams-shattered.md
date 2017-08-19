@@ -4,6 +4,7 @@ title: >
 subtitle: >
   He obviously wasn’t going to win standing for Labour in Kensington
 date: "2016-05-13 08:49:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6142"
@@ -33,15 +34,6 @@ image_height: "5312"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An Imperial student with dreams of becoming a councillor was beaten by two Conservative candidates to join Kensington and Chelsea council.

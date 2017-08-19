@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A thrilling adventure into the wonderful world of Pandora
 date: "2010-01-13 20:55:25 +0000"
+author_id: "egk08"
 
 # Attributes from Felix Online V1
 id: "22"
@@ -34,15 +35,6 @@ image_height: "532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "egk08"
-author_name: "Edmund Knock"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ‘I’m the King of the World!’ declared James Cameron after the box-office smashing, Oscar hauling behemoth of a film that was _Titanic_. With Hollywood wrapped around his little finger, Cameron looked poised to produce many a hit-film from his throne but quicker than you can say Terrence Mallick, he disappeared. During the decade long absence of his highness, many a young pretender have arisen to steal his crown and whilst Michael Bay and Roland Emmerich’s mediocre blockblusters have filled the void, the return of King Cameron seemed to herald the revitalisation of the action film genre. So just what has JC been doing for the past eleven years? We were promised the biggest revolution in cinema history since the Jazz Singer and a revolution he has certainly started, just how big it will be, only time can tell.

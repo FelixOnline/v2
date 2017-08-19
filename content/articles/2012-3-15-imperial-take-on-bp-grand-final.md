@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Internship on offer for grand winner
 date: "2012-03-15 21:38:18 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2390"
@@ -33,15 +34,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the Regional Semi-Finals last month, two teams from Imperial College have made it to the [BP Ultimate Field Trip](http://www.bp.com/extendedsectiongenericarticle.do?categoryId=9038817&contentId=7071011) Grand Final. The Grand Final will take place in the Royal Institute on 8 May. Imperial teams make up two of the three teams competing to win the prize of a 6-8 week internship in Trinidad and Tobago in the Gulf of Mexico.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles takes us through the work of his favourite writer
 date: "2015-03-06 13:10:05 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5349"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first book that I can remember being upset at finishing, not just sad, but actually physically hurt, was Margaret Atwood’s _The Handmaid’s Tale_. A story of a future in which radical Christians have transformed America into a theocracy, and the declining fertility rate has led to the remaining fecund women being enslaved as ‘handmaids’, _The Handmaid’s Tale_ kick-started in this prepubescent boy a love of dystopian fiction; _1984_, _Brave New World_, _We_, these all followed in rapid succession, but none could match the joy I felt when reading Atwood’s carefully crafted prose.

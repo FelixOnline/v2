@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jamie Thomas gives his take on why he's voting for the Liberal Democrats next Thursday
 date: "2015-05-02 16:11:11 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5485"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the biggest things I’ve noticed as secretary of the newly formed Liberal Democrat Society this year is that students have very mixed and often strong opinions of the Liberal Democrats. I’m hoping to shine a light to the undecided voter on why the Liberal Democrats deserve your vote on 7th May.

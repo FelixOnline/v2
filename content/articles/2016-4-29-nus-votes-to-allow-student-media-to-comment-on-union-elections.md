@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We weren’t allowed to print this picture we drew as part of last term’s election coverage as the union said it endorsed one of the candidates
 date: "2016-04-29 10:06:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6089"
@@ -34,15 +35,6 @@ image_height: "1786"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At last week’s NUS conference, a motion was passed which should allow student media organisations to cover union elections in more detail.

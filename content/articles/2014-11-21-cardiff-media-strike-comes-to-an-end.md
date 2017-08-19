@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Appeal to stop re-election of paid Editor is granted
 date: "2014-11-21 13:19:09 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4927"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Gair Rhydd"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Student media at Cardiff University went on strike earlier this following a decision by the Student Senate (Cardiff’s version of Union Council) to force a re-election of Cardiff’s Vice-President of Media and Marketing.

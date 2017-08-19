@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster on UCL's cowardice
 date: "2012-11-29 22:54:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2993"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This Tuesday, it was Imperial’s turn to host the Imperial vs. UCL gaming tournament. The room was packed, so I was expecting fierce fighting from both sides. Instead, I was met with familiar faces at every turn. In fact, about 80% of the room were Imperial students, from what I’ve heard.

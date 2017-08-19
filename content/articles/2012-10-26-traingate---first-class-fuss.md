@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Adam Clancy asks if it’s fare to criticise the Chancellor
 date: "2012-10-26 02:37:18 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2750"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The whole ‘traingate’ fiasco actually makes me genuinely pity George Osborne. He must have thought he had it bad when 48 % of the public wanted him removed in a cabinet reshuffle (making him even less popular than Nick Clegg). He must have thought it was a notable low when thousands booed him at the Paralympics. In fact, it must have been pretty atrocious ever since his parents were told by doctors there is no cure for a complete lack of empathy. Still, he never could have thought it come to this, no one could ever conceive that their life could hit the depths it did that ominous day en route to Euston: a stranger high fived a train inspector for giving him a ticket.

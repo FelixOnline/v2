@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In a controversial redevelopment of the union offices, thousands of pounds were spent on stickers, a light-up reception desk and a glass wall
 date: "2015-11-27 11:52:12 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5773"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week it came to light that the union has spent something in the region of £20,000 on the refurbishment of its own office spaces, £5100 of which was spent on a new light-up reception desk. Other monumental costs included £1266 on the removal and disposal of the old reception desk, £4180 on the new glass separating the SAC from staff desks, and the new stickers adorning the area between Metric and FiveSixEight, which cost £1640 to create and install. It is unclear whether this last cost included the price of the perspex added to the wall to protect the adornments.

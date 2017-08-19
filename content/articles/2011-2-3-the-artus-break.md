@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What to do then? How about you jump off a cliff mate, and find out?
 date: "2011-02-03 20:31:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "749"
@@ -33,15 +34,6 @@ image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The focus of my Fridays is the customary philosophy hour lunch break from my lectures. That's when a bunch of Philosophy enthusiasts (read: Greg Artus fans) gather around in the enclosed space once named the Pippard lecture theatre for their weekly dose of arguments and a fine prescription of debating.

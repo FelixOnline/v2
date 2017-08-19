@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial iGem team brings laurels back home, all the way from the US! By Benjamin Miller and Harriet Gliddon
 date: "2010-11-18 21:58:45 +0000"
+author_id: "hg308"
 
 # Attributes from Felix Online V1
 id: "417"
@@ -33,15 +34,6 @@ image_height: "425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "hg308"
-author_name: "Harriet Gliddon"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A team of 10 Imperial undergraduates presented a research project at MIT last week and took away an impressive number of awards. The field was synthetic biolog-y; a groundbreaking approach to designing biological systems using engineering practices. There was some stiff competition between the 130 teams taking part from all over the world, with each project showing the incredible potential of this revolutionary field. From yeast designed to terraform Mars, to using E. coli as a form of data storage, every idea was both inspiring and original.

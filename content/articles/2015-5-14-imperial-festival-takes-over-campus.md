@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson looks at the annual celebration of Imperial’s research
 date: "2015-05-14 22:25:40 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5521"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Campus was swarmed by 15,000 visitors last weekend as the fourth annual Imperial Festival took place. Hosted by Imperial College London, the festival is a celebration of all things science, technology and arts, featuring interactive exhibits, workshops, talks, tours and performances.

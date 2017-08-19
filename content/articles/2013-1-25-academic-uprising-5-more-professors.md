@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3178"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On 17 January, the Higher Education Statistics Agency (HESA) released the first set of data from the [2011/12 Staff record](http://www.hesa.ac.uk/index.php?option=com_content&task=view&id=2662&Itemid=161). This data provides information about staff employment at UK Higher Education Institutions (HEIs) on 1 December 2011. The results have been produced in partnership with the UK administrations and have been released upon approval by the UK Statistics Authority. A detailed analysis of the HESA Staff record will be released in March 2013. Felix did a brief analysis of the results, so you don’t have to...

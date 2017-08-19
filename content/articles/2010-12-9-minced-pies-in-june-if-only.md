@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “Why don’t we celebrate Christmas the whole year?”, asks Rhys
 date: "2010-12-09 21:37:43 +0000"
+author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "538"
@@ -34,15 +35,6 @@ image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ac1507"
-author_name: "Afonso Campos"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What’s the point in Christmas?

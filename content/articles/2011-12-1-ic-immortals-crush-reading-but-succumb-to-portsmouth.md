@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1883"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __American Football__

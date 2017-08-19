@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oreste is on at the Royal Opera House until 19th November 2017
 date: "2016-11-18 15:11:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6472"
@@ -33,15 +34,6 @@ image_height: "638"
 image_attribution: "Clive Barda"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As Oreste started, I thought for a fleeting moment that I was in the wrong place. Had I gotten lost among the twisting alleyways of East London? Why was a mascara-streaked, hammer-wielding teenage girl butchering a hapless prisoner on stage?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Its grand opening happened on Friday
 date: "2016-05-13 08:50:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6144"
@@ -33,15 +34,6 @@ image_height: "1365"
 image_attribution: "Reynolds"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Charing Cross Hospital’s only onsite bar has finally been refurbished by the union, after consultation with students.

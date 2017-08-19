@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Offended by last week's Felix? So was this guy.
 date: "2011-10-20 22:42:10 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1572"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You know, it amazes me sometimes, the levels of objectionable shit I see every day without feeling the need to write about it here. The Christian Union’s latest poster, for instance, which advertised with glee a speaker who is said to “put the fear of God up atheists”, using the same reassuring tones that Crusades-era religious believers were so good at employing. And yet – no column on it. I just couldn’t summon the will to invent new defecation-based swears that adequately captured the barrel-scraping depths to which those shit-gargling evangelists had stooped. Maybe, I thought, I was getting old. I was mellowing.

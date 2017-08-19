@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hundreds of students flock to Beit bars to watch Imperial team storm to 305-75 victory over Cambridge’s Sidney Sussex
 date: "2015-11-06 13:39:41 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5699"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London’s University Challenge team has made another strong appearance on the BBC quiz show, winning their second round match against Sidney Sussex College Cambridge with a final score of 305 to 75.

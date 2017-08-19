@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A term of initial occupancy issues for new postgraduate accommodation
 date: "2011-12-08 19:59:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1905"
@@ -34,15 +35,6 @@ image_height: "1754"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Christmas holidays approach, signalling the end of the first term for the residents in the new [Griffon Studios](http://www.gradpaduk.com/properties/griffon-studios). The new halls of residence, branded a part of accommodation option provider GradPad, opened this October exclusively for postgraduate students. Located south of the river in Battersea, it boasts “affordable, secure and high quality accommodation”. It emulates top-notch student living; over 450 modern studio apartments with wireless internet, free gym on site, large social space with plasma TVs, and a host of shops within five minutes walk. But has this ‘GradPad’ lived up to all of these claims? Upon investigation beneath the shiny exterior of Griffon Studios, cracks appear to have emerged.

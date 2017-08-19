@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Humans have the ability to perform automated tasks whilst subconscious
 date: "2014-11-10 22:50:54 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4849"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists at the University of Cambridge and the Ecole Normale Superieure Paris working on a joint research project have discovered a new phenomenon of the human brain: the ability to perform automated tasks even whilst the subject is unconscious.

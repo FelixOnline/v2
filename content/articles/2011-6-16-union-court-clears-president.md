@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Complaint that Kendall intimidated student not upheld
 date: "2011-06-16 19:00:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1379"
@@ -34,15 +35,6 @@ image_height: "2202"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Union Court has ruled that Union President Alex Kendall did not act inappropriately when, during the central Union elections when he was Returning Officer, he told a student to withdraw his nomination for the position of Community Action Group (CAG) Chair. The Court also ruled that Kendall had not acted in a biased way in approving candidate material.

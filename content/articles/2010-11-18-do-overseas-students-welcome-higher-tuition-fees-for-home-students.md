@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix explores the effect that raising the tuition fee cap will have on international students
 date: "2010-11-18 21:41:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "407"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Proposals to increase the tuition fee cap to £9000 per year for EU and home students were attacked by over 50,000 students protesting on the streets of London last week. However, the opinions of one particular group of students who also have a stake in this matter have mostly been ignored..

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students pay £1000 more than privately renting a room. College responds to questions over the price. Wardening and renting rooms from company highlighted.
 date: "2013-03-01 01:03:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3415"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Concerns have been raised about potentially excessive rents at one of Imperial’s hall of residence. Imperial College rents the first three levels of Parsons House, located on the grounds of Charing Cross Hospital, from housing company A2 Dominion and then rents out individual rooms to students for £121.82 a week. All rooms are single occupancy with a shared kitchen and bathrooms.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Transplanting the fun back into simulator games
 date: "2014-02-05 10:29:30 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4335"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are a ton of simulator games out there. For people who want to try their hand at Farming, driving a bus, or mining a stone quarry there are simulator games out there for you! These games portray all the elements you need to master to be successful in these games, often sacrificing fun in their quest to be 100% accurate. This week, Felix games tried out a simulator game that defies the convention and does the exact opposite of this. Surgeon simulator definitely includes more fun than accuracy and is one of the most hilarious games I’ve ever played.

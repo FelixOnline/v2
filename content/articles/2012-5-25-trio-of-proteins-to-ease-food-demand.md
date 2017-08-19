@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Demand for food and fuels could be reduced
 date: "2012-05-25 14:29:14 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2494"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Nature"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A new study has identified three key proteins in plants that may help the development of improved crops yielding higher qualities and quantities of oils. The scientists, of the [Salk Institute for Biological Studies ](http://www.salk.edu/)and [Iowa State University](http://www.iastate.edu/), say that such plants could help to reduce the growing global demand for food and fuels, and negate the detrimental effect such demand may have on our environment and ecosystems.

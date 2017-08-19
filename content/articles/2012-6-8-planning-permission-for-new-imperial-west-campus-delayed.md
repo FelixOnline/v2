@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Delay comes amidst ongoing protest against BBC campus redevelopment
 date: "2012-06-08 08:26:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2540"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Councillors at the London Borough of Hammersmith and Fulham have postponed discussion of the planning permission for the new “[Imperial West](http://www3.imperial.ac.uk/newcampus)” campus for a second time, following the case officer taking unexpected leave. This follows on quickly from a recent High Court judgement that found that the Borough acted unlawfully in a planning application for the redevelopment of Shepherds Bush Market.

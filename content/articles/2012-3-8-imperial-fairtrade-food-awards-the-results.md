@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The second Imperial Food Awards have ended – Anastasia Eleftheriou and Michael Krestas sift through the entries in search of Imperial’s best cookery maestros
 date: "2012-03-08 22:14:29 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2331"
@@ -33,15 +34,6 @@ image_height: "523"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __First Place:____Brigitte Jessica Janssen__’s __Gooey, Fibre And Mango infused Blackberry Muffins__ earned her the top prize: a £30 voucher for online shopping site [ethicalsuperstore.com](http://ethicalsuperstore.com). Congratulations!

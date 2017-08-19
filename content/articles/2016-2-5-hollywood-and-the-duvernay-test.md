@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ava DuVernay has supported a new test to encourage wholly developed minority characters in films
 date: "2016-02-05 12:28:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5876"
@@ -34,15 +35,6 @@ image_height: "1196"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the second year running, the Academy Awards has nominated only Caucasian actors for the awards, igniting a powder-keg on social media, and highlighting the lack of diversity in the film world. But not all hope is lost; while actors like Charlotte Rampling and Julie Delpy may make misguided comments on the industry, there are signs of real change: Cheryl Boone Isaacs, president of the Academy, has stated a move towards changes in the membership policy, which would hopefully lead to a more representative group choosing the winners; Idris Elba picked up two SAG awards, in a pointedly-diverse ceremony; and the deliberately-titled slave rebellion drama _Birth of a Nation_ has won two of the top prizes at Sundance.

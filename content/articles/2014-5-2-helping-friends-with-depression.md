@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the last Wellbeing section, I wrote about my experience with recovering from depression. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.
 date: "2014-05-02 00:59:09 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4537"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Hyperbole and a half (2013)"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 In the last Wellbeing section, I wrote about my experience with recovering from depression. Maybe it’s because I don’t make a habit of talking about my mental illness but I was genuinely surprised at the positive reception it received from friends, acquaintances and even complete strangers. As a follow-up, I wanted to give some advice around how to help a friend with depression as, especially at such a stressful time of year, I hope this will prove useful.

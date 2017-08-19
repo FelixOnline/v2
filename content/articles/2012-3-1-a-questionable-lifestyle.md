@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cave Johnson advises on how to get the best possible start as an evil scientist
 date: "2012-03-01 22:55:23 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2294"
@@ -33,15 +34,6 @@ image_height: "3750"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Hello teary-eyed ladies, Cave Johnson here.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster takes a tour through the island of Android bundle 5
 date: "2013-03-15 01:43:02 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3479"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Call me old fashioned, but I always thought that phones were for talking to people, rather than browsing the internet, watching moviesand playing games. Nowadays, it seems that phones are primarily used to avoid having to talk to people.

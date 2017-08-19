@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Bhanot explores what the term ‘jazz’ really means to us today
 date: "2015-03-25 12:26:08 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5429"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Pablo Records"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Look up the word ‘jazz’ in the dictionary and you come to find a whole host of definitions ranging from “a type of American music with lively rhythms” to “meaningless or foolish talk” or indeed anything in between. If we stick with the former definition, jazz could be assumed to have its roots in ragtime music, whereas with the latter we are left to question whether jazz should be confined to a sole genre within the realms of music. Some of us, for instance, imply that ‘jazzing’ something up is the process of making it more interesting. Be it in a musical sense or not, jazz fundamentally reflects the art of spontaneity, an art that gained popularity at the beginning of the 20th century.

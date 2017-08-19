@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lamb season will be starting in a couple weeks and this means only one thing – you are allowed to enjoy a fancy meat you normally ignore for the easier to cook beef or pork. Get ready to salivate with this easy to make lamb delicacy.
 date: "2017-03-17 17:26:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6915"
@@ -34,15 +35,6 @@ image_height: "3264"
 image_attribution: "Noel Reynolds"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 B ack home, lamb is usually cooked just as a traditional Easter dinner. Otherwise, I don’t believe we have lamb at any other point in the year.

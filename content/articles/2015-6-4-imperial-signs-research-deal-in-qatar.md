@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle reports on the recent agreement between Imperial College London, Qatar University and Qatar Shell Research and Technology Centre
 date: "2015-06-04 23:14:32 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5595"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "knovel.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday 2nd June, Imperial College London signed an agreement with Qatar University (QU) and the Qatar Shell Research and Technology Centre (QSTRC) that covered corrosion prevention in wet sour gas pipelines.

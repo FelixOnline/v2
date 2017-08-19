@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Music with a strictly organic feel
 date: "2016-02-26 11:52:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5973"
@@ -34,15 +35,6 @@ image_height: "1021"
 image_attribution: "GoGo Penguin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **GoGo Penguin** are a Mercury Prize nominated jazz trio who are lumped into the increasingly broad genre of modern jazz; a genre best separated from its predecessors by an unashamed acceptance of rhythm. _Man Made Object_ is a testament to this. The album’s blend of classical jazz and modern house music provides a highly accessible acoustic soundscape.

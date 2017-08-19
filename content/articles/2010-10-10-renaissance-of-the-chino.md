@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The erstwhile rather bland staple of everyday menswear is currently enjoying a welcome return to James Dean cool
 date: "2010-10-10 15:41:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "193"
@@ -34,15 +35,6 @@ image_height: "400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Good news medic boys! Your favourite sports night style staple and go-to firms-wear has found itself on the hottest catwalks of London, Paris, Milan and New York: yes, chinos are actually in vogue.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Schaübuhne Berlin production of Shakespeare's Richard III adds in dark German absurdity
 date: "2017-02-17 22:00:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6807"
@@ -33,15 +34,6 @@ image_height: "4256"
 image_attribution: "Arno Declair"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Thomas Ostermeier’s production of Richard III is a celebration of the wicked, the tragic, and the profane. The play is on tour from Schaubühne Berlin and is performed entirely in German with English surtitles on the stage.

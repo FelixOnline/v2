@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Masson is impressed by EMA and Zola Jesus
 date: "2011-12-01 21:01:37 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1878"
@@ -34,15 +35,6 @@ image_height: "1150"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __EMA __stands for Erika M. Anderson, but she performs with a full band. Her debut album _Past Life Martyred Saints_ has been gathering positive reviews from across the music press spectrum, and for good reason. The live performance is something else, though. The whole gig switches between haunting vulnerability and rip-your-face-off intensity. Her lyrics are rarely positive and she doesn’t betray that with her stage demeanour.

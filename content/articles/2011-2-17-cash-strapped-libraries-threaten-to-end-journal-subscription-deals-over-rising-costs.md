@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deborah Shorley, Head of Imperial’s library, will take Britain’s biggest publishers to the edge if necessary
 date: "2011-02-17 18:54:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "808"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "Jan Piotrowski"
 image_attribution_link: "http://jpiotrowski.wordpress.com/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Intimidating isn’t the first word that springs to mind when you first meet Deborah Shorley, Director of the Imperial College London Library. A short, erudite librarian, one would not imagine such a character to be leading a fight against two of the largest publishers in the UK: Elsevier and Wiley Blackwell.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The latest obsession in the world of fashion: technology
 date: "2010-11-11 20:33:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "339"
@@ -34,15 +35,6 @@ image_height: "1355"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Many of us think that Imperial could not be further removed from the world of fashion, however I’d like to persuade you otherwise. Both fashion and technology are constantly evolving industries; fickle and always in search of the new ‘it’ product to entice buyers into yet another superfluous purchase. Therefore one can only imagine the force generated when these two polarised worlds collide...

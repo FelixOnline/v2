@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The evolution of blonde hair
 date: "2012-06-01 13:49:46 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2517"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s been nearly sixty years since Marilyn Monroe and Jane Russell told of the gentleman’s penchant for blondes, but it has recently come to light that mother nature herself may feel the same way: blonde hair evolved twice.

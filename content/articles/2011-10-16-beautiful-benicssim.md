@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Spanish Rototom Sunsplash impresses over ten days
 date: "2011-10-16 15:08:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1550"
@@ -34,15 +35,6 @@ image_height: "424"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _Rototom Sunsplash_ is one of the largest and longest running Reggae, Dance Hall and Dub festivals in Europe. In fitting with the music it endorses, its appeal spans a cross-section of festival goers from the ignorant non-connoisseur to the dub-geek-stoner. The recipe is very simple: an entirely laid back dynamic, a hot climate and enough people to make you feel it was worth coming but leave you with space to move.

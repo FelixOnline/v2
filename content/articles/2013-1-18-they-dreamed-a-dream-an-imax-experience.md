@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Les Misérables gets five stars from John Park
 date: "2013-01-18 01:10:27 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3150"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The BFI IMAX is a strange and wonderful place. Boasting its “biggest screen in the UK,” it lives up to its reputation in giving you a blistering headache should you sit too far forward, or a set of splittingly painful eardrums should you sit too close to the sides where the massive speakers are located. So the lesson here is this: sit as far back as possible – you’ll still see everything. The screen is really that big. And of course, centre seats are recommended. As soon as the adverts go full-size, you almost feel the words and numbers come out towards the audience. There is hardly any need for a 3D conversion it seems, as everything feels so close and awe-inspiring in the first place. Adding an extra dimension and an extra pair of glasses would almost certainly have everyone crawling to their exits.

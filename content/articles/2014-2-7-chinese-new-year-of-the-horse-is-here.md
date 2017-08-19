@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don’t worry - no horse meat involved in the production of this issue...
 date: "2014-02-07 04:47:24 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4345"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Kung Hei Fat Choi! The year of the horse has once again arrived and if you feel like having something festive, but find Chopstix slightly too greasy, here’s a healthy recipe for you!

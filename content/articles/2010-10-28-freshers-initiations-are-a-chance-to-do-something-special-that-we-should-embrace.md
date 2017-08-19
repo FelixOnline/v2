@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "280"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A couple of years ago, at some rather remote university in England, a student died as a result of an initiation ceremony, apparently involving physical activity and alcohol. The details were never quite made clear, but it left many universities and colleges across the land with no option but to ban such ceremonies formally.

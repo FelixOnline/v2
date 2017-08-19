@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New BP graduate scheme gives students an Olympic chance
 date: "2012-06-01 12:11:10 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2508"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As excitement mounts for this year’s sporting summer, and as career opportunities become ever more uncertain given the unsteady financial climate, a group of Imperial graduates have been given the best of both worlds, with the chance to work at the [London 2012 Olympics](http://www.london2012.com/) this summer as part of a one off graduate programme introduced by BP.

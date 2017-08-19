@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC's fortune takes a turn for the worse as the Indoor Cricket team loses gallantly to UCL
 date: "2013-11-05 09:59:23 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4014"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On Saturday 26th October, Imperial College 1st XI travelled to the University of East London’s SportsDock centre to play in the first round of games of the BUCS Indoor Tournament. Our first game was scheduled to be against LSE but our opposition forfeited the game, handing us our first points of the competition. Whilst this was a positive start, it took away the opportunity for vital match practice going into the second fixture of the day, against UCL 1st XI.

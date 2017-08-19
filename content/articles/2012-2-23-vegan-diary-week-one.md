@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clare Cheng and Hannah Cox have survived the first five days of their quest in veganism
 date: "2012-02-23 20:36:53 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2238"
@@ -34,15 +35,6 @@ image_height: "1221"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hannah and Clare are two real foodies who have become vegan for a month to raise money for the Multiple Sclerosis Trust. They’ve decided to make the most of this opportunity and are on a quest to find really good vegan food. Follow their progress in their weekly column to see if they really can find vegan food that satisfies the meat-eaters among us.

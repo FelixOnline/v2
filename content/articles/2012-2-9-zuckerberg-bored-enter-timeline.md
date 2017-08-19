@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Facebook: bringing you a sudden influx of misused memes
 date: "2012-02-09 22:18:37 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2147"
@@ -34,15 +35,6 @@ image_height: "790"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tell your life story with a new kind of profile. Or so the marketing material goes. The latest revamp of the Facebook profile page has divided opinion among many people and it has not been embraced by as many people or as widely as Mark Zuckerberg would have wanted. These changes are possibly more far-reaching than any single modification to our favourite social network in its entire history. Like it or not, they will be made compulsory for everyone within the next month.

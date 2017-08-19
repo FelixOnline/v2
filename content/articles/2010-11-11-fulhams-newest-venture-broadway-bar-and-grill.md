@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Steak, football and beer - a student’s every need fulfilled
 date: "2010-11-11 21:10:38 +0000"
+author_id: "lj810"
 
 # Attributes from Felix Online V1
 id: "354"
@@ -33,15 +34,6 @@ image_height: "450"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lj810"
-author_name: "Lucie Jichova"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “How formal is this place you are taking me to?” my friend Apu called to ask before meeting me at the newly opened Broadway Bar & Grill on Fulham Road. “I don’t think it’s too formal. Relax,” I told him. “Okay, let me ask it this way: Is it a shirt place, or a t-shirt place?” he replied.

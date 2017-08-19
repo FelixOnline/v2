@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don't judge a place by its handle
 date: "2012-01-19 21:03:54 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2025"
@@ -33,15 +34,6 @@ image_height: "1224"
 image_attribution: "igo Martínez de Rituerto"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 As acronyms go, the one belonging to the _City Arts & Music Project _is a bit awkward. The same goes for the name of its nightclub: _CAMP Basement_.

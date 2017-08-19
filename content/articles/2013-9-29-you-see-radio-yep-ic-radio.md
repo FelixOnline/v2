@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Butcher introduces IC Radio
 date: "2013-09-29 16:14:32 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3787"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You have a student radio station. It’s in Beit’s West basement, just next to the Felix office and to be frank, it’s pretty awesome. We have about 10,000 CDs and vinyls down there, we host live bands from our recording studio (yep, got one of them too) and you can have listen at www.ICRadio.com.

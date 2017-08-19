@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jennifer Eden discusses the wild animal adoption trend and its consequences
 date: "2016-11-04 14:17:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6388"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "Dave Stokes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Having watched enough music videos and viewed the odd ‘Rich Kids of Instagram’ profile, it’s not unusual to spot an exotic animal being used as a power status symbol or display of wealth for social media. A tiger padding over a marble floor, a marmoset monkey hanging from a chandelier, or a snake being used as a prop in a painstakingly well-lit selfie. All the types of image that would attract plenty of attention. All vanity posts. The animal having one purpose: to add to the backdrop of money.

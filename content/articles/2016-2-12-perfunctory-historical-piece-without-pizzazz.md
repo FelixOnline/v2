@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Turgid Trumbo fails to shine, despite the best efforts of Bryan Cranston
 date: "2016-02-12 11:45:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5911"
@@ -33,15 +34,6 @@ image_height: "1290"
 image_attribution: "YouTube/Entertainment One"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I can remember learning about the Hollywood blacklist in my GCSE history class; a paranoid electorate, whipped into a state of frenzy by senator Joseph McCarthy, pilloried a group of film actors, directors, and writers for their left-leaning tendencies. And that was all it was for us: a note on the past, sandwiched between the Truman Doctrine and the sultry summer of the Rosenbergs’ execution. But of course, for those involved, for their family and friends, for the whole industry, that was far from it; director Jay Roach seeks to rectify this in his film _Trumbo_ – focusing on a single individual (in this case Dalton Trumbo, the screenwriter of _Roman Holiday_, _Exodus_, and _Spartacus_), the film invites us to observe the catastrophic effects the blacklist had on an entire generation of creatives.

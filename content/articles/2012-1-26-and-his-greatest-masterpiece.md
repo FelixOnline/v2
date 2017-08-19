@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Catcher in the Rye – the archetypical story of teenage disillusionment, confusion and rebellion
 date: "2012-01-26 22:33:03 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2066"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 J. D. Salinger’s only full length novel, The Catcher in the Rye, has become one of the 20th century’s defining novels, dealing powerfully and intelligently with the turbulent feelings of loneliness, alienation, and sexual confusion felt by so many during their adolescence. The book is narrated by Holden Caulfield, a teenage boy convalescing in a sunny Californian mental hospital, as he relates the circumstances that lead up to an unspecified mental breakdown he went through.

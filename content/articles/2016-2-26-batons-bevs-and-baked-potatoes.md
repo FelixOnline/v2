@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hyde Park Relays 2016 proves yet again that Valentine’s Weekend is better with a hangover
 date: "2016-02-26 12:16:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5992"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "Dave Tan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Some say that it’s the most prestigious and largest event known to Imperial’s Cross Country and Athletics society, others say that it’s merely a warm-up jog in preparation for a night of serious shape-throwing in the beloved Metric. Either way, it’s left undeniable that the Hyde Park Relays of 2016 proved to be the highlight of many students’ Valentine’s Weekend.

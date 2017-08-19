@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman breaks down the BBC's axing of the beloved panel show.
 date: "2015-05-29 10:59:07 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5585"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Comedy music panel show Never Mind the Buzzcocks was dropped by the BBC this week, after almost 20 years and nearly 270 episodes on air.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Jeffery on golfing pros, bitches and hoes
 date: "2011-11-17 21:27:45 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1777"
@@ -34,15 +35,6 @@ image_height: "401"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week I’m going back straight back to the UK post-punk/hardcore scene by way of a review of the debut full-length album of __The James Cleaver Quintet__ (JCQ), _That Was Then, This Is Now._ Nearly two years ago the JCQ released their first and only EP _Ten Stages of a Make Up_ to massive critical acclaim. Fans have been eagerly awaiting another release and on Halloween this year, they were given what they wanted.

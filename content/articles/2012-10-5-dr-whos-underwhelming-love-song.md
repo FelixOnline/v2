@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski gives us his opinion on the newest Doctor
 date: "2012-10-05 11:30:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2597"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I have previously expressed my mixed views of Doctor Who on these pages. I’ve been a regular viewer since the show’s revival in 2005 and honestly I’ve found, over the years, that the show’s episodes can be split into three categories. A third are good and entertaining in their own right, a third disappoint me at how they squander the show’s amazing premise, and a third are so bad that they’re fun to watch and laugh at. I’m entertained two thirds of the time, and so keep watching, but under no circumstances could I say that the show has been consistently good.

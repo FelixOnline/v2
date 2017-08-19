@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dwarf Fortress: challenging, captivating, and almost completely unheard of. Keir Little sheds some light on this hidden gem
 date: "2011-11-24 20:59:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1812"
@@ -33,15 +34,6 @@ image_height: "734"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Deep underground, a lonely dwarf miner breaks into an expansive cavern. As he stumbles out into the darkness, two trolls immediately set upon him. “Bugger,” I say, pausing the game to take a sip of tea, and plan best how to save him. I order my soldiers to go down and join the fight. Meanwhile, my carpenter, desperately waiting months for the turtle shell she desires to finish her project, finally snaps. After chopping her own baby’s head off, she runs around in a rage, butchering my fort’s other inhabitants, while my soldiers are deep in the caverns fighting other threats.

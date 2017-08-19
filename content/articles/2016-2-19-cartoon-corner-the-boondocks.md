@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular run down of animated flicks
 date: "2016-02-19 12:23:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5944"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "Adult Swim"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Created by Aaron McGruder and based on the comic strip of the same name, The Boondocks is a show that takes a sharp and satirical look at American society with an emphasis on social issues, as well as icons like Oprah Winfrey and Barack Obama. It was controversial right from the start (as you can tell from the opening line) but it was able to address hot button issues in unconventionally humorous ways.

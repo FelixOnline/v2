@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kent reports on the findings from the Royal British Centre for Blast Injury Studies
 date: "2015-06-11 22:13:54 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5611"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Researchers at the Royal British Legion Centre for Blast Injury Studies have valued the cost of caring for members of the armed forces serving in Afghanistan who have lost limbs at just under £290 million.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But there’s still one thing I want to know: where’s my jet–pack?
 date: "2011-01-13 21:21:07 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "591"
@@ -34,15 +35,6 @@ image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Happy New Year to you all! It’s nice to know that, as a species, we’ve managed to make it through another year without destroying ourselves. Well done.

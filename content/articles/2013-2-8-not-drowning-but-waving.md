@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Football tackles Canterbury on less than ideal terrain, with mixed results...
 date: "2013-02-08 00:14:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3268"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A depleted ICUAFC 1s team made the long journey down to Canterbury for the second time this season; a trek so long that Frodo and Sam would have called it quits once they had inevitably run out of lembas bread. Amjad, Wedemeyer and Cherif Jnr were notable absentees, and with Murphy (Imperial’s resident wildlife expert) in the Library and captain Woodhead out with a broken nail, the team had a fresh new look to it. Thomas and Dabbagh were called up from the 2s to make their first appearances for the 1s this season, whilst new recruit Jones was looking to impress. Imperial started the day top of the BUCS league on 9 points from a possible 12, with Canterbury in joint 2nd, making at least a draw imperative. Minds wandered back to 2 months before where a defensive masterclass allowed Imperial to advance to the 3rd round of the BUCS cup on penalties, something that Canterbury were sure to remember.

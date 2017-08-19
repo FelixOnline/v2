@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the publishing deadline rapidly approaches, the wells of inspiration rapidly run dry. What to say and how to say it? I'm sure I'll find a way round it...
 date: "2010-01-22 13:58:55 +0000"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "52"
@@ -33,15 +34,6 @@ image_height: "474"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Can't I put it off for a few hours longer?

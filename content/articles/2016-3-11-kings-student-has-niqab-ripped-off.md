@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Two men used “racially aggravated language” at Discover Islam stall before assault
 date: "2016-03-11 11:24:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6020"
@@ -34,15 +35,6 @@ image_height: "155"
 image_attribution: "KCL Islamic Society"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Afemale Muslim student had her niqab pulled off by two men outside the King’s Strand campus last Friday.

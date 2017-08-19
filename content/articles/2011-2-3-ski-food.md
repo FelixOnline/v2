@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The long day on the slopes and tartiflette
 date: "2011-02-03 19:08:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "710"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I don’t know a lot about you and to be honest I don’t really care (only kidding…no really, I don’t care). but I was fortunate enough to spend Christmas in Les Alpes. Personally, and unsurprisingly (being a wannabe food critic) my favorite part was the food. So again I have another gem of a recipe to share!

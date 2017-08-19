@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial about the proposal to close the Translation Unit
 date: "2013-01-25 00:52:37 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3172"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [The Translation Unit of Imperial is under threat.](http://felixonline.co.uk/news/3173/translation-unit-under-threat/) There is currently a “consultation period” going on. This will decide the fate of the Unit. The idea being that it doesn’t fit with College’s strategy. Maybe it doesn’t, but how is anyone supposed to know given that when you ask them they refuse to say what that even means.

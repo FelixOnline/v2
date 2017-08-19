@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It really doesn’t get much better than pizza, IMHO. However, given there are so many variants, it’s sometimes hard to pick the best from the bad – so we’re here to help.
 date: "2017-02-17 15:51:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6797"
@@ -33,15 +34,6 @@ image_height: "1145"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The hipster revolution is upon us. No food is safe. The humble burger has been embellished with a bright green avocado bun. If you haven’t tried kale or quinoa (pronounced “keen-wah”, trust me, I have been corrected multiple times), frankly, where have you been? Although the occasional twists on traditional dishes are welcome, food fads are often the products of bored people with well-groomed beards and usually die out in a matter of months. Many try too hard to be alternative and lose sight of the practicalities of eating. “Deconstructed” spaghetti bolognese out of mason jars anyone? And let’s face it, bread served in hats is simply unhygienic.

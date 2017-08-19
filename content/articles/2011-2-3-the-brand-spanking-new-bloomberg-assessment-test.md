@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A complete rip-off or a shortcut to your dream job?
 date: "2011-02-03 20:30:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "748"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The other day, you might have received an email from the Careers Advisory Service informing you that Imperial is one of the lucky universities selected to test-drive a new [Bloomberg Assessment Test](https://www.bloomberginstitute.com/bat/start/what.php) (BAT) for free. “Hurry now! In the future, there will be a fee for taking this test,” it said. First thoughts: “What the …?” So employers now want students to pay for taking a recruitment test? What’s next? Paying for interviews? And why introduce a further barrier to entry for those from less well-off backgrounds? Felix caught up with Gerald Walker, Managing Director Europe at [Bloomberg Ventures](http://www.bloomberg.com/about/ventures/), to seek clarification.

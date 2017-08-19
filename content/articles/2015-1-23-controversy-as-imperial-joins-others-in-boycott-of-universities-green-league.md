@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The College has risen one place to 112th
 date: "2015-01-23 01:32:13 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5127"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Controversy has broken out over the decision by 69 of the 151 Universities eligible to take part in pressure group People & Planet’s University League to pull out of the survey. Imperial College were one of the institutions to not submit a return this year.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhian Jones discusses the depiction of the male nude in Western art
 date: "2014-05-09 02:13:09 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4577"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Back in February,Felix ran an article on the history of the female nude in art. But what of the male? The female nude is omnipresent and openly celebrated in Western art; she adorns the walls of today’s galleries, magisterially inviting our appreciation. By contrast, her male counterpart is overwhelmingly underrepresented. Pendulous phalluses are few and far between.

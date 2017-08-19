@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial vs. Christchurch Canterbury is a close call
 date: "2014-11-10 22:06:08 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4836"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial’s 2nd team made the long journey to Kent to play Christchurch Canterbury, looking to rectify last week’s game which by all rights should have been won.

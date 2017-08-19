@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College has published a new “Action plan for world class animal research”. This follows allegations made last April by the British Union for the Abolition of Vivisection (BUAV) that the College was involved in unethical animal research.
 date: "2014-02-07 05:01:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4356"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial College has published a new “Action plan for world class animal research”. This follows allegations made last April by the British Union for the Abolition of Vivisection (BUAV) that the College was involved in unethical animal research. This led to College setting up an independent committee – led by Professor Steve Brown, Director of the Medical Research Council’s Mammalian Genetics Unit at Harwell – to investigate the treatment of animals at Imperial.

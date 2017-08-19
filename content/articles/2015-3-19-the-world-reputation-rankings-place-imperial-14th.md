@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah examines the table, which is compiled from an invitation-only survey
 date: "2015-03-19 23:36:46 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5402"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the latest release of the Times Higher Education (THE) World Reputation Rankings, Imperial College London dropped one place from 13th in 2014 to 14th in 2015. The THE World Reputation Rankings are a spin-off supplement from the internationally acclaimed THE World University Rankings, where Imperial currently retains its strong top 10 position.

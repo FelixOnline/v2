@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Christmas season is my favourite time of year, but if you're anything like me, all the grinchy people around can make it hard to get in the mood. We've come up with a film for every day of Advent – call it an early Christmas present...
 date: "2012-12-07 15:06:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3074"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 __1.) The Sound of Music__

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   External organisation seeks to influence student votes
 date: "2013-11-01 09:07:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3964"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Federico Gambarini/EPA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A pro-European Union campaign group has opened itself up to potential charges of breaches of charity regulations by contacting Imperial Union to ask for help in its campaign “to stop UKIP becoming the biggest party” in the 2014 European elections. In an email to the Union President and the Campaigns Officer dated October 17, Joe Coney, the Campaign Director at British Influence, wrote that the group believed that “a significant UKIP win would be bad news on issues such as gender and LGBT equality and stopping climate change”. Coney went on to offer to “host a campaign training session [at Imperial] before Christmas” and asked to discuss “any ways in which the Student Union could help [British Influence] get more students to vote in the election”.

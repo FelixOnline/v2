@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Record turnout for Imperial as controversy and delays hit this year’s campaign trail
 date: "2012-05-04 01:26:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2428"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Matt Colvin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The results for this year’s Union ‘Big Elections’ were announced over a staggered period this year . The elections, which saw a record turnout of 41.09% of students, also saw a technical issue that and disagreements between candidates over campaigning that ultimately led to a delay of the declaration of results.

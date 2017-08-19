@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christy Kelly takes on the world
 date: "2014-01-17 03:34:39 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4236"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Richard III marks the start of Shakespeare’s longstanding engagement with villainy. From the ‘motiveless malignity’ of Iago to the sublime tragic grandeur of the Macbeths, the roots of all can be spied in this early work; the scandalous graveside seduction, the poisonous force of Queen Margaret. And yet, it is an early work and this shows: the play lacks the psychological subtlety of Othello, the (if you will forgive an oxymoron) crude sophistication of Troilus and Cressida, the scale of A Winter’s Tale, the profundity of the undeservedly lesser known Richard II. Similarly, the pathos during the death of the little Prince is a little too pathetic, the ghosts serve too simplistic a function when compared to their counterparts in Hamlet, Julius Caesar and Macbeth. Finally there is Richard himself, vulgar without Iago’s intelligence, a short (Napoleon Complex susurrates on the periphery of every analysis), grotesque figure of a very picturesque evil.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Money will go to St Mary’s Hospital Paediatric Department
 date: "2011-02-27 12:07:10 +0000"
+author_id: "klb09"
 
 # Attributes from Felix Online V1
 id: "898"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "klb09"
-author_name: "Katherine Bettany"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: "http://www.facebook.com/katy.bettany"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week hundreds of Imperial’s medical students raised £23,000 for St Mary’s Hospital Paediatric Department in a series of events as part of their annual RAG week.

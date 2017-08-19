@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I feel that the article may have been slightly misinterpreted.
 date: "2014-10-24 13:57:59 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4753"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Thanks for the response; I’m glad at least somebody, other than the Union staff and Sabbs that ‘checked over it’, actually read the article.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial will have to jump through a number of hoops in order to charge students £9,000
 date: "2011-02-17 19:15:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "814"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial’s [plan to join](http://www.felixonline.co.uk/?article=805) the [gentlemen’s club of universities](http://www.guardian.co.uk/education/2011/feb/09/oxford-cambridge-9000-fees) charging the maximum £9,000 for tuition fees from the 2012 academic year will come with restrictions from the government.

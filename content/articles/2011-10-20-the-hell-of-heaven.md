@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is paradise all it's cracked up to be?
 date: "2011-10-20 22:11:22 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1568"
@@ -34,15 +35,6 @@ image_height: "3064"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The question of what happens to us after we die is one that has troubled us as a species for thousands of years, and to this day many among us still wrestle daily with our own doubt and confusion over the matter. The posthumously themed wonderings of religious movements and philosophers alike have produced many weird and wonderful ideas filled with fantasy and creativity. The conspicuously man-made nature of the afterlife as displayed in modern religions isn’t something that I feel it would be worthwhile to investigate at great length, mainly because of the fact that it is so palpable that the term “flogging a dead horse” comes to mind. The grubby fingerprints of mankind are present wherever you look.

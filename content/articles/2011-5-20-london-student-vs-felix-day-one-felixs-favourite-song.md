@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on the first day of our 30-day Song Challenge duel
 date: "2011-05-20 10:42:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1237"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Felix Travel](http://felixonline.co.uk/travel/) Editor Chris Richardson demanded that we listen to the Jamie xx/Gil Scott-Heron [remix album](http://en.wikipedia.org/wiki/We're_New_Here) in the office when it was released way back in February, but his orders fell on deaf ears; when I finally got around to it a few weeks ago, I felt quite the fool...

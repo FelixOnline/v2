@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2158"
@@ -33,15 +34,6 @@ image_height: "549"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Potential plans for a proposed renovation of [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) have been provided as part of the area’s ongoing feasibility study this week. The Holland Club Committee has voiced its disapproval over what it considers to be a lack of communication from those in charge of the study, while Imperial College Union President Scott Heath has stated his desire to consider the views of students under any potential changes to the set-up and running of the establishment.

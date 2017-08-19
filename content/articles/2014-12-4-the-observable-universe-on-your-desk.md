@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Dutton doing a PSA for all you star gazers out there
 date: "2014-12-04 19:31:25 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "4999"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Space Engine, Jamie Dutton"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever wondered if there is a program that can simulate the whole observable universe (and even beyond)? Well, step forward Space Engine. It has been in the works since 2005 and is the beautiful and complex brainchild of Russian astronomer and programmer Vladimir Romanyuk.

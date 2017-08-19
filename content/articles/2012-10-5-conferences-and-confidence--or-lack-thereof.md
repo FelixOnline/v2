@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's conference season and literally tens of people have followed them. Luckily for you, Padraic Calpin did...
 date: "2012-10-05 13:09:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2622"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s conference season, that time of the year when the parties’ eyes are all (overtly, at least) focused on the upcoming general election, and reading some of the coverage of this weeks’ Labour and Lib Dem events you’d be forgiven for thinking it was due to take place in a couple of months rather than years. The Tories’ have even launched their first anti-Labour poster of the election campaign: a crude bit of photoshopping of which Lord Ashcroft said “If I had recently donated funds to the Tories I would be asking what on earth CCHQ thought it was doing with my money.” [Might we recommend you contact the Felix team for better graphics works?]

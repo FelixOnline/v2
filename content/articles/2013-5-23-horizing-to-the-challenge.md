@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah sees what some first years made of the Horizons courses
 date: "2013-05-23 21:49:59 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3606"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s drawing to the end of another year at Imperial. Everyone has some kind of big deadline looming, except for the lucky few that finish early. It’s around this time that extra curricular activities suffer. If you go to level 4 of the Library and suggest to someone that they do work for something that will give them precisely zero marks, then you’re risking a punch in the face.

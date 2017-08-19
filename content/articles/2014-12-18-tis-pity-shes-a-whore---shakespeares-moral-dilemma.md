@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng raves about the Globe's new production of a classic
 date: "2014-12-18 15:51:21 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5062"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite being written almost 400 years ago in a society vastly different from our own, this Renaissance classic still evokes visceral responses. There is something deeply attractive about a story of passionate love between brother and sister, vengeful adulteresses and corrupt cardinals which all end in a bloody birthday party.

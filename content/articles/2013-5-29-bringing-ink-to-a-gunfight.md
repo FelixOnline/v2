@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma is showing off his brand new tatts...
 date: "2013-05-29 16:12:45 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3634"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "Hey. You. Don’t you hear the bell? We need to get out of here, and fast. I’m here to help you. Rule number one: Don’t get me killed. Wait, where’s your sword? Stick to the darkness until you find it. Good thing you were out cold, looks like they don’t know you’re alive. Let’s keep it that way. Now come on, we’ve got to save Master Azai!”

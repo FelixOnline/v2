@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eight shows to help you burn through time rather than yourself
 date: "2016-06-17 09:33:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6285"
@@ -33,15 +34,6 @@ image_height: "380"
 image_attribution: "Floyd County/FX Networks for EW"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Summer’s here, which means actual free time again without the constant spectre of revision hanging over your head. You might be wondering just what to do with it all. Well, there’s always the classic fall-back; say ‘screw it’ and watch some TV. Here’s a list of eight great shows to help you do just that.

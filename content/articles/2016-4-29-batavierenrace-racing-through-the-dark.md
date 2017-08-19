@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cross Country take on Batavierenrace and come fourth
 date: "2016-04-29 11:00:59 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6110"
@@ -33,15 +34,6 @@ image_height: "710"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sometimes a marathon isn’t enough. On Saturday 23rd April, 15 runners from the Imperial College Cross Country and Athletics Club romped home to fourth place in the Batavierenrace. With 348 teams covering 172km through Holland and Germany, the race demanded high levels of speed, endurance, strategy, and tolerance to Dutch rave culture from the teams. Finishing this strongly in the world’s biggest relay race represents one of the club’s finest collective achievements in recent years.

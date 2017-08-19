@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jorrit Schafer bridges the gaps between game and sport...
 date: "2013-05-01 12:15:59 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3510"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College Bridge society was shut down a several years ago but after some convincing the Imperial College Union decided to give us another shot and the Imperial College Bridge club was up and running again in 2010. Our sport once again had a dedicated club at our university (and yes, it is a sport according to the IOC!).

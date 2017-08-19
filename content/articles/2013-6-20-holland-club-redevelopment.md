@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This year the Holland Club was closed, much to the annoyance of many staff and postgraduates. I take a tour of the redevelopment
 date: "2013-06-20 23:47:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3727"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Wednesday I had a tour of the area that [used to be the Holland Club](http://felixonline.co.uk/news/2931/holland-club-closed/). The space is called Level 0. At the moment, extensive work is still going on, and there is much left to do. It is definitely, for all intents and purposes, a building site; you have to sign in and out and wear a high vis jacket and a hard hat.

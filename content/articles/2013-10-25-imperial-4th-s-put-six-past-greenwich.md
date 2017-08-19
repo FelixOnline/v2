@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Julian Iacoponi describes the action as Imperial stroll to victory
 date: "2013-10-25 01:14:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3952"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ICUAFC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On the morning of the 16th October 2013, The Force (a.k.a The 4s) readied themselves for D-Day, landing on the shores of the Thames for the opening match of the season: Greenwich away.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First impressions are probably correct. An introduction to the life of a Graduate Teaching Assistant
 date: "2013-10-11 23:47:39 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3832"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I’ve always wanted to be a GTA. It wasn’t because they were doing amazing PhDs on their own desks, in which they cured cancer or published ground-breaking articles which they presented at world conferences. This was all pretty cool but actually, it had a lot to do with them being rubbish at teaching. As an undergraduate I saw them turn up late to lectures they were being paid to help with, chat with their colleagues and completely ignore any student of a different nationality from their own. They would stand right behind you in an exam breathing heavily, or when questioned on how to do the most impossible problem conceived by man, they would ask, “What do you think?” I always thought that it was startlingly clear that, at this point, being so confused and exasperated by this stupid question, that all I cared about was them telling me what I should be thinking. If there was one thing I was going to get right on my PhD it was being a good GTA.

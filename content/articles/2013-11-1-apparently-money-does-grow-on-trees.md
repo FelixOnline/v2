@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fiona Hartley finds it difficult to ignore a golden opportunity for puns
 date: "2013-11-01 09:45:20 +0000"
+author_id: "frh10"
 
 # Attributes from Felix Online V1
 id: "3975"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "CSIRO Australia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "frh10"
-author_name: "Fiona Hartley"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Money doesn’t grow on trees, said every person ever, but it turns out that isn’t entirely accurate. There’s gold in them thar hills, or rather, in them thar trees. Scientists have struck gold – surprisingly in the leaves, twigs and bark of eucalyptus trees in Western Australia.

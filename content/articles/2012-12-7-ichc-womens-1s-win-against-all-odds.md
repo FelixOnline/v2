@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sorcha Cotter is, for some reason, a pirate...
 date: "2012-12-07 03:01:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3058"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the very cold afternoon on Wednesday the 5th December we went out to face a team that had not only beaten but really thrashed us at the beginning of the season 7-0. It was not an exciting prospect with a captain Gigi having now become captain hook and only able to watch from the side-lines after breaking her hand a few weeks ago. We have also been struggling though a few injuries and were depleted due to the usual end of term deadlines. But we set out with nothing to lose; at least we looked better than the mottled purple of Portsmouth!

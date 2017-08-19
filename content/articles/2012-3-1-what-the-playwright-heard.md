@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Morton takes to the Soho Theatre for their current offering
 date: "2012-03-01 22:19:03 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2286"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 With any absurd, wildly fantastic or outrageous anecdote about the world beyond our experiences, it is all too easy to dismiss it as an urban myth. The three men in their make-shift lounge dance between light-hearted, ludicrous and downright disturbingly macabre tales, and it doesn’t matter whether the tales being told are true or not. The audience is absorbed and captivated by their delivery, as much as the content. In fact it just so happens that most of these anecdotes are, at least in part, true.

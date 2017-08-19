@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Four games you have to play before 2016
 date: "2015-12-12 16:02:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5816"
@@ -34,15 +35,6 @@ image_height: "451"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 4. Rocket League

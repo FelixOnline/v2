@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The next threat to British security could be coming from closer to home than you think...
 date: "2010-10-28 19:46:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "277"
@@ -33,15 +34,6 @@ image_height: "2279"
 image_attribution: "Mitesh Patel"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It was a very ordinary day when I realised I was a superhero.

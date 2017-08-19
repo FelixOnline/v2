@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Barclay ponders the roles of women in gaming culture
 date: "2012-10-18 21:39:54 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2718"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The fact that the majority of gamers are male is hardly a controversial statement. It’s almost tautological. Guys like games, girls don’t. Yet, fundamentally, I don’t see why one’s fondness of gaming should be so dominated by a person’s sex. Games are, at their most basic level, just interactive media. When you think about games a bit more you can see why they’re so male dominated; you can see why I spent a lot of my childhood playing on my Sega Megadrive and my sisters didn’t. Maybe it’s some ingrained gender pigeon-holing but little boys seem to prefer playing with toy soldiers, whilst little girls end up playing with dolls. When you look at the majority of games out there they generally seem to involve shooting and killing stuff and I guess that’s more appealing to a 7 year old boy than a 7 year old girl.

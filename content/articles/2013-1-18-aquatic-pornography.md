@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on how bisexuality and fish porn have come together this week
 date: "2013-01-18 00:23:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3131"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 New research published this week that involved female fish watching fish-porn, among other things, could possibly shed new light onto the causation of homosexuality, mating preferences and mate determination. Experiments on the tropical fresh-water fish species Poecilia mexicana presented interesting results that could solve the Darwinian puzzle of same-sex mating, despite it occurring in a multitude of species, including our own.

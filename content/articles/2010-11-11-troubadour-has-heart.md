@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jamie Williams and Hannah Tullett visit Earl’s Court coffee house and music venue
 date: "2010-11-11 21:17:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "358"
@@ -33,15 +34,6 @@ image_height: "751"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Step into the Troubadour and you don’t know where to look first. On one wall is a stained glass window and rows of antique coffee pots; on the other, a vintage electric guitar. This perfect blend of the rustic and retro arrests the senses, and something tells you you’re in for a treat.

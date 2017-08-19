@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Tsim drives a hard bargain with your moneyz
 date: "2013-09-29 13:35:28 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3767"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hopefully anyone who is eligible has already applied for Student Finance England. SFE offers student loans and grants which help cover university fees and living costs. Imperial College London also offers bursaries/scholarships which can be applied for.

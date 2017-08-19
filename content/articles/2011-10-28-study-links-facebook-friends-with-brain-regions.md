@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Grey matter linked with number of friends on the social network
 date: "2011-10-28 00:16:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1628"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [A study by UCL researchers](http://rspb.royalsocietypublishing.org/content/early/2011/10/12/rspb.2011.1959) suggests that the size of certain brain regions in an individual may be linked to their number of Facebook friends. The researchers found a strong correlation between the number of friends and the amount of grey matter in regions including the amygdala, the right superior temporal sulcus, left middle temporal gyrus and the right entorhinal cortex. The three latter regions were not, however, correlated to real-world friend networks.

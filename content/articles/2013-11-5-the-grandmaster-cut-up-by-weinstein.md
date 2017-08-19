@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Grandmaster Director: Kar Wai Wong Writers: Kar Wai Wong, Jingzhi Zou, Haofeng Xu Starring: Tony Leung Chiu Wai, Zhang Ziyi Runtime: 108 minutes Certification: PG-13 (USA)
 date: "2013-11-05 09:43:18 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4000"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It has been a difficult couple of months for Harvey Weinstein. As well as recutting his documentary of J.D. Salinger after it was savaged in reviews, he is now engaged with arguments with the directors of both Grace of Monaco and Snowpiercer over his liberal use of editing that has earned him the moniker Harvey ‘Scissorhands’. And so it is perhaps unsurprising that he seems a little defensive when he goes up alongside BFI director Clare Stewart to introduce this year’s Surprise Film - The Grandmaster by legendary auteur Wong Kar-Wai. ‘We tried to keep it as chronological as we could’, Weinstein explained ‘but at the end of the day, who gives a shit?’. Oh dear. What follows is 100 minutes of cinema that - although beautiful - is off paced, confusing, and a little bit disappointing.

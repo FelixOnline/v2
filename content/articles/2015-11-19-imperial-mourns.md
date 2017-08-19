@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Crowds gather at Queen’s Tower to hold minute’s silence for Paris victims
 date: "2015-11-19 22:16:55 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5739"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Several hundred people gathered at the foot of Queen’s Tower on Monday for a minute’s silence to remember the 129 people killed in the Paris attacks. The crowd included students and staff, who joined a Europe-wide moment of reflection three days after the tragedy.

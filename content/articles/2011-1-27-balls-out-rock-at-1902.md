@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Greg Power spoke to alt-rockers The Vetoes, headliners of the first Felix Music Night who promise to bring the balls back to rock
 date: "2011-01-27 20:38:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "698"
@@ -33,15 +34,6 @@ image_height: "1372"
 image_attribution: "Luke Tomlin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s tough being a guitar band in 2011. Only three guitar-based tunes were featured in the UK’s top 100 best-selling songs of 2010. It gets even more depressing when you realise that half of the top 40 songs featured were by David Guetta, Black Eyed Peas or Rihanna.

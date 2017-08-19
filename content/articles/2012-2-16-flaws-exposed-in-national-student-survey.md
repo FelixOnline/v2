@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Data could be readily skewed in Imperial's favour
 date: "2012-02-16 22:19:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2212"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Alexander Karapetian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Students from the Department of Computing have teamed up with Felix to uncover methods which can be used to skew data being submitted to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS) in favour of Imperial College.

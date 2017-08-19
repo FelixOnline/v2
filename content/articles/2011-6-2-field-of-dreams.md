@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber continues the Felix Summer Festival Guide with a preview of East London’s Field Day
 date: "2011-06-02 20:03:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1315"
@@ -33,15 +34,6 @@ image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I have been trying to pin down what is truly appealing about festivals. What makes them so hellishly fun and why do we go to them? Of course there can’t be just one answer. Part of the fun is getting away from ‘civilisation’ and going a bit mad for a few days; but after a while you can’t help but begrudgingly admit that civilisation, with its comfortable beds, warm showers, and clean clothes is actually pretty sweet. Obviously part of the fun is being with your mates; but it’s probably not necessary to point out that we don’t just see our mates once a year at Bestival. What really makes a festival worth going to, in my opinion, is the line-up. It’s the opportunity to see a whole load of the bands that you love one after another (as well as hopefully being pleasantly surprised by those that you haven’t heard of yet.)

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Amnesia: The Dark Descent will give you the willies
 date: "2010-10-21 19:33:22 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "244"
@@ -33,15 +34,6 @@ image_height: "900"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Amnesia: The Dark Descent is a graphic adventure survival horror game that had me swapping out trousers on a regular basis, and I shall endeavour to convey why this little-known gem is so worthy of attention. First though, a little introduction to Frictional Games, and the current state of the survival horror genre.

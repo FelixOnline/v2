@@ -4,6 +4,7 @@ title: >
 subtitle: >
   So here you are. You’ve watched all the Salvador Dali films in the house, knitted all the hipster beanies you need, the bars in Shoreditch are too mainstream on a Friday night and you’ve already spent hours listening to unknown bands on Soundcloud. So what next?
 date: "2014-01-17 03:48:30 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4242"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __What: __From Morning to Midnight

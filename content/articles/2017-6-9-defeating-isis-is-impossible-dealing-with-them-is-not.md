@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Titmuss thinks that in order to combat terrorism, we must first understand its root causes
 date: "2017-06-09 14:53:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7009"
@@ -33,15 +34,6 @@ image_height: "1109"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The UK has been subjected to a number of terrorist acts. At this point in time it is appropriate to mourn and honour the dead and remember that nothing can justify these acts. At the same time, it is important to look at this topic with nuance if we as a nation wish to solve this problem. Two questions need to be answered: what are the driving factors behind these attacks, and what can be done to reduce the impact that terrorism can have on our daily lives? The emphasis in this article will be on Islamist terrorism.

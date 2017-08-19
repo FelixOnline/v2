@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Have your say and make a difference at Imperial
 date: "2012-01-26 23:16:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2075"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 During the past week the Felix website has seen some of its highest activity ever, as various members of College have taken to our [comment boards](http://felixonline.co.uk/news/2032/clayponds-in-crisis/#commentHeader) to voice their opinions over last week’s report on the potential closure of Clayponds. Demonstrating that the postgraduate voice at Imperial is very much alive and well, it shows that adjustments to college life are not solely exclusive to one section of Imperial’s community, but rather everyone.

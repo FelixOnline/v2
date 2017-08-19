@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Walkathon at Imperial's United Arab Emirates-based Diabetes Centre
 date: "2011-12-01 22:07:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1900"
@@ -34,15 +35,6 @@ image_height: "2332"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An annual walkathon to promote healthy living, jointly hosted by the [Imperial College London Diabetes Centre](http://www.icldc.ae/) (ICLDC) in Abu Dhabi and The National Health Insurance Company Daman, took place at the Yas Marina Circuit (the venue for the Abu Dhabi Grand Prix) on November 25. [Walk For Life](http://www.diabetesuae.ae/walk_for_life), which is now in its fifth year, saw a turnout of up to 16,000, with over 45,000 having taken part in it since it began in 2007.

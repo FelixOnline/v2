@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Beioley reviews the London Climate Forum
 date: "2012-11-29 21:57:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2984"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [London Climate Forum](http://www.londonclimateforum.org/), in short, is a fascinating and cutting-edge forum which anybody interested in climate change and sustainability, and even those who aren’t, should endeavour to get involved with.

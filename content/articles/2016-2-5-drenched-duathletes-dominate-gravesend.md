@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The formation of a “small lake” on the track didn’t stop Imperial Triathalon Club
 date: "2016-02-05 12:57:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5890"
@@ -34,15 +35,6 @@ image_height: "939"
 image_attribution: "Triathalon"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the first month of 2016 came to a close, eleven duathletes from Imperial College London battled against the elements to achieve an impressive tally of podium finishes at the Gravesend Winter Duathlon.

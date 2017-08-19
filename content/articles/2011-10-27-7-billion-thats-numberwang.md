@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton argues that population growth isn’t a priority
 date: "2011-10-27 22:52:57 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1618"
@@ -34,15 +35,6 @@ image_height: "618"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This Tuesday, the UN is expected to name a child, somewhere in the world, as [the planet’s seven billionth living resident](http://www.bbc.co.uk/news/world-15391515). The news has been greeted with alacrity by much of the same planet’s media, most notably The Guardian, which ran articles such as “Why current population growth is costing the Earth”. The idea that population growth is spelling doom for us all is as popular as it is old. It is just as wrong.

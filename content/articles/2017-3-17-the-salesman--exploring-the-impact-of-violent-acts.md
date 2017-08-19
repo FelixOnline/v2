@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Asghar Farhadi’s Academy Award-winning film examines how single incidents spiral out, affecting all aspects of our lives, as a couple deal with the fallout from an assault committed in their own home.
 date: "2017-03-17 17:07:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6911"
@@ -33,15 +34,6 @@ image_height: "1508"
 image_attribution: "Cannes film festival"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Think of the worst thing you’ve seen a cowboy builder do. Is it bodging a driveway? Building the wrong wall? How about undermining the foundations of an entire apartment block, causing a mass exodus of tenants and starting a chain of events that drives sharp rifts between families and friends? So begins  The Salesman, Oscar-winner Asghar Farhadi’s latest film. Here, the Iranian filmmaker brings a tightly spun drama to the table, exploring the potentially devastating effects of trauma, shame, and revenge in contemporary Tehran.

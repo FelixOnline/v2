@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Do you know how Omar Hafeez-Bore got those abs? By playing video games!
 date: "2011-02-17 20:02:44 +0000"
+author_id: "oh106"
 
 # Attributes from Felix Online V1
 id: "831"
@@ -34,15 +35,6 @@ image_height: "1173"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "oh106"
-author_name: "Omar Hafeez-Bore"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Is Survivor’s 80s classic ‘Eye of the Tiger’ the sweatiest song of all time? Whilst Elvis can take credit for millions of broken teenage hearts, and Barry White for millions of unplanned children, Survivor can take pride in being responsible for a sea of sweat lost by inspired gym-goers since _Rocky III_ in 1982. Did you ever wonder why the Pacific Ocean only appears on maps made since the 1990s (maybe a lie)? Well, now you know where it came from.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Concerns raised about impact on international students
 date: "2011-02-24 19:40:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "865"
@@ -33,15 +34,6 @@ image_height: "4928"
 image_attribution: "Robert Bishop"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Sherfield branch of NatWest is due to close in May after the bank decided not to renew its lease. The closure will leave only one bank on campus, Santander, and there are concerns that international students will be badly hit by the loss of the student expertise at the branch.

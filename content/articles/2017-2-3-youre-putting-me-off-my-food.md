@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey explains why fat people are not afforded the privilege of 'normal' eating habits
 date: "2017-02-03 15:46:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6711"
@@ -34,15 +35,6 @@ image_height: "1165"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have a complicated relationship with food. I think every fat person does. That isn’t to say I don’t also think that every woman or man who is impacted by the pressure of beauty standards also does – I do – but for a fat person it is subtly different. Being fat is the reason that we are perceived as greedy, lazy, stupid. Fat is the reason that we are told that we are not attractive, not desirable, not good enough. And food is predominantly the thing that causes that. Food is something that we need to consume, several times a day, but it is also something that is heavily associated with shame.

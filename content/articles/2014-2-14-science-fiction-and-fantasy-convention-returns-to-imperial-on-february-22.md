@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross wILL...
 date: "2014-02-14 05:05:39 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4380"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The College is preparing to host top SF and fantasy writers at its annual convention, Picocon. This year award winning authors Sarah Pinborough and Charles Stross will also be joined by Imperial’s Professor David Southwood – Chair of the Royal Astronomical Society and patron of the SF Foundation. Organised by the Science Fiction, Fantasy and Gothic Horror Society and currently in its thirty first year, the theme of the convention this time round will be ‘Survival’.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An online exclusive on tackling inequality in the education system
 date: "2011-10-13 23:44:39 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1528"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The statistics. Around one in three private school pupils achieves a grade of A* or A at A-level compared to 10.6% for state schools, despite roughly only making up 10% of all those in education. 54.8% of those in state schools leave GCSE level without passes of A* to C in the basic subjects english and mathematics. When postcode is a good predictor of attainment, [it is clear that education in the UK is still far from fair](http://www.education.gov.uk/rsgateway/DB/SFR/s000963/sfr30-2010.pdf), [despite progress in recent years](http://www.bbc.co.uk/news/education-11597488).

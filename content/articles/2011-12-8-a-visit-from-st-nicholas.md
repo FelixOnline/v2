@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster signs off the year with a traditional Christmas jingle – Portal style
 date: "2011-12-08 21:28:32 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "1939"
@@ -34,15 +35,6 @@ image_height: "279"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ‘Twas the night before Christmas, when all through the lab,

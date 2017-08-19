@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Angry grad is coming to you from Thailand, and this is what she’s found
 date: "2016-06-10 08:20:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6251"
@@ -33,15 +34,6 @@ image_height: "1944"
 image_attribution: "unsplash.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It's almost the end of the academic year, meaning many of you will be in that final frenzy of wrapping up your final year projects. From frantic pipetting to manic coding, it's all very stressful – I've been there. But for those of you, much like myself a year ago, the end of uni does not equal a cry from relief. It means facing your boggart which, let’s be honest, is far more soul wrenching than Harry's dementor – the dreaded prospect of unemployment.

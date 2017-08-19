@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Robert Treasure discusses how fruit flies use alcohol as a defensive tactic
 date: "2012-03-01 21:31:37 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2276"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m sure I’m not alone in my scepticism of the apparent healing properties of alcohol when suffering from a cold or general post-Saturday-night divine punishment. Yet the latest research conducted at Emory University, Atlanta, suggests that fruit flies genuinely use alcohol to combat infection – from parasitic wasps.

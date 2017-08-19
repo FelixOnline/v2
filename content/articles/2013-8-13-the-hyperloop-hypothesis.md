@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fine, it's not a hypothesis, but the Hyperloop concept could revolutionise medium and long distance transport in the blink of an eye...
 date: "2013-08-13 09:32:12 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3750"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Elon Musk"
 image_attribution_link: "http://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Los Angeles to San Francisco, a six hour, 382 mile drive along the West coast of the USA. Monotonous and arduous.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular column on classics in a genre you might've missed
 date: "2015-11-20 09:17:56 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5752"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 People always say the original Rocky is a classic, but I’ve never really seen this. I challenge its fans to watch it again today, and tell me it’s aged well. Yes, there are some iconic scenes, but this is not because they’re good – rather it’s because the film was popular. What we have here is a serious case of nostalgia goggles. Here are some alternatives:

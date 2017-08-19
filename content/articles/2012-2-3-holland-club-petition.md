@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Staff and students continue to band behind staff bar
 date: "2012-02-03 00:37:52 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2123"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the results of a feasibility study that will determine the future of [the Holland Club](http://felixonline.co.uk/news/1972/staff-and-students-rally-around-holland-club-campaign/) still remain to be announced, an [e-petition](http://www.change.org/petitions/imperial-college-save-the-holland-club-2) in support of its continuation has received nearly 400 signatories at the time of writing.

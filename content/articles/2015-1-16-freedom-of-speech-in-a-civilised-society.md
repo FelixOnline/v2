@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Should freedom of speech be given when it threatens social peace?
 date: "2015-01-16 13:22:01 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5097"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week’s heinous attacks on Charlie Hebdo caused an outpouring of grief and support from around the world for the innocents who lost their lives that day, and in the days that followed. The brazen assault was led by two masked gunmen claiming that they were avenging the name of the Prophet Muhammad, whose gross caricatures Charlie Hebdo had published in years gone by. And yet, 2 of the 12 murder victims that day were Muslim – one named Ahmed, the other Mustapha – both names of the Prophet Muhammad, a telling symbol of the character assassination that took place that day. In the coverage that followed, it became clear that the terrorists did more to defame the name of Islam than any cartoon ever could.

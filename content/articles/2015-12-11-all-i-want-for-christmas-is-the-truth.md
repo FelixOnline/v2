@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Not excited for Christmas? Maybe it’s because your parents lied to you
 date: "2015-12-11 15:29:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5813"
@@ -33,15 +34,6 @@ image_height: "2274"
 image_attribution: "Huffington Post"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every year, a strange phenomenon occurs:  trees are decorated, gifts are exchanged, and the world decides that it is again time to deceive millions upon millions of impressionable children.

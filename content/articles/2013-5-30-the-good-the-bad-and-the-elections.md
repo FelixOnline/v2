@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An editorial on the bad news, the good news, and the Election news
 date: "2013-05-30 16:05:41 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3648"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, as always, there is a mixture of good news and bad news. I will start with the bad news. [The tragic death of an Imperial alumnus](http://felixonline.co.uk/news/3646/imperial-alumnus-killed-in-syria/) is not the most pleasant thing to be reporting. It reminds me of another incident earlier this year, which was similarly upsetting to put into the paper. The fact that so much money has been raised in his memory in such a short time, and that he seems to have had so many friends at Imperial, shows that his character must have been strong. It is particularly upsetting that he died so young, and left behind a wife. I hope that his friends and family can take some comfort in the fact that he seems to have inspired a lot of people into being very generous: to raise that much money in barely any time at all is almost unbelievable. Hopefully, the field hospital will help people and so it will be for a good cause.

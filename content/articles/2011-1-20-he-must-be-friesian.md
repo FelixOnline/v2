@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ski Trip spots Super Cow shredding up the slopes!
 date: "2011-01-20 20:50:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "634"
@@ -34,15 +35,6 @@ image_height: "3573"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On the last week of the holidays it was time for Imperial College students to hit the slopes in Val Thorens! Two busloads of students spent 22 hours travelling to the Alps on New Year’s Day, most still suffering from the revelries of the night before. However, duty free alcohol and a port to port challenge tempted people back over to the dark side with one bus having a bit too much fun – and as the trip’s Worried Mum, I was called in to clean up the mess!

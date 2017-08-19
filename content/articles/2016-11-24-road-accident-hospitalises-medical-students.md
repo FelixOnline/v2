@@ -4,6 +4,7 @@ title: >
 subtitle: >
   One remains in critical condition
 date: "2016-11-24 16:44:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6490"
@@ -33,15 +34,6 @@ image_height: "3024"
 image_attribution: "Nikita Kumar"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Three Imperial students were among the four pedestrians injured last night during a car collision on North End Road. The accident occurred shortly before 18:45 when it is believed, according to Metropolitan Police reports, that a black Audi A3 crashed into the pedestrians.

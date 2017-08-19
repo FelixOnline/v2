@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Richardson recounts the tale of 'Demi Atkinson', the fake Facebook profile used to make friends with dozens of Imperial freshers
 date: "2011-04-25 17:20:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1139"
@@ -34,15 +35,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 With her big bright eyes, a selfless desire to help those in need, and an unrivalled passion for the sounds of obscure bands you’d have to Google just to maintain conversation, Demi Atkinson certainly ticked all the boxes. And to your average Imperial fresher, confined to our beloved South Ken bubble with a less-than-ideal male to female ratio, perfect she did seem.

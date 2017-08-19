@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Following on from the Oscar-nominated The Descendants (featuring George Clooney’s best performance in years, and introducing the amazing Shailene Woodley – soon to be seen in The Fault in Our Stars), Nebraska is Alexander Payne’s latest film as director, and (unsurprisingly) it’s almost everything..
 date: "2014-01-17 03:58:03 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4247"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __Nebraska__

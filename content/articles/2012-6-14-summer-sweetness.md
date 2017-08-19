@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A lemon pie recipe
 date: "2012-06-14 20:29:38 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2566"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Modified recipe from the book _Vegan Pie in the Sky by Isa Chandra Moskowitz_.

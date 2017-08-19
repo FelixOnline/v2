@@ -4,6 +4,7 @@ title: >
 subtitle: >
    The great British Bake Off really was a reality show not quite like any other
 date: "2017-02-03 17:07:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6730"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: "Mosaic Marketing"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Among other smaller, less internationally important incidents, it seems to me that 2016 will be remembered primarily as the year that the BBC lost the Great British Bake Off to Channel 4.

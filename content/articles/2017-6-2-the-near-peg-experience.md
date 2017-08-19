@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The ultimate feminist sexual act and a culture’s fear and obsession with butt stuff
 date: "2017-06-02 13:53:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6999"
@@ -33,15 +34,6 @@ image_height: "1252"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I went home last week for a few days over the bank holiday. As always when I go home, I opened up Tinder and began to swipe. I mostly use it as a way to keep track of who from school is single, but sometimes use it to shark on hot students and locals.

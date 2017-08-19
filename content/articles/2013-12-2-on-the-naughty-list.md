@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “You better watch out. You better not cry. Better not pout, I’m telling you why: Santa Claus is coming to town. He’s making a list, checking it twice. He’s gonna find out who’s naughty or nice. Santa Claus is coming to town!”
 date: "2013-12-02 21:46:35 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4153"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Whether naughty or nice, all are warmly welcome to the Imperial Christians’ Carol Service on December 6th in Holy Trinity with All Saints Church at 6PM.

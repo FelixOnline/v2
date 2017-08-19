@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An anonymous writer gives their opinion
 date: "2014-06-23 13:12:27 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4708"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I first remember coming across the word ‘feminism’ when I was about 9, and asking my mum what it meant. “It’s the principle”, she replied, without even glancing up from her newspaper, “that girls and boys should be treated in exactly the same way”. I remember thinking it bizarre that such an obvious concept even needed a name, but I didn’t question it any further.

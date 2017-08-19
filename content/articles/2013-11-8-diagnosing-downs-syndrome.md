@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Utsav Radia on the new antenatal blood test and its potential to detect the genetic disorder before birth
 date: "2013-11-08 09:36:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4028"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A new antenatal blood test, developed by Professor Kypros Nicolaides and his team of researchers at King’s College London in collaboration with University College London Hospital, with the potential to diagnose Down’s Syndrome in developing foetuses, is being considered for trial in the NHS.

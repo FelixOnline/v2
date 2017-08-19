@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The NHS has recently dispatched a leaflet titled “Better information means better care” to everyone in England.
 date: "2014-01-31 17:57:03 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4327"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The NHS has recently dispatched a leaflet titled “Better information means better care” to everyone in England. The leaflet describes a new initiative, care data, in which patient’s data from GP records will be extracted and shared with the Health and Social Care Information Centre. The NHS hopes to roll out care data in the summer and for the first time in British medical history there will be an anonymised medical database which will include details of every NHS patient – unless you opt out. The database is hoped to achieve better patient care and efficiency, but a recent risk assessment published by NHS England shows that Patients “may lose trust” in the confidential nature of the health service.

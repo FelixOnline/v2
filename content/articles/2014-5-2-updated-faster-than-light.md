@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful Kickstarter campaigns, achieving over 20 times the goal that the developers had asked for.
 date: "2014-05-02 02:00:14 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4560"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This game is one of the indie scene’s big success stories. Back in 2012 it was one of the most successful kickstarter campaigns, achieving over 20 times the goal that the developers had asked for. It went on to win numerous awards, has been reviewed in these very papers, regularly tops the steam charts and become a staple of most gamers worldwide. Furthermore, in a bid to keep the game fresh, the developers have released an update, with loads of new content for free! This in itself is quite a pleasant surprise, given that we live in the world of paid DLCs and micro-transactions. In addition, the creators, _Subset Studios_, have now released an iPad version so you can be a space captain even when you are on the move!

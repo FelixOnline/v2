@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Like, tweet, or comment on this page to help us beat the London Student newspaper on day ten of our 30-day Song Challenge duel
 date: "2011-05-29 11:04:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1282"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Ok, so I may have missed a couple of days. I'm not sure if there's much to say about this song. It's from a great album, [Gemini](http://open.spotify.com/album/3oPuSNDpKa84WJLWstHomV), and is the perfect companion for drifting gently off to sleep. (Unfortunately Wild Nothing are terrible live...)

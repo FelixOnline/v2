@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If Mickey Mouse comes anywhere near me...kill him I will
 date: "2012-11-09 13:32:10 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2860"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Veteran film maker George Lucas has agreed to sell his company Lucasfilms – the company behind the entire Star Wars franchise – to Walt Disney, who will be making a seventh film in the series, to be released in 2015.

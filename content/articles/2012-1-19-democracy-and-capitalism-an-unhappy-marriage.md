@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Zuehlsdorff discusses solutions to the apparent conflict between a free financial market and a stable economy
 date: "2012-01-19 20:05:30 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2004"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When Lehman Brothers filed for bankruptcy on 15 September 2008, it marked the most dramatic collapse of an U.S. firm in history. In many ways, the name of the once fourth biggest investment bank in the United States has become a synonym for the global financial meltdown that shook the world in 2008 and whose aftershocks are still felt today.

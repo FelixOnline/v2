@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A conference for students
 date: "2013-03-07 23:57:44 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3450"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Booksellers Association will be hosting its annual Academic, Professional and Specialist Bookselling (APS) Group Conference at the Old Ship Hotel, Brighton on March 13-14. The Association represents the interests of some 95% of British bookshops and its conference is aimed at helping academic booksellers open a dialogue with students and academics.

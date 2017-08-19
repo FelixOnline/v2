@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Kendoka organise UK tournament and win silver
 date: "2016-03-04 11:53:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6012"
@@ -33,15 +34,6 @@ image_height: "1365"
 image_attribution: "Natasha Khaleeq"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend, the Imperial College Kendo Club organized a major event in the world of kendo in the UK: the University Championship, or ‘Taikai’. It was a frank success, with students gathering from as far as Scotland and Wales to the Ethos gym here in South Kensington for the traditional annual competition between university dojos. A total of 150+ kendoka – making it the largest UK Taikai since its inception 20 years ago – sparred over the two days in different categories, individual and team competitions, split between beginners and veterans (and genders for individuals).

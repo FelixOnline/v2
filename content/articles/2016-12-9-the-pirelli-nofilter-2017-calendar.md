@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Classically beautiful, slim, cis, able-bodied, and overwhelming white
 date: "2016-12-09 12:42:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6571"
@@ -33,15 +34,6 @@ image_height: "735"
 image_attribution: "Peter Lindbergh/Pirelli Calendar"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last year, I wrote about Pirelli turning over a new leaf; its 2016 edition had come on the heels of Playboy announcing that it would no longer feature nudity. What a winter of discontent, I said, for the meninists, won’t someone please think of all those poor men fighting for a world where old white dudes can hold more power economically, socially, and politically? It seems the universe is not a fan of gentle sarcasm; the meninists have had the last laugh.

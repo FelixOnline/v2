@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-18 11:57:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6068"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In London, it’s rare to properly know your neighbours. And with the release of _The Ones Below_, it seems one has even less of a reason to pop round for tea and biscuits.

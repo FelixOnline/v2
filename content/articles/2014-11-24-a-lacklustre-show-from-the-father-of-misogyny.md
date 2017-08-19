@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The long-awaited Allen Jones Retrospective is analysed by Fred Fyles
 date: "2014-11-24 12:20:58 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4935"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If we look up the work ‘Objectification’ in the dictionary, it will tell us that it describes “treating a living person as a thing, with no regard to their dignity”. It appears that Allen Jones has misinterpreted this meaning. At least, that’s how things appear when entering the retrospective of his work currently being held at the __Royal Academy__, where one is immediately faced with a semi-naked mannequin, clad in leather and staring passively down, supporting a large glass table-top on her back.

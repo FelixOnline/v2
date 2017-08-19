@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Holes in space legislation, that is
 date: "2016-11-04 12:53:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6382"
@@ -33,15 +34,6 @@ image_height: "1920"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In spite of the seemingly everlasting state of conflict in the international community, all countries have pretty much agreed to pretend to be friends in outer space.

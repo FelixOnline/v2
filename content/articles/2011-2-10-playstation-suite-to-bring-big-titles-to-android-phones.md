@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "781"
@@ -34,15 +35,6 @@ image_height: "350"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The “Next Generation Portable” a.k.a. the PSP2, was announced two weeks ago at Sony’s ‘Playstation Meeting 2011’. The world stared, the world gaped and the world was awed. Quite right too: few had been expecting such an impressive device. (Thankfully it won’t be long before the device itself slams onto our supermarket shelves).

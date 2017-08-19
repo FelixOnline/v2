@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week's film is a chilling look at the meeting of right-wing politics and fundamentalism
 date: "2015-12-06 14:42:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5807"
@@ -34,15 +35,6 @@ image_height: "304"
 image_attribution: "Jesus Camp PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Is there anyone in here who believes that God can do anything?” the energized Pentecostal preacher Becky Fischer questions her baying crowd as the camera cuts to a mother raising her two uninterested children’s hands excitedly. The opening scene of _Jesus Camp_ places the viewer right in the middle of one of the services at a Christian children’s summer camp in North Dakota. As the scene continues, fast editing and a haunting score crescendo to a pandemonium. Parents yell encouragement as the children and viewer alike are treated to the first of many frenzied sermons which come to be the focus of this film.

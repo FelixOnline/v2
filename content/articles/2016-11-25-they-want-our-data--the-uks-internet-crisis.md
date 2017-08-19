@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dan Slocombe shares hic concerns about the orwellian future we are headed towards
 date: "2016-11-25 13:34:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6498"
@@ -33,15 +34,6 @@ image_height: "559"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Edward Snowden said that “Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.” And, while we may have nothing to hide here at felix, we have plenty to say.

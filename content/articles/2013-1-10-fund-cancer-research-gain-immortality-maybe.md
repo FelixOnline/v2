@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope on how you can get a cancer drug renamed — after you
 date: "2013-01-10 22:15:50 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3081"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ad5[CgA-E1A-miR122]PTD isn’t a catchy name. But, for just one million pounds, Ad5[CgA-E1A-miR122]PTD (Ad5 for short) could be renamed — after you.

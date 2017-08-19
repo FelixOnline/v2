@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX visits BAO, the hip Taiwanese restaurant in SoHo
 date: "2016-05-27 09:05:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6221"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday was another one of those typical rainy, gloomy days with me sitting, staring into space in the back of the Chem Eng library. I must have appeared to be either half asleep, or deep in thought pondering upon the underlying philosophy of a radiative heat transfer problem. Hangry, more like. I was craving something naughty, something unique, something that tasted like home. After five minutes of desperate scrolling up and down my Instagram feed, I got an answer.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michelin-starred dining in Fulham
 date: "2011-05-27 13:53:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1274"
@@ -33,15 +34,6 @@ image_height: "384"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The only Michelin-starred pub gastropub in London has a surprising signature dish – the humble Scotch egg. Of course, it is something very special. The egg, hidden within plenty of flavourful venison sausagemeat, has a firm white but impossibly runny yolk and is coated in the most crunchy, golden brown breadcrumbs. This sums up my impression of the Harwood Arms. It is something simple and comforting that has been obsessively refined to the point of being ethereal.

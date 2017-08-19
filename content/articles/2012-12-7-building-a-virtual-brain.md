@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A step closer to an artificial human brain? Pavitar Devgon discusses
 date: "2012-12-07 01:39:38 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3039"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "sciencemag.org"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Intelligence has been a hot topic in robotics for decades – ever since we started creating computers and machines, we have wanted to imbue them with a similar level of learning and intelligence to our own. So we turned to the most intelligent machine we had – our brains. Researchers in this field have been simulating neuron maps in hopes of replicating the human abilities. Over time, they have been getting ever-more efficient at it; the Blue Brain Project was able to simulate 1 million neurons. The more recently created [Cognitive Computation Project was able to simulate 1 billion neurons](http://www.sciencemag.org/content/338/6111/1202), the same amount as the average cat. However, an ambitious new project has been reported to simulate near the human scale of 100 billion neurons.

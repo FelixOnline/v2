@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clemy Walker reports on the Welsh rockers
 date: "2013-12-02 22:12:45 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4167"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It’s Wednesday night and I am at Heaven to see angry Welsh noise-rockers Future of the Left. Formed from the ashes of mclusky and Jarcrew, and now featuring Julia Ruzicka from Million Dead on bass, they are known for their heavy stop-start guitar riffs and front man Falco’s viciously delivered satirical lyrics.

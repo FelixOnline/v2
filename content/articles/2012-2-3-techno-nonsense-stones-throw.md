@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter on the beat scene groundbreakers
 date: "2012-02-03 11:13:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2129"
@@ -34,15 +35,6 @@ image_height: "630"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I started this column last year but any recent input has been massively lacking. The feature started off highlighting electronic music labels that were either doing big things at that time or labels that should just be known due to their impact on music. I suppose this one falls into both categories.

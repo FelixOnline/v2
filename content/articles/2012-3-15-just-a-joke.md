@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It is time to acknowledge the existence of a rape culture
 date: "2012-03-15 21:49:05 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2394"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let me ask: what have you personally done to prevent rape recently? If you’re a man, the answer is hopefully “not raped anyone.” If you’re a woman, the answers will be many: avoiding dark places at night, avoiding walking alone, taking a taxi rather than public transport, not making eye contact with people in the street, keeping away from groups of men or calling a friend to make sure that they got home safely. This is only considering the relatively rare case of people being raped by strangers in the street, compared to the much more common crime of being raped by someone you know or someone you’ve just met in a social situation, which requires its own preventions: not getting too drunk, not taking drugs at a party, watching one’s drink, and avoiding going to social events without close friends. Men reading this might be shocked at such measures: surely all of that’s not necessary?

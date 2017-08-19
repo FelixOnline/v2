@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial athletes shine through
 date: "2011-03-03 21:14:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1021"
@@ -34,15 +35,6 @@ image_height: "3008"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Athletes from both [Imperial College Athletics Club](http://union.ic.ac.uk/acc/crosscountry/) and [ICSM Athletics Club](http://icsmathletics.com/index.html) travelled up to Sheffield on the weekend of 18-20 February for the BUCS Indoor Athletics Championships. Competing across a wide range of both track and field events, the team were looking forward to an exciting weekend of sport.

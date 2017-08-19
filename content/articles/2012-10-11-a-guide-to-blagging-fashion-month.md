@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If one more person asks me what ‘actually happens’ during fashion week I will stub you with my Manolo
 date: "2012-10-11 20:54:05 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2658"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 For those unfamiliar, fashion month is a bi-annual occasion made up of fashion weeks in the four fashion capitals, where the fashion community (editors, buyers, bloggers and celebrities alike) collects to view the major designers’ collections for the following season. This September saw the presentations for spring/summer 2013, beginning in New York.

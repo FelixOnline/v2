@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You don’t need to be a tango aficionado for the raw appeal of Tango Fire’s bold and flamboyant dancing
 date: "2017-02-10 15:54:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6767"
@@ -33,15 +34,6 @@ image_height: "1769"
 image_attribution: "Sadlers Wells"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tango – the word alone conjures images of passion, seduction, and power play. German Cornejo and his sizzling dance crew return to London with Tango Fire to set the stage ablaze.

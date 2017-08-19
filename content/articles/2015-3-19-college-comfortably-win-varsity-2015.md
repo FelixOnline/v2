@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports as College secure new Varsity Trophy
 date: "2015-03-19 23:44:30 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5407"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ben Lester"
 image_attribution_link: "http://throughbenslens.co.uk"
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Varsity, the annual College-wide sports event took place on Wednesday, with matches taking part across London between teams of students from Imperial College (IC) and teams of Imperial College School of Medicine (ICSM) students. Imperial College stormed to victory ahead of the Medics, with IC winning 15.5 games overall, and ICSM winning 8.5 games.

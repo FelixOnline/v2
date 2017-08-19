@@ -4,6 +4,7 @@ title: >
 subtitle: >
   "I read your article last week and would like to reply to some of the accusations directed at us."
 date: "2016-02-22 15:09:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5951"
@@ -34,15 +35,6 @@ image_height: "4128"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dear Lucinda,

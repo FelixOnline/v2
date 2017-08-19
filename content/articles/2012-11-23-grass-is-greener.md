@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mo Mirza finds a treat at Bush Hall
 date: "2012-11-23 00:19:53 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2969"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 14th of November, Adam Green and Binki Shapiro graced the charming Bush Hall in Shepherd’s Bush with what one could probably describe as unique blend of lo-fi indie folk pop. Their set opened with ‘If You Want Me To’ and after a choppy start, mostly due to the sound technician’s epic struggle to sort out microphone levels, the band went on to perform a myriad of enjoyable tunes; surprising, as I was under the impression that Adam and Binki’s first album was too much of a work in progress to have built up such an appreciable repertoire.

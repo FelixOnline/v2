@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Meeting must have 200 people attend for it to meet quorum
 date: "2014-11-14 19:56:14 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4860"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union Council agreed to a Union General Meeting last Tuesday, only the second General Meeting in five years and the first under the new constitution change.

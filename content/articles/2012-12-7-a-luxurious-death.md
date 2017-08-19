@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alice Yang discusses whether fast fashion is killing luxury brands
 date: "2012-12-07 01:45:47 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3042"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Common knowledge to anyone who actually wants to embark upon a career in the near future, the world economy is dragging its feet along the ground and practically all global growth has been brought to a grinding halt. The unfortunate result from all of this, besides the lack of money each and every one of us is painfully aware of, is the negative commotion surrounding the luxury sector.

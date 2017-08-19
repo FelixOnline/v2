@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Sport catches up with Imperial’s most successful ski trip yet
 date: "2013-01-18 01:04:37 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3148"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 By this point most people will have just about recovered from the best week of skiing and partying yet. This was Imperial’s biggest ski trip by a long way and did not disappoint!

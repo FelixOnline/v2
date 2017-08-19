@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The team aims to produce a fully functioning creatinine sensor which rivals those currently available
 date: "2016-05-06 10:18:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6136"
@@ -34,15 +35,6 @@ image_height: "1536"
 image_attribution: "SensUs Imperial"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College has put forward a team of twelve students to compete in the International SensUs Competition, which aims to produce a creatinine molecular biosensor for healthcare applications. Its applications include uses in monitoring chronic kidney damage, radiology, the cardiovascular system and transplantation.

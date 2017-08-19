@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An affordable feast
 date: "2012-11-29 22:54:19 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2992"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s Saturday. You want to go to a nice restaurant to enjoy a proper meal (for once!) with your friends. You are dreaming of a huge three course meal, a delicious starter, a great main dish and a luxurious dessert accompanied with good wine of course but then you suddenly realise that you can’t afford it!

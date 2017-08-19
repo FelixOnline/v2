@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Masson watches No Age at the Dome
 date: "2013-10-12 00:40:03 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3840"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 No Age descended on North London last week to showcase their new album, “An Object”. The LA two piece were originally scheduled to play at Koko but the gig was downsized to the school hall-esque Dome in Tufnell Park. This is definitely a band on the way down. The new album, unlike its predecessors, has received little hype and a fair amount of criticism. I think a lot of the criticism is over the top, but the live performance doesn’t exactly help my point. There’s no energy in any of the new stuff, and there is a lot of uninspiring shoegazey bollocks.

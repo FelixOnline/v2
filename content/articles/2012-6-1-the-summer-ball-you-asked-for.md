@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new format, but where's the enthusiasm?
 date: "2012-06-01 12:31:20 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2510"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [“The Summer Ball you asked for.”](http://www.union.ic.ac.uk/marketing/summerball/)

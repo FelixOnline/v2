@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marion Ferrat takes a look at Curiosity’s first year on the Red Planet
 date: "2013-08-19 08:06:30 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3752"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "NASA/JPL-Caltech/MSSS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Just over a year ago, on 6 August 2012 (5 August Eastern Standard Time), a little something called Curiosity made its final descent towards the Martian surface. Curiosity had spent over seven months making the journey from Cape Canaveral in Florida to the outer atmosphere of Mars. After a series of perfectly executed moves, and an excruciating wait for the Mars Science Laboratory (MSL) team at NASA, the rover landed safely in Gale crater, near the Martian equator.

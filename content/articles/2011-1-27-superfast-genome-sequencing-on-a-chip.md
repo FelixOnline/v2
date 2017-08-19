@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
+author_id: "ko407"
 
 # Attributes from Felix Online V1
 id: "658"
@@ -33,15 +34,6 @@ image_height: "1395"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ko407"
-author_name: "Kelly Oakes"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kahoakes"
-author_facebook: ""
-author_website_url: "http://blogs.scientificamerican.com/basic-space"
-author_website_title: "Basic Space @ Scientific American"
 ---
 
 The first step on a path that could lead to the sequencing of an entire genome in minutes has been developed by chemists at Imperial College London. A paper describing the prototype technology was published last month in the journal Nano Letters.

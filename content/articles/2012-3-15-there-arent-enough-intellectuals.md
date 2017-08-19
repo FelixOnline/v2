@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Furse on the NHS reform bill
 date: "2012-03-15 21:45:46 +0000"
+author_id: "ig711"
 
 # Attributes from Felix Online V1
 id: "2393"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ig711"
-author_name: "Iulia Gherman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The world is ruled by aggressive simpletons. We have all met jobsworths and nice guys, people who run things according to the first thing that comes into their head, rather than thinking it through.

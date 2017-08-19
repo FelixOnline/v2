@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Naulles discusses the government’s inability to recognise the current crisis at the NHS.
 date: "2017-01-13 14:02:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6637"
@@ -33,15 +34,6 @@ image_height: "1974"
 image_attribution: "Trades Union Congress"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Society of Acute Medicine has revealed that the NHS currently has “third world levels of staffing and third world levels of beds”. For the Red Cross, our NHS is in the midst of a ‘humanitarian crisis’. This language may sound vitriolic, but a crisis of this magnitude is something medical professionals have been warning politicians about for years. Over the weekend, 42 A&amp;Es had to divert patients to other hospitals due to their inability to deal with the number of patients coming in.  Many of those that actually made it into the hospitals were left on beds in corridors, a damning indictment of the sheer lack of capacity in our NHS at the moment.

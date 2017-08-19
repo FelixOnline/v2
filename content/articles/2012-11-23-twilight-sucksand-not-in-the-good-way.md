@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Katy Bettany is not impressed with this long and boring end to the saga
 date: "2012-11-23 00:38:35 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2976"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Twilight Saga comes to a much needed close with its final instalment. The main problem with this film is that Meyer’s final book barely contained enough content for one film, let alone two franchise-bleeding epics. Consequently, this film ended up being two hours in which essentially, nothing happened.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Animals have souls and eating them is wrong
 date: "2011-10-20 22:49:04 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1575"
@@ -34,15 +35,6 @@ image_height: "1048"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f**k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)

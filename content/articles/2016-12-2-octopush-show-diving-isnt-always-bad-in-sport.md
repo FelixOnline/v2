@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hint: we're talking underwater hockey
 date: "2016-12-02 16:51:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6554"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Underwater hockey (or Octopush as it is often called) is a competitive sport combining hockey and snorkelling, played on the bottom of a swimming pool.  The rules are similar to hockey, but with shorter sticks (about a foot long), meaning players must dive to the bottom of the pool to flick the weighted puck along the pool floor and into the goal. With IC member numbers tripling compared to last year, it could be said Octopush is one of Imperial’s fastest growing sports.

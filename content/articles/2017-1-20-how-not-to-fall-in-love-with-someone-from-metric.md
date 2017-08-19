@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Remember that one night stand in Metric? Time to deal with the fallout.
 date: "2017-01-20 15:58:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6679"
@@ -33,15 +34,6 @@ image_height: "1031"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is a follow up to our piece ‘How to have a one night stand (in Metric)’. For those of you who somehow missed it, we provided a tried-and-tested plan of action designed to get you laid after a night in Metric. This plan was meant to get you in and out without leaving any trace. But expectedly, you failed. We know that some of you followed our ‘foolproof’ guidance, but now you’re starting to be concerned that you may be feeling something more than just carnal desire.

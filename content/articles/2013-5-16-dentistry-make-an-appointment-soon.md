@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi speaks to dark, ambient up-and-comers Dentistry
 date: "2013-05-16 14:43:10 +0100"
+author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "3566"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js2310"
-author_name: "James Simpson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _I recently got in touch with Cian Walker and Patrick Fennelly of Irish band Dentistry. Their debut last year released on Forwind Records made quite an impression on me and I got a chance to discuss their approach to making music._

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clare Bakewell talks about the 100 Masterclasses in how to wear a jumper by Kevin McCloud
 date: "2012-10-26 02:40:55 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2752"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One hundred episodes in and Kevin appears to be going soft. The once heavily-critical McCloud whole-heartedly embraces the irrefutably crazy Lee and Graham who are embarking on the restoration and redesign of a central London water tower. With a build period of eight months, the construction site resembles a busy commuter tube. With sewage workers, plasterers and conservationists all working at the same time it’s a delicate jigsaw to bring the building together on time.

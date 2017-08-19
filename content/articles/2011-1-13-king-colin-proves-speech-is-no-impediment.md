@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
+author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "567"
@@ -34,15 +35,6 @@ image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jgp09"
-author_name: "John G Park"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When one is King, one cannot afford to do a lot of things. For example it will be frowned upon if one is interested in marrying an American (shock horror) twice-divorced woman in a time of conservative, proper ideals. Caught up in this scandal, King Edward VIII (Guy Pearce), decides to follow his heart and abdicate the throne, leaving the crown to fall on his brother’s head, George (Colin Firth), or Bertie, as he’s known to his family. But this is not going to be a smooth transition either, for George has difficulties of his own; he stammers and is incapable of public speaking. Yet another thing one cannot afford to do when one wishes to be King. After an embarrassing public incident, he is seen by a myriad of speech therapists and what ensues is a hilarious My Fair Lady-like routine where Bertie is required to put seven marbles in his mouth to speak – apparently helping him to pronounce correctly. Also, he is advised to smoke – because it “relaxes” the lungs.

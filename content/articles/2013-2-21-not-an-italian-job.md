@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A look into an exhibition on the Renaissance and its origins
 date: "2013-02-21 20:52:49 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3343"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Renaissance is generally considered to be an Italian affair. No one could doubt the profound part that the works of the Italians, such as Michangelo and Leonardo da Vinci, played in this era. But this is not the whole story. The 130 plus artworks which are currently on display at The Queen’s Gallery depict the flip-side of the Renaissance, from the darker lands of Northern Europe. These artworks are certainly a far cry from the soft, sensuous curves of Botticelli’s The Birth of Venus and they may lack the alluring quality of da Vinci’s Mona Lisa, yet these artworks were constructed with skill and talent comparable to the Italians and are a real feast for the eyes.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Science funding must be protected over welfare
 date: "2010-10-21 19:14:24 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "235"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Wednesday’s Spending Review brought with it the news, much speculated and feared in this paper, that science spending would itself face cuts. The research budget will be frozen, which means a real terms cut of 10%; about £500 million. This may not sound like too much but it comes at a time when countries like America and Germany are increasing research spending, seeing it as key to continued economic growth. Our own business school at Imperial recently produced at report showing how investment in science research leads directly to growth in other, seemingly unconnected, sectors.

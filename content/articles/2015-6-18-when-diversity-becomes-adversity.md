@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pheerawat Ratnitisakul discusses about the lows of diversity in London’s Melting Pot
 date: "2015-06-18 19:31:26 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5628"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Duncan Philips"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “London is a world-class international city with people coming from diverse cultures and backgrounds. This, I believe, will allow me to enhance my communicative skills and learn to adjust myself to different environments.”

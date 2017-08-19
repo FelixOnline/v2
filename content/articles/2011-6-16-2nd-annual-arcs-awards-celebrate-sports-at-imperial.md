@@ -4,6 +4,7 @@ title: >
 subtitle: >
   England Rugby Union 7’s Head Coach, Ben Ryan, attends ceremony
 date: "2011-06-16 21:21:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1403"
@@ -34,15 +35,6 @@ image_height: "2136"
 image_attribution: "Laura Harreman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Friday, Sport Imperial hosted the second annual Imperial ARCS (Appreciate, Recognise and Celebrate Sport) award ceremony championing those who have contributed to sport at Imperial College over the past year. The event was attented by over 140 guests including nominees for awards, supporting team members, coaches, teaching staff from Imperial, various officials, sponsors and partner organisations.

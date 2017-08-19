@@ -4,6 +4,7 @@ title: >
 subtitle: >
   President speaks out as RAG week continues mag-less
 date: "2016-02-12 11:11:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5896"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In this week’s FELIX, the Union President has spoken out on last week’s RAG mag controversy. Contents of the magazine, although technically not banned, caused the union to strongly advise RAG to dispose of the 1600 undistributed copies after the union had seen the contents. One page in particular was said to be “beyond the acceptable bounds of satire or mockery” and that further distribution would be considered “elevated harassment”.

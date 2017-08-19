@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charity fads raise money for animal testing, but should the public should be better informed?
 date: "2014-11-06 18:14:33 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4760"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Remember those summer weeks when your entire Facebook feed was filled with people pouring cold water over themselves and making some form of disgruntled exclamations about the fact? Everyone from Victoria Beckham to my own mother took part in the ALS Ice Bucket Challenge, and good on them too.

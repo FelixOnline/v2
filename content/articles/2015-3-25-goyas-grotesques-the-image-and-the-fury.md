@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles is horrified and awed by this display of Goya’s lost album
 date: "2015-03-25 13:11:28 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5445"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Rarely has there been a painter who represents the darkest recesses of humanity more skillfully than Spanish artist Francisco Goya. Making his living as a court painter for the latter half of the 18th Century, it wasn’t until 1793, whilst recuperating from a disease that would leave him permanently deaf, that he began to paint the violently disturbing scenes for which he is best known today. _Saturn Devouring His Son_; _The Sleep of Reason Produces Monsters_; the entire _The Disasters of War _series; all of these are deeply unsettling visions of the blackness fundamental to human nature, and it is for these, more than for his masterful court scenes, that he is most celebrated today.

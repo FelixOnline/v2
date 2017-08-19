@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FreeStyleGames’ latest rhythm game is addictive, immersive and refreshingly reactive
 date: "2015-11-06 14:23:43 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5713"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Activision"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Until recently, the click-clack of plastic peripherals felt like a distant memory. Yet, only five years have passed since the death of the rhythm gaming industry. From billions to almost nothing, in 2010 Activision could do nothing as one of their most lucrative franchises melted away.

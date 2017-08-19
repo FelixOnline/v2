@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Channel 4 mix science and not in a delicious documentary
 date: "2011-11-03 20:30:51 +0000"
+author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "1668"
@@ -33,15 +34,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js2310"
-author_name: "James Simpson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Channel 4’s latest culinary offering is a scientific blend of classics such as don’t-watch-it-with-your-parents Embarrassing Bodies and Supersize vs Superskinny. All three programmes feature C4’s basic ingredients of Grand Design-esque houses and arty long shots, grisly bodily close ups when you least expect them and celebrity doctors who seem to spend far too much time on TV and no time on the skiing holidays my GP frequently enjoys.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Semi-accidental discovery made during the experimental production of graphene
 date: "2012-02-16 21:51:08 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2199"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A [paper](http://pubs.acs.org/doi/pdf/10.1021/ja01349a006) in 1932 by William Holder Zachariasen hinted at the atomic structure of glass, which at the time was unexplored. This deduction was based purely on the properties of glass known at the time. For example, the fact it does not have a crystalline structure indicated that molecules within it are not symmetric.

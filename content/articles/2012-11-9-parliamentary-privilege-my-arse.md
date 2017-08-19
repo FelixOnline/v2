@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Politicians have legal immunity for a reason. We should call them out when they abuse it
 date: "2012-11-09 11:51:51 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2842"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 When the expenses scandal originally broke in 2009, my opinion was succinctly summarised by a Guardian feature wherein an MP of the time described the story as a “wonderful moment of British fiddling, but more on a Dad’s Army scale than the real corruption of politics.” Yes, the MPs had decided against buying their own hobnobs/tampons/moats but MP pay is poor for a thankless, gruelling job and I envisioned the majority of expenses as a deserved bonus. Not to mention the whole thing was worth it to officially see that toilet seats were not designed to support John Prescott.

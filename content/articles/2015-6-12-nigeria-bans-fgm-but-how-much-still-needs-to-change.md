@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey takes a look at female genital mutilation in Africa and closer to home
 date: "2015-06-12 12:35:20 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5617"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "flipboard.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Female genital mutilation (FGM) has been performed on more than 130 million women and girls worldwide, and more than 20,000 girls under the age of 15 in the UK are considered at risk. It is often done using razors, sharpened rocks, glass or even fingernails as tools.

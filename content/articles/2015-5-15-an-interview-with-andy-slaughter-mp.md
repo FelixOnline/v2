@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken interviews the Labour MP who is representing your views in Hammersmith
 date: "2015-05-15 12:15:16 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5529"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Labour politician Andy Slaughter was elected as Member of Parliament for Hammersmith in 2010, and was re-elected last week with 50% of the vote. Previously the MP for Ealing, Acton and Shepherd’s Bush from 2005 to 2010, Slaughter has been the Shadow Justice Minister since 2010, serving on the Labour Party’s front bench. Joshua Renken interviewed Andy to talk about constituency matters and national politics.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial’s Ultimate team ends the season on a high in Nottingham
 date: "2013-05-02 12:17:51 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3527"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Andrew Moss"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 20th April, Imperial’s Ultimate Frisbee team − the discDoctors − took to the fields in Nottingham to compete against the country’s top clubs at Outdoor Nationals, the highlight of the competitive calendar for university Ultimate. Battling it out across two days of intense competition, the team found their feet after a sluggish start to secure an impressive third place in the tournament’s second division.

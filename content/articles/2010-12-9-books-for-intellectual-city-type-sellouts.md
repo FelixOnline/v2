@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of some classic and pertinent finance titles
 date: "2010-12-09 19:32:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "507"
@@ -33,15 +34,6 @@ image_height: "779"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The only function of economic forecasting is to make astrology look respectable” said Ezra Solomon. For more funny lines from ivory tower economists, the fantastic ‘[Freakonomics](http://www.amazon.co.uk/Freakonomics-Economist-Explores-Hidden-Everything/dp/0713998067)’ and ‘[Superfreakonomics](http://www.amazon.co.uk/Superfreakonomics-Cooling-Patriotic-Prostitutes-Insurance/dp/071399990X)’ books by Steven Levitt and Stephen Dubner (both £5.30 from Amazon, £7,99 for kindle) show the power of economics in real world situations. With chapter titles such as “Why are Street Prostitutes like Department Store Santas,” you can be sure it’s very irreverent in tone. They’re written for a general, wide audience and are delightful introduction books to the field of economics in general.

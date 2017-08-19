@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah goes to the Great Hall for something that isn’t an exam
 date: "2012-02-23 21:38:50 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2259"
@@ -33,15 +34,6 @@ image_height: "3744"
 image_attribution: "Imperial College Singapore Society"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday, I went with my housemate to watch [_Solemates_](http://www.union.ic.ac.uk/osc/singapore/major-event/), the event put on by [Singapore Society](http://www.union.ic.ac.uk/osc/singapore/). I had never been to any of their events before and didn’t really know what to expect. I found a packed Great Hall, which had been converted into a theatre. The first thing that hit me was the Great Hall could actually be used for things other than exams.

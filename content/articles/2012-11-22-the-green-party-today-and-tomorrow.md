@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caroline Lucas et al
 date: "2012-11-22 23:18:37 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2944"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Green Party has been a part of British politics since 1972 with the formation of PEOPLE and currently exists as 3 parties corresponding to the devolved partitions of England/Wales, Scotland and Northern Ireland. 40 years in, and the Green Party is by far the largest environmental political party in the UK, and even gained its first MP, with Caroline Lucas winning Brighton Pavilion in the 2010 General Election.

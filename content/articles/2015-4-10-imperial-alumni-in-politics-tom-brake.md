@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha interviews the Liberal Democrat member of parliament for Carshalton and Wallington, Tom Brake
 date: "2015-04-10 19:56:18 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5463"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tom Brake has been a MP for Carshalton and Wallington since 1997. In this parliament he has served as the Deputy Leader of the House of Commons and assistant whip for the Liberal Democrats. Tom graduated from Imperial in 1983 and recently returned to campus in an event hosted by the Imperial Liberal Democrats.

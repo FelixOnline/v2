@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Newcastle’s BUCS Head up proves a successful trip for the team
 date: "2016-02-26 12:13:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5990"
@@ -34,15 +35,6 @@ image_height: "539"
 image_attribution: "Imperial Boat"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For Imperial’s rowers, BUCS Head was moved from the metropolitan Boston to the tropical Newcastle this year (a Head race is a rowing time trial, rather than a side by side race). ICBC sent up 22 of our finest athletes to compete on the Sunday, in an attempt to prove that the strength of our squad is defined by quality, not quantity.

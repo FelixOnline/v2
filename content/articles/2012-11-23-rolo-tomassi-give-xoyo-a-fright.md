@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark England gets spooked
 date: "2012-11-23 00:20:34 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2970"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On a chilly Halloween night, it was a great idea to warm our bodies with a pumped up punk show at XOYO courtesy of Rolo Tomassi. Dressed as the Addams family, with the spritely lead singer, Eva Spence, appearing as Morticia, the band kicks off the night with ‘Howl’.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lara Bailey looks at the useful applications of marijuana
 date: "2017-01-20 15:09:38 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6664"
@@ -33,15 +34,6 @@ image_height: "1277"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everyone is familiar with the perceived positive and negative connotations of Marijuana. In 2016 alone, 51% of Americans smoked cannabis, and its global use is on the rise due to recent legalisation in several US states. However, despite its widespread use, surprisingly little has been confirmed in terms of its effects on the human body.

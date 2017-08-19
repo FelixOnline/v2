@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I’m thankful that I’m not from a country whose culture relies on such awful drinks
 date: "2016-04-29 10:31:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6096"
@@ -34,15 +35,6 @@ image_height: "2572"
 image_attribution: "wvgazettemail.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig (although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl).

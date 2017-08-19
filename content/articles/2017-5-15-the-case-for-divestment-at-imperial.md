@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Barfield Marks makes a case for talking about why we should be divesting
 date: "2017-05-15 16:00:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6949"
@@ -33,15 +34,6 @@ image_height: "1149"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Here at Imperial, any mention of divestment from fossil fuels is largely met with one of two responses. The first is a supportive but disheartened reply along the lines of, “yeah, it’s a nice idea but it will never happen”. The second offers a complete aversion to the subject entirely, by changing the topic of conversation. If we are serious about tackling climate change and securing a safer future for society, this atmosphere of apathy needs to change. This is the motivation behind the Divest Imperial Campaign, aiming to encourage the college to stop investing in the fossil fuel industry.

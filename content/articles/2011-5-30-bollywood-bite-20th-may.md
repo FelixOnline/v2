@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Catching up with the Indian film industry with Aamir Shamsi
 date: "2011-05-30 12:08:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1285"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __GupShup (Chit Chat) Corner__

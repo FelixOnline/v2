@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Barnett evaluates Top Gear's recent entertainment value
 date: "2012-02-23 20:56:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2247"
@@ -34,15 +35,6 @@ image_height: "276"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Ever since its rebirth in 2002, [_Top Gear_](http://www.bbc.co.uk/programmes/b006mj59) has provided me with Sunday night entertainment and it’s always been brilliant. Well actually that isn’t entirely true. You see, _Top Gear_’s entertainment value has decreased hugely in recent years – the ‘humour’ has become entirely predictable and largely infantile, whilst fewer and fewer cars are actually being reviewed and much like I expect Hangman to be offensive, I expect a car show to be about cars.

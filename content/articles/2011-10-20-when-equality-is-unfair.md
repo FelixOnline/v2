@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We should understand society's differences rather than ignoring them, argues Mahfooz Hasan
 date: "2011-10-20 23:10:36 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1578"
@@ -34,15 +35,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Equality is based on the mathematical equation. x = x, y = y, there’s no two ways about it. It has to be the same quantity, size, value etc. When applied to people, it refers to the state of being equal, especially in status, rights and opportunities. What it does not take into consideration is the difference between people, their role in the world, their characteristics – their individuality. It turns human beings into numbers and equations, in order to suit the logistics, to make it easy for lawmakers. On the other hand, fairness involves taking into consideration a person’s needs, his/her background – his/her individuality. It treats human beings as more than just numbers and equations, it treats them as individuals with emotions, beliefs and morals.

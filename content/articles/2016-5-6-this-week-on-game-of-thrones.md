@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's series 6, episode 2!
 date: "2016-05-06 10:17:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6135"
@@ -33,15 +34,6 @@ image_height: "539"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following last week’s relatively uneventful, measured episode, _Game of Thrones_ cranks the dial up to eleven with this one. Last time was the safety briefing; now we’ve hit the first drop on the rollercoaster.

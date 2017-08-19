@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Criticisms made in letter hand-delivered to the Felix office
 date: "2011-06-09 21:14:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1348"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Staff from the Humanities Department have attacked [the proposed changes to the College day](http://felixonline.co.uk/news/1251/two-hour-lunchtime-could-be-abolished/), saying that there are “serious reasons why [the proposals] will not work” and suggesting that they marginalise and devalue humanities courses.

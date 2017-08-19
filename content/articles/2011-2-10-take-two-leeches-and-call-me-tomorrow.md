@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "774"
@@ -33,15 +34,6 @@ image_height: "336"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Most of us believe that leeches belong to the category of the most disgusting and dangerous creatures of this world. They can, however be beneficial for people’s health.

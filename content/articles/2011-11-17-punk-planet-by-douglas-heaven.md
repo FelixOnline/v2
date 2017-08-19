@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week: High Dependency Unit
 date: "2011-11-17 21:34:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1780"
@@ -33,15 +34,6 @@ image_height: "193"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 You can’t go much further than Dunedin, New Zealand, before you’re on the way back again. Nearly 20,000 kilometres away, give or take, it’s probably the remotest city in the world.

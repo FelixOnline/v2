@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alcest – Shelter
 date: "2014-01-24 10:09:11 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4296"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Black metal has undoubtedly seen regeneration in recent years. Releases such as __Deafheaven__’s_ Sunbather _or __Altar of Plagues__’ _Teethed Glory and Injury_ in 2013 were well received, provided you were looking for challenging music with power behind it. However, you’d be mistaken if it was purely “good black metal” that is suddenly hitting home with the hipsters, rather than just metalheads – really, it’s what these bands do on these albums that isn’t metal at all that grabbed people’s attention. Enter __Alcest__, who have been playing this game for years, merging the typical blast beats, high screams, tremolo guitars and proggy structures of black metal with a mystical dreamy atmosphere. And just as black metal had become cool, fans are left scratching their heads as Alcest abandon the very ship they left port on.

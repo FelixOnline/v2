@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jakov Marelic provides his view on media politics in the modern world
 date: "2011-10-14 10:35:57 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "1543"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 We live in democracies where we hold those in power to account using elections. To help us make informed choices about our society there are many kinds of media on the market whose job it is to tell us all the bad stuff and to suggest solutions to them. The idea is that this will build a public support base, which will propel a good representative to electoral victory and kick out bad representatives.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A sequel to the Channel 4 documentary
 date: "2012-03-13 15:44:16 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "2342"
@@ -34,15 +35,6 @@ image_height: "629"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday 14th March, Channel 4 will broadcast ‘Sri Lanka’s Killing Fields: War Crimes Unpunished’ at 10.55 pm. The program is a sequel to the critically acclaimed and RTS-award winning documentary released last year, under a similar title, which shocked and horrified viewers worldwide. The documentary is set against a backdrop of brutal war crimes and human rights violations by the Sri Lankan Armed Forces, once alleged, now confirmed by a report commissioned by the UN in 2011. The report concludes that 40,000 Tamil civilians were killed in the final few weeks of Sri Lanka’s 27 year civil war and that “most civilian casualties in the final phases of the war were caused by government shelling”. The panel who conducted the report, however, were barred by the government from entering Sri Lanka during the 10 month period over which they gathered evidence. Upon release of the report political figures around the world, including David Cameron, demanded an “independent, international investigation”. However, these calls have been repeatedly ignored by the Sri Lankan government, who continue to maintain that the war was carried out with a zero-civilian casualty policy. The upcoming Channel 4 documentary, and its predecessor, show how urgently an independent investigation is really needed.

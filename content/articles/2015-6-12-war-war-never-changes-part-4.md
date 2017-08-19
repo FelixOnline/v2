@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl can't wait to unpack his vault boy and explore Fallout 4
 date: "2015-06-12 12:40:00 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5620"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Creative Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes, the day of reckoning is upon us. Global productivity has come to a standstill. These are the news headline that will echo around the world on the day of the release of _Fallout 4_.

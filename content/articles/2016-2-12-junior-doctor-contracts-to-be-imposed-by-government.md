@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hours after the announcement a protest was held outside the Department of Health
 date: "2016-02-12 11:09:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5894"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Matt Johnston"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After further talks and a 24 hour strike this week, Jeremy Hunt has announced that controversial new junior doctor contracts will be imposed on medics.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Consumer Electronics Show (CES) is an annual technology and consumer products show held every January in Las Vegas. Being the global stage that attracts next generation innovations and electronics, CES is the largest of its kind, showcasing over 3000...
 date: "2014-01-17 04:24:10 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4257"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Consumer Electronics Show (CES) is an annual technology and consumer products show held every January in Las Vegas. Being the global stage that attracts next generation innovations and electronics, CES is the largest of its kind, showcasing over 3000 exhibitors from computer hardware manufactures to automotive and lifestyle electronics manufactures.

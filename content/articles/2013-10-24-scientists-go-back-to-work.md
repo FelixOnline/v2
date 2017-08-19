@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jamie Rickman on the impact of the US shutdown
 date: "2013-10-24 23:50:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3914"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Ethan Good"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The 16 day US government shut-down ended last week with an uneasy truce. Obama’s refusal to accept the House Republican’s condition of delaying Obamacare led to the closure of many federal science institutions, painfully elucidating the instability of government funded science in America.

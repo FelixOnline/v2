@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the US government steps in to tackle sexual harassment, it’s time to ask, what is it going to take to fix this problem?
 date: "2016-01-29 09:05:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5841"
@@ -33,15 +34,6 @@ image_height: "439"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sexism in science; is there a real problem? How do we fix it? When is everyone, including myself, going to shut up about it? Probably not for a while. And yes, I do realise that I could begin sounding like a broken record, considering this is the third piece I’ve written for Felix discussing the topic, but unfortunately the problem isn’t disappearing so neither will the analogous articles. Things are about to get a bit gross and very complicated.

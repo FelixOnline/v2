@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New Zealand Rugby team use Sports Imperial facilities
 date: "2010-11-04 18:42:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "307"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The New Zealand Rugby Union team, commonly known as the All Blacks across the world, came for a quick visit and training session in Ethos on Monday afternoon. According to Sport Imperial, the team did not wanting to publicise their visit; despite this, the sports centre was swamped with enthusiastic students and their camera phones, as well as journalists from Sky.

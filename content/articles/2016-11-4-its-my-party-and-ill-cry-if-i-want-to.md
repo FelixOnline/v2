@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lef Apostolakis responds to Aayush’s response (left)
 date: "2016-11-04 14:23:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6391"
@@ -33,15 +34,6 @@ image_height: "754"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 During this conversation we have touched upon two topics, each with its own complexities, each in need of far more discussion than allowed in a couple of pages. One is the difficulties associated with immigration, the other one is the tensions that Brexit has intensified.

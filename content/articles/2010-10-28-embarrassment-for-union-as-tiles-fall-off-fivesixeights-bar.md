@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Signs of wear and tear after refurbishment
 date: "2010-10-28 19:55:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "282"
@@ -34,15 +35,6 @@ image_height: "480"
 image_attribution: "Chris Darby"
 image_attribution_link: "https://twitter.com/#!/ICUchris"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For a moment there, it looked like everything was coming together. FiveSixEight, despite problems and delays, opened to a lively first night. Everyone - even the engineers - seemed to be having a good time.

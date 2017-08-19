@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Staff depart natural science campus as select courses are suspended
 date: "2012-05-24 22:36:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2481"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Concerns regarding staff shortages have risen as entry to postgraduate courses in the Department of Life Sciences has been suspended. Courses such as the Entomology MRes and MSc and Integrated Pest Management MSc, held in [Silwood Park](http://www3.imperial.ac.uk/silwoodparkcampus), and Plant Science and Biotechnology MSc, held in South Kensington, are marked on the postgraduate online course list as ‘’suspended for 2012-2013 entry’’.

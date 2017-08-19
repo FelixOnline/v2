@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students from Imperial and the Royal College of Art team up in daring collaboration. Meredith Thomas reports
 date: "2011-06-16 20:40:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1396"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An artist and a scientist walk into a bar. They find each other incomprehensible and mysterious and fail to have a meaningful conversation. They leave vowing never to move out of their comfort zone again. Not really funny is it? Before I continue, I must declare an interest in writing this article. I am involved in organising collaboration between Imperial College and the Royal College of Art (probably the UK’s premier post-graduate school of art). This daring plan is codenamed Artifact. But more on that later...

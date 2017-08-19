@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken gives a break down of the policy platforms for the United Kingdom's two biggest parties
 date: "2015-04-21 13:49:49 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5467"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Regardless of the precise results of this May’s general election, only two men are in with a chance of leading the country over the next parliament: the incumbent Prime Minister David Cameron or the Leader of the Opposition Ed Miliband. In the last five years we have seen a surge in support for smaller parties including UKIP and the Greens, together with more established smaller parties such as the SNP and the Liberal Democrats, but the fact remains: Cameron or Miliband will win the keys to Downing Street. Whether it’s in a majority government, minority government or some form of coalition, Labour or the Conservatives will be leading the country.

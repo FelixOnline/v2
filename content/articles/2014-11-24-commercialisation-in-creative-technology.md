@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Xuan Chen discusses his disappointing trip to the UK Apps Conference
 date: "2014-11-24 12:58:42 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4947"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Photo: Xuan Chen"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The release of the iPad in the UK in the early summer of 2010 was a watershed moment which forever changed the way we interact with application technology. It was only a matter of time before a number of social entrepreneurs decided to weave the creative talent together in the form of conventions, and seeing promise and potential in the emerging technological industries, catalyse creative development in the area. Apps World is one such conference which has been growing since its debut five years ago, which means that on Wednesday 12 November 2014, I attended the biggest developer conference ever held in the UK to date.

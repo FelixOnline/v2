@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Calum Skene learns the differences between GTA and real life
 date: "2013-10-12 23:47:02 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3871"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Being games editor is a new job for me. Part of my expectations before agreeing to this role was that I would get games given to me to review. I didn’t mind which games, but thought it would be nice to not have to pay for every game I review. I accepted the role and on my first trip to the Felix office found the pile of free games that could be reviewed. To my surprise, I had not heard of even one of these games, but this is probably because I have never played a Simulator game before. I didn’t know that there was a demand for games such as Chemical Spillage Simulator, Stone Quarry Simulator or Truck Simulator. Keen to dive in to this new world of Simulator games, I picked up European Bus Simulator 2012 and began my educational journey.

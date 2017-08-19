@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lonely fishkeepers vidicated: fish can tell when you’re being a dick
 date: "2016-06-10 08:26:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6256"
@@ -33,15 +34,6 @@ image_height: "4016"
 image_attribution: "Joseph Bylund"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Sh!t Sc!ence, we want to show that every science paper is a drop of water that, in its small way, helps fill up the aquarium of human knowledge, so that us little humans can float around happily oxygenated by the water of cognition. This week, you may have guessed, we are talking about fish.

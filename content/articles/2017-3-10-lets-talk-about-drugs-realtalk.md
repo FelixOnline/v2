@@ -4,6 +4,7 @@ title: >
 subtitle: >
   David Charchoglyan discusses the discrepancy behind drug science and drug policy, by using the science and culture of MDMA as a case study
 date: "2017-03-10 14:13:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6882"
@@ -34,15 +35,6 @@ image_height: "533"
 image_attribution: "icanteachyouhowtodoit"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do you know why some drugs are called ‘Drugs’ with a capital D? Or why your school was so eager to drill into you that some things are bad no-questions-asked-because-I-said-so during those insufferable PSHE lessons? Why some substances are kept completely out of our reach and have a seven year sentence attached, while others have the privileged liberty of being sought and found not just at the chemist’s, but even at the off-license? Let’s scrutinise rationally, calmly and scientifically on the question of why drugs are such a big deal, and why everyone appears to believe what they do about them. By examining the drug MDMA  and its potential utility. Let’s do away with the lies for good, and uncover the truth, shall we?

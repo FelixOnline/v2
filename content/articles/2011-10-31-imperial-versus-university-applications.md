@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College must work to overcome an overwhelmingly negative perception of raised fees
 date: "2011-10-31 11:12:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1646"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As reported extensively by the media [this week](http://felixonline.co.uk/news/1607/university-applications-fall-by-9/), university applications have seen an approximate drop of 9% from last year. In the wake of such a startling figure (especially in comparison to the year-on-year rise that the sector has recently enjoyed), questions must be asked regarding the potential implications that this may have on Imperial College.

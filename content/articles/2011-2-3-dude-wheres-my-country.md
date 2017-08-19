@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The world is definitely getting smaller, and I can only see that as being a good thing
 date: "2011-02-03 20:13:44 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "739"
@@ -33,15 +34,6 @@ image_height: "397"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Where do you live? A simple enough question, in appearance. I’ve been asked it a lot this year. Meeting an endless stream of new people from various countries makes for a large number of introductions. After you’ve said hello to the fifteenth German girl at the party, whose name you’ve already forgotten, the quasi-scripted question-and-answer session begins.

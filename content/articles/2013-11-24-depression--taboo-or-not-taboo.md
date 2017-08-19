@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.
 date: "2013-11-24 15:51:36 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4100"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial, welcome to the OpenMinds campaign! Our aim is to increase understanding of mental health conditions and remove some of the stigma with which they are associated.

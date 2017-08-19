@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Local Natives: Hummingbird
 date: "2013-02-01 00:57:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3237"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Local Natives have never been groundbreaking. They stood out not because they were doing something different to their peers, but because they were doing it quite well. Their second album, Hummingbird, does not break the trend. It wears its influences on its sleeve and they’re pretty much the same as last time round. It’s a fairly well informed American indie record. Grizzly Bear, Animal Collective, a little Fleet Foxes, Grizzly Bear, a bit of Broken Social Scene and Grizzly Bear. Yeah alright, it’s essentially just slightly poppier Grizzly Bear.

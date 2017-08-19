@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vithulan Patkunan reviews Donna Tartt’s latest masterpiece
 date: "2014-01-17 03:50:28 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4243"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Anyone familiar with Donna Tartt knows that her works take time; her debut, _The Secret History_, took her eight years to complete and her following novel, _The Little Friend_, a decade. Anyone familiar with Donna Tartt also knows that the wait is completely justified and worth it. _The Goldfinch_, her third and latest novel is no different from its predecessors, in both senses. Fans have been waiting for her next novel for eleven years and it was finally unleashed on the world in the autumn of 2013. At a hefty 771 pages, the book is her longest yet and the world she creates is, no doubt, the richest.

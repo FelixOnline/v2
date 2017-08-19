@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2264"
@@ -33,15 +34,6 @@ image_height: "3264"
 image_attribution: "Philip Kent"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A paper by [ICU Cinema](http://union.ic.ac.uk/arts/cinema/) which has been passed by Imperial College Union’s Executive Committee, the policy-executing branch of the Union, requested compensation for £94.50 in predicted losses from showings during the Film Festival, running from 10 January until 20 January, due to entry charges to enter the Union building.

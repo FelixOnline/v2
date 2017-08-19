@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The team wept, but through their tears they could see victory on the horizon.
 date: "2015-11-06 14:26:15 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5715"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial hosted Kings’ Medics at Harlington, looking for a win to bounce back from a disappointing defeat last week. IC got off to a bright start, dominating possession, territory and hitting hard in the contact.

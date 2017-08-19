@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Mason reviews The Flaming Lips' The Terror
 date: "2013-03-15 02:53:57 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3493"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Flaming Lips have come a long way since their debut album. Hear It Is, released in 1986 (not even kidding), was a grungey, noisey garage punk affair that few will even recognise as the psychedelic pop band who would cause such a stir in later years. From 1995-2002 the Flaming Lips released the holy trinity of neo-psychedelia with the completely nuts Clouds Taste Metallic, the beautiful The Soft Bulletin and the commerical behemoth Yoshimi Battles the Pink Robots. Since then they’ve been a little less consistent. 2006’s At War With the Mystics took Yoshimi’s commercialised direction with little of the sincerity whilst 2009’s Embryonic returned them to their experimental roots with mixed results. In and around that we’ve had a Pink Floyd cover album, a collaboration album featuring Ke$ha and Chris Martin and a 24 hour song you could buy encased in a real human skull (not even kidding). This is their first proper album since 2009, so where have Wayne et al. decided to take us this time?

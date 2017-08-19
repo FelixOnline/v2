@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Part 1 of a 3 part feature brought to you by the London Climate Forum 2013
 date: "2013-10-24 23:47:45 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3913"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "London Climate Forum"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Intergovernmental Panel for Climate Change (IPCC) released merely one part of its six-yearly report last month, and alarm bells have begun ringing across the world: apparently, it is 95% certain humans have been the largest contributing factor to global warming since the 1950’s.

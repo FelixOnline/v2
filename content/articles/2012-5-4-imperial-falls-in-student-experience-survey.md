@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Workload woes for College students while Dundee leads latest list
 date: "2012-05-04 01:02:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2425"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial has dropped nine places from last year in the [_Times Higher Education_](http://www.timeshighereducation.co.uk/) (_THE_) Student Experience Survey to take joint 71st place with Canterbury Christ Church University. The University of Dundee topped the survey with a score of 85% while Imperial scored 73.4%, slightly lower than the average of 75.1%.

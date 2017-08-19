@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It has been revealed that students in second year and beyond may be able to apply for halls that were due to be shut down this year
 date: "2016-01-15 11:23:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5829"
@@ -33,15 +34,6 @@ image_height: "2336"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 At Tuesday night’s union council meeting it came to light that the Evelyn Gardens may become a hall reserved for second years.

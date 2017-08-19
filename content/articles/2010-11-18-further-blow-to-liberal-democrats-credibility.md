@@ -4,6 +4,7 @@ title: >
 subtitle: >
   N.U.S. threaten ‘Right to Recall’ as revelations question sincerity of Lib Dem pre-election pledge
 date: "2010-11-18 21:54:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "415"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Student organizations have expressed outrage after it was recently revealed that a group of senior Liberal Democrat figures planned to surrender their policy on removing tuition fees in the case of a possible coalition government – two months before the general election.

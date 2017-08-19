@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New research investigates the environmental links with migration
 date: "2011-11-10 20:58:26 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1722"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is difficult to deny the existence of climate change when one points out the obvious effects it has already made on humanity. Coastal flooding, reduced rainfall in dry lands and water scarcity are common headlines in today’s news. Among the many effects that these phenomena may have, let us consider that of human migration.

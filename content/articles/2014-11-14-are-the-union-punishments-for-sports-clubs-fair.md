@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players
 date: "2014-11-14 21:27:17 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4896"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In recent weeks two of Imperial College London’s biggest sports teams have been embroiled in various activities that have brought Imperial College Union into disrepute. The sanctions against the teams are causing innocent students to miss out on playing sport. Is this treating everyone fairly or have the disciplinarians allowed themselves to get influenced by the media?

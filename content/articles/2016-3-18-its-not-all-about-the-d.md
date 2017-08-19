@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An ode to our nutrition’s unsung hero, vitamin B
 date: "2016-03-18 11:48:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6059"
@@ -33,15 +34,6 @@ image_height: "2600"
 image_attribution: "Beatrice Murch"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Some of us go pretty far when it comes to maintaining vigilance with our diets. We pinch our noses as we down that tablespoon of cod liver oil, chuck mounds of spinach into Tesco’s spinach ricotta tortellini, because obviously just the latter doesn’t quite fulfil our magnesium requirements, and knock back litres of vitamin water. Practices that all honour the holy triumvirate of vitamins K, D and A.

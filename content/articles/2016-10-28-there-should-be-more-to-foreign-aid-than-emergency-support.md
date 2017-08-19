@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eva Coles condemns the current approach to humanitarian aid
 date: "2016-10-28 15:16:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6353"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "James Emery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you were to hear mention of Haiti in a conversation, what would your initial thoughts be? Some of you would likely confuse it with Tahiti or have no clue as to what Haiti actually is. For most of you, though, I am sure the first thing to pop into your minds would be the devastating 7.0 magnitude earthquake that hit the impoverished country in January 2010, killing an estimated 300,000 and leaving over two million without homes.

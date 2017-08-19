@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Can you imagine getting chucked out of university because of your personal life?
 date: "2010-10-28 19:48:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "278"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Our society pours so much scorn onto cheaters. After public outcry, [John Terry was stripped of the England captaincy](http://news.bbc.co.uk/sport1/hi/football/8495604.stm) because of his infidelity. Can you imagine getting chucked out of university because of your personal life?

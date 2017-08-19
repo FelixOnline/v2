@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thomas Leeman reviews Chvrches
 date: "2013-05-16 15:46:30 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3570"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fresh from playing the Alexandra Palace with Everything Everything and Two Door Cinema Club the trio Chvrches came to the Village Underground with the weight of expectation lying squarely on their shoulders. They recently won best new non-US band at SXSW and made it into the top 5 of the BBC’s sound of 2013. Little surprise then that the gig sold out in minutes and the queues to get in started an hour before doors opened.

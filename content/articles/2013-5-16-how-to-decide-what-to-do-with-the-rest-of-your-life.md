@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mark Frederick gives you some tips on how to decide what you want to do post Imperial
 date: "2013-05-16 18:49:05 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3586"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Deciding what to do with ‘the rest of your life’ after graduation can be a daunting prospect. If you feel you have become pigeon-holed with too few opportunities available to you, or that you are capable of doing anything but don’t know how to choose which road to take, then this article is for you What follows should give you some perspective and suggest some simple steps towards getting a job after graduation, moving on to further studies or even doing something completely different.

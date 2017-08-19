@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rhidian Thomas believes that to mitigate Climate Change we need to first embrace political change
 date: "2017-02-17 14:32:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6781"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Policy Exchange"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As political descriptors go, the humble watermelon is   perhaps predictably an unconventional one: it is not wheeled out too often as a way of making a point. It’s a charge often levelled at politicians like Caroline Lucas, who are accused of being green on the outside but red (that is, socialist) on the inside. The scorn that this combination provokes on the right of the political spectrum is telling – for too long, environmentalism has been seen as detached, and even beyond politics: a fringe interest, something best left to millionaire celebrities with a guilty conscience. Global warming is often treated as if it were a catastrophe that we have no control over, with our only hope being some miracle of technology. This could not be further from the truth; climate change is emphatically not like an asteroid heading towards Earth – rather, it is the direct result of the way that we choose to organise our societies and our economies. The challenge that climate change poses is neither scientific nor technological, but political.

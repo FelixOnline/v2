@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh reveals the do's and don'ts of studying for exams...
 date: "2013-09-27 17:05:51 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3761"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Joe Letts"
 image_attribution_link: "http://felixonline.co.uk"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 You’re freshmen now. No more school for you – all grown up! (Yeah, right. Still a teenager, aren’t you?)

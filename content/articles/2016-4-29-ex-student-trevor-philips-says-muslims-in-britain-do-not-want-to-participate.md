@@ -4,6 +4,7 @@ title: >
 subtitle: >
   He was ICU President, was awarded honorary fellowship by college, and now he’s made a controversial program claiming to show “what Muslims really think”
 date: "2016-04-29 10:03:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6088"
@@ -34,15 +35,6 @@ image_height: "735"
 image_attribution: "Richard Ansett/Publicity image"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ex-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.

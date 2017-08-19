@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic.
 date: "2014-03-28 11:42:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4515"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The number of doctors travelling abroad on ‘humanitarian’ missions in order to provide help for the millions of people suffering in less developed countries is nanoscopic. In fact, more doctors in the less developed countries such as Ghana, Sierra Leone and Syria are migrating to the UK because of the attractive salary and more sophisticated health system. This leaves these countries starved of healthcare professionals of which they are in dire need.

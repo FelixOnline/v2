@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wandering through the misty morass: India's Western Ghats
 date: "2012-02-16 21:11:18 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2186"
@@ -34,15 +35,6 @@ image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 By the time I hit Kerala I was more than ready for it: with Rajasthan’s dusty forts a distant memory I was ready to hit up something a little more tropical. That’s the incredible thing about Kerala: after a short and breezy (read: forty hour and mosquito-infested) coastal train down from the north, you find yourself in paradise. Of course, to the rational mind that doesn’t doubt the existence of continental drift, this shouldn’t really come as much of a shock. But I was still in awe of the abundant African-esque flora and fauna at my disposal.

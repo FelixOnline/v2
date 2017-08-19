@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Xuan Chen interviews one of the country’s most influential man about science, energy and how he maintains his hair
 date: "2015-02-12 23:25:34 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5249"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Oxford Mail"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Professor Steven Cowley is the CEO of the United Kingdom Atomic Energy Authority and a part-time professor in plasma physics here at Imperial College. But that’s not what catches the attention of an entire cohort of physics undergraduates every year – it’s his lectures, where his charisma and confidence along with sheer passion for the subject captivates the young audience.

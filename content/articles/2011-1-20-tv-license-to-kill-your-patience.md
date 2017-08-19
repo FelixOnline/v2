@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The letter is full of the most exquisite wording, with all the subtlety of an elephant–based strip parlour
 date: "2011-01-20 21:06:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "642"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The television licensing people and I are playing a game. The rules of the game are pretty simple. The first player – that’s me – abides by all known laws this side of the Mars–Jupiter asteroid belt. The second player – Grand Duke John Hales of the London South West Enforcement Division – simply has to send a letter to me every month asking if I’ve broken any laws yet. Simple game.

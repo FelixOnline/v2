@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Illustrator - Mithila Shafiq
 date: "2012-06-14 20:33:04 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "2567"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Mithili Shafiq was the archetypal scientist with a creative itch. By the end of her PhD she had decided that the itch needed to be scratched. Now she has retrained as an illustrator and is making a new life for herself in Bristol. I caught up with her over Skype after several abortive attempts to catch her between dance lessons and deadlines.

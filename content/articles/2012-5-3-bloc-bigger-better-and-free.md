@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2409"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 With a new location, bigger names, and a wider line-up than ever, Bloc. 2012 looks to be a must-see for any electronic music lover. Covering big dubstep drops (__Kode9__, __Loefah__), alternative hip-hop (__DOOM__) and pioneering minimal composers (__Steve Reich__), the range at this year’s London based event will satiate almost all discerning tastes. Previously hosted at Butlins, Minehead, Bloc. has decided to become “bigger and better”, moving to the abandoned industrial-looking complex somewhat ironically (in this day and age - it used to be a haunt of London socialites) named London Pleasure Gardens and pushing harder than ever for an eclectic line up. Below are some of our picks for the best of Bloc., and we even have a competition to win two tickets!

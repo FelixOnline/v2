@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Howitt on the International singing competition to be hosted at Imperial
 date: "2014-11-28 00:46:24 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4964"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "The Imperielles"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College A Cappella Society has been chosen to host the UK semi-finals of the International Championship of Collegiate A Cappella (ICCA), presented by Varsity Vocals. The competition, now in its 20th year, was featured in the 2012 film _Pitch Perfect_, which introduced the world to the now widely known ‘Cups’. The sequel has been confirmed for release in 2015.

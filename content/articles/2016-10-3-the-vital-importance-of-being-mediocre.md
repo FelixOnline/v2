@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Vivien Hadlow advocates a more realistic approach to life, Imperial and everything.
 date: "2016-10-03 18:39:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6304"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "danjo paluska"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 University is a time for learning new things.  By the time you leave you’ll (hopefully) be able to make nutritionally passable food, complete group projects without stabbing anyone, and compose the perfect passive aggressive group chat message about washing up.  But, arguably apart from the content of your degree, the most important thing you will learn is that it’s okay to be average.

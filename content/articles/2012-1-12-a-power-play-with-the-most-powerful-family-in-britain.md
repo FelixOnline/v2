@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha uses his powers of deduction on the new series of Sherlock
 date: "2012-01-12 22:55:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1995"
@@ -33,15 +34,6 @@ image_height: "1123"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After a successful first season, [_Sherlock_](http://www.bbc.co.uk/programmes/b018ttws) is back on our screens. Giving the detective stories a 21st century make-up, the second season does not disappoint. In fact it picks up exactly where it left off, full of suspense, comedy and twists. The way things are turning out, Sherlock should be added to everyone’s must-watch list.

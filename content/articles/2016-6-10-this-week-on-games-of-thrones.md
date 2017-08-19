@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s season six, episode seven
 date: "2016-06-10 08:35:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6265"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A big reveal this episode, hope you’re ready to board the hype train.

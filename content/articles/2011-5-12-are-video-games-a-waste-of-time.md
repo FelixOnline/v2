@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Two of the Games section's finest writers duke it out
 date: "2011-05-12 19:05:57 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1202"
@@ -34,15 +35,6 @@ image_height: "2048"
 image_attribution: "Simon Worthington"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _I guess so_ – __Laurence Pope__

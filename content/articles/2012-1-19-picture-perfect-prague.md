@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dushi Arumuganesan sees in the New Year in the buzzing Czech capital
 date: "2012-01-19 20:07:48 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2006"
@@ -33,15 +34,6 @@ image_height: "1500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 In Prague, New Year’s Eve (or Silvestr as the Czech would say) is a major celebratory holiday. With three days to experience Prague and see in 2012, my main concern was that I’d become one of the many that are inevitably frustrated by, or caught in, the tourist trap that Prague is famed for being. However, in a city that is over-run with visitors 365 days of the year, this is difficult to avoid – particularly over the New Year period. In the final couple of days leading up to the countdown, Prague is extraordinarily animated with an air of anticipation settling over the city.

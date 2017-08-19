@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett reports on the loss of CGCU’s mascot
 date: "2015-02-13 15:10:50 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5256"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Facebook"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It seems that City and Guilds College Union (CGCU) have been foiled again; this time having their mascot, Spanner, stolen from right under their noses.

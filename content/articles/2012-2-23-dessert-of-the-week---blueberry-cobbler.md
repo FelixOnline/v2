@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A super easy dessert with which you can impress! Enough for two ramekins.
 date: "2012-02-23 20:45:46 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2243"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Ingredients:__

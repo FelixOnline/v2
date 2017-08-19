@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A review of David Ropeik's book on fear perception
 date: "2011-02-03 20:03:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "733"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 David Ropeik tackles a subject that both fascinates and bewilders us, taking apart the human psyche to try and explain why it is that we fear the things we do, however irrational those fears are. He separates the risks associated with common fears such as snakes from long-term risks which in the end are the ones that we are not instinctively able to deal with. Ropeik explains both the mental process that has made fear a fundamental part of our evolution and the rational approach we have developed in dealing with risks over time.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Celebrating the 30th anniversary of Peter Gabriel’s career as a musician and songwriter
 date: "2010-12-17 11:32:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "559"
@@ -33,15 +34,6 @@ image_height: "277"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The South Bank’s [OXO Tower](http://en.wikipedia.org/wiki/OXO_Tower) is known for its vertiginous height, but resting at its base at river level is a small gem of a gallery, currently home to ‘The Art of the Album’ exhibition. The Hyper Gallery specialises in “rock n roll image making” – it is not often that one is welcomed to a gallery by the sounds of Led Zeppelin’s Tangerine.

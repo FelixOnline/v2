@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dave Krishna gets his Karate Kid on...
 date: "2012-11-23 00:08:36 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2961"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is a Sunday morning in Finsbury Park. Unusually for London in November, the sun’s rays play across the city, giving relief from the slight chill in the air. The lack of any discernible tension in the air conceals the fact that the area will soon see the commencing of the 2012 British Shorinji Kempo Federation (BSKF) Taikai Competition.

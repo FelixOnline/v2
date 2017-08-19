@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A cheap ticket to plays with many big names
 date: "2012-12-07 02:27:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3048"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This autumn, a new theatre company has joined the ranks of the prestigious London scene: the [Michael Grandage Company ](http://www.michaelgrandagecompany.com/)(MGC). Born from the union of two notorieties of the UK repertoire, artistic director Michael Grandage and executive producer James Bierman, this new troop has only just revealed its first 15-month season of five plays that will be nestled in the heart of the West End at the Noel Coward theatre.

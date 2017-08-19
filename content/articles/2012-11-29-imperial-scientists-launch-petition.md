@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Petition for the government to protect imports of research animals.
 date: "2012-11-29 21:53:05 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2981"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [A new government e-petition](http://epetitions.direct.gov.uk/petitions/40111) has recently been launched in opposition to the perceived growing effect that an animal rights activist campaign has had on the transport sector. The petition urges the government to protect the transportation of laboratory animals to halt the loss of vital medical research. This is a response to the increased refusal by haulage companies to import the animals from overseas due to increased lobbying by the activists’ campaign.

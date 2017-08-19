@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles on why Alan Bennett may be becoming a national treasure, just don't tell him that...
 date: "2012-12-07 02:31:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3049"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At what point doessomeone become a national treasure? This is the question Alan Bennett must have been asking himself when writing People, his latest play, which premiered at the National Theatre last month. Bennett, who has been working in the world of theatre for more than 50 years, is Britain’s most well known playwright, and arguably one of the best. Responsible for The History Boys and The Habit of Art, Bennett has come to represent modern British drama; People continues in this tradition, centring around the idea of national institutions, class divides, and the death of the English country house.

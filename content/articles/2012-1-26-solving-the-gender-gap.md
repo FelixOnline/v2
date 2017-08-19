@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Investigating Imperial’s efforts to support women in the workplace
 date: "2012-01-26 23:29:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2076"
@@ -33,15 +34,6 @@ image_height: "1980"
 image_attribution: "Jan Chlebik"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There are currently 81 female professors at Imperial which make up just 15% of the total holding this senior post. Felix has investigated what Imperial is doing to combat gender inequalities and support the career progression of women. In fact, a substantial movement exists within the College and members of staff have told Felix of the “ground-breaking steps” that are being taken to support female staff. However, they have also highlighted that this is “working better in some areas than others”.

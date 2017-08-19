@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The team's project 'Ecolibrium' not only landed them the Gold Medal but five other major prizes.
 date: "2016-11-11 11:50:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6415"
@@ -33,15 +34,6 @@ image_height: "484"
 image_attribution: "The iGem Foundation and Justin Knight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial triumphed at the International Genetically Engineered Machine (iGEM) competition in Boston last week, with their project ‘Ecolibrium’ beating almost 300 other undergraduate teams from around the globe.

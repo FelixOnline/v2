@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "587"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Affordable. It is hardly a glamorous word. It does not make the heart race nor the mouth salivate. It implies a sort of glum settlement; when your shallow pockets deny you your desires, go for ‘affordable’. It is not a word that springs to one’s mind when thinking about Imperial College London. Nestled in the regal South Kensington environment, our university, with its history, buildings and international reputation, is the complete antithesis to the emotions evoked by the word ‘affordable’.

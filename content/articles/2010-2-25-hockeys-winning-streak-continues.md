@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Women's 2nd XI 14 - 0 St Bart's Womens 2nd XI
 date: "2010-02-25 18:37:28 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "102"
@@ -33,15 +34,6 @@ image_height: "2304"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Having trekked from one end of London to what seemed like the Far East, IC ladies 2s arrived at Redbridge Sports Centre in Essex ready to take on St Bart’s, only to find out that the hockey astro had been taken over by some hockey players of the miniature variety, who were playing a nice little tournament.

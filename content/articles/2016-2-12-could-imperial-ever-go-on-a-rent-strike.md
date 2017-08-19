@@ -4,6 +4,7 @@ title: >
 subtitle: >
   UCL have had a successful history of striking over housing but could the students of Imperial ever rise up and do the same?
 date: "2016-02-12 11:16:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5898"
@@ -34,15 +35,6 @@ image_height: "853"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We’ve had our fair share of housing disputes at Imperial.

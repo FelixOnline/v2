@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy implores the Labour Party to change public perception of immigration
 date: "2016-10-21 12:28:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6344"
@@ -33,15 +34,6 @@ image_height: "361"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial’s success depends on a culture of open-mindedness that has attracted academics and students to come from abroad, and means people from different cultures, but with similar interests, can exchange ideas. Immigration has allowed this university to thrive, so why is it that in Britain today it is so universally considered a burden on our society?

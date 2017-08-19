@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Social Network is a contemporary tale of friendship, jealousy, betrayal and – above all – ambition
 date: "2010-10-14 19:58:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "216"
@@ -33,15 +34,6 @@ image_height: "1800"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Social Network may just be the movie that defines our generation. It tackles a subject that certainly defined our generation – Facebook – and after barely a month in the cinemas, critics already call it a classic. What’s the fuss about?

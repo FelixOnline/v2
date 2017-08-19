@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Royal Academy’s colourful exhibition brings together gardens of all times and styles
 date: "2016-02-05 12:17:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5874"
@@ -33,15 +34,6 @@ image_height: "1152"
 image_attribution: "Cleveland Museum of Art "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 To walk into _Painting the Modern Garden: Monet to Matisse_ at The Royal Academy is to plunge into a world of exuberant greenery, of sun-dappled paths, manicured lawns, a land where it is always spring, and Paris is always in bloom.

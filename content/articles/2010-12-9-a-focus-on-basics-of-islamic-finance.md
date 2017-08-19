@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An introduction to the world of Sharia-compliant finance
 date: "2010-12-09 19:29:02 +0000"
+author_id: "ac1507"
 
 # Attributes from Felix Online V1
 id: "505"
@@ -33,15 +34,6 @@ image_height: "601"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ac1507"
-author_name: "Afonso Campos"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __So, what is Islamic Finance, really? Give me the [basics](http://www.google.co.uk/url?sa=t&source=web&cd=3&ved=0CCYQFjAC&url=http://www2.standardandpoors.com/spf/pdf/media/An_Introduction_To_Islamic_Finance.pdf&rct=j&q=standard%20%26%20poor's%20islamic%20finance%20FAQ&ei=Kj0BTZSqHsfPhAf5vajvBw&usg=AFQjCNFux9d60WTnBP2Kqfy1AimeRbaC0Q&sig2=8wi2LiZvE8SGK5CwTqyp5Q&cad=rja).__

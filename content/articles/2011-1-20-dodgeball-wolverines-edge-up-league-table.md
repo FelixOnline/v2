@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The drastic impact of the Wolverines on the league tables
 date: "2011-01-20 19:43:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "612"
@@ -33,15 +34,6 @@ image_height: "1917"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Sunday 16th January, Imperial Wolverines took seven eager dodgeballers to a village in Essex to challenge for glory. Some members of the team needed some convincing to make the journey but Tom Peake, at his second official tournament with the Wolverines, soon made it very clear why it would be a fruitful trip. “Essex? Isn’t that where all the sluts live?” Brilliant.

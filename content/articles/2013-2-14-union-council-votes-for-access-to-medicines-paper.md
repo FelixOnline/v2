@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Motion passed despite sabbs not voting for it
 date: "2013-02-14 21:12:53 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3332"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The motion [‘Imperial College Union Access to Medicines Policy](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/12-13/Union_Council/file/1855)’ was proposed to the Union Council on Tuesday by ICSMSU President Shiv Vohra and seconded by Kush Nake. The motion was passed. In brief, this motion was proposed in order for the Union to actively campaign to persuade Imperial College to sign the Global Access Licensing Framework. This enables affordable versions of research developed medicine to be made available in medical resource-limited countries. This framework was published by the international student-led organisation Universities Allied for Essential Medicines under the guidance of various experts.

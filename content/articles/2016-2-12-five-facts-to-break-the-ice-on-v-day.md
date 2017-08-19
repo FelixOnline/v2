@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A journey through the wonderful and horifying world of animal sex
 date: "2016-02-12 11:31:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5904"
@@ -33,15 +34,6 @@ image_height: "2535"
 image_attribution: "Wendy Eiby"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Nature documentaries often show the animal kingdom to be a weird and wonderful place, but animal genitalia don’t usually get the attention they rightfully deserve. To right this wrong here’s a list of five of the most bizarre bits on offer out there.

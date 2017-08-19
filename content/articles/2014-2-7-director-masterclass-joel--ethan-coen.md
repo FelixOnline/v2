@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Coen Brothers have been able to create such strong, individual voices for their characters for so long now it’s hard to imagine a small town life in America without thinking about it in terms of Coen Brothers movie.
 date: "2014-02-07 04:43:42 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4343"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Coen Brothers have been able to create such strong, individual voices for their characters for so long now it’s hard to imagine a small town life in America without thinking about it in terms of Coen Brothers movie. They have consistently been able to create complex and compelling narratives throughout their 16-film career and everyone of them brimming with dark, dark comedy. They have created a very cohesive body of work which shares the use of many themes, tropes and stylistic choices to the point that it is blatantly obvious when you are watching one of their films. They have made a particularly strong use of musical and dance numbers that have come to head in their latest work Inside Llewyn Davis.

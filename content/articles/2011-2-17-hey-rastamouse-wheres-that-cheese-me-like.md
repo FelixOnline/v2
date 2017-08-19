@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Welcome to the TV-obsessed world of James Simpson
 date: "2011-02-17 20:31:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "845"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Give it up for the 'Easy Crew' – "der to make de bad tings good" – Rastamouse, Scratchy and Zooma in CBeebies' new series titled __Rastamouse__. The show seems to be popular with adults too, with the widely held theory that "cheese" actually means "marijuana". Refreshingly, the mice are puppets in stop-motion, rather than CGI like the rest of children's TV these days. It's a pity that their English grammar is akin to that of an ill-educated rap-star, but the fact that they all sound like Lenny Henry more than makes up for it. If you're really pissed and bored it'll be the funniest thing you've seen since Susan Boyle.

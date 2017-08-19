@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sex and politics go together like croissants and coffee
 date: "2011-06-02 20:18:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1320"
@@ -33,15 +34,6 @@ image_height: "1333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week, whilst consuming a coffee and éclair, I had a debate with a friend about string theory, gravity, and whether everything is made of particles or waves. It was then that a rather charming French friend stopped for a brief chat. And, sure enough, we concluded that French women are definitely made of waves (not that they don’t have good particles too).

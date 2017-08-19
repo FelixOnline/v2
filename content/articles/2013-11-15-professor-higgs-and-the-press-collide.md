@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Science goes along to the launch of the Science Museum’s new exhibition
 date: "2013-11-15 02:18:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4061"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This Tuesday saw the launch of the Science Museum’s latest exhibition, Collider. The £1 million exhibition was developed in close collaboration with CERN. It provides an insight into both the workings of the collider itself, but also takes visitors through the story of the discovery of the Higgs Boson, its latest successful endeavour in its research into particle physics.

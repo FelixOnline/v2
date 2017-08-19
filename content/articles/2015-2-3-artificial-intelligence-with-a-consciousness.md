@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina
 date: "2015-02-03 14:54:39 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5185"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Science fiction film Ex-Machina has recently hit cinemas worldwide, a psychological thriller to tantalise our over-active imaginations of a future where artificial intelligence has a consciousness. But how far are we from any of these ideas becoming reality? In Ex Machina audiences are supposed to believe that the artificially intelligent character, Ava, has a sense of self. Young programmer Caleb is asked to test Ava’s consciousness and reveals that Ava is a bonafide intelligent huminoid capable of feeling emotions. The suffering she later experiences in the film evokes within us a sense of injustice; if she has a consciousness surely she should be entitled to freedom?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College has set up a consultation process to review the “residential experience” at Imperial.
 date: "2014-01-17 03:01:02 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4219"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 College has set up a consultation process to review the “residential experience” at Imperial. The review process will be conducted by a panel chaired by Professor Myra McClure, College Consul from the Faculty of Medicine (non-clinical) and includes the Union’s President and Deputy President (Welfare), David Goldsmith and Marissa Lewis. The panel also includes Ian Spencer, Director of Residential Services at LSE, who has extensive knowledge about university accommodation best practices after a similar review carried out at LSE in the last year.

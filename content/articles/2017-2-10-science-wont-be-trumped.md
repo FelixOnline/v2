@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The world cannot afford to let science be repressed again
 date: "2017-02-10 14:09:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6754"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Pabak Sarkar"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The past three weeks have meant that the previously enjoyable activity of looking at Facebook has instead become a daily battle of emotions as I brace myself to learn of another Trump shocker. A travel ban on 7 countries, banning organizations from speaking to the public and a petty fight over who had the most fans “ever” at the strange inauguration thing – the headlines just keep on coming from the Trump establishment.

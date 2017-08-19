@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or at least, he tries to be! Kamil McClelland discusses *THAT* lifestyle choice
 date: "2014-11-24 20:34:58 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4954"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the joke goes: “How do you know if someone is vegan? Oh don’t worry, they’ll tell you”. A lot of people, including myself, are put off by these militant activists, encamped on their moral high ground looking disdainfully down at the rest of us.

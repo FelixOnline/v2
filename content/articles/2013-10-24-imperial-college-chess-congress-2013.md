@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICC Congress Organiser John Sargent reports on a successful day
 date: "2013-10-24 23:35:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3911"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "John Sargent"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College has had a long tradition of hosting prestigious chess events in London, starting several decades ago with the Kensington Congress – this fell by the wayside somewhat in the early 2000’s but was revived by Imperial College alumnus John Sargent in 2011 with the help of IC Chess Club’s committee and the English Chess Federation.

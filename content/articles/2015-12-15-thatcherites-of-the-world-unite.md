@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Political diversity is to be cherished, not shouted down as “problematic”
 date: "2015-12-15 12:51:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5821"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 > > **Imperial, a rare oasis of sanity surrounded by hysterical student activism**

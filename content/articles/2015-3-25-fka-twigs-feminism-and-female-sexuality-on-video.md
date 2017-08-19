@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles compares the different approaches FKA twigs and Sia take when it comes to their controlling their public image in music videos
 date: "2015-03-25 12:21:15 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5428"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last month, in her debut at London’s __Roundhouse__, British auteur __FKA twigs__ brought her unique vision to a crowd of 3,000. Entitled _Congregata_, a latin word for ‘gathering’, the two hour spectacle saw twigs put her indomitable singing and dancing talents to good use; she vogued alongside a dancer in fishnet stockings, was tossed up in the air by burly men with topknots, and changed outfits whilst contortionists kept the crowd entertained. It’s a far cry from her London debut, which took place at Hoxton’s __Courtyard Theatre__, a little less than a year ago, in front of an audience of just over 100. While at the Roundhouse she was front and centre, at the Courtyard she was kept shielded from the audience by a swirling mist, through which you could make out the petite figure who has become one of the most important voices in the British music industry. What was kept constant between the gigs, however, was her sheer gratitude at being able to perform; at the end of _Congregata_, twigs breaks character, telling the audience in a breathy voice that can barely contain its excitement how happy she is to be there. As if any other outcome were possible.

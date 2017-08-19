@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mario Lapore takes a look at the National Theatre's new, dynamic production
 date: "2014-12-18 15:53:48 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5063"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “The normality of life is just to have someone you can express stuff with.”

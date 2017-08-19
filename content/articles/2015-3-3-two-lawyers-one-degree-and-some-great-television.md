@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken reviews Suits, currently on its fourth season
 date: "2015-03-03 14:54:45 +0000"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5327"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Now in its fourth series, _Suits _is an American legal drama that premiered in June of 2011. Created by Aaron Korsh, the first episode is one of the best pilots in recent television history.

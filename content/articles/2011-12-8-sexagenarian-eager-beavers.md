@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A Round-Heeled Woman: as cringeworthy as a Christmas dinner gone wrong
 date: "2011-12-08 21:02:50 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1927"
@@ -33,15 +34,6 @@ image_height: "1025"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The auditorium dims, the stage lights go up, and I’m faced with a sixty-six-year-old woman lying on a bed, masturbating to phone sex.

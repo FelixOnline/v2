@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Arianna Sorba looks around some creepy exhibits
 date: "2012-12-07 01:42:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3040"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "londonist.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At a loss for what to do this weekend? Unusually interested in the science of life? Then why not take a trip to the [Hunterian Museum](http://www.rcseng.ac.uk/museums)? Hidden away inside the Royal College of Surgeons in Holborn, it is the ultimate destination to explore all the gory details of animal biology, and satisfy any morbid curiosities about surgery, disease and the human body.

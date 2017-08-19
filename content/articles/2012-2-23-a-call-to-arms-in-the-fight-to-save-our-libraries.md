@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You! Yes you there! Considering closing libraries down?
 date: "2012-02-23 20:34:54 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2236"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I first found out about [_The Library Book_](http://www.nationallibrariesday.org.uk/2012/01/profile-to-publish-the-library-book-in-aid-of-the-reading-agencys-library-programmes/) in a small addendum to a piece in the _Guardian_ by[ Lucy Mangan](http://www.guardian.co.uk/profile/lucymangan), one of my favourite columnists, announcing that she was one of the contributors. Investigating further, I became even more interested upon finding out that the contributors also included such impressive figures as Stephen Fry, China Miéville and Alan Bennett. Yet, even having known beforehand the amount of talent involved I have to say that the book far exceeded my expectations.

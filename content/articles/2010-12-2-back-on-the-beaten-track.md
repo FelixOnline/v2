@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Because there’s only so much self-discovery and figurative bridge-building you can handle before you’re in desperate need of a well-deserved heroin cookie
 date: "2010-12-02 20:26:19 +0000"
+author_id: "cr709"
 
 # Attributes from Felix Online V1
 id: "470"
@@ -34,15 +35,6 @@ image_height: "600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cr709"
-author_name: "Christopher Richardson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This heavily travelled part of the world offers great variety in the potential circuits suited to the varied tastes of the people you meet out there: if you want to stay well off the track it’s more than easy to do so, or you can hop on and off the track as and when you please, as I did. Some people prefer the somewhat more reductionist ‘circuit’, bouncing between Thailand’s infamous full moon parties on Koh Phangan and tubing in Laos’ Vang Vieng.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Dan Wan with the latest on the CGCU VPFS
 date: "2010-02-01 16:34:52 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "59"
@@ -34,15 +35,6 @@ image_height: "530"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a long line of mishaps involving the City & Guilds College Union, their Vice President (Finance & Societies) Rikki Norris has been criticised for his absence about College, but has now spoken to felix to clarify the situation.

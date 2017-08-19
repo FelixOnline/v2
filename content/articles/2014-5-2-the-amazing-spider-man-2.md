@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The obvious point to be made here is that not only is this yet another sequel, it’s also a sequel to a reboot to a film series that was barely a decade old the first time around. And so it is again, with this reboot sequel coming ten years after the best film in the original trilogy.
 date: "2014-05-02 01:20:48 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4547"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __The Amazing Spider-Man 2__

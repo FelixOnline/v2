@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Bezer talks to Lord Winston about his experience in politics
 date: "2015-03-20 00:46:46 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5415"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "ytimg.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The impact of science has never been confined to the laboratory. Today, many of the most important and difficult decisions faced by politicians are fundamentally scientific, from the best way to tackle climate change to the recent vote to allow mitochondrial replacement therapy.

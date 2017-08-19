@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Young Vic presents an inspiring but shallow take on a Hindu classic
 date: "2016-02-12 11:35:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5906"
@@ -33,15 +34,6 @@ image_height: "916"
 image_attribution: "Simon Annand"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I really wanted to like _Battlefield._ Usually, a statement like this foreshadows ruthless panning and heartless criticism, especially when it makes an appearance at the beginning of a review. But I shall try and be objective.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   My Week with Marilyn, as its title may suggest, only explores a brief section of the icon’s life
 date: "2011-12-01 21:02:27 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "1879"
@@ -33,15 +34,6 @@ image_height: "3336"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __My Week with Marilyn__

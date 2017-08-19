@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Google execs face jail time over a 2006 Italian case of objectionable content on Google Video
 date: "2010-03-04 12:41:12 +0000"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "118"
@@ -33,15 +34,6 @@ image_height: "1333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 Would you indict a postal worker for delivering hate mail? Or jail an eyewitness to a crime for not having stopped it in the first place? To use the precedent set by a recent court ruling in Italy, you should.

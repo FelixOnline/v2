@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Film with a fresh approach on the issue of oft-hated investment bankers
 date: "2012-01-12 22:41:21 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1989"
@@ -33,15 +34,6 @@ image_height: "393"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 What is shown in Margin Call is what really might have happened in the final days leading up to the eventual financial collapse of 2008 that has put the global market in chaos.

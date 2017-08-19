@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “How sweet and fitting it is to die for one’s country”
 date: "2012-01-26 22:03:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2050"
@@ -33,15 +34,6 @@ image_height: "2856"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Following [_Sherlock_](http://www.bbc.co.uk/programmes/b018ttws) and [_Great Expectations_](http://www.bbc.co.uk/programmes/b018wmhr), another one of Britain’s favourite novels, [_Birdsong_](http://www.bbc.co.uk/programmes/b01bcltb) has been adapted for the small screen by the BBC. The first part was broadcast last Sunday. The book, written by Sebastian Faulks, is considered a modern retelling of the Great War. Set in pre-war Amiens and the Somme trenches, it chronicles parts of the life of Stephen Wraysford and his affair with Isabelle Azaire.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The best (roti) tissue you’ll find in London
 date: "2010-12-02 20:58:48 +0000"
+author_id: "dhl106"
 
 # Attributes from Felix Online V1
 id: "482"
@@ -34,15 +35,6 @@ image_height: "2048"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "dhl106"
-author_name: "Dana Li"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 People tell me a job as a food critic would get boring. Good food, VIP treatment and food babies (don’t pretend like you don’t know what I mean) – it’s a hard life, isn’t it?

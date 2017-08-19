@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3260"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 he effects of a stroke can be devastating, with the initial loss of blood supply to part of the brain setting in motion a series of biochemical events called the ‘ischaemic cascade’. This causes cumulative damage to brain cells and blood vessels during the first few hours after the stroke, often resulting in severe and irreversible brain injury.

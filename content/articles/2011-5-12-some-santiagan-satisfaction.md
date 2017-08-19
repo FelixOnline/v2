@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1195"
@@ -33,15 +34,6 @@ image_height: "333"
 image_attribution: "Ricardo Baeza-Yates"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After finally recovering from my bout of food poisoning, we ventured out of the suburbs of Santiago and up through the drastically arid bush to the national park. Here we were able to see the Santiagans relaxing and socialising in typical South American fashion – as always, every day and night is a party.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tarantino works his magic with this tale of revenge in the Deep South
 date: "2012-12-16 15:23:06 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3075"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Smashing two concepts together is a curious business - about as curious as the length of time that it takes to travel between Knightsbridge and South Kensington on the Piccadilly Line. But who else to turn to than Quentin Tarantino? With his latest feature film [_Django Unchained_](http://unchainedmovie.com/), he has delivered a serious labour of love.

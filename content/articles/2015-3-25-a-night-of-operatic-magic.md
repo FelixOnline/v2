@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out the ROH’s classic opera
 date: "2015-03-25 13:25:43 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5450"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "ROH. Mark Douet 2015"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mozart’s _Die Zauberflöte_ – _The Magic Flute_ – is back at the __Royal Opera House __in the 12th year of David McVicar’s production. One of the most frequently performed operas, _Die Zauberflöte _has a highly unusual format, with the sung components interspersed with lots of dialogue, making it a piece that requires great theatrical skill as well as world class opera singers. Its storyline weaves in and out of folk-tale, legend, and cult, switching from enchantments to allusions to the Freemasons. Beneath all these nuances, _Die Zauberflöte_ is a boy-meets-girl tale: noble Tamino goes on a quest to find and free the beautiful Pamina, helped by his comic side-kick Papageno. He overcomes the hurdles, defeats the baddies, and even Papageno gets a girl – everyone is happy.

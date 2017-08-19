@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola checks out this Palestinian work
 date: "2015-05-29 12:39:55 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5589"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A politically engaged play in a small theatre in South London. There have been many of these and, in the glorious tradition of fringe theatre, there will be more; but _The Siege_ at the __Battersea Art Centre__ is something entirely different, unique even in London’s multifaceted subversive theatre scene. _The Siege_ is a performance by the Freedom Theatre, a theatre company and acting school based on the West Bank, in Palestine. They operate from the Jenin Refugee camp, and they are on tour to the UK showing their newest production, the story of the siege of Bethlehem.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Katy Bettany and Anna Perman on why you should donate
 date: "2011-01-27 18:41:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "657"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imagine. Something in your machinery has stopped working. Somewhere in your body, a vital organ, your kidneys, eyes, your heart, has malfunctioned. Your doctor says that the damage is irreversible and that you need a replacement.

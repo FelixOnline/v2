@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hollywood superstar visits sports centre and trains with members of Team GB
 date: "2012-05-18 06:07:29 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2457"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hollywood big-hitter and modern day renaissance man Will Smith [was to be found at Imperial’s very own Ethos Sports Centre](http://www.twitvid.com/DQHPJ) on Princes Gardens last Wednesday morning.

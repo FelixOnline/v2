@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Got those pesky January blues? Exam stress getting you down? Bask in your own sweet, sweet self pity with this playlist from our very own Rob Garside.
 date: "2017-01-20 15:26:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6670"
@@ -33,15 +34,6 @@ image_height: "854"
 image_attribution: "Paul Padshewscky"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Disintegration

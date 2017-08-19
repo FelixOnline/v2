@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah gives a brief case study on Paragon, in the wake of the new North Acton halls
 date: "2013-02-22 00:15:02 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3355"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "West Thames College"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Paragon halls are located in Brentford, about six and a half miles from the South Kensington campus of Imperial College London, which is where most students need to be every day. The use of the halls is a temporary stopgap measure; the problem was caused by the [last minute renovation of Wilson House](http://felixonline.co.uk/news/3174/the-paradox-of-paragon-imperial-students-pay-more-for-the-same-halls/). They are a shared halls: Imperial, University of West London and Thames Valley College all share the space. There are 176 rooms for freshers in Paragon, each room costing £155 per week. This does not factor in the travel cost per day that is needed to get into College. They are all single study bedrooms (with en suites) and arranged in cluster flats of eight with a shared kitchen.

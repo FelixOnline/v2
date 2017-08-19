@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Marsh is acclaimed as one of the best documentarians working today. Ben Collier takes a look at two of his most famous works, Man on Wire and Project Nim, to latest if the man can live up to all that hype (spoiler: not really...)
 date: "2016-12-02 14:47:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6532"
@@ -33,15 +34,6 @@ image_height: "3957"
 image_attribution: "Jean-Louis Blondeau - Polaris Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I often hear people sing the praises of director James Marsh and his two supposed classics Project Nim and Man on Wire. Having recently seen both films, I thought it would be interesting to present my reviews this week in tandem. The reason for this is that I noticed a lot of similarities in presentation and subject matter between these two films… I also bloody hated one and quite liked the other.

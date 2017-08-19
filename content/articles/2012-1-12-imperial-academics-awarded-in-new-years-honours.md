@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Highest awards for three academics
 date: "2012-01-12 22:06:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1979"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Three academics at Imperial College have received some of the highest awards in the country for their work in the sciences in the New Year’s Honours, announced on December 31. These honours are issued by the Monarch on the advice of the Government for exemplary service.

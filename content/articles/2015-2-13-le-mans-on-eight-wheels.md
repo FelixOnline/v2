@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Campbell on IC Skate Soc's first speed skate training session.
 date: "2015-02-13 14:27:29 +0000"
+author_id: "bwh12"
 
 # Attributes from Felix Online V1
 id: "5251"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "AWSpeedskating"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "bwh12"
-author_name: "Benjamin Howitt"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "benhowt"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was an inauspicious start to last year’s Le Mans 24 hour roller relay. One seventh of the team had missed the train and there had been one injury before the race had even started; our team shirts were homemade with sharpies on the Eurostar and the rain was practically biblical.

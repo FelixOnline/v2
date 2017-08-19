@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial’s full time MBA slipped one place internationally, making it 35th in the world
 date: "2016-01-29 08:47:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5836"
@@ -34,15 +35,6 @@ image_height: "440"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Business School’s full-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.

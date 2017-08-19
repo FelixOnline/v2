@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wreck-it Ralph review
 date: "2013-02-12 20:24:08 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3294"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A Toy Story for the video-game generation, instead of having cuddly little toys that come to life when no-one is around to look, we have a bunch of arcade game characters who are free to roam around their own little world via intricately designed trains and the “Grand Central Station”.

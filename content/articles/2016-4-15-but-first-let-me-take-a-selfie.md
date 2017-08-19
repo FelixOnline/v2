@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tate Modern's exhibition explores the age-old relationship between photography and performance
 date: "2016-04-15 18:08:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6084"
@@ -34,15 +35,6 @@ image_height: "3000"
 image_attribution: "Artist & Arcadia Missa"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Does the appeal and purpose of performance art lie partially in its ephemeral nature? Or can photography be integral to preserving the performance for contemplation, and even to creating a new meaning in the work? It is the latter that Tate Modern’s exhibition _Performing for the Camera_ explores by bringing together photographs across many time periods – photographs used to document the performances as well as those used by artists themselves to produce their own art.

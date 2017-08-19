@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Monathan Jasters hates raisins for reasons logical, physical and romantic
 date: "2017-03-17 16:57:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6907"
@@ -34,15 +35,6 @@ image_height: "2000"
 image_attribution: "David Salafia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Raisins – also known as dried grapes – represent everything wrong with our civilisation and they seek to disrupt the foundations upon which this very nation stands, and this ingrate, Mr Ma, has the audacity to suggest that we need more raisins in Imperial in order to make his breakfast better. It makes me sick. I will be honest with you, dear readers, that I voted to remain in the EU referendum, but if Brexit means breakfast, and hence means less of this raisin loving coming to this country to dilute British culture (I bet half the raisins you eat aren't even grown in the UK), then hand me a copy of the Daily Mail.

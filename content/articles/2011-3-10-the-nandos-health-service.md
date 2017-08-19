@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Omar Hafeez-Bore shows us how chicken is not just a finger lickin’ good sensation
 date: "2011-03-10 20:46:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1076"
@@ -34,15 +35,6 @@ image_height: "509"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Everyone seems to love [Nandos](http://www.nandos.co.uk/index.cfm?fuseaction=model.restaurant&id=184&cat=REST&description=Gloucester_Road). This makes actually writing about the place a health hazard, so violent would the backlash be from a negative piece. On the potential-trouble gauge used by Felix writers it is only topped by ‘Doing a Review of the Rector’s Face’. The situation for me is even more risky, living as I do with one flatmate who would inject peri-peri sauce into his veins if he could, and two others who would happily settle for just showering in it.

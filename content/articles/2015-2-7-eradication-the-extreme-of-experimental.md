@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg delves into on-stage psychosis at the BAC
 date: "2015-02-07 19:17:15 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5207"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Richard Davenport"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the eerie Council Chamber of __Battersea Arts Centre__, a partition has been raised between the two halves of the room. With half the audience on one side and half on the other, two different plays are on show. In what feels like a set botched together from bits and pieces, the audience wait to find out which of tonight’s two performances they will see. Into the space walk the four actors; one sits down in front of us and the other three pass through the small opening to the other half of the audience. Although we can hear what is going on on the other side, their actions can only be left to the imagination.

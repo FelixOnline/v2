@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A spontaneous, mid-lecture decision to try something new pays off majestically
 date: "2011-02-27 19:29:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "914"
@@ -34,15 +35,6 @@ image_height: "1654"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I was sitting restlessly, bored in the last lecture of the day when a friend turned round to ask me if I fancied going to see an opera that evening, Il Barbiere di Siviglia (or The Barber of Seville) at the Royal Opera House. I had been toying with the idea of trying to see an opera, in a ‘get the most out of London’ kind of way, so when the opportunity arose, I took a gulp of spontaneity, gargled furiously and spat out pure unadulterated culture. The two minute mid-lecture break gave us just enough time to book the tickets and that was that. Off to the opera darling! As I headed over Waterloo Bridge to Covent Garden the initial excitement of such an impulsive booking was replaced by some apprehension. I’d never listened to much Classical music before and was uncertain as to how easy it would be to get through three hours of Italian singing and orchestral music.

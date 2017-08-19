@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael David reports on Football's tour
 date: "2013-02-28 23:45:40 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3394"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following talk of an unbeaten season following three wins from three games at the start of the season, the ICSM FC 2nd XI had taken a nose dive. A string of losses left Captain Ali Brown and his men dejected and in desperate need of a win. A quarter final tie against rivals, IC 5th XI, in the LUSL Vase, was cited as the perfect opportunity to turn our fortunes around.

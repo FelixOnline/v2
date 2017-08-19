@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cough up, who’s been complaining to College?
 date: "2016-10-03 11:08:33 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6298"
@@ -33,15 +34,6 @@ image_height: "1270"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you follow the IC Union pages on Twitter or Facebook you may have seen the recent poll they ran on the question of “Should smoking be allowed on campus?”.

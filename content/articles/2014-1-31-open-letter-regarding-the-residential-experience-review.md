@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation.
 date: "2014-01-31 17:54:16 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4325"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 *Dr Nick Voulvoulis is the Warden of Southwell & Bernard Sunley Hall, and Reader in Environmental Technology at the Centre for Environmental Policy. He has been the Warden of Southwell Hall since 2003 and Southwell & Bernard Sunley since 2011 when the halls merged. He was Subwarden and then Assistant Warden in Garden Hall from 1997 and till 2003 when he moved to Southwell. He was the Chairman of the Wardens’ Committee between 2003 and 2011, and is currently responsible for ‘Legacy and Alumni’ for the Committee.

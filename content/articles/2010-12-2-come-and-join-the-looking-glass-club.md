@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We meet Imperial alumnus Gruff Davies, who launched his sci-fi novel last week in Southside Halls
 date: "2010-12-02 20:01:43 +0000"
+author_id: "lm08"
 
 # Attributes from Felix Online V1
 id: "457"
@@ -33,15 +34,6 @@ image_height: "623"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lm08"
-author_name: "Louise Murphy"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __I should start off by saying that I loved the book – you’ve converted me to Science Fiction! __

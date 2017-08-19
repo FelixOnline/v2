@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They were taking their class picture outside the Royal Albert Hall when they were ‘discovered’
 date: "2016-05-20 08:45:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6170"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: "Wojciech Kowalski"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Twenty first year aeronautics students were given free tickets to a will.i.am gig at the Royal Albert Hall gig last week, after being spotted in their boiler suits taking an end of year picture outside the venue earlier that day.

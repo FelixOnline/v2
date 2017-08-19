@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Listen to an account. Step into his shoes, walk around in them. Don’t forget.
 date: "2013-01-18 00:03:22 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3125"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the evening of this coming Thursday 24th of January we, at Imperial College, will have the honour and the privilege to hear the account of Mr Yisrael Abelesz, a survivor of the Aushwitz-Birkenau concentration camp, to tell us his experiences on the occasion of Holocaust Memorial Day and answer our questions.

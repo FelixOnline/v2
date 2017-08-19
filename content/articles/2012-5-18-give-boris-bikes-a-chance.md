@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In praise of the blue scheme
 date: "2012-05-18 06:29:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2462"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I should be on Transport for London’s pay roll. Why? Because the times that I have helped people release bikes from Boris’ blue stands are innumerable. The people requiring assistance are mostly tourists, whom I often have little patience with. So what is it that makes their plight so important to me?

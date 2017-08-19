@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New insight into the language-processing functions of the brain
 date: "2012-02-16 21:43:57 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2195"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: "networksandservers.blogspot.com"
 image_attribution_link: "http://networksandservers.blogspot.com"
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Scientists from the University of California, Berkley, have been able to successfully determine fragments of people’s thoughts by decoding brain activity caused by words they hear.

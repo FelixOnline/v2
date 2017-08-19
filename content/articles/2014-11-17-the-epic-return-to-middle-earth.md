@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl reviews the latest addition to this titanic franchise
 date: "2014-11-17 18:16:28 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4902"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yes, ok, the _Lord of the Rings: Shadow of Mordor_ was released a while ago, but after completing it just last week and being so thoroughly impressed, I felt that I really needed to share this with you guys. For all of you who missed it, the _Shadow of Mordor _is a new Stealth-RPG style _Lord of the Rings_ game, that takes between the happenings of the Hobbit and the Lord of the Rings trilogy. Its completely new material that aims to add a new franchise and lore to this already extensive world. You play as the ranger Talion, who, with his family, has been murdered by the Hand of Sauron, as Sauron returns to Mordor. Strangely enough you do not die, as your soul bonds with that of an ancient wraith. With your new added powers of the wraith you aim to uncover its past as well as avenge your loved ones.

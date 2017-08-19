@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yakuza 0 is out on the Playstation 4
 date: "2017-03-17 17:30:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6918"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "Sega"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Yakuza games have always been immensely popular in Japan, so much so that their central protagonist, Kiryu Kazuma, is considered a mascot of PlayStation. However, they unfortunately have never found their footing here in the West and are largely unheard of. If, like me, you have never played a Yakuza game before, please right that wrong by playing this game.

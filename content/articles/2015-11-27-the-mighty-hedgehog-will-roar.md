@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Should we save hedgehogs at the expense of becoming a global laughing stock?
 date: "2015-11-27 14:17:33 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5774"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Carnivoraforum"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The lion has long been hailed a most majestic and fearsome creature. Respected by the other animals within its habitat, the lion has a purpose, pride and courage. And as far back as the time of Richard I, the lion has been used as England’s national animal for all the aforementioned reasons. As a nation, we supposedly share these qualities with the lion, hence the massive statues in Trafalgar Square, amongst other places, paying homage to our national animal.

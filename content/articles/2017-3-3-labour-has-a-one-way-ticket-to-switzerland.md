@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Titmuss explains why Labour is doomed – and it's not all Jeremy Corbyn's fault
 date: "2017-03-03 14:40:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6837"
@@ -34,15 +35,6 @@ image_height: "1090"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 T he by-elections in both Stoke and Copeland were both called recently, due to their respective MPs resigning. As I’m sure you are aware, Labour lost the Copeland seat and held on to the Stoke seat, but suffered  a reduction in the proportion of votes compared to 2015. This is viewed by many, myself included, as a crucial test of Labour’s appeal to the general public, particularly at a transformative time in Labour’s history.

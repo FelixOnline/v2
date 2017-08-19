@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Novel technique uses liquid carbon to create electricity
 date: "2011-06-16 19:57:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1387"
@@ -34,15 +35,6 @@ image_height: "225"
 image_attribution: "University of Minnesota"
 image_attribution_link: "http://www1.umn.edu/news/news-releases/2011/UR_CONTENT_341216.html"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It was on a cool, clear autumn day in northern Minnesota when two scientists, driving towards a fieldwork station, stopped for gas. It was at this petrol station that Martin Saar and Jimmy Randolph had a flash of inspiration that could one day help in the fight against climate change.

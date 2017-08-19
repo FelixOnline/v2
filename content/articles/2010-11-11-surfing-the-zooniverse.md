@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Crouch chats to Rob Simpson and gets addicted to galaxy classification as she tries her hand at citizen science
 date: "2010-11-11 21:58:31 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "370"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Tom Welch"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 A grainy picture pops up in front of me. It’s an unimpressive sight. On the right of the picture a simple question pops up, “Is the galaxy simply smooth and rounded, with no sign of a disk?” I’m given 3 options; I click the one which best suits the blob in front of me. I answer a couple more questions and that’s it, I’ve officially classified a galaxy.

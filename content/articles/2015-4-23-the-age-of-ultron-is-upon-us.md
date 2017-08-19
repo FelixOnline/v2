@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s time for the final entry in Marvel’s ‘Phase Two’, as the Avengers come together once more to face their greatest foe
 date: "2015-04-23 14:15:31 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5468"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Photo: Joss Whedon/Disney"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Director: __Joss Whedon

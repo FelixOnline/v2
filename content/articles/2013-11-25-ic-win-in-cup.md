@@ -4,6 +4,7 @@ title: >
 subtitle: >
   LUSL Cup days – the highlight of any IC footballer’s career, more magic than the FA Cup and more grit and determination than a drunken iNuge verbally attacking a granny on a night bus after the union.
 date: "2013-11-25 00:01:18 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4139"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 LUSL Cup days – the highlight of any IC footballer’s career, more magic than the FA Cup and more grit and determination than a drunken iNuge verbally attacking a granny on a night bus after the union.

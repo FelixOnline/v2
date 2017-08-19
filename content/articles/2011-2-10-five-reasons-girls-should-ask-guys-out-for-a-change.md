@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charlotte Ivison calls for girls to share the burden this Valentine's Day
 date: "2011-02-10 21:09:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "795"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __1. Imperial man syndrome.__

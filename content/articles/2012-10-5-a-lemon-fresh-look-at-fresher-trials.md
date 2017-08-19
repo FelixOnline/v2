@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Sport Brings you a rough and incomplete guide to some of the fresher trial events
 date: "2012-10-05 13:34:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2630"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Women’s Rugby__

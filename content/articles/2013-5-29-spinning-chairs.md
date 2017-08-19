@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephanie Walton voices her opinions on the BBC’s talent show
 date: "2013-05-29 15:30:25 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3631"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Some people really can sing. And I don’t just mean in tune with a token crescendo or diminuendo. I mean with style and true feeling.

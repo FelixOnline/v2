@@ -4,6 +4,7 @@ title: >
 subtitle: >
   War is waged on the astroturf and scores are settled by the stick
 date: "2012-02-16 23:32:15 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2221"
@@ -33,15 +34,6 @@ image_height: "2069"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __IC Men’s 2s__ – 1

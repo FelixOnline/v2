@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First victory over RUMS this term
 date: "2011-01-20 19:53:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "617"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The fifteen recorded a well-deserved victory and impressive victory over RUMS in their first match back after Christmas. The disruption caused by the inclement weather towards the end of the Christmas term meant that this was the first game that the 1st XV were playing for nearly two months. This however, did not stop the team out classing their opponents who showed no signs of ever winning the match.

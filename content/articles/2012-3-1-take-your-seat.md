@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Political correctness on trial
 date: "2012-03-01 22:13:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2284"
@@ -33,15 +34,6 @@ image_height: "5184"
 image_attribution: "Nicholas Pomeroy"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 What starts off as the kind of play you think will predominantly explore the extremes to which political correctness is taken – sometimes creating just the awkwardness and indignity it hopes to avoid – changes course and ends up shining a very cynical light on the soulless and business-only orientated nature of today’s entertainment business.

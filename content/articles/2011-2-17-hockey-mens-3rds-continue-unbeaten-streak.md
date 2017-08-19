@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The unbeaten Hockey Men defeat Kings
 date: "2011-02-17 20:40:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "848"
@@ -33,15 +34,6 @@ image_height: "3000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The mighty Men’s 3rds continued their fine form on and off the pitch by laying down a marker to their ULU rivals. Designer V scored an early brace before a potential comeback by Kings was snuffed out by a counter attack fortuitously finished off by B Tablet.

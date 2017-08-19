@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kieran Ryan takes the pilgrimage to Margate to see Turner and Frankenthaler
 date: "2014-04-07 12:52:12 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4523"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Helen Frankenthaler Foundation, Inc./Artists Rights Society (ARS), New York and DACS, London 2013"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __M__argate is like the New Brighton of the South, but a bit larger & more remote. It’s stuck between the nostalgia of the seaside’s heyday, disappointment at its current pointlessness, and the trickle of investment coming into British seaside towns. Symptomatic is the amusement park Dreamland, its entrance capped with its name in yellow capitals, closed for the last eight years.

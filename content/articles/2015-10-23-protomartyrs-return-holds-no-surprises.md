@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We review The Agent Intellect
 date: "2015-10-23 11:49:29 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5674"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Old Oak School of Dao"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Golly gee, am I an angsty emo. The only clothing I own is black. Black like my soul – my heart, which screams constantly in writhing agony about the horrors of the human condition and the bleakness and depravity of our dismal existence. Sometimes, when I’m really moody, I walk to the park and let black mascara be washed down my face by my own salty tears, as I talk to a withered oak tree – “the only thing that understands my suffering.”

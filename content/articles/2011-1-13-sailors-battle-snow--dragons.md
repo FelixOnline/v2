@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sailing Club Trip to Wales
 date: "2011-01-13 20:24:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "580"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It was a cold Friday night in late November when a group of six sailors headed to Cardiff to compete in the Cardiff Dragon team racing event. As planned, Chris and Martin had got the coach earlier while I was to go home and meet the others at the Union for 18:00. Unfortunately I left it a bit late so didn’t get to the Union till gone 19:00. The others piled in while berating me for my lateness and, with some trepidation, we headed for Cardiff. Our fear was not unjustified as this was forecast to be one of the coldest weekends of the year. As we headed off, the radio reported widespread ice on the roads, that Cardiff airport was closed due to snow and that there were 26 mile queues on the M4 into Cardiff.

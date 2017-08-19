@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Forget ISIS or Trump, apathy is the greatest threat to democracy
 date: "2016-05-20 08:55:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6176"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The recent election season has got me in the political spirit, and I have been reminded of the shameful situation that continues to both bemuse and inflame me: the Science and Technology Select Committee. This grand, administrative behemoth, whose expansive remit covers everything from big data to genetics, with its cross-party composition and its inquiry-laden legislature, sets the national agenda on science policy. In a world where science policy is of growing importance, occupying all the top spots on international issues, be they climate change or viral pandemics, the UK Government needs to take leadership and forge the path to a sustainable future.

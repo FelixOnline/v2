@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fragile Growth
 date: "2012-11-01 22:46:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2791"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, the Office for National Statistics released their first estimate for the economic growth of the UK economy in the months of July, August and September, known as the third quarter. Somewhat unexpectedly, a 1% rise in the GDP of the country was announced. Given the excuses given by the Chancellor, George Osborne, for previous falls ranging from the weather to the royal wedding, using the Olympics as a reason for growth does not seem so far fetched.

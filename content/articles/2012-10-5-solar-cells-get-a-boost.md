@@ -4,6 +4,7 @@ title: >
 subtitle: >
   New technologies promise improved efficiency
 date: "2012-10-05 12:00:45 +0100"
+author_id: "nn1209"
 
 # Attributes from Felix Online V1
 id: "2608"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nn1209"
-author_name: "Navid Nabijou"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists at the University of California Santa Barbara have developed an improved method of generating solar electricity. Rather than making use of the photoelectric effect, this newly designed solar cell generates electricity while splitting water into oxygen and hydrogen gas. In the past, the main difficulty in building such cells has been finding a catalyst that isn’t simply oxidised by the highly reactive molecular oxygen involved in the process. Recent developments in the field of cobalt-based catalysts have now made them a more feasible alternative.

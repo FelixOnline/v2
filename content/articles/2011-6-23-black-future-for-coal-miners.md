@@ -4,6 +4,7 @@ title: >
 subtitle: >
   People living in coalfield areas more like to suffer from long-term illnesses
 date: "2011-06-23 20:00:06 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1418"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 Decades after pit closures that claimed 170,000 jobs across England, coalfield communities continue to suffer from chronic arthritis, asthma and long-term back problems.

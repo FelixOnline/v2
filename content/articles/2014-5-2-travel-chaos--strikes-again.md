@@ -4,6 +4,7 @@ title: >
 subtitle: >
   London was plunged into travel chaos again this week: another tube strike left commuters stranded as parts of the city ground to a standstill.
 date: "2014-05-02 00:51:26 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4535"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "urbantimes.co"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 London was plunged into travel chaos again this week: another tube strike left commuters stranded as parts of the city ground to a standstill. For those of you who somehow missed the first one, this is the second strike instituted by the Rail, Maritime and Transport Union (RMT) as they protest the planned closure of all of London Underground’s ticket offices. This latest 48-hour walkout comes after a planned strike in March was halted by the RMT at the eleventh hour – but unfortunately for Londoners, no such reprieve came this time around.

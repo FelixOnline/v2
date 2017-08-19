@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck
 date: "2011-10-28 00:12:50 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1627"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, [it was announced](http://felixonline.co.uk/news/1503/ucl-to-introduce-grade-point-average/) that UCL is going to change their grade system towards the American model. They are abandoning the first, 2:1 etc. leading Imperial students to ask: is this also going to happen to us? The Union immediately said: we won’t allow that to happen because then this will become a (more) competitive university.

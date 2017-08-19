@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Masson & Forrest Seiwald report back on About Time festival
 date: "2013-11-24 16:21:26 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4117"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Last Saturday saw the Bussey Building in Peckham play host to About Time #2. A day festival chocked full of the best in UK emo, screamo and noise rock is tough to say no to, so we headed down to check out some bands. The two stages were staggered so you could see everything, and we did our best.

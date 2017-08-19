@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the committee and volunteers get back into the swing of work, RAG Chair David Goldsmith reflects on the week
 date: "2013-03-01 00:11:40 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3401"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Benjamin Lester"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Amidst a week of bungee jumping, cartoon collecting, pizza eating, Dark Knight-watching, serenading, raffling and masked dancing £11,305 worth of coins rained down on our buckets. This brought our total generated for charity in the year so far to £47,556.48 – more than TRIPLE that raised in the entirety of last year and we have yet to reach third term!

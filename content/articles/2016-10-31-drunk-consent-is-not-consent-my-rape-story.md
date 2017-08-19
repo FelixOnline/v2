@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Being friends doesn't make it okay
 date: "2016-10-31 22:44:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6370"
@@ -33,15 +34,6 @@ image_height: "524"
 image_attribution: "SamahR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week the coat I lost on the night I was raped found its way back to me.

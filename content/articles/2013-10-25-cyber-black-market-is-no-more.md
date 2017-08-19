@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tech Editor Osama Awara on the Silk Road Marketplace
 date: "2013-10-25 00:59:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3945"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Known and loved by its many users and advocates as the Silk Road Marketplace, this underground website dubbed as the ‘amazon.com’ and ‘e-bay’ of illegal drugs has officially been shut down by the FBI. Seizing what is believed to be $3.6 million dollars in bitcoins, a small fraction of their $80 million profits, during the online raid, the FBI also managed to claim hold of the sites ‘digital wallets’, used to store some of the marketplace’s virtual assets.

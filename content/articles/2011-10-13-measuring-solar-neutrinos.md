@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Experiment reveals accuracy of new solar neutrino data
 date: "2011-10-13 21:36:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1508"
@@ -34,15 +35,6 @@ image_height: "1506"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Every second each centimetre of the surface of the Earth is bombarded by 6×10^10 solar neutrinos –produced by nuclear fusion and the decay of isotopes such as beryllium-7. Writing in [Physical Review Letters](http://prl.aps.org/), an international collaboration of scientists has announced the unprecedented accuracy of new solar neutrino data from the [BOREXINO experiment](http://borex.lngs.infn.it/) at the [Laboratori Nazionale del Gran Sasso](http://www.lngs.infn.it/), in central Italy.

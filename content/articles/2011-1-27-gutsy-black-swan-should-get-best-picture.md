@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oscar favorite for best motion picture.
 date: "2011-01-27 20:09:14 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "686"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s all too was easy to say that this year’s Oscars is going to be exciting but I do believe that the 51st Academy Awards are going to be a bit special. Whereas previous years have been dominated by a few strong contenders ( There Will be Blood and No Country For Old Men 2007) or a weak field (2006) or just ridiculous hysteria for one film (Slumdog Millionaire, 2009), this season’s Oscars have few clear favourites.

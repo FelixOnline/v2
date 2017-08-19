@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Union's neutrality makes them different
 date: "2011-12-01 21:17:43 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1887"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the sudden impact of the first wave of student protests last year, this week’s pension protests almost seem part of a natural occurrence, but one, nonetheless, that continues to demonstrate the ever-changing nature of political activism. Imperial, however, remains an anomaly amongst institutions as protests continue on (as demonstrated by limited campus action on Wednesday). This is by no means a negative aspect.

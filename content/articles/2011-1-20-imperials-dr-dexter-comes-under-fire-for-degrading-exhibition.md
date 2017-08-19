@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A London art gallery’s controversial exhibit has been branded “disrespectful and unacceptable”.
 date: "2011-01-20 19:34:28 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "608"
@@ -34,15 +35,6 @@ image_height: "834"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 A London art gallery’s display of a brain removed from the dead body of a multiple sclerosis sufferer has been attacked by Tory MP David Amess, who has branded the display as “disrespectful and unacceptable”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten reflects on student satisfaction at Imperial following the release of the National Student Survey results last week.
 date: "2013-08-17 18:33:35 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3751"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://www3.imperial.ac.uk/media/photogallery"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On the [21st June](http://bit.ly/12ZEVdV) I stated that students in third level education in the UK 'feel undervalued, merely ushered through the system'. From National Student Survey results released on August 13th it would appear that recent graduates from Imperial College have broken free from this stigma.

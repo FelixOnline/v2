@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Who is going to be the next Imperial MasterChef?
 date: "2011-10-13 23:52:58 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1529"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s our pleasure to announce the first Imperial Food Awards competition! Organised and judged by the Food Editors of Felix, this is your chance to prove your talent and creativity in cooking. In short, you shouldn’t miss it. The reason? Loads of fantastic prizes will be awarded to the winner, who will be announced on October 28.

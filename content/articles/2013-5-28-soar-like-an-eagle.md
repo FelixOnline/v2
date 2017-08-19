@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lilly Le examines the intricacies of Laura Marling’s latest effort
 date: "2013-05-28 14:04:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3625"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It is slightly perplexing for a few seconds. Laura Marling is a name seemingly sliding off everyone’s lips at the moment, yet still, seems to be unheard of to more than a fair few. Widely known but remaining anonymous, this enigma-like quality continues to run through her music, her fourth album being no exception.

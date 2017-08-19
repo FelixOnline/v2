@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg checks out the Courtauld's collection of little-seen pictures
 date: "2015-01-31 19:19:53 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5173"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "The Courtauld Gallery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This January sees the opening of the __Gilbert & Ildiko Butler____drawings gallery__ at the Courtauld. The wonderful purpose built gallery, designed by 2013 Stirling prize winners Witherford Watson Mann Architects, finally gives the public a chance to see one of the most celebrated collections of drawings in the country. With over 7000 works, this is a remarkable opportunity to see a glimpse into the overlooked riches of the __Courtauld Institute. __

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Puppetry is having a bit of a renaissance at the moment thanks to shows like War Horse
 date: "2016-12-09 15:59:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6588"
@@ -33,15 +34,6 @@ image_height: "5152"
 image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Little Matchgirl is a show populated by people and puppets, of which the eponymous character, masterfully operated by Edie Edmundson, is one.  Our writer, Ezra Kitson, was fortunate enough to speak with her after the performance.

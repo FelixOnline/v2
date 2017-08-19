@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Emden looks at the implications of the US-China emissions deal
 date: "2014-12-11 20:39:37 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5029"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On 12th November, the US and China announced a historic bilateral agreement to reduce greenhouse gas (GHG) emissions amounting to a 26-28% reduction by 2025 (from a 2005 base) for the US and a peak in emissions in 2030 at the latest for China. Whilst the implications for the Paris Summit in 2015 seem positive, there are still question marks over how the US and China will actually achieve these new targets, or indeed, if they can be seen as achievements in the first place.

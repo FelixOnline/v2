@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Luke Sheldon discusses a new study assessing climate models against observations, which provides worrying results
 date: "2012-11-15 21:01:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2888"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Climate change is expected to be more severe than previously thought as the climate models, which record the greatest warming, are found to be more accurate according to a new study.

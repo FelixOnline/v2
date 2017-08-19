@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s an unbelievably touching story of human survival, love, and forgiveness.
 date: "2014-01-17 04:09:33 +0000"
+author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "4251"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jgp09"
-author_name: "John G Park"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __The Railway Man__

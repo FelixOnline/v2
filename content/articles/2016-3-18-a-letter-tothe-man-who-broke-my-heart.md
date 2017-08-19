@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I thought it should end the way it started, with an inappropriate article in FELIX
 date: "2016-03-18 11:42:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6056"
@@ -34,15 +35,6 @@ image_height: "2050"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _This article was published as part of FELIX's Sex Survey launch. Do the survey [here](http://felixonline.co.uk/go/sexsurvey)._

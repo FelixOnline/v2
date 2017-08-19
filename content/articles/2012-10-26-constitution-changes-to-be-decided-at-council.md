@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Court and President argue, but on Tuesday 30 October Council will decide if the proposals will become the Constitution
 date: "2012-10-26 01:40:46 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2730"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Constitutional changes that were proposed and [previously reported in Felix](http://felixonline.co.uk/news/2641/constitution-changes-to-be-discusssed/), are set to be put to a vote at the next Council on Tuesday 30 October. Council will vote whether or not they will accept the changes, or if it needs to be revised more. The draft still contains the changes discussed in the previous article.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the Night Time at the Gate Theatre.
 date: "2016-02-26 11:59:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5979"
@@ -33,15 +34,6 @@ image_height: "1584"
 image_attribution: "Bill Knight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I read Nina Segal’s  script for in “In the Night Time” in a mad, streaming rush, coffee on fingertips on pages in the dregs of whisky and sleep. It deserved every one of my 5am minutes, and more.

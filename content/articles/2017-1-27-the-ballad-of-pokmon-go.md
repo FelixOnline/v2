@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed gives the dirt on why Pokémon GO isn’t fun and was doomed to fail
 date: "2017-01-27 17:34:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6702"
@@ -33,15 +34,6 @@ image_height: "1282"
 image_attribution: "Skinny Casual Lover"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ah, Pokémon GO. What it was and what it could have been. It was a sensation that gripped so many people only to come crashing down.

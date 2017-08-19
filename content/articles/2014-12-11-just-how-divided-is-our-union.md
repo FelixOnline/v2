@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Butcher says students and sabbs need to start engaging more
 date: "2014-12-11 19:59:46 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5024"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College Union is vast. It has 344 different societies, and every year they collectively turn over £2 million. The entire Union turns over £7 million. There are 3000 different society committee positions and 40% of undergraduate students are a member of at least one club or society.

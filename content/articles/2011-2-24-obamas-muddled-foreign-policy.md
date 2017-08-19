@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The U.S. vetoing of the UN resolution on Israeli settlements shows confusion
 date: "2011-02-24 20:09:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "881"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last week a UN resolution tabled by Lebanon, condemning Israel’s settlements as illegal, [was vetoed by the United States](http://www.bbc.co.uk/news/world-middle-east-12512732). This came despite overwhelming support for the resolution from most of the international community, including the other fourteen Security Council members – even the United Kingdom, France and Germany did not abstain. Rather, the representative of Israel’s European allies, British ambassador Mark Lyall Grant, described the settlements as “illegal under International law.”

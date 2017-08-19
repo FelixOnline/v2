@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Silvia Davey asks what UK citizens should consider come referendum time
 date: "2013-02-14 17:02:18 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3324"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Alex Folkes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 "I really hope that the UnitedKingdom pulls out of the European Union and that the Euro collapses – I could definitely do with a cheaper holiday somewhere nice and sunny in Europe…” was the conclusion to a ranting monologue I was faced with during a taxi ride back home one evening.

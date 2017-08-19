@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emiel de Lange revels in life’s big questions at the National’s new production
 date: "2015-03-25 13:19:38 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5448"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _M__an and Superman_ is at once both funny and serious. Billed as a “comedy and a philosophy”, this dual nature has posed problems in the past and at first Bernard Shaw staged these parts separately.

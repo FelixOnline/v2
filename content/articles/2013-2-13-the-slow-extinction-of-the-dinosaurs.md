@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The recent equal marriage vote is indicative of a wider trend
 date: "2013-02-13 16:08:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3310"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Free speech is a wonderful thing. It is one of the things that makes this country an amazing place to live in. Granted, it may not be absolute, but the opportunity to be introduced to new ideas, impart mine in return and argue over them is a positively delightful experience. To me, there is nothing more enlightening than thrashing out some political philosophy, looking at issues from different perspectives, amending your way of thinking or even dropping it and searching for a new one. This is not weak compromise – it is enriching your understanding of the world through debate which helps build a better and coherent way to view and deal with it.

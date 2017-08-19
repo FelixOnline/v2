@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The dean spoke out on the economic fad dividing the internet in City A.M.
 date: "2016-01-29 08:50:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5838"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The dean of Imperial’s Business School published an article in Monday’s edition of _City A.M._ bemoaning the finance industry’s complacency when it came to Bitcoin, and other cryptocurrencies.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica thinks persecution of memes is TOO DAMN HIGH
 date: "2013-02-22 01:49:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3367"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Memes, meant in the sense of those internet jokes very fond of cats and stylised shouting faces, are often misunderstood.They are seen as part of a nerdy, self-referential culture keen on meta-humour and pushed beyond the limits of common human discourse by its anonymity, and while all of this is absolutely true, they do display some characteristics that can be associated with art. I do not wish to imply that they are at the same level of Dante, Shakespeare and Tchaikovsky, but perhaps they deserve more love and respect than they are currently given.

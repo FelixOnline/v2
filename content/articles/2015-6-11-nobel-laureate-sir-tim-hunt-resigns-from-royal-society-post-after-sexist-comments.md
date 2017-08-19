@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson on the controversy that has taken place over the last week
 date: "2015-06-11 22:23:29 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5615"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Huffington Post"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Nobel Prize winner and fellow of the Royal Society Sir Tim Hunt has apologised for causing offence and resigned from the Biological Sciences Awards Committee of the Royal Society and an honorary professorship at UCL after sexist statements he made in a recent speech sparked outrage among the scientific community.

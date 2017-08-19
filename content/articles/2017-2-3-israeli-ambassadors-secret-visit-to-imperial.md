@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix reports from the mystery talk
 date: "2017-02-03 14:59:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6706"
@@ -34,15 +35,6 @@ image_height: "1001"
 image_attribution: "Liz Welsh"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week the Israeli Ambassador to Britain, Mark Regev visited Imperial College, giving a talk in the Clore Lecture Theatre in Huxley Building. The talk, for which publicity was incredibly limited, was attended by around 200 students and was shrouded in secrecy right up until the very last moment.

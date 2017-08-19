@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICVC sees their mens team becoming BUCS Trophy Champions
 date: "2015-05-04 16:51:37 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5491"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The start of the year already hinted at a great volleyball season to come; with over 120 people attending the taster session and a record-high membership of 87.

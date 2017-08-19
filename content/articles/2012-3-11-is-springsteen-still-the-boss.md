@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Krestas finds reason to celebrate with the release of Wrecking Ball
 date: "2012-03-11 16:15:17 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2339"
@@ -33,15 +34,6 @@ image_height: "343"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Bruce Springsteen__ is ﬁnally back. After the unfortunate death of his long-time friend and music companion, saxophonist Clarence Clemons, the Boss has been preparing for the release of his 17th studio album titled _Wrecking Ball_ packed with a tour across the US and Europe starting late March.

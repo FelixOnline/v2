@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “How can you defend a country where 5% of the people control 95% of the wealth?” postulates Comrade Juggernutx
 date: "2011-11-03 21:11:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1683"
@@ -33,15 +34,6 @@ image_height: "462"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 _DISCLAIMER: These opinions are ficticious and form part of a celebration of Felix's 1500th issue. Any resemblance to real opinions, living or dead, is purely coincidental._

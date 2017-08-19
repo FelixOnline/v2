@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thomas Heaven watches some of metal’s biggest bands
 date: "2013-11-24 16:24:21 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4119"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial Rocksoc was out in force this weekend to catch the Metal Hammer: Defenders of the Faith IV tour. It doesn’t get much more metal that a show headlined by modern day Vikings Amon Amarth with heroes of the grindcore and melodic death genres Carcass, the fresher faced Bleed From Within and cult 80’s heavy metal band Hell opening proceedings. All to a sold out Kentish Town Forum filled with excited fans.

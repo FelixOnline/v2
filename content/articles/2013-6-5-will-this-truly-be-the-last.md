@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Last Exorcism? Probably not.
 date: "2013-06-05 12:18:38 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3650"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The last Last Exorcism certainly was not the “last” as it is followed by this pretty disastrous sequel that is somehow trying to bridge a gap for a potential third entry to turn the franchise into a trilogy – because any mildly successful horror series must at least have three.

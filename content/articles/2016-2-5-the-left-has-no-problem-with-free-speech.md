@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We aren’t living in the Orwellian police state as some would have you believe
 date: "2016-02-05 11:57:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5866"
@@ -34,15 +35,6 @@ image_height: "1227"
 image_attribution: "Wales online"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Freedom of speech is the right to speak without censorship or restraint by the government.  At least, that’s what Google says. How does the British establishment fare when we look at restrictions on freedom of speech?

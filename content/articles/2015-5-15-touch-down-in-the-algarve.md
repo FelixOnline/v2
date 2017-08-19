@@ -4,6 +4,7 @@ title: >
 subtitle: >
   José Videira dives straight into IC Skydiving’s week long Spring Tour to Portugal
 date: "2015-05-15 12:50:14 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5537"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "José Estiveira"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A skydiver’s greatest enemy, especially in the UK, is inclement weather. So for the first ever international tour of IC Skydiving we followed the sun to Skydive Algarve in Portugal, which like our own club has recently expanded to new levels of successful operation with the acquirement of a new plane and procurement of a new team of world expert instructors and dropzone managers.

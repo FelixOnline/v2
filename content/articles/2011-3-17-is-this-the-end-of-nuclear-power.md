@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The lessons of the past have been learned
 date: "2011-03-17 21:26:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1101"
@@ -34,15 +35,6 @@ image_height: "1445"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On Friday 11th March 2011, an earthquake of magnitude 9.0 struck 230 miles off the coast of northern Japan. As well as triggering a devastating tsunami, the earthquake has also caused problems with a nuclear plant in Fukushima, with developments keeping the global community sitting on the edge of its seat.

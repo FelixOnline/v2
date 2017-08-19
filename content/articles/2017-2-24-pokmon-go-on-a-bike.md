@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tessa Davey details her thrilling and dangerous adventures of playing Pokémon Go while biking through London
 date: "2017-02-24 15:17:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6827"
@@ -34,15 +35,6 @@ image_height: "2560"
 image_attribution: "Jill Carlson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do you remember that blissful moment in Pokémon Red, when after walking around at a snail’s pace for so long, you finally could get your bike in Cerulean City and glide effortlessly down Cycling Road to Fuchsia City (or indeed, to anywhere)? No, you probably don’t because now it’s been a long time and you probably were barely born when they were released. Well, I do, because I was nine years old when they came out (in the UK) and along with all the boys in my class, was immediately obsessed.

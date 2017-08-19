@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives!
 date: "2013-11-15 11:46:40 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4088"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 There is an items collection for an aid convoy that will be leaving for Syria next weekend. This is an opportunity for you to directly make a difference to people’s lives! Old clothes will be used to generate funds and new ones will be sent to Syria. The Union is also helping and we have a drop off point at the Union reception. There are more details on the website.

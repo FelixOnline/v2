@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Whomever made the decision should have the decency to explain their reasoning
 date: "2011-06-09 21:47:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1356"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A great number of controversial decisions have been taken at Imperial this year. Some have been taken by departments, some have been taken by central College management, others have been taken by the Union. The one thing that unites them, something that Felix has always been pleasantly surprised by, is the willingness of the decision-makers to put forward their argument; to answer questions about their motivations; and to make themselves accountable. Of course this has occurred to varying degrees, and we have not always agreed with their arguments or motivations, but the story of the past academic year is of people accepting the accountability that must come with authority. Which is why we are disappointed that this accountability has not accompanied Imperial’s decision to cut its £3,000 subscription to the Campaign for Science and Engineering (CaSE).

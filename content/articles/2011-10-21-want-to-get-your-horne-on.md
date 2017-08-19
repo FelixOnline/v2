@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Musical mash-up brings in comedians
 date: "2011-10-21 11:47:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1603"
@@ -34,15 +35,6 @@ image_height: "421"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Alex Horne](http://www.youtube.com/watch?v=yrBF-yYVcX8) is something of a mystery to me. He’s little known except by regular explorers of the comedy circuit and yet seems to have the phonebook of an A-list celebrity comedian. Here’s a man whose shows pull in the likes of [Tim Minchin](http://www.youtube.com/watch?v=KVN_0qvuhhw), [Harry Hill](http://www.youtube.com/watch?v=DtX-4A69mGo) and [Jimmy Carr](http://www.youtube.com/watch?v=1ioBZ5fNJO8) to name but a few, and yet who himself is rarely seen on TV or heard on radio. But if there were any question marks hanging over his comic credentials, his Section does more than answer them.

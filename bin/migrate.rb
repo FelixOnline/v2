@@ -67,6 +67,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "title: >\n  #{r["article_title"].gsub(/\s+/, " ")}"
   md << "subtitle: >\n  #{r["article_teaser"].gsub(/\s+/, " ")}"
   md << "date: \"#{r["article_date"]}\""
+  md << "author_id: \"#{r["author_id"]}\""
 
   md << "\n# Attributes from Felix Online V1"
   md << "id: \"#{r["article_id"]}\""
@@ -99,16 +100,6 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "image_attribution: \"#{(r["image_attribution"] || "").gsub(/\W*\\\W*/, " - ").gsub(/^\W+/, "")}\""
   md << "image_attribution_link: \"#{r["image_attribution_link"]}\""
   md << "video_url: \"#{r["article_video_url"]}\""
-
-  md << "\n# Author metadata"
-  md << "author_id: \"#{r["author_id"] || "felix"}\""
-  md << "author_name: \"#{r["author_name"]}\""
-  md << "author_image_path: \"http://felixonline.co.uk/#{r["author_image_path"]}\""
-  md << "author_twitter: \"#{r["author_twitter"]}\""
-  md << "author_facebook: \"#{r["author_facebook"]}\""
-  md << "author_website_url: \"#{r["author_website_url"]}\""
-  md << "author_website_title: \"#{r["author_website_title"]}\""
-
   md << "---\n"
 
   JSON.parse(r["content"])["data"].each do |section|

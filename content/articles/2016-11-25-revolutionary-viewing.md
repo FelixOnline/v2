@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Protest can be tiring, so of course you need some downtime. Fear not, however, your rebellion doesn’t have to stop when your body does. Here are four rebels to study while you put your feet up.
 date: "2016-11-25 14:29:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6511"
@@ -33,15 +34,6 @@ image_height: "2048"
 image_attribution: "Don Graham"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## TURN: Washington’s Spies

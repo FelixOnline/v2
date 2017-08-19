@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Involuntary is a tragic comedy based on human group behaviour or, to put it simply, peer pressure. Oliver Calderbank speaks to the writer and director, Ruben Ostlund
 date: "2010-10-14 19:48:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "214"
@@ -33,15 +34,6 @@ image_height: "326"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When a friend asked me to review a film as a favour, I (as most people would have) said yes. His way of convincing me was “there are two good-looking Swedish girls in”. What my friend didn’t tell me was that the film was rather low budget and had five story lines that didn’t overlap at all.

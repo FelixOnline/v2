@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rosemary Peters hopes you like creepy crawlers
 date: "2012-10-26 02:52:24 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2759"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Want to make some treats this year for Halloween? Try your hand at these frightfully delicious chocolate-covered peanut butter spiders. Your friends and family will be screaming with delight after they take their first bite.

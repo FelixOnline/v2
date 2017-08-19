@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Melancholia
 date: "2011-11-10 21:44:15 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1735"
@@ -33,15 +34,6 @@ image_height: "2658"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s not every day you watch a film that begins as depressingly as Melancholia. In beautifully vibrant slow motion, we are forced to watch in horror as the world, and four of its inhabitants, come to a startlingly abrupt end by way of planetary collision. Birds fall from the sky, horses collapse, and our protagonist Justine (a superbly cast Dunst) floats down a river in an Ophelia-esque fashion. As the two planets finally meet and the orchestral score pushes into a final crescendo, you know that this is not going to be a light-hearted journey.

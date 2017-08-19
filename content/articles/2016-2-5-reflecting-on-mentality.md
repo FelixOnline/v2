@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The author, historian, and schoolmaster, Sir Anthony Seldon, spoke to Imperial on the subject of mental health
 date: "2016-02-05 12:51:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5886"
@@ -34,15 +35,6 @@ image_height: "640"
 image_attribution: "Mentality"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After a successful campaign last academic year, Mentality has succeeded once again in capturing the interests of the staff and student body alike. On the 19th January 2016, Sir Anthony Seldon ‘headlined’ at Mentality’s most recent event, giving an honest and humbling talk about his personal experience of mental health both in and outside the world of education. He spoke about the pressures of university and how looking after oneself often becomes sidelined by students at world class and high pressured institutions such as Imperial College, giving some simple tips for how to achieve better mental health whilst studying.

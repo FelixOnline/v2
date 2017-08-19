@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl tells the tale of Imperial Chess Heros’ campaign in the land of Freedom. Ah, ‘Murica
 date: "2013-10-12 23:57:26 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3874"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 After a very successful year dominating British chess, the British Uni and London Uni Champions (your resident chess team) decided that they needed a new challenge. So when ex-President Sam “Sporter” Porter began organizing the trip to the US, a lot of excitement and anticipation started to arise. With big names like Princeton and Columbia on the menu, Imperial Chess was really looking forward to making a name for themselves out there in the land of opportunity. In fact we set out with a very strong team with big ambitions, including our own FIDE Master (FM) Ryan Griffiths and El Presidente Arijit Gupta.

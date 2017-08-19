@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam shows you why Froyo is Android&8217;s coming of age
 date: "2010-06-03 15:16:10 +0100"
+author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "142"
@@ -33,15 +34,6 @@ image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fa608"
-author_name: "Feroz Abdul Salam"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When Google announced the Android mobile operating system in late 2007, the reaction it received was at best, lukewarm. Coming only a few months after the release of the iPhone OS, which had taken consumer markets by storm, most analysts were cautious about the announcement despite the fact that the OS had the backing of Google. The first release of the open source OS did nothing to enthuse them with only a relatively small number of manufacturers taking the OS on board and producing rather clunky handsets; Android proved to be unattractive and sluggish. Along with a relatively small developer market, there seemed no way that Android handsets could legitimately compete with the gloss of the iPhone or the sleek business chic of the Blackberry.

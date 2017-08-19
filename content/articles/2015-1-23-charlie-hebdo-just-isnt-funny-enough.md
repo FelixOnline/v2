@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Publish offensive material if you like, just make it good!
 date: "2015-01-23 01:31:09 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5126"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let’s face it, 2014 was not a great year. Tragedies ranging from epidemics to political tension to aviation mysteries to religious extremism defined those twelve depressing months. Even the supposed sporting highlights were overshadowed by allegations of greed and corruption. At best, it was a 3/10. Everyone is hoping that 2015 will be different. Is a 6/10 too much to ask? Only seven days in, however, the dream suffered a huge body blow. The _Charlie Hebdo_ attack has been widely covered and I’m sure you all know what happened.

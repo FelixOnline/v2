@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Good news for Woodward – it’ll only take 45 minutes to get home on a Friday night
 date: "2016-03-04 11:24:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5995"
@@ -34,15 +35,6 @@ image_height: "944"
 image_attribution: "TfL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the four main unions representing London Underground drivers, RMT, voted in favour of a renegotiated contract on Monday, paving the way toward the Night Tube service that was due to be implemented in September last year.

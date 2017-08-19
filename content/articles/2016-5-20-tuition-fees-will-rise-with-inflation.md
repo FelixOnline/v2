@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The government’s white paper on higher education is out and it’s official, fees won’t stay at nine grand
 date: "2016-05-20 08:48:52 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6173"
@@ -33,15 +34,6 @@ image_height: "439"
 image_attribution: "Wikipedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The government has released a white paper this week outlining its future plans for higher education, most notably allowing universities to charge more than £9000 per year in tuition fees.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Discussion follows rejection of feminist society by the New Clubs Committee
 date: "2012-03-15 21:36:21 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2388"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A [forum on sexism](http://www.union.ic.ac.uk/blogs/2012/02/29/women-at-imperial-is-everything-ok/) at Imperial College was held on Tuesday, with the intention of investigating the extent of sexism within the college as well as brainstorming plans on how best to address it.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Men's 1sts come back from behind twice against Medics
 date: "2011-03-17 21:59:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1109"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: "http://christopherwalmsley.tumblr.com/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After watching Imperial register two wins and a draw against the Medics, there was a lot of pressure on the Men’s 1st team. Imperial played to their full potential and ran out 5-4 winners.

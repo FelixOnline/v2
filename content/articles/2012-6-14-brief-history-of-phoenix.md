@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Brief History of P h o e n i x
 date: "2012-06-14 21:05:00 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2575"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the 125 years since its inception Phoenix has changed its name, format and remit. In fact, in almost every way this issue would be completely alien (aliens being something of a preoccupation) to the man who founded the magazine in 1887. However it is just possible to trace a thread of continuity all the way back to the great founder himself, Herbert G. Wells.

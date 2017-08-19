@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The President of IC Wing Chun about misplaced chivalry in martial arts.
 date: "2013-11-15 02:23:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4066"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There is a general feeling in our society that guys shouldn’t hit girls. This is great. Girls shouldn’t hit guys either, but on the occasions that these rules should be bent, they aren’t. If you haven’t guessed, I’m talking about martial arts, where men and women come together to train themselves in self-defence – or attack. As a woman who has been training in martial arts for the best part of eight years, with numerous classes and sets of people, I’ve always found it a struggle to get a guy to hit me. Hard. This isn’t masochism; this isn’t a cry for help. I simply want to train, and yet I have met and seen women suffer with similar frustrations. So I’m writing to reach out to practitioners of martial arts and hopefully set the record straight.

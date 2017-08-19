@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deputy President Education gives us his side
 date: "2017-01-20 14:51:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6654"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 During this week’s extraordinary council meeting, I proposed a paper to seek permission from Council to approve the following: firstly, for the Union to make contributions to Imperial’s Teaching Excellence Framework (TEF) submission and secondly, for Council to review the Union’s existing Higher Education Funding policy. The paper was passed successfully.

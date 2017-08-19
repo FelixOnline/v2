@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ice Hockey preview their upcoming game against UCL
 date: "2016-03-11 12:14:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6046"
@@ -34,15 +35,6 @@ image_height: "1183"
 image_attribution: "Ice Hockey"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s that time of year again. You’re exhausted, because you were up way too late watching the new season of House of Cards or the latest Better Call Saul; stressed, because if you were up so late you should have been finishing your coursework; and spammed to bursting point because suddenly everybody wants to be the Union president.

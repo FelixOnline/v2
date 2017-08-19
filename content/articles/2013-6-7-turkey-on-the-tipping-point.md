@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Inigo Martinez de Rituerto discusses the current political unrest in Turkey
 date: "2013-06-07 13:58:14 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3673"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "http://occupygezipics.tumblr.com/"
 image_attribution_link: "http://occupygezipics.tumblr.com/"
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week in Turkey, peaceful demonstrations against the demolition of Istanbul’s Gezi Park rapidly escalated into nationwide protests against the increasingly conservative measures enacted by prime minister Recep Tayyip Erdoğan. The disproportionate dispersion tactics used by the police catalysed an uprising in a population which has grown tired of being ignored and oppressed by the authoritarian mandate of the ruling Justice and Development Party (AKP).

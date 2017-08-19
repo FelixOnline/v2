@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A look at the re-issue of one of the 90’s greatest albums
 date: "2010-12-02 20:51:08 +0000"
+author_id: "cdd09"
 
 # Attributes from Felix Online V1
 id: "479"
@@ -33,15 +34,6 @@ image_height: "310"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cdd09"
-author_name: "Christopher D Dean"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There has always been one paradoxical quote about Weezer that amused me. I’m paraphrasing, but it goes along the lines that “Weezer are the worst rock band in America to release two of the greatest albums of the last 20 years”.

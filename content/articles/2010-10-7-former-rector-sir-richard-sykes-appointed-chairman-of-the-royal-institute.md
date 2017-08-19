@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Royal Institute selects former Imperial Rector as new Chair of its Council
 date: "2010-10-07 22:41:58 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "179"
@@ -33,15 +34,6 @@ image_height: "899"
 image_attribution: "Peter Gillings/Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Former Imperial College Rector, Sir Richard Sykes, has been appointed to the position of new Chairman of the [Royal Institution](http://www.rigb.org/registrationControl?action=home) (RI) to succeed former Chairman Andrian de Ferranti.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-06-10 08:32:30 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6262"
@@ -33,15 +34,6 @@ image_height: "1510"
 image_attribution: "Project Shirley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Along with bumblebees and pandas, another species that is seemingly on the verge of extinction is the raconteur. The word, which reached its height of popularity in the mid-20th century, is used to describe a teller of tales: someone who can take an amusing singular anecdote, and spin it into a tale of gold, causing you to hang onto every word. Today, the closest thing the Western world has to a true raconteur is director John Waters, aka 'The Pope of Trash'.This raconteur spirit is what makes Shirley Clarke’s 1967 documentary _Portrait of Jason_ such a compelling watch.

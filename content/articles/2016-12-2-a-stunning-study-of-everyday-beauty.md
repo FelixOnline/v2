@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jim Jarmusch’s latest work Paterson is a breathtaking exploration of day-to-day life, blissful love, and the sheer power of poetry.
 date: "2016-12-02 14:06:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6531"
@@ -33,15 +34,6 @@ image_height: "1646"
 image_attribution: "Soda Pictures"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Being made an adjective is a double-edged sword. Take pity on Kafka – while having an eponymous adjective may mean your style has made its lasting mark on popular culture, it also means that it has become ripe for parody; never mind the legions of individuals who use Kafkaesque as a synonym for ‘dark’, ‘alienating’, or ‘pertaining to queues’. As such, perhaps American director Jim Jarmusch should be worried: over his last eleven films, since his directorial debut in 1980, Jarmusch has carved out a niche for himself in independent American cinema with his trademark style. Going into a Jarmusch film, you sort of know what to expect: reels of exceptionally-crafted dialogue; an industrial, washed-out soundtrack; and probably a cameo from Tom Waits. Surely it’s only a matter of time before ‘Jarmuschian’ enters into our popular lexicon.

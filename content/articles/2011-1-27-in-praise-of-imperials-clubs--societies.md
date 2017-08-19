@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our Clubs & Societies make Imperial truly worth the while
 date: "2011-01-27 19:49:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "677"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The majority of students at this university, one would hope, have a good idea of why they are studying their particular subject and why they are at Imperial. To cut straight to the point, it is commonly a combination of the reputation and quality of an Imperial degree, the concentration of world-class and cutting-edge research and of course, that rejection letter from Oxford or Cambridge. We jest, we jest. Put more simply, it is usually either because we want a high paying job, in finance or industry, or because we wish to embark on an academic career.

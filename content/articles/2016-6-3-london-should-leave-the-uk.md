@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This is the referendum we ought to be having
 date: "2016-06-03 08:56:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6228"
@@ -33,15 +34,6 @@ image_height: "628"
 image_attribution: "driven.co.nz"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We have always been the greatest, most prosperous hub for trade in the whole of Western Europe. Countless enemies have dared to invade us, all with the most unsuccessful results. Since Roman times, we have always resisted, preferring death to yield –always united against tyranny and oppression. We have survived Great Fires, Nazi bombings, terrorist attacks. And we never faltered. We had never surrendered our independence.

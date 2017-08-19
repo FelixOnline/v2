@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2504"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Modern music has few people prolific as Australian guitarist and multi-instrumentalist __Oren Ambarchi__. He started out as free jazz drummer in his native country before moving to guitar, which he plays experimentally and unconventionally, producing sounds alien to traditional music.

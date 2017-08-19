@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fellwanderers are up to their usual antics including experiencing some of Europe’s most stunning scenery
 date: "2010-10-14 19:41:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "211"
@@ -34,15 +35,6 @@ image_height: "720"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Each year a group of intrepid Fellwanderers leave the UK to undertake an ambitious two week trek overseas. This year was no different. The chosen trek was the breathtaking Tour of the Jungfrau, winding its way among some of the most spectacular and best-loved mountain scenery in the Swiss Alps.

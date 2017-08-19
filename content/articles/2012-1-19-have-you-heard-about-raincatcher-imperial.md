@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Read on to find out more about the Tanzanian scheme
 date: "2012-01-19 21:03:42 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2024"
@@ -33,15 +34,6 @@ image_height: "1732"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We all take for granted that when we switch on the tap, clean, drinkable water will pour out. Sadly, for millions of people around the globe, this is not the case.

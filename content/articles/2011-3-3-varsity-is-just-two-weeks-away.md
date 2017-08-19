@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Medics and Imperial gear up for their yearly showdown, now at The Stoop
 date: "2011-03-03 20:21:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1007"
@@ -33,15 +34,6 @@ image_height: "680"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The biggest day in the Sport Imperial calendar is nearly here, yes that’s right Varsity 2011 is taking place on Wednesday 16th March. After an action packed day of sport, entertainment and rivalry at Harlington, Ethos and Wilson House, the JPR Williams Cup will be finishing off what “will be the best Varsity to date” (Medicals Club Captain, Jamie Rutter). This year the JPR Williams Cup has moved to a new venue The Stoop, home of Harlequins RFC, this venue is a larger professional stadium and is all geared up for a dazzling display of rugby, with exhilarating entertainment both on and off the pitch. The Stoop is the biggest venue many of the players have ever had the chance of playing in and is a fantastic opportunity for all involved.

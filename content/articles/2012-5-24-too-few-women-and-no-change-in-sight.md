@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam on how equality is a long way away in the world of ‘brogrammers’
 date: "2012-05-24 23:24:09 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2488"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you like your Felix lighthearted, you may want to turn the page, because this article is anything but. The seeds of my piece were planted when I heard that one of my friends was planning to attend [CodeF](http://www.ukcodef.com/), a Google networking event ‘exclusively for female computer scientists’ attending top universities here in the UK. These kind of events are commonplace at Imperial, women-only events meant to encourage female scientists and engineers to apply to the top jobs in the country, jobs that are skewed heavily towards men. Unfortunately, these firms are fighting a battle that is very near lost in a fashion that places gestures over results. The losers are not the women already at Imperial, but the many women who will be turned away before they even get the chance to wine and dine with Britain’s best.

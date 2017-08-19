@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Handball: Eagles 25-25 Danes
 date: "2012-01-12 20:50:07 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "1967"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 Have you ever felt that tension, that awareness that to achieve your goal you will have to fight and exceed your own limits? On the day of the most important match of the season the Imperial Eagles felt exactly that way.

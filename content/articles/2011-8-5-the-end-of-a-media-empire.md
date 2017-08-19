@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The world of journalism has been shaken to its core, Felix investigates.
 date: "2011-08-05 13:29:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1453"
@@ -33,15 +34,6 @@ image_height: "970"
 image_attribution: "Vanity Fair"
 image_attribution_link: "http://en.wikipedia.org/wiki/File:Rupert_Murdoch_Wendi_Murdoch_2011_Shankbone.JPG"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Events of the past few weeks have shone a new light on how our media has been operated as a monopoly, with one arguably great but unquestionably evil man at its apex. With the disintegration of his empire, the question now facing all of us is how can the media change its ways of operating and still meet the need of its audience?

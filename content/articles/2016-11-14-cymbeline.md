@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cymbeline is on at the Barbican Theatre until 17th December
 date: "2016-11-14 14:15:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6445"
@@ -33,15 +34,6 @@ image_height: "6000"
 image_attribution: "Ellie Kurtz RSC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 C_ymbeline_ is one of Shakespeare’s lesser known plays. On reading it before going for the production at the Barbican, I could understand why. There is a tangle of plot lines: star-crossed lovers, kidnapped royal babes, attempted seduction, attempted assassination, and topping it all off, a war between Rome and Britain. The inevitable deus ex machina is almost necessary to bring all of them to the happy conclusion.

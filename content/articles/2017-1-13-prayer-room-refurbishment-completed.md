@@ -4,6 +4,7 @@ title: >
 subtitle: >
   And it took less than a decade!
 date: "2017-01-13 13:55:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6631"
@@ -33,15 +34,6 @@ image_height: "1136"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Brother’s Prayer Room was successfully refurbished over the winter break. Earlier last year, felix revealed many maintenance issues that had plagued the IC Islamic Society managed prayer room for six years.

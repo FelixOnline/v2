@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Man of the mini-tour Matt Cann gives his account
 date: "2014-01-17 04:39:07 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4261"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 At 2pm on Friday 22nd November the first impatient members of the mini-tour arrived in the union, for a live #AskMattCann. Like moths to a flame the remaining 34 touring rangers arrived to finally set eyes on the fabled tour tops. A rather fetching yellow and black number had been hand-picked from the literally tens of other options, and was met with looks of disgust from some and approving discussions of where it sat on the ICUAFC Kit Pengness scale from others.

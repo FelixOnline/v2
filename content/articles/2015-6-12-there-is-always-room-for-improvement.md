@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Butcher takes a look back on his time at Imperial
 date: "2015-06-12 12:36:31 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5618"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week I finished my degree. “Congratulations, you have completed Mech Eng!” said the figurative game graphic as I answered the last question of my presentation. Somehow I managed to do four years of my degree without failing an exam (hopefully anyway, there’s still chance), and probably getting a 2:1 overall. Thanks for that.

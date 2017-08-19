@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As you settle back into the College academic year you are no doubt becoming aware of the myriad of events that the Careers Service arranges to help you come to a career decision and to set you on the pathway for a rewarding and fulfilling career.
 date: "2013-11-05 09:52:14 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4009"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I write this short article on the day of the worst storm to batter Southern England since the last great storm way back in 1987. Today the Careers Service has had to adapt as staff were delayed on their way into work, hampered by the travel chaos that ensued. It got me thinking about all the key employability skills that have had to be used today to remain up and running and providing a service to you guys. Problems have been reviewed, solutions put in place, changes communicated to students and team members briefed. All this from just the first hour at Imperial this morning! All these key transferable skills came into play during one short period on a Monday morning, just think what core skills you can develop over the course of your studies and use to great effect in your future applications for employment or internships and placements!

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Latest figures reveal further lack of interest in UK university applications
 date: "2011-12-01 21:16:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1885"
@@ -34,15 +35,6 @@ image_height: "924"
 image_attribution: "UCAS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The gap between the number of applicants to UK universities this year compared to last has widened. The [latest figures](http://www.ucas.com/about_us/media_enquiries/media_releases/2011/20111128) from the [Universities and Colleges Admissions Service](http://www.ucas.com/) (UCAS) reveal that the number of applicants for higher education courses has fallen by 12.9%, corresponding to over 23,000 people, compared to this time last year. Last month’s figures indicated a drop of only 9.0%.

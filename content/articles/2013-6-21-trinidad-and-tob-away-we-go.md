@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hamza Shaikh reports from a great expedition
 date: "2013-06-21 00:58:11 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3737"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 During the end of 2011, when Europe suffered the worst economic crises in decades, the Republic of Trinidad and Tobago was removed from the list of Developing Countries by the OECD.

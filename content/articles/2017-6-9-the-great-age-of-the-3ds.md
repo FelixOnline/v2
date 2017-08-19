@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed fanboys about why the Nintendo 3DS is the greatest handheld console to date
 date: "2017-06-09 15:25:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7018"
@@ -33,15 +34,6 @@ image_height: "1320"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The 3DS has been the go-to portable games machine of its time, testified by the sales of over 65 million units, and is a shining example of how to make a perfect handheld console. Its only other portable rival, the Playstation Vita is as good as dead these days, and mobile games don’t even come close to meeting the phenomenon that is the 3DS. It has a large and stable fanbase and its market dominance has been absolute for the past few years.

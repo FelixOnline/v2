@@ -4,6 +4,7 @@ title: >
 subtitle: >
   International Council for Science recognise new guidelines for scientists
 date: "2011-10-07 09:47:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1480"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The General Assembly of the [International Council for Science](http://www.icsu.org/) (ICSU) have recently recognised guidelines regarding the responsibilities and universal values which should be considered by scientists.

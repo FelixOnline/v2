@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Funkology dancing to the finish line
 date: "2013-03-07 21:53:24 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3432"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Last weekend saw the battle of the dance teams in the UK’s largest university dance competition at Loughborough. For the first time ever, Funkology represented Imperial in the most contested category, Advanced Hip-hop, up against stiff competition from previous winners.

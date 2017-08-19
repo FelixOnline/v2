@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Travellers have a higher chance of getting laid, but more often rendered heartbroken
 date: "2010-12-09 20:08:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "516"
@@ -33,15 +34,6 @@ image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Nestled on the stool, the silhouette was none other than what obstructed me as I wrestled, pints in both grasps, my way to the booth where my friends were seated. I bellowed a ’scuse-me – my voice drowned out amid patrons of the busy Queenstown bar – and attracted his attention. Hysteria, on both our parts, ensued and overwhelmed the venue.

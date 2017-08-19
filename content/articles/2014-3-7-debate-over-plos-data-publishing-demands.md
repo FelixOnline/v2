@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publicati
 date: "2014-03-07 04:50:12 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4458"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Public Library of Science, the open access publisher of the largest scientific journal in the world, PLoS One, has announced that from the 3rd of March, authors of an article in any of their seven journals must make all data related to the manuscript publicly available immediately upon publication.

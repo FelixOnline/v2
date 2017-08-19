@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An exclusive interview with techno-deity Raath-Mon-Tet
 date: "2011-02-17 20:18:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "838"
@@ -34,15 +35,6 @@ image_height: "815"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After years of scouring through the Necronomicon and the Dead Sea Scrolls searching for proof of the existence of the mythical extraterrestrial pharaoh known as Raath-Mon-Tet, a friend suggested I should Google him.

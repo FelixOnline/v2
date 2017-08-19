@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If your costume is culturally insensitive I hope you don’t get laid at ACC
 date: "2015-10-30 12:49:53 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5687"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are many things that irritate me more than my chafing thighs, but this week’s focus, Halloween, gets more on my tits than Dr Eva Carneiro did on Jose Mourinho’s. From jack-o(ff)-lanterns, to shit-o’-treating, this hyper-popular Americanism grates on me more than a dry shave in the heat of summer, and here’s why.

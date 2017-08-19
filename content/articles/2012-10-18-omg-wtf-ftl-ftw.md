@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mainstream gaming
 date: "2012-10-18 21:38:35 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2717"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When I first met the new Games Editor we both agreed that Felix needed reviews of proper mainstream games. Indie games are great fun and it’s fantastic how the games industry is moving in this direction. However, those triple-A £40 games are the bread and butter of most people’s collections and what most people end up playing. But then I played FTL and decided to disregard that entire conversation.

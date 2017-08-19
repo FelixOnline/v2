@@ -4,6 +4,7 @@ title: >
 subtitle: >
   London plays host to a French connection
 date: "2013-01-24 22:51:20 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3167"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the release of their sumptuous ninth album, _Dead End Kings_, the Swedish doom metal quintet [__Katatonia__](http://katatonia.com/) returned to London, for another evening of great music and melancholia. This time they were accompanied by the French shoe-gazing concept band [__Alcest__](http://www.alcest-music.com/) and an American rock band, called [__Junius__](http://juniusmusic.com/). As a fan of both Katatonia and Alcest my expectations for this show were high and, of course, I definitely was not disappointed.

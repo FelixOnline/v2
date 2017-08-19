@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If we cut spending on the royals, the money could be better spent elsewhere
 date: "2016-01-25 14:28:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5832"
@@ -34,15 +35,6 @@ image_height: "630"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For a long time, the UK has been wading through an era of cuts, cuts and more cuts. The NHS is expected to shave off £20bn in costs by 2021, schools are preparing for 16% cuts over the next three years, and controversial plans to reduce working tax credits have been in the public eye recently. Despite there being some overly optimistic murmurs of an end to austerity, it’s looking unlikely that George Osborne is going to start splashing the cash any time soon. It’s a sticky situation that, supposedly, we’re all in together.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   City & Guilds 7s tour Berlin
 date: "2011-10-07 01:14:08 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1473"
@@ -33,15 +34,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This tour had it all; no sleep, local delicacies, someone getting lost, British weather – and some great rugby. Whilst this describes the tour to leave it at that would not do it justice. C&G RFC celebrated the end of the season with a 4-day tour to Berlin where they participated in the 2nd international Rugby Union Sevens.

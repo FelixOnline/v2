@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Daas Kaluvan proves that quality food exists outside supermarkets
 date: "2013-10-08 11:46:29 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3819"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Daas Kaluvan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 You might have seen the signs around campus already – there is a new farmers market on Queens Lawn every Tuesday. You will be surprised by how much fresh vegetables and fruits this is. Apart from the expected English strawberries, raspberries, blueberries, plums, apples and pears, there are also Downland Pigs famous free range hog roast, Brambletye Farm’s organic eggs and sweet and savoury goodies from Queen of Cakes. None of which you will be able to get from your local Sainsbury’s.

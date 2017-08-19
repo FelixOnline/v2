@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The all-male A Cappella group is officially off to New York for the finals in April
 date: "2016-02-26 12:07:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5985"
@@ -34,15 +35,6 @@ image_height: "361"
 image_attribution: "Will O’Reilly"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The semi-finals of the International Championship of Collegiate a cappella, the show that last year won the union’s event of the year,  returned last Sunday, with even more excitement from last year’s highly anticipated event. Featuring eight of the UK’s top university a cappella groups, competing to a sold-out audience in the Great Hall. Opening the show were the University of Oxford’s renowned male group Out of the Blue. Durham’s mixed group the Northern Lights followed, with the University of Bath’s mixed group Aquapella.

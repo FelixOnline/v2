@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Balam Acab – Wander/Wonder (2011)
 date: "2011-11-03 20:41:53 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1671"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 You know [those music writers who twist meaningless metaphor around meaningless metaphor](http://pitchfork.com/search/?query=Mark+Pytlik) in a futile attempt to recreate the music on paper? Wander/Wonder is basically that kind of reviewer’s wet dream. But it also a bear-trap for anyone who thinks they’re going to slide along without using the word “arrangements” – dammit Pitchfork, wtf does that even mean?!? So I’m going to try my best not to fall into douchebaggery and be completely straightforward about this intensely beautiful album.

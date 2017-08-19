@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope interviews Dr Fuchter, a synthetic and medicinal chemist at ICL
 date: "2013-05-08 16:36:43 +0100"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3550"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Dr Matthew Fuchter is a Senior Lecturer in Synthetic and Medicinal chemistry at Imperial College London. In close collaboration with Dr Alasdair Campbell from the department of Physics Dr Fuchter and his research group have dedicated some of their research to OLEDs and a group of molecules known as helicenes.

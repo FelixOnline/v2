@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matt Colvin and Simon Worthington attempt to enjoy Sonic The Hedgehog 4. They fail...
 date: "2010-10-21 19:35:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "245"
@@ -34,15 +35,6 @@ image_height: "819"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Poor Sonic has been having a bit of a rough time recently. Despite Mario and Luigi continuing their Godfather-esque dominance over pretty much any market they lay their eyes upon, their spiky blue hedgehog nemesis has enjoyed some high-profile, big-budget releases. However with a menagerie of arbitrary supporting characters, a silly oversized sword and a transformation into a credulity-stretching “werehog” to name but a few ‘major innovations’ to the franchise, it’s no surprise that recent instalments have failed to make the dash to success.

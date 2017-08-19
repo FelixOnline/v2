@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paolo Sorrentino’s touching tragicomedy deserves more praise than it has recieved
 date: "2016-02-05 12:25:17 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5875"
@@ -34,15 +35,6 @@ image_height: "1664"
 image_attribution: "StudioCanal/Youth PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 L_a Grande Bellezza_ (_The Great Beauty_), was undoubtedly a masterpiece. Filled with art and symbolism, it left us in awe, as Italian director Paolo Sorrentino reflected upon life and death. This is partly why _Youth_ is so widely anticipated, and also why it has received merely good or average reviews. _Youth_, however, although contemplating similar themes, is different in the sense that it was never intended to be as extravagant. Instead, Sorrentino aims for a lighter, more straight-forward, simple film. And that’s what most have failed to realise. In the end, Sorrentino’s touching tragicomedy, accompanied by virtuoso acting, deserves more praise than it has thus far received.

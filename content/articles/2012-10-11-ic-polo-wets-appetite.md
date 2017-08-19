@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Savell, Riding and Polo chair reports
 date: "2012-10-11 21:24:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2674"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This year’s summer weather wasn’t the greatest for polo and for the first time in a number of years the weather forecast looked extremely grim when we headed off to Royal Leamington Spa for the Schools and Universities Polo Nationals. On the upside the Jubilee weekend fell perfectly to give us a full four days of play and a chance to get through even with the looming rain. We pitched our tents at midnight on Friday under the headlights of the union minibus and started a few relaxing drinks and cigars as the rain began to come down.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Heath also outlines plan to introduce Postgraduate Sabbatical Officer
 date: "2012-05-04 01:22:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2427"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Thomas Lim"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The latest meeting of the Student Union Council was held this Tuesday. One of the issues which dominated the meeting were the changes to the teaching day announced by the College Management Board on the 28th of March. The board has decided to phase out the current noon to 2pm undergraduate lunch time slot, "beginning with first year students in 2012-13, and extending to second year students in 2013-14 and to third year (and above) students in 2014-15". Instead, individual departments will each choose the time when their students have a lunch hour.

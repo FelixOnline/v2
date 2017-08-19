@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken talks religion, writing, The School of Life, and pornography
 date: "2015-06-18 20:53:58 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5634"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "FT"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are not many people who can say they have set up an international school, written books that have been bestsellers in 30 countries, and given two TED talks. Fewer still can say they have re-hung an art museum and worked as Heathrow airport’s first ever writer-in-residence – but the author, documentary maker, and popular philosopher Alain de Botton can claim all of these achievements.

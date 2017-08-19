@@ -4,6 +4,7 @@ title: >
 subtitle: >
   You don't have to be a philanthropist to want to donate your organs
 date: "2012-06-14 19:42:17 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2549"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Don’t worry. I’m not going to intimidate you with statistics in order to convince you to give your organs away at death. Nor am I going to persuade you that you’ll be needing them in the afterlife. It is after all your body and it’s really none of my business what you do with it.

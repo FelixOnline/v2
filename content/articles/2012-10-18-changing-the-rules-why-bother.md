@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paul Beaumont makes the case for altering the Union Constituion
 date: "2012-10-18 21:14:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2695"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I completely accept that few will care. And, I completely accept, that, at the minute, the changes will affect very few people. Changing the Union’s Constitution is important though – and, as well as explaining why I want to do it, I’ll try and explain what needs changing, a little briefer than the four thousand word ‘guide to the twenty-thousand-word constitution’ I’m proposing.

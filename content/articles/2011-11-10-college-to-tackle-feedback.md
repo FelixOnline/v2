@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1707"
@@ -33,15 +34,6 @@ image_height: "2372"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 The issue of assessment and feedback at Imperial has been addressed at this year’s Rector’s Away Day.

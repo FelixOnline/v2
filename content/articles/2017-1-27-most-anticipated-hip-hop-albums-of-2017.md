@@ -4,6 +4,7 @@ title: >
 subtitle: >
   2016 was an outstanding year for hip-hop and urban culture, with all the major players dropping projects. Even artists like J. Cole and Frank Ocean rediscovered their ability to actually release some music. In the UK, the grime and urban scene continued to flourish. It seems like an impossible task
 date: "2017-01-27 16:53:59 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6698"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "The Come Up Show"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## 10. Lil Wayne | Tha Carter V

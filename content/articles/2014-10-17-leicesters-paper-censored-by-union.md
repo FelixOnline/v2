@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Phil Kent reports
 date: "2014-10-17 15:17:34 +0100"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4738"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Controversy has broken out at the University of Leicester over an attempt to censure its student paper, The Ripple, by the students’ union at Leicester. In an editorial posted on the paper’s website, Editor in Chief Jess Buckley expressed her disappointment with the Leicester union’s decision to hold back publication by 72 hours whilst the executive committee determined if a story on the front page violated a number of rules. Unlike at Imperial, media groups at Leicester are required to have their output approved by the Union prior to publication or broadcast following the introduction of a “Media Constitution” . The article in question related to criticisms of the ongoing elections at the university, asking whether “there is a lack of engagement”. According to the Ripple, the union accused the paper of writing a number of inaccuracies and violating the constitution. Upon probing as to what exactly the offending text was, no concrete answer was provided.

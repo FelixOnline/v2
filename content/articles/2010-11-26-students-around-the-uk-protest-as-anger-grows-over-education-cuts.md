@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Olivia Ribeiro and Kirsty Seager on the student protests at Whitehall
 date: "2010-11-26 07:26:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "452"
@@ -33,15 +34,6 @@ image_height: "2519"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Students have once again [clashed with police](http://felixonline.co.uk/gallery/?albumID=5) during protests over proposed changes to higher education. The protest, the second this month, planned to target the Liberal Democrat headquarters in central London.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonathan Masters on the NUS initiative to encourage students to vote against “pledge breakers”
 date: "2015-05-01 00:11:44 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5478"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you paid attention to your news feed in the last week, the likelihood is that the story of the National Union of Students (NUS) spending £40,000 on a campaign against the Liberal Democrats has come across your radar.

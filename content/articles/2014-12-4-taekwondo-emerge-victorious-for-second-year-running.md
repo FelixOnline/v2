@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the hosts of the third Imperial College Open Taekwondo Competition, the club secured their second victory in a row
 date: "2014-12-04 20:42:16 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5013"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "IC Taekwondo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The 10th anniversary of the Imperial College Taekwondo society got off to an explosive start over this past weekend, with the hosting of the third annual Imperial College Open Taekwondo Competition.

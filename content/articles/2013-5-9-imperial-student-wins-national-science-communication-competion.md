@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Next stop The X Factor?
 date: "2013-05-09 12:01:17 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3557"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College’s Leon Vanstone has been crowned the UK’s FameLab champion 2013. In this annual hunt for the nation’s best science communicators, each contestant has exactly three minutes to impress a panel of three judges. They may explain any scientific concept but cannot use assisting slides or large props. This year the standard was very high and Leon didn’t expect to beat the other ten finalists. However he won over the judges with his truly genuine enthusiasm when describing the landing of NASA’s Mars Curiosity Rover.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eastern Boys, Robin Campillo’s sophomore effort, is a chameleon of a film, that flits from genre to genre; over its two hour running time, it skips from home invasion drama, to tender love story, before climaxing in a finale worthy of a Hollywood thriller.
 date: "2013-11-15 11:39:03 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4085"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Eastern Boys

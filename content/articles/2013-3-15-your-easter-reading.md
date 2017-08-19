@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski recommends five books to take you through the Easter break (if you’re not revising, that is)
 date: "2013-03-15 01:38:17 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3478"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 __The City and the City__

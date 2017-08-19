@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam looks at why the open source mantra is so confused
 date: "2010-05-28 10:28:32 +0100"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "140"
@@ -34,15 +35,6 @@ image_height: "314"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 If you’re unfamiliar with the concept of open source software, you’re definitely not alone. In a market full of expensive consumer electronics that are locked down and bound to carriers and application stores, the concept of releasing the code to software that has taken you hundreds of hours to create may seem unintuitive, even silly. Yet despite the unorthodox business model that it engenders, open source software is surprisingly successful. A Linux server is probably behind a majority of websites you browse daily, whilst open-source Android powered smartphones have recently begun outselling the iPhone in the US. Yet despite a few notable exceptions, the concepts behind open source are opaque to the average consumer, which is in my opinion, to the detriment of the entire movement.

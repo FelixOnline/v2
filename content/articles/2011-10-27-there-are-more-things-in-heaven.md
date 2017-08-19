@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Raftery argues against the common misconceptions about the afterlife
 date: "2011-10-27 23:55:33 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1625"
@@ -34,15 +35,6 @@ image_height: "259"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In last week’s edition of Felix, the comment piece [‘The Hell of Heaven’](http://felixonline.co.uk/comment/1568/the-hell-of-heaven/) asked this question to those who hope for an afterlife: “Would you enjoy heaven?” In this article, I’m aiming to clear up two common misconceptions about what Christians believe by offering a picture of what the Bible actually says about our eternal future. By the end of it, I hope that you’ll have a good impression of whether or not I think I’ll enjoy heaven, and why. (NB: I’m not addressing the question of whether there is life after death, because that wasn’t the question asked by last week’s article. However, that could be the subject of some fruitful debate in the future.)

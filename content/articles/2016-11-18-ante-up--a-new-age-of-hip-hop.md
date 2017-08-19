@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is hip-hop finally casting the spotlight on mental health issues, violence and gender identity?
 date: "2016-11-18 15:42:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6483"
@@ -33,15 +34,6 @@ image_height: "1000"
 image_attribution: "Antonio Rull"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For a form of music so deeply rooted in a culture of self-certainty and dazzling bravado, you might not expect artists of the genre to be tackling sensitive issues relating to isolation, depression, violence and substance abuse. This however, is exactly what we’ve seen take place with fresh new artists championing the cause to give these issues a well-deserved place in the spotlight.

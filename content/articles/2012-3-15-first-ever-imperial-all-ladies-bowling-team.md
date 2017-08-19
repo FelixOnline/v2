@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Brand new team strikes gold in latest competition
 date: "2012-03-15 22:19:26 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2397"
@@ -33,15 +34,6 @@ image_height: "285"
 image_attribution: "A team victorious"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last November, bowlers from Imperial College London competed at the regional BUTBA (British University Tenpin Bowling Association) competition and blazed the lanes, emerging as 1st runners up. Congratulations to Christopher Chan who bowled an average of 211, ranked 2nd overall and to all the other 11 bowlers who have fought their best. The team has advanced to the 2nd round of BUTBA.

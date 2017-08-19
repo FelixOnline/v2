@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial students enjoy Cumberbatch’s performance without leaving campus
 date: "2015-10-23 11:46:29 +0100"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5672"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everyone’s had that moment when you wake up and just cannot be bothered to get up, get dressed and make it to your 9am lecture. So instead you decide to stream it live from home via Panopto. When Imperial Cinema decided to take part in National Theatre Live and stream Benedict Cumberbatch’s Hamlet from the Barbican straight into the Union Concert Hall, it was all these students that thought ‘Score! I don’t have to travel across central London to watch this, I can just watch it from the union!’

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Back this week from fighting the patriarchy, Angry Grad asks why we aren’t all embracing equal rights
 date: "2015-11-13 14:25:24 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5722"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Fox Searchlight"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 While my usual pieces have a satirical take on pop culture, this week, I thought it was about time my graduate anger is channelled towards an issue that actually has some weight. From the recent uproar regarding VAT on sanitary products, to men, mental health and suicide, you must have been living in a pineapple under the sea to be oblivious to the media frenzy surrounding gender equality lately.

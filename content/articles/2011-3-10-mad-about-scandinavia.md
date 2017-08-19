@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nigel Kheng Wei Hehn and Ricki Calel review Madsen, a Scandinavian restaurant in the heart of South Kensington
 date: "2011-03-10 20:58:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1079"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: "Audrey Chew "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Getting tired and sick of the same old fast food? Here’s a change for your taste buds going into the toughest second term of your life.

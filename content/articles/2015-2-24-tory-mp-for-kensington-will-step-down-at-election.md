@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sir Malcolm Rifkind also resigns immediately from post of Chairman of the Intelligence and Security Committee
 date: "2015-02-24 16:42:50 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5307"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sir Malcolm Rifkind has resigned as Chairman of the Intelligence and Security Committee, a parliamentary committee, and will step down as Kensington’s MP at the end of this parliament. This comes after criticism over “cash-for-access” claims directed at the senior politician (as well as Labour MP Jack Straw). Sir Malcolm had represented the Kensington constituency since 2005. He has already been [suspended](../news/5306/-kensington-mp-suspended-from-tory-party/) as a member of the Conservative party.

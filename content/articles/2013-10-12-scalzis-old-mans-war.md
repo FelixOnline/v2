@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Scalzi is one of the highest profile science fiction authors alive. A prolific writer, he was also President of the Science Fiction and Fantasy Writers of America, consulted on the hit TV show Stargate Universe, maintains a hugely popular blog and is an outspoken activist for many good...
 date: "2013-10-12 00:10:35 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3836"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 John Scalzi is one of the highest profile science fiction authors alive. A prolific writer, he was also President of the Science Fiction and Fantasy Writers of America, consulted on the hit TV show Stargate Universe, maintains a hugely popular blog and is an outspoken activist for many good causes. It was therefore with high hopes that last year I picked up Redshirts – one of his latest novels, which recently won the Hugo award. Unfortunately the reality did not live up to the hype – it was, effectively, a single Star Trek joke stretched out to fill 300 pages, with uninspired characterisation and insipid prose. Over time, however, I began to suspect that I might have judged Scalzi too harshly and that it might be worth giving a writer of his reputation another chance. Therefore, I recently read Old Man’s War – his first ever novel.

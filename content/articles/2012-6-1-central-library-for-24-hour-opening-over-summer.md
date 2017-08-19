@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Work around the clock?
 date: "2012-06-01 12:04:02 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2507"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For the first time in Imperial College history, the Central Library will continue its [24-hour opening times throughout the summer holidays](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/library/newssummary/news_17-5-2012-10-25-51). Imperial College has decided to keep its library door open to students who wish to use the library, starting from 30 June through until 30 September.

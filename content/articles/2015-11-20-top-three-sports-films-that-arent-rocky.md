@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We continue our selection of unappreciated gems with three alternative sports films
 date: "2015-11-20 14:01:48 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5766"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Everett Collection"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 People always say the original _Rocky_ is a classic, but I’ve never really seen this. I challenge its fans to watch it again today, and tell me it’s aged well. Yes, there are some iconic scenes, but this is not because they’re good – rather it’s because the film was popular. What we have here is a serious case of nostalgia goggles. Here are some alternatives:

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken is really pedantic about making tea
 date: "2015-03-09 19:07:16 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5376"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A fresh cup of English Breakfast tea is truly something to behold. It is the liquid of the Gods and the chosen tipple of this great nation. Make no mistake; to sip a piping hot mug of English breakfast tea after a parched stretch is to know true pleasure. In the last few years I have picked up a few tips on how to best prepare ones cuppa, regardless of which type of breakfast tea you drink. So, laid out before you is a handy cut out ‘n’ keep guide to optimising your brew, if you are interested.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marcus du Sautoy provides us with an irresistible combination of anecdotes, mathematical mysteries and history in this whirlwind
 date: "2010-12-02 20:30:51 +0000"
+author_id: "kv07"
 
 # Attributes from Felix Online V1
 id: "472"
@@ -33,15 +34,6 @@ image_height: "1546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kv07"
-author_name: "Katya-yani Vyas"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In this [whirlwind of mathematics](http://www.amazon.co.uk/Finding-Moonshine-Mathematicians-Journey-Symmetry/dp/0007214618), du Sautoy provides us with an irresistible combination of anecdotes, mathematical mysteries and history. Articulately conveying his own love for the subject whilst also providing us with a plethora of mathematics, he weaves an intricate and emotive tale of the fundamental questions in mathematics.

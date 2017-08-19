@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College Chaplain Andrew Willson discusses the ongoing conversations resulting from the Occupy movement
 date: "2012-03-08 21:13:08 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2322"
@@ -33,15 +34,6 @@ image_height: "1329"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The camp of Occupy London has finally been evicted from outside St Paul’s Cathedral. I had visited the site and talked with a few people. I liked the way they focused attention on the how the current economic crisis is being handled. The camp highlighted the close links between the Cathedral and the City of London. Yet it also had wide support from local UK Churches. Their members feel the economic issues themselves and hear the stories of hardship from their partner communities in developing nations.

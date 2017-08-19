@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stoker
 date: "2013-03-08 00:03:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3453"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Park Chan-Wook’s long-awaited English-language film debut is a wondrous mixture of oddity, tasteful madness and gothic beauty. There isn’t a single sane, well-grounded or normal character here, and it’s that volatile family dynamic that lights the fuse and keeps the tension simmering throughout.

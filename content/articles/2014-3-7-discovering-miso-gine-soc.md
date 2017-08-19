@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix finds evidence implicating the Men’s Hockey XI 2’s team in misogynistic behaviour online
 date: "2014-03-07 04:28:58 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4450"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Joe Letts/Felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week Felix discovered the existence of “GineSoc”, the alter-ego of the Imperial Men’s Hockey XI 2’s team. After discovering a certificate of “Gine” last week on a table outside the FiveSixEight (a bar located on Union premises), we carried out further research. Our investigations revealed the existence of an “@ginesoc” twitter feed (now removed), containing an explicit avatar image and a mixture of tweets to pornographic actresses as well as tweets about hockey matches. Included in the twitter feed were an invitation for a porn actress to visit Imperial College Union on a Wednesday night if she “ever want[ed] a good time in London” and a request for a shout out from Select UK Radio to “ginesoc hockey club, listening on the way back home from a big 4-2 win”

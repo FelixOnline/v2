@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This week sees the start of a retrospective of Luis Buñuel, the radical Spanish filmmaker, at London’s ICA. We take a look at the director’s life and work, identifying the key themes at play in his films: sexuality, satire, and surrealism.
 date: "2015-11-20 09:16:21 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5751"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "MUBI"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Luis Buñuel Portolés was a Spanish filmmaker who worked in Spain, Mexico, and France. Born in 1900, at the very beginning of the new century, he lived to witness two world wars, as well as the liberation of Spain from Francisco Franco’s 36-year-long dictatorship, before his death in 1983.

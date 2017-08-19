@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jiaqi Shi is entranced by the Royal Opera House's triple bill of dancing delights
 date: "2014-12-18 15:54:59 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5064"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In front of a warm, receptive crowd, last Friday saw the opening of an exciting programme at the __Royal Opera House__, including a new ballet by Liam Scarlett, choreographed to Bernstein’s _Symphony no. 2, The Age of Anxiety_.

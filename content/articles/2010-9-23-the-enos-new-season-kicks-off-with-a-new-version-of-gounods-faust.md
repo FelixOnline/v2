@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caz Knight is lured by the legendary Faust to the opera for the first time but is disappointed.
 date: "2010-09-23 10:31:31 +0100"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "159"
@@ -33,15 +34,6 @@ image_height: "1721"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 One expects one's first trip to the opera to dazzle. Or one expects to be overwhelmed by its cultural gravitas and highbrow nature. Naively thinking that opera would be free from the gimmicks and glitz of musical theatre, this reviewer's first foray into opera left a lot to be desired. Staged in the opulent and spectacular London Coliseum, the English National Opera have teamed up with the Metropolitan Opera, New York, to create Gounod's _Faust_ and begin the ENO's new season 2010/11.

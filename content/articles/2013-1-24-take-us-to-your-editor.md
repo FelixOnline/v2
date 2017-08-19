@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Webster is ready for the probing
 date: "2013-01-24 21:07:03 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3156"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Assuming that it’s not just your mothers that read Felix, you’ll probably be aware of the simulator surplus that has hit the Felix office. Well, [Excalibur Publishing](http://www.excalibur-publishing.co.uk/) (those lovely folk who send us these games) also publish real games. Sorry if I sound condescending to you hardcore sim-junkies (you know who you are, and I’m putting a padlock on the games chest), but these are actual games. (Let’s ignore the fact that [Farming Simulator 2013](http://www.youtube.com/watch?v=jqa6rhHfaV4) was the best selling game on Steam last week.)

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lara Meade introduces the festival put on at Imperial
 date: "2013-05-23 22:33:11 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3621"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Summer is on its way and festival season is nearly upon us. Do you long to frolic in the sunshine with live music, alcohol and food… but don’t want to spend a fortune? Have your heard of Silfest?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They too a photo in a galaxy far, far away...
 date: "2015-01-23 17:54:37 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5136"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "NASA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Hubble space telescope has taken the highest resolution image ever made of a galaxy. The image is so detailed that it’s possible to resolve individual stars in a 61,000 light-year wide panorama.

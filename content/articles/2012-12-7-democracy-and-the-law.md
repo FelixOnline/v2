@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The EU’s implementation of “equality” legislation is undermining national democracy, argues, Christopher Kaye
 date: "2012-12-07 02:36:16 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3051"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Women are safer drivers. That is a fact backed up by overwhelming statistical evidence. By being male I pay more for my car insurance.

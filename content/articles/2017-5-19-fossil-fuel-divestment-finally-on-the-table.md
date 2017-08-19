@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fossil fuel funding may soon be withdrawn
 date: "2017-05-19 14:57:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6970"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following the resurrection of the Imperial divestment campaign, a paper brought to this week’s Union Council meeting set out proposals for the future of fossil fuels at Imperial.

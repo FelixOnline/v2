@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The DayZ standalone has been released, and given the amazing stories that occur in that game, I decided to make a kind of series out it! So here it goes:
 date: "2014-02-12 12:08:33 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4371"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you want to read about the start of Anna's tale, here is the link: [Episode 2: Anna's Hunger](../games/4336/episode-2-annas-hunger/)

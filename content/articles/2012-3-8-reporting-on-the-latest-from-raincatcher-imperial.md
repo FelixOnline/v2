@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Following on from the success of their recent Metric Night, Raincatcher is busy obtaining sponsorship for the ambitious Water Carry Walk
 date: "2012-03-08 21:15:26 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2323"
@@ -33,15 +34,6 @@ image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the latest fundraising endeavour, open to both Raincatcher members and members of the public, each person will carry 10 litres of water approximately 10 miles from Tower Bridge to Imperial College. The Water Carry Walk is taking place this Saturday (10 March) so it’s not too late to join in, but do get a move on! As well as being a way to collect sponsorship for our project over the summer of building a rainwater harvesting system, this event helps to highlight the importance of a sustainable water supply.

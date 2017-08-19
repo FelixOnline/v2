@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Serge Vasylechko explores the startup ecosystem at Imperial
 date: "2012-10-18 21:12:33 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2694"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two weeks ago Imperial saw the launch ICStartup - an initiative that aims to inspire a new generation of student entrepreneurs. It will act as a central hub for entrepreneurial news and events around college, connecting an otherwise disparate and rich ecosystem of societies and organizations that cater to Imperial’s entrepreneurial talent. At the core of the new framework lies an accelerator programme, ICStartup+, which will give students a chance to turn their ideas into successful startups by providing support from experienced entrepreneurs, financial backing and access to a newly refurbished office space, secretly hidden in the upper floors of Beit.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Surviving the exam period with a tasty alternative to Subway
 date: "2011-06-12 16:14:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1368"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Be honest now. You love this exam period. It’s the ultimate trump card, a super-charged get-out-of-anything free excuse accepted by everyone. Exercise? Can’t, exams. Important favours? Can’t, exams. Washing? Can’t, exams.

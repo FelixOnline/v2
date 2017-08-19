@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Fry’s claim, that women don’t cruise because they are uninterested in sex, outraged feminist groups
 date: "2010-11-11 21:41:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "366"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Thou shalt not question Stephen Fry? Oh dear, I may as well go watch Hollyoaks and eat a Kit Kat. While we’re at it, the Beatles aren’t just a band – they are a way of life.

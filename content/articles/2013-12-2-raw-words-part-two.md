@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The second installment of Eoghan Totten’s short story
 date: "2013-12-02 22:11:55 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4166"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The years continued to roll on, expanding until my childhood reverie waned.

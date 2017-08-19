@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thomas Lim asks why students don’t care about the election
 date: "2015-05-04 16:14:52 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5486"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Conversations with friends around campus have reminded me that those of us keenly following the General Election are in the minority. Hardly surprising given that it’s exam season, but it doesn’t take much effort to go and vote next Thursday. What surprised me more was how people hadn’t registered, believing their vote was either worthless or would not make a difference.

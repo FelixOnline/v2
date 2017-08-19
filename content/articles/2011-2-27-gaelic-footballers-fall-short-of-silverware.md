@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Teeside 0:03 – 0:02 Imperial
 date: "2011-02-27 19:59:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "924"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Continuing on from Friday's report](http://felixonline.co.uk/sport/890/gaelic-sports-football-go-to-birmingham-/), IC Gaelic's next opponents at the BUCS Championship were Teeside.

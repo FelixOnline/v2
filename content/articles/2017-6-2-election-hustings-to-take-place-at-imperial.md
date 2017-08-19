@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fun fun fun
 date: "2017-06-02 12:25:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6982"
@@ -33,15 +34,6 @@ image_height: "1664"
 image_attribution: "wonderferret"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial will be hosting general election hustings on the 1st of June, inviting five speakers representing the Conservatives, Labour, UKIP, Lib Dems and Greens. Speakers were selected by picking the constituencies in which the most Imperial students live (Hammersmith, Kensington and the Cities of London and Westminster).

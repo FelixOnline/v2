@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An extremely solid debut, and a pleasure on the ears of anyone with a taste for bluesy folk
 date: "2011-05-12 19:03:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1201"
@@ -33,15 +34,6 @@ image_height: "350"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial’s own blues maestros, __The Tin Can 44s__, have released their first studio recording: a five-track gem called _The Speak Easy EP_. Everyone who attended the first [Felix Music Night](https://www.facebook.com/pages/Felix-Music-Nights/184739408223656) on the 19th of February will remember The Tin Cans as “that wild bunch of whiskey-swiggers” that kept us grooving during the totality of their tight, raw set. Pretty damn classy, indeed. Their EP was recorded over two day sessions at Alchemea Studios in Angel, Islington, and is available for free up on their Bandcamp.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Medicine can become a routine of life stories, lectures and feet. But sometimes, a patient can surprise you
 date: "2011-03-01 20:57:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "961"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’d like to share with you, if I may, an episode from my life as medical student. No, stop, don’t run away! It’s not that bad, I swear. There may even be a moral at the end of it.

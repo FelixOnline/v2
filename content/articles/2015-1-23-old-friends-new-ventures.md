@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Food is always the best way to catch-up
 date: "2015-01-23 18:37:09 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5144"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the last fortnight I’ve had the pleasure of meeting up with my former colleagues from Earl’s Court on two separate occasions. The weekend before term, a work junior of mine invited me for a catch-up cocktail to gossip about changes at my old workplace.

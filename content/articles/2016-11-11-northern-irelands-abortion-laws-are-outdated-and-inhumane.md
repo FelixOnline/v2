@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Purdy discusses the archaic abortion laws of Northern Ireland and the obstacles in getting them changed
 date: "2016-11-11 13:57:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6422"
@@ -33,15 +34,6 @@ image_height: "885"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For generations the gears of the political systems in Northern Ireland have been oiled by religion. Northern Irish politicians have interweaved their self-perceived concepts of morality (determined by their personal religious beliefs) into the politics of the country. The religious beliefs of the country’s politicians have profoundly affected the passage of many pieces of legislation through parliament, which has lead to the isolation, discrimination and, at times, social persecution of those who do not conform to these beliefs. Laws surrounding abortion are a prime example of this.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's happening, people.
 date: "2016-05-06 10:09:37 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6128"
@@ -34,15 +35,6 @@ image_height: "2000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 After Måns Zelmerlöw’s victory for Sweden in Vienna last year, this year sees “Europe’s favourite TV show” head to Stockholm for the third time in the competition’s history, and it’s set to be a big one! We’ll also see a massive change to the voting system, with each country awarding two sets of points each: one from their televote, one from their professional jury.

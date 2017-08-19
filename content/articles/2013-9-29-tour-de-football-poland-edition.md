@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Spencer Bennett goes on a lads holiday (they even got matching shirts)
 date: "2013-09-29 16:30:55 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3791"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Maciej Witkowski"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Tour began on the final Friday of the summer term. Amongst the celebrations, that are usual at this time of year, there was a sense of trepidation amongst some of the younger members of the touring party. What lay ahead was the football club’s summer tour to Poland by the end of which this feeling of trepidation had been truly justified.

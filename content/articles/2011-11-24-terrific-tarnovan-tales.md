@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Exploring the “Old Capital” of Bulgaria to discover the deep-seated history of a state abundant in old-fashioned splendour and beauty
 date: "2011-11-24 20:13:14 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1801"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Veliko Tarnovo is one of the oldest settlements in Bulgaria, dating back at least five million years. Nicknamed ‘the Old Capital’, this timeworn city sits in a mountainous region of northern Bulgaria, surrounded by forestry and wildlife unlikely to be seen almost anywhere else in Europe.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola takes on the ENO's gospel interpretation
 date: "2014-12-18 16:07:12 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5067"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two huge, historically successful institutions which have recently lost their appeal, their relevance and many of their dedicated followers: Opera and Christianity. What better way to show the reviving powers of art than to create an exciting, contemporary opera about the Passion of Christ? As pretty much everything in this new piece by John Adams, it’s a good idea with truly disastrous results.

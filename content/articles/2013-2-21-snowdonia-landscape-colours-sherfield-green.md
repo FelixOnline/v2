@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Photographic Society and Leonardo Fine Arts Society come together to host the Artsfest annual exhibition.
 date: "2013-02-21 20:55:39 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3344"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 With each passing year, the Artsfest annual exhibition increases in importance. This show is the result of a collaboration between two of the largest arts societies on campus: Leonardo Fine Arts society and Photographic society. Last week, Rocio Molina gave us an insight into the trials and tribulations of putting on an exhibition. What was the outcome?

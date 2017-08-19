@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christmas cheer all round with this festive tale
 date: "2011-12-08 22:19:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1954"
@@ -33,15 +34,6 @@ image_height: "4080"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Unless you’ve been glued to your library desk, you’ve probably seen the rows of fluorescent bulbs hanging over the streets of London and thought, “is it that time of year already?” Sure, they light up the street a little more, and let’s face it, we need that at a time of year when it gets dark at 4pm, but there must be more to it than that, right?

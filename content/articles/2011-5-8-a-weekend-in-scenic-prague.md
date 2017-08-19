@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nazi plots, fine beer, and gorgeous architecture
 date: "2011-05-08 13:26:55 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1178"
@@ -33,15 +34,6 @@ image_height: "2560"
 image_attribution: "Maksim Mijovic"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 “Not many people know this, but the Nazis had lined the tunnels underneath Prague with dynamite and were prepared to destroy it as they retreated in the face of the Red Army. Were it not for a small group of Russian monarchists who opposed them for 5 days and managed to foil the plot, all of Prague’s beauty wouldn’t exist.” We sipped our tea as Miloš continued his story. “And are they remembered today? There’s a small memorial to them, about knee-high, somewhere in the city. That’s justice for you.”

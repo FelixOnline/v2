@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If FemSoc say it wasn’t sexist, were the union’s actions justified?
 date: "2016-02-12 11:24:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5900"
@@ -34,15 +35,6 @@ image_height: "349"
 image_attribution: "Facebook / GRUPA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Here’s a picture of Malaysian PM Najib Razak. Malaysian police responded to this image by warning the author that the image was ‘offensive’. They then threatened that if he didn’t ‘act within the law’, he would be arrested.

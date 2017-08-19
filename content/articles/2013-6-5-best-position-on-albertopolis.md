@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah talks to ex-Imperial student and TEDx organiser Kadhim Shubber about organising TEDxAlbertopolis
 date: "2013-06-05 17:56:49 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3659"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 TEDxImperialCollege was a must see event. It had so much on offer (you even got your own lanyard) and must have hit home with the audience: it was trending on Twitter. Considering it contained absolutely zero Justin Bieber performances, that’s pretty special. Former Felix Editor/physics student Kadhim Shubber kindly took some time out to answer some questions. He is co-organising possibly one of the largest ever TEDx events, right on our doorsteps at the Royal Albert Hall. The team organising [TEDxAlbertopolis](http://tedxalbertopolis.com/) is almost entirely made up of Imperial alumni, and Kadhim described them as “a dream. The most intelligent, interesting and effective people you could hope to work with.”

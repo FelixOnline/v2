@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The brilliant first-person adventure game from the minds behind The Walking Dead
 date: "2016-02-19 12:24:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5945"
@@ -34,15 +35,6 @@ image_height: "1688"
 image_attribution: "Firewatch, Campo Santo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Telltale’s _The Walking Dead_ was met with critical acclaim when it was released in 2012, and arguably revitalised the dying adventure game genre. _Firewatch_ has much in common with Telltale’s game, released by Campo Santo, a studio founded by creative leads who had previously worked on _The Walking Dead_.

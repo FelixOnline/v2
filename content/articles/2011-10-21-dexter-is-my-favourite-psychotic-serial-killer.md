@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Barnett turns his pen to a less provocative subject
 date: "2011-10-21 10:42:26 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1593"
@@ -33,15 +34,6 @@ image_height: "480"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Jeff Lindsay’s book ‘Darkly Dreaming Dexter’ (which I’m told is very good) is the basis for Showtime’s multi award winning program Dexter. The protagonist, who gives the show its name, is cunning, brutal and funny. By day he’s a blood spatter analyst for Miami Metro Police Department. By night, a serial killer. What sets Dexter apart from other protagonists is that he’s a normal human - he makes mistakes: he’s no Jack Bauer or Michael Schofield (24 and Prison Break, respectively).

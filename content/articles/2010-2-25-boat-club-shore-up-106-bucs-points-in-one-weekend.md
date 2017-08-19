@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Incredible weekend for rowers
 date: "2010-02-25 19:04:58 +0000"
+author_id: "mb506"
 
 # Attributes from Felix Online V1
 id: "109"
@@ -33,15 +34,6 @@ image_height: "1296"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mb506"
-author_name: "Mustapher Botchway"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year’s BUCS Championship and Beginner’s Head was a successful one for Imperial. There were three golds, two silvers and two bronzes, as well as several other top ten placings.

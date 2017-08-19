@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Can comedy instigate political change?
 date: "2016-11-07 13:47:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6410"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "TBS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Does comedy television have the power to change political conversation? On the face of it, the purpose of satirical news is to reflect the headlines, draw humour from what seems often to be ever deepening pit of despair. ‘Look up, do you see it? Way up there- that’s rock bottom,’ remarked John Oliver a few weeks ago on _Last Week Tonight_ in response to the latest Trump scandal.

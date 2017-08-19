@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Il trovatore is on at the Royal Opera House until the 4th of February 2017
 date: "2016-12-09 15:56:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6586"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Catherine Ashmore"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Il trovatore is a classic opera by Verdi, one of the most regularly performed in the operatic repertoire today. It is the sort of opera that has fuelled the caricatures of the art form – it is confusing, extravagant, and filled with impassioned singing, known as much for its convoluted plotline as for its musical beauty.

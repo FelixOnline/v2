@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Michael Krestas shares his top ten resolutions for a healthier, tastier year!
 date: "2012-01-19 21:35:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2031"
@@ -33,15 +34,6 @@ image_height: "1197"
 image_attribution: "alegriphotos.com"
 image_attribution_link: "http://www.alegriphotos.com/Red_fruit_pulp-photo-e1e929efc76b2db80206486d55794125.html"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __1. I shall not skip breakfast again__

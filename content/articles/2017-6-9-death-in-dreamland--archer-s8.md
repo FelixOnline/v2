@@ -4,6 +4,7 @@ title: >
 subtitle: >
   a story about a Private Dick in every sense of the word
 date: "2017-06-09 15:08:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7016"
@@ -33,15 +34,6 @@ image_height: "711"
 image_attribution: "FX - Floyd County Productions"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The ever popular action-spy-office-whatever comedy returns for yet another season; one that again opts to change the show’s setting altogether. Given the show’s relatively niche premise, and its ever-falling viewership, it’s quite impressive that it has made it this far. It has even managed to be renewed through till a tenth season. Not that I’m complaining, given that I’m a huge fan of the series. Over the past few seasons, however, the creative fatigue has become clear, with the show’s creator, Adam Reed, being quite vocal that he’d like to move onto something different. It is no surprise then, that Reed uses season seven’s cliff-hanger to completely renew Archer’s central premise, going even further than past efforts like Vice.

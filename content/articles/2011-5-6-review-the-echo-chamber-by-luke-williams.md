@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A beautifully woven reflection on a life of regret and unresolved identity
 date: "2011-05-06 08:52:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1163"
@@ -33,15 +34,6 @@ image_height: "2244"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Luke Williams’ debut novel, The Echo Chamber, is a beautifully woven reflection on a life of regret and unresolved identity. Across continents and generations, our misunderstood protagonist Evie Steppman crosses paths with many remarkable people that serve to shape her history, and the history of the world. That wealth of cacophonous memories, heavy on our heroine’s heart, is recounted through a curious medium: sound.

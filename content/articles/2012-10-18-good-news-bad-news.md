@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Bryne discusses our hopeless optimism
 date: "2012-10-18 21:20:32 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2701"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Do you want the good news or the bad news first? The bad news is that we are all hopeless optimists; but on the positive side, research published in PNAS last month suggests we can be cured.

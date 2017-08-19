@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Recovering from food poisoning in the remote Chilean outback, Priya Garg retells some of the prominent anecdotes circulating South America’s beloved gringo trail
 date: "2011-03-21 12:04:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1123"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Mendoza is a cosmopolitan city in the north of Argentina, crushed by an earthquake and rebuilt from the foundations, leading to expansive sunny reading parks with blue tiled fountains, cathedrals, large plazas and shopping malls. In the parks lie big wooden chests in which you can pick out copies of anything from 'Teach Yourself Spanish' to 'The Life History of the Bin Ladens' and settle on a bench, reading on a warm spring afternoon. On every street corner you will find a carved cathedral and a ‘helado’ shop, selling you ice-cream in any flavour from tiramisu, to lemon meringue pie, flan and ‘Bariloche’ chocolate.

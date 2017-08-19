@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Little Matchgirl is on at the Sam Wanamaker Playhouse until the 22nd of January 2017
 date: "2016-12-09 15:57:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6587"
@@ -33,15 +34,6 @@ image_height: "4400"
 image_attribution: "Steve Tanner"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Emma Rice has encapsulated the spirit of the season in the Sam Wanamaker Playhouse’s Christmas production of The Little Matchgirl and Other Happier Tales, and it’s not as jubilant as you might expect. The artistic director has baked together several of Hans Christian Anderson’s tales to create a composite piece, which in her own words is a "theatrical Christmas pudding of many flavours". The stories take us on a turbulent emotional journey; the play opens with Thumbelina, a heart-warming tale of triumph in the face of adversity. The miniature heroine is delicately puppeteered by Bettrys Jones, and the adventure is flecked with comedy by the double act of Kyle Lima and Jack Shalloo who we encounter as garrulous toads and later as pompous beetles. There are moments of genuine fright, none more so than when Thumbelina is taken hostage by a depraved mole; the caprices of the plot are unexpected and leave you at the edge of your seat.

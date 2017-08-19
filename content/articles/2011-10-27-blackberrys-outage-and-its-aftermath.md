@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets
 date: "2011-10-27 22:40:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1617"
@@ -33,15 +34,6 @@ image_height: "1409"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 During the evening of Monday October 10 you were possibly one of the frustrated Imperial students that couldn’t get their BBM working. That was [the day on which all BlackBerry devices lost their email and BlackBerry Messenger services](http://felixonline.co.uk/tech/1563/the-blackberry-crumble/). Some devices lost internet access as well, leaving many bewildered students unable to update their Facebook statuses or tweet any random thoughts. The situation stretched on, and became much more irritating when on early Tuesday morning these student BlackBerry users had no means to entertain themselves during lectures. Later that day there was an announcement by [RIM](http://www.rim.com/) stating that the issue had been resolved. This probably brought hope to those who had been yearning to have their fully functional smartphones back, however, right after that announcement the delays and outages spread worldwide. These outages would end one day later with all services being restored, but leaving many displeased users all across the world.

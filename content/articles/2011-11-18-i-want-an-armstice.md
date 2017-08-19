@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We have a new generation of mourners
 date: "2011-11-18 00:32:21 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1798"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, we marked the death of millions of soldiers. They had all died in action at some point in the last 93 years, since the start of the First World War. The eleventh day of the eleventh month has been marked in this way for years. In fact, only a handful of people currently alive today were also alive when it was not. You might think that as those who were there in WWI start to die, the seriousness would start to wane, that the idea would start to lose its punch. Even as children we were all acutely aware of the significance but also the distance from us. But have you noticed recently how the tone has changed?

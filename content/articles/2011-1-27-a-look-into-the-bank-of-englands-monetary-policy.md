@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shiang Jin Chin argues that the central bank’s critics on the right are wrong to advocate fiscal tightening in the midst of a weak economy and high unemployment
 date: "2011-01-27 19:30:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "670"
@@ -33,15 +34,6 @@ image_height: "1181"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Bank of England (BoE) has kept rates at record lows of half a per cent for almost two years. Its ‘quantitative easing’ has purchased assets totaling £200 billion in the last eighteen months. Interest in this extremely loose monetary policy sparked recently when the latest UK Consumer Price Index (CPI) figures showed an annualised rise of 3.7% in December – above the already high previously forecast of 3.4%. A loose monetary policy may have two severe side effects. Firstly, it risks overheating the economy, creating bubbles in the stock market and property markets that force the economy into downturn upon bursting. Secondly, it broadens the monetary base; a cause of high inflation.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking forward to your hot date? Philippa Skett explains why
 date: "2013-02-07 23:28:13 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "3261"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Love is a many-splendored thing, according to experts. As someone who considers themselves a scientist and, depending on how many glasses of wine I have had, someone who has been in love, this week of all weeks I couldn’t help but wonder, what exactly is love? Does it benefit us as a species? Is it an evolutionary hangover regarding altruism and mating preference, skewered by social etiquette? Or is it selfishness, projected on someone as a need to be with them, but in reality an obsession to obtain their gametes for you, and only you, and not share these amazing genes with anyone else? These certainly cross my mind whenever I am eyeing up someone in Metric, but for others it may not be as crystal clear.

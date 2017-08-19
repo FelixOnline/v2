@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christopher Nichols on why we should save the badgers from culling
 date: "2012-02-02 19:29:32 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2089"
@@ -33,15 +34,6 @@ image_height: "463"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Late last year, the environment secretary Caroline Spellman announced that badger culling would go ahead in 2012 in an effort to combat bovine tuberculosis (TB). Now that the locations of pilot culls have been named, the scheme is suddenly becoming a reality, but is the cull justified and will it be effective?

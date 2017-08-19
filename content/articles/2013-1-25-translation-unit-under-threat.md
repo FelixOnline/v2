@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Petition to save Unit gets over 4,700 signatures in just one week Members of staff now unsure of their future
 date: "2013-01-25 01:04:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3173"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [Imperial College Management Board](http://www3.imperial.ac.uk/secretariat/collegegovernance/governancestructure/management) has announced the proposed closure of the [College’s Translation Studies Unit (TSU)](http://www3.imperial.ac.uk/humanities/translationgroup). Founded in 2001 to provide teaching for the College’s new MSc in Scientific, Technical and Medical Translation, the only such degree in the country, it now oversees the studies of over a hundred Masters and Doctorate students. A period of consultation regarding the fate of the Unit began last Friday and is set to run until February 18. All applications to courses run by the unit have been suspended and while the College say that they hopes the Unit will be able to find a home at a different institution it admits that, if this should prove not to be possible, it might be closed permanently.

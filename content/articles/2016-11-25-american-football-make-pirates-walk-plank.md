@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If you know what I mean
 date: "2016-11-25 14:52:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6517"
@@ -33,15 +34,6 @@ image_height: "1169"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has been a rough road for the IC Immortals, recently relegated from the highest tier of American Football in the country, to Division one. Immortals have now had the sweet taste of victory that had been missed so dearly.

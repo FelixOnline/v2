@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Cross Country go running in Brighton
 date: "2014-11-24 20:16:32 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4951"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I hope the pun in the title will be more welcome than it was at the disgustingly early hour of 05:30 at Clapham Junction on Sunday 16th November. It was at this hour that 40 members of the Imperial Cross Country and Athletics Club met to make the trip to the Brighton 10k 2014, well before the opening of any coffee shops and tube stations and at the same time as most young people stagger home after a mental Saturday night out.

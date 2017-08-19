@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Can Hermione cast off her robes?
 date: "2012-10-11 21:04:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2662"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Adapted and directed by the author himself, Stephen Chbosky’s The Perks of Being a Wallflower is an enthusiastic, somewhat rushed, American teenage rite-of-passage story. Although a good premise and a best-selling novel, the film itself is distinctly over-full and does appear to have been put together a little hastily – or not edited well enough to reduce the book to film length. That said, this modern classic tale is generally well acted and well scripted.

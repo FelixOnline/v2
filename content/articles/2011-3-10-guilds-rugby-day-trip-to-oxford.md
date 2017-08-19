@@ -4,6 +4,7 @@ title: >
 subtitle: >
   C&G Rugby: C&G 44 – 29 Balliol College
 date: "2011-03-10 21:02:27 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1080"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After a convincing win over the RSM last term, the City & Guilds RFC took on Balliol College, Oxford in the annual Gin match. It was to be a day of records; the most number of referees seen in a rugby match and the greatest number of bottles of Gin drunk in one evening. The authoritative word of vice-captain Graeme Ridler stated that the team would meet at 11.50am only for Ridler himself to arrive late.

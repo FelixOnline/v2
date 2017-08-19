@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jamie Williams visits his local Chinese gem in Earl’s Court in hope of an alternative to the West End
 date: "2010-11-25 20:34:44 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "432"
@@ -34,15 +35,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The 12th November, 4:48 pm: e-mail received asking me to review Mr Wing, a Chinese restaurant in Earl’s Court.

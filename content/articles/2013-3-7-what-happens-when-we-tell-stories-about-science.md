@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We were going to examine the relationship between science and narrative, and see science escaping from the lab into the ‘real’ world...
 date: "2013-03-07 21:17:39 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3422"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 What does happen when we tell stories about science? That was the question the panel of academics attempted to answer at the LSE/Imperial Literary Festival event last Wednesday evening.

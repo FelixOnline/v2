@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The ICC has been searching for the perfect World Cup format for years
 date: "2015-02-12 22:52:59 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5244"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "PA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If there is one thing that can be said about the ICC Cricket World Cup, it’s that over the years, the International Cricket Council (ICC) themselves have been very unsure over what the best format is. A large amount of this has been down to the debate over how many teams there should be in the World Cup. The governing body is keen to downsize, whereas the Associate nations are, predictably, not.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2681"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 July 2012 saw thirty intrepid Imperial College Hockey Club members travel to Portugal for two weeks of sun, sea, sand and hockey. This followed on from successful tours to Malaysia, Croatia/Slovenia and India in the last three years.

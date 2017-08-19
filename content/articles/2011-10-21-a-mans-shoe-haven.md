@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matthew Allinson tackles the hell of the High Street and finds heaven at Offspring
 date: "2011-10-21 10:24:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1588"
@@ -34,15 +35,6 @@ image_height: "333"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I rather like shoes, which is a problem because buying shoes is usually the low point of any shopping trip, especially for men. I guess we buy fewer shoes and don’t spend as much money on them, and thus as inferior customers get massively inferior treatment in shoe shops.

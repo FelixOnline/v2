@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Christy Kelly examines whether poppies are an appropriate symbol of remembrance
 date: "2014-11-06 18:32:08 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4764"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Recall the scene from the Wizard of Oz where the Wicked Witch of the West hinders the progress of Dorothy and company by sending them to sleep in a field of poppies. Does this not encapsulate a basic – symbolic – truth about these flowers? Pace John McCrae of In Flanders Fields fame, the soporific effect of the plant has been attested to since antiquity and has so associated itself with the drug that it wormed its way into the Latinate nomenclature: Papaver Somniferum. In fact, the remembrance poppies are of a different species to their brethren – source of the opiates – but forgive me if I dismiss this as pedantry (outside the field of botany where it is no doubt important).

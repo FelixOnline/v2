@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sophia David argues that Humanities could be negatively affected by the proposed changes
 date: "2011-01-20 20:58:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "639"
@@ -34,15 +35,6 @@ image_height: "2304"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For many students, the option to balance their science degrees with humanities subjects is fantastic opportunity offered to ensure they acquire the widest range of skills during their time here. However, some of the [proposed timetable changes](http://felixonline.co.uk/?article=594) could increase the pressure on humanities students. It is critical that the panel overseeing the proposed timetabling changes recognise the importance of humanities to students, both in terms of enjoyment as well as the development of skills and improved employability that comes with the classes.

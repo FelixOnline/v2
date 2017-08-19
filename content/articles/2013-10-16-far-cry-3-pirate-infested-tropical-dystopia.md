@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Take your short-range flamethrower to set nearby enemies on fire or be more strategic and beset pirates by setting a whole cove on fire.
 date: "2013-10-16 14:13:31 +0100"
+author_id: "ir112"
 
 # Attributes from Felix Online V1
 id: "3882"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ir112"
-author_name: "Imran Rashid"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Partying. Hostages. Drinks. Machetes. Skydiving. Friends. Pirates. The game starts off with a montage of you (as Jason Brody), your brothers and your friends having the time of their life on a large island in the south pacific. The nightmare quickly begins when Jason wakes up to find himself imprisoned in a bamboo cage by indigenous pirates, and it’s not long before you meet the fiend himself, the psycho pirate lord Vaas.

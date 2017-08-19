@@ -4,6 +4,7 @@ title: >
 subtitle: >
    The policy headlines
 date: "2017-06-02 13:59:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7001"
@@ -33,15 +34,6 @@ image_height: "1936"
 image_attribution: "justgrimes"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This piece aims to break down the main party manifestos and summarise a few key policies. This is by no means a full and in-depth analysis of each party. Mainly because the manifestos are long and complex, and it’s exam season. [Insert tinfoil hat theory that the timing of the election coincides with the time when young voters are away from their constituencies/too busy to fully engage]

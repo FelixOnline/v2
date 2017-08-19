@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Takes so hot they are literally hell
 date: "2016-02-19 12:21:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5943"
@@ -33,15 +34,6 @@ image_height: "89"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _He wanted the world to know his struggle_

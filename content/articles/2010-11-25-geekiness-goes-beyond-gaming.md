@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Geekiness goes beyond gaming
 date: "2010-11-25 21:27:48 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "440"
@@ -34,15 +35,6 @@ image_height: "261"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week I played some videogames. You might think that this isn’t particularly announcement–worthy in an age of Farmville and Bejewelled. On the face of it, videogames are part of our culture now. But read a gaming fansite or web forum and you’d be forgiven for thinking we were in the middle of a cultural apartheid.

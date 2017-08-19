@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter continues his tour of the electronic realm with London’s Night Slugs
 date: "2010-11-11 21:24:41 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "362"
@@ -34,15 +35,6 @@ image_height: "230"
 image_attribution: "Shola Branson"
 image_attribution_link: "http://scndtonone.com/2010/05/monki-interviews-l-vis-1990-bok-bok/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 In this, my second installment of Techno Nonsense, a feature dedicated to highlighting the big players in electronic dance music right now, I’m going to hit you with [Night Slugs](http://nightslugs.net/).

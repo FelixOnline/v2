@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Since his 2011 arrest, Iranian director Jafar Panahi’s fimmaking has become a cause célèbre in the cinema world. We take a look at his life, his work, and the events leading up to his ban on producing films.
 date: "2015-11-06 14:07:05 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5706"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "AFP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A1995 Prix de La Caméra d’Or-winning debut film; at the forefront of the Iranian New Wave movement; imprisoned for breaking censorship laws and under house arrest since October 15, 2011. Jafar Panahi has a repertoire few can match.

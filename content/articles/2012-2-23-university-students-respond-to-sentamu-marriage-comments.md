@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Archbishop “hides behind banner of preserving tradition” over gay marriage statement
 date: "2012-02-23 23:04:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2262"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "James Mottram"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Earlier this month undergraduates of [Selwyn College](http://www.sel.cam.ac.uk/) at the University of Cambridge voted to send [a letter to the Archbishop of York](https://docs.google.com/document/pub?id=1ujy49dDFo9ydPCHA55NyNcOjbGkSDCueMsQFaMxHt1g), John Sentamu, in light of his views on gay marriage. In [an extensive interview last month](http://www.telegraph.co.uk/news/religion/9045796/Dont-legalise-gay-marriage-Archbishop-of-York-Dr-John-Sentamu-warns-David-Cameron.html) with _The Daily Telegraph_ about the Church, racism and his life experiences, the Archbishop stated a “relationship between a man and a woman – that’s marriage”.

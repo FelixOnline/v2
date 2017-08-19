@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Victoria Druce takes a deeper look at the recent controversies involving online student content
 date: "2011-03-03 20:17:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1006"
@@ -33,15 +34,6 @@ image_height: "3588"
 image_attribution: "Hamish Muir"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Almost two weeks ago, [the College took down the Union server](http://felixonline.co.uk/news/863/college-pulls-plug-on-union-server/) in a move aimed at removing an article concerning the latest antics of the rugby club. After receiving a complaint from a member of the public and an accusation of libel, the College took steps to remove the allegedly offensive material (and the rest of the Union [clubs] website) from public access. This action by the College comes just weeks after [IC Radio was taken off the air](http://www.felixonline.co.uk/?article=727) following concerns over the content of a show. The seemingly radical reaction of the College to these recent events has pushed the issue of student media censorship into the limelight.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICT tells computing students to change their passwords
 date: "2011-02-27 11:47:44 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "896"
@@ -34,15 +35,6 @@ image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 The Department of Computing (DoC) has suffered a [security breach](http://www.doc.ic.ac.uk/csg/about) on their main [shell server](http://en.wikipedia.org/wiki/Secure_Shell), named shell1, which provides secure shell access to the lab machines from outside the department. On the 24th of February, the College’s ICT Service Desk issued an email to DoC students informing them of a “security compromise” which was discovered on shell1, which affects a significant number of commonly used DoC systems. The email described the compromise as “root level”, indicating the breach made way for malicious activity under administrative privileges.

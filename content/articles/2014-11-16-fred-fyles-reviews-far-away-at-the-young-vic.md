@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “There are all sorts of birds here”
 date: "2014-11-16 00:10:34 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4899"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Far Away_ by British writer Caryl Churchill makes its return to London in this production at the __Young Vic__. Beginning with a young girl who sneaks out of bed and ends a mere 40 minutes later with a world in turmoil, in between we have mediations on power, corruption, and danger, delivered at a breakneck speed by a confident cast of four, who traverse the simple set with a deft skill, making every moment look effortless.

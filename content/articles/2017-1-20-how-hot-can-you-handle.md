@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lizzie Riach looks at a study claiming that ‘spicing up your life’, could actually prolong it
 date: "2017-01-20 15:12:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6665"
@@ -33,15 +34,6 @@ image_height: "1280"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Some like it hot. But others can’t stand an inkling of chilli anywhere near their food. However, perhaps they ought to try, as researchers from the University of Vermont have found that spicy food may prolong life expectancy. In particular, consumption of red hot chilli peppers was associated with 13% reduction in total mortality in a large-scale study. Primarily these deaths were due to heart disease or strokes. Perhaps this is why they have been used as an ingredient by our spice-loving ancestors, who seemed to enjoy the burning sensation of hell inside their mouths.

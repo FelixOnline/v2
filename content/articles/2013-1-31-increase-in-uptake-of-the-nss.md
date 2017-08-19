@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We're going harder... on filling out the NSS
 date: "2013-01-31 22:25:47 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3195"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 There has been a large increase in the percentage of students filling in the [NSS](http://www.thestudentsurvey.com/) when compared to the same time last year.

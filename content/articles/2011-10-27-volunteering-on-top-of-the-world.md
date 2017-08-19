@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure
 date: "2011-10-27 23:16:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1620"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Nepal provided me with one of the most surreal experiences of my life; from the touchy landing on the pothole-ridden runway, to the ‘seductive’ dancing policeman in one of the local bars. Looking for an experience of a lifetime, I wasn’t disappointed.

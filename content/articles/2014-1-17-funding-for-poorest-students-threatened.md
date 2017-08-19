@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Government refuses to rule out cuts to the Student Opportunity Allocation fund
 date: "2014-01-17 03:04:36 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4224"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Universiteitskrant Univers"
 image_attribution_link: "http://www.flickr.com/photos/universbeeld/5447907854/in/photolist-9ipXcL-baH4mH-bCU6UM-efayzh-baH4fz"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 An influential higher education think-tank has accused the government of betraying its commitment to social mobility by planning to cut funds given to universities as an incentive to attract students from financially disadvantaged backgrounds. Million+, a group of 22 British universities, claims that recent spending reviews indicate that the government plans to reduce the Student Opportunity Allocation fund, which is paid to universities in proportion to how many students from poorer households that they accept, by almost £200 million – slashing the fund by more than half. The fund – together with other schemes such as the National Scholarship Programme, which has also faced recent cuts – is used by universities to run both outreach events and schemes to help those students who are most at risk of dropping out of university.

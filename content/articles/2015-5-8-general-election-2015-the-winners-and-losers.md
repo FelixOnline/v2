@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5509"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We have a surprise Conservative 12-seat majority, as the Tories swept across England, while Scotland saw a landslide victory for the SNP, Wales remained majority Labour and Northern Ireland's DUP defended their share of the seats. The Liberal Democrats suffered a catastrophic election result across the United Kingdom, and UKIP only have one seat despite winning nearly 4 million votes.

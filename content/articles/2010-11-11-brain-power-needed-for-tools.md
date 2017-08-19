@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Question of how Stone Age man evolved to craft increasingly superior stone tools answered
 date: "2010-11-11 21:01:12 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "350"
@@ -33,15 +34,6 @@ image_height: "324"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 In a collaborative effort, Imperial researchers have answered the question of how Stone Age man evolved to craft increasingly superior stone tools. Why did it take Lower Paleolithic humans almost two million years to develop the sophisticated hand-held axe from crude razor-sharp stones? Computer modelling and sensor-embedded gloves compared complex hand crafting skills of one early and one late Paleolithic tool-making method to assess any differences in brain activity between the two methods.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Plabon Saha tells of his encounter with Johnny Rotten
 date: "2012-05-10 20:22:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2446"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 For anyone who knows about the history of punk music, they will instantly recognise the title as part of one of the most famous songs that went on to define the genre. In the 70’s the Sex Pistols, fronted by Johnny Rotten a.k.a John Lydon, started a revolution in the music scene with just one album. To this day music critics recognise that album as one of the most original pieces of work in the industry. I would not bore you with my praise for that album as I’m sure you hear enough of it from your parents (_Not sure what you imagine normal parents to be like, but you must have some seriously cool ones – Music Ed_). This is about one of the best nights I’ve had at Imperial, when I found Mr Rotten in Eastside bar having a pint with his friends on St. Patrick’s Day.

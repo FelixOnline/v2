@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Perhaps it’s time to renationalise our railways and combat unacceptable service
 date: "2015-12-15 13:03:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5822"
@@ -34,15 +35,6 @@ image_height: "1463"
 image_attribution: "mirror.co.uk"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 1910, E.M. Forster described trains as “our gates to the glorious and the unknown. Through them we pass out into adventure and sunshine, to them, alas! we return.”

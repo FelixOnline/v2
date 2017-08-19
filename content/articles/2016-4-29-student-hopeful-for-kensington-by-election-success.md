@@ -4,6 +4,7 @@ title: >
 subtitle: >
   University Challenge star is running to become a councillor
 date: "2016-04-29 10:00:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6086"
@@ -34,15 +35,6 @@ image_height: "1537"
 image_attribution: "Flickr / secretlondon123"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Next week, local elections are happening up and down the country, most notably the London Mayoral elections, but slightly closer to home is the Kensington and Chelsea Councillor by-election in which Imperial College physics student Ben Fernando is standing.

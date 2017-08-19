@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Tuesday a member of the Imperial College Christian Union’s (CU) committee sent an email to all members on their mailing list explaining that in their upcoming society elections only candidates chosen by the current committee...
 date: "2014-02-14 04:32:47 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4377"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday a member of the Imperial College Christian Union’s (CU) committee sent an email to all members on their mailing list explaining that in their upcoming society elections only candidates chosen by the current committee would be allowed to run for positions. In the email the committee member explained to members how the vote for next year’s committee would take place as a ‘yes’ or ‘no’ vote to approve a chosen set of candidates for the committee as a whole. This contravenes the democratic way in which Union elections at all levels are supposed to take place. The email explained the process behind the new committee’s selection, stating: “The outgoing committee prayerfully considered everyone we knew held to the aims and objectives of the Christian Union and, using the wisdom of many committees before settling on a team who we felt would be able to set aside time to serve the Christian Union as a whole… And now, you are being asked to consider them prayerfully, raise any concerns you may have, and ultimately vote to confirm them or not as you feel.” The email also explained to members why they could not put themselves up for nomination but instead suggesting, “There are many other, in many senses more important, ways to serve - aside from having more time to share the wonderful news of the gospel, we all need to pull together to put on events…”

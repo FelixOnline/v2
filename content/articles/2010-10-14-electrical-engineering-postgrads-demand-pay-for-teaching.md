@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary
 date: "2010-10-14 19:16:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "200"
@@ -33,15 +34,6 @@ image_height: "337"
 image_attribution: "Imperial College London"
 image_attribution_link: "http://imperial.ac.uk"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The [Department of Electrical and Electronic Engineering](http://www3.imperial.ac.uk/electricalengineering) has been forced to clarify its position regarding the payment of its postgraduate students.

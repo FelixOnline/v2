@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The question of Quantitative Easing. By Rajvinder Virdee
 date: "2011-10-20 22:35:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1570"
@@ -33,15 +34,6 @@ image_height: "498"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There was a global economic meltdown in 2008. World governments have since spent their time running through plans A-Z to try and reboot economies, but so far any recovery has been wiped out by other problems such as the crisis in the Eurozone. The problem of what to do with the levels of debt has been puzzling politicians all over the world. Big players, including Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Governor of the Bank of England, seem to think Quantitative Easing (QE) is the solution.

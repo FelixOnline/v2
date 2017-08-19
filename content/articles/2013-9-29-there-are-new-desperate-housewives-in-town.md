@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Television Editor John Park reviews Devious Maids and Mistresses
 date: "2013-09-29 15:06:08 +0100"
+author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "3778"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jgp09"
-author_name: "John G Park"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ###  Devious Maids

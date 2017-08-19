@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students show support for Garden Hall as future looks unclear
 date: "2013-03-07 23:32:21 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3441"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students are campaigning against the closure of Garden Hall, following reports that it may be turned into office space. The students who started the campaign to save the hall were living in it at the time as either hall seniors or freshers. [They have created an online petition](http://www.change.org/petitions/imperial-college-save-garden-hall), which, following its inception earlier this week, has 725 supporters (at time of going to print).

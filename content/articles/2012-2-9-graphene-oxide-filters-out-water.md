@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Humorous application includes making vodka stronger
 date: "2012-02-09 22:36:47 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2156"
@@ -33,15 +34,6 @@ image_height: "471"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a paper recently published in _Science_, a team from the [University of Manchester](http://www.manchester.ac.uk/) has reported that graphene oxide is capable of selectively filtering water molecules, leaving all other types of molecule blocked. This is a particularly surprising result for the team, who, from previous research, expected the graphene derivative to be completely impermeable.

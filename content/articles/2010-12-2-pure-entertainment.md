@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Robert Rodriguez pulls off an absurdly entertaining action film
 date: "2010-12-02 20:14:16 +0000"
+author_id: "jgp09"
 
 # Attributes from Felix Online V1
 id: "462"
@@ -33,15 +34,6 @@ image_height: "2410"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jgp09"
-author_name: "John G Park"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you can remember back as far as 2007, you may recall the film called “[Grindhouse](http://www.imdb.com/title/tt0462322/),” an attempt made by Robert Rodriguez and Quentin Tarantino to make the idea of a double feature film more appealing. You may also recall that there was a fake trailer made to fill the gap between the two separate films. That trailer was “[Machete](http://www.youtube.com/watch?v=hIxcVzwLR1k)” and what was going to remain as a “fake” preview became so popular that now, in the year 2010, we finally get the full-length feature film.

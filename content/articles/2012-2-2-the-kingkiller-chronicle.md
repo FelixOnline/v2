@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski reviews Patrick Rothfuss' bestselling fantasy epic
 date: "2012-02-02 20:59:01 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2100"
@@ -34,15 +35,6 @@ image_height: "1179"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I don’t generally read all that much fantasy, at least compared to science fiction, but I was drawn to Patrick Rothfuss’ Kingkiller Chronicle by a pair of very positive reviews in Locus and the Magazine of Fantasy and Science Fiction. I bought the first book in the series, The Name of the Wind, but it was left neglected on my shelves for several months – the consequence of a huge backlog in my reading list.

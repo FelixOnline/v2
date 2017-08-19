@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ross Gray on Nicolas Jaar at the Roundhouse
 date: "2012-02-09 22:11:11 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2141"
@@ -33,15 +34,6 @@ image_height: "403"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Thursday the 3rd of February, my flatmate and I decided to take a risk. We decided to pay for a gig that cost more than £15 and wasn’t run by ___ATP___ – a risk we would come to bitterly regret. The gig in question was [__Nicolas Jaar__](http://www.nicolasjaar.net/)’s ___Clown & Sunset ___showcase at Roundhouse, a pretty large venue. As far as we had gathered from all of the promotional material, more than just a Nicolas Jaar show, this was an opportunity for him to showcase the talent from his new label. Disappointingly, the gurned up north London hipsters, with too much money to piss away on gigs they seemingly don’t even care about, apparently didn’t agree.

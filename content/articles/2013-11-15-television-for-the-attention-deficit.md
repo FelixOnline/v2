@@ -4,6 +4,7 @@ title: >
 subtitle: >
   From Shakespeare to the Iraq War, Emily Fulham celebrates the unsung art of the miniseries
 date: "2013-11-15 18:13:46 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4083"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Ever wanted to watch a new TV show without, you know, committing to it? We’ve all been there: start watching a new series, thinking it looks pretty cool, and next thing you know, you’re nine series in and have no idea why you’re still watching, but too emotionally invested to stop (here’s looking at you, Supernatural).

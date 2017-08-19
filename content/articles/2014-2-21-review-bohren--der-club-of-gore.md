@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi looks at the German band’s new effort - Piano Nights
 date: "2014-02-21 03:31:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4432"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After more than twenty years of plugging away with a familiar sound, one that combines jazz, drone, doom and many other genres into an agonisingly slow rhythm, __Bohren & der Club of Gore __released an album earlier this month which does little to change this sound.

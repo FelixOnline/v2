@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Snowsports punch at their weight, as they are heavyweights. See what I did there?
 date: "2013-03-15 02:08:03 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3485"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday 13th of February ICSC ventured to Milton Keynes to compete in the south-UK qualifications to the British Universities Indoor Snow Competitions (BUISC). The two skiers willing to compete, left in the early morning (way too early to be awake) whereas the boarders (being boarders) waited till midday. Upon arriving in the ghost town that is Milton Keynes ICSC were ready to make their mark on snowsports history! First up was ski racing, where Race Captain Michael Parkes was faster than a girl out of Metric and qualified top 15, readyfor the finals. Our second skiing contester Tariq Shair tried whole heartedly, however he may have consumed a little too much alcohol to put on a top performance. Next up were the individual snowboard races where Ross Maske took the gold, Ed ‘Hallélé’ finished third claiming bronze and all four snowboard contestants qualified for finals. After great results in the Individual races the dynamic IC slalom snowboard team were ready to take on any opponent, despite the pressure on President John McGlutkin after last year’s devastating fall which caused Imperial to just miss out on a place in the finals. After a tough first race where IC’s snowboarders just managed to grab a victory, taking out this year’s favourites, the next races were a breeze and we quickly made it to the finals, Where the attitude was kept it cool and racked up four more gold medals. For the ski duels IC did not present a team as one girl had to be on it! Next up was the most anticipated event… the Freestyle. Freestyle captain Mikkel Kranker inspired the boys with some inspirational words, despite a major hip injury. This lead to John McGlutkin throwing down some killer transfers, impressing the judges and Ross Maske starting off with some major bails (no worries though – ‘cause people are stoked on bails) but pulling it back in his second run triumphing with a sweet ‘back one melon’ and some gnarly rail riding. Thus, both earning a spot in the ‘finals’ of the qualifier. The top 8 skiers and snowboarders then had to compete for a place in the actual finals, forcing them to put down some of their best runs to win the judge’s approval. John McGlutkin tore up the slopes landing a stylish and smooth run earning him a place in the finals. Odds on Ross Maske were good for a medal spot as he had perfected his skills during the countless Hemel sessions put on by ICSC. He landed a super clean run which placed him 2nd overall. After the competitions the spectators were in for another treat as the winning male snowboard dropped a ‘corked 540’ – just for fun. This concluded the qualifications for south UK, resulting in 7 medals for ICSC (breaking every record) and 5 contestants making it to the finals in Leeds.

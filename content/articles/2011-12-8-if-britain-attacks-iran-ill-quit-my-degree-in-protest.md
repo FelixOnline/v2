@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We are preparing for war on the flimsiest of evidence
 date: "2011-12-08 21:29:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1940"
@@ -34,15 +35,6 @@ image_height: "597"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m too young to properly remember what the run-up to the invasion of Iraq was like, but I imagine it was rather similar to the situation today with Iran. UN inspectors find no conclusive evidence of weapons, the media spreads irrational panic, diplomatic ties are removed, and then the carpet bombing begins. Fortunately Iran is yet to experience that final step, but a war is looking increasingly likely. Which brings me to my main point: if Britain goes to war in Iran and if even one civilian is killed as a result, I will quit my degree in protest, I’ll go to Iran, and I’ll see what I can do to help. That is, if I can muster enough confidence.

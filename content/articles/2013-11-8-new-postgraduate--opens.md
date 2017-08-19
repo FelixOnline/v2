@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Friday sees the opening of the new h-bar for postgraduates and staff
 date: "2013-11-08 03:37:28 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4019"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 A new postgraduate student and staff drinking and social venue on the South Kensington campus is set to open this Friday. In keeping with the Union’s trend of naming its drinking establishments with incredibly nerdy puns, the new space will be called ħ (pronounced h-bar), named after the reduced Planck constant, which is the smallest quantum of angular momentum (with a value of 6.582 x 10-16 eV s). There have been some criticisms of the new name, however according to the Union the name was chosen out of a shortlist of names submitted by staff members and postgraduate students.

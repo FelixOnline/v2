@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With the biggest names playing every week, it’s no wonder people choose to return to Fabric again and again
 date: "2011-01-27 20:40:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "700"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: "Conor McDonnell"
 image_attribution_link: "http://www.conormcdonnell.co.uk/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Last Friday saw the promotors [Kill em All](http://www.kill-em-all.co.uk/) hijack the club’s hallowed halls and the music policy was strictly four to floor, ranging the whole spectrum from disco and electro to pounding techno. Filthy Dukes set the tone of the night, a rendition of Green Velvet’s classic ‘It’s Time for the Percolator’ indicated that it was going to be a long one indeed. At midnight, the electro-rock outfit Django Django took to the stage in room 1. Their soaring guitars accompanied with glitchy synths and resonating bass sounded perfect as the club began to fill up.

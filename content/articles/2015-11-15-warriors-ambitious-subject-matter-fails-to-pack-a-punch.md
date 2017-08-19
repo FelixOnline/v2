@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new film about a cricket team set up by the Maasai spreads itself too thin, and fails to deliver
 date: "2015-11-15 10:51:10 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5738"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Warriors Film PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Warriors_ is an important and, at times, genuinely moving documentary. It tells the story of the Maasai warriors of Nairobi, how their culture promotes FGM, and its ties into the AIDS epidemic. In a society where the elders are believed to have a link to God, it’s hard for the youth to be heard. The solution to this? Form a cricket team. It sounds odd, and one does spend most of the film wondering how this club is actually doing anything to help, but we do eventually get an idea, if a little too late.

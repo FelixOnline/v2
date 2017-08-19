@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On the independence of Felix
 date: "2012-03-09 13:06:03 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2338"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 ___Following allegations that Felix has been prevented by College from printing, I would like to take the opportunity to reassure readers that it was solely an editorial decision to not run the piece on the Careers Advisory Service.___

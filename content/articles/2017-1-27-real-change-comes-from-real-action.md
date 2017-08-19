@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giacomo Boscaini-Gilroy is dismissive of Saturday's protests
 date: "2017-01-27 16:22:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6687"
@@ -34,15 +35,6 @@ image_height: "1122"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Oh, you went on Saturday’s march? You must have the moral high ground now. You 100% changed the world by walking around with a sign. Here’s a reality check: the only way to influence the nation is through government. You didn’t make any tangible change, you sent a letter of complaint: 'Hi, I think you are meanies and this is how angry I’m going to get if you continue.’ How often does a head of state listen to a protest?

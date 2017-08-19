@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If you are looking for an internship for next summer, it pays to start thinking about it as early as possible
 date: "2010-10-07 23:03:32 +0100"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "183"
@@ -34,15 +35,6 @@ image_height: "1550"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Being at one of the world’s top universities has its perks when it comes to getting employed. You are lucky enough that companies actively want to give you the chance to shine through a summer internship which could hopefully lead to the holy grail; the offer of a full-time job after your graduation. The opportunity to do well is yours to throw away. The internship does not need to be the seven-headed monster that it is sometimes made out to be.

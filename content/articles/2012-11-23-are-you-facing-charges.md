@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The state of current libel laws is ludicrous; they must adapt to the digital age, says George Butcher
 date: "2012-11-23 00:02:35 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2955"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week the biggest libel case in legal history was launched – thousands of people are potentially facing legal action and most of them are ‘normal people’. Why? Because anyone who tweeted or re-tweeted Lord McAlpine’s name in relation to child abuse allegations is going to get a letter from his lawyers, and it doesn’t matter if you deleted it later.

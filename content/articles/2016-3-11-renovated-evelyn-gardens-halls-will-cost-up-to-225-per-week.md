@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rooms will be for returning undergraduates only
 date: "2016-03-11 11:18:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6016"
@@ -34,15 +35,6 @@ image_height: "1152"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Three halls in Evelyn Gardens, Holbein, Southwell and Willis Jackson, which college closed at the end of  last year, will reopen this September to second and third year undergraduates only.

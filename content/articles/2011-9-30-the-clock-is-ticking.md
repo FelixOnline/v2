@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It turns out that time waits for no man, or Fresher
 date: "2011-09-30 10:16:53 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1456"
@@ -33,15 +34,6 @@ image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Mesdames et messieurs, meine damen und herren, ladies and gentlemen, bienvenue, wilkommen and of course, welcome – to Imperial College.

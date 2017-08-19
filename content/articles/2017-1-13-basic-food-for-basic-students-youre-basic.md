@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix has your back just in case you can’t find a space in the library to study and you’re forced to stay home a.k.a no more library cafe food for you
 date: "2017-01-13 14:58:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6650"
@@ -33,15 +34,6 @@ image_height: "3056"
 image_attribution: "Kiran Foster"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For many of us, it’s revision week time! Yay!! Can you feel the enthusiasm? I can feel it all around campus – especially in the library late at night or when I see some girl crying in the bathroom; I’m not saying that men do not cry in the bathroom, but I for one cannot see them – the perks of using the ‘ladies room’.

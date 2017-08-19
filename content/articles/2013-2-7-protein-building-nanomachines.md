@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Byrne investigates an alternative to boring and long chemical synthesis
 date: "2013-02-07 23:24:45 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3259"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Inside every cell, tiny biological machines are hard at work, constructing the proteins that will perform vital roles as enzymes, hormones, and a wide variety of other structural and biochemical functions. These molecular machines, called ribosomes, translate our genetic code into a protein sequence, and assemble the amino-acid building blocks into the peptide chain that folds into a functional protein.

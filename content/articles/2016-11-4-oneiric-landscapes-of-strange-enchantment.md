@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paul Nash is on at the Tate Britain until 5 March 2017
 date: "2016-11-04 14:41:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6396"
@@ -33,15 +34,6 @@ image_height: "3583"
 image_attribution: "Tate"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Paul Nash was an artist best known for two things: his portrayal of English landscapes, and his work as an official artist in both World Wars.

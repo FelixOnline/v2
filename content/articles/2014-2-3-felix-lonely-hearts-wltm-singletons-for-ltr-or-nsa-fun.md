@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we
 date: "2014-02-03 15:41:36 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4331"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Feeling lonely? The impending Valentine’s Day getting you down? We all know that it’s hard to meet people at Imperial, so Aunt Annie wants to make it a bit easier for you. If you’re looking for a special someone, missed a connection, or want to let someone know how you feel, send a message to [catnip.felix@imperial.ac.uk](mailto:catnip.felix@imperial.ac.uk), and it’ll be featured in this week’s paper.

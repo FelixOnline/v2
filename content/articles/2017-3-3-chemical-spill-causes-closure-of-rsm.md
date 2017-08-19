@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Four ambulances and two fire engines were called to the site
 date: "2017-03-03 18:46:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6860"
@@ -34,15 +35,6 @@ image_height: "2448"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Earlier today the Royal School of Mines (RSM) building had to be closed off while a crew of firefighters investigated a potential chemical spill.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial isn't the be all and end all
 date: "2012-01-19 23:16:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2037"
@@ -34,15 +35,6 @@ image_height: "658"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’ve been helping out at interview days this year. Normally this is a task I avoid in the same way I avoid slapping my own balls with a wooden paddle – that is, by not agreeing to do it when I’m asked by my superiors (it happens more than you’d think). However, this year I am short on money and, like all people short on money, I am not averse to a little ball-slapping in return for cash.

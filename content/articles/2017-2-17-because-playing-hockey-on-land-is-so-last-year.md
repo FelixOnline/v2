@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I would like to say my ability to puck-push closely resembled that of a graceful mermaid, but only to the extent that it was completely fictional
 date: "2017-02-17 16:20:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6801"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have two minor claims to fame: my brother featured in a Gocompare advert alongside Stuart Pearce and I learnt to swim in the same pool as Anthony Head’s children. Pretty impressive right? No, I know, but it means I have always seen swimming as an epic, almost vampire-slaying-esque activity. And I’ve never really been any good at it. So when I was handed the opportunity to try a sport I’ve never played, hockey, and take it to the pool, I was apprehensive.

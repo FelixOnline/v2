@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Terrains of the Body is on at the Whitechapel Gallery until 16th April 2017 Free entry
 date: "2017-01-27 17:01:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6699"
@@ -33,15 +34,6 @@ image_height: "541"
 image_attribution: "Hellen van Meene and Yancey Richardson Gallery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hellen van Meene’s works combine this unsteady storyline with a heady mix of sensual textures and colours. Her works are celebrations of surface, with Vermeer-light like dappling across her subjects, bringing an incredible sense of tactility. Janaina Tschape’s work shares this obsession with tone, and both her and van Meene’s works are reminiscent of Francesca Woodman’s haunting self-portraits, albeit with less of an emotional punch.

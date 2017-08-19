@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chi-Raq marks a return to form for Spike Lee, and its breathless anger is urgently needed in these troubled times.
 date: "2016-12-09 15:47:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6581"
@@ -33,15 +34,6 @@ image_height: "907"
 image_attribution: "Roadside Attractions"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Back in November, when the trailer for Chi-Raq dropped, the reaction was swift and brutal. A modern-day adaptation of Aristophanes’ comedy Lysistrata, Spike Lee’s latest film uses rhyming verse and bawdy humour to debate the ongoing homicide crisis in Chicago, Illinois – a city with a murder rate that is higher than NYC and LA combined. Chicago trauma physician Amy Ho wrote in The Chicago Tribune that Lee ‘has managed to trivialize the suffering of the men, women, and children of Chicago’s West and South sides’, and many were quick to agree. Combined with the fact that ‘A Spike Lee Joint’ doesn’t promise radical politics in quite the same way it did in the 1980s and 90s, Chi-Raq is a pretty tough sell.

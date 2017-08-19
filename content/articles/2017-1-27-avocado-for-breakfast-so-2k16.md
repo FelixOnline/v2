@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Firedog is on a mission to revamp the hipster breakfast, causing panic amongst avocado growers worldwide. Enter a morning realm of grilled halloumi, Sujuk and Lor.
 date: "2017-01-27 17:38:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6703"
@@ -33,15 +34,6 @@ image_height: "2513"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mezze. A word meaning a selection of small appetizers. And a word that I have recently started noticing following a sharing plates trend that has finally hit the London food scene. After some hearty meals, I have adjusted my taste buds (and stomach) to this wonderful dining culture home to Turkey, Greece and the Middle East.

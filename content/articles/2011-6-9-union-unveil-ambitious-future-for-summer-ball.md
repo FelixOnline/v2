@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Holding it in Hyde Park would be the “ultimate aim”
 date: "2011-06-09 21:26:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1350"
@@ -34,15 +35,6 @@ image_height: "3389"
 image_attribution: "Peter Gillings"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Union have unveiled ambitious plans to “increase the size, scale and profile” of the Summer Ball in years to come, saying that the “ultimate aim” would be to host the event “in Hyde Park or a similar venue” and attract a huge number of students from across London. The news comes with just a week to go until [this year’s Ball](http://www.thesummerball2011.com/), which features headliners Laura Marling and Ian Brown.

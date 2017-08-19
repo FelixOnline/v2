@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There are questions to be answered about Justice Week
 date: "2010-11-25 21:41:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "443"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Justice is a powerful word. It can transcend borders to liberate the wrongly accused, to rescue the vulnerable and to topple governments. If used cynically, however, it can provide a veneer of respectability where it is not deserved.

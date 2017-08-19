@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As console sales slow, the big three will be betting on E3 to give them a boost
 date: "2016-06-10 08:36:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6266"
@@ -33,15 +34,6 @@ image_height: "1360"
 image_attribution: "Ubisoft"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite a number of premature announcements earlier this week, E3 looks to be as exciting as ever. For gamers there’s no time of the year that is more anticipated and for gaming journalists (which I don’t qualify as yet) there is none hated more. While a few early leaks and reveals have surprised some, this offload ahead of the expo’s official start next week could be a sign that the major publishers have lots to show this year.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After a string of media disapproval, Brett Ratner steps down from his post
 date: "2011-11-17 22:02:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1790"
@@ -33,15 +34,6 @@ image_height: "400"
 image_attribution: "deadline.com"
 image_attribution_link: "http://www-deadline-com.vimg.net/wp-content/uploads/2011/11/brettratner__111109014817.jpg"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The American producer/director Brett Ratner, known for such films as [Rush Hour](http://www.youtube.com/watch?v=jPULDr0cn6A), [Red Dragon](http://www.youtube.com/watch?v=STnWeHx41p4) and newly-released [Tower Heist](http://www.youtube.com/watch?v=Z4KXF7NWFRE), has stepped down from his prominent position as producer of the 2012 Oscars.

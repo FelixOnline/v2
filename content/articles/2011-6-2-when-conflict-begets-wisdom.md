@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There are some who are strong enough to forgive
 date: "2011-06-02 19:33:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1308"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Two years ago, on a January afternoon, an Israeli shell hit Dr. Izzeldin Abuelaish’s home in Gaza, killing three of his daughters and his niece. Nothing can replace the hole left in his life by that shell. Yet the Harvard educated gynaecologist stood in front of the Imperial College Israeli Society in March and proclaimed that “good deeds, wisdom and good works” were the only weapons he wanted. His war wasn’t against those who took his daughters away, but with himself. “Hate”, he said, “hate was my greatest enemy. I knew I would only drown in it; I had to look beyond”.

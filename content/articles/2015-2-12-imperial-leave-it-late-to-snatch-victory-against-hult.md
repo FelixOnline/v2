@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Phil Gerstenburg return from Victoria Park scarred after facing a waterlogged pitch
 date: "2015-02-12 22:59:05 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5246"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Steve Porter"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Saturday IC 7s faced off against Hult International Business School 2s in Victoria Park. The day got off to a bad start when Giles Wane decided he would miss the meeting time altogether after his alarm just decided it would not go off that morning. The tube journey to Victoria Park took us past all of the great sights of London, including Whitechapel, a place where one of the team feels more comfortable and cosy than anywhere else in London.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ellen Mathieson gives you some top tips to make it through any evil encounters you might have this Halloween
 date: "2014-11-10 21:44:47 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4826"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s late night on Halloween, and you and a group of friends are walking home from your party of choice. One of you takes a wrong turning and somehow you suddenly lost in a part of London you don’t know. You stop and ask for directions, but no-one is being helpful. And even though there are only five of you, for some reason you can hear a sixth set of footsteps. Is there someone following you?

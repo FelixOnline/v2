@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On planet Earth in 500BC the first non-religious, scientific society was formed by Pythagoras
 date: "2011-03-03 20:46:48 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1015"
@@ -33,15 +34,6 @@ image_height: "510"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 We as human beings cannot help but think. We exist because we think and have an unexplained stream of consciousness that puts us into existence. It is not true to say that without our ability to think intelligently we would not exist; we would simply be unable to explain, or attempt to explain it. So, our cognitive existence is deeply intertwined with our physical existence on planet Earth. Coincidence… possibly, but do we live our lives hoping for coincidence or do we set out at the beginning of each day to develop, open our minds and learn about the beauty that so humbly surrounds us in its quiet, harmonious way.

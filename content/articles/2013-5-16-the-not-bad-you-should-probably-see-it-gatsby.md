@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucy Wiles reviews The Great Gatsby
 date: "2013-05-16 18:16:00 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3581"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 You know how, more often than not, the trailer for a film shows all the film’s best bits and everyone is let down by the film? This is so not the case here. The Great Gatsby is everything the trailer promises, and more. It is bold, brash, glamorous and over-the-top in the trademark Baz Luhrmann way.

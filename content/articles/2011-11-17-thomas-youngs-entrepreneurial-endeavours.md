@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Young was more than just a physicist, he also made fortunes in insurance
 date: "2011-11-17 21:02:35 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1767"
@@ -34,15 +35,6 @@ image_height: "579"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It was perhaps due to the imperfect knowledge or absolute ignorance humankind had back then that true polymaths could still exist; nowadays, in the age of specialization, it seems almost impossible. But back in the old days, the same person, if gifted and lucky enough, could undertake forefront research in the most diverse areas and make enormous contributions, large enough for their names to be remembered. Thomas Young (1773-1890), a physician by training, was such a polymath.

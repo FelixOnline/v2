@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Three vehicles were involved in the incident on Tuesday afternoon
 date: "2015-05-14 22:17:13 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5519"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Twitter/ samir_afzal"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two women were treated for minor injuries after their car was flipped onto its roof due to a collison with a lorry on Exhibition Road. The incident occurred on Tuesday afternoon outside the Natural History Museum, which also saw a Rolls-Royce take damage.

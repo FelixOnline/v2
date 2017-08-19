@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Men of Imperial – some compulsory reading from Catina Willows
 date: "2012-11-29 23:05:48 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3001"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Single? Virgin? Afraid to admit this because Felix told you you should quit whining about it, so now you just keep it all bottled up inside and wank while you cry yourself to sleep at night? Don’t worry, you’re not alone! Er, sorry, you are alone, but this is Imperial, and there’s a lot of other people out there just like you.

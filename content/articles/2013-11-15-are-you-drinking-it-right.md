@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Researchers conclude that coffee first thing in the morning might not be as effective as you thought
 date: "2013-11-15 11:41:45 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4086"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The coursework season has descended at Imperial - many of us are spending endless hours at the library. No matter if you are writing up your research project on rotor stator disk rim sealing, a model of the thermal structure of the North American lithosphere, or an essay answering the question “What is a gene?”, you are probably looking for ways to top up your body’s caffeine level every now and then. If you want to make the most of your tea / coffee / Redbull / Monster, you might want to read on.

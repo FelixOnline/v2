@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily White explains how we can easily make a change with four simple actions
 date: "2014-05-16 01:52:52 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4601"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "clickbd.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 With the recent release of the 5th assessment report from the Intergovernmental Panel on Climate Change (IPCC), which gives us more evidence than ever before that we need to start taking serious action to reduce our impact on the environment, it is easy to feel evermore helpless. This is such a huge issue and how can ordinary people actually make a difference? Of course I could sit here and tell you about all the usual ways we are encouraged to become more sustainable like recycling that yoghurt pot that you always throw in the bin or turning off the light that you always leave on when you’re finished in the bathroom but we know all of this already. You might be interested to hear though that there ARE other, bigger things we can do that can really get this ball rolling (but don’t stop recycling that yoghurt pot!).

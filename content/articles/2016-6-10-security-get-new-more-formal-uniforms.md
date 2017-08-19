@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Security wear ties and full suits now
 date: "2016-06-10 08:16:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6249"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Monday, college support staff, including the security team, were given brand new uniforms, which for the security staff meant cumbersome new ties, epaulettes, long-sleeved shirts with the Imperial logo and suit jackets with name badges.

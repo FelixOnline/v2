@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union hopes for record turnout
 date: "2012-03-16 01:41:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2401"
@@ -34,15 +35,6 @@ image_height: "576"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Voting in the Union’s “[Big Elections](http://union.ic.ac.uk/marketing/elections/index.php)” opened on Monday. As well as the Sabbatical, Student Trustee and Faculty Union Executive positions students can also use the Union’s online system to vote for members of their Departmental Society committee. 186 votes were cast in the first five minutes of voting, with well over 80,000 votes having been cast by over 5,200 voters at the time of going to print. This represents a turnout of 49% of the Undergraduate population and 13% of the Postgraduates, just over 30% of all Imperial students. This is already far above the average national turnout in UK university student elections, 16%. Imperial Union hopes to have achieved the largest turnout in the nation by the end of voting, with at least 55% of Undergraduates and 20% of Postgraduates having voted.

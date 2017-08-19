@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Holland Club set to be saved in College U-Turn
 date: "2012-05-10 19:10:14 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2431"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following a meeting of the Management Board on 20 April, an agreement has been reached over the proposed development of the space currently occupied by the Holland Club on Level 0 of Sherfield.

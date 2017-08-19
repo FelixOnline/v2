@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Using the analogy of cereals, you can see why we should all just live and let live
 date: "2011-11-03 21:27:18 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1686"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’ve started eating porridge. I waited and waited for the weather to get colder, but at some point it becomes obvious that I’m going to lose the staring contest with BBC Weather and I just break out the oats and jam. All year, I’m just waiting for winter to come around. So now I’m eating porridge every morning, I’ve committed to that for the next few months.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Immortals play hard ball
 date: "2016-12-02 16:48:56 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6553"
@@ -33,15 +34,6 @@ image_height: "1028"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Following a strong win and a defensive shut out against the UEA Pirates, the Immortals were looking to build upon their momentum and announce themselves as serious playoff contenders. Standing in their way were the Immortals’ fierce rivals, Royal Holloway.

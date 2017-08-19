@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Attempting to preserve the Holland Club with help from social media
 date: "2012-01-12 21:32:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1970"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The rumoured closure of the Holland Club has seen an immense response from the College community. From staff to postgraduate students, the actions of College with regards to its feasibility study have been watched ever closely since rumours of a possible closure surfaced over last term. Could the severity of such a campaign, employing a sizeable Facebook page, make a change to the study and potentially, the future of the Holland Club?

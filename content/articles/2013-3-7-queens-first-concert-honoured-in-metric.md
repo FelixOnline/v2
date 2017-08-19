@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Brian May returns to his home...
 date: "2013-03-07 23:37:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3443"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Brian May and Roger Taylor from Queen were at Imperial in Metric on Tuesday 5 March to unveil a plaque commemorating their first public performance, which took place in the Union Concert Hall.

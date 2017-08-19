@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation.
 date: "2014-06-17 14:21:34 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4692"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 The Union’s Higher Education policy will go to a referendum later this year, after Union Council felt unable to make a decision without further consultation. Students will have the opportunity to choose from three funding models: free education, graduate tax and the current tuition fee loan system.

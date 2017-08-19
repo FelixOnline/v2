@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Looking back at IC.HACK, the developer argues in favour of gamers making their own games
 date: "2011-03-10 20:36:00 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1073"
@@ -33,15 +34,6 @@ image_height: "496"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _To read about making your own game, click [Day 1 – Starting](http://felixonline.co.uk/games/903/ever-wanted-to-make-games/), [Day 2 – AI](http://felixonline.co.uk/games/934/when-in-doubt-leave-it-out/), [Day 3 – Art and Sound](http://felixonline.co.uk/games/965/game-developers-dont-need-to-draw/), [Day 4 – Creating Levels](http://felixonline.co.uk/?article=988) or [Day 5 – Debugging](http://felixonline.co.uk/?article=1022)_

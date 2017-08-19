@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sanchit Sharma on why ‘Free’ is more than you expect
 date: "2011-11-17 21:38:11 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1782"
@@ -33,15 +34,6 @@ image_height: "1801"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I recently had the opportunity to attend a talk by Richard Stallman, founder of the Free Software Foundation, and a strong Free software advocate. He spoke on Free software, and the rights of us all as users of software, and in the process he brought something to my attention.

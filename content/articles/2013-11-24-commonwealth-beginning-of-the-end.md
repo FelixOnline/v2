@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter...
 date: "2013-11-24 16:07:19 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "4110"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the controversial 23rd Commonwealth Governmental meeting in Colombo closed earlier this week there was widespread feeling that the Commonwealth has suffered a huge dent in its credibility. In March 2013 (for the first time in its history) the Commonwealth set out a new charter emphasising the need for human rights, freedom of expression, good governance and the rule of law. Sri Lanka (Commonwealth chair for the next two years) frequently ignores these tenets.

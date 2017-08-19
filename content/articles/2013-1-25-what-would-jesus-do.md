@@ -4,6 +4,7 @@ title: >
 subtitle: >
   For nonbelievers to properly engage wth Christians, they must learn about the life of Jesus, says Tom Ravalde
 date: "2013-01-25 01:42:19 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3183"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let the dialogue begin.’ So began [Rory Fenton’s thoughtful piece last week](http://felixonline.co.uk/comment/3135/faitheism-the-importance-of-dialogue/) – encouraging the religious and irreligious alike to ‘look for the common ground’ and ‘work together’ against extremism for a better society. As a Christian, I welcome this engagement from the (so called) ‘faitheists’ – it’s certainly a refreshing change from the hostile rhetoric spouted by Dawkins et al.

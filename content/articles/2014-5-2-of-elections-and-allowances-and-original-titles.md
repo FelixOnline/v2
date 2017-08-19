@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Over the last few months Felix has broken two stories about Union Club, Society and Project election mismanagement.
 date: "2014-05-02 01:04:46 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4540"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Over the last few months Felix has broken two stories about Union Club, Society and Project election mismanagement. Most recently we wrote about the rules broken during the elections held by the Chinese Students and Scholars Association which contravened Union election rules, especially when considering the prioritisation of committee votes. One thing that this has shown us is that maybe it’s time to rethink how voting is managed at the Union, if clubs regularly fall foul of the rules. As Stephen suggested, we may even see a widening adoption of the Union’s e-voting by clubs, whether willing or not.

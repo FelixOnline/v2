@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We should relax the rules on performance enhancing drugs
 date: "2010-11-11 21:37:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "365"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 When I was 10 years old I started playing Rugby. I was an imposing 4ft 8” (though even that might be generous). With a career as the next England captain in front of me, I returned to pre season training with the under 11 squad for an introduction to full contact. So began 6 years of big kids kicking the shit out of me.

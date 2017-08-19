@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The National’s unpredictable triumph is revived in style at the Wyndham’s Theatre
 date: "2016-05-06 10:15:20 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6133"
@@ -34,15 +35,6 @@ image_height: "1000"
 image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As I sat placidly in my seat waiting for the play to start, the announcement to turn off our mobile phones was played. That was all expected. But then the announcement repeated itself, and it seemed that a thousand voices were echoing it at the same time, louder and louder and reaching a mad climax – then in a snap the theatre went dark and a scene from _The Seagull_ appeared before us.

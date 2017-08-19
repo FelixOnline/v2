@@ -4,6 +4,7 @@ title: >
 subtitle: >
   London’s nightlife is constantly evolving. A prescriptive list of clubs would be futile
 date: "2010-10-02 07:17:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "169"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This is a tough job. Combine the thousands of clubs there are in London with the overbearing feeling that I’m approaching a very premature mid-life crisis and you’ll understand why introducing London’s nightlife to a Fresher is incredibly difficult.

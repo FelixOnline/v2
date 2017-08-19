@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Main Attrakionz – 808s & Dark Grapes II – 2011
 date: "2011-11-24 22:23:58 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1833"
@@ -34,15 +35,6 @@ image_height: "620"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Searching out new music is not a lone pursuit and cannot be meaningfully automated. You can’t hope to get past the tripe on mainstream radio or last.fm’s “1+1 = U2” algorithm without a friend giving you a nudge and saying, “we literally won’t be friends anymore if you don’t love this band”.

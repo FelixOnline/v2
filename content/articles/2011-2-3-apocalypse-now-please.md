@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The end of the world is no time to start developing bad habits
 date: "2011-02-03 20:17:27 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "741"
@@ -34,15 +35,6 @@ image_height: "2218"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 If popular culture has taught me anything (and I like to think it has), it is that we are most likely to perish as a species in a thermonuclear fire-storm or a zombie pandemic. Though radically different, these apocalypses involve a great deal of mass panic before the dying starts. As such, there are themes common to both that may just dissuade booking any long-term holidays.

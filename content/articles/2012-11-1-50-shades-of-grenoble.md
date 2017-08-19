@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will Prince’s Weekend d’Integration
 date: "2012-11-01 22:56:40 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2801"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It must be about midnight and I’m sitting on a sun lounger in a dress I bought from a supermarket several hours earlier with a puffer-jacket-clad security guard checking I don’t try and introduce myself to the pool. Luckily I’ve already learnt my lesson in this department, having tried to introduce myself to someone about ten minutes earlier, only to have a drink poured over my head by their boyfriend for “standing to close to her”.

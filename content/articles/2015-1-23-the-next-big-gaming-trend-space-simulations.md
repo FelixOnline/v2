@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maximilian Eggl on why No Man’s Sky, Star Citizen and Elite are the future
 date: "2015-01-23 18:24:17 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5142"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The past few years, ever since the release and subsequent re-release of _DayZ_, we have had an explosion of Zombie survival MMOs. In fact, I am surprised when there is a month when I don’t see news about a new one. However, it has become quite tiring, since there are only so many times I can wake up on an abandoned beach. It seems that most of the gaming market is coming to this conclusion, as we have reached a saturation point. Looking at upcoming releases, I feel that the next big gaming will be the open world _Space Sim_.

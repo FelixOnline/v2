@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on the new gene-editing technique that gives HIV resistance
 date: "2014-03-07 04:48:50 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4457"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wikimedia Commons"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 For the first time ever, researchers have succeeded in making enzymes target and alter the genes of immune cells that are susceptible to HIV infection. A clinical trial tested the enzymes, known as ‘zinc-finger nucleases’ and found that they were able to disrupt the gene CCR5, which codes a protein essential for HIV entry into T cells.

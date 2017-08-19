@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Marianne Teoh gives us the Fashion low-down from Benicàssim
 date: "2012-10-05 12:03:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2610"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This summer Felix hit up the east coast of Spain, on a mission to discover the summer styles at Benicàssim Music Festival (Festival Internacional de Benicàssim).

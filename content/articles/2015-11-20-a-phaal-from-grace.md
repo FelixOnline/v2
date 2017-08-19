@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC fail to curry favour, losing to Royal Holloway last week
 date: "2015-11-20 09:46:39 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5764"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Rugby"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial travelled to Royal Holloway last Wednesday to start what they hoped would be a long cup run culminating in some silverware. Falling on Remembrance Day and being followed by the club curry night, there was a lot to play for to ensure that IC got back on track after an unmentionable loss to the medics the week before.

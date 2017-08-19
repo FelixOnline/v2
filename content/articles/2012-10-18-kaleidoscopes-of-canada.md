@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Intelligent Dance Music
 date: "2012-10-18 21:28:52 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2708"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 IDM (which, unfortunately, is short for intelligent dance music) is an incredibly interesting genre. Also dubbed “Armchair Techno” , it’s a loosely defined term for experimental electronic music. The sounds lumped under this label can vary wildly, from the hauntingly nostalgic to tracks with beats that go beyond the limits of danceability and syncopation into the realm of pure fetishism. I want to talk about a group from the former end of the spectrum: IDM mainstays Boards of Canada (BoC).

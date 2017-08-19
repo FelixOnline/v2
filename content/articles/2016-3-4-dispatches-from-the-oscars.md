@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Rock’s introduction of Stacey Dash left us all totally stumped
 date: "2016-03-04 11:50:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6010"
@@ -34,15 +35,6 @@ image_height: "881"
 image_attribution: "AP"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Academy Awards took place last Sunday evening, and your intrepid FELIX team stayed up until the early hours of Monday morning keeping track of the ceremony on an illegal live-stream, significant portions of which were dubbed into Turkish. Truly, there is nothing we will not do for journalism. As usual, there were victories, surprises, snubs, and questionable jokes, and that was only in the office…

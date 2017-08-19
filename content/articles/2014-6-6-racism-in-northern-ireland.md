@@ -4,6 +4,7 @@ title: >
 subtitle: >
   To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets.
 date: "2014-06-06 02:40:46 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4658"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Jonathan Porter"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 To say that Northern Ireland has come a long way since its sectarian civil war is a cliché but it’s worth saying: we’ve come a long way. The soldiers no longer patrol the streets. The curfews no longer empty the streets at night. The bombs no longer tear through shopping centres and flesh. The Northern Ireland of my childhood has rebranded as the land of the _Titanic _and _Game of Thrones_, Liam Neeson and Snow Patrol. But a look at headlines coming out of the country today gives good reason to doubt things really did change for good.

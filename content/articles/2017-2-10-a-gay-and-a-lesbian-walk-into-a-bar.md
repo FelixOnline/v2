@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ... and proceed to shatter any and all illusions you might have about gay sex
 date: "2017-02-10 14:16:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6755"
@@ -34,15 +35,6 @@ image_height: "1132"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week, I met with B.R Coli, a female queer friend, to talk about sex. We wanted to shed some light on the general ins and outs and common misconceptions surrounding gay sex, as well as learn a bit about each other’s sex lives and see what common ground we have, and what’s different between man sex and… well, woman sex.

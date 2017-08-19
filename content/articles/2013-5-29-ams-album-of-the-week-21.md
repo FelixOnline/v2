@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deafheaven - Sunbather
 date: "2013-05-29 12:40:33 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3629"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 With my short side-parted hair and corduroy jacket, I’m about as far away from metal as you can get. Always open to new experiences, however, Deafheaven’s upcoming sophomore album Sunbather caught my eye. Described as “shoegaze with black metal drumming and vocals,” and with a cover more reminiscant of drinking pink lemonade on a summer’s day than of satanic rituals in Norwegian forests, it looked to be far from the usual black metal fare. It seems that the span from shoegaze through post-rock to metal may not be an impossible one to bridge.

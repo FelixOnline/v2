@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Boards give an underwhelming response to new rulings on how to run events
 date: "2011-10-20 19:30:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1555"
@@ -34,15 +35,6 @@ image_height: "2912"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Members of the Arts and Entertainments Board (AEB) voiced overwhelming discontent with the Union’s new rules on holding bar nights for clubs and societies.

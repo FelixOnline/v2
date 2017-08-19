@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Espedrille and Peregrin report on the ICURFC 1st XV win against Kyoto University
 date: "2010-07-02 11:17:14 +0100"
+author_id: "jn104"
 
 # Attributes from Felix Online V1
 id: "150"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jn104"
-author_name: "Jovan Nedic"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ### Kyoto University RFC 1st XV 19

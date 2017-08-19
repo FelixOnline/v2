@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Muse would approve
 date: "2012-12-07 01:36:28 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3038"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "nature.com"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Astronomers analysing data from the Hobby-Eberly Telescope in Texas have [spotted an enormous black hole](http://www.nature.com/nature/journal/v491/n7426/full/nature11592.html) — but in a relatively miniscule galaxy.

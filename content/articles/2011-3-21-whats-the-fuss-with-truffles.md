@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sam Furse explores the delights of this special treat
 date: "2011-03-21 10:55:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1119"
@@ -33,15 +34,6 @@ image_height: "731"
 image_attribution: "flickr/chrisblakeley"
 image_attribution_link: "http://www.flickr.com/photos/csb13/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Truffles have always sounded slightly removed from anything I eat on a regular basis. Not because they were impossible to get hold of, just something I was unlikely to stumble across. And if, like me and Daniel Barenboim, you are more immediately interested in the impossible rather than the very difficult or the unlikely, perhaps they are not something you have yet considered much either. Ever the scientist though, my interest to learn more was primed from conflicting information I had heard about them. The truffle is a name applied to both chocolate and also that fungus that is grated or thinly sliced onto (savoury) starters and soups. Manifestly they were not the same and so I took my sweet tooth, grabbed the chocolate bull by the horns and set about trying to find out more.

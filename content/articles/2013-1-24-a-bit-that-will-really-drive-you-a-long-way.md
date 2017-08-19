@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Driving Dead
 date: "2013-01-24 21:13:18 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3157"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Hah – you thought that you would escape my zombie fanaticissm this week, but you haven’t! This week’s selection is [Zombie Driver](http://www.youtube.com/watch?v=jzWYxZLZWOE), the spiritual sequel to Zombie Chauffeur, the game adaptation of the BAFTA winning Driving Miss Zombie.

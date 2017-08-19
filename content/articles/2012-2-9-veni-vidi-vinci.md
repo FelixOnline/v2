@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Deepka Rana and George Howard came to the Leonardo exhibition, had a look around then, err, wrote a review, unearthing a few conspiracy theories along the way
 date: "2012-02-09 22:28:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2149"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 We would never claim to have an impressive bank of knowledge of the arts, however this did not reduce the sheer excitement felt when, against all odds, we secured a set of, now hallowed, tickets to [the Leonardo da Vinci exhibition](http://www.nationalgallery.org.uk/whats-on/exhibitions/leonardo-da-vinci-painter-at-the-court-of-milan).

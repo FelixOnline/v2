@@ -4,6 +4,7 @@ title: >
 subtitle: >
   In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
+author_id: "lorddavidalton"
 
 # Attributes from Felix Online V1
 id: "314"
@@ -33,15 +34,6 @@ image_height: "2249"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lorddavidalton"
-author_name: "Lord David Alton"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 James Chin Kyung Kim is that rare man – a man who believes in the unbelievable, and makes it happen.

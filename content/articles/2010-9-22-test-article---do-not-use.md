@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Test article - do not use!
 date: "2010-09-22 13:18:32 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "158"
@@ -34,15 +35,6 @@ image_height: "3704"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 Original by [Markus ](http://bbc.co.uk)Kuhn, adapted for HTML by Martin Dürst.

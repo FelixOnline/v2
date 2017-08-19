@@ -4,6 +4,7 @@ title: >
 subtitle: >
   They don't reward the player enough to sustain his/her attention
 date: "2011-02-27 12:36:02 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "901"
@@ -34,15 +35,6 @@ image_height: "1000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I have a younger sibling. He's quite the games enthusiast. Whenever I visit home, I notice some new console videogame being played on the TV and I'm often greeted with an explanation of the gameplay. I can't help but notice, however, that commitment to single games has weakened over the years, and it appears that stopping halfway through a level to play something entirely different has become acceptable behaviour.

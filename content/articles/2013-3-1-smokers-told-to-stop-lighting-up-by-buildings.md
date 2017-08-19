@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students receive emails from Departments about the smoke free areas
 date: "2013-03-01 00:45:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3409"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Students at Imperial College London have been receiving emails about smoking on the South Kensington campus. The purpose has been to remind students that they are not allowed to smoke by the entrances to buildings. The emails have been sent by the Heads of Departments, seemingly on the request of Facilities Management – suggested by one such email, forwarded on to students by the Head of the Department of Computing, showing the original sender (Mitul Shah, Assistant Building Manager) and recipients of the original email.

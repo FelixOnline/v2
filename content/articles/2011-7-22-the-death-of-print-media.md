@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The phone hacking scandal has left print media in an unenviable position, to say the least
 date: "2011-07-22 10:33:12 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1452"
@@ -34,15 +35,6 @@ image_height: "350"
 image_attribution: ""
 image_attribution_link: "http://"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I am not a journalist. I have never hacked a phone, written a meticulously-researched piece about an obscure detail concerning Princess Diana that would only be published because she was she, or lain doggo in one of Boris Johnson’s rhododendron bushes with pencil and paper at the ready to record indiscretions with his woman-who-does in assiduous detail. If I were a journalist, I would want these skills, but not just these ones. I would also want to be able to act.

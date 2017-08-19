@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Try being a candidate in a national election!
 date: "2012-05-25 18:49:08 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2502"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Normally running is a cheap affair; running for the bus only costs several seconds of embarrassment and the occasional penalty of abject failure when the driver leaves you behind in the cold. The cost of running for a sabbatical role in the IC Union? For most merely the embarrassment of selling your dignity to secure a victory, begging for scraps of votes from people you have suddenly decided to pay attention to after blanking them on campus for the last few years. Of course there is always a small amount of spending on advertising but you are restrained from breaking the bank, well as long as you can spell your name correctly.

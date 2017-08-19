@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Belgium and Ivory Coast remain without governments
 date: "2011-02-17 20:26:34 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "843"
@@ -34,15 +35,6 @@ image_height: "418"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The last article I wrote was about Mubarak and he resigned when it came out. Not saying it was all me but coincidences like that don’t happen. So now I’m going to hope my curse can help two other countries.

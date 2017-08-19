@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As France pursues its intervention in Mali, Alexander Soloviev looks into Middle Eastern affairs.
 date: "2013-02-07 23:17:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3257"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has been just over two years since a street vendor in Tunisia set himself on fire. His act of protest against the country’s oppressive and corrupt regime was not extinguished: the protest resonated with citizens across the Arab world, engulfing the region in political demonstrations, revolutions and even civil war.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Madama Butterfly was on stage from the 20th of March to the 25th of April 2017 as part of the Spring 2016/17 season
 date: "2017-05-15 16:21:23 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6952"
@@ -33,15 +34,6 @@ image_height: "908"
 image_attribution: "ROH, 2017 - Bill Cooper"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Royal Opera House’s Madama Butterfly is a modern take on the operatic classic that showcases a jaw-dropping performance from Ermonela Jaho. Despite this, the newest rendition of Puccini’s ‘ode’ to Japan doesn’t quite pack the punch it needs to drag the piece out of its orientalist past.

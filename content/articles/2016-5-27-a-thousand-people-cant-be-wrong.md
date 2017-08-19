@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Air conditioning in central library must be a top priority for the sabbaticals
 date: "2016-05-27 08:46:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6203"
@@ -34,15 +35,6 @@ image_height: "3837"
 image_attribution: "FELIX"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An expected outbreak of support for Felix’s campaign for air conditioning in the library has seriously raised questions about the role of the union in delivering student demands.

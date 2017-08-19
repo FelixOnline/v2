@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Security officer punched in face by suspect
 date: "2011-05-26 18:19:15 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1247"
@@ -34,15 +35,6 @@ image_height: "3168"
 image_attribution: "Alex Karapetian"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 College security officers, reacting to a report last Wednesday of the theft of a laptop computer, chased two young men across campus leading to an arrest and the assault of a security officer.

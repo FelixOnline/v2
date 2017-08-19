@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica takes a look at the downfall of Berlusconi
 date: "2011-11-24 22:46:12 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1841"
@@ -33,15 +34,6 @@ image_height: "1161"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The reign of the tyrant is over. In Italy, people celebrated in the streets as Berlusconi resigned; across Europe, markets sighed in relief and hoped that his successor would be able to unscrew the pooch that he so thoroughly enjoyed screwing. The ‘it has to get worse before it can get better’ part of this financial crisis seemed to be behind us, and Italy could get back on the road to normalcy. Times, finally, are looking up.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Edoardo Borgomeo explores the tragic themes of Soza Boy and Its Even More Tragic Backstory
 date: "2010-02-18 16:53:16 +0000"
+author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "94"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh106"
-author_name: "Lucy Harrold"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is not what you would call a normal book review, but that’s just because _Sozaboy_ is not a normal book. It is not one of those novels that after you have finished reading you’ll put back on the shelf. No, when you will be done reading _Sozaboy_ you will give to everyone you know. This is how I felt. This happened to me because _Sozaboy_ is a book that makes you perceive injustice and when you perceive injustice, especially when you are young, you want to make other people aware and you want to do something.

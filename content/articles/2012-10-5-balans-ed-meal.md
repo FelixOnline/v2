@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sophia Goldberg samples a three course meal at Balans and reports back...
 date: "2012-10-05 13:14:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2623"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Balans menu is an eclectic mix of dishes from Thai to Italian and a wide variety of cocktails. It is a café style restaurant, which specialises in cocktails. If you can’t agree where to eat out, then this is a great place for you as there’s something for everyone on the menu.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tackling Cystic Fibrosis through the ultimate endurance trust
 date: "2012-01-19 23:26:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2039"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m going to lay my cards out on the table straight away. I will spend the next six months begging you for money. This is the raison d’etre of this column. Amusing you (or more likely myself) would be a nice perk on the side – a bit like dental insurance.

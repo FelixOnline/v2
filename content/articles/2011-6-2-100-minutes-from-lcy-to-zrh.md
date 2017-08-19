@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Richard Keller on a relaxing sojourn in Zurich
 date: "2011-06-02 20:19:33 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1321"
@@ -34,15 +35,6 @@ image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I was in Zurich last week; a beautiful sunny day in what the Zürcher like to consider to be the best of Switzerland, its peak. It lacks the 15,203 ft altitude of the Dufourspitze, though, on a day like today the view across the lake is just as amazing. Strolling along Bahnhofstrasse the fashion statements (for women) walking by present themselves mainly as wearing shorts or a mini skirt, leather boots that go all the way up to the knees with flat heels and a top that has flowers printed all over it. In short, life is beautiful here.

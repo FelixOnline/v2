@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The postcard display at the White Cube gallery until 19th Feb .
 date: "2011-02-03 19:39:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "720"
@@ -33,15 +34,6 @@ image_height: "2504"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A seemingly endless tapestry of postcards greets visitors to the latest [Gilbert & George exhibition at White Cube](http://www.whitecube.com/exhibitions/gg%202011/). The aesthetic quality of the show is tangible from the start, even when one is not quite sure of the content of the pictures. The overall effect is that of giant, multicoloured quilts that cover the walls of two rooms. And then you get closer to the pictures; and each one is a surprise.

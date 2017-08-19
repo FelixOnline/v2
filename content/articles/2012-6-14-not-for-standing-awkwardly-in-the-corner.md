@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Comedy for nerds of any experience
 date: "2012-06-14 19:12:56 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2545"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the few enduring life lessons I learnt during my time in halls is that some guilty pleasures are more acceptable than others. Even in the relatively tolerant enclave of Imperial College, pulling an all-nighter in the kitchen with your mates playing StarCraft until dawn will still draw some rolled eyes and tuts under the breath.

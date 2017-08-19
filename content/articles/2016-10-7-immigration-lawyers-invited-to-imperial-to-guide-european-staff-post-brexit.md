@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hide yo wives! Hide yo kids!
 date: "2016-10-07 17:01:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6312"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: "TS Pakhrin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you only hold a European passport, you might want to consider applying for permanent residence in the UK, if not for British citizenship. Or at least that is what immigration lawyers invited to Imperial are advising, in a series of presentations for College’s European staff, to help them navigate the post-Brexit landscape.

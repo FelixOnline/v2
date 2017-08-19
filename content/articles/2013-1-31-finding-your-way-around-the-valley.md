@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial Entrepreneurs unveil the latest International Insight Series
 date: "2013-01-31 23:57:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3218"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 When it comes to the crunch explaining what ‘Silicon Valley’ actually represents – ask yourself – do you really have a clear understanding? For most of us, I suppose the influence from popular social media tools and cool high tech gadgets will probably relate us to multinational corporations like Facebook, Microsoft and Google which have offices situated in that region of San Francisco. Perhaps this amount of information is more than enough to bore some of the more ignorant ones about tech-based entrepreneurship – but honestly, Silicon Valley’s history and its place at the forefront of innovation and enterprise has more than what meets the eye.

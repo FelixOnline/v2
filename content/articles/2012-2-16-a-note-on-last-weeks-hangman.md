@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2208"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In last week’s Felix, an article was published in the Hangman section which many readers felt incited sexual violence, trivialised rape and generally contributed to the idea of a rape culture. I would like to take the opportunity to assure readers that this was in no way our intention, and we all agree that a piece of content which does this is wholly unacceptable.

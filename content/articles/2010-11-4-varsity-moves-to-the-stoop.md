@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sport Imperial confirm that the JPR Williams Cup match will move to The Stoop, home of rugby premiership side Harlequins
 date: "2010-11-04 18:54:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "318"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 After several months of negotiations and rumours, [Sport Imperial](http://www3.imperial.ac.uk/sports) were able to confirm that the JPR Williams Cup match will move to [The Stoop](http://www.union.quins.co.uk/club/stoop.php), home of rugby premiership side Harlequins.

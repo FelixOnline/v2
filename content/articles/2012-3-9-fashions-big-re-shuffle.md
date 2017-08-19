@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jacobs, Pilati, Sander, Simons and Slimane; Alice Yang brings you the latest amid a designer overhaul
 date: "2012-03-09 00:54:39 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2333"
@@ -33,15 +34,6 @@ image_height: "642"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 As a month of high-fashion draws to an end with yards of lace, cashmere and leather erupting lavishly off the Paris catwalks, the unavoidable fact is that a tornado of names is what belies the centre of its storm.

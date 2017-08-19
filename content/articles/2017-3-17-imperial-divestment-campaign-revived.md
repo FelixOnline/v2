@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But will it succeed where the last one failed?
 date: "2017-03-17 12:59:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6895"
@@ -34,15 +35,6 @@ image_height: "337"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This Monday will see the relaunch of the fossil fuel divestment campaign at Imperial. The new campaign will be called Divest Imperial, and at the official Launch Party on Monday evening campaigners are hoping to convince students that the recent successes of divestment groups such as the one based in King’s, can be replicated at Imperial.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence de Lussy Kubisa reminisces about the Student Publication Association National Conference
 date: "2014-05-09 02:03:50 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4570"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Lugging the recommended 200 copies of Felix, I skilfully avoided Friday rush hour and made my way to King’s Cross to attend the Student Publication Association National Conference (#SPANC) being hosted at Nottingham Trent University. Due to an administrative oversight (idiocy) tickets were exclusively via Grantham (lovely station) and highly reasonably priced (expensive). After relieving myself of about 30kgs worth of newspaper at the hostel, I headed on down to Nottingham Trent Union (NTU) to meet with my hosts and the other Felix rep (our estimable Editor-elect).

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Figures released by the government are scoured through and commented upon by Padraic Calpin, Politics Editor
 date: "2013-03-07 23:44:26 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3445"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Sam Lav"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 At the core of student opposition to the College’s decision to close Garden Hall and open a new residence in North Acton is a concern for Imperial’s less well off students. Campus Services seems to have demonstrated an utter disregard for the possibility that poorer students may be forced out off campus, separated from their classmates and their union. This raises difficult questions; what proportion of Imperial’s students come from less privileged economic backgrounds, and how do we compare to other institutions? Is Imperial ‘needs blind’, or a science, medicine and engineering finishing school?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union policies threaten the Overseas Societies Committee
 date: "2012-03-15 22:25:48 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2399"
@@ -33,15 +34,6 @@ image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Overseas Societies Committee is the arm of the Imperial College Union which both looks after the interests of and manages all of the international societies present at Imperial. With a current strength of 38 societies under our watch, the total membership that comes under the OSC amounts to a staggering figure of 2126, making us one of the largest Management Groups around. The line-up of events for the OSC this year witnessed the inauguration of the OSC World Summit and the International Festival entitled ‘The Melting Pot’, alongside our staple events which included the OSC Football World Cup and the International Night. Apart from Management Group level activities, a large number of constituent societies also very enthusiastically stage their own annual cultural performances to showcase their tradition and heritage in an emphatic style.

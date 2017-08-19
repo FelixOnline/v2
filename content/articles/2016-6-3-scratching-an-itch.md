@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Into and One Night Stand, two short narrative experiments, tell interactive stories in profound new ways
 date: "2016-06-03 09:26:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6241"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "animal phase"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Into_, or, _I Turned My Autobiography Into a Fictional Second-Person Surreal Coming-Out-Of-Age Dramedy and Now My Life Is Happier_ is not like many experiences you’ve interacted with before. In three short, distinct scenes it captures one person’s coming of age. Across these the screen focuses equally on two hands, two heads, and two bodies. These are two different people but together they tell the story of one.

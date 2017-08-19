@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s the first of December tomorrow, so this is like, OK and that. Luke Baldwin on what Christmas is all about.
 date: "2012-11-29 23:09:05 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3005"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 What part of Christmas do you look forward to most? The music, the gifts, the cheer...? Where to begin!

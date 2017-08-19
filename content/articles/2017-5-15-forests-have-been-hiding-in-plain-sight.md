@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Andrada Balmez explains how we’ve only just discovered 467 million hectares of forest
 date: "2017-05-15 17:33:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6965"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "TERN Ausplots"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Scientists have been missing the forest for the trees; literally, it turns out. A team of international scientists have found that dryland forest cover could be 40% to 47% higher than previously estimated. This corresponds to 467 million hectares (Mha) of forest that have never been reported before (and this is approximately 250 times the size of Wales or seven times the surface of France). The report increases the current estimates of global forest by at least 9%, the team reported.

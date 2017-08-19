@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hammersmith-based research facility opened by Chancellor
 date: "2012-06-01 11:59:12 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2506"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 A new research facility built with the aim of channelling scientific discoveries into the prevention and treatment of diseases was opened on Monday 28 May on Hammersmith Campus.

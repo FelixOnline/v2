@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Cronshaw talks to Formula 1 engineer Dirk DeBeer about all things motorsport
 date: "2011-10-27 23:39:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1622"
@@ -34,15 +35,6 @@ image_height: "2445"
 image_attribution: "James Cronshaw"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m standing on a windswept airfield somewhere in Cambridgeshire. In the distance there’s the scream of a V8. A black silhouette of a car is racing at great speed down the runway. Behind me a radio crackles and the car turns off the runway, heading to where I’m standing, engine warbling at each downshift.

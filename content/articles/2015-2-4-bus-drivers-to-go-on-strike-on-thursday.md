@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Students are advised to allow extra time for travelling to and from university.
 date: "2015-02-04 13:32:25 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "5191"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Glenn Copus"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Thursday 5th February bus drivers will go on strike in a protest over pay. It will be the second time this year that a strike has taken place this calendar year over the issue, and a further two walkouts are scheduled for February 13th and February 16th.

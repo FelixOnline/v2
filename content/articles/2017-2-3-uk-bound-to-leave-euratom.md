@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists slightly miffed
 date: "2017-02-03 15:01:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6707"
@@ -33,15 +34,6 @@ image_height: "2848"
 image_attribution: "Global 2000"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a slightly surprising move, the UK government announced last Friday that Brexit meant leaving Euratom. This comes after Theresa May said Britain would: “welcome agreement to continue to collaborate with our European partners on major science, research, and technology initiatives” in her Lancaster House speech last month.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Uncharacteristic result for Imperial but team put on a good show
 date: "2011-02-28 21:08:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "940"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 On a rainy Sunday afternoon, the Imperial College Hockey Club Men’s 2nd XI wearily approached the UCL hockey ground late after a tiring morning of push starting a seriously defective Union minibus.

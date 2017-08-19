@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jennifer Eden explains why Brexit isn’t necessarily the disaster you think it is –especially for Africa
 date: "2016-10-03 18:54:25 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6306"
@@ -34,15 +35,6 @@ image_height: "2008"
 image_attribution: "j_bg"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Upon joining the European Union in 1973, Britain joined an exclusive trade bloc based on its geographical location. A western country joining a western organisation designed to help already wealthy countries protect their own market interests. Yet, amidst the panic that followed the Brexit vote, many remainers were full of dismay and shame that Britain had detached itself from the EU utopia of ‘common values’, most laughably of which is inclusivity. The EU is first and foremost an exclusive group. This cannot be stressed enough.

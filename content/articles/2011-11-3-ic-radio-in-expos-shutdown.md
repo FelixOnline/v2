@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Complainant objects to alleged defamation of character
 date: "2011-11-03 19:26:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1651"
@@ -34,15 +35,6 @@ image_height: "4288"
 image_attribution: "Bob Xu"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 IC Radio was shut down last Friday after the college received a serious complaint following a show in which the presenters discussed the “dirty little secrets” of an unnamed student organisation. The complaint is thought to have been from a former or current committee member of the organisation who stated that their primary objection to the programme was “defamation of character”. The show, which aired on Sunday 23 October, has since been removed from the [IC Radio website](http://www.icradio.com/).

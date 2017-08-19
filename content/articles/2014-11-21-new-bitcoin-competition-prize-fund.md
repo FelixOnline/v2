@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Competition launched by Business school for blockchain technology development
 date: "2014-11-21 13:22:59 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4929"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Imperial College Business School (ICBS) has teamed up with Entrepreneur First (EF), a pre-seed investment programme, to launch a new competition prize fund for students. Up to £3000 could be won from the Imperial/EF Bitcoin Prize Fund for projects that utilise Blockchain technology, which allows secure transactions without the need for a central regulation authority – how Bitcoin is best described.

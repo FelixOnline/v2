@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Creative Writing students present yet more Freshers short stories
 date: "2014-04-07 12:44:46 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4520"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __Advice translated by the Mouth of the Eye of Queen’s Tower, scribed by the Hand of the Eye of Queen’s Tower__

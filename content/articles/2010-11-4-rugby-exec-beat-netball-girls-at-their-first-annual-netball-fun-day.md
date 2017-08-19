@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First Annual Netball Day.
 date: "2010-11-04 18:51:10 +0000"
+author_id: "fmg08"
 
 # Attributes from Felix Online V1
 id: "315"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fmg08"
-author_name: "Fern Gibbons"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Saturday 30th October the first ever Netball Fun Day was hosted by ICUNC. The day started with the sun shining, a clear sky and a lot of excitable Netball girls.

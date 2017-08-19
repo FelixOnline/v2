@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Proposals include 34-storey residential tower to be built at Wood Lane
 date: "2012-01-12 22:32:19 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1985"
@@ -34,15 +35,6 @@ image_height: "3543"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London has submitted a planning application for the second phase of the development of a [new postgraduate campus at Wood Lane](http://www3.imperial.ac.uk/newcampus/whatis), with the project aiming to include the construction of a 34-storey residential tower block.

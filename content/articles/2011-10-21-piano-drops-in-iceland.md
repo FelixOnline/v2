@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Hecker's Ravedeath
 date: "2011-10-21 11:27:07 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1599"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Tim Hecker’s latest outpouring, Ravedeath, 1972, wraps around the billows of an organ in a church in Reykjavik. Sampled and reconfigured, casting a brume of disbelief, its song is suspended like a gasp in deep sleep. The sounds disintegrate like a snowball melting in your hand. Each remaining echo slipping down a liquefied trace collecting on the underside.

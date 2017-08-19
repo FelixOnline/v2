@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sleigh Bells - Reign of Terror - Mom & Pop - 2012
 date: "2012-02-23 20:57:44 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "2248"
@@ -34,15 +35,6 @@ image_height: "925"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 On Monday, __Azealia Banks__ will play at Heaven. Sadly, I will not be there. Those damned academic commitments trumped my desire to go see the hottest female rapper since __Missy Elliott__ said she wanted to [search around in my trousers](http://www.youtube.com/watch?v=UODX_pYpVxk) for Lord knows what (well, I assume she was talking to me, but one can never be quite sure when it comes to mass-distributed music).

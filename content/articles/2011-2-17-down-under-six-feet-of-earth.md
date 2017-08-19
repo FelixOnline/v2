@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s an absolutely phenomenal crime drama that is surely in league with similar themed films.
 date: "2011-02-17 19:31:48 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "818"
@@ -34,15 +35,6 @@ image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Animal Kingdom

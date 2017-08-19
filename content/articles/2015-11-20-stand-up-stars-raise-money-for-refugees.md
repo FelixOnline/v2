@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Greg Davies and friends perform at the Apollo to help UNHCR and Action Aid
 date: "2015-11-20 09:40:08 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5761"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last Wednesday, a constellation of comedy stars performed at the Eventim Apollo’s one off Stand Up in Action benefit to raise money for Action-Aid and the UN Refugee Agency (UNHCR), the charities providing aid in response to the global refugee crisis.

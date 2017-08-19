@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Playing the claim game
 date: "2011-05-20 03:09:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1214"
@@ -34,15 +35,6 @@ image_height: "1936"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Give me your clothes, your boots, and your dignity – a common cry across the land as 40 eager Imperialites joined hundreds of students from around the country in preparation for the British Universities Snowsports Council (BUSC) Main event 2011. The stench of sweaty ski/board boots filled the air as old gear was dug out from the back of cupboards and chucked on coaches for the 24-hour drive to Tignes, during which our star snowboard freestyler Luke Bridgestock became a much loathed mini-celebrity among Bristol University students for his embarrassingly loud “the first time I ever...” life recollections at 5am.

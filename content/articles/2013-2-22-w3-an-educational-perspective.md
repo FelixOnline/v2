@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The educational experience of future first-years will sufer as a result of being housed in North Acton, says Doug Hunt
 date: "2013-02-22 01:43:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3365"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 If a[ first year lives in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/), they are going to spend at least 90 minutes a day traveling back and forth between South Kensington and their halls. As the courses at Imperial College London are already known to have a high workload, our future students are going to find this incredibly painful and I expect more first years will drop out when they are going through the transition of a school mentality to that of what is needed to complete an Imperial degree. I predict that these students will engage less with the student community, fewer will do Horizons, which will ultimately lead to them not being a well-rounded student and less employable.

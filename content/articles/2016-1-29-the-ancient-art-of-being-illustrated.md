@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5852"
@@ -34,15 +35,6 @@ image_height: "4382"
 image_attribution: "Margot Mifflin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Skin as a blank canvas is not a new idea; Ötzi the Iceman, frozen sometime between 3239 and 3105 BCE had a tattoo. Inking or marking skin unites cultures and continents across the ages.

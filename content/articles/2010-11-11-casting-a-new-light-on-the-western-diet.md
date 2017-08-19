@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Director Shelley Lee Davis, Or Shlomi Narrator Yvonne O'Grady noah baker
 date: "2010-11-11 20:46:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "344"
@@ -34,15 +35,6 @@ image_height: "320"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Directors Shelly Lee Davies and Or Shlomi are new to filmmaking. In an after-screening Q&A they revealed that this endeavour was one which they carried out largely alone and with what appeared to be little past experience; suffice it to say that it did show. Although the content of this film speaks volumes, the editing and camerawork left something to be desired, especially when compared to The Cove, An Inconvenient Truth, Fahrenheit 911, or in fact many of the eye-opening “docufilms” which have so thrillingly educated us in the past.

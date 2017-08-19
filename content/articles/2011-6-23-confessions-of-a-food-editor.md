@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I hate reviewing if I haven't paid
 date: "2011-06-23 21:11:35 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1434"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Reviews. I hate writing reviews for places that I’ve eaten ‘on the house’. There’s something about dining for free, and the awkward moment when you don’t call for the bill. Do you just thank the waiter and bid him “Adieu!”? And when the restaurant gets my review in the post, I always wonder whether they admire and put it amongst their other shiny reviews; or do they put your name in the black book if you foulmouthed the taste of their tap water; or do they simply throw it in the trash. The latter does seem far more likely. (Especially when they see the last sentence isn’t even finished with a full stop.)

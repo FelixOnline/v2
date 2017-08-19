@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Spencer-Jones runs in slow motion
 date: "2013-02-14 19:28:37 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3325"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 ICBC’s high performance contingent made the ever dreary trip to Boston on Saturday 9th February and came out with some good results, hopefully putting them in the mixer for international selection this year. BUCS small boats head was also incorporated into the GB trials, so Imperial athletes were racing for Sport Imperial glory as well!

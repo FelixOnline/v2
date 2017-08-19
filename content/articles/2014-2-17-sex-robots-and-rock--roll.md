@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Will Hunter discusses the new robots that can feel human emotions
 date: "2014-02-17 17:16:30 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4388"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 A recent advancement by scientists at Lincoln University shows positive signs of developing robots that can help humans to build and establish longer-term emotional relationships with them. And in doing so, may also overcome certain thought-biases established in the human psyche. With the ability to express five simple emotions, this new technology could see our reaction to humanoid robotics possibly shift from revulsion to attraction.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   40 years of comic book trippyness
 date: "2013-03-07 23:50:53 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3447"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 “Whaam!” is probably one of the most reproduced pieces of art on the planet. That bold comic style, that distinctive script, the perfect coloured dots... The piece is so distinctively Lichtenstein that it has perhaps come to define him as an artist. However as this retrospective shows, Roy Lichtenstein is so much more than that.

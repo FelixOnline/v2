@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial students have made it through to the BP Ultimate Field Trip semi-finals. Four Imperial teams (X-tek, Team Griffon, Energineers & The Next Frontier) have reached the semi-finals stage, which will be held on the 3rd-4th February across the UK.
 date: "2014-01-24 09:45:46 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4277"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Imperial students have made it through to the BP Ultimate Field Trip semi-finals. Four Imperial teams (X-tek, Team Griffon, Energineers & The Next Frontier) have reached the semi-finals stage, which will be held on the 3rd-4th February across the UK.

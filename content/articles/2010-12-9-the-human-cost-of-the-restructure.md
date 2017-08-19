@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
+author_id: "skd09"
 
 # Attributes from Felix Online V1
 id: "543"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "skd09"
-author_name: "Sophia David"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The [14 academics lost](http://www.felixonline.co.uk/?article=530) to the Life Sciences department represent the most incredible array of talent, expertise and experience. The staff caught up in the restructuring, deemed unsuitable for the new department, have nevertheless contributed enormously to university life, being involved in teaching, career services and student welfare to name only a few areas. Felix considers what these individuals have brought to the university over many years and what will be missed.

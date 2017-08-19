@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1278"
@@ -33,15 +34,6 @@ image_height: "1191"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The small, dusty and cramped environs of the Imperial College Science Fiction Library may serve as a true reflection of how the genre is valued and viewed by many... and this is the science fiction library of the country’s leading science university. The tiny library houses over 7000 books and 1000 films: extrapolate those figures to get a more realistic size of the realm of science fiction on a global scale.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lucille Calmon tells us all about FemSoc's plans to put on The Vagina Monologues, Eve Ensler's powerful exploration of the role the snatch plays in society
 date: "2017-01-20 15:30:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6673"
@@ -33,15 +34,6 @@ image_height: "657"
 image_attribution: "Paul Stein"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I bet you're worried. I was worried. I was worried about vaginas. I was worried about what we think about vaginas, and even more worried that we don't think about them” wrote Eve Ensler in the introduction of The Vagina Monologues, a compilation of over 200 women’s feelings about their body and their sexuality. Ensler interviewed and talked with them about their vaginas: how do they perceive it? How they feel about ‘the vagina’ in general? What would your vagina say? Ensler gave them the space to talk freely, and listened to their stories.

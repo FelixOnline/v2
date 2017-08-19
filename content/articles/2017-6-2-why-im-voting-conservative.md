@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philip Kurukgy tells us how the Tories won him over
 date: "2017-06-02 14:14:03 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7002"
@@ -34,15 +35,6 @@ image_height: "2444"
 image_attribution: "Jay Allen"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Anyone who thinks that this election is not about Brexit, is out of touch with the reality of the task ahead. Brexit will be looked upon as a turning point in this country’s relationship with its neighbours. Some argued that this was the worst political choice this country has ever made. For a long time, I was one of those people. I found economic security in the status quo and certainty in the confines of a dysfunctional EU. However, the way Britain has been treated after Brexit by the EU highlights the divergences in the core of the European project. For Europe, the EU was an emotional peace project after WWII and the end of the cold war. For Britain, it was all about trade and never about giving up sovereignty. In the light of this disturbing EU tone, we must forge new trade agreements to secure our future. This country was always a merchant trading country. We need to be where the buyers are and it is not Corbyn who is going to deliver these trade deals.

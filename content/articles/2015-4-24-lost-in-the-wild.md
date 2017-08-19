@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg is let down again by the Orange Tree Theatre's lackluster production of a Doris Lessing
 date: "2015-04-24 13:57:25 +0100"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5470"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Richard Hubert Smith"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If only third time lucky always worked out. With another long-winded, lacklustre display from the __Orange Tree__, I am starting to lose patience with Paul Miller’s tenure at this fantastic theatre.

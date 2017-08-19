@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman reports back from Hollywood
 date: "2015-01-23 17:29:18 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5134"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You might have noticed there’s been a bit of controversy about the Oscars. _The LEGO Movie_ got completely snubbed for Best Animated Feature, and a lot of people got very angry, very, very quickly. The directors (Phil Lord and Chris Miller) responded in their typically wonderful style, with the former posting a picture of an Oscar statuette made of LEGO, and the latter issuing heart-felt thanks to all involved in the film, as well as noting that “everything [was] not awesome.”

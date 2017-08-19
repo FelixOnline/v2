@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alejandro Torrado Pacheco talks to the author of King of the Jungle
 date: "2013-06-26 17:32:33 +0100"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "3741"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __First of all, I'd like to know some more about the author. Where did you grow up, what did you study, what brought you to writing?__

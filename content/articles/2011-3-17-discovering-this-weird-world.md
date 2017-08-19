@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Is it cool, or mature, to be unimpressed with everything we see around us?
 date: "2011-03-17 21:46:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1106"
@@ -33,15 +34,6 @@ image_height: "960"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The other day I saw something strange and wonderful. I was walking along the street, happily minding my own business, and happened to stop at a junction. All normal so far. Then, a lorry stopped beside me – a FedEx lorry with the FedEx logo emblazoned all over. And that was when I saw it; inside the FedEx logo, there was an arrow!

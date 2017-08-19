@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles selects a powerful work from W. Eugene Smith
 date: "2014-11-14 20:48:51 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4876"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A picture tells a thousand words, as the old adage goes. But some of the best photos go deeper; not satisfied with a word-limit of a thousand, the photographer instead expands their range, taking in entire movements, nations, and histories with their lens.

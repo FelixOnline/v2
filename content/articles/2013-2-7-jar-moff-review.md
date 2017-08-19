@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matt Earnshaw reviews Commercial Mouth
 date: "2013-02-07 22:50:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3246"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Berlin-based record label PAN have a tough act to follow this year given the strength of the line up curated by label owner Bill Kouligas in 2012. Releases such as those from Lee Gamble, Heatsick, and Helm, amongst others, received widespread critical acclaim for their cutting edge visions of contemporary experimental electronic music, making frequent appearances on the “Best of 2012” lists of critics and artists alike. Given the hitherto unfaltering creative vision of the label it should not come as too much of a surprise that PAN’s first release of 2013 charts yet another high-water mark on their continued upward trajectory.

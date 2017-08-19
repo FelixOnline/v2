@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Nominate people for recognition
 date: "2013-05-02 13:40:11 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3533"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Union Award nominations for this year have opened. Any student can nominate another student for their contributions to the Union. This can be with their contributions to a club or society or other work. There are four levels of recognition, which from Fellowship with Distinction to Union Colours. The nominations will be open until Friday 31 May through eActivities. After this the Awards Committee will have to decide on who deserves what.

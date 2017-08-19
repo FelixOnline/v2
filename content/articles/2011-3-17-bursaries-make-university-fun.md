@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I think the bursary should continue to be given to students cash in hand
 date: "2011-03-17 21:44:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1105"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Living the typical meagre student existence at Imperial College in South Kensington, one of the wealthiest boroughs in one of the world’s most expensive cities, was never going to be easy. But my soon–to–be alma mater (assuming I pass my damned degree) is going to make it a whole lot harder with the increase in tuition fees. The powers that be feel that Imperial is esteemed enough to demand £9,000 a year for a degree, and had this been the case when I was applying for university, I feel my parents would have been far less supportive of me coming here. After all, they have had to suffer most of the costs.

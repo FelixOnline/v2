@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett talks about why we need to act, fast
 date: "2012-11-01 22:41:54 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2789"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "http://www.onezoom.org/"
 image_attribution_link: "http://www.onezoom.org/"
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial saw the advent of [OneZoomTM ](http://www.onezoom.org/)this month, a navigable, online Tree of Life that allows for easy exploration of mammals and how they are related to each other genetically. Using a click of a mouse, you can scroll through millions of years of evolutionary hardship to come to the organisms it has shaped today, each settled cosily on a little leaf.

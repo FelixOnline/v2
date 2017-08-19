@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Two Alexs go head-to-head over new degree proposals
 date: "2011-10-20 22:59:18 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1577"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Yes - Alexander Karapetian__

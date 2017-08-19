@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Classic cinema of the week.
 date: "2011-02-03 19:48:48 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "726"
@@ -33,15 +34,6 @@ image_height: "300"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the surface, New York City appears to be the physical embodiment of the American Dream. The wide, leafy spaces of Central Park nestled amongst the glittering spires of the skyscrapers that house the largest financial district in the world project a symbol of prosperity and success across the Atlantic. However every city has an underbelly and the seedy alley's beneath the behemoths of capitalist wealth and highrise apartments have proved irresistible for scores of directors since John Schlesinger's Academy Award winning classic Midnight Cowboy. John Voight's iconic portrayal of a hustler slumming it with Dustin Hoffman's crippled conman introduced American audiences to a new brave style of filmmaking, far from the glitzy optimism of the classic Hollywood aesthetics, and soon a young upstart director was ready to stamp his own impression of this city of contradictions on celluloid.

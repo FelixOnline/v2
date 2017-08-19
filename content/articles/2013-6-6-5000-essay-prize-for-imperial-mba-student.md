@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Mike Follett wins with his essay about social good as well as profitability
 date: "2013-06-06 15:26:01 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3664"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mike Follett, a MBA student at the Business School has been awarded the first place award for an advertising competition, ADMAP prize 2013 for his essay. The essay was entitled “Thinking in 3D”. Mike will receive the Gold award and a cheque for $5,000 at the ADMAP Prize celebration event on June 19th at the Cannes Lions International Festival.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the sexiest outfits and angels of last week’s runway show at Earl’s Court Exhibition Centre
 date: "2014-12-11 21:33:38 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5042"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Photo: Dimitrious Kambouris via Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Angel: Alessandra Ambrosio__

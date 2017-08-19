@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Comment Editor Eoghan Totten presents a stimulating article on the problems surrounding the nuclear reactor in Fukushima
 date: "2013-09-05 18:40:37 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3757"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 When I began to put this article together the recorded radiation levels around the storage tanks of the Fukushima Nuclear Plant stood at 1,800 millisieverts. By Tuesday a ground reading of 2,200 mSv, a 22% rise, was duly noted.

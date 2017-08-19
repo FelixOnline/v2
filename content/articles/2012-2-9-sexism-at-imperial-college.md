@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There's a way to go in the fight against discrimination, writes Stephen Smith
 date: "2012-02-09 23:01:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2167"
@@ -34,15 +35,6 @@ image_height: "4961"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Not here, surely? Sexism is everywhere: in the media, in politics, in the arts, but at universities? The centres of liberal thought and tolerance? Where everyone is open-minded and friendly and – above all – extremely egalitarian? If there were ever a place where sexism shouldn’t exist, it is here. And yet it persists like an ugly, cunning mouse peskily dodging the hungry cat of equality.

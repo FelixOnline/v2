@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland examines the Royal Court’s new piece of Palestinian theatre
 date: "2015-03-03 14:11:56 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5320"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Death. Darkness. Claustrophobia. Darkness. Madness. Darkness. Dalia Taha’s new play _Fireworks_ is not the celebration that the title suggests. Telling the story of two families battling for sanity in a besieged Palestine, _Fireworks_ examines how children rationalise and interact with war and death, a jolting and twisted dichotomy.

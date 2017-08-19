@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Andrew Olson thinks it's time the exclusive drinking societies were held to the same standard as everyone else
 date: "2017-03-17 17:01:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6908"
@@ -34,15 +35,6 @@ image_height: "1107"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Everyone studying at Imperial is aware that this place is not perfect. Yes, there are problems with student engagement, mental health, even sexism. But despite these issues, I feel it is the place which has mainly contributed at making me who I am today; the fantastic wardening team in my halls in first year, the challenging environment and, more importantly, the Imperial community of incredibly interesting people from all over the world which I could always learn something from.

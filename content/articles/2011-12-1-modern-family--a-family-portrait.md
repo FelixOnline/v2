@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A TV series which looks at the everyday life of your typical family
 date: "2011-12-01 20:36:11 +0000"
+author_id: "js2310"
 
 # Attributes from Felix Online V1
 id: "1873"
@@ -34,15 +35,6 @@ image_height: "351"
 image_attribution: "ABC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js2310"
-author_name: "James Simpson"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have a completely insane family. So when I heard about _[Modern Family](http://www.imdb.com/title/tt1442437/)_, I didn’t think much of it. The advert on TV just made me cringe. That was until I watched an episode. American comedies can sometimes disappoint, but this show is fantastic. I would venture to say it’s because it has a hint of British humour to it, with a lot of the slapstick and puns that we love so much.

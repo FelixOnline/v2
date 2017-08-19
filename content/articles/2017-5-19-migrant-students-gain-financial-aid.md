@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It doesn't make sense for Imperial College to charge them international fees
 date: "2017-05-19 14:58:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6971"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 An interesting paper at this week’s Union Council meeting addressed the issues faced by asylum-seekers and migrants trying to access higher education in London.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We need to talk about Lemonade
 date: "2016-04-29 10:36:37 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6098"
@@ -34,15 +35,6 @@ image_height: "786"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 L_emonade_, **Beyoncé’s** sixth studio album dropped on Saturday, with nothing but a seconds-long cryptic YouTube video to promote it. The ‘visual album’, directed by seven directors including Kahlil Joseph (**Kendrick Lamar’s** ‘m.A.A.d’), and Melina Matsoukas (‘Pretty Hurts’, ‘Formation’) is something special. Beyoncé has previously spoken about her habit of rooting her songs in imagery throughout the creative process, and in _Lemonade_ she has created music to be watched.

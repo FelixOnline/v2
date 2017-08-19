@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We don’t want politicians who watch X Factor, so stop faking it guys, and get back to running the country
 date: "2011-02-17 19:54:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "827"
@@ -33,15 +34,6 @@ image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Politicians want your vote, and they will do anything to get it. So it has been, so it will always be. But the difference today, in this age of growing individualism, television and internet and is that to sell you whatever you want, whoever you may be, their face needs to be seen. And what does this mean? Utter despair on my part at the lengths political leaders will go to be seen as hip, serious, family orientated, funny, conscientious, laid–back – the list goes on.

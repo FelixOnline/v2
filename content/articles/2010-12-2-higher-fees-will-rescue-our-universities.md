@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Every other sector faces wage-freezes, mass redundancies or unemployment
 date: "2010-12-02 21:39:27 +0000"
+author_id: "lmh07"
 
 # Attributes from Felix Online V1
 id: "493"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lmh07"
-author_name: "Laura Huckins"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In mid September, Europe began to howl. Guttural, deep, pained. On one day, Spain joined Italy, France and Ireland in staging a General Strike. The hot streets of Cadiz thronged with protesters; shops had doors glued or taped shut. Europe had arisen to protest austerity measures imposed to combat massive national debt (16% of GDP in Spain’s case). Their people faced lowered minimum wage, mass unemployment (peaking at 20%) and stark cuts in order to meet Prime Minister Zapatero’s aggressive plan to reduce debt.

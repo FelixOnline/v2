@@ -4,6 +4,7 @@ title: >
 subtitle: >
   RCSU President boycotts event
 date: "2017-06-09 14:51:10 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7008"
@@ -34,15 +35,6 @@ image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Monday saw the Union thank its volunteers at the annual Union Awards.

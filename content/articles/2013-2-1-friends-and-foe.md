@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fiona Cameron reports on the Imperial vs RSM battles
 date: "2013-02-01 00:28:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3228"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On a crisp sunny January Sunday morning, (or a continuation of Saturday evening depending on who you ask), 30 of Imperial’s finest, the IC and RSM teams, faced-off at Harlington Sports Ground for an epic Mixed hockey match and a half time boat race. The two components of the match up are fiercely contested allowing both teams to show off their strengths!

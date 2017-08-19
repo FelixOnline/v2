@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ICSM President thinks it's BUCing awful
 date: "2013-03-14 23:58:26 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3456"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The British Universities & Colleges Sport ([BUCS](http://www.bucs.org.uk/homepage.asp)) acts as the national governing body for higher education sport in the UK. They have decided that a single educational institution should not be able to compete as two separate teams. This means that the current system where Imperial College (IC) and Imperial College School of Medicine (ICSM) are separate teams will not be able to continue.

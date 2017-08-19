@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Avoids clashing with the iPad by packing more of a punch
 date: "2011-05-06 08:25:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1156"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Currently, the tablet market is undeniably dominated by Apple, with Google’s Android looking to take some share with Honeycomb. The tablet OS that has seen far less of the limelight so far however is Windows 7. Known of course as a desktop and laptop OS, it’s also perfectly useable on a tablet, and this is what the Asus EEE Slate EP121 brings to the table.

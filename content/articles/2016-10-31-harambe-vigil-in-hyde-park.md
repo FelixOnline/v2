@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial computing student organises memorial
 date: "2016-10-31 13:41:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6361"
@@ -33,15 +34,6 @@ image_height: "2988"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Up to 3000 are expected to attend a candle-lit vigil this Friday in Hyde Park to commemorate the life and death of Harambe, the Gorilla killed earlier this year at the Cincinnati Zoo and Botanical Garden in Ohio. The event, which was set up by third year Computing student Paul Balaji in response to a similar event in Durham, has already engaged with over 14000 people including 5700 people who have shown interest.

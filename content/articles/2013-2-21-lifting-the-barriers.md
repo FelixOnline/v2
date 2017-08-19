@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What does a trade agreement between the two largest economies in the world mean?
 date: "2013-02-21 13:44:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3339"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Spring seems to be in the air. The feeling of change and new prospects seem to blossom. For 2013 marks the beginning of free trade negotiations between the EU and the US.

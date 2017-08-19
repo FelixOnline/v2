@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson summarises your sexual satisfaction
 date: "2015-06-04 23:32:36 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5599"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Overall, 62% of us are ‘happy’ or ‘very happy’ with our sex lives at Imperial. Only 21% reported that they were ‘unhappy’ or ‘very unhappy’ (sorry folks), while 15% didn’t feel one way or the other.

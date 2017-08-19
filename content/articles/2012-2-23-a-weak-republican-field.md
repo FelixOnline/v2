@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tim Arbabzadah comments on the state of US elections
 date: "2012-02-23 20:32:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2235"
@@ -34,15 +35,6 @@ image_height: "606"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The US elections are coming faster than a randy teenager who's left his bedroom door open when his parents are downstairs. Much like the aforementioned situation, they are always exhilarating and dangerous. At the moment, it’s the Republican nominations that are taking up valuable headline space. They are not too dissimilar to an arrogant, terrible, and loud punk-rock band: they shout incoherently about how great they are when all the evidence seems to suggest the opposite. If I’m honest, I think that the Republican field is incredibly week this time around. Even John McCain maybe thinks so: he accidentally endorsed Obama and not Romney in what I can only imagine was a Freudian slip. I want to waste your time by immaturely discussing the potential (and real) candidates.

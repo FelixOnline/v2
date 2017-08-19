@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A real term decrease to science spending
 date: "2012-11-15 20:45:02 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2883"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Overall government spending on Science, Engineering and Technology (SET) has fallen in real terms by £733m.

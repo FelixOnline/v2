@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Or is this the final nail in its coffin?
 date: "2017-05-12 17:05:13 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6944"
@@ -33,15 +34,6 @@ image_height: "3456"
 image_attribution: "Lef Apostolakis"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The divestment campaigners at Imperial are on the move again. This week saw them taking to campus with various events and actions. On Wednesday students dropped a banner off the main union building in Beit Quad. The banner which wrote out in large black and orange letters “IMPERIAL DIVEST NOW!” was taken down within hours. The Union has come out in support of student-led campaigns but it remains unclear whether Union Staff were involved in the taking down of the banner

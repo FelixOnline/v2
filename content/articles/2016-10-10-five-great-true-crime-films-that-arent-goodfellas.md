@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yes, there are other true-story crime dramas out there
 date: "2016-10-10 12:46:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6323"
@@ -33,15 +34,6 @@ image_height: "734"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let’s get one thing out of the way: Goodfellas is an incredible film. Based almost to the letter on the autobiography of wiseguy gangster Henry Hill, it’s got a very strong claim to be  the all-time best of its director Martin Scorsese’s. If you haven’t seen it already, it’s on Netflix - I’d advise you watch it right now. Seriously, grab your friends and tell them it’s movie night. Done? Good! No doubt you’ll now be needing some more true-story crime dramas to fill the hole; here are five of the very best.

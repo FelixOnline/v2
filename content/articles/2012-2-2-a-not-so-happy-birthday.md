@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rajvinder Virdee on who he thinks is crashing the Euro's party
 date: "2012-02-02 19:52:57 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2096"
@@ -33,15 +34,6 @@ image_height: "411"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On January 1, 2012, a major economic milestone was reached: the Euro’s 10th birthday. Although the Euro had officially been in existence since 1995 and was introduced into financial markets in 1999, it wasn’t until 2002 that notes and coins were issued in circulation. The Euro is an important currency; it is not only the second largest reserve currency but it is also the most circulated, with almost €900bn in circulation. It is the currency of 17 of the 27 European Union member states, a population of more than 330 million, not forgetting the numerous countries (mainly African) who have currencies pegged against the Euro. This totals to about 500 million people, 1/12 of the globe’s population, who directly use this currency. It was all going so well. Then the Global Economic crisis happened, and in 2009, it had to battle against the Sovereign Debt Crisis. To say the last few years have been hard for the Euro is a bit of an understatement. So, what really went wrong?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another victory for Imperial Devils A team
 date: "2011-02-24 20:20:30 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "887"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial Devils A were confident on the back of their recent win against Kent Knights and were prepared to dish out some punishment to Oxford who had beaten them in the first game of the season. The roster was uncertain as many players had other commitments, including exams the following day. Nevertheless a strong team showed up at Oxford, ready to take the fight to the Vikings.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oli Benton investigates the inner workings of the College and the Union, and what people do and don’t know about how they are run
 date: "2013-06-20 23:49:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3728"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I wrote an [article last month](http://felixonline.co.uk/comment/3540/an-uncaring-university/) about how Imperial College is run like a business. This business doesn’t have the interests of the students or its academics at heart. The week after my article, [a letter from Ian Howgate](http://felixonline.co.uk/comment/3627/college-put-students-last-at-harlington/), hockey player and former Imperial College Union President, followed up on this.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam is worn out from all the real news that's appeared on Facebook
 date: "2011-12-01 19:33:08 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1855"
@@ -34,15 +35,6 @@ image_height: "790"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I expect most of you have noticed the new items that have started appearing in your Facebook feeds: Spotify playlists of music that your friends are listening to and news articles from a whole host of national and international papers. They are part of the ‘[OpenGraph](http://ogp.me/)’ scheme that Facebook has been pushing in earnest over the last few months: adding a few tags to your website means that any links to your website from within Facebook makes it a Facebook page.

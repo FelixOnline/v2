@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Ann Cheah got the answer through the post
 date: "2013-10-08 03:17:59 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3818"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It’s not everyday that the Felix Food crew gets to review something that was featured and acclaimed on BBC’s Dragons’ Den. Back in August I was trawling through FEAST at Batter- sea Park with the just-as-much-of-a- foodie (if not more) boyfriend (in fact Battersea was his idea, I was busy revising for resits and UROP-ing at the time to think of Food-related press.) Prior to that we’d heard of Gousto being mentioned on the interwebs a few times, and decided to drop by the stall to leave our contact details. They soon got in touch, and we agreed to a review box - not long after, we were watching Duncan Bannatyne display his cooking prowess with one of the recipes we’d picked. Talk about striking gold, we say!

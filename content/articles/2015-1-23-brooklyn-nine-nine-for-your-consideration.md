@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There's a new funny on the block
 date: "2015-01-23 18:40:58 +0000"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5145"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sitcoms are notoriously hard to get right; and cop genre comedies especially so. TV history is full of huge success stories and miserable failures. For every triumphant series there are four or five flops, many of which never even make it to the pilot stage. But despite the significant challenges involved in creating a popular situational comedy, the occasional show is destined to succeed. _Brooklyn Nine-Nine_ is one such success story. Created by Michael Schur and Daniel J. Goor, _Brooklyn Nine-Nine_ is arguably 2014’s best new comedy series and has only just premiered in the UK.

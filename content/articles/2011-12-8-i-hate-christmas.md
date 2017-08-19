@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's beginning to look a lot like Christmas, but not everyone is pleased about it...
 date: "2011-12-08 22:05:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1951"
@@ -34,15 +35,6 @@ image_height: "4080"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s about that time of year again. Bloody Christmas time. You’re probably reading this right now with the most appalled look on your face. I suggest you remove it before someone notices. ‘But why? Why do you hate Christmas?’ You must be asking. Well let me tell you. Because its frickin’ irritating. Irritating as hell.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Breddos is certainly the place to get your taco filled - baja fish, fried chicken or even fried egg are all on the menu at this trendy Barbican joint. Join us for a sensual feast of the finest Mexican cuisine.
 date: "2017-02-03 17:37:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6734"
@@ -34,15 +35,6 @@ image_height: "2340"
 image_attribution: "Christy Lam"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s this one question I always get asked: how do I have the time to fit in lectures in the morning, project-work in the afternoon, while managing an Instagram story saturated with #bloggermail, press events and bearded baristas in tiny independent cafés in god-knows-where?

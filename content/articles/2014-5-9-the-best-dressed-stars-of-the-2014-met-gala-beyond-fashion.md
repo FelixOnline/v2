@@ -4,6 +4,7 @@ title: >
 subtitle: >
   On Monday night the most exclusive fashion event of the year took place in New York City, and its famous guests wowed us with their style.
 date: "2014-05-09 15:03:17 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4582"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 On Monday night the most exclusive fashion event of the year took place in New York City, and its famous guests wowed us with their style.

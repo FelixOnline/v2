@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial students share their thoughts and concerns on Trumps's Muslim Ban
 date: "2017-02-03 15:54:10 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6712"
@@ -34,15 +35,6 @@ image_height: "988"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## Nora Abdoun (ISoc publicity officer) condemns Theresa May but finds hope in the British people

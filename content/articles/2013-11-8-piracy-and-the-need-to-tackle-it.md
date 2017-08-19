@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jash Rughani looks at piracy and the ways to deal with it.
 date: "2013-11-08 09:42:28 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4031"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Piracy grips the public imagination. Witness the success of “Captain Phillips”, a film in which a vessel captained by the actor Tom Hanks is hijacked by Somalis. Somali pirate operations have been a major threat to ships in the Gulf of Aden and those bypassing the Indian Ocean. Yet the pirate modus operandi is far from clear to intelligence agencies. In order to contain their activities many organizations have come together to understand their funding operations.

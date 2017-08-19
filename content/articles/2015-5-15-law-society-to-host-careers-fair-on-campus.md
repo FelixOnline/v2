@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Beaghton on the Law Society’s intersectional discussion this May
 date: "2015-05-15 12:46:42 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5535"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s almost the end of the academic year. Have you thought about what you are doing in the future? Knowing which career to pursue can be daunting for many students, but did you know that graduating with a STEM or business degree sets you up for a wide range of careers beyond scientific research or finance?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s time to recognise that it’s not an expression of your freedom of speech to make jokes about marginalised parties
 date: "2016-04-29 10:10:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6093"
@@ -34,15 +35,6 @@ image_height: "610"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This piece is something of a sequel – the aftermath of a Women@Imperial week interview in FELIX about a month ago. I spoke about my experience at Imperial as a woman of colour, my reaction to sexist comments that were made as “jokes”, as well as the issue of gendered insults, particularly when it comes to female lecturers. I did this so I could tell those that participated that it was not okay. It didn’t work.

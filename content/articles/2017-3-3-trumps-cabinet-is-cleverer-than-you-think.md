@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexander Luisi compares the language used by Trump's administration and the Party in Orwell's 1984
 date: "2017-03-03 14:41:04 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6838"
@@ -34,15 +35,6 @@ image_height: "1089"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The language of the Trump administration fascinates me. The daily barrage of comments, tweets and press conferences reveals something quite fundamental about the way that the government is operating, and how it will operate. It’s hard to believe that the administration is not in utter chaos, and what is striking is the language used in the information presented, and the nature in which it is presented. It conveys a semblance of order and the impression that the President and his team are 'doing great’. Sound familiar? That’s because it is. The limited vocabulary of Trump is starkly Orwellian in nature. Groan you may – it’s pretty cliché to compare any aspect of any government to that in 1984 – but aside from illustrating totalitarianism, the novel dealt with the nuanced aspects of a regime that was determined to demonstrate its coherence to the people, so makes for a solid comparison.

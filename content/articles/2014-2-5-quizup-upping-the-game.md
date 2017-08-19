@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The quiz-gaming sensation storming the nation.
 date: "2014-02-05 10:27:15 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4334"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This is not the kind game that our section would usually review. In fact, when I told my fellow games editor Calum what I was planning to write about, he retorted in disgust “that’s not a proper game!” However, I believe that mobile gaming is here to stay, which means that we should start considering them. Also, the addictiveness of QuizUp could not be discounted.

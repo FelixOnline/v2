@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range.
 date: "2014-06-26 13:15:40 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4717"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "baclubs.com/British Airways"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 College is in the final stages of buying a new 27-acre plot of land two miles from Harlington for the use of Imperial’s sports teams. The site has outside space for 5 football pitches and 2 rugby pitches, an assortment of tennis, netball and cricket facilities and a shooting range. Meanwhile inside the clubhouse students will be provided with squash and basketball courts. The sports ground, in Heston, Hounslow, will be available for student use from Autumn 2014.

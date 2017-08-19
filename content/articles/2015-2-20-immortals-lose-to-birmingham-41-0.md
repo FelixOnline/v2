@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A disappointing scoreline ahead of their final game of the season next Sunday 22nd February
 date: "2015-02-20 00:20:15 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5285"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Valentines Day was a special day in every Immortal’s heart this year as it saw us travel to Birmingham to take on the best team in the country. After taking five hours to get to the pitch after multiple motorway closures and heavy traffic on Country Roads, the mood on the bus was a little down but C’est La Vie and Blame It On The Weatherman for the fog causing accidents. Once we arrived in Birmingham to face the Lions the mood switched to one of focus after seeing the 90-man Birmingham horde we were to face. The Immortals kicked off to start the game, only an hour and a half late, and Birmingham returned well. The Immortals defence came out firing and Arjav picked off the Lions quarterback in our own end-zone.

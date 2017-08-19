@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shiladitya Ghosh briefs you on College's ranking prowess...
 date: "2013-09-27 23:40:16 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3765"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Shiladitya Ghosh"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 No matter who you are or where you come from, you are, to some extent, proud of this esteemed institution’s very high rankings on various scales and from a variety of scorers around the world. It helps that the QS League Tables just got updated earlier this month to show Imperial rising to its greatest heights ever – hats off to Civ. Eng., how does it feel to be on top of the world? – just as we all start/resume our college adventure. (A selection of up-to-date rankings is shown in a table if you want to feel good about yourself while you still can.)

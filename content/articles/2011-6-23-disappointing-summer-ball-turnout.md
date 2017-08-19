@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union expected to release Ball finances next week
 date: "2011-06-23 19:08:27 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1410"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Union were forced to hold the Summer Ball two weeks before the end of term this year, instead of the usual one week, because the clash with Glastonbury meant that “acts and equipment” would have been too difficult to hire. Union President Alex Kendall explained that the difficulty in having the Summer Ball at the very end of term, after everybody’s exams, is that first years would be moving out of halls.

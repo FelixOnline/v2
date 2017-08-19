@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eoghan Totten analyses students' complaints
 date: "2013-06-20 16:30:58 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3704"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [I kid you not.](http://felixonline.co.uk/arts/3725/complaints-on-the-rise/) The title highlights a rise of 25% in complaints lodged to the Office of the Independent Adjudicator from academic institutions in England and Wales.

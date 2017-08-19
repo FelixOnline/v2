@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shappi, queen of Ealing
 date: "2017-02-03 17:01:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6726"
@@ -33,15 +34,6 @@ image_height: "1417"
 image_attribution: "Alison Peters PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Shappi Khorsandi has lived in England for 40 years, and in Oh My Country!: from Morris Dancing to Morrissey she explains her Billy Bragg-inspired brand of patriotism: “it’s about places, not races”, she says, delivering anecdotes about skinheads in the 80s and racial abuse nowadays with a sense of nostalgia. Khorsandi is adamant about her identity being defined on her own terms, and refuses to be put in a box. She explains her aversion to her book, Nina is Not Okay, being nominated for an award dedicated to "Writers of Colour" – “I’m not a crayon!” she says, showing the audience an open letter she received in response to asking herself to be removed from the long list. Having been accused of “obscuring her identity”, she points at her face, and her book cover, on which her name is printed. She’s never had to justify her Iranian heritage, she says.

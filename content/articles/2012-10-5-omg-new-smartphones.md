@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laugh out loud* at people who upgraded their phones before uni
 date: "2012-10-05 11:44:27 +0100"
+author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2602"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jp1409"
-author_name: "Jason Parmar"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jason_parmar"
-author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
-author_website_url: "http://www.jasonparmar.com"
-author_website_title: "Personal Website"
 ---
 
 Unless you’ve been trapped under a rock or on a ton of last minute holidays the last month before freshers’ week, you’ll be aware that a ton of great new smartphones been announced.

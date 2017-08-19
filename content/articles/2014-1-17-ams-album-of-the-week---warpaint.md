@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Warpoint by Warpoint
 date: "2014-01-17 03:55:25 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4246"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 _Warpaint_, the eponymous follow-up to 2010’s well-received debut, _The Fool_, offers a different manifestation of the LA foursome’s brand of delicate rock music. It smacks of the same cohesion which _The Fool _was noted for, however, whereas _The Fool_ was generally characterised by a restless streak, _Warpaint_ presents a departure towards a more natural, slow burn. Indeed, it opens with a clue that this might be the case: a peek behind the abstracting mask of musical production at a quirk of their recording process. __Warpaint__ are inviting us into their world rather than presenting it to us from the outside.

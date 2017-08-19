@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Angus James Morrison finds The Virtues of Things to be a mixed bag
 date: "2015-05-13 14:19:43 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5515"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Stephen Cummiskey"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _T__he Virtues of Things_ is a chamber opera by the sometime computer game music composer Matt Rogers, and his debut at the __Royal Opera House__. It is performed by the Aurora Orchestra, conducted by Richard Baker, and directed by Bijan Sheibani with a cast including last year’s Figaro at the __ENO__, David Stout, and the veteran mezzo-soprano, Fiona Kimm.

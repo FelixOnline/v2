@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
+author_id: "tm1510"
 
 # Attributes from Felix Online V1
 id: "553"
@@ -34,15 +35,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tm1510"
-author_name: "Tomokazu Miyamoto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year will be the toughest year for the eurozone ever. Since the financial crisis in 2008, the US and Europe have suffered from a serious recession. In fact, the PIIGS (Portugal, Ireland, Italy, Greece and Spain), especially Greece and Ireland, are now at the fiscal brink, and they have called for a bailout from the EU and the International Monetary Fund (IMF).

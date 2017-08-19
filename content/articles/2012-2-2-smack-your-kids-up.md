@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Middle class nanny-state blamed for riots
 date: "2012-02-02 19:46:20 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2094"
@@ -33,15 +34,6 @@ image_height: "3000"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 MP David Lammy has blamed anti-smacking laws for the lack of discipline that led to riots in London last summer.

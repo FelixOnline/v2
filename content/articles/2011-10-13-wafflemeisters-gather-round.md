@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Wafflemeister announces a new waffle-eating competition
 date: "2011-10-13 23:59:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1530"
@@ -34,15 +35,6 @@ image_height: "1063"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Wafflemeister](http://www.wafflemeister.com/) is preparing for the waffliest competition ever! Eat your way through the full range of Wafflemeister favourites and an unlimited supply of classic waffles in 3 minutes! Only rule: no drinking of any kind allowed.

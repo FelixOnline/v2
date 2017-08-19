@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Becky Lane, Deputy President (Welfare) launches a call for everyone, lecturers and students, to share their experiences of sexism
 date: "2012-11-09 00:11:06 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2832"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Let me start by introducing myself, I am [Becky Lane](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/becky-lane) and I am this year’s Deputy President (Welfare) and I have just finished my Physics degree at Imperial College. Although my experiences here as an undergraduate here at Imperial have generally been fine (aside from the OH-MY-GOD-EXAMS-ARE-SO-BAD) there are times that I have felt marginalised because of my gender. I seemed to blunder

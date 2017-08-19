@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial’s André Neves wins mathematics award at star studded Breakthrough Prizes
 date: "2015-11-13 14:37:23 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5729"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College’s very own André Arroja Neves has won the New Horizons in Mathematics Award at the Breakthrough Prizes, which was held at the NASA Ames Research Centre in Silicon Valley on November 9th. The professor in the Department of Pure Mathematics won the prize, along with Codá Marques, for having solved the 50-year old Willmore Conjecture in 2012.

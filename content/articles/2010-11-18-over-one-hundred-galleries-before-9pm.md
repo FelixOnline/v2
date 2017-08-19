@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb
 date: "2010-11-18 19:51:40 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "379"
@@ -33,15 +34,6 @@ image_height: "408"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Every now and again London will present something which will not only impress and astonish you, but leave you buzzing for the rest of the week! It’s been a long time since this has been the case, and I look back fondly at the time I found out the IMAX was free for Imperial students, and someone told me I could pair my student rail card to my Oyster.

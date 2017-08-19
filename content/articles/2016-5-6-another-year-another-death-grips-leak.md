@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Being a Death Grips fan involves grueling masochism
 date: "2016-05-06 09:58:16 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6126"
@@ -34,15 +35,6 @@ image_height: "500"
 image_attribution: "Death Grips"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The most avant-garde of avant-garde rap groups has leaked yet another album: _Bottomless Pit_. And it’s exactly what you’d expect. It’s so good it’s bad. It’s so bad it’s good. And it’s self-aware. We’ve reached peak irony, and I for one love it.

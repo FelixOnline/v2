@@ -4,6 +4,7 @@ title: >
 subtitle: >
   As the American election looms, the discourse has gotten more and more sordid. ‘What do we mean when we call someone a “nasty woman”?’ asks Fred Fyles, who turns to the silver screen for answers, looking at the archetypical ‘nasty women’ of cinema
 date: "2016-11-04 14:19:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6389"
@@ -33,15 +34,6 @@ image_height: "2112"
 image_attribution: "Aaron Vowels"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the evening of the 19th October, at the University of Nevada’s Las Vegas campus, the phrase ‘nasty woman’ entered the internet’s lexicon. These words were uttered by Donald Trump towards the end of the third and final election debate, in a contest that has been defined by mud-slinging, press-madness, and all-round feelings of dread. While answering a question about tax increases for the wealthy, Hillary Clinton made a jab about Trump’s likely tax evasion; half way through her answer, Trump leaned into the microphone, and pointedly said the words ‘such a nasty woman’, closely followed by ‘your husband disagrees with you’.

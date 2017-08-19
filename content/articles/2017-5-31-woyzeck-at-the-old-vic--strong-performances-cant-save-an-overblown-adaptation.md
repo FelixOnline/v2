@@ -4,6 +4,7 @@ title: >
 subtitle: >
   John Boyega impresses in an otherwise lacklustre adapation of George Büchner's unfinished play
 date: "2017-05-31 23:31:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6980"
@@ -33,15 +34,6 @@ image_height: "1152"
 image_attribution: "Photo: Manual Harlan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 _Woyzeck_ at the Old Vic is a retelling of a play left unfinished by playwright George Büchner at the time of his death in 1837. In this version, the setting is moved to Berlin in 1981, before the fall of the Berlin Wall. The titular character, Frank Woyzeck, is a young British soldier stationed in Berlin, struggling to provide a home for his girlfriend, Marie, and their child. As they aren’t married they cannot live in the barracks, but Woyzeck’s meagre salary can barely afford their tiny apartment. Desperate for money, Woyzeck agrees to take part in a mysterious clinical trial of an unknown drug. Here begins his descent from a struggling young man into desperation, delusion and, eventually, insanity.

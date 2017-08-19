@@ -4,6 +4,7 @@ title: >
 subtitle: >
   LiYan Chow on their victories
 date: "2012-11-29 23:15:35 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3011"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The work from countless months of planning, organisation and training finally came together as Imperial College Union TaeKwonDo (ICUTKD) hosted their very own competition at the Ethos sports hall last Sunday. The Imperial College Open 2012 was the kick-start to the competitive year for many university clubs around the country and also the first TaeKwonDo competition to be held on Imperial grounds in the history of the club.

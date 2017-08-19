@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Edward Bals takes us back to the 90s with Twin Peaks
 date: "2013-01-24 21:53:49 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3162"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 [_Twin Peaks_](http://www.youtube.com/watch?v=i7d0Lm_31BE) manages to do the almost impossible; mixing sex, violence, mystery and even the odd dosage of the supernatural into a heady whirlwind that is sure to draw you in to its strange world. The series itself is from the early ‘90s and has been recommended to me time and time again by my family and other people of that same, shall we say, ‘mature’ age.

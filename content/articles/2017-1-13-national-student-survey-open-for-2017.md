@@ -4,6 +4,7 @@ title: >
 subtitle: >
   National Union for Students calls to boycott
 date: "2017-01-13 13:50:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6628"
@@ -33,15 +34,6 @@ image_height: "2448"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s that time of year again when final year students across the country are invited to fill in the National Student Survey (NSS), also known as Imperial’s bane of existence. Last year’s remarkably low student satisfaction scores saw Imperial dropping in ranking from number ten to 21 out of 24 Russell Group universities.

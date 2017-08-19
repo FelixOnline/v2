@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sam Flynn gives us the lowdown from Ponyville, and proof that anything we get sent does actually get printed
 date: "2012-02-02 22:43:14 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2102"
@@ -34,15 +35,6 @@ image_height: "505"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Half way through its second season, Felix has yet to review [_My Little Pony: Friendship is Magic_](http://www.youtube.com/watch?v=QmJvHILyeOo). Shame. The oddly popular TV series based on the line of Hasbro toys has gained immense popularity since it debuted in 2010, spawning an entire subculture of fans older than the target demographic, known as Bronies and Pega-sisters.

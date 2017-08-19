@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The FELIX review
 date: "2016-03-11 11:52:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6036"
@@ -34,15 +35,6 @@ image_height: "764"
 image_attribution: "RADiUS"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’re in two minds about whether or not to have children, watching _Goodnight Mommy_ should put you right off. An Austrian horror centring around the relationship between a mother and her children, _Goodnight Mommy_ is a dark, cold exploration of identity and power.Its Shyamalan-esque twist might not be to everyone’s tastes, but it can’t ruin the carefully constructed sense of unease that runs through the film like a dark undercurrent.

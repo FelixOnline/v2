@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Bang for your buck it seems
 date: "2013-03-01 00:39:06 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3406"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, [Imperial College’s Finance Society](https://www.union.ic.ac.uk/scc/finance/) (ICFS) was named one of the top four student societies in the country by Rate My Placement. This was the only Imperial society representing Imperial at the National Placement & Internship Awards 2013. ICFS was recognised for “outstanding commitment to generating opportunities for students – going above and beyond to balance the needs of corporate sponsors and students.”

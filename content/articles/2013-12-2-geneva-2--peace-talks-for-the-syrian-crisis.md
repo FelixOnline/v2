@@ -4,6 +4,7 @@ title: >
 subtitle: >
   President Assad’s adversaries meet in the wake of ending the Syrian Crisis
 date: "2013-12-02 21:56:48 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4159"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 After a political turmoil that took a toll on the lives of thousands of hapless innocent Syrians, peace talks between opposing factions has emerged as the only recourse for the multitude. The situation on ground has deteriorated beyond recognition- derelict streets, blast ravaged homes, unemployed youth, crying orphans and polio-infested children abound the Syrian land.

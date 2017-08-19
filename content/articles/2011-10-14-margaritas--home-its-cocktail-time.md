@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We reveal the recipe for Mexico's most famous cocktail
 date: "2011-10-14 00:04:20 +0100"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1532"
@@ -34,15 +35,6 @@ image_height: "778"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Margarita is the most common tequila-based cocktail and was most probably invented in Mexico, although there is no solid proof of its origin. We like it in its classic form or with strawberry, pineapple, peach, mango or papaya flavours.

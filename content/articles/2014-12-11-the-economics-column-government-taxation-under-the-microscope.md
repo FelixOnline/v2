@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky argues that the libertarian world view is neither realistic nor economically viable
 date: "2014-12-11 20:09:33 +0000"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5025"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When asked about the suggestion that he would keep the flame of Thatcher alive, UKIP leader Nigel Farage said that the Iron Lady was right to reduce the size of the government. Farage is the “turkey who would vote for Christmas”, and is keen to downsize the public sector.

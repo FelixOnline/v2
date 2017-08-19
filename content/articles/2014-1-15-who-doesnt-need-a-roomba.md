@@ -4,6 +4,7 @@ title: >
 subtitle: >
   What would your tech editors do, if they were crapping money
 date: "2014-01-15 16:20:50 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4211"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __iPhone 5S__

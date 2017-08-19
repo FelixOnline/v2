@@ -4,6 +4,7 @@ title: >
 subtitle: >
   This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.
 date: "2014-02-17 17:25:19 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4394"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A photography book chronicling Hepburn’s ascent to fame from 1953-1966 by her friend and renowned Hollywood photojournalist Bob Willoughby
 date: "2010-11-18 20:07:01 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "383"
@@ -34,15 +35,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Yet another photographic tome on the ubiquitous Ms Audrey Hepburn – there are so many out there now that if you didn’t know better, this one, by the late renowned Hollywood photographer Bob Willoughby is just another one on the shelf.

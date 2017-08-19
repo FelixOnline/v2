@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cocktail parties could be forced to change the way they're run
 date: "2013-05-02 14:07:13 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3538"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Departmental Cocktail Parties being held on campus may have to change their format from now on. This emerges after the Chemistry Cocktail Party, which is due to be held near the end of this academic year, has been forced to have a format change due to licensing laws and incidents at previous parties from other Departments on campus.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton talks about his struggles with free market and government interaction
 date: "2011-10-14 10:19:40 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1541"
@@ -34,15 +35,6 @@ image_height: "788"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I have a confession to make. Over the last year or so, I’ve been really quite evil. I really never meant to be, but there it is. Evil as a doorknob. Like many of my ilk, I can pin point the exact day the evil started, it was in November 2009 and I was in the Felix office, chatting to the Business Editor. The chat went something like this:

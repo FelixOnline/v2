@@ -4,6 +4,7 @@ title: >
 subtitle: >
   you've assembled the Special Needs X-Men. ...Now it's time to start work!
 date: "2010-02-12 02:13:20 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "88"
@@ -33,15 +34,6 @@ image_height: "614"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There's something about group work at Imperial that just brings the best out of people, isn't there? It's like a cross between Ocean's Eleven and that scene from the Power Rangers where everyone teams up and combines into a giant robot penis.

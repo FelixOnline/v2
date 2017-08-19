@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It may be a surprise that you find me in this pokey newspaper
 date: "2011-01-13 21:17:18 +0000"
+author_id: "dofe"
 
 # Attributes from Felix Online V1
 id: "590"
@@ -34,15 +35,6 @@ image_height: "505"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "dofe"
-author_name: "HRH the Duke of Edinburgh"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It may be a surprise that you find me in this pokey newspaper, so let me elucidate. During the festive season, I spotted a copy of Felix residing by one of the house/palace windows. I flicked through a few pages to be simply aghast at the clap trap rubbish contained within, not excluding the hideous specimen gurning at me from the centerfold – isn’t it odd that at a university of mostly chaps, you have pictures of naked males in your paper? It’s all rather how’s-your-father in a queerish way if you ask me. At Ieast, I think it was a man. But you never know with scientists.

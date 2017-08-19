@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Priya Garg takes the ‘Inca Jungle Trail’ route to this iconic site
 date: "2011-06-12 16:16:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1369"
@@ -33,15 +34,6 @@ image_height: "540"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Cusco (or Qosqo in the native Quechua) is the historic capital of the Inca Empire in South-Eastern Peru. It consists of windy cobbled streets, black whorled iron fences, spacious plazas, expansive and luxurious fountains, ceramic plant pots and is home to a constant whisper of “Inca Trail Senorita?” floating the gringo-way. Reaching the Plaza D’Armas (the central square) you are mobbed by Peruvian companies trying to get you to purchase their specific trail, “how much chica?” to the awe-inspiring Inca palace of legends, cloaked in mythology, sitting high above the clouds, the mystical and enigmatic ‘Machu Picchu.’

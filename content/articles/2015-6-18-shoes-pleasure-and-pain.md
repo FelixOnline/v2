@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"
+author_id: "jyg11"
 
 # Attributes from Felix Online V1
 id: "5635"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Victoria & Albert Museum"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jyg11"
-author_name: "June Yin Y Gan"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The V&A’s latest fashion exhibition takes a look at the extremes of footwear from around the world, ranging from Cinderella’s glass slippers featured in the recent Disney live action movie, to tiny lotus shoes used to bind women’s feet in 19th century China. The exhibition focuses on the transformative quality of shoes and their cultural significance, particularly as a symbol of status. With over 200 shoes on display, examples are shown from famous shoe wearers as well as a vast range of historical shoes dating as far back as 30 BCE.

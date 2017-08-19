@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The side effects linked to hormonal contraception.
 date: "2016-10-14 11:03:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6335"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: "Sarah C"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sex! We love to make love; but it’s important to stay safe. Around the world millions of women use hormonal contraception with an estimated 3.5 million taking oral contraceptives in the UK alone. Whilst it’s widely known that users can sometimes experience severe mood changes, a recent Danish study is one of the first to show a genuine link between the use of hormonal contraception and depression.

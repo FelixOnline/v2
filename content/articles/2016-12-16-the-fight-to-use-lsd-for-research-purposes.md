@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ending the prejudice surrounding psychedelic drugs could prove beneificial to millions of people, especially those who have failed to respond to conventional treatment
 date: "2016-12-16 16:08:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6623"
@@ -33,15 +34,6 @@ image_height: "1023"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There is evidence that certain psychedelic drugs can ‘reset’ irregular functioning of the brain if administered in a safe and controlled method, thus leading to ground-breaking revelations in medicine. This is perhaps contrary to what you may believe if you have been reading this column for the past few weeks.

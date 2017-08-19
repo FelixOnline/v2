@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ipsita Herlekar reveals the secrets of a well preserved dinosaur fossil
 date: "2016-12-16 14:39:24 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6604"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: "Keith"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Strolling through the markets of the city Myitkyina in Myanmar, Lida Xing, a scientist with China University of Geosciences, Beijing, came across a block of amber that had preserved within it a fossil of a dinosaur’s tail from nearly 99 million years ago.

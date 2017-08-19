@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kartikeya Rana analyses the implications of US foreign policy
 date: "2013-11-01 09:29:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3970"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 NSA whistleblower, Edward Snowden, has recently leaked documents stating that the US has been monitoring phone calls of Angela Merkel and other European leaders. According to a German newspaper, Der Spiegel, the US has been monitoring Angela Merkel’s phone since 2002. Such operations are said to be carried out by the US in 80 destinations around the world including Brazil, Mexico and France. This has resulted in growing anti American sentiment in these countries.

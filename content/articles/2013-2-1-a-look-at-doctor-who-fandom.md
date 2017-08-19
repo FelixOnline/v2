@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Time may be unravelled, but the plot is not tightly strung
 date: "2013-02-01 00:18:03 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3225"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have had, shall we say, an unsteady relation with Doctor Who. While occasionally brilliant far more often it is painfully frustrating or just plain disappointing. Whatever my personal views on the show, however, I have to admit that, over its extraordinarily long run, it has been both hugely popular and influential, and is therefore deserving of study.

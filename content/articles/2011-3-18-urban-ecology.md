@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Machete in hand, Andrew Purcell sets off to explore our urban jungle...
 date: "2011-03-18 06:56:19 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1111"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Andrew Purcell"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Over half of the world’s 6.9 billion people now live in urban areas. So, perhaps it’s time for us to embrace the ecology of our urban areas, look at the species that thrive in these environments and take steps to protect them. At the same time, we must ensure that our urban environments do not unnecessarily encroach upon remaining green spaces and our cities do not grow in an unsustainable manner.

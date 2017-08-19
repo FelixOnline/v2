@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?).
 date: "2014-01-24 10:14:34 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4300"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __August: Osage County__

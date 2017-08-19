@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Van She supported by Sans Cisco take to the state in Camden
 date: "2012-10-18 21:33:46 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2712"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Various London clubs have offered Fresher’s Week deals, yet none of them were quite as enticing as Koko’s in Camden; an old theatre, with the stalls replaced with a dance floor, the circle with a bar and a 21st century sound system squeezed onto the Victoria stage. It’s a beautiful venue which still retains its classical architecture and offers some of the best in ‘up and coming’ live music. Last Friday, it was the turn of the Aussies with Van She, supported by Sans Cisco to provide the entertainment for its Club NME night.

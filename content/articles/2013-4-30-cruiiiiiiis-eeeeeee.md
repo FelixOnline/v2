@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tom Cruising into Oblivion
 date: "2013-04-30 10:35:08 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3500"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Opening with an information-heavy monologue detailing how basically Earth got destroyed by nasty aliens and that he’s the only one of few people still left on the planet, it isn’t difficult to see just where Oblivion is headed. And we fear that it’s not due to end up in a happy place any time soon. As is the case with many science-fiction films, humans don’t exactly fare well, in the beginning at least, and the mention of “memory-wipe” further complicates things and puts a darker spin on an already ambiguous set-up.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The bluster about the Summer Ball is far greater than the actual harm
 date: "2011-05-06 08:46:44 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1161"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 There has been a great hullaballoo about the Summer Ball. The old adage that the more trivial the matter, the more vicious the invective has been proved true once again by the arguments over the changes to the Summer Ball. Or Summer Festival, as it should probably now be called. Whilst students at other universities occupy lecture theatres to protest the effect of government cuts on their degrees, Imperial students suggest calling an Extraordinary General Meeting to demand that the dress code of the end-of-year party be obligatory black tie.

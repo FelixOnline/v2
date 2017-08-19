@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5630"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "RothCPA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Four candidates will be on the ballot paper when Labour Party members get to vote on Ed Miliband’s successor in September. Nominations closed on Wednesday and Shadow Secretary of State for Health Andy Burnham is the bookies’ favourite. Burnham received 68 nominations from MPs (the minimum to be on the ballot was 35), Yvette Cooper achieved 59, Jeremy Corbyn 36 and Liz Kendall 41, with 25 MPs – including Ed Miliband and deputy leader Harriet Harman – deciding not to vote.

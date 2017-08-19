@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The clock was fixed students and alumnus
 date: "2015-02-05 23:47:22 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5198"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Clock on the Union Building is once again keeping time after a group of past and current students repaired the drive mechanism and constructed a new power system. The Clock had been non-operational for over three years after the original control system on Campus was removed and a replacement mechanism failed.

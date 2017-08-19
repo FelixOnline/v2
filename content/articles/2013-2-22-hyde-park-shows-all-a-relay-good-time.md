@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jean-Claude Besse on the runaway success this year
 date: "2013-02-22 02:00:53 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3370"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 After last week’s BUCS Cross-Country in Leeds, the running hype continued with the Hyde Park Relays 2013, a competition held since 1949 and gathering students from all over Europe. Imperial XC members had been up all week to prepare for the event, and were impatient to show the results of their winter training.

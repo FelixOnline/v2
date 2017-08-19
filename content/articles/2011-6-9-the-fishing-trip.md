@@ -4,6 +4,7 @@ title: >
 subtitle: >
   adsfasdfasdfad
 date: "2011-06-09 18:36:33 +0100"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "1333"
@@ -33,15 +34,6 @@ image_height: "2846"
 image_attribution: "Zoltan Vargas"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 The old man walked into the kitchen, carefully holding his fishing rod in front of him. He was manoeuvring it gingerly to avoid knocking anything off the cluttered kitchen shelves with the swaying tip, before finally propping it against the jamb of the front door. When she saw him come in, his wife paused from wiping a damp rag over the table, and stood back to observe him, fixing up a few strands of long hair back into the tight bun they had escaped from. Like the table, she was plain and roughly cut, heavy and sturdy. Her hair was sparse and grey as iron, contrasting with her husband’s thatch of downy white hair as her soft features did with his angular ones.

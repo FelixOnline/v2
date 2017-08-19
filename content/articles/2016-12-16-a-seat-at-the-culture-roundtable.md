@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Culture editors Indira Mallik and Fred Fyles give their round-up of the last 12 months in terms of culutre. Expect TV escapism, highlighting women in music, and going crazy over Olivia Laing...
 date: "2016-12-16 15:43:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6618"
@@ -33,15 +34,6 @@ image_height: "1518"
 image_attribution: "olangeKnowlesVEVO, Columbia Pictures, Netflix, Jonathan Ring, Alfred Stieglitz, Pavel Antonov, Paul Smithies (diymag.com), rocbeyonce /Wikimedia Commons, Jabari Jacobs (atalanticrecords.com). Composite: Felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 During the American election cycle on his comedy show Last Week Tonight, John Oliver had a running gag – “look up,” he’d say “that faint glimmer in the distance? That’s rock bottom.” So it has seemed for most of 2016; in almost every sphere, particularly in politics, bad news has been followed by worse news. Brexit in the summer has been followed by the election of a man who brags about sexual assault and, having promised to “drain the swamp” of cronyism in Washington has recently appointed oil execs and CEOs of Wall Street giants to the highest cabinet offices in America.

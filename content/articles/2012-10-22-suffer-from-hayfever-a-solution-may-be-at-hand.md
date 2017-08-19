@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new clinical trial from joint research with Imperial College and King’s College could bring an end to the summer sneezing
 date: "2012-10-22 12:18:16 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2728"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 ## What is hayfever?

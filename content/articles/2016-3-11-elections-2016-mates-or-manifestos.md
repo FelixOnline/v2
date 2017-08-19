@@ -4,6 +4,7 @@ title: >
 subtitle: >
   There have been few opportunities for candidates to show what they really stand for
 date: "2016-03-11 11:29:02 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6022"
@@ -34,15 +35,6 @@ image_height: "823"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week, Theresa Davey wrote an interesting article about the nature of union elections and how they are, essentially, a popularity contest.

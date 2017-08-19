@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski talks about the the groundbreaking debut science fiction novel by Ann Leckie
 date: "2014-03-07 05:51:57 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4467"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Ancillary Justice, the debut novel of Ann Leckie, is one of those novels that had been recommended to me by pretty much everyone. However, as is often the case, my other commitments, and my impressively long reading list, made me put off picking up for quite a while. Now, having finally read it, I realise that I should have heeded my friends’ advice and checked it out sooner because Ancillary Justice is truly one the best books that I have read in recent years.

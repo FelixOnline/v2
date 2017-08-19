@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Cribs are as vital as they have ever been before
 date: "2012-11-01 23:10:38 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2814"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Cribs are a band of many contradictions. They are a band who pack their shows with huge choruses that bring the roof down whilst also getting long poetic spoken word pieces into one of their songs; they are a band who manage to satisfy those fans who want the more visceral punk rock side of the spectrum whilst also inspiring devotion in pop purists; they are a band who have never really belonged to any trends but, with the release of their latest album In the Belly of the Brazen Bull, also seem as relevant as ever. Despite these many contradictions, or perhaps because of them, it seems that the Cribs are as vital as they have ever been before.

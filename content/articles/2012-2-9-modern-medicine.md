@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The latest Friends of Imperial College talks takes a look into recent work from the Human Genome Project
 date: "2012-02-09 22:54:33 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2166"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You might not immediately assume DNA sequencing technology and human medicine go hand in hand, but you’d be wrong. Research currently being carried out by scientists involved in the [Human Genome Project](http://www.ornl.gov/sci/techresources/Human_Genome/home.shtml) is having a huge impact on 21st century medicine.

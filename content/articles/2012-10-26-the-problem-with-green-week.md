@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Becky Lane tells of the issues with ephemeral initiatives
 date: "2012-10-26 02:33:50 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2748"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 We are all guilty of not being as green as we could be. I know for one that I am guilty of chucking recyclables in my little desk bin at times when the journey to the recycling bin (just outside of my office) seems too far. Yet I just can’t help but feel that hosting a Green Week is not the way to combat these behaviours.

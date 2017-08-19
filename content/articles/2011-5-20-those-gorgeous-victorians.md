@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Drunk on the Aesthetic movement at The Cult Of Beauty. By Maisie Russ
 date: "2011-05-20 05:44:07 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1225"
@@ -33,15 +34,6 @@ image_height: "1572"
 image_attribution: "Laus Veneris, Edward Burne-Jones"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Between 1860 and 1900, something extraordinary happened. A group of artists rebelled against the prevailing Victorian mood of the tiny but demure middle-class and unleashed upon Victorian England art for art’s sake, a movement which worshipped the sensuous and delightful, the Aesthetic movement (1860-1900).

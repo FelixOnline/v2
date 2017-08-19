@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam finds the Kindle Store massively unintuitive
 date: "2012-01-26 21:46:57 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2044"
@@ -33,15 +34,6 @@ image_height: "3168"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 I was one of the 1.2 million adults in Britain gifted an [Amazon Kindle](http://www.amazon.co.uk/Kindle-Store/b/ref=topnav_storetab_kinh?ie=UTF8&node=341677031) this Christmas, and as far as presents go it’s probably my favourite so far. Using the device has been a dream, and it has made the 20 hours I spent stuck flying in economy class this winter many magnitudes more enjoyable. There is much to praise about the Kindle, and most of it has been said already. The price speaks for itself, the device is solid and the ability to pick up newspapers and magazines from publishers across the world (delivered daily to your bedside table, no less) makes it a unique pick in a field of lookalikes.

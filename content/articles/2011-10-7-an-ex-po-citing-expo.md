@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope stops the bad puns and talks Eurogamer ‘11
 date: "2011-10-07 12:19:06 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1490"
@@ -34,15 +35,6 @@ image_height: "1150"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I guess now’s the time for me to offer a late (but warm) welcome to all the freshers who’ve stumbled onto the Games section. I would’ve written for the Freshers' Issue, but I was too busy doing more important stuff like working on my rock-hard abs, jet skiing in the Caribbean and seducing beautiful women. Oh, and playing video games.

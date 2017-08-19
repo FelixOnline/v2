@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber interrogates KABLAAM headliner on physics, metaphysics and physicality
 date: "2011-11-03 20:48:27 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1674"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Benjart Clothing"
 image_attribution_link: "http://www.benjartclothing.com/2011/10/benjart-meets-pt-1-ft-mikill-pane-mikillpane/"
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 __Kadhim Shubber: Your website says you’re “non-existent”; what happened, can we help?__

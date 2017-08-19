@@ -4,6 +4,7 @@ title: >
 subtitle: >
   SurfSoc catch some cold, cold waves. Why do they like it again?
 date: "2012-11-22 22:56:32 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2936"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Godspeed You! Black Emperor: Allelujah! Don’t Bend! Ascend!
 date: "2012-10-18 21:36:20 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2715"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If there’s one band who can wear the post-rock tag without shame, it’s Godspeed You! Black Emperor, famous for being able to capture the view of a city skyline burning and turn it into song. And they’re back, after leaving us with the somewhat disappointing Yanqui U.X.O. in 2002. The eight person instrumental ensemble now offers 54 minutes of new music, in the form of two 20 minute epics (which is by no means unusual with an average track length at around this mark) and a pair of drone tracks. So, has the apocalypse returned?

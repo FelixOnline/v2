@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “I’m sorry, but you have no right to dictate to me what I have to say.”
 date: "2010-12-02 21:10:54 +0000"
+author_id: "hj408"
 
 # Attributes from Felix Online V1
 id: "487"
@@ -33,15 +34,6 @@ image_height: "648"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "hj408"
-author_name: "Hassan Joudi"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __You’ve said previously that there is a possibility of resolving the Arab-Israeli conflict and it’s not an eternal conflict that can’t be resolved. What keeps you so optimistic?__

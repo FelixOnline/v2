@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Steadman enjoys this debauched puppet musical far too much. Twice.
 date: "2015-05-26 13:52:39 +0100"
+author_id: "js5913"
 
 # Attributes from Felix Online V1
 id: "5566"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Matt Martin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "js5913"
-author_name: "Jack Steadman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "Krazy00nothing"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There’s not a lot new that can be said about _Avenue Q_, on the face of it. It can be succinctly described as the unholy offspring of _The Muppets, Sesame Street _and the real world, blending classic Jim Henson-style puppetry with irreverent humour and adult themes.

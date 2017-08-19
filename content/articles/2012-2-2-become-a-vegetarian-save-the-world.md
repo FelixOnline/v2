@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Carol Wood on her vegetarian experiences
 date: "2012-02-02 23:50:00 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2115"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sustainability is a hot topic. Yet despite all the recent conventions and talks on sustainability, it’s still hard to know what living sustainably really means.

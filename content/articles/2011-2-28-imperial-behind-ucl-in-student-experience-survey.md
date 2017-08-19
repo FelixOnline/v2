@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Loughborough top the poll for the fifth year running
 date: "2011-02-28 21:16:53 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "943"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College has been ranked 62nd in the 2010 [Times Higher Education Student Experience Survey](http://www.timeshighereducation.co.uk/story.asp?storycode=415180) (down one place from 2009 and one place below UCL). Over 13,000 undergraduates throughout the country rated aspects of university life out of 7, including academic and sports facilities, quality of staff, course structure, welfare and accommodation. Perhaps not unsurprisingly, factors that Imperial’s 154 respondents rated lowest were “Fair workload” and “Cheap shop/bar/amenities”. Imperial’s facilities (including library and sports), staff and connections to industry, on the other hand, were held in relatively high regard.

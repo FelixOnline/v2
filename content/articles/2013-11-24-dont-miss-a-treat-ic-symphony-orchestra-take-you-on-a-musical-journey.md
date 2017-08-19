@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College Symphony Orchestra play Rachmaninov, Khachaturian and Beal…
 date: "2013-11-24 23:57:51 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4134"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 If you’ve never seen Imperial College Symphony Orchestra play, you’re missing out! Full of science-loving musicians, ICSO is Imperial’s flagship orchestra playing great music to the highest standards.

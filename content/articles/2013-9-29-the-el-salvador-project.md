@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Robert Wright reports back from their latest contstruction project
 date: "2013-09-29 16:23:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3789"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This summer, the annual El Salvador Project saw a team of 10 Imperial College students once again embark on a journey to Central America. Their mission this time was to upgrade a set of houses constructed in 2008 that, following a structural analysis by the engineering consultancy ARUP, were deemed to be dangerously unstable under certain seismic conditions. El Salvador being a seismically active part of the world meant that a retrofit was in order.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Leeds leads library fine table
 date: "2012-01-19 22:59:45 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2035"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College London are bottom of a league table. Luckily, this is a list of the amount of money raised from library fines. Only £26,703 was collected in fines in the period between the 2005/2006 academic year and now. As all students know, if you don’t pay your fines, you aren’t allowed to use the library. It’s hard to speculate, but maybe the thought of being barred from the library is so unnerving that Imperial students promptly return their books.

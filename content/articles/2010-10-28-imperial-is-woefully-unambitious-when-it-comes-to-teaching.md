@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's time for Imperial to move into the 21st century
 date: "2010-10-28 19:45:29 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "275"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial is proud of referring to itself as the university of the future. After all, few universities can boast graduates who predicted the 20th Century as keenly as H.G. Wells or who contributed to our advancement throughout it as significantly as Alexander Fleming, Dennis Gabor or James Ellis. It is therefore deeply disappointing that a university so keen to promote technical innovation in all fields should be neglecting an area much closer to home.

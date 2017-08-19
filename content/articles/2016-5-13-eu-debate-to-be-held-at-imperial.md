@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Advocates for both leave and remain campaigns will be represented
 date: "2016-05-13 08:51:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6145"
@@ -33,15 +34,6 @@ image_height: "764"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A debate about Britain’s place in the EU is due to take place at Imperial on the 2nd of June. Representatives from both camps will be there to argue over whether we should vote to leave the EU on the 23rd of June.

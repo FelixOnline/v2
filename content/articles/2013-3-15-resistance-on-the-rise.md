@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope resists the urge to make a pun...
 date: "2013-03-15 01:02:00 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3467"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As any good Imperial student knows antibiotic resistant bacteria are a growing threat to human health. The threat has been heightened once again by a recent report produced by the government’s chief medical officer, calling the problem a “ticking timebomb”.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A look at the broken world of international patent law as Apple and HTC fight over Google&8217;s Android operating system and it&8217;s use of a touch screen interface
 date: "2010-03-16 15:10:46 +0000"
+author_id: "srg03"
 
 # Attributes from Felix Online V1
 id: "122"
@@ -33,15 +34,6 @@ image_height: "473"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "srg03"
-author_name: "Samuel R S Gibbs"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "SamuelGibbs"
-author_facebook: ""
-author_website_url: "http://samuelgibbs.com"
-author_website_title: "samuelgibbs.com"
 ---
 
 On March 2nd, Apple Inc. filed a suit against mobile phone manufacturer HTC in which they claimed ten of their patents relating to mobile devices had been infringed. The case covers nearly every Android-based phone that HTC manufactures, including the new Google-endorsed Nexus One and the T-Mobile G1. If the case is successful, HTC may have to pay damages to Apple and could be banned from selling any of the offending phones in the US. The suit was brought to the Delaware State Courts in the US, partly because this claim would not be admissable in other regions such as the EU.

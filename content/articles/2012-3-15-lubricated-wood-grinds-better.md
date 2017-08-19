@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Scientists at Imperial College have improved the process of converting pine wood into biofuels
 date: "2012-03-15 19:39:17 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2345"
@@ -33,15 +34,6 @@ image_height: "1440"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Scientists at Imperial College have discovered that efficiency savings of up to 80% in the production of biofuel can be made by lubricating the wood biomass.

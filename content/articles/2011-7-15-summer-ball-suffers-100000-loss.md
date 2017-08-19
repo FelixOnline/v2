@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union accepts that loss is unacceptable and promises that lessons will be learnt
 date: "2011-07-15 16:49:28 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1450"
@@ -34,15 +35,6 @@ image_height: "2848"
 image_attribution: "Christopher Walmsley"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Management accounts from Imperial College Union show that this year’s Summer Ball made an estimated loss of £100,000.

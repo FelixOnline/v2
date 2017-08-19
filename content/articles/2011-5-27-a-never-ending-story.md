@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
+author_id: "ma1307"
 
 # Attributes from Felix Online V1
 id: "1273"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ma1307"
-author_name: "Matthew Allinson"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062055-snb11-allinson.png"
-author_twitter: "mattallinson"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week I am going to review something a bit different: the landmark 90s anime [Neon Genesis Evangelion](http://en.wikipedia.org/wiki/Neon_Genesis_Evangelion). This is the first real anime that I have ever seen so I do not really know how well it stands up to other works of this format and am just going to have to review it as work of science fiction.

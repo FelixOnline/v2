@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Clark Nevola reviews The Royal Court's new play
 date: "2014-12-18 16:17:57 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5072"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fiscal responsibility and council politics – possibly the most unglamorous combination. In this new play by Jack Thorne, the story of a Labour council dealing with crippling budget cuts is recounted in a warm, human, engaging manner, highlighting the absurd situation that current austerity measures have created.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Careers Service gives you tips on choosing your future career path.
 date: "2013-10-12 20:03:32 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3862"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It’s the time of year when all around you fellow students are busy getting ready to make applications to graduate roles, internships and further study. Does it feel like everyone apart from you has their future planned out? Don’t worry, hopefully this article will give you some pointers about how to make that all important career decision and start planning for your future.

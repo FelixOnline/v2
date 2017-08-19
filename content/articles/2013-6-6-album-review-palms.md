@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz reviews Palms
 date: "2013-06-06 19:48:15 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3670"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Released on Mike Patton’s Ipecac label, Palms sees 3 members of Isis join Chino Moreno of Deftones fame, making an album whose sound is somewhere between the two. Where Aaron Turner’s inscrutable vocals on esoteric, often philosophical topics (Panopticon) or abstract concept albums (Oceanic) gave Isis an ethereal quality, Palms has the more clear-cut and emotive singing of Chino Moreno.

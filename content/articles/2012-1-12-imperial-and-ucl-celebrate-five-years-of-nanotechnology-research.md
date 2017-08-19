@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anniversary leads to retrospective look to a nanotechnological relationship
 date: "2012-01-12 22:00:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1977"
@@ -33,15 +34,6 @@ image_height: "3008"
 image_attribution: "Beth Elzer"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It is a truth universally acknowledged that all mad scientists must carry out their ingenious experiments in a basement. But most of us have absolutely no idea what goes on beneath the floors of our faculties. At Imperial, some of our most ingenious pieces of research are carried out by the [London Centre for Nanotechnology](http://www.london-nano.com/) (LCN), which has just celebrated its fifth anniversary. A collaboration between Imperial and UCL, it covers such a large range of research that it could not be contained in a single basement and is now carried out across both campuses.

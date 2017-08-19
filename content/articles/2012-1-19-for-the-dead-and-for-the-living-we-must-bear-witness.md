@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Andrea Levy implores you to take up this opportunity to hear a first-hand testimony from Mrs Ruth Barnett, a Holocaust survivor, at Imperial College
 date: "2012-01-19 21:06:55 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2026"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Holocaust Memorial Day is a day of remembrance held annually on the anniversary of the liberation, by Soviet soldiers, of the concentration camp Auschwitz-Birkenau on 27 January 1945. Auschwitz was the largest of the Nazi killing camps, where approximately 1.1 million men, women and children, including Jews, gypsies, the handicapped, homosexuals, Soviet prisoners of war and political dissidents, were killed, out of a total estimate of 11 million assassinations throughout the Holocaust across Europe at the hands of the Nazis, from 1933 to 1945. However, what meaning do these figures hold, with no knowledge of the personal experiences of those involved?

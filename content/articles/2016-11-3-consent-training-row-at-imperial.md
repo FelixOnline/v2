@@ -4,6 +4,7 @@ title: >
 subtitle: >
   RCSU president questions funding of Consent Matters software
 date: "2016-11-03 23:06:26 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6378"
@@ -34,15 +35,6 @@ image_height: "664"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The RCSU president, Lloyd James, has stepped forward to question Imperial College’s latest investment in student welfare, namely the licence purchase of an online consent training course, which was financed by College and cost a total of £ 5,000.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It’s time to start thinking about a post-work society
 date: "2015-11-27 14:20:35 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5776"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In a speech last Friday at Imperial, shadow chancellor John McDonnell outlined his ideas on a new form of socialism where “technology liberates rather than traps.” With full automation in the not-too-distant-future almost inevitable, it’s now time we start thinking about how Britain will adapt to a post-work society. McDonnell’s speech recognised many of the problems automation might introduce, but offered few solutions. As a party firmly rooted in the trade union movement, Labour seem woefully unprepared for a world with a workforce without work.

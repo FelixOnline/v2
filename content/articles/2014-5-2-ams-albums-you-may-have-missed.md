@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stuart Masson reviews some of this year’s highlights that we didn’t cover at the time (sorry)
 date: "2014-05-02 01:28:27 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4551"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __St. Vincent - St. Vincent__

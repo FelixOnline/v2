@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial is an orgy by international standards
 date: "2012-03-01 21:00:01 +0000"
+author_id: "cac111"
 
 # Attributes from Felix Online V1
 id: "2269"
@@ -33,15 +34,6 @@ image_height: "3286"
 image_attribution: "Lizzy Griffiths"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cac111"
-author_name: "Carol Ann Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201501222126-cac111-10347715_10152346605184442_5870200556929529920_n.jpg"
-author_twitter: "cazzastrophe"
-author_facebook: "http://www.facebook.com/carolxann"
-author_website_url: "http://surrealle.com"
-author_website_title: "Surrealle - weblog + portfolio"
 ---
 
 This week, Felix releases the full results of the much-anticipated sex survey. This typically makes for depressing reading in a university concerned with its high levels of “geekiness” and obsessed with a less than ideal gender ratio. Beyond the statistics and the innuendo, there is, however, a hidden and, I believe, largely positive message of how far British society has come, holding such a survey would have been unthinkable when Felix was founded. While the survey has only been run for two years, is still highly anonymous, filled with “I’d prefer not to say” and is taboo discussion outside the student world, it reflects a freedom that still does not exist in many countries. This week, we look at the sexual rights that we take for granted but continue to be restricted around the world.

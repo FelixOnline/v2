@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Union must be hacked off by all the hacking puns.
 date: "2012-11-29 21:54:18 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2982"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This may be old news to some, but at the start of term, the databases of several universities worldwide were hacked. Called “Project WestWind” according to [the manifesto of “Team Ghost Shell”](http://pastebin.com/AQWhu8Ek), the system intrusions were a protest about changes in modern education, both in terms of rising tuition fees. They also describe a change in the usefulness of higher education, stating “…we have ventured from learning valuable skills that would normally help us be prepared in life, to just, simply memorizing large chunks of text in exchange for good grades”, something I’m sure students may identify with.

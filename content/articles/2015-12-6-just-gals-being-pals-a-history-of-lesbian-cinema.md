@@ -4,6 +4,7 @@ title: >
 subtitle: >
   To celebrate the release of Carol, we take a look over some of the best sapphic power-couples on the silver screen
 date: "2015-12-06 14:53:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5809"
@@ -34,15 +35,6 @@ image_height: "1080"
 image_attribution: "Youtube"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 **Manuela and Fräulein von Bernburg in _Mädchen in Uniform_ (1931)**

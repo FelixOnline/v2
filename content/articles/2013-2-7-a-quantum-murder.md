@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Savell gives part two of the Peter F. Hamilton SF detective series the pre-Picocon treatment
 date: "2013-02-07 22:39:16 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3243"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Don’t get me wrong, I have not done a U-Turn on the Greg Mandel series in the last week; I am neither an Italian, nor a member of a Coalition Government. I am still an advocate of the series and of the man, and will be in avid attendance when he speaks at the Sci-Fi Society’s Picocon Convention in a little over a week’s time.

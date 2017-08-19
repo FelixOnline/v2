@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ka-ching!
 date: "2017-05-12 16:48:54 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6941"
@@ -34,15 +35,6 @@ image_height: "1879"
 image_attribution: "Jinx McCombs"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Remember last week’s postgrad graduation day? It made the Union of ton of dough. The largest graduation ceremony to date which saw a record of 9,400 guests attend, brought Union shops and outlets a total of £34,715. That’s about 13 grand more than last year and eight grand more than the record year of 2015.

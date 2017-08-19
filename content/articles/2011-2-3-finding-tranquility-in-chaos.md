@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Following a somewhat manic debut in Brazil, Priya Garg finds time to unwind and uncovers some of Rio de Janeiro’s hidden treasures.
 date: "2011-02-03 18:43:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "704"
@@ -33,15 +34,6 @@ image_height: "797"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Our second day in Rio de Janeiro had arrived and we wanted to see the acclaimed towering figure that stands guard atop Mount Corcovado, Christ the Redeemer. From nearly every vantage point in Rio – whether roaming down the random ´Rues´ in Botefugo or actually climbing the winding road past Santa Teresa to the foot of Christ – the statue is always observing you on your way. Despite our dichotomous religious beliefs – one atheist and one believer – in a strange manner we both felt protected by the omnipresence of something so sacred.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   To travel, or not to travel – amidst travel alerts and predictions of terrorist activities, is submitting to the warnings and fears a safe choice?
 date: "2010-10-14 19:56:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "215"
@@ -33,15 +34,6 @@ image_height: "549"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Despite being seven hundred miles away from the scene of the hostage situation, I felt trapped.

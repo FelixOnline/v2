@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson finds out how much you remember from sex ed class
 date: "2015-06-04 23:39:18 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5603"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "The Eddystone Trust"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year 65% of sexually active students admitted to having had unprotected sex in the past. 31% of you have apparently been well behaved, while the remaining 4% chose not to say whether they had done it or not.

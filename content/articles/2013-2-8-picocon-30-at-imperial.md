@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The festival turns 30, and this year it’s two whole days!
 date: "2013-02-08 00:33:07 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3274"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Science Fiction, Fantasy and Gothic Horror Society is preparing for its annual convention – Picocon. The convention has gone from strength tostrength since it started, with this being its thirtieth anniversary. To celebrate, Picocon 30 is going to be the first ever two day event in the history of the society – taking place over the weekend of February 16-17.

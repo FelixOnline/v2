@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Was Shakespeare a fraud?
 date: "2011-11-17 22:07:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1791"
@@ -34,15 +35,6 @@ image_height: "505"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 __Anonymous__

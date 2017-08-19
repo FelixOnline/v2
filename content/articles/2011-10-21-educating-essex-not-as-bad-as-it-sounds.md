@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fly-on-the-wall documentary shows true colours of the state system
 date: "2011-10-21 10:40:21 +0100"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "1592"
@@ -33,15 +34,6 @@ image_height: "352"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 It being less than four years since I left secondary education, I was very interested in watching ‘Educating Essex’— Channel 4’s documentary set in Passmores School, an ordinary secondary in Essex. I am happy to say that I was hooked as soon as I tuned in.

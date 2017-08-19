@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maya Kaushik explains the link between slow reactions and suicidal rats
 date: "2011-12-08 20:45:53 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1920"
@@ -33,15 +34,6 @@ image_height: "426"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It’s the start of a cold winter’s day in London. A young man gets into his car to drive to work. Amongst the bustle of traffic, a pedestrian runs onto the road – the young man sees this, but does not react fast enough. The car swerves, bumps into the pavement, and he wakes up dazed in hospital a few hours later.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   UK “difficult and unattractive” for overseas students
 date: "2016-03-18 11:32:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6052"
@@ -34,15 +35,6 @@ image_height: "764"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A group of business school deans and those responsible for international recruitment at 15 UK universities, including Imperial, were interviewed as part of a report which concluded that current visa rules are making study in the UK “difficult and unattractive”.

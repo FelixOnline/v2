@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Modern art frankly isn’t, argues Charles Betts
 date: "2011-02-27 19:22:11 +0000"
+author_id: "cb403"
 
 # Attributes from Felix Online V1
 id: "911"
@@ -34,15 +35,6 @@ image_height: "3546"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cb403"
-author_name: "Charles Betts"
-author_image_path: "http://felixonline.co.uk/img/upload/201111172217-felix-charles-betts.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You may recall Miroslaw Balka’s “Box of Darkness” that was displayed at the Tate Modern back in 2009. For the uninitiated, it was effectively a very big box that was very dark, and you could walk around inside it, and, err, well that was about it really. Except it wasn’t really very dark as there was a wide-open entrance, plenty of camera flashes, and people fiddling with their mobiles.

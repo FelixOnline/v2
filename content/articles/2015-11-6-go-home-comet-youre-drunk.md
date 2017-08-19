@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Celestial objects outdo students in terms of alcohol abuse. Comet named ‘Lovejoy’ has an atmosphere that cooks up a unique cocktail
 date: "2015-11-06 14:01:06 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5704"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Wikimedia"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Space happy hour is now a thing, and astronomy just got a whole lot more student friendly. While all the Halloween based excitement was focused on the “skull comet” TB145’s flyby, scientists discovered another asteroid that’s leaving a trail of alcohol almost as large as the one left by the average ACC.

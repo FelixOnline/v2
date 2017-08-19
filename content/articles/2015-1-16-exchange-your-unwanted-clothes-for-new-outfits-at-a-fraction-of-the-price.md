@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Recent graduate Vivien Tang introduces you to Clotho and the ups and downs of being an entrepreneur
 date: "2015-01-16 15:45:38 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5103"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Do you want to take part in the first Clotho exchange on campus? Click attending on their [facebook event now ](https://www.facebook.com/events/904659219552534/)and don't forget to bring your clothes to Sherfield lobby on Tuesday the 20th and Thursday the 22nd of January. __

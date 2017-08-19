@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Annabelle Mayers breaks down common startup excuses
 date: "2012-11-15 22:05:46 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2908"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 For some, overcoming endless hurdles is a memory they wish to leave behind with school PE lessons. For others the uncertainty, challenge and commitment involved in developing a start-up is what provides the buzz that gets them out of bed each morning.

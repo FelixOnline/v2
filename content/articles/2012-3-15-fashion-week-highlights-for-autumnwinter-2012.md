@@ -4,6 +4,7 @@ title: >
 subtitle: >
   From New York to London, Milan to Paris; Saskia Verhagen and Alice Yang bring you the best bits from last month’s catwalks
 date: "2012-03-15 20:55:31 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2365"
@@ -33,15 +34,6 @@ image_height: "774"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Alexander McQueen__

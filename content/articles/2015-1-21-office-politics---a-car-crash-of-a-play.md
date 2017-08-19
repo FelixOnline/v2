@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Falkenberg is less than impressed at Theatre 503's latest offering
 date: "2015-01-21 20:35:01 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5110"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Two days before I went to see _Office Politics_, I was hit by a car cycling home. Unfortunately… it would not be the only time I came close to death that week.

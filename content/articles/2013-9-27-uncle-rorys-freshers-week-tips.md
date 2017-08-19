@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Everybody's favourite uncle, Uncle Rory has a few tips for you young whippersnappers.
 date: "2013-09-27 23:17:01 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3762"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Greg James/Youtube"
 image_attribution_link: "http://www.youtube.com/watch?v=q4kCgq0h0Ck"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 You’ll be hearing this a lot this week but things were quite different back in my day. My day was 2008- Metric was a box called DB’s, Southside and Eastside were building sites, Facebook was a new thing and Justin Bieber was still an embryo. It was amazing. But as you prepare for the modern freshers’ week with your smartphones and status updates and hip-hop music and all that, there is one thing you will face that all freshers have faced since the first freshers guzzled WKD from a hollowed out wooly mammoth tooth; social interaction.

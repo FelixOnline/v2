@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chandra Chadalawada investigates the phenomenon
 date: "2011-10-28 11:09:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1639"
@@ -34,15 +35,6 @@ image_height: "467"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I don’t know how many of you are into Dubstep, Drum & Bass, House or any other genre with a bassline. But let me ask the people who are: what happens to you when you hear a fat tune?

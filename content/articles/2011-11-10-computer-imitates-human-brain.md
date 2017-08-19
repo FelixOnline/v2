@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Artificial brains move one step closer to reality
 date: "2011-11-10 21:00:39 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1723"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite computer processors being able to operate at speeds of up to ten thousand billion (1013) bits per second they are outperformed in many tasks by the human brain, the neurons of which fire a mere thousand or so times a second. This is because modern machines are only cable of so-called ‘serial bit-processing’; meaning that calculations only occur one at a time. Each neuron in the brain, on the other hand, can communicate with up to a thousand others each time it fires, allowing for a great degree of parallel calculation.

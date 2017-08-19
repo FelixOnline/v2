@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kamil McClelland reviews the Royal Shakespeare Company's production of Henry IV, Part I at the Barbican Centre
 date: "2015-01-21 20:27:02 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5106"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The __Royal Shakespeare Company__ has shown once again that it defines how Shakespeare should be performed. Unusually at the __Barbican__ as opposed to the __Globe__, the restraints of performing in the round were removed, opening up more options for staging and props. This allowed a realistic scene to be set, engrossing you more fully in this world of debauchery and rebellion.

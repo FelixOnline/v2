@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kelly Osborne and Marissa Lewis discuss the Union's refusal to approve a proposed Gender Equality Society
 date: "2012-02-16 22:25:16 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2213"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Inequality irritates me, particularly as it is so prevalent within our society. Women are oppressed on many different levels; here at Imperial the most recent evidence for this is the refusal by the NCC (New Clubs Committee) of a Gender Equality Society. The reasoning of the Union is as follows: we don’t need another women’s society as we have WSET and a Gender Equality Officer. Our attempts to set up this society were instead relegated to ‘campaign’ status within the Union, which, although no one seems to know what this is, seems fair enough on the face of it all. The problem is that this comes at a time when Felix is in trouble with the _Telegraph_ for joking about Rohypnol and others have pointed out how anti-feminist the only Women’s society at Imperial is (see last week’s Felix). There seems to be no time like the present for a feminist or women’s rights group at the Union. Pity those in power disagree.

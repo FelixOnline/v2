@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Worthington places, pastes and paints to his heart’s content in EA’s Create
 date: "2011-02-04 16:59:35 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "756"
@@ -34,15 +35,6 @@ image_height: "604"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When _Create _was first announced, it was a dream come true. [Electronic Arts](http://ea.com), creators of _The Sims_ series, were making a new kind of creation-simulation game. No mention of houses or families – yes, they were finally making _The Sims_ without the Sims! At last, players could build a house (or anything!) and not have to deal with the monotonously boring lives of the simulated little people afterwards; just pure, unbridled creativity.

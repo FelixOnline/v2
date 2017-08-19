@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I bet you won’t even read this, you undemocratic filth
 date: "2016-10-28 14:40:26 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6348"
@@ -34,15 +35,6 @@ image_height: "853"
 image_attribution: "Cem Hurrell"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The first Council meeting of the year took place last Tuesday and Nas Andriopoulos, Union President failed to present a written report, in violation of his constitutional obligations. Council is the representative voice of the student body and part of this includes holding the sabbatical officers to account. As such, Council requires they produce reports on what they’ve been up to.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The week in television
 date: "2011-06-13 13:33:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1373"
@@ -33,15 +34,6 @@ image_height: "1532"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I had no intention to watch “[Made in Chelsea](http://www.e4.com/chelsea/)”, but being otherwise unoccupied, along with the fact that it was playing on my friend’s laptop in front of me, I found myself succumbing to three episodes thereof. It was painful.

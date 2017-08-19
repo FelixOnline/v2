@@ -4,6 +4,7 @@ title: >
 subtitle: >
   “In the world according to Garp, we are all terminal cases. “
 date: "2013-10-25 00:14:14 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "3925"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "John Irving"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 “In the world according to Garp, we are all terminal cases. “ This motif, recurring multiple times throughout the novel, is perhaps somewhat overdramatised, yet painfully accurate. From the first page through to the last one, the reader is infected with the subtle anticipation that the characters are inevitably approaching something horrible. Something tremendous, something that will change everything, forever: An intangible danger; a monster introduced into the storyline by Garp’s young son Walt. He misunderstands his parents warning him of the undertow along the shore, and how it can “Pull you under, suck you out to sea”, and one day Walt stares fiercely toward the ocean, looking for the Under Toad (“How big is it? What colour is it? How fast can it swim?”).

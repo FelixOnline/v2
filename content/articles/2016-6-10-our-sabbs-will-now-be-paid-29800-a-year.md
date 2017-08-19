@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Their pay now matches the average Imperial graduate's wage
 date: "2016-06-10 08:11:17 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6244"
@@ -34,15 +35,6 @@ image_height: "623"
 image_attribution: "ICU"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This year’s change in sabb pay, despite looking like a £10,000 pay rise on paper, may actually leave sabbs worse off financially than ever.

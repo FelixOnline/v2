@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Lef Apostolakis joins the protesters and asks them whether recent developments have given British politics a second wind
 date: "2017-02-03 15:12:49 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6709"
@@ -33,15 +34,6 @@ image_height: "3493"
 image_attribution: "Izzat Rais"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Donald Trump has consistently been on the collective consciousness for a while. Though Trump’s presidency could globally affect climate change and human rights, to name only a few areas of concern, amongst some journalistic circles, there’s the additional concern that the international focus on Trump is steering the public’s attention away from important national news.  And whereas that may be true, it has also undeniably managed to rile up a significant proportion of the population, leading to mass action across the UK.

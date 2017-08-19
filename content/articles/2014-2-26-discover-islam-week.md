@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Free dinner? Free cake? Islam? If you found yourself saying yes to one or more of the aforementioned, then carry on reading!
 date: "2014-02-26 12:52:09 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4436"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Do you ever wonder why we are here? Does it make sense that everything around us has a purposeful order to it and we are the anomalies? Will our lives ever matter in the grand scheme of things, or are we just material beings, that can feel pleasure because of chemicals in the brain? ‘Who’ is it that actually feels?

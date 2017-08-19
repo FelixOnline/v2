@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Caz Knight embraces her inner-hippy and joins the cast of MTSoc's Hair
 date: "2010-03-17 16:05:58 +0000"
+author_id: "lh106"
 
 # Attributes from Felix Online V1
 id: "125"
@@ -33,15 +34,6 @@ image_height: "655"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lh106"
-author_name: "Lucy Harrold"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A Tribal-Love-Rock musical. It is perfectly fitting then that ICU’s Musical Theatre Society chose Hair as their spring term 2010 production – a musical written by young people, for young people. Daring, absurd, surreal, lewd and crude all at once, Hair is also both fun and deeply political, tracking the lives of a tribe of New York hippies as they rebel against the government, ‘square’ parents and the draft.

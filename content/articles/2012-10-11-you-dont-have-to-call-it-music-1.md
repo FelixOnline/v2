@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pt. 1 Contemporary classical
 date: "2012-10-11 21:25:28 +0100"
+author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2675"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "im808"
-author_name: "Inigo Martinez de Rituerto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: "http://thebigracket.blogspot.com/"
-author_website_title: "The Big Racket! @ IC Radio"
 ---
 
 _or: what the atom bomb and the death of God_

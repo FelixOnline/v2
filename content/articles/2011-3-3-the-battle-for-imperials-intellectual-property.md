@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Universities are an important source of intellectual property, with only 2% of patents now owned by individuals
 date: "2011-03-03 20:25:05 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1008"
@@ -34,15 +35,6 @@ image_height: "2592"
 image_attribution: "Kadhim Shubber"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Harriet Gliddon is the latest student to join the campaign. A student campaign that first sparked in the classrooms of Yale and burned across the world; it has finally reached Imperial College London. Harriet is the founder of the newest chapter of [Universities Allied for Essential Medicines](http://essentialmedicine.org/) (UAEM), here at Imperial. The organisation lobbies universities to show their commitment to aiding the developing world by ensuring that potential new drugs developed are made affordable in poorer countries.

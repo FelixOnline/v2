@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber meets CaSE director and Imperial alumnus Imran Khan
 date: "2011-06-09 21:07:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1347"
@@ -33,15 +34,6 @@ image_height: "2592"
 image_attribution: "Charles Poon"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I’m standing outside the offices for the Campaign for Science and Engineering ([CaSE](http://sciencecampaign.org.uk/)) on Gordon Square, near Euston Square tube station, trying to stop sweating (summer showers tricked me into wearing a coat...) when I notice something. While our university recently took the controversial, and in my opinion foolish, decision to cut ties with CaSE, their offices are actually situated in an UCL building. Our closest London competitor embraces this influential lobby group, “puts their money where their mouth is” as UCL vice-provost David Price puts it, and we do the exact opposite. I’m not sure whether to be surprised or not.

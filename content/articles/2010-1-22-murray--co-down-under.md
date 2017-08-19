@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sports Editor Indy Leclerq's thoughts on Andy Murray's chances in Oz
 date: "2010-01-22 13:21:11 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "48"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 Ah, the familiar pleasures of January. Slate-grey skies and precipitation that can’t make up its mind as to whether it wants to be snow, or rain, or something in between. Without forgetting to mention the pervasive and inescapable COLD. Not so for everyone, though. If you happen to be a professional tennis player it is but a matter of rankings and qualifying rounds before you end up in Melbourne playing the Australian Open. Bright, sunny, sweltering Melbourne, I might add. (Of course, you could be Australian, and actually live in Melbourne-but that’s not something I would wish on anyone.) Understandably, then, Andy Murray and his compatriots of the pro-tennis-player persuasion have decided to take refuge from the weather amongst the kangaroos (although the one million pound winner’s prize money might count for something). With the three Brits in the main draw managing to get through to the second round, their time in Oz might actually be productive.

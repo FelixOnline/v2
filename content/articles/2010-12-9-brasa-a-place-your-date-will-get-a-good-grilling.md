@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A mixed experience at Fulham's Mediterranean-style sharing restaurant
 date: "2010-12-09 19:37:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "508"
@@ -33,15 +34,6 @@ image_height: "855"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This week, Felix returns to Fulham to review Brasa, the restaurant attached to the recently opened Broadway Bar & Grill which we [wrote about a few weeks ago](http://www.felixonline.co.uk/?article=354). Since our last visit, Brasa has acquired its own sign above the door, sending out the “Hello we exist!” message to passers-by, although the word probably hasn’t spread much yet: it was rather quiet on a Friday night when we visited.

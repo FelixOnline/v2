@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Final Lesson: Summary
 date: "2012-03-15 21:27:25 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2383"
@@ -33,15 +34,6 @@ image_height: "321"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over the past ten weeks, I’ve tried to give an insight into the wonderful world of post-hardcore music. Hopefully I’ve achieved my goal in revamping the record collection of the old-timer P-H fans and perhaps even converted some people previously sceptical about this incredible genre. However, the sad truth is that there’s probably very few of you willing to read anything labelled “post-hardcore” but for anyone that is, I urge you to read this summary and listen to the bands mentioned, you will not be disappointed.

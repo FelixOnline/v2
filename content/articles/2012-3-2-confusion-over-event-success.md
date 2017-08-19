@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clarification sought over joint university venture
 date: "2012-03-02 01:03:55 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2301"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 This past weekend saw [Fusion@London](http://fusionatlondon.com/), an event budgeted to raise £78,897.50 in aid of the charity [Cancer Research UK](http://www.cancerresearchuk.org/), take place. The main aim of the event was “to foster a closer relationship between the capital’s student population“. However, the success of the event is yet to be established. It remains to be revealed the exact gain or loss from the event, which was a joint student venture between the unions of Imperial College London, King’s College London, and University College London.

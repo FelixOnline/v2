@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We should be remembering the victims of the British Empire, not the perpetrators
 date: "2016-02-05 11:52:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5864"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week Oriel College, Oxford confirmed that a monument commemorating Cecil Rhodes, a 19th century British imperialist, would remain despite a massive movement by students seeking the removal of the statue. Like many of the students at Oxford University, I’m disappointed by the college’s decision which goes against the views of the university’s student union. Rhodes must fall, and be moved to a more suitable location – the dark and dusty corner of a museum.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Tate Britain launches London Pride 2017 with a moving tribute to the LGBTQ artists who would not be silenced
 date: "2017-06-15 15:59:34 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7026"
@@ -33,15 +34,6 @@ image_height: "450"
 image_attribution: "Photo: TATE/PURCHASED 1980"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Little rainbows have been popping up everywhere lately - on Facebook, in Skittles adverts, soon they’ll arriving on London’s streets. In fact, the rainbow flag has been flying over Tate Britain for some months now. The gallery will be kicking off the London Pride celebrations next Saturday with a special Tate Lates at their exhibition Q_ueer British Art_.

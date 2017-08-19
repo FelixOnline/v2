@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular film column
 date: "2016-05-20 09:16:02 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6188"
@@ -33,15 +34,6 @@ image_height: "1080"
 image_attribution: "YouTube"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 No Nazis. No dark metal. Live acts seven days a week. These simple admission criteria meant that gigs could be booked in the same day, regardless of band size or experience, to play in front of the music-loving crowd who religiously converged on the 12 Bar Club, hidden in Denmark Street.

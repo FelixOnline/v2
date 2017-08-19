@@ -4,6 +4,7 @@ title: >
 subtitle: >
   College posts on Imperial Memes to warn people not to be damaging to their reputation
 date: "2013-05-16 20:53:03 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3594"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London posted on the Imperial Memes Facebook Page to warn students about the content of some of the Memes. College posted reminding people not to damage the reputation of Imperial of themselves. The post was deleted soon after being posted.

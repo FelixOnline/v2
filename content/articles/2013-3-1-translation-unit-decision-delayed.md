@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Staff left in limbo as they await the decision
 date: "2013-03-01 01:06:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3416"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The decision on the[ fate of the Translation Studies Unit](http://felixonline.co.uk/news/3173/translation-unit-under-threat/) (TSU) has been delayed until June leaving all involved uncertain about their future. The Management Board of Imperial College London met on Friday 22 February to review the feedback gathered from staff, students and external interested parties on the future of the TSU. They decided that new research activities in the TSU will not be started, and that new students will not be admitted to the MSc or PhD courses until after the final decision is made. It is also understood that they will have to try to find a new home elsewhere themselves.

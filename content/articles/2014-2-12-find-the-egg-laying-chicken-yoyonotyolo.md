@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl talking to one of the Yoyo founders Michael Rolph, on the merits of mobile and future plans of Yoyo at imperial
 date: "2014-02-12 12:01:43 +0000"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4370"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __ME: Introduce yourself:__

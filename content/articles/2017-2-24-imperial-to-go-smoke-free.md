@@ -4,6 +4,7 @@ title: >
 subtitle: >
   *Some exceptions apply
 date: "2017-02-24 13:44:42 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6810"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 TODO: image from

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Bowers tells of his predictions for fifty years’ time
 date: "2011-11-03 18:09:53 +0000"
+author_id: "fa608"
 
 # Attributes from Felix Online V1
 id: "1647"
@@ -34,15 +35,6 @@ image_height: "663"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "fa608"
-author_name: "Feroz Abdul Salam"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ah, Issue 1500 is here. While some of my fellow editors may be getting nostalgic, technology and history don’t seem to get along. Technology and the future, on the other hand? Well, everyone sees them as going hand-in-hand. So we’ve decided to jump 1500 issues into the future – approximately fifty years – and look at what the world of computers, gadgets and electronics might look like in Issue 3000 of Felix.

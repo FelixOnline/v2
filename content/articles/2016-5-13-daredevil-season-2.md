@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Let's talk about it
 date: "2016-05-13 09:26:56 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6162"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Blood once again soaks the streets of Hell’s Kitchen, New York as Daredevil returns to our computer screens. Whereas the first season detailed the rise of Matt Murdock to the role of red-horn-wearing superhero, this season focuses more on Matt’s struggles with his new role and with just what it means to be a hero.

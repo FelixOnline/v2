@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joseph Letts looks at the future of performance-related pay in the City
 date: "2012-02-09 22:10:33 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2140"
@@ -34,15 +35,6 @@ image_height: "2783"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the wake of last week’s pay scandal concerning [RBS](http://www.rbs.com/home.ashx) CEO Stephen Hester a lot has been said in regards to the opulence of bankers’ bonuses. In fact in the private student accommodation in which I live we even held a debate at the weekend, with a slim majority voting for motion which stated that the government should prevent excessive pay. Since the recession and our slow economic recovery the public has been baying for blood at the mere mention of a large bonus, with heads of public bodies afraid of the public backlash of receiving a bonus, no matter how well deserved. Over the last two weeks, the Chairman and CEO of RBS (83% state owned) both declined to take a bonus, followed by several directors of [Network Rail](http://www.networkrail.co.uk/). Now, while these companies are both controlled by the state that as majority shareholder has the right to veto executive pay packages, some people are starting to call for the government to cast its net wider and consider banning banker’s bonuses in the general financial industry.

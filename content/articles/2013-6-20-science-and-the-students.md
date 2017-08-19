@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett takes a look at the scientific landmarks of this academic year
 date: "2013-06-20 23:18:54 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3719"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 __October__

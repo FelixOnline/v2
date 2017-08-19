@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Saad Ahmed talkes about how some games really aren’t fun to play and are immensly challenging, and how that makes them some of the funnest games around
 date: "2017-02-24 15:14:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6826"
@@ -34,15 +35,6 @@ image_height: "1690"
 image_attribution: "Allan Rotgers"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Once upon a time, games used to be hard. Like really, really fucking hard. You had to spend hours grinding and leveling up, looking for the right items or npcs and learn the technique needed to progress.

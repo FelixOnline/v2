@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett talks to the researchers behind turning light into electrons
 date: "2014-06-12 16:57:20 +0100"
+author_id: "me1711"
 
 # Attributes from Felix Online V1
 id: "4685"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "me1711"
-author_name: "Maximilian Eggl"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last month, Imperial attracted the attention of the world’s media once again, with researchers based in Blackett Laboratory showing how to potentially create matter from light. Their paper, published in _Nature Photonics_, builds upon The Breit and Wheeler’s theory, made in 1934, and solves an 80 year old challenge that previously left physicists stumped.

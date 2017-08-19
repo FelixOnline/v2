@@ -4,6 +4,7 @@ title: >
 subtitle: >
   felix nominated for four student journalism awards
 date: "2017-05-12 16:28:49 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6939"
@@ -33,15 +34,6 @@ image_height: "599"
 image_attribution: "Lenore Edman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 UPDATE: We didn't win anything, there is no god, and everything sucks

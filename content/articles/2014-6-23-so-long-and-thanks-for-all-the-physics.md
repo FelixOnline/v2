@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton reminisces about his six years at IC
 date: "2014-06-23 13:09:58 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4706"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 __Six years is a long time to spend in this place. If my Imperial career were a child, it would be preparing for its first year of primary school by now: shiny new rucksack perched on its back, lunch money nestled in its pocket. Like a parent leaving his child at the school gates, it’s time I let Imperial go. Will it miss me? Probably not. It’ll be too busy fighting the other boys and girls for its place in the league tables. Still, watching it scamper across the playground has got me reminiscing. __

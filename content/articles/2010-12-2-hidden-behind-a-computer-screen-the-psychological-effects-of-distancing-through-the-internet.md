@@ -4,6 +4,7 @@ title: >
 subtitle: >
   People find it easier to express their feelings hidden behind their computer screens
 date: "2010-12-02 21:33:45 +0000"
+author_id: "ae1409"
 
 # Attributes from Felix Online V1
 id: "491"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ae1409"
-author_name: "Anastasia Eleftheriou"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 People find it easier to express their feelings hidden behind their computer screens. They can confess things to people that they would never talk about face to face, like suppressed feelings or personal thoughts. So how exactly did people communicate before the internet?

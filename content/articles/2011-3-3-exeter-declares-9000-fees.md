@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First non-Russell Group university to aim for highest rate
 date: "2011-03-03 20:09:31 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1002"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The University of Exeter has [announced plans](http://www.exeter.ac.uk/news/featurednews/title,127640,en.html) to raise its undergraduate fees to £9,000, the new threshold set by the government last December.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James Tsim tasted one and had a chat with the CEO of Wafflemeister! Read further for IC student deal!
 date: "2013-11-24 16:39:59 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4131"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Wafflemeister"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 This is not your average waffle shop. Wafflemeister boasts a secret Belgian recipe which dates back to the 1950’s. The freshly made waffles are topped with a range of toppings from Belgian chocolate fudge and freshly whipped cream to fresh fruit and natural gelato. Wafflemeister is all about delivering a high quality waffle and their promise is “It takes a lot of hard work, continuous training and dedication to become a Meister. The Wafflemeister takes great pride in providing high quality, fresh and great tasting products* which do not contain GM ingredients, artificial flavourings, colourings or preservatives.”

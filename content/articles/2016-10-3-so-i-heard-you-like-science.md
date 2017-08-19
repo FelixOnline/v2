@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Here’s a guide of what’s good in London
 date: "2016-10-03 19:16:05 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6307"
@@ -34,15 +35,6 @@ image_height: "2912"
 image_attribution: "Juhan Sonin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Ok! You made it, you’re in nerd centrali.e. Imperial College, 8th best university in the world (apparently). So you probably really, really, really like science. I get you, so do I. Don’t ask me why, it’s just one of those things, those guilty pleasures you don’t publicly admit to. In case your already science overflowing schedules aren’t quite quenching your thirstfor geekiness, I have compiled a little listof things to maybe check out. Some close, some far; some pretty , some gross; some weirdand some plain bizarre. Enjoy (?)

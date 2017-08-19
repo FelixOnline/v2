@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter reviews Nicholas Jaarʼs Barbican Spectacular
 date: "2013-10-12 00:31:45 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3838"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 For a guy who has had such a spectacular rise to musical prominence, __Nicolas Jaar’s__ choice of the Barbican as the venue for a one off gig last weekend should perhaps not be too surprising. In many ways the concert hall is perfectly suited to Jaar’s delicate, jazz-infused melodies and masterful productions. Indeed, the Barbican is no stranger to hosting musicians strongly rooted in the electronic music sphere; the night before had seen __Pantha du Prince__ grace the stage. I was expecting an evening of Jaar’s more laid-back music, hopefully with some guest musicians to fill the acoustic slots from Space is only Noise. For these regions, along with the promise of a trippy accompanying light show, I was hyped.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ashley revelas all about the Imperial College Baseball Club's first trophy 4 years
 date: "2014-10-17 14:56:01 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "4732"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The minibus was full of excitement and anticipation as club driver Rhys guided it down the M40 to Slough where the Falcons were to play in the inaugural National University Baseball Fall Cup organised by Baseball Softball UK (BSUK). The off-season had seen fantastic recruitment, particularly in the pitching department and this team represented the best chance yet that the Falcons had of securing that vaunted Fall Cup Shield which they last won in 2010.

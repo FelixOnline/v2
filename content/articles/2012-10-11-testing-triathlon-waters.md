@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Sarah Lewis tells you all you need to know about the Triathalon
 date: "2012-10-11 20:30:01 +0100"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "2644"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I joined Imperial’s triathlon club in October 2011, with no real intention of ever competing in any triathlon; all I wanted was to come to the swimming sessions so that I could keep eating pies while a stress fracture healed. But even as Christmas rolled round and my foot went back to working order, I somehow didn’t manage to quit swimming. And every morning, no matter how gentle my intentions as I left home, I’d arrive at the lab a sweaty mess, after half an hour of silly commuter racing on my rattling, pannier-laden bike.

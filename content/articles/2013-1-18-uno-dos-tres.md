@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl reviews the first of a trilogy of new Green Day albums
 date: "2013-01-18 00:50:49 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3143"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Since 2009, after the release of 21st Century Breakdown, news surrounding Green Day was few and far between. However the american punk band has now not only released a set of albums, but the trio has now also become a quartet. The newest member of the group, that brought among others American Idiot, has added Jason White to their ranks. The guitarist who has toured with Green Day on several occasions, and can be heard on previous albums, has now officially been credited as being a band-member. If this will have an impact on the future music that they will release remains to be seen.

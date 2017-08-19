@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle takes you through the sport you may have missed this week
 date: "2014-11-28 01:08:26 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4976"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Getty Images"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the early hours of Thursday, Australia batsman Phil Hughes was pronounced dead at St Vincent’s Hospital in Sydney. He had been struck on the side of the head by a bouncer from New South Wales bowler Sean Abbott in a Sheffield Shield match on Wednesday. In response, Cricket Australia chose to abandon the round of domestic matches being played this week. They also chose to cancel India’s warm-up fixture ahead of the series in Australia. Pakistan and New Zealand chose to extend their test match by a day and suspend play on Thursday out of respect, while England and Sri Lanka will have a minute’s silence ahead of their match on Friday. An obituary for Phil Hughes is on page 39.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Frieze Art Fair 101: A novice’s impressions
 date: "2011-10-21 10:28:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1590"
@@ -33,15 +34,6 @@ image_height: "1127"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Picture the scene: Regent’s Park on a sunny Saturday afternoon. Families are out, the squirrels are being pretty inquisitive and the pedal boats on the lake are politely bumping into each other. In the middle of it all, a sprawling white structure with a pretty weird wooden entrance, out of which snakes a long queue. Next to it sits the entrance for people who already have tickets - little groups of stylishly dressed (to not use the word arty) people filter into the airy white tent in pretty excited fashion.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Once again, Netflix rushes into rescue and, in this case, reboot a much loved property that had been poorly adapted. So, is the series any good, or does it become an all too literal rendition of its title?
 date: "2017-01-20 15:18:21 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6668"
@@ -33,15 +34,6 @@ image_height: "720"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The catchy theme song of this Netflix adaptation advises you to look away, warning you of a story that is dark and has no happy ending. If you actually listen to that advice, it would be an unfortunate event in of itself, as you would be missing out on a well-made, dark and incredibly self-aware series.

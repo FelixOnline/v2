@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pt. 6 punk
 date: "2012-11-15 21:37:34 +0000"
+author_id: "im808"
 
 # Attributes from Felix Online V1
 id: "2901"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "im808"
-author_name: "Inigo Martinez de Rituerto"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: "http://thebigracket.blogspot.com/"
-author_website_title: "The Big Racket! @ IC Radio"
 ---
 
 _or: I ain't thick, it's just a trick._

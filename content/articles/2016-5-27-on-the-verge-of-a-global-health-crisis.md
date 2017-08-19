@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX finds out what Imperial researchers really think
 date: "2016-05-27 08:55:01 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6211"
@@ -33,15 +34,6 @@ image_height: "2858"
 image_attribution: "Thousands of glass fermentation vessels like this one were used in Glaxo (now GlaxoSmithKline) laboratories to produce penicillin. "
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 We do desperately need new antibiotics,” said Dr. Andrew Edwards, a lecturer at Imperial College London and group leader at the Medical Research Centre for Molecular Bacteriology and Infection. “What we have seen recently is the emergence of some strains [genetic variants of bacterial species] resistant to all of our different types of antibiotics,” he added.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   James lees tell us how France is to ban the wearing of the niqab
 date: "2010-02-01 17:30:54 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "67"
@@ -34,15 +35,6 @@ image_height: "997"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 France, a country known mainly for cheese, wine, surrendering, gourmet food and the Eiffel Tower, is not a country I often praise. There is, however, one thing which I envy about France: the way the French Republic sticks to its principles – mostly.

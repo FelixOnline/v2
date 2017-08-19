@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The French are experiencing a renewed involvement in world affairs
 date: "2013-01-18 00:28:23 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3133"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Mali is in the middle of a crisis. Since the start of 2012, a war of independence has been fought in its northern provinces, known collectively as Azawad. The conflict ended abruptly in April with the ousting of the then President Amadou Toumani Touré, by rebelling soldiers over his handling of the war. The loose alliance of Tuaregs and Islamists (Ansar Dine, a group linked to Al-Qaeda) then declared Azawad an independent state.

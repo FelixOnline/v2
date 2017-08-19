@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eoghan J. Totten arques that a new attitude to climate change is necessary
 date: "2011-11-03 21:56:49 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1695"
@@ -33,15 +34,6 @@ image_height: "1410"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I read over my last article and it seemed a bit too esoteric… and we’re all scientists after all, so I’ll try and keep to the facts this time.

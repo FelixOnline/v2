@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Keir Little wishes a legendary game a very happy birthday
 date: "2011-11-17 20:50:13 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1765"
@@ -33,15 +34,6 @@ image_height: "1600"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Happy birthday, Minecraft, my sweetling. You’ve been like my own child all these years, but you’re all grown-up now, your features well formed and bug-free; yet you’re worth only a modest €20. It wasn’t always this way, you know. Oh yes - I remember before you were born.

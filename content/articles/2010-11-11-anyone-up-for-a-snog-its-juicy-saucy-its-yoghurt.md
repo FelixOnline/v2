@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Head down to South Kensington for some frozen yoghurt goodness
 date: "2010-11-11 21:23:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "361"
@@ -33,15 +34,6 @@ image_height: "1200"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Frozen yoghurt is a tasty cold treat, and London has caught the cold. It’s going round. If it was a warmer foodstuff they’d say it was spreading like wildfire. Instead, it’s spreading more like the Starbucks and Subways that now punctuate every high street. This is an ice-age moment after years of hot coffees and warm pastries. Cold is the hottest new thing in edible delights, and what a delight it is!

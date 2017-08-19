@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Iacopo Russo discusses the benefits of taking part in the Engineers Without Borders Challenge where he solved a real life problem
 date: "2013-05-30 12:26:02 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3643"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 When I found out that my team had made it to the [finals of the Engineers Without Borders (EWB) Challenge](http://felixonline.co.uk/news/3644/imperial-college-london-students-to-dominate-engineers-without-borders-finals/) I was of course really pleased to know that all of our effort was actually worth it. I feel really satisfied because I think that if they chose us out of the 50 teams in the UK and Ireland, this means the design portfolio and oral presentation we produced were valuable and we actually managed to apply our (engineering) skills to a real problem successfully.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Gilead Amit and the abuse of sympathy
 date: "2010-02-01 17:09:39 +0000"
+author_id: "gda07"
 
 # Attributes from Felix Online V1
 id: "65"
@@ -34,15 +35,6 @@ image_height: "474"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "gda07"
-author_name: "Gilead Amit"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 This has been a busy week on campus. Imperial Christian Union have been hosting their free thinking week, and the Palestinian Society have organised a Gaza awareness week. And being a conscientious, participating member of the Union, I've tried to get involved with all these conflicting activities as best I can. I came to some of the Christian Union events, ready for an argument and the free doughnuts, with my fists clenched and my cheeks turned. I even went to some of my lectures.

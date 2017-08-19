@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily Fulham reviews the latest fantasy offering from the BBC
 date: "2013-10-06 10:15:34 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "3816"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "BBC"
 image_attribution_link: "http://www.BBC.co.uk"
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 With the demise of Merlin, the BBC were clearly in the market for a new family-friendly fantasy drama to fill the Saturday evening slot. Enter Atlantis, a retelling of the legend of Greek hero Jason, best known as leader of the Argonauts and slayer of the minotaur. Well, "retelling" is perhaps a slight exaggeration: in reality, Atlantis fea-tures a bizarre mish-mash of Greek mythology with real historical figures, with an extra dash of time travel to keep things interesting.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken interviews Brandon Brown about his new book and the state of science communication around the world
 date: "2015-06-17 22:44:55 +0100"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5626"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "USF Faculty"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 <a name="OLE_LINK4"></a><a name="OLE_LINK3"></a>Brandon Brown has spent his career teaching Physics. Starting off as physics graduate from Rice University, Brandon got his PhD from Oregon State University and later attained a certificate in Science Communication at the University of Califronia, Santa Cruz. Now a professor at the University of San Francisco, Brandon’s research focus has shifted to sensory biophysics and high-temperature superconductivity. Research students at his laboratory have explored the electric and magnetic sensory abilities of a variety of creatures.

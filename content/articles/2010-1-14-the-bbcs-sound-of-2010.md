@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hugh Crail and Greg Power rant about the BBC's Sound of 2010
 date: "2010-01-14 14:41:18 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "28"
@@ -34,15 +35,6 @@ image_height: "550"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Joy Orbison

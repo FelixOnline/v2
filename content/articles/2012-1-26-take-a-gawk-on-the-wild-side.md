@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Margot Pikovsky on the Wildlife Photographer of the Year entries currently exhibited in the Natural History Museum
 date: "2012-01-26 22:16:18 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2056"
@@ -33,15 +34,6 @@ image_height: "850"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If labs and essay deadlines have so far prevented you from paying a visit to the __Natural History Museum__ and you’re looking for an excuse to get out of the library: forget the dinosaurs, forget the massive blue whale and forget the Kobe earthquake room, because if there’s one exhibition that you actually have to make it to between now and March 11th this is it: _Wildlife Photographer of the Year_.

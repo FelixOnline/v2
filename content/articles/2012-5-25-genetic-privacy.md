@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Geneticists have a run-in with the law
 date: "2012-05-25 18:44:21 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2501"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Science and the law have clashed again this week, and it seems that the US is adamant in attempting to inhibit scientific advances yet again in the name of public safety. This time, it is the geneticists that are under pressure, as Californian senators are attempting to pass a bill that could hinder on-going research into genetic diseases.

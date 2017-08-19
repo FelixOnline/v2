@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Hannah Edmondson interviews Christopher Yates on the inspiration behind his university-set psychological thriller.
 date: "2013-12-19 20:52:33 +0000"
+author_id: "mtm10"
 
 # Attributes from Felix Online V1
 id: "4201"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mtm10"
-author_name: "Maciej Matuszewski"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It started out as a game to win £10,000, but the stakes were so much higher than expected.

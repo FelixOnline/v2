@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After a week of controversy, Abigail Sawyer looks into the chemistry of cryogenics
 date: "2016-11-25 13:35:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6499"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 For starters, here’s a myth buster: Walt Disney was not actually cryogenically frozen.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anonymous explains why we need to treat sexual assault survivors with empathy, not suspicion
 date: "2016-10-21 12:51:36 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6347"
@@ -33,15 +34,6 @@ image_height: "372"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 > > The “conversation” going on right now is essentially the lived experience of most sexual assault survivors

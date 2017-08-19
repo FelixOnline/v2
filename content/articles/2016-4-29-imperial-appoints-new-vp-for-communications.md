@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ex-journalist, Luke Blair, will be in charge of the college’s PR machine
 date: "2016-04-29 10:06:33 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6090"
@@ -34,15 +35,6 @@ image_height: "1021"
 image_attribution: "BBC"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Many of us suspect that Imperial’s concerned more with its image than ever before, and now it has hired a ‘Vice President for Communications and public affairs’. From September the new post will join the highest managers at Imperial, including the VPs for Advancement and Innovation.

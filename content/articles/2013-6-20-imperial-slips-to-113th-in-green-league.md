@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Everyone's nightmare: a third
 date: "2013-06-20 23:34:32 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3722"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College London has been ranked 113th place in the People & Planet’s Annual Green League Table for 2013. This is a drop of 17 places since last year, where Imperial was ranked 96th place in the 2012 League Table.

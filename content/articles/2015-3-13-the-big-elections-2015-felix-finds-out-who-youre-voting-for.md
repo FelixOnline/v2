@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our predictions for the next year's sabbatical officers [Updated with link to results breakdown]
 date: "2015-03-13 00:49:20 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5387"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College Union"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 __Update:__[Click here](https://union.ic.ac.uk/media/felix/img/exitpoll_2015.pdf) for a full breakdown of the results by faculty, year, and gender.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kunal Wagle discusses the two nights of protests in the St Louis suburb in Missouri
 date: "2014-11-28 00:51:03 +0000"
+author_id: "kmw13"
 
 # Attributes from Felix Online V1
 id: "4968"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Charlie Riedel/Associated Press"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "kmw13"
-author_name: "Kunal M L Wagle"
-author_image_path: "http://felixonline.co.uk/img/upload/201412041539-snb11-kunal-wagle.jpg"
-author_twitter: "specialk109"
-author_facebook: "https://www.facebook.com/specialk109"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The St Louis suburb of Ferguson was calm on Thanksgiving morning, after two nights or protests. The suburb has been unsettled since 9th August when police officer Darren Wilson shot and killed civilian Michael Brown. Mr Wilson, who shot Brown six or seven times said that he “feared for his life”. Witnesses, however, claimed that Mr Brown, who was not armed, had his hands up when the first shots were fired.

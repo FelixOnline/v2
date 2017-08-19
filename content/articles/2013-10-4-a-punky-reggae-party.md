@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Simon Hunter reports on the band keeping Bob Marley’s legacy alive
 date: "2013-10-04 02:05:03 +0100"
+author_id: "sh1207"
 
 # Attributes from Felix Online V1
 id: "3809"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sh1207"
-author_name: "Simon Hunter"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "simonhunter28"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Monday night I spent the evening in the Millennium Dome and came to the conclusion that it should be levelled. It may no longer be called the Millennium Dome and it may now have an array of soulless bars/restaurants, but the fact remains: it’s a large tent with the character to match.

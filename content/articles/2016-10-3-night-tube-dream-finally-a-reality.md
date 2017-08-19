@@ -4,6 +4,7 @@ title: >
 subtitle: >
   No, for real this time! Promise!
 date: "2016-10-03 17:02:09 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6301"
@@ -34,15 +35,6 @@ image_height: "944"
 image_attribution: "TFL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Remember last summer when London was oh-so close to having a 24 hour tube service on the weekend? Well it’s here, it’s finally bloody here.

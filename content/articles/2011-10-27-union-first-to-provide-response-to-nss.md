@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Report unveils move towards better teaching and automated feedback
 date: "2011-10-27 19:38:51 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1606"
@@ -34,15 +35,6 @@ image_height: "3456"
 image_attribution: "Matthew Colvin"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Imperial College Union](http://www.imperialcollegeunion.org/) has become the only student union in the UK to publish an official response to the [National Student Survey](http://www.thestudentsurvey.com/) (NSS). A poor performance in this this year’s NSS has been widely blamed for the College slipping 11 places in the Sunday Times League Table for 2012 entry. This was the first year of a new methodology, which places greater weight on the survey, being used to compile the table.

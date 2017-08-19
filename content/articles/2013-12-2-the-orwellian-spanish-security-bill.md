@@ -4,6 +4,7 @@ title: >
 subtitle: >
   I learned this week that the Spanish government have recently been taking lessons from George Orwell.
 date: "2013-12-02 21:36:02 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4151"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 I learned this week that the Spanish government have recently been taking lessons from George Orwell. The new Citizen Security Bill is a title worthy of the delicious irony heaped upon the various ministries in 1984, while the Spanish government is trying to use it to introduce new laws that brings the Spain of Franco (as described by Orwell) uncomfortably close.

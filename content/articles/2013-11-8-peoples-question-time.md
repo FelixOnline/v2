@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Boris Johnson takes on the people in the Great Hall
 date: "2013-11-08 03:42:07 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4023"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Joseph Letts"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Great Hall at Imperial played host to the second biannual People’s Question Time, an opportunity for members of the public to interact directly with the Mayor and the London Assembly. Over 700 people attended the event, with many being members of the public that live in the Kensington and Chelsea area.

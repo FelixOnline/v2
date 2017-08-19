@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2512"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I like the Green Party. I voted for them in May, on all three ballots, and I would vote for them again if there were a General Election tomorrow. But, as with most friends, they often disappoint me. While I was severely depressed by their pledge to offer homeopathic “medicine” on the NHS, and their plans to implement a health service for pets, the recent news about their opposition to genetically modified crops has been the most disappointing thing of all.

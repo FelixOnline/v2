@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Professor Robert Winston talks to James Bezer about the vote to allow ‘three-parent babies’
 date: "2015-03-09 19:16:04 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5379"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 “This does not threaten the fabric of our society in any way whatsoever: it’s an individual choice for someone who’s watched a child die of a horrible disease”.

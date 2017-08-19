@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Toni Semmence gently boasts about Netball 2s dominance
 date: "2012-10-26 03:04:10 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2764"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week saw a busy week for ICUNC with 8 scheduled games and the first LUSL games of the season.

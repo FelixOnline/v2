@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Your hate should be aimed at ITV, not me
 date: "2011-11-03 21:39:46 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1690"
@@ -34,15 +35,6 @@ image_height: "354"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!

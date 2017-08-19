@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rory Fenton on Imperial’s political viewpoint
 date: "2011-11-17 21:16:33 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1773"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The week before I started my first year here I went to the Fresher’s Fair at Queen’s University Belfast, my local. Going to Imperial’s the week after was a more or less similar affair – the same hobbies and sports, the same international societies and charities. But one thing stood out as missing – where was the political Left? Unlike Queen’s with its range of left wing groups all vying for attention, singing revolutionary songs and pronouncing on student fees and corporate greed, this fledgling physicist saw just two people quietly manning a Socialist Workers stall, nestled uncomfortable between stalls from the various investment banks and oil companies we all know and love on campus. The Left, it seemed, had left. The question is – has it ever been here? Is Imperial naturally conservative?

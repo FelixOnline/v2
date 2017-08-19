@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Zhejiang University sign agreement with Imperial
 date: "2013-05-23 22:25:37 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3617"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 [Imperial College London has signed a memorandum of understanding with Zhejiang University (ZJU) ](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_17-5-2013-15-14-49)that could see the creation of a UK facilty for the Chinese university at White City, where Imperial’s new Imperial West campus is to be built.

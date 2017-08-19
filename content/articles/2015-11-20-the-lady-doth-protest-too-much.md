@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maggie Smith is acerbic and rancid in this Alan Bennett-scripted film
 date: "2015-11-20 14:05:31 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5767"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Snap Stills"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The reputation _The Lady in the Van _has gained in the run up to its release can perhaps be best illustrated by the fact that during a recent phone-call to my grandma – a woman in her late 80s whose closest cinema is the civic centre, where all films are released 3 months later than anywhere else – she mentioned that she was very excited to go and see it. This is what happens when you blend together director Nicholas Hynter, actor Maggie Smith, and playwright Alan Bennett: you get a national treasure smoothie, palatable to all.

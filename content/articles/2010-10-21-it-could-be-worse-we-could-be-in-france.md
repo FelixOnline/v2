@@ -4,6 +4,7 @@ title: >
 subtitle: >
   British economic cuts may pain us now, but the French failure to reform will hurt them more
 date: "2010-10-21 19:19:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "238"
@@ -33,15 +34,6 @@ image_height: "1704"
 image_attribution: "DC/Wikimedia Commons"
 image_attribution_link: "http://commons.wikimedia.org/wiki/User:DocteurCosmos"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Britain’s first coalition government since the Second World War seems to be splitting at the seams as it unveils a budget to deal with the worst deficit caused by the worst recession in Britain since the Second World War. This has already caused a twenty four hour tube strike and backbench anger over broken party pledges. We can, however, at least take solace in the fact that we appear to be coping better than the other half of the entente cordial; our sister nation, France.

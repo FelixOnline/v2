@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Fountain asks, "Why does Dawkins refuse to debate Craig?"
 date: "2011-11-03 21:51:14 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "1693"
@@ -34,15 +35,6 @@ image_height: "288"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In 2006, with the publication of Richard Dawkins’ “The God Delusion”, modern atheism found a new vigour. The book has sold over 2 million copies worldwide and is highly regarded by many as being a powerful rational argument against belief in God. Dawkins, described by many as being “evangelistic” or even “militant”, has come to be seen as one of the leaders of “New Atheism” and regards himself as being a patron of intelligent thought, one who follows the evidence to the conclusion that God does not exist.

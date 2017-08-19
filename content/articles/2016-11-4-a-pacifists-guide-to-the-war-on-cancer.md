@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Pacifist’s Guide to the War on Cancer is on at the National Theatre until 29 November.
 date: "2016-11-04 14:25:18 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6392"
@@ -33,15 +34,6 @@ image_height: "564"
 image_attribution: "National Theatre"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Bryony Kimmings’ latest project might be her most ambitious. _A Pacifist’s Guide to the War on Cancer_ is a poignant portrayal of life alongside cancer, experienced through the naïve eyes of a mother whose baby boy is diagnosed. This sombre premise is transformed with all Kimmings’ charm and idiosyncrasy into a musical, ablaze with physical theatre, acerbic dialogue, and songs such as _Even Cunts get Cancer_, _Fuck This_, and _MRI RnB_. The impressive part of this production is it manages to do all this without becoming crass or disrespectful. In fact, throughout the pantomime a serious point is being raised: cancer is shit and those that suffer shouldn’t be expected to become paragons of positivity – they are as human as everyone else. The best those of us who still live in ‘the kingdom of the well’ can do is to recognise this.

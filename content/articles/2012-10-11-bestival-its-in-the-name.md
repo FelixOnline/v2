@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alex Hooftman recounts the tale of Bestival
 date: "2012-10-11 21:26:41 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2677"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Monday morning at Bestival provided one of those typically British end-of-summer moments. As 50,000 hung-over festival goers packed up, or, in many cases, abandoned, their tents and gazebos, a distinct air of conclusion could be felt in the rainy skies of Robin Hill Country Park on the Isle of Wight. The preceding four days could not have been in starker contrast, with intense sunshine ensuring unfortunate burns and tan lines all round, accompanying a barmy weekend of wide-ranged music and comedy.

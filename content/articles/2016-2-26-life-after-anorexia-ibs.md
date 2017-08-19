@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A personal account on the more neglected side effects of the disease: Irritable Bowel Syndrome
 date: "2016-02-26 12:02:52 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5982"
@@ -34,15 +35,6 @@ image_height: "2867"
 image_attribution: "Newscast UK"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 People often speak about the risks of anorexia and bulimia – how they can kill you, make your bones brittle and your hair fall out.

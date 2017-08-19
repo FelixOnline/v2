@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Shopping for drugs on the Dark Web
 date: "2016-11-25 14:42:50 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6515"
@@ -33,15 +34,6 @@ image_height: "1112"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Traditionally, drugs have been bought by ringing up your friendly neighbourhood dealer. You would agree a time and place to meet, either some shady alley or perhaps one of your houses if you were actually friends. Drugs would then be transacted, for a probably pre-determined price, with the purchase method being cash.

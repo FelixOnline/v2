@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Feroz Salam and Chris Bowers get you up to scratch
 date: "2011-09-30 12:00:04 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1460"
@@ -34,15 +35,6 @@ image_height: "500"
 image_attribution: "Neville Miles"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Welcome to Imperial! You’ve done well to make it here; for the next few years you will get to experience extreme levels of stress, a rapidly receding hairline and the effects of excess Red Bull consumption (seizure, in the case of one of my housemates).

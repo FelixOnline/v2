@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Joshua Renken chronicles the continuing reinvention of one of Britain’s best-loved bands
 date: "2015-02-20 17:42:27 +0000"
+author_id: "jr2514"
 
 # Attributes from Felix Online V1
 id: "5296"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jr2514"
-author_name: "Joshua Renken"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Born and bred in Sheffield, __Arctic Monkeys__ are an English rock band that formed in 2002. Most commonly associated with __The Libertines__ and __The Strokes,__ Arctic Monkeys consist of front man Alex Turner (lead vocals, rhythm guitar, lead guitar), Jamie Cook (lead guitar, rhythm guitar), Nick O’Malley (bass, backing vocals), and Matt Helders (drums, backing vocals). In the nine years since their debut album release, Arctic Monkeys have released four more studio albums, won seven Brit awards, performed during the London Olympic Opening Ceremony and headlined Glastonbury. Twice.

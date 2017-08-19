@@ -4,6 +4,7 @@ title: >
 subtitle: >
   IC Snowsports want you to go to their yearly Alps trip
 date: "2012-11-01 22:30:16 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2783"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I hope you’re as excited for Imperial’s ski trip as we are. It’s already snowing in the Alps and with the booking deadline (9th November) fast approaching it’s time to book on! Last year we sold out a week early and places are going fast so don’t hesitate and put your deposit down now!

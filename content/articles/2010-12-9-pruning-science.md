@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cutting teaching staff in Life Sciences is completely incompatible with aims to improve teaching standards
 date: "2010-12-09 20:29:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "524"
@@ -34,15 +35,6 @@ image_height: "1236"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The Biology and Biochemistry Departments are currently undergoing a Restructure and in the next few months a ‘Departmental Teaching Review’ will follow. This Restructure involves the removal of the ‘Plants and Microbial Science’ and ‘Cell Biology and Genomics’ sections. These areas were chosen for restructure due to their ‘under-performing’ in research and the fact that they are not fitting in the new department structure. Replacing these two sections will be one ‘Integrative Systems Biology’ section. Teaching has not been taken into account, purely the involvement in research! 14 members of staff across the Departments will be made redundant. They include the Heads of each Department alongside Senior Academic Tutors and Admissions Tutors. With these significant members of staff leaving the Department, there will surely be a great loss to the quality of teaching available.

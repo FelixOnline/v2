@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rajvinder Virdee discusses what we might reap from Osborne’s offerings in the Autumn Statement
 date: "2011-12-01 19:49:30 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1863"
@@ -33,15 +34,6 @@ image_height: "575"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Tuesday, George Osborne, Chancellor of the Exchequer, [updated Parliament](http://www.parliament.uk/business/news/2011/november/autumn-statement/) on the current economic situation of our nation, and what the government plans to do about it. The Autumn Statement is seen as an important event in government, as it offers an opportunity to reflect on pledges made in the main budget, and adjust policy depending on recent events. The Chancellor and his team take the Office of Budget Responsibility’s published report on growth and borrowing forecasts and use these to adjust the official government position accordingly.

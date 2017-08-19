@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Following a large number of meetings being cancelled, the Union Executive Committee has met for only the second time this academic year. Charged with overseeing the general running of the Union and enacting policies of Union Council, Exec is scheduled to meet once a month.
 date: "2014-06-02 12:40:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4636"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Following a large number of meetings being cancelled, the Union Executive Committee has met for only the second time this academic year. Charged with overseeing the general running of the Union and enacting policies of Union Council, Exec is scheduled to meet once a month. However this year a lack of agenda items has led to most of the meetings being cancelled: the other meet took place until January.

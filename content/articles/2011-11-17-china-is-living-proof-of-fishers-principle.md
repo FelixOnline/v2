@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How we can explain China’s gender ratios from an evolutionary standpoint and what they mean to imbalances in the rest of the world
 date: "2011-11-17 20:29:06 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1760"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Fisher’s principle is an evolutionary argument that explains why most sexual species tend to have a stable gender ratio that approximates 1:1. The principle is that, as one gender increases in abundance, the marginal value of having offspring of the other gender increases. So any genetic predisposition to have more of one gender than the other gets balanced out. Most species exhibit this property, and historically the gender ratio of Humans at birth has been ~105:100. Males having a slight historical surplus due to our greater tendency than females to get ourselves killed; fighting wars, hunting bears, or similar. The stability innate in Fisher’s principle is elegant, and easily understood, and this is why it is celebrated as one of the greatest arguments in evolutionary theory.

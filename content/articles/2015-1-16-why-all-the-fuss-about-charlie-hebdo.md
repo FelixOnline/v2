@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Paris attacks have recieved widespread global attention, but why?
 date: "2015-01-16 13:31:10 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5101"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The news over the past week has been dominated by stories about the terrorist attacks in Paris, killing 17 people, with the satirical magazine _Charlie Hebdo_ among the targets. Also reported, but to a far lesser extent, are attacks by Boko Haram extremists in Baga, Nigeria, resulting in thousands of deaths. With all the media interest focused on _Charlie Hebdo_ and France, the horrifying events in Nigeria have somewhat fallen by the wayside. Why is it the case that these attacks have received far less media attention, not just globally, but also in Nigeria itself? Is it the case that we in the Western world consider the lives of those lost in France more valuable and worthy of attention?

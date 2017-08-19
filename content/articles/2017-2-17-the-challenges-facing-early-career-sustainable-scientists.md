@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexandra Hicken talks to colleagues from the Network of Sustainable Scientists about the challenges that complicate a career in sustainable science.
 date: "2017-02-17 15:05:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6788"
@@ -34,15 +35,6 @@ image_height: "2100"
 image_attribution: "U.S. Department of Agriculture"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As a director on the executive board of the Network of Sustainable Scientists and Engineers (NESSE) and a PhD student in the Chemistry Department funded via the Grantham Institute, it may appear as though my future career path in sustainable science is all but decided. This, however, is far from true.

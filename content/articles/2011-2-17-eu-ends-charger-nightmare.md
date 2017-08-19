@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The universal charger is here.
 date: "2011-02-17 20:19:20 +0000"
+author_id: "nm1010"
 
 # Attributes from Felix Online V1
 id: "840"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "nm1010"
-author_name: "Niharika Midha"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Plans for a universal phone charger for all mobile handsets sold in the EU have gone ahead this week. Manufacturing has already begun by many of the 14 firms that have subscribed to the initiative, which will see a special charging port added to all devices manufactured from now on.

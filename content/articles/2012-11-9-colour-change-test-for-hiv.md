@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A cheap and effective way of detecting HIV has been developed by Imperial academics
 date: "2012-11-09 12:45:28 +0000"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "2851"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Biomedical engineers at Imperial College London have developed a cheap new method of detecting ultralow concentrations of HIV and some cancers, with the results visualised via a colour changing solution. This colour change is visible to the naked eye.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Elizabeth Crow on jazzing up Mondays and THE de-facto student dish
 date: "2013-03-01 00:03:13 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3398"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "http://i-cdn.apartmenttherapy.com/uimages/kitchen/2011-05-16-Spaghetti.jpg"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The idea for pasta Mondays came about as a way for my boyfriend to try to get me and my flatmate to eat more carbs. Before this we tended to succumb to ‘no-carb-days’ (better known as ‘no-fun-days’) and other such health kick fads! We appreciated being cooked for and the opportunity to eat together, but his pasta Mondays generally consisted of overwhelming ‘rower-sized’ portions of pasta often accompanied with some sort of pesto, occasionally some chicken, and perhaps a concession of tomatoes for us girls.

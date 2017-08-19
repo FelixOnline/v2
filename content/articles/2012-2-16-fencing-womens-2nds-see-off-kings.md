@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Straight to the point for the eight BUCS league match of the season
 date: "2012-02-16 23:43:38 +0000"
+author_id: "sjw209"
 
 # Attributes from Felix Online V1
 id: "2223"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "sjw209"
-author_name: "Simon Worthington"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On Wednesday, the Women’s 2nd Fencing Team faced King’s for the 8th BUCS league match of the season. The team needed a win to defend their current ranking of 3rd place in the league, and to boost team morale as the two previous matches had both been losses.The situation initially looked dire, as one fencer was clearly ill, and two people were injured from the week before.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Douglas Heaven investigates how selection continues regardless of social status
 date: "2012-05-25 14:23:49 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2493"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A study of the reproductive success of 6,000 Finnish people born between 1760-1849 suggests that the technological and social advances of the agricultural revolution did not put a stop to human evolution.

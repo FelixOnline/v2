@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kadhim Shubber and Jamie Fraser interview Yeasayer
 date: "2010-01-14 14:26:34 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "26"
@@ -33,15 +34,6 @@ image_height: "1425"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Felix: Why did you decide to release Ambling Alp for free?

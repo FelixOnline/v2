@@ -4,6 +4,7 @@ title: >
 subtitle: >
   An 11% rise in basic pay might not be enough
 date: "2015-11-06 13:29:38 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5695"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Health Secretary Jeremy Hunt has offered junior doctors an 11% basic pay rise, having cut the hours classified as 'unsociable' meaning that some will actually get a pay cut of as much as 15%. In an attempt to convince junior doctors not to take strike action, he’s conveying the message via a letter to be sent to all 50,000 junior doctors in England via their medical schools.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alice Yang interivews Amanda Brumpton, CSC UK&IR, VP Sales
 date: "2012-11-09 11:46:28 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "2840"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Undoubtedly one of the most recognised modern buildings in the UK, The Gherkin (officially known as 30 St Mary Axe) is magnificently impressive from the outside, yet even more so from the 19th floor up. The view of London from such a height is incredible, and on a clear sunny day there is more than just a pang of jealousy as Amanda Brumpton welcomes me into her glass office.

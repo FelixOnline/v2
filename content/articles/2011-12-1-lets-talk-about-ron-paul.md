@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1888"
@@ -34,15 +35,6 @@ image_height: "567"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If you’ve been paying attention to the goings on in America in the lead up to next year’s presidential elections, you will no doubt have heard many political commentators expressing the view that Ron Paul is the man that everyone has been waiting for. The hero that America needs. What is especially impressive is that this type of praise is happening across the board, regardless of political loyalties or emotional ties.

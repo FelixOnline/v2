@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Anish Kapoor's new exhibition turns the world upside down
 date: "2010-10-08 07:02:08 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "185"
@@ -33,15 +34,6 @@ image_height: "2666"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Hyde Park is being turned upside down by Anish Kapoor’s latest exibition. Four new sculptures have been put up in Kensington Gardens in Hyde Park for the next six months, with round-the-clock security guards to protect them against people and their grubby fingerprints. The exibition is being put on by the Serpentine Gallery and Royal Parks together and is entirely free; in short it’s the perfect way to spend that spare hour between lectures.

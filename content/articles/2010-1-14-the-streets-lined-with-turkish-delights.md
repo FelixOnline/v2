@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Chris Sim found that there probably wasn&8217;t enough room in the belly department for all that Istanbul had to offer.
 date: "2010-01-14 16:27:07 +0000"
+author_id: "rsp07"
 
 # Attributes from Felix Online V1
 id: "31"
@@ -33,15 +34,6 @@ image_height: "1296"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "rsp07"
-author_name: "Ravi S Pall"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I have to say that there is no other city like this anywhere else on Earth. Being a city which encompasses both Europe and Asia really does represent a fusion of east and west, with traditional Islamic values standing side by side with those from neighbouring Europe. It is also a harmony of old and new, with a slick new tram system riding amongst the archaic monuments of the magnificent Hagia Sofia and the Blue Mosque. Istanbul is fast becoming a slick metropolis with every modern comfort, and whilst this city spoils you with every international cuisine you could think of, I’m going to write about the local food which really encapsulates the spirit of this city.

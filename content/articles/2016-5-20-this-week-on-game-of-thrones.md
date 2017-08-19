@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Spoilers, obviously
 date: "2016-05-20 09:24:18 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6192"
@@ -33,15 +34,6 @@ image_height: "675"
 image_attribution: "HBO"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A third of the way through the season and it’s really starting to get going. We pick up at the Wall where Jon apparently had to pop back into Castle Black after storming off last episode (“Jon you’ll need a coat! You of all people should know winter is coming!”). We then get the first of the episode’s many reunions when Sansa and Jon meet for the first time since back at the start of Season one. They have a really heart-warming scene reminiscing about Winterfell and Sansa attempts to convince Jon to take it back from Ramsay. (“Hey brother I used to be a dick to! Wanna go murder my ex?”). Brienne also walks over to Davos and Mel just to let them know that she murdered Stannis, the man they gave their lives to. She’s not the best at making friends, is she?

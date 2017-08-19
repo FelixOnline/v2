@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4556"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch. No concrete details on the wearable device are known as of yet, but the sources across the netscape indicate that it could build on already established partnerships with HTC, Asus, LG and others.

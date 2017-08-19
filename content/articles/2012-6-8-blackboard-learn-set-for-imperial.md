@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "2541"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial College’s virtual learning environment (VLE) is set to undergo an overhaul in time for next September, following a two year process to determine a successor for the College’s current VLE.

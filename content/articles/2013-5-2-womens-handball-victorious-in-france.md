@@ -4,6 +4,7 @@ title: >
 subtitle: >
   First and Third place for Imperial
 date: "2013-05-02 12:16:08 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3526"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 As the plane door opened, the cold French, garlic and baguette ridden air hit us. We knew the challenge, to go to the French engineering university championships and beat them at their own sport, handball.

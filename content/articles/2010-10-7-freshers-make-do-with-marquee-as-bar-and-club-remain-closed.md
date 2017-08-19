@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Unforeseen construction problems delay opening of Union venues until end of October
 date: "2010-10-07 21:59:43 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "172"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The opening of the new Imperial College Union venues FiveSixEight (can’t they count?) and Metric has been delayed by 3 weeks and 1 month respectively. Disappointed students will have to wait until the 18th of October to experience the new bar FiveSixEight and the 29th of October for the new club Metric.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maybe it's time for a Republic
 date: "2012-06-07 19:46:04 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2532"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’ve been in the country for the past month or so, you undoubtedly will have heard about the Queen’s Jubilee and the great festivities that accompanied it. National holiday, extended weekend, parades and lots of flag-waving to celebrate the monarch’s sixty year reign. One thing that I was taken aback by was the scale of the whole thing; not by the lavishness and pomp, as I was expecting that considering how proud and wealthy this kingdom is and has been, but rather by how much everyone participated in the affair. As the nation ground to a halt, Union Jacks were flown everywhere and thousands if not millions gathered to celebrate across the globe. Faraway, and otherwise unrelated, countries covered the jubilee in great detail and everyone seemed to participate in wishing the Queen well. My Facebook feed constantly showed messages of support. My cynical side is quick to explain how this widespread approval might be motivated by the four-day holiday, but that aside, the celebrations seemed very earnest.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Clara Nevola reviews Emlyn William's play recounting the life of a Nobel laureate author
 date: "2014-11-24 12:30:19 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4939"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "whatsonstage"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A rich, famous and respectable man has his private life dragged through the tabloids. “The Sir and the school girl!” the media cries. This all sounds very familiar; the eminent and the famous are constantly in the public eye, their lives scrutinised in every detail by scandal-hungry press. So a well written, moving, reflective and excellently performed play on this recurrent issue of our times doesn’t come a minute too soon. But hang on– I forgot to mention – _Accolade_ was written in 1950.

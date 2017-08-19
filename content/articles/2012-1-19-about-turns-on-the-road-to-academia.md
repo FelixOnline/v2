@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With Nature citing the number of PhDs as “growing like mushrooms”, is the doctorate in need of reform?
 date: "2012-01-19 19:47:22 +0000"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2000"
@@ -33,15 +34,6 @@ image_height: "582"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the age of privilege, when very few attended and graduated from university, achieving the degree of Doctor was a rare feat even amongst the educated. Doctors were revered in many of the royal courts of Europe and granted privileges reserved only to the highest peers of the realm: in Spain, France, the Holy Roman Empire and Portugal, doctors were exempt from uncovering their heads in the presence of the sovereign, and were allowed to address Him without previous questioning. Even the awarding of such PhDs was performed differently – these were not, for instance, awarded after a dissertation had been submitted, but instead granted to honour the academic career of the holder who, for one reason or another, had been deemed sufficiently distinguished as to deserve a doctoral degree. PhDs were thus intimately linked to academia – to the point that they were seldom awarded out of it – and doctors inevitably pursued academic careers because it was the only way of being awarded such degrees in the first place.

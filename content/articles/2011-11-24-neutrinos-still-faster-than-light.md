@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Improved experiment yields same results
 date: "2011-11-24 20:56:31 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "1810"
@@ -34,15 +35,6 @@ image_height: "318"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In September, physicists working on the Opera experiment announced that they had observed some subatomic particles called neutrinos travelling faster than the speed of light. The neutrinos in question undertook a journey from CERN in Geneva, through the Earth, and finally ended up at the Gran Sasso laboratory deep underneath the mountain of the same name in Italy. But they arrived at Gran Sasso a few nanoseconds earlier than they should have done, had they been travelling at the speed of light, suggesting that they had in fact travelled faster.

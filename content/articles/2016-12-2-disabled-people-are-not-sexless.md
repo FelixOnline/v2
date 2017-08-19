@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Though we’re often led to believe that having a disability automatically leads to a sexless existence this couldn’t be further away from the truth. Through the veil of complexities and social awkwardness what often awaits is just another sexual being.
 date: "2016-12-02 15:33:01 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6548"
@@ -33,15 +34,6 @@ image_height: "802"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Life is hard, and finding our way through the labyrinth of dating, relationships, and sex is one of the hardest and most formidable tasks we face as millennials. One thing that’s usually a given is that we all like sex (unless you’re asexual, which is totally okay, or you make the choice not to have sex for whatever reason (whether it’s because it causes you pain or mental turmoil, or because you believe that it is an affront to God), which is also totally okay). But when it comes to hunting for a potential mate (or mates), we often have a very narrow view of who fits into our dating pool.

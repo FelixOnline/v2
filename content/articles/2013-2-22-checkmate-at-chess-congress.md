@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A successful and tense night for Chess Soc, reports John Sargent
 date: "2013-02-22 02:09:56 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3373"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 On a cool Friday February afternoon a rag-tag team of students (and alumni that can’t seem to get away) gathered in the shadow of the Royal Albert Hall to take a van-load of trestle tables into Imperial College’s Union Dining Hall in preparation for an event that has been a long time coming – the 2013 edition of the Imperial College Chess Congress.

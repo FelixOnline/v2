@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Imperial College London develops potential method to control the body's inflammatory response
 date: "2011-01-20 19:24:19 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "605"
@@ -33,15 +34,6 @@ image_height: "1536"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Inflammation is a major cause and constituent of many different conditions and scientists believe they have identified a “master switch” protein that could hold the key to new treatments for these diseases.

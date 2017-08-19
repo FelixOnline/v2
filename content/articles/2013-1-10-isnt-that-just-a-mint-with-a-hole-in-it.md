@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Felix Sport catches up with Riding and Polo on just what makes them love their sport so much
 date: "2013-01-10 23:14:19 +0000"
+author_id: "csw09"
 
 # Attributes from Felix Online V1
 id: "3108"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "csw09"
-author_name: "Caroline Wood"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 A dark and snowy December morning saw the Imperial College Equestrian Team meet for their second competition of the year at Trent Park Equestrian Centre in Enfield. The team met at 7am at Baron’s Court tube and began the long tube journey to Oakwood for their home competition, by the time we got to the stables the sun had risen and the snow was beginning to melt, but the team was not looking forwards to plaiting and grooming horses in the freezing cold!

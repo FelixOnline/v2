@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Another one of Mr. Aran Shaunak’s Little Bites of Science
 date: "2017-03-17 14:55:16 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6902"
@@ -33,15 +34,6 @@ image_height: "880"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 T  ake your dealer off of speed dial. It turns out that human saliva contains a compound – called opiorphin – which is six times more powerful than morphine.

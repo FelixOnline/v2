@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Spend some time down in the vaults
 date: "2016-01-29 09:45:11 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5854"
@@ -34,15 +35,6 @@ image_height: "2832"
 image_attribution: "We Are Full Fat PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever wondered what goes on underneath London’s famous “graffiti tunnel” that is Leake Street, near Waterloo station?

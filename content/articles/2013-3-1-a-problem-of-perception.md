@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Stephen Stopyra explores the gender imbalance in physics
 date: "2013-03-01 00:22:12 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3404"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Aaniya Ahmed"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 I‘d like to perform a small experiment. Picture a scientist in your mind. Now answer this: what gender is your scientist? What colour is their skin? I’d hazard a guess that a large number of you pictured a white male. Mine has a beard too – and he’s scrunched over a desk in a solitary room, calculating something. His clothes are scruffy, and he clearly doesn’t care over-much about his appearance.

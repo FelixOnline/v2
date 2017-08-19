@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rachel Gillespie discusses the potential applications of psychedelic drugs for treating anxiety and depression
 date: "2017-01-13 14:15:14 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6641"
@@ -33,15 +34,6 @@ image_height: "2502"
 image_attribution: "Stefan Böhm Fotografie"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It was like a space shuttle launch…that gives way to the weightlessness and majesty of space…” These are the words of Patrick Mettes, a participant in a recent clinical trial looking into the effects of psilocybin – the active component of aptly named ‘magic’ mushrooms – on depression and anxiety in cancer.

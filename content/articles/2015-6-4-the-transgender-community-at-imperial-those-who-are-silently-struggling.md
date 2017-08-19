@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Philippa Skett on one of the survey’s sadder revelations
 date: "2015-06-04 23:37:12 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5602"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "One of the international symbols of transgender activism and support."
 image_attribution_link: "http://GENEQ"
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Felix Sex Survey found that 9 of the respondents do not identify with the gender they were assigned at birth. A third of those respondents said they were unhappy with their sex life, and a few commented about the issues they face as transgender individuals.

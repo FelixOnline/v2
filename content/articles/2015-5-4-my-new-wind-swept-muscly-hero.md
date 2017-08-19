@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giulia Gabrielli looks at the Nation’s new addiction to Poldark
 date: "2015-05-04 16:58:10 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5492"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I rarely write an article about a programme and focus so much interest on its main character. Of course there are heartthrobs who keep you glued to the screen, but Ross Poldark is different. The reason why he is different, is that rarely such a hype has been built around a single character, to the detriment of an otherwise rather empty show.

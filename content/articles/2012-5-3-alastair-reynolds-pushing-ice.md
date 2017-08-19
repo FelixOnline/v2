@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A modern hard SF classic
 date: "2012-05-03 18:42:08 +0100"
+author_id: "ams111"
 
 # Attributes from Felix Online V1
 id: "2416"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ams111"
-author_name: "Annina M Sartor"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 While hard SF writers such as Asimov are some of the best known names in science fiction I feel that the sub-genre has been somewhat neglected of late. There are of course, several exceptions, some of the most notable of which have to be the works of Alastair Reynolds.

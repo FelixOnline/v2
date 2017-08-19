@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Maciej Matuszewski looks at Hyperion — a classic of SF
 date: "2012-10-05 11:24:11 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2592"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 I very much enjoy short works of fiction. What they may lack in depth compared to longer works they often make up for in greater focus. You can read the story in one sitting and not be distracted by any filler — making it easier for you to get to the core of the issues being explored.

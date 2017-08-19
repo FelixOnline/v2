@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jawaad Farooq offers his verdict on the reason for Donald’s rise to power
 date: "2016-11-25 13:30:51 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6496"
@@ -33,15 +34,6 @@ image_height: "609"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 It has been argued that political correctness has created a culture where people are afraid of expressing their views. This culture has been exacerbated by far left labelling and clamping down on opinions it deems do not fit into the liberal narrative. This apparently has led to the feeling of those who preach this ‘other’ opinion (such as Trump supporters) being delegitimised. Those opinions are an expression of a frustration, and in delegitimising the opinion, the frustration is also not taken seriously. Since the outlet of that frustration is the opinion, and political correctness does not allow the legitimisation of the opinion, political correctness became the target for Trump supporters and a larger motif representing those factors which are keeping these people ‘down’ and causing the frustration in the first place. If Donald Trump was anything he was politically incorrect, and because he was not afraid to speak his mind, he became a symbol of legitimising their frustrations. Repeatedly Trump made the point that the biggest problem he felt America was facing was political correctness, and it seems his message resonated with his supporters.

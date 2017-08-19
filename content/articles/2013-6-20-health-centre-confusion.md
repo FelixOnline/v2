@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cuts in services to postgraduates still unclear
 date: "2013-06-20 23:42:31 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3726"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Angry responses have [continued](http://felixonline.co.uk/news/3536/postgraduate-anger-at-health-centre-access-being-removed/) to pour in concerning the decision by the Imperial College Health Centre to stop treating Imperial postgraduates who live outside of the Centre’s catchment area. The Health Centre only receives money from the NHS to register patients living within this area but additional funding received from the College has traditionally allowed it to treat out of area students. These students do not officially ‘register’ at the Health Centre but rather ‘join’. This allows them to use all of the Health Centre’s provisions apart from the out-of-hours service, but they are still encouraged to register with a local GP.

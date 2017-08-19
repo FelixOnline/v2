@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Brand New Ancients is a storm of a performance, says Lily Le
 date: "2014-01-17 03:45:29 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "4239"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Spitalfields Music Festival"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Kate Tempest is a 27 year old performance poet from Lewisham, London. As poetic as her name may sound, she remains unheard of to many. But all of this is changing, fast.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The privacy aware, personally controlled, do-it-all, open source social network
 date: "2010-11-11 20:32:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "338"
@@ -34,15 +35,6 @@ image_height: "427"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 [Diaspora](https://joindiaspora.com/) is an open source social network built by four students at NYU’s Courant Institute; Daniel Grippi, Maxwell Salzberg, Raphael Sofaer, and Ilya Zhitomirskiy.

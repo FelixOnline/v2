@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Ben Fernando implores you to help the homeless in London
 date: "2013-06-21 00:59:57 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3738"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Homelessness is probably London’s most visible social problem. We all see it daily, in the men and women who spend their days with a paper cup, begging for spare change in the capital’s allleyways. Some of us ignore them – after all, we can’t possibly help them all. Some of us give them a smile, which always meets with kind words, yet somehow this always leaves us feeling unfulfilled.

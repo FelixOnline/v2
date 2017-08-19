@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alexandra Lim discusses on how our choice of food gones beyond the need of eating for survival
 date: "2017-03-10 13:33:25 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6868"
@@ -33,15 +34,6 @@ image_height: "1437"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last week I was at a posh restaurant, because pretending to have money with mediocre savings is this new and dangerous trend I have undertaken. Dessert being my ultimate weakness, I made a big deal out of the pre-dessert and dessert. Meringuelets shrouded in freeze-dried raspberries, swimming blissfully in Chantilly. Then, a brown sugar tart with a delicate scoop of stem ginger ice cream. The ice cream melted atop the chocolate mousse nestled under a skinny membrane of coffee jelly, and I started to think about the unspoken connections between food, body and mind.

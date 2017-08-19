@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Millenials lack the sense of collective purpose that defined previous generations
 date: "2016-04-29 11:05:00 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6111"
@@ -34,15 +35,6 @@ image_height: "800"
 image_attribution: "New Statesman"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 If you’re somehow reading this, you’re probably taking that small break in the library café before coming back upstairs for your revision. Here we are! It’s the final term! You’re probably, like me, starting to feel the library is not your second, but your first home. It is where all your life, aspirations, and social interactions will exist until you’re done, and you’re totally cool with becoming a completely dysfunctional piece of pseudo-zombie, trying to overstimulate your caffeine-addict brain for the next four weeks.

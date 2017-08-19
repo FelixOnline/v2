@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie
 date: "2014-03-26 13:22:37 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4498"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 It used to be that the world was an absolutely awful place. People were starving left and right in all those countries to the South, the hole in the ozone layer was going to kill us all, there was no more oil left, grubby foreigners were going to steal all of our jobs, and the latest Star Wars movie was the biggest tragedy of our generation.

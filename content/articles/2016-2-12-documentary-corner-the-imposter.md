@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Our regular column on this week's documentary fave
 date: "2016-02-12 11:44:06 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5910"
@@ -33,15 +34,6 @@ image_height: "816"
 image_attribution: "The Imposter PR"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 On the 13th of June, 1994, thirteen-year-old Nicolas Barcley went to play a game of basketball with his friends in San Antonio, Texas. This was the last time he was seen. Missing for three years and presumed dead, he was suddenly discovered in Linares, Spain. Or was he? Well, his family said it was him. In fact, they were entirely sure. This confirmation was apparently enough for US embassy officials and the FBI, who celebrated the return of Nicolas with the family. The issue is that the Nicolas that went missing 3 years prior had blue eyes and a thick Texan accent. The person who turned up had brown eyes and a French accent... It seems unbelievable but it’s all completely true. With a real world set-up this good how could the film not succeed?

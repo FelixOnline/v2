@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Yung Nam Cheah shares some useful mobile apps for your travel
 date: "2015-06-09 15:10:47 +0100"
+author_id: "ync111"
 
 # Attributes from Felix Online V1
 id: "5607"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ync111"
-author_name: "Nam N Cheah"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "shadowcheah"
-author_facebook: ""
-author_website_url: "http://www.laughtraveleat.com"
-author_website_title: "Laugh Travel Eat"
 ---
 
 It’s no secret that the internet has revolutionized the world: there are a whole host of information and applications available now that wasn’t there a few decades ago. People can now do everything on their phone that no one could even dream of before – in fact, I still remember putting my phone away for my travels a few years back and now I wouldn’t even think about not having it on me. Period.

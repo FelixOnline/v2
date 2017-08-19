@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Alok Prasad is tired of our lackadaisical attitude
 date: "2013-01-10 22:58:02 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "3100"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sitting at my desk, slaving over acres and acres of lecture slides, I hear the familiar two-tone emerging from my laptop. An email has arrived. I hurry to check it, eager to escape the dull monotony of work. ‘Dear Student, Please note that SOLE is open for evaluating...’ Aaargh! Delete the email, and continue working...

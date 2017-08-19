@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The government's higher education 'policy' is wrecking the sector
 date: "2011-03-17 21:40:58 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1104"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 We have the deepest sympathy for Imperial's senior management. The government's schizophrenic and frankly gormless policy (or lack thereof) on higher education must be infuriating for those trying to formulate long-term plans and strategies for this institution.

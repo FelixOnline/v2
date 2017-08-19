@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jingjie Cheng finds this 1920s play as relevant as ever
 date: "2015-02-11 22:23:15 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "5231"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "JL Fernandez"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Despite reading the synopsis beforehand, I was entirely unprepared for _Six Characters in Search of a Story_, an intense piece of metatheatre that turns all convention on its head. Written in 1921 by Luigi Pirandello and first performed in the same year to mixed reviews, I can only imagine how startling it must have been for audiences then, and how radical it still is.

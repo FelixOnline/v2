@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Sunday Times published the open letter condemning 'Brexit'
 date: "2016-02-26 11:23:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5955"
@@ -34,15 +35,6 @@ image_height: "835"
 image_attribution: "Imperial College London"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Over one hundred leaders of UK universities, including the President of Imperial, Alice Gast, have signed an open letter published in the _Sunday Times_, asking the British public to reject a ‘Brexit’ and vote to stay in the European Union.

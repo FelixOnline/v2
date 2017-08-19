@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Job interviews need an overhaul
 date: "2012-02-02 23:39:57 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "2113"
@@ -34,15 +35,6 @@ image_height: "360"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Unless you’re a masochist, applying for jobs these days, whilst never exactly being pleasant process, is a terrible experience from every point of view. Not only is the student dream of free(ish) money, big booty hoes and four months off a year over, you have to deal with the painful application process itself. First of all, why is it necessary to apply for a job starting next September a year in advance? Come on guys, it doesn’t take that long to skim read a couple of pages! Surely they can start things off a bit later on, giving us (and them) more time to ease back into things after summer. It’s bad enough dealing with labs, lectures and tutorials after a lazy summer let alone filling out a billion job applications on top of that. This brings me onto my main bone of contention.

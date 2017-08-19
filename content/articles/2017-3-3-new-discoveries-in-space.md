@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A new neighbouring solar system brings promise
 date: "2017-03-03 15:12:43 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6842"
@@ -34,15 +35,6 @@ image_height: "2832"
 image_attribution: "NASA"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Are current politics getting you down? Worried that the world is heading in the wrong direction? Worry not –habitable, pristine, Trumpless, planets are coming soon to galaxies near you (perhaps). Indeed, a newly-discovered solar system just 39 light years from Earth contains planets that are possibly warm enough to sustain water and life.

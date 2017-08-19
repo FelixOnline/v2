@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
+author_id: "jp1409"
 
 # Attributes from Felix Online V1
 id: "2741"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jp1409"
-author_name: "Jason Parmar"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jason_parmar"
-author_facebook: "http://www.facebook.com/mynameisasonwhatsyours"
-author_website_url: "http://www.jasonparmar.com"
-author_website_title: "Personal Website"
 ---
 
 Windows 8 came out today, and the media world is buzzing to see if this will make or break Microsoft’s future. In the past Microsoft consumers faced more choices of varieties of Windows than in a trip to Subway! Starter, Home Basic, Home Premium and, and, and, were often subject to intense discussion of suitability and productivity. This time round, Windows 8 only comes in 3 varieties with very similar capabilities, which seems to be a plus. However, the big question is “what is the difference” and “what variety do you, as a student, want?”

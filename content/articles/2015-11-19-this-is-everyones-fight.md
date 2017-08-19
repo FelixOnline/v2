@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jeremy Hunt’s plans for junior doctor contracts will affect the care you receive
 date: "2015-11-19 22:44:33 +0000"
+author_id: "ygr12"
 
 # Attributes from Felix Online V1
 id: "5748"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ygr12"
-author_name: "Grace G Rahman"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 I’m aware that the media and Facebook may have recently reached saturation with heartfelt pleas for help from the medic community. I have undoubtedly littered friends’ timelines with tearjerking videos, angry statistic-riddled rants and protest photos. However, Jeremy Hunt still refuses to listen and I believe you, the voting public and NHS patients, deserve to know what’s happening. I hope you might even join the debate.

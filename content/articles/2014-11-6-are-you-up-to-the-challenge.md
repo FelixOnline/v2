@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
+author_id: "snb11"
 
 # Attributes from Felix Online V1
 id: "4773"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "snb11"
-author_name: "Stephen Ball"
-author_image_path: "http://felixonline.co.uk/img/upload/201411062051-snb11-20141028_225253.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What is the capital of Kenya? Which is the largest moon of the Solar System? Who is the only person to have been awarded two unshared Nobel Prizes?

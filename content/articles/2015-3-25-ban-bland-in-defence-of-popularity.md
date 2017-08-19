@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Fred Fyles on populism, cultural criticism, and Kim Kardashian
 date: "2015-03-25 12:46:19 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5437"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "National Portrait Gallery"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Popularity. If the innumerable American coming-of-age films have taught us anything, it’s that popularity is a double-edged sword; to be popular is to be both loved and loathed in equal measure. Nowhere is this more true than in the world of music and film, where popularity often leads to an immediate critical reaction that is completely divorced from the content itself. The phrase “I liked it before it was popular” has become so ubiquitous as to enter into cliche, forming – alongside listicle, hipster, and cereal cafe – part of our post-postmodern cultural lexicon. With the internet ushering in an unprecedented era of hype, whereby acts can boom and bust in the time it takes to get through an episode of _Girls_, as well as a collective hive-mind insatiable in its appetite for think-pieces, our relationship with popularity is only going to become more and more complex.

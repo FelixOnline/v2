@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The memoirs of Chris Mullin MP are brought to the stage to give a revealing account of the goings-on behind the scenes during the Blair years
 date: "2011-11-24 22:30:20 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "1835"
@@ -33,15 +34,6 @@ image_height: "1067"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 Those of us born around the end of the 80s and the start of the 90s have a lot to chew over. Too young to remember a time before Blair but old enough to recall a precious year or two before Bush fucked the world – sorry, “took office” – we not only grew up in an era where wars were fought against nouns, at the end of it all we were garroted by a bunch of banksters.

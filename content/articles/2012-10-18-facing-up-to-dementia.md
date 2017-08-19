@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Foundation for Science opens up the discussion
 date: "2012-10-18 21:17:47 +0100"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "2698"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 In the UK, 820,000 people suffer with dementia and by 2051 this figure may rise to 1.7 million. The [Foundation for Science and Technology](http://www.foundation.org.uk) highlighted this societal challenge by inviting four speakers to talk about the issue from unique perspectives.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Laurence Pope delves into the world of schizophrenia and iPhone apps
 date: "2013-06-13 22:50:35 +0100"
+author_id: "lap08"
 
 # Attributes from Felix Online V1
 id: "3683"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: "Alex Craven"
 image_attribution_link: "http://dichoticlistening.com/about-us"
 video_url: ""
-
-# Author metadata
-author_id: "lap08"
-author_name: "Laurence Pope"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Statistically, approximately one in every 100 of us will develop schizophrenia over the course of our lifetimes. Schizophrenia is one of the more commonly known mental disorders, but also one that remains somewhat of a mystery to non-sufferers. Whilst the Greek root of the word schizophrenia, literally ‘split mind’, implies a split personality the condition is much more than just having a second voice in your head.

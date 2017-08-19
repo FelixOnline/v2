@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Social Secretary, who sent emails, now banned from mailing list
 date: "2015-02-27 00:07:40 +0000"
+author_id: "pk1811"
 
 # Attributes from Felix Online V1
 id: "5309"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "pk1811"
-author_name: "Philip Kent"
-author_image_path: "http://felixonline.co.uk/img/upload/201501231103-pk1811-10658882_854647214546821_3333206013421282229_o.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Emails sent to the ICU Rugby Football Club (ICURFC) mailing list recently have contained misogynistic content, despite previously being warned by Imperial College Union to moderate their “inappropriate” language.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   FELIX presents the birthday cake for your “friends” with challenging needs
 date: "2016-02-26 12:05:22 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5984"
@@ -34,15 +35,6 @@ image_height: "2562"
 image_attribution: "Sanjay Bhattacharya"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot-proof. Go ahead, test that statement.

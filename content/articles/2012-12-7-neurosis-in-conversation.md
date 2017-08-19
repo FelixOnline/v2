@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi talks to Scott Kelly about Neurosis and his solo work
 date: "2012-12-07 03:40:06 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3068"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 One of the most influential bands out there, progressive sludge outfit __Neurosis__ have left their mark on the metal scene and anyone who’s seen their live performance. After seeing an impressive show of theirs at ATP,I was able to speak to Scott Kelly of Neurosis about Neurosis’ decision to remove visuals from their live set, his solo project and the post metal scene.

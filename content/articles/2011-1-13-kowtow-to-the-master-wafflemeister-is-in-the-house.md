@@ -4,6 +4,7 @@ title: >
 subtitle: >
   With a motto like ‘I waffle therefore I am’, what’s not to love?
 date: "2011-01-13 19:47:00 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "569"
@@ -34,15 +35,6 @@ image_height: "768"
 image_attribution: "Katie Tan"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Have you ever tried Sainbury’s Belgian Waffles? They glow a certain shade of yellow that reminds me of the Mercedes Benz SLK320 in sunshine yellow. God knows just how many additives they employed for you to ‘Taste the Difference’.

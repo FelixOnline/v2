@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All you need is an internet connection and a subsciption and you’re ready to go
 date: "2016-02-05 12:49:47 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "5885"
@@ -34,15 +35,6 @@ image_height: "433"
 image_attribution: "Netflix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 These past few years, we’ve seen a sudden shift in popularity of several online streaming sites with Netflix, Hulu and Amazon Prime being the most popular of the bunch. They’ve added competition into the television market and are growing in popularity by the day. Netflix have also been expanding their reach, now present in most countries around the world. With all this growth, it begs the question, can these online streaming sites replace live cable TV altogether?

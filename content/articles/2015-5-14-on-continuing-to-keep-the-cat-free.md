@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Cecily Johnson doesn’t want to set a precedent for the censorship of student media
 date: "2015-05-14 22:41:41 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5525"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Imperial College"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Last weekend, the College played host to 15,000 guests at this year’s Imperial Festival. With alumni events running alongside, the festival seeks to raise Imperial’s profile by dragging its scientists and engineers out of the laboratory to share their research with the public. But this year, one regular campus fixture wasn’t being presented to the ImpFest audience: the student newspaper, Felix.

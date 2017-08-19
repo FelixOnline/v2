@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Madeline and Vin present a guide to the terminology of sexual and gender identity
 date: "2015-06-04 23:48:03 +0100"
+author_id: "cj914"
 
 # Attributes from Felix Online V1
 id: "5604"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "Vanity Fair"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cj914"
-author_name: "Cecily Johnson"
-author_image_path: "http://felixonline.co.uk/img/upload/201505151935-pk1811-11010013_10155361739565635_8828522702362664338_o.jpg"
-author_twitter: "cecilyglj"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 When discussing gender, sexuality, and similar topics, there are a lot of terms and concepts that you might come across. This article will provide a brief introduction to these concepts, what they mean, and how to use the words correctly. Let’s start with concepts.

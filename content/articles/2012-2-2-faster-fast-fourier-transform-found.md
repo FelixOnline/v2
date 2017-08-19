@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A group of MIT researchers recently presented their findings regarding an improved algorithm for Fast Fourier Transforms.
 date: "2012-02-02 19:37:09 +0000"
+author_id: "ak6309"
 
 # Attributes from Felix Online V1
 id: "2092"
@@ -33,15 +34,6 @@ image_height: "794"
 image_attribution: "MIT"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ak6309"
-author_name: "Alexander Karapetian"
-author_image_path: "http://felixonline.co.uk/img/upload/201111032143-sjw209-alex-karapetian.jpg"
-author_twitter: "AlexKara15"
-author_facebook: "http://www.facebook.com/alexkara15"
-author_website_url: "http://alexkara15.wordpress.com"
-author_website_title: "alexkara15.wordpress.com"
 ---
 
 Researchers at MIT have discovered a new method of performing the Fast Fourier Transform algorithm which, in a large set of use cases, adds performance improvements. The MIT group submitted their paper, “[Nearly Optimal Sparse Fourier Transform](http://arxiv.org/abs/1201.2501)” to ArXiv on 12 January and presented their findings in the Symposium on Discrete Algorithms (SODA) last week.

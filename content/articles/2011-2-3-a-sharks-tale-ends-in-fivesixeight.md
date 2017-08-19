@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Kate Turner wants to start a fish fight with you
 date: "2011-02-03 19:01:15 +0000"
+author_id: "cjb07"
 
 # Attributes from Felix Online V1
 id: "708"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cjb07"
-author_name: "Christopher Birkett"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "chrisbirkett"
-author_facebook: "http://www.facebook.com/chris.birkett"
-author_website_url: "http://www.cjbirkett.co.uk"
-author_website_title: "Website"
 ---
 
 Recently I went for lunch at FiveSixEight in Beit Quad and was very surprised to find oven-baked Blue Shark Fillet available on the menu at a very affordable £5.50.

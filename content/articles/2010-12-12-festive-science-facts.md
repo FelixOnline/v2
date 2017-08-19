@@ -4,6 +4,7 @@ title: >
 subtitle: >
   All the Christmas science you'll need to bore your relatives to death
 date: "2010-12-12 13:55:46 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "551"
@@ -34,15 +35,6 @@ image_height: "420"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 __Roasts__:

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   If the Good Ship Eurozone goes down, we are going down with her, explains Albert Nickelby
 date: "2011-12-08 20:47:14 +0000"
+author_id: "mc4509"
 
 # Attributes from Felix Online V1
 id: "1921"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "mc4509"
-author_name: "Matthew N Colvin"
-author_image_path: "http://felixonline.co.uk/img/upload/201102102106-ks607-mattcolv.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The Eurozone crisis has all the traits of a perfect story: a choral drama with a fuzzy and mistrusted antihero, pompous and obscure villains, few and powerless heroes, and many victims; the plot is so twisted that its outcome remains as mysterious as exciting, and its consequences so open to chance and mishaps that any guess in this respect is but a fools errand. Hence, it comes to no surprise that the UK press devotes so much ink to the Eurozone crisis: it is where the news seem to be.

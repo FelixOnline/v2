@@ -4,6 +4,7 @@ title: >
 subtitle: >
   It's the peanut butter that really gets me
 date: "2011-05-06 15:09:18 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1176"
@@ -34,15 +35,6 @@ image_height: "600"
 image_attribution: "Dana Li"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The memorable scenes of Brad Pitt licking peanut butter off a spoon in Meet Joe Black is exactly how I’d like to imagine the grim reaper. Suave, suited and darn right fit.

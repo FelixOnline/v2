@@ -4,6 +4,7 @@ title: >
 subtitle: >
   ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but
 date: "2014-02-07 05:16:31 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4367"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 ‘Disappearing ink’ generally conjures up images of spies and secret messages. Until now, attempts to create a disappearing ink have been expensive (and sometimes toxic), with the results appearing rather faint on the page. But researchers from China have come up with a solution that uses nothing but plain old water.

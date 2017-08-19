@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A profile of this year's hottest artist
 date: "2011-05-26 19:37:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1262"
@@ -34,15 +35,6 @@ image_height: "686"
 image_attribution: "Dazed and Confused"
 image_attribution_link: "http://www.dazeddigital.com/music/article/8280/1/star-slingers-unique-beats"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 It’s the 1st of May and [Star Slinger](http://starslinger.net/home.html) is playing Camden Rock at the Camden Crawl. The room is rather sparsely populated and despite the best efforts of this “one man beat machine”, as he was described by Pitchfork, the sound system just isn’t playing nice this evening. At the end of his set a crowd approach the DJ booth, my friend is the first to reach him and proclaims obnoxiously, “Can I have a hug?!?” Star Slinger peers at him through his long brown hair with a slightly confused face and has evidently misheard him, “Thanks but I don’t need a hug.” When my friend clarifies, Star Slinger reconsiders for a moment, and then gives him a full-bodied embrace.

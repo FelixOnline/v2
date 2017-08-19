@@ -4,6 +4,7 @@ title: >
 subtitle: >
   After a massive dick move by Kings, they get conquered
 date: "2012-12-07 03:05:29 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3059"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 Many of you may have read the article written by the Hockey Club Captain last week referencing the email written to the Imperial 2s captain by the KCL 1s captain. The email undoubtedly showed unsportsmanlike behaviour on the part of the KCL captain but also gave the 2s even more motivation to go out there and show KCL exactly what they are made of.

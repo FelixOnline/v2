@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Wii U was, to be frank, not that successful and probably dented Nintendo’s position. Now they’ve introduced the Switch with a load of new features. Question is, will it be enough?
 date: "2016-11-11 17:01:54 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6432"
@@ -33,15 +34,6 @@ image_height: "500"
 image_attribution: "Nintendo"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The year is 2016, and the Wii U has been doing incredibly badly worldwide for a number of years. In March, Nintendo announced a partnership with a Japanese mobile provider, DeNA, to provide some of their intellectual properties on mobile platforms. While this came as a big surprise, it was the news we received shortly afterwards that really set imaginations alight. In a press conference only a few days later, they confirmed that a new hardware platform was in development, simply codenamed the “NX”.

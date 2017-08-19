@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Samuel Bodansky wonders why consumers are willing to pay so much for so little
 date: "2014-11-20 20:56:39 +0000"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4912"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What are prices? Who decides prices? Walking down a supermarket aisle, we see a wide variety of complicated pricing schemes; buy one get one free, half price, special offers and the like. These prices seem either carefully calculated – what makes them so specific?

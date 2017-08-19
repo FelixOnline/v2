@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Oh how the mighty have fallen. NOT
 date: "2017-06-02 12:28:42 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6983"
@@ -33,15 +34,6 @@ image_height: "1277"
 image_attribution: "felix"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial is regularly declared one of the best universities in the world. The latest Guardian university league tables reaffirms this, placing us in joint 6th place overall. Imperial ranked top in Earth and Marine Sciences, Civil Engineering, Electronic and Electrical Engineering, and Engineering (general).

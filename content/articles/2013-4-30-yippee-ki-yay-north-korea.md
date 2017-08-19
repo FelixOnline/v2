@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Olympus Has Fallen review
 date: "2013-04-30 10:40:06 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3501"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 With tensions in North Korea constantly on the rise, Gerard Butler’s new action-packed outing tells a story that doesn’t seem far too out of reach.

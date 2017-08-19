@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Thomas McFadden isn’t impressed with the caffeine on campus
 date: "2011-05-20 04:26:46 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1216"
@@ -34,15 +35,6 @@ image_height: "681"
 image_attribution: "flickr/andai"
 image_attribution_link: "http://www.flickr.com/photos/andai/2527145556/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Coffee. Most people have tried it, some are addicted to it and at this time of year it is used by many students to help with revision. The coffee bean is one of the biggest agriculture commodities in the world, while the drink is omnipresent in today’s 24 hour culture. Coffee bars are everywhere, as are vending machines offering a hot, sweet, rich tasting beverage for little more than the loose change most of us carry in our pockets.

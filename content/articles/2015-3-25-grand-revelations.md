@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Science Museum's latest show of scientific photography is an incredible triumph
 date: "2015-03-25 14:00:15 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5457"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: "National Media Museum, Bradford SSPL"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Out of all the artistic disciples, it is photography that is the most fundamentally scientific. From the early days of the camera obscura, whose physics has delighted humanity since the Ancient Greeks, to the chemical reactions silver nitrate underwent in creating the first fixed photographic prints, science has always neatly allied itself with photography, with each field informing and shaping the other - a true expression of a symbiotic relationship. Even today, whenever fixing an image on film, there is an experimental quality: the reel goes into its little black tube, unseen, and it’s not until you have gone through the labour of love of developing and printing that you can actually see what you’ve managed to create.

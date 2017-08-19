@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Don Ma despairs at Taste Imperial's blatant disregard for appropriate raisin-yoghurt ratios
 date: "2017-03-17 16:53:23 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6906"
@@ -34,15 +35,6 @@ image_height: "1365"
 image_attribution: "Barney Moss"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Before anyone comes at me with their perceived positives of TasteImperial, I'll have you know that you have been utterly deceived. Commonfolk may be misguided by their SCR breakfasts or the library café 'food'. But I will dispel these myths them with one simple example: The Granola Yoghurt.

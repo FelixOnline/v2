@@ -4,6 +4,7 @@ title: >
 subtitle: >
   But he’ll never face true justice at the Hague argues Naida Dzigal
 date: "2011-06-02 19:09:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1303"
@@ -34,15 +35,6 @@ image_height: "1145"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A couple of weeks ago, Osama bin Laden was found and killed in Pakistan by the US. As is usually the case, a lot of banter and ridicule followed – one of which was [a picture of Osama Bin Laden titled ‘Hide and Seek Champion: 2001– 2011’](http://www.collegehumor.com/picture/6497571/osama-bin-laden-hide-and-seek-champion). I remember thinking that he wasn’t the champion, there were still many war criminals and the like at large such as Ratko Mladić – the man who masterminded the [genocide in Srebrenica](http://en.wikipedia.org/wiki/Srebrenica_massacre) and presented it as a ‘gift’ to the Serbian nation. I wondered whether he’d ever be caught.

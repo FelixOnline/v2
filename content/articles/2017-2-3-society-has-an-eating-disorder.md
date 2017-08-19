@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Emily-Jane Cramphorn discusses our insidious weight loss culture
 date: "2017-02-03 15:56:12 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6715"
@@ -34,15 +35,6 @@ image_height: "804"
 image_attribution: "Nesster"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Society has an eating disorder. Sweeping statement, I know, but take a second to look at the posters next time you get on the tube. Diets, cookbooks, meal replacement shakes, protein bars, detox teas and pretty much anything you can think of claiming to be the answer to your weight problems. Weight problems that you probably don’t have.

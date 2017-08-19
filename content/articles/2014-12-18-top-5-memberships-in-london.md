@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jack Leese looks at the capital's best art memberships
 date: "2014-12-18 15:38:37 +0000"
+author_id: "ff712"
 
 # Attributes from Felix Online V1
 id: "5056"
@@ -34,15 +35,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ff712"
-author_name: "Fred S Fyles"
-author_image_path: "http://felixonline.co.uk/img/upload/201602241711-felix-Fred Fyles.jpg"
-author_twitter: "fredfyles"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 There are a good number of reasons why you may want to join one or more of the plethora of membership schemes offered across the capital. Do you want to show off to everyone how cultured you are? Maybe you simply can’t stand to queue. Perhaps you relish going to members-only areas. Hopefully though, the number one reason is that you love soaking up any exhibition that comes flying onto your radar. And so I’ve compiled a list of my memberships, answering questions like; “Is it worth the money?”; “what benefits do I get?” ; and most importantly “what is the members’ bar like?”

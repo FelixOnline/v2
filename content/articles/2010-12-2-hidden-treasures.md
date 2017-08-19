@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The best venues in London for gigging off the beaten track
 date: "2010-12-02 20:56:36 +0000"
+author_id: "cer08"
 
 # Attributes from Felix Online V1
 id: "481"
@@ -33,15 +34,6 @@ image_height: "768"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "cer08"
-author_name: "Charlotte Ridler"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Sometimes, being a music lover can be a tough job. You fork out £20 to go and see a really exciting new band at Brixton Academy or HMV Forum. You then queue for ages in the cold. Once you’re in the venue’s sound system sounds like it’s playing through four inches of cotton wool and a sweaty seven foot yeti man decides to stand half an inch in front of your face. Sigh. It’s not always that bad, but there is another way to see live bands that is cheaper, more intimate and often has better quality music than the main concert halls. Tucked away down side streets, in basements and attics away from the crowds, small gig venues give you the opportunity to see the bands that will be playing the big venues in a year or two’s time up close and personal at a fraction of the price. Here are a few of the best ones:

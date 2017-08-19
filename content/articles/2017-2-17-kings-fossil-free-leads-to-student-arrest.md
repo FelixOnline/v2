@@ -4,6 +4,7 @@ title: >
 subtitle: >
   A student painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s
 date: "2017-02-17 14:24:32 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6778"
@@ -34,15 +35,6 @@ image_height: "612"
 image_attribution: "Loren Kerns"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Anyone that’s been around Imperial a while will remember the Fossil Free Campaign posters that went up during first term a few years ago. These declared “Imperial’s getting coal for Christmas” as part of a larger campaign to try and get Imperial to divest from fossil fuels. Whilst the Imperial group for this movement has become slightly quieter on campus lately, the national movement is going strong.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   George Butcher offers his opinion on the cuts in amenities funds.
 date: "2014-10-17 15:24:15 +0100"
+author_id: "ps3110"
 
 # Attributes from Felix Online V1
 id: "4740"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ps3110"
-author_name: "Philippa M Skett"
-author_image_path: "http://felixonline.co.uk/img/upload/201501201845-ps3110-screen-shot-2015-01-20-at-18.45.33.png"
-author_twitter: "sketterss"
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 What does £220,000 a year get you? It’s more than the combined rent of the 22 new beds in Beit Hall over a calendar year, two-thirds of the former rector’s salary of £364,000 (Times High Education Supplement) and 0.22%of Imperial College London’s £97 million endowment. £220,000 is also how much has left the amenities fund for halls events and activities this year.

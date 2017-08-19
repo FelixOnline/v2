@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Matt Allinson on the new online newspaper at Imperial
 date: "2013-01-25 01:56:24 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3189"
@@ -33,15 +34,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 This week [The Tab Imperial ](http://imperial.tab.co.uk/)launched, a new online news source that focuses on news and life of being student at Imperial and around London.

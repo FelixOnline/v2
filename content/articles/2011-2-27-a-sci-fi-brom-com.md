@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The latest Pegg and Frost genre-hopping tribute lacks originality
 date: "2011-02-27 19:05:58 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "907"
@@ -34,15 +35,6 @@ image_height: "424"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 They always said they wanted to do a trilogy of genres. First there was Shaun of the Dead (Rom-Zom-Com) then came Hot Fuzz (Thrill-Com) and now we have Paul (Sci-Fi-Brom-Com). All three have the emphasis placed firmly on the comedy aspect but all have different appealing values. This latest venture details the journey of two British nerds on the holiday of a lifetime in America. After visiting Comic-Con (Pegg & Frost love abbreviations!) in San Diego the duo head off on an RV road trip. Their plan is to drive around Nevada visiting all of the alien sites that you find plastered on a thirteen year old’s bedroom walls (Area 51, Roswell, etc). If you’ve seen the trailer, you’ll already know that they run into Paul (the extra terrestrial trying to find his way home) and have to harbour him from the government. The fun commences when Paul, voiced by Seth Rogen, doesn’t turn out to be quite as the pair expect.

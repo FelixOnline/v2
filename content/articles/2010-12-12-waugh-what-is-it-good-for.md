@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Even the Old Red Lion couldn't save Decline & Fall
 date: "2010-12-12 17:07:29 +0000"
+author_id: "ks607"
 
 # Attributes from Felix Online V1
 id: "555"
@@ -33,15 +34,6 @@ image_height: "3056"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "ks607"
-author_name: "Kadhim Shubber"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "kadhimshubber"
-author_facebook: "http://www.facebook.com/kadhimshubber"
-author_website_url: "http://www.kadhimshubber.com"
-author_website_title: "Tumblr"
 ---
 
 It’s in theatres like the Old Red Lion, that remind me why I review plays instead of just going to the see them. They want me to like them, and they have a bar – did I mention it was a pub-theatre? It’s a simple, yet highly effective equation. Regrettably though, it seems ORL had banked on the bar doing the talking and had overlooked a key point, viz. the play itself.

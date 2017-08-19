@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Giulia Costa gives top tips on how to be a better human being
 date: "2017-02-17 14:36:09 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6782"
@@ -34,15 +35,6 @@ image_height: "1095"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Have you ever spent a long time staring at the coloured bins wondering where your everything should go? Wondering if someone is judging your bin choice? Well good, because recycling is important.

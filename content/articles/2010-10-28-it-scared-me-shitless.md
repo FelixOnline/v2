@@ -4,6 +4,7 @@ title: >
 subtitle: >
   How far will the tourism industry go to empty our bowels and our coffers?
 date: "2010-10-28 19:39:47 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "270"
@@ -34,15 +35,6 @@ image_height: "1024"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 A couple of things you can never forget about a bungy jump: the expression of your co-conspirators’ faces, and the fateful countdown that mount to your eventual plunge.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Charles Betts interviews Mark Field MP for the Cities of London and Westminster on science, higher education and representing Imperial
 date: "2010-11-04 19:08:28 +0000"
+author_id: "jk708"
 
 # Attributes from Felix Online V1
 id: "327"
@@ -33,15 +34,6 @@ image_height: "2912"
 image_attribution: "Slobodan Radosavljevic"
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jk708"
-author_name: "Jonathan Kim"
-author_image_path: "http://felixonline.co.uk/img/upload/201302251956-tna08-scary-clown-043.jpg"
-author_twitter: "jonnykim"
-author_facebook: "https://www.facebook.com/Jonny.Kim"
-author_website_url: "http://jkimbo.co.uk"
-author_website_title: "jkimbo.co.uk"
 ---
 
 __In September, during a speech at Queen Mary University, Vince Cable said “there is no justification for taxpayers’ money to be used to support research that is neither theoretically outstanding nor commercially useful.” What is your stance?__

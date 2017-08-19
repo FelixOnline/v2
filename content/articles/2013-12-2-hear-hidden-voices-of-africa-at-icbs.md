@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Two local men, Chris and Ally, saw the plight of teenagers and decided to set up a centre where young people can learn basic skills. Together, through much personal sacrifice, they purchased a building in Usa River, about twelve miles outside Arusha.
 date: "2013-12-02 13:13:04 +0000"
+author_id: "jal08"
 
 # Attributes from Felix Online V1
 id: "4148"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "jal08"
-author_name: "Joseph A L Letts"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: "jal08"
-author_facebook: ""
-author_website_url: "http://thenewsthatsnot.wordpress.com"
-author_website_title: "The News That's Not"
 ---
 
 Hope comes before sunrise, a dream in hand and the promise of a better future. For the children of Tanzania, this is not always true. Less than 20% of Tanzanian children have access to secondary school education. This is due to the lack of funds and secondary schools that do not work closely together. However, a glimmer of hope comes in the form of TEKUA. As an education centre that provides free education for the neediest students, TEKUA aims to empower its students with knowledge, giving them a means to make a living. TEKUA gives them hope, and our dream of a better future.

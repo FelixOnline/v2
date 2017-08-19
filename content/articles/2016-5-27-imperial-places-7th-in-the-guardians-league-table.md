@@ -4,6 +4,7 @@ title: >
 subtitle: >
   We’re up a place, but behind Loughborough and Durham
 date: "2016-05-27 08:38:19 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6196"
@@ -33,15 +34,6 @@ image_height: "2988"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 Imperial has placed seventh in the _Guardian’s_ league table of British universities, coming behind Durham, Surrey and Loughborough.

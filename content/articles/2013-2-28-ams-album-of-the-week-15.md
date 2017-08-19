@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Eels: Wonderful, Glorious
 date: "2013-02-28 23:30:50 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3389"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 The release of Wonderful, Glorious, the 10th album from long-tenured indie rock band Eels presents a worrying fact about music: sometimes, artists are overshadowed by their own success.

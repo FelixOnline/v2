@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Indira Mallik sees protests as the only way to exact change
 date: "2017-01-27 16:22:15 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "6686"
@@ -33,15 +34,6 @@ image_height: "1120"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 As part of the Women’s March millions of people took to the streets across the world on Saturday; it was a galore of pink home-knitted “pussy hats” and witty signs, but did it mean anything? Will it lead to change?

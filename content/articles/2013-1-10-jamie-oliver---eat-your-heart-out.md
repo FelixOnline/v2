@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Jamie's 15 minute meals that actually take about 150 minites
 date: "2013-01-10 23:02:55 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3103"
@@ -33,15 +34,6 @@ image_height: ""
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 My dad gave me Jamie Oliver’s 15 Minute Meals this year. Like the Hairy Dieters (AKA the Hairy Bikers), Jamie believes anyone can cook and eat great, healthy food. However, Jamie claims you can do it in 15 minutes. Given that you’re not superhuman it may take you a little longer – it took me about half an hour. In Jamie’s defence, after cooking this meal a couple of times I think could get it down to 20 minutes.

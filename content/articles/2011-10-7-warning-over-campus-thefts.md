@@ -4,6 +4,7 @@ title: >
 subtitle: >
   PC Nigel Lewis reports on college security concerns
 date: "2011-10-07 00:19:31 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1469"
@@ -34,15 +35,6 @@ image_height: "375"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Imperial College is a fantastic environment in which to study and most staff, visitors and students will never experience crime whilst on the campus. However, some will and it is my job to deter crime, provide crime prevention advice and investigate reported crimes, along with my colleague Community Support Officer, Paul Stratford. Imperial College has an ‘open door’ policy and some non-sensitive areas are unlocked during working hours and accessible to the public. This affords unhindered passage for all but can attract criminals. Keeping your property with you at all times is probably the best way of keeping them safe. I often walk around the campus and see laptop computers, mobile phones and bags left unattended, not just inside the buildings but also in the garden areas. The in-house security team is very effective at collecting these items and storing them in the security office, but some are stolen. This can lead to a complete loss of a student’s work, which can be devastating. The same advice is pertinent to offices: if you keep your laptop computer or digital camera in the office, ensuring it is under lock and key is the best way of keeping it safe.

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Riaz Agahi talks to Ron Lessard, head of seminal noise label RRR
 date: "2013-05-28 14:42:50 +0100"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3626"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 After hearing about RRR records through their Recycled series, I discovered a contribution to the development and proliferation of noise music that goes far beyond a series of tapes which brings together some of noise’s most important artists. Based in Lowell, Massachusetts, RRR has the distinction of being the first American label to release Merzow, effectively globalising noise. Despite that, the label’s profile is lower than Merzbow and the like, and this is because rather than sticking with the artists it helped establish, the label has relentlessly focused on new discoveries. This is RRR records’ truly underground ethos, which I felt worthy of further examination, so I got in touch with label founder and head Ron Lessard.

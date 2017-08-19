@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Leonardo Ialongo discusses the value of European sovereignity in an increasingly competitive world
 date: "2013-02-22 01:53:59 +0000"
+author_id: "tna08"
 
 # Attributes from Felix Online V1
 id: "3368"
@@ -34,15 +35,6 @@ image_height: "0"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "tna08"
-author_name: "Tim Arbabzadah"
-author_image_path: "http://felixonline.co.uk/img/upload/201302252001-tna08-tim-editorial-rgb-jpg.jpg"
-author_twitter: "timarbabzadah"
-author_facebook: "https://www.facebook.com/timarbabzadah"
-author_website_url: ""
-author_website_title: ""
 ---
 
 In[ last week’s article](http://felixonline.co.uk/comment/3309/a-european-citizenship/) I discussed some of the reasons why European integration is necessary. However in recent years, due to the economic crisis, it has been the shortcomings of the union, rather than its advantages, which have been under the spotlight. This financial crisis, although it originated in America due to the private debt bubble, soon spread in the fertile ground of European public debt. The banks that were impoverished by the crisis could not lend money to the states, which in turn struggled to pay back their debt. The countries not able to cope with debt, and unable to devalue their currency like in the past, were forced to ask the European Union for help. This started the process of bailouts and austerity. It also started to draw criticism towards the Euro. It was deemed too weak and, according to some, destined to fail. I could not agree more. However it is not because the Euro project is wrong or utopic; the Euro was doomed due its systemic weakness. The European jurisdiction, in fact, divides the powers between the ECB and the national governments in a way that does not let them to effectively confront their debt. The ECB has powers to oversee the monetary policies, and yet no control on public debt and no right to issue European bonds; on the other side the national governments have little or no control on monetary policy. This creates an instability that will necessarily crush any attempt at a single currency. There are therefore two options: one is to abandon the Euro; the other is to remove these systemic flaws. If we are to keep the Euro, the symbol of European economic integration, more central European oversight on national debt is necessary, and it needs to be accompanied by the famous Eurobonds. This should be and is the aim for the EU in the short term.

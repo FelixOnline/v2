@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "697"
@@ -33,15 +34,6 @@ image_height: "683"
 image_attribution: "flickr/pietroizzo"
 image_attribution_link: "http://www.flickr.com/photos/pietroizzo/3514192452/"
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 Apparently eggs are the ultimate fast food. Some of you may already know this. In fact I know one guy who eats scrambled eggs nearly everyday. Good effort, Steve!

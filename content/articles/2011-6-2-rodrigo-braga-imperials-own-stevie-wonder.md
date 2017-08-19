@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Rodrigo’s music is complex, sophisticated, surprising and subtly jazz-influenced
 date: "2011-06-02 20:05:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1316"
@@ -34,15 +35,6 @@ image_height: "356"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 If this was the NME, I would start this article with a sentence like “Rodrigo Braga sounds like the illegitimate lovechild of Stevie Wonder and Paul Simon backed by a Samba band,” but it’s not, so I won’t. Rodrigo Braga is an excellent singer, guitarist and songwriter who performs meaningful and intelligent music which, if approached from a genre perspective, could plausibly be described as a fusion of American and Brazilian folk music. Now that’s proper music journalism.

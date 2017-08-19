@@ -4,6 +4,7 @@ title: >
 subtitle: >
   The Lib Dems put their country before party politics
 date: "2010-10-28 19:06:37 +0100"
+author_id: "hj408"
 
 # Attributes from Felix Online V1
 id: "252"
@@ -33,15 +34,6 @@ image_height: "1064"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "hj408"
-author_name: "Hassan Joudi"
-author_image_path: "http://felixonline.co.uk/img/upload/201102092131-jk708-FelixPro.jpg"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 The accusations that the Liberal Democrats have compromised or “betrayed” their principles has constantly been levelled at them since their rise to shared power in May 2010. These have only intensified with the recent comprehensive spending review and the announcement of a higher cap on university tuition fees. But is it fair to judge them so harshly?

@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Everyone knows breaking up is horrible. We’re here to make the process better for you (although probably worse for the other person)
 date: "2017-06-09 16:16:21 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "7023"
@@ -33,15 +34,6 @@ image_height: "1112"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: ""
-author_image_path: "http://felixonline.co.uk/"
-author_twitter: ""
-author_facebook: ""
-author_website_url: ""
-author_website_title: ""
 ---
 
 You were weak. Despite our foolproof guides on how to have a one night stand (in Metric), ‘How to have a one night stand (in Metric)’, and how not to fall in love with someone (from Metric), ‘How not to fall in love with someone (from Metric)’, you went ahead and fell in love with someone (from Metric) and now you’ve been stuck in a relationship with them (someone you met in Metric) for months. Somehow, this relationship still sort of revolves around Metric. Congratulations, you’re trash. But, just like a gastrobug, it’s run its course, and more importantly, summer is nearly here and you want to bang some hotties in a hostel in Indonesia as you travel around trying to find yourself. Or, it’s your final year, and you’re ready to Gold Rush. You can’t do that with a relationship, or a gastrobug. So you want out. But how?

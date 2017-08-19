@@ -4,6 +4,7 @@ title: >
 subtitle: >
   Pakistan Society say that visit would "add to the reputation of the College"
 date: "2011-06-02 18:21:50 +0100"
+author_id: "felix"
 
 # Attributes from Felix Online V1
 id: "1294"
@@ -34,15 +35,6 @@ image_height: "2400"
 image_attribution: ""
 image_attribution_link: ""
 video_url: ""
-
-# Author metadata
-author_id: "felix"
-author_name: "Lef Apostolakis  - Felix Editor"
-author_image_path: "http://felixonline.co.uk/img/upload/201610031803-felix-IMG_0035.JPG"
-author_twitter: "feliximperial"
-author_facebook: "http://www.facebook.com/FelixImperial"
-author_website_url: "http://on.fb.me/NUT015"
-author_website_title: ""
 ---
 
 The College has denied permission for a high-profile talk by former Pakistani President Pervez Musharraf on Sunday 5th June, saying that they were not given enough notice. The talk, which may go ahead on the following Sunday, was organised by the [Pakistan Society](http://www.union.ic.ac.uk/osc/pakistan/soc/Welcome.html) and was to focus on ‘Unity, Faith and Discipline’ and the role of young people in promoting peace.
