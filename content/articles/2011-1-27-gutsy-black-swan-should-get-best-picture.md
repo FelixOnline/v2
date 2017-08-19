@@ -18,6 +18,7 @@ comments:
 categories:
  - film
 tags:
+ - film
 authors:
  - nm1010
 highlights:

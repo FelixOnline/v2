@@ -18,6 +18,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - txl11
 highlights:

@@ -18,6 +18,8 @@ comments:
 categories:
  - phoenix
 tags:
+ - phoenix
+ - image
 authors:
  - cjb07
 highlights:

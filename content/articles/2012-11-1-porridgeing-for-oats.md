@@ -18,6 +18,8 @@ comments:
 categories:
  - food
 tags:
+ - food
+ - image
 authors:
  - mc4509
 highlights:

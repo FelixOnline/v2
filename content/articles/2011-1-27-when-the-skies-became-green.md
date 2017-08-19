@@ -19,6 +19,8 @@ comments:
 categories:
  - science
 tags:
+ - science
+ - image
 authors:
  - vbb08
 highlights:

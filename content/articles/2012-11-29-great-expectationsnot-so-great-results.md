@@ -18,6 +18,8 @@ comments:
 categories:
  - film
 tags:
+ - film
+ - image
 authors:
  - csw09
 highlights:

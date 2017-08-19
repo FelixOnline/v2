@@ -18,6 +18,8 @@ comments:
 categories:
  - clubs-and-socs
 tags:
+ - clubs-and-socs
+ - image
 authors:
  - ps3110
 highlights:

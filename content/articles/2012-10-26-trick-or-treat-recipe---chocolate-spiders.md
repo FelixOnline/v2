@@ -19,6 +19,7 @@ comments:
 categories:
  - food
 tags:
+ - food
 authors:
  - tna08
 highlights:

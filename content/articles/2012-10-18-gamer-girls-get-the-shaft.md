@@ -18,6 +18,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - csw09
 highlights:

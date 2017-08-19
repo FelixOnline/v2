@@ -18,6 +18,8 @@ comments:
 categories:
  - politics
 tags:
+ - politics
+ - image
 authors:
  - csw09
 highlights:

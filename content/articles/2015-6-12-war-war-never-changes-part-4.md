@@ -18,6 +18,8 @@ comments:
 categories:
  - games
 tags:
+ - games
+ - image
 authors:
  - cj914
 highlights:

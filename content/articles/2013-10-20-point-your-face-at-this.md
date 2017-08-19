@@ -18,6 +18,8 @@ comments:
 categories:
  - books
 tags:
+ - books
+ - image
 authors:
  - jal08
 highlights:

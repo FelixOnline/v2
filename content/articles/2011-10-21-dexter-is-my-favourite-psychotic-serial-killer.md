@@ -18,6 +18,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - ak6309
 highlights:

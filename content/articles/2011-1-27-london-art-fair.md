@@ -18,6 +18,7 @@ comments:
 categories:
  - arts
 tags:
+ - arts
 authors:
  - jj1909
 highlights:

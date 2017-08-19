@@ -19,6 +19,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - tna08
 highlights:

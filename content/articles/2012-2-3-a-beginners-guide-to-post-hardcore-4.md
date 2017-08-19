@@ -18,6 +18,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - sjw209
 highlights:

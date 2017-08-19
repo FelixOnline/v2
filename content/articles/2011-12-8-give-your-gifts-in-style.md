@@ -18,6 +18,7 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
 authors:
  - mc4509
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - tv
 tags:
+ - tv
 authors:
  - pk1811
 highlights:

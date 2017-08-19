@@ -18,6 +18,8 @@ comments:
 categories:
  - culture
 tags:
+ - culture
+ - image
 authors:
  - felix
 highlights:

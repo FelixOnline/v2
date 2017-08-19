@@ -18,6 +18,7 @@ comments:
 categories:
  - tech
 tags:
+ - tech
 authors:
  - jk708
 highlights:

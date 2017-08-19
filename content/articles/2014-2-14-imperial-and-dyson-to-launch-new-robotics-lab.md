@@ -18,6 +18,7 @@ comments:
 categories:
  - news
 tags:
+ - news
 authors:
  - snb11
 highlights:

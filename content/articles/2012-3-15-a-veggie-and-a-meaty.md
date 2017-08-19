@@ -18,6 +18,8 @@ comments:
 categories:
  - food
 tags:
+ - food
+ - image
 authors:
  - ig711
 highlights:

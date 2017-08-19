@@ -19,6 +19,8 @@ comments:
 categories:
  - phoenix
 tags:
+ - phoenix
+ - image
 authors:
  - felix
 highlights:

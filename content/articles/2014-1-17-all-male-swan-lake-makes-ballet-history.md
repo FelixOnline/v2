@@ -19,6 +19,7 @@ comments:
 categories:
  - arts
 tags:
+ - arts
 authors:
  - jal08
 highlights:

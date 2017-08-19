@@ -18,6 +18,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - jyg11
 highlights:

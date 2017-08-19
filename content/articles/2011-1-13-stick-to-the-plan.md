@@ -18,6 +18,7 @@ comments:
 categories:
  - travel
 tags:
+ - travel
 authors:
  - ks607
 highlights:

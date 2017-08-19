@@ -18,6 +18,8 @@ comments:
 categories:
  - science
 tags:
+ - science
+ - image
 authors:
  - kv07
 highlights:

@@ -18,6 +18,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - ps3110
 highlights:

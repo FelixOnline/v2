@@ -19,6 +19,8 @@ comments:
 categories:
  - games
 tags:
+ - games
+ - image
 authors:
  - cet13
 highlights:

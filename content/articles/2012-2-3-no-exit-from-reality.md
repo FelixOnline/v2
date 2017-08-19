@@ -19,6 +19,7 @@ comments:
 categories:
  - music
 tags:
+ - music
 authors:
  - sjw209
 highlights:

@@ -18,6 +18,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - im808
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - pk1811
 highlights:

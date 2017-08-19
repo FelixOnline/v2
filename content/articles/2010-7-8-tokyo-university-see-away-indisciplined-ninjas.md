@@ -18,6 +18,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - jb306
 highlights:

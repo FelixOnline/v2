@@ -18,6 +18,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - dr910
 highlights:

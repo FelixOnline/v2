@@ -18,6 +18,8 @@ comments:
 categories:
  - comment
 tags:
+ - comment
+ - image
 authors:
  - pk1811
 highlights:

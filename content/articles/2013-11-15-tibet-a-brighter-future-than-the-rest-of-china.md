@@ -19,6 +19,8 @@ comments:
 categories:
  - comment
 tags:
+ - comment
+ - image
 authors:
  - me1711
 highlights:

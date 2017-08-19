@@ -19,6 +19,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - ff712
 highlights:

@@ -18,6 +18,8 @@ comments:
 categories:
  - food
 tags:
+ - food
+ - image
 authors:
  - jal08
 highlights:

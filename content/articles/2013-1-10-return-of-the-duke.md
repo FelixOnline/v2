@@ -18,6 +18,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - csw09
 highlights:

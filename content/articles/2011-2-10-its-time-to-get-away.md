@@ -18,6 +18,8 @@ comments:
 categories:
  - travel
 tags:
+ - travel
+ - image
 authors:
  - cr709
 highlights:

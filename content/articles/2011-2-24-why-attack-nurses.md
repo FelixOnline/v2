@@ -18,6 +18,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - nm1010
 highlights:

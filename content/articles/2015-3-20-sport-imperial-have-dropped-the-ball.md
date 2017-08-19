@@ -19,6 +19,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - ps3110
 highlights:

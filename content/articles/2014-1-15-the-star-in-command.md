@@ -18,6 +18,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - ir112
 highlights:

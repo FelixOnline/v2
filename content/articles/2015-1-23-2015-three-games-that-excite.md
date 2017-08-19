@@ -19,6 +19,8 @@ comments:
 categories:
  - games
 tags:
+ - games
+ - image
 authors:
  - jyg11
 highlights:

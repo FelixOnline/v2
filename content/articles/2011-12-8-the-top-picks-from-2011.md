@@ -18,6 +18,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - pk1811
 highlights:

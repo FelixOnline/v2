@@ -18,6 +18,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - cb403
 highlights:

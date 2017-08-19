@@ -18,6 +18,7 @@ comments:
 categories:
  - welfare
 tags:
+ - welfare
 authors:
  - bwh12
 highlights:

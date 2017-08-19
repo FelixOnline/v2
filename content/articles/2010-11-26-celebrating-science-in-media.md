@@ -18,6 +18,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - ks607
 highlights:

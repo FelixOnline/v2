@@ -19,6 +19,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - pk1811
 highlights:

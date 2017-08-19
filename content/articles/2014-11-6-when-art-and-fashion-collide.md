@@ -19,6 +19,8 @@ comments:
 categories:
  - arts
 tags:
+ - arts
+ - image
 authors:
  - snb11
 highlights:

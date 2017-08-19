@@ -19,6 +19,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - mb506
 highlights:

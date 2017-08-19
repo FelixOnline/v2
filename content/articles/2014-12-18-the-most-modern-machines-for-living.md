@@ -19,6 +19,8 @@ comments:
 categories:
  - arts
 tags:
+ - arts
+ - image
 authors:
  - ps3110
 highlights:

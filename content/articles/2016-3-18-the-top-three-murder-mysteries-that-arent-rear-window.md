@@ -19,6 +19,7 @@ comments:
 categories:
  - film
 tags:
+ - film
 authors:
  - felix
 highlights:

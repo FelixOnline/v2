@@ -18,6 +18,7 @@ comments:
 categories:
  - travel
 tags:
+ - travel
 authors:
  - felix
 highlights:

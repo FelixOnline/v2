@@ -18,6 +18,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - ks607
 highlights:

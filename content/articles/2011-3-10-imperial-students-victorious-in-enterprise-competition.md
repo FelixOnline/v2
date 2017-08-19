@@ -19,6 +19,7 @@ comments:
 categories:
  - business
 tags:
+ - business
 authors:
  - felix
 highlights:

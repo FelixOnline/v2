@@ -18,6 +18,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - prs09
 highlights:

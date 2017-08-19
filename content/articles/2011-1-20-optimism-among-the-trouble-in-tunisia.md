@@ -18,6 +18,8 @@ comments:
 categories:
  - politics
 tags:
+ - politics
+ - image
 authors:
  - ap1509
 highlights:

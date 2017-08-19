@@ -19,6 +19,7 @@ comments:
 categories:
  - news
 tags:
+ - news
 authors:
  - ps3110
 highlights:

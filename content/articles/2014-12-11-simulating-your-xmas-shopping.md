@@ -19,6 +19,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - cj914
 highlights:

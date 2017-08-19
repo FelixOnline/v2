@@ -19,6 +19,8 @@ comments:
 categories:
  - welfare
 tags:
+ - welfare
+ - image
 authors:
  - ps3110
 highlights:

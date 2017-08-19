@@ -19,6 +19,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - ac1507
 highlights:

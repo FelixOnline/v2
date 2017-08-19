@@ -18,6 +18,8 @@ comments:
 categories:
  - phoenix
 tags:
+ - phoenix
+ - image
 authors:
  - cac111
 highlights:

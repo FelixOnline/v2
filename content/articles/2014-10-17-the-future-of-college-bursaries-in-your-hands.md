@@ -18,6 +18,7 @@ comments:
 categories:
  - news
 tags:
+ - news
 authors:
  - kmw13
 highlights:

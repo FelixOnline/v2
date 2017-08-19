@@ -18,6 +18,8 @@ comments:
 categories:
  - comment
 tags:
+ - comment
+ - image
 authors:
  - ps3110
 highlights:

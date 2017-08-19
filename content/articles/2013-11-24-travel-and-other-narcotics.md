@@ -19,6 +19,7 @@ comments:
 categories:
  - travel
 tags:
+ - travel
 authors:
  - jal08
 highlights:

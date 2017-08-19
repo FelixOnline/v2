@@ -19,6 +19,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - ig711
 highlights:

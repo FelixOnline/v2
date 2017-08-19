@@ -18,6 +18,7 @@ comments:
 categories:
  - sport
 tags:
+ - sport
 authors:
  - mc4509
 highlights:

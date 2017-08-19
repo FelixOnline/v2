@@ -19,6 +19,8 @@ comments:
 categories:
  - travel
 tags:
+ - travel
+ - image
 authors:
  - cjb07
 highlights:

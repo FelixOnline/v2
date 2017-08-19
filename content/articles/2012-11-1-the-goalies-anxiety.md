@@ -18,6 +18,7 @@ comments:
 categories:
  - books
 tags:
+ - books
 authors:
  - csw09
 highlights:

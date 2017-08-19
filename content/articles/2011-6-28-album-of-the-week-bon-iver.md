@@ -19,6 +19,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - cjb07
 highlights:

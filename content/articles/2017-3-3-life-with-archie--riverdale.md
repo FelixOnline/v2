@@ -20,6 +20,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - felix
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - ak6309
 highlights:

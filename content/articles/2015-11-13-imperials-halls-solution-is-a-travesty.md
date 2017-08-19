@@ -19,6 +19,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - ygr12
 highlights:

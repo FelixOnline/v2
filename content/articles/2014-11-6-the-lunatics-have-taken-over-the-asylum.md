@@ -18,6 +18,8 @@ comments:
 categories:
  - science
 tags:
+ - science
+ - image
 authors:
  - snb11
 highlights:

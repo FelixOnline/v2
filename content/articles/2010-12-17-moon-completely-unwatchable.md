@@ -19,6 +19,8 @@ comments:
 categories:
  - film
 tags:
+ - film
+ - image
 authors:
  - mtm10
 highlights:

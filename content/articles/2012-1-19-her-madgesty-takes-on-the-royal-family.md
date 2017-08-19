@@ -18,6 +18,7 @@ comments:
 categories:
  - film
 tags:
+ - film
 authors:
  - pk1811
 highlights:

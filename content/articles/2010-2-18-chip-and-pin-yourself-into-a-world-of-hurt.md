@@ -18,6 +18,8 @@ comments:
 categories:
  - tech
 tags:
+ - tech
+ - image
 authors:
  - sjw209
 highlights:

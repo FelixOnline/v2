@@ -18,6 +18,8 @@ comments:
 categories:
  - arts
 tags:
+ - arts
+ - image
 authors:
  - nn1209
 highlights:

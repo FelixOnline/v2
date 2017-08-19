@@ -19,6 +19,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - js5913
 highlights:

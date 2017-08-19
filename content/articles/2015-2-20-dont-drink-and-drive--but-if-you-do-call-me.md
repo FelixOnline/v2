@@ -19,6 +19,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - ps3110
 highlights:

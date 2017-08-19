@@ -84,7 +84,8 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "\n# Article Taxonomies"
   category = r["category"].downcase.gsub("&", "and").gsub(/\s+/, "-")
   md << "categories:\n - #{category}"
-  md << "tags:" # were not used on the old site
+  md << "tags: \n - #{category}"
+  md << " - image" if r["image_path"] && r["image_path"].length > 0
   md << "authors:"
   md << " - #{r["author_id"]}"
   md << "highlights:"

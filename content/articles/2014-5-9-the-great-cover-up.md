@@ -18,6 +18,8 @@ comments:
 categories:
  - arts
 tags:
+ - arts
+ - image
 authors:
  - jal08
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - business
 tags:
+ - business
 authors:
  - jal08
 highlights:

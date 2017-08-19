@@ -19,6 +19,8 @@ comments:
 categories:
  - music
 tags:
+ - music
+ - image
 authors:
  - ma1307
 highlights:

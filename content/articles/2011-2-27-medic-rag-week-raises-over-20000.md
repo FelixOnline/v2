@@ -18,6 +18,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - klb09
 highlights:

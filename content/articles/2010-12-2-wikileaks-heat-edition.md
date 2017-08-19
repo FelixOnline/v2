@@ -18,6 +18,7 @@ comments:
 categories:
  - tech
 tags:
+ - tech
 authors:
  - mas03
 highlights:

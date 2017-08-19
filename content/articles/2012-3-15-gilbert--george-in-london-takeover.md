@@ -18,6 +18,8 @@ comments:
 categories:
  - arts
 tags:
+ - arts
+ - image
 authors:
  - ig711
 highlights:

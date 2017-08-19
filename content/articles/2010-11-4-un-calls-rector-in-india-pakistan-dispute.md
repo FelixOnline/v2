@@ -18,6 +18,7 @@ comments:
 categories:
  - politics
 tags:
+ - politics
 authors:
  - jl807
 highlights:

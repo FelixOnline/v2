@@ -19,6 +19,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - mc4509
 highlights:

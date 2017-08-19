@@ -18,6 +18,8 @@ comments:
 categories:
  - film
 tags:
+ - film
+ - image
 authors:
  - ps3110
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - food
 tags:
+ - food
 authors:
  - csw09
 highlights:

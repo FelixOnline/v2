@@ -18,6 +18,8 @@ comments:
 categories:
  - comment
 tags:
+ - comment
+ - image
 authors:
  - ak6309
 highlights:

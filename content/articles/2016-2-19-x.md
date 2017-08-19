@@ -19,6 +19,8 @@ comments:
 categories:
  - all
 tags:
+ - all
+ - image
 authors:
  - felix
 highlights:

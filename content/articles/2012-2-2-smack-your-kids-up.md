@@ -18,6 +18,8 @@ comments:
 categories:
  - politics
 tags:
+ - politics
+ - image
 authors:
  - ams111
 highlights:

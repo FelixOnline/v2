@@ -19,6 +19,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - mc4509
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - sport
 tags:
+ - sport
 authors:
  - cj914
 highlights:

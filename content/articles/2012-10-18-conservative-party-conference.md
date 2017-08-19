@@ -19,6 +19,7 @@ comments:
 categories:
  - politics
 tags:
+ - politics
 authors:
  - csw09
 highlights:

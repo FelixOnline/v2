@@ -19,6 +19,7 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
 authors:
  - pk1811
 highlights:

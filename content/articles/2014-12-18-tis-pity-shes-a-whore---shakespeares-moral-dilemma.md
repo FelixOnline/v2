@@ -19,6 +19,7 @@ comments:
 categories:
  - arts
 tags:
+ - arts
 authors:
  - ff712
 highlights:

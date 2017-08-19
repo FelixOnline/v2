@@ -19,6 +19,7 @@ comments:
 categories:
  - politics
 tags:
+ - politics
 authors:
  - jr2514
 highlights:

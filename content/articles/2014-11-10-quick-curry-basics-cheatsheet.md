@@ -18,6 +18,7 @@ comments:
 categories:
  - food
 tags:
+ - food
 authors:
  - ps3110
 highlights:

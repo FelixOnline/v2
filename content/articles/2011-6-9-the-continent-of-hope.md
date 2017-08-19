@@ -18,6 +18,7 @@ comments:
 categories:
  - phoenix
 tags:
+ - phoenix
 authors:
  - felix
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - tech
 tags:
+ - tech
+ - image
 authors:
  - nm1010
 highlights:

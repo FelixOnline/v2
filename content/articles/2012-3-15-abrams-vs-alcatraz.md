@@ -18,6 +18,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - pk1811
 highlights:

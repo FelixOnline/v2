@@ -19,6 +19,7 @@ comments:
 categories:
  - news
 tags:
+ - news
 authors:
  - jal08
 highlights:

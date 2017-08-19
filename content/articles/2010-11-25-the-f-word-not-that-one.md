@@ -19,6 +19,8 @@ comments:
 categories:
  - comment
 tags:
+ - comment
+ - image
 authors:
  - nm1010
 highlights:

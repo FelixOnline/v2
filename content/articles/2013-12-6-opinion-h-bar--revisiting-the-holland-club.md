@@ -19,6 +19,7 @@ comments:
 categories:
  - features
 tags:
+ - features
 authors:
  - jal08
 highlights:

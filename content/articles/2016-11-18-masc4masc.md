@@ -18,6 +18,8 @@ comments:
 categories:
  - sex
 tags:
+ - sex
+ - image
 authors:
  - felix
 highlights:

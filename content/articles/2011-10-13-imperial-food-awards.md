@@ -19,6 +19,7 @@ comments:
 categories:
  - food
 tags:
+ - food
 authors:
  - sjw209
 highlights:

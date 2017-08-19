@@ -19,6 +19,8 @@ comments:
 categories:
  - welfare
 tags:
+ - welfare
+ - image
 authors:
  - jyg11
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
+ - image
 authors:
  - stv07
 highlights:

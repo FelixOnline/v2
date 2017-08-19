@@ -20,6 +20,8 @@ comments:
 categories:
  - food
 tags:
+ - food
+ - image
 authors:
  - felix
 highlights:

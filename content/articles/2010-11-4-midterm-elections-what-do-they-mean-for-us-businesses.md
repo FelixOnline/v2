@@ -18,6 +18,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - sa1908
 highlights:

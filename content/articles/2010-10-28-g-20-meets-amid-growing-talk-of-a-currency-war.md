@@ -18,6 +18,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - lh1009
 highlights:

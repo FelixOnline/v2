@@ -18,6 +18,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - jal08
 highlights:

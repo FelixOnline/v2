@@ -19,6 +19,8 @@ comments:
 categories:
  - tech
 tags:
+ - tech
+ - image
 authors:
  - srg03
 highlights:

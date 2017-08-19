@@ -18,6 +18,7 @@ comments:
 categories:
  - arts
 tags:
+ - arts
 authors:
  - cac111
 highlights:

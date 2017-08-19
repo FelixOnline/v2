@@ -19,6 +19,8 @@ comments:
 categories:
  - food
 tags:
+ - food
+ - image
 authors:
  - jyg11
 highlights:

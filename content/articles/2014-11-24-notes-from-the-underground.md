@@ -19,6 +19,8 @@ comments:
 categories:
  - books
 tags:
+ - books
+ - image
 authors:
  - ps3110
 highlights:

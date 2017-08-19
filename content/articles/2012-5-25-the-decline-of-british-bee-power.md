@@ -19,6 +19,8 @@ comments:
 categories:
  - science
 tags:
+ - science
+ - image
 authors:
  - mc4509
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - features
 tags:
+ - features
+ - image
 authors:
  - ps3110
 highlights:

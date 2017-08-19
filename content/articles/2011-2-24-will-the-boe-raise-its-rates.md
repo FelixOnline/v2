@@ -19,6 +19,8 @@ comments:
 categories:
  - business
 tags:
+ - business
+ - image
 authors:
  - nm1010
 highlights:

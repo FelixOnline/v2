@@ -18,6 +18,7 @@ comments:
 categories:
  - film
 tags:
+ - film
 authors:
  - mc4509
 highlights:

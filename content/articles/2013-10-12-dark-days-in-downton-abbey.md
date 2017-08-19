@@ -18,6 +18,8 @@ comments:
 categories:
  - tv
 tags:
+ - tv
+ - image
 authors:
  - ef510
 highlights:

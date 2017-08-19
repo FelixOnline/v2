@@ -19,6 +19,7 @@ comments:
 categories:
  - music
 tags:
+ - music
 authors:
  - ff712
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - ak6309
 highlights:

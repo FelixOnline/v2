@@ -18,6 +18,8 @@ comments:
 categories:
  - books
 tags:
+ - books
+ - image
 authors:
  - mc4509
 highlights:

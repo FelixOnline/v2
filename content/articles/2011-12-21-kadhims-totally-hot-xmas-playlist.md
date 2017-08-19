@@ -18,6 +18,7 @@ comments:
 categories:
  - music
 tags:
+ - music
 authors:
  - ks607
 highlights:

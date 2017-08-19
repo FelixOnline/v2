@@ -18,6 +18,8 @@ comments:
 categories:
  - features
 tags:
+ - features
+ - image
 authors:
  - jal08
 highlights:

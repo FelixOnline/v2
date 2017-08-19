@@ -18,6 +18,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - tna08
 highlights:

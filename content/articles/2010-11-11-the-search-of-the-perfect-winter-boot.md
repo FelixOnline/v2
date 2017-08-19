@@ -18,6 +18,8 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
+ - image
 authors:
  - ks607
 highlights:

@@ -20,6 +20,8 @@ comments:
 categories:
  - news
 tags:
+ - news
+ - image
 authors:
  - felix
 highlights:

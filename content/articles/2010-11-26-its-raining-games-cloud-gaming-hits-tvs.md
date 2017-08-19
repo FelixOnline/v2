@@ -18,6 +18,8 @@ comments:
 categories:
  - games
 tags:
+ - games
+ - image
 authors:
  - ks607
 highlights:

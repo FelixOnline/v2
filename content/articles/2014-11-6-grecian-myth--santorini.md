@@ -18,6 +18,8 @@ comments:
 categories:
  - travel
 tags:
+ - travel
+ - image
 authors:
  - cj914
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - politics
 tags:
+ - politics
+ - image
 authors:
  - mc4509
 highlights:

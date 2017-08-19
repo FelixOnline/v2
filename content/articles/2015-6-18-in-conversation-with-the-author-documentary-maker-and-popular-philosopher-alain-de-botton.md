@@ -19,6 +19,8 @@ comments:
 categories:
  - features
 tags:
+ - features
+ - image
 authors:
  - jyg11
 highlights:

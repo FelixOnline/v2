@@ -18,6 +18,7 @@ comments:
 categories:
  - food
 tags:
+ - food
 authors:
  - nm1010
 highlights:

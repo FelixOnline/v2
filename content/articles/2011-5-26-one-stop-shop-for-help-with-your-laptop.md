@@ -19,6 +19,8 @@ comments:
 categories:
  - tech
 tags:
+ - tech
+ - image
 authors:
  - cjb07
 highlights:

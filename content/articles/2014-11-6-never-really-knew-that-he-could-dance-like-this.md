@@ -19,6 +19,8 @@ comments:
 categories:
  - clubs-and-socs
 tags:
+ - clubs-and-socs
+ - image
 authors:
  - bwh12
 highlights:

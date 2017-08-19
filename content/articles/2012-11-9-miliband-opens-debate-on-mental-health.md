@@ -18,6 +18,7 @@ comments:
 categories:
  - politics
 tags:
+ - politics
 authors:
  - tna08
 highlights:

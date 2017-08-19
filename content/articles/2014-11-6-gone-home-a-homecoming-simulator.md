@@ -19,6 +19,7 @@ comments:
 categories:
  - games
 tags:
+ - games
 authors:
  - snb11
 highlights:

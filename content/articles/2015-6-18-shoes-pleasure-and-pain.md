@@ -19,6 +19,8 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
+ - image
 authors:
  - jyg11
 highlights:

@@ -19,6 +19,8 @@ comments:
 categories:
  - books
 tags:
+ - books
+ - image
 authors:
  - pk1811
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - features
 tags:
+ - features
 authors:
  - felix
 highlights:

@@ -18,6 +18,8 @@ comments:
 categories:
  - fashion
 tags:
+ - fashion
+ - image
 authors:
  - jal08
 highlights:

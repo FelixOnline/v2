@@ -19,6 +19,7 @@ comments:
 categories:
  - sport
 tags:
+ - sport
 authors:
  - cac111
 highlights:

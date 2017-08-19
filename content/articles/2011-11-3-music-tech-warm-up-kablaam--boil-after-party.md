@@ -18,6 +18,7 @@ comments:
 categories:
  - music
 tags:
+ - music
 authors:
  - pk1811
 highlights:

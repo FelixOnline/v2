@@ -19,6 +19,7 @@ comments:
 categories:
  - clubs-and-socs
 tags:
+ - clubs-and-socs
 authors:
  - felix
 highlights:

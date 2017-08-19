@@ -18,6 +18,7 @@ comments:
 categories:
  - comment
 tags:
+ - comment
 authors:
  - ks607
 highlights:

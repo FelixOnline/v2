@@ -19,6 +19,7 @@ comments:
 categories:
  - sport
 tags:
+ - sport
 authors:
  - pk1811
 highlights:

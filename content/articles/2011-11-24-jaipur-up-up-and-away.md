@@ -18,6 +18,8 @@ comments:
 categories:
  - travel
 tags:
+ - travel
+ - image
 authors:
  - pk1811
 highlights:

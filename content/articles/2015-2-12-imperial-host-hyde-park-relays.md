@@ -19,6 +19,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - jyg11
 highlights:

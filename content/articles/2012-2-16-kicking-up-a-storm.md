@@ -19,6 +19,8 @@ comments:
 categories:
  - sport
 tags:
+ - sport
+ - image
 authors:
  - sjw209
 highlights:

@@ -18,6 +18,7 @@ comments:
 categories:
  - politics
 tags:
+ - politics
 authors:
  - pk1811
 highlights:

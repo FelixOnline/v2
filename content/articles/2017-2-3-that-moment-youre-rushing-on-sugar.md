@@ -19,6 +19,8 @@ comments:
 categories:
  - millennials
 tags:
+ - millennials
+ - image
 authors:
  - felix
 highlights:

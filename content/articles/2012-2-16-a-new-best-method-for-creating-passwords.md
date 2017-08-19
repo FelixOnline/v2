@@ -19,6 +19,7 @@ comments:
 categories:
  - tech
 tags:
+ - tech
 authors:
  - ams111
 highlights:
