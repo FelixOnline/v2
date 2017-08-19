@@ -1,3 +1,5 @@
+{{ $baseURL := .Site.BaseURL }}
+
 {{ partial "header.html" . }}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -9,6 +11,15 @@
         {{ .Date.Format "Monday Jan 2, 2006" }}
       </time>
     </p>
+
+    {{ if (gt (len .Params.tags) 0) }}
+      Tagged with:
+      <ul>
+        {{ range .Params.tags }}
+          <li><a href="{{ $baseURL }}tags/{{ . }}">{{ . }}</a> </li>
+        {{ end }}
+      </ul>
+    {{ end }}
 
     <div>
       {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
