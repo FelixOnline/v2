@@ -469,3 +469,65 @@ hr.style-circle:after {
         font-size: 18px
     }
 }
+
+.highlight-post-block {
+    float: left;
+    margin-top: 15px;
+    width: -webkit-calc(100% / 3 - (30px / 2));
+    width: calc(100% / 3 - (30px / 2))
+}
+
+.highlight-post-block:nth-last-child(-n+2) {
+    margin-left: 20px
+}
+
+@media screen and (max-width: 600px) {
+    .highlight-post-block:nth-last-child(-n+2) {
+        margin-left: 0
+    }
+}
+
+.highlight-post-block .image {
+    height: 150px;
+    background-image: url("http://lorempixel.com/500/300/");
+    background-size: cover
+}
+
+.highlight-post-block h2 {
+    text-transform: uppercase
+}
+
+.highlight-post-block .info {
+    margin-top: 15px
+}
+
+.highlight-post-block .info a {
+    font-family: Georgia, serif;
+    color: #111;
+    font-size: 19.2px;
+    line-height: 1.2
+}
+
+.highlight-post-block .info .subtitle {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: #424242;
+    font-style: italic
+}
+
+.highlight-post-block .info span.date {
+    font-size: 12.8px;
+    color: #424242
+}
+
+.highlight-post-block .info span.author {
+    font-size: 14.4px;
+    margin-right: 3px
+}
+
+@media screen and (max-width: 600px) {
+    .highlight-post-block {
+        float: none;
+        width: 100%
+    }
+}

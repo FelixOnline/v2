@@ -66,4 +66,26 @@
   {{ end }}
 </div>
 
+<div class="highlight-section">
+  {{ range $name, $pages := .Site.Taxonomies.highlights }}
+    <div class="highlight-post-block">
+      <h2>{{ $name }}</h2>
+
+      {{ $post := index $pages 0 }}
+      <div class="image" style="background-image: url({{ $post.Params.image_path }})"></div>
+      <div class="info">
+        <a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a>
+
+        <div class="subtitle">
+          This is an interesting subtitle. These need to be quite long
+        </div>
+        <div class="byline">
+          <span class="author">Fred Fyles</span>
+          <span class="date">bbbb</span>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+</div>
+
 {{ partial "footer.html" . }}
