@@ -1,10 +1,12 @@
 {{ partial "header.html" . }}
 
 All Categories
+
+{{ $path := .RelPermalink }}
 <ul>
   {{ range $name, $pages := .Site.Taxonomies.categories }}
     <li>
-      <a href="{{ .Permalink }}/{{ $name }}">{{ $name }}</a>
+      <a href="{{ $path }}{{ $name }}">{{ $name }}</a>
     </li>
   {{ end }}
 </ul>

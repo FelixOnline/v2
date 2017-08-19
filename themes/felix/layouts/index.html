@@ -7,11 +7,15 @@
           <ul>
             {{ range $key, $value := $taxonomy }}
               <li>
-                <a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key }}">{{ $key }}</a>
+                <a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}/{{ $key }}">
+                  {{ $key }}
+                </a>
               </li>
               <ul>
               {{ range $value.Pages }}
-                  <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                <li>
+                  <a href="{{ .RelPermalink }}"> {{ .LinkTitle }} </a>
+                </li>
               {{ end }}
               </ul>
             {{ end }}
