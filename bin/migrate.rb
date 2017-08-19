@@ -140,7 +140,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
     end
   end
 
-  filename = "#{r["article_date"].year}-#{r["article_date"].month}-#{r["article_date"].day}-#{r["article_title"].downcase.strip.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}"
+  filename = "#{r["article_date"].year}-#{r["article_date"].month}-#{r["article_date"].day}-#{r["article_title"].downcase.strip.gsub(/\s+/, "-").gsub(/[^\w\-]/, "")}".gsub(/\-+/, "-")
 
   contents = md.join("\n") + "\n"
   contents.gsub!(/ +$/, "")
