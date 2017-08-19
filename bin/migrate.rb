@@ -86,7 +86,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "image_caption: >\n  #{r["image_caption"]}"
   md << "image_width: \"#{r["image_width"]}\""
   md << "image_height: \"#{r["image_height"]}\""
-  md << "image_attribution: \"#{r["image_attribution"]}\""
+  md << "image_attribution: \"#{(r["image_attribution"] || "").gsub(/\W*\\\W*/, " - ").gsub(/^\W+/, "")}\""
   md << "image_attribution_link: \"#{r["image_attribution_link"]}\""
   md << "video_url: \"#{r["article_video_url"]}\""
 

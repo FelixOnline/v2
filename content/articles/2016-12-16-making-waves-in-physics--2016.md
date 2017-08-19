@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "960"
 image_height: "510"
-image_attribution: "When black holes collide \ NASA"
+image_attribution: "When black holes collide - NASA"
 image_attribution_link: ""
 video_url: ""
 

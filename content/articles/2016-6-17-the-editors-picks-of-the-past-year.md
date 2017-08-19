@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "818"
 image_height: "623"
-image_attribution: " Iwan Baan"
+image_attribution: "Iwan Baan"
 image_attribution_link: ""
 video_url: ""
 

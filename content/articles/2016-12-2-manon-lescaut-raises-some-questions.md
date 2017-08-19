@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1024"
 image_height: "683"
-image_attribution: " The Royal Opera House | Bill Cooper 2014"
+image_attribution: "The Royal Opera House | Bill Cooper 2014"
 image_attribution_link: ""
 video_url: ""
 

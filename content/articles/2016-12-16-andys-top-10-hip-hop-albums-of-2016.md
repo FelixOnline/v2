@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "500"
 image_height: "500"
-image_attribution: " Chance the Rapper"
+image_attribution: "Chance the Rapper"
 image_attribution_link: ""
 video_url: ""
 

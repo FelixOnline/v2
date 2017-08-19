@@ -23,7 +23,7 @@ image_caption: >
   Titicut Follies takes an unflinching look at mental health in America.
 image_width: "2726"
 image_height: "1962"
-image_attribution: " Zipporah Films"
+image_attribution: "Zipporah Films"
 image_attribution_link: ""
 video_url: ""
 

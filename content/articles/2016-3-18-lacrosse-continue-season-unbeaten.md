@@ -23,7 +23,7 @@ image_caption: >
   They’re an unstoppable force.
 image_width: "1080"
 image_height: "1080"
-image_attribution: " Imperial Lacrosse"
+image_attribution: "Imperial Lacrosse"
 image_attribution_link: ""
 video_url: ""
 

@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "2272"
 image_height: "1704"
-image_attribution: " Mark Freeth"
+image_attribution: "Mark Freeth"
 image_attribution_link: ""
 video_url: ""
 

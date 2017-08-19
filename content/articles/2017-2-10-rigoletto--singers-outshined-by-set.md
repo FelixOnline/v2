@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "2000"
 image_height: "1200"
-image_attribution: " Alastair Muir"
+image_attribution: "Alastair Muir"
 image_attribution_link: ""
 video_url: ""
 

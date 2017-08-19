@@ -23,7 +23,7 @@ image_caption: >
   Just in case you forgot it was election season.
 image_width: "1020"
 image_height: "575"
-image_attribution: " Twitter / @Lorenzopaoliani"
+image_attribution: "Twitter / @Lorenzopaoliani"
 image_attribution_link: ""
 video_url: ""
 

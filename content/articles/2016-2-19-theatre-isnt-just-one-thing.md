@@ -23,7 +23,7 @@ image_caption: >
   Ben Kidd, the new kid on The Gate’s block.
 image_width: "1047"
 image_height: "476"
-image_attribution: " The Gate Theatre"
+image_attribution: "The Gate Theatre"
 image_attribution_link: ""
 video_url: ""
 

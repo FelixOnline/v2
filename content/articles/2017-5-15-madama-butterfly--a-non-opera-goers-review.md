@@ -23,7 +23,7 @@ image_caption: >
   Elizabeth DeShong (Suzuki) and Ermonela Jaho (Cio-Cio San) in Madama Butterfly
 image_width: "1360"
 image_height: "908"
-image_attribution: "ROH, 2017 \Bill Cooper"
+image_attribution: "ROH, 2017 - Bill Cooper"
 image_attribution_link: ""
 video_url: ""
 

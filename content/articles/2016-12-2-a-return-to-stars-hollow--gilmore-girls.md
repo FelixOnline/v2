@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1600"
 image_height: "800"
-image_attribution: "The CW \ Netflix"
+image_attribution: "The CW - Netflix"
 image_attribution_link: ""
 video_url: ""
 

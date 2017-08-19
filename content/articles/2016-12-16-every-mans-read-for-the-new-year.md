@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "329"
 image_height: "500"
-image_attribution: " Houghton Mifflin"
+image_attribution: "Houghton Mifflin"
 image_attribution_link: ""
 video_url: ""
 

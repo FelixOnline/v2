@@ -23,7 +23,7 @@ image_caption: >
   Regardless of what coffee does or does not do, we love it and can’t live without it.
 image_width: "2700"
 image_height: "1807"
-image_attribution: " Olga Filonenko"
+image_attribution: "Olga Filonenko"
 image_attribution_link: ""
 video_url: ""
 

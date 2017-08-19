@@ -23,7 +23,7 @@ image_caption: >
   An extract from the letter to the Principal.
 image_width: "583"
 image_height: "155"
-image_attribution: " KCL Islamic Society"
+image_attribution: "KCL Islamic Society"
 image_attribution_link: ""
 video_url: ""
 

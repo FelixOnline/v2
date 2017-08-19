@@ -23,7 +23,7 @@ image_caption: >
    Blasted surver issues again
 image_width: "2048"
 image_height: "1282"
-image_attribution: " Skinny Casual Lover"
+image_attribution: "Skinny Casual Lover"
 image_attribution_link: ""
 video_url: ""
 

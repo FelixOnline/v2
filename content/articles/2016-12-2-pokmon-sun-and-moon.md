@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1600"
 image_height: "900"
-image_attribution: "Game Freak \ Nintendo"
+image_attribution: "Game Freak - Nintendo"
 image_attribution_link: ""
 video_url: ""
 

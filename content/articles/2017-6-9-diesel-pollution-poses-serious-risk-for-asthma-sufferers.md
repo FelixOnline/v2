@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1024"
 image_height: "551"
-image_attribution: "  \ David Holt"
+image_attribution: "David Holt"
 image_attribution_link: ""
 video_url: ""
 

@@ -23,7 +23,7 @@ image_caption: >
   Redrum in the basement
 image_width: "1632"
 image_height: "1224"
-image_attribution: "Íñigo Martínez de Rituerto"
+image_attribution: "igo Martínez de Rituerto"
 image_attribution_link: ""
 video_url: ""
 

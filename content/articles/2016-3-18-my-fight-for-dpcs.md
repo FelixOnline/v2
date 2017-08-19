@@ -23,7 +23,7 @@ image_caption: >
   Go on, try it - you’ll probably like it.
 image_width: "900"
 image_height: "900"
-image_attribution: " redfairyproject.com"
+image_attribution: "redfairyproject.com"
 image_attribution_link: ""
 video_url: ""
 

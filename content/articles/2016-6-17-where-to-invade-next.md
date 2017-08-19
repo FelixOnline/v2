@@ -23,7 +23,7 @@ image_caption: >
   Michael Moore takes to the seas, raiding Europe for his latest documentary work.
 image_width: "1240"
 image_height: "827"
-image_attribution: " Dog Eat Dog Films"
+image_attribution: "Dog Eat Dog Films"
 image_attribution_link: ""
 video_url: ""
 

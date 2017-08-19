@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "2794"
 image_height: "1871"
-image_attribution: "\ Anthony Albright"
+image_attribution: "Anthony Albright"
 image_attribution_link: ""
 video_url: ""
 

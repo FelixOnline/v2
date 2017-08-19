@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "0"
 image_height: "0"
-image_attribution: "© Ben Fry"
+image_attribution: "Ben Fry"
 image_attribution_link: ""
 video_url: ""
 

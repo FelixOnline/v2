@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1264"
 image_height: "711"
-image_attribution: "FX  Floyd County Productions"
+image_attribution: "FX - Floyd County Productions"
 image_attribution_link: ""
 video_url: ""
 

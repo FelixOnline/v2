@@ -23,7 +23,7 @@ image_caption: >
   Michael Ajao in Liberian Girl
 image_width: "0"
 image_height: "0"
-image_attribution: " Johan Persson"
+image_attribution: "Johan Persson"
 image_attribution_link: ""
 video_url: ""
 

@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1200"
 image_height: "574"
-image_attribution: " Helen Marten"
+image_attribution: "Helen Marten"
 image_attribution_link: ""
 video_url: ""
 

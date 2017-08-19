@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "2048"
 image_height: "1584"
-image_attribution: " Bill Knight"
+image_attribution: "Bill Knight"
 image_attribution_link: ""
 video_url: ""
 

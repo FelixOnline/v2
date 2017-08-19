@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "320"
 image_height: "480"
-image_attribution: "Sean Lucas \ Shazam"
+image_attribution: "Sean Lucas - Shazam"
 image_attribution_link: ""
 video_url: ""
 

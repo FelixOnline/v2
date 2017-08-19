@@ -23,7 +23,7 @@ image_caption: >
   Lil Kim, Missy Elliot, Lauryn Hill and Foxy Bronwn.
 image_width: "961"
 image_height: "650"
-image_attribution: " Vibe Magazine"
+image_attribution: "Vibe Magazine"
 image_attribution_link: ""
 video_url: ""
 

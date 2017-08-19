@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "904"
 image_height: "429"
-image_attribution: "Warner Bros  Allstar"
+image_attribution: "Warner Bros - Allstar"
 image_attribution_link: ""
 video_url: ""
 

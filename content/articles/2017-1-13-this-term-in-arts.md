@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1024"
 image_height: "541"
-image_attribution: "Hellen van Meene \ Yancey Richardson Gallery"
+image_attribution: "Hellen van Meene - Yancey Richardson Gallery"
 image_attribution_link: ""
 video_url: ""
 

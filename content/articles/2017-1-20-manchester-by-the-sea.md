@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1280"
 image_height: "853"
-image_attribution: "Allstar \ Studio Canal"
+image_attribution: "Allstar - Studio Canal"
 image_attribution_link: ""
 video_url: ""
 

@@ -23,7 +23,7 @@ image_caption: >
   A photo from the BUAV investigation
 image_width: "0"
 image_height: "0"
-image_attribution: "(C) BUAV"
+image_attribution: "C) BUAV"
 image_attribution_link: ""
 video_url: ""
 

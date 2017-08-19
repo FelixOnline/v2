@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1920"
 image_height: "1152"
-image_attribution: "Dale Robinette \ AP"
+image_attribution: "Dale Robinette - AP"
 image_attribution_link: ""
 video_url: ""
 

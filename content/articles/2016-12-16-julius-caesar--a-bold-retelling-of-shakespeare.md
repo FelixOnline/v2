@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1300"
 image_height: "867"
-image_attribution: " Helen Maybanks"
+image_attribution: "Helen Maybanks"
 image_attribution_link: ""
 video_url: ""
 

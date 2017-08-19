@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1225"
 image_height: "735"
-image_attribution: " Peter Lindbergh/Pirelli Calendar"
+image_attribution: "Peter Lindbergh/Pirelli Calendar"
 image_attribution_link: ""
 video_url: ""
 

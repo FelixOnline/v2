@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "5999"
 image_height: "3957"
-image_attribution: "Jean-Louis Blondeau \ Polaris Images"
+image_attribution: "Jean-Louis Blondeau - Polaris Images"
 image_attribution_link: ""
 video_url: ""
 

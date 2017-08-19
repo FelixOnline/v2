@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1348"
 image_height: "2047"
-image_attribution: "Cartoon Network\Adult Swim"
+image_attribution: "Cartoon Network - Adult Swim"
 image_attribution_link: ""
 video_url: ""
 

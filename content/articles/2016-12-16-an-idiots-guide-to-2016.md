@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "1024"
 image_height: "683"
-image_attribution: " Gage Skidmore "
+image_attribution: "Gage Skidmore "
 image_attribution_link: ""
 video_url: ""
 

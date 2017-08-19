@@ -23,7 +23,7 @@ image_caption: >
 
 image_width: "600"
 image_height: "349"
-image_attribution: "\ Wicker Paradise"
+image_attribution: "Wicker Paradise"
 image_attribution_link: ""
 video_url: ""
 
