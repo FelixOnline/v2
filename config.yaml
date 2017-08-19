@@ -3,6 +3,12 @@ disablePathToLower: true
 languageCode: en-us
 title: Felix
 theme: felix
+canonifyurls: false
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  author: "authors"
+
 ignoreFiles:
   - data
-canonifyurls: false

@@ -84,7 +84,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "categories:\n - #{category}"
   md << "tags:" # were not used on the old site
   md << "authors:"
-  md << " - #{r["author_id"]}" if r["author_id"]
+  md << " - #{r["author_id"] || "felix"}"
 
 
   md << "\n# Homepage control params"
@@ -101,7 +101,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "video_url: \"#{r["article_video_url"]}\""
 
   md << "\n# Author metadata"
-  md << "author_id: \"#{r["author_id"]}\""
+  md << "author_id: \"#{r["author_id"] || "felix"}\""
   md << "author_name: \"#{r["author_name"]}\""
   md << "author_image_path: \"http://felixonline.co.uk/#{r["author_image_path"]}\""
   md << "author_twitter: \"#{r["author_twitter"]}\""

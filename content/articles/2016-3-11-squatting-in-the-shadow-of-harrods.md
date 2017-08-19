@@ -19,6 +19,7 @@ categories:
  - news
 tags:
 authors:
+ - felix
 
 # Homepage control params
 headline: true
@@ -35,7 +36,7 @@ image_attribution_link: ""
 video_url: "https://www.youtube.com/watch?v=Y_X-hL5bhKg&feature=youtu.be"
 
 # Author metadata
-author_id: ""
+author_id: "felix"
 author_name: ""
 author_image_path: "http://felixonline.co.uk/"
 author_twitter: ""
