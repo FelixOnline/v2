@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ar3310
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

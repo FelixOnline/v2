@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - dr910
+highlights:
 
 # Homepage control params
 headline: true

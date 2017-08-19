@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - mas03
+highlights:
 
 # Homepage control params
 headline: true

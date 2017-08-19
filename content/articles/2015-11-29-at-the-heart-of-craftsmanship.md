@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ff712
+highlights:
 
 # Homepage control params
 headline: true

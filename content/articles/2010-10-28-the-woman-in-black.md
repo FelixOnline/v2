@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - jk708
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

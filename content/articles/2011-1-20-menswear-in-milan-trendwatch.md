@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - stv07
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - klb09
+highlights:
 
 # Homepage control params
 headline: true

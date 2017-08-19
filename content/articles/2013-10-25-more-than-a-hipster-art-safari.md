@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - felix
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - tp407
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

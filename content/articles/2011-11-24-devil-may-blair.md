@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ks607
+highlights:
 
 # Homepage control params
 headline: true

@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - pk1811
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

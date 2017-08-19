@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ync111
+highlights:
 
 # Homepage control params
 headline: true

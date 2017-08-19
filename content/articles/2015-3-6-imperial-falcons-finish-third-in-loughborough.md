@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - kmw13
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

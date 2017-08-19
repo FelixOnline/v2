@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - ks607
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

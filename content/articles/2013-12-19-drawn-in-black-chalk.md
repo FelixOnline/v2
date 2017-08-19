@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - mtm10
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

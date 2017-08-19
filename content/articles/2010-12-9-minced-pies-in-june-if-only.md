@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - ac1507
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - cb908
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

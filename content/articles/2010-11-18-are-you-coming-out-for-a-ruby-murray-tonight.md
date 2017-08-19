@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - gm1509
+highlights:
 
 # Homepage control params
 headline: true

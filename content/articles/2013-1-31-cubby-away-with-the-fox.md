@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - cac111
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

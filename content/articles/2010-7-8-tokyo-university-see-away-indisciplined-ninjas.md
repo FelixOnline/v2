@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - jb306
+highlights:
 
 # Homepage control params
 headline: true

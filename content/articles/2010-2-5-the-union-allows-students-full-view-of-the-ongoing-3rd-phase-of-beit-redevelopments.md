@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - rsp07
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

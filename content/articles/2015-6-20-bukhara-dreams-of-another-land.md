@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - km2612
+highlights:
 
 # Homepage control params
 headline: true

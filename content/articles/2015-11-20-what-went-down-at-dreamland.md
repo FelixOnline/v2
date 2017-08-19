@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ygr12
+highlights:
 
 # Homepage control params
 headline: true

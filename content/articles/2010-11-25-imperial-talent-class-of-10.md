@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - rm1509
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

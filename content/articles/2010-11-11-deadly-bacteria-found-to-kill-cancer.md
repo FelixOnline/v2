@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - as2710
+highlights:
 
 # Homepage control params
 headline: true

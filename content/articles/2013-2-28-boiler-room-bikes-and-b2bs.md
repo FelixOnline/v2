@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - rbg10
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

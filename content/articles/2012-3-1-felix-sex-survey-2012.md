@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - ams111
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

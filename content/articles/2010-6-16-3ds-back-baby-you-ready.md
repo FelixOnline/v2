@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - srg03
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - ygr12
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

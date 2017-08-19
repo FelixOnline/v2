@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - jgp09
+highlights:
 
 # Homepage control params
 headline: true

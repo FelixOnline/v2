@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - rbg10
+highlights:
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - cb403
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

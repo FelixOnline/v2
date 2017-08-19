@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - cac111
+highlights:
 
 # Homepage control params
 headline: true

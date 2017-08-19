@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ig711
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

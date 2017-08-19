@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - cb403
+highlights:
 
 # Homepage control params
 headline: true

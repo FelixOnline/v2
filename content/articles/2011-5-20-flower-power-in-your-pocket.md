@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - sjw209
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

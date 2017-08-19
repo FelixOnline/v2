@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - wsp10
+highlights:
 
 # Homepage control params
 headline: true

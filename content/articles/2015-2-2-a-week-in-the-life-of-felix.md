@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - bwh12
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

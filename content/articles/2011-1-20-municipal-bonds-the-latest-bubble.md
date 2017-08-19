@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - lh1009
+highlights:
 
 # Homepage control params
 headline: true

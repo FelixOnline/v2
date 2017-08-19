@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - txl11
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

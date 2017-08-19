@@ -21,6 +21,10 @@ categories:
 tags:
 authors:
  - ps3110
+highlights:
+ - comment
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

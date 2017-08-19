@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - jyg11
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

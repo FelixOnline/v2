@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ck806
+highlights:
 
 # Homepage control params
 headline: true

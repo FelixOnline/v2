@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ial08
+highlights:
 
 # Homepage control params
 headline: true

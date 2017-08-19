@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - cac111
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

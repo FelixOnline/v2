@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - csw09
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

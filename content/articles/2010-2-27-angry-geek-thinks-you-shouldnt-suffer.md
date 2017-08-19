@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - mrangry
+highlights:
 
 # Homepage control params
 headline: true

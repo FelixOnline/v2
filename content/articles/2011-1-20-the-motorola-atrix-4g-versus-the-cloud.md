@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - nm1010
+highlights:
 
 # Homepage control params
 headline: true

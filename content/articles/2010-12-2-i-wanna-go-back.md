@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - cdd09
+highlights:
 
 # Homepage control params
 headline: true

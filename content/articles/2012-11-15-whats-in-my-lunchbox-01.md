@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - cac111
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - js5913
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

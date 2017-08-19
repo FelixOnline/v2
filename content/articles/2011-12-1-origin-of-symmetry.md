@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - pk1811
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

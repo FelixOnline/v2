@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - cet13
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

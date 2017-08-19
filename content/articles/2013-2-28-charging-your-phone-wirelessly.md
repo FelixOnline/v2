@@ -22,6 +22,8 @@ categories:
 tags:
 authors:
  - tna08
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

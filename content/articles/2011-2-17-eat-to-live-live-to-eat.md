@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - chy09
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - rsp07
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - jal08
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

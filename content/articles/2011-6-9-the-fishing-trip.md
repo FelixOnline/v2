@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - cjb07
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

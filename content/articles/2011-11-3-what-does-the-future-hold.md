@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - fa608
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

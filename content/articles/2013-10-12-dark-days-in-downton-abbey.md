@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ef510
+highlights:
 
 # Homepage control params
 headline: true

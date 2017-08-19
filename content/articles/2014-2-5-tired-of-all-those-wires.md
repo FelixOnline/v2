@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - me1711
+highlights:
 
 # Homepage control params
 headline: true

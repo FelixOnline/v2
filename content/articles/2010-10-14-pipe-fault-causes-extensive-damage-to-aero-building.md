@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - felix
+highlights:
 
 # Homepage control params
 headline: true

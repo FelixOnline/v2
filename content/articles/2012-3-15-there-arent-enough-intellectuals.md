@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - ig711
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

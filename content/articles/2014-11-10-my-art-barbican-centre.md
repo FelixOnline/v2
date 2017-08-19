@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ps3110
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

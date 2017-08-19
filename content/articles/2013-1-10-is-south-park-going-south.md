@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - csw09
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

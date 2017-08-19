@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ps3110
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

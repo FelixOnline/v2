@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - lap08
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

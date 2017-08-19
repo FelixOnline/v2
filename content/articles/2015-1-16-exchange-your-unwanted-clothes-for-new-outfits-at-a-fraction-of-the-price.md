@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - ps3110
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

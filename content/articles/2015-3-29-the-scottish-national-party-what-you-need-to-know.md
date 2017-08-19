@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - jr2514
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

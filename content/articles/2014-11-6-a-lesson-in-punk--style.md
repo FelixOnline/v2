@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - snb11
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

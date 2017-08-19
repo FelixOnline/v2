@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - tm1510
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

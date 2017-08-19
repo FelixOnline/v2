@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - fa608
+highlights:
 
 # Homepage control params
 headline: true

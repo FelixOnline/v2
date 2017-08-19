@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - felix
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

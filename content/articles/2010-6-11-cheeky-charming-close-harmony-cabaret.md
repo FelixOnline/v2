@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - lh106
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - jal08
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - am1108
+highlights:
 
 # Homepage control params
 headline: true

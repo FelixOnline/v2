@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - jj1909
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

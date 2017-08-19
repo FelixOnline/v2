@@ -21,6 +21,10 @@ categories:
 tags:
 authors:
  - tna08
+highlights:
+ - comment
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

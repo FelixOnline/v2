@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - rlg107
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

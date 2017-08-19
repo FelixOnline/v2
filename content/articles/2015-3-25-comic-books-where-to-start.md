@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - ff712
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

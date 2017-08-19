@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - me1711
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

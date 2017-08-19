@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - csw09
+highlights:
 
 # Homepage control params
 headline: true

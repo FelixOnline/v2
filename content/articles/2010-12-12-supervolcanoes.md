@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - mjp109
+highlights:
 
 # Homepage control params
 headline: true

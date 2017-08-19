@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - ak6309
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

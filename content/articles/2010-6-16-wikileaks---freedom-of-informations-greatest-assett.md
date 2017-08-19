@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - srg03
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

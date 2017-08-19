@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - cr709
+highlights:
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - tna08
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

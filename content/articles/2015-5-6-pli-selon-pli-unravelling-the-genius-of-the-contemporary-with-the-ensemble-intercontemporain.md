@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - km2612
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

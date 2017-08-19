@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - oh106
+highlights:
 
 # Homepage control params
 headline: true

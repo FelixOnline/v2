@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - za710
+highlights:
 
 # Homepage control params
 headline: true

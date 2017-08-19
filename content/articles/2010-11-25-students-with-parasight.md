@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - vbb08
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

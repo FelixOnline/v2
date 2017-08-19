@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - jr2514
+highlights:
 
 # Homepage control params
 headline: true

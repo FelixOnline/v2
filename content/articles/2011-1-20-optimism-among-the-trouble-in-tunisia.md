@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ap1509
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - cj914
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

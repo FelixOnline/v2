@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - nn1209
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

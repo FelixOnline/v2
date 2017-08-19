@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - kl208
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

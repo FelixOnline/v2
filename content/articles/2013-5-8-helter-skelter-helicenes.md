@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - lap08
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

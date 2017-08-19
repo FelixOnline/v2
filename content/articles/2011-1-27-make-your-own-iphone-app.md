@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - jl4310
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

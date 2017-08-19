@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - cac111
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

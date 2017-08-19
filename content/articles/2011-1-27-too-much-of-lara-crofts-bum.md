@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - oh106
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

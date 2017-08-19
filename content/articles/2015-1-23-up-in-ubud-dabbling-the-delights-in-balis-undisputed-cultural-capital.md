@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - jyg11
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

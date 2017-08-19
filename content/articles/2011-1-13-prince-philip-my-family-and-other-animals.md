@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - dofe
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

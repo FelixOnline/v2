@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - txl11
+highlights:
 
 # Homepage control params
 headline: true

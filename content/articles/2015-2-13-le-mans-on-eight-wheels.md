@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - bwh12
+highlights:
 
 # Homepage control params
 headline: true

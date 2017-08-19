@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - snb11
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

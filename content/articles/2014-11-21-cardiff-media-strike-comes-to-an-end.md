@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ps3110
+highlights:
 
 # Homepage control params
 headline: true

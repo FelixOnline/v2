@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ac1507
+highlights:
 
 # Homepage control params
 headline: true

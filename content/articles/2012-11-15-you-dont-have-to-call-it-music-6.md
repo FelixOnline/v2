@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - im808
+highlights:
+ - comment
+ - longread
 
 # Homepage control params
 headline: true

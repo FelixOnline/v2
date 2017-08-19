@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - sjw209
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

@@ -20,6 +20,9 @@ categories:
 tags:
 authors:
  - ak6309
+highlights:
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

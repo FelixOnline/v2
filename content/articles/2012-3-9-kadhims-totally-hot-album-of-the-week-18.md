@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ks607
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - hg308
+highlights:
 
 # Homepage control params
 headline: true

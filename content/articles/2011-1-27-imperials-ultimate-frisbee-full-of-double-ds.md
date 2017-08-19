@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - prs09
+highlights:
 
 # Homepage control params
 headline: true

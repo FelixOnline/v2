@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - kv07
+highlights:
 
 # Homepage control params
 headline: true

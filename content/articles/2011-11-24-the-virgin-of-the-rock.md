@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - pk1811
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

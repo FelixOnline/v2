@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - sa1908
+highlights:
+ - longread
 
 # Homepage control params
 headline: true

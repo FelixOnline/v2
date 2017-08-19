@@ -20,6 +20,8 @@ categories:
 tags:
 authors:
  - ams111
+highlights:
+ - photos
 
 # Homepage control params
 headline: true

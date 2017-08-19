@@ -21,6 +21,9 @@ categories:
 tags:
 authors:
  - cj914
+highlights:
+ - comment
+ - photos
 
 # Homepage control params
 headline: true

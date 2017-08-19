@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - js5913
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

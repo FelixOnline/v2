@@ -87,6 +87,10 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   md << "tags:" # were not used on the old site
   md << "authors:"
   md << " - #{r["author_id"]}"
+  md << "highlights:"
+  md << " - comment" if r["comments"].length > 0
+  md << " - longread" if r["content"].to_s.split(" ").length > 1000
+  md << " - photos" if r["content"].to_s.include?("image")
 
   md << "\n# Homepage control params"
   md << "headline: true"

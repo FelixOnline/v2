@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ak6309
+highlights:
 
 # Homepage control params
 headline: true

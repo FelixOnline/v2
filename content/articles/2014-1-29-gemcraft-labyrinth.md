@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ir112
+highlights:
 
 # Homepage control params
 headline: true

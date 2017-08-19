@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - mff113
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

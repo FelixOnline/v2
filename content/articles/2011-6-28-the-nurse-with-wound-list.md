@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - im808
+highlights:
 
 # Homepage control params
 headline: true

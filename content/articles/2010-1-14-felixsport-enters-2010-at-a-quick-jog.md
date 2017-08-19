@@ -21,6 +21,8 @@ categories:
 tags:
 authors:
  - mb506
+highlights:
+ - comment
 
 # Homepage control params
 headline: true

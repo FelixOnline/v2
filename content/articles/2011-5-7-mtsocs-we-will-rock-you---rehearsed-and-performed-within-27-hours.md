@@ -21,6 +21,10 @@ categories:
 tags:
 authors:
  - gda07
+highlights:
+ - comment
+ - longread
+ - photos
 
 # Homepage control params
 headline: true

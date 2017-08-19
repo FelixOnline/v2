@@ -20,6 +20,7 @@ categories:
 tags:
 authors:
  - ghc07
+highlights:
 
 # Homepage control params
 headline: true
