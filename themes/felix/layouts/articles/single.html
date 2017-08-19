@@ -1,33 +1,39 @@
 {{ partial "header.html" . }}
 
-  <main>
-    <article>
-      <h1>{{ .Title }}</h1>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ .Title }}</h1>
+    <h2 class="post-subtitle">{{ .Params.subtitle }}</h2>
+    <p class="post-meta">
+      <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
+        {{ .Date.Format "Monday Jan 2, 2006" }}
+      </time>
+    </p>
 
-      <div>
-        {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
-        <p><a href="{{ .Site.BaseURL }}authors/{{ .Params.author_id }}">{{ $authorPage.Title }}</a></p>
-        {{ if (not (eq $authorPage.Params.image_path "")) }}
-          <img width="100" src="{{ $authorPage.Params.image_path }}"/>
-        {{ end }}
-      </div>
+    <div>
+      {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+      <p><a href="{{ .Site.BaseURL }}authors/{{ .Params.author_id }}">{{ $authorPage.Title }}</a></p>
+      {{ if (not (eq $authorPage.Params.image_path "")) }}
+        <img width="100" src="{{ $authorPage.Params.image_path }}"/>
+      {{ end }}
+    </div>
+  </header>
 
-      <div>
-        <time>{{ .Date.Format "Monday Jan 2, 2006" }}</time>
-      </div>
+  {{ if (eq .Params.imported true) }}
+    <div>
+      This article was imported from Felix Online V1.
+      <a href="http://felixonline.co.uk/{{ .Params.old_path }}">Original Article</a>
+    </div>
+  {{ end }}
 
-      <div>
-        <ul id="tags">
-          {{ range .Params.tags }}
-            <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
-          {{ end }}
-        </ul>
-      </div>
+  <figure>
+    <img alt="{{ .Params.image_caption }}" src="{{ .Params.image_path }}">
+    <figcaption>{{ .Params.image_caption }}</figcaption>
+  </figure>
 
-      <div>
-        {{ .Content }}
-      </div>
-    </article>
-  </main>
+  <div class="post-content" itemprop="articleBody">
+    {{ .Content }}
+  </div>
+</article>
 
 {{ partial "footer.html" . }}
