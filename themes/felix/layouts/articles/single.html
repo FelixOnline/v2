@@ -4,10 +4,17 @@
     <article>
       <h1>{{ .Title }}</h1>
 
-      <p>{{ .Params.subtitle }}</p>
-      <p><a href="/authors/{{ .Params.author_id }}">{{ .Params.author_id }}</a></p>
+      <div>
+        {{ $authorPage := (.Site.GetPage "taxonomyTerm" "authors" .Params.author_id) }}
+        <p><a href="/authors/{{ .Params.author_id }}">{{ $authorPage.Title }}</a></p>
+        {{ if (not (eq $authorPage.Params.image_path "")) }}
+          <img width="100" src="{{ $authorPage.Params.image_path }}"/>
+        {{ end }}
+      </div>
 
-      <time>{{ .Date.Format "Monday Jan 2, 2006" }}</time>
+      <div>
+        <time>{{ .Date.Format "Monday Jan 2, 2006" }}</time>
+      </div>
 
       <div>
         <ul id="tags">
