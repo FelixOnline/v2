@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+
+All Tags
+
+{{ $path := .RelPermalink }}
+<ul>
+  {{ range $name, $pages := .Site.Taxonomies.tags }}
+    <li>
+      <a href="{{ $path }}{{ $name }}">{{ $name }}</a>
+    </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
