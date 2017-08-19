@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301172353-tna08-scichalimperial.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,11 +31,11 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Robert Lord WinstonLord Christian Name Surname format is a courtesy title for younger sons of Dukes and Marquesses only Whereas Lord Winston is a life peer rank of Baron in his own righthttpenwikipediaorgwikiCourtesy_titles_in_the_United_KingdomCourtesy_prefix_of_22Lord22Where is Pallab Ghosh this year Hes only the greatest judge of all time 
+ - Robert Lord WinstonLord Christian Name Surname format is a courtesy title for younger sons of Dukes and Marquesses only Whereas Lord Winston is a life peer rank of Baron in his own righthttpenwikipediaorgwikiCourtesy_titles_in_the_United_KingdomCourtesy_prefix_of_22Lord22Where is Pallab Ghosh this year Hes only the greatest judge of all time
 imported: true
 ---
 
-The RCSU Science Challenge returns! With a total prize-pot of over £4,000 to give away and the chance to win an all-expenses paid trip to CERN, Geneva, this is a competition you don’t want to miss.  
+The RCSU Science Challenge returns! With a total prize-pot of over £4,000 to give away and the chance to win an all-expenses paid trip to CERN, Geneva, this is a competition you don’t want to miss.
  The Science Challenge was created in 2006 to encourage scientific debate, reasoning and the communication of science in a public-friendly context. In previous years this has meant the setting of questions by high-profile judges which must be answered through an essay. The competition is open to all Imperial College students, and 500 schools nationally.
 
 The Science Challenge 2013 brings a new edge to the competition, keeping three questions open to be answered by an essay, but for the first time introducing a dedicated question which must be answered through the glorious format of video! Video entries must be answeredin less than three minutes running time, using any props or setting that you deem necessary – and team entries are very much welcomed; whilst essay questions must be answered in an essay of around 800 words. A key factor in both entries is that your answer must be in a ‘public-friendly context’, that is, a compelling scientific argument that any member of the public who possesses only a basic scientific knowledge could understand.

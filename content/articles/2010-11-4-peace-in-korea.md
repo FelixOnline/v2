@@ -1,6 +1,6 @@
 ---
 title: >
-  Peace in Korea 
+  Peace in Korea
 subtitle: >
   This week’s report from Lord Alton and Baroness Cox, following their latest visit to North Korea, argues that we should be building bridges, not walls with the hermit state
 date: "2010-11-04 18:43:47 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041840-ma1307-happyppl.jpg"
 image_caption: >
-  
+
 image_width: "3072"
 image_height: "2304"
 image_attribution: ""

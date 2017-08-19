@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405090255-jal08-news_ic_report_card_sex.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Superdrug"

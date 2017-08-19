@@ -49,7 +49,7 @@ Section 28 was enacted in 1988 by the Conservative government. The Act covered �
 There were many aspects of this act that were damaging to the homosexual community. The term “promoting homosexuality” lends credence to the (false) belief that sexuality is a choice that people can be encouraged to take. Also, the act was implemented to “protect” children, implying that homosexuality is inherently dangerous to young people. Many LGBT student and support groups were closed down due to fears that they would be breaching the Act.
 
 Many people and groups spoke out against this legislation, and it prompted Sir Ian McKellen to publicly come out on BBC Radio 3 during a discussion of the Act. Regarding Section 28, he says: “The notorious Section 28 was a disaster for children in state schools because it encouraged their teachers to lie about homosexuality”. It was repealed (against much opposition) in 2000 in Scotland and 2003 in the rest of Great Britain.
-TODO: image from 
+TODO: image from
 ## Why do we celebrate LGBT History Month?:
 While LGBT people and couples in the UK enjoy most of the legal freedoms enjoyed by everyone else, many of these were only introduced within the last 10-15 years. These include equal age of consent (2001), transexualism declassified as an illness (2002) and various anti-discrimination laws (1999-2010). However, there are still some areas (such as blood donation) where laws aren’t equal. Laws regarding equal marriage are currently being introduced.
 
@@ -72,4 +72,4 @@ The above facts demonstrate that there are still many hurdles before LGBT people
 IQ is Imperial College’s LGBT society.If you wish to come to our events, you can sign up to our mailing list by visiting [www.union.ic.ac.uk/scc/iq](http://www.union.ic.ac.uk/scc/iq).
 
 If you identify as LGBTQ (lesbian, gay, bisexual, transgender, queer or questioning) and are aged 16-25, you are invited to take part in the Youth Chances survey. The project aims to assess the quality of life experienced by LGBTQ youths in the UK by gartering data from 15,000 people. If you wish to take part or get more information, please visit [www.youthchances.org](http://www.youthchances.org).
-TODO: image from 
+TODO: image from

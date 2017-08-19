@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406021413-felix-photo-(1).jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -80,6 +80,6 @@ I received an Amazon voucher for my birthday last year and on the same day, an e
 
 It’s nearly as fuss-free as steaming, but an electric slow cooker means that you can do all the chopping and prep in the morning, switch the cooker on and head to uni. You will be greeted home after a long day of lectures and lab work by the lovely smell of stew. This means you can have your dinner straight away, since it is hot and ready. My slow cooker is quite large (30 litres in fact) so I can cook around 4-5 portions in one go and store any leftovers - thus cutting down the time needed to cook for the busy weekdays.
 
-I guess you don’t necessarily \*need\* a slow cooker to slow cook - you can also use a casserole dish and put in the oven for a number of hours. However I would really recommend that you get one since it is just easier. I am not comfortable enough to leave the oven on for the whole day while I am away without worrying the house might get on fire. _(Ed note: fuses in slow cookers exist for a reason.)_
+I guess you don’t necessarily *need* a slow cooker to slow cook - you can also use a casserole dish and put in the oven for a number of hours. However I would really recommend that you get one since it is just easier. I am not comfortable enough to leave the oven on for the whole day while I am away without worrying the house might get on fire. _(Ed note: fuses in slow cookers exist for a reason.)_
 
 __Slow cooking is a great way to cook tougher (hence mostly cheaper) cuts of meat__, especially meat on the bone since it gives great flavour to the dish. __Don’t make the mistake of think a slow cooker is only capable of cooking just stews/winter food__ - since it is in theory an electric oven, you can use it for baking as well! I have come across different slow cooker cake recipes online such as brownies and cheesecakes - even souffle is on the menu. Haven’t tried them yet though, but I shall let you know when I give it a go!

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271249-ks607-makeyour.jpg"
 image_caption: >
-  
+
 image_width: "544"
 image_height: "569"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I guess that to get the loan from banks you ought to have a firm motivation However once Ive got a credit loan because I wanted to buy a bike 
+ - I guess that to get the loan from banks you ought to have a firm motivation However once Ive got a credit loan because I wanted to buy a bike
 imported: true
 ---
 

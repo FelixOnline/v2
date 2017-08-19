@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201262232-ams111-catcherintherye.jpg"
 image_caption: >
-  
+
 image_width: "329"
 image_height: "500"
 image_attribution: ""

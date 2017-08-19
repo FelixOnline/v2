@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,7 +46,7 @@ America is a funny country. People there are really interested in things like ma
 
 If this played out on the playground, NOM would be saying something like, “You like gay marriage? That’s so gay! I don’t like you. I’m not going to talk to you until you change your mind.” before pushing Starbucks over and stomping off.
 
-That sounds childish. Probably because it is. The internet, being the liberal, hedonistic kingdom that it is, promptly launched an informal counter-boycott. SumOfUs set up an online thank you card to Starbucks. To go back to the playground allegory, they are the kid who goes over and helps Starbucks back up.  
+That sounds childish. Probably because it is. The internet, being the liberal, hedonistic kingdom that it is, promptly launched an informal counter-boycott. SumOfUs set up an online thank you card to Starbucks. To go back to the playground allegory, they are the kid who goes over and helps Starbucks back up.
  This is where I got interested. I am a firm believer in that the enemy of my enemy is my friend. Starbucks is supporting equality, or something like it. Some people don’t like that, and would rather I drink coffee elsewhere. I may not like Starbucks but I like bigots even less. I can derive a smug sense of satisfaction if, by drinking a tall and skinny Frappuccino, I annoy a self-righteous homophobe somewhere in the world.
 
 So raise a latte for equality!

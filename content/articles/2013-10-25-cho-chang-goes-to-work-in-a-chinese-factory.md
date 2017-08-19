@@ -2,7 +2,7 @@
 title: >
   Cho Chang Goes To Work in a Chinese Factory
 subtitle: >
-  Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness? 
+  Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?
 date: "2013-10-25 00:28:18 +0100"
 id: "3929"
 old_path: /arts/3929/cho-chang-goes-to-work-in-a-chinese-factory
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250127-felix-artsextremehappiness11.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "RICHARD HUBERT SMITH"
@@ -34,15 +34,15 @@ comments:
 imported: true
 ---
 
-What: The World of Extreme Happiness  
- Where: The National Theatre Shed  
- When: Until 26 October 2013, tickets still available  
+What: The World of Extreme Happiness
+ Where: The National Theatre Shed
+ When: Until 26 October 2013, tickets still available
  Price: £12 to £20, £5 with the 16-25 Entry Pass Scheme
 
-Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?  
+Could it be that there is no other play with a more sarcastic title than The World of Extreme Happiness?
  The play begins with two Chinese men, complete with dirt on their faces obviously to signify their countryside origins, foul-mouthing about whores and pigeons excreting in their mouths. Frustration is the main emotion felt by all characters, and it manifests itself in the aggressive yet nonchalant swearing which many born into manic Chinese households will probably be habituated to.
 
-China is a land of shock and stupefaction, according to the media. But The World of Extreme Happiness takes us through all this, from the attempted murder of Sunny (Katie Leung, perhaps better known as Cho Chang of Harry Potter fame) at her birth – among hundreds of others mentioned – because she is a girl born into a one-child policy, to the powerlessness of the country folk without access to education and eventually enslaved in a mass-producing factory. The audience hears of the brutality of Mao and the continued power of the state to crush anything or anyone letting off a mere whiff of defiance.  
+China is a land of shock and stupefaction, according to the media. But The World of Extreme Happiness takes us through all this, from the attempted murder of Sunny (Katie Leung, perhaps better known as Cho Chang of Harry Potter fame) at her birth – among hundreds of others mentioned – because she is a girl born into a one-child policy, to the powerlessness of the country folk without access to education and eventually enslaved in a mass-producing factory. The audience hears of the brutality of Mao and the continued power of the state to crush anything or anyone letting off a mere whiff of defiance.
  It is interesting to consider these events of the play in the context of the reality of contemporary China. What are the real impacts on the people that the policies are directly affecting today?
 
 Looking around the audience, it seemed that there were more East Asian members compared to other plays I have attended, which usually consist of the white middle class en masse. For me, being third generation Chinese not to be born in China, it was rather fun to identify with some of the behaviour, mannerisms, and attitudes of the family members that reflected those of my own. I wondered what those with stronger links to China and its history thought of the more controversial events acted out.

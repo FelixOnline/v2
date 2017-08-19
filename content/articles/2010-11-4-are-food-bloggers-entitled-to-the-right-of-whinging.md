@@ -1,6 +1,6 @@
 ---
 title: >
-  Are food bloggers entitled to the right of whinging? 
+  Are food bloggers entitled to the right of whinging?
 subtitle: >
   Blogger sued by restaurant for bad review
 date: "2010-11-04 18:22:53 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041820-ma1307-theresaf.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "447"
 image_attribution: "raffaello/deviantart"

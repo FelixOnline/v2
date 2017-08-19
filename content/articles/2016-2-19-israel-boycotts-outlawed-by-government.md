@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602191107-felix-guardianadvert4palestine-finalv2-page-001.jpg"
 image_caption: >
-  Several Imperial academics signed this boycott in 2015. 
+  Several Imperial academics signed this boycott in 2015.
 image_width: "3378"
 image_height: "5197"
 image_attribution: "The Guardian"
@@ -37,21 +37,21 @@ imported: true
 
 Boycotts have long been a way for local government to use direct action to condemn government approved policies, such as apartheid.
 
-However, the government has announced new plans to bring down heavy punishments on government\-funded bodies such as NHS Trusts, city councils and universities if they choose to operate so\-called “town\-hall boycotts”.
+However, the government has announced new plans to bring down heavy punishments on government-funded bodies such as NHS Trusts, city councils and universities if they choose to operate so-called “town-hall boycotts”.
 
-The government has called such protests “divisive” and say they have the potential to be anti\-semetic.
+The government has called such protests “divisive” and say they have the potential to be anti-semetic.
 
 It’s not just Israeli products that it will be illegal to avoid for “unethical” reasons. Companies involved in the arms, tobacco or fossil fuels trades will also be safe from democratically voted for ‘discrimination’.
 
 Firms who up until recently were running some operations in the West Bank, such as Veolia and Sodastream, have since left the area due to mounting pressure from the public. Scarlett Johansson notoriously severed her ties with Oxfam rather than the sponsorship deal she had with SodaStream when the charity expressed disapproval of companies with factories in the area.
 
-Last year, Sussex’s student union voted to join the boycott, divestment and sanctions movement by choosing not to sell Israeli products in their union\-run shops. SOAS students voted last year in favour of a boycott of Israeli academic institutions. The union’s YES campaign emphasised after their win that the move was to target “Israeli institutions complicit in the oppression of Palestinians, not individuals”.
+Last year, Sussex’s student union voted to join the boycott, divestment and sanctions movement by choosing not to sell Israeli products in their union-run shops. SOAS students voted last year in favour of a boycott of Israeli academic institutions. The union’s YES campaign emphasised after their win that the move was to target “Israeli institutions complicit in the oppression of Palestinians, not individuals”.
 
 Imperial’s own union has not voted to boycott any Israeli products or institutions.
 
 The rules could also affect public bodies boycotting other causes or businesses, such as arms manufacturers or fossil fuel companies, many of which have been boycotted by other universities.
 
-The move has been called an “attack on local democracy” by representatives of Labour leader, Jeremy Corbyn. If this rule had existed back in the 60s and 70s, the anti\-apartheid in South Africa movement of boycotts would have been illegal.
+The move has been called an “attack on local democracy” by representatives of Labour leader, Jeremy Corbyn. If this rule had existed back in the 60s and 70s, the anti-apartheid in South Africa movement of boycotts would have been illegal.
 
 The official announcement of the policy is due to be made by Cabinet Minister, Matt Hancock, when he visits Israel in a few days time.
 

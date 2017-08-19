@@ -1,6 +1,6 @@
 ---
 title: >
-  Feasibility of longer day called into question 
+  Feasibility of longer day called into question
 subtitle: >
   Proposed timetable changes criticised by students and staff
 date: "2011-01-20 20:49:56 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202044-ks607-timetabl.jpg"
 image_caption: >
-  
+
 image_width: "2480"
 image_height: "2144"
 image_attribution: "Veronika McQuadeova"

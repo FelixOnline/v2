@@ -1,6 +1,6 @@
 ---
 title: >
-  Checkmate at Chess Congress 
+  Checkmate at Chess Congress
 subtitle: >
   A successful and tense night for Chess Soc, reports John Sargent
 date: "2013-02-22 02:09:56 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

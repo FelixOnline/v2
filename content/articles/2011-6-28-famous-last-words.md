@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106281221-felix-kengore.jpg"
 image_caption: >
-  
+
 image_width: "865"
 image_height: "574"
 image_attribution: ""

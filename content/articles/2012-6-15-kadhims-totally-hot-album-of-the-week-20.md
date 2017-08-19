@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206150844-mc4509-artworks-000008021756-d1mvqu-original.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

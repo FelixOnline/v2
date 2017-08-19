@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241951-nm1010-fairfair.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1080"
 image_attribution: ""

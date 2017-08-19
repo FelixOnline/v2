@@ -1,8 +1,8 @@
 ---
 title: >
-  Lonely wail might indicate new species 
+  Lonely wail might indicate new species
 subtitle: >
-  Scientific community torn over a unique recording from elusive whale 
+  Scientific community torn over a unique recording from elusive whale
 date: "2015-11-13 14:44:40 +0000"
 id: "5732"
 old_path: /science/5732/lonely-wail-might-indicate-new-species-

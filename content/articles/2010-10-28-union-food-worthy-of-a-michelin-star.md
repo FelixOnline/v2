@@ -1,6 +1,6 @@
 ---
 title: >
-  Union food worthy of a Michelin star? 
+  Union food worthy of a Michelin star?
 subtitle: >
   A far-fetched idea but new Union menu is a hit
 date: "2010-10-28 19:44:02 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103012108-ks607-fallouts.jpg"
 image_caption: >
-  
+
 image_width: "220"
 image_height: "222"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-_Legally Blonde_ is a decent enough film, and I appreciate the effort of the filmmakers to create a stereotype\-defying and intelligent female lead. However, the fact remains that Woods only gets into law school because the admissions officer fancies her, and her big show of intelligence at the end of the film has nothing to do with any knowledge of complex law. I’ll take any of these badasses over Ms. Woods:
+_Legally Blonde_ is a decent enough film, and I appreciate the effort of the filmmakers to create a stereotype-defying and intelligent female lead. However, the fact remains that Woods only gets into law school because the admissions officer fancies her, and her big show of intelligence at the end of the film has nothing to do with any knowledge of complex law. I’ll take any of these badasses over Ms. Woods:
 
-_Ripley \- Alien_
+_Ripley - Alien_
 
-Academics are absolutely obsessed with Ridley Scott’s 1979 classic. Full books have been written about its themes, which range from the fears of modern society, to Marxism, to representations of pregnancy \(phallic imagery guys, phallic imagery everywhere\). Sigourney Weaver plays Ripley who the author Judith Newton perfectly says ‘appropriates qualities traditionally identified with male, but not masculinist, heroes.’
+Academics are absolutely obsessed with Ridley Scott’s 1979 classic. Full books have been written about its themes, which range from the fears of modern society, to Marxism, to representations of pregnancy (phallic imagery guys, phallic imagery everywhere). Sigourney Weaver plays Ripley who the author Judith Newton perfectly says ‘appropriates qualities traditionally identified with male, but not masculinist, heroes.’
 
 _Éowyn – Lord of the Rings_
 
@@ -46,4 +46,4 @@ The nature of Tolkien’s insanely intricate world of Middle Earth makes my argu
 
 _Chihiro – Spirited Away_
 
-The Bechdel test describes whether a film contains at least two named women who talk to each other about something other than a man. Despite a worrying number of films today failing this test I cannot think of a single Miyazaki film which could be included amongst them: Chihiro is only one of his many inspiring and maturely\-written female characters. She may not be perfect, but her realism makes her relatable and wonderful.
+The Bechdel test describes whether a film contains at least two named women who talk to each other about something other than a man. Despite a worrying number of films today failing this test I cannot think of a single Miyazaki film which could be included amongst them: Chihiro is only one of his many inspiring and maturely-written female characters. She may not be perfect, but her realism makes her relatable and wonderful.

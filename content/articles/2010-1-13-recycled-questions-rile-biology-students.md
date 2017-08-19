@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001132120-felix-SAFBUILD.jpg"
 image_caption: >
-  
+
 image_width: "750"
 image_height: "279"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - This is genuinely amazing I cannot believe the university is trying to pin this on the students 
+ - This is genuinely amazing I cannot believe the university is trying to pin this on the students
 imported: true
 ---
 

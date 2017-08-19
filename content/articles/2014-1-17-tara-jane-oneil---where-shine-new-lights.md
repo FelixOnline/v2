@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201401170353-jal08-music_tjo.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

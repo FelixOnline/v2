@@ -2,7 +2,7 @@
 title: >
   Snowdonia landscape colours Sherfield green
 subtitle: >
-  Photographic Society and Leonardo Fine Arts Society come together to host the Artsfest annual exhibition. 
+  Photographic Society and Leonardo Fine Arts Society come together to host the Artsfest annual exhibition.
 date: "2013-02-21 20:55:39 +0000"
 id: "3344"
 old_path: /arts/3344/snowdonia-landscape-colours-sherfield-green
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220232-tna08-cottagefromms.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

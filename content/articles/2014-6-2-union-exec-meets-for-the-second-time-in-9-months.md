@@ -2,7 +2,7 @@
 title: >
   Union Exec Meets for the Second time in 9 months
 subtitle: >
-  Following a large number of meetings being cancelled, the Union Executive Committee has met for only the second time this academic year. Charged with overseeing the general running of the Union and enacting policies of Union Council, Exec is scheduled to meet once a month. 
+  Following a large number of meetings being cancelled, the Union Executive Committee has met for only the second time this academic year. Charged with overseeing the general running of the Union and enacting policies of Union Council, Exec is scheduled to meet once a month.
 date: "2014-06-02 12:40:42 +0100"
 id: "4636"
 old_path: /news/4636/union-exec-meets-for-the-second-time-in-9-months
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

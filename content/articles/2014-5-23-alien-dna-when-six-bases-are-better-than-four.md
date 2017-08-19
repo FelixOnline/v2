@@ -1,6 +1,6 @@
 ---
 title: >
-  Alien DNA: when six bases are better than four 
+  Alien DNA: when six bases are better than four
 subtitle: >
   Are six bases better than four? Scientists at The Scripps Institute Florida, can boast that they have changed the secret of life; they have invented an extension to our DNA.
 date: "2014-05-23 13:48:35 +0100"

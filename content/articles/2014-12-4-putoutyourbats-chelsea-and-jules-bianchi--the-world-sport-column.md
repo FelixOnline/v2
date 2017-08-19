@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412042053-cj914-_79473402_phil_story_sheet_getty.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Getty Images"

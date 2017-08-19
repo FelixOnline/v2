@@ -1,6 +1,6 @@
 ---
 title: >
-  Enthusiasts create Steve Jobs birthday website 
+  Enthusiasts create Steve Jobs birthday website
 subtitle: >
   Imperial students launch happybirthdaystevejobs.com
 date: "2011-03-01 20:40:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103012036-ks607-screensh.jpg"
 image_caption: >
-  
+
 image_width: "1026"
 image_height: "1176"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Why exactly are you grateful to him Hes a CEO  he takes your money and gives you a laptop If he failed to do that Id be pretty pissed off at him Nothing for or against Macs here  just a comment on sad fanboyism 
+ - Why exactly are you grateful to him Hes a CEO  he takes your money and gives you a laptop If he failed to do that Id be pretty pissed off at him Nothing for or against Macs here  just a comment on sad fanboyism
 imported: true
 ---
 

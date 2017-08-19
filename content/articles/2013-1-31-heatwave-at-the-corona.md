@@ -1,6 +1,6 @@
 ---
 title: >
-  Heatwave at the corona 
+  Heatwave at the corona
 subtitle: >
   At least it's warm somewhere
 date: "2013-01-31 23:34:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301312333-tna08-composite_earth1_red.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

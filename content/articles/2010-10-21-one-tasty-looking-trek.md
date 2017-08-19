@@ -2,7 +2,7 @@
 title: >
   One tasty-looking trek
 subtitle: >
-  Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail 
+  Two Imperial graduates talk to Felix about plans to walk the entire length of New Zealand, on the Te Araroa trail
 date: "2010-10-21 18:49:10 +0100"
 id: "223"
 old_path: /travel/223/one-tasty-looking-trek

@@ -1,6 +1,6 @@
 ---
 title: >
-  The Shins are back, but should I care? 
+  The Shins are back, but should I care?
 subtitle: >
   Mark England ponders the question on everybody’s lips
 date: "2012-02-23 21:06:34 +0000"

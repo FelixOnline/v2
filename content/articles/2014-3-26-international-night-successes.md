@@ -2,7 +2,7 @@
 title: >
   International Night Successes
 subtitle: >
-  International Night (I-Night): Beyond Barriers 2014 organised by the Overseas Societies Committee (OSC) took place last Thursday at the Great Hall. 
+  International Night (I-Night): Beyond Barriers 2014 organised by the Overseas Societies Committee (OSC) took place last Thursday at the Great Hall.
 date: "2014-03-26 13:30:37 +0000"
 id: "4501"
 old_path: /features/4501/international-night-successes
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403261331-jal08-screen-shot-2014-03-26-at-13.31.13.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Overseas Societies Committee"

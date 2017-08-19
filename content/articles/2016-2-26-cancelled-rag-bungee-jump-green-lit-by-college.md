@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602261127-felix-bungee.jpg"
 image_caption: >
-  Each to their own. 
+  Each to their own.
 image_width: "3456"
 image_height: "2802"
 image_attribution: "FELIX"
@@ -49,7 +49,7 @@ RAG changed bungee supplier since last year, but only to switch to one deemed mo
 
 FELIX understands that the President of Imperial College, Alice Gast,  herself may have then raised concerns about the jump, despite having been here for last year’s.
 
-On Tuesday, just after FELIX had published an article reporting the cancellation, college allowed RAG to provisionally re\-arrange the event to the 21st and 22nd of March.
+On Tuesday, just after FELIX had published an article reporting the cancellation, college allowed RAG to provisionally re-arrange the event to the 21st and 22nd of March.
 
 The bungee jump is a staple in the RAG week calendar, with students having jumped from a crane over Queen’s Lawn for several years now.
 

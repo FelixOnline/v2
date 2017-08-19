@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,7 +42,7 @@ As a massive fan of Super Mario 3D land for the 3DS and of all other 3D Mario ga
 
 I missed this title when it came out earlier this year and Christmas is a good time to pick it up. Offering the same fun as Pikmin 1 and 2 all those years ago but in HD and with the added functionality of the Wii U gamepad this is a game to get excited about! Whether you have played the previous games in the series or not I think this game has a lot to offer and I hope that it delivers. It will be interesting to see how my experiences of Captain Olimar and his Pikmin differs now that I am older.
 
-#### __  
+#### __
 __Batman Arkham Origins
 
 The combat system in the earlier games has ensured that this game has a special place in my heart. After honing my skills in Batman Arkham Asylum and perfecting my style in Arkham City I am definitely ready for the next title in this series. More story, more challenges, more Batman lore. This is a great success in super hero games. I love Batman , DC comics and these games are awesome! Taking all in consideration I may even buy this game regardless of how much money I have!

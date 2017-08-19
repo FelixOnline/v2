@@ -2,7 +2,7 @@
 title: >
   An Anti-Social Path?
 subtitle: >
-  Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships 
+  Elizabeth Crouch takes a look at the new social network that argues fewer friends leads to more meaningful relationships
 date: "2011-01-20 19:23:12 +0000"
 id: "604"
 old_path: /tech/604/an-anti-social-path
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201921-nm1010-scaaaaaa.jpg"
 image_caption: >
-  
+
 image_width: "5029"
 image_height: "3542"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Heres a link to the website with accompanying saccharine video httpwwwpathcomhomehtmlusers are restricted to sharing pictures and videos with 50 friends they will be encouraged to share more personal momentsSurely this would be better achieved with a limit on the number of posts per day That way people would tell you about the cool things they do and wouldnt wast their posts telling you about the shit they just took and the flan theyre about to eatHaving loads of friends on Facebook isnt a problem If they sit there idly theyre hardly causing harm and you still get to bombard them with links to your latest Felix article 
+ - Heres a link to the website with accompanying saccharine video httpwwwpathcomhomehtmlusers are restricted to sharing pictures and videos with 50 friends they will be encouraged to share more personal momentsSurely this would be better achieved with a limit on the number of posts per day That way people would tell you about the cool things they do and wouldnt wast their posts telling you about the shit they just took and the flan theyre about to eatHaving loads of friends on Facebook isnt a problem If they sit there idly theyre hardly causing harm and you still get to bombard them with links to your latest Felix article
 imported: true
 ---
 

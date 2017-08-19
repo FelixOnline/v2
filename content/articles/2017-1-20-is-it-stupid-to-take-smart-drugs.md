@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701201506-felix-brainGearResize_13ee5faf-9cc9-445c-a3f8-d2e2894310f2.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "635"
 image_attribution: "Hula Health & Nutrition"
@@ -40,11 +40,11 @@ Modafinil is a drug that increases wakefulness. It is strictly prescribed to pat
 
 Modafinil increases concentration whilst studying. The University of Oxford analysed 24 studies between 1990 and 2014 and found that it boosted higher cognitive function, particularly attention and learning. It is known to enhance serotonin, histamine and glutamate levels which increase an individual’s level of alertness and short term memory. One user needed to draft a proposal for the Dalai Lama Foundation but was suffering from writer’s block, but after taking Modafinil was able to complete it. Online testimonials have also highlighted that it induces weight loss and enhances moods.
 
-However, there are several problems to Modafinil. Firstly, it can cause side effects like headaches, depression, and insomnia. This smart drug can severely disrupt sleep patterns so that they receive less slow\-wave sleep. According to Professor Sahakian, a leading neuroscientist at Cambridge University, studies have only investigated the effects of a single dose and so the long term effects are unknown. It is also not known whether individuals may develop a tolerance to Modafinil after repeated use as with caffeine. It has also been noted that in approximately 5 cases per million, the smart drug can cause Steven Johnson’s syndrome where the individual develops a life\-threatening rash. Furthermore, many students have reported that they have become heavily dependent on Modafinil and it has become a habit to use it to pass their exams. On the other hand, some students have reported that it does not help them study because their focus shifts from their work to smaller things. One university student, for example, stated that he ‘found \[himself\] focusing on more menial things like football matches rather than work’.
+However, there are several problems to Modafinil. Firstly, it can cause side effects like headaches, depression, and insomnia. This smart drug can severely disrupt sleep patterns so that they receive less slow-wave sleep. According to Professor Sahakian, a leading neuroscientist at Cambridge University, studies have only investigated the effects of a single dose and so the long term effects are unknown. It is also not known whether individuals may develop a tolerance to Modafinil after repeated use as with caffeine. It has also been noted that in approximately 5 cases per million, the smart drug can cause Steven Johnson’s syndrome where the individual develops a life-threatening rash. Furthermore, many students have reported that they have become heavily dependent on Modafinil and it has become a habit to use it to pass their exams. On the other hand, some students have reported that it does not help them study because their focus shifts from their work to smaller things. One university student, for example, stated that he ‘found [himself] focusing on more menial things like football matches rather than work’.
 
 Finally, although it is reported that Modafinil boosts focus and concentration, the learning is superficial and the newly found knowledge is not processed into long term memory. So although it is a quick fix for an imminent exam, the knowledge cannot be applied and will not be retained in the long term. Students should instead find healthy study techniques to prepare for their exams. During times of extreme stress, distractions like exercise and meditation can improve an individual’s state of mind.
-TODO: image from 
+TODO: image from
 ## Three most famous study drugs
- - **ADHD Medications \(eg. Adderall &amp; Ritalin\)** **|** Increase levels of dopamine in the brain allowing users to have increased concentration
+ - **ADHD Medications (eg. Adderall &amp; Ritalin)** **|** Increase levels of dopamine in the brain allowing users to have increased concentration
  - **Piracetam |** Derivative of neurotransmitter GABA. Also goes by the name ‘Nootropyl’
- - **Modafinil |** Can make certain forms of birth control \(like the hormonal pill\) less effective
+ - **Modafinil |** Can make certain forms of birth control (like the hormonal pill) less effective

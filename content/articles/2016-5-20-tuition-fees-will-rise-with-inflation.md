@@ -36,9 +36,9 @@ imported: true
 
 The government has released a white paper this week outlining its future plans for higher education, most notably allowing universities to charge more than £9000 per year in tuition fees.
 
-These plans come just four years after the trebling of tuition fees by the coalition government \(and the ensuing protests\) and would mean that the top performing universities could increase their fees year on year in line with inflation. This is a category that Imperial would likely fall into, with the changes coming into effect by autumn of 2017.
+These plans come just four years after the trebling of tuition fees by the coalition government (and the ensuing protests) and would mean that the top performing universities could increase their fees year on year in line with inflation. This is a category that Imperial would likely fall into, with the changes coming into effect by autumn of 2017.
 
-The proposals mean, at the current rate of 1.6% inflation \(RPI\), that students would pay an extra £144 a year on top of your £9000. Granted, this is not massive in the grand scheme of things, but just as recently as 2011, inflation in the UK was 5%, equating to £450 a year, sizable when you’re on a 3/4/5+ year course.
+The proposals mean, at the current rate of 1.6% inflation (RPI), that students would pay an extra £144 a year on top of your £9000. Granted, this is not massive in the grand scheme of things, but just as recently as 2011, inflation in the UK was 5%, equating to £450 a year, sizable when you’re on a 3/4/5+ year course.
 
 Imperial College President, Alice Gast, spoke out against the green paper that proposed this idea and several other initiatives, saying that it is important to “voice our concerns when we think that a proposed framework will inhibit or discourage excellence rather than support and reward it”. The NUS have also come out as staunch critics of the paper.
 

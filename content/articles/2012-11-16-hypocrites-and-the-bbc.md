@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211161715-tna08-154603173.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

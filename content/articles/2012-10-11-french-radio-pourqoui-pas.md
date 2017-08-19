@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210112228-felix-lemouv.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ It seems as though the older you get, the less time there is for doing fun thing
 
 Hosted by the lively Laura Leishman, she does a right job of engaging the listener and making them passionate about the music she plays. Even her voice is a pleasure to listen to. Being of Swiss origin and fluent in English, the effect on her accent makes it easier to connect to her as a DJ, rather than feeling distanced by the posh tones of a typical French-from-France accent.
 
-For those who don’t speak French, the playlists in themselves are usually worth tuning in for – that is for fans of electronic music and hip hop (both Anglophonic and Francophonic). Being French, obviously the station has the best access to artists from the French electro scene, who feature strongly in the tracklists. Longer exclusive mixes are also a bonus and can usually be easily found on internet searches.  
+For those who don’t speak French, the playlists in themselves are usually worth tuning in for – that is for fans of electronic music and hip hop (both Anglophonic and Francophonic). Being French, obviously the station has the best access to artists from the French electro scene, who feature strongly in the tracklists. Longer exclusive mixes are also a bonus and can usually be easily found on internet searches.
  For French speakers, regular interviews are a chance to get a good insight into French musicians when English interviews may restrict their expression. English-speaking artists are interviewed and have their responses translated. Reviews on new music by guests are also featured, similar to the format on British radio shows and public interaction is sometimes encouraged through the medium of suggesting songs for silly themes at the end of the night. Despite this, the best part of the show is its lack of gimmicks and cringey phone-ins from listeners.
 
 If all this takes your fancy, and your Imperial man is still not being man enough for your evenings, you can listen to LLP live between 9pm and 11pm Monday-Friday by streaming from Le Mouv website or re-listen at anytime.

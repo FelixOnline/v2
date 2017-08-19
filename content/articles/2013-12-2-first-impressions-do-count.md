@@ -2,7 +2,7 @@
 title: >
   First impressions DO count
 subtitle: >
-  At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities. 
+  At times you may feel like it’s almost a full time job in itself trying to get your first opportunity in the workplace. As we have talked about previously, there are a lot of considerations to take on board when seeking opportunities.
 date: "2013-12-02 22:17:35 +0000"
 id: "4170"
 old_path: /features/4170/first-impressions-do-count
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

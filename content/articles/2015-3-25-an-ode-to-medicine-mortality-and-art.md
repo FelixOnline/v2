@@ -2,7 +2,7 @@
 title: >
   An Ode to Medicine, Mortality, and Art
 subtitle: >
-  Jingjie Cheng explores the interaction between art and science 
+  Jingjie Cheng explores the interaction between art and science
 date: "2015-03-25 12:41:06 +0000"
 id: "5434"
 old_path: /arts/5434/an-ode-to-medicine-mortality-and-art

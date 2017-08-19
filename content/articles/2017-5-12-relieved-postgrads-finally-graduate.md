@@ -35,9 +35,9 @@ imported: true
 ---
 
 Last Wednesday marked the day of the largest graduation  ceremony at Imperial where more than 3000 doctors, engineers, scientist and “future business leaders” from 93 countries graduated.
-Watched by a record 9400 guests \(which is surprising considering no one really wants to watch anyone graduate twice\) the ceremonies were addressed by President Alice Gast. “You have the potential to accomplish great things,” she said. “I hope that you will use your intelligence and education to solve the problems of today and the problems that will arise in the future,” she added, making audience members wonder what secrets board members of Chevron are privy to.
+Watched by a record 9400 guests (which is surprising considering no one really wants to watch anyone graduate twice) the ceremonies were addressed by President Alice Gast. “You have the potential to accomplish great things,” she said. “I hope that you will use your intelligence and education to solve the problems of today and the problems that will arise in the future,” she added, making audience members wonder what secrets board members of Chevron are privy to.
 
-During the ceremonies, an honorary degree was awarded to Prof. Sir Leszek \(who we’re sure was thrilled, as Vice\-Chancellor of the University of Cambridge\), a Regius professorship was awarded to Prof David Holden, and medals were awarded to three more faculty members to recognise their outstanding contributions to the life and work of the College #institutionalculture.
+During the ceremonies, an honorary degree was awarded to Prof. Sir Leszek (who we’re sure was thrilled, as Vice-Chancellor of the University of Cambridge), a Regius professorship was awarded to Prof David Holden, and medals were awarded to three more faculty members to recognise their outstanding contributions to the life and work of the College #institutionalculture.
 
 Six student were also recognised for outstanding student achievement including Paralympic bronze medalist and bioengineering postgraduate student, Captain David Henson, currently sitting on the Advisory Board of the Imperial Centre for Blast Injury Studies as the veterans’ representative.
 

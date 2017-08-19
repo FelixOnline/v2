@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122115-cac111-fjg-imperial_college-2637.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Imperial College London"
@@ -62,7 +62,7 @@ However, Mirza recognises the importance of avoiding seeming ‘dictatorial or M
 
 ### Worried?
 
-_If you are worried about your alcohol intake, there are plenty of places to seek help and advice._  
-_I__mperial College Advice Centre:__ 10am – 5pm weekdays, Mezzanine Level of the Union Building_  
-___Imperial College Health Centre:__ 8am – 6pm weekdays, Tuesdays 8am – 1pm, 6:30pm – 8pm (Pre-booked Appointments Only)_  
+_If you are worried about your alcohol intake, there are plenty of places to seek help and advice._
+_I__mperial College Advice Centre:__ 10am – 5pm weekdays, Mezzanine Level of the Union Building_
+___Imperial College Health Centre:__ 8am – 6pm weekdays, Tuesdays 8am – 1pm, 6:30pm – 8pm (Pre-booked Appointments Only)_
 ___Alcoholics Anonymous: __www.alcoholics-anonymous.org.uk_

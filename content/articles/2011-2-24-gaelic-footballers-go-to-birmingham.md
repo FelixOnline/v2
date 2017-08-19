@@ -1,6 +1,6 @@
 ---
 title: >
-  Gaelic footballers go to Birmingham 
+  Gaelic footballers go to Birmingham
 subtitle: >
   Imperial Gaelic footballers at the British Universities Championships
 date: "2011-02-24 20:28:44 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102242022-dr910-football.jpg"
 image_caption: >
-  
+
 image_width: "532"
 image_height: "401"
 image_attribution: ""

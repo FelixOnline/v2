@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200640-felix-outlook-festival.jpg"
 image_caption: >
-  
+
 image_width: "580"
 image_height: "386"
 image_attribution: ""
@@ -40,7 +40,7 @@ The festival, surely the best way of rounding off the summer, takes place betwee
 
 Outlook has been running since 2008 and has grown considerably each year. If you want to sample it while it is still a relatively intimate affair then now is certainly your best bet. The first batch of tickets have sold out but festival organisers are considering the release of a second batch so get yourself to www.outlookfestival.com and keep your finger on the F5 button. For anyone that doesn’t know that’s how you refresh the page using the keyboard (big up the computing department crew inside, I know you’re feeling that one).
 
-Dates: 1st - 4th September 2011  
- Location: Pula, Croatia  
- Price: £126.50 + Accommodation  
+Dates: 1st - 4th September 2011
+ Location: Pula, Croatia
+ Price: £126.50 + Accommodation
  Website: [www.outlookfestival.com](http://www.outlookfestival.com)

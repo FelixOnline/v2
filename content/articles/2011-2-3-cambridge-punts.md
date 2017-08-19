@@ -1,8 +1,8 @@
 ---
 title: >
-  Cambridge punts 
+  Cambridge punts
 subtitle: >
-  Or why the size of your laser doesn’t determine the quality of your university experience 
+  Or why the size of your laser doesn’t determine the quality of your university experience
 date: "2011-02-03 20:21:10 +0000"
 id: "743"
 old_path: /comment/743/cambridge-punts-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032019-ks607-klasjdfs.jpg"
 image_caption: >
-  
+
 image_width: "2345"
 image_height: "1726"
 image_attribution: ""

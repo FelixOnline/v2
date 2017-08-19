@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091400-tna08-london_jazz_festival.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Tonight sees the return of the London Jazz Festival. The capital’s largest pan
 
 Glancing at the range of the bands playing this year reveals that the days of ‘jazz tradition’ are long gone. One would be hard-pressed to distil many common themes from the characteristics of the groups performing over the next two weeks, given the breadth of their influences, the seemingly unlikely genre fusions, and the widespread propensity to push boundaries in every conceivable direction.
 
-With some of the more well known performers long since sold out, here are my “alternative picks” of the festival - just a few those groups who I feel are leading jazz in exciting new directions.  
+With some of the more well known performers long since sold out, here are my “alternative picks” of the festival - just a few those groups who I feel are leading jazz in exciting new directions.
  Tonight (9th) sees a triple bill of up-and-coming Norwegian artists at Vortex. __Bushman’s Revenge__ whose genre bending sound has been described as “moving between jazz and classic heavy rock … with traces of blues, prog and acid rock” will be joined by Rune Grammofon label-mates __Albatrosh__, a dynamic piano/saxophone duo who effortlessly blend strong compositional and melodic nous with elements of near-telepathic free-improvisation. Rounding out the line up are __Synkoke__, self described as “punked prog-jazz”, their no-holds-barred approach is a modern take on the style pioneered by groups such as __Peter Brötzmann__’s __Last Exit__. Not for the faint of heart!
 
 Award-winning Finnish experimentalists __Oddarang__ (Southbank Centre, 10th, free) blend their unique strain of jazz with influences from world music, classical, and post-rock to create moving, minimalist soundscapes set against a gently propulsive rhythm section and ethereal melodies, whose overarching aesthetic has been likened to the works of Icelandic group __Sigur Rós__.

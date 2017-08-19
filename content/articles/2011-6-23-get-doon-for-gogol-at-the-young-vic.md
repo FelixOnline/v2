@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232205-felix-doon-not-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "1800"
 image_height: "1198"
 image_attribution: "Keith Pattison"

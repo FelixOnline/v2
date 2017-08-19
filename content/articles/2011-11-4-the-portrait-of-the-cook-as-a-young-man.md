@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111041659-felix-rhys-davies-avatar-cut.jpg"
 image_caption: >
-  
+
 image_width: "1728"
 image_height: "2218"
 image_attribution: ""

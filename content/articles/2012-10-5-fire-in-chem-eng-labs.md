@@ -38,7 +38,7 @@ On Tuesday 2nd October, there was an incident in one of the Department of Chemic
 
 Prince Consort Road was briefly cornered off and students in the Union had to leave via the exit on the first floor of the Union building.
 
-The Fire Brigade were called, as were the police. This was reportedly due to a possibility of an explosion, however that has not been confirmed to be true. It was all said to be precautionary measures.  
+The Fire Brigade were called, as were the police. This was reportedly due to a possibility of an explosion, however that has not been confirmed to be true. It was all said to be precautionary measures.
  At this point there were multiple accounts and rumours as to what had happened, with the fire brigade dispersing the crowd that had briefly formed on the Royal Albert Hall steps. The bottom of the steps were also included in the area cornered off. A man in a white lab coat could be seen being questioned by the Fire Brigade by the side of the building.
 
 It was confirmed on Thursday 4th October by the College that the fire has “caused substantial damage to a fume cupboard”. It was added that “the cause of the fire is currently being investigated however it is thought that the incident arose during the changing of a hydrogen cylinder”.

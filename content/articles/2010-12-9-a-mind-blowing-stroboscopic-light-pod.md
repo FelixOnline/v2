@@ -1,6 +1,6 @@
 ---
 title: >
-  A mind-blowing Stroboscopic Light Pod 
+  A mind-blowing Stroboscopic Light Pod
 subtitle: >
   I began to see galaxies and orbiting planets in my eyes. By Rosie Milton
 date: "2010-12-09 21:32:07 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092129-ks607-lightpod.jpg"
 image_caption: >
-  
+
 image_width: "700"
 image_height: "464"
 image_attribution: ""

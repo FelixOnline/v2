@@ -1,6 +1,6 @@
 ---
 title: >
-  Double trouble from Daniel Craig in Bond games spectacular 
+  Double trouble from Daniel Craig in Bond games spectacular
 subtitle: >
   Matt Colvin tries the new Bond title 007 Blood Stone while Jamie Gollings and Alex Gray review GoldenEye 007
 date: "2010-11-18 20:57:41 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182052-ks607-jamesbon.jpg"
 image_caption: >
-  
+
 image_width: "4800"
 image_height: "2700"
 image_attribution: ""

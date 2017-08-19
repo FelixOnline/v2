@@ -1,6 +1,6 @@
 ---
 title: >
-  Food Experiments 
+  Food Experiments
 subtitle: >
   What is the best eggy soldier of them all?
 date: "2011-11-24 21:33:37 +0000"

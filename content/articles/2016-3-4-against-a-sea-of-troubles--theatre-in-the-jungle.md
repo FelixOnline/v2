@@ -2,7 +2,7 @@
 title: >
   Against a sea of troubles – theatre in the Jungle
 subtitle: >
-  The Good Chance Theatre is aiming to offer escapism to refugees across the camp 
+  The Good Chance Theatre is aiming to offer escapism to refugees across the camp
 date: "2016-03-04 11:47:07 +0000"
 id: "6008"
 old_path: /arts/6008/against-a-sea-of-troubles--theatre-in-the-jungle
@@ -55,7 +55,7 @@ Most, if not all of the residents of the Jungle are suffering from the mental ef
 
 Not everyone has been convinced about the value of the Good Chance Theatre however. In particular,  the performance of Hamlet by the touring ‘Globe to Globe’ arm of The Globe theatre became a lightning rod for controversy.
 
-Critics argue that the residents of the Jungle camp are living in fear for their lives, often going without food, sharing one toilet between 75 people, completely without washing facilities; a theatre has no place in such an environment. Do they have a point? Should we be talking about food for the soul when there is a shortage of food for their bellies? Some might consider the idea of performing centuries old theatre  to people in such destitute circumstances to be very definition of leftist ivory tower thinking; a peculiar brand of champagne socialism \(“let them watch Shakespeare”\). In Elliot Eisner’s words such people view the arts “as nice but not necessary’”.
+Critics argue that the residents of the Jungle camp are living in fear for their lives, often going without food, sharing one toilet between 75 people, completely without washing facilities; a theatre has no place in such an environment. Do they have a point? Should we be talking about food for the soul when there is a shortage of food for their bellies? Some might consider the idea of performing centuries old theatre  to people in such destitute circumstances to be very definition of leftist ivory tower thinking; a peculiar brand of champagne socialism (“let them watch Shakespeare”). In Elliot Eisner’s words such people view the arts “as nice but not necessary’”.
 
 Yet, it is clear that to the 300 refugees who watched the outdoor performance, it was a welcome break from the monotony of life in the Jungle. One refugee, speaking to The Guardian, said, “I’ve read the play in a book but never seen it... It is good to see theatre, … It is good to enjoy something”.
 
@@ -73,6 +73,6 @@ It is a striking indictment of European politics that the people who have gone t
 
 Despite all odds, in face of European governments that oscillate between barely acknowledging the plight of the refugees and openly denying their right to seek refuge, the men, women and children who have found their way to Calais are starting to rebuild their lives, but they need our help.
 
-As with most things, governments are far behind the mentality of  the citizens, but it is time that the powers\-that\-be in Europe  recognise the displaced people, not as “a bunch of migrants” as David Cameron so charmingly termed them, but as human beings, just like us, deserving of shelter, food, warmth, and yes, even beauty.
+As with most things, governments are far behind the mentality of  the citizens, but it is time that the powers-that-be in Europe  recognise the displaced people, not as “a bunch of migrants” as David Cameron so charmingly termed them, but as human beings, just like us, deserving of shelter, food, warmth, and yes, even beauty.
 
 _Find out more about donating or volunteering at goodchance.org.uk_

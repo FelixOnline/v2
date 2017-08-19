@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-If you’ve never seen Imperial College Symphony Orchestra play, you’re missing out! Full of science-loving musicians, ICSO is Imperial’s flagship orchestra playing great music to the highest standards.  
+If you’ve never seen Imperial College Symphony Orchestra play, you’re missing out! Full of science-loving musicians, ICSO is Imperial’s flagship orchestra playing great music to the highest standards.
  After the success of playing to a sold out Cadogan Hall last year with the stunning BBC Young Musician 2012 Laura van der Heijden, ICSO have begun this year with the fabulous annual weekend trip to Dorchester. Staying with amazingly generous host families, ICSO performed alongside the Thomas Hardye Singers before introducing our new members to the wonderful Dorchester night life!
 
 Our first South Kensington Concert is on Friday 29th November 2013 in the Great Hall at 8pm. Tickets cost just £3 for students in advance and are available from the Blyth Centre on Level 5 of the Sherfield building.

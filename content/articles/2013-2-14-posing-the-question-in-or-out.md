@@ -2,7 +2,7 @@
 title: >
   Posing the Question: In or Out?
 subtitle: >
-  Silvia Davey asks what UK citizens should consider come referendum time 
+  Silvia Davey asks what UK citizens should consider come referendum time
 date: "2013-02-14 17:02:18 +0000"
 id: "3324"
 old_path: /politics/3324/posing-the-question-in-or-out
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302141702-tna08-concerned-cam.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Alex Folkes"

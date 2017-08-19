@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011252102-nm1010-northkor.jpg"
 image_caption: >
-  
+
 image_width: "2112"
 image_height: "2816"
 image_attribution: ""

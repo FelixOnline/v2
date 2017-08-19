@@ -2,7 +2,7 @@
 title: >
   Attending University can be a risky business
 subtitle: >
-  George Butcher discusses how to determine the value of education 
+  George Butcher discusses how to determine the value of education
 date: "2014-11-28 00:46:24 +0000"
 id: "4965"
 old_path: /comment/4965/attending-university-can-be-a-risky-business
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411280046-ps3110-student-loan-blog-image.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

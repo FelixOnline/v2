@@ -2,7 +2,7 @@
 title: >
   Julia Buckingham steps down as Pro-Rector
 subtitle: >
-  First female Vice-Chancellor 
+  First female Vice-Chancellor
 date: "2012-01-12 21:54:02 +0000"
 id: "1975"
 old_path: /news/1975/julia-buckingham-steps-down-as-pro-rector
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122153-felix-professor_julia_buckingham__xd.jpg"
 image_caption: >
-  
+
 image_width: "4268"
 image_height: "2661"
 image_attribution: "Mike Finn-Kelcey"

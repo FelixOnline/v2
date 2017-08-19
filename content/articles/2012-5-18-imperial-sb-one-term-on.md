@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The caption should actually be Daniel Hyde  Cradle Carve taken by Ed Brial at Victoria Park 
+ - The caption should actually be Daniel Hyde  Cradle Carve taken by Ed Brial at Victoria Park
 imported: true
 ---
 

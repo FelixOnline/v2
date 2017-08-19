@@ -1,6 +1,6 @@
 ---
 title: >
-  Take two leeches and call me tomorrow 
+  Take two leeches and call me tomorrow
 subtitle: >
   Nature has, once again, provided a solution to a crucial medical problem
 date: "2011-02-10 20:27:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102025-ks607-leechese.jpg"
 image_caption: >
-  
+
 image_width: "372"
 image_height: "336"
 image_attribution: ""

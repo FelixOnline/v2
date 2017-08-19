@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605271037-felix-eu create.jpg"
 image_caption: >
-  
+
 image_width: "4932"
 image_height: "3300"
 image_attribution: ""
@@ -42,7 +42,7 @@ The research hints towards the idea that if the public vote for Brexit in June�
 
 It reports that 22 other London institutions also benefit from EU grants, with King’s getting 30% of its funding from the EU, and Greenwich 25%.
 
-Digital Science’s report also showed that the UK is the second\-biggest beneficiary of EU funding for science, getting a quarter of its funding from the union, amounting to £967 million in funding last year alone. This is about 16% of the EU’s total research grant budget.
+Digital Science’s report also showed that the UK is the second-biggest beneficiary of EU funding for science, getting a quarter of its funding from the union, amounting to £967 million in funding last year alone. This is about 16% of the EU’s total research grant budget.
 
 In the last decade, British research facilities have received just over £8 billion from the EU, coming in second to Germany. Since 2009, the UK has got back around 7% of its EU subs from such funding. The EU pays for 41% of the UK’s publicly funded cancer research and 62% of its nanotechnology funding, both of which have significant bases at Imperial.
 

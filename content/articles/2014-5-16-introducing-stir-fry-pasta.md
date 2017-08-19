@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405160314-jal08-food_carolfrypasta.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Carol Ann Cheah #FelixFood"

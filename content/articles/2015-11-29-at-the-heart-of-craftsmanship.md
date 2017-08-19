@@ -1,6 +1,6 @@
 ---
 title: >
-  At the heart of craftsmanship 
+  At the heart of craftsmanship
 subtitle: >
   Hand Gestures has an interesting premise, and is done skilfully, but fails to excite
 date: "2015-11-29 16:45:48 +0000"

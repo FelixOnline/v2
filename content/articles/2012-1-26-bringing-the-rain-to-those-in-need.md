@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.  
+It’s common knowledge that water is essential for survival. Lesser known, perhaps, is the multitude of water-related problems faced by people in areas without adequate water supplies such as Tabora.
  The few shallow wells, lakes and rivers that provide the local population with water are often contaminated with viruses and bacteria that cause deadly diseases such as diarrhoea and typhoid fever. In developing countries such as Tanzania, the second greatest child killer in rural areas is diarrhoea, causing over one and half million deaths each year.
 
 In many cases, families cannot afford supplies to sterilise their water, whether they be water purification tablets, water filtration systems, or stoves and fuel for boiling water. Just as often, they simply don’t understand the importance of sanitation and clean water. This is why one of the main aims of [Raincatcher](http://www.rwh-tanzania.co.uk/), aside from building rainwater harvesting tanks, is to educate the local population on effective hygiene and sanitation.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
 image_caption: >
-  
+
 image_width: "1415"
 image_height: "940"
 image_attribution: "Miles Robertson"

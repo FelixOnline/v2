@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 __Handball__
 
-Imperial Eagles 29  
+Imperial Eagles 29
  Newham Flames 16
 
 On Saturday, the Imperial Eagles set out to play their first competitive match in the Development League. The planned opening game betweenBy now, several changes to the league schedule were undertaken after Olympia II pulled out of the division, which meant that instead of facing the Ruislip Eagles II, Imperial had to face the Newham Flames, who were often praised for their extensive youth development and link to the GB U16 squad, where some of their players receive very extensive training - or so we thought.

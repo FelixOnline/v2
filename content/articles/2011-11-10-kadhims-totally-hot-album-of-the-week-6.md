@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111102033-felix-real-estate-days.jpeg"
 image_caption: >
-  
+
 image_width: "1230"
 image_height: "1230"
 image_attribution: ""

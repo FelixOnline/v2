@@ -2,7 +2,7 @@
 title: >
   Some Santiagan satisfaction
 subtitle: >
-  Priya chills in and around Chile's capital 
+  Priya chills in and around Chile's capital
 date: "2011-05-12 18:25:48 +0100"
 id: "1195"
 old_path: /travel/1195/some-santiagan-satisfaction
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105121924-felix-ricardo-baeza-yates.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "333"
 image_attribution: "Ricardo Baeza-Yates"

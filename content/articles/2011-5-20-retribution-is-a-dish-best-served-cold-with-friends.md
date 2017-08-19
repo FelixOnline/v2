@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105211049-sjw209-retribution-logo.png"
 image_caption: >
-  
+
 image_width: "570"
 image_height: "308"
 image_attribution: "thekoalition.com"

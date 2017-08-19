@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The release of Wonderful, Glorious, the 10th album from long-tenured indie rock band Eels presents a worrying fact about music: sometimes, artists are overshadowed by their own success.  
+The release of Wonderful, Glorious, the 10th album from long-tenured indie rock band Eels presents a worrying fact about music: sometimes, artists are overshadowed by their own success.
  Almost wholly the project of frontman Mark Oliver Everett, Eels’ music has been intensely personal: their debut Beautiful Freak presented twisted love songs and scathing wit under deceptively poppy beats. After the death of his father (physicist Hugh Everett III, famous for inventing the Many Worlds Interpretation of quantum mechanics), mother and sister in the short space of a few years, Eels’ 1998 sophomore album Electro-Shock Blues is a hauntingly beautiful masterpiece exploring suicide and bereavement.
 
 From these great heights, Eels’ have fallen far. The greatest art is born out of suffering, and Wonderful, Glorious screams complacency. There are still some emotions explored here, still some witty hooks, but the highs and lows of Eels’ earlier work is nowhere near matched. This isn’t an album about death, breakups, or even love: more than anything else, it sounds like an album about the mundane life of an aging, successful rock musician.

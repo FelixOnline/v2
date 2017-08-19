@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,4 +44,4 @@ I know the Union does not represent academic staff but I really don’t envy any
 
 I mean, seriously what is the point of paying members of College staff in Outreach and Recruitment, while telling the Office For Fair Access (OFFA) that we are doing our part on widening participation, so we can charge the £9,000 fees, if we just segregate the cash rich students from the others and deter talented applicants from applying, who just simply cannot afford it? How are we supposed to attract the best talent from across the globe if we can’t even manage it in our own country?
 
-So as you can see, I am clearly [\#AgainstActon ](https://www.imperialcollegeunion.org/your-union/campaigns/accommodation)and I urge every student reading this to let your academic reps know that you are too.
+So as you can see, I am clearly [#AgainstActon ](https://www.imperialcollegeunion.org/your-union/campaigns/accommodation)and I urge every student reading this to let your academic reps know that you are too.

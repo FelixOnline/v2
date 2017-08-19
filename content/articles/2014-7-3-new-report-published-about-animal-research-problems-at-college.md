@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405160244-jal08-1576_news_college_logo_entrance_web.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Felix / Joe Letts"
@@ -44,7 +44,7 @@ The report recommended that the Minister should “consider whether he can conti
 
 The report also mentions that "a pattern of concerns" were discovered by the Home Office Inspectorate after 15 visits to College in 2012. It states, "The underlying failings of leadership, management and culture noted above were ... of a kind that should have been evident to visiting inspectors." It also reveals that at the time the HOI were waiting for the (then) new Establishment Licence holder to "bed in", and would have go on to raise issues with the College if the BUAV 2013 investigation had not been published.
 
-A College spokesperson said:  
+A College spokesperson said:
 “_The College has noted the Animals in Science Committee (ASC) Lessons to be learnt report. The College is surprised that the report does not refer to Imperial’s comprehensive Action Plan for World-Class Animal Research published in January 2014._
 
 _The College has made substantial progress in implementing changes set out in the Plan. These build on the good standards of animal husbandry identified in the Brown Review and are enabling the College to build a new culture around animal research by establishing and promoting best practice, and taking ethical, welfare and 3Rs issues into account at every level._

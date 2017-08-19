@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702101353-felix-Screen Shot 2017-02-10 at 13.53.47.png"
 image_caption: >
-  
+
 image_width: "2220"
 image_height: "1120"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 A brief glance at the main headlines and you can see that the past month has been filled with protests, discontent, and outrage. While the world is watching the United States, Eastern Europe is facing its own demons as formerly communist country Romania is seeing its largest protest since the fall of the regime.
 
-On Tuesday night, the 31st of January, the Romanian government passed an emergency decree that legalised corruption. More specifically, it explicitly decriminalised some offences, including nepotism and official misconduct resulting in financial damage under 200,000 RON \(roughly £38,000\). It was initially supposed to be effective immediately, but was soon revised to only take effect ten days later.
+On Tuesday night, the 31st of January, the Romanian government passed an emergency decree that legalised corruption. More specifically, it explicitly decriminalised some offences, including nepotism and official misconduct resulting in financial damage under 200,000 RON (roughly £38,000). It was initially supposed to be effective immediately, but was soon revised to only take effect ten days later.
 
 People across the country went into the streets in the middle of that very night; there were 15,000 in Bucharest alone, asking for the government’s resignation. It was only the next day they found out that a temporary replacement government would not have the power to repeal the decree. The crowds immediately changed their requests to explicitly asking for repeal, followed by resignation.
 
@@ -52,6 +52,6 @@ It is clear that Romanians are aware of how corrupt their politicians are, and t
 
 I wish I could be home for these events. I only attended the protests in London on Friday and Saturday, and I had not expected too much energy. However, I am both ashamed and happy to say that I underestimated the anger that unites us. Being away from home has not killed our roots.
 
-It was during the evening hours of Saturday that I found myself protesting next to a gentleman with the somewhat classic look of a middle\-aged bohemian. I had not paid attention at first, but amongst the shouts all around me, I overheard that he had attended both the revolution of December 1989 and the Mineriad of June 1990. It is a particular sort of pain I felt then; the kind that arises when I'm eminded that the people who have participated in those events, hoping for a better future, are still here to witness what is happening now.
+It was during the evening hours of Saturday that I found myself protesting next to a gentleman with the somewhat classic look of a middle-aged bohemian. I had not paid attention at first, but amongst the shouts all around me, I overheard that he had attended both the revolution of December 1989 and the Mineriad of June 1990. It is a particular sort of pain I felt then; the kind that arises when I'm eminded that the people who have participated in those events, hoping for a better future, are still here to witness what is happening now.
 
 The communist era of Romania has become a leitmotif in our culture. Some miss the good old times, although most vow it will never happen again. We have either lived through it or been raised hearing about it. However, reading coverage of these weeks’ events in the British media, I saw Romania described as “an unlikely beacon of democracy.” While flattering, I disagree with the sentiment. It is perhaps through the tragedy of our past that we are more likely to fight for our present.

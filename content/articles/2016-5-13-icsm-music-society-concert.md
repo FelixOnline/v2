@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131139-felix-11209592_10153330167295917_54200595470464036_n.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "960"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 One of my favourite things about playing the French horn is that you get called in to play in concerts at the last minute pretty often. At Imperial the concerts usually tend to end up being actually really good and so it’s always quite exciting to get the opportunity to play with groups here. Last week I got to play in the ICSM Music Society Concert and it basically lived up to all my hopes for a concert and massively surpassed my expectations for a night that the only details I’d really been given beforehand were ‘turn up for rehearsal at 4.30, St Stephen’s Church’.
 
-The ICSM Music Society Concert is a really special event that has all five of the ensembles under the ICSM Music umbrella \(Choir, Chamber Choir, Orchestra, Jazz Band and Bands\) come together to perform under the same roof. With exams and deadlines a serious looming threat through any Summer term, each ensemble only had an allocated two rehearsals for the concert but had clearly worked hard to produce the standard of music the night saw.
+The ICSM Music Society Concert is a really special event that has all five of the ensembles under the ICSM Music umbrella (Choir, Chamber Choir, Orchestra, Jazz Band and Bands) come together to perform under the same roof. With exams and deadlines a serious looming threat through any Summer term, each ensemble only had an allocated two rehearsals for the concert but had clearly worked hard to produce the standard of music the night saw.
 
 The night started with four pieces by Jazz Band, which included truly incredible solos from Auriol Harford and Joseph Derry. Choir then took the stage for a song from the musical _Oh Kay!_ and a beautiful spiritual _Ezekiel Saw De Wheel._ The first half then finished with four pieces from the Bands, one of which was written by Music societies own Ben Lau, called ‘Shine On’ and certainly went a long way to proving that Imperial has students that are phenomenal at way more than just their degrees!
 

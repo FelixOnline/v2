@@ -1,8 +1,8 @@
 ---
 title: >
-  Female empowerment to save the world 
+  Female empowerment to save the world
 subtitle: >
-  But is the U.N.’s newest agency’s plan to end gender inequality and poverty in one fell swoop just more of the same? 
+  But is the U.N.’s newest agency’s plan to end gender inequality and poverty in one fell swoop just more of the same?
 date: "2011-02-10 20:56:06 +0000"
 id: "788"
 old_path: /politics/788/female-empowerment-to-save-the-world-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102054-ks607-amandadi.jpg"
 image_caption: >
-  
+
 image_width: "3119"
 image_height: "2538"
 image_attribution: "Amanda Diez"

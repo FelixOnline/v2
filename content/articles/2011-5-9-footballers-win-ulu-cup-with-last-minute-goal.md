@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105091055-felix-cup-final-1.jpg"
 image_caption: >
-  
+
 image_width: "4000"
 image_height: "3000"
 image_attribution: "James Brown"
@@ -37,7 +37,7 @@ imported: true
 
 The end of spring term saw the 1st XI clash with UCL in the ULU Cup Final. The two teams had been head and shoulders above the competition throughout the year, with Imperial denied the league title by a single point after suffering their only defeat of the season against UCL’s. This only strengthened Imperial’s resolve, and the squad went into the game in high spirits, and with a legion of fans to help them on their way.
 
-Imperial suffered an early setback when centre-half Farag failed a late fitness test and was ruled out. Despite this Imperial began the game well, dominating the first 20 minutes with composed play. On the break however, UCL threatened, and with Hill picking up an early booking in the centre of the park – presumably for appearance’ sake, the back four could no longer rely on the usual degree of protection. After 25 minutes, Imperial paid the price for allowing a UCL forward a moment too long on the ball, as he threaded the ball behind the Imperial defence to his strike partner, who duly put his team ahead.  
+Imperial suffered an early setback when centre-half Farag failed a late fitness test and was ruled out. Despite this Imperial began the game well, dominating the first 20 minutes with composed play. On the break however, UCL threatened, and with Hill picking up an early booking in the centre of the park – presumably for appearance’ sake, the back four could no longer rely on the usual degree of protection. After 25 minutes, Imperial paid the price for allowing a UCL forward a moment too long on the ball, as he threaded the ball behind the Imperial defence to his strike partner, who duly put his team ahead.
  Imperial were buoyed by the belief that they had the better of their opposition, and surged forward in an attempt to level the score before half time. They were rewarded handsomely when Benincasa played a delightful through ball to Eshun, who raced onto the pass and delicately lifted the ball over the UCL keeper’s head with remarkable calm.
 
 Towards the start of the second half Imperial looked to lose some of their early impetus. This changed somewhat when Hill, forced off by injury, was replaced by Wilson – an inspired substitution which restored a good deal of composure and shape to the Imperial side. Both teams pressed on, but the two strongest defences in the league helped to keep the scores level until the 75th minute. Imperial were slightly overexposed at the back when UCL crafted a slick move – culminating in a headed goal for their striker.

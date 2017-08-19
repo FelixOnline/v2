@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603121331-felix-union.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "2048"
 image_attribution: "Imperial College Union"
@@ -39,7 +39,7 @@ The Leadership Election results are in, the votes have been counted, and your ne
 
 President: Nas Andriopoulos
 
-Deputy President of Welfare: Emily\-Jane Cramphorn
+Deputy President of Welfare: Emily-Jane Cramphorn
 
 Deputy President of Clubs and Societies: James Cox
 

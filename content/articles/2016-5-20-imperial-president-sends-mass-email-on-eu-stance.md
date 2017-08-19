@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605201042-felix-20160519_163334.jpg"
 image_caption: >
-  
+
 image_width: "2988"
 image_height: "5312"
 image_attribution: ""
@@ -36,9 +36,9 @@ imported: true
 
 On Monday, Imperial President, Alice Gast,  and Provost, James Stirling, sent an email to all staff and students, encouraging us to vote and reminding us of their stance on the EU.
 
-After encouraging recipients to register to vote in the June referendum, Professor Gast described how Imperial had “contributed to collective efforts in the higher education community to understand and communicate the impact of EU membership on research and education” and mentioned the pro\-EU open letter she had signed back in February, that was published in the _Sunday Times_.
+After encouraging recipients to register to vote in the June referendum, Professor Gast described how Imperial had “contributed to collective efforts in the higher education community to understand and communicate the impact of EU membership on research and education” and mentioned the pro-EU open letter she had signed back in February, that was published in the _Sunday Times_.
 
-She added, “While it was important for the College to articulate its point of view, it is not our role to tell people how to vote”, despite having just described Imperial’s part in producing pro\-EU evidence for the House of Lords.
+She added, “While it was important for the College to articulate its point of view, it is not our role to tell people how to vote”, despite having just described Imperial’s part in producing pro-EU evidence for the House of Lords.
 
 Professor Gast then hung back, saying, “The issues associated with the referendum are complex and affect different individuals, companies and institutions in different ways”. So, vote how you want, we guess.
 
@@ -48,7 +48,7 @@ The Education Act of 1986 only enforces a “balanced presentation of political 
 
 Imperial’s own students for Brexit campaign team told FELIX: “While we applaud Professor Gast for encouraging staff and students to vote, we disagree with the implication that a Brexit would be detrimental to UK science”.
 
-The heavy reminder comes after weeks of to\-and\-fro between the ‘Leave’ and ‘Remain’ camps, headed up by Boris Johnson and David Cameron respectively. In the last week, Boris has been criticised for saying the EU has the same aims that Hitler did, and Cameron has been accused of using the threat of war to frighten voters into remaining.
+The heavy reminder comes after weeks of to-and-fro between the ‘Leave’ and ‘Remain’ camps, headed up by Boris Johnson and David Cameron respectively. In the last week, Boris has been criticised for saying the EU has the same aims that Hitler did, and Cameron has been accused of using the threat of war to frighten voters into remaining.
 
 Remain posters have been spotted around college in recent weeks, and a the Big EU debate is scheduled for  June the 2nd in lecture theatre 164 in the Skempton Building. Speakers will include Tariq Ali, the staunch socialist and writer, and deputy leader of the Green party, Amelia Womack.
 

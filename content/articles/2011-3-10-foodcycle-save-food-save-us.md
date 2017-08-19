@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102050-ks607-tomaiken.jpg"
 image_caption: >
-  
+
 image_width: "480"
 image_height: "640"
 image_attribution: ""
@@ -38,7 +38,7 @@ This began when she said “Hey, I’ve got this lab report to finish and I don�
 
 And I said, “Yea, sure”.
 
-F\*\*k! Writing a Felix article is a lot harder than I thought! Are there times to ignore a hot blonde? Yeah, sure, this was one of them. But I’m from Imperial and even after years of university (eight!) I still haven’t learnt anything helpful. OK, enough whining! My granddad always said, “Once you’ve put yourself in an embarrassing situation you will figure out how to succeed.” This article won’t be witty but it’ll talk about a damn good idea and that should be enough. I need to talk about FoodCycle.
+F**k! Writing a Felix article is a lot harder than I thought! Are there times to ignore a hot blonde? Yeah, sure, this was one of them. But I’m from Imperial and even after years of university (eight!) I still haven’t learnt anything helpful. OK, enough whining! My granddad always said, “Once you’ve put yourself in an embarrassing situation you will figure out how to succeed.” This article won’t be witty but it’ll talk about a damn good idea and that should be enough. I need to talk about FoodCycle.
 
 FoodCycle is an odd group of super enthusiastic, super-students that fight crime and work for humanity. You can see some members in the union Every Sunday afternoon cooking food for refugees. It is served to the refugees on Monday at the Notre Dame Drop-in Centre in Leicester Square. And they love it. They receive stir-frys, curries, veggie bakes, biscuits, fruit crumbles, salads… Did I mention it’s all veggie food? But it is good. (And we don’t actually fight crime, see [foodcycle.org.uk](http://foodcycle.org.uk)).
 

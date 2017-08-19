@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210125-tna08-bullet-to-the-head02.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 __Bullet to the Head__
 
-The plot is almost irrelevant in Sylvester Stallone’s latest action vehicle. Sly is the good guy out for revenge after his partner is murdered during a devious double-cross, there are some bad people working with should-be-good but corrupt people looking to do some dodgy deals, and as the film’s title suggests, there are many exploding heads thanks to some excellent aim. Trust no-one, shoot anyone who gets in your way, preferably in the face, and walk away having completed your mission.  
+The plot is almost irrelevant in Sylvester Stallone’s latest action vehicle. Sly is the good guy out for revenge after his partner is murdered during a devious double-cross, there are some bad people working with should-be-good but corrupt people looking to do some dodgy deals, and as the film’s title suggests, there are many exploding heads thanks to some excellent aim. Trust no-one, shoot anyone who gets in your way, preferably in the face, and walk away having completed your mission.
  It moves at a ridiculously quick pace, picking off one bad guy after another from a long list: Sly’s sidekick, Sung Kang, playing a police officer, has a knack for tracking people down with just a phone call. There’s friction initially, as James Bonomo (Stallone) is an assassin hired to hunt down and mercilessly kill for money, whereas Tyler Kwon (Kang) is a law-enforcer. There’s uncomfortable banter, Sly doesn’t have a problem taking jabs at Tyler’s Asian heritage, but soon they put their problems aside and it’s not long before the two start working together.
 
 Stallone and Kang certainly have an easy chemistry to pass as two leads in a buddy-cop bromance action film: Stallone and his deep growling voice is mighty talented when it comes to delivering corny one-liners that end in embarrassing chuckles, and Kang is convincing being everything that Stallone is not: i.e. strict, by-the-book and not very smooth when it comes to carrying out his job. Sarah Shahi, being the only woman in the cast guarantees that she will need some sort of rescuing help, which she of course does in the end.
@@ -46,13 +46,13 @@ No one else truly matters here: the bad guys consist of Adewale Akinnuoye-Agbaje
 Bodies stack up, chaos ensues, and there’s plenty of carnage. And Stallone shows he’s still got it at the age of 60+. Director Walter Hill, known for his male-dominated action, churns out yet another competent but not at all special feature that serves well as a highly entertaining, mindless but stupidly fun ride. – 3 Stars
 
 __The Last Stand__
-TODO: image from 
+TODO: image from
 Arnold Schwarzenegger returns to the big screen in a lead role and he does exactly what he does best: he uncomfortably mumbles through his dialogue (which has been restricted to the minimum), his thick accent is still there, but when the villains dare to disturb the peaceful town where he’s the head sheriff, Arnie gets his kit in gear, and starts running them down with his truck. That’s right, he said he’ll be back, and he is.
 
-The FBI is in a state of panic when notoriously dangerous drug lord Gabriel Cortez (Eduardo Noriega) escapes their rather flimsy custody. With an incredibly fast car, this skilled driver is heading for the Mexican border, to resume his usual practices and lead his cartel once more.  
+The FBI is in a state of panic when notoriously dangerous drug lord Gabriel Cortez (Eduardo Noriega) escapes their rather flimsy custody. With an incredibly fast car, this skilled driver is heading for the Mexican border, to resume his usual practices and lead his cartel once more.
  What does any of this have to do with Sommerton, Arizona? Cortez has come up with a brilliant idea to go through a small town, where he suspects there won’t be any resistance whatsoever, to make the smooth transition from the States into Mexico. His gang led by Thomas Burrell (Peter Stormare) are busy building a bridge across a narrow canyon, and since the FBI is absolutely useless when it comes to sorting things out on theirown (in the film, I mean), it’s up to the sheriff and his deputies to stop this mad man.
 
-Aside from Ray (Schwarzenegger), the others are not all that experienced. There’s Sarah (Jaimie Alexander), Mike (Luis Guzman), and Jerry (Zach Gilford), plus some unexpected help from Frank (Rodrigo Santoro) a jailed thief, and Lewis (Johnny Knoxville) who acts like a village idiot but someone you probably shouldn’t underestimate given what he keeps locked away in his garage.  
+Aside from Ray (Schwarzenegger), the others are not all that experienced. There’s Sarah (Jaimie Alexander), Mike (Luis Guzman), and Jerry (Zach Gilford), plus some unexpected help from Frank (Rodrigo Santoro) a jailed thief, and Lewis (Johnny Knoxville) who acts like a village idiot but someone you probably shouldn’t underestimate given what he keeps locked away in his garage.
  Not exactly the most ideal team to defend your town, but what we’ve got here is good enough it seems, and with Arnie on your team, there’s very little chance you’ll end up losing. There’s generally good build-up, if you exclude the obligatory blossoming romance subplot, and thanks to Knoxville and Guzman, there is casual humour to ease things along.
 
 Difficult to sit through is any sequence involvingGabriel Cortez, the antagonist, opening his mouth, spewing dialogue as if it were written for a children’s cartoon villain. Even worse is his female ride-along, Genesis Rodriguez, who doesn’t have much to say but when she does, you wish the excruciatingly clunky dialogue rides off as quickly as the car they’re driving in.

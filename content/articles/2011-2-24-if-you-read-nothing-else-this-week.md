@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241859-nm1010-pipipipi.jpg"
 image_caption: >
-  
+
 image_width: "517"
 image_height: "413"
 image_attribution: ""

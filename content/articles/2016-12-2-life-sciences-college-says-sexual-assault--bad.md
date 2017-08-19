@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 An email was sent out on Wednesday, to the Department of Life Sciences, informing recipients of a serious incident of sexual assault taking place last year between members of the department.
 
-The email was signed off by Professor Murray Selkirk \(Head of Department\), Professor Neil, Fairweather \(Postgraduate Tutor\), Dr Stuart Haslam \(Senior Tutor, Biochemistry\) and Professor Pietro Spanu \(Senior Tutor, Biological Sciences\).
+The email was signed off by Professor Murray Selkirk (Head of Department), Professor Neil, Fairweather (Postgraduate Tutor), Dr Stuart Haslam (Senior Tutor, Biochemistry) and Professor Pietro Spanu (Senior Tutor, Biological Sciences).
 
 The precise wording of the communication was: “It has come to light that, last year, a serious incident of sexual assault took place between students of our Department. The College and the Department of Life Sciences take the view that such behaviour is completely unacceptable.
  “We take this opportunity to remind you of the official college policies on this, as well as advice for anyone who may have been involved in any incident of this kind”

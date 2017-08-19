@@ -1,6 +1,6 @@
 ---
 title: >
-  Felix’s guide to surviving the zombie apocalypse 
+  Felix’s guide to surviving the zombie apocalypse
 subtitle: >
   brrraaaaaaaiiiiiiiinnnnnsssssss.....
 date: "2010-10-28 19:19:51 +0100"
@@ -58,7 +58,7 @@ Food and water will be in limited supply when the world goes to hell. Looters wi
 
 _CHUCK GREENE’S NUTRITIONAL NUGGET_:
 
-“Snack food and booze, snack food and booze... it’s like being a student again! Snack machines are common as muck, and booze is free to enjoy in any abandoned bar. Just try not to drink too much... ‘scuse me... \*blughhh...\*”
+“Snack food and booze, snack food and booze... it’s like being a student again! Snack machines are common as muck, and booze is free to enjoy in any abandoned bar. Just try not to drink too much... ‘scuse me... *blughhh...*”
 
 __4. Start your engines__
 

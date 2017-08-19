@@ -2,7 +2,7 @@
 title: >
   The worst movies of 2014 so far - The Legend of Hercules
 subtitle: >
-  The second film this year starring Kellan Lutz, trying to launch him as a credible leading man in Hollywood, although so far neither have done him any favours. Both are tanking in terms of making money, as well as failing to attract any kind of praise. 
+  The second film this year starring Kellan Lutz, trying to launch him as a credible leading man in Hollywood, although so far neither have done him any favours. Both are tanking in terms of making money, as well as failing to attract any kind of praise.
 date: "2014-06-02 12:56:58 +0100"
 id: "4644"
 old_path: /film/4644/the-worst-movies-of-2014-so-far---the-legend-of-hercules
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406021357-felix-legendherculesgladiator.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

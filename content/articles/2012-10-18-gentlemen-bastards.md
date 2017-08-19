@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182210-felix-lamora.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,5 +38,5 @@ Having been turned on to large scale heroic sword and sorcery fantasy by Patrick
 
 The Lies of Locke Lamora certainly did meet my expectations. Very well written for a debut novel, it had interesting and likeable characters and a fascinating setting in the city of Camorr, a Venice-like metropolis with scattered remnants of ancient buildings constructed of indestructible glass by a mysterious, long gone civilization. It dealt with complex and morally ambiguous themes of revenge. The plot was interesting and well developed, with several unexpected developments. While not reaching the depth and quality of Rothfuss’ work it was still a very good book.
 
-Red Seas Under Red Skies was more disappointing. While still having several good moments – Lamora’s heists are particularly interesting – the novel has a fatal flaw with in its characters. While in the first book our heroes resorted to some pretty unsavoury tactics to survive and get back at the men who killed some their friends here they continue behaving in the same way for seemingly no reason. Looking at the situation objectively they are clearly the villains of the story – their tactics are no better than that of their main opponent and their goals are far less noble. There would be nothing wrong with this if Lynch didn’t persist in portraying Lamora and his accomplices as the good guys. Instead of what could have been a thoughtful exploration of the consequences of the mistakes of the main characters the way the story is framed constantly presents them as the for the most part as innocent victims of circumstance.  
+Red Seas Under Red Skies was more disappointing. While still having several good moments – Lamora’s heists are particularly interesting – the novel has a fatal flaw with in its characters. While in the first book our heroes resorted to some pretty unsavoury tactics to survive and get back at the men who killed some their friends here they continue behaving in the same way for seemingly no reason. Looking at the situation objectively they are clearly the villains of the story – their tactics are no better than that of their main opponent and their goals are far less noble. There would be nothing wrong with this if Lynch didn’t persist in portraying Lamora and his accomplices as the good guys. Instead of what could have been a thoughtful exploration of the consequences of the mistakes of the main characters the way the story is framed constantly presents them as the for the most part as innocent victims of circumstance.
  Despite this large annoyance, the book remains very readable – I finished it off in a single weekend. I’ll certainly be buying the next novel when it comes out – I hope that it will turn out that the second novel is just a small blip in what is a very promising series.

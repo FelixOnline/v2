@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110280104-sjw209-john-raftery-cutout.jpg"
 image_caption: >
-  
+
 image_width: "250"
 image_height: "259"
 image_attribution: ""
@@ -39,7 +39,7 @@ In last week’s edition of Felix, the comment piece [‘The Hell of Heaven’](
 > I’m talking about deep intimacy, beauty that stops you in your tracks, and pints with a good mate.
 Many people brought up in the UK will be at least vaguely familiar with the Christian perspective on the afterlife. When asked what heaven is like, many people talk of a soul leaving the body and floating away like a balloon to an ethereal, static and mind-numbingly boring existence. By contrast, the Bible’s picture of eternity is much more real and concrete than the Platonic view we’re often presented with. The Bible asserts that God will bring about what Christians call the New Creation: a physical place that is similar to the old universe, but better. Similarly, we won’t spend all eternity as body-less entities; in the New Creation we’re given new bodies that are similar to the old ones, but better:
 
-_The trumpet will sound, and the dead will be raised imperishable, and we shall be changed. For this perishable body must put on the imperishable, and this mortal body must put on immortality. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?”  
+_The trumpet will sound, and the dead will be raised imperishable, and we shall be changed. For this perishable body must put on the imperishable, and this mortal body must put on immortality. When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory. O death, where is your victory? O death, where is your sting?”
  (1 Corinthians 15:52-55, The Bible)_
 
 Secondly, we won’t spend our time endlessly prostrating and grovelling. In this life we go about our work, build friendships, have adventures and experiments. These good things continue in the New Creation, except that all the drudgery and frustration of work will be banished. The phrase “all good things come to an end” is turned on its head: no good thing comes to an end. Think of the very best that this world has to offer; that which makes life worth living. I’m talking about deep intimacy, beauty that stops you in your tracks, and pints with a good mate. If there is a God, all these things were his idea! So if God has gone to the trouble of giving us such good things to enjoy, why would he then take them away when we get to heaven?

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -43,7 +43,7 @@ Siri, however, proved to be the star of the show. The assistant, originally crea
 
 Otherwise, reactions to the new iDevice were mixed. While Apple has managed to raise the bar in some way at every iteration of the iPhone, this update put it squarely where other competing Android devices have been for the last few months.
 
-The fact is that after the minor price cut, Apple is competing directly with Samsung and Motorola on price, a position it isn’t holding in any other markets. This is probably indicative of how important Apple finds it to get these devices into people’s hands - with Android phones quantitatively outstripping iOS devices by a large margin, Apple will not want to lose out on the steady revenue stream of a strong app market.  
+The fact is that after the minor price cut, Apple is competing directly with Samsung and Motorola on price, a position it isn’t holding in any other markets. This is probably indicative of how important Apple finds it to get these devices into people’s hands - with Android phones quantitatively outstripping iOS devices by a large margin, Apple will not want to lose out on the steady revenue stream of a strong app market.
  Also worth a mention is Apple’s refresh of the iPod lineup, which sees the Nano now available as a watch and the Touch available in both black and white with a storage upgrade to 64GB.
 
 Given Apple’s strong fanbase it would be foolish not to expect the regular queues for the 4S in a week’s time, but whether you buy one of the new 4Ss or not will likely depend on where you lean on the Android/Apple debate. In case you’re an Apple fan, this is probably a good chance to refurbish your phone to give it some top-notch speed and graphical goodness; in case you’re not, look up the Samsung Galaxy S II for a similar specification at a similar price, or wait for Samsung’s ‘Something BIG’ event next week, which will probably reveal the Nexus Prime in all it’s cutting edge glory.

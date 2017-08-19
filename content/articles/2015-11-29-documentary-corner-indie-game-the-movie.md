@@ -2,7 +2,7 @@
 title: >
   Documentary Corner: Indie Game: The Movie
 subtitle: >
-  Another week, another documentary. This time it's one looking at the burgeoning indie gaming market 
+  Another week, another documentary. This time it's one looking at the burgeoning indie gaming market
 date: "2015-11-29 16:24:24 +0000"
 id: "5779"
 old_path: /film/5779/documentary-corner-indie-game-the-movie
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- -   
+ -
 imported: true
 ---
 

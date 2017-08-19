@@ -44,7 +44,7 @@ The atmosphere of the place really added to its charm. Throughout the evening, t
 
 Budget-wise, the restaurant was more than reasonable, even quite cheap for the quality of the food. The burger was £7, as are all the pizzas on the menu (they looked and smelt fantastic). The wine was £4 a glass, but there were cheaper drinks available. Overall, you could easily eat for a tenner; push it to £15–£20 and you could also enjoy a great starter of antipasti or houmous. There are also pasta dishes and hot sandwiches. Soho Joe offers a good priced and delicious meal in a friendly atmosphere – good for groups, too.
 
-Soho Joe  
- 22-25 Dean Street  
- London W1D 3RY  
+Soho Joe
+ 22-25 Dean Street
+ London W1D 3RY
  www.sohojoe.net

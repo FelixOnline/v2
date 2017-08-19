@@ -2,7 +2,7 @@
 title: >
   How clips from Hollywood movies could liven up news footage
 subtitle: >
-  What other situations could be covered with blockbuster film footage? 
+  What other situations could be covered with blockbuster film footage?
 date: "2011-02-10 21:12:21 +0000"
 id: "796"
 old_path: /comment/796/how-clips-from-hollywood-movies-could-liven-up-news-footage
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

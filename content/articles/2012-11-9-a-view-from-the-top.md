@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091146-tna08-amanda-rgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ Having finished University in the 80s, Amanda began her career at Guardian Royal
 
 “Big organisations are never boring, because there’s always something different you could be doing,” Amanda states.
 
-Amanda’s career history also includes an impressive 10 years running large outsourcing accounts for IBM, and a brief stint at Japanese ICT company Fujitsu.  
+Amanda’s career history also includes an impressive 10 years running large outsourcing accounts for IBM, and a brief stint at Japanese ICT company Fujitsu.
  Today, Amanda is atthe world leading IT company CSC where manages the operations of the company’s sales department based on a model she created from scratch.
 
 “I’m good at realigning businesses that are not performing, and transforming business from one state to another. A lot people can strategize and create a plan, but it’s a different skill set to be able to take that plan and execute it. I’m all about execution.”
@@ -87,6 +87,6 @@ Continuing, Amanda says, “psychologically if there’s an opportunity for prog
 
 Women don’t push as hard, we don’t have conversations with our bosses about our next role and our career development plan. But, if you sit and wait, you get passed by. It’s our psyche we have to manage in order to progress rather then the company holding us down. If you’ve got the skills for the job, you should go for it.”
 
-Read more at:  
+Read more at:
 [www.title-mag.com](http://title-mag.com/amanda-brumpton/)
-TODO: image from 
+TODO: image from

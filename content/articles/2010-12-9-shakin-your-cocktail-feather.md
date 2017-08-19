@@ -2,7 +2,7 @@
 title: >
   Shakin’ your cocktail feather
 subtitle: >
-  Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman 
+  Letting your hair down, sippin’ on cocktails. By Peter Quicke and Jamie Rickman
 date: "2010-12-09 19:53:54 +0000"
 id: "511"
 old_path: /food/511/shakin-your-cocktail-feather
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012091950-ac1507-cocktail.jpg"
 image_caption: >
-  
+
 image_width: "372"
 image_height: "640"
 image_attribution: ""

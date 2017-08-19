@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131916-ks607-clothes.jpg"
 image_caption: >
-  
+
 image_width: "1733"
 image_height: "2362"
 image_attribution: ""

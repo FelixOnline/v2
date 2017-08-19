@@ -2,7 +2,7 @@
 title: >
   All-male Swan Lake makes ballet history
 subtitle: >
-  Dance newbies: this is not frilly dresses and satin shoes. You will be exposed to raw power, unsettling emotions and unsettling scenes. 
+  Dance newbies: this is not frilly dresses and satin shoes. You will be exposed to raw power, unsettling emotions and unsettling scenes.
 date: "2014-01-17 03:47:05 +0000"
 id: "4240"
 old_path: /arts/4240/all-male-swan-lake-makes-ballet-history
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

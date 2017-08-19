@@ -1,6 +1,6 @@
 ---
 title: >
-  Stem cells aid recovery from stroke 
+  Stem cells aid recovery from stroke
 subtitle: >
   Sarah Byrne investigates a new, fat-derived stem cell therapy
 date: "2013-02-07 23:26:32 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302072326-tna08-human_embryonic_stem_cell_colony_phase.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

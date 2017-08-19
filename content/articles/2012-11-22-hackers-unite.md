@@ -1,6 +1,6 @@
 ---
 title: >
-  Hackers Unite! 
+  Hackers Unite!
 subtitle: >
   Sam Wong introduces Imperial’s very own Hackathon
 date: "2012-11-22 23:11:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222311-tna08-social_network_jesse_eisenberg_04.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

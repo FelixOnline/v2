@@ -42,19 +42,19 @@ The Paranormal Activity franchise and The Devil Inside are the two main films th
 
 We get fart jokes, sex jokes, defecation, misogyny and homophobia, and no matter how hard everyone tries, it’s Wayans’ constantly over-the-top performance that gets quickly tiresome and a long list of jokes that never really stick. Forte has moments as the Hispanic maid, but not enough.
 
-Much like the films it wants to make fun of, there’s too much time lingering over nothing, and often you want the film to just get on with it and make us laugh.  
+Much like the films it wants to make fun of, there’s too much time lingering over nothing, and often you want the film to just get on with it and make us laugh.
  Sadly the laughs never do come, and thankfully when it’s all over in 86 minutes, you’ll want to avert your eyes and attention to something of more quality. Let’s just say, it’s worse than the Scary Movie films – now that’s a pretty new low. – 1 Star
 
 __Bachelorette__
 
 This year’s Bridesmaids? Not quite, but it’s a wedding comedy that can proudly stand on its own two feet. It’s funny, filthy, and bold, with quirky, unlikable but redeemable characters played by actors who can handle comedy.
 
-High school best friends Regan (Dunst), Gena (Caplan) and Katie (Fisher) are shocked to hear their plus-sized “friend” Becky (Wilson) is getting married, before any of them.  
+High school best friends Regan (Dunst), Gena (Caplan) and Katie (Fisher) are shocked to hear their plus-sized “friend” Becky (Wilson) is getting married, before any of them.
  They all come together, not having grown up one bit since their high school days, wanting to get drunk and high living up to their glory years.
 
 What’s difficult is that the world has moved on and they haven’t. It’s difficult to see just how these three navigated their way through life after their teenage years, but when such dynamic characters come together, you know you’ll get trouble.
 
-A stupid, drunken evening leads to a ripped wedding dress, which is every bride’s worst nightmare. The good news is, Becky has no idea, and they have until the next morning to get this fixed.  
+A stupid, drunken evening leads to a ripped wedding dress, which is every bride’s worst nightmare. The good news is, Becky has no idea, and they have until the next morning to get this fixed.
  They find new love and renewed friendships along the way, and perhaps finally, the three will snap out of their fantasy lives and grow up. And there’s fun to be had getting there. – 4 Stars
 
 __Stand Up Guys__

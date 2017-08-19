@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111110955-felix-umair-aasem.jpg"
 image_caption: >
-  
+
 image_width: "1542"
 image_height: "1300"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Very sensible words indeed Let this be an eyeopener for us to start thinking for the betterment of the greater part of usThought provokingYou could interpret that last quote in many ways Submitting to God appears to be servitude in my eyes only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean 
+ - Very sensible words indeed Let this be an eyeopener for us to start thinking for the betterment of the greater part of usThought provokingYou could interpret that last quote in many ways Submitting to God appears to be servitude in my eyes only in the freedom provided by an existence unencumbered by the trivialities of worship and faith can life be truly a boundless ocean
 imported: true
 ---
 

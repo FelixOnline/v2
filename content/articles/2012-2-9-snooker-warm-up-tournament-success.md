@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -70,7 +70,7 @@ However, after nicking the second frame on the final black, breaks of 20 and 24 
 
 Although Nasim went on to lose to Green, who later claimed victory in the final, such was the nature of his achievement that six other team members missed the last train back to London in order to watch the semi final clash.
 
-Many thanks should go to Warwick University Snooker Club for organising such a great tournament.  
+Many thanks should go to Warwick University Snooker Club for organising such a great tournament.
  Moreover, after some fantastic performances, especially from Nasim and a second team fielding three debutants, hopes of further success at the season-ending BUCS Snooker Championships are sky-high. Can Imperial defend their Team Trophy and complete a hat-trick of titles?
 
 On this evidence, why not?

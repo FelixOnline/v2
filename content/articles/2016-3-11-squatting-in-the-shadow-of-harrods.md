@@ -37,9 +37,9 @@ imported: true
 
 If you think the squat movement is dead, perhaps you should reconsider because there’s one right on our doorstep, at 221 Brompton Road, just a few streets from Harrods.
 
-The former sushi restaurant, now pop\-up community centre, has been open for just over a week but will probably be boarded back up by Saturday, after being served eviction papers.
+The former sushi restaurant, now pop-up community centre, has been open for just over a week but will probably be boarded back up by Saturday, after being served eviction papers.
 
-The squat is an initiative of the Radical Housing Network, self\-identified as a “network of groups fighting for housing justice, based in London”. The space, which must be constantly occupied to stave off eviction, has been turned into a warm and welcoming social hub aiming to spread the word.
+The squat is an initiative of the Radical Housing Network, self-identified as a “network of groups fighting for housing justice, based in London”. The space, which must be constantly occupied to stave off eviction, has been turned into a warm and welcoming social hub aiming to spread the word.
 
 “We’re using this building to draw attention to the housing crisis. We’re in one of the richest parts in London which is one of the richest places of the world and there’s massive inequality here. There’s loads of really expensive properties which are left empty so someone can make money out of them, while there’s lots people who don’t have a home at all”, says Christine, one of the network’s members.
 

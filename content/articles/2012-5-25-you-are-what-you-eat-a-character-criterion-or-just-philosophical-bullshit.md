@@ -2,7 +2,7 @@
 title: >
   “You are what you eat”: A character criterion or just philosophical bullshit?
 subtitle: >
-  Renos Karamanis analyses Imperial’s food habits. 
+  Renos Karamanis analyses Imperial’s food habits.
 date: "2012-05-25 18:11:35 +0100"
 id: "2496"
 old_path: /food/2496/you-are-what-you-eat-a-character-criterion-or-just-philosophical-bullshit
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205251911-mc4509-screen-shot-2012-05-23-at-9.10.03-pm.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Ioanna Kalogeraki"
@@ -44,7 +44,7 @@ Next eating type: Asian! I personally love delicacies such as sweet and sour or 
 
 What’s next? The “Cholesterolian’’. The description of this eating type is quite obvious. Cholesterolians simply eat pizza, burgers, fried chicken and all kinds of fast food only, at a regular day to day basis. One thing to note is that a Cholesterolian’s excuse for this is the fact that there is no time to cook. WHAT? SERIOUSLY? My dear Cholesterolians, feeding yourself is not something that just appears on your schedule to waste your time, it’s something you do for your own good!
 
-We are now moving to a very common eating type at Imperial. This paragraph describes the “Sandwich Nerd’’. In my mind’s dictionary, the Sandwich Nerd only eats sandwiches from the Central Library or JCR day and night as he or she literally studies all the time. Why all the time? People of this category may be buried under the illusion that if they don’t study enough in order to get an A or A\*, they are Imperial failures. As you might probably know, some of the Sandwich Nerds actually live in the Central Library (but they still pay rent for a flat!). It’s a pity, isn’t it? Sandwich Nerds may like and actually be good at other things like music, sports or dancing and be talented but put them aside as “there is no time for those’’. Therefore, they are most of times unhappy and complain about Imperial life. I would describe this attitude as ironic. Why complain about Imperial life while it is your own responsibility to find the correct balance of curricular and extracurricular activities that makes you happy? After all, getting a 2:1 will definitely not ruin your future career. What’s more tragic, is the fact that Sandwich Nerds have no idea that they are drowning in the sea of pointless academic success.
+We are now moving to a very common eating type at Imperial. This paragraph describes the “Sandwich Nerd’’. In my mind’s dictionary, the Sandwich Nerd only eats sandwiches from the Central Library or JCR day and night as he or she literally studies all the time. Why all the time? People of this category may be buried under the illusion that if they don’t study enough in order to get an A or A*, they are Imperial failures. As you might probably know, some of the Sandwich Nerds actually live in the Central Library (but they still pay rent for a flat!). It’s a pity, isn’t it? Sandwich Nerds may like and actually be good at other things like music, sports or dancing and be talented but put them aside as “there is no time for those’’. Therefore, they are most of times unhappy and complain about Imperial life. I would describe this attitude as ironic. Why complain about Imperial life while it is your own responsibility to find the correct balance of curricular and extracurricular activities that makes you happy? After all, getting a 2:1 will definitely not ruin your future career. What’s more tragic, is the fact that Sandwich Nerds have no idea that they are drowning in the sea of pointless academic success.
 
 Contrary to the last two eating types, the next eating type appears to be the one I would like to be. I call this type the “Lucky One’’. Being a Lucky One implies that you have your friends cooking for you all the time! How great is that? It is like an Imperial “mum version’’, with the friends being your flat mates, friends that live in your hall, a boyfriend, a girlfriend or just a friend with benefits. The Lucky One most probably has no idea of cooking, which is a reasonable conclusion as he or she never cooks. There is one major advantage and one major drawback about the Lucky One. The negative side is that if a person doesn’t know how to cook, then that person can’t survive alone (unless eating ready meals from supermarkets). I believe this fact can describe the Lucky One as a slightly immature person or not yet an adult to be fair. On the other hand the positive thing about the Lucky One is that is a very approachable person. A Lucky One has many friends, or at least he or she has some very good friends. Why? Who is cooking for the Lucky One? FRIENDS! Now if I try to do some chemistry here, adding the approachability with the immaturity, we have a person who is very sensitive!
 

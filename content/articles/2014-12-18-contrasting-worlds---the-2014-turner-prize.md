@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501212229-ps3110-turner-prize---ciara-phillips-things-shared-2014---courtesy-tate-photography.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505041714-ps3110-studentvoting.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I pledge TO VOTE AGAINST ANY INCREASE IN FEES in the next parliament and to pressure  the government to introduce A FAIRER ALTERNATIVEThat is what Nick Clegg said Many stupidly believed him and voted Now we pay 9k a yearIts not just a oneoff history is full of examples of politicians lying to get elected Voters cant do anything except put up with it until another politician comes along saying THIS TIME it will be differentActually we CAN hold the system to account without voting the best way I can see is emigration Deny the politicians your future labour deny them your tax revenue deny them your participation in economic social and cultural life Emigrate because you can put behind you this shitty UK housing sector Emigrate because there are other better managed countries which are run in the interests of the many and not the fewOne election day I will be researching the country I want to emigrate to after my degree That is a far better use of my timeThis picture is 
+ - I pledge TO VOTE AGAINST ANY INCREASE IN FEES in the next parliament and to pressure  the government to introduce A FAIRER ALTERNATIVEThat is what Nick Clegg said Many stupidly believed him and voted Now we pay 9k a yearIts not just a oneoff history is full of examples of politicians lying to get elected Voters cant do anything except put up with it until another politician comes along saying THIS TIME it will be differentActually we CAN hold the system to account without voting the best way I can see is emigration Deny the politicians your future labour deny them your tax revenue deny them your participation in economic social and cultural life Emigrate because you can put behind you this shitty UK housing sector Emigrate because there are other better managed countries which are run in the interests of the many and not the fewOne election day I will be researching the country I want to emigrate to after my degree That is a far better use of my timeThis picture is
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251303-srg03-CellBoot.jpg"
 image_caption: >
-  
+
 image_width: "525"
 image_height: "450"
 image_attribution: ""

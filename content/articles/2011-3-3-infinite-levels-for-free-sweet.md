@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103030618-ks607-day4make.jpg"
 image_caption: >
-  
+
 image_width: "422"
 image_height: "422"
 image_attribution: ""

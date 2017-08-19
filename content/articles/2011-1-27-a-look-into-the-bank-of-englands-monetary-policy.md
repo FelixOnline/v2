@@ -1,8 +1,8 @@
 ---
 title: >
-  A look into the Bank of England’s monetary policy 
+  A look into the Bank of England’s monetary policy
 subtitle: >
-  Shiang Jin Chin argues that the central bank’s critics on the right are wrong to advocate fiscal tightening in the midst of a weak economy and high unemployment 
+  Shiang Jin Chin argues that the central bank’s critics on the right are wrong to advocate fiscal tightening in the midst of a weak economy and high unemployment
 date: "2011-01-27 19:30:28 +0000"
 id: "670"
 old_path: /biz/670/a-look-into-the-bank-of-englands-monetary-policy-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271928-ks607-mintmint.jpg"
 image_caption: >
-  
+
 image_width: "1772"
 image_height: "1181"
 image_attribution: ""

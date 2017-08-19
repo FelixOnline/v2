@@ -1,6 +1,6 @@
 ---
 title: >
-  Best position? On Albertopolis 
+  Best position? On Albertopolis
 subtitle: >
   Tim Arbabzadah talks to ex-Imperial student and TEDx organiser Kadhim Shubber about organising TEDxAlbertopolis
 date: "2013-06-05 17:56:49 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306051855-tna08-tedxalbrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - With the TEDx events at Imperial and Albertopolis exploring the relationship between art creativity and science how are they critically looking at these issues and using the history of the college in terms of its great teacher and Dean Prof Huxley and his famous student HGWells whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as Raze Imperial to the ground That was the verdict of the debate held last Tuesday on the motion This house believes that Imperial College is a threat to liberal education as fought for by Professor THHuxley and should be razed to the ground The debate was chaired by Mr Eric Stables head of the Humanities department 
+ - With the TEDx events at Imperial and Albertopolis exploring the relationship between art creativity and science how are they critically looking at these issues and using the history of the college in terms of its great teacher and Dean Prof Huxley and his famous student HGWells whose ideas resulted in a debate at the college reported in Felix on Friday 25th May 1990 as Raze Imperial to the ground That was the verdict of the debate held last Tuesday on the motion This house believes that Imperial College is a threat to liberal education as fought for by Professor THHuxley and should be razed to the ground The debate was chaired by Mr Eric Stables head of the Humanities department
 imported: true
 ---
 

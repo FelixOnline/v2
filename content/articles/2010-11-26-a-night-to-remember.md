@@ -2,7 +2,7 @@
 title: >
   A night to remember
 subtitle: >
-  The opening of the Union’s new club Metric goes off with a bang 
+  The opening of the Union’s new club Metric goes off with a bang
 date: "2010-11-26 07:24:37 +0000"
 id: "451"
 old_path: /news/451/a-night-to-remember
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011260951-ks607-metricla.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Kadhim Shubber"

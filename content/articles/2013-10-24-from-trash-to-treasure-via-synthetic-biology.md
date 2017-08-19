@@ -54,5 +54,5 @@ We have engineered E.coli to produce the bioplastic poly-3-hydroxybutyrate (PHB)
 
 iGEM is not just about the science. It is also a hotbed of creativity where the teams are encouraged to think about how their projects will impact on the world. This is all towards the goal of responsible innovation; ensuring that the technologies are causing more good than harm. Our system is designed to work at an industrial scale but we have also looked at how our world might look in the future, when waste is seen as a precious resource. We have designed a concept home bioreactor linked to a 3D printer, directly turning your waste into brand new objects. Maybe in the future you won’t have to take the bin bag out, but instead you will be able to print some new shoes!
 
-You can find out more about our project here: [2013.igem.org/Team:Imperial\_College](http://2013.igem.org/Team:Imperial_College)  
+You can find out more about our project here: [2013.igem.org/Team:Imperial\_College](http://2013.igem.org/Team:Imperial_College)
  and more about the best from each region here: [2013.igem.org/Jamborees](http://2013.igem.org/Jamborees)

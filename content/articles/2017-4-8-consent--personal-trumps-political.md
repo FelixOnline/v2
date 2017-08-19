@@ -1,8 +1,8 @@
 ---
 title: >
-  Consent | Personal trumps political 
+  Consent | Personal trumps political
 subtitle: >
-  The National Theatre production teases wider themes of treatment of rape survivors by the criminal justice system 
+  The National Theatre production teases wider themes of treatment of rape survivors by the criminal justice system
 date: "2017-04-08 21:02:29 +0100"
 id: "6924"
 old_path: /arts/6924/consent--personal-trumps-political-

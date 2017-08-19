@@ -36,8 +36,8 @@ imported: true
 
 __1. I shall not skip breakfast again__
 
-You might have been told over and over again about breakfast being important. But it’s damn true: breakfast is the most important meal of the day and without it you’re like Justin Bieber without a fringe.  
- People tend to miss breakfast either because they’re in a rush or because they think that this will help them lose weight. Either way, lack of energy and gain of weight will be the inevitable results.  
+You might have been told over and over again about breakfast being important. But it’s damn true: breakfast is the most important meal of the day and without it you’re like Justin Bieber without a fringe.
+ People tend to miss breakfast either because they’re in a rush or because they think that this will help them lose weight. Either way, lack of energy and gain of weight will be the inevitable results.
  When you wake up, your body has been without fuel for about 8-9 hours (for Imperial students, 5-6 hours). Refueling properly will help you function efficiently and perform as best as you can.
 
 __2. I shall not waste food__
@@ -50,24 +50,24 @@ The corner shop can destroy you health-wise. There are plenty of reasons to avoi
 
 __4. I shall drink more wine...__
 
-...responsibly.   
+...responsibly.
  Wine has a strong personality other drinks don’t have. Whether you’re having steak, chicken, fish, pasta, or even just a salad, a glass of the appropriate wine does make a difference. Do your research, compare prices, and you will see that the options are limitless.
 
 __5. I shall grill, not fry__
 
-Fried chicken, fried bacon, fried sausages, fried eggs. You gotta love ‘em. However, it’s 2012 and this is a resolution to be respected. Grilled food is generally healthier than fried. When you fry food in butter or vegetable oils you receive a big amount of extra saturated and trans fat, both of which are no good.  
- On the other hand, when you grill food, chances are you will use a marinara instead of other sauces to give taste which is again healthier. Also, excess fat will slip through the grooves in the grill compared to the fry-pan where all the fat stays (and makes the food delicious).  
-  
+Fried chicken, fried bacon, fried sausages, fried eggs. You gotta love ‘em. However, it’s 2012 and this is a resolution to be respected. Grilled food is generally healthier than fried. When you fry food in butter or vegetable oils you receive a big amount of extra saturated and trans fat, both of which are no good.
+ On the other hand, when you grill food, chances are you will use a marinara instead of other sauces to give taste which is again healthier. Also, excess fat will slip through the grooves in the grill compared to the fry-pan where all the fat stays (and makes the food delicious).
+
 __6. I shall take advantage of my family__
 
 Make a list of meals you can’t cook by yourself either because you’re incompetent or just because you “can’t be bothered” but your mother, sister, grandmother or anyone else in your family do well. Once the term ends and relief hits you what better than enjoy hot, fat, homemade food?
 
 __7. I shall cook more__
 
-Cooking can be very creative and most importantly it can be stress relieving.  
- Following or even creating your own recipe makes you forget anything outside the kitchen. Presenting and tasting your dish will fill you with a feeling of pride and happiness.  
- Try baking a cake. Decorate it. Show it to your friends, maybe offer them a piece or two. Enjoy it in the morning with coffee, tea or milk.  
- Tip: Try new recipes: attempt to make it lighter by using fewer eggs and less butter, or even no eggs at all. Avoid icing and other toppings; they will just fatten the cake without adding any special taste. Use fresh or compote fruits, like strawberries and pinneapple.  
+Cooking can be very creative and most importantly it can be stress relieving.
+ Following or even creating your own recipe makes you forget anything outside the kitchen. Presenting and tasting your dish will fill you with a feeling of pride and happiness.
+ Try baking a cake. Decorate it. Show it to your friends, maybe offer them a piece or two. Enjoy it in the morning with coffee, tea or milk.
+ Tip: Try new recipes: attempt to make it lighter by using fewer eggs and less butter, or even no eggs at all. Avoid icing and other toppings; they will just fatten the cake without adding any special taste. Use fresh or compote fruits, like strawberries and pinneapple.
  Once you have perfected your cake send your recipe at __[food.felix@imperial.ac.uk](mailto:food.felix@imperial.ac.uk?subject=I%20haz%20a%20recipe)__.
 
 __8. I shall go out__
@@ -76,7 +76,7 @@ Let’s face the facts: Firstly, you live in London. Secondly, you study in Sout
 
 __9. I shall have a full fridge__
 
-No, I don’t mean hitting the supermarket, spending £100 and filling up your fridge. Keep your fridge ‘updated’ with healthy foods. Always have milk, fruits, vegetables, mustard (which is low in fat), low fat cheese (e.g. mozzarella), eggs etc. That way, even if you get back from college late at night, or you’re too bored to go to the supermarket, you won’t get into the temptation of ordering a delivery and making a snack with what you have.  
+No, I don’t mean hitting the supermarket, spending £100 and filling up your fridge. Keep your fridge ‘updated’ with healthy foods. Always have milk, fruits, vegetables, mustard (which is low in fat), low fat cheese (e.g. mozzarella), eggs etc. That way, even if you get back from college late at night, or you’re too bored to go to the supermarket, you won’t get into the temptation of ordering a delivery and making a snack with what you have.
 _Tip_: Fill your fridge every once or twice a week according to your diet and needs and try to have it emptied by the end of the week. Your goal is to receive the correct amount of fruits, vegetables, milk and other foods you always neglect to get.
 
 __10. I shall contribute to the Food Section__

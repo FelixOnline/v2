@@ -1,6 +1,6 @@
 ---
 title: >
-  How much support does Imperial provide? 
+  How much support does Imperial provide?
 subtitle: >
   There are many places to get help at Imperial
 date: "2010-12-02 21:40:24 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022136-ks607-deniswri.jpg"
 image_caption: >
-  
+
 image_width: "339"
 image_height: "506"
 image_attribution: ""

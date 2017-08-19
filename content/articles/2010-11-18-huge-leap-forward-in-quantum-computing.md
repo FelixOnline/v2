@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182011-ks607-sciences.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "355"
 image_attribution: ""

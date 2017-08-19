@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310200259-jal08-pullout_careers_university-of-birmingham--008.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "University of Birmingham"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Graduation is a time for celebration, to reflect on the years you have spent working hard to achieve your goals both academically, personally and ultimately to move onto the next stage of your life. Your time with us at Imperial will have equipped you with a world class education and also exposed you to lots of opportunities to develop your key skills that will make you employable in the future.  
+Graduation is a time for celebration, to reflect on the years you have spent working hard to achieve your goals both academically, personally and ultimately to move onto the next stage of your life. Your time with us at Imperial will have equipped you with a world class education and also exposed you to lots of opportunities to develop your key skills that will make you employable in the future.
  Your final year will have been a time of consolidation of all the hard work you have put in, and will also have been the time to look forward. Forward to the opportunity that now presents itself in terms of your future career, whether that is in the workplace or remaining in academia.
 
 Of course, not all of you will be fixed up yet. This could be due to you wishing to travel and explore the world a little more before you settle down. You may want to gain further experience by volunteering or getting involved in your local area to enhance your transferable skills further while you take a bit more time to decide on your career path. Whatever your reasons, the Careers Service does not stop supporting you after you graduate. Imperial alumni can make use of the Careers Service for up to 3 years after they graduate. This will enable you to continue to access Jobslive and the thousands of opportunities that are on there. You can also continue to use the range of on-line resources available on the Careers Service webpages. If you need to speak to a Careers Consultant this can be arranged, either in person or by making a Skype appointment. To continue to benefit from the support that the Careers Service can offer, you simply need to register as an alumnus via the Careers Homepage (www3.imperial.ac.uk/careers).

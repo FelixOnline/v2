@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110070211-sjw209-269763_10150238996223759_608118758_7515553_6632009_n.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "480"
 image_attribution: ""

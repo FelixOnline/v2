@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061200-felix-5615772569_70df24fe10_b.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: "flickr/halfmadhalfinsane"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-_[The Barbican](http://www.barbican.org.uk/)  
+_[The Barbican](http://www.barbican.org.uk/)
  Monday 11th April_
 
 Little Scream opened the show for [José González](http://www.jose-gonzalez.com/) with The Göteborg String Theory. A fairly unknown artist; at first shy and inverted, and very much in front of a judging panel as I doubt many of us in the audience had come for her – but who, immediately, grabbed our attention with her vocals. Quivering and modest, and then living up to her stage name, her songs were quietly powerful and deeply stirring. As part of a solo live show which more than filled the Barbican hall, [Little Scream](http://www.myspace.com/officiallittlescream) performed with a stamping foot as a drum, a cocktail of pedals as a band and a high tech microphone as backing singers. With a few awkward jokes thrown in, and some humble comments about ‘playing a rough show’ and jetlag, and music that could cut to the heart of us, we had all fallen in love with her by the end of her short set.

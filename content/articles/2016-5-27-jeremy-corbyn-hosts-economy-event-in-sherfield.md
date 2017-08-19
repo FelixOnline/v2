@@ -36,7 +36,7 @@ imported: true
 
 Last Saturday, members of the Labour party gathered in the Sherfield great hall to discuss the future of the British economy.
 
-The great hall, where exams have been happening all week, was transformed into a Labour love\-in, while party activists, journalists and MPs wondered around the Sherfield building discussing economic policy. The event was a private one, with Imperial renting out the space to the party for a fee.
+The great hall, where exams have been happening all week, was transformed into a Labour love-in, while party activists, journalists and MPs wondered around the Sherfield building discussing economic policy. The event was a private one, with Imperial renting out the space to the party for a fee.
 
 The focus of the day was firmly on the economy; speakers discussed Labour’s ‘new economics’ with a focus on wealth and its distribution. Jeremy Corbyn told activists that wealth creation itself was not a bad thing as “we all want greater prosperity” but that there must be a greater focus on how that wealth is created and shared.
 

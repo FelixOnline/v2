@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250115-felix-arts-shunga.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "ISRAEL GOLDMAN COLLECTION"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-So the British Museum is putting on an exhibition on Japanese pornography? Is that even allowed?!  
+So the British Museum is putting on an exhibition on Japanese pornography? Is that even allowed?!
  Cast away your narrow western minds and think again. For that’s what this exhibition will do — make you think again.
 
 So first things first – what is Shunga? Developed in the early 17th century, Shunga (meaning “spring pictures”) is Japanese erotic art, produced by well-known artists for the enjoyment of Japanese people of all classes. From gilded scrolls to printed booklets, Shunga was available to all, and enjoyed by middle class newlyweds as much as high flying Samurais. They depict erotic scenes of various types, and with differing levels of explicitness and conventionality.

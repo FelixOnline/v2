@@ -2,7 +2,7 @@
 title: >
   Volunteering on top of the world
 subtitle: >
-  Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure 
+  Canoeing with crocodiles, bamboo bungee-jumping and mad motorists – Luke Sanders on an exhilarating Nepalese adventure
 date: "2011-10-27 23:16:21 +0100"
 id: "1620"
 old_path: /travel/1620/volunteering-on-top-of-the-world

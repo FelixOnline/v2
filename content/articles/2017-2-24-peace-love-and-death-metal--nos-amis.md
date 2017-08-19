@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702241512-felix-eagles_of_death_metal-_nos_amis_our_friends_still.jpg"
 image_caption: >
-  
+
 image_width: "1296"
 image_height: "730"
 image_attribution: "HBO"
@@ -47,4 +47,4 @@ Following the story of the formation of the Eagles of Death Metal, which again h
 
 It codifies what Jesse talks about throughout, the fact that they were all in this together and consequently how he feels responsibility for it. We also alternate between Josh’s and Jesse’s stories of the night; Jesse as he struggles to escape, and Josh as he finds out about the incident and tries desperately to do something about it. As these parallel odysseys unfold, each party’s feelings of guilt over the night become clear. Whilst Hughes experiences survivor’s guilt, Homme feels guilt over not having been there to watch over Jesse, as he always has before. That this man and this band, who have made fun and simplicity their vocation, must know find themselves in the midst of such complexity and tragedy, is unfortunate.
 
-There’s plenty of star power to be found here, as the documentary even manages to get an appearance from Bono. It goes without saying that the feature has a kick\-ass soundtrack, sampling not only EoDM’s three albums, but also QotSA’s extensive discography. This is, undoubtedly one of the most poignant and well\-crafted documentaries of the year. While fans will of course enjoy it, the wider audience may actually gain more out of it; getting to see for themselves the larger\-than\-life people we already know Josh and Jesse to be.
+There’s plenty of star power to be found here, as the documentary even manages to get an appearance from Bono. It goes without saying that the feature has a kick-ass soundtrack, sampling not only EoDM’s three albums, but also QotSA’s extensive discography. This is, undoubtedly one of the most poignant and well-crafted documentaries of the year. While fans will of course enjoy it, the wider audience may actually gain more out of it; getting to see for themselves the larger-than-life people we already know Josh and Jesse to be.

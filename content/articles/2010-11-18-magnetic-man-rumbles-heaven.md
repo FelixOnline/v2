@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182037-ks607-magnetic.jpg"
 image_caption: >
-  
+
 image_width: "780"
 image_height: "692"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
 
 comments:
- - I love reading these articles because theyre short but infrmoatvie 20120222 1647     I hope you never stop  This is one of the best blogs Ive ever read  Youve got some mad skill here man  I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there  Please keep it up because the internet needs someone like you spreading the wordI teach ESL and this would be a fun way to get students to write comltepe sentences  To make it really work in the classroom I would need as others have pointed out some punctuation marks and capital letters  Any chance of that happening soon  Otherwise its a good start  And dont worry about having the letters added via keyboard  In my opinion the whole idea is to move the letters one by one just like one does with magnets  asthma symptoms   long now   many mistakes   actual 
+ - I love reading these articles because theyre short but infrmoatvie 20120222 1647     I hope you never stop  This is one of the best blogs Ive ever read  Youve got some mad skill here man  I just hope that you dont lose your style because youre deelnitfiy one of the coolest bloggers out there  Please keep it up because the internet needs someone like you spreading the wordI teach ESL and this would be a fun way to get students to write comltepe sentences  To make it really work in the classroom I would need as others have pointed out some punctuation marks and capital letters  Any chance of that happening soon  Otherwise its a good start  And dont worry about having the letters added via keyboard  In my opinion the whole idea is to move the letters one by one just like one does with magnets  asthma symptoms   long now   many mistakes   actual
 imported: true
 ---
 

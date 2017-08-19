@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205102100-pk1811-3.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - My respect to people fighting with depression  dont give up you will make it through    
+ - My respect to people fighting with depression  dont give up you will make it through
 imported: true
 ---
 

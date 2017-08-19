@@ -1,6 +1,6 @@
 ---
 title: >
-  Pandering to every whim 
+  Pandering to every whim
 subtitle: >
   Max Eggl eats shoots and leaves
 date: "2012-11-01 22:54:06 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012253-tna08-originalrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Everyone has heard of, scoffed at, ridiculed, played, dominated (cross out the ones that do not apply to you) World of Warcraft. For those of you who chose the two latter choices, this is the article for you. For all the rest, you can stop judging, get yourselves an account and then read this article!  
+Everyone has heard of, scoffed at, ridiculed, played, dominated (cross out the ones that do not apply to you) World of Warcraft. For those of you who chose the two latter choices, this is the article for you. For all the rest, you can stop judging, get yourselves an account and then read this article!
  So now to set the scene. After the release of Cataclysm, many players (including yours truly) were a bit disappointed and annoyed at Blizzard. This move was motivated by the attempt to have new players join the 10 million strong online community, however it did frustrate those die-hard vanilla players, who had expected more from the expansion. Once you had killed Deathwing (I currently stand at 19), there was not much to do apart from Twinking.
 
 Mists of Pandaria was Blizzards way of saying sorry and thus a lot of pressure was mounting on MoP to deliver. Reports from the beta did nothing to stay the hype and finally on the 25th of September, MoP was released, allowing the average player to explore Pandaria, level up to 90, play as pandas and monks, and even more. So did MoP really live up to the expectation?
@@ -48,7 +48,7 @@ The quests are, for the most part, extremely fun, although you do get a healthy 
 However I did do the dungeons, which not only helped me gain XP that much faster, they were genuinely FUN. I mean, who doesn’t like the sight of your fine companions barfing their guts out into buckets while evading huge streams of alcoholic beverages and healing/DPSing/tanking at the same time (I couldn’t stop laughing... until I was the one heaving)? Another aspect was that you actually, genuinely, hate some of the bosses in the dungeons, most notably the “Sha”. These are black masses of emotions come to life usually anger or hate. These things look, for a lack of a better word, evil (yes I am aware of the cliché), but I actually felt like a better person when I had finally destroyed one of those things. All in all, I enjoyed the dungeons a lot and will be doing them many more times.
 
 Now about the new class. When Blizzard first announced that a new panda race would be introduced, most critics laughed about this decision.I however applaud it, as not only are the
-TODO: image from 
+TODO: image from
 Pandaren ass-kicking cool, they also provide some comic relief for all those of us who take ourselves too seriously (myself included). They come in multiple varieties and colours, with the females even getting a tail. They have several abilities having to do with cooking, which will probably be nerfed in the next update as right now it’s overpowered. Also for all those wanting to start a new Pandaren char, you get a bonus on your rested XP and this makes levelling quite a bit more efficient. The biggest thing with the Pandaren race is the fact that you can choose to be an ally or a horde. Now that is deep, think about it, you have the choice to become an amazing ally or a horrible horde. Seriously now though, it is quite cool as this means that you can see pandas on both sides of the war!
 
 The monk is... epic! They are fun to play and if you play a Pandaren Monk, it just adds to the whole epicness. Most of the variations you can play of the monk, are also quite creative, including: Brewmaster (Tank), Mistweaver (Heal) and Windwalker (DPS) For me, who already plays a Pala, I love classes that can perform many different roles and thus the monk is a cool addition to the hybrid classes. Not only that, but all different specs have this really awe-inspiring kung-fu fighting style which is really fun not only to play, but also just to watch. Combining this with the racial XP bonus of the Pandaren, expect many monks in your raid in the foreseeable future.

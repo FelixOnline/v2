@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 The football team has been fined £100 by the Amateur Football Association (AFA) after a fight broke out at the 19th of March ULU Cup Final with UCL. The club was charged with failing to control its supporters, to which they pleaded guilty, and one individual, whose case has yet to be heard, has been charged with assault on a UCL player.
 
-The fight is believed to have broken out towards the end of the match between a small group of Imperial fans and UCL substitutes. Simon Kilroy, Imperial club captain, said that he didn’t condone “any act of violence or physical intimidation perpetrated by anybody associated” with the football club and that it was “disappointing that the actions of small minority of both universities have marred the game”.  
+The fight is believed to have broken out towards the end of the match between a small group of Imperial fans and UCL substitutes. Simon Kilroy, Imperial club captain, said that he didn’t condone “any act of violence or physical intimidation perpetrated by anybody associated” with the football club and that it was “disappointing that the actions of small minority of both universities have marred the game”.
  He added that he and other members of the football club committee “worked continuously with those inside and outside of the university to resolve the issue”.
 
 Accounts of the violence differ, with Mr. Kilroy saying that the UCL substitutes turned a verbal confrontation into a physical altercation, while UCL club captain Mike Tetstall said that the trigger was when an Imperial fan slapped a UCL substitute’s head. It is believed that one of the Imperial fans involved in the fight was wearing a red morph suit.

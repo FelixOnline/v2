@@ -2,7 +2,7 @@
 title: >
   Double win for Ice Hockey B team against Cambridge
 subtitle: >
-  Imperial 5 – 3 & 6 – 1 Cambridge 
+  Imperial 5 – 3 & 6 – 1 Cambridge
 date: "2011-03-10 21:15:36 +0000"
 id: "1081"
 old_path: /sport/1081/double-win-for-ice-hockey-b-team-against-cambridge
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

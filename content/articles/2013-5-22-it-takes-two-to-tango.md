@@ -1,6 +1,6 @@
 ---
 title: >
-  It takes two to tango 
+  It takes two to tango
 subtitle: >
   Men must be included in feminism
 date: "2013-05-22 14:24:51 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305221524-tna08-argentine-tango-dance-natalie-lowe-scott-maslen-strictly-come-dancing-tango-favim.com-99492.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

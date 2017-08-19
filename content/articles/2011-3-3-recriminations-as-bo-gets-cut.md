@@ -2,7 +2,7 @@
 title: >
   Recriminations as Bo’ gets cut
 subtitle: >
-  Computer error contributes to heavy cuts during budgeting 
+  Computer error contributes to heavy cuts during budgeting
 date: "2011-03-03 05:43:00 +0000"
 id: "979"
 old_path: /news/979/recriminations-as-bo-gets-cut
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - If it really was a computer error that caused this and therefore it is objectively wrong surely the Union should be correcting their budget Why is this now set in stone even though a mistake was clearly madeAll of this budgeting relative to the previous years funds and membership is a load of bull anyway Itd make much more sense to undertake zerobased budgeting where clubs outline the activities envisaged for the following year and their estimated costs as opposed to we spend this much this year so will again next yearAnon That is how budgeting works  all clubs and soceities outline the costs of their activities for the next year Take a look at all the budget submissions here httpwwwimperialcollegeunionorgdatafilescsbbudgeting3587xlsxThe fact that clubs do similar activities each year and so use their previous costs as a guide to their costs for the following year based on their planned activities is just common senseIs that hell how it works If you underspend one year 
+ - If it really was a computer error that caused this and therefore it is objectively wrong surely the Union should be correcting their budget Why is this now set in stone even though a mistake was clearly madeAll of this budgeting relative to the previous years funds and membership is a load of bull anyway Itd make much more sense to undertake zerobased budgeting where clubs outline the activities envisaged for the following year and their estimated costs as opposed to we spend this much this year so will again next yearAnon That is how budgeting works  all clubs and soceities outline the costs of their activities for the next year Take a look at all the budget submissions here httpwwwimperialcollegeunionorgdatafilescsbbudgeting3587xlsxThe fact that clubs do similar activities each year and so use their previous costs as a guide to their costs for the following year based on their planned activities is just common senseIs that hell how it works If you underspend one year
 imported: true
 ---
 

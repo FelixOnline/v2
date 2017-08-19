@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 ATP in many ways can be seen as an embodiment of alternative music, often attended by those who know their music, it never fails to provide a selection of the finest alternative music out there, sweeping a wide range of musical genres in every line up. This quality is coupled with a spirit of musical fellowship, as often bands on the line up are seen enjoying the sets of their colleagues, and having the festival curated by a band or individual allows a feeling of connection to a normally hugely influential and respected curator. This sense of intimacy is further added to by a smaller venue, accommodating only 3000. Having spent a few years based in Butlins, Minehead, they have returned to Pontins in Camber Sands, the spiritual home of the festival, where the first 7 or 8 festivals took place. It should also be noted that, as was also the case in Butlins, the uncomfortable and dehumanising camping experience is bypassed with comfortable chalets, allowing a good night’s sleep and a place to chill between shows.
 
-Between the return to Camber Sands and an old favourite in Shellac curating, there is a sense that, if the label could ever truly apply to an ATP, ‘Nightmare before Christmas’ is a pretty traditional festival. All of this, without even really mentioning the music paves the way for a pretty exceptional experience.  
+Between the return to Camber Sands and an old favourite in Shellac curating, there is a sense that, if the label could ever truly apply to an ATP, ‘Nightmare before Christmas’ is a pretty traditional festival. All of this, without even really mentioning the music paves the way for a pretty exceptional experience.
  The music itself is suitably impressive. Shellac, of course, are highly respected and particularly known for their entertaining live shows. The rest of their line-up has the inevitable range of sizes. From seasoned professionals with huge cult followings to smaller bands, seemingly plucked from obscurity by Steve Albini and co. Naturally, the festival is bookended by two Shellac sets and in between, 34 bands play. As it would be impossible to cover everyone involved in the deserved length, a brief run through of my personal favourites will have to suffice.
 
 On Friday, a rock/classical/experimental hybrid is found in the form of Helen Money’s exquisite cello playing. If her album is anything to go by, expect plucking, distortion, a Minutemen cover and plenty more. Other highlights of the day include avant-garde metal group Oxbow, led by intellectual badass Eugene Robinson. This is followed Turing Machine, who play what I would describe as Math-kraut, and promises to be excellent. If this isn’t your bag, there’s always one of the best post-rock bands going, in the form of Japanese quartet Mono.

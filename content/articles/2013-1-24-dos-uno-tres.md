@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301242211-mc4509-green-day-dos.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The aptly titled album [_¡Dos!_](http://www.greenday.com/album/dos) is the second instalment in the rapid-fire trilogy that [__Green Day__](http://www.greenday.com/) now has released. This album is a bit less clean than _[¡Uno!](http://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w),_ playing to a garage rock style vibe. Armstrong went as far to describe this as a second [__Foxboro Hot Tubs__](http://www.foxborohottubs.com/) album. If you have heard of the __Foxboro Hot Tubs__, then you will know that they have a raw musical style, which can be quite easily applied to _¡Dos!_ as well. In fact one of the songs ‘F\*\*\* Time’ is actually originally a __Foxboro Hot Tubs__ song.
+The aptly titled album [_¡Dos!_](http://www.greenday.com/album/dos) is the second instalment in the rapid-fire trilogy that [__Green Day__](http://www.greenday.com/) now has released. This album is a bit less clean than _[¡Uno!](http://open.spotify.com/album/6AFJIZmd1zWQDBBwHyeo9w),_ playing to a garage rock style vibe. Armstrong went as far to describe this as a second [__Foxboro Hot Tubs__](http://www.foxborohottubs.com/) album. If you have heard of the __Foxboro Hot Tubs__, then you will know that they have a raw musical style, which can be quite easily applied to _¡Dos!_ as well. In fact one of the songs ‘F*** Time’ is actually originally a __Foxboro Hot Tubs__ song.
 
 _¡Dos!_ was released roughly a month after _¡Uno!_, and one can clearly see a link between the two. A fast paced style, with strong power-chords and a lack of ballads are common traits to both albums. One can best describe _¡Dos!_ by being the music when you are in full flow of the party, while _¡Uno!_ prepared you for the party. Thus it has a bit more bite than before. Another contrast between this album and the other two of the trilogy, is the fact that _¡Dos!_ has 13 songs on it, instead of 12. This last song to be added is a stunning song in homage to __Amy Winehouse__, which I will discuss later.
 

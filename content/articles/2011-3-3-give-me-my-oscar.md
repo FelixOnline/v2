@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032027-nm1010-departed.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "426"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Our broken relationship with electronics 
+  Our broken relationship with electronics
 subtitle: >
   When your phone breaks, what do you do with it?
 date: "2015-11-30 12:03:51 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511301200-ygr12-broken-phone.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

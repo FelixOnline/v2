@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302142120-tna08-charing-252928655.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Fulham Chronicle"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Saying the hospital has been saved it disingenuous Its being sold off for redevelopment all that will remain is an urgent care centre which is a 24hour GP serviceSee below for the outcome of the meeting yesterdayhttpus1campaignarchive2comub3184f09229818a8d6b340e37id5e0dd73da1e74b9e92101Goes something like this httpwwwandyslaughtercoukp7926This article does well to raise awareness of the issue but has unfortunately taken a relatively limited viewpoint in terms of relaying all the facts Many regard this as a lastditch attempt by the conservativerun council to increase acceptance of the impending doom of the hospital Whats more the potential impact on students hasnt even been touched upon There is likely to be a significant impact on Imperial medics  with a reduction of inpatients down to 12 of its original number a really worrying implication is that the capacity for clinical teaching would similarly be slashed Where will students be placed How will medical 
+ - Saying the hospital has been saved it disingenuous Its being sold off for redevelopment all that will remain is an urgent care centre which is a 24hour GP serviceSee below for the outcome of the meeting yesterdayhttpus1campaignarchive2comub3184f09229818a8d6b340e37id5e0dd73da1e74b9e92101Goes something like this httpwwwandyslaughtercoukp7926This article does well to raise awareness of the issue but has unfortunately taken a relatively limited viewpoint in terms of relaying all the facts Many regard this as a lastditch attempt by the conservativerun council to increase acceptance of the impending doom of the hospital Whats more the potential impact on students hasnt even been touched upon There is likely to be a significant impact on Imperial medics  with a reduction of inpatients down to 12 of its original number a really worrying implication is that the capacity for clinical teaching would similarly be slashed Where will students be placed How will medical
 imported: true
 ---
 

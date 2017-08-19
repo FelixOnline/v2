@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Brilliant  Im sure an awful lot of aid money is wasted on projects that mostly benefit donor countries multinational corporations with very little ever reaching the poor  Weve known this for a long time 
+ - Brilliant  Im sure an awful lot of aid money is wasted on projects that mostly benefit donor countries multinational corporations with very little ever reaching the poor  Weve known this for a long time
 imported: true
 ---
 

@@ -31,7 +31,7 @@ author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
 
 comments:
- - Youre my hero Josh 
+ - Youre my hero Josh
 imported: true
 ---
 
@@ -55,8 +55,8 @@ __You’ve got a night up in Chester, called [Lion Roar](https://www.facebook.co
 
 Haha… Well idle time is the devil’s plaything after all. I think that in the music industry as it stands today, you really have to roll up your sleeves and get your hands dirty with all aspects of music: promoting parties, releasing music, managing artists... It’s one of the only ways to put across the true meaning of the music ideals you’re pushing…
 
-__Was there a point at which you realised, “Hey I need to be the person who’s finding the music and putting it out to people?” Or have you always kind of had that approach to music?__  
-  
+__Was there a point at which you realised, “Hey I need to be the person who’s finding the music and putting it out to people?” Or have you always kind of had that approach to music?__
+
  Hmm I think I’ve always been pretty selective about the music I listened to, when I first started out I was promoting punk shows up North, so I suppose when you’re in the position of picking music for people to come and dance to, you put yourself in that position to a certain extent. After a while I found that so many people I knew were making great music which just wasn’t getting the exposure it deserved, so I suppose making the leap to starting a record label isn’t such a far cry from being a promoter in some ways. It’s a nice feeling to be able to show people new music that they weren’t aware of before, but obviously vice versa, I love having someone play me some music from an artist I’ve never heard of and be blown away by it.
 
 __Tell us more about the “music ideals you’re pushing”. Is there something specific you’re looking for in the artists you work with? Either musically, or personally?__

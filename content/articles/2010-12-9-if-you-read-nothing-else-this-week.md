@@ -2,7 +2,7 @@
 title: >
   If you read nothing else this week...
 subtitle: >
-  Kadhim Shubber spills the beans on his favourite book of all time 
+  Kadhim Shubber spills the beans on his favourite book of all time
 date: "2010-12-09 21:28:39 +0000"
 id: "535"
 old_path: /arts/535/if-you-read-nothing-else-this-week
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092125-ks607-kackerou.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "351"
 image_attribution: ""

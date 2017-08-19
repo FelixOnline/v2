@@ -1,6 +1,6 @@
 ---
 title: >
-  Chillin’ in fanboy heaven 
+  Chillin’ in fanboy heaven
 subtitle: >
   Stuart Masson reviews Mountain Goats at the Union Chapel
 date: "2013-10-20 01:50:36 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310200250-jal08-music_mountgoat1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

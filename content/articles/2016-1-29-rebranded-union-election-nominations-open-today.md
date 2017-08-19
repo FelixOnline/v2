@@ -2,7 +2,7 @@
 title: >
   Rebranded union election nominations open today
 subtitle: >
-  The annual ‘Leadership Elections’ begin 
+  The annual ‘Leadership Elections’ begin
 date: "2016-01-29 08:49:25 +0000"
 id: "5837"
 old_path: /news/5837/rebranded-union-election-nominations-open-today
@@ -35,20 +35,20 @@ comments:
 imported: true
 ---
 
-Get ready for off\-puttingly upbeat lecture shout outs, a fortnight of Facebook spam and unwelcome accosting in the library over your jacket potato – it’s election time.
+Get ready for off-puttingly upbeat lecture shout outs, a fortnight of Facebook spam and unwelcome accosting in the library over your jacket potato – it’s election time.
 
 Nominations for positions open on Wednesday the 3rd of February and close on the 28th of the same month.  Candidate manifestos have to be uploaded by 5pm the next day, or you risk relying on just your face to get that post.
 
-Turnout last year was 42% \(60% undergraduates, 22% post grads\).
+Turnout last year was 42% (60% undergraduates, 22% post grads).
 
 Since rules changed before the elections last year, every club with more than 150 members has to have its election online within the union’s eVoting system, rather than in person at an AGM.
 > > **They get paid a tasty £19 grand a year plus free accommodation**
-Constituent unions will vote for their presidents, clubs with more than 150 members will vote in their committees and everyone will vote in the various volunteer roles within the union, including the representation officers \(Disabilities, Campaigns, Gender Equality etc\).
+Constituent unions will vote for their presidents, clubs with more than 150 members will vote in their committees and everyone will vote in the various volunteer roles within the union, including the representation officers (Disabilities, Campaigns, Gender Equality etc).
 
 Several sabbatical officers, who will take a year out of real life to debate student issues, will also be elected. These positions are open to any current student, regardless of experience, and offer the chance to sit on the trustee board, making real decisions for the future of Imperial’s student union. They get paid a tasty £19 grand a year plus free accommodation in their choice of halls.
 
 Positions on the trustee board are also open to students who don’t want to take a year out. Two student trustees are elected, and get to sit on the board, making those big decisions, whilst still plowing on with their degrees.
 
-If you prefer the anarchy of union council, you could go up for council chair, another part time elected position. This person gets the final say over the \(sometimes not even quorate\) rabble of students who debate the issues over at union council once a month.
+If you prefer the anarchy of union council, you could go up for council chair, another part time elected position. This person gets the final say over the (sometimes not even quorate) rabble of students who debate the issues over at union council once a month.
 
-You can find out more [here](https://www.imperialcollegeunion.org/leadership\-elections\-2016/leadership\-elections\-2016).
+You can find out more [here](https://www.imperialcollegeunion.org/leadership-elections-2016/leadership-elections-2016).

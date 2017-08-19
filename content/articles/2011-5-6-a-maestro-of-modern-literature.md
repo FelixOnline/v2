@@ -1,6 +1,6 @@
 ---
 title: >
-  A maestro of modern literature 
+  A maestro of modern literature
 subtitle: >
   Two-time Booker finalist David Mitchell talks about his latest book, The Thousand Autumns of Jacob de Zoet
 date: "2011-05-06 13:10:13 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061412-felix-mitchell-crjpg-3e1995e4fd89b57a.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1727"
 image_attribution: ""

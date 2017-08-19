@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103031934-nm1010-fooodfoo.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "690"
 image_attribution: "flickr/foodieguide"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - im already hungry 
+ - im already hungry
 imported: true
 ---
 

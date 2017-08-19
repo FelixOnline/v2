@@ -2,7 +2,7 @@
 title: >
   Some of the best science fiction you’ll ever read
 subtitle: >
-  A look back at Ender’s Game – Orson Scott Card’s first great masterpiece 
+  A look back at Ender’s Game – Orson Scott Card’s first great masterpiece
 date: "2012-03-01 21:40:02 +0000"
 id: "2278"
 old_path: /books/2278/some-of-the-best-science-fiction-youll-ever-read
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

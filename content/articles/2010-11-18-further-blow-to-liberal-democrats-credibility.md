@@ -1,8 +1,8 @@
 ---
 title: >
-  Further blow to Liberal Democrats’ credibility 
+  Further blow to Liberal Democrats’ credibility
 subtitle: >
-  N.U.S. threaten ‘Right to Recall’ as revelations question sincerity of Lib Dem pre-election pledge 
+  N.U.S. threaten ‘Right to Recall’ as revelations question sincerity of Lib Dem pre-election pledge
 date: "2010-11-18 21:54:18 +0000"
 id: "415"
 old_path: /news/415/further-blow-to-liberal-democrats-credibility-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

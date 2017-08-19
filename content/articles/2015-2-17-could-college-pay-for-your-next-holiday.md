@@ -2,7 +2,7 @@
 title: >
   Could College pay for your next holiday?
 subtitle: >
-  Kamil McClelland sat down with the new head of Exploration Board after their endorsement of his upcoming trip through Central Asia 
+  Kamil McClelland sat down with the new head of Exploration Board after their endorsement of his upcoming trip through Central Asia
 date: "2015-02-17 19:12:54 +0000"
 id: "5269"
 old_path: /travel/5269/could-college-pay-for-your-next-holiday
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502171912-ps3110-screen-shot-2015-02-17-at-19.12.38.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

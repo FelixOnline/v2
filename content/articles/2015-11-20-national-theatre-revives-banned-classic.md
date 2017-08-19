@@ -2,7 +2,7 @@
 title: >
   National Theatre revives banned classic
 subtitle: >
-  Waste exposes the hypocrisy of Victorian morality and remains relevant today 
+  Waste exposes the hypocrisy of Victorian morality and remains relevant today
 date: "2015-11-20 09:37:35 +0000"
 id: "5759"
 old_path: /arts/5759/national-theatre-revives-banned-classic
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511200937-ygr12-4.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

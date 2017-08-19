@@ -1,6 +1,6 @@
 ---
 title: >
-  Media morons 
+  Media morons
 subtitle: >
   British media coverage of Libya is flimsy and subservient
 date: "2011-06-16 20:28:06 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106162126-felix-libya.jpg"
 image_caption: >
-  
+
 image_width: "1369"
 image_height: "857"
 image_attribution: ""

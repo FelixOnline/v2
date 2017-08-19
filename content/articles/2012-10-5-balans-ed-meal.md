@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210051414-felix-960x385_balans-in-earls-court-just-minutes-from-base2stay-kensington.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Chris on Word to the wise All the chicken is good here but the wings are prbloaby a little better than the cutlet if youre havBrian Smith on I was in Raleigh visiting old friends We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEAArticles     Reviews     Small Bites       Openings     ClosingsBrian Smith on I was in Raleigh visiting old fdniers We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEA  inflicting   automobili insurance qoutes   cheap generic cialis   car insurance   hoursand end   online accutane   balls   group lively   could pose 
+ - Chris on Word to the wise All the chicken is good here but the wings are prbloaby a little better than the cutlet if youre havBrian Smith on I was in Raleigh visiting old friends We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEAArticles     Reviews     Small Bites       Openings     ClosingsBrian Smith on I was in Raleigh visiting old fdniers We had a decent dinner there during Raleighs Dining out week The food is good  on The Well at Five Points is reopening on August 30thdeb in raleigh on North Raleigh really needed Sola Cafe  Its clean and homey and get the TANGERINE AND GINGER ICED TEA  inflicting   automobili insurance qoutes   cheap generic cialis   car insurance   hoursand end   online accutane   balls   group lively   could pose
 imported: true
 ---
 
@@ -47,8 +47,8 @@ By this point I was stuffed to the brim. I didn’t manage to finish dessert. I 
 
 All in all the food is reasonably priced, and if you optimise the use of the 2-4-1 deals they do on cocktails and the live music it would be a great deal too. A main sets you back around £14 but the burgers/ wraps/ salads set you back a mere £8-£9. We didn’t invest in cocktails but they did look impressive. I get the impression that Balans seems like a great place to order several items on the menu to share, have a cocktail, and a natter. I’m going to head to the Soho branch soon. All in all there was good food and good company: it’s a thumbs up from me!
 
-_Balans (Earls Court branch)  
- 239 Old Brompton Road, London, Greater London SW5 9HP  
- Monday-Thursday, Sunday:  
- 7.30am-12am  
+_Balans (Earls Court branch)
+ 239 Old Brompton Road, London, Greater London SW5 9HP
+ Monday-Thursday, Sunday:
+ 7.30am-12am
  Friday / Saturday: 7.30am-1am_

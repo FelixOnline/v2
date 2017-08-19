@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201004181736-jn104-Varsity1.jpg"
 image_caption: >
-  
+
 image_width: "604"
 image_height: "401"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-IMPERIAL MEDICALS 29  
+IMPERIAL MEDICALS 29
  IMPERIAL COLLEGE 13
 
 Two tries by Man of the Match James Sharples at a buzzing Old Deer Park Stadium on Wednesday night saw that the Imperial Medicals retained the JPR Williams Cup for the eighth consecutive year.

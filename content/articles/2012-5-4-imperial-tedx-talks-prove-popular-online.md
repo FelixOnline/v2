@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -38,4 +38,4 @@ Video footage of March’s [TEDxImperialCollege](http://tedximperialcollege.com/
 
 TEDx is a program of local and self-organised events based upon [TED](http://www.ted.com/) (Technology, Entertainment and Design) conferences. The Imperial College event, held on 24 March, saw over 700 guests attend an afternoon of talks on a wide manner of topics. One such talk was given by Imperial student Joanis Holzigel, who discussed his involvement with student project e.quinox and efforts to provide electrification in an African village.
 
-On the day itself, the Twitter hashtag [\#TEDxIC](http://twitter.com/#!/search/%23TEDxIC) trended on the social networking service in both the United Kingdom and London.
+On the day itself, the Twitter hashtag [#TEDxIC](http://twitter.com/#!/search/%23TEDxIC) trended on the social networking service in both the United Kingdom and London.

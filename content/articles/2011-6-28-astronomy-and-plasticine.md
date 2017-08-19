@@ -44,7 +44,7 @@ Friday night sees an unnamed Russian cosmonaut hosting an evening of comedy and 
 
 If all the astronomy gets too much, you can always retreat into the wonderful music on offer, including the fantastic __Go! Team__, the beautiful __Leisure Society__ and the always fascinating __Erland and the Carnival__. Deer Shed really is a science student’s dream.
 
-_Dates: 22nd – 24th July 2011  
- Location: Topcliffe, North Yorkshire  
- Price: £59  
+_Dates: 22nd – 24th July 2011
+ Location: Topcliffe, North Yorkshire
+ Price: £59
  Website: [www.deershedfestival.com](http://www.deershedfestival.com)_

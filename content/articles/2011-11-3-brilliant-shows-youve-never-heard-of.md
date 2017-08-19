@@ -62,7 +62,7 @@ The other characters are all interesting. [The Boss](http://www.youtube.com/watc
 The episodes are split into two different segments. You’ll also notice that the graphics are much cruder than Archer, or other cartoons for that matter. I think that’s what makes it so appealing, in a way. It’s got a sense of homemade fun. It looks and feels like it’s being made by a bunch of people who are doing it because they love making funny sketches, not because they want to make money. With only two seasons to catch up on, before the third comes along, and no exams in sight, you have zero excuses to not watch this show.
 
 __Curb Your Enthusiasm__
-TODO: image from 
+TODO: image from
 Okay, I know, it’s not the most obscure show ever, but it’s definitely not as famous and popular as it should be. It’s from the creator of Seinfeld, Larry David. The shows centres around [a fictionalised version of Larry David](http://www.youtube.com/watch?v=Z1ps4EZz4B0) and his general trials and tribulations; for Larry, they are a lot, as he can’t help but stick his foot in his mouth.
 
 Curb Your Enthusiasm is typified by featuring one big arc per season that is beautifully woven into the individual stand-alone episode. These episodes feature several plots that all somehow intertwine and join up in a way that will make you howl with laughter.

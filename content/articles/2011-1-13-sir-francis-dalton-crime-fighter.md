@@ -1,6 +1,6 @@
 ---
 title: >
-  Sir Francis Dalton: crime fighter 
+  Sir Francis Dalton: crime fighter
 subtitle: >
   The man behind fingerprinting and eugenics
 date: "2011-01-13 20:15:07 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132013-ks607-francisg.jpg"
 image_caption: >
-  
+
 image_width: "2400"
 image_height: "2451"
 image_attribution: ""

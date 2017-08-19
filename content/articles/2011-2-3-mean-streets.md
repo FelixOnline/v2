@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031947-nm1010-meanstre.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "300"
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   Royal Society of Chemistry awards five prizes to Imperial Professors
 subtitle: >
-  This week five Imperial chemists were rewarded for their contributions to chemical sciences with prizes from the Royal Society of Chemistry. 
+  This week five Imperial chemists were rewarded for their contributions to chemical sciences with prizes from the Royal Society of Chemistry.
 date: "2014-05-16 01:36:51 +0100"
 id: "4593"
 old_path: /news/4593/royal-society-of-chemistry-awards-five-prizes-to-imperial-professors
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

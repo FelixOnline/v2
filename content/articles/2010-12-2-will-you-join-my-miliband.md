@@ -1,6 +1,6 @@
 ---
 title: >
-  Will you join my (Mili)band? 
+  Will you join my (Mili)band?
 subtitle: >
   Will you join my (Mili)band?
 date: "2010-12-02 20:54:28 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503031409-ps3110-screen-shot-2015-03-03-at-14.09.27.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

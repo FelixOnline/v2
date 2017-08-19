@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,7 +42,7 @@ The piece wasn’t really that unusual – a fairly mindless tour of psychics an
 > We stopped communicating with the public the second we pointed our collective penis in their direction and began jettisoning our finest vintage piss all over their parade
 You know what? Poor Joe Public doesn’t need you looking out for him if you’re going to do it with a sneer on your face. This recent spate of quack-hating came about because people like Ben Goldacre wanted to improve the public’s relation with science and scientists. Now what do we have? The second coming of Charles Darwin grunting his way through arguments with fundamentalist Christians. We stopped communicating with the public the second we pointed our collective penis in their direction and began jettisoning our finest vintage piss all over their parade.
 
-Because that parade, it turns out, is quite important to them. It’s \*their\* parade, after all, and while it might be a bunch of lies tied together with the string of deceit and the decorative ribbon of misdirection, it’s still a belief system that they’ve become used to living within. People regularly, quite happily, believe in crazy things. It turns out that your job is not to pull the rug out from underneath them and forcefeed it to them.
+Because that parade, it turns out, is quite important to them. It’s *their* parade, after all, and while it might be a bunch of lies tied together with the string of deceit and the decorative ribbon of misdirection, it’s still a belief system that they’ve become used to living within. People regularly, quite happily, believe in crazy things. It turns out that your job is not to pull the rug out from underneath them and forcefeed it to them.
 
 I’m declaring a moratorium on this bullshit from now on. No more articles about how ker-razy the world of alternative medicine is. No more pretending you give a shit about the common man. Because there’s an unfortunate irony here – the public would rather accept shortcuts and magic solutions to their problems than tackle them head on, and similarly our scientists would rather take the easy way out and moan and whine about these liars and cheats rather than tackle the problem at its root.
 

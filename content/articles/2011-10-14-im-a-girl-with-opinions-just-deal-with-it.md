@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1048"
 image_attribution: ""

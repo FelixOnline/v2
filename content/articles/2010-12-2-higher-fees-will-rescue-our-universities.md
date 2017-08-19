@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022131-nm1010-higherfe.jpg"
 image_caption: >
-  
+
 image_width: "576"
 image_height: "768"
 image_attribution: ""

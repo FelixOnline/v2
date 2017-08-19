@@ -1,6 +1,6 @@
 ---
 title: >
-  Injury and illness stalks rowing club at trials 
+  Injury and illness stalks rowing club at trials
 subtitle: >
   Rowing machines and strong winds for Boat Club as they win 18 BUCS points
 date: "2010-11-04 18:44:56 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041843-ks607-rowingro.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1536"
 image_attribution: ""

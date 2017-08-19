@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Its worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer httpwwwwellcomeacukNewsMediaofficePressreleases2011WTVM053483htmYes I know but I got the posters printed back in October and only found out about that in November 
+ - Its worth noting that Mark Henderson is not going to be Science Editor at the Times for much longer httpwwwwellcomeacukNewsMediaofficePressreleases2011WTVM053483htmYes I know but I got the posters printed back in October and only found out about that in November
 imported: true
 ---
 

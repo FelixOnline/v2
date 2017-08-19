@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -49,7 +49,7 @@ Although underwater landslides of this magnitude are not as common, smaller land
 
 In the past, the only evidence of these immense geological events was scarring of the seafloor, which could only be recognised through comparison of different seafloor mapping attempts. A series of underwater landslides that occurred at Prince William Sound in the Gulf of Alaska in 1964 were only identified 60 years later, after a new mapping expedition compared its results with the previous map which had been generated 16 years prior to the landslides.
 
-Now through the employment of advancements in sonar technology we are able to get a more detailed glimpse into the history of such phenomena.  Multibeam sonar, for example, provides a detailed model of the seabed surface, while sparkers, electrodes emitting high\-frequency acoustic pulses can penetrate multiple sedimentary layers. Such data can provide information on the size, shape and path of landslides.
+Now through the employment of advancements in sonar technology we are able to get a more detailed glimpse into the history of such phenomena.  Multibeam sonar, for example, provides a detailed model of the seabed surface, while sparkers, electrodes emitting high-frequency acoustic pulses can penetrate multiple sedimentary layers. Such data can provide information on the size, shape and path of landslides.
 
 Yet, even though we now know more about these phenomena than we did before, predicting when the next underwater landslide might strike remains a challenge.
 

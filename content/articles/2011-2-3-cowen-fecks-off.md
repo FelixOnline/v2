@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032011-nm1010-amamamma.jpg"
 image_caption: >
-  
+
 image_width: "750"
 image_height: "1076"
 image_attribution: ""
@@ -40,7 +40,7 @@ Prime Minister Brian Cowen, who recently resigned as leader of the majority coal
 
 In truth, however, it is an astonishing achievement on Cowen’s part to have held onto power while presiding over an economic downturn of such unprecedented magnitude - brewed during his time as Minister for Finance from 2004 until 2008 and poured ice-cold during his subsequent tenure as Taoiseach.
 
-After a failed leadership heave against him in mid-January, it appeared that ‘Biffo’ (Big Ignorant F\*\*\*\*r From Offaly) would lead his deeply unpopular party into an election on March 11th from which it would do well to return half of its 72 sitting members of the Irish parliament, Dáil Éireann. However, a botched attempt to fill vacant cabinet positions without consulting the Green party - the coalition’s junior partner – was a PR disaster for Cowen and, following his resignation several days later, the Greens announced their immediate withdrawal from government. An agreement was reached between government and opposition which saw the election date brought forward and the legislation enacting December’s budget rushed through both houses of parliament.
+After a failed leadership heave against him in mid-January, it appeared that ‘Biffo’ (Big Ignorant F****r From Offaly) would lead his deeply unpopular party into an election on March 11th from which it would do well to return half of its 72 sitting members of the Irish parliament, Dáil Éireann. However, a botched attempt to fill vacant cabinet positions without consulting the Green party - the coalition’s junior partner – was a PR disaster for Cowen and, following his resignation several days later, the Greens announced their immediate withdrawal from government. An agreement was reached between government and opposition which saw the election date brought forward and the legislation enacting December’s budget rushed through both houses of parliament.
 
 Much like the now-extinct Progressive Democrats before them, the Green party appear destined to pay a heavy political price for their decision to enter coalition with Fianna Fáil in 2007. In the press conference announcing their withdrawal from government, Minister for the Environment John Gormley pointed to a number of the party’s achievements during their time in office, including legislation on same-sex civil partnerships and hunting. These, however, are mere footnotes in the legacy of this government in light of Ireland’s fiscal position. The Greens’ image has been damaged irreparably by their relationship with the toxic Fianna Fáil brand, and any result other than complete annihilation would be an achievement in itself.
 

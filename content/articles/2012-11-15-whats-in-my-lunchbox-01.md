@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211152201-tna08-rgbfood.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Ah, winter. The season when just about everything seems to drop: temperatures, n
 
 Enter soup, our favourite solution (ha!) to the issue at hand. It’s an everyman’s meal that’s more than your “favourite freshers’ flu remedy”, or the typical posh-restaurant starter.
 
-There’s a reason we love them so much. They’re not just fun to eat; they’re a great way to use up leftovers, and keep well in the freezer so can be made well in advance (lazy weekend cooking, anyone?) The most basic concoctions won’t take you hours to slave over or require some fancy French cooking technique; but once you’ve built up your skills and confidence, soup recipes then have plenty of wiggle room for you to start jazzing them up more. The end product can be as cheap or expensive as you want: it depends on your ingredients. If your cooking process does NOT include the directions “pull back tin lid” or “microwave on HIGH for \*\* minutes”, all the better.
+There’s a reason we love them so much. They’re not just fun to eat; they’re a great way to use up leftovers, and keep well in the freezer so can be made well in advance (lazy weekend cooking, anyone?) The most basic concoctions won’t take you hours to slave over or require some fancy French cooking technique; but once you’ve built up your skills and confidence, soup recipes then have plenty of wiggle room for you to start jazzing them up more. The end product can be as cheap or expensive as you want: it depends on your ingredients. If your cooking process does NOT include the directions “pull back tin lid” or “microwave on HIGH for ** minutes”, all the better.
 
 “Soup” is such an umbrella term: it encompasses every flavour and texture imaginable. Some days we enjoy rich, decadent “cream of” concoctions; other days, clearer Asian broths (miso and the like) are more up our alley. Still other days we’re privy to getting our handblenders out and slurping our pureed results after.
 
@@ -57,7 +57,7 @@ Stock-making tends to vary from laborious methods that produce rich and complex 
 
 Unlike baking, soup isn’t an exact science – it’s very much “handful of this/pinch of that” cooking. If it’s too thick, add stock/water/milk; if it’s lacking in flavour, season a bit. Be careful though, go slow when you do this – you can always add, but ye cannae take away!
 
-If you \*really\* must use store-bought stock cubes/bouillon, check the amount of salt that’s already there. Chances are you probably won’t need to add extra salt.
+If you *really* must use store-bought stock cubes/bouillon, check the amount of salt that’s already there. Chances are you probably won’t need to add extra salt.
 ## ...and two smoking barels
 There are two important...er, vessels you’ll be needing in the process, amongst others. The first is obviously the (stock)pot, where all the magic happens. Make sure it’s nice and big enough to hold your ingredients, with a bit more room at the top – lest you run the risk of things boiling over and losing some of your end product (be it stock or the actual soup.) If you’re pressed for time, a pressure cooker works well in getting your meat and veg soft in half the time (or less) usually required by traditional on-the-stove boiling – just make sure you read the instructions.
 

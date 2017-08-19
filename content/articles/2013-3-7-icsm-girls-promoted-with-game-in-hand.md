@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072153-mc4509-girlshockey.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -49,5 +49,5 @@ The second half saw an unsatisfying twenty minutes for both teams with fruitless
 
 On the final whistle, we all attempted, and I most definitely failed, to control our excitement for a polite ‘three cheers’ and hand-shake, before the whooping, cheering and ecstatic skipping began! The umpires were only paid on the agreement they would take a celebratory photo, “Thanks Roger”. See inset, “It’s not two chins, it’s a neck!” C. Read.
 
-It may not have been the prettiest hockey we have played all season but the final score, definitely reflected all the hard work each and every member of the team has put in this season. Thanks guys!!  
+It may not have been the prettiest hockey we have played all season but the final score, definitely reflected all the hard work each and every member of the team has put in this season. Thanks guys!!
  A special mention needed for our wonderful and dynamic forwards, Lees, Nat, Claudia and final year Alison who have given us the boost we needed to reach our potential this season! And thank you to the twos captain, Becky, who has never turned me down when I have been stuck! What a confidence boost for varsity! Bring it on… Lucky for who? Us I hope.

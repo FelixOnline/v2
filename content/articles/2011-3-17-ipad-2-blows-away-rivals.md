@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103172118-ks607-facetime.jpg"
 image_caption: >
-  
+
 image_width: "2400"
 image_height: "1283"
 image_attribution: ""

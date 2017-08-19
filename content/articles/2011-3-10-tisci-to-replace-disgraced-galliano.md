@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102033-nm1010-diordior.jpg"
 image_caption: >
-  
+
 image_width: "655"
 image_height: "982"
 image_attribution: ""

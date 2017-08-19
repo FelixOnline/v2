@@ -2,7 +2,7 @@
 title: >
   Higher Education Fees Debate - Free Education
 subtitle: >
-  The debate about higher education funding is not about what the country can or cannot afford. The current forecasts suggest that 45% of student loan income will be written off. 
+  The debate about higher education funding is not about what the country can or cannot afford. The current forecasts suggest that 45% of student loan income will be written off.
 date: "2014-06-06 02:44:26 +0100"
 id: "4661"
 old_path: /comment/4661/higher-education-fees-debate---free-education
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222228-tna08-protests4.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,13 +37,13 @@ imported: true
 
 Last Wednesday, 21 November 2012, saw thousands of students marching through the streets of London to protest the rising cost of education. Dubbed “Demo 2012”, the demonstration, arranged by the National Union of Students (NUS)expected to have 10,000 attendees. The demonstration by the NUS passed through central London from the Embankment before heading south of the river at Westminster. Police refused to make an estimate of the crowd. However, it was estimated that between 3,000 and 4,000 were involved. Bad weather was cited as a reason for the lower than 10,000 attendance. This is still a much lower figure than the 50,000 strong crowd of two years ago when the protests occured over raising Tution Fees.
 
-Liam Burns, NUS President, said that “education should open doors, but the government is slamming them shut,” He went on to say that “the damaging effects of recent changes to education have restricted access for future students and created new barriers for those currently studying,”  
+Liam Burns, NUS President, said that “education should open doors, but the government is slamming them shut,” He went on to say that “the damaging effects of recent changes to education have restricted access for future students and created new barriers for those currently studying,”
  With current 1st years now paying up to £9,000 per year for Tuition Fees, the aim of the protest was largely to put education back on the political agenda, highlighting issues such as the impact caused by the new higher fees and reduced financial support. The lack of job opportunities for young people was also highlighted.
 
 The mood on Wednesday was generally calm, with the Metropolitan Police reportedly only needing to quash one small riot. Their so-called “total policing” ensured that no other riots got under way during the march. However, the internal mood of the NUS could not be said to be quite so calm with many rally-goers feeling betrayed by the NUS and their President Liam Burns for not managing to stop the initial rise of fees.
 
-A final rally in Kennington Park saw Burns heckled and pelted with eggs by the thinning crowd as he made his speech. Shortly after, his stage was invaded by some of the aforementioned disgruntled students. Burns was not dismayed, adding, “It was just a bit of a distraction. I’m not going to get particularly bogged down by a few people who want to shout in a rained out park.”  
- Students feel their point was made with attention drawn to higher fees and the impacts from them.  
+A final rally in Kennington Park saw Burns heckled and pelted with eggs by the thinning crowd as he made his speech. Shortly after, his stage was invaded by some of the aforementioned disgruntled students. Burns was not dismayed, adding, “It was just a bit of a distraction. I’m not going to get particularly bogged down by a few people who want to shout in a rained out park.”
+ Students feel their point was made with attention drawn to higher fees and the impacts from them.
  Imperial College Union did not send any representatives.
 
 __Why I didn't march__

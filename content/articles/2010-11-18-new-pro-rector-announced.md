@@ -1,8 +1,8 @@
 ---
 title: >
-  New Pro-Rector announced 
+  New Pro-Rector announced
 subtitle: >
-  Major personnel changes in Engineering and Medicine 
+  Major personnel changes in Engineering and Medicine
 date: "2010-11-18 21:47:22 +0000"
 id: "410"
 old_path: /news/410/new-pro-rector-announced-

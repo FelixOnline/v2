@@ -1,6 +1,6 @@
 ---
 title: >
-  Lest we forget to find a balance 
+  Lest we forget to find a balance
 subtitle: >
   Whilst recognising the importance of reminiscence, Chris Richardson examines the brighter side of some of the world’s top remembrance destinations
 date: "2010-11-11 20:27:12 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112024-ks607-krakowkr.jpg"
 image_caption: >
-  
+
 image_width: "1261"
 image_height: "878"
 image_attribution: ""

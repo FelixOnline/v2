@@ -1,6 +1,6 @@
 ---
 title: >
-  IC Immortals crush Reading but succumb to Portsmouth 
+  IC Immortals crush Reading but succumb to Portsmouth
 subtitle: >
   "Hopefully, with hard work and time for injuries to heal, a full Immortals team can take the rest of the season head-on, maybe even fighting their way to the playoffs."
 date: "2011-12-01 21:14:24 +0000"
@@ -36,9 +36,9 @@ imported: true
 
 __American Football__
 
-_Imperial Immortals – 27  
- Reading Knights – 6  
- Impeial Immortals – 7  
+_Imperial Immortals – 27
+ Reading Knights – 6
+ Impeial Immortals – 7
  Portsmouth Destroyers – 24_
 
 The 20th was the first home game of the season for the Imperial Immortals and they were determined not let Reading walk away with a win. The day of the game was incredibly foggy; almost causing the game to be called off. Thankfully, it cleared enough for it to continue, but visibility remained low. This was lucky for Imperial as the Knights famously relied on their passing game; which was difficult in the heavy fog.

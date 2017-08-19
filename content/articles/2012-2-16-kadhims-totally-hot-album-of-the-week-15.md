@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202162138-pk1811-elcamino.jpeg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1000"
 image_attribution: ""

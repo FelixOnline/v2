@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210191350-tna08-0235_28584.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ On race morning I got out of bed just after 4 and gorged myself on porridge and 
 
 The race started at 7am, and I spent the final 10 minute countdown in a numb daze. Pretty much the sole focus of my life for half a year had been to get ready for that moment. The beach shelved quite sharply so within a couple of paces I was out of my depth. Don’t be under any impression that I’d started swimming though - there were far too many people for that! The sea had become a maelstrom of hands and legs and it would have been crazy to put your head under water lest it be smacked by a flailing limb.
 
-After a couple of hundred metres though, the field stretched out and I could find my stroke. With 1500 other people around it feels like you’re swimming downstream in a river, so the two lap course seemed to fly by. I was surprised to get out of the water in just over an hour - over 15 minutes quicker than I’d ever managed in the pool - and not really feeling any worse for wear. 2.4 miles down, 138.2 to go and the warm glow of never having to swim again radiating through me.  
+After a couple of hundred metres though, the field stretched out and I could find my stroke. With 1500 other people around it feels like you’re swimming downstream in a river, so the two lap course seemed to fly by. I was surprised to get out of the water in just over an hour - over 15 minutes quicker than I’d ever managed in the pool - and not really feeling any worse for wear. 2.4 miles down, 138.2 to go and the warm glow of never having to swim again radiating through me.
  We then had to run up the cliff and through the town to our bikes which were about 1km away. The noise was incredible. People were lining the street 2 or 3 deep on both sides of the road and it seemed like all of them had little bells that they were ringing as loud as they could. You can say what you like about the Welsh, but they do love to see people doing silly things, even if it’s early on a Sunday morning.
 
 The cycle was a two lap course - one big one of about seventy miles, and then a smaller loop of part of that course to make up the rest of the distance. Unfortunately, the only part of the course that was even a teensy bit flat was the bit that we only did once. There was 2400m of ascent in total. Silver lining? 2400m of descent! The miles passed by slowly, and I was managing to hold a fairly steady speed of 16 mph. Everything seemed to be going well, until the weather turned. First it started drizzling, and then it started chucking it down. Not only did this drive many of the people that had been lining the route and doing such a good job of shouting support/obscenities at us inside, it also meant that we had to really slow down on the descents. I passed quite a few people who had come off on the winding roads and lost a lot of skin, or worse, broken their collarbones. It had turned from a nice ride in beautiful countryside to a grim and cold survival exercise. The survival element was amplified by 3 punctures in the last 20km (damn you thin race tyres) which left me shivering so violently that I couldn’t keep my front wheel straight.

@@ -31,14 +31,14 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Is this imperial reporter 
+ - Is this imperial reporter
 imported: true
 ---
 
 Professor Lord Ara Darzi has been elected by the Institute of Medicine (IOM), which is the health sector of the US National Academy of Sciences.
 
-Becoming a member of the IOM is a high honour in the health and medical field. Last week, 70 new members and 10 new foreign associates were elected for the IOM. The IOM announced that the selections were due to their “outstanding professional achievement and commitment to service”.  
- Professor Darzi commented that it’s a “great honour to be elected as a foreign associate of the Institute of Medicine. It is a rare privilege and reflects the hard work of the team that I work with.”  
+Becoming a member of the IOM is a high honour in the health and medical field. Last week, 70 new members and 10 new foreign associates were elected for the IOM. The IOM announced that the selections were due to their “outstanding professional achievement and commitment to service”.
+ Professor Darzi commented that it’s a “great honour to be elected as a foreign associate of the Institute of Medicine. It is a rare privilege and reflects the hard work of the team that I work with.”
  Harvey V. Fineberg, IOM President said, “It is an honour to welcome our highly distinguished colleagues to the Institute of Medicine. These individuals have inspired us through their achievements in research, teaching, clinical work, and other contributions to the medical field. Their knowledge and skills will deeply enrich the IOM.”
 
 Professor Darzi is an Honorary Consultant Surgeon at Imperial College Hospital NHS Trust. He holds the Paul Hamlyn Chair of Surgery at Imperial College London, the institute of Cancer Research and the Royal Marsden Hospital.

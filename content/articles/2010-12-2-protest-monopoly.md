@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022153-nm1010-prrotest.jpg"
 image_caption: >
-  
+
 image_width: "2566"
 image_height: "3577"
 image_attribution: ""

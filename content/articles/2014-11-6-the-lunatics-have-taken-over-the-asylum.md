@@ -1,6 +1,6 @@
 ---
 title: >
-  The Lunatics have taken over the Asylum 
+  The Lunatics have taken over the Asylum
 subtitle: >
   Lauren Ratcliffe reports on the highs and lows of designer drugs
 date: "2014-11-06 19:41:09 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411062015-snb11-screen-shot-2014-11-06-at-14.21.16-copy.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

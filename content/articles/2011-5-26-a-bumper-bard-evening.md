@@ -2,7 +2,7 @@
 title: >
   A bumper Bard evening
 subtitle: >
-  The entirety of Shakespeare’s works in two hours in a low budget pub setting? Count us in! 
+  The entirety of Shakespeare’s works in two hours in a low budget pub setting? Count us in!
 date: "2011-05-26 23:49:58 +0100"
 id: "1270"
 old_path: /arts/1270/a-bumper-bard-evening
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105270049-felix-portraits-of-shakespeare-001.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""

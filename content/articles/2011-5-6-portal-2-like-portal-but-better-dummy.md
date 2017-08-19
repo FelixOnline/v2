@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061559-felix-games_portal2.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1080"
 image_attribution: ""

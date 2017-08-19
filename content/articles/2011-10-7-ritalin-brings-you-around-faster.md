@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,5 +46,5 @@ A similar effect is observed in anaesthetised patients. Ritalin awakens the part
 
 Bringing patients around more quickly also means that patients spend less time in costly operating theatres – even a small time saving of ten minutes per patient will reduce costs significantly over the course of a year.
 
-Unfortunately, some patients experience unwanted side effect with Ritalin, such as hyperventilation, hypertension and nausea. However, Zheng Xie, assistant professor of anaesthesia at the University of Chicago, expects that it will be possible to design other drugs that have the same effect as Ritalin.  
+Unfortunately, some patients experience unwanted side effect with Ritalin, such as hyperventilation, hypertension and nausea. However, Zheng Xie, assistant professor of anaesthesia at the University of Chicago, expects that it will be possible to design other drugs that have the same effect as Ritalin.
  Brown and co-workers are currently seeking approval for clinical trials.

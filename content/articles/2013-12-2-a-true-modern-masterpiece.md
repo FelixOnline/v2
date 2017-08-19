@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,12 +34,12 @@ comments:
 imported: true
 ---
 
-What: Satyagraha, with the English National Opera  
- Where: London Coliseum, WC2  
- When: Until 8th Dec 2013  
+What: Satyagraha, with the English National Opera
+ Where: London Coliseum, WC2
+ When: Until 8th Dec 2013
  Price: various
 
-Satyagraha has been lauded as a masterpiece of modern opera since its premiere in 1980. After witnessing it for myself, I can’t help but agree.  
+Satyagraha has been lauded as a masterpiece of modern opera since its premiere in 1980. After witnessing it for myself, I can’t help but agree.
  This is not a conventional opera in any way, but an exciting chance to see what one of the greatest of contemporary composers has contributed to the evolving art form. As such, it’s important to approach with an open mind; the rewards are great.
 
 Satyagraha, roughly meaning ‘force-truth’, is the word used to describe Ghandi’s philosophy of non-violent resistance, a concept which is very relevant today. Here there is no narrative or plot in the conventional sense; instead we are witness to a series of scenes which unfold and explore aspects of Satyagraha, and Ghandi’s personal journey.

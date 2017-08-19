@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180058-tna08-wing-chen.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,7 +44,7 @@ At Imperial College Wing Chun classes are run under the direction of Sifu Andrew
 
 __Seminars and socials__
 
-Throughout the year Imperial College Wing Chun society also hosts several socials including movie nights, trips to china town and group drinks at the bar. This term we hope to have a joint social with some of the other martial arts clubs at Imperial College.  
+Throughout the year Imperial College Wing Chun society also hosts several socials including movie nights, trips to china town and group drinks at the bar. This term we hope to have a joint social with some of the other martial arts clubs at Imperial College.
  Students also get the chance for discounts on seminars run by Sifu Andrew Sofos at his North London based martial arts academy. Seminars are 5-6 hour long intensive sessions run on one underlying theme, recently several students went on a ‘Street Survival’ seminar and found it very rewarding.
 
 This term we have a special offer, your first two classes with us are free. There is no obligation to buy membership. Just turn up ready to train, and have fun.

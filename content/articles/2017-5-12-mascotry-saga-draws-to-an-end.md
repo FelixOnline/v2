@@ -2,7 +2,7 @@
 title: >
   Mascotry saga draws to an end
 subtitle: >
-  We know no one cares but this is our job 
+  We know no one cares but this is our job
 date: "2017-05-12 16:30:10 +0100"
 id: "6940"
 old_path: /news/6940/mascotry-saga-draws-to-an-end
@@ -40,14 +40,14 @@ After a series of back and forths the constituent unions came to an agreement as
 
 Key changes include the valuation of the mascots for insurance purposes, the creation of an updated set of rules and the awarding of all seeing god and ultimately referee status to the Union president in case constituent unions can’t play nice.
 
-Additionally a series of ‘demands’ \(aka the ransom necessary to return a stolen mascot\) and practices have been banned.
+Additionally a series of ‘demands’ (aka the ransom necessary to return a stolen mascot) and practices have been banned.
 
 These include:
-A. Demands that would bring shame to any one particular mascotry fan or a constituent union 
-B. Illegal shit \(yes we thought it was intuitive too. Yes this took months to sort out\). 
-C. Returning mascots late \(really that’s just rude\).
+A. Demands that would bring shame to any one particular mascotry fan or a constituent union
+B. Illegal shit (yes we thought it was intuitive too. Yes this took months to sort out).
+C. Returning mascots late (really that’s just rude).
 
-These riveting changes should take effect as soon as an email vote has been completed. 
+These riveting changes should take effect as soon as an email vote has been completed.
 But it’s looking up for mascotry. We can finally stop boring everyone and move on with our lives.
 
 JK there’s totally going to be one last update on this.

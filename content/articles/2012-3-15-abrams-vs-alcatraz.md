@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152016-pk1811-alcatraz.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "1024"
 image_attribution: ""

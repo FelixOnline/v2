@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -56,10 +56,10 @@ The coating, made up of cylinders just a hundred nanometres across, was investig
 
 They looked at similar structures in gold, silver and aluminium, to see which could scatter the incident light at a high enough angle without absorbing too much itself.
 
-The scattered light takes a longer path through the solar cell, which can then extract more of its energy.  
+The scattered light takes a longer path through the solar cell, which can then extract more of its energy.
  This increase in efficiency looks to make the price of solar cells more competitive with fossil fuels in the future.
 
-“As the absorbing material alone can make up half the cost of a solar panel our aim has been to reduce to a minimum the amount that is needed,” lead author of the research Dr. Nicholas Hylton said.  
+“As the absorbing material alone can make up half the cost of a solar panel our aim has been to reduce to a minimum the amount that is needed,” lead author of the research Dr. Nicholas Hylton said.
  For thinner solar cells in particular this is good news as they are already cheaper than traditional, thicker solar cells, but the thinness of their light-absorbing material means that they are too inefficient to be widely used.
 
 This new coating could mean lightweight, flexible solar cells that could power laptops and other everyday devices.

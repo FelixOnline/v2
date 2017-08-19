@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102059-jk708-SexSurve.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1220"
 image_attribution: ""

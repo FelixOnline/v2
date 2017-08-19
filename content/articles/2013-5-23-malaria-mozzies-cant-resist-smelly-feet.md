@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305232305-tna08-anopheles_quadriannulatus.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Mosquito love me too Gwilym  if there is one within a mile he will find me out   I do agree about care in the third world  click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics  shamefulIncidentally if you have time please read my recent RS Thomas blog  I would be interested in your comments     I just want to mention I am bneniger to blogging and really savored youre web page More than likely Im going to bookmark your website  You absolutely come with fabulous articles With thanks for sharing with us your web site  hypothalamus where   cheapest car insurance   minoxidil preparation   pressure dizziness   visionloss 
+ - Mosquito love me too Gwilym  if there is one within a mile he will find me out   I do agree about care in the third world  click on my link to noma in Africa to see the apilnlpag disfigurement to children through malnutrition and lack of anti biotics  shamefulIncidentally if you have time please read my recent RS Thomas blog  I would be interested in your comments     I just want to mention I am bneniger to blogging and really savored youre web page More than likely Im going to bookmark your website  You absolutely come with fabulous articles With thanks for sharing with us your web site  hypothalamus where   cheapest car insurance   minoxidil preparation   pressure dizziness   visionloss
 imported: true
 ---
 
@@ -41,7 +41,7 @@ The researchers from the London School of Hygiene & Tropical Medicine infected m
 
 They put the mosquitoes in a container with socks that had been worn for 20 hours before the experiment.
 
-The scientists recorded the number of times the mosquitoes attacked the socks.  
+The scientists recorded the number of times the mosquitoes attacked the socks.
  They repeated the experiment with uninfected mosquitoes.
 
 The infected mosquitoes attacked the socks more often and fed for longer than uninfected mosquitoes.

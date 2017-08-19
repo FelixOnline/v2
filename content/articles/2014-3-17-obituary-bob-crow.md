@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-London awoke to a shock on Tuesday morning with the news that Bob Crow, the leader of Rail, Maritime and Transport (RMT) union had died at the age of 52. During the RMT strikes last month that crippled London Crow sprang to national prominence as the situation pitted him against Boris Johnson, Mayor of London, in a series of heated arguments about the future of the Underground Network. A controversial figure to the end, people on all sides of the political spectrum have paid their respects to a man who has had an undeniable impact the lives of Londoners in recent times.   
+London awoke to a shock on Tuesday morning with the news that Bob Crow, the leader of Rail, Maritime and Transport (RMT) union had died at the age of 52. During the RMT strikes last month that crippled London Crow sprang to national prominence as the situation pitted him against Boris Johnson, Mayor of London, in a series of heated arguments about the future of the Underground Network. A controversial figure to the end, people on all sides of the political spectrum have paid their respects to a man who has had an undeniable impact the lives of Londoners in recent times.
 Bob Crow was born in Shadwell, East London, in 1961 and joined London Underground at the age of 16 after leaving school. His first job with them involved working to clear trees and maintain the track on the Central Line. Shortly afterward he became involved in Union politics and was elected as a local representative of the National Union of Railwaymen (NUR), before becoming one of their national representatives in the mid-1980s during the height of the Thatcher years.
 
 At a time when the voice of the unions was diminishing and privatization of British Industry was in full swing, Crow helped to guide the NUR and its sister organization the National Union of Seamen during their merger to form the RMT in early 1990. He was elected to its Executive Committee in 1991 but took the unusual step of becoming a fierce critic of the Labour Party and Tony Blair in particular. The tensions became so great that in 2004 Labour chose to remove the RMT party affiliation status.

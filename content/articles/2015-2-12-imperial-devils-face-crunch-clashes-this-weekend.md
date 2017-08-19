@@ -2,7 +2,7 @@
 title: >
   Imperial Devils face crunch clashes this weekend
 subtitle: >
-  Ollie Ford on ice hockey's three crucial games 
+  Ollie Ford on ice hockey's three crucial games
 date: "2015-02-12 22:40:03 +0000"
 id: "5242"
 old_path: /sport/5242/imperial-devils-face-crunch-clashes-this-weekend
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502130157-ps3110-devils-b.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201601290846-felix-LSE_main_entrance.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: "Wikipedia"
@@ -39,11 +39,11 @@ Students at the school have started a ‘Free Speech Society’ due to what they
 
 The group say they’re tired of their university’s reputation, given that so far this academic year the sale of The Sun has been stopped in its shop, the rugby club has been disbanded for a year after it distributed sexist and homophobic leaflets, and trigger warnings were put up around a Palestinian Society protest.
 > > **Founders of ‘Speakeasy’ believe that the standard student isn’t being treated like an adult**
-The group’s founders argue that universities “should prepare us for the real world instead of putting us in the safe\-space bubble”. Although there are often debates as part of the union, chaired by elected officers, the founders of ‘Speakeasy’ believe that the standard student isn’t being treated like an adult, and claim debates on sensitive topics are being “shut down” for fear of being offensive.
+The group’s founders argue that universities “should prepare us for the real world instead of putting us in the safe-space bubble”. Although there are often debates as part of the union, chaired by elected officers, the founders of ‘Speakeasy’ believe that the standard student isn’t being treated like an adult, and claim debates on sensitive topics are being “shut down” for fear of being offensive.
 
 They say they want to create a climate that welcomes debate, instead of censoring discussion out of fear of offending. One founding member argued that there is confusion between debating a point and agreeing with it, saying that some students feel there is a “veil of hypocrisy” while students “pretend they agree so as not to disrupt the safe space”.
 
-The club’s page on the LSE’s student union website says its aims are to campaign against no\-platforming and censorship, invite speakers, and protect free speech on campus.
+The club’s page on the LSE’s student union website says its aims are to campaign against no-platforming and censorship, invite speakers, and protect free speech on campus.
 
 LSE’s newest club recently got profiled by _The Independent_ – quite a coup for a club who hasn’t actually had a real life meeting yet.
 

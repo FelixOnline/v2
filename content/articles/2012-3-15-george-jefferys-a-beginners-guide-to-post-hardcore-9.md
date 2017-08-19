@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152127-ams111-post-hardcore-mosh.jpg"
 image_caption: >
-  
+
 image_width: "465"
 image_height: "321"
 image_attribution: ""

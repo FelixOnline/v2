@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603181146-felix-madonna-like-a-virgin.jpg"
 image_caption: >
-  Find that someone who makes you feel shiny and new. 
+  Find that someone who makes you feel shiny and new.
 image_width: "1021"
 image_height: "1024"
 image_attribution: "Sire Records/Warner Bros"

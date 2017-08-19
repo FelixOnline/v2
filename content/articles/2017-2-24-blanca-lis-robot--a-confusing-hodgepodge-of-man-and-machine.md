@@ -1,6 +1,6 @@
 ---
 title: >
-  Blanca Li's Robot | A confusing hodgepodge of man and machine 
+  Blanca Li's Robot | A confusing hodgepodge of man and machine
 subtitle: >
   Blanca Li's show mixes human dancers with robot androids, but its message seems unclear
 date: "2017-02-24 17:25:11 +0000"
@@ -41,12 +41,12 @@ It's an interesting premise. Sure, robots can perform calculations with superhum
 
 In all fairness, the eight human dancers performed with skill and ease; their stamina for carrying such energetic moves for over an hour was quite commendable. But despite the energetic choreography, the moves felt rather monotonous and repetitive – dare I say, robotic?
 
-_Robot_'s selling point is its generous use of actual robots. The orchestra is self\-playing, composed of 10 mechanical instruments by Japanese art group Maywa Denki. The musical prototypes are rather whimsical: percussion instruments dominate, although there is a flower\-shaped marimba and an automated concertina \(which produced a dreadful screeching note\). While the soundtrack, composed by Tao Gutiérrez, was quite enjoyable in parts, after half an hour of drumbeats and mechanical beeping it started to become quite headache\-inducing.
+_Robot_'s selling point is its generous use of actual robots. The orchestra is self-playing, composed of 10 mechanical instruments by Japanese art group Maywa Denki. The musical prototypes are rather whimsical: percussion instruments dominate, although there is a flower-shaped marimba and an automated concertina (which produced a dreadful screeching note). While the soundtrack, composed by Tao Gutiérrez, was quite enjoyable in parts, after half an hour of drumbeats and mechanical beeping it started to become quite headache-inducing.
 
 The Nao robots were definitely the selling point of _Robot_. Infantile, with round faces and LED eyes blinking confusedly around, they seemed designed to appeal to our tendency to anthropomorphosise electronic devices. Nao #1 was gently helped out of his box by one of the dancers, like a parent teaching a child his or her first steps. They then performed a short dance together, with the dancer lifting the tiny robot above his head in an amusing _pas de deux._
 
 
-> > I suspect that the robots' instability was down to the limitations of current robot\-dancing technology rather than any intention by the choreographer.
-This was followed by a choreographed routine carried out entirely by seven Nao models. Or rather, the Nao robots made a brave attempt at finishing their routine, only to fall down every few moves and struggle back to their feet. This delighted the audience, with every new tumble eliciting coos and ‘aahs’. Was it intentional, or were the Nao robots genuinely incapable of keeping balance? If the former, catering to the audience’s desire to see robots as harmless and bumbling would have been some clever lampshading by Li. However, I rather suspect that it was down to the limitations of current robot\-dancing technology rather than any intention by the choreographer.
+> > I suspect that the robots' instability was down to the limitations of current robot-dancing technology rather than any intention by the choreographer.
+This was followed by a choreographed routine carried out entirely by seven Nao models. Or rather, the Nao robots made a brave attempt at finishing their routine, only to fall down every few moves and struggle back to their feet. This delighted the audience, with every new tumble eliciting coos and ‘aahs’. Was it intentional, or were the Nao robots genuinely incapable of keeping balance? If the former, catering to the audience’s desire to see robots as harmless and bumbling would have been some clever lampshading by Li. However, I rather suspect that it was down to the limitations of current robot-dancing technology rather than any intention by the choreographer.
 
-As the production wore on, it all struck me as a tad juvenile – the cutely inept Naos, the low\-tech mechanical orchestra, the human dancers who seemed to play second string to the dancing robots. Finally, the curtains closed on a giant tangle of machinery – variously blinking, beeping, and bumping into each other. A stray Roomba wandered to the edge of the stage, and was left outside when the curtains closed. By the end of the performance, I felt just as confused.
+As the production wore on, it all struck me as a tad juvenile – the cutely inept Naos, the low-tech mechanical orchestra, the human dancers who seemed to play second string to the dancing robots. Finally, the curtains closed on a giant tangle of machinery – variously blinking, beeping, and bumping into each other. A stray Roomba wandered to the edge of the stage, and was left outside when the curtains closed. By the end of the performance, I felt just as confused.

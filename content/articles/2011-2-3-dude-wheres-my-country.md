@@ -1,6 +1,6 @@
 ---
 title: >
-  Dude, where’s my country? 
+  Dude, where’s my country?
 subtitle: >
   The world is definitely getting smaller, and I can only see that as being a good thing
 date: "2011-02-03 20:13:44 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "397"
 image_attribution: ""

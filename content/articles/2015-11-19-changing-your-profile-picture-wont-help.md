@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - designer prescription glasses for women  technological advancements in healthcare  dr oz fat burner pills  polaroid 7 tablet review  cheap viagra fast shipping how to reset nook tablet  buy vyvanse india  what is a juris doctor degree 
+ - designer prescription glasses for women  technological advancements in healthcare  dr oz fat burner pills  polaroid 7 tablet review  cheap viagra fast shipping how to reset nook tablet  buy vyvanse india  what is a juris doctor degree
 imported: true
 ---
 

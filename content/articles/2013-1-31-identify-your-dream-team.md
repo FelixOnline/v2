@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301312354-tna08-1507.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 I’m sure you’ve all heard the phrase ‘two heads are better than one’. Seems pretty obvious, right? By this logic, it follows that three heads are better than two, four better than three and so on. Unfortunately, when it comes to startups, the equation is not quite so simple. Finding the right team is a very long and difficult task, and one mistake could jeopardise the entire business. Ed Catmull, co-founder of Pixar, summarises it perfectly: “If you give a good idea to a mediocre team, they’ll screw it up. But if you give a mediocre idea to a great team, they’ll make it work.”
 
-There are two main aspects to look at to build such a great team; skills and attitude.  
+There are two main aspects to look at to build such a great team; skills and attitude.
  Together, the ideal team will have a broad enough set of skills to be able to cover any task that needs to be done, but enough of an overlap so that the team communicates well and the idea doesn’t crash and burn the second one person leaves.
 
 For most projects, the ideal team will have the following members:
@@ -53,7 +53,7 @@ The Financier: the person that tracks the cash flow, making sure that enough mon
 
 Of course this will all vary depending on the business; one based on a brand will need more logistics and sales power, whereas one based on a new invention or discovery may need more brains behind it.
 
-Despite the common misconception, skilled people are actually not too difficult to find, especially in an institution like Imperial College. The main challenge comes in finding people with the right attitude.  
+Despite the common misconception, skilled people are actually not too difficult to find, especially in an institution like Imperial College. The main challenge comes in finding people with the right attitude.
  First and foremost, everyone in the team must share a passion for the business. This is what drives the sleepless nights and initial low pay before the idea develops and can start making money. The visionary will naturally have the most passion, but the ultimate goal and belief that the product will bring value to the end users must be prevalent throughout.
 
 Beyond that is the work ethic and personality fit with the team. We have all had experience with lazy members and those that constantly bring the team down. Even if they have the perfect skill set and are brilliant at what they do, they will undoubtedly disturb the harmony of the rest of the group and could potentially jeopardise the whole project.

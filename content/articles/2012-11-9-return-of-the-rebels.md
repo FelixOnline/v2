@@ -1,6 +1,6 @@
 ---
 title: >
-  Return of the Rebels 
+  Return of the Rebels
 subtitle: >
   An incredible night of thoughtful rap
 date: "2012-11-09 14:22:30 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091420-tna08-immortaltechnique.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106021937-felix-bada-os.jpg"
 image_caption: >
-  
+
 image_width: "1476"
 image_height: "1476"
 image_attribution: ""

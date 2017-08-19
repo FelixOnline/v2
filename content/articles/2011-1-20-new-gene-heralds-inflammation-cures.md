@@ -1,6 +1,6 @@
 ---
 title: >
-  New gene heralds inflammation cures 
+  New gene heralds inflammation cures
 subtitle: >
   Imperial College London develops potential method to control the body's inflammatory response
 date: "2011-01-20 19:24:19 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201921-ks607-thingsth.jpg"
 image_caption: >
-  
+
 image_width: "2040"
 image_height: "1536"
 image_attribution: ""

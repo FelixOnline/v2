@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102282136-ks607-somefoot.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "576"
 image_attribution: ""

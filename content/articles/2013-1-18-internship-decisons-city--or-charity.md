@@ -2,7 +2,7 @@
 title: >
   Internship decisons: City? ... Or Charity?
 subtitle: >
-  Already secured a city internship for summer ‘13? Or perhaps you’re looking to work in the third sector? Caroline Wood compares the two 
+  Already secured a city internship for summer ‘13? Or perhaps you’re looking to work in the third sector? Caroline Wood compares the two
 date: "2013-01-18 00:14:15 +0000"
 id: "3127"
 old_path: /news/3127/internship-decisons-city--or-charity
@@ -105,14 +105,14 @@ __Did you feel your work was valued by your team?__
 
 Kind of. Although I felt that I didn’t have enough technical knowledge to add value most of the time
 
-Did your internship give you the opportunity to develop your skills and increase your knowledge?  
+Did your internship give you the opportunity to develop your skills and increase your knowledge?
  In some areas, definitely yes. However, at times I felt like I was being given mundane tasks such as preparing ppt. slides and updating spreadsheets that weren’t giving me much insight into how the firm operated.
 
 __Would you like to work at the organisation full time? Why / Why not?__
 
 The people area great and the work is varied and can be interesting. Consulting work is highly dependent on your team, location and project and this gamble would be one of the things that would deter me from going back.
 ## Charity
-TODO: image from 
+TODO: image from
 __3rd year Biologist__
 
 _Wellcome Trust_

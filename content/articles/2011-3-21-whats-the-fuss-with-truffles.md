@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104212008-felix-223667503_eacb4a8185_b.jpeg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "731"
 image_attribution: "flickr/chrisblakeley"

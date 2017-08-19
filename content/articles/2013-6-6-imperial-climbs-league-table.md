@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306061949-tna08-league-table-cliff-face-final_final.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,7 +44,7 @@ Inspection of endowment does bring some surprising results. As of July 2012 the 
 
 The league table by the Guardian makes student satisfaction the centrepiece of the academic dinner table. It would appear, from surveys for other league tables (by the Times Higher Education Supplement), that students think that the fault of many Departments within the College is to suffocate students with a massive academic workload.
 
-Interestingly, the “Entry Tariff” for Imperial was the third highest in the country. This is the UCAS points score that students at the university achieve. Above Imperial are Cambridge and Oxford.  
+Interestingly, the “Entry Tariff” for Imperial was the third highest in the country. This is the UCAS points score that students at the university achieve. Above Imperial are Cambridge and Oxford.
  The Guardian also released their individual subject tables, showing what university it considers the best for various subjects. The fortunes of the different subjects were extremely mixed. Some doing extremely poorly, and some coming out on top. Earth and Marine Sciences was rated number one in the country, with 94% of students being in a career after six months. Mechanical Engineering was also top, with an average entry tariff that stood head and shoulders above the rest. Civil Engineering took second place, behind UCL’s equivalent. EEE, General Engineering (this specific course is not offered at Imperial and so this is likely to be an amalgamation of the engineering subjects), Materials, and Chemical Engineering all came third. Physics came fifth, with the percentage of students satisfied with the feedback (64%) being the main distinguishing factor between Imperial and the other courses. Feedback again hit Mathematics, who were seventh. Medicine came in ninth and had the lowest score of all the courses for feedback – with only 47% saying they were happy. Although this was better than King’s College London, who managed to score an impressively poor 18%. Chemistry and Biosciences were the two worst performing at Imperial. Chemistry were in 12th, with satisfaction with teaching, feedback, and the course seemingly dragging down the rating. Biosciences performed the worst by quite a margin: they came 25th in the subject table. Again it appeared to be satisfaction that caused the problems.
 
 The Guardian league tables are published yearly. Research performed by economists at Royal Holloway found that improving a Department’s overall score in the Guardian’s league table was linked with an increase in applications. Studying the UCAS data and the league tables published by the Guardian from 2004 onwards showed that an increase in the overall score by one standard deviation saw an average 4.8% increase in applications. This only applied to Departments at the top of the table. The authors of the paper said: “Universities cannot afford to neglect their performance on league tables so long as they wish to establish and maintain a consistent reputation to attract the best of students.”

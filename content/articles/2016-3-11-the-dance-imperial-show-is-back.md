@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603111143-felix-di poster 2.jpg"
 image_caption: >
-  
+
 image_width: "4934"
 image_height: "7005"
 image_attribution: ""
@@ -46,7 +46,7 @@ Dance Club is the largest of the dance societies specialising in the many Latin,
 
 Dance Company teaches Ballet, Contemporary, Jazz and Tap dance primarily based in the South Kensington campus. They teach classes in a range of levels and have 8 competition teams that tour the UK.
 
-ICSM Dance offers Ballet and Contemporary dance classes to beginners and intermediate levels based in the Reynolds Building \(Charing Cross Hospital\). Leading off last year’s success they are now also competing in competitions.
+ICSM Dance offers Ballet and Contemporary dance classes to beginners and intermediate levels based in the Reynolds Building (Charing Cross Hospital). Leading off last year’s success they are now also competing in competitions.
 
 Funkology is Imperial’s only Hiphop and Breakdance society. Like the others, they teach people of all levels and offer many opportunities to perform and compete. Their highly awarded competition teams are both performing at this year’s show.
 
@@ -54,7 +54,7 @@ Pole and Aerial Society brings enjoyable and affordable pole fitness, aerial sil
 
 Come along to the Dance Imperial Show 2016 and see all these amazing societies in action. Not only will they be showcasing their individual talents, but expect to see many crossovers, for example with an exciting collaboration between Hiphop Jazz and Pole dance.
 
-Tickets are available online or from the six participating societies. Any remaining tickets will be sold on the door. £3/£5 students/non\-students. To find out more check out our website danceimperial.org.
+Tickets are available online or from the six participating societies. Any remaining tickets will be sold on the door. £3/£5 students/non-students. To find out more check out our website danceimperial.org.
 
 Show nights: Thursday 17th, Friday 18th and Saturday 19th March
 

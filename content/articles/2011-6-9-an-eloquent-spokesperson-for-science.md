@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106092208-felix-img_0148-1.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Charles Poon"

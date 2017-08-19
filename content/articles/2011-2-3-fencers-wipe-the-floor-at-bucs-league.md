@@ -1,6 +1,6 @@
 ---
 title: >
-  Fencers wipe the floor at BUCS league 
+  Fencers wipe the floor at BUCS league
 subtitle: >
   IC Fencing undefeated
 date: "2011-02-03 20:39:23 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032037-ks607-etretret.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

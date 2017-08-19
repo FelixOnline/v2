@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603041159-felix-11]police.jpg"
 image_caption: >
-  
+
 image_width: "1824"
 image_height: "925"
 image_attribution: ""
@@ -49,4 +49,4 @@ The road is used often by students who are commuting towards Earls Court, and so
 
 Anyone with any information is urged to contact Kensington and Chelsea CID on 020 8246 0189.
 
-The video can be viewed here: https://twitter.com/metpoliceuk/status/704610846681346048?lang=en\-gb
+The video can be viewed here: https://twitter.com/metpoliceuk/status/704610846681346048?lang=en-gb

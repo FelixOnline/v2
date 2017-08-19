@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012091926-ma1307-Gasmask.jpg"
 image_caption: >
-  
+
 image_width: "700"
 image_height: "298"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Im laughing at the first colupe of answers  Clearly these are people unfamiliar with the true horror genre watch some Vincent PriceA lot of the classics really do a great job of giving you the rules of certain monsters and story lines  When you know the rules is when you can bend them  You should do your research and find horror stories like the one you want to write and commit to readingwatching and analyzing themReferences 
+ - Im laughing at the first colupe of answers  Clearly these are people unfamiliar with the true horror genre watch some Vincent PriceA lot of the classics really do a great job of giving you the rules of certain monsters and story lines  When you know the rules is when you can bend them  You should do your research and find horror stories like the one you want to write and commit to readingwatching and analyzing themReferences
 imported: true
 ---
 

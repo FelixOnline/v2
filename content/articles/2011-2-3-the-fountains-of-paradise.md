@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032009-ks607-fountain.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "1302"
 image_attribution: ""

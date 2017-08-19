@@ -37,7 +37,7 @@ imported: true
 
 A group of business school deans and those responsible for international recruitment at 15 UK universities, including Imperial, were interviewed as part of a report which concluded that current visa rules are making study in the UK “difficult and unattractive”.
 
-With almost 35% of the student body comprising of overseas students \(not including EU countries\) this is potentially problematic for Imperial due to the large contingent contributing £23,000+ each per year in tuition fees, and up to £36,000 for some medicine courses. A decrease in this huge chunk of income may lead to the financial burden either having to be taken up by home students or through a decrease in facilities and/or grants.
+With almost 35% of the student body comprising of overseas students (not including EU countries) this is potentially problematic for Imperial due to the large contingent contributing £23,000+ each per year in tuition fees, and up to £36,000 for some medicine courses. A decrease in this huge chunk of income may lead to the financial burden either having to be taken up by home students or through a decrease in facilities and/or grants.
 
 The wider economy may also be at risk too, with the report by CABS saying international students studying business alone contribute £2.4 billion to universities and the UK economy, with its latest figures showed that this was in decline.
 

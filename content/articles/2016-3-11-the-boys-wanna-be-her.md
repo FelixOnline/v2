@@ -1,8 +1,8 @@
 ---
 title: >
-  The boys wanna be her 
+  The boys wanna be her
 subtitle: >
-  In honour of International Women’s Day we celebrate the female artists who inspire us 
+  In honour of International Women’s Day we celebrate the female artists who inspire us
 date: "2016-03-11 12:04:24 +0000"
 id: "6042"
 old_path: /arts/6042/the-boys-wanna-be-her-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603111201-felix-frida.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1317"
 image_attribution: "Nickolas Muray Photo Archives"
@@ -37,11 +37,11 @@ imported: true
 
 **Judith Leyster**
 
-Leyster, born in 1606 was the only woman to be appointed one of the Dutch Masters. It’s easy to see why, ‘Self\-Portrait’ \(pictured left\) brilliantly shows what a virtuoso and throughly modern  painter she was. The composition is a break from the rigidity and formality of portraiture of the past, the scene could almost be a photograph of her caught just as she turns to greet the viewer.  Her brushwork is loose and fluid, with an innate mastery of light, which exemplifies so much of  what revolutionised Dutch and indeed European painting during the period. Unfortunately, Leyster had a short career and despite garnering fame and respect during her life, her work was largely forgotten after her death, and attributed wrongly to her much more famous male contemporary Frans Hals whose style was similar to her own. She was to remain in obscurity until she was ‘rediscovered’ more than two hundred years after her death.
+Leyster, born in 1606 was the only woman to be appointed one of the Dutch Masters. It’s easy to see why, ‘Self-Portrait’ (pictured left) brilliantly shows what a virtuoso and throughly modern  painter she was. The composition is a break from the rigidity and formality of portraiture of the past, the scene could almost be a photograph of her caught just as she turns to greet the viewer.  Her brushwork is loose and fluid, with an innate mastery of light, which exemplifies so much of  what revolutionised Dutch and indeed European painting during the period. Unfortunately, Leyster had a short career and despite garnering fame and respect during her life, her work was largely forgotten after her death, and attributed wrongly to her much more famous male contemporary Frans Hals whose style was similar to her own. She was to remain in obscurity until she was ‘rediscovered’ more than two hundred years after her death.
 
-**Amrita  Sher\-Gil**
+**Amrita  Sher-Gil**
 
-Amrita Sher\-Gil is one of the most prominent Indian artists of the 20th century, born to a Sikh father and a Hungarian mother, in 1913 she spent most of her childhood in Budapest and went on to study at the famous École des Beaux\-Arts in Paris. There, she was influenced by Gauguin and Cezanne, however it was her family’s return to India which set her career on the path of greatness. She portrayed the people and the culture of India is all it’s colour and vibrancy in the Impressionist style which she married with the traditional Mughal and Pahari movements in an astonishing body of work. She is the youngest ever and the only Asian to be elected an Associate of the Grand Salon in Paris.
+Amrita Sher-Gil is one of the most prominent Indian artists of the 20th century, born to a Sikh father and a Hungarian mother, in 1913 she spent most of her childhood in Budapest and went on to study at the famous École des Beaux-Arts in Paris. There, she was influenced by Gauguin and Cezanne, however it was her family’s return to India which set her career on the path of greatness. She portrayed the people and the culture of India is all it’s colour and vibrancy in the Impressionist style which she married with the traditional Mughal and Pahari movements in an astonishing body of work. She is the youngest ever and the only Asian to be elected an Associate of the Grand Salon in Paris.
 
 **Margaret Atwood**
 
@@ -57,7 +57,7 @@ If I hadn’t read _Oranges are Not the Only Fruit_, I think I would have a far 
 
 **Frida Kahlo**
 
-Frida Kahlo’s enduring appeal  lies in the astonishing honesty in her work. She started painting after a near fatal bus accident in her youth left one leg crushed, and with chronic life long pain. Pain and suffering pervade her work, as does beauty despite this, she is perhaps the first and only painter since Vincent Van Gogh to be able to marry the conflicting emotion quite so vividly. Her use of  colour and surrealist imagery \(though she never considered herself a surrealist\), coupled with her unfliniching portrayal of herself in her self portraits, one of which depicts her body split down the middle revealing a shattered column as a spine speak to her willingness to portray herself with vulnerability, and despite this strength, and to some degree, humour.  Women have always been portrayed in art, but by turning the so readily on herself she cast aside the idea of women seen through the male gaze, instead celebrated femininity is all its tragedy and complexity as well as joy and beauty.
+Frida Kahlo’s enduring appeal  lies in the astonishing honesty in her work. She started painting after a near fatal bus accident in her youth left one leg crushed, and with chronic life long pain. Pain and suffering pervade her work, as does beauty despite this, she is perhaps the first and only painter since Vincent Van Gogh to be able to marry the conflicting emotion quite so vividly. Her use of  colour and surrealist imagery (though she never considered herself a surrealist), coupled with her unfliniching portrayal of herself in her self portraits, one of which depicts her body split down the middle revealing a shattered column as a spine speak to her willingness to portray herself with vulnerability, and despite this strength, and to some degree, humour.  Women have always been portrayed in art, but by turning the so readily on herself she cast aside the idea of women seen through the male gaze, instead celebrated femininity is all its tragedy and complexity as well as joy and beauty.
 
 **Tracey Emin**
 
@@ -73,4 +73,4 @@ Yishay Garbasz is a photographer and film artist who captures devastatingly matt
 
 **Guerrilla Girls**
 
-The anonymous New York collective describe themselves as being the “conscience of the art world”.  In an ultimate triumph of substance over form they use photomontages and clear typeface on solid colourful backgrounds to call out the lack of representation of female artists in New York galleries, the misogny of music videos, and the racial and gender inqualities in the Oscars,  referring to their vast canvases as ‘actions’. Indeed, their persistent activism has led galleries to rethink the artists they display. The gorilla masks came about from a desire to protect the members from reprisals when they first started out in 1985 but their look has reached somewhat of a cult status; even when two were outed by New Yorker writer Peter Toobin, the unmasking did not gain much traction because as one member says “\[people\] don’t want to know who we are...They’d like us to just keep doing what we’re doing.”
+The anonymous New York collective describe themselves as being the “conscience of the art world”.  In an ultimate triumph of substance over form they use photomontages and clear typeface on solid colourful backgrounds to call out the lack of representation of female artists in New York galleries, the misogny of music videos, and the racial and gender inqualities in the Oscars,  referring to their vast canvases as ‘actions’. Indeed, their persistent activism has led galleries to rethink the artists they display. The gorilla masks came about from a desire to protect the members from reprisals when they first started out in 1985 but their look has reached somewhat of a cult status; even when two were outed by New Yorker writer Peter Toobin, the unmasking did not gain much traction because as one member says “[people] don’t want to know who we are...They’d like us to just keep doing what we’re doing.”

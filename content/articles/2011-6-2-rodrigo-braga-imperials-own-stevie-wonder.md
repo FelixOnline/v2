@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022104-felix-n59219057473_2189194_254557.jpg"
 image_caption: >
-  
+
 image_width: "285"
 image_height: "356"
 image_attribution: ""

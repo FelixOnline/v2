@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212070233-tna08-bangladesh.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Good effort Never thought to do anything like this till now Will see you at the bake sale next week Thanks Whats a good life if it isnt a collection of the most eye opening and horizon broadening experiences Well done John  
+ - Good effort Never thought to do anything like this till now Will see you at the bake sale next week Thanks Whats a good life if it isnt a collection of the most eye opening and horizon broadening experiences Well done John
 imported: true
 ---
 

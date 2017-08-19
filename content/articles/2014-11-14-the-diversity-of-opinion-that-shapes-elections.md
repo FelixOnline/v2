@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411142031-ps3110-prime-minister-guy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Useful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to staUseful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to stay up there Secondly  we  suppress rather than emulate and exceed  the past achievements of our ablest peopleLord Bellwin for onejust look in Hansardand how about the bloke whoshould have been exempted on grounds of ageinsisted that he drop into Arnhem  
+ - Useful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to staUseful analysis  from a very able man who appears understandably unaware of an  underlying feature of  our political life We suffer from 2 life threatening diseases First we ignore Galls Law in major decision makingcf  PFI contractsThe Equality ActNHS ReformThe NHS Computer System Thats tantamount to chucking an apple in the air and expecting it to stay up there Secondly  we  suppress rather than emulate and exceed  the past achievements of our ablest peopleLord Bellwin for onejust look in Hansardand how about the bloke whoshould have been exempted on grounds of ageinsisted that he drop into Arnhem
 imported: true
 ---
 

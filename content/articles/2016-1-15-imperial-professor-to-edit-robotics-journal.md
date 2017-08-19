@@ -41,7 +41,7 @@ Professor Yang is currently the Director of the Hamlyn Centre on the South Kensi
 
 As well as this, Professor Yang was in the The Times’ Eureka ‘Top 100’ scientists in 2010, he’s a Royal Academy of Engineering Fellow and has previously won the Royal Society Research Merit Award.
 
-The Professor told Imperial, “The time is right for robotics to be covered by a top\-tier journal from Science”.
+The Professor told Imperial, “The time is right for robotics to be covered by a top-tier journal from Science”.
 
 “In my role as Editor of Science Robotics I look forward to working with the editorial board and receiving submissions from the global robotics community in all its diversity, and playing a part in sharing the most promising breakthroughs in the field.”
 

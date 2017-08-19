@@ -1,6 +1,6 @@
 ---
 title: >
-  Holland Club change on the cards 
+  Holland Club change on the cards
 subtitle: >
   Union and Committee respond to proposed floor plans – panel to be held next week
 date: "2012-02-09 22:43:16 +0000"

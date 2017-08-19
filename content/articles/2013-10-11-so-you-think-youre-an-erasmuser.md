@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310122131-jal08-erasmus-logo.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "ERASMUS"
@@ -50,7 +50,7 @@ Again, I am not saying that you shouldn’t go abroad if leaving your parents th
 
 __Are you comfortable drinking large quantities of local alcoholic beverages in order to improve your foreign language abilities?__
 
-This is probably the least worrying of the considerations: I left London a lightweight drinker who couldn’t have a pint of cider at the union without stumbling home afterwards, and I return with the drinking stamina of a small Australian rugby team. However, feeling uncomfortable about the language is a hard part of going on an Erasmus. The truth is that one never really feels like the same person when speaking a foreign language: jokes seem lamer; feelings appear impossible to translate into phrases, and occasionally, or very often, people laugh at your mistakes. This is something to consider because, if you are a naturally shy person, it is unlikely that you will discover your inner lion while talking German to a group of Bavarian footballers from the local club. Even so, at the end of the time you spend abroad you will have achieved some goals from a linguistic point of view, and anyway, there are always other Erasmus students, and chances are that you might be able to sneak a few cheeky English phrases here and there.  
+This is probably the least worrying of the considerations: I left London a lightweight drinker who couldn’t have a pint of cider at the union without stumbling home afterwards, and I return with the drinking stamina of a small Australian rugby team. However, feeling uncomfortable about the language is a hard part of going on an Erasmus. The truth is that one never really feels like the same person when speaking a foreign language: jokes seem lamer; feelings appear impossible to translate into phrases, and occasionally, or very often, people laugh at your mistakes. This is something to consider because, if you are a naturally shy person, it is unlikely that you will discover your inner lion while talking German to a group of Bavarian footballers from the local club. Even so, at the end of the time you spend abroad you will have achieved some goals from a linguistic point of view, and anyway, there are always other Erasmus students, and chances are that you might be able to sneak a few cheeky English phrases here and there.
  Having considered all these things, you should now consider this: nobody is, ever, ever again going to sponsor you for meeting lovely people, seeing new places, living in a foreign country, learning a different language and, yeah, doing all the things it says on the brochure. You might get the occasional feeling, reminiscent about the time you were picked last for the volley team in PE, but those passed then, and now the odds are all in your favour. You came to Imperial a scared fresher, and now you’re a cool, easygoing Imperialite and full of friends! It’s time to do it again and become an Erasmuser! If you’re really lucky you might even meet a group of lovely nerds and spend the best few months of your life.
 
 __Disclaimer: Students are advised to check out the situation in their own deptartment__

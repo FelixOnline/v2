@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,8 +34,8 @@ comments:
 imported: true
 ---
 
-RCSU’s annual Science Challenge is launching for this year on December 3rd. Previous years have included a tour of CERN as a prize for the overall winner. This tour of CERN was offered by past RCSU President & Science Challenge Chair Dr Jad Marrouche.  
- Dr Marrouche is the man responsible for founding the Science Challenge, as the first president of the newly-formed RCSU. In fact he was presented with an Outstanding Service Award in 2007 “for leading and effectively building a dynamic faculty Union.” He is currently a research associate with the Department of Physics based at CERN. He did his PhD there as part of the High Energy Physics Group. As a postgraduate student he received a Student Award for Outstanding Achievement in recognition of his outreach work. He is also the Deputy President of the Royal College of Science Association, the RCSU’s alumni organisation.  
+RCSU’s annual Science Challenge is launching for this year on December 3rd. Previous years have included a tour of CERN as a prize for the overall winner. This tour of CERN was offered by past RCSU President & Science Challenge Chair Dr Jad Marrouche.
+ Dr Marrouche is the man responsible for founding the Science Challenge, as the first president of the newly-formed RCSU. In fact he was presented with an Outstanding Service Award in 2007 “for leading and effectively building a dynamic faculty Union.” He is currently a research associate with the Department of Physics based at CERN. He did his PhD there as part of the High Energy Physics Group. As a postgraduate student he received a Student Award for Outstanding Achievement in recognition of his outreach work. He is also the Deputy President of the Royal College of Science Association, the RCSU’s alumni organisation.
  Dr Marrouche is still involved with the Science Challenge and will be judging this year’s video entries. Fiona Hartley, RCSU Broadsheet editor, caught up with him in between seminars and meetings to ask him about the inception of the Science Challenge, as well as inquire as to how he secured his position at the world’s largest physics laboratory.
 
 __RCSU: How did you come to arrange the Science Challenge?__
@@ -60,7 +60,7 @@ __RCSU: He definitely is. So, you graduated some time ago and you work at CERN n
 
 JM: I finished my undergraduate degree in physics in 2007. I then did a PhD with Imperial, based out at CERN, working on the CMS experiment. In the Large Hadron Collider experiment there are four main experiments: CMS, ATLAS, ALICE and LHCb. CMS and ATLAS are general-purpose detectors, in the sense that they are not looking for a specific signature but are able to reconstruct any signatures out there.
 
-My PhD was effectively commissioning the algorithm for the CMS trigger system. That’s a speed camera, if you like. We’re not able to save every event that happens at the LHC, so we have to make a decision on which ones to save. The reason we have to do this is because the events that we’re interested in happen one in every ten million or ten billion times that there is a collision. So you need a high collision rate to see such events.  
+My PhD was effectively commissioning the algorithm for the CMS trigger system. That’s a speed camera, if you like. We’re not able to save every event that happens at the LHC, so we have to make a decision on which ones to save. The reason we have to do this is because the events that we’re interested in happen one in every ten million or ten billion times that there is a collision. So you need a high collision rate to see such events.
  But obviously you don’t want to save ten billion events to see one; you want to save a hundred to see one. So you need some sort of algorithm that will filter the events. That’s what I was involved in, in part.
 
 __RCSU: That’s pretty interesting. Finally, you’re the Deputy President of the Royal College of Science Association.__

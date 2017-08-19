@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200643-felix-3._laus_veneris.jpg"
 image_caption: >
-  
+
 image_width: "2362"
 image_height: "1572"
 image_attribution: "Laus Veneris, Edward Burne-Jones"

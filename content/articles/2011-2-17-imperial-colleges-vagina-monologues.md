@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102171858-nm1010-vaginamo.jpg"
 image_caption: >
-  
+
 image_width: "2784"
 image_height: "5096"
 image_attribution: ""

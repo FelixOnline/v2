@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201512061442-ff712-JesusCamp1.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "304"
 image_attribution: "Jesus Camp PR"
@@ -39,6 +39,6 @@ imported: true
 
 This introductory five minutes alone set the tone perfectly. Telling the story of this camp and its leaders, _Jesus Camp_ attempts to make broader statements about fundamentalist Christianity in America.
 
-A massively hands\-off approach is taken by directors Heidi Ewing and Rachel Grady, with no voice\-overs or opinions being directly offered by the pair.  This approach works so well because the ridiculousness of this church and its inside goings on are so obvious that comment is unnecessary. “We got too many Christian grown\-ups who are fat and lazy,” our morbidly obese preacher exclaims as the camera holds on her, and subtle critiques and digs like this are sprinkled throughout the film. The actual opinions of the filmmakers seem to be reflected in a few small clips of radio host Mike Papantonio, who talks of the influence of these religious groups and their scary right\-wing affiliations. Some would call his sections slightly forced but I disagree; the dialogue he eventually is able to have with Fischer in particular serves as a perfect microcosm of political debates occurring within America.
+A massively hands-off approach is taken by directors Heidi Ewing and Rachel Grady, with no voice-overs or opinions being directly offered by the pair.  This approach works so well because the ridiculousness of this church and its inside goings on are so obvious that comment is unnecessary. “We got too many Christian grown-ups who are fat and lazy,” our morbidly obese preacher exclaims as the camera holds on her, and subtle critiques and digs like this are sprinkled throughout the film. The actual opinions of the filmmakers seem to be reflected in a few small clips of radio host Mike Papantonio, who talks of the influence of these religious groups and their scary right-wing affiliations. Some would call his sections slightly forced but I disagree; the dialogue he eventually is able to have with Fischer in particular serves as a perfect microcosm of political debates occurring within America.
 
-It is this that allows the film to go beyond the camp and explore the wider issues of right wing politics and literalist Christianity in America. One scene that particularly stands out involves a cardboard cut of George W. Bush featured in one sermon, where Bush is deistically praised by the preachers for his pro\-life ideals and commitment to God. The dangers of religion in American politics is explored in detail with the nomination of Samuel Alito – a heavily conservative Christian, and friend of Bush – to the Supreme Court acting as a key example.
+It is this that allows the film to go beyond the camp and explore the wider issues of right wing politics and literalist Christianity in America. One scene that particularly stands out involves a cardboard cut of George W. Bush featured in one sermon, where Bush is deistically praised by the preachers for his pro-life ideals and commitment to God. The dangers of religion in American politics is explored in detail with the nomination of Samuel Alito – a heavily conservative Christian, and friend of Bush – to the Supreme Court acting as a key example.

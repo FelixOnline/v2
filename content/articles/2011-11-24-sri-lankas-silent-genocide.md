@@ -1,6 +1,6 @@
 ---
 title: >
-  Sri Lanka’s silent genocide 
+  Sri Lanka’s silent genocide
 subtitle: >
   Oppression in Sri Lanka may lead on to more uprisings
 date: "2011-11-24 22:43:42 +0000"

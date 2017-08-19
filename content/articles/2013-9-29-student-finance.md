@@ -39,7 +39,7 @@ Hopefully anyone who is eligible has already applied for Student Finance England
 ####  Why open a student account?
 
 With the start of university, the most important preparation you should be doing is to ‘Sort out your finances’. The first step to achieve this is to open a student account at the right bank. There are many banks out there, each and every one of them offering a variety of different services and freebies. The most important thing you should be considering is cost-free borrowing (interest free overdraft). This is the crucial difference between student accounts and standard accounts. Student accounts also offer the same functions such as internet/mobile banking, direct debit facilities, contactless etc. These accounts are designed for people who are attending higher education, so open your account now!
-TODO: image from 
+TODO: image from
 ####  Interest Free Overdraft:
 
 This is the most important factor you should be considering, as you may be feeling financial constraints later on in the year. The larger the Interest Free Overdraft the better, as some banks could charge you more to increase your borrowing. Many students also use overdraft to add funds to an ISA, this is a savings account with a favourable tax status, thereby earning you interest on free borrowed money. Currently the banks which offer the best interest free overdrafts with up to £3000 are HSBC and Halifax. Beware that borrowing past the free overdraft limit will incur you heavy charges, along with interest rates of up to 24% AER.
@@ -58,7 +58,7 @@ No doubt after coming to London as a student you will be doing a lot of cooking 
 
 ####  Headline Interest Rate
 
-This is the highest interest rate (gross/AER) paid on balances held in the accounts. Most of the student accounts offer 0% headline interest, however some banks do offer it, such as HSBC (2%), Halifax (0.1%), Santander (1%) and Bank of Ireland (0.5%). My recommendation is that if you do have spare cash in your account, transfer it to a high interest savings account.  
+This is the highest interest rate (gross/AER) paid on balances held in the accounts. Most of the student accounts offer 0% headline interest, however some banks do offer it, such as HSBC (2%), Halifax (0.1%), Santander (1%) and Bank of Ireland (0.5%). My recommendation is that if you do have spare cash in your account, transfer it to a high interest savings account.
  Other
 
 HSBC has teamed up with Sony to offer up to 18 music albums to download for free.

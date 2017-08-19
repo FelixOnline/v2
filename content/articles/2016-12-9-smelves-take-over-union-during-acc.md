@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612121609-felix-15271390_10157771547145394_1576959608_o (1).jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1187"
 image_attribution: "Natasha Joana Khaleeq"
@@ -36,9 +36,9 @@ imported: true
 
 The union was quite literally painted blue last week after another successful ACC. The makeover was a result of blue face and body paint runoff which was part of the costumes men’s rugby had selected for the occasion.
 
-The rugby players, who attended as ‘Smelves’ \(the hybrid of a smurf and an elf, which roughly translates into half naked blue men\) left a trail of blue paint in several union spaces \(and on several people\) with one College source describing the mess left in the restrooms resembling “a battlefield only everyone was bleeding blue”.
+The rugby players, who attended as ‘Smelves’ (the hybrid of a smurf and an elf, which roughly translates into half naked blue men) left a trail of blue paint in several union spaces (and on several people) with one College source describing the mess left in the restrooms resembling “a battlefield only everyone was bleeding blue”.
 
-The mess didn’t go unnoticed by Union officials. As Rachel Blythe, Deputy Finance and Services, told felix, “we are aware that several groups of students were dressed up for the ACC event last night \[sic\], some of whom were wearing face and body paint. After the night ended, there was paint left in the sinks and on some of the tiling in the East Wing male toilets.”
+The mess didn’t go unnoticed by Union officials. As Rachel Blythe, Deputy Finance and Services, told felix, “we are aware that several groups of students were dressed up for the ACC event last night [sic], some of whom were wearing face and body paint. After the night ended, there was paint left in the sinks and on some of the tiling in the East Wing male toilets.”
 
 Following the night’s celebrations, men’s rugby offered to help clean up according to Blythe.
 > > One College source described the mess left in the restrooms resembling a battlefield only everyone was bleeding blue

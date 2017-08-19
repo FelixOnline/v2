@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602191106-felix-Screen Shot 2016-02-18 at 14.47.02.png"
 image_caption: >
-  
+
 image_width: "662"
 image_height: "805"
 image_attribution: "MailOnline"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-This week, national newspapers covered the sexism row that has been raging since the union strongly advised RAG to bin 1600 copies of a satirical magazine they’d just printed. In an attempt to raise money for Great Ormond Street Hospital, the British Refugee Council and Porridge in Rice, which works in Kenya, RAG published a 16\-page handout that included several pages of ‘satire’, which the union has branded a sexist example of “harassment and bullying” against the Union President. After last Friday’s FELIX, which published comment pieces responding to the story, journalists from the _Daily Mail_ and _Evening Standard_ began to contact members of the RAG committee, the Union President and College.
+This week, national newspapers covered the sexism row that has been raging since the union strongly advised RAG to bin 1600 copies of a satirical magazine they’d just printed. In an attempt to raise money for Great Ormond Street Hospital, the British Refugee Council and Porridge in Rice, which works in Kenya, RAG published a 16-page handout that included several pages of ‘satire’, which the union has branded a sexist example of “harassment and bullying” against the Union President. After last Friday’s FELIX, which published comment pieces responding to the story, journalists from the _Daily Mail_ and _Evening Standard_ began to contact members of the RAG committee, the Union President and College.
 
 The news story made page ten of Tuesday’s Evening Standard along with an image of the union president Photoshopped over the business school. The piece was mostly a rehash of FELIX content, with an additional comment from the union’s interim Managing Director, who said the union had “responded to students’ concerns about the magazine and RAG had apologised”. A short Editorial Comment piece on the incident featured on page 14 of the daily newspaper, calling it a “small but dispiriting example of the creeping censorship at universities”.
 

@@ -2,7 +2,7 @@
 title: >
   Back to the shire
 subtitle: >
-  Researchers have found the hobbit is not human 
+  Researchers have found the hobbit is not human
 date: "2016-02-26 11:33:57 +0000"
 id: "5962"
 old_path: /science/5962/back-to-the-shire

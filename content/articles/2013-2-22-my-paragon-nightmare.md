@@ -2,7 +2,7 @@
 title: >
   My Paragon Nightmare
 subtitle: >
-  A first-year shares their experience of living in halls over six miles from the South Ken campus 
+  A first-year shares their experience of living in halls over six miles from the South Ken campus
 date: "2013-02-22 01:57:19 +0000"
 id: "3369"
 old_path: /comment/3369/my-paragon-nightmare
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220157-tna08-brentford.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Is this a troll Im surprised hes not complaining that he had to do his own laundry and buy his own clothesI do agree that the Paragon halls are probably not in the most sensible location and the same applies to the proposed new Acton accommodation However a spoilt whiny rant like this doesnt do much for the cause A 40 minute commute or longer is hardly unusual for people working or studying in London Similarly most of us have to put up with crowded public transport lessthanspacious accommodation and not being able to living in a posh borough like Chelsea  Kensington As for the horror of having to get up 2 hours before lectures  so 7am at the very earliest  Im afraid the world of work is going to come as a big shock My friend ignore the two nasty comments above They sound like theyve been written by the typical social misanthropes you find around Imperial the type who never left their murky rooms in first year and refused to speak to anyone in halls Not everyone at this college 
+ - Is this a troll Im surprised hes not complaining that he had to do his own laundry and buy his own clothesI do agree that the Paragon halls are probably not in the most sensible location and the same applies to the proposed new Acton accommodation However a spoilt whiny rant like this doesnt do much for the cause A 40 minute commute or longer is hardly unusual for people working or studying in London Similarly most of us have to put up with crowded public transport lessthanspacious accommodation and not being able to living in a posh borough like Chelsea  Kensington As for the horror of having to get up 2 hours before lectures  so 7am at the very earliest  Im afraid the world of work is going to come as a big shock My friend ignore the two nasty comments above They sound like theyve been written by the typical social misanthropes you find around Imperial the type who never left their murky rooms in first year and refused to speak to anyone in halls Not everyone at this college
 imported: true
 ---
 

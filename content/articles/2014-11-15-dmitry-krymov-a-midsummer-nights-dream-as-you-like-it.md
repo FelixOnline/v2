@@ -1,6 +1,6 @@
 ---
 title: >
-  Dmitry Krymov: A Midsummer Night’s Dream (As You like It) 
+  Dmitry Krymov: A Midsummer Night’s Dream (As You like It)
 subtitle: >
   Fred Fyles reviews the latest piece at the Barbican Theatre
 date: "2014-11-15 01:18:07 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411150117-ps3110-02.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

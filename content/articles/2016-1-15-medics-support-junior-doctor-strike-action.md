@@ -45,7 +45,7 @@ The picketers themselves wore armbands and fluorescent jackets, issued to them b
 
 Up to one in ten operations were cancelled, although 10,000 of the estimated 26,000 went into work on Tuesday, according to the BBC, partly because doctors on emergency care were not striking.
 
-The strike comes after contract negotiations between NHS England and the British Medical Association \(BMA\) once again broke down, having re\-started in December after the last strike was cancelled.This was the first of three planned strike days, with another emergency care only strike lasting for 48 hours planned for the 28th of January, and a full day walk\-out penned for the 10th of February.
+The strike comes after contract negotiations between NHS England and the British Medical Association (BMA) once again broke down, having re-started in December after the last strike was cancelled.This was the first of three planned strike days, with another emergency care only strike lasting for 48 hours planned for the 28th of January, and a full day walk-out penned for the 10th of February.
 
 Acas, the professional body that has been mediating the talks, said on Wednesday that negotiations would start again yesterday and continue today. After protests back in October, junior members of the BMA were balloted as to whether to take industrial action. 98% voted for a full strike. However, the industrial action then planned for three dates in December was suspended after contract negotiations with the government were restarted.
 

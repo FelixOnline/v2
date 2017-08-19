@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305161909-tna08-tumblr_m1zlh4cujl1r8czhco1_400.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -32,7 +32,7 @@ author_website_title: ""
 
 comments:
  - Since no one is 100 sure what is causing this bee decline it only makes sense to start eliminating some of the causes and the best place to start is on the man made ones like neonicotinoids Tonio Borg is exactly rightIt seems like common sense to preserve the source of crop pollination Thanks Laura for highlighting the impact
- - value of bees 
+ - value of bees
 imported: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  Weeks to remain closed despite student protests 
+  Weeks to remain closed despite student protests
 subtitle: >
   Irreversible closure announced in Tom Wheeler's latest council report
 date: "2015-04-30 23:06:23 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505010006-ps3110-screen-shot-2015-05-01-at-00.06.09.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

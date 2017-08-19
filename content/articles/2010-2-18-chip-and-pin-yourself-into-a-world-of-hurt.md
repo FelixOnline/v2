@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002181426-srg03-ChipandP.jpg"
 image_caption: >
-  
+
 image_width: "990"
 image_height: "370"
 image_attribution: ""

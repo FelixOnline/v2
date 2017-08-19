@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242221-felix-808sanddarkgrapes2.jpg"
 image_caption: >
-  
+
 image_width: "620"
 image_height: "620"
 image_attribution: ""

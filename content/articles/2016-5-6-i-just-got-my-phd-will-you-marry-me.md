@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605061042-felix-cover.jpg"
 image_caption: >
-  
+
 image_width: "960"
 image_height: "720"
 image_attribution: "Imperial College London"
@@ -35,5 +35,5 @@ comments:
 imported: true
 ---
 
-Adorable or terrible? At Wednesday’s postgraduate graduation ceremony a student who, judging from his gown, had just completed a PhD, proposed to his girlfriend onstage at the Royal Albert Hall. Cameras are set up that project close ups of those crossing the stage up onto a screen behind it for the audience to see. After shaking hands with the President, each student has their moment in the sun, where their post\-graduation faces are shown on the big screen for all to see. Some choose to smile embarrassedly, while braver students will dane to do a thumbs\-up or peace sign. This unnamed student whipped out a sign and a comically large engagement ring. How do you follow that? Judging from the scenes outside, Sharon said yes.
-TODO: image from 
+Adorable or terrible? At Wednesday’s postgraduate graduation ceremony a student who, judging from his gown, had just completed a PhD, proposed to his girlfriend onstage at the Royal Albert Hall. Cameras are set up that project close ups of those crossing the stage up onto a screen behind it for the audience to see. After shaking hands with the President, each student has their moment in the sun, where their post-graduation faces are shown on the big screen for all to see. Some choose to smile embarrassedly, while braver students will dane to do a thumbs-up or peace sign. This unnamed student whipped out a sign and a comically large engagement ring. How do you follow that? Judging from the scenes outside, Sharon said yes.
+TODO: image from

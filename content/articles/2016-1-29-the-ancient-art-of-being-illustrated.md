@@ -1,6 +1,6 @@
 ---
 title: >
-  The ancient art of being illustrated 
+  The ancient art of being illustrated
 subtitle: >
   Tattoos are nothing new
 date: "2016-01-29 09:39:16 +0000"
@@ -41,7 +41,7 @@ Until recently in the West, tattoos have been seen as a mark of belonging to a c
 
 However, now one in three adults in Britain has a tattoo.Even in ubiquity, tattoos remain controversial; a quick poll in the Felix office revealed tattoos to be variously ‘hot’ , akin to ‘gangrene’ to ‘putting people at risk of missing a dermatological condition’. No prizes for guessing the latter was the opinion of a medical student.
 
-Tattoos when inked well and well placed \(collarbones are a personal favourite\) can be beautiful, but can they be defined as fine art?
+Tattoos when inked well and well placed (collarbones are a personal favourite) can be beautiful, but can they be defined as fine art?
 
 Perhaps it depends on the artist; Kate Moss is the proud owner of two swallows inked on the small of her back by Lucien Freud. She has joked that were she to graft the skin and put it up for auction she could earn herself a few million pounds.
 

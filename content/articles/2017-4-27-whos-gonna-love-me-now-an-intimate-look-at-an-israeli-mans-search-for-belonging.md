@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201704271737-ff712-201609577_1_IMG_FIX_700x700.jpg"
 image_caption: >
-  
+
 image_width: "700"
 image_height: "394"
 image_attribution: "Peccadillo Pictures"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-_Who’s Gonna Love Me Now_ is a touching documentary which follows the story of Saar Maoz, a 40\-year\-old Israeli man living in London. Maoz is a proud member of the London Gay Men’s Chorus, which has been a source of support and love through a difficult time in his life. The bulk of the documentary, however, revolves around Saar’s conservative family in Israel, their relationship with his sexuality, and – perhaps most importantly – their attitude to his diagnosis of HIV.
+_Who’s Gonna Love Me Now_ is a touching documentary which follows the story of Saar Maoz, a 40-year-old Israeli man living in London. Maoz is a proud member of the London Gay Men’s Chorus, which has been a source of support and love through a difficult time in his life. The bulk of the documentary, however, revolves around Saar’s conservative family in Israel, their relationship with his sexuality, and – perhaps most importantly – their attitude to his diagnosis of HIV.
 
 Filmed over a period of several months, we follow Maoz at an important point in his life, reconnecting to his family and his roots and considering what he wants for his future. At the heart of this is the relationship Maoz has with each of his parents, especially as we see how far they have come in their acceptance of him. Towards the beginning of the film Maoz reads to us a letter he received from his father at the age of 23: undeniably curt, it demands he returns to Israel, insisting there is no place for him anywhere else. Although not explicitly said, it is clear that his sexuality is the centre of the message. As Maoz unpacks his emotions to the letter, he makes this clearer – this is his father telling him to stop being who he is, telling him to be straight.
 

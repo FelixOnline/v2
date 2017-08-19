@@ -1,6 +1,6 @@
 ---
 title: >
-  Another chronic Sonic failure 
+  Another chronic Sonic failure
 subtitle: >
   Matt Colvin and Simon Worthington attempt to enjoy Sonic The Hedgehog 4. They fail...
 date: "2010-10-21 19:35:28 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212033-ks607-sonicthe.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "819"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Got it Tnhaks a lot again for helping me outYOjerg  bpsvxgeuvcbz zithromax xvt doxycycline 62882 
+ - Got it Tnhaks a lot again for helping me outYOjerg  bpsvxgeuvcbz zithromax xvt doxycycline 62882
 imported: true
 ---
 

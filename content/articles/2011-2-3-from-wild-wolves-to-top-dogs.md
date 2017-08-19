@@ -1,6 +1,6 @@
 ---
 title: >
-  From wild wolves to top dogs 
+  From wild wolves to top dogs
 subtitle: >
   Discovering how dogs were domesticated
 date: "2011-02-03 20:07:36 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032006-ks607-dogdogdo.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

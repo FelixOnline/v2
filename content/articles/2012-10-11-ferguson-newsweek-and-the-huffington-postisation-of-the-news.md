@@ -2,7 +2,7 @@
 title: >
   Ferguson, Newsweek and the Huffington-postisation of the News
 subtitle: >
-  Has the news become more concerned about quantity of papers sold rather than quality of news reporting? 
+  Has the news become more concerned about quantity of papers sold rather than quality of news reporting?
 date: "2012-10-11 21:08:34 +0100"
 id: "2663"
 old_path: /comment/2663/ferguson-newsweek-and-the-huffington-postisation-of-the-news
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210112208-ar3310-krugman-fergusonrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -47,7 +47,7 @@ Ferguson set out to deliver a blistering condemnation of Obama. With a little di
 
 Enough about Ferguson – despite his questionable lack of judgment, he is still one the most thought provoking historians kicking about. His book, Civilization, is a testament to that fact. So, how about Newsweek then? Are they desperate enough to publish such a cheesecloth piece of work? Are they cavalier enough to let such a dubious article find its way on to the cover without a scrupulous fact check? The Daily Beast has put up a short video clip with Justine Rosenthal, Executive Editor of Newsweek, discussing the piece. The clip is quick to point out the commercial success of Ferguson’s article. It boasts of making it to the top of Drudge Report as well as accruing 10,000 likes on Facebook.
 
-While Krugman is justified in most of his accusations, he is wrong in claiming that Newsweek was somehow a pawn in Ferguson’s game. Newsweek isn’t new to the rodeo. They knew the storm that was coming. Not only did they know it – they orchestrated it. From the moment when they called up Ferguson and asked him “what is the next big thing that you want to say?” Newsweek is primarily a business, run by businessmen. (The news business and the newsmen fall somewhere further down the hierarchy.) The cost and the benefits for “Hit the Road, Barack” were undoubtedly weighed. This article, along with others, such as “America’s ‘Oh Sh\*t’ Moment,” signal a shift in Newsweek’s strategy toward the ‘Huffingtonpostization’ of the news. Although the prospective cost of Ferguson’s article was Newsweek’s damaged credibility, this was apparently outweighed by its prospective benefit – accessing a new market segment. Perhaps they are looking at the floundering business model of their industry and wondering how to stay afloat in a time of disruptive change.
+While Krugman is justified in most of his accusations, he is wrong in claiming that Newsweek was somehow a pawn in Ferguson’s game. Newsweek isn’t new to the rodeo. They knew the storm that was coming. Not only did they know it – they orchestrated it. From the moment when they called up Ferguson and asked him “what is the next big thing that you want to say?” Newsweek is primarily a business, run by businessmen. (The news business and the newsmen fall somewhere further down the hierarchy.) The cost and the benefits for “Hit the Road, Barack” were undoubtedly weighed. This article, along with others, such as “America’s ‘Oh Sh*t’ Moment,” signal a shift in Newsweek’s strategy toward the ‘Huffingtonpostization’ of the news. Although the prospective cost of Ferguson’s article was Newsweek’s damaged credibility, this was apparently outweighed by its prospective benefit – accessing a new market segment. Perhaps they are looking at the floundering business model of their industry and wondering how to stay afloat in a time of disruptive change.
 
 Newsweek has to attract and lock-in an audience that wouldn’t dream of visiting its website (it will, after all, become just a website). Perhaps this move will strain their relationship with the well informed, but – as Newsweek knows – the well informed are a small minority who know how to access their news on the Internet – for free. Newsweek is going for a volume play. And that naturally entails casting a wider net, which, in turn, entails dumbed-down, sexy and incendiary content. Newsweek is after a new audience: one that enjoys the trappings of intellectual life but finds its sustenance in the broth of entertainment.
 

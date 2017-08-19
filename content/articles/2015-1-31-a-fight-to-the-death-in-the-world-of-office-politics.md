@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501311923-ff712-1_sam_troughton_adam_james_eleanor_matsuura_in_bull_at_the_young_vic_photo_by_simon_annand-a.jpg"
 image_caption: >
-  Sam Troughton, Adam James and Eleanor Matsuura 
+  Sam Troughton, Adam James and Eleanor Matsuura
 image_width: "0"
 image_height: "0"
 image_attribution: "Simon Annand"

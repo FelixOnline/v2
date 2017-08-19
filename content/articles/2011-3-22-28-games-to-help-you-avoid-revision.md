@@ -45,16 +45,16 @@ So far, so easy, but the skill is really required when you notice the passers-by
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Yeti Sports__  
-  
+__Yeti Sports__
+
  Although they were authored at the turn of the millennium, relatively few people seem to have encountered this ever-growing series of games. All involve the titular yeti using clubs, snowballs or even flamingos to hit penguins as fast as he can along beaches and up icebergs. Our personal favourite is Yetisports 4: Albatross Overload, although make sure to try the original penguin-hitting classic. Penguin fans can also sleep easy as all of the fluffy critters seem to be fine upon landing. Experts should try the Ylympics Tournament!
 
 [Click to play Yeti Sports](http://yetisports.org)
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Depict1__  
-  
+__Depict1__
+
  In this retro platformer you control a small boy lost in a world of invisible walls, infinite pits and shadowy enemies. Led by a mysterious narrator whose advice is not as helpful as it initially might seem, you and the boy must journey in the hope of finding some escape despite the narrator insisting that there is none to be found. Depict1 turns a lot of the traditional staples of video games, such as spiky pits, bonus diamonds and timed levels, on their head and forces the player to re-examine everything they thought they knew about platformers. After a few levels there comes a feeling that the entire game is both unpredictable and out to get you which makes for an original and exciting experience. The adrenaline is kept high by the constant suspicious thoughts about what might happen next, and even working out how to move is a challenge in itself.
 
 Backed up by some pretty graphics that give the game a professional polish, Depict1 is a game that grabs hold of you and won’t let go until the end, despite some slow levels early on. There are two endings to be found, one significantly harder than the other, and the final level is a genuine stumper that might take you a while to figure out. Go to the website, click Depict1 and then follow the links to the Flash version on the right.
@@ -63,8 +63,8 @@ Backed up by some pretty graphics that give the game a professional polish, Depi
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Moby Dick__  
-  
+__Moby Dick__
+
  Despite the developer admitting that this game is what happens "when you make a game from a book you have never read", this 2D whale munch-fest is surprisingly true to the original text. Players must control the titular white whale using the mouse, and have to destroy as many boats and munch on as many fish (and sailors) as they can without running out of air or health. Sailors will bombard you with arrows and nets, and later bigger ships will arrive and fire cannonballs at you.
 
 As you blitz your way through the ocean it’s easy to overlook how pretty the game looks – there’s clearly been a lot of attention to detail. It’s also got the quality of being 'easy to pick up, difficult to master', so there's plenty of gameplay to keep coming back to.
@@ -73,8 +73,8 @@ As you blitz your way through the ocean it’s easy to overlook how pretty the g
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Bunny Flags__  
-  
+__Bunny Flags__
+
  In this defend-and-shoot game, you control an eyepatched rabbit commando defending his flag (and, indeed, himself) from hostile enemies. Quite why the enemies are disembodied fingers and all the action is played out amongst giant books and mugs of coffee is not easy to discern, but the mixture of tower defence and top-down shooter is a good one.
 
 The shooting aspect helps take the tedium out of waiting for enemies to reach your towers – a common problem in tower defence games – and the presence of towers provides a refreshing strategic element.
@@ -83,16 +83,16 @@ The shooting aspect helps take the tedium out of waiting for enemies to reach yo
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__AVOIDAL__  
-  
+__AVOIDAL__
+
  "Enemies as weapons" is the idea behind this mouse-controlled arcade game. Destroy the blue stars by setting off the traps that you must yourself avoid - red stars will chase you around the screen and yellow spikes fly in a straight line when activated. It sounds pretty easy, but when there’s enemies bearing down on you and no way to escape a small panic does start to set in. Graphics aren’t particularly amazing but at least they don’t get in the way. A good way to spend an idle ten minutes.
 
 [Click to play Avoidal](http://avoidal.com)
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__Treadmillasaurus Rex__  
-  
+__Treadmillasaurus Rex__
+
  Dinosaurs. Lasers. Partying. Three things that are undeniably awesome, so if you were to mix these things together you might think that the product would be a game of epic proportions. And you’d be right. The titular treadmill will push T-Rex back and forth between the lasers and spiked balls force him to jump, causing the wheel to spin. Where it lands is (presumably) random, and with certain spaces activating laser light shows, confetti showers and top hats, things get very epic very quickly. Whether the wheel ever lands on 'Win The Game' is debatable, so if that happens to you then let us know!
 
 [Click to play Treadmillasaurus Rex](http://jmtb02.com/treadmillasaurus-rex)
@@ -111,7 +111,7 @@ The one-minute limit really helps to pick up the pace and makes the game much mo
 
 __CellCraft__
 
-Despite stinking ever so slightly of a, \*shudder\*, educational game, this biology-based adventure RPG is actually quite entertaining. Taking control of the cell, moving it along and building ribosomes and other things is fun as you can zoom in and see everything happening, and there’s an incredible amount of detail in the way the game works. Quite why, then, the developers felt the need to include a plot featuring talking duck-billed platypuses is a true mystery.
+Despite stinking ever so slightly of a, *shudder*, educational game, this biology-based adventure RPG is actually quite entertaining. Taking control of the cell, moving it along and building ribosomes and other things is fun as you can zoom in and see everything happening, and there’s an incredible amount of detail in the way the game works. Quite why, then, the developers felt the need to include a plot featuring talking duck-billed platypuses is a true mystery.
 
 [Click to play CellCraft](http://www.kongregate.com/games/cellcraft/cellcraft)
 
@@ -217,8 +217,8 @@ Fancy getting yourself a slice of that bloody red action? Why not try the origin
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-__DuBlox__  
-  
+__DuBlox__
+
  Have you ever tried to pick up tofu with chopsticks? If so, you will probably already be a master of the complex logic behind this geometrical puzzler. As the four yellow cubes flop around the stage flipping and rolling, much like tofu cubes in the hands of a chopstick amateur, your brain will go in meltdown trying to comprehend where to lie them flat, where to stand them up and, ultimately, how to get them to the red goal zone.
 
 You may think this is just another of those block games you can solve by trial and error, but that’s where you’re wrong. To get through this one you might actually have to (shock horror) think. Later levels are real stumpers. Visuals are pretty awesome, especially on the animation.
@@ -249,7 +249,7 @@ The gameplay isn’t exactly challenging, but it doesn’t need to be. Collectin
 
 __Rebuild__
 
-Finally, a bit of originality in the zombie genre! In this isometric strategy game, you play the leader of a group of apocalypse survivors trying their damndest to stay alive. This isn’t just about killing zombies, people need food, medicine and happiness, and it’s your job to find them those things.  
+Finally, a bit of originality in the zombie genre! In this isometric strategy game, you play the leader of a group of apocalypse survivors trying their damndest to stay alive. This isn’t just about killing zombies, people need food, medicine and happiness, and it’s your job to find them those things.
  Being able to completely customise the fort is a great feature, and the huge scope for expansion makes everything much more interesting. There’s also a lot of depth to the strategy and plenty to keep players interested for a good little while.
 
 [Click to play Rebuild](http://tinyurl.com/rebuildgame)

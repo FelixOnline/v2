@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001141357-rsp07-GileadAv.jpg"
 image_caption: >
-  
+
 image_width: "181"
 image_height: "474"
 image_attribution: ""
@@ -56,16 +56,16 @@ Oh – I need to give the document a name. “Art and artifice.” Nope. “Flow
 
 Hold on – shouldn't the title be centralised? Give me a moment, I'll be right back. There we go. Maybe italics... and bold font? No, definitely not – far too crass. How about a subtle underline? Much better.
 
-Great. Back to the text.  
+Great. Back to the text.
  How about changing the font?
 
-Stop it! I can change the font later. Once I've actually written something...  
- So:  
- “There is a fine distinction between the artistic and the artisanal.”  
- Maybe that should be:  
- “There is a fine line separating the artistic and the artisanal.”  
- Aha! I know:  
- “The line separating the artistic and the artisanal could be drawn with a 7H pencil.” Or doesn't that quite work? Never mind, never mind! Keep moving forward, that's the key.  
+Stop it! I can change the font later. Once I've actually written something...
+ So:
+ “There is a fine distinction between the artistic and the artisanal.”
+ Maybe that should be:
+ “There is a fine line separating the artistic and the artisanal.”
+ Aha! I know:
+ “The line separating the artistic and the artisanal could be drawn with a 7H pencil.” Or doesn't that quite work? Never mind, never mind! Keep moving forward, that's the key.
  Ctrl+S.
 
 Do I really want to say ‘separating'? How about ‘dividing'? I wonder what thesaurus.com has to say about it.
@@ -74,7 +74,7 @@ Might as well open a new browser, wait for thesaurus.com to load... Oh look! A n
 
 Hm. No e-mails from the BBC here...Just a lot of people looking to sell me v1agra. Or viazqa. Or xiagra or even vpagja – whatever that might be.
 
-Oh good – thesaurus.com is fully loaded. ‘Splitting' isn't bad... but ‘between' is so much better! Right:  
+Oh good – thesaurus.com is fully loaded. ‘Splitting' isn't bad... but ‘between' is so much better! Right:
  “The line between the artist and the artisan could be drawn with a 7H pencil. The former devises concepts, whereas the latter sets up constructions...”
 
 No – ‘sets up' is no good. ‘Builds'? ‘Constructs'? Too clumsy with ‘constructions'.

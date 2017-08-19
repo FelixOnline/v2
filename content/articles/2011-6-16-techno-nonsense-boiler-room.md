@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106162158-felix-jamiexx.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "427"
 image_attribution: ""

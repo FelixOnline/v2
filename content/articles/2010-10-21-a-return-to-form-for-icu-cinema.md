@@ -1,6 +1,6 @@
 ---
 title: >
-  A return to form for iCU Cinema 
+  A return to form for iCU Cinema
 subtitle: >
   The Union's Cinema is reborn!
 date: "2010-10-21 19:18:32 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212017-ks607-ICUcinme.jpg"
 image_caption: >
-  
+
 image_width: "5616"
 image_height: "3744"
 image_attribution: "Roberto Tenace"

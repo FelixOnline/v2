@@ -2,7 +2,7 @@
 title: >
   The Life Scientific
 subtitle: >
-  Arianna Sorba reviews the new scientifically slanted Radio 4 series 
+  Arianna Sorba reviews the new scientifically slanted Radio 4 series
 date: "2011-10-28 00:22:44 +0100"
 id: "1630"
 old_path: /science/1630/the-life-scientific
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

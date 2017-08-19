@@ -36,8 +36,8 @@ imported: true
 
 [__Rampart__](http://www.imdb.com/title/tt1640548/)
 
-__Director__ Oren Moverman  
-__Screenwriters__ James Ellroy, Oren Moverman  
+__Director__ Oren Moverman
+__Screenwriters__ James Ellroy, Oren Moverman
 __Cast__ Woody Harrelson, Sigourney Weaver, Robin Wright, Steve Buscemi
 
 A cop with the nickname “Date Rape” (Harrelson) is not going to be a mild-tempered, even-minded, fair cop; although it probably wouldn’t be fair to say that he is a bad person. He believes in the justice system, he has respect for the police force and the work they do, he is passionate about arresting the scums of L.A., and he appears to be a family man with two children he is dedicated in taking care of. For him, slightly bending and sometimes outright breaking the law is absolutely fine, as long as he has a justifiable goal. He is the kind of cop who would beat someone half to death to get some vital information. Cops could get away with this kind of mindset but in the 1990’s, the infamous Rampart scandal was shaking up the L.A. police department, with corrupt cops being discharged and attracting a lot of embarrassment and negative press attention to the police force.

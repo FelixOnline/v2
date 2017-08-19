@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251251-ff712-stoppard-cmyka.jpg"
 image_caption: >
-  Tom Stoppard, perhaps the greatest living playwright? 
+  Tom Stoppard, perhaps the greatest living playwright?
 image_width: "0"
 image_height: "0"
 image_attribution: "Laura Hynd"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302282337-tna08-good1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "© Ben Fry"
@@ -41,7 +41,7 @@ Pantomime and farce are always to be approached carefully by directors. The stre
 
 I got excellent farcical comedy and a jolly good panto. There is no denying that at times some of the humour fell flat as the cast’s energy flagged, but for actors who had been rehearsing for three days straight right before the dress rehearsal their overall verve and the strength of the performance was impressive. The pantomime element was not helped by the small and lacklustre audience of techies, directors and the lone reviewer, whose lack of cheering did little to fuel the actors’ fire. An enthusiastic audience are key to a successful performance (take this as a hint, readers!)
 
-The dialogue and action are clichéd and filled with sci-fi and pop culture references to the point of sheer ridiculousness, but Andromedan Nights mercifully subverts this by continually breaking the fourth wall and recognizing itself for what it is: a farcical sci-fi pantomime with some hilariously cheesy writing.  
+The dialogue and action are clichéd and filled with sci-fi and pop culture references to the point of sheer ridiculousness, but Andromedan Nights mercifully subverts this by continually breaking the fourth wall and recognizing itself for what it is: a farcical sci-fi pantomime with some hilariously cheesy writing.
  Along with some seasoned veterans, Andromedan Nights marks the DramSoc debut of several actors. The show is stolen by one such fresh face, Jack Williams, who assumes the role of Mince the Merciless, the play’s (pretty much useless) antagonist. Williams’s maniacal energy and evil laughter fit the incompetent supervillain to a tee, acting as the perfect comic foil to his two far more competent and grounded henchmen, imaginatively named Minion and Goon (Frank Machin and Kristen Farebrother respectively).
 
 Those with absolutely no interest in sci-fi may want to give Andromedan Nights a miss, as a large proportion of its humour derives from the more serious works of fiction it parodies. However, even those with a cursory knowledge of Star Wars/Hitch Hiker’s Guide to the Galaxy/Lord of the Rings/etc. will enjoy this highly entertaining performance by some of DramSoc’s finest.

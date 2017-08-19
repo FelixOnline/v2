@@ -1,8 +1,8 @@
 ---
 title: >
-  Let’s talk about Ron Paul 
+  Let’s talk about Ron Paul
 subtitle: >
-  Why Liberty and Democracy don’t mix 
+  Why Liberty and Democracy don’t mix
 date: "2011-12-01 21:20:08 +0000"
 id: "1888"
 old_path: /comment/1888/lets-talk-about-ron-paul-

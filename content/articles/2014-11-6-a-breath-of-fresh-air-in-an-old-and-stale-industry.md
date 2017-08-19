@@ -2,7 +2,7 @@
 title: >
   A breath of fresh air in an old and stale industry
 subtitle: >
-  Chrysostomos Meli discusses the revolution of automobiles lead by Tesla 
+  Chrysostomos Meli discusses the revolution of automobiles lead by Tesla
 date: "2014-11-06 20:20:06 +0000"
 id: "4787"
 old_path: /tech/4787/a-breath-of-fresh-air-in-an-old-and-stale-industry

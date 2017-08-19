@@ -1,6 +1,6 @@
 ---
 title: >
-  The Event went off with a ‘pfft’ 
+  The Event went off with a ‘pfft’
 subtitle: >
   This genre of television is so vague you dream up the missing narrative so the writers don’t have to
 date: "2010-10-28 19:49:32 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

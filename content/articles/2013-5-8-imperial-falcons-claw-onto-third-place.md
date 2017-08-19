@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-After a hard fought weekend of matches, the Imperial Falcons rounded off their season with an emphatic victory over the UEA Blue Sox, giving us a third-place finish in the BUBA Spring Cup.  
+After a hard fought weekend of matches, the Imperial Falcons rounded off their season with an emphatic victory over the UEA Blue Sox, giving us a third-place finish in the BUBA Spring Cup.
  The Falcons’ cup campaign got off to a shaky start on the Saturday as club president Dan “Wrong Gear!” Harris stalled the minibus a grand total of four times on the way to the ground. Despite some equally dodgy navigating from general manager Vincent Li, the team got to Croydon in time for the first match, with high hopes of a successful tournament.
 
 Imperial opened their campaign against UCL, in a game that was expected to be a relatively easy victory. The game was tight during the first two innings, as pitcher Hajime Urata and the Imperial defence kept UCL from scoring. The deadlock was broken, however, in the top of the fourth inning as a number of Imperial errors allowed UCL four runs. Fortunately, Imperial managed to claw a couple back in the bottom of that inning against the pitching of UCL’s 50-Year-Old Man.
@@ -51,5 +51,5 @@ Pitcher Hajime Urata shut Nottingham out in the top of the fourth inning, leavin
 
 Imperial went into the final game of the tournament against the UEA Blue Sox, competing for third place with a depleted line-up, as the injuries had stacked up over the course of the weekend. This was compounded when our first baseman left half way through the first inning to umpire the tournament final. Fortunately, however, the lack of fully-functional fielders proved not to be a problem, as Imperial pitcher Yutaro struck out seven of the opposition batters in the first three innings, while not giving up a single hit. Meanwhile, Imperial’s offense slowly built up the score, going up 4-0 after three innings.
 
-As the sun came out during the top of the fourth inning, Yutaro continued his attempt to pitch a perfect game, and may have succeeded if not for emergency catcher Vincent, who obstructed a batter, causing a balk and costing Yutaro his perfect game. Imperial added more runs during the bottom of the inning, leaving UEA needing 6 runs to make Imperial bat again. Despite, some gallant offense, including a two-run home-run, Imperial finished the game as 6-2 winners, sealing a third-place finish in the tournament; congratulations go to ULJS for a well-deserved victory in the final.  
+As the sun came out during the top of the fourth inning, Yutaro continued his attempt to pitch a perfect game, and may have succeeded if not for emergency catcher Vincent, who obstructed a batter, causing a balk and costing Yutaro his perfect game. Imperial added more runs during the bottom of the inning, leaving UEA needing 6 runs to make Imperial bat again. Despite, some gallant offense, including a two-run home-run, Imperial finished the game as 6-2 winners, sealing a third-place finish in the tournament; congratulations go to ULJS for a well-deserved victory in the final.
  The game against UEA was a great end to a long season, in which we won some, lost some and learnt the true meaning of the word “cold”. It’s been great to see the freshers improving throughout the season (special mention to Simon, Jacques Smith and Lewis Weinberger), and all the best for the fourth years and Masters students who leave at the end of the year.

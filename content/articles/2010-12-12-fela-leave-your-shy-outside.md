@@ -1,6 +1,6 @@
 ---
 title: >
-  FELA! Leave your shy outside 
+  FELA! Leave your shy outside
 subtitle: >
   FELA! is a shocking window into 70s Nigeria
 date: "2010-12-12 17:10:45 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

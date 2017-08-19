@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206142122-ams111-games.jpg"
 image_caption: >
-  Don’t blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink. Good Lu 
+  Don’t blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink. Good Lu
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,7 +44,7 @@ SCP-173 is much like the Weeping Angels from_ Doctor Who_ – unable to move whe
 
 _Containment Breach _involves just that: SCP-173 escapes its holding cell, and you’re left alone to escape the facility. Problem is, SCP-173 has other plans.
 
-Gameplay is very simple – all you have to do is escape. No weapons, just you. Oh, and a blink meter. That’s right, every 5 seconds or so you have to blink, momentarily closing off your vision. As mentioned above, SCP-173 is fast, and blinking in its presence leads to a very sudden \*CRCK\* of your neck. Turning your back on it has the pretty much same effect.
+Gameplay is very simple – all you have to do is escape. No weapons, just you. Oh, and a blink meter. That’s right, every 5 seconds or so you have to blink, momentarily closing off your vision. As mentioned above, SCP-173 is fast, and blinking in its presence leads to a very sudden *CRCK* of your neck. Turning your back on it has the pretty much same effect.
 > Containment Breach captures the essence of what is almost universally scary – being stalked in a dark place by a very dangerous, unpredictable assailant
 _Containment Breach _is a scary game. As you may remember from a few weeks backs I took a look over at horror, and my gripes with it. For however basic _Containment Breach_ may be, it manages to capture the essence of what is almost universally scary – being stalked in a dark place by a very dangerous, unpredictable assailant. However weird SCP-173 may look, nothing can stop you jumping when it suddenly darts up behind you as you turn around to close a door. It’s the suddenness of attacks and appearances that sets you constantly on edge, the inclusion of the aforementioned blink meter keeping you from relaxing. Trust me when I say there’s nothing in_ Doom 3_ or _Dead Space _that rivals the tension created as you try to skirt round an immobile SCP-173 before your blink meter runs dry and your neck is snapped like a shard of dry pasta.
 

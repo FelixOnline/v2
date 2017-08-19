@@ -1,6 +1,6 @@
 ---
 title: >
-  Bank bonuses again rile politicians 
+  Bank bonuses again rile politicians
 subtitle: >
   It’s that time of the year again: the banks have disclosed the size of their bonus pools and Patrick O’Driscoll thinks the public needs to know more before judging
 date: "2011-01-20 20:28:45 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202027-ks607-bonsusas.jpg"
 image_caption: >
-  
+
 image_width: "1173"
 image_height: "693"
 image_attribution: ""

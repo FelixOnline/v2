@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002120201-rsp07-smokingb.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "549"
 image_attribution: ""
@@ -46,5 +46,5 @@ Banning an activity will never stop its practice, merely move its location. The 
 
 There will be a constant flux of people entering and leaving the Union, increasing the workload on the door staff. It will also bring loud talking right under the noses of Beit residences. At least only the rear bedrooms are currently disturbed by the nocturnal activities at the Union, moving smoking to the street will bring similar disturbances to the front bedrooms. There would also be a huge increase in litter on the streets, souring our relations with neighbours and the council. Also, policing this ban would fall to the stewards, who already have their work cut-out with the thankless task of keeping us all safe whilst we drink. I think these effects would far outweigh the benefits of a smoke-free quad, and maybe few less smokers.
 
-I think the overall result of a ban would be more work for Union staff, more disturbances for more Beit residents and greater inconvenience for non-smokers, with very few people actually giving up and at the cost of some loss of custom. A ban would simply be counter-productive, despite being (laudably) intended to improve students’ lives, in fact, there will be a net decrease in the overall quality of life.   
+I think the overall result of a ban would be more work for Union staff, more disturbances for more Beit residents and greater inconvenience for non-smokers, with very few people actually giving up and at the cost of some loss of custom. A ban would simply be counter-productive, despite being (laudably) intended to improve students’ lives, in fact, there will be a net decrease in the overall quality of life.
  As a further point, I don’t think it is the Union’s place to be dictating our lifestyle choices, and doing so on the grounds of health seems incongruous in a place with frequent “all you can drink” bar nights. I urge you to think about the consequences of this ban, and don’t allow it to pass Council.

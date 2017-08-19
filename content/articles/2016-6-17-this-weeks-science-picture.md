@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606171124-felix-6910017781_a59fd1091f_o.jpg"
 image_caption: >
-  
+
 image_width: "3648"
 image_height: "2736"
 image_attribution: "Brian Jeffrey Beggerly"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271711-rsp07-manonski.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "695"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-When I was younger, and had time on my hands and nothing better to do, I frequently fell ill. Nothing particularly debilitating or life-threatening, you understand, only regular healthy doses of the common cold or flu. Influenza, as they say, and out flew my health.  
+When I was younger, and had time on my hands and nothing better to do, I frequently fell ill. Nothing particularly debilitating or life-threatening, you understand, only regular healthy doses of the common cold or flu. Influenza, as they say, and out flew my health.
  It is possibly one of the best indications when a happy childhood that memories of sickness past are fond and reassuring ones. The cramped stomach associated with food poisoning is forgotten, but the meal of chicken nuggets we were allowed to enjoy afterwards remains. The swollen throats and broken fingers pale by comparison with the sympathetic bedside visit from our grandparents, or the presents waiting for us when we started to recover.
 
 There are, of course, moments of childhood hardship we all remember with pride, and whose real or imagined scars still provide us with stories worth dining out on. Even if our dinner companions may not be too keen on eating while we tell them.

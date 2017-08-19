@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606101015-felix-mappi.jpg"
 image_caption: >
-  The street where the flat supposedly was. 
+  The street where the flat supposedly was.
 image_width: "645"
 image_height: "430"
 image_attribution: "mappio.net"
@@ -40,7 +40,7 @@ The student saw the flat, which was just off the King’s Road, advertised on on
 
 After making the bank transfer, however, the landlord cancelled the viewing several times at the last minute, before finally not turning up at all. After the landlord stopped replying to any calls or emails, the student quickly gathered that it had been a scam.
 
-The student has now been told by both the police’s Action Fraud centre for cybercrime reporting and Natwest \(where the fraudulent account was opened\) that they are unlikely to get the cash back. After making a complaint with the bank, he was told that Natwest told the student that they aren’t responsible and so can take no action.
+The student has now been told by both the police’s Action Fraud centre for cybercrime reporting and Natwest (where the fraudulent account was opened) that they are unlikely to get the cash back. After making a complaint with the bank, he was told that Natwest told the student that they aren’t responsible and so can take no action.
 
 At least one another Imperial student has fallen victim to a similar scam over the last few months.
 

@@ -2,7 +2,7 @@
 title: >
   I Break Horses Break No New Ground
 subtitle: >
-  Swedish act I Break Horses released their debut album, Hearts, back in 2011. 
+  Swedish act I Break Horses released their debut album, Hearts, back in 2011.
 date: "2014-01-24 10:07:49 +0000"
 id: "4294"
 old_path: /music/4294/i-break-horses-break-no-new-ground
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

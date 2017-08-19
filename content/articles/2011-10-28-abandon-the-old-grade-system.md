@@ -2,7 +2,7 @@
 title: >
   Abandon the old grade system
 subtitle: >
-  The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck 
+  The only opposition to American-style Grade Point Averages is because of fear, argues Richard Oberdieck
 date: "2011-10-28 00:12:50 +0100"
 id: "1627"
 old_path: /comment/1627/abandon-the-old-grade-system
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

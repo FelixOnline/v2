@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ Following a new Impact Report detailing the Union’s recent successes, one can 
 
 Volunteering at Imperial has been given a new lease of life with a new partnership between the Union and Student Hubs, which is discussed at length in this week’s feature.
 
-Technological advances such as the long-awaited lecture podcasting and note storage facility NoteBox will be thoroughly introduced following influence from the Union and suggestions of students.  
+Technological advances such as the long-awaited lecture podcasting and note storage facility NoteBox will be thoroughly introduced following influence from the Union and suggestions of students.
  Representation has seen a boost following February’s Love Your Rep week, with further support set to be provided to reps in the future.
 
 And a cash machine returned to Beit Quad, so that’s a bonus right there.

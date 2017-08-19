@@ -2,7 +2,7 @@
 title: >
   What would Wheeler do?
 subtitle: >
-  In the final instalment of the Sabb interview series, Bernadett Tildy talks Tinder, “Lad Culture” and the Imperial Ratio 
+  In the final instalment of the Sabb interview series, Bernadett Tildy talks Tinder, “Lad Culture” and the Imperial Ratio
 date: "2014-11-14 20:46:38 +0000"
 id: "4875"
 old_path: /features/4875/what-would-wheeler-do
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411142045-ps3110-president_by_tlim-for-web.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -136,7 +136,7 @@ T: Oh God knows. I’d probably put what I like to do, so: skiing, climbing and 
 
 __B: How tall are you?__
 
-T: \*no hesitation\* 6 foot 3. That really caught me unaware, I wonder what IS on my tinder profile…
+T: *no hesitation* 6 foot 3. That really caught me unaware, I wonder what IS on my tinder profile…
 
 __B: Okay, say your tinder bio WAS actually amazing- __
 

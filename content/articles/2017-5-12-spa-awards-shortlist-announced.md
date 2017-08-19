@@ -48,4 +48,4 @@ Davey was overjoyed at the nominations, “Both of my articles that have been sh
 
 Apostolakis, who has been accused of “gutter journalism”, finds the nominations reafirming. “It’s great to see that we’re on the same level as other major student publications.” Considering Imperial lacks not just journalism degrees but even any real arts or humanities degrees the standard of the paper is impressive. “I’m just hoping this will be enough to guarantee the future of the paper for at least a little bit longer”
 
-The awards ceremony forms part of the Student Publication Association National Conference \(SPANC for short\) that takes place this weekend, which will all be live tweeted via @feliximperial. Probably.
+The awards ceremony forms part of the Student Publication Association National Conference (SPANC for short) that takes place this weekend, which will all be live tweeted via @feliximperial. Probably.

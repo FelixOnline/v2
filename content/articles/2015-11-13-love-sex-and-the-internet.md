@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511131450-cet13-cibele3.png"
 image_caption: >
-  Nina Freeman easily wins the award for coolest hair in the gaming industry. 
+  Nina Freeman easily wins the award for coolest hair in the gaming industry.
 image_width: "0"
 image_height: "0"
 image_attribution: ""

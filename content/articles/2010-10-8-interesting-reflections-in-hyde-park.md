@@ -1,6 +1,6 @@
 ---
 title: >
-  Interesting reflections in Hyde Park 
+  Interesting reflections in Hyde Park
 subtitle: >
   Anish Kapoor's new exhibition turns the world upside down
 date: "2010-10-08 07:02:08 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010080759-ks607-AnishKap.jpg"
 image_caption: >
-  
+
 image_width: "4000"
 image_height: "2666"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,5 +42,5 @@ I’d be tempted to say this album is written with more of a band set-up in mind
 
 Another treat for the ears is the soul laden ‘So Good at Being in Trouble’, with one of the best vocal melodies I’ve heard in a long (sad, lonely) time. ‘Swim and Sleep (Like a Shark)’ is as cute and playful as the name suggests. Despite the lack of complicated instrumentation, there’s no “stripped back” feeling, rather a charm that is super effective at showcasing the excellent songwriting.
 
-My main gripe with this album, if I had to have one, is that some of it sounds suspiciously similar to the debut. I’m not saying artists have to be in a constant state of reinvention, but two and a half years is not long enough to have plausibly forgotten and rediscovered one of your own basslines. One thing I feel obliged to point out is that the track ‘Faded in the Morning’ runs 4:20 minutes long. Yeahhh…  
+My main gripe with this album, if I had to have one, is that some of it sounds suspiciously similar to the debut. I’m not saying artists have to be in a constant state of reinvention, but two and a half years is not long enough to have plausibly forgotten and rediscovered one of your own basslines. One thing I feel obliged to point out is that the track ‘Faded in the Morning’ runs 4:20 minutes long. Yeahhh…
  I thoroughly recommend this album for pretty much everyone, even if you rolled your eyes at the very name of this segment. It is an unpretentious, unabashed, psyche-funk-indie-rock corker.

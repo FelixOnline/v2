@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 At first they thought that the experiment had gone awry. They’d spent years studying silicon compounds and thought they knew what to expect. But this compound was different. It was unstable, seemingly unpredictable – constantly shifting between electronic states. This compound was misbehaving.
 
-“We were puzzled,” remembers Professor Tony Kenyon, head of the [Photonic Materials Laboratory](http://www.ee.ucl.ac.uk/~tkenyon/Photonic_Materials/Lab_home.html) at University College London. “The immediate thought was that there was something wrong. I had a new PhD student, so I gave him some samples and said: ‘go and find out what the problem is’.”  
+“We were puzzled,” remembers Professor Tony Kenyon, head of the [Photonic Materials Laboratory](http://www.ee.ucl.ac.uk/~tkenyon/Photonic_Materials/Lab_home.html) at University College London. “The immediate thought was that there was something wrong. I had a new PhD student, so I gave him some samples and said: ‘go and find out what the problem is’.”
  That student was Adnan Mehonic, and he was about to tell his supervisor something very surprising.
 
 “He came back to me and said, they’re not unstable, they’re programmable.” And did the professor believe him? “I looked at Adnan’s evidence and thought: that’s real. This is a really exciting prospect.”

@@ -2,7 +2,7 @@
 title: >
   Your internet history is up for grabs
 subtitle: >
-  You should be more worried about Theresa May’s new Investigatory Powers bill 
+  You should be more worried about Theresa May’s new Investigatory Powers bill
 date: "2015-11-13 14:29:50 +0000"
 id: "5724"
 old_path: /comment/5724/your-internet-history-is-up-for-grabs
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511131428-ygr12-webther.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Indira Malik"

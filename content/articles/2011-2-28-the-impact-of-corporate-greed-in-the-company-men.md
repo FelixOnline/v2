@@ -2,7 +2,7 @@
 title: >
   The impact of corporate greed in The Company Men
 subtitle: >
-  John Wells’ debut venture as a film director is an astute and absorbing drama 
+  John Wells’ debut venture as a film director is an astute and absorbing drama
 date: "2011-02-28 20:42:57 +0000"
 id: "933"
 old_path: /film/933/the-impact-of-corporate-greed-in-the-company-men
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102282040-ks607-thecompa.jpg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "366"
 image_attribution: ""

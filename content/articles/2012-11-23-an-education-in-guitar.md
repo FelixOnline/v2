@@ -2,7 +2,7 @@
 title: >
   An Education in Guitar
 subtitle: >
-  Riaz Agahi dissects Chris Forsyth’s latest album 
+  Riaz Agahi dissects Chris Forsyth’s latest album
 date: "2012-11-23 00:19:09 +0000"
 id: "2968"
 old_path: /music/2968/an-education-in-guitar
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211230019-tna08-kenzo-deluxe.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

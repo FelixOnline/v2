@@ -1,6 +1,6 @@
 ---
 title: >
-  There’s a desperate need for extra money for universities 
+  There’s a desperate need for extra money for universities
 subtitle: >
   British universities have long been under-funded, will Browne's proposals change this?
 date: "2010-10-14 19:21:52 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

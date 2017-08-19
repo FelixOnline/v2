@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial student imprisoned after being caught with 30,000 child porn images 
+  Imperial student imprisoned after being caught with 30,000 child porn images
 subtitle: >
   Also found with life-size mannequin of a young boy
 date: "2015-05-08 00:15:12 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505080115-ps3110-screen-shot-2015-05-08-at-01.14.50.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

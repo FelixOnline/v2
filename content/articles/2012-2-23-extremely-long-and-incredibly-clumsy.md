@@ -2,7 +2,7 @@
 title: >
   Extremely long and incredibly clumsy
 subtitle: >
-  Stephen Daldry takes a look at 9/11 
+  Stephen Daldry takes a look at 9/11
 date: "2012-02-23 20:21:14 +0000"
 id: "2232"
 old_path: /film/2232/extremely-long-and-incredibly-clumsy
@@ -37,8 +37,8 @@ imported: true
 
 [__Extremely Loud and Incredibly Close__](http://www.imdb.com/title/tt0477302/)
 
-__Director__ Stephen Daldry  
-__Screenwriters__ Eric Roth, Jonathan Safran Foer (novel)  
+__Director__ Stephen Daldry
+__Screenwriters__ Eric Roth, Jonathan Safran Foer (novel)
 __Cast__ Tom Hanks, Sandra Bullock, Thomas Horn
 
 A lot of negative hype surrounds the latest film from Academy Award nominated director Stephen Daldry. As the overly sentimental, manipulative film that stole the much-coveted Best Picture slot from _Drive_, the lowest rated film on Rotten Tomatoes that made it to the nominations list in this year’s Oscars, it looks as though Daldry’s most recent work won’t be receiving similar attention his previous films such as _Billy Elliot_ and _The Hours_ enjoyed.

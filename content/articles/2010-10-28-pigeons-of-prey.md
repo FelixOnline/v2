@@ -1,8 +1,8 @@
 ---
 title: >
-  Pigeons of prey 
+  Pigeons of prey
 subtitle: >
-  The next threat to British security could be coming from closer to home than you think... 
+  The next threat to British security could be coming from closer to home than you think...
 date: "2010-10-28 19:46:44 +0100"
 id: "277"
 old_path: /comment/277/pigeons-of-prey-

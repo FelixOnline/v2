@@ -2,7 +2,7 @@
 title: >
   General Election 2015: the winners and losers
 subtitle: >
-  Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote. 
+  Joshua Renken outlines the headline grabbing results from the general election, featuring a Tory Surge, Labour losses and a collapse in the Liberal Democrat vote.
 date: "2015-05-08 17:58:15 +0100"
 id: "5509"
 old_path: /news/5509/general-election-2015-the-winners-and-losers

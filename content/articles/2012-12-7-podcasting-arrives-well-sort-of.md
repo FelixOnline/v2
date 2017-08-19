@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212070051-tna08-deepka-podcast.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,25 +40,25 @@ The implementationof video lecture recordings across the College has been a hot 
 The Panopto lecture recording suite is being implemented over a three year plan across the College. However, the enthusiasm exhibited by departments varies drastically. Although College need to allay staff fears to ensure students in certain departments are not disadvantaged by lecturers not participating in this scheme. Members of the Union have praised the College for the introduction of online lectures as they believe it will enable students to revise better and be an attractive plus point for prospective students.
 
 Video podcasts can help students consolidate their learning, particularly students whose first language is not English or those who find note taking difficult. The scheme should ideally be available to all students, both undergraduates as well as taught postgraduates; especially as this academic year the number of incoming postgraduates exceeded undergraduates.
-TODO: image from 
+TODO: image from
 The College is behind international competitors such as MIT in the delivery of video lectures. Other UK institutions such as Cambridge, UCL, Manchester and Oxford have podcasts and video lectures to aid in learning. Manchester is one of the Universities that was shortlisted for the Times Higher Education Awards 2012 for the Outstanding ICT Initiative of the Year award. Furthermore, Manchester is also running workshops to educate participants about the best practice in the use of lecture capture in teaching and learning.
 
 Felix caught up with the Chemistry Department to learn about the use of technology in lectures. Alan Spivey, Director of Undergraduate Studies, commented on the fact several staff have produced podcasts of their undergraduate lectures. As well as this, a series of one-off “research highlights” lectures have been recorded as podcasts. “There are several factors limiting further expansion. The process for getting these recordings approved by Comms and uploaded to the College i-TunesU site is not as straightforward as would be ideal and their uploader does not support enhanced podcasts. The slow emergence of tools to allow lecturers to assess the likely benefit and IP/copyright position of prospective recordings is another factor. With the introduction of Panopto recording facilities into many College lecture theatres, the opportunity for making podcasts has increased and the energy barrier to do this has also decreased. The main advantage of the iTunes-U format over Panopto is the compatibility with mobile devises as I see it”
 
 Doug Hunt, Deputy President (Education) said: “Other Russell Group Universities are offering audiovisual lecture podcasts to their students and to stop Imperial students being dissatisfied, we should be installing it across our lecture theatres as quick as possible, while putting enough resources behind training academics to use it.
-TODO: image from 
+TODO: image from
 It needs to be rapidly rolled out to prevent some students in certain departments and years who are not receiving it, becoming disgruntled andthe College needs to handle its implementation, the best it can by effectively communicating with all students on this issue.”
 
 The Business School currently has video lectures. Other departments such as Chemistry and Maths are piloting it. The Chemistry pilot is focused on first and second years. The issues that have been raised by staff include: intellectual property, decline in student attendance to lectures, illegal distribution, rights of students asking questions, the time taken to upload the videos and the cost incurred due to installation. Other department specific issues, such as for physics, include the cost of filming equipment for the different boards; but a student has suggested the lecture can be filmed by a student moving with the board.
 
 UCL piloted a programme of lecture recordings in 2008/09 to determine if there was a requirement for a podcasting service. The success ofthe pilot has led to UCL investing in recording equipment for lecture theaters. They found:
 
-“The staff felt that podcasting had added value to their teaching and would recommend it to others.  
+“The staff felt that podcasting had added value to their teaching and would recommend it to others.
  85% of student respondents agreed or strongly agreed that podcasts aided understanding of the module.
 
 91% agreed or strongly agreed that podcasts would be useful for revision – one student noted that the podcasts were ‘probably the best form of revision material I have come across’.
 
-Some students noted they helped support different learning styles.  
+Some students noted they helped support different learning styles.
  Students valued the opportunity to clarify topics and concepts which had been missed during the class, and to improve their notes.
 
 A number of students asked for ‘podcasting in every lecture.”
@@ -81,7 +81,7 @@ The more significant of the two problems is cost.
 
 This is what I believe is the real reason there hasn’t been a significantly large scale podcasting initiative introduced (although, again, I want reiterate there has been a small-scale rollout this year).
 
-The cost, depending on how large the project, could be very large for the College to bear.  
+The cost, depending on how large the project, could be very large for the College to bear.
  With the large expansion of the College to Imperial West and not to mention gigantic government cuts, it’s understandable that the College has had to tighten its belt.
 
 Although we are told that the College is focusing on the student experience, it would appear that the budget for this focus is minimal, which, although annoying, is understandable.

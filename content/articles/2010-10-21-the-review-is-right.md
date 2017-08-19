@@ -1,6 +1,6 @@
 ---
 title: >
-  The Review is right 
+  The Review is right
 subtitle: >
   We should accept the Browne Review, it is only fair that students should pay for the benefits of their education
 date: "2010-10-21 18:53:49 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

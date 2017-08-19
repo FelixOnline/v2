@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182102-ks607-vettel.jpg"
 image_caption: >
-  
+
 image_width: "3879"
 image_height: "2466"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 Nine months is a long time in Formula 1. In March the motoring clique feverishly anticipated the return of the seven-times world champion Michael Schumacher. Arguably the best driver in the history of the sport was making an epic comeback, driving the car that was originally intended for the then current world champion Jenson Button. But the enticing combination did not work. What could have been the fastest driver in the fastest car turned out to be a disappointingly mediocre mix, lingering far behind the pace of Red Bull, Ferrari, and McLaren. The legendary German just did not know when to pack it in – Take That, take note. That Sebastian Vettel, also known as “Baby Schuey”, took the 2010 crown on the weekend only serves to underline how the sport has moved on from the days when the season results read: Australia: Schumacher 1st, Brazil: Schumacher 1st, Malaysia: Schumacher 1st… well, you get the gist. Or has it?
 
-Back in 2002, Ferrari manipulated the Austrian GP by ordering Rubens Barrichello to allow Schumacher, his teammate, to overtake and win the race. The farce led to a ban on team orders, that did not stop Ferrari repeating the same trick this year, when in Germany they asked Felipe Massa to let Fernando Alonso through. This was a direct breach of the sport’s regulations: article 39.1 states that “team orders which interfere with a race result are prohibited”. Article 151.c reads “any fraudulent conduct or any act prejudicial to the interests of any competition, or to the interests of motorsport generally” can be punished.   
+Back in 2002, Ferrari manipulated the Austrian GP by ordering Rubens Barrichello to allow Schumacher, his teammate, to overtake and win the race. The farce led to a ban on team orders, that did not stop Ferrari repeating the same trick this year, when in Germany they asked Felipe Massa to let Fernando Alonso through. This was a direct breach of the sport’s regulations: article 39.1 states that “team orders which interfere with a race result are prohibited”. Article 151.c reads “any fraudulent conduct or any act prejudicial to the interests of any competition, or to the interests of motorsport generally” can be punished.
 > That Jean Todt, the president of the FIA, claimed there was not enough evidence to convict the prancing horse was a complete kick in the teeth to all F1 fans who believe in racing
 
 Yet Ferrari got away with a slap on the wrist and a paltry (in F1 terms) fine of $100,000. That Jean Todt, the president of the FIA, claimed there was not enough evidence to convict the prancing horse was a complete kick in the teeth to all F1 fans who believe in racing. Sadly, Ferrari are still very much the darlings of the FIA. It should be a PR relief to Ecclestone and Todt that Alonso did not win this year’s championship – far from being a gallant prancing horse, the Spaniard would have resembled a Machiavellian limping donkey. It is certainly poetic justice.

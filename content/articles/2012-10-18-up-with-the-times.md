@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -38,9 +38,9 @@ __Overall Rankings__
 
 _The Times_
 
-Imperial College London has come in 4th in the league table. This is the same place as last year but a rank below from in 2011, where we came 3rd.  
- Imperial have come above London rival University College London (UCL), which came in 7th place.  
-  
+Imperial College London has come in 4th in the league table. This is the same place as last year but a rank below from in 2011, where we came 3rd.
+ Imperial have come above London rival University College London (UCL), which came in 7th place.
+
 _The Sunday Times_
 
 Imperial came in 8th place which is a significant improvement from last year’s position of 14th place. We rank beneath universities such as Bath, Durham and Exeter.
@@ -51,7 +51,7 @@ _The Times_
 
 Most subjects such as Geology, Medicine, Computer Science, Materials and Biology have hovered around the same ranking since 2011.
 
-Other subjects have stayed consistent in their ranking, like Civil Engineering and Chemical Engineering in 2nd place, and Electronical and Electrical Engineering in 4th place.  
+Other subjects have stayed consistent in their ranking, like Civil Engineering and Chemical Engineering in 2nd place, and Electronical and Electrical Engineering in 4th place.
  However some subjects, like Mathematics for instance, have suffered a dramatic fall from 3rd to 7th place. Chemistry had a slight improvement from 18th up to 16th place.
 
 __Teaching__

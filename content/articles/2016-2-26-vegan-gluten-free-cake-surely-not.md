@@ -35,11 +35,11 @@ comments:
 imported: true
 ---
 
-Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot\-proof. Go ahead, test that statement.
+Cakes as birthday presents are great – so quick, cheap and the effort everyone knows you went to means that even if you mess it up, people will pretend it tastes good. Fortunately, this recipe is virtually idiot-proof. Go ahead, test that statement.
 
 Makes 1 small cake, for about 6 hungry people with dietary needs – but can be easily doubled!
 
-_Vegan \(dairy free\) chocolate chips can be ordered online, or found in one of the many niche stores in London._
+_Vegan (dairy free) chocolate chips can be ordered online, or found in one of the many niche stores in London._
 
 160g plain, gluten free flour
 200g granulated sugar
@@ -51,7 +51,7 @@ _Vegan \(dairy free\) chocolate chips can be ordered online, or found in one of 
 80ml neutral vegetable oil
 1 tsp white wine vinegar
 100g vegan chocolate chips
-\(if you can find them\)
+(if you can find them)
 
 Preheat your oven to 180°C/160°C if using a fan oven. Grease/paper a 9” round cake pan, springform if you have it.
 

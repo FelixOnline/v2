@@ -1,6 +1,6 @@
 ---
 title: >
-  HTML5: The next level for web games 
+  HTML5: The next level for web games
 subtitle: >
   Gaming is no longer all about consoles. Welcome to HTML5 gaming!
 date: "2011-01-20 20:01:38 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
 image_caption: >
-  
+
 image_width: "1807"
 image_height: "2550"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- -                                                                             
+ -
 imported: true
 ---
 
@@ -50,13 +50,13 @@ HTML5’s strength is also unfortunately it’s downfall. When it comes to displ
 But there is some good news for developers. To write a game for Flash or iPhone needs specialist software which, naturally, Adobe and Apple charge large sums for. HTML5, however, is a free and open standard, meaning that anyone can start using it without having to buy licenses or programs. This is great for the home developer and opens up the world of online games to anyone and everyone who wants to have a go at making their own. Plus, there are already scores of specially-built libraries that can make writing a game significantly easier and quicker than starting from scratch. The community at Internet news site reddit.com have compiled a [large list of available libraries](http://redd.it/f094j) that solve problems in key areas like game physics, graphics, animation and sound, so there’s no excuse for the budding developer not to give HTML5 a go.
 
 Five HTML5 games to try:
- - [Pirates Love Daisies](http://pirateslovedaisies.com)  
+ - [Pirates Love Daisies](http://pirateslovedaisies.com)
  The most impressive title in this list! A fully-featured tower-defense game that’s just as fun and good-looking as any Flash title.
- - [This Shell ](http://thisshell.com)  
+ - [This Shell ](http://thisshell.com)
  Cool jigsaw game where the pieces are a live music video!
- - [Z-Type](http://phoboslab.org/ztype)  
+ - [Z-Type](http://phoboslab.org/ztype)
  Awesome-looking typing game. Type the words to shoot the incoming aliens.
- - [The Legend Of Sadness ](http://tinyurl.com/losadness)  
+ - [The Legend Of Sadness ](http://tinyurl.com/losadness)
  Zelda-inspired RPG game. Short and looks a bit weird, but fun nonetheless.
- - [Torus ](http://benjoffe.com/code/games/torus)  
+ - [Torus ](http://benjoffe.com/code/games/torus)
  3D rotating Tetris! A moden twist on the classic.

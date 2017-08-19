@@ -2,7 +2,7 @@
 title: >
   Rumble in the jungle
 subtitle: >
-  Emilie Beauchamps looks at political cock-ups, murder and deceit in time for the American presidential elections 
+  Emilie Beauchamps looks at political cock-ups, murder and deceit in time for the American presidential elections
 date: "2012-10-26 03:07:28 +0100"
 id: "2766"
 old_path: /arts/2766/rumble-in-the-jungle

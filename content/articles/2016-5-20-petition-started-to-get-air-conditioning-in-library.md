@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605201045-felix-lib copy2.jpg"
 image_caption: >
-  
+
 image_width: "5312"
 image_height: "2988"
 image_attribution: "FELIX"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-_Sign the petition [here](https://www.change.org/p/imperial\-college\-london\-put\-air\-conditioning\-in\-the\-imperial\-college\-central\-library)._
+_Sign the petition [here](https://www.change.org/p/imperial-college-london-put-air-conditioning-in-the-imperial-college-central-library)._
 
 A petition, launched by FELIX, asking college to pay for air conditioning in the central library has nearly 1000 signatures after being launched on Friday.
 
@@ -50,4 +50,4 @@ The library is not to blame – the librarians want air conditioning as much as 
 
 A consultation in 2014 found that the most common library gripe amongst students was the fact that it was too hot. They’ve done their market research, and now the work just needs to be funded.
 
-So, sign it today at [felixonline.co.uk/go/library](https://www.change.org/p/imperial\-college\-london\-put\-air\-conditioning\-in\-the\-imperial\-college\-central\-library). Time is running out – planning permission doesn’t last forever. The quicker we persuade college, the more likely you are to benefit from the change. This week’s white paper makes it clear that students are now customers. Universities will have to start paying attention to satisfaction ratings, as it will affect how much they can charge in fees. Imperial, like any other university, has to care what its students want. And now, we have to tell them what we need.
+So, sign it today at [felixonline.co.uk/go/library](https://www.change.org/p/imperial-college-london-put-air-conditioning-in-the-imperial-college-central-library). Time is running out – planning permission doesn’t last forever. The quicker we persuade college, the more likely you are to benefit from the change. This week’s white paper makes it clear that students are now customers. Universities will have to start paying attention to satisfaction ratings, as it will affect how much they can charge in fees. Imperial, like any other university, has to care what its students want. And now, we have to tell them what we need.

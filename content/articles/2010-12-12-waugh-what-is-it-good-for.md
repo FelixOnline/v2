@@ -1,6 +1,6 @@
 ---
 title: >
-  Waugh: What is it good for? 
+  Waugh: What is it good for?
 subtitle: >
   Even the Old Red Lion couldn't save Decline & Fall
 date: "2010-12-12 17:07:29 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121705-ks607-deckwqd.jpg"
 image_caption: >
-  
+
 image_width: "4592"
 image_height: "3056"
 image_attribution: ""

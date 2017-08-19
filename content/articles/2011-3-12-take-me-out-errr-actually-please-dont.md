@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103121235-ks607-takemeou.jpg"
 image_caption: >
-  
+
 image_width: "468"
 image_height: "340"
 image_attribution: ""

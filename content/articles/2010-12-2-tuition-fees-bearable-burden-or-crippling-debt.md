@@ -1,6 +1,6 @@
 ---
 title: >
-  Tuition fees: Bearable burden or crippling debt? 
+  Tuition fees: Bearable burden or crippling debt?
 subtitle: >
   Felix speaks to graduates about the old system, the proposed changes and how greatly their student debt affects their lives
 date: "2010-12-02 21:57:33 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022152-ks607-vincecab.jpg"
 image_caption: >
-  
+
 image_width: "2250"
 image_height: "1495"
 image_attribution: ""

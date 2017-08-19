@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - JuliaHow cool are you You are rather young to have such an apepcriation for one of the masters Nice to know we have something in common I had all his albums when I was younger And I mean vinyl albums Wore them completely outEvery time I think  Wow hes out done himself   Brian aalwys surprises me and all his fans by writingsinging more beautiful music  He is so talented and as a  GREAT  compliment I find my 17 year old daughter who is glued 100 to her IPOD humming and singing his tunes often   KEEP WRITING 
+ - JuliaHow cool are you You are rather young to have such an apepcriation for one of the masters Nice to know we have something in common I had all his albums when I was younger And I mean vinyl albums Wore them completely outEvery time I think  Wow hes out done himself   Brian aalwys surprises me and all his fans by writingsinging more beautiful music  He is so talented and as a  GREAT  compliment I find my 17 year old daughter who is glued 100 to her IPOD humming and singing his tunes often   KEEP WRITING
 imported: true
 ---
 

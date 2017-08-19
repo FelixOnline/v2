@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206142146-pk1811-332536_10150489129116044_330854336043_9147268_477405966_o.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -69,7 +69,7 @@ K - There is a poetry night called Clinic in South London. Turns out my friend f
 E - The atmosphere there is really great; is it part of what you wanted to create?
 
 K - Yeah. I think it comes from the fact that I don’t see my poetry as amazing. So, when I am up there reading all my poems I’m not treating it as if it’s awesome. It’s meant to be a relaxed inclusive atmosphere; everyone who goes is friendly and open to other people
-TODO: image from 
+TODO: image from
 E - It is a little community of poetry and pub lovers.
 
 K - It is one of my favourite nights. To start with 95% of the people there were just my friends… the last night we had there were a lot of people that I didn’t recognise.
@@ -98,7 +98,7 @@ E - Would you like to?
 
 K - I mean everyone wishes they could write novels. Everyone wishes they could be like Jonathan Franzen but I realised when I started writing short stories that I didn’t have the spark for it. In terms of writing fiction, I haven’t written nearly enough of it to get all the crap out of my system.
 
-E - What would success mean to you?  
+E - What would success mean to you?
  It would mean recognition. I acknowledge that that’s not the same thing as happiness.
 
 E - When things are difficult how do you console yourself… because I drink tea?

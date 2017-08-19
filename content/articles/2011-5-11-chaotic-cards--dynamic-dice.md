@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -38,14 +38,14 @@ The audience, of what was effectively a maths lecture, was a mixed crowd. Organi
 
 And the lecture started so well too, when we were told gambling winnings were not taxable I was practically ready to run the length of Kensington Gore and start card counting in the Park Hotel casino there and then. Alas for my wallet the lecture quickly and fascinatingly became a lesson in ways that people can cheat you, and importantly how the statistics can and will be worked against you.
 
-The lecture was broken down into “How to lose”:  
- 1. Receive an unfair pay out  
- 2. Do not Appreciate the odds,  
+The lecture was broken down into “How to lose”:
+ 1. Receive an unfair pay out
+ 2. Do not Appreciate the odds,
  3. Do not recognise cheating
 
-Moving down the list leaves you with increasing levels of financial loss. For a brief moment there was hope under the title “How to Win”, unfortunately it consisted of:  
- 1. Own the Game  
- 2. Be Lucky  
+Moving down the list leaves you with increasing levels of financial loss. For a brief moment there was hope under the title “How to Win”, unfortunately it consisted of:
+ 1. Own the Game
+ 2. Be Lucky
  3. Cheat
 
 It had a menacing caption “moving down the list leaves you with increasing levels of personal risk”; so much for counting cards and keeping my teeth.

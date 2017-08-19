@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092033-ma1307-TheNatio.jpg"
 image_caption: >
-  
+
 image_width: "1133"
 image_height: "920"
 image_attribution: "Susanna Howe"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-THE ONE.jpg"
 image_caption: >
-  
+
 image_width: "2988"
 image_height: "5312"
 image_attribution: ""
@@ -53,4 +53,4 @@ Last year second year students in the physics department were set an impossible 
 
 The geophysics department told FELIX it would “of course review procedures following discussions at examiners’ meetings in June 2016”.
 
-A college spokesperson told FELIX: “It is a College priority to adhere to the highest standards of academic integrity, ensuring that appropriate advice, support and guidance are in place to support students and staff. To this end a steering group – part of the Academic Standards Framework \- is reviewing assessment practices and procedures across the College. This incident will be taken into consideration by the group as part of their ongoing review.”
+A college spokesperson told FELIX: “It is a College priority to adhere to the highest standards of academic integrity, ensuring that appropriate advice, support and guidance are in place to support students and staff. To this end a steering group – part of the Academic Standards Framework - is reviewing assessment practices and procedures across the College. This incident will be taken into consideration by the group as part of their ongoing review.”

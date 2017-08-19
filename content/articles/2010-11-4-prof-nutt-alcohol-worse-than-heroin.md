@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041903-jk708-Prof.Nut.jpg"
 image_caption: >
-  
+
 image_width: "5184"
 image_height: "3456"
 image_attribution: "David Robertson"

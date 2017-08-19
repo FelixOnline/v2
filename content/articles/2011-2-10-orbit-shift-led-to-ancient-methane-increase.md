@@ -1,6 +1,6 @@
 ---
 title: >
-  Orbit shift led to ancient methane increase 
+  Orbit shift led to ancient methane increase
 subtitle: >
   Research suggest that methane increases are natural, not man-made
 date: "2011-02-10 20:21:53 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102020-ks607-marshesm.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "333"
 image_attribution: ""

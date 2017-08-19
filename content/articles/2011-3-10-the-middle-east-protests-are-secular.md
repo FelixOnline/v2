@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102007-nm1010-turkeytu.jpg"
 image_caption: >
-  
+
 image_width: "3520"
 image_height: "2456"
 image_attribution: "Sarah Jeyaprakash"

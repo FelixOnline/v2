@@ -2,7 +2,7 @@
 title: >
   Create and run your own Prison
 subtitle: >
-  The Felix games team were kindly given a copy of Prison Architect by Introversion. In this game you act as an architect and overseer of a Prison. 
+  The Felix games team were kindly given a copy of Prison Architect by Introversion. In this game you act as an architect and overseer of a Prison.
 date: "2013-11-13 23:00:47 +0000"
 id: "4055"
 old_path: /games/4055/create-and-run-your-own-prison
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201311132300-me1711-games_pa.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - Also you should buy this because the developers are ExImperial and lovely people 
+ - Also you should buy this because the developers are ExImperial and lovely people
 imported: true
 ---
 

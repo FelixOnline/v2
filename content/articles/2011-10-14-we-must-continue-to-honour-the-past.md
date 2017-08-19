@@ -1,6 +1,6 @@
 ---
 title: >
-  We must continue to honour the past 
+  We must continue to honour the past
 subtitle: >
   A move to a new system would raise immediate problems for students
 date: "2011-10-14 00:26:52 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

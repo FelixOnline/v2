@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201512041514-ygr12-lol.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Twitter"

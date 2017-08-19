@@ -1,6 +1,6 @@
 ---
 title: >
-  IC & St Mary’s Hurlers bring home Division 2 Trophy 
+  IC & St Mary’s Hurlers bring home Division 2 Trophy
 subtitle: >
   London squad take the advantage in second half
 date: "2011-11-24 23:47:36 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

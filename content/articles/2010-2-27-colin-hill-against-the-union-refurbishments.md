@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271708-rsp07-moneypil.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "750"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  An interview with Micah P Hinson 
+  An interview with Micah P Hinson
 subtitle: >
   Daniel Oppenheimer grills the enigma that is...
 date: "2010-11-18 20:34:01 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182030-ks607-micahphi.jpg"
 image_caption: >
-  
+
 image_width: "787"
 image_height: "1181"
 image_attribution: ""

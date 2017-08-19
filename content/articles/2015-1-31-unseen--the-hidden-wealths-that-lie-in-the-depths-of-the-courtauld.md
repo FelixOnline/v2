@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501311919-ff712-valentin-klotz---view-of-grave-on-the-mass-after-a-siege-1675.-the-courtauld-gallerya.jpg"
 image_caption: >
-  Valentin Klotz, View of grave on the Mass after a siege, 1675. 
+  Valentin Klotz, View of grave on the Mass after a siege, 1675.
 image_width: "0"
 image_height: "0"
 image_attribution: "The Courtauld Gallery"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - One thing that doesnt help Adu is all the hype that surrounds him as through your body  people externally America expecting great things from him on an every week basis Various corporations have got signed sponsorship deals with Adu like Nike for 1 million are promoting him more or less anywhere as a brand new boy wonder and stronger only enhance pressure that is already on his young shouldersfifa 16 hack httpcreditsfutcomeremochaetous epitenon  breechloadernonacademicsimpertinences buy canadian goose jacket hermes birkin glycine canada goose buy in nyc air max solde homme air max 90 pas cher de femme Tampa Bay Buccaneers Ali Marpet ELITE Jerseys 
+ - One thing that doesnt help Adu is all the hype that surrounds him as through your body  people externally America expecting great things from him on an every week basis Various corporations have got signed sponsorship deals with Adu like Nike for 1 million are promoting him more or less anywhere as a brand new boy wonder and stronger only enhance pressure that is already on his young shouldersfifa 16 hack httpcreditsfutcomeremochaetous epitenon  breechloadernonacademicsimpertinences buy canadian goose jacket hermes birkin glycine canada goose buy in nyc air max solde homme air max 90 pas cher de femme Tampa Bay Buccaneers Ali Marpet ELITE Jerseys
 imported: true
 ---
 

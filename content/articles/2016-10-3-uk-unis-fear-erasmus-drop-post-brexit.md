@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201610031759-felix-eu create.jpg"
 image_caption: >
-  
+
 image_width: "4932"
 image_height: "3300"
 image_attribution: "felix"
@@ -35,9 +35,9 @@ comments:
 imported: true
 ---
 
-Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year\-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair\-Jones.
+Studying with a year abroad might soon be a thing of the past, as Britain edges closer to implementing Brexit. The exchange scheme allowing UK students to spend up to a year in participating universities across the EU, is for the first time in its 30 year-long history facing a “moment of uncertainty”, according to UK director of Erasmus+, Ruth Sinclair-Jones.
 
-For now, those applying for a year abroad should be safe from any changes to the scheme. However, as Sinclair\-Jones points out, “in the long term, it’s an unknown situation. We will continue with our plans until 2017 but after that we have to wait”.
+For now, those applying for a year abroad should be safe from any changes to the scheme. However, as Sinclair-Jones points out, “in the long term, it’s an unknown situation. We will continue with our plans until 2017 but after that we have to wait”.
 
 Erasmus has been steadily growing in popularity over the years in the UK,  with over 15,000 home students applying for a place on the scheme in 2013 alone, a figure which has doubled since 2007. Moreover, universities in the UK are currentlhosting over 27,000 Erasmus students, with fees covered by the EU.
 

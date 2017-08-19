@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310120009-jal08-bus_pic3.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,16 +34,16 @@ comments:
 imported: true
 ---
 
-Imagine you are not at Imperial. You have never heard of Felix and you are not sitting here reading this article. What a dream. No dull lectures, ridiculously difficult coursework, or seemingly un-passable exams. But imagine that it wasn’t out of choice – imagine you never obtained the opportunity to study here, or to do any studying at all in fact. According to UNESCO, this is the reality for 57 million primary school-aged and 69 million lower secondary school-aged children as of 2011 around the world. There are huge efforts to try and get these figures down to 0, but it is still a long way off.  
+Imagine you are not at Imperial. You have never heard of Felix and you are not sitting here reading this article. What a dream. No dull lectures, ridiculously difficult coursework, or seemingly un-passable exams. But imagine that it wasn’t out of choice – imagine you never obtained the opportunity to study here, or to do any studying at all in fact. According to UNESCO, this is the reality for 57 million primary school-aged and 69 million lower secondary school-aged children as of 2011 around the world. There are huge efforts to try and get these figures down to 0, but it is still a long way off.
  It is difficult to identify the contribution that each barrier has on impeding these children’s rights to education. Nevertheless, this is not a reason to sit back and wait for the statistics to flow in before we make a move.
 
 In line with the Millennium Development Goal that “by 2015, children everywhere will be able to complete a full course in primary schooling”, and even beyond, charities all over the world are working to change the current situation.
 
-One example is the Paraguayan Foundation for Cooperation and Development an organisation which aids schools in Latin America to improve access to education for young people.  
- By showing the San Francisco school in Paraguay that they do not need to solely depend on external sources of income, the Foundation has managed to facilitate it from being previously dependent on decreasing government subsidies and facing high dropout rates. The San Francisco School is now a 100% self-sufficient model that was able to generate $300,000 in five years.  
+One example is the Paraguayan Foundation for Cooperation and Development an organisation which aids schools in Latin America to improve access to education for young people.
+ By showing the San Francisco school in Paraguay that they do not need to solely depend on external sources of income, the Foundation has managed to facilitate it from being previously dependent on decreasing government subsidies and facing high dropout rates. The San Francisco School is now a 100% self-sufficient model that was able to generate $300,000 in five years.
  How? The solution, when expressed aloud, seems so simple and obvious – successful school businesses!
 
-Thanks to this approach, students at the San Francisco School pay only $10 a month in fees. All school leavers are now working for successful busi- nesses, are self-employed, or enrolled in higher education.  
+Thanks to this approach, students at the San Francisco School pay only $10 a month in fees. All school leavers are now working for successful busi- nesses, are self-employed, or enrolled in higher education.
  This innovative method has been spread around the world by the Foundation’s UK-based sister charity Teach a Man to Fish. “Give a man a fish and he will eat for a day. Teach a man to fish and he will eat for a lifetime.”
 
 Teach school children how to set up and run their own socially-responsible and environmentally-friendly enterprises and not only will they gain real life, hands-on skills, and the business experience required to succeed after leaving school; but they will also help their schools to generate sustainable income. Education that pays for itself.

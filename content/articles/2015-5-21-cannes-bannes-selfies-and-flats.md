@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505220019-jmm311-emily-blunt-cannes.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -52,4 +52,4 @@ Another Cannes regular stated “I’ve heard this happening several times now. 
 
 However, Thierry Frémaux later tweeted “The rumour saying the festival insists on high heels for women on the red carpet is unfounded”.
 
-\*_Yes, this is a pun. Deal with it. -Ed._
+*_Yes, this is a pun. Deal with it. -Ed._

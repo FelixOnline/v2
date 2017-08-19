@@ -2,7 +2,7 @@
 title: >
   ‘Imperial for Education’ to build opposition to cuts on campus
 subtitle: >
-  Students grill President Alex Kendall about what they see as a lack of representation in the Union 
+  Students grill President Alex Kendall about what they see as a lack of representation in the Union
 date: "2010-12-02 22:06:33 +0000"
 id: "504"
 old_path: /news/504/imperial-for-education-to-build-opposition-to-cuts-on-campus
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022159-nm1010-imperial.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

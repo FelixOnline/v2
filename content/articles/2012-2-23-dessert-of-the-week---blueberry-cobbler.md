@@ -58,7 +58,7 @@ In a separate mixing bowl, combine the flour with the baking powder, the sugar a
 
 Mix the butter with the flour mixture but be careful not to overmix. If you overmix then the biscuit will be very hard. The milk should be cold and this helps to achieve the required texture. Add the milk slowly into the mixture. Again be careful not to overmix.
 
-Place the biscuit batter on top of the blueberries and brush with milk. In a tray put some foil and then place the ramekins on top. This will ensure that your tray does not get dirty from the blueberry juices.  
+Place the biscuit batter on top of the blueberries and brush with milk. In a tray put some foil and then place the ramekins on top. This will ensure that your tray does not get dirty from the blueberry juices.
  Place it in your oven and bake for about 15 minutes or until the biscuit is golden brown.
 
 Note that this recipe could be made with almost any kind of fruit that you have in your fridge. It is great made with apples or bananas or strawberries but my personal favourite is the blueberry cobbler.

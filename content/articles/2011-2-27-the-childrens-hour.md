@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271933-ks607-children.jpg"
 image_caption: >
-  
+
 image_width: "2362"
 image_height: "1575"
 image_attribution: ""

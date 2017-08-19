@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Well damn, he did it. The meme is dead. 22 years after his first nomination, good old Leo has finally nabbed his long\-awaited Oscar for his leading role in Alejandro Iñárritu’s epic _The Revenant_. Whilst this is good news, let’s not get carried away in our celebrations. Why not have a look at some of the other winners of the night. Hint: Sam Smith does not feature.
+Well damn, he did it. The meme is dead. 22 years after his first nomination, good old Leo has finally nabbed his long-awaited Oscar for his leading role in Alejandro Iñárritu’s epic _The Revenant_. Whilst this is good news, let’s not get carried away in our celebrations. Why not have a look at some of the other winners of the night. Hint: Sam Smith does not feature.
 
 _Ennio Morricone – Best Original Score_
 
@@ -43,8 +43,8 @@ A lot of people on social media have been raving about this win, and I just thou
 
 _Inside Out – Best Animated Feature_
 
-Mark Kermode called this his favourite film of the year, and for once I am close to agreeing. This new instant\-classic from Pixar in many ways revived a company some people were scared was losing its way. Following the release of their first critically panned film _Cars 2_, Pixar seemed to be going down a dangerous road. Let’s hope the inventive, emotive power, and downright charm of _Inside Out_ will usher in a second Pixar\-renaissance
+Mark Kermode called this his favourite film of the year, and for once I am close to agreeing. This new instant-classic from Pixar in many ways revived a company some people were scared was losing its way. Following the release of their first critically panned film _Cars 2_, Pixar seemed to be going down a dangerous road. Let’s hope the inventive, emotive power, and downright charm of _Inside Out_ will usher in a second Pixar-renaissance
 
 _Ex Machina – Best Visual Effects_
 
-The one technical category _Mad Max: Fury Road_ couldn’t win, the VFX nominations were stuffed with big\-budget blockbusters. But I am really pleased to see that the simple, unintrusive yet near\-perfect realism of _Ex Machina_ won out – details over flashy stuff any day.
+The one technical category _Mad Max: Fury Road_ couldn’t win, the VFX nominations were stuffed with big-budget blockbusters. But I am really pleased to see that the simple, unintrusive yet near-perfect realism of _Ex Machina_ won out – details over flashy stuff any day.

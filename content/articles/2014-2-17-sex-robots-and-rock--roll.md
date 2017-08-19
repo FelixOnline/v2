@@ -1,8 +1,8 @@
 ---
 title: >
-  Sex, Robots and Rock & Roll 
+  Sex, Robots and Rock & Roll
 subtitle: >
-  Will Hunter discusses the new robots that can feel human emotions 
+  Will Hunter discusses the new robots that can feel human emotions
 date: "2014-02-17 17:16:30 +0000"
 id: "4388"
 old_path: /science/4388/sex-robots-and-rock--roll-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

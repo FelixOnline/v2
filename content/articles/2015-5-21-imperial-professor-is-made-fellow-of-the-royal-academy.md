@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial Professor is made Fellow of the Royal Academy 
+  Imperial Professor is made Fellow of the Royal Academy
 subtitle: >
   Cecily Johnson reports as a Professor of Electronic and Electrical Engineering is recognised for work in modelling computer systems
 date: "2015-05-21 20:02:48 +0100"

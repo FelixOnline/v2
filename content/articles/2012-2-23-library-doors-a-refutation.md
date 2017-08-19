@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,7 +42,7 @@ In calling the old ‘face-on’ style of door ‘outrageous’, he confuses as 
 
 To those who make it inside, a gladiatorial spectacle is your prize. Turn back and you’ll see carnage: freshers who can’t hit that magic 90 degree bend, some pulling 135 degrees and hitting the wall, the lucky ones managing a 180 degree in-out shimmy; medics forgetting to turn at all and continuing straight on out; institutionalised PhD students walking, mystified, at the glass where the old doors used to be.
 
-How Mr de Lussy Kubisa can claim that there are “clear benefits to students’ comfort and safety” is frankly scandalous. What management have managed to produce with this new vestibule is Nascar in human form without the banked edges and without the onsite paramedic team.  
+How Mr de Lussy Kubisa can claim that there are “clear benefits to students’ comfort and safety” is frankly scandalous. What management have managed to produce with this new vestibule is Nascar in human form without the banked edges and without the onsite paramedic team.
  In the words of Mr. Fernandez Garcia, a 3rd year PhD student in physics, “I can’t go back in there. It was terrible”. A glazed look came over his eyes before he softly added, “you weren’t there man, you weren’t there.”
 
 In the light of this debacle, I seriously think that Felix should have a closer look at their employment policies. One can only imagine that Mr. de Lussy Kubisa is someone who disagrees with labels on fruit, among other things. Everyone knows that individual blackberries, raspberries and dried apricots should be stickered – allowing someone to express their opinions who thinks otherwise is ill-informed at best.

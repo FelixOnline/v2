@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111121725-felix-alexander-mcqueen-spring-2012-rtw-podium-010_runway.jpg"
 image_caption: >
-  
+
 image_width: "516"
 image_height: "774"
 image_attribution: ""

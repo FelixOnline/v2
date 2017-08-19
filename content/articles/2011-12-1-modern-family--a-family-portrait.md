@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I was recommended to watch this show by a friend of mine I never got around to it until I was reminded about it by this article All that to say that my housemates and myself are now huge fans  of Gloria of course 
+ - I was recommended to watch this show by a friend of mine I never got around to it until I was reminded about it by this article All that to say that my housemates and myself are now huge fans  of Gloria of course
 imported: true
 ---
 
@@ -44,5 +44,5 @@ Jay also has two children from his first marriage: Mitchell and Clair. Mitchell 
 Clair (Julie Bowen, Kevin Spacey’s sexy wife in _[Horrible Bosses](http://www.imdb.com/title/tt1499658/)_), a complete control freak, is married to Phil Dunphy (Ty Burrell). Phil believes he is the coolest dad ever (he can sing and dance to all the High School Musical songs) and has a tendency to act like a child. They have three children: Haley, the popular high school teenager hooked to her phone, Alex the nerd and Luke who probably has ADHD or some obscure syndrome and is unbelievably accident prone. In addition, the cast includes appearances from Jay’s crazy ex-wife and Haley’s boyfriend Dylan who has a talent for writing brilliant but inappropriate songs (and performing them in front of his girlfriend’s parents).
 
 Throughout the series two characters gain in importance and screen time. I’m talking about Gloria’s breasts. Approved of by arse-men, leg-men, tit-men, women and gay men, they provide voluptuous huge peaks to the scenery. Frequently clad in tight and plunging fabrics, there will always be an occasion to glimpse at the view. Subtlety clearly isn’t the producer’s policy.
-TODO: image from 
+TODO: image from
 The genius of this comedy lies most certainly with the script, the actors’ talent at its service but also in the simplicity and the everyday quality of the plot. The show is based on the families of the creators – Steven Levitan and Christopher Lloyd – supplying it with its realism, a beautiful comedy source. Your family may be dysfunctional but nowhere near as much as this one. You will laugh, cry and smile. So sit down with these hilarious and loveable characters and simply enjoy the beauty of modern family life.

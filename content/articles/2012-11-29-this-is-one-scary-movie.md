@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292304-csw09-up-in-the-air.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -54,5 +54,5 @@ The choice of the colours of the movie for the most part – blue and greyish �
 
 As with Juno, the direction is yet again fresh and contemporary and the dialogue is natural and brisk and there’s where lies a lot of the movie’s charm. As mentioned above, Reitman does not only rely on his leads, but to the full cast (which includes the talents of Jason Bateman, Danny McBride, Zach Galifianakis, and Melanie Lynskey) to deliver a strong result.
 
-Finally, the image Reitman creates for America is far from idyllic. Even though Natalie is apparently chasing her piece of the American dream, only to realise that this is hardly doable, she does it through the non-ideal way. There are no pretty, lush valleys or beautiful, luxurious houses. There are cold hotel rooms, even colder, wintery towns and empty offices, ready to get rid of even more souls.  
+Finally, the image Reitman creates for America is far from idyllic. Even though Natalie is apparently chasing her piece of the American dream, only to realise that this is hardly doable, she does it through the non-ideal way. There are no pretty, lush valleys or beautiful, luxurious houses. There are cold hotel rooms, even colder, wintery towns and empty offices, ready to get rid of even more souls.
  As the last two years pass by it becomes even more painful to watch this movie, in a way. At its first viewing, it was a movie about someone’s isolation. As our world progresses into a kind of demise, it becomes, “a scary movie”. Scary because people like Ryan Bingham exist and do the job he does. As someone in the movie said, it makes me wonder how such people can sleep at night. But every single time I watch the film the same question comes up: How do you fire someone like Ryan Bingham?

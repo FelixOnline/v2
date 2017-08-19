@@ -1,6 +1,6 @@
 ---
 title: >
-  Jamie’s US mission comes to a close 
+  Jamie’s US mission comes to a close
 subtitle: >
   Charles Betts on Jamie Oliver's attempt to encourage healthy eating in the US
 date: "2010-10-21 19:30:09 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   Make it last
 subtitle: >
-  When an old friend finally announces that he is ready to settle down with a woman young enough to his granddaughter, his friends are nothing short of excitement as they get ready for the bachelor party of their lives. 
+  When an old friend finally announces that he is ready to settle down with a woman young enough to his granddaughter, his friends are nothing short of excitement as they get ready for the bachelor party of their lives.
 date: "2014-01-24 10:13:37 +0000"
 id: "4299"
 old_path: /film/4299/make-it-last
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

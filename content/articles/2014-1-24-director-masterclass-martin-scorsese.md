@@ -2,7 +2,7 @@
 title: >
   Director masterclass: Martin Scorsese
 subtitle: >
-  “You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.” “I think I learn more in a movie or in a story when I see what a person does wrong and what happens because of that.” 
+  “You talkin’ to me? Then who the hell else are you talking... you talking to me? Well I’m the only one here.” “I think I learn more in a movie or in a story when I see what a person does wrong and what happens because of that.”
 date: "2014-01-24 10:11:38 +0000"
 id: "4297"
 old_path: /film/4297/director-masterclass-martin-scorsese
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102171950-nm1010-tigertig.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "1173"
 image_attribution: ""

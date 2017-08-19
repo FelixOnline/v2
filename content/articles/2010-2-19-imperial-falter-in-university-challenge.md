@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002191228-felix-universi.jpg"
 image_caption: >
-  
+
 image_width: "1824"
 image_height: "1368"
 image_attribution: ""

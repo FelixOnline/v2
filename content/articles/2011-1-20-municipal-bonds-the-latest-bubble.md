@@ -1,6 +1,6 @@
 ---
 title: >
-  Municipal bonds: The latest bubble? 
+  Municipal bonds: The latest bubble?
 subtitle: >
   Lingxi Huang considers the credibility of the latest concerns being raised about municipal bonds in the US
 date: "2011-01-20 20:27:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202025-ks607-californ.jpg"
 image_caption: >
-  
+
 image_width: "2170"
 image_height: "1512"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242048-felix-addiction.jpg"
 image_caption: >
-  
+
 image_width: "1222"
 image_height: "865"
 image_attribution: ""

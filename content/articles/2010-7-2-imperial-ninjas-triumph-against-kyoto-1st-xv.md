@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201007021209-jn104-Kyoto1st.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-### Kyoto University RFC 1st XV 19  
+### Kyoto University RFC 1st XV 19
  Imperial College Union RFC 1st XV 61
 
 ###
@@ -54,7 +54,7 @@ The second half started in a similar fashion to the first, with ICN dominating p
 
 Undoubtedly the highlight of the game was a massive 50 m driving maul from a lineout , an English cultural export who's power can only be likened to that of a prize fighting sumo wrestler. It was once again Captain Cotter who took the touchdown. It must be said that Cotter's second try partly made up for the two occasions on which he wasted possession by kicking it away with silly chips - one of which went out on the full. It seems not only the back three are susceptible to rubbish kicking.
 
-The lineout play was dominated by ICN throughout the game, losing only one (the tail end jumper resembling a monkey lost in outer space). However, this wasn't to Barnett's satisfaction who then spent the duration of the game continuously looking to take a quick one. The one occasion he finally managed to do so ended disastrously with Cotter receiving a lofty hospital pass, landing on his face and being turned over as the forwards were 40 metres up the field. Ninjas' tighthead, Irishman O'Rourke, commented: “Sometimes, when the backs do s\*\*\* like that, you just think, f\*\*\* it, I'm not running back 40 yards for you, sort it out yourself”. I concur.
+The lineout play was dominated by ICN throughout the game, losing only one (the tail end jumper resembling a monkey lost in outer space). However, this wasn't to Barnett's satisfaction who then spent the duration of the game continuously looking to take a quick one. The one occasion he finally managed to do so ended disastrously with Cotter receiving a lofty hospital pass, landing on his face and being turned over as the forwards were 40 metres up the field. Ninjas' tighthead, Irishman O'Rourke, commented: “Sometimes, when the backs do s*** like that, you just think, f*** it, I'm not running back 40 yards for you, sort it out yourself”. I concur.
 
 Later in the game Barnett almost redeemed himself after the lineout fiasco leaving an opposition player sprawled on the floor and stretchered off after destroying his shoulder from a bone crunching meeting with Barnett's solid steel abs.
 
@@ -70,6 +70,6 @@ The final score was 61-19 thanks to an impressive six out of seven conversions b
 
 The post match festivities and generosity of our hosts were enjoyed and appreciated by all, with O'Rourke in particular pleased to hear his opposite number describe him as “the best prop in Japan”. Testament to IC's touring nature, the game of flip cup landed on Japanese soil traveling more than half way round the world from Argentina 2008. Just as the drink ran dry and most of the lads had finally got to grips with the chopsticks it was time to leave, some with gifts and all with fond memories.
 
-__Team Awards__  
- Man of the Match: Freddie Chalke  
+__Team Awards__
+ Man of the Match: Freddie Chalke
  Twat of the Match: Louie Barnett for insisting on doing quick line-outs, which didn't work

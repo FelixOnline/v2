@@ -2,7 +2,7 @@
 title: >
   New Year’s Resolutions
 subtitle: >
-  Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg... 
+  Rajat Jain & Joseph Letts consider what 2011 holds for world leaders. And Nick Clegg...
 date: "2011-01-13 20:02:31 +0000"
 id: "573"
 old_path: /politics/573/new-years-resolutions
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131958-ks607-obamaoba.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "288"
 image_attribution: ""

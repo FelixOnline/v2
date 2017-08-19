@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111102139-pk1811-ladywithermine.jpg"
 image_caption: >
-  
+
 image_width: "1059"
 image_height: "1440"
 image_attribution: ""

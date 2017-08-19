@@ -35,17 +35,17 @@ comments:
 imported: true
 ---
 
-One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no\-go’ areas at night for white people”.
+One of Imperial’s Emeritus professors has published a book on human diversity, in which he claims that London has “‘no-go’ areas at night for white people”.
 
-He also wrote that having “one race” would “help a nation minimise internal and external conflicts”. Both comments are uncited, and appear in the book’s introduction, which is [available online](http://www.amazon.co.uk/Human\-Diversity\-Bernard\-Charles\-Lamb\-ebook/dp/B016LSZI74/ref=tmm\_kin\_swatch\_0?\_encoding=UTF8&amp;qid=&amp;sr=).
+He also wrote that having “one race” would “help a nation minimise internal and external conflicts”. Both comments are uncited, and appear in the book’s introduction, which is [available online](http://www.amazon.co.uk/Human-Diversity-Bernard-Charles-Lamb-ebook/dp/B016LSZI74/ref=tmm\_kin\_swatch\_0?\_encoding=UTF8&amp;qid=&amp;sr=).
 > > He also wrote that having “one race” would “help a nation minimise internal and external conflicts”.
-“People of mixed race can be extremely attractive, especially Asian/European combinations,” he continues, in a later subsection entitled “Racial mixing”. The author then lists some examples of people he calls “pretty Negroid/Caucasoid hybrid\[s\]”.
+“People of mixed race can be extremely attractive, especially Asian/European combinations,” he continues, in a later subsection entitled “Racial mixing”. The author then lists some examples of people he calls “pretty Negroid/Caucasoid hybrid[s]”.
 
 “Some combinations of characteristics from different races seem harmonious but others look unnatural. For example, ginger hair and blue eyes look odd on people with mainly Negroid or Oriental features”.
 
 Dr Bernard Lamb retired and became an Emeritus reader in Genetics in 2008, having lectured undergraduates at Imperial for forty years.
 
-In the chapter on race, Dr Lamb, describes his personal apprehension with several race\-related issues, including racial quotas, something he calls “political correctness gone wrong”, and “the mess which over\-zealous multiculturalism has got Britain into”.
+In the chapter on race, Dr Lamb, describes his personal apprehension with several race-related issues, including racial quotas, something he calls “political correctness gone wrong”, and “the mess which over-zealous multiculturalism has got Britain into”.
 
 “Some zealots detect racism in almost everything and everyone”, Lamb declares, after citing what he called an “appalling modern example” of racism: Robert Mugabe’s treatment of white farmers in Zimbabwe.
 
@@ -57,6 +57,6 @@ Dr Lamb previously caused a stir at Imperial when he complained about the standa
 
 In 2007, he published a term’s worth of mistakes he’d spotted in undergraduate essays, in the quarterly journal of the Queen's English Society. He wrote an article in The Independent in 2010 mourning the “dumbing down” of language, complaining that “inverted snobbery” over English use was threatening clear communication and could lead to “linguistic anarchy”. Lamb is also the author of _The Queen's English: And How to Use it_.
 
-Lamb’s “no\-go areas” comment was uncited, and is reminiscent of claims made on Fox News last January. In the wake of the Charlie Hebdo attack, a terror ‘expert’ claimed that Britain had “no\-go zones”, and that Birmingham was a “totally Muslim city”, which quickly invited derision from David Cameron, Birmingham residents and Twitter alike. The ‘expert’ later apologised, saying he’d mistakenly “relied on other sources”.
+Lamb’s “no-go areas” comment was uncited, and is reminiscent of claims made on Fox News last January. In the wake of the Charlie Hebdo attack, a terror ‘expert’ claimed that Britain had “no-go zones”, and that Birmingham was a “totally Muslim city”, which quickly invited derision from David Cameron, Birmingham residents and Twitter alike. The ‘expert’ later apologised, saying he’d mistakenly “relied on other sources”.
 
-You can read the excerpt from Dr Lamb’s book [here](http://www.amazon.co.uk/Human\-Diversity\-Bernard\-Charles\-Lamb\-ebook/dp/B016LSZI74/ref=tmm\_kin\_swatch\_0?\_encoding=UTF8&amp;qid=&amp;sr=).
+You can read the excerpt from Dr Lamb’s book [here](http://www.amazon.co.uk/Human-Diversity-Bernard-Charles-Lamb-ebook/dp/B016LSZI74/ref=tmm\_kin\_swatch\_0?\_encoding=UTF8&amp;qid=&amp;sr=).

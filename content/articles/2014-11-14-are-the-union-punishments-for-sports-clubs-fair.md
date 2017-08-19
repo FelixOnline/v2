@@ -1,8 +1,8 @@
 ---
 title: >
-  Are the Union punishments for Sports Clubs fair? 
+  Are the Union punishments for Sports Clubs fair?
 subtitle: >
-  Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players 
+  Toni Semmence, last year's netball captain, discusses the sanctions held against the Rubgy players
 date: "2014-11-14 21:27:17 +0000"
 id: "4896"
 old_path: /sport/4896/are-the-union-punishments-for-sports-clubs-fair-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411142129-ps3110-7d-003_-_victorious_medics.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

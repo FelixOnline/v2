@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260314-tna08-imgp4280.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ The sea of people ruining everyone’s travel plans around London on October 20t
 
 The police say 100,000 people took to the streets; the TUC (Trade Unions Council) say 150,000. Perhaps this does not sound like many, but this means that the march, which started at midday at Embankment, lasted until nearly 5pm, when the last marchers reached the finish point in Hyde Park.
 
-Winding through the streets and avoiding the socialist/communist/Marxist paper sellers, the union members made their voices heard – “no ifs, no buts, no NHS cuts”; “I’d rather be a pleb than a Tory”; and the eternal “General Strike Now!” chants rang around Central London. Vuvuzelas, whistles and union marching bands (the Fire Brigade Union had a bagpipe band) added to the noise.  
+Winding through the streets and avoiding the socialist/communist/Marxist paper sellers, the union members made their voices heard – “no ifs, no buts, no NHS cuts”; “I’d rather be a pleb than a Tory”; and the eternal “General Strike Now!” chants rang around Central London. Vuvuzelas, whistles and union marching bands (the Fire Brigade Union had a bagpipe band) added to the noise.
  Workers on the march were angry at job cuts, benefit cuts and pay freezes whilst the cost of living continues to rise. People were struggling to understand why the coalition would choose to make life so hard for some of Britain’s lowest paid workers in the name of austerity to help the economy. Yet the economy continues to face contraction, and the budget deficit rises. The TUC makes the argument that making cuts whilst we are still in a recession costs the government more in the long run, as more people out of work reduces income tax receipts to the treasury, and the government has to pay out even more in benefits to those without jobs. Their slogan “Investment not cuts” was oft repeated in the speeches at the rally.
 
 Ed Miliband also addressed the crowds at the rally. Cheered for his promise to repeal the NHS changes passed by this Government, he faced a spattering of jeers for repeating the Labour Party policy that some cuts are necessary. Miliband also took the Tories to task, “Andrew Mitchell may have resigned, but the culture of two nations runs right across this government. They cut taxes for millionaires, and they raise taxes for ordinary families.”

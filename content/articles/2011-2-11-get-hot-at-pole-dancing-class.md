@@ -2,7 +2,7 @@
 title: >
   Get hot at pole dancing class
 subtitle: >
-  Beware, this is serious exercise people 
+  Beware, this is serious exercise people
 date: "2011-02-11 06:43:35 +0000"
 id: "800"
 old_path: /arts/800/get-hot-at-pole-dancing-class
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102110641-ks607-poledanc.jpg"
 image_caption: >
-  
+
 image_width: "780"
 image_height: "600"
 image_attribution: ""

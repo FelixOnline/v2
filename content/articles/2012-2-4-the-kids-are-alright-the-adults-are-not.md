@@ -36,15 +36,15 @@ imported: true
 
 __Carnage__
 
-__Director__ Roman Polanski  
-__Screenwriters__ Yasmina Reza (play), Roman Polanski  
+__Director__ Roman Polanski
+__Screenwriters__ Yasmina Reza (play), Roman Polanski
 __Cast__ Jodie Foster, Kate Winslet, John C. Reilly, Christoph Waltz
 
 Get ready for the craziest, most intense, and unforgettable ride of this year. Yes, Polanski’s latest _Carnage_ is a force to be reckoned with; which is odd, mostly because of its incredibly modest running time (79 minutes), small cast (four key characters), single set (a New York apartment), and what appears to be a straightforward plot. But based on the Tony Award winning play _God of Carnage_ by Yasmina Reza, this is a deceptively simple ﬁlm that has so much energy and power to dish out, even in its tiny scale. So get ready – for a hot-tempered, scream-ﬁlled, foul-mouthed, alcohol-fuelled, vomit-covered (yes, really) experience that will be hard to resist.
 
 In a brief prologue set in contemporary New York, we see an 11-year-old Zachary pick up a stick and swing it in Nathan’s face, which results in bruising, swelling and two teeth being knocked out. Zachary’s parents, Nancy (Winslet) and Alan (Waltz), are invited over by Nathan’s parents, Penelope (Foster) and Michael (Reilly), to discuss this situation in good faith. What was supposed to be a civilised, calm meeting between four mature people start taking darker turns, as true characteristics and feelings are revealed.
 
-What makes this so agonising, yet irresistibly tense, is the fact that this encounter could have been over in minutes. Nancy and Alan could have left Penelope and Michael’s ﬂat so much  
+What makes this so agonising, yet irresistibly tense, is the fact that this encounter could have been over in minutes. Nancy and Alan could have left Penelope and Michael’s ﬂat so much
  sooner. They get to as far as the elevator, twice, and yet every time, they end up in the living room. The bitter hatred and unﬁnished business make it difﬁcult to call it a day. It’s almost perverse and sometimes scary to think that these people cannot and refuse to leave; and no-one does claustrophobia better than Polanski. Even though this may seem a highly unambitious project for a director who has made many classics over his astonishing career, his attention to detail is impeccable. He gets right up close to his actors, and the apartment in which most of the ﬁlm is set seems sizable enough, but Polanski chooses to remain mainly in the living room, crowding his scenes with his four stars.
 
 Small verbal attacks and passive-aggressive statements are the reasons why there can be no simple resolution. Even from the very start, the victim’s mother is defensive and secretly mad as hell. She has a condescending tone, something the perpetrator’s father is far from willing to accept. Boys ﬁght. It’s a part of life, and he’s not prepared to apologise so profusely. Trying to control her husband’s snarky outbursts is the perpetrator’s mother, who tries to show as much genuine-looking apologetic expression as possible. But even she has a breaking point. Acting as the good-natured mediator is the victim’s father, who tries to put on a smile whenever possible. But he too has issues of his own, and as everyone mouths off, he joins the ﬁght and shows he also has a louder side.

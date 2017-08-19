@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102152-ps3110-lady_gaga,_artpop_ball_tour,_bell_center,_montréal,_2_july_2014_(20)_(14561598924).jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

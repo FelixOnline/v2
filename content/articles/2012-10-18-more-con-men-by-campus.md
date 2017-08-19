@@ -2,7 +2,7 @@
 title: >
   More con men by campus
 subtitle: >
-  Student was approached by Queen’s Gate by men selling “cheap designer clothing” 
+  Student was approached by Queen’s Gate by men selling “cheap designer clothing”
 date: "2012-10-18 21:45:26 +0100"
 id: "2721"
 old_path: /news/2721/more-con-men-by-campus
@@ -41,7 +41,7 @@ This week, another student has informed Felix of situation that is not too dissi
 
 The student was walking home from College when the two men approached and engaged the student in conversation. The men said that they were very poor and that they wanted to sell some designer clothing for very cheap prices to quickly obtain money. The student immediately attempted to dial 999. At this point the two men drove up to the student and started shouting abuse.
 
-The student managed to get a photo of the two men (pixelated, above), and sent it in to Felix.  
+The student managed to get a photo of the two men (pixelated, above), and sent it in to Felix.
  The two men followed the student down Prince Consort Road, hurling abuse in an intimidating manner.
 
 The car that the two men were driving was described as a blue Sedan. The number plate of the car was given to Campus Security and the Campus Police Officer.

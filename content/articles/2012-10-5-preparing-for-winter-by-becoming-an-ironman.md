@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210051431-felix-ed-picture.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,5 +45,5 @@ The event week rolled around in the blink of an eye. After all the hours I’d p
 
 The night before the big day I didn’t sleep at all. You read all sorts of things about training and mental preparation during the build-up, and they all say things like “focus on what you can do something about, don’t worry about the rest”. This is crazy advice because it’s completely impossible to follow. Unless you have the mental training of an SAS Delta-Force MI6 super-commando, of course you’ll spend the entire time fretting about the weather, mechanical failures, crashing, drowning, failing etc etc. On top of this, triathlon is a sport for people with OCD. Everything has to be prepared “just so” to make your transitions from one sport to the next as smooth and quick as possible. Given that this was my first triathlon, I had exactly no experience to draw upon and I’d worry about not having put my trainers in the right bag. I’m not exactly known for my ability to micro-manage the little details.
 
-_You can sponsor Ned online by visiting www.justgiving.com/NedsIronman or by text through JustTextGiving by sending ‘IRON66 £(amount you’d like to give)’ to 70070.  
+_You can sponsor Ned online by visiting www.justgiving.com/NedsIronman or by text through JustTextGiving by sending ‘IRON66 £(amount you’d like to give)’ to 70070.
  Part 2 will be next week._

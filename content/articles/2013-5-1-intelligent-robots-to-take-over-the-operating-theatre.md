@@ -1,6 +1,6 @@
 ---
 title: >
-  Intelligent Robots to take over the operating theatre? 
+  Intelligent Robots to take over the operating theatre?
 subtitle: >
   In ten years time a doctor may no longer be prodding around inside you
 date: "2013-05-01 19:16:37 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

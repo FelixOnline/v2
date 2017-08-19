@@ -2,7 +2,7 @@
 title: >
   Music Tech warm up KABLAAM & boil after-party
 subtitle: >
-  Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits 
+  Iñigo Martinez de Rituerto on the glorification of the vibe selector and Imperial’s musical exploits
 date: "2011-11-03 20:50:10 +0000"
 id: "1675"
 old_path: /music/1675/music-tech-warm-up-kablaam--boil-after-party
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

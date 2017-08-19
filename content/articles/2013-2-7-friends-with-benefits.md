@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302072310-tna08-awkward-men-sex.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I have read cosmopolitan once some of the articles content was similar I do not mean to be accused for feminism here again but yet this way of thinking for women is described by certain adjectives in the society stereotypes dictionary Being a conservative I do share the stereotypes ideas The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype or you are a guy and a genius I do love the article though because it is a perfect presentation of the truth about how manynot all women think NiceExcellent 
+ - I have read cosmopolitan once some of the articles content was similar I do not mean to be accused for feminism here again but yet this way of thinking for women is described by certain adjectives in the society stereotypes dictionary Being a conservative I do share the stereotypes ideas The fact that you choose to stay anonymous suggests that you are a woman aware of the stereotype or you are a guy and a genius I do love the article though because it is a perfect presentation of the truth about how manynot all women think NiceExcellent
 imported: true
 ---
 

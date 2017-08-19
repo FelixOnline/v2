@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202022257-sjw209-img_9098.jpg"
 image_caption: >
-  
+
 image_width: "5184"
 image_height: "3456"
 image_attribution: ""
@@ -52,7 +52,7 @@ What about results? Or is it just for fun?
 
 “We’ve acually done better every year... Last year, the girls made the knocout stages in our first year there – but the guys didn’t” says Annabelle. “It was pretty satisfying.
 
-“It’s a big competition, amd the level is prettty high, given that it’s in France” Stefan counters. “This year, we’re sending a full girl’s team and two men’s teams, and hopefully the guys can make the semis”.  
+“It’s a big competition, amd the level is prettty high, given that it’s in France” Stefan counters. “This year, we’re sending a full girl’s team and two men’s teams, and hopefully the guys can make the semis”.
  With the Olympics just around the corner a major event in the handballing world, what do they think of the state of handball in England at the moment?
 
 Stefan smiles at the mention of the Olympics: “ I’m actually volunteering for the handball event, I should be helping out with some of the teams this summer. I was supposed to assist the German team, but in the end they didn’t qualify! Handball is growing here, though, and England Handball is really pushing for the development of the sport.” Annabelle agrees: “You see it more and more in schools now, whereas when I was in school the only sport I remember doing seriously was netball. The Olympics will help it too, with a number of handball venues being left as part of the legac.y”

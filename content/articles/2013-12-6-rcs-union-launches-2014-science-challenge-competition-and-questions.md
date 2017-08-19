@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201312060345-jal08-rcsu_sci_chall_34.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Benjamin Lester"
@@ -50,7 +50,7 @@ The competition will be open to students from February 1 to March 3, 2014 and ea
 
 “Write a letter to my five year old daughter, Charlotte, about how one or more areas of science, technology, engineering or medicine that fascinate you will have will have developed by the time she is at University and which subject you would encourage her to study and why” – Pallab Ghosh (Essay: 800 words max)
 
-“How should we decide which species to prioritise for conservation?”  
+“How should we decide which species to prioritise for conservation?”
  — John Kudlick, Society of Biology (Essay: 800 words max)
 
 “Explain a scientific concept in a 3-minute video-clip” — Dr. Jad Marrouche, Former RCSU President and current Imperial College research associate at CERN (Video: Answer via a video clip uploaded to YouTube with #RCSsciencechallenge).

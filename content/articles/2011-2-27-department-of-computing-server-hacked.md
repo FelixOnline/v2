@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271138-ks607-hackingt.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1067"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
 
 comments:
- - Actually its not so unreasonable to complain about the integrity of our files potentially including private keys to access other servers being compromised nor being unable to use SVN over SSH Unless Im missing a workaround somebody please tell me if I am this ban forces anyone using SVN to push changes from a DoC machine or the ICDoC wireless network It has brought work on my final year project to a halt as I have deltas to push from my home desktop Cue people telling me I should have used gitAnyway its more of an inconvenience than just needing to go into labs to workYes I previously tested the FireSheep tool in the department and reported on the findings but they were not at fault there The wireless network is intentionally unprotected and students are advised to use the WPA enabled Imperial wireless In this case however information is critical indeed and I will be further investigating what is being done and the causes over the weekThats outrageous noone else was told the 
+ - Actually its not so unreasonable to complain about the integrity of our files potentially including private keys to access other servers being compromised nor being unable to use SVN over SSH Unless Im missing a workaround somebody please tell me if I am this ban forces anyone using SVN to push changes from a DoC machine or the ICDoC wireless network It has brought work on my final year project to a halt as I have deltas to push from my home desktop Cue people telling me I should have used gitAnyway its more of an inconvenience than just needing to go into labs to workYes I previously tested the FireSheep tool in the department and reported on the findings but they were not at fault there The wireless network is intentionally unprotected and students are advised to use the WPA enabled Imperial wireless In this case however information is critical indeed and I will be further investigating what is being done and the causes over the weekThats outrageous noone else was told the
 imported: true
 ---
 

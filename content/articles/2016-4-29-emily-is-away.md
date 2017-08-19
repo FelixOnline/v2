@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201604291156-felix-emilyisaway.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "215"
 image_attribution: ""
@@ -35,11 +35,11 @@ comments:
 imported: true
 ---
 
-E_mily is away_ is an interactive, branching visual novel set in MSN\-inspired chat client. Its visuals and sound effects, from the classic Windows XP start sound to the low rumbling of a desktop computer, will be instantly familiar to those who grew up using Microsoft’s iconic communication software.
+E_mily is away_ is an interactive, branching visual novel set in MSN-inspired chat client. Its visuals and sound effects, from the classic Windows XP start sound to the low rumbling of a desktop computer, will be instantly familiar to those who grew up using Microsoft’s iconic communication software.
 
-Set over a number of years, you chat with your friend Emily from before the start of college all the way to your senior year \(and its heardbreaking ending\).
+Set over a number of years, you chat with your friend Emily from before the start of college all the way to your senior year (and its heardbreaking ending).
 
-Early on, Emily asks you where you want to go to college \(which affects future narrative choices\): an engineering, arts or business school? But rather than reflecting my own past I chose to attend art school. If given the option to go back and make that decision in my real life again, would I have done the same? I’m not sure, but for a brief moment _emily is away_ pushed me to reflect on my past decisions via the most simple of game mechanics.
+Early on, Emily asks you where you want to go to college (which affects future narrative choices): an engineering, arts or business school? But rather than reflecting my own past I chose to attend art school. If given the option to go back and make that decision in my real life again, would I have done the same? I’m not sure, but for a brief moment _emily is away_ pushed me to reflect on my past decisions via the most simple of game mechanics.
 
 Even though you’ve only been chatting for emily for a few minutes, it’s not long before you feeling like you’re talking with a real person. Emily is away reminds us of more innocent times capturing an era of and period in our teenage years and early adulthood that is hard to forget.
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  In a galaxy far, far away... 
+  In a galaxy far, far away...
 subtitle: >
   Most distant galaxy ever detected
 date: "2011-02-03 19:59:03 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031957-ks607-galaxyga.jpg"
 image_caption: >
-  
+
 image_width: "1100"
 image_height: "797"
 image_attribution: ""

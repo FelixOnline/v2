@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301102243-tna08-cxouter.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Charing Cross and Hammersmith A&E departments are going to be closed.
 
 [Following a public consultation last year, the decision was made concerning the future of the Hammersmith and Fulham borough hospitals](http://felixonline.co.uk/news/2632/possible-ae-changes/). Charing Cross Hospital will now become a local hospital and Hammersmith Hospital will be a specialist hospital.
 
-The[ Imperial College Medical School](http://www1.imperial.ac.uk/medicine/), based at Charing Cross, may have to move as a result.  
+The[ Imperial College Medical School](http://www1.imperial.ac.uk/medicine/), based at Charing Cross, may have to move as a result.
  The Joint Committee of Primary Care Trusts is considering the outcome of the [Shaping a Healthier Future](http://www.northwestlondon.nhs.uk/shapingahealthierfuture/) proposal (to close the A&E Departments) and will make a decision on 19 February 2013. It is estimated that all changes to the hospitals, and any involving the Imperial medical school moving location will take roughly three years.
 
 The A&E department will be expanded in Chelsea and Westminster Hospital to accommodate for the residents needs and will officially be a major hospital. The changes also include the closure of the hyper-stroke unit of Charing Cross Hospital.
@@ -57,7 +57,7 @@ The main worry is that the initial closure of the A&E department and stroke unit
 Councillor Marcus Ginn, community care leader, said: “We have been warning of the threat to Charing Cross hospital for many months and this confirms out worst fears.
 
 “Over many months of questioning on this, NHS bureaucrats have failed to address concerns that this will leave thousands of residents dangerously distant from emergency care or to show that lives will not be put at risk by these closures.
-TODO: image from 
+TODO: image from
 “We will be fighting tooth and nail to save Charing Cross – the public are not going to accept this plan quietly, especially when the case for stripping all the major service out of such a well loved and respected centre of excellence is not supported by evidence.
 
 “They have not taken account of the thousands on new homes being built in west London which will mean we need more local access to hospitals, not less.

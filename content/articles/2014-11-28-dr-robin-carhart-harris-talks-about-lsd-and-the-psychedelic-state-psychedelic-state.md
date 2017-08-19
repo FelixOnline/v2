@@ -1,6 +1,6 @@
 ---
 title: >
-  Dr Robin Carhart-Harris talks about LSD and the Psychedelic state Psychedelic State 
+  Dr Robin Carhart-Harris talks about LSD and the Psychedelic state Psychedelic State
 subtitle: >
   Lauren Ratcliffe interviews Imperial researcher and learns how and why LSD could be used to treat depression and addictions
 date: "2014-11-28 00:57:13 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412011305-ps3110-for-web.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

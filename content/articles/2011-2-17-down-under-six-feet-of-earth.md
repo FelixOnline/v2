@@ -2,7 +2,7 @@
 title: >
   ‘Down Under’ six feet of earth
 subtitle: >
-  It’s an absolutely phenomenal crime drama that is surely in league with similar themed films. 
+  It’s an absolutely phenomenal crime drama that is surely in league with similar themed films.
 date: "2011-02-17 19:31:48 +0000"
 id: "818"
 old_path: /film/818/down-under-six-feet-of-earth
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102171928-nm1010-downunde.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1067"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211152056-tna08-don-lab-oscar-cez.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ The table produced by THE showed that Imperial ranked first for amount of fundin
 
 University of Cambridge saw a massive drop in their income as their funding fell from £85.2 million in 2010-2011 to £56.2 million in 2011-2012, a 34 per cent decrease. They also had a fall in application numbers so that their success rate increased from 33 per cent to 37 per cent.
 > Imperial ranked first for amount of funding, followed by University College London, University of Edinburgh, University of Cambridge and University of Oxford
-Some institutions that actually had an increase in funding from UK research councils were the universities of Birmingham, Edinburgh and University College London. University of Liverpool had a dramatic rise in funding from £12.3 million to £24 million, therefore almost doubling.  
+Some institutions that actually had an increase in funding from UK research councils were the universities of Birmingham, Edinburgh and University College London. University of Liverpool had a dramatic rise in funding from £12.3 million to £24 million, therefore almost doubling.
  The University of Bath had a giantleap in their success rate, from 31 per cent to 42. Jane Millar, Pro Vice-Chancellor for Research at Bath, said she was pleased with the successes, “especially at a time when funding is getting tough”.
 
 She said that the institution’s system of internal academic peer review and “outstanding academic appointments” had made a difference.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - How typical of imperial College including in the panel members with no direct link to halls but leaving out wardens alumni and 1st year repsIs this am attempt to ignore student feedback yet again wardens services get some of the highest scored in all College surveys and their role in enhancing student experience is we widely recognised by everyone except from  whoever is in charge of this process as they have left wardens out   
+ - How typical of imperial College including in the panel members with no direct link to halls but leaving out wardens alumni and 1st year repsIs this am attempt to ignore student feedback yet again wardens services get some of the highest scored in all College surveys and their role in enhancing student experience is we widely recognised by everyone except from  whoever is in charge of this process as they have left wardens out
 imported: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  Prof. Sir John Pendry, the physicist famous for inventing the invisiblity cloak 
+  Prof. Sir John Pendry, the physicist famous for inventing the invisiblity cloak
 subtitle: >
   The Perfect Lens – an Interview with Professor Sir John Pendry
 date: "2014-11-10 23:34:51 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102334-ps3110-professor_sir_john_pendry_039-for-site.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

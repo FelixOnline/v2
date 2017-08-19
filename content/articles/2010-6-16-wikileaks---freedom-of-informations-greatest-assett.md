@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201006162046-srg03-WikiLeak.jpg"
 image_caption: >
-  
+
 image_width: "915"
 image_height: "278"
 image_attribution: ""

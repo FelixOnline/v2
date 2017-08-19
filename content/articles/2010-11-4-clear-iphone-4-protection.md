@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041830-ba108-TECHNOLO.jpg"
 image_caption: >
-  
+
 image_width: "533"
 image_height: "400"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -45,6 +45,6 @@ Union officials met with boat club trainers and the hotel this week as part of t
 
 The £2050 fine was paid in full by the boat club last week, and will presumably go towards what the hotel claimed were substantial cleaning costs and a smashed toilet door.
 
-Allegations about the boat club's behaviour surfaced two weeks ago, after the hotel made a series allegations regarding students' behaviour at the event. These included one student reportedly “vomiting all over \[the\] manager while he was explaining to you that the function was going to be stopped due to the behaviour”.
+Allegations about the boat club's behaviour surfaced two weeks ago, after the hotel made a series allegations regarding students' behaviour at the event. These included one student reportedly “vomiting all over [the] manager while he was explaining to you that the function was going to be stopped due to the behaviour”.
 
 The hotel also said there had been damage to equipment, vomit found in “corridors and staircases around the hotel” and food thrown at staff.

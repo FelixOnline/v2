@@ -1,6 +1,6 @@
 ---
 title: >
-  Still surviving... still thriving? 
+  Still surviving... still thriving?
 subtitle: >
   Jack Steadman looks back at the latest season of Game of Thrones
 date: "2015-06-18 19:42:52 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201506182041-jyg11-yoo-noo-noofin,-john-snoo.jpg"
 image_caption: >
-  At least one of the men in this image knows nothing. 
+  At least one of the men in this image knows nothing.
 image_width: "0"
 image_height: "0"
 image_attribution: "HBO"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012091930-ac1507-books.jpg"
 image_caption: >
-  
+
 image_width: "1075"
 image_height: "779"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106111822-felix-the-pope.jpg"
 image_caption: >
-  
+
 image_width: "2176"
 image_height: "1774"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105130013-felix-tyler-the-creator-goblin.jpeg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "550"
 image_attribution: ""

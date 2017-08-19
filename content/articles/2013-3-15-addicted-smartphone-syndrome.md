@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150110-tna08-thinker_iphone.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Thank you for good imformationI liked the article even though it also made me sad People preferring the smartphone to actual human interaction  Facebook to meeting their friends  texting to actually talking to someone facetoface  Thanks for this food for thought 
+ - Thank you for good imformationI liked the article even though it also made me sad People preferring the smartphone to actual human interaction  Facebook to meeting their friends  texting to actually talking to someone facetoface  Thanks for this food for thought
 imported: true
 ---
 

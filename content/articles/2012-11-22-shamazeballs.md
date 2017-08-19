@@ -1,6 +1,6 @@
 ---
 title: >
-  “Shamazeballs?” 
+  “Shamazeballs?”
 subtitle: >
   Lucia Podhorska thinks it was more of a shambles
 date: "2012-11-22 23:02:44 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222302-tna08-xfactor.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -58,7 +58,7 @@ Let’s start with Lucy Spraggan. She auditioned with an original song entitled 
 
 This week’s elimination of Ella Henderson has left me reeling. She’s only 16 years old but, together with Jahmene Douglas, she had the best voice this season. Her rendition of Cher’s “Believe” is nothing short of genius and if you don’t believe me, I urge you to watch the video on YouTube and find new meaning in the song. She has been likened to Adele and described as the best singer on the show since Leona Lewis. She was a true class act, one that didn’t need any gimmicks to make her performances special and memorable.
 
-__The Groups__  
+__The Groups__
  To be honest, I don’t much care for this category, so this part will be short. There’s only one act left anyway – boy group Union J. As much as it pains me to say it, they’re not bad, but do we really need another band like The Wanted and One Direction? How about rewarding originality for a change?
 
 __The Over 28s__

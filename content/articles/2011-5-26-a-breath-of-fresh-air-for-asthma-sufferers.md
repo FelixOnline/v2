@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105262019-felix-asthma-female-000010281053large.jpg"
 image_caption: >
-  
+
 image_width: "3504"
 image_height: "2336"
 image_attribution: ""

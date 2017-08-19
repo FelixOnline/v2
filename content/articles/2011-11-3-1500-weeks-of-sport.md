@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110202327-sjw209-indy.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "314"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - How neat Is it really this simpel You make it look easyWhat a joy to find soenome else who thinks this way  unscrupulous elements   deleterious side   erectile   mg before   liability 
+ - How neat Is it really this simpel You make it look easyWhat a joy to find soenome else who thinks this way  unscrupulous elements   deleterious side   erectile   mg before   liability
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012307-csw09-icgag%20ladies%2021st%20oct%20%2712-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ How does a division 3 sport’s team respond to the challenge of playing two div
 
 Surely they wouldn’t possibly dream of accepting and should redundantly assume their inevitable defeat? This is not how ICGAC Ladies operate. So on Sunday the 21st October the 9 aside team made their way to Tír Chonaill Gael’s pitch in Greenford – with the mantra “ah sure why not!” at the front of their minds and love of the team at the forefront of their hearts. No one knows what they are capable of until they try, and with the majority of the team having only been playing for a matter of weeks, this was the perfect opportunity for us to try everything!
 
-St.Alban’s were first on the agenda, and first on the scoreboard as Imperial struggled through a rocky first half. This was all to be rectified however in the second half, by placing the amazing Hester Corne in goals and a reshuffle of positions throughout the field enabled Imperial’s true potential to shine through.  
+St.Alban’s were first on the agenda, and first on the scoreboard as Imperial struggled through a rocky first half. This was all to be rectified however in the second half, by placing the amazing Hester Corne in goals and a reshuffle of positions throughout the field enabled Imperial’s true potential to shine through.
  With Hester creating an impermeable barrier in the place of where our goals should have been and Ciara O’ Callaghan swiftly ensuring the ball made it safely up the pitch, Ami Shirley and Ruth Reynolds got to work on conversion. Captain Ruth managed a point from play whilst newcomer Ami created a complete turn up for the books in hammering home Imperial’s first goal (3 points) in well over a year! This from a girl who had literally been playing for 3 weeks! The hype, pure shock and amazement created by this move by Woman of the Match Ami provided the catalyst for a vigorous, heartfelt and inspiring comeback from Imperial.
 
 Despite Imperial clearly dominating the latter half of the game, regrettably St.Alban’s were the eventual victors on the day, as the mistakes of the 1st half proved too much for even the most rejuvenated transformed and determined team to reconcile.

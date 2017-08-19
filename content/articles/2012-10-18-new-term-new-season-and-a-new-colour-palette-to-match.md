@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ Season after season, red crops up as the colour for the brave and the confident.
 
 __Purple__
 
-From sugary grape to enchanting amethyst, purple was the canvas colour for designers this autumn. In other words, purple became the backdrop upon which patterns were printed and embellishments sewn.  
+From sugary grape to enchanting amethyst, purple was the canvas colour for designers this autumn. In other words, purple became the backdrop upon which patterns were printed and embellishments sewn.
  Purple has long been the colour of nobility and status, so it is of little surprise to see the colour used to dye mink and rich metallic tweeds – even a touch of the colour adds something expensive and opulent to a look. Combine it with black for a simple, chic ensemble.
 
 For inspiration, refer to the different runway incarnations of the colour: from Christopher Kane’s sweet and youthful dress to Miu Miu’s luxurious deep purple suit – see Karlie’s flash of turquoise across the eyes for an idea for an extra pop of colour - purple and turquoise are a secret match made in heaven.

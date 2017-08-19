@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310120052-jal08-artspunchdrunk_pp_poster.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -35,10 +35,10 @@ comments:
 imported: true
 ---
 
-￼What: The Drowned Man: A Hollywood Fable  
- (in association with Punchdrunk and the National Theatre)  
- Where: Temple Studios, Paddington When: Until 30 Dec 2013  
- Price: £39.50 - £47.50,  
+￼What: The Drowned Man: A Hollywood Fable
+ (in association with Punchdrunk and the National Theatre)
+ Where: Temple Studios, Paddington When: Until 30 Dec 2013
+ Price: £39.50 - £47.50,
  concessions £19.50
 
 From dreamthinkspeak’s nocturnal wanderings underneath Somerset House, to the burgeoning popularity of Secret Cinema’s awe-inspiring screenings, you’d be forgiven for thinking that the traditional theatre format is dead.
@@ -47,7 +47,7 @@ But this year sees the return of Punchdrunk, the company that started it all, as
 
 The Punchdrunk formula is a relatively simple one; a building is converted into an interactive theatrical space, and visitors are invited to wander around, explore the environment, and - driven by their curiosity - discover what has happened. In this case, the company inhabit an abandoned Royal Mail sorting office just outside Paddington Station, and have transformed it into ‘Temple Studios’, a 1960s film studio with a sinister underbelly. Stripped of their belongings - phones and cameras are forbidden - visitors are given masks that obscure their identity before entering the service lift, and being taken down into the bowels of the film studio.
 
-The first surprise comes before we have even left the elevator, as the attendant splits our group into two, dropping half off at one floor, and taking the rest of us to another level. The company stress that The Drowned Manisashowthatshouldbeexplored alone - whether by choice or by force.  
+The first surprise comes before we have even left the elevator, as the attendant splits our group into two, dropping half off at one floor, and taking the rest of us to another level. The company stress that The Drowned Manisashowthatshouldbeexplored alone - whether by choice or by force.
  Once we have been freed from the elevator we are allowed to wander around their creation. One half of the building is made up to look like the town around the studios, including a forest, a saloon, and a cinema where the horror classic ‘Eyes Without a Face’ plays silently, while the other half of the building is the studio itself; a world of seedy dressing rooms and resentful production artists.
 
 Through brief snatches of interaction between the cast members, the audience begins to pick up the plot; a modern adaptation of Woyzeck, Georg Buchner’s classic tale of jealousy, power, and murder, The Drowned Man tells two parallel stories: outside the studio gates William watches as his wife Mary is seduced by Dwayne - after catching them in the act, William kills Mary in the wilderness. Meanwhile, inside the studio, Wendy is shooting a film and suffering from violent hallucinations, and when her husband Marshall falls in love with the studio’s queen bee Dolores Grey, Wendy murders him. These two tales intertwine, and loop back around each other, with parts being repeated throughout the evening, conjuring up an unnerving atmosphere of fear, paranoia, and confusion.

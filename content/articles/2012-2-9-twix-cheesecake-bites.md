@@ -42,20 +42,20 @@ If you opt for caster sugar, you’ll get a lovely contrast between the very pal
 
 Also, if you really want to cut a few corners, use Sainsbury’s own brand chocolate toffee biscuit fingers as dupes for Twix.
 
-__Crust:__  
- – 20 Oreos (a typical 154g package contains about 14)  
+__Crust:__
+ – 20 Oreos (a typical 154g package contains about 14)
  – 50g unsalted butter, melted
 
-__Cheesecake batter:__  
- – 450g cream cheese, softened (leave it out at room temp for 1-2 hours before using.)  
- – 100g caster/brown sugar  
- – 1⁄2 tsp vanilla extract  
- – 2 large eggs, lightly beaten  
- – 125ml sour cream  
+__Cheesecake batter:__
+ – 450g cream cheese, softened (leave it out at room temp for 1-2 hours before using.)
+ – 100g caster/brown sugar
+ – 1⁄2 tsp vanilla extract
+ – 2 large eggs, lightly beaten
+ – 125ml sour cream
  – 12 mini/fun size Twix bars
 
-Preheat oven to 135°C. Prepare either a 12-hole muffin case (line it with paper cases) or a square/rectangular baking tin/brownie tray lined with greaseproof paper (I had a 10”x7” one.)  
- Either chuck the Oreos in a food bag and bash into fine crumbs with a rolling pin, or do the same thing to them in a food processor. Mix in the melted butter thoroughly until it all comes together.  
+Preheat oven to 135°C. Prepare either a 12-hole muffin case (line it with paper cases) or a square/rectangular baking tin/brownie tray lined with greaseproof paper (I had a 10”x7” one.)
+ Either chuck the Oreos in a food bag and bash into fine crumbs with a rolling pin, or do the same thing to them in a food processor. Mix in the melted butter thoroughly until it all comes together.
  If you’re using the 12-hole muffin case, divvy up the cookie crumbs between the 12 paper cases and press down with your fingers. Otherwise, chuck all the crumbs on the lined baking tin/brownie tray and press down with the back of a spoon/your hands.
 
 That’s your base(s) done – set it aside (you could even pop it in the fridge for a little while) while you work on the batter.

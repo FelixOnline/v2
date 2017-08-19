@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411202148-cj914-teen-titans-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "comicvine"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Pretty sure the author is using entitlement in the wrong context I think he means  false sense of entitlement Regardless pandering to Young Justice fans means the boycott of teen titans go seems to be working Kudos to the fansHe used it correctly They believe that it is their god given right for them to get what they want Its not working its just a way to get them to shut up and stop whiningTeen Titans Go still sucks cheap fitflopfitflop shoes singapore httpfitflopsalesingapore2blogspotcomfitflops clearance salefitflop in australia httpaustraliafitflopsblogspotcombirkenstocks sydneybirkenstock buy online httpbirkenstocksaleaustraliablogspotcomlouboutin bianca canadachristian louboutin sale httpcanadachristianlouboutinblogspotcomNg0SRZ httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks this site is extremely practicalfifa 17 httprsdseriescomcommunityforumuser1915skillnba2k17No it doesnt you bastard 
+ - Pretty sure the author is using entitlement in the wrong context I think he means  false sense of entitlement Regardless pandering to Young Justice fans means the boycott of teen titans go seems to be working Kudos to the fansHe used it correctly They believe that it is their god given right for them to get what they want Its not working its just a way to get them to shut up and stop whiningTeen Titans Go still sucks cheap fitflopfitflop shoes singapore httpfitflopsalesingapore2blogspotcomfitflops clearance salefitflop in australia httpaustraliafitflopsblogspotcombirkenstocks sydneybirkenstock buy online httpbirkenstocksaleaustraliablogspotcomlouboutin bianca canadachristian louboutin sale httpcanadachristianlouboutinblogspotcomNg0SRZ httpwwwFyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNGcomThanks this site is extremely practicalfifa 17 httprsdseriescomcommunityforumuser1915skillnba2k17No it doesnt you bastard
 imported: true
 ---
 

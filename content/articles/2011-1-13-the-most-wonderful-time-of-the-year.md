@@ -1,6 +1,6 @@
 ---
 title: >
-  The most wonderful time of the year 
+  The most wonderful time of the year
 subtitle: >
   While the rest of the country waited for flights at Heathrow, the Fellwanderers headed for the Lake District
 date: "2011-01-13 19:32:15 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131930-ks607-fellwand.jpg"
 image_caption: >
-  
+
 image_width: "2896"
 image_height: "1944"
 image_attribution: ""

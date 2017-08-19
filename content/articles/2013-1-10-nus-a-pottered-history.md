@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -43,5 +43,5 @@ Historically, our relationship with NUS has always been fraught – be it argume
 
 The debate, however, of whether we should be in the NUS has not been given to the student body for nearly five years. Very few of the students who voted to leave the NUS back in 2008 are around now – we are a new cohort who should be able to make that decision for ourselves. I very strongly believe that we should remain out of the NUS – its ‘benefits’ are far outweighed by its costs and associated policy stances.
 
-My arguments are for another Felix article, however – at this point in time, I invite anyone interested in organising a ‘vote yes’ and a ‘vote no’ campaign to come forward and get involved in the discussion.  
+My arguments are for another Felix article, however – at this point in time, I invite anyone interested in organising a ‘vote yes’ and a ‘vote no’ campaign to come forward and get involved in the discussion.
  A referendum will – if all goes to plan – be held during sabbatical elections. As in elections, all full members of the Union are eligible to vote.

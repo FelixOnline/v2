@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292305-tna08-pickup_artist.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 Single? Virgin? Afraid to admit this because Felix told you you should quit whining about it, so now you just keep it all bottled up inside and wank while you cry yourself to sleep at night? Don’t worry, you’re not alone! Er, sorry, you are alone, but this is Imperial, and there’s a lot of other people out there just like you.
 
-So, what are you going to do about it? You know you’ve got to get out there and pick up chicks, but none of your three A\*s were in social skills. You made some bad first impressions and now all the girls in halls think you’re the “weird one,” so you just keep making awkward chit-chat in the kitchen while even the guys who play D&D hook up. You turnto the internet (it’s never let you down before!), fire up Chrome in incognito mode and, fingers shaking, type in “seduction techniques.”
+So, what are you going to do about it? You know you’ve got to get out there and pick up chicks, but none of your three A*s were in social skills. You made some bad first impressions and now all the girls in halls think you’re the “weird one,” so you just keep making awkward chit-chat in the kitchen while even the guys who play D&D hook up. You turnto the internet (it’s never let you down before!), fire up Chrome in incognito mode and, fingers shaking, type in “seduction techniques.”
 
 Welcome to the world of the pick-up artist, or PUA. These communities of self-styled experts – part salesman, part con artist, part sex offender – teach AFCs (that’s “average frustrated chumps” – guys like you) secrets of the “game.” Their techniques, they say, will teach you to be a pro womaniser in no time, and some of them are even giving out the advice for free! Like any good Imperial scientist/engineer (delete as appropriate) you’re sceptical, but these guys’ FRs (field reports) talk about them getting #-closes and f-closes all the time (that’s, er “number close” and “fuck close”); there’s got to be some truth to it, right? These methods are pretty much just lessons in being an annoying twat, because we all know girls just love to date assholes. Let’s have alook!
 

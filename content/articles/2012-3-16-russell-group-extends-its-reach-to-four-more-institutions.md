@@ -1,6 +1,6 @@
 ---
 title: >
-  Russell Group extends its reach to four more institutions 
+  Russell Group extends its reach to four more institutions
 subtitle: >
   Durham, Exeter, Queen Mary and York join Imperial
 date: "2012-03-16 01:54:05 +0000"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - MISTAKE York and QMUL are toilets Durham is severely complexed about its academic inferiority and northern locale despite pretty buildingsHOWEVER Exeter is allowed because its full of beautiful girls is close to the seaside and I hear everyone who has ever been there has had 34 years of great chat and sexQMUL is as much of an architectural toilet as ImperialGrow up 1 Were lucky to go to a superb university but the research produced by York  and even QMUL and Durham  is excellent Theyre more than qualified for the Russell group I was just suprised that they werent already in itPity Exeters Research record is so dismalHow did they think Exeter should join  The only possible rationale that I can guess is that Exeter finds itself oversubscribed for its undergradautes courses probably something to do with chompings remarks and hence was included to assuage the AAb argumentThose posh gits in Exeter are just not Russell Group materialMany thanks for sharing this 
+ - MISTAKE York and QMUL are toilets Durham is severely complexed about its academic inferiority and northern locale despite pretty buildingsHOWEVER Exeter is allowed because its full of beautiful girls is close to the seaside and I hear everyone who has ever been there has had 34 years of great chat and sexQMUL is as much of an architectural toilet as ImperialGrow up 1 Were lucky to go to a superb university but the research produced by York  and even QMUL and Durham  is excellent Theyre more than qualified for the Russell group I was just suprised that they werent already in itPity Exeters Research record is so dismalHow did they think Exeter should join  The only possible rationale that I can guess is that Exeter finds itself oversubscribed for its undergradautes courses probably something to do with chompings remarks and hence was included to assuage the AAb argumentThose posh gits in Exeter are just not Russell Group materialMany thanks for sharing this
 imported: true
 ---
 

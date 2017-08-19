@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102036-ks607-hardhats.jpg"
 image_caption: >
-  
+
 image_width: "865"
 image_height: "577"
 image_attribution: ""

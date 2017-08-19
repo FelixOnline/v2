@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271956-ks607-facebook.jpg"
 image_caption: >
-  
+
 image_width: "682"
 image_height: "400"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Greatings        Protesto contra esto     urlhttprsfilesserveblognetDouglesurlWow nice article Really shows how POV makes a big difference Im glad Im not one of those socnet addicts I have to say though social networking can be greatly helpful when it comes to relevant communication between classmates for instance Still what are IMs and Skype for Btw Alex remember me  
+ - Greatings        Protesto contra esto     urlhttprsfilesserveblognetDouglesurlWow nice article Really shows how POV makes a big difference Im glad Im not one of those socnet addicts I have to say though social networking can be greatly helpful when it comes to relevant communication between classmates for instance Still what are IMs and Skype for Btw Alex remember me
 imported: true
 ---
 

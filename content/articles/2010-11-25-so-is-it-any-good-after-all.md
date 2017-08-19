@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011251948-nm1010-harrypot.jpg"
 image_caption: >
-  
+
 image_width: "1800"
 image_height: "1250"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  London pollution linked to heart complications 
+  London pollution linked to heart complications
 subtitle: >
   Mimi Li on the dangers of living in a polluted city.
 date: "2014-06-12 17:00:43 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406121800-me1711-london-pollution-011.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

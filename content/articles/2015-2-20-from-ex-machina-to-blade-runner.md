@@ -2,7 +2,7 @@
 title: >
   From Ex Machina to Blade Runner
 subtitle: >
-  Jonathan Masters explores the merits of Science Fiction 
+  Jonathan Masters explores the merits of Science Fiction
 date: "2015-02-20 16:40:20 +0000"
 id: "5291"
 old_path: /film/5291/from-ex-machina-to-blade-runner
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502201640-ps3110-exmachina2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

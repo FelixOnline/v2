@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -52,5 +52,5 @@ I don’t know if I’ll be able to pop in much this year, but I’d like to. In
 > These things still hang in the air at Imperial years later, like particularly adhesive farts from the arse of a bigoted and unlikeable dung beetle
 speak up and talk about its problems. It needs people who are unhappy about the way one of the greatest universities in the world conducts itself to stand up and make their opinion clear. Every single person reading Felix is an adult, a citizen of voting age who can go and get a mortgage, get married and go and die in the army tomorrow should they so wish. This is not an institution run by grown-up men and women who know better than you: you are paying to be educated and the way this university operates every day reflects on you. There is no better place to make your views clearer than Felix, so write in now and speak your mind.
 
-Though obviously, if you’re wrong I’ll write in swiftly the week after and bite your fucking head off.  
+Though obviously, if you’re wrong I’ll write in swiftly the week after and bite your fucking head off.
  It’s good to be back.

@@ -2,7 +2,7 @@
 title: >
   Men’s Lacrosse narrowly miss out on first silverware
 subtitle: >
-  Imperial bested by Leeds in final 
+  Imperial bested by Leeds in final
 date: "2011-05-12 18:17:11 +0100"
 id: "1192"
 old_path: /sport/1192/mens-lacrosse-narrowly-miss-out-on-first-silverware
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105121916-felix-img_2706.jpg"
 image_caption: >
-  
+
 image_width: "3456"
 image_height: "2304"
 image_attribution: ""

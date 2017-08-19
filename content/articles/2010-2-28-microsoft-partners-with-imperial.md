@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002281603-ak6309-Microsof.jpg"
 image_caption: >
-  
+
 image_width: "1258"
 image_height: "909"
 image_attribution: ""
@@ -48,4 +48,4 @@ Professor David Gann, head of the Innovation and Entrepreneurship research group
 
 Imperial's commitment to the role raises awareness and acknowledgement of their internationally outstanding education and research. Lord Mandelson, the UK Secretary of State for Business, Innovation and Skills said that: ''Imperial College is offering a service that no one else in the world can provide: specialist expertise, reliably connected across disciplines, linked directly to what the market requires. This country's investment in knowledge, skills development and meaningful research means our universities set the bar for excellence that others must try to beat.''
 
-A transcript from the PM's conference is available online.<SPAN style="\\\\" mso-bidi-font-size:10.0pt;mso-bidi-font-family:"="" the="" imperial="" college="" business="" school="" has="" been="" selected="selected" as="" lead="" academic="" partner="" for="" s="" innovation="" outreach="" programme="" following="" an="" agreement="" which="" came="" to="" light="" during="" a="" global="" investment="" conference="" held="" by="" prime="" minister.="" role="" will="" make="" technology="" and="" engineering="" qualities="" available="" of="" range="" multinational="" companies="" are="" p="" class="\\\\" MsoNormal\\\\""="" span="">
+A transcript from the PM's conference is available online.<SPAN style="\\" mso-bidi-font-size:10.0pt;mso-bidi-font-family:"="" the="" imperial="" college="" business="" school="" has="" been="" selected="selected" as="" lead="" academic="" partner="" for="" s="" innovation="" outreach="" programme="" following="" an="" agreement="" which="" came="" to="" light="" during="" a="" global="" investment="" conference="" held="" by="" prime="" minister.="" role="" will="" make="" technology="" and="" engineering="" qualities="" available="" of="" range="" multinational="" companies="" are="" p="" class="\\" MsoNormal\\""="" span="">

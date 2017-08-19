@@ -1,6 +1,6 @@
 ---
 title: >
-  Short Stories of the Week 
+  Short Stories of the Week
 subtitle: >
   Missing Women, Synchronised Toilet Flush, Train Wreck
 date: "2012-10-11 20:53:46 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,10 +34,10 @@ comments:
 imported: true
 ---
 
-__Missing Women__  
+__Missing Women__
  After being accused of spying on employees in France, Ikea has issued an apology concerning its catalogue available in Saudi Arabia. In the Saudi version of the catalogue, women have been airbrushed out of pictures, including a woman standing in her pyjamas and an Ikea designer. Members of the Swedish government in particular were very critical of the multinational group, stating that companies should not abandon their values abroad. Saudi Arabia has been in the spotlight for women’s rights (or lack thereof), as women do not yet have the right to vote, and it is the only country in the world where women are not allowed to drive.
 
-__Synchronised Toilet Flush__  
+__Synchronised Toilet Flush__
  Citizens of Bulawayo, Zimbabwe, have been asked to participate in a synchronised toilet flush. The aim is to prevent blockage of sewage pipes by keeping them wet. This has been difficult due to a prolonged drought and water shortages. Authorities have warned that residents who fail to flush their toilet at the designated time and date will risk being fined. The first flush took place at 17:30 GMT, 24th September 2012. Two synchronised toilet flushes have been scheduled every week from now on.
 
 __Train Wreck__

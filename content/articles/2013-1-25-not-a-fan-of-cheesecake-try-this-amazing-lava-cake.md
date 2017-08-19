@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250134-tna08-lava-cake-copy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -48,7 +48,7 @@ __Ingredients:__
 
 1/2 cup brown sugar
 
-1/3 cup sunflower oil  
+1/3 cup sunflower oil
  1 cup (preferably almond) milk
 
 Seeds of 1 vanilla pod
@@ -73,5 +73,5 @@ In a separate bowl sift the flour, cocoa and soda. Add the sugar and mix well.
 
 Add the wet ingredients to the dry mixture and mix until just combined. Be very careful not to overmix as this will develop the gluten in the flour and your cakes will not be light and fluffy.
 
-Fill 1/3 of the ramekins with the mixture and then add a tbsp of chocholate chips in each one of them. Then put the rest of the mixture on top so that the ramekins are 2/3 full.  
+Fill 1/3 of the ramekins with the mixture and then add a tbsp of chocholate chips in each one of them. Then put the rest of the mixture on top so that the ramekins are 2/3 full.
  Bake for about 12-15 minutes. Once baked, remove from the oven and serve the lava cakes hot. They are great with hazelnut ice-cream! Enjoy!

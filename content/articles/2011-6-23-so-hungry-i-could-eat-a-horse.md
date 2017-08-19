@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232214-felix-sss.jpg"
 image_caption: >
-  
+
 image_width: "3084"
 image_height: "2056"
 image_attribution: "flickr/publicenergy"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180112-tna08-inception-3-inception-2010-26665678-1920-1080.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The ring theory is correctWell that settles it thenThis is kinda late but didnt they explained at the start that only the original owner of the totem can use that particular totem and didnt he say the spinning top is his wifes totem correct me if im wrong Good article however it falls down on one point Cobb accepts  inner peace when he lets mal go Therefore when he finds the Chinese fella at the end in his subconscious he should not be wearing the ringhowever he is Therefore IMO when he wears a ring he is in dream world When He doesnt its reality hence he does get back he back to the real world if you check IMDB there are actually two set of actors credited with playing Cobbs kids The daughter Phillipa is credited as being both 3 and 5 years old while the son James is credited as being both 20 months and 3 years old Check this httpwwwimdbcomtitlett1375666fullcreditscastAnd this guy not only says the ending was a dream but that Cobbs wife was right and everything 
+ - The ring theory is correctWell that settles it thenThis is kinda late but didnt they explained at the start that only the original owner of the totem can use that particular totem and didnt he say the spinning top is his wifes totem correct me if im wrong Good article however it falls down on one point Cobb accepts  inner peace when he lets mal go Therefore when he finds the Chinese fella at the end in his subconscious he should not be wearing the ringhowever he is Therefore IMO when he wears a ring he is in dream world When He doesnt its reality hence he does get back he back to the real world if you check IMDB there are actually two set of actors credited with playing Cobbs kids The daughter Phillipa is credited as being both 3 and 5 years old while the son James is credited as being both 20 months and 3 years old Check this httpwwwimdbcomtitlett1375666fullcreditscastAnd this guy not only says the ending was a dream but that Cobbs wife was right and everything
 imported: true
 ---
 
@@ -47,7 +47,7 @@ I never really hoped to find a definitive answer to any of these questions (alth
 
 A crazy man with too much free time hasnoticed a small detail, during what I presume was his 100th screening of the movie. Leonardo DiCaprio’s character (Cobb) wears a wedding ring in every sequence in which he wanders through the dream world. This ring is however absent when he is awake. Is this the definitive distinction between dream and reality in the movie?
 
-The intriguing part of the theory is that, during the last scene, in which he finally see his children again, the ring is not on his finger. We can therefore logically conclude that the absence of the ring proves that Cobb wasn’t dreaming. Happy ending and case closed.  
+The intriguing part of the theory is that, during the last scene, in which he finally see his children again, the ring is not on his finger. We can therefore logically conclude that the absence of the ring proves that Cobb wasn’t dreaming. Happy ending and case closed.
  But is it? Having gained knowledge of this theory I decided to watch Inception once more. My mind, freed from the burden of having to understand the intricate plot, was ready to concentrate on the small details missed out during the first screening. I ended up watching it twice in two days. And I understood that the ring theory is wrong. And actually Inception tells a completely different story. But let’s try to explain things in an orderly fashion.
 
 At the beginning and for most of the movie, Cobb is a character grieved by guilt. Having performed Inception on his wife during their stay in Limbo, implanting deep inside her mind the idea that the world she was living in was not real, he became directly responsible for her death. Indeed, despite the fact that it was the right idea, considering where they found themselves, it was implanted so deeply into her subconscious that, even when they came back to reality, it kept growing in her head, persuading her that she was still dreaming and leading to her suicide. Because of him she was convinced she would just wake up.

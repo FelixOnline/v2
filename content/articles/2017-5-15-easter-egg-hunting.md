@@ -2,7 +2,7 @@
 title: >
   Easter egg hunting
 subtitle: >
-  Time to get rid of all that chocolate you couldn’t finish and have been hoarding all Easter? Want to eat it but finding yourself at the verge of bursting? felix has found the perfect solution for you! 
+  Time to get rid of all that chocolate you couldn’t finish and have been hoarding all Easter? Want to eat it but finding yourself at the verge of bursting? felix has found the perfect solution for you!
 date: "2017-05-15 16:28:43 +0100"
 id: "6955"
 old_path: /food/6955/easter-egg-hunting
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201705151828-felix-Screen Shot 2017-05-15 at 18.28.16.png"
 image_caption: >
-  
+
 image_width: "2264"
 image_height: "1155"
 image_attribution: ""
@@ -40,12 +40,12 @@ I hope you’ve enjoyed hunting for Easter chocolate eggs and that you don’t f
  - Salt
  - 300 ml double cream
  - 100 g sugar
- - Amaretto \(to taste, but remember that you are trying to make mousse, not get drunk\)
- - 1 tbsp \(good quality\) cocoa powder
+ - Amaretto (to taste, but remember that you are trying to make mousse, not get drunk)
+ - 1 tbsp (good quality) cocoa powder
 ## Method
-First, smash up the chocolate into relatively small pieces – yes, it’s time to unleash all the anger you have inside on the poor chocolate. Afterwards, simply melt it in bain\-marie \(do I have to explain this to you?\). Actually, just go for students’ best friend: melt carefully in the microwave. Depending on your skill in the kitchen, you might want to add a little bit of butter, but this is not necessary.
+First, smash up the chocolate into relatively small pieces – yes, it’s time to unleash all the anger you have inside on the poor chocolate. Afterwards, simply melt it in bain-marie (do I have to explain this to you?). Actually, just go for students’ best friend: melt carefully in the microwave. Depending on your skill in the kitchen, you might want to add a little bit of butter, but this is not necessary.
 
-Mix the double cream and the sugar in a separate bowl. Add the salt and the cocoa powder. When well\-mixed, add the melted chocolate and keep mixing. This is the moment when you should taste it and make sure it does not need any finishing touches. You are still allowed to add extra sugar or a pinch of salt. It’s really hard to give directions when you are using a chocolate mix – assuming that you are using the Easter leftovers and not some baking chocolate chips.
-Finally, add some good old Amaretto. Up to taste, really. But you should also keep an eye on the consistency as you don’t want it to go liquid on you. Pour it in a fancy cup and decorate with nuts, pistachios or anything else you fancy \(I normally go for the nut and strawberries variety\). Let it sit in the fridge for at least three hours – it depends on the size of the serving.
+Mix the double cream and the sugar in a separate bowl. Add the salt and the cocoa powder. When well-mixed, add the melted chocolate and keep mixing. This is the moment when you should taste it and make sure it does not need any finishing touches. You are still allowed to add extra sugar or a pinch of salt. It’s really hard to give directions when you are using a chocolate mix – assuming that you are using the Easter leftovers and not some baking chocolate chips.
+Finally, add some good old Amaretto. Up to taste, really. But you should also keep an eye on the consistency as you don’t want it to go liquid on you. Pour it in a fancy cup and decorate with nuts, pistachios or anything else you fancy (I normally go for the nut and strawberries variety). Let it sit in the fridge for at least three hours – it depends on the size of the serving.
 
 Consume!

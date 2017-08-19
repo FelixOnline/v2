@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242140-pk1811-redribbonprojection.jpg"
 image_caption: >
-  
+
 image_width: "402"
 image_height: "604"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203082012-ams111-string_theory_by_haltenny.jpg"
 image_caption: >
-  Superstring theory – a product of 
+  Superstring theory – a product of
 image_width: "1024"
 image_height: "791"
 image_attribution: ""

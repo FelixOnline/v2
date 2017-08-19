@@ -2,7 +2,7 @@
 title: >
   Test Phoenix Article
 subtitle: >
-  Testing testing 
+  Testing testing
 date: "2011-06-08 19:54:00 +0100"
 id: "1325"
 old_path: /phoenix/1325/test-phoenix-article
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   Five films to watch on Halloween (if you're a massive wuss)
 subtitle: >
-  Fiona Calcutt has some timely advice for those times behind the sofa 
+  Fiona Calcutt has some timely advice for those times behind the sofa
 date: "2011-10-27 22:02:01 +0100"
 id: "1614"
 old_path: /film/1614/five-films-to-watch-on-halloween-if-youre-a-massive-wuss
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110272300-felix-11-ffilm2.jpg"
 image_caption: >
-  
+
 image_width: "225"
 image_height: "221"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Silicon Valley, South Ken 
+  Silicon Valley, South Ken
 subtitle: >
   Serge Vasylechko explores the startup ecosystem at Imperial
 date: "2012-10-18 21:12:33 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182212-felix-alan-sugar.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

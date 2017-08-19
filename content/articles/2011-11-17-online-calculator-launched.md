@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111181022-felix-7607_02.jpg"
 image_caption: >
-  
+
 image_width: "4500"
 image_height: "3000"
 image_attribution: "Imperial College London"

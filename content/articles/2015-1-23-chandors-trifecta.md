@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501231655-jyg11-a-most-violent-year-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "J. C. Chandor, FilmNation Entertainment"

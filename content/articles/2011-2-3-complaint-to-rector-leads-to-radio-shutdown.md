@@ -1,8 +1,8 @@
 ---
 title: >
-  Complaint to Rector leads to radio shutdown 
+  Complaint to Rector leads to radio shutdown
 subtitle: >
-  IC Radio offline after “member of public” complains about racially offensive term 
+  IC Radio offline after “member of public” complains about racially offensive term
 date: "2011-02-03 19:50:39 +0000"
 id: "727"
 old_path: /news/727/complaint-to-rector-leads-to-radio-shutdown-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031951-ks607-icradiod.jpg"
 image_caption: >
-  
+
 image_width: "200"
 image_height: "256"
 image_attribution: ""

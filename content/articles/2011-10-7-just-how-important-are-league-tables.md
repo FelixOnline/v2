@@ -2,7 +2,7 @@
 title: >
   Just how important are league tables?
 subtitle: >
-  Action must always be taken, yet the university ranking system is not perfect 
+  Action must always be taken, yet the university ranking system is not perfect
 date: "2011-10-07 10:06:32 +0100"
 id: "1483"
 old_path: /comment/1483/just-how-important-are-league-tables
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "750"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Chances are when they make those coffee taelbs they make an  X amount   discountinue them So its very hard to find a replacement However you can go into any glass shop   have one custom made if your set is worth the money If not it might be cheaper to get a new set Good luckGet the measurements of the table or bring the table with you to a glass shop that cuts glass  They will be able to reaplce it that way  I had to do that once and it was very inexpensive and it worked great Peace  size   prednisone   viagra online without prescription   put lots   car insurance quotes brevard county fl 
+ - Chances are when they make those coffee taelbs they make an  X amount   discountinue them So its very hard to find a replacement However you can go into any glass shop   have one custom made if your set is worth the money If not it might be cheaper to get a new set Good luckGet the measurements of the table or bring the table with you to a glass shop that cuts glass  They will be able to reaplce it that way  I had to do that once and it was very inexpensive and it worked great Peace  size   prednisone   viagra online without prescription   put lots   car insurance quotes brevard county fl
 imported: true
 ---
 

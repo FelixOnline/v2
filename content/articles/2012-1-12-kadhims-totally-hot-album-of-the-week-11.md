@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122244-felix-kadhim-album.jpg"
 image_caption: >
-  
+
 image_width: "319"
 image_height: "316"
 image_attribution: ""

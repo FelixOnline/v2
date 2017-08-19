@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242053-pk1811-light-speed-limit.jpg"
 image_caption: >
-  
+
 image_width: "360"
 image_height: "318"
 image_attribution: ""

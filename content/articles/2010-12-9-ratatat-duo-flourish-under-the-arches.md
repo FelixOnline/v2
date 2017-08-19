@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092027-ma1307-Ratatat.jpg"
 image_caption: >
-  
+
 image_width: "1043"
 image_height: "683"
 image_attribution: ""

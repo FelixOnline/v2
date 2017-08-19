@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182209-felix-frieze.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -64,5 +64,5 @@ Other personal favourites were Kevin Crosgrave’s beautiful paintings of worksh
 
 Frieze Masters
 
-There was a sober elegance in the disposition of space at Frieze Masters and many exquisite things on display. However, the art suffered from being sunk in the same market atmosphere that was present at Frieze itself. It was vaguely depressing to wander around the various galleries and find oneself unable to ignore the bored gallerists on their iPads. Nonetheless, there was a lot in the marquee that would have transcended the aura of money for even the most cynical of visitors. My favourite things, probably because they came as something of a surprise were two pieces by American conceptual and minimalist artist Sol Le Witt. He is perhaps most famous for his wall drawings, but at the Lisson Gallery, it was possible to see a sculpture of his; stacked white cubes forming a staircase – perhaps to a minimalist heaven? The second of his pieces, diagonal lines in four directions (on paper) was not only incredibly aesthetically pleasing, but also brought to an image of clarity and calmness after the madness of the fair.  
+There was a sober elegance in the disposition of space at Frieze Masters and many exquisite things on display. However, the art suffered from being sunk in the same market atmosphere that was present at Frieze itself. It was vaguely depressing to wander around the various galleries and find oneself unable to ignore the bored gallerists on their iPads. Nonetheless, there was a lot in the marquee that would have transcended the aura of money for even the most cynical of visitors. My favourite things, probably because they came as something of a surprise were two pieces by American conceptual and minimalist artist Sol Le Witt. He is perhaps most famous for his wall drawings, but at the Lisson Gallery, it was possible to see a sculpture of his; stacked white cubes forming a staircase – perhaps to a minimalist heaven? The second of his pieces, diagonal lines in four directions (on paper) was not only incredibly aesthetically pleasing, but also brought to an image of clarity and calmness after the madness of the fair.
  other piece, diagonal lines in four different directions on a small piece of pape

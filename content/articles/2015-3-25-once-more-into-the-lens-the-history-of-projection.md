@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251152-ff712-zoetrope.png"
 image_caption: >
-  A modern zoetrope, to be veiwed by looking through the slits 
+  A modern zoetrope, to be veiwed by looking through the slits
 image_width: "0"
 image_height: "0"
 image_attribution: "Wikimedia Commons"

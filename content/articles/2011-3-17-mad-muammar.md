@@ -1,6 +1,6 @@
 ---
 title: >
-  Mad Muammar 
+  Mad Muammar
 subtitle: >
   Gaddafi has once again demonstrated that he's a massive nutcase
 date: "2011-03-17 21:33:47 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103172132-ks607-gaddafig.jpg"
 image_caption: >
-  
+
 image_width: "1783"
 image_height: "1704"
 image_attribution: "Benjamin Kennedy"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Kudos to you I hadnt tuhoght of thatGVgz28  qexseufmjatu buy check e tramadol but viagra  
+ - Kudos to you I hadnt tuhoght of thatGVgz28  qexseufmjatu buy check e tramadol but viagra
 imported: true
 ---
 

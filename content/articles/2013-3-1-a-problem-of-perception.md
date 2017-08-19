@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303010020-tna08-einstein.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Aaniya Ahmed"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-I‘d like to perform a small experiment. Picture a scientist in your mind. Now answer this: what gender is your scientist? What colour is their skin? I’d hazard a guess that a large number of you pictured a white male. Mine has a beard too – and he’s scrunched over a desk in a solitary room, calculating something. His clothes are scruffy, and he clearly doesn’t care over-much about his appearance.  
+I‘d like to perform a small experiment. Picture a scientist in your mind. Now answer this: what gender is your scientist? What colour is their skin? I’d hazard a guess that a large number of you pictured a white male. Mine has a beard too – and he’s scrunched over a desk in a solitary room, calculating something. His clothes are scruffy, and he clearly doesn’t care over-much about his appearance.
  We all have mental preconceptions. Of people, of jobs, and of the way life is in general. It’s not really possible to get away from that. Nor would the lack of them be desirable – how would we begin to think about anything without somewhere to start from? We can’t remember the properties of everything individually so we have to categorise and just remember ‘if it’s in this category it has these properties’.
 > If you think I am wrong then I invite you to tear my arguments to pieces. At least we’ll both be thinking about it, and I’ll have achieved my goal
 As scientists, we like to think of our-selves as objective and rational. It’s what we strive for. But we are humans like everyone else, and sometimes our irrationality gets the better of us. [A recent study looked into the hiring of lab assistants](http://www.pnas.org/content/early/2012/09/14/1211286109), aiming to determine if there was any gender bias in the way that science departments viewed the relative competence of male and female applicants. They created a group of fake applications, containing the same content, but randomly assigned the names as male or female. The differences were striking: on average, men were consistently judged as being ‘more competent’, and offered higher starting salaries (by about $3500) than women.
@@ -57,7 +57,7 @@ Finally, I’ve also heard it suggested that the effect is a hang-over from the 
 Now that I’ve raised some objections to these objections, I’d like to talk about why this matters so much to me. I began this article by talking about unconscious perceptions and this, I believe, is the root of the problem facing physics. I believe this because I know for a fact that I hold these perceptions as much as anyone else.
 > I assumed ‘Noether’ must be a man. Statistically, this was a reasonable assumption. But what bothered me was that I was surprised when I learnt that she was not
 I first noticed this when one of my lecturers told us about the work of Emmy Noether. For those who aren’t familiar with her work, Emmy Noether is best known for ‘Noether’s Theorem’, a mathematical formulation of the link between conservation laws and symmetries in nature. It is a beautiful idea, and underlies much of modern physics. In her day, Noether had to fight to be accepted among academics, and at one time could only lecture unofficially under the name of her colleague David Hilbert. However, what struck me is that when I first heard about ‘Noether’s Theorem’, I assumed ‘Noether’ must be a man. Statistically, this was a reasonable assumption. But what bothered me was that I was surprised when I learnt that she was not. Why should I have been surprised? Is it because I don’t regard women as capable of being as competent as men? I wasn’t consciously aware of believing that. Counter-intuitively, however, [research has shown that those who most care about believing they are objective are in fact more likely to harbour biases](http://www.sciencedirect.com/science/article/pii/S0749597807000611).
-TODO: image from 
+TODO: image from
 If we are capable of being biased without even realising it, then how much discrimination is going on under our noses without even being noticed? Playing a blame-game and crying ‘misogynist conspiracy’ will not help with this. Awareness will. Thinking about these issues rather than hoping they will just go away is the only way to combat our unconscious perceptions. I’ve made a lot of points here, and there is so much more to say. If you think I am wrong then I invite you to tear my arguments to pieces. At least we’ll both be thinking about it, and I’ll have achieved my goal.
 
 _The author would like to thank the Equal Opportunities Group for the many vibrant discussions which inspired this article, and in particular Sofia Qvarfort and Apostolia Tasoudi for their advice, critique, and encouragement of this particular project._

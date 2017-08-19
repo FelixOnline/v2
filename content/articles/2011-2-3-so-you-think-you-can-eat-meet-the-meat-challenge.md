@@ -1,6 +1,6 @@
 ---
 title: >
-  So you think you can eat? Meet the meat challenge 
+  So you think you can eat? Meet the meat challenge
 subtitle: >
    The sheer drama of waving around metal stakes is thrilling...
 date: "2011-02-03 18:52:18 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Im someone who can eat a lot and still work hard so if there is a challenge Im up for it 
+ - Im someone who can eat a lot and still work hard so if there is a challenge Im up for it
 imported: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  ICU Cinema awarded compensation for Friday night Union losses 
+  ICU Cinema awarded compensation for Friday night Union losses
 subtitle: >
   Union’s ‘Pay for entry’ arrangement causes over £90 in losses for society
 date: "2012-02-23 23:16:29 +0000"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082145-pk1811-330032l.jpg"
 image_caption: >
-  
+
 image_width: "700"
 image_height: "700"
 image_attribution: ""
@@ -50,9 +50,9 @@ Customer alert: Starbucks’ fancy drinks, as any other’s major coffee shop, c
 
 __Nearest shops:__ 83 Gloucester Road, SW7 4SS/ 19 Old Brompton Road, SW7 3HZ
 
-__[Bottlegreen](http://www.bottlegreendrinks.com/) Spiced Berry Cordial__  
-  
- A classic winter warmer combining blackcurrants, aronia berries, and spice, this cordial is best mixed with hot water although warm red wine is the choice to go with to capture the full essence of Christmas. When the cold days are over, if you have some cordial left try mixing it with sparkling water; it’s just as refreshing as a soda and very tasty.  
+__[Bottlegreen](http://www.bottlegreendrinks.com/) Spiced Berry Cordial__
+
+ A classic winter warmer combining blackcurrants, aronia berries, and spice, this cordial is best mixed with hot water although warm red wine is the choice to go with to capture the full essence of Christmas. When the cold days are over, if you have some cordial left try mixing it with sparkling water; it’s just as refreshing as a soda and very tasty.
  Available also in these flavours: Pomegranate & Elderflower, Sparkling Ginger & Lemongrass Presse, Lemongrass with Ginger Cordial, and many more.
 
 __[Cherizena](http://cherizena.co.uk/cherizena_coffee_shop/index.php) Christmas Coffee__

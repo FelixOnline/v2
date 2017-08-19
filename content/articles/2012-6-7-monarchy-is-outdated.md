@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206072045-pk1811-prince-william.png"
 image_caption: >
-  Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that 
+  Maybe you don’t want the monarchy to exist when it’s his time to be King, but we can all agree that
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I can understand your sentiments but I do believe you may have overlooked a few points Firstly it is not so useful to generalise  each country is different The British Monarchy at present still has the potential to inspire people through acts of charity etc Maybe the younger Royals can do more to become role models  and that is something valuable to a country I hope especially because they are around longer than politicians so they can get involved in social causes Also I dont think that costing is a finicky numbers game I think the amount of money paid to the Royal Family should be weighed against the amount of revenue generated through tourist visits to Royal buildings etcSo why are you slagging off the British MonarchyApparently many think we should keep the monarchy because its tradition It doesnt at all represent the separation at birth creating a class society where your parents can give you such a massive advantage at the expense of those without such contacts  money etcIm not 
+ - I can understand your sentiments but I do believe you may have overlooked a few points Firstly it is not so useful to generalise  each country is different The British Monarchy at present still has the potential to inspire people through acts of charity etc Maybe the younger Royals can do more to become role models  and that is something valuable to a country I hope especially because they are around longer than politicians so they can get involved in social causes Also I dont think that costing is a finicky numbers game I think the amount of money paid to the Royal Family should be weighed against the amount of revenue generated through tourist visits to Royal buildings etcSo why are you slagging off the British MonarchyApparently many think we should keep the monarchy because its tradition It doesnt at all represent the separation at birth creating a class society where your parents can give you such a massive advantage at the expense of those without such contacts  money etcIm not
 imported: true
 ---
 

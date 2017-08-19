@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260253-tna08-beity.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ One such alteration that is believed to be being made is in relation to the powe
 
 The [proposals](https://www.imperialcollegeunion.org/your-union/how-were-run/constitution-reform) have caused some friction between Beaumont and Court over them, and to what extent changes are being occurred and how it will affect the representation that students have in the running of the Union. There is currently a 26 page document up on the website detailing the Court’s opinions on the changes, and Beaumont is expected to be releasing his reply to this soon.
 
-Beaumont summed up the draft Constitution by saying that “apart from the changes that have been discussed, the rest of it comes down to how it’s written, rather than how it works in practice”.  
+Beaumont summed up the draft Constitution by saying that “apart from the changes that have been discussed, the rest of it comes down to how it’s written, rather than how it works in practice”.
  The budget for the Union, which, due to fact that it is dealing with money and how and where it is being allocated is very important, was previously set up by the Executive Committee (Exec.). The draft Constitution refers to “the Union” proposing the budget to the Trustee Board, who then must approve it. However, it does not explicitly state there who that refers to. It is thought that this is a point that could change. When asked about this point, Beaumont said that is was Council or Exec., because that is who runs the Union. This issue was contentious because if it is not one of these bodies, then the money and therefore overall running would not be controlled by democratically elected students.
 
 The Court’s document sets out where the budget comes from as something that it believes removes student control from the Union and how it is run. The response from Beaumont is: “The Trustee Board sets the Union’s budget. The Exec currently has the power to undermine the Trustee Board which is the fundamental problem we’re trying to address (and is how we ended up in the financial situation we’re in today – Summer Ball 2011 was passed by the Exec). Making reference to students implies we’re removing control from students, but, the Trustee Board is (under the current and proposed structures) majority students!!”. The point about the control of students relates to the membership of the Board, where there is disagreement as to whether or not the proposed changes will cause the Board to be more student run as elected representatives sit on it, or will hand a small number of students a lot of power and therefore be less student run.

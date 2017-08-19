@@ -1,6 +1,6 @@
 ---
 title: >
-  In praise of cultural theft 
+  In praise of cultural theft
 subtitle: >
   The British Museum is one of London’s top attractions – a stiff-upper-lip monument to theft
 date: "2010-10-21 18:57:14 +0100"

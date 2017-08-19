@@ -50,6 +50,6 @@ So think twice before you choose fast food because you are in a hurry; if you ar
 
 Why not consider tibits for Valentine’s Day? Gift vouchers are available at the bar in £10 and £20 denominations, as well as a selection of books, teas and special products such as tibit’s famous Dried Beans.
 
-[www.tibits.co.uk](http://www.tibits.co.uk)  
- 14-18 Heddon Street, W1B 4DA  
+[www.tibits.co.uk](http://www.tibits.co.uk)
+ 14-18 Heddon Street, W1B 4DA
  020 77584110

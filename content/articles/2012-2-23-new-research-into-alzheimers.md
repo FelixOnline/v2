@@ -1,6 +1,6 @@
 ---
 title: >
-  New research into Alzheimer’s 
+  New research into Alzheimer’s
 subtitle: >
   What tau proteins can tell us
 date: "2012-02-23 20:58:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

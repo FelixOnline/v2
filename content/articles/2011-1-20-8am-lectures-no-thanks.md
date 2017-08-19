@@ -1,6 +1,6 @@
 ---
 title: >
-  8am lectures? No thanks 
+  8am lectures? No thanks
 subtitle: >
   Extension in college working days
 date: "2011-01-20 20:44:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

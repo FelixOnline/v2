@@ -48,6 +48,6 @@ I recommend you go to the next class but book places soon to avoid disappointmen
 
 Classes are held every Wednesday 19:15 – 20:00 and they will continue in February too, but with an extra cost of 5 pounds. And, please, if the staff tell you to go downstairs, ignore them and go upstairs and you’ll find it!
 
-[www.wholefoodsmarket.com/stores/kensington](http://www.wholefoodsmarket.com/stores/kensington)  
- 63-97 Kensington High Street, W8 5SE  
+[www.wholefoodsmarket.com/stores/kensington](http://www.wholefoodsmarket.com/stores/kensington)
+ 63-97 Kensington High Street, W8 5SE
 [kensington@wholefoods.com](mailto:kensington@wholefoods.com)

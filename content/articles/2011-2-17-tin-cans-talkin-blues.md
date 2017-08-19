@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172003-dr910-gregpowe.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "676"
 image_attribution: "Jennifer Caroline Ellis"

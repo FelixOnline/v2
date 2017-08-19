@@ -1,6 +1,6 @@
 ---
 title: >
-  Purity Ring give robotic performance 
+  Purity Ring give robotic performance
 subtitle: >
   The Canadian duo played the Roundhouse
 date: "2015-11-06 14:21:22 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

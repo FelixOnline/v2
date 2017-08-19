@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,10 +40,10 @@ Featuring a diverse range of songs from Tim Minchin, Wicked and even High School
 
 They begin with the opening numbers from the critically acclaimed The Book of Mormon, which is just about to hit the West End. Back in March, MTSoc attempted to put on the whole musical with just 24 hours notice. Fortunately they have put more practice into the songs this time around and have even managed to synchronise the miming of pushing buttons with doorbell sounds – genius! If anything goes wrong, though, no doubt a certain keyboard player will be taken backstage and shot.
 
-It has long been known to the average Imperial male that this term brings with it American girls. MTSoc have cottoned on and are now able to perform the fantastically energetic and girly “OMG You Guys!” from Legally Blonde: The Musical with fourteen, yes fourteen, females! This increased ratio has meant they have not needed to resort to gay kissing like last year.  
+It has long been known to the average Imperial male that this term brings with it American girls. MTSoc have cottoned on and are now able to perform the fantastically energetic and girly “OMG You Guys!” from Legally Blonde: The Musical with fourteen, yes fourteen, females! This increased ratio has meant they have not needed to resort to gay kissing like last year.
  Talking of gay kissing, after spending the summer playing a character described as ‘James Dean in an old folks home’, veteran performer Phil Raymond must be feeling his age with so many fresh faces surrounding him. Fortunately, despite his advanced years, his Top G never fails to send shivers down my spine as he demonstrates in ‘El Tangode Roxanne’ from Moulin Rouge. Another personal highlight is listening to ‘I Dreamed a Dream’ from Les Mis sung beautifully but without the compromise of having to spend four minutes looking at Susan Boyle’s face.
 
-They suitably end on an emotional number from Ragtime featuring the whole cast. From this song it is easy to see how Alicia Kearns earned her nickname ‘Sassy F\*\*\*’. Her silky smooth alto voice emphatically ends the show in style.
+They suitably end on an emotional number from Ragtime featuring the whole cast. From this song it is easy to see how Alicia Kearns earned her nickname ‘Sassy F***’. Her silky smooth alto voice emphatically ends the show in style.
 
 Last year’s successful revue show Charming only required a few lyric changes to make a believable story, but with such a random assortment of songs this year I was initially worried that MTSoc would attempt the same thing again. I struggled to think of a situation where Mormons and witches would go hand in hand but thankfully they have treated this year’s revue as a medley of musical theatre numbers rather than trying to force a contrived and tenuous story around them.
 

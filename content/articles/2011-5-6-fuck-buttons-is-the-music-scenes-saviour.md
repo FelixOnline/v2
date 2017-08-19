@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061001-felix-fuck-buttons.jpg"
 image_caption: >
-  
+
 image_width: "473"
 image_height: "598"
 image_attribution: "Christopher Richardson"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-_[HMV Forum](http://venues.meanfiddler.com/the-forum/home), Kentish Town  
+_[HMV Forum](http://venues.meanfiddler.com/the-forum/home), Kentish Town
  Thursday 21st April_
 
 In a decade unfortunately masked by the lousy sounds of David Guetta and The Black Eyed Peas, we should be praying to the likes of [Fuck Buttons](http://www.myspace.com/fuckbuttons) as our rare saving grace. If you’ve been living in the chart bubble let me bring you up to speed: the London-based experimental electronic duo have been tearing up the scene with their unique blend of minimalist sounds extracted from miscellaneous children’s toys, and already have a few of those coveted Pitchfork ratings under their belts.

@@ -1,8 +1,8 @@
 ---
 title: >
-  The Games Designer - Hugh Osborn 
+  The Games Designer - Hugh Osborn
 subtitle: >
-  The Games Designer - Hugh Osborn 
+  The Games Designer - Hugh Osborn
 date: "2012-06-14 20:20:59 +0100"
 id: "2562"
 old_path: /phoenix/2562/the-games-designer---hugh-osborn-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206142119-pk1811-546118_326628914073568_314367575299702_775135_1041408177_n.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Rhinoa’s Photography"
@@ -47,7 +47,7 @@ To begin with, I enjoyed the programming side of things. Writing lines of code t
 I appreciate games for their artistic/conceptual value a lot more than I used to. As well as making a game that looks cool and is fun to play it’s important to me that a game says something. I spend a lot of time thinking about what objects in the game mean and what they say to the player as well as whether they look good or not. For example with Exeunt, the oppressive world is meant to mirror our own. The obstacles and buildings represent moral issues we have to deal with in our daily lives.
 
 Often the way we deal with them is to dodge around them!
-TODO: image from 
+TODO: image from
 E - What are your impressions of the gaming scene, and the indie game scene in particular?
 
 H - It certainly makes it more socially acceptable. Seriously though, I think it’s fantastic that games like Call of Duty and Battlefield have become such beloved franchises. I generally try to avoid comparing the film industry to the games industry but I think it’s important that these “blockbusters” are successful because the money made helps to legitimise the industry in the eyes of the public.
@@ -65,7 +65,7 @@ E - Is there anything you wish you’d done differently up to this point?
 H - Nothing has gone catastrophically wrong so far. Trouble is, I won’t know until the end. Production seems just about on schedule but I won’t know if the schedule is correct until about a month before launch. I’m really looking forward to the business and marketing requirements. I have no experience with any of that and the learning curve will be sharp and unforgiving, I expect.
 
 One thing I’ve learned is that you should always pay people. During uni I interned at a bunch of games studios for little or no pay most of the time. Since it happened to me, I thought that I could get away with paying someone nothing for a couple of jobs that needed doing but it ended up being a disaster and it was my fault for a complete lack of professionalism. Still, I wouldn’t be doing what I’m doing if it wasn’t exciting and I wasn’t learning anything.
-TODO: image from 
+TODO: image from
 E - What other things would you suggest to people who wanted to do a similar kind of thing?
 
 H - Don’t be afraid to spend money on your business. If you need a new monitor, get one and make sure it’s good. Don’t feel guilty that it’ll also let you watch HD movies. That’s not the reason you need it. You can’t expect people to take you seriously if you don’t.

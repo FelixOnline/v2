@@ -2,7 +2,7 @@
 title: >
   New clubs at risk of rejection given another chance
 subtitle: >
-  Proposals to determine viability of new ventures include test events 
+  Proposals to determine viability of new ventures include test events
 date: "2012-02-16 22:45:10 +0000"
 id: "2215"
 old_path: /news/2215/new-clubs-at-risk-of-rejection-given-another-chance
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

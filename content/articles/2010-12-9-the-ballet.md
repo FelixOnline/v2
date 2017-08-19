@@ -2,7 +2,7 @@
 title: >
   The Ballet
 subtitle: >
-  Sylvia is a magical introduction to the best ticket in London this Christmas, a night at the Royal Opera House 
+  Sylvia is a magical introduction to the best ticket in London this Christmas, a night at the Royal Opera House
 date: "2010-12-09 21:24:18 +0000"
 id: "533"
 old_path: /arts/533/the-ballet
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092122-ks607-theballe.jpg"
 image_caption: >
-  
+
 image_width: "3504"
 image_height: "2336"
 image_attribution: ""

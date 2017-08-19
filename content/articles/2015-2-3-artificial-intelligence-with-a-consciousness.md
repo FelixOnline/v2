@@ -1,8 +1,8 @@
 ---
 title: >
-  Artificial Intelligence with a Consciousness 
+  Artificial Intelligence with a Consciousness
 subtitle: >
-  Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina 
+  Lauren Ratcliffe on an Imperial professor’s involvement in the film Ex-Machina
 date: "2015-02-03 14:54:39 +0000"
 id: "5185"
 old_path: /science/5185/artificial-intelligence-with-a-consciousness-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502031454-ps3110-ex-machina-photoshopped.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

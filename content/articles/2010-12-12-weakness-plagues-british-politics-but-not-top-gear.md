@@ -1,8 +1,8 @@
 ---
 title: >
-  Weakness plagues British politics, but not Top Gear 
+  Weakness plagues British politics, but not Top Gear
 subtitle: >
-  “Ed is as ineffective as a Facebook status update” 
+  “Ed is as ineffective as a Facebook status update”
 date: "2010-12-12 14:32:27 +0000"
 id: "554"
 old_path: /politics/554/weakness-plagues-british-politics-but-not-top-gear-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121431-ks607-cmaeron.jpg"
 image_caption: >
-  
+
 image_width: "512"
 image_height: "307"
 image_attribution: ""

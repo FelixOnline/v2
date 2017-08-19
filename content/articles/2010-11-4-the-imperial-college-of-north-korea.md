@@ -1,8 +1,8 @@
 ---
 title: >
-  The Imperial College of North Korea 
+  The Imperial College of North Korea
 subtitle: >
-  In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology 
+  In the first of three Felix articles, Lord David Alton of Liverpool reports on his visit to the Pyongyang University of Science and Technology
 date: "2010-11-04 18:48:39 +0000"
 id: "314"
 old_path: /politics/314/the-imperial-college-of-north-korea-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041846-ma1307-PYONGYAN.jpg"
 image_caption: >
-  
+
 image_width: "2999"
 image_height: "2249"
 image_attribution: ""

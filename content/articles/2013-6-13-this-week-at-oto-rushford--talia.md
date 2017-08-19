@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306140002-tna08-manhunter.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Omg you are so funny and a little to darn bbulby for this early in the morning for me oo  LOLHope everything goes well with your surgery I love having gum around for the times I go out in this Las Vegas heat I chew gum all the time and I love gumballs so of course I have glass candy jars filled with gumballs because I love sniffing them when I open the jar yes I am weird like that PI didnt know they made those frozen popsicles in soda flavor either and what a steal That was a great find As for me I found out that my rats love the Gerber Graduates Banana cookies They are made with real bananas so they are good for them and are less expensive than treats made especially for rats yeah for them and yeah for me I bought a few more Gerber Graduates toddler foods and found that my rats love them and I paid so much less for those treats than for treats made especially for rats that i thought I would share the info with other rat mom and wrote an article that got published 
+ - Omg you are so funny and a little to darn bbulby for this early in the morning for me oo  LOLHope everything goes well with your surgery I love having gum around for the times I go out in this Las Vegas heat I chew gum all the time and I love gumballs so of course I have glass candy jars filled with gumballs because I love sniffing them when I open the jar yes I am weird like that PI didnt know they made those frozen popsicles in soda flavor either and what a steal That was a great find As for me I found out that my rats love the Gerber Graduates Banana cookies They are made with real bananas so they are good for them and are less expensive than treats made especially for rats yeah for them and yeah for me I bought a few more Gerber Graduates toddler foods and found that my rats love them and I paid so much less for those treats than for treats made especially for rats that i thought I would share the info with other rat mom and wrote an article that got published
 imported: true
 ---
 
@@ -60,7 +60,7 @@ Both: Not at all.
 JT: I mean, of course we’ve seen Twin Peaks, but we weren’t trying to do a Twin Peaks theme or anything.
 
 JR: it’s just a shame that people make a reference to Twin Peaks whenever they hear any kind of synthesizer with a certain tone or chord progression. I think it wasn’t in our heads at all, you know? I think If anything if you wanna make a reference it’s closely tied to say, Broken Flag issues like Maurizio Bianchi from the ‘80s. That, for me, is much more linked to the album we made than Twin Peaks. But we do love the Twin Peaks soundtrack, like most people.
-TODO: image from 
+TODO: image from
 __RA: I think it’s just wishful thinking on people’s part. But in a way, there’s a sort of darkly comedic but also bleak and just all out weird ambience in Lynch’s material that also finds some place in your music. __
 
 JR: I think that this record more than the other ones is kind of more openly emotional, you know? We let the harmony in the music go places that we probably we would have avoided previously. I think again that kind of relates to the Lynch thing, because (Angelo) Badalamenti’s music can be so emotional earnest at times. Which makes it verge on the edge of being cheesy. That for me is kind of special, how it remains sort of cheesy but sort of austere at the same time.

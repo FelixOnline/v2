@@ -1,6 +1,6 @@
 ---
 title: >
-  Sorry for droning on... 
+  Sorry for droning on...
 subtitle: >
   At the time of writing, the Guardian has just run an online story about Obama. It seems he is ready to bypass congress when it comes to his 2014 agenda.
 date: "2014-01-31 17:51:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

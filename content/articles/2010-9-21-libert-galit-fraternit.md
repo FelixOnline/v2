@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201009211509-ck806-danton.jpg"
 image_caption: >
-  
+
 image_width: "3132"
 image_height: "3307"
 image_attribution: ""

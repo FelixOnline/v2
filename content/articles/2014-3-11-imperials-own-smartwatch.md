@@ -2,7 +2,7 @@
 title: >
   Imperial’s own smartwatch
 subtitle: >
-  A few of months ago a couple of Imperial College students set out on an adventure to create the world’s most versatile smartwatch – BLOCKS. 
+  A few of months ago a couple of Imperial College students set out on an adventure to create the world’s most versatile smartwatch – BLOCKS.
 date: "2014-03-11 17:42:16 +0000"
 id: "4475"
 old_path: /tech/4475/imperials-own-smartwatch
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403111741-me1711-tech_blockslogo.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

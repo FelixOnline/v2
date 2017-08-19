@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I do really hope can find an easy job and earn alotwhere can I find thosesome born lucky some are notsome born rich some are notbut dont worry you are the lucky grheucopersGreat shotsLOVE the one of her eyes Not just her eyes which ARE amazing but the lntigihg and exposure and focus are all Just Right You are getting really good with that camera  
+ - I do really hope can find an easy job and earn alotwhere can I find thosesome born lucky some are notsome born rich some are notbut dont worry you are the lucky grheucopersGreat shotsLOVE the one of her eyes Not just her eyes which ARE amazing but the lntigihg and exposure and focus are all Just Right You are getting really good with that camera
 imported: true
 ---
 

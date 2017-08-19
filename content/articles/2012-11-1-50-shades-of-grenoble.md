@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012256-csw09-baha_men-who_let_the_dogs_out-frontal.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,5 +46,5 @@ The same notion had come mind about a week or so earlier when, whilst crossing w
 > I was completely blindsided. For the one, said DJ had, up until this point, only played the kind of tracks that you’d expect David Guetta to consider for a set but ultimately throw out, and for two, I had no fucking clue what was going on
 Another such moment came on the coach ride to where we are now, a small out-of-season ski resort, Lanslebourg, made all the more charming for sounding like the ancestral home of a certain former health minister. The trip hadn’t started well. Ahead of the ‘Weekend d’Integration’ (no prizes for translating that one’) the student body had been a-chatter with rumours of where the secret destination might be. Having gone to Cannes the previous year and with Grenoble making the most of global warming, both J-co (the other Anglophone Imperial export) and myself had packed for a weekend at the beach. As those of you diligent enough to have already Googled Lanslebourg will have found out, beach is not something found in its vicinity. So strapped into the coach and clearly not heading for the coast, our troubles were compounded as the chanting began. ‘Mauvais ambience,’ translating basically as ‘bad smell’ and repeated ad infinitum, was a particular favourite, acted out by lifting one arm in the air and patting the arm pit with the opposite hand. At the start of the trip it wasn’t one I’d heard before. But the end, I had might as well had it tattooed somewhere on my body, visible to me, such was the degree to which it was (and still is) ingrained in my mind. I do wonder if, like stoners and The Game, someone, years later, will remind me of it, and a little world inside my head will come crashing down. Who knows.
 
-At this point my drunken reverie is shattered as J-Co, wearing the other dress that came with mine (a snip at €12 for two, a belated bid at fancy dress), comes up to me and reminds me that they’re about to start serving TNT (a popular local cocktail made from vodka, Orangina and a regional 55% percent liqueur, that they ration to appear only once every hour) from a hatch about 20 metres away.  
+At this point my drunken reverie is shattered as J-Co, wearing the other dress that came with mine (a snip at €12 for two, a belated bid at fancy dress), comes up to me and reminds me that they’re about to start serving TNT (a popular local cocktail made from vodka, Orangina and a regional 55% percent liqueur, that they ration to appear only once every hour) from a hatch about 20 metres away.
  No sooner had he said it, I knew there were graver matters at hand and I grasped around the floor for my eco-cup (to be elaborated upon another day). I closed my eyes and thought of Metric and staggered my way to the queue.

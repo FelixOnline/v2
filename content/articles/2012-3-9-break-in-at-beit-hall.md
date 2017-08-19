@@ -2,7 +2,7 @@
 title: >
   Break-in at Beit Hall
 subtitle: >
-  Fire alarm in halls leads to stolen cash and jewellery 
+  Fire alarm in halls leads to stolen cash and jewellery
 date: "2012-03-09 01:15:40 +0000"
 id: "2336"
 old_path: /news/2336/break-in-at-beit-hall
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203090114-felix-fjg-imperial_college-2613.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

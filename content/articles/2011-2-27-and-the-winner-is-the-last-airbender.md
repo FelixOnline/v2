@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271906-ks607-lastbend.jpg"
 image_caption: >
-  
+
 image_width: "529"
 image_height: "839"
 image_attribution: ""

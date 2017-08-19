@@ -1,6 +1,6 @@
 ---
 title: >
-  Hockey: Men’s 3rds with 1st win of the season versus Sussex 
+  Hockey: Men’s 3rds with 1st win of the season versus Sussex
 subtitle: >
   2-1 the final score and a thoroughly deserved win for the Men’s 3s who hope to extend this one match winning streak against the RSM next week.
 date: "2011-12-01 21:20:29 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 __Hockey__
 
-Men’s 3rd – 2  
+Men’s 3rd – 2
  Sussex 2nd – 1
 
 To say that it has been a disastrous start to the season would be an understatement for the IC Hockey Men’s 3rd XI.

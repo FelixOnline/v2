@@ -1,6 +1,6 @@
 ---
 title: >
-  Graphic survival horror: the forgotten genre 
+  Graphic survival horror: the forgotten genre
 subtitle: >
   Amnesia: The Dark Descent will give you the willies
 date: "2010-10-21 19:33:22 +0100"

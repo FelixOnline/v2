@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503301533-ff712-jpeg-9.-deborah-findlay-(edith)-in-rules-for-living_credit-simon-annand.jpg"
 image_caption: >
-  Deborah Findlay (Edith) in the National Theatre's Rules For Living 
+  Deborah Findlay (Edith) in the National Theatre's Rules For Living
 image_width: "0"
 image_height: "0"
 image_attribution: "Simon Annand"

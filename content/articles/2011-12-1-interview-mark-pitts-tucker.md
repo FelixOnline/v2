@@ -1,6 +1,6 @@
 ---
 title: >
-  Interview: Mark Pitts-Tucker 
+  Interview: Mark Pitts-Tucker
 subtitle: >
   Shooting the Bries with Cathedral City’s very own ‘cheese grader’
 date: "2011-12-01 20:43:34 +0000"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250059-felix-bedroom.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Amrita Ghosh and Arya Mehta"
@@ -44,5 +44,5 @@ They worked with anaesthetised, awake and sleeping mice, whose CSF was injected 
 
 They also tested the clearing of injected proteins, and found they cleared twice as quickly when the mice were asleep. Both of these effects seem to be due to the channels that carry the fluid expanding by 60% in asleep and anesthetised mice.
 
-It still remains to be seen whether the build-up of these toxic proteins actually regulate sleep — whether they make you more drowsy the more of them there are — but this paper does appear to reveal, at last, one very important function of sleep.  
+It still remains to be seen whether the build-up of these toxic proteins actually regulate sleep — whether they make you more drowsy the more of them there are — but this paper does appear to reveal, at last, one very important function of sleep.
 [DOI: 10.1126/science.1241224](http://www.sciencemag.org/content/342/6156/373)

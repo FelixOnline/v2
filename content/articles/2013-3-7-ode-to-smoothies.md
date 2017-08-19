@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072146-sjw209-smoothie.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,5 +46,5 @@ Pictured is the smoothie my gorgeous housemate Alex makes every morning. It cons
 
 Cocoa powder also works well; I’ve heard the combination of nuts, cocoa powder and bananas is very filling and tastes amazing (I can’t provide first hand evidence as I’m allergic to nuts). Nuts in smoothies are an excellent way of adding extra protein: having a nut based smoothie to accompany your meal will rack up quite a few extra grams of protein.
 
-Potential things to avoid include cottage cheese (I put this in once to try and add more calories to my smoothie and it was horrendous) and word on the street is grapes are not great either.  
+Potential things to avoid include cottage cheese (I put this in once to try and add more calories to my smoothie and it was horrendous) and word on the street is grapes are not great either.
  It’s very hard to go wrong, and if it’s not good then don’t make it again. It’s so simple! Why not try it yourself? Get experimenting and get healthy!

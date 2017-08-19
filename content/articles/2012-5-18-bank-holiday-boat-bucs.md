@@ -1,6 +1,6 @@
 ---
 title: >
-  Bank Holiday Boat BUCS 
+  Bank Holiday Boat BUCS
 subtitle: >
   Rowers take on Nottingham
 date: "2012-05-18 16:46:48 +0100"

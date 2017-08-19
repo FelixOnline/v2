@@ -1,6 +1,6 @@
 ---
 title: >
-  Fencers return from Malta with most of their gold 
+  Fencers return from Malta with most of their gold
 subtitle: >
   Summer tour to Malta sees a haul of medals
 date: "2010-11-04 18:47:42 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041845-ks607-maltamal.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "540"
 image_attribution: ""

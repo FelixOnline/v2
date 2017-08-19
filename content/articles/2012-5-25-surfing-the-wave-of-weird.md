@@ -1,6 +1,6 @@
 ---
 title: >
-  Surfing the wave of weird 
+  Surfing the wave of weird
 subtitle: >
   Whirring and beeping in Battersea
 date: "2012-05-25 18:26:35 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - So flawlessly written Brilliantly done Iain brilliantly done 
+ - So flawlessly written Brilliantly done Iain brilliantly done
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150204-tna08-footy1sforreals.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -58,4 +58,4 @@ Again a second goal did not come, although an ambitious 35 yard piledriver by Hi
 TK MAXX 2s could have been forgiven for thinking 11 new players had come out for Imperial in extra-time as Imperial dominated and quickly found themselves in front again. Dale burst down the wing with pace that J.W.M Turner himself would have struggled to capture on canvas. The resulting cross was sheer perfection, an artistic blend of Caravaggio, Rafael and Titian infused with some Pollock flair, finding the diving head of Robinson and ultimately the back of the net. The game was over as a contest shortly into the second half of extra-time as a disguised Murphy pass found Jones who shimmied around a number of tackles before planting a finesse shot into the back of the net.
 
 Imperial were able to shut up shop for the remaining minutes and have now reached the LUSL (formerly ULU) final for the 4th year in a row, where they will meet LSE 1s. The next few weeks are pivotal and could potentially see an unprecedented domestic double. Mention should also go to ICUAFC 3s, 5s and 6s who have each been promoted from one of their leagues, whilst the latter have reached their own cup final. Both cup finals takes place on Saturday 16th March which is, rather fittingly, exactly 1,976 years to the day that Caligula became Roman Emperor.
-TODO: image from 
+TODO: image from

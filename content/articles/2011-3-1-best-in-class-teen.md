@@ -1,6 +1,6 @@
 ---
 title: >
-  Best in Class: Teen 
+  Best in Class: Teen
 subtitle: >
   The, fluffy angsty world of Teen TV
 date: "2011-03-01 21:00:41 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103012059-ks607-dawsonsc.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

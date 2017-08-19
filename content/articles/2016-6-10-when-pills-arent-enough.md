@@ -2,7 +2,7 @@
 title: >
   When pills aren’t enough
 subtitle: >
-  The Wellcome Book Prize celebrates the interdependency of literature and medicine 
+  The Wellcome Book Prize celebrates the interdependency of literature and medicine
 date: "2016-06-10 08:33:24 +0100"
 id: "6263"
 old_path: /arts/6263/when-pills-arent-enough
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2016 Wellcome shortlisted authors.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "400"
 image_attribution: "FMCM Associates"
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-Cathy Rentzenbrink begins her story with a night out. On a summer’s day twenty\-six years ago, she had decided to head home first, bored, while her brother remained behind in the bar hoping to “get lucky”.
+Cathy Rentzenbrink begins her story with a night out. On a summer’s day twenty-six years ago, she had decided to head home first, bored, while her brother remained behind in the bar hoping to “get lucky”.
 
-“Matty never, in any sense of the word, ‘got lucky’ again,” she continued, as she recounted how her brother was hit by a car on his way back, and the suffering of their family that followed. She described, in poignant, heart\-wrenching words, how her brother Matty fell into a persistent vegetative state and how the family eventually, after eight years, came to the painful decision to perform “the last act of love” – withdrawing nutrition and life support for their beloved son and brother.
+“Matty never, in any sense of the word, ‘got lucky’ again,” she continued, as she recounted how her brother was hit by a car on his way back, and the suffering of their family that followed. She described, in poignant, heart-wrenching words, how her brother Matty fell into a persistent vegetative state and how the family eventually, after eight years, came to the painful decision to perform “the last act of love” – withdrawing nutrition and life support for their beloved son and brother.
 
-This incredibly personal and moving journey is told in Ms Rentsenbrink’s memoir _The Last Act of Love_, one of the shortlisted books for the Wellcome Book Prize. It's is an annual award given to a work of new fiction or non\-fiction that deals with a central theme of health, illness or medicine. I was at a 5x15 event where the five shortlisted authors of 2016 were gathered to talk about their stories for fifteen minutes each.
+This incredibly personal and moving journey is told in Ms Rentsenbrink’s memoir _The Last Act of Love_, one of the shortlisted books for the Wellcome Book Prize. It's is an annual award given to a work of new fiction or non-fiction that deals with a central theme of health, illness or medicine. I was at a 5x15 event where the five shortlisted authors of 2016 were gathered to talk about their stories for fifteen minutes each.
 
 I have always been passionate about the role literature can play in medicine, and vice versa. Listening to Ms Rentzenbrink speak in person about her book and experiences highlighted the role words have in healing and coming to terms with difficult decisions of life and death in medicine. Indeed, the Wellcome Book Prize is a beautiful idea, a yearly reminder that words help us understand the complexities of illness and healing, and bring us closer to what it means to be human. Themes that have come up in past prizes include birth and beginnings, pain and loss, memory and identity.
 

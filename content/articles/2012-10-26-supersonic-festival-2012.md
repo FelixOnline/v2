@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260413-tna08-supersonic-festival.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The 10th Supersonic Festival was held in the Custard Factory in Birmingham. Since the line-up was announced some months ago, I had been excited about attending. The slogan on a lot of the commemorative t-shirts was ‘celebrating 10 years of adventurous music.’ My experiences ranged from the obscure to the experimental to the just plain weird, so the slogan seems apt enough.  
+The 10th Supersonic Festival was held in the Custard Factory in Birmingham. Since the line-up was announced some months ago, I had been excited about attending. The slogan on a lot of the commemorative t-shirts was ‘celebrating 10 years of adventurous music.’ My experiences ranged from the obscure to the experimental to the just plain weird, so the slogan seems apt enough.
  On Friday night I arrived to be greeted by the minimalist electronica of Modified Toy Orchestra. I had listened to their album and largely formed the opinion that their idea of exclusively using children’s toys to make their music with techniques such as circuit bending was interesting but their music was ultimately unimpressive. I have to say though, they surprised me. First of all, because I wasn’t expecting five serious looking guys in all black suits, but more than that because it had a much more sinister aspect live and frankly, a toy gun being used to make a beat, the audience being addressed by a partly dismantled doll’s head and another doll with three contact mics stuck into its head simply make for a good spectacle.
 
 Hey Collosus I expected more from, but sound problems paved the way for an underwhelming performance. Occasionally, they got into their groove, dropping sludgy riffs almost on demand and experimenting lightly with drones and motorik rhythms. These last two elements, however, were presented to me as a key feature of their work and I was disappointed that they didn’t delve more deeply into the experimental areas of their music.
@@ -47,7 +47,7 @@ After this I drifted for a while, watching Sir Richard Bishop doing some impress
 
 Flower-Corsano Duo produced another amazing show. It would be remiss of me not to mention Chris Corsano’s incredible drumming ability, with precise dynamics and timing, playing at breakneck speed seemingly without breaking a sweat. Mick Flower’s Japanese banjo (it sounded like a sitar) gave the performance an almost spiritualfeel. The drumming helped alter the feeling of meditation to one of catharsis as he built up the piece. At the peak of the music a visualisation talking about the choice between fear and love added to the atmosphere these two virtuosos produced and left me simply wanting to reflect on what I’d seen.
 
-Enter Bohren & der Club of Gore. Slow, relaxing jazz. They performed in the dark with a small spotlight over each of them. The 40 minutes of their set didn’t leave me with much to say but that’s not a bad thing at all. It served as a fantastic chill out, appreciated by everyone watching.  
+Enter Bohren & der Club of Gore. Slow, relaxing jazz. They performed in the dark with a small spotlight over each of them. The 40 minutes of their set didn’t leave me with much to say but that’s not a bad thing at all. It served as a fantastic chill out, appreciated by everyone watching.
  This chill out soon ended unceremoniously, with the crowd already pumped at the prospect of Merzbow, and many, like myself, staying where they were to get the best possible spot. The festival threw a few curveballs and Merzbow’s set was one of the biggest. Many were expecting a laptop set, as this seems to be a direction he has taken for a long time now. It transpired, however, that we were in for a surprise and a treat. He performed the entire set with a drummer and one of the tracks featured a guitarist. The other of the two tracks featured a brief cameo by Eugene Robinson of Oxbow (mainly shouting). Throughout, Merzbow played what I can only describe as a ‘noise banjo’; it resembled a banjo, but had thick metalcoils in place of strings and a solid metal body. This was then connected into his rig and violently strummed to produce a much more metal/grind inspired set than expected, harking back to 1994’s Veneorology. He also used a laptop and various noise boxes, one of which produced magnificent tunnelling noises that seemed to travel through the brain. An immense set from a true master of noise, one that really tore me a new one and drove me nearly deaf, but delighted.
 
 After that I was feeling a bit overexcited, but I found the perfect tonic in Carlton Melton. Their sounds reminded me of AC/DC and Sleep hot-boxing a trailer trash caravan in the desert… on Mars. A blend of space rock, doom, drone and straight-up rock’n’roll, their show was highly enjoyable. Between beatless interludes, there were moments of classic rock showmanship: for example a drum solo, or the guitarist entering the crowd and passing his guitar to an audience member. It was pretty simple, but enjoyable nonetheless.

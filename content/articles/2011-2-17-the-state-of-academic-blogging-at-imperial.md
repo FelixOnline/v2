@@ -1,6 +1,6 @@
 ---
 title: >
-  The state of academic blogging at Imperial 
+  The state of academic blogging at Imperial
 subtitle: >
   Who's blogging at Imperial?
 date: "2011-02-17 20:53:12 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172048-dr910-tyoewrit.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "892"
 image_attribution: ""

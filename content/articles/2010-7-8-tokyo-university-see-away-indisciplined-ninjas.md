@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201007080455-jn104-ICvsToky.jpg"
 image_caption: >
-  
+
 image_width: "3096"
 image_height: "2214"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-__Tokyo University 1st XV 32____  
+__Tokyo University 1st XV 32____
 __
 
 __ICURFC 1st XV 7__

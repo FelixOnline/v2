@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial is woefully unambitious when it comes to teaching 
+  Imperial is woefully unambitious when it comes to teaching
 subtitle: >
   It's time for Imperial to move into the 21st century
 date: "2010-10-28 19:45:29 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

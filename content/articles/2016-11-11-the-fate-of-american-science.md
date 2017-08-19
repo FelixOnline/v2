@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611111554-felix-Trump.jpg"
 image_caption: >
-  
+
 image_width: "940"
 image_height: "1294"
 image_attribution: "Lizzie Riach"
@@ -38,6 +38,6 @@ The 9th of November saw tears, despair and a whole lot of memes as the results o
 
 Analyses of Trump’s proposed budget indicate catastrophic deficits, with the government left to figure out how to limit spending. Except for NASA, Trump has not identified any areas of scientific research worth supporting, and most of his answers about science spending focus on a need to make ‘hard choices’ to meet budget constraints.
 
-Trump has also shown little to no respect for general scientific findings themselves. He has openly claimed that he believes in the link between vaccinations and autism and that global warming was “created by and for the Chinese in order to make US manufacturing non\-competitive”. He has pledged to reverse Obama’s regulations for climate protection and withdraw from the Paris climate agreement, which became effective five days before the results with the promise of finally bringing forth change, as well as to get rid of the Environmental Protection Agency altogether. He also has claimed that he wants to scrape all federal spending on clean energy, including wind, solar, nuclear power and electric vehicles. Furthermore, his anti\-immigration policies have obvious implications in terms of hindering efforts to recruit scientists and STEM students from abroad to US universities, a key for scientific prowess.
+Trump has also shown little to no respect for general scientific findings themselves. He has openly claimed that he believes in the link between vaccinations and autism and that global warming was “created by and for the Chinese in order to make US manufacturing non-competitive”. He has pledged to reverse Obama’s regulations for climate protection and withdraw from the Paris climate agreement, which became effective five days before the results with the promise of finally bringing forth change, as well as to get rid of the Environmental Protection Agency altogether. He also has claimed that he wants to scrape all federal spending on clean energy, including wind, solar, nuclear power and electric vehicles. Furthermore, his anti-immigration policies have obvious implications in terms of hindering efforts to recruit scientists and STEM students from abroad to US universities, a key for scientific prowess.
 
-The optimist in me has in vain been searching for some silver lining in the results of this election but science policies are definitely not the answer. There is no way around denying that Trump will lead to a research effort focused purely on short\-term economic interests rather than scientific endeavour itself, not to mention a disaster for the planet, environmentally speaking. Sad days for science it seems.
+The optimist in me has in vain been searching for some silver lining in the results of this election but science policies are definitely not the answer. There is no way around denying that Trump will lead to a research effort focused purely on short-term economic interests rather than scientific endeavour itself, not to mention a disaster for the planet, environmentally speaking. Sad days for science it seems.

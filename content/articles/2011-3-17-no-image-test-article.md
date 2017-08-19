@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103172057-ks607-small_oxford.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "495"
 image_attribution: "University of Sheffield"
@@ -38,4 +38,4 @@ imported: true
 No image test articleNo image test articleNo image test article
 
 This is a test.....
-TODO: image from 
+TODO: image from

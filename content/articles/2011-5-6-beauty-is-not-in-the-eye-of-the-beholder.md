@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105060909-felix-709945164_f945e4f475.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "375"
 image_attribution: ""
@@ -38,5 +38,5 @@ Yes, maybe it’s true that there are differing opinions on who we think of as a
 
 Well, one more trait has been added to the list of more-or-less universally attractive features – bright, white eyes. The white part of the eye – the sclera – is made of tough fibres, protecting the eye from various assaults. This white canvas, however, is rather delicate, and can be stained depending on various ailments one might suffer from. Yellow eyes, for example, can be caused by fat deposits as we age, or may indicate jaundice (a build up of bilirubin). Red eyes are caused by dilated blood vessels in the eye and can be symptomatic of anything from infection to allergy. The scientists behind the study, published in the journal Ethology, doctored 100 of pictures of eyes to make them appear bloodshot. Together with 100 healthy white eyes, the scientists asked people to rate the pictures on sadness, healthiness and attractiveness. Unsurprisingly, the white eyed folk did best on all three counts.
 
-The sclera is an interesting part of the body to test beauty on because it is something that humans have which we don’t share with our closest relatives – chimpanzees. All non-human primates have brown or dark brown sclera. It is thought to be this colour (similar to the iris) so as to mask which direction you are looking. In humans, the eye seems to have gained a secondary function (besides preventing you bumping into things) – communication with others. As well as attractiveness, the white eye can signal gaze direction and emotion. Vital messages in an increasingly social species.  
+The sclera is an interesting part of the body to test beauty on because it is something that humans have which we don’t share with our closest relatives – chimpanzees. All non-human primates have brown or dark brown sclera. It is thought to be this colour (similar to the iris) so as to mask which direction you are looking. In humans, the eye seems to have gained a secondary function (besides preventing you bumping into things) – communication with others. As well as attractiveness, the white eye can signal gaze direction and emotion. Vital messages in an increasingly social species.
  Charlie Harvey

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201506112314-cj914-tfl.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Tony Wilson, JellyLondon.com"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Oyster will be around for a long time  Many smaller banksbuilding societies have yet to issue contactless cards and many people will not want to involve themselves with a third party system and the data harvesting that implies just to use their phone One might ask how Yoyo is getting on in the real world   Then theres the issue of those who are only allowed the most basic of bank accounts if at allAnother big problem in a major tourist city is that visitors are not keen on contactless due to transaction charges   A 150 bus fare can more than double by the time the currency conversion is done and a usage fee paidVery good points you raise there Although perhaps a switch away from Oyster to ITSO may happen one day although considering poor uptake by national rail I do not hold up hopeAnother reason for Oyster to remain would be the discount cards Zip 18 etc there is no reason why TfL couldnt apply those discounts to a contactless card but considering how they love checking that 
+ - Oyster will be around for a long time  Many smaller banksbuilding societies have yet to issue contactless cards and many people will not want to involve themselves with a third party system and the data harvesting that implies just to use their phone One might ask how Yoyo is getting on in the real world   Then theres the issue of those who are only allowed the most basic of bank accounts if at allAnother big problem in a major tourist city is that visitors are not keen on contactless due to transaction charges   A 150 bus fare can more than double by the time the currency conversion is done and a usage fee paidVery good points you raise there Although perhaps a switch away from Oyster to ITSO may happen one day although considering poor uptake by national rail I do not hold up hopeAnother reason for Oyster to remain would be the discount cards Zip 18 etc there is no reason why TfL couldnt apply those discounts to a contactless card but considering how they love checking that
 imported: true
 ---
 

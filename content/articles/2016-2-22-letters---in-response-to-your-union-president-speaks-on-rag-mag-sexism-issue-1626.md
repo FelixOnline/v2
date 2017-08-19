@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602221513-felix-ggggg.jpg"
 image_caption: >
-  
+
 image_width: "3430"
 image_height: "4128"
 image_attribution: ""
@@ -41,7 +41,7 @@ I read your article last week and would like to reply to some of the accusations
 
 The RAG mag is made to be accessible and funny. Thus, as the union president, an article about you was published as you would be known by a lot of students.
 
-Having read the article I do not believe you are ‘singled out’ because you are a woman and in fact the article also includes commentary on other \(male\) sabbaticals.
+Having read the article I do not believe you are ‘singled out’ because you are a woman and in fact the article also includes commentary on other (male) sabbaticals.
 
 Calling the piece sexist undermines genuine sexism. It is true that there is a very distorted ratio at Imperial and as a woman I am challenged by this as well. However, this does not mean you can use your gender to make yourself the victim in a case that has nothing to do with sexism; the article does not even mention your gender. Rather it is a satire about your opinions given at an interview with IC radio and on social platforms such as Twitter. It criticises your statements about Scottish Independence, the UK and the poor which many found offensive and racist.
 

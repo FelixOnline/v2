@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210038-tna08-shouting.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -35,8 +35,8 @@ comments:
 imported: true
 ---
 
-[Figures](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx) from the official watchdog, the[ Office of the Independent Adjudicato](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx)r (OIA), show that complaints by students at universities in England and Wales have reached an all time high.  
- In 2012 there were 2012 complaints against universities, compared to 1605 the year before. Of the complaints, about 4% were deemed to be justified, 6% settled and 8% unjustified. 59% were declared to be unjustified. In total, universities paid £189,892 in compensation to students.  
+[Figures](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx) from the official watchdog, the[ Office of the Independent Adjudicato](http://oiahe.org.uk/news-and-media/news-and-press-releases.aspx)r (OIA), show that complaints by students at universities in England and Wales have reached an all time high.
+ In 2012 there were 2012 complaints against universities, compared to 1605 the year before. Of the complaints, about 4% were deemed to be justified, 6% settled and 8% unjustified. 59% were declared to be unjustified. In total, universities paid £189,892 in compensation to students.
  With regards to the nature of complaints: most (69%) were for academic status. This however means that 31% were for other complaints. Rob Behrens, OIA Chief Executive, stressed that these complaints are most likely not from the fee rise and that the impact of the £9000 fees will be seen later. He said: “We haven’t seen the full impact of the fee increase yet, because most complaints are from third year students and the fees do not apply to them yet.”
 
 [_Comment_](http://felixonline.co.uk/comment/3704/2012-university-complaints-england--wales-in-2012/)

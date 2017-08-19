@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106021941-felix-skype_logo.jpg"
 image_caption: >
-  
+
 image_width: "2000"
 image_height: "886"
 image_attribution: ""

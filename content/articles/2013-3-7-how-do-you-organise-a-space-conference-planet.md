@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072148-jal08-dsc_0715-2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -42,7 +42,7 @@ Imperial students chatted to pioneering engineer Alan Bond, the man behind the S
 
 In an effort to dispel their reputations as dull space geeks, UKSEDS organised a networking reception with copious amounts of free wine donated by the Royal Astronomical Society, followed by a 25th anniversary boat party featuring plenty of cringe-worthy just-barely-space-related music.
 
-UKSEDS’ annual general meeting saw the election of four Imperial students to the national organising committee, Andy Lamb (1st year Physicist), Zoë Versey (4th year Aero), and TeeJay Taiwo (2nd year Aero), Joseph Dudley (1st year Aero) become Treasurer, Events Officer, Projects Officer, and Membership Officer respectively, making Imperial the most represented university on the committee.  
+UKSEDS’ annual general meeting saw the election of four Imperial students to the national organising committee, Andy Lamb (1st year Physicist), Zoë Versey (4th year Aero), and TeeJay Taiwo (2nd year Aero), Joseph Dudley (1st year Aero) become Treasurer, Events Officer, Projects Officer, and Membership Officer respectively, making Imperial the most represented university on the committee.
  Joseph Dudley, Vice-Chair of ICSEDS said “Imperial had one of the highest turnouts at the conference, we were the only branch to have a poster, and we got four people elected to the national committee. A really great result, and a tribute to the dedication of ICSEDS’ members.”
 
 In addition to dominating UKSEDS’ committee, ICSEDS has plans to become the hub for a London based SEDS group that will feature collaboration with groups at Kingston, UCL, and KCL, as well as the British Interplanetary Society whose headquarters are in Vauxhall.

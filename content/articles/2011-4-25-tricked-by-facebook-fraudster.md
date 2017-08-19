@@ -42,13 +42,13 @@ We’re lucky to live in a time and age where new students no longer face that d
 Like many, I’d had my fair share of regular conversations with Demi, mostly about her woeful life. Her mother was dying of cancer, so she’d selflessly flunked out of university to be by her side. Although her father had walked out yesteryear she wasn’t entirely alone, and had both her older brother and close friends from Exeter standing by at all times to lend her a helping hand.
 
 October came and went but Demi’s mother was too ill to be left alone, so Demi had arranged a deferred place with Imperial. Unfortunately her mother passed away before Christmas, and myself and others gradually became more concerned as Demi’s depression and cocaine use heightened, but spoke to her less and less as we settled into university life.
-TODO: image from 
+TODO: image from
 When her best friend Lara announced the tragic news of her death we were all devastated. Demi had died of sudden unexpected death syndrome due to the unbearable stresses that life had burdened her with. As is custom in this bizarre and often cringe-invoking age, countless messages bombarded Demi’s wall, and amongst the dozens of freshers who knew her, several tears were shed.
 
 But by pure serendipity it was unveiled that Demi didn’t actually exist. Her mother hadn’t died of cancer. There was no record of a deferred place for her at Imperial. Sudden unexpected death syndrome is genetic and generally affiliated with young Laotian men. Demi’s Facebook photographs had been taken from an innocent bystander from Sheffield who an Imperial fresher just so happened to meet.
 
 When confronted, Demi’s profile as well as those of her elaborate friendship and family circle vanished into cyberspace. Somebody clearly had a lot of time on their hands, investing hours each evening not only talking to people, but also talking to themselves from the dozens of faux accounts they’d created. One has to wonder what kind of motive someone would have. I mean, Imperial freshers are hardly the most robust or interesting targets in the world. Perhaps someone has a deranged ex-lover looking to keep tabs on them.
-TODO: image from 
+TODO: image from
 The whole situation seems like an Aesop’s fable for the Facebook generation: we should certainly be more careful about who we’re trusting online. I’m sure those involved will be a lot more sceptical: a well-established Facebook profile doesn’t make anybody more ‘real’. And as our social interactions diminish and we irreversibly dive further into dependency on such sites, perhaps we should also be asking what kind of responsibility the site owners should be taking.
 
 Deceit on the internet is hardly a ground-breaking phenomenon, but it’s the nature of this incident and the fact that it is so close to home that make it so interesting: how can a bunch of allegedly-bookish Imperialites be so blind and foolish to something which in retrospect seems entirely absurd? Be careful, kids: there’s sick perverts out there, and they want to have a long, hard gaze at your revision-orientated status updates.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,6 +44,6 @@ The Imperial mission statement mentions a commitment “to address the difficult
 
 Concerns were raised at the meeting about how divestment might affect the relationship between Imperial and the companies in which it currently invests, many of which provide our students with jobs and funding for their research. Following what was described by Abigail de Bruin as “a fair amount of questioning”, the general consensus seemed to be that the many universities that have already successfully divested have faced no obvious negative effects and there’s no reason why this shouldn’t also be the case at Imperial.
 
-The Union proposes an immediate freeze on further fossil fuel investment. To begin the actual divestment process, the Union sets out a five\-year target to withdraw investments in the fossil fuel industry. For those investments made indirectly via commingled funds, it is believed that it should be relatively easy to discover where money is being poured into fossil fuel firms and redirect it to other companies. Any future investments would be subject to student and staff consultation to ensure compliance with Imperial values and mission statements. The campaign would be publicised in the Union newsletter, social media, and a dedicated website.
+The Union proposes an immediate freeze on further fossil fuel investment. To begin the actual divestment process, the Union sets out a five-year target to withdraw investments in the fossil fuel industry. For those investments made indirectly via commingled funds, it is believed that it should be relatively easy to discover where money is being poured into fossil fuel firms and redirect it to other companies. Any future investments would be subject to student and staff consultation to ensure compliance with Imperial values and mission statements. The campaign would be publicised in the Union newsletter, social media, and a dedicated website.
 
-The paper has so far been passed only in principle due to the meeting not being quorate \(following minor amendments, the council will vote via email\) but there are reasons to be optimistic about the future of divestment at Imperial. Union backing lends weight to any campaign. We have already seen how pressure from students has achieved divestment commitments at King’s College London, Oxford University, and the London School of Economics. It remains to be seen whether the same success will be repeated at Imperial.
+The paper has so far been passed only in principle due to the meeting not being quorate (following minor amendments, the council will vote via email) but there are reasons to be optimistic about the future of divestment at Imperial. Union backing lends weight to any campaign. We have already seen how pressure from students has achieved divestment commitments at King’s College London, Oxford University, and the London School of Economics. It remains to be seen whether the same success will be repeated at Imperial.

@@ -2,7 +2,7 @@
 title: >
   Imperial Cinema Presents: RoboCop
 subtitle: >
-  Imperial Cinema is back to give you some well-needed relaxation time away from central library! This week we’re showing the new remake of the 80s classic RoboCop. 
+  Imperial Cinema is back to give you some well-needed relaxation time away from central library! This week we’re showing the new remake of the 80s classic RoboCop.
 date: "2014-05-02 01:23:05 +0100"
 id: "4549"
 old_path: /film/4549/imperial-cinema-presents-robocop
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405020223-jal08-robocopbike.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

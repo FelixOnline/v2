@@ -2,7 +2,7 @@
 title: >
   Hipster German expressionism
 subtitle: >
-  So here you are. You’ve watched all the Salvador Dali films in the house, knitted all the hipster beanies you need, the bars in Shoreditch are too mainstream on a Friday night and you’ve already spent hours listening to unknown bands on Soundcloud. So what next? 
+  So here you are. You’ve watched all the Salvador Dali films in the house, knitted all the hipster beanies you need, the bars in Shoreditch are too mainstream on a Friday night and you’ve already spent hours listening to unknown bands on Soundcloud. So what next?
 date: "2014-01-17 03:48:30 +0000"
 id: "4242"
 old_path: /arts/4242/hipster-german-expressionism
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201401170349-jal08-arts-morning-to-midnight.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Johan Persson"

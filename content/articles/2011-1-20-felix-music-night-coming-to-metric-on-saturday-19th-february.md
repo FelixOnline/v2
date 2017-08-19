@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201957-nm1010-mmetricf.jpg"
 image_caption: >
-  
+
 image_width: "1191"
 image_height: "1684"
 image_attribution: "Luke Tomlin"

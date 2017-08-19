@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211152101-tna08-weather.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Gen 82122 And the Lord smelled a soothing aroma Then the Lord said in His heart I will never again curse the ground for mans sake although the imagination of mans heart is evil from his youth nor will I again destroy every living thing as I have doneWhile the earth remainsSeedtime and harvestCold and heatWinter and summerAnd day and nightShall not cease 
+ - Gen 82122 And the Lord smelled a soothing aroma Then the Lord said in His heart I will never again curse the ground for mans sake although the imagination of mans heart is evil from his youth nor will I again destroy every living thing as I have doneWhile the earth remainsSeedtime and harvestCold and heatWinter and summerAnd day and nightShall not cease
 imported: true
 ---
 

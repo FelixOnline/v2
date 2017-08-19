@@ -1,6 +1,6 @@
 ---
 title: >
-  The slimy world of Hagfish Haute Couture 
+  The slimy world of Hagfish Haute Couture
 subtitle: >
   Lucy Hagger goes all haute couture
 date: "2013-05-01 19:20:04 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305012020-tna08-broadgilled-hagfish_eptatretus-cirrhatus_paddy-ryan-ryan-photographic-fileminimizer.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

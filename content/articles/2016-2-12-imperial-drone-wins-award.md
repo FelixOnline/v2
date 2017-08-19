@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602121112-felix-buildroneprototype.jpg"
 image_caption: >
-  
+
 image_width: "650"
 image_height: "369"
 image_attribution: "Buildrone"

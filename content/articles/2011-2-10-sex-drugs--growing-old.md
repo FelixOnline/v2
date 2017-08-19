@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102003-dr910-corriebe.jpg"
 image_caption: >
-  
+
 image_width: "1536"
 image_height: "1024"
 image_attribution: ""

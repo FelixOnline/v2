@@ -2,7 +2,7 @@
 title: >
   How to keep yourself safe on campus
 subtitle: >
-  Nigel Ward talks to Felix about keeping your possessions in check 
+  Nigel Ward talks to Felix about keeping your possessions in check
 date: "2015-05-29 12:46:46 +0100"
 id: "5591"
 old_path: /welfare/5591/how-to-keep-yourself-safe-on-campus
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505291346-ps3110-a-hooded-thief-stealing-a-001.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

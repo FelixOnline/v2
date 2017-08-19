@@ -1,6 +1,6 @@
 ---
 title: >
-  Fun and fighting at the Finborough 
+  Fun and fighting at the Finborough
 subtitle: >
   This small 'pub theatre' puts on a great show
 date: "2010-10-14 18:45:11 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104200938-felix-finboroughfront2008creditmatthewturner.jpg"
 image_caption: >
-  
+
 image_width: "1944"
 image_height: "2592"
 image_attribution: "Matthew Turner"

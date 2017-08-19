@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202092216-pk1811-fall-of-troy-escalate.jpg"
 image_caption: >
-  
+
 image_width: "474"
 image_height: "320"
 image_attribution: ""

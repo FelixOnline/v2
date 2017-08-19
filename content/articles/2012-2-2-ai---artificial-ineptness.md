@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202022042-ams111-jurassic_park_raptor_kitchen-.jpg"
 image_caption: >
-  
+
 image_width: "875"
 image_height: "579"
 image_attribution: ""

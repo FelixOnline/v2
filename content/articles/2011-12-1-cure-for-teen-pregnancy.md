@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012052-ams111-the-twilight-saga-breaking-dawn-part-1-20110502003034631.jpg"
 image_caption: >
-  “Edward, I’m pregnant...”   “Bella, I’m leaving you...” 
+  “Edward, I’m pregnant...”   “Bella, I’m leaving you...”
 image_width: "1200"
 image_height: "800"
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 __The Twilight Saga – Breaking Dawn Part 1__
 
-__Director__ Bill Condon  
-__Screenwriters__ Melissa Rosenberg, Stephanie Meyers (novel)  
+__Director__ Bill Condon
+__Screenwriters__ Melissa Rosenberg, Stephanie Meyers (novel)
 __Cast__ Robert Pattinson, Kristen Stewart, Taylor Lautner
 
 Thousands of hormonal Twihards queued for days for the much-anticipated arrival of _[The Twilight Saga: Breaking Dawn – Part 1](http://www.youtube.com/watch?v=PQNLfo-SOR4)_; the fourth film in the hugely successful vampire love story franchise was released last week, setting the scene for the big finale next year. An emotionally fraught, dramatic tale, this latest film shows that the structure of the Twilight franchise – that of surging adolescent emotions quashing rational thought, and the resulting arguments and tantrums – is still foolproof.

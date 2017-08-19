@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201004181803-jn104-GuildsRu.jpg"
 image_caption: >
-  
+
 image_width: "604"
 image_height: "250"
 image_attribution: ""
@@ -75,10 +75,10 @@ Looking through the archive, it seemed that rugby was very different back then, 
 
 
 > “The R.C.S.pack led by Smith and amongst whom black bearded Hague was prominent, completely subdued the Mines pack, but having gained possession of the ball little else was done. Although on paper the R.C.S. backline is the most powerful of the three colleges they lacked the thrust necessary to take them over the line.
-> 
->   
-> 
-> 
+>
+>
+>
+>
 > Edward's sound kicking was a great asset to the Mines too, on the few occasions when they had the ball were uncertain as to what to do. The only score of the match came halfway through the second half when a loose pass between the Mines halves allowed Jacobson to swoop in to score close to the post with Coppleman converting.”
 
 

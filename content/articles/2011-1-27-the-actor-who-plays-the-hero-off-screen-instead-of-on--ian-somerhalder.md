@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272004-nm1010-ianiania.jpg"
 image_caption: >
-  
+
 image_width: "747"
 image_height: "720"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Wossy reveals Nintendo 3DS details 
+  Wossy reveals Nintendo 3DS details
 subtitle: >
   Jonathan Ross hosts latest press conference on the Nintendo 3DS
 date: "2011-01-20 20:04:37 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202003-ks607-wossywos.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1067"
 image_attribution: ""

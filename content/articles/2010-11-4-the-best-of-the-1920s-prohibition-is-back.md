@@ -1,6 +1,6 @@
 ---
 title: >
-  The best of the 1920s: Prohibition is back 
+  The best of the 1920s: Prohibition is back
 subtitle: >
   A new night aims to bring back the feel of the 'Roaring Twenties'
 date: "2010-11-04 18:36:52 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104210905-felix-screen-shot-2011-04-21-at-09.02.02.png"
 image_caption: >
-  
+
 image_width: "355"
 image_height: "532"
 image_attribution: "Prohibition 1920s"

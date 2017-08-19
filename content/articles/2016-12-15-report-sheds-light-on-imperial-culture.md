@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612152346-felix-Screen Shot 2016-12-15 at 16.03.13.png"
 image_caption: >
-  
+
 image_width: "1093"
 image_height: "1156"
 image_attribution: "Imperial College London"
@@ -42,12 +42,12 @@ Indeed, at the very start of the report, it reads “the Provost’s Board recog
 
 And certainly, the findings don’t paint a flattering picture of Imperial: a picture of pressure, ‘elite’ white masculinity, silence and tokenism.
 
-The main pillar of the College’s culture is excellence. It’s part of the brand. The first line of the introduction at Imperial’s website reads “Imperial College London is a science\-based university with an international reputation for excellence in teaching and research.” Yet, this obsession with excellence breeds competition rather than collaboration and creates  an environment where the inability to cope with the pressures and stress of academia is perceived as a weakness instead of a problem in need of support.
+The main pillar of the College’s culture is excellence. It’s part of the brand. The first line of the introduction at Imperial’s website reads “Imperial College London is a science-based university with an international reputation for excellence in teaching and research.” Yet, this obsession with excellence breeds competition rather than collaboration and creates  an environment where the inability to cope with the pressures and stress of academia is perceived as a weakness instead of a problem in need of support.
 
 Theresa Davey, a materials PhD student who has spent almost a decade at Imperial College agrees: “Imperial does produce excellent work but it’s at the expense of mental health and happiness of the people here”
 
 Issues such as students concealing their vulnerabilities from their peers, experiencing bullying in work and study hierarchies, and even the lack of community spaces are all noted in the report.
-On an undergraduate level these pressures may be remedied through participation in social activities within College’s hundreds of student led clubs and societies. “This is definitely a space that has helped a lot of people through break ups, mental health issues, suicide attempts,” says Ksenia Solovieva, a physics undergraduate currently between her first and second year,  referring to the safe haven that the Sci\-fi and Fantasy library is for many students. “I’m not good friends with anyone from my year, all my friends have come through societies” When asked why, the answer is simple: “It’s not competitive here. \[In your department\] you compare yourself to your peers ‘cause you might be working on the same problem but they’re five steps ahead and you realise you’re not that great”
+On an undergraduate level these pressures may be remedied through participation in social activities within College’s hundreds of student led clubs and societies. “This is definitely a space that has helped a lot of people through break ups, mental health issues, suicide attempts,” says Ksenia Solovieva, a physics undergraduate currently between her first and second year,  referring to the safe haven that the Sci-fi and Fantasy library is for many students. “I’m not good friends with anyone from my year, all my friends have come through societies” When asked why, the answer is simple: “It’s not competitive here. [In your department] you compare yourself to your peers ‘cause you might be working on the same problem but they’re five steps ahead and you realise you’re not that great”
 
 For postgraduates and staff, opportunities for healthy socialising outside the work environment might be even fewer and the pressures even more real. The degree of participation in society events and union campaigns plummets as soon as the transition is made from the undergraduate to the postgraduate or staff level.
 
@@ -64,7 +64,7 @@ We also approached Deputy President for Welfare, Emily Jane Cramphorn who said: 
 
 “However, I would like to have seen  issues surrounding diversity, prejudice and feeling silenced covered in more depth.”
 
-The report suggests a number of recommendation that could help improve the Culture at Imperial. These include, appointing a Vice\-Provost for Student and Staff Equality and wellbeing, creating a Centre for Emotional Excellence, housing welfare and wellbeing services and providing a venue for training around skills such as emotional intelligence and self\-development courses and even adding student and staff representatives to the permanent membership of  the Provost’s Board.
+The report suggests a number of recommendation that could help improve the Culture at Imperial. These include, appointing a Vice-Provost for Student and Staff Equality and wellbeing, creating a Centre for Emotional Excellence, housing welfare and wellbeing services and providing a venue for training around skills such as emotional intelligence and self-development courses and even adding student and staff representatives to the permanent membership of  the Provost’s Board.
 
 “I think it’s really brave that College would commission and publish something that qualitatively shows these issues and that they’re committing to fix it” says Davey.
 

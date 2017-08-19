@@ -2,7 +2,7 @@
 title: >
   Riverside Studios serve up a slice of the Deep South
 subtitle: >
-  Tennessee Williams (and Horton Foote) come to Hammersmith 
+  Tennessee Williams (and Horton Foote) come to Hammersmith
 date: "2011-11-03 22:01:05 +0000"
 id: "1696"
 old_path: /arts/1696/riverside-studios-serve-up-a-slice-of-the-deep-south

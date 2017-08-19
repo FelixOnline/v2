@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022140-dr910-RhyDavis.jpg"
 image_caption: >
-  
+
 image_width: "1728"
 image_height: "2218"
 image_attribution: ""

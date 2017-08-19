@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150218-tna08-side2_2478602b.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -41,7 +41,7 @@ Life is good again for Emily, she has regained her sex drive, something her insi
 But things become more complicated than that. To give more details on further plot development would be giving away far too much, but Steven Soderbergh’s slick little retirement project (he has stated that this will be his last big-screen film – he has one more television movie due to be released later this year) has more twists and turns than what you can see coming. And with every bold jerk to the narrative, the less “believable” it may become. But with a film dressed as a psychosexual thriller, a certain stretch of the imagination is entirely acceptable, and Soderbergh uses every opportunity to take advantage of that.
 
 Controversy surrounds Banks’ practising methods, and soon he finds himself in the middle of a much darker conspiracy than he anticipated. And with Law, Soderbergh finds himself a very convincing helpless victim but one who is not willing to go down without a fight. He’s an intelligent man who puts the pieces together quickly, which is a relief for the audience as the film gets on with its developments. And it gives our victim/protagonist plenty of time to set things right. Law does have the satisfying final laugh in the end, something we all end up supporting.
-TODO: image from 
+TODO: image from
 Mara, hot off her Oscar-nominated success from David Fincher’s The Girl with the Dragon Tattoo, tackles yet another complex role with dominance. Hers is a particularly ambiguous and challenging one, but this new young talent very skilfully inhabits her duplicitous persona. Essentially the film’s biggest twist rests on this single performance, and she cleverly balances the two main sides to her fascinating lead character: the chilly, calculating, as well as the young and vulnerable.
 
 Zeta-Jones, as Emily’s previous psychiatrist Dr Victoria Siebert, has never been this sizzling nor has she had a role this fun and meaty in recent years. The fact that a seemingly insignificant part is played by such a famous name should give you some cluesas to how much weight she’ll carry in the later scenes. And as more is revealed she becomes a crucial part in the bigger picture, an intriguing piece of the overall puzzle.

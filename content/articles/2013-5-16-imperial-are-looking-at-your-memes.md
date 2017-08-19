@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305162152-tna08-imperial-memes-1.jpg"
 image_caption: >
-  College's post on Imperial Memes, which was deleted. Definitely would have been better to have done 
+  College's post on Imperial Memes, which was deleted. Definitely would have been better to have done
 image_width: "0"
 image_height: "0"
 image_attribution: ""

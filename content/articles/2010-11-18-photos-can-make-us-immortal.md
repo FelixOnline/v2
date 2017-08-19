@@ -1,6 +1,6 @@
 ---
 title: >
-  Photos can make us immortal 
+  Photos can make us immortal
 subtitle: >
   What I’m saying is that photos should be our biographies. And unlike written ones, they’re easy to make
 date: "2010-11-18 22:13:43 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

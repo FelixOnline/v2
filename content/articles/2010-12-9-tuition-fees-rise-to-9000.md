@@ -1,6 +1,6 @@
 ---
 title: >
-  Tuition fees rise to £9,000 
+  Tuition fees rise to £9,000
 subtitle: >
   Student protests fail to stop coalition plans
 date: "2010-12-09 22:11:43 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092207-dr910-wrffrfaq.jpg"
 image_caption: >
-  
+
 image_width: "1415"
 image_height: "940"
 image_attribution: "Miles Robertson"

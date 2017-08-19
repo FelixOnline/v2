@@ -2,7 +2,7 @@
 title: >
   NHS Data Sale: Ramifications?
 subtitle: >
-  All members of the broadly defined ‘left’ occasionally fall into the trap Yeats left us when he said ‘the best lack all conviction whilst the worst are filled with passionate intensity’. 
+  All members of the broadly defined ‘left’ occasionally fall into the trap Yeats left us when he said ‘the best lack all conviction whilst the worst are filled with passionate intensity’.
 date: "2014-01-24 09:52:58 +0000"
 id: "4282"
 old_path: /comment/4282/nhs-data-sale-ramifications
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

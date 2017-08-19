@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272031-dr910-riazriaz.jpg"
 image_caption: >
-  
+
 image_width: "3000"
 image_height: "2148"
 image_attribution: ""

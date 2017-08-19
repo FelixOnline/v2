@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603111118-felix-bball.jpg"
 image_caption: >
-  Men's Imperial 1st Basketball are currently top of their BUCS league group. 
+  Men's Imperial 1st Basketball are currently top of their BUCS league group.
 image_width: "960"
 image_height: "640"
 image_attribution: "Katerina Stavri"
@@ -55,7 +55,7 @@ In response, Sport Imperial had this to say: “Supporting student sport is the 
 
 Sport Imperial is currently in flux, as the last head of sport left before a replacement could be found, leaving the current operations manager to take over as acting head.
 
-Ben Howitt, the union’s Deputy President \(Clubs &amp; Societies\) said he was “disappointed and upset at the rudeness displayed to the Basketball committee over the weekend. The event has highlighted some clear retraining needs, and I will be working with Sport Imperial and Union staff members to make sure that incidents like this do not happen again in the future, and that clubs have access to the space required for their activities.”
+Ben Howitt, the union’s Deputy President (Clubs &amp; Societies) said he was “disappointed and upset at the rudeness displayed to the Basketball committee over the weekend. The event has highlighted some clear retraining needs, and I will be working with Sport Imperial and Union staff members to make sure that incidents like this do not happen again in the future, and that clubs have access to the space required for their activities.”
 
 The Captain of the Men’s 1st team, Filippo Baldini told FELIX he’d asked Sport Imperial “to make the rules more clear, because at the desk they never know who’s right or what to do.”
 

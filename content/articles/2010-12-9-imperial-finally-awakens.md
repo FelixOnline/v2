@@ -2,7 +2,7 @@
 title: >
   Imperial finally awakens
 subtitle: >
-  Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances 
+  Both lecture theatres were packed. Students and staff crowded the aisles and sat on the floor, eager to air their grievances
 date: "2010-12-09 21:45:21 +0000"
 id: "541"
 old_path: /news/541/imperial-finally-awakens

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104220153-felix-r13_m.jpeg"
 image_caption: >
-  
+
 image_width: "427"
 image_height: "227"
 image_attribution: ""

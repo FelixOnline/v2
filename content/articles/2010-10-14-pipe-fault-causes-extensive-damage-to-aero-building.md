@@ -1,6 +1,6 @@
 ---
 title: >
-  Pipe fault causes extensive damage to Aero building 
+  Pipe fault causes extensive damage to Aero building
 subtitle: >
   A PhD student is rumoured to have bungled, resulting in damage to labs and lecture theatres
 date: "2010-10-14 19:04:55 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

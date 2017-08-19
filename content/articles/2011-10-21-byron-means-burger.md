@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110211254-ak6309-byron-burgerw.jpg"
 image_caption: >
-  
+
 image_width: "1700"
 image_height: "2550"
 image_attribution: ""
@@ -46,8 +46,8 @@ Am I getting the message across that I really rather like this place? The classi
 
 Outside of the Heaven-sent hamburgers are a modest number of main and side salads, which, whilst crunchy and better than most, pale in comparison to their meatier main course brethren. The choice for vegetarians is somewhat limited however – there’s a veggie burger (made with grilled Portobello mushroom), and one of the salads is meat-free (the buffalo mozzarella and lentil), but beyond that you’re rather limited in choice.
 
-If you like either of those then you’re in for a treat, but slightly pickier vegetarians may very well want to give Byron a miss. Obligate carnivores on the other hand will not be disappointed.  
- The dessert menu is small as well, but does contain some very nice after-dinner treats to indulge yourself with. Unfortunately light sorbets or fruit salads are missing from the menu; often after a large meal the last thing you want to eat is a rich chocolate brownie or cream-laden banana split.  
+If you like either of those then you’re in for a treat, but slightly pickier vegetarians may very well want to give Byron a miss. Obligate carnivores on the other hand will not be disappointed.
+ The dessert menu is small as well, but does contain some very nice after-dinner treats to indulge yourself with. Unfortunately light sorbets or fruit salads are missing from the menu; often after a large meal the last thing you want to eat is a rich chocolate brownie or cream-laden banana split.
  Something small and sweet to end the meal with would round it off nicely, possibly accompanied by a glass of wine – of which there is a respectable selection.
 
 I could try and go on about meat texture, subtle flavours and whatnot, but at the end of the day I’m no food buff. Let me put it simply – I know what I like, and I like Byron. So will you.

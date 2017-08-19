@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202162251-sjw209-screen-shot-2012-02-16-at-16.52.12.jpg"
 image_caption: >
-  
+
 image_width: "993"
 image_height: "521"
 image_attribution: ""
@@ -47,6 +47,6 @@ The Big Elections include faculty and departmental positions all under one syste
 
 The statistics website will go live around the weekend before voting opens, and a number of technical (as well as aesthetic) improvements have been made. For instance, the stats will now be pushed to clients from the server rather than the browser frequently pulling data, reducing load and the potential of crashing. When the nominations website went live and the Union advertised that they were open, the site was still not accepting logins to the elections system. Beaumont explained that “the server was tested for a fortnight and its time had gone out of sync by twenty minutes in that period”, adding that “it’s fine now since the server is safe and secure in one of the College’s datacenters, and the server has been set to autosync time”, assuring it will never go wrong again.
 
-The official Twitter hashtag for the elections is [\#voteicu](http://twitter.com/#!/search/%23voteicu), which started to receive use around the same time as Deputy President (Education) Jason Parmar tweeted that the hashtag of the week should be #loveyourrep for Rep Week. On the suggestion of a hashtag war, Beaumont explained that he believes “the Union’s tweeting as much for the elections as it is for rep week, and the reps have had more of a physical presence across campus”. He added that the “elections will get physical in a couple of weeks”.
+The official Twitter hashtag for the elections is [#voteicu](http://twitter.com/#!/search/%23voteicu), which started to receive use around the same time as Deputy President (Education) Jason Parmar tweeted that the hashtag of the week should be #loveyourrep for Rep Week. On the suggestion of a hashtag war, Beaumont explained that he believes “the Union’s tweeting as much for the elections as it is for rep week, and the reps have had more of a physical presence across campus”. He added that the “elections will get physical in a couple of weeks”.
 
 The electronic ballot box for voting has also been improved, with candidates’ manifestos and pictures being displayed on the voting screen, shuffled for fairness. A brief explanation of the Single Transferable Vote (STV) system is also provided, and the list of seconders (constitutionally made public) may be used in the marketing website. Beaumont told Felix that he is “happy with how the system’s been received” and that he thinks “everyone’s taken it well”.

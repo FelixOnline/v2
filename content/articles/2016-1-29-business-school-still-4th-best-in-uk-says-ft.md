@@ -35,9 +35,9 @@ comments:
 imported: true
 ---
 
-Imperial College Business School’s full\-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.
+Imperial College Business School’s full-time MBA program is the 35th best in the world and the fourth best in the UK according to the 2016 _Financial Times_ MBA rankings released this week.
 
-The list, which is published annually, ranks business schools based on the average weighted salary of students, employment after three months, salary increase \(the increase in alumnus salary from before the MBA to now\), and a number of other factors.
+The list, which is published annually, ranks business schools based on the average weighted salary of students, employment after three months, salary increase (the increase in alumnus salary from before the MBA to now), and a number of other factors.
 
 The latest weighted average salary, which makes adjustments based on variations between sectors, of Imperial College Business School graduates after three years was     £78,400, an increase of around £2600 from last year.
 

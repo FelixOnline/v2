@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105122012-felix-img_3768.jpg"
 image_caption: >
-  
+
 image_width: "5184"
 image_height: "3456"
 image_attribution: "Simon Worthington"
@@ -45,21 +45,21 @@ Being pushed to their physical limits didn’t stop the cast from keeping contro
 
 On a weekend when most of us were lamely pushing ahead with the revision schedule, these students created something spectacular. From a society that has proven time and again just what dedication and rehearsal can do for a performance came a showcase of the part that pure talent and energy play as well. It was genuinely brilliant regardless of the time taken to put on. If this exercise is repeated, I advise you not to miss out.
 
-[  
+[
  Click to read Gilead Amit's liveblog of the rehearsals](http://felixonline.co.uk/arts/1177/mtsocs-we-will-rock-you---rehearsed-and-performed-within-27-hours/)
 
 __Cast List__
 
-_Galileo_ Robert Felstead  
-_Scaramouche_ Katie Clemence  
-_Killer Queen_ Shamini Bundell  
-_Pop_ Sebastian Junemann  
-_Khashoggi_ Al Norman  
-_Meat_ Rebecca Jones  
+_Galileo_ Robert Felstead
+_Scaramouche_ Katie Clemence
+_Killer Queen_ Shamini Bundell
+_Pop_ Sebastian Junemann
+_Khashoggi_ Al Norman
+_Meat_ Rebecca Jones
 _Brit_ Phil Raymond
 
 _Ensemble_: Charlotte Ivison, Sanee Patel, Owain Jones, Christine Simpson, Oluwatosin Ajayi, Sophie Campen, Lucy Harrold, Michael Willmott, Barry Whiteside, Felix Millne, Holly Russell-Allison, John Wheatley, Philip Jackson, Tony Bannister, Yun William Yu.
 
-_Director_: David Swain  
-_Musical Director_: Zoe Humphries  
+_Director_: David Swain
+_Musical Director_: Zoe Humphries
 _Choreographer_: James Perry

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411280107-ps3110-gg.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - This article is complete garbage at best its poorly researched and ill informed and at worst its outright wrong Still I dont blame you sensationalist writing like this is far more interesting to read and write than the relatively boring and inconsequential reality of what gamergate really isI dont really consider myself a strong supporter of gamergate and I have my own reservations about it but its hard not to be sympathetic after seeing how awful the media coverage of it has been On the one hand I have articles like this one calling it a hateful misogynist movement and a disgrace to gaming on the other hand I have the pretty calm civil behaviour of most gamergaters who are mostly pretty nice people with moderate views that I can see with my own eyes just by actually looking at their forums  They dont hate the social justice warriors because those are people who care about equality but because theyre people who hide behind those beliefs to promote themselves and excuse their own vile 
+ - This article is complete garbage at best its poorly researched and ill informed and at worst its outright wrong Still I dont blame you sensationalist writing like this is far more interesting to read and write than the relatively boring and inconsequential reality of what gamergate really isI dont really consider myself a strong supporter of gamergate and I have my own reservations about it but its hard not to be sympathetic after seeing how awful the media coverage of it has been On the one hand I have articles like this one calling it a hateful misogynist movement and a disgrace to gaming on the other hand I have the pretty calm civil behaviour of most gamergaters who are mostly pretty nice people with moderate views that I can see with my own eyes just by actually looking at their forums  They dont hate the social justice warriors because those are people who care about equality but because theyre people who hide behind those beliefs to promote themselves and excuse their own vile
 imported: true
 ---
 

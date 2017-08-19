@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032008-nm1010-dctordoc.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "819"
 image_attribution: ""

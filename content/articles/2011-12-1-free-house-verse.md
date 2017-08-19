@@ -44,5 +44,5 @@ There were even several poems written on the spot, as people found themselves in
 
 One was never meant to enjoy poetry alone and in silence. Instead, poetry readings were commonplace in homes, public spaces and at the glittering literary salons of the past. It is impossible to translate the nature of these events to our hurried times, but Fluent on Paper certainly tries. From January onwards, it will be a monthly event and I encourage both poets and lovers of poetry to attend. It is a great success for Imperial College students to have a poetry night hosted by one of their own – we can do more than science, it seems!
 
-__[  
+__[
  Fluent on Paper returns on January 22](https://www.facebook.com/events/298528496846002/) at The Builders Arms in South Kensington__

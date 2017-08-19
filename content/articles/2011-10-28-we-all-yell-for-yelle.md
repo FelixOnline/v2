@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110281137-felix-mf443meb11zmbe14.jpg"
 image_caption: >
-  
+
 image_width: "374"
 image_height: "640"
 image_attribution: ""
@@ -35,8 +35,8 @@ comments:
 imported: true
 ---
 
-__Yelle__  
-__Ninkasi Salle du Kao, Lyon__  
+__Yelle__
+__Ninkasi Salle du Kao, Lyon__
 __October 22, 2011__
 
 For those of you who don’t know who [__Yelle__](http://www.youtube.com/watch?v=Y99UqvgCmE8) is, I am not going to bother explaining; maybe because I don’t know who she is either, or maybe because if you like the sound of what she does from reading this review you are perfectly capable of finding it out for yourself.

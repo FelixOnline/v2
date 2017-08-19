@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Has anyone from IC Trust seen this Amazed it only made it to the comment pages And ICU want to obtain charitable statusYou can totally rent a car my filmay did it but warning driving in Italy is stressful confusing and the other drivers are insane Driving in the country wasnt too bad and you got to see all these cute towns that dont have public transport to them but driving in cities is hell Look into trainsI have been living with Tracey Paul and Jacob for about 5 mtonhs and I have to say that they are a really pleasant and amazing family to stay with Not only they will make you feel like home but they will also treat you extremely well Personally I experienced so many great things with them they took me on trips I got to see some breathtaking landscapes down south with my parents thanks to Tracey who helped us book all the accommodation and I even had the chance to spend several public holidays such as Christmas and New Years Eve with their whole familyI 
+ - Has anyone from IC Trust seen this Amazed it only made it to the comment pages And ICU want to obtain charitable statusYou can totally rent a car my filmay did it but warning driving in Italy is stressful confusing and the other drivers are insane Driving in the country wasnt too bad and you got to see all these cute towns that dont have public transport to them but driving in cities is hell Look into trainsI have been living with Tracey Paul and Jacob for about 5 mtonhs and I have to say that they are a really pleasant and amazing family to stay with Not only they will make you feel like home but they will also treat you extremely well Personally I experienced so many great things with them they took me on trips I got to see some breathtaking landscapes down south with my parents thanks to Tracey who helped us book all the accommodation and I even had the chance to spend several public holidays such as Christmas and New Years Eve with their whole familyI
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032043-nm1010-pythagor.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "510"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Deterring Internationals 
+  Deterring Internationals
 subtitle: >
   The Government’s visa proposals risk catasrophe argues Ksenia Rostislavleva
 date: "2011-02-10 20:07:00 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102005-ks607-visavisa.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1536"
 image_attribution: "Antony Theobald"

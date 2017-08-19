@@ -2,7 +2,7 @@
 title: >
   Felix Lonely Hearts WLTM singletons for LTR or NSA fun
 subtitle: >
-  Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we 
+  Felix fanatic looking for like-minded lover to spend Wednesday afternoons in the west basement together. WLTM writer with GSOH, preferably who edits Hangman but could edit science, news or sport (just not fashion or travel). Message me and we can arrange a journalistic rendez-vous, and I reckon we
 date: "2014-02-03 15:41:36 +0000"
 id: "4331"
 old_path: /features/4331/felix-lonely-hearts-wltm-singletons-for-ltr-or-nsa-fun
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

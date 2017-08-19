@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202092213-pk1811-d.jpg"
 image_caption: >
-  
+
 image_width: "450"
 image_height: "450"
 image_attribution: ""

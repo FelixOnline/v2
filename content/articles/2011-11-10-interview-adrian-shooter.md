@@ -58,7 +58,7 @@ Following the legislation in 1993 to privatise railways, Mr Shooter was asked by
 Having worked for so long with his management team on building up the company, Mr Shooter felt that they could run it as well as anyone else, and so decided to try and undertake a management buyout – a process that is very rarely successful.
 
 “It’s rather interesting as I was actually working for British Railways who were selling Chiltern Railways, so I had a conflict of interest. I had to do three things. Firstly, I had to continue running the railways in a proper, prompt and safe way. Secondly, on behalf of my employer, I had to sell the business – it was competitive and we had 13 companies bidding for it. I had to explain to prospective purchasers how the company worked, what they would need to do and the money they should pay for it. Thirdly, in my own time, I had to work out, with my team, how to buy it.”
-TODO: image from 
+TODO: image from
 After formally winning the franchise in 1996, Mr Shooter and his team devised a long term plan for the company which is still on-going today.
 
 “We’ve grown the business faster than any of the other companies. We’ve done that because railways, like many other businesses, survive on their customers. You’ve got to find out what customers want and, importantly, what they’re prepared to pay for.”
@@ -67,7 +67,7 @@ Mr Shooter rounds up his story by explaining “success in business is all about
 > The advice I would give is about honing your people skills.
 Regarding hiring people to make up such a team, Mr Shooter looks for “people who are enthusiastic and are committed to working as a team. We tend to recruit people for attitude and then train them for skills. I want people who are going to come here and look as if they are enthusiastic and interested and want to get on and do stuff, but tempered with whatever are the appropriate qualifications for whatever the job may be.”
 
-Added to this, Mr Shooter’s passion for the rail industry is reflected in his ownership of a Darjeeling Himalayan Steam Locomotive, along with 600 yards of railway track in the back yard of his Bicester home. “I’ve always quite liked two-foot gauge railways and when I became aware that this would be for sale I knew it would be the only Darjeeling Himalayan Steam Locomotive ever likely to come out of India, so I brought it to the UK, had it overhauled and got some replica coaches that go with it.”  
+Added to this, Mr Shooter’s passion for the rail industry is reflected in his ownership of a Darjeeling Himalayan Steam Locomotive, along with 600 yards of railway track in the back yard of his Bicester home. “I’ve always quite liked two-foot gauge railways and when I became aware that this would be for sale I knew it would be the only Darjeeling Himalayan Steam Locomotive ever likely to come out of India, so I brought it to the UK, had it overhauled and got some replica coaches that go with it.”
  However, neither being awarded a CBE nor owning a Darjeeling Himalayan Steam Locomotive in his back garden are classed by Mr Shooter as his greatest life achievements to date. “The thing I’m most proud of, is that over the years, we’ve managed to develop Chiltern Railways into something which is a much more valuable contribution to the community than it was.”
 
 Taking into account his great list of achievements and contributions to the rail and engineering industry, I ask Mr Shooter what advice he would give to current students, and what skills he feels are most important for success.

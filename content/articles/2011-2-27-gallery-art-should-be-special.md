@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271920-ks607-modernar.jpg"
 image_caption: >
-  
+
 image_width: "4968"
 image_height: "3546"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - this is the kind of ridiculous writing that leads to the decline of culture we have to be able to see the beauty in what the artists of today are doing because we are not going back to michelangelo  and that is a good thing art must as all things move constantly forwardsnot really  Installation arts purpose is for the artist to create a reaction in the viewer However like all genres it may be created through and for any purpose for cash to impress a girl from an awakening dream etc But the artist in this genre is a voyeur and its the reaction they seek Here the artist has caused a reaction and therefore their purpose is achieved Alas never forget beauty is in the eye of the beholder What would be nice however would be some data points backing up some of Charles quite brave claimsGranted there is bad modern art but theres also bad science literature music and just about anything  Lets try and focus on the good stuff  Its all too easy to pander to populist sentiments and 
+ - this is the kind of ridiculous writing that leads to the decline of culture we have to be able to see the beauty in what the artists of today are doing because we are not going back to michelangelo  and that is a good thing art must as all things move constantly forwardsnot really  Installation arts purpose is for the artist to create a reaction in the viewer However like all genres it may be created through and for any purpose for cash to impress a girl from an awakening dream etc But the artist in this genre is a voyeur and its the reaction they seek Here the artist has caused a reaction and therefore their purpose is achieved Alas never forget beauty is in the eye of the beholder What would be nice however would be some data points backing up some of Charles quite brave claimsGranted there is bad modern art but theres also bad science literature music and just about anything  Lets try and focus on the good stuff  Its all too easy to pander to populist sentiments and
 imported: true
 ---
 

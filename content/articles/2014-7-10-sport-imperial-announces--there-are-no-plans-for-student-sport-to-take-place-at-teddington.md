@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Sport Imperial"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I did my undergrad at Imperial and now doing my PhD in Cambridge I cannot think of a place more disconnected from reality and the needs of students than Imperial Its just outrageous everything theyve done so far Threatening to close Evelyn Gardens Garden and Weeks Halls now the sports grounds the Grad Student facilities are close to nonexistent sense of community is rubbish the Life Sciences Restructure of 2011 was a joke the Department of Humanities has been ourageously cut Well done ImperialLocal newspapers in the Teddington area have reported for quite some time that the land is potentially to be used for a new secondary school Turing House despite local opposition Worth googling it Sadly I suspect that the fact that theyre announcing suspension of sport at the grounds might mean its a done deal but who knows perhaps student power may be able to exert some influence 
+ - I did my undergrad at Imperial and now doing my PhD in Cambridge I cannot think of a place more disconnected from reality and the needs of students than Imperial Its just outrageous everything theyve done so far Threatening to close Evelyn Gardens Garden and Weeks Halls now the sports grounds the Grad Student facilities are close to nonexistent sense of community is rubbish the Life Sciences Restructure of 2011 was a joke the Department of Humanities has been ourageously cut Well done ImperialLocal newspapers in the Teddington area have reported for quite some time that the land is potentially to be used for a new secondary school Turing House despite local opposition Worth googling it Sadly I suspect that the fact that theyre announcing suspension of sport at the grounds might mean its a done deal but who knows perhaps student power may be able to exert some influence
 imported: true
 ---
 

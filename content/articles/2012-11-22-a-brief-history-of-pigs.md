@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222330-tna08-environmental-impact-disposal-waste-large-scale-pig-production-copy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ The scientists compared the genomes of ten wild boar and six domestic pigs from 
 
 Their findings, published in Nature, confirm the fact that boars (and all pigs) emerged from South East Asia and subsequently spread across Eurasia.
 
-About one million years ago colder climates during the Calambrian glacial intervals isolated the two populations. A deep chasm formed between European and Asian boars.  
+About one million years ago colder climates during the Calambrian glacial intervals isolated the two populations. A deep chasm formed between European and Asian boars.
  Then – to leap forward 80,000 years – during the Last Glacial Maximum (LGM) about 20,000 years ago vast swathes of boar died. But a small proportion survived. They suffered a population bottleneck on both sides of the split. However, this drop in population was more pronounced in Europe than in Asia where the LGM had less impact. For this reason the researchers found that European boar had less genetic diversity than Asian boar. With fewer genotypes in circulation the difference between Asian and European pigs was driven further.
 
 Enter humans and domestication. About 10,000 years ago pigs and humans embarked on an intimate and complex relationship. Hmm. This lead to even greater selective pressures that shaped the genome of domestic pigs. In Europe the result was Sus scrofa domesticus, the pork-chop-and-bacon variety. Incidentally, there are about one billion domestic pigs alive today, which makes S. s. domesticus one of the most numerous large mammals on the planet.

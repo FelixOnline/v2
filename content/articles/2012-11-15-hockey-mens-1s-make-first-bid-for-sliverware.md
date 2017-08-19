@@ -1,6 +1,6 @@
 ---
 title: >
-  Hockey Men’s 1s make first bid for Sliverware 
+  Hockey Men’s 1s make first bid for Sliverware
 subtitle: >
   Anthony Vaquero on Men's 1sts going for gold. Well, silver...
 date: "2012-11-15 22:24:36 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211152223-tna08-icsm-hockey.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   I was going to write a column on apathy...
 subtitle: >
-  Alok Prasad is tired of our lackadaisical attitude 
+  Alok Prasad is tired of our lackadaisical attitude
 date: "2013-01-10 22:58:02 +0000"
 id: "3100"
 old_path: /comment/3100/i-was-going-to-write-a-column-on-apathy
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301102257-tna08-moneydegree.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

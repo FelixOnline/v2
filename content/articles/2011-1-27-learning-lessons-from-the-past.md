@@ -1,6 +1,6 @@
 ---
 title: >
-  Learning lessons from the past 
+  Learning lessons from the past
 subtitle: >
   I remember going back a year after the war ended
 date: "2011-01-27 19:38:24 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

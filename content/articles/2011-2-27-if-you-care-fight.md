@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271237-ks607-protestl.jpg"
 image_caption: >
-  
+
 image_width: "2324"
 image_height: "2873"
 image_attribution: "Miles Robertson"

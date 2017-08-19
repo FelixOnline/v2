@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701201503-felix-Screen Shot 2017-01-20 at 15.03.21.png"
 image_caption: >
-  
+
 image_width: "1813"
 image_height: "1072"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Have you been feeling down this week? Allegedly there is an explanation for this – some claim it is the most depressing week of the year. More specifically, the Monday that just passed has been christened 'Blue Monday' as a result of post\-holiday reality kicking in and everyone generally feeling a bit shit. The third Monday of January was described as the most depressing day of the year by Cliff Arnell using an equation which supposedly took into consideration a multitude of variables such as weather, debt, monthly salary, time since Christmas, time since failing our new year’s resolutions and low motivational levels.
+Have you been feeling down this week? Allegedly there is an explanation for this – some claim it is the most depressing week of the year. More specifically, the Monday that just passed has been christened 'Blue Monday' as a result of post-holiday reality kicking in and everyone generally feeling a bit shit. The third Monday of January was described as the most depressing day of the year by Cliff Arnell using an equation which supposedly took into consideration a multitude of variables such as weather, debt, monthly salary, time since Christmas, time since failing our new year’s resolutions and low motivational levels.
 
 It cannot be denied that January can be a tough month emotionally, financially and psychologically but many including Ben Goldarce, notorious for unpicking the misuse of science and statistics by journalists, have called the equation and the whole idea of Blue Monday, a farce.
 
@@ -42,4 +42,4 @@ I cannot help but agree. A little research into the matter shows that Arnell’s
 
 Although the idea of Blue Monday may not be a reality, January is a tough month for many of us, especially at Imperial. January exams, coursework deadlines and leaving home confort for student digs gets the best of us down, but that doesn’t mean that we are all suddenly depressed.
 
-Depression is a mental illness that should not be confused with sadness. Feeling sad or stressed in the face of January’s challenges is not unusual or unhealthy, as long as we continue to prioritise self\-care and the good things in life. If you are feeling the January blues treat yourself to a hot bath, a good movie or some time with friends. Revision is important but taking breaks is better for your health and your learning. And if you feel like you’re taking January in your stride, don’t doubt yourself or feel guilty – just because it is January doesn’t mean you have to feel sad.
+Depression is a mental illness that should not be confused with sadness. Feeling sad or stressed in the face of January’s challenges is not unusual or unhealthy, as long as we continue to prioritise self-care and the good things in life. If you are feeling the January blues treat yourself to a hot bath, a good movie or some time with friends. Revision is important but taking breaks is better for your health and your learning. And if you feel like you’re taking January in your stride, don’t doubt yourself or feel guilty – just because it is January doesn’t mean you have to feel sad.

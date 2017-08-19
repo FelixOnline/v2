@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111031826-fa608-pl0pq.jpg"
 image_caption: >
-  
+
 image_width: "1440"
 image_height: "900"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 __Douglas Heaven sees programmable cells, not silicon chips__
 
-There’s a lot of speculation about where the future of computing lies. Quantum computers and qubits promise to open up computational problems that are unfeasable using bits alone; nanotech materials such as graphene look set to change the fundamentals of computer hardware, replacing silicon as the basis for chip design; and electrons might give way to photons as we strive for higher speeds and bandwidth via optical processors. But perhaps strangest of all is the future envisioned by the fledgling field of computational biology, which aims to make computational devices out of living cells.  
+There’s a lot of speculation about where the future of computing lies. Quantum computers and qubits promise to open up computational problems that are unfeasable using bits alone; nanotech materials such as graphene look set to change the fundamentals of computer hardware, replacing silicon as the basis for chip design; and electrons might give way to photons as we strive for higher speeds and bandwidth via optical processors. But perhaps strangest of all is the future envisioned by the fledgling field of computational biology, which aims to make computational devices out of living cells.
  Studying how cells process information could help with understanding life itself. Last year, the genome entrepreneur, [Craig Venter](http://en.wikipedia.org/wiki/Craig_Venter), famously made the first synthetic cell by copying the genetic code of one species of bacteria and inserting it into another – prompting many questions, quite literally, about the meaning of life. However, swapping around an existing DNA sequence – or biological program – only goes so far. What if we were to specify arbitrary functionality for cells – or, in other words, write our own biological programs?
 
 That’s just what ex-Imperial student [Andrew Phillips](http://research.microsoft.com/en-us/people/aphillip/) is working on. Phillips, who now heads the Biological Computation group at Microsoft Research Cambridge, was recently named one of the world’s top innovators under the age of 35 by Technology Review for his research into programming biology. Typically, synthetic biology involves low-level tinkering and the manipulation of DNA strands directly. By developing a programming language that compiles to DNA sequences instead of machine code, Phillips allows cell behaviour to be specified at a high level of abstraction, making it easier to design biological programs from scratch.
@@ -49,7 +49,7 @@ Have you ever had your phone die when you least expected it? Have you ever forgo
 
 Another feature I would love to see in future smartphones is seamless integration with other technology. The devices should follow same international standards across all platforms, not their own proprietary rubbish. This has the benefit of multiple devices cooperating effortlessly with the touch of a few buttons, without worrying about compatibility.
 
-Additionally, smartphones could improve on their form factor. It’s difficult to find a phone that truly suits you, or one that adapts to user’s needs. Wouldn’t it be cool to have a foldable smartphone, which can be expanded for a perfect browsing experience or compacted to facilitate calling, a smartphone/tablet hybrid? Perhaps even a hidden keyboard to make typing even easier, without having to use the on-screen keyboard and having your messages autocorrected to the point where they make no sense?  
+Additionally, smartphones could improve on their form factor. It’s difficult to find a phone that truly suits you, or one that adapts to user’s needs. Wouldn’t it be cool to have a foldable smartphone, which can be expanded for a perfect browsing experience or compacted to facilitate calling, a smartphone/tablet hybrid? Perhaps even a hidden keyboard to make typing even easier, without having to use the on-screen keyboard and having your messages autocorrected to the point where they make no sense?
  Finally, the possibility of waterproof smartphones is something I’m sure we could all appreciate. Having experienced the porosity of smartphones first hand, I know the anguish that follows the constant failed attempts at reviving your precious phone.
 
 __Simon Worthington thinks virtual reality is the next game-changer__

@@ -1,8 +1,8 @@
 ---
 title: >
-  Celebrating science in media 
+  Celebrating science in media
 subtitle: >
-  An evening of awards and discussion on the challenge of communication science 
+  An evening of awards and discussion on the challenge of communication science
 date: "2010-11-26 07:20:23 +0000"
 id: "449"
 old_path: /news/449/celebrating-science-in-media-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011260719-ks607-paneldis.jpg"
 image_caption: >
-  
+
 image_width: "2400"
 image_height: "1600"
 image_attribution: ""

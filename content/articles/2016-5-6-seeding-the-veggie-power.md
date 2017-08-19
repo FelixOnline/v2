@@ -58,9 +58,9 @@ This recipe is all about making it to taste – use lime juice if you want a sou
 
 Of course, you could always add some browned chicken breasts, or some juicy prawns, but that wouldn’t really be in the spirit of the dish!Try it without, and see.
 
-2 tbsp cooking oil\- olive or sunflower
+2 tbsp cooking oil- olive or sunflower
 
-2 large sweet potatoes, peeled and diced into 2cm chunks \(~1kg\)
+2 large sweet potatoes, peeled and diced into 2cm chunks (~1kg)
 
 1 tbsp of turmeric
 
@@ -72,7 +72,7 @@ Of course, you could always add some browned chicken breasts, or some juicy praw
 
 1 tsp cayenne
 
-\(or use pre\-made garam masala for the above 5 ingredients – about 2tbsp\)
+(or use pre-made garam masala for the above 5 ingredients – about 2tbsp)
 
 2 cloves garlic, finely diced
 

@@ -2,7 +2,7 @@
 title: >
   A&E department closures announced
 subtitle: >
-  Hammersmith, Charing Cross, Central Middlesex and Ealing hospital A&E Departments set to close. ‘U-Turn’ shown to be false. No A&E Departments for the boroughs of Hammersmith, Ealing and Brent. Petition with 100,000 signatures ignored. Changes will take 3-5 years to implement. 
+  Hammersmith, Charing Cross, Central Middlesex and Ealing hospital A&E Departments set to close. ‘U-Turn’ shown to be false. No A&E Departments for the boroughs of Hammersmith, Ealing and Brent. Petition with 100,000 signatures ignored. Changes will take 3-5 years to implement.
 date: "2013-02-22 00:09:59 +0000"
 id: "3353"
 old_path: /news/3353/ae-department-closures-announced
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220006-tna08-charing-cross-medium-square.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

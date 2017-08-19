@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150103-tna08-doggy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker 
+ - We have Folders and Maxwell Housewe also have Lipton teahotcocoMy Kids and Husband Drink the coco and Tea and cofefeI will drink Hot coco once in a blue MoonI am mountaindew drinker
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202022305-sjw209-img_0877.jpg"
 image_caption: >
-  
+
 image_width: "2592"
 image_height: "1936"
 image_attribution: "IC Hockey"

@@ -2,7 +2,7 @@
 title: >
   edfdf ddfdf
 subtitle: >
-  efjefkjdn fjkdfg dfdf ddfd 
+  efjefkjdn fjkdfg dfdf ddfd
 date: "2015-02-18 15:49:35 +0000"
 id: "5271"
 old_path: /politics/5271/edfdf-ddfdf
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502181549-ps3110-cash.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

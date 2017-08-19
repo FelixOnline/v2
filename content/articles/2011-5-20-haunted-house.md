@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200537-felix-insidious.jpg"
 image_caption: >
-  
+
 image_width: "1300"
 image_height: "853"
 image_attribution: ""

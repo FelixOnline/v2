@@ -40,10 +40,10 @@ Instead of water, Titan’s lakes are filled with methane, a molecule made of on
 
 Observations made by the Cassini spacecraft currently in orbit around Saturn show that lakes are not scattered across the surface of Titan uniformly, but instead tend to cluster around the polar regions. Clouds also appear to cluster near the poles at middle and high latitudes in the summer hemisphere, which until recently was the southern hemisphere.
 
-Dr Mueller-Wodarg, a planetary scientist in the Physics department at Imperial explained, “Recent Cassini observations have made a direct link between changes in clouds and changes on the ground in terms of the sizes of lakes, hinting at actual weather events occurring right now.”  
+Dr Mueller-Wodarg, a planetary scientist in the Physics department at Imperial explained, “Recent Cassini observations have made a direct link between changes in clouds and changes on the ground in terms of the sizes of lakes, hinting at actual weather events occurring right now.”
  Previous models have tried and failed to explain all of these observations, but now a group of Caltech researchers think they can do just that using a new model that is a cut above other attempts. For starters, it is 3D rather than 2D, and includes more detail about the transport of methane from the surface to the atmosphere, and vice versa. It also takes into account surface reservoirs of methane and how they change over a year.
 
-The Caltech team, led by Professor Tapio Schneider, produced simulations that reproduced the distribution of clouds that has been observed by Cassini and the right distribution of lakes.  
+The Caltech team, led by Professor Tapio Schneider, produced simulations that reproduced the distribution of clouds that has been observed by Cassini and the right distribution of lakes.
  Mueller-Wodarg said that through the Caltech team’s work “we have gained a first understanding of what controls these features.”
 
 Schneider and his colleagues think that because there is less sunlight at the poles of the moon, on average, it is easier for lakes of methane to accumulate there. In places where there is a lot of sunlight, its energy would cause the methane to evaporate and prevent the formation of such lakes.

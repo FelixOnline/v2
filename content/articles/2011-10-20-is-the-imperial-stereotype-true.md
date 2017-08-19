@@ -2,7 +2,7 @@
 title: >
   Is the Imperial stereotype true?
 subtitle: >
-  Free advice for Freshers freaking out, from Faye Hemsley 
+  Free advice for Freshers freaking out, from Faye Hemsley
 date: "2011-10-20 23:25:56 +0100"
 id: "1581"
 old_path: /comment/1581/is-the-imperial-stereotype-true
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110210025-sjw209-faye-cutout.jpg"
 image_caption: >
-  
+
 image_width: "300"
 image_height: "263"
 image_attribution: ""
@@ -47,5 +47,5 @@ Sure I probably shouldn’t write anything disparaging about Imperial; you’ve 
 2. He’s Einstein bright. That Keeno from the front row of your lectures won’t get grades any higher than yours. Promise. It’s just how he rolls.
 3. He’s definitely male. You’re not really reading this article then, because I can’t be from Imperial if I’m a girl, and I can’t be a girl if I’m from Imperial. Obviously.
 
-Imperial-schmerial. The stereotype is largely myth, but that won’t stop us all from propagating it. The truth though, is that Imperial is up there with the best. It’s going to work as hard for you over your lifetime as you do for it in those four short undergraduate years. It’s worth working hard at having fun here.  
+Imperial-schmerial. The stereotype is largely myth, but that won’t stop us all from propagating it. The truth though, is that Imperial is up there with the best. It’s going to work as hard for you over your lifetime as you do for it in those four short undergraduate years. It’s worth working hard at having fun here.
  Congratulations on arriving/returning for 2011/2012. Make it count!

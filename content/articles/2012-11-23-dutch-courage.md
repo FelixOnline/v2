@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,12 +35,12 @@ comments:
 imported: true
 ---
 
-[The Holland Club has closed](http://felixonline.co.uk/news/2931/holland-club-closed/). The space will be redeveloped by College and Commercial Services into something new. Apparently, everyone was crying out for more food outlets. Dinner and such.  
+[The Holland Club has closed](http://felixonline.co.uk/news/2931/holland-club-closed/). The space will be redeveloped by College and Commercial Services into something new. Apparently, everyone was crying out for more food outlets. Dinner and such.
  So what will become of the space, now called Level 0? Well, Eastside 2.0 is what I hope it doesn’t become. We already have one of those, why add another in a slightly different location. I also really hope someone “trendy” doesn’t think Level 0 is a postmodern, clever name to call it.
 
 So, here’s a solution that I think sounds sensible. If there was a massive need for more catering places then why not do two things: 1. Make what you have better and more efficiently run. 2. Work with the Holland Club to keep it there as it is and just add pub food at lunch and dinner. Seems like a really simple solution really. I mean, you have a pub, you want food. It isn’t a stretch to say that you could convert that pub into one that serves pub food.
 
-Apparently there wasn’t the facility for that. The obvious solution is to tear down the place and completely rebuild it. I’m joking, that’s not the obvious solution.  
+Apparently there wasn’t the facility for that. The obvious solution is to tear down the place and completely rebuild it. I’m joking, that’s not the obvious solution.
  To me at least, the solution is to create the facilities you need to make pub food (oven and stuff in other, less grand sounding, terms than “facilities”).
 
 All that would have needed to be done would have been to say to the Holland Club that they have to provide food, and then help them provide food. College could have just worked together with the Holland Club to make a kitchen. If the Holland Club didn’t have the money, then College could have paid for it and then recouped the expenses by taking a cut of the profits made by the Holland Club.

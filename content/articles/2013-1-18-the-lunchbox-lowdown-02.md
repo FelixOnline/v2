@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180115-tna08-bento-done.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ I‘m picking up where my fellow Editor Sophia left off last week. If you’re s
 
 To the right is a bento I prepared some time ago, which I’ll deconstruct into its components below. This is what we’d call an Asian bento, mainly because the main carb component/staple here is rice. Of course, I’ve since been able to fit other grains in that slim Japanese bento box (namely couscous and quinoa) with other sides – the possibilities are endless.
 ## __Containers__
-TODO: image from 
+TODO: image from
 First, a disclaimer: proper Japanese bento boxes like the one on the right are NOT mandatory., even though I find they offer the advantage of being easier to pack (the box I have is approx 15cm x 6.5cm x 8cm in size with both tiers stacked). That said if you already have a decent inexpensive leak-proof container, you’re good to go.
 
 Size does matter a bit (hah!) don’t be fooled by the small vessel, as packing the components in compactly means there’s less room for them to move and get messy during transit – so go smaller than usual. I find a 500-700ml capacity works best for most adults, but if you’ve got a hearty appetite (or your bento needs to be packed a little looser) then 900ml onwards works – please DON’T crush any poor salad leaves!
@@ -53,7 +53,7 @@ One thing I find about thermal containers: they’re perfect for soups (see our 
 
 _Editor’s Picks: Lock & Lock 550ml container, £6.64 from Amazon; Glit & Brillia Bento Lunchbox with Belts, £4.75 from japancentre.com_
 ## Carbs
-Sure, the carb of choice for Asian bentos happens to be rice; but like mentioned before it doesn’t \*have\* to be. I’ve had bentos with couscous, braised potatoes and quinoa and they came out just as yummy. That said, if you’re using rice, you don’t have to wake up at the crack of dawn to prepare it. I alternate between setting the timer on my rice cooker the night before so I have fresh rice in the morning, or defrosting pre-cooked frozen rice in the microwave.
+Sure, the carb of choice for Asian bentos happens to be rice; but like mentioned before it doesn’t *have* to be. I’ve had bentos with couscous, braised potatoes and quinoa and they came out just as yummy. That said, if you’re using rice, you don’t have to wake up at the crack of dawn to prepare it. I alternate between setting the timer on my rice cooker the night before so I have fresh rice in the morning, or defrosting pre-cooked frozen rice in the microwave.
 
 The Japanese (and myself) are partial to short grain rice that sticks a bit when cooked, but I’m not fussy – a decent basmati or jasmine rice works just as well. Whatever you do, don’t use the easy cook stuff; it isn’t as palatable whether hot or at room temp, and the extra time taken to prepare non-easy-cook rice pays off plenty in taste.
 
@@ -147,16 +147,16 @@ If you’re using a thermal lunch container, make sure you preheat it following 
 
 Otherwise, if you’re using a non-thermal box sans dividers, start by packing your rice to one side. Compress it a bit with a moistenedspoon, then arrange your other components to fit the rest of the space, making sure there’s minimal room for movement. You’ll get better with time - sometimes I find myself stuffing a few boiled broccoli florets to fill in the gaps.
 
-Now the important bit for non-thermal containers - make sure \*everything\* has sufficiently cooled down to room temp or just about. Condensation in lunchboxes is your enemy; the moisture that resultsdue to that is just an open invitation for bugs to breed on the inside. Don’t seal your container completely until you can be sure you’ve sufficiently minimized this!
+Now the important bit for non-thermal containers - make sure *everything* has sufficiently cooled down to room temp or just about. Condensation in lunchboxes is your enemy; the moisture that resultsdue to that is just an open invitation for bugs to breed on the inside. Don’t seal your container completely until you can be sure you’ve sufficiently minimized this!
 ## Frills and fancies
-You don’t \*have\* to make your lunch look uber-pretty – at the end of the day, your lunch’s going down the hatch so there’s no need to fuss around with various animal-shapped cutters or the like. However, if it’s not going to take more than a minute and you’re a closet crafter like moi, then by all means, arrange your food in whatever quirky way you want (like the smiley/frowney faces you see here. Just try not to handle the food too much with your fingers – use clean utensils (cocktail sticks are your friend for decorations like these.)
+You don’t *have* to make your lunch look uber-pretty – at the end of the day, your lunch’s going down the hatch so there’s no need to fuss around with various animal-shapped cutters or the like. However, if it’s not going to take more than a minute and you’re a closet crafter like moi, then by all means, arrange your food in whatever quirky way you want (like the smiley/frowney faces you see here. Just try not to handle the food too much with your fingers – use clean utensils (cocktail sticks are your friend for decorations like these.)
 
 And that’s it – a really rudimentary insight on how to pack Asian style lunches/bentos. Hopefully those with “culinary yellow fever” will now have an excuse to prepare Asian home cooking to take with you into uni. Enjoy, and we hope you get on alright with your healthy eating plans!
 
-_Editor’s Picks for bento resources, equipment and ingredients:  
- - The Just Bento Cookbook: Everyday Lunches To Go - Makiko Itoh  
- - Japan Centre, 14-16 Regent Street, SW1Y 4PH, japancentre.com  
- - Atari-Ya Foods (as per the famous sushi place), 7 Station Parade, Noel Road, West Acton, W3 0DS  
+_Editor’s Picks for bento resources, equipment and ingredients:
+ - The Just Bento Cookbook: Everyday Lunches To Go - Makiko Itoh
+ - Japan Centre, 14-16 Regent Street, SW1Y 4PH, japancentre.com
+ - Atari-Ya Foods (as per the famous sushi place), 7 Station Parade, Noel Road, West Acton, W3 0DS
  - TK Trading, Unit 6-7, The Chase Centre, Chase Road, NW10 6QD_
 ## Sample bento preparation timeline
 It helps to practise - the first few times you make bento lunches, don’t be surprised if you’re a bit slow.You’ll soon pick up ways to shave minutes off the prep process. Here’s an example of what my morning would be like if I was prepping the bento shown and chopping meat/veg from scratch:

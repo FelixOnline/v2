@@ -1,6 +1,6 @@
 ---
 title: >
-  Medic RAG week raises over £20,000 
+  Medic RAG week raises over £20,000
 subtitle: >
   Money will go to St Mary’s Hospital Paediatric Department
 date: "2011-02-27 12:07:10 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271343-ks607-ragweekm.jpg"
 image_caption: >
-  
+
 image_width: "3872"
 image_height: "2592"
 image_attribution: ""

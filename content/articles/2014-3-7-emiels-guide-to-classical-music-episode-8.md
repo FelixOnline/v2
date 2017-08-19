@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,5 +40,5 @@ Willaerts had a particularly strong influence on the future of music, and althou
 
 One of Willaert’s pupils became the most influential theorist of the day. The Italian, Gioseffo Zarlino, wrote widely on many aspects of music and sought to characterise the Ars Perfecta exemplified in the music of his master and his predecessors. In doing so he formally recognised some of the recent innovations and made them known to composers throughout Europe. The most significant of these may be the ‘triad’ – a harmonic structure which is still dominant today. Whereas previously harmonies were characterised by the intervals present between voices, Zarlino recognised in the music of Willaert et al. a grouping of notes which acted as a functional unit. Composers often used a particularly pleasant stacking of notes which included the usual perfect consonants (the 5th octave), but also the interval of a 3rd. We now know that this stacking corresponds to the harmonic series of frequencies heard when a pitch is played but Zarlino attempted to justify it using some bizarre mathematics and called it the triad. Nowadays when we refer to a chord, such as C Major, we are referring to the triad built on C, which also includes the notes E and G.
 
-Zarlino succeeded Willaert as the maestro di cappelle at St. Marks Cathedral in Venice. Here, Willaert had created a leading centre of music and invited colleagues from all over Europe to come work.   
+Zarlino succeeded Willaert as the maestro di cappelle at St. Marks Cathedral in Venice. Here, Willaert had created a leading centre of music and invited colleagues from all over Europe to come work.
 Venice became the centre of the musical world as wealthy merchants imported musical talent from the North and eventually the Netherlandish innovation would give way to Italian dominance.

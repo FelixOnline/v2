@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110071409-felix-delhi.jpg"
 image_caption: >
-  Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to 
+  Humayun’s tomb in the heart of New Delhi: a fine example of Mughal brilliance and a perfect spot to
 image_width: "720"
 image_height: "557"
 image_attribution: ""

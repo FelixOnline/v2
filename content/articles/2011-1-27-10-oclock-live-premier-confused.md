@@ -1,6 +1,6 @@
 ---
 title: >
-  10 O’Clock Live premier: Confused 
+  10 O’Clock Live premier: Confused
 subtitle: >
   New political satire show gets off to a disappointing start
 date: "2011-01-27 20:11:30 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272009-ks607-10clockl.jpg"
 image_caption: >
-  
+
 image_width: "625"
 image_height: "352"
 image_attribution: ""

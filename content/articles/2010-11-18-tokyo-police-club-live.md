@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182034-ks607-tpctpctp.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1365"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Good review 
+ - Good review
 imported: true
 ---
 

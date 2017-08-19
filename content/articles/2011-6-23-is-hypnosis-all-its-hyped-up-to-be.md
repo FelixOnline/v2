@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232049-felix-hypnosis.jpg"
 image_caption: >
-  
+
 image_width: "403"
 image_height: "344"
 image_attribution: ""

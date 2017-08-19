@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Great article I had a similar situation last year with my Grandma 
+ - Great article I had a similar situation last year with my Grandma
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210011-tna08-rites-cover.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - How could you guys forget this masterpiece httpwwwdailymotioncomvideoxyy9zg_eyetoeyesong_music                      Manhour basis                                                  Manhours                                                                   Invoice     owner                                                                      
+ - How could you guys forget this masterpiece httpwwwdailymotioncomvideoxyy9zg_eyetoeyesong_music                      Manhour basis                                                  Manhours                                                                   Invoice     owner
 imported: true
 ---
 

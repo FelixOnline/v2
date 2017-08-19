@@ -1,6 +1,6 @@
 ---
 title: >
-  Make your own iPhone app 
+  Make your own iPhone app
 subtitle: >
   A step-by-step guide to creating a successful iPhone app
 date: "2011-01-27 19:24:52 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271919-ks607-robertna.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "450"
 image_attribution: ""

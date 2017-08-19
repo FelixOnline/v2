@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011282018-sjw209-Polynomi.jpg"
 image_caption: >
-  
+
 image_width: "1254"
 image_height: "750"
 image_attribution: ""

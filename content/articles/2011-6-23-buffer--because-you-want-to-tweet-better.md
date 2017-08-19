@@ -2,7 +2,7 @@
 title: >
   Buffer – Because you want to tweet better
 subtitle: >
-  Afonso Campos talks to to Joel Gascoigne about Buffer and startups in general 
+  Afonso Campos talks to to Joel Gascoigne about Buffer and startups in general
 date: "2011-06-23 20:28:16 +0100"
 id: "1423"
 old_path: /biz/1423/buffer--because-you-want-to-tweet-better
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232128-felix-imag0046.jpeg"
 image_caption: >
-  
+
 image_width: "2592"
 image_height: "1728"
 image_attribution: ""
@@ -62,6 +62,6 @@ Interestingly, during my interview with Joel, Buffer raked in almost another thi
 
 If you take nothing else from Joel’s story, remember three key things: the importance of simplicity of your product, the importance of a right co-founder and the veritable will to make it happen no matter what. Expect great things from this duo.
 
-Check out Buffer at <http://www.bufferapp.com>  
- Find Joel’s blog on: <http://joel.is>  
+Check out Buffer at <http://www.bufferapp.com>
+ Find Joel’s blog on: <http://joel.is>
  You can also follow Joel on Twitter: [@joelgascoigne](http://twitter.com/joelgascoigne)

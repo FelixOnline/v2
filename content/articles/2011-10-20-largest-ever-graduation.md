@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Sad to hear Jane Saffell was made redundant from Life Sciences despite winning a Rectors medal  A sad loss to the Department 
+ - Sad to hear Jane Saffell was made redundant from Life Sciences despite winning a Rectors medal  A sad loss to the Department
 imported: true
 ---
 

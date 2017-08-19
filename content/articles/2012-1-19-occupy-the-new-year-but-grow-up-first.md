@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201192321-felix-occupy.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1063"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-_Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!  
+_Revolution! With its impassioned rhetoric and gritty anger the Occupy movement is intent on overhauling democracy as we know it. Bitter, disaffected people around the world are answering Occupy’s call, and governments are beginning to pay attention to the voice of the disillusioned masses!
  Reading preachy propagandistic non-journalism like the above paragraph makes me crush my glass of whisky in disgust and want to go on hunger strike until critical thinking lessons are given to all children of all ages until they’re so sceptical they end up believing nothing at all._
 
 Yet this is what we have to deal with: a right-wing press that unilaterally dismisses anything remotely Occupy-related with allegations of drug abuse, defecation on Church property, and general rowdiness. In addition, we have a much smaller left-wing press that prints youthful, idealistic tripe and worships at the feet of Occupy as if it the best thing to have happened to socialism since the welfare state was first conceived.
@@ -46,7 +46,7 @@ I will not waste many valuable words explaining what is wrong with the conservat
 
 The left-wing press is usually slightly more subtle and discerning in its opinions, but with Occupy it comes across as a schoolboy with a crush: the Occupy movement can do no wrong. Photos of Guy Fawkes masks accompany the anticipation of an approaching revolution. The Government must listen to the voice of its people! We are the 99%!
 > Occupy is absolutely right in its motives, but completely wrong in its methods
-Leaving aside the dubious statistical nature of “the 99%”, what I really want to address is the idea of revolution. To young idealists like myself and the members of Occupy, revolution can seem exciting and liberating: who hasn’t imagined themselves as a British Che Guevara, motorcycling down the streets of a burnt-out London, cigarette in mouth, awaiting the symbolic, V-for-Vendetta-style explosion of Big Ben?  
+Leaving aside the dubious statistical nature of “the 99%”, what I really want to address is the idea of revolution. To young idealists like myself and the members of Occupy, revolution can seem exciting and liberating: who hasn’t imagined themselves as a British Che Guevara, motorcycling down the streets of a burnt-out London, cigarette in mouth, awaiting the symbolic, V-for-Vendetta-style explosion of Big Ben?
  But has it really come to this? Do we really need a masked vaudevillian veteran or an angry Venezuelan medical student to save us from our authoritarian overlords? Of course not. The fact that I can write here that ‘David Cameron feasts daily on the bloodied corpses of children’ without getting arrested is proof of that (though if I mysteriously stop writing articles after this, you’ll know that Britain has in fact slipped into a North Korean nightmare).
 
 Occupy is about bringing back democracy and returning complete control of the government to the people who elect them. And whatever revolution is, it is not democratic – it is, in fact, fairly totalitarian, since it involves forcing a single ideology on an entire population. This is fine in Egypt or Libya where the situation is beyond horrific, but not here.

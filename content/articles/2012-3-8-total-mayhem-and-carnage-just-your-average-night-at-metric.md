@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 __[Project X](http://www.imdb.com/title/tt1636826/)__
 
-__Director __Nima Nourizadeh  
-__Screenwriters __Matt Drake, Michael Bacall  
+__Director __Nima Nourizadeh
+__Screenwriters __Matt Drake, Michael Bacall
 __Cast __Thomas Mann, Oliver Cooper, Jonathan Daniel Brown
 
 A distinctly unfunny teen-exploitation comedy about an epic all-night party that quickly collapses into anarchy, _Project X _also is a clever kind of clean page; viewers can project whatever feelings they have about the degenerative behaviour on display, since the film itself offers very few opinions. In that way, producers manage to provide a cultural, generational and even political theme to debate, one that will captivate a portion of the teenage demographic it shows, just as it alternately angers, infuriates and disgusts other, probably older, audiences.

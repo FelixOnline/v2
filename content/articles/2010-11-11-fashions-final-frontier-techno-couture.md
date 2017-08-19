@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112031-nm1010-anastasi.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "1355"
 image_attribution: ""

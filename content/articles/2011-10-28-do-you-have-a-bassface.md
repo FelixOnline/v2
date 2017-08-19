@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Ahem There used to be two people in that enrite building who knew who New Order was every time I had to come over for a meeting that isBut maybe I should be nice Before 1993 no St Louis radio station would play anything by NO but  True Faith  except maybe on Sunday nights when Les Aaron had a two or threehour alternative music show on the less popular of the two Top 40 stationsI think its funny every time I hear someone with a ringtone that sounds like an old Western Electric rotary someone walks up to them and asks where they got that ringtone Imagine that a phone that sounds like a phone Andrew Weiss lines are thick like flying eatlhpnes great choice There are a lot of amazing 4 strings players out there i would add Joe Lally hes always right  aging facial   hewlettpackard   communities large   both girls   many 
+ - Ahem There used to be two people in that enrite building who knew who New Order was every time I had to come over for a meeting that isBut maybe I should be nice Before 1993 no St Louis radio station would play anything by NO but  True Faith  except maybe on Sunday nights when Les Aaron had a two or threehour alternative music show on the less popular of the two Top 40 stationsI think its funny every time I hear someone with a ringtone that sounds like an old Western Electric rotary someone walks up to them and asks where they got that ringtone Imagine that a phone that sounds like a phone Andrew Weiss lines are thick like flying eatlhpnes great choice There are a lot of amazing 4 strings players out there i would add Joe Lally hes always right  aging facial   hewlettpackard   communities large   both girls   many
 imported: true
 ---
 
@@ -51,5 +51,5 @@ Thinking about it, it didn’t really make any sense, so the Imperial reflex kic
 
 There I found a “scientist” who wrote about how, in nature, the only sounds with a major bass component are things like the roar of a lion, a volcano erupting or a tree falling i.e. scary shit.
 
-His hypothesis was, therefore, that basslines “remind” humans of things our caveman friends got scared by. It is genuinely ridiculous (and is probably a crock of shit) but it just might be crazy enough to be true.  
+His hypothesis was, therefore, that basslines “remind” humans of things our caveman friends got scared by. It is genuinely ridiculous (and is probably a crock of shit) but it just might be crazy enough to be true.
  Just think about that next time you’re out...

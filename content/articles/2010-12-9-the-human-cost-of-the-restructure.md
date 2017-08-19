@@ -2,7 +2,7 @@
 title: >
   The human cost of the restructure
 subtitle: >
-  “The department risks deterring students from applying to Imperial” 
+  “The department risks deterring students from applying to Imperial”
 date: "2010-12-09 21:53:50 +0000"
 id: "543"
 old_path: /news/543/the-human-cost-of-the-restructure
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Kudos to you I hadnt tohhugt of thatrZl3zl  afwtmfirsgko acomplia  prednisone pills PP 
+ - Kudos to you I hadnt tohhugt of thatrZl3zl  afwtmfirsgko acomplia  prednisone pills PP
 imported: true
 ---
 

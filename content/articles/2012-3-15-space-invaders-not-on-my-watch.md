@@ -50,6 +50,6 @@ Back to business then. If they’re here for global domination, then I expect th
 
 Just as a reminder, I’m going away for a few weeks. This is in no way related to the missing zoo animals, or my recent attempt at creating Cave’s Ark. This is just a holiday. A simple underwater holiday. With slugs.
 
-I’ll leave you in Caroline’s safe hands whilst I’m gone.  
- Get probed.  
+I’ll leave you in Caroline’s safe hands whilst I’m gone.
+ Get probed.
  For science.

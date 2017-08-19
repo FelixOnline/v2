@@ -2,7 +2,7 @@
 title: >
   Some like it Haute
 subtitle: >
-  French gourmet named UN heritage 
+  French gourmet named UN heritage
 date: "2010-12-02 21:00:06 +0000"
 id: "483"
 old_path: /food/483/some-like-it-haute
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

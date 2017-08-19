@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Truly amazing book Enjoyed it very much when I read it a few years agoI would also definitely recommend the Uncle Petros and Goldbachs Conjecture by one of the authors namely Apostolos Doxiadis 
+ - Truly amazing book Enjoyed it very much when I read it a few years agoI would also definitely recommend the Uncle Petros and Goldbachs Conjecture by one of the authors namely Apostolos Doxiadis
 imported: true
 ---
 

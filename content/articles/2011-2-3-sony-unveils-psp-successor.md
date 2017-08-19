@@ -2,7 +2,7 @@
 title: >
   Sony unveils PSP successor
 subtitle: >
-  “Design-wise, the system is a refinement, rather than a complete transformation” 
+  “Design-wise, the system is a refinement, rather than a complete transformation”
 date: "2011-02-03 20:20:11 +0000"
 id: "742"
 old_path: /tech/742/sony-unveils-psp-successor
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032017-nm1010-pspspspp.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "235"
 image_attribution: ""

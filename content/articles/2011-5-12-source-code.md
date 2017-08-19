@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105121739-felix-source-code.jpg"
 image_caption: >
-  
+
 image_width: "3184"
 image_height: "2120"
 image_attribution: ""

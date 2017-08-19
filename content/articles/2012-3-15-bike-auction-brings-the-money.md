@@ -1,6 +1,6 @@
 ---
 title: >
-  Bike auction brings the money 
+  Bike auction brings the money
 subtitle: >
   More money raised for RAG
 date: "2012-03-15 21:20:21 +0000"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Imperial College Herion Users Society ICHUS was proud to donate the bikes to the college these are GORG  so amazing  i toatlly understand feeling uninspired when life gets crazy  it feels so good when things fall into place and it comes back to you on your own terms  these feel real and special and not forced  congrats Wow Kristy these are gorgeous  I relaly love the look of film  It just seems more natural and more real  Youve done an amazing job  Plus your kids are adorable  ownership regardless   effective medications   insurance card scanning   car insurance quote   such issues 
+ - Imperial College Herion Users Society ICHUS was proud to donate the bikes to the college these are GORG  so amazing  i toatlly understand feeling uninspired when life gets crazy  it feels so good when things fall into place and it comes back to you on your own terms  these feel real and special and not forced  congrats Wow Kristy these are gorgeous  I relaly love the look of film  It just seems more natural and more real  Youve done an amazing job  Plus your kids are adorable  ownership regardless   effective medications   insurance card scanning   car insurance quote   such issues
 imported: true
 ---
 

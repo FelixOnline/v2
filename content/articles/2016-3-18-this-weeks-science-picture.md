@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603181150-felix-12695039_10208714886290677_1568100392785676293_o.jpg"
 image_caption: >
-  View from a stereoscope of a baby gecko hatching. 
+  View from a stereoscope of a baby gecko hatching.
 image_width: "2048"
 image_height: "1536"
 image_attribution: "Matt Jarvis"

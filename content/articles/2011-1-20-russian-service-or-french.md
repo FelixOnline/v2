@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202005-ks607-waitwait.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1200"
 image_attribution: ""
@@ -63,10 +63,10 @@ _§_
 
 _Taramousalata, with Potato pancakes_
 
-_South African Chenin blanc  
-  
- §  
-  
+_South African Chenin blanc
+
+ §
+
  Bacon, Tomato and Onion Pie ~ Smoked Haddock and Paprika Kedgeree_
 
 _Cherry Tomatoes ~ Sweetcorn ~ Sweet Peppers_
@@ -75,8 +75,8 @@ _§_
 
 _Orange and Chocolate Cake ~ Raspberry Cake_
 
-_Apple and Raspberry Ice Cream  
-  
- §  
-  
+_Apple and Raspberry Ice Cream
+
+ §
+
  Whisky ~ Disaronno ~ Port_

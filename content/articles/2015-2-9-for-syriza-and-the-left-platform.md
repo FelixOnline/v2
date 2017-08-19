@@ -1,6 +1,6 @@
 ---
 title: >
-  For Syriza and the Left Platform 
+  For Syriza and the Left Platform
 subtitle: >
   Christy Kelly discusses divides within the party taking Greece by storm
 date: "2015-02-09 19:49:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502091949-ps3110-screen-shot-2015-02-09-at-19.49.24.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

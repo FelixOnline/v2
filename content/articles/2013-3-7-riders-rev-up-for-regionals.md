@@ -1,6 +1,6 @@
 ---
 title: >
-  Riders rev up for Regionals 
+  Riders rev up for Regionals
 subtitle: >
   This team isn't having a mare
 date: "2013-03-07 21:59:34 +0000"

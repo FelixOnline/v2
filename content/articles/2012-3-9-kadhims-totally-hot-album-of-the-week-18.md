@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203091300-ks607-tru250_1440_300ppi.jpg"
 image_caption: >
-  
+
 image_width: "1440"
 image_height: "1440"
 image_attribution: ""

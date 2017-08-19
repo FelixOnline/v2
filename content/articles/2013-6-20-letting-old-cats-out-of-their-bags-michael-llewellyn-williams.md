@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306201726-cac111-ml-w-portrait.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -61,15 +61,15 @@ MLW: Well I can say I’m very envious.
 __TA: Yeah, we have a luxury. We do it on a screen and the next day it’s delivered.__
 
 MLW: That’s fantastic. It was all glue and scissors for us.
-TODO: image from 
+TODO: image from
 __TA: Any standout moments and achievements from your year that you’re really proud of?__
 
-MLW: I guess several things. When I first came into the office there was this cupboard with lots of old issues of Felix lying around. I thought who the heck is taking care of all these? And there was no rhyme or reason as to why they were there. So I decided to create a library of all the past issues and it was then I decided we needed to get these things preserved. I even had to go to the College Archivist. And finally put together a complete thing, and I had it bound in the black buckram with the gold lettering. So that actually started in my year. It also started a tradition where people working on the newspaper collected their own issues for that year and had them bound in black buckram as well. I’ve still got my own copy and three or four copies for the years after that as I was still there until 1978.  
+MLW: I guess several things. When I first came into the office there was this cupboard with lots of old issues of Felix lying around. I thought who the heck is taking care of all these? And there was no rhyme or reason as to why they were there. So I decided to create a library of all the past issues and it was then I decided we needed to get these things preserved. I even had to go to the College Archivist. And finally put together a complete thing, and I had it bound in the black buckram with the gold lettering. So that actually started in my year. It also started a tradition where people working on the newspaper collected their own issues for that year and had them bound in black buckram as well. I’ve still got my own copy and three or four copies for the years after that as I was still there until 1978.
  Also during my year it was the 25th anniversary of the newspaper. So we had a big 25th anniversary dinner. I remember Hargreaves who was the second Editor came over from Holland. He spoke at the dinner but he didn’t really know what he was doing - I think he’d had too much sherry. He was floundering a bit. I had to help him out and that was kind of fun.
 
 It was also during that time that one of the past Editors wrote back that he couldn’t attend the anniversary dinner – I think he was in South Africa. In his letter he talked about keeping Felix free, as it used to have a cover price of six (old) pence. They had fought for it to be free to students so it got subsidised by the Union. Anyway, this past Editor signed off his letter with “Keep the cat free”. It was something that stuck with us. At that point it was about the cover price. And that’s where the motto came from.
 
-The other things were instead of just reporting the news, we tried to create some news. I don’t know if the Felix Motor Rally is something you still have but we started that. That was enormous fun.  
+The other things were instead of just reporting the news, we tried to create some news. I don’t know if the Felix Motor Rally is something you still have but we started that. That was enormous fun.
  We also had a Felix photo competition, which was fun too. The other thing we decided to do was to create a club. So we created the Felix Club. And somehow mixed in with that was creation of the Felix coat of arms.
 
 __TA: One that is now relevant. Don’t know how it was then. With the internet now, Twitter etc. Every year there is something that explodes a lot. How about complaints, did you get many?__

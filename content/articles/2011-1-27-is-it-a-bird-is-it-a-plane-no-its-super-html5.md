@@ -1,6 +1,6 @@
 ---
 title: >
-  Is it a bird? Is it a plane? No it’s super-HTML5! 
+  Is it a bird? Is it a plane? No it’s super-HTML5!
 subtitle: >
   It’s the standard’s standard, a pennant for progress. And it certainly doesn’t use tables for layout
 date: "2011-01-27 19:17:14 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201959-ks607-html5555.jpg"
 image_caption: >
-  
+
 image_width: "1807"
 image_height: "2550"
 image_attribution: ""

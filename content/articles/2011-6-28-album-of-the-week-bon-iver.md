@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106281213-felix-bon_iver.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "400"
 image_attribution: ""
@@ -39,19 +39,19 @@ This is certainly the best album released so far this year, and it will probably
 
 __Autumn__
 
-Autumn breeze frigidly touches ailing dreadful lives  
- Harshly darkness quietly surrounds the broken souls  
- Mellow serenades that once played between hearts  
+Autumn breeze frigidly touches ailing dreadful lives
+ Harshly darkness quietly surrounds the broken souls
+ Mellow serenades that once played between hearts
  Pathetically have transformed into bitter sad songs.
 
-Somewhere beyond the flossy clouds  
- Cupid has lost his romancing arrows  
- Plays sad sonorous tunes on his bow  
+Somewhere beyond the flossy clouds
+ Cupid has lost his romancing arrows
+ Plays sad sonorous tunes on his bow
  Dedicated to all weepy lonely hearts.
 
-Howling chilly wind blows through the mist  
- Sounds of sorrow spread all over the place  
- Fuzzy humid air submerges the inner lust  
+Howling chilly wind blows through the mist
+ Sounds of sorrow spread all over the place
+ Fuzzy humid air submerges the inner lust
  Lives decay slowly as the autumn leaves fall.
 
 Bon Iver – [[spotify link]](http://open.spotify.com/album/7pTARJYCVO49nFXB1Mo5re)

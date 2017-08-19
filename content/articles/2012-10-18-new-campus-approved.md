@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182244-felix-01139_afr_view2_dusk_2011-12-12_a_fullsize.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The objections raised by local residents focus on the extent of commercial content in the development  What was presented to the public as a second campus is nothing like a university complexI chair the St Helens Residents Association mentioned above  For 18 months we queried with the College why it has chosen to develop this site as an offbalance sheet joint venture with Voreda Capital  Why a 35 storey residential tower the top two thirds of which will be sold to private buyers  Why a four star hotel of 13 storeys  How much profit does the College want at a heavy cost to us neighboursWe are not the only ones who have commented that the height scale and density of the development are far more appropriate to central London than to a lowrise residential corner of Shepherds BushWe are more than happy to welcome Imperial postgrads to the Wood Lane Studios and anyone now living there is welcome to join our association by emailing to sthelensassnaolcom  
+ - The objections raised by local residents focus on the extent of commercial content in the development  What was presented to the public as a second campus is nothing like a university complexI chair the St Helens Residents Association mentioned above  For 18 months we queried with the College why it has chosen to develop this site as an offbalance sheet joint venture with Voreda Capital  Why a 35 storey residential tower the top two thirds of which will be sold to private buyers  Why a four star hotel of 13 storeys  How much profit does the College want at a heavy cost to us neighboursWe are not the only ones who have commented that the height scale and density of the development are far more appropriate to central London than to a lowrise residential corner of Shepherds BushWe are more than happy to welcome Imperial postgrads to the Wood Lane Studios and anyone now living there is welcome to join our association by emailing to sthelensassnaolcom
 imported: true
 ---
 
@@ -39,7 +39,7 @@ Further development of the new Imperial West campus in White City is set to move
 
 The site, at 80 Woods Lane, was purchased by the College in 2009 for £28m after former occupants BBC Worldwide moved to the nearby Media Village. Located 500m away from the Imperial Healthcare run Hammersmith Hospital the development will aim to create facilities that will house both world class research as well as clinical teaching facilities for medical students. Planning permission for postgraduate accommodation blocks on the site had already been given in 2010. This is the first phase of development on the site, and has been completed. The Wood Lane Studios postgraduate accommodation currently houses the first cohort of students.
 
-This development nearly triples the number of postgraduate bed spaces that the College provides. Some one third of the site has also been designated as being set aside for “commercial activity” — this includes private housing, a hotel and a “business incubator” for start-up companies.  
+This development nearly triples the number of postgraduate bed spaces that the College provides. Some one third of the site has also been designated as being set aside for “commercial activity” — this includes private housing, a hotel and a “business incubator” for start-up companies.
  The planning permission allows Imperial to develop multiple buildings. There will be over five new buildings, three of which will be over ten stories high. In total, to Felix’s current understanding, it seems that the total amount of space will be just shy of one million square feet.
 
 The exact uses of all of the different buildings being built has not yet been entirely decided and confirmed.. It seems, from the planning permission, that it could house Biomedical research, health, and teaching facilities.
@@ -52,7 +52,7 @@ There are also concerns about increased traffic, especially in light of separate
 
 Despite the opposition it looks unlikely that the College will alter its plans. Imperial claims that the development will bring numerous benefits for the local population, pointing out that development plans include the building of a new healthcare centre and a publicly accessible square. In a statement earlier this year John Anderson, Project Director for Imperial West, added: “Imperial West will provide real and lasting benefits for the capital, helping to grow the London economy, and has the capacity to generate and sustain over 3,000 jobs. We have consulted widely with the planning authorities and local residents and this process has helped inform the basis of our planning application.”
 
-Felix contacted College to ask about more recent developments. Specifically, Felix asked about how the College is working with the residents in the local area to ensure that the residents are not left unhappy about the development. A College spokesperson replied with the following statement:  
+Felix contacted College to ask about more recent developments. Specifically, Felix asked about how the College is working with the residents in the local area to ensure that the residents are not left unhappy about the development. A College spokesperson replied with the following statement:
  “In developing the masterplan proposals for the former BBC site, the project team has incorporated feedback from a variety of stakeholders including Hammersmith and Fulham Council, the Greater London Authority, and local residents. Among the refinements made to the proposals before submission to the planning authority included:
 
 Introducing a stepped building form on Wood Lane to take on board concerns of residents living nearby.

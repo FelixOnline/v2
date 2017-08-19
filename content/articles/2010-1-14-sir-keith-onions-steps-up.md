@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001141749-ak6309-KeithONi.jpg"
 image_caption: >
-  
+
 image_width: "214"
 image_height: "238"
 image_attribution: ""

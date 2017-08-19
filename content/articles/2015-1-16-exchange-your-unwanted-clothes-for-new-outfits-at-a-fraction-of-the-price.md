@@ -2,7 +2,7 @@
 title: >
   Exchange your unwanted clothes for new outfits at a fraction of the price
 subtitle: >
-  Recent graduate Vivien Tang introduces you to Clotho and the ups and downs of being an entrepreneur 
+  Recent graduate Vivien Tang introduces you to Clotho and the ups and downs of being an entrepreneur
 date: "2015-01-16 15:45:38 +0000"
 id: "5103"
 old_path: /features/5103/exchange-your-unwanted-clothes-for-new-outfits-at-a-fraction-of-the-price
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501161545-ps3110-screen-shot-2015-01-16-at-15.44.09.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

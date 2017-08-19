@@ -1,8 +1,8 @@
 ---
 title: >
-  Balls out rock at 19.02 
+  Balls out rock at 19.02
 subtitle: >
-  Greg Power spoke to alt-rockers The Vetoes, headliners of the first Felix Music Night who promise to bring the balls back to rock 
+  Greg Power spoke to alt-rockers The Vetoes, headliners of the first Felix Music Night who promise to bring the balls back to rock
 date: "2011-01-27 20:38:28 +0000"
 id: "698"
 old_path: /music/698/balls-out-rock-at-1902-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272036-ks607-felixmus.jpg"
 image_caption: >
-  
+
 image_width: "1372"
 image_height: "1372"
 image_attribution: "Luke Tomlin"

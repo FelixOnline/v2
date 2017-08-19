@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200528-felix-the-apprentice-hopefuls-2011.jpg"
 image_caption: >
-  
+
 image_width: "2133"
 image_height: "1310"
 image_attribution: ""

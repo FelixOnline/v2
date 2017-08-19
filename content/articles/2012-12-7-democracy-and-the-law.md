@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212070237-tna08-badmia.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - 1  The judges in ECJ are appointed by each EU member country we vote for MPMEPs and they appoint a Judge so we have voted for them in way2  The high court in the UK can also make this kind judgement  whilst they cant have a law overturned they can go to Parliament and say the law should be changed3  this is a major point of a judiciary to protect minorities A majority cannot remove the rights of a minority In the US you can see plenty of examples of this Roe vs Wade Perry v Schwarzenegger on Prop 8 in Cali Griggs v Duke Power Co Log Cabin Republicans v United States of America and Brown v Board of EducationhttpenwikipediaorgwikiMinority_group  those that are different from the social majority ie those that hold a majority of positions of power Also we dont live in a democracy we have a representative monarchy The judiciary occupy a different branch in our governmental system and are there to prevent a tyranny of the majority amongst other thingsIf theres 
+ - 1  The judges in ECJ are appointed by each EU member country we vote for MPMEPs and they appoint a Judge so we have voted for them in way2  The high court in the UK can also make this kind judgement  whilst they cant have a law overturned they can go to Parliament and say the law should be changed3  this is a major point of a judiciary to protect minorities A majority cannot remove the rights of a minority In the US you can see plenty of examples of this Roe vs Wade Perry v Schwarzenegger on Prop 8 in Cali Griggs v Duke Power Co Log Cabin Republicans v United States of America and Brown v Board of EducationhttpenwikipediaorgwikiMinority_group  those that are different from the social majority ie those that hold a majority of positions of power Also we dont live in a democracy we have a representative monarchy The judiciary occupy a different branch in our governmental system and are there to prevent a tyranny of the majority amongst other thingsIf theres
 imported: true
 ---
 

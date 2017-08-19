@@ -57,7 +57,7 @@ _Dear Sir, _
 
 _In the Freshers’ Issue of Felix Simon Worthington wrote an entertaining piece about how to get Xboxes online without having to jump through the hoops that ICT puts in your path. Some “workarounds” were suggested and though Simon was (to quote him) “too much of a pussy” to recommend them to you, recommend them he did. _
 
-_Simon was absolutely right in that both of his suggestions \*are\* against the Acceptable Use Policy of the network. _
+_Simon was absolutely right in that both of his suggestions *are* against the Acceptable Use Policy of the network. _
 
 _His first suggestion was to muck about with MAC addresses. We call this “spoofing” and don’t like it very much. At best it is unhelpful when we’re debugging a network issue and at worst fraudulent. We also have a legal obligation, reinforced by our upstream internet provider (ja.net, the UK academic network) to be able to tie all traffic back to a known source. Deliberate concealment by spoofing is frowned upon and so we look out for it. ’Nuff said._
 
@@ -65,7 +65,7 @@ _As for sticking a router on the network – we really don’t like that. Apart 
 
 _However, of most interest to me was the impression given in the article that registering a device is hard. Is it? Harder than spoofing your MAC address? If it genuinely is, please let me know and I’ll try to do something about it. My team do respond to registration requests immediately, not that we get all that many (five last year, I think)._
 
-_Simon is kind enough to say that Imperial Internet is one of the fastest around. We work hard to achieve this. For you. We \*like\* it to be used, for recreational as well as academic purposes. We only try to prevent illegal activities and actions which interfere with another user. The AUP is there because the network is a shared environment, so there needs to be an operating framework._
+_Simon is kind enough to say that Imperial Internet is one of the fastest around. We work hard to achieve this. For you. We *like* it to be used, for recreational as well as academic purposes. We only try to prevent illegal activities and actions which interfere with another user. The AUP is there because the network is a shared environment, so there needs to be an operating framework._
 
 __
 

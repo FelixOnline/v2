@@ -1,6 +1,6 @@
 ---
 title: >
-  This week on Game of Thrones 
+  This week on Game of Thrones
 subtitle: >
   Spoilers, obviously
 date: "2016-05-20 09:24:18 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605201124-felix-Screenshot-201-1200x675.jpg"
 image_caption: >
-  Dany gets her groove back! 
+  Dany gets her groove back!
 image_width: "1200"
 image_height: "675"
 image_attribution: "HBO"
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-A third of the way through the season and it’s really starting to get going. We pick up at the Wall where Jon apparently had to pop back into Castle Black after storming off last episode \(“Jon you’ll need a coat! You of all people should know winter is coming!”\). We then get the first of the episode’s many reunions when Sansa and Jon meet for the first time since back at the start of Season one. They have a really heart\-warming scene reminiscing about Winterfell and Sansa attempts to convince Jon to take it back from Ramsay. \(“Hey brother I used to be a dick to! Wanna go murder my ex?”\). Brienne also walks over to Davos and Mel just to let them know that she murdered Stannis, the man they gave their lives to. She’s not the best at making friends, is she?
+A third of the way through the season and it’s really starting to get going. We pick up at the Wall where Jon apparently had to pop back into Castle Black after storming off last episode (“Jon you’ll need a coat! You of all people should know winter is coming!”). We then get the first of the episode’s many reunions when Sansa and Jon meet for the first time since back at the start of Season one. They have a really heart-warming scene reminiscing about Winterfell and Sansa attempts to convince Jon to take it back from Ramsay. (“Hey brother I used to be a dick to! Wanna go murder my ex?”). Brienne also walks over to Davos and Mel just to let them know that she murdered Stannis, the man they gave their lives to. She’s not the best at making friends, is she?
 
-We then head back to the Vale \(get your maps out, folks\) where Irish Batman \(or Littlefinger, as he prefers to be called\) drops in to threaten an old man then manipulate a teenager. Standard Littlefinger stuff really, not sure that even he knows exactly what the plan is there.
+We then head back to the Vale (get your maps out, folks) where Irish Batman (or Littlefinger, as he prefers to be called) drops in to threaten an old man then manipulate a teenager. Standard Littlefinger stuff really, not sure that even he knows exactly what the plan is there.
 
-Tyrion’s scene was a great return to the diplomacy from season two, just in Meereen. Turns out, no matter where you are, you can get ahead in negotiations by employing prostitutes. Take notes business students. There were hints of the former slaves being unhappy about the terms that were reached but we’ll just have to wait and see how this turns out for the dwarf and eunuch \(isn’t that the name of a pub?\).
+Tyrion’s scene was a great return to the diplomacy from season two, just in Meereen. Turns out, no matter where you are, you can get ahead in negotiations by employing prostitutes. Take notes business students. There were hints of the former slaves being unhappy about the terms that were reached but we’ll just have to wait and see how this turns out for the dwarf and eunuch (isn’t that the name of a pub?).
 
 Super Daario and Jorah the Explorah have an argument about who’s going to bang Dany before finding Vaes Dothrak and sneaking in unarmed. Except Daario stashed a knife. It’s just who he is. We get another quick scene of Dany in the bingo club before she storms out, finding the boys and hatching a plan.
 

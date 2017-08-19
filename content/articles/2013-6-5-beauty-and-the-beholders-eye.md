@@ -2,7 +2,7 @@
 title: >
   Beauty and the beholder’s eye
 subtitle: >
-  Meredith Thomas interviews Jennifer Louise Martin on the male gaze 
+  Meredith Thomas interviews Jennifer Louise Martin on the male gaze
 date: "2013-06-05 19:00:43 +0100"
 id: "3661"
 old_path: /arts/3661/beauty-and-the-beholders-eye
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306052000-tna08-file_193_11.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -64,7 +64,7 @@ J: Not the person, the face! So probably the photography, the way that they have
 
 __M: Do you ever get the same reaction to something in life?__
 
-J: I do get that. It has happened a couple of times where I have actually approached someone in a restaurant or at work where their face has just popped out at me and I have asked to paint them. This happened recently. She had such eye catching features that I approached her in a restaurant. That’s the first time I’ve done that. She is now my next sitter. I will do studies from life and then I take a picture and work from that. So this time, with the specific subject I’m working from my own photograph.  
+J: I do get that. It has happened a couple of times where I have actually approached someone in a restaurant or at work where their face has just popped out at me and I have asked to paint them. This happened recently. She had such eye catching features that I approached her in a restaurant. That’s the first time I’ve done that. She is now my next sitter. I will do studies from life and then I take a picture and work from that. So this time, with the specific subject I’m working from my own photograph.
  You know It could be an object that is beautiful. For me it just happens to be faces. It could stem back from years ago; I wanted to be a model when I was about eleven.
 
 __M: This is probably too simplistic a question but, do you think we are too beauty obsessed in this society?__
@@ -78,7 +78,7 @@ J: I think it will do,because it’s more first-hand isn’t it? The fact that I
 __M: How do you start a painting?__
 
 J: I look at the image for quite a long time. I will absorb the colours straight away, I will immediately know my colour palette. As you can see I use a lot of tones of the same colour. I like to add depth to give the image some kind of story, it adds a personality to the model, there is a story behind her, sort of paralysed by perfection. You can see they are pensive, or thinking. There is this kind off destructive self. That is what I am thinking while I am painting which is why you get this challenging aspect to the painting.
-TODO: image from 
+TODO: image from
 __M: So thereis an element of empathising with the subject, even through so many layers of paint and another persons lens?__
 
 J: Absolutely! What is she really thinking? What does she really fee? Does she like people staring at her? Doe she like walking out of home and seeing a million cameras? I’m thinking about how it would be for her to be in the subject of the gaze.
@@ -109,7 +109,7 @@ J: I think, for both sexes the one thing I would try and get across through my w
 
 J: I have never ever looked at it that way but I am doing a course at the moment where I am in an open studio with 15 other painters and most of us, I think the majority, are female. There are about four guys. But hearing them speak it has dawned on me that it is very male habit in the art world. Men have a big voice and women sometimes don’t get heard. I don’t think it holds me back in any way. The whole feminist art movement is obviously very interesting. But it’s not really an issue. I think it’s evening out a lot more. It’s a lot different than it used to be. You have the Tracy Emins of this world… __M: Would you ever paint a male model?__
 
-J: Yeah, I’ve had a lot of people ask me.. I’ve never painted a male. That’s not to say I wouldn’t one day. There’s only ever one man that I’ve seen and thought, yes, I could paint him. There is something that just doesn’t inspire me as much. It is to do with sensuality. A lot of the models have the voluptuous lips, but it is a lot to do with makeup as well. I think that is probably why. I do choose images where the women is quite made up because it is the mask over the original beauty underneath. I try to deconstruct that through the paint. But it is also the colour as well.  
+J: Yeah, I’ve had a lot of people ask me.. I’ve never painted a male. That’s not to say I wouldn’t one day. There’s only ever one man that I’ve seen and thought, yes, I could paint him. There is something that just doesn’t inspire me as much. It is to do with sensuality. A lot of the models have the voluptuous lips, but it is a lot to do with makeup as well. I think that is probably why. I do choose images where the women is quite made up because it is the mask over the original beauty underneath. I try to deconstruct that through the paint. But it is also the colour as well.
  With the male I just wouldn’t get that. But now that I am painting a girl who has no make up on it could lead to a male, who knows. __M: What would you tell the eleven year old Jennifer who wants to be a model?__
 
 J - Once, a friend on the train got scouted and I didn’t… It would be exactly that. Just because you are not the one scouted to be a model, it doesn’t mean you are not good enough or you are not beautiful. It’s because they are looking for a certain type of look, a skin, feature. You become just an objects. People think that being perceived as beautiful is a good thing, but actually. I think sometimes it can be a total affliction. So I made a painting about that. She has no eye which means she cannot feel people staring and the affliction a beauty.

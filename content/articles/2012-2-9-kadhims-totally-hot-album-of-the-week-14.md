@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202092221-pk1811-djangodjango.jpg"
 image_caption: >
-  
+
 image_width: "368"
 image_height: "368"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111172229-felix-varsity2011-454.jpg"
 image_caption: >
-  
+
 image_width: "2819"
 image_height: "2747"
 image_attribution: "Christopher Walmsley"

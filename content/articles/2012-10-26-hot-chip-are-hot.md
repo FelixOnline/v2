@@ -1,6 +1,6 @@
 ---
 title: >
-  Hot Chip are hot 
+  Hot Chip are hot
 subtitle: >
   Simon Hunter finally gets to grips with a warm piece of potato. Oh, or maybe he meant the band...
 date: "2012-10-26 03:12:42 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260412-tna08-hot-chip.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

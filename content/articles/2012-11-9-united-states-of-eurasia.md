@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091207-tna08-european_union_map.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

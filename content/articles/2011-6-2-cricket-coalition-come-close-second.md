@@ -2,7 +2,7 @@
 title: >
   Cricket coalition come close second
 subtitle: >
-  Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead 
+  Captain Priya Shah reports as Imperial women’s cricket team join forces with Hampstead
 date: "2011-06-02 20:34:04 +0100"
 id: "1323"
 old_path: /sport/1323/cricket-coalition-come-close-second

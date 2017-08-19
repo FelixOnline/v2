@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The Kerala becoming an increasing popular destination for touristsThe Kerala houseboat is not only economical but also nonpolluting and environment friendly The backwaters of Kerala is a remarkable experience an opportunity to enjoy and contain an unhurried pace of life The Kerala Houseboats have all the creature comforts of a good hotel including furnished bedrooms 
+ - The Kerala becoming an increasing popular destination for touristsThe Kerala houseboat is not only economical but also nonpolluting and environment friendly The backwaters of Kerala is a remarkable experience an opportunity to enjoy and contain an unhurried pace of life The Kerala Houseboats have all the creature comforts of a good hotel including furnished bedrooms
 imported: true
 ---
 

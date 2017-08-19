@@ -1,6 +1,6 @@
 ---
 title: >
-  The Woman in Black 
+  The Woman in Black
 subtitle: >
   We braved London’s darkest streets to search out this most terrifying production
 date: "2010-10-28 19:25:34 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282023-nm1010-womancop.jpg"
 image_caption: >
-  
+
 image_width: "1574"
 image_height: "2250"
 image_attribution: ""

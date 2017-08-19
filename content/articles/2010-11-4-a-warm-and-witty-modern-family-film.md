@@ -1,6 +1,6 @@
 ---
 title: >
-  A warm and witty modern family film 
+  A warm and witty modern family film
 subtitle: >
   The Kids are All Right, but what about everyone else?
 date: "2010-11-04 18:17:10 +0000"

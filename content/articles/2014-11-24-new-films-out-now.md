@@ -1,8 +1,8 @@
 ---
 title: >
-  New Films Out Now 
+  New Films Out Now
 subtitle: >
-  John Park reviews My Old Lady 
+  John Park reviews My Old Lady
 date: "2014-11-24 12:47:02 +0000"
 id: "4944"
 old_path: /film/4944/new-films-out-now-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411241246-ps3110-my-old-lady-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Photo: Israel Horovitz/BBC Films"

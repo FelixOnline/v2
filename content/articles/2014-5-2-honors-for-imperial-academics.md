@@ -2,7 +2,7 @@
 title: >
   Honors For Imperial Academics
 subtitle: >
-  Several Imperial staff members have received amazing awards and titles over the last few weeks. 
+  Several Imperial staff members have received amazing awards and titles over the last few weeks.
 date: "2014-05-02 00:53:49 +0100"
 id: "4536"
 old_path: /news/4536/honors-for-imperial-academics
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

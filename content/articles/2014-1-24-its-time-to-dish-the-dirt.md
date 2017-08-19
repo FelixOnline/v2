@@ -2,7 +2,7 @@
 title: >
   It’s time to dish the dirt
 subtitle: >
-  Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?). 
+  Here is a film of so many mixed emotions that it will make your head spin. With larger-than-life characters having a proper go at each other at a family gathering (where else?).
 date: "2014-01-24 10:14:34 +0000"
 id: "4300"
 old_path: /film/4300/its-time-to-dish-the-dirt
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

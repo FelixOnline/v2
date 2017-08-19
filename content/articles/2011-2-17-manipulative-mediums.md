@@ -1,6 +1,6 @@
 ---
 title: >
-  Manipulative mediums 
+  Manipulative mediums
 subtitle: >
   Have we been here in a past life? Let me save you the trouble; the answer is no
 date: "2011-02-17 20:11:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

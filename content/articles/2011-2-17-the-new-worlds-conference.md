@@ -1,6 +1,6 @@
 ---
 title: >
-  The New Worlds Conference 
+  The New Worlds Conference
 subtitle: >
   Marco Aliprandi and Henri Sartorius share with Felix an attendant’s first-hand view of the Finance Society’s conference and flagship event of the year.
 date: "2011-02-17 19:07:58 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102171906-nm1010-busybusy.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1280"
 image_attribution: ""

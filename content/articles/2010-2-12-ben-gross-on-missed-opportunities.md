@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002120204-rsp07-gazzarun.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "667"
 image_attribution: ""
@@ -44,7 +44,7 @@ Upon closer examination of these fliers, it wasn’t just that they were one sid
 
 The one possible redemption for this waste of trees was “The Gaza Massacre one year on...” event. In terms of its title I was already suspicious that it wasn’t going to be very Israel friendly, yet my hope would be that it would at least promote the Palestinian cause in order for progress to be made.
 
-The attendance of this event was slightly er...shvach to use a Yiddish term and just as well because the quality of content was worse. The first of two speakers, Raza Kazim, a senior speaker from the Islamic Human Rights Commision, had one main message: “Are we going to stand with the oppressed, or are we going to stand with the oppressor?” In fact he liked this phrase so much he had it on his T-shirt just in case we didn’t get the message the first time. His black and white view of the conflict not only showed his naivety and ignorance, but also simplified the conflict to such an extent he missed out the basic facts which I mentioned above.  
+The attendance of this event was slightly er...shvach to use a Yiddish term and just as well because the quality of content was worse. The first of two speakers, Raza Kazim, a senior speaker from the Islamic Human Rights Commision, had one main message: “Are we going to stand with the oppressed, or are we going to stand with the oppressor?” In fact he liked this phrase so much he had it on his T-shirt just in case we didn’t get the message the first time. His black and white view of the conflict not only showed his naivety and ignorance, but also simplified the conflict to such an extent he missed out the basic facts which I mentioned above.
  So passionate was he on human rights and the cause he was promoting (which veered off helping those suffering in Gaza and went onto boycotting Israel) he proclaimed: “Sometimes in order to uphold the law and to make sure that the spirit of the law is actually preserved we need to sometimes break the laws that are actually there and we need to, as a result of breaking that law be prepared to suffer the consequences of having broken that law.” Now I’m no pacifist when it comes to speaking out against wrongs but is this what a senior spokesman of the Islamic Human Rights Commision should be encouraging us to do?
 
 The next speaker who was dressed more formally in suit and tie and who spoke very eloquently indeed was Toufic Machnouk, the associate director of the Institute for Policy Research and Development. He had a few years ago visited the College, linking what was happening to the Palestinians with the Holocaust and he didn’t disappoint this time round either. The Holocaust, which resulted in the death of over six million Jews as well as blacks, gays and gypsies, was an event which if educated about goes beyond the simple numbers. It was the dehumanisation of a people to not even animals. Those that don’t understand why the Holocaust can in no way be compared with the situation in Gaza and the Palestinians, should go visit Auschwitz, Birkenau , Bergen-Belsen, Majdanek, Treblinka etc... all the different concentration camps and death camps. To desensitise what the Holocaust was in order to score political points is disgraceful and an insult to those that perished and those that survived.

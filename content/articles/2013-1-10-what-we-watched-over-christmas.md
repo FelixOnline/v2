@@ -1,6 +1,6 @@
 ---
 title: >
-  What we watched over Christmas 
+  What we watched over Christmas
 subtitle: >
   It's not all fun and games you know!
 date: "2013-01-10 23:05:14 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

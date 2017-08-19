@@ -2,7 +2,7 @@
 title: >
   Is Microsoft a dying firm?
 subtitle: >
-  In the world of Google and Apple, Rudolf Lai asks if there is a future for Microsoft 
+  In the world of Google and Apple, Rudolf Lai asks if there is a future for Microsoft
 date: "2011-02-10 20:50:21 +0000"
 id: "785"
 old_path: /biz/785/is-microsoft-a-dying-firm
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102049-ks607-jobsgate.jpg"
 image_caption: >
-  
+
 image_width: "3872"
 image_height: "2592"
 image_attribution: ""

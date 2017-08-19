@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611041254-aib116-eye-1756629_1920.png"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1275"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-F**act**: blind people don’t see darkness. They see nothing. I’ll admit this seems counter\-intuitive; most of us would shout “I can’t see anything” when stumbling around in the pitch\-dark. But understanding blindness requires a bit more thought.
+F**act**: blind people don’t see darkness. They see nothing. I’ll admit this seems counter-intuitive; most of us would shout “I can’t see anything” when stumbling around in the pitch-dark. But understanding blindness requires a bit more thought.
 
 It does depend on the type of blindness. Acquired blindness seems to leave patients with light rather than darkness: imagine a speaker with an unplugged Aux cable – you’ve heard that buzzing noise? If your optic nerve is severed, random signals are generated in much the same way, resulting in constant random dancing patterns of light. And of course, closing your eyes won’t make them go away, so darkness is in fact the one thing you never see.
 

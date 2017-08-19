@@ -2,7 +2,7 @@
 title: >
   Angry New Year
 subtitle: >
-  Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first... 
+  Worrying about self improvement is a waste of time, so forget about it, go enjoy yourself, but read this first...
 date: "2011-01-13 20:52:04 +0000"
 id: "586"
 old_path: /comment/586/angry-new-year
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010012331-ks607-AngryGee.jpg"
 image_caption: >
-  
+
 image_width: "385"
 image_height: "261"
 image_attribution: ""

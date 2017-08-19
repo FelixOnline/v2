@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131052-felix-JS89131250.jpg"
 image_caption: >
-  
+
 image_width: "615"
 image_height: "461"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Newcastle university students' union is to sell drug\-testing packs to its students – not to test them for drugs – but to test the drugs themselves.
+Newcastle university students' union is to sell drug-testing packs to its students – not to test them for drugs – but to test the drugs themselves.
 
 The single use tests require students to use a small amount of their drugs, and a colour comparison chart to give an indication as to what the substances actually contain.
 

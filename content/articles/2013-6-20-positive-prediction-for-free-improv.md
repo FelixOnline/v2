@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210000-tna08-noble1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -41,7 +41,7 @@ Having largely grown out of jazz music, free improvisation has always struggled 
 In 2013 it’s a little easier to be more optimistic about the state of the art, particularly with the success of venues like Cafe OTO in Dalston, which since its inception in 2008 has been a cornerstone of London’s apparently still burgeoning free improvisation scene. More evidence that free improvisation isn’t dead yet came last year when the London-based label Fataka launched, dedicated to issuing brand new recordings of improvised music.
 
 Amongst Fataka’s most recent editions is Prediction and Warning, a document of a 2011 meeting between veteran improvisers Ikue Mori and Steve Noble, both at various times members of Bailey’s “Company”, an influential collective of improvisers in the 70s and 80s, but who only played as a duo for the first time in 2010 at Cafe OTO.
-TODO: image from 
+TODO: image from
 Mori’s musical life started in the early 80s as a drummer for the influential No Wave band, DNA. After the group split she kept her ties with the New York downtown scene and under the influence of John Zorn started developing her individual voice as a computer music improviser, initially with drum machines and later purely using software such as Pure Data. Since then her collaborators have included Christian Marclay, Elliott Sharp, Zeena Parkins, Catherine Jauniaux and Bill Laswell. Her sound as a laptop improviser is typically percussive, granular, glitchy, and fractured but in its more placid moments draws influence from drone and ambient music.
 
 Noble has been a mainstay drummer on the London improvisation scene for the last thirty years and has released several dozen recordings, largely with fellow London based improvisers such as Lol Coxhill, John Edwards, Alex Ward, and of course Derek Bailey. His highly idiosyncratic approach to drums involves heavy use of preparations such as small chinas or other objects placed on the drum heads to produce a massive variety of unexpected sounds from a relatively small kit. He resists keeping time but is not unwilling to make occasional brief hints at a groove.

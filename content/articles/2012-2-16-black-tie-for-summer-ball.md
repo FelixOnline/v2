@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - An excellent plan but without the usual college 20000 subvention in the event the ticket price is set to rise significantly past the 30 initially suggested Perhaps people consider 35 or more entsonly tickets to be excessive for a cutback summer ball YayId gladly pay up to 100110 for dinner and ents if the acts were truly awesome 
+ - An excellent plan but without the usual college 20000 subvention in the event the ticket price is set to rise significantly past the 30 initially suggested Perhaps people consider 35 or more entsonly tickets to be excessive for a cutback summer ball YayId gladly pay up to 100110 for dinner and ents if the acts were truly awesome
 imported: true
 ---
 

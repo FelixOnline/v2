@@ -41,7 +41,7 @@ What actually is feminism, then?
 
 The belief that men and women should have equal rights and should not be judged based on their gender. Nothing more, nothing less. It’s not about female supremacism or misandry: it’s about equality.
 
-But men and woman are equal! Sexism doesn’t exist any more.  
+But men and woman are equal! Sexism doesn’t exist any more.
  No, they aren’t: a quick look at Imperial’s gender ratio will show you that women are still encouraged away from “hard” subjects. In business and politics women are underpaid and underrepresented, with each becoming more male-dominated further up the ladder. Their appearance, weight and personal lives are obsessed over (see this paper’s comments on Louise Mensch last year), and they are frequently victims of harassment, sexual assault, and rape.
 
 Men are oppressed too: look at how few men get custody in divorce cases! Also, men can be raped and abused as well.
@@ -50,13 +50,13 @@ We know, and we care about these issues. Yes, really. Feminists believe in equal
 
 I’m an equlist/humanist because I care about all issues, so I’m not a feminist.
 
-Yes, you are. “Feminism,” although about equality, gets its name from the fact that women are currently the oppressed gender, and when the movement started, were truly second-class citizens, unable to vote, buy property or get an official education. So, what about racism, homophobia, transphobia and other forms of bigotry? Those are issues we care about as well, and in many cases, there’s a big overlap with them and feminism: this is something we call intersectionality.  
+Yes, you are. “Feminism,” although about equality, gets its name from the fact that women are currently the oppressed gender, and when the movement started, were truly second-class citizens, unable to vote, buy property or get an official education. So, what about racism, homophobia, transphobia and other forms of bigotry? Those are issues we care about as well, and in many cases, there’s a big overlap with them and feminism: this is something we call intersectionality.
  I heard feminists believe X.
 
-There is no singular defining philosophy or belief in feminism, save for gender equality. Sure, some feminists may believe what you’ve heard, but that doesn’t mean all, or even a majority, of them do.  
+There is no singular defining philosophy or belief in feminism, save for gender equality. Sure, some feminists may believe what you’ve heard, but that doesn’t mean all, or even a majority, of them do.
  I’m a man, can I still be a feminist?
 
-Anyone can be a feminist. It doesn’t matter if you’re male, female, gay, straight (or anywhere in between); whether you shave your legs or not or whether your hair is short or long.  
+Anyone can be a feminist. It doesn’t matter if you’re male, female, gay, straight (or anywhere in between); whether you shave your legs or not or whether your hair is short or long.
  How can I be a good feminist?
 
 First of all, educate yourself. Read up on terms like privilege, intersectionality, slut-shaming and rape. Secondly, stop generalising: any time you think, “women are all X,” stop and consider that for a moment: really? Are all women like that? If you think it’s wrong when people say that all men are sex-crazed brutes, realise that similar generalisations about women are just as wrong, and congratulations, you’re a feminist!

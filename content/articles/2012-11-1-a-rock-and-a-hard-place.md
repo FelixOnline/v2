@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012255-tna08-simsimrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -49,7 +49,7 @@ I turned back into the rain, retracing my steps. The streets were cold, but the 
 My apartment door was still locked and the seals hadn’t been broken. I was safe. I sat down at my desk, turned on my computer and poured out a glass of cheap whisky. Once my computer had booted, I pulled the package out from my jacket. It took me years to find it. Stone Quarry Simulator. The genuine article.
 
 After a quick installation, my night’s pleasure was ready. No need for those Marilyn Monroe impersonators tonight.
-TODO: image from 
+TODO: image from
 I started with the basics, jumping into a large truck with a couple of saw-blades stuck on the front. I’ve never driven one of these machines before, but it should be easy. Straight into the water. Darn it. Next try. I rammed into the wall, like a sailor away on shore-leave, into a call-girl, drilling away. Rocks flew everywhere and the ground shook beneath me.
 
 My next task was to pack the van with dynamite. Needless to say, after the unfortunate ice-cream van explosion that took out the Mysterious Brown, I’m well-versed in packing vehicles full of explosives. I drove to thetarget and drilled into the rock. There was no instruction manual for the pneumatic drill, so that was an interesting and unproductive initial 5 minutes. With the explosives packed into the holes and covered up like a shallow grave, I drove the van over the explosives. Detonator in hand, I saw a warning about my vehicle being too close to the dynamite. It was too late to stop the explosion.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001142226-rsp07-Welshpho.jpg"
 image_caption: >
-  
+
 image_width: "604"
 image_height: "401"
 image_attribution: ""
@@ -41,7 +41,7 @@ Day one saw a frankly abysmal performance from the 3 boat Imperial team in the m
 
 The second lot of the days racing was marginally better, but still unsuccessful, with Imperial getting a 3rd 4th 6th against Swansea in a race which was closely fought to the end. The last race of the day was against the hosts- Cardiff. The Imperial team fought hard, but a mark trap from Cardiff at the last mark put the hosts in 1st 2nd 3rd – a wining position and so stealing the race from Imperial. In Imperial’s defence three of the teams they raced got through to the semi-finals, and Portsmouth won the league.
 
-Day two brought much more wind and with it, a fresh chance for Imperial with a King Of The Hill competition- a royal rumble style competition where the worst placing teams from the league start off at the bottom and fight their way to the top. Lose one race and you’re out.  
+Day two brought much more wind and with it, a fresh chance for Imperial with a King Of The Hill competition- a royal rumble style competition where the worst placing teams from the league start off at the bottom and fight their way to the top. Lose one race and you’re out.
  In a major (non-Imperial related) incident on the first day, one of the boats was damaged and put out of use. In the interest of fairness it was decided that racing would just be 2 v. 2.
 
 Miraculously, Imperial didn’t start off at the very bottom of the Hill, that honour went to UWE and Bristol Fourths. Bristol walked over their opponents getting 1st and 2nd, knocking UWE out of the competition. Imperial then raced Bristol and in turn, Bristol were crushed, giving Imperial 1st 2nd and putting them ahead of two teams- Bristol and UWE. Imperial continued in this manner, beating anyone who came their way with a 1st 2nd.

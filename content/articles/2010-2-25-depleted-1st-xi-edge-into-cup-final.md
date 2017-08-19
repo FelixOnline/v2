@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251850-mb506-ICUAFC.jpg"
 image_caption: >
-  
+
 image_width: "3072"
 image_height: "2304"
 image_attribution: ""
@@ -62,9 +62,9 @@ Imperial played ‘keep-ball’ to the end and emerged one-nil victors at the en
 
 LSE 1st XI are the opponents in the match that will determine the best footballing university team in London.
 
-__  
- (The final takes place on Sunday 21 March at the private member’s club, the Bank of England Sports Centre, Roehampton. Supporters are more than welcome!)  
+__
+ (The final takes place on Sunday 21 March at the private member’s club, the Bank of England Sports Centre, Roehampton. Supporters are more than welcome!)
 __
 
-__  
+__
  Imperial Squad:__ M. Botchway, T. Tofis, T. Fryatt, D. Sapin, P. McMullen, D. Hayes, J. Hill, R. Chauvet, M. Smith, C. Paxton, D. Phelan, W. Swain, G. Graham, M. Roshid

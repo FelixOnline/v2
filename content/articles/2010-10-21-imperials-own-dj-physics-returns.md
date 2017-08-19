@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial’s own DJ Physics returns 
+  Imperial’s own DJ Physics returns
 subtitle: >
   Gregory Power interviews Imperial Physics graduate Martin Archer
 date: "2010-10-21 19:38:27 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212036-ks607-martinar.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "415"
 image_attribution: ""

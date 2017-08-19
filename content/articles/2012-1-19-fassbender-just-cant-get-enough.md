@@ -36,8 +36,8 @@ imported: true
 
 __Shame__
 
-__Director__ Steve McQueen  
-__Screenwriters__ Steve McQueen, Abi Morgan  
+__Director__ Steve McQueen
+__Screenwriters__ Steve McQueen, Abi Morgan
 __Cast__ Michael Fassbender, Carey Mulligan
 
 For Brandon (Fassbender), sex is what starts and ends his day. He wakes up, walks into the shower and masturbates. At night, the internet gives him access to all sorts of pornography. That’s not all. He often enjoys the company of prostitutes, one night stands, and even more masturbation in the men’s room of his workplace. On the outside, he’s your average good-looking advertising executive. Brandon probably knows that he’s a sex addict. He would never admit it, but you can see the pain of a tortured man in his face whenever he tries to satisfy his constant sexual craving that is slowly eating away at him. He is forever tormented – and sex provides that brief moment of relief and satisfaction. This doesn’t last long of course, but this will have to do. And as a single man living alone in his apartment, Brandon seems to be in control of his life.

@@ -2,7 +2,7 @@
 title: >
   Curse of the dead man at world’s stranger tides
 subtitle: >
-  All aboard the Good Ship Aardman! 
+  All aboard the Good Ship Aardman!
 date: "2012-05-10 20:26:39 +0100"
 id: "2448"
 old_path: /film/2448/curse-of-the-dead-man-at-worlds-stranger-tides
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205102149-felix-www.fact.co.uk_pirates__in_.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 [__The Pirates! In an Adventure with Scientists!__](http://www.imdb.com/title/tt1430626/)
 
-__Directors__ Peter Lord, Jeff Newitt  
-__Screenwriter__ Gidoen Defoe  
+__Directors__ Peter Lord, Jeff Newitt
+__Screenwriter__ Gidoen Defoe
 __Cast (voice)__ Hugh Grant, Salma Hayek, Jeremy Piven
 
 My girlfriend sometimes says that I’m just a big kid sometimes. That doesn’t bother me – kids get all the really cool stuff. After going to see this film, that opinion is now firmly cemented in her mind.

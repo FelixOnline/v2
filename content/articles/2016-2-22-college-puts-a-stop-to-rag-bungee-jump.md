@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-UPDATE 24/02/16 : FELIX has now learnt the bungee jump has been green\-lit by college, although a new date is yet to be set.
+UPDATE 24/02/16 : FELIX has now learnt the bungee jump has been green-lit by college, although a new date is yet to be set.
 
 RAG’s annual bungee jump has been cancelled just three days beforehand over health and safety concerns.
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092030-ma1307-janelle.jpg"
 image_caption: >
-  
+
 image_width: "1596"
 image_height: "1062"
 image_attribution: ""

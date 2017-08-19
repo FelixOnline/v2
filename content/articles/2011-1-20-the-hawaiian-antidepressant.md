@@ -1,6 +1,6 @@
 ---
 title: >
-  The Hawaiian antidepressant 
+  The Hawaiian antidepressant
 subtitle: >
   Success story of an Imperial miser finding happiness on the islands of manta rays, volcanoes, surfs and opposite-sex attention
 date: "2011-01-20 19:15:06 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201912-ks607-mantaray.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "666"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292150-tna08-image.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -52,7 +52,7 @@ Recently, only 1% of the animals used in laboratory experiments were imported fr
 
 Knowledge of the animals’ specific strain is essential in many areas of research and often only certain strains, such as genetically engineered mice, are required for experiment. Researchers claim that if they unable to get the required animals the UK will be unable to stay at the forefront of biomedical research and, in the long term, new medical expertise will be damaged and patients will suffer.
 
-Genetically modified mice, for example, are useful in drugs testing and understanding the mechanics of illness. A large proportion of research being damaged includes that into cancer and Alzheimers.  
+Genetically modified mice, for example, are useful in drugs testing and understanding the mechanics of illness. A large proportion of research being damaged includes that into cancer and Alzheimers.
  Former Science Minister (2008-2010), Lord Drayson has said, “By giving in to the protesters they [the hauliers] are inadvertently choking off vital research into some of the most debilitating diseases affecting our society.”
 
 The [campaign](http://keepresearchafloat.org/) for resumption of animal transportation is currently being supported by Understanding Animal Research, Speaking of Research and academics from numerous institutions, including the Royal Veterinary College. More explicit support from the institutions themselves is expected in the very near future.

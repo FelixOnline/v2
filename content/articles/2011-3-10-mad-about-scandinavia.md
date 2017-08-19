@@ -1,6 +1,6 @@
 ---
 title: >
-  Mad about Scandinavia 
+  Mad about Scandinavia
 subtitle: >
   Nigel Kheng Wei Hehn and Ricki Calel review Madsen, a Scandinavian restaurant in the heart of South Kensington
 date: "2011-03-10 20:58:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102056-ks607-madsenma.jpg"
 image_caption: >
-  
+
 image_width: "682"
 image_height: "1024"
 image_attribution: "Audrey Chew "

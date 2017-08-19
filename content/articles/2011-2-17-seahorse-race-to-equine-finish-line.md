@@ -1,6 +1,6 @@
 ---
 title: >
-  Seahorse race to equine finish line 
+  Seahorse race to equine finish line
 subtitle: >
   Mathemetical model demonstrates an upright advantage
 date: "2011-02-17 20:33:51 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172031-dr910-seahorse.jpg"
 image_caption: >
-  
+
 image_width: "3370"
 image_height: "1117"
 image_attribution: ""

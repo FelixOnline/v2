@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605271038-felix-20160526_143359.jpg"
 image_caption: >
-  
+
 image_width: "5312"
 image_height: "2988"
 image_attribution: ""
@@ -44,8 +44,8 @@ We’re up on last year, when we took eighth place. Loughborough, famous for spo
 
 The _Guardian_ gives each university a score out of 100, considering how much money is spent per student, employment prospects, student staff ratio, entry demands and student satisfaction, with several of these factors extrapolated from the National Student Survey. The combination of these gave Imperial a score of 84.4 out of 100.
 
-Durham beat us by only half a point to come in at sixth, and Surrey and Loughborough \(joint fourth\) both had scores of 85.
+Durham beat us by only half a point to come in at sixth, and Surrey and Loughborough (joint fourth) both had scores of 85.
 
 The _Guardian’s_ data for Imperial student satisfaction with both teaching and the course was relatively high, but our score for satisfaction with feedback was very low, at only 66.7 out of 100.
 
-There was also a course\-level ranking of universities. In physics and medicine we came eighth, computing fourth, maths second, and mechanical engineering first. For Chemistry, the _Guardian_ put as way down in nineteenth place.
+There was also a course-level ranking of universities. In physics and medicine we came eighth, computing fourth, maths second, and mechanical engineering first. For Chemistry, the _Guardian_ put as way down in nineteenth place.

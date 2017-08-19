@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502171631-ps3110-6ef9fa56-2b78-4557-9c8b-66ca1465ce56-2060x1236.jpeg"
 image_caption: >
-  Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum. 
+  Nicky Spence as David and Andrew Shore as Sixtus Beckmesser in Wagner’s The Mastersingers of Nuremberg at the London Coliseum.
 image_width: "0"
 image_height: "0"
 image_attribution: "Tristram Kenton"

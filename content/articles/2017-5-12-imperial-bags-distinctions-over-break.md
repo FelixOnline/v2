@@ -42,10 +42,10 @@ The ‘Researching Well Together’ initiative comprises of a writing retreat an
 
 Meanwhile, Imperial has shared this work with a variety of institution across the globe to raise awareness in the sector.
 
-As for the second recognition, it was given by the National Cyber Security Centre \(NCSC\), the UK’s authority on cyber security. The excellence of cyber security research that occurs at Imperial was first recognised in 2012, and at the time it was one of the first institutions to receive such status. 
+As for the second recognition, it was given by the National Cyber Security Centre (NCSC), the UK’s authority on cyber security. The excellence of cyber security research that occurs at Imperial was first recognised in 2012, and at the time it was one of the first institutions to receive such status.
 This recognition will strengthen the ties of Imperial researchers to the national security programme. For the past five years for example, research at Imperial has looked into securing the UK’s critical infrastructure such as the railway system from hacking.
 
-Imperial is also part of PETRAS, a consortium exploring our relationship to the Internet of Things \(the wonderful integrations of the internet to our everyday lives that allow us to perform all sorts of tasks, from linking our home heating to our phone to linking our bedside light to the International Space Station\). The consortium has currently received £9.8 million so far fromt the Engineering and Physical Sciences Research Council \(EPSRC\) and is set to receive another £13.2 million.
+Imperial is also part of PETRAS, a consortium exploring our relationship to the Internet of Things (the wonderful integrations of the internet to our everyday lives that allow us to perform all sorts of tasks, from linking our home heating to our phone to linking our bedside light to the International Space Station). The consortium has currently received £9.8 million so far fromt the Engineering and Physical Sciences Research Council (EPSRC) and is set to receive another £13.2 million.
 
 These distinctions come at a precarious time for UK Universities. With the results of the teaching excellence framework to be announced by early June and bronze silver and gold ratings to be given to higher education institutions causing a cascade of effects, any distinction counts.
 

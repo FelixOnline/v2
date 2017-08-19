@@ -2,7 +2,7 @@
 title: >
   Have your say on the Holland Club and Clayponds
 subtitle: >
-  Make use of upcoming postgraduate panel 
+  Make use of upcoming postgraduate panel
 date: "2012-02-09 23:17:20 +0000"
 id: "2175"
 old_path: /comment/2175/have-your-say-on-the-holland-club-and-clayponds
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

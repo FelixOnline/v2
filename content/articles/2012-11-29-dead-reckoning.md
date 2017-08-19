@@ -1,6 +1,6 @@
 ---
 title: >
-  Dead reckoning 
+  Dead reckoning
 subtitle: >
   Fred Fyles always looks on the bright side of death
 date: "2012-11-29 22:04:45 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292204-tna08-goya_death.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

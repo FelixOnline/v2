@@ -1,6 +1,6 @@
 ---
 title: >
-  Catching a wave 
+  Catching a wave
 subtitle: >
   Physicists perform direct measurement of photon wavefunction
 date: "2011-06-16 19:49:29 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106162048-felix-psion005-abstract-digital-art-fractal-quantum_chromodynamics.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

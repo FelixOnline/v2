@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102023-dr910-newmusic.jpg"
 image_caption: >
-  
+
 image_width: "514"
 image_height: "999"
 image_attribution: ""

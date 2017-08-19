@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502031330-ps3110-long_distance_relationship___sleep_by_tabby_like_a_cat-d68iq5b.png.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

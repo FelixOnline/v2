@@ -2,7 +2,7 @@
 title: >
   The Cooking Society
 subtitle: >
-  Mitchell Debrabant gives us a flavour of their club (sandwich) 
+  Mitchell Debrabant gives us a flavour of their club (sandwich)
 date: "2010-11-04 18:31:30 +0000"
 id: "299"
 old_path: /food/299/the-cooking-society
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041826-ma1307-lolmsart.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "314"
 image_attribution: ""

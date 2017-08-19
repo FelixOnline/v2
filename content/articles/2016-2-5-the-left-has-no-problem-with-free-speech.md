@@ -37,17 +37,17 @@ imported: true
 
 Freedom of speech is the right to speak without censorship or restraint by the government.  At least, that’s what Google says. How does the British establishment fare when we look at restrictions on freedom of speech?
 
-Anti\-discrimination laws protect people from hate speech. These laws limit freedom of speech for those who aren’t persecuted in exchange for protecting freedom of speech for those who are. The laws prevent the exclusion of minorities and persecuted groups, and without such protections a member of a minority group could easily be frightened into silence by a hostile culture. This is a clear\-cut example of how political correctness and freedom of speech are not necessarily opposed and can even complement one another.
+Anti-discrimination laws protect people from hate speech. These laws limit freedom of speech for those who aren’t persecuted in exchange for protecting freedom of speech for those who are. The laws prevent the exclusion of minorities and persecuted groups, and without such protections a member of a minority group could easily be frightened into silence by a hostile culture. This is a clear-cut example of how political correctness and freedom of speech are not necessarily opposed and can even complement one another.
 
 We also have regulators. Ofcom and IPSO regulate what mass media can say in order to maintain a degree of journalistic integrity and legality, and prevent discrimination.
 
-Last year_The Sun_ spoke of “1 in 5 Brit Muslims’ sympathy for jihadis”, based on a survey which actually asked if said Muslims had “sympathy with young Muslims who leave the UK to join fighters in Syria”. The question failed to define which meaning of ‘sympathy’ was meant, and didn’t specify who these fighters may fight for \(with no mention of the term ‘jihadi’\).
+Last year_The Sun_ spoke of “1 in 5 Brit Muslims’ sympathy for jihadis”, based on a survey which actually asked if said Muslims had “sympathy with young Muslims who leave the UK to join fighters in Syria”. The question failed to define which meaning of ‘sympathy’ was meant, and didn’t specify who these fighters may fight for (with no mention of the term ‘jihadi’).
 > > Political correctness and freedom of speech are not necessarily opposed
 This misuse of data was so blatant that the company carrying out the poll, Survation, publicly separated themselves from _The Sun’s_ claim. IPSO received over 2000 complaints about the article, printed on the 23rd November 2014, but are yet to give a ruling.
 
 _The Sun_ also found itself in hot water when it printed Katie Hopkin’s infamous article including the line “Rescue boats? I’d use gunships to stop migrants”, which could be seen as discriminatory or encouraging violence. It resulted in over 400 complaints to IPSO. This time the organisation responded with a firm rejection of the complaints in the Greer vs The Sun case.
 
-On the 11th of January 2014 a terrorism commentator on Fox News called Birmingham a “no\-go zone” for non\-Muslims.  This time, Ofcom called the incident a “serious breach” and passed a judgement. What price did Fox News have to pay? Two apologies.
+On the 11th of January 2014 a terrorism commentator on Fox News called Birmingham a “no-go zone” for non-Muslims.  This time, Ofcom called the incident a “serious breach” and passed a judgement. What price did Fox News have to pay? Two apologies.
 
 Amongst the many claims that political correctness has gone mad, these three famous cases show state intervention delayed by a slow bureaucracy, defending Katie Hopkins’ words, and requesting apologies as ‘punishment’.
 
@@ -61,16 +61,16 @@ What about discussing the taboo subject of racial imbalances in scholarship gran
 
 To balance this there are many scholarships prioritising race in their selection process. With these grants taken in to account, white students receive 59.3% of funding – much closer to their 61.8% share of the population.
 
-Race\-specific grants exist to counteract racial imbalances which start earlier in life. A black child in America is more likely than a white child to be brought up in poverty and have less access to education economic support. If race\-specific grants are to become obsolete then surely we need to end racial injustice?
+Race-specific grants exist to counteract racial imbalances which start earlier in life. A black child in America is more likely than a white child to be brought up in poverty and have less access to education economic support. If race-specific grants are to become obsolete then surely we need to end racial injustice?
 
 What about the taboo subject of criticising Islam? It’s perfectly fine as long as it’s done in a respectful manner and held to the same standards as criticism of any other religion with disrespect sometimes coming in the form of Islamophobia.
 
-October 2014\-October 2015 saw a 47.6% increase in hate crimes against Muslims compared to the same period the previous year, with triple the number of reports after the Paris attacks.
+October 2014-October 2015 saw a 47.6% increase in hate crimes against Muslims compared to the same period the previous year, with triple the number of reports after the Paris attacks.
 
 Holding other religions as accountable as Islam is also important – criticism of treatment of women and LGBT communities in Muslim Middle Eastern countries should be mirrored by similar criticism in Christian African nations. If we want to discuss Islam, can’t we use the discussion to reflect on our own culture and mutually grow?
 
 The left has no problem with discussing these issues: gender roles, racial injustice and religious freedom have all been commonplace topics for left wing politics for centuries.
 
-What the left takes takes issue with is politics of rhetoric and insults.  Katie Hopkins isn’t criticised for breaking unspoken PC rules, but for turning a discussion on the social and political impact of the refugee crisis into “show me bodies floating in water… I still don’t care”. When Germaine Greer receives criticism it’s for ignoring discussions on trans rights and simply claiming transgender women are “not women”, not for being un\-PC.
+What the left takes takes issue with is politics of rhetoric and insults.  Katie Hopkins isn’t criticised for breaking unspoken PC rules, but for turning a discussion on the social and political impact of the refugee crisis into “show me bodies floating in water… I still don’t care”. When Germaine Greer receives criticism it’s for ignoring discussions on trans rights and simply claiming transgender women are “not women”, not for being un-PC.
 
 The modern left doesn’t reject discussion, it rejects the idea that we should have to put up with hate in our political system.

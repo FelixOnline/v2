@@ -1,8 +1,8 @@
 ---
 title: >
-  Metric finally set to open 
+  Metric finally set to open
 subtitle: >
-  After almost two months of delays, the new club opens its doors to students 
+  After almost two months of delays, the new club opens its doors to students
 date: "2010-11-18 21:44:54 +0000"
 id: "409"
 old_path: /news/409/metric-finally-set-to-open-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Google Nexus 4, worth it? 
+  Google Nexus 4, worth it?
 subtitle: >
   Can Google’s “cheap” phone stand up to the high-end without killing your budget?
 date: "2013-01-24 21:21:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301242121-mc4509-nexus-4.jpg"
 image_caption: >
-  Nexus 4, a real beaut! The Glitter does put me off a bit though 
+  Nexus 4, a real beaut! The Glitter does put me off a bit though
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131050-felix-REYNOLDS.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1365"
 image_attribution: "Reynolds"
@@ -42,10 +42,10 @@ There is no lime green to be seen.
 
 The union promised that the new bar’s floor is “100% less sticky”.
 
-As part of a consultation survey, student opinions on the bar’s new look were gathered. The most common suggestion was an old\-fashioned pub\-like spaces with “booths”, “wood” and “leather”. Students seemed to want less plastic furniture and more of a heritage vibe.
+As part of a consultation survey, student opinions on the bar’s new look were gathered. The most common suggestion was an old-fashioned pub-like spaces with “booths”, “wood” and “leather”. Students seemed to want less plastic furniture and more of a heritage vibe.
 
-With a hospital on one side and a graveyard on the other, the 450 capacity space is a space well\-known to medical students as the final destination for many freshers fortnight events. The bar also serves food during the day.
+With a hospital on one side and a graveyard on the other, the 450 capacity space is a space well-known to medical students as the final destination for many freshers fortnight events. The bar also serves food during the day.
 
 The refurbishment was revealed at an exclusive launch party for BNOCs last Friday, where The Techtonics performed.
 
-The bar is having an official re\-launch tonight \(Friday the 13th\).
+The bar is having an official re-launch tonight (Friday the 13th).

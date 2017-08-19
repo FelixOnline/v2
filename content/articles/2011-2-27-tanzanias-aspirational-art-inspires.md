@@ -1,6 +1,6 @@
 ---
 title: >
-  Tanzania’s aspirational art inspires 
+  Tanzania’s aspirational art inspires
 subtitle: >
   The TEKUA Education Centre gathers funding by selling the art of its students
 date: "2011-02-27 19:18:54 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271916-ks607-tanziana.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "480"
 image_attribution: ""

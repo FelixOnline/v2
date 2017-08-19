@@ -1,6 +1,6 @@
 ---
 title: >
-  When one mosquito becomes two 
+  When one mosquito becomes two
 subtitle: >
   A new threat emerges in the battle against malaria
 date: "2010-10-28 19:22:19 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282015-ks607-mosquito.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "951"
 image_attribution: ""

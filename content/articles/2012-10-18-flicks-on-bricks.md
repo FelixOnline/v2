@@ -2,7 +2,7 @@
 title: >
   Flicks on bricks
 subtitle: >
-  Emilie Beauchamp introduces you to an evening of cutting edge video art 
+  Emilie Beauchamp introduces you to an evening of cutting edge video art
 date: "2012-10-18 20:57:50 +0100"
 id: "2685"
 old_path: /arts/2685/flicks-on-bricks
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182158-felix-tumblr_mby2qgwfnw1qi7eogo4_1280.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

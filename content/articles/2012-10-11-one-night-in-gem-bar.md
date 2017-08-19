@@ -48,7 +48,7 @@ While some events in the past have been a bit crowded, the choice of venue this 
 
 And yet… and yet the opening strains of R Kelly’s seminal classic ‘Bump n’ Grind’ were cruelly snatched away by a far less musically interesting composition. Seeking solace away from this crushing disappointment, I ventured outside.
 
-The RCSU’s perennial fire engine Jezebel turned up to offer rides around the Soho backstreets to interested parties, and then drove off by midnight, presumably because it was past its bedtime.  
+The RCSU’s perennial fire engine Jezebel turned up to offer rides around the Soho backstreets to interested parties, and then drove off by midnight, presumably because it was past its bedtime.
  “It was great riding it and all but I thought we were going to head down Oxford Street at 60mph,” complained a second year Biochemistry student, demonstrating a clear lack of knowledge about speed limits.
 
 Events took a sour turn when my freshly pressed chinos suffered the misfortune of coming into contact with what could, in retrospect, have been a pile of salt, judging by the hideous white mark I found on them on the bus back. How a pile of salt wound its way into such an establishment will undoubtedly remain a mystery, but I implore the committee to investigate ways to prevent this kind of mishap from happening again.

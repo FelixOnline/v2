@@ -1,6 +1,6 @@
 ---
 title: >
-  Album Review: Palms 
+  Album Review: Palms
 subtitle: >
   Riaz reviews Palms
 date: "2013-06-06 19:48:15 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306062048-tna08-palms-album-cover.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

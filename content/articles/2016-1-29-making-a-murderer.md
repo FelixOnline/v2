@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201601291000-felix-682_1696611477252575_2592152650070458839_n.jpg"
 image_caption: >
-  Who is responsible when an innocent man is sent to prison? 
+  Who is responsible when an innocent man is sent to prison?
 image_width: "843"
 image_height: "403"
 image_attribution: "Netflix"
@@ -41,7 +41,7 @@ The series follows the story of Steven Avery, a resident of Manitowoc County, Wi
 
 What follows is an incredibly harrowing look into police and judicial corruption and misconduct.There is evidence presented of the police department, planting evidence, coercing witnesses and improperly handling the legal proceedings of the case, among other equally disturbing acts.
 
-What is interesting about this documentary is the depth to which it investigates and presents the story. Where one might usually expect such a documentary to cover this in around two hours, this series has ten hours to provide lengthy explanations for the evidence that Avery’s defence presents, as well as the prosecution’s explanations \(or lack thereof\). However, as this features events spanning from 1985 to 2014, focussing on a case that itself had over 200 hours worth of evidence presented, there are, of course, omissions that one could take issue with.
+What is interesting about this documentary is the depth to which it investigates and presents the story. Where one might usually expect such a documentary to cover this in around two hours, this series has ten hours to provide lengthy explanations for the evidence that Avery’s defence presents, as well as the prosecution’s explanations (or lack thereof). However, as this features events spanning from 1985 to 2014, focussing on a case that itself had over 200 hours worth of evidence presented, there are, of course, omissions that one could take issue with.
 > > **The series does suffer slightly in that it undoubtedly has bias in Steven Avery’s favour**
 The series does suffer slightly in that it undoubtedly has bias in Steven Avery’s favour. This manifests mainly in downplaying some of the darker parts of Avery’s past, most egregiously dismissing Avery’s criminal activity prior to his false conviction for rape as simple adolescent antics, the reality of which is much more disturbing. He was arrested and jailed three times prior to his false accusation, for burglary of a local store, assault of his cousin and, most shockingly, for dousing his cat in gasoline and setting it on fire. Omissions such as these serve only to undermine the purpose of the documentary which should not be to paint Avery as a saint, but to display the mishandling and sabotaging of the case by the Manitowoc Country Sheriff Department.
 
@@ -55,6 +55,6 @@ Many members of the Manitowoc Sheriff’s Department featured in the show have h
 
 The documentary certainly came at the right time. With so much discussion all over the US on police corruption and unfair treatment of minorities, this is undoubtedly a large contributing factor to its success, and one that makes it hit so close to home for so many people.
 
-The most harrowing part of the documentary is the interview of Brendan Dassey, Avery’s nephew. The video shows two experienced detectives coercing and manipulating a 16 year\-old into admitting to committing various heinous actions on Halbach including, but not limited to, rape, torture and murder.
+The most harrowing part of the documentary is the interview of Brendan Dassey, Avery’s nephew. The video shows two experienced detectives coercing and manipulating a 16 year-old into admitting to committing various heinous actions on Halbach including, but not limited to, rape, torture and murder.
 
 Throughout the interrogation it is clear that Dassey does not fully realise the consequences of what he is saying, and is just saying whatever he thinks the detectives want to hear in order to go home. The interrogation was eventually deemed to be inadmissible in court but not before the District Attorneys describe in graphic detail all that was said, diminishing both Avery’s and Dassey’s chances to win fair trials.

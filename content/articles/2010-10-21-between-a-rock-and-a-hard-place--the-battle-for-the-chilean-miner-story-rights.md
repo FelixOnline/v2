@@ -1,6 +1,6 @@
 ---
 title: >
-  Between a rock and a hard place – the battle for the Chilean Miner story rights 
+  Between a rock and a hard place – the battle for the Chilean Miner story rights
 subtitle: >
   Chilean Miner Fantasy Films
 date: "2010-10-21 19:16:47 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212015-ks607-chileanm.jpg"
 image_caption: >
-  
+
 image_width: "562"
 image_height: "376"
 image_attribution: ""

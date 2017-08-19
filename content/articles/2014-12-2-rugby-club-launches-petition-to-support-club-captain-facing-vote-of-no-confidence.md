@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412021525-ps3110-20141202_150133.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Perhaps Hobsons decision to protect his own club members and the fact that all ACC Club Captains have supported him in this is a product of the complete lack of trust that the majority of students have in the Union Club Captains would rather protect their own club members themselves than trust Wheeler and Co to do it for them Can you blame Hobson Does anyone have any faith in the Union to do anything anymore The very fact that Hobson feels he can get away with this disgraceful behaviour says it all  The nerve to launch a petition he should do everyone a favour and resign  His club and in particular his actions have led to further damage to the rugby teams reputation and to imperial college in general  The antics of the team deserve full punishment and I hope they throw the book at Hobson and the rugby ladsHow I wonder what the consequences would have been had there been no internet To the commenter above who feels this was disgraceful behaviour I refer you to the majority  of comments on 
+ - Perhaps Hobsons decision to protect his own club members and the fact that all ACC Club Captains have supported him in this is a product of the complete lack of trust that the majority of students have in the Union Club Captains would rather protect their own club members themselves than trust Wheeler and Co to do it for them Can you blame Hobson Does anyone have any faith in the Union to do anything anymore The very fact that Hobson feels he can get away with this disgraceful behaviour says it all  The nerve to launch a petition he should do everyone a favour and resign  His club and in particular his actions have led to further damage to the rugby teams reputation and to imperial college in general  The antics of the team deserve full punishment and I hope they throw the book at Hobson and the rugby ladsHow I wonder what the consequences would have been had there been no internet To the commenter above who feels this was disgraceful behaviour I refer you to the majority  of comments on
 imported: true
 ---
 

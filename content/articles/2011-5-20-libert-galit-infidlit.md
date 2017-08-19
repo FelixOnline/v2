@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200659-felix-dsk-handcuffed.jpg"
 image_caption: >
-  
+
 image_width: "1413"
 image_height: "2200"
 image_attribution: ""

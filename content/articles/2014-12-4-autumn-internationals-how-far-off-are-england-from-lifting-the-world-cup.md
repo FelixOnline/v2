@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412042022-cj914-ben-morgan-of-england-crashes-over-to-score-the-opening-try.jpg"
 image_caption: >
-  Ben Morgan scores a try for England in their 26-17 victory over Australia. They won two out of four 
+  Ben Morgan scores a try for England in their 26-17 victory over Australia. They won two out of four
 image_width: "0"
 image_height: "0"
 image_attribution: "Getty Images"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222256-tna08-surfing.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters.  
+A warm sun bordered by a clean sky that covers you gently in its heat. Majestic palms, whose leaves softly wave in a light breeze, cast their shadows on white beaches touched by turquoise waters.
  This is what you seek when you go surfing. This is not what you are going to find when you go surfing in the UK.
 
 Instead you’ll find freezing waters, greyed by overshadowing clouds that block any ray of sunshine. Heavy rain that hits you sideways, sharpened by the strong cold winds. Icebergs that floats inexorably in the distance.

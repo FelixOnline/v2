@@ -1,6 +1,6 @@
 ---
 title: >
-  SX-907 Bluetooth Headphones 
+  SX-907 Bluetooth Headphones
 subtitle: >
   Max Eggl discovers an incredible pair at a banging price, just £20. Get in!
 date: "2012-11-18 13:07:38 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211181306-jp1409-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -43,7 +43,7 @@ So with all these pros, you must be thinking, hey, what’s the catch? Well, bat
 
 After I had seen the Bluetooth stereo Headset SX-907 on amazon, I believed it was too good to be true. I mean, how can these things look so nice, do what they do and cost under £25? After lots of debating I decided to splash out, convincing myself by saying I would start going to those free lunches those societies all seem to organise! When my package finally came in the mail, I was extremely excited. I dropped everything and started the arduous process of ripping apart the wrapping. As I got to the actual box, I was slightly disappointed. The picture on the outside had obviously been photoshopped (badly) to include the headphones, and it all looked kind of cheap. Not only that, but there was no user manual, and the headphones just lay in the package. This was not the way I expected my Bluetooth headphone relationship to start.
 > the widespread usage of these devices has been curbed by the expectation that they are really expensive
-However, things seemed to look up from there. The headphones weren't exactly beautiful (mostly plastic), but for 20 quid I hadn’t expected them to look great. I turned them on, a beep greeted me and, nicely enough, they were fully charged. This was signalled by the light on the side of the headphones. This light is the only way that the headphones can communicate with you, so this little lightbulb has many different variations (red, blue, alternating, it does it all), which is extremely bright. Without the manual it took me a while to pair these babies with my phone, but after a while I got it and it was surprisingly painless, with a nice little beep to confirm I had paired successfully.  
+However, things seemed to look up from there. The headphones weren't exactly beautiful (mostly plastic), but for 20 quid I hadn’t expected them to look great. I turned them on, a beep greeted me and, nicely enough, they were fully charged. This was signalled by the light on the side of the headphones. This light is the only way that the headphones can communicate with you, so this little lightbulb has many different variations (red, blue, alternating, it does it all), which is extremely bright. Without the manual it took me a while to pair these babies with my phone, but after a while I got it and it was surprisingly painless, with a nice little beep to confirm I had paired successfully.
  Then came the big test, the music. I had chosen a set playlist to test everything on my new headphones, and started out with numb/encore by JayZ and Linkin Park, to be the virgin track. The first beat blew me away. For £20, I was hearing some of the best quality I had EVER heard, and all wireless to boot. Also, they weren't too uncomfortable, and blocked out surrounding sound very nicely. There are buttons on the sides of the headphones, allowing you to do the elementary functions you would normally do on your phone. The volume/fast forward button is a bit haphazard though, and I don’t think I will be using it much as it is hard to use properly without making mistakes. These headphones also have a rudimentary mic, so right away I started a phone call. The quality of the audio was good enough, but the mic was not up to scratch; it was not transmitting well enough. So I guess receiving and making phone calls are not on the agenda. As I turned off the music I noticed a quiet beeping/ “weird machine” sound in the right headphone. Although this does not really disturb me, as my music drowned out this noise, for people who listen to music at lower volumes, this may be irritating.
 > For £20, I was hearing some of the best quality sound I've EVER heard
 A week after purchasing these puppies, I have fully charged them once (still going strong) and have used them in every conceivable place (library, train, walking etc). They’ve passed all of the tests with flying colours, using about 6% of my phone battery per hour. This is quite good as it means that I have about 10 hours of listening to music! I’ve paired them to phones, tablets and computers and it has all worked flawlessly. I even managed to use them while my laptop was on the other side of my apartment (with walls in between). Annoyingly though, I have found that the buttons on the side of the headset are very easily pressed, so I keep pausing in songs, but that may just be me. Also, while studying in the library, I did get the complaint that my headphones were too loud. While this may not be a con for myself per se, it might annoy others. My last con for these headphones is that, because they use plastic for everything, wearing these things for an hour did make my ears hurt, as well as my scalp feel very uncomfortable.

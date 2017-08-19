@@ -48,5 +48,5 @@ Professor Seabra and Dr Tanya Tolmachova of Imperial lead much of the preclinica
 
 The 12 patients involved will undergo surgery in order for the gene to be delivered through the virus. Only one eye will be involved in the gene therapy, as the other eye will be used as the control to evaluate the effectiveness of the treatments.
 
-However, the researchers said that they would repeat the treatment with the second eye if it is shown to be effective. It is estimated that it will take up to 2 years to assess the effectiveness of the treatment.  
+However, the researchers said that they would repeat the treatment with the second eye if it is shown to be effective. It is estimated that it will take up to 2 years to assess the effectiveness of the treatment.
  If it is proven to be successful, then this will be the first-ever treatment for the disease.

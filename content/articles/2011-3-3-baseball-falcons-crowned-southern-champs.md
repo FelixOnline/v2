@@ -2,7 +2,7 @@
 title: >
   Baseball: Falcons crowned Southern Champs
 subtitle: >
-  Imperial 1st 9 – 8 Southampton 1st 
+  Imperial 1st 9 – 8 Southampton 1st
 date: "2011-03-03 21:18:06 +0000"
 id: "1023"
 old_path: /sport/1023/baseball-falcons-crowned-southern-champs
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032115-nm1010-baseball.jpg"
 image_caption: >
-  
+
 image_width: "3456"
 image_height: "2304"
 image_attribution: ""

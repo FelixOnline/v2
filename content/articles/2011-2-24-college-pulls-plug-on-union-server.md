@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241932-ks607-pullplug.jpg"
 image_caption: >
-  
+
 image_width: "843"
 image_height: "1024"
 image_attribution: "flickr/ditocujo"

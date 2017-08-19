@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,5 +42,5 @@ So there I stood, handing out notes to people I did not know at 8am on a very co
 
 But to my surprise, I did not have to look at nothing in particular, make notes on something I did not understand, or try and draw a picture of a piece of equipment whose purpose was not entirely clear. Instead I got to stand at the back of a well-behaved group of people, being plied with tea and chocolate by the other lecturers on the trip. I did not even have to worry about timings or the teaching. This the staff assured me was their problem. My main purpose seemed to be to prevent the students walking into the road, which they managed pretty well on their own, with only one or two near death incidents.
 
-It turned out to, be quite sunny and I could even remove my nice new microfleece, hat, waterproof trousers and gloves and pretend I was on the beach. This was great and was rapidly improved by a very nice three course dinner in the hotel. I even got my own room. Yes, it was not a hotel that I would have picked by myself, but hey, I was being paid for this. Not to mention the slightly random layout meaning that my bathroom was huge, actually massive. So a nice free dinner and pint later I could quite comfortably fall asleep in front of the TV.  
+It turned out to, be quite sunny and I could even remove my nice new microfleece, hat, waterproof trousers and gloves and pretend I was on the beach. This was great and was rapidly improved by a very nice three course dinner in the hotel. I even got my own room. Yes, it was not a hotel that I would have picked by myself, but hey, I was being paid for this. Not to mention the slightly random layout meaning that my bathroom was huge, actually massive. So a nice free dinner and pint later I could quite comfortably fall asleep in front of the TV.
  I could get used to field trip GTAing.

@@ -2,7 +2,7 @@
 title: >
   Notes from the Underground
 subtitle: >
-  Darije Custovic reviews Dostoyevsky’s first existentialist novel 
+  Darije Custovic reviews Dostoyevsky’s first existentialist novel
 date: "2014-11-24 12:37:32 +0000"
 id: "4940"
 old_path: /books/4940/notes-from-the-underground
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411241237-ps3110-darkness-copy-website.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

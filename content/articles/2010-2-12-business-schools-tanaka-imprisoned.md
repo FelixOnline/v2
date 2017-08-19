@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002120144-rsp07-tannakab.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "600"
 image_attribution: ""

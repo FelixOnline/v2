@@ -1,6 +1,6 @@
 ---
 title: >
-  University students respond to Sentamu marriage comments 
+  University students respond to Sentamu marriage comments
 subtitle: >
   Archbishop “hides behind banner of preserving tradition” over gay marriage statement
 date: "2012-02-23 23:04:52 +0000"

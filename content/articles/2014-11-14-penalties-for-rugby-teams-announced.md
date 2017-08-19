@@ -1,8 +1,8 @@
 ---
 title: >
-  Penalties for Rugby teams announced 
+  Penalties for Rugby teams announced
 subtitle: >
-  Teams have been suspended and made to miss key matches 
+  Teams have been suspended and made to miss key matches
 date: "2014-11-14 19:58:53 +0000"
 id: "4862"
 old_path: /news/4862/penalties-for-rugby-teams-announced-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411142015-ps3110-rugby-ball.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

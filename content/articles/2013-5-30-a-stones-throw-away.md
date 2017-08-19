@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305301015-tna08-rosetta_stone.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,5 +44,5 @@ The British Museum houses many ancient ruins. Amongst the most impressive of the
 
 When walking through the Ancient Middle Eastern structures, the size of some of the statues that survived from temples and palaces makes you wonder how they were built – at the time they were constructed modern machinery was still literally thousands of years away.
 
-This being a newspaper, it should also be noted that the history of writing was particularly interesting. How writing changed and evolved from early writing and cuneiform to what we see today is astounding. The thought that’s difficult to get your head around is that at one point writing didn’t even exist.  
+This being a newspaper, it should also be noted that the history of writing was particularly interesting. How writing changed and evolved from early writing and cuneiform to what we see today is astounding. The thought that’s difficult to get your head around is that at one point writing didn’t even exist.
  The British Museum is in the heart of London. It’s easy to get to, so you have no excuses not to go!

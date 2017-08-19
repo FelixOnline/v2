@@ -1,6 +1,6 @@
 ---
 title: >
-  Music’s biggest night: the best and worst outfits of the 2015 Grammy’s 
+  Music’s biggest night: the best and worst outfits of the 2015 Grammy’s
 subtitle: >
   Cecile Borkhataria takes a look at some of the best and worst dressed celebrities attending the prestigious event in Los Angeles
 date: "2015-02-12 23:50:18 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

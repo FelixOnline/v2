@@ -37,15 +37,15 @@ imported: true
 
 Picture the scene: A friend of yours has just told you about an experience of theirs, one in which they experienced discrimination, and they’re pissed off.  Why did they tell you? So you could explain to them how their reaction to the situation was wrong, right?
 
-It’s not news that many women have to deal with a whole lot of harassment based on their gender. Sometimes it’s obviously misogynistic \(“I like the way your tits bounce“\) and sometimes it’s more subtle \(“you should smile, beautiful”\). It’s the kind of harassment that, on the whole, men don’t experience, and it can be difficult to convey just how prevalent a problem it is – which is why it’s important to talk about it.
+It’s not news that many women have to deal with a whole lot of harassment based on their gender. Sometimes it’s obviously misogynistic (“I like the way your tits bounce“) and sometimes it’s more subtle (“you should smile, beautiful”). It’s the kind of harassment that, on the whole, men don’t experience, and it can be difficult to convey just how prevalent a problem it is – which is why it’s important to talk about it.
 
-When I talk to my friends – male or female – about being harassed, what I’m looking for is support. I have been told multiple times by harassers \(and some family members\) that if I dressed differently I’d be left alone. I have been told this while covered apart from the face and hands. It’s bullshit.
+When I talk to my friends – male or female – about being harassed, what I’m looking for is support. I have been told multiple times by harassers (and some family members) that if I dressed differently I’d be left alone. I have been told this while covered apart from the face and hands. It’s bullshit.
 
 Although I know that it’s not my fault when I get harassed, it’s important to me that my friends reinforce this, instead of somehow making me feel responsible; in this, most of my friends are great, indignant on my behalf and sympathising with how annoying, upsetting or scary it was.
 
-However, I’ve noticed a trend in some of my male friends’ responses when I come to them to vent about some random guy who felt the need to tell me how attractive \(or not\) I was: telling me I should have behaved differently.
+However, I’ve noticed a trend in some of my male friends’ responses when I come to them to vent about some random guy who felt the need to tell me how attractive (or not) I was: telling me I should have behaved differently.
 > > There is no one phrase which will instantly deter further attention
-I recently came home frustrated after having almost identical conversations with two men on the way home, both of whom took issue with my ignoring them when they “just wanted to give \[me\] a compliment”, wanting to have a bit of a rant and get on with my day.
+I recently came home frustrated after having almost identical conversations with two men on the way home, both of whom took issue with my ignoring them when they “just wanted to give [me] a compliment”, wanting to have a bit of a rant and get on with my day.
 
 My friend, a man, was naturally on my side, but criticised my response, saying that I “shouldn’t get so confrontational”.
 
@@ -55,7 +55,7 @@ I have tried this strategy and it does not work.  You cannot play along forever;
 
 Of course, the primary concern should always be personal safety, but when this happens on a regular basis, “Sorry, I have a boyfriend” starts to taste increasingly sour in your mouth.  So, sometimes, you get “confrontational” by pointing out that you’re not interested in a stranger’s thoughts on your appearance.
 
-I know that my friend was just concerned for my welfare, and his advice given with good intentions, but when you don’t face sexual harassment on a regular basis it is harder to empathise with how it feels, so it’s infuriating when men give helpful comments such as “I’d be so sassy \[in response to harassment\] if I were a woman”, “why didn’t you just say you had a boyfriend?” or “I don’t get it, he’s just talking to you.”
+I know that my friend was just concerned for my welfare, and his advice given with good intentions, but when you don’t face sexual harassment on a regular basis it is harder to empathise with how it feels, so it’s infuriating when men give helpful comments such as “I’d be so sassy [in response to harassment] if I were a woman”, “why didn’t you just say you had a boyfriend?” or “I don’t get it, he’s just talking to you.”
 
 If you’re a man and a woman is telling you about a time when she got harassed, there are a couple of things you should know: First, there are countless other instances she hasn’t told you about.  This is not the only time.
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110161606-felix-phoca_thumb_l_sun09_riddimcolony_009_ls.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "424"
 image_attribution: ""

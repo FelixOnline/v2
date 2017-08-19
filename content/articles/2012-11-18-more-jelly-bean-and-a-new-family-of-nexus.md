@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211181322-jp1409-nexus-4,-7-10.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ Android 4.2 is a new version of Android, still called Jelly Bean (after Google�
 If you’ve ever seen those Google Street View cars ply along the roads taking sneaky photos of unsuspecting pedestrians for publication on Google Maps, you might be glad to know that you can also do that now in Android 4.2.
 > you can use the same technology that powers the Street View cameras in your phone
 Dubbed “Photo Sphere”, you can use the same technology that powers the Street View cameras in your phone to take 360 degrees panorama shots worthy of your non-Android friends’ envy. If you count yourself as an expert photographer, you can even upload them to Google Maps for sharing with the rest of the world. The camera interface has received a new interface that allows you quick access to camera settings. Of course, this new update also comes with the obligatory increase in the number of filters available that allow people to further “instagram-ise” their photos without needing to use Instagram.
-TODO: image from 
+TODO: image from
 ###
 
 ####  Usability Enchancements
@@ -56,11 +56,11 @@ Android 4.2 also introduces several usability enhancements to bring about extra 
 
 ###  Family of Nexus Devices
 
-It may be well and nice that Android 4.2 has some new exciting features but, as carriers and Original Equipment Manufacturers (OEMs) like to do what they do best, many phones might never see the update. This is why Google has the Nexus series of devices that allow you to experience the purest Android version that will receive any updates to Android first. And for the first time, Google has announced a family of Nexus Devices that are “worthy of the Nexus name”.  
+It may be well and nice that Android 4.2 has some new exciting features but, as carriers and Original Equipment Manufacturers (OEMs) like to do what they do best, many phones might never see the update. This is why Google has the Nexus series of devices that allow you to experience the purest Android version that will receive any updates to Android first. And for the first time, Google has announced a family of Nexus Devices that are “worthy of the Nexus name”.
  There is the Nexus 4, 7 and 10 for a 4 inch phone, 7 inch tablet and the 10 inch tablet respectively. They are available now on Google Play store for very competitive prices. The unlocked 16GB version of Nexus 4 is available for just £279. The Nexus 4 has received very positive reviews from major news outlets. The Nexus 10 sports an impressive 2560 x 1600 pixels screen that puts the iPad’s retina display to shame, in terms of hard numbers at least.
 > The Nexus 10 sports an impressive 2560 x 1600 pixels screen that puts the iPad’s retina display to shame, in terms of hard numbers at least.
-While consumers drool over the devices, Google has strategic reasons for introducing the whole host of Nexus devices. The first reason is to cater to enthusiasts who like to have the unadulterated Android experience while having any updates pushed to them first. Think of these devices like the devices Apple releases - first class citizens in terms of software treatment.  
- The Nexus programme has always been envisioned to be the hardware benchmarks for the other OEMs to follow. By having stellar hardware with a good software experience, Google hopes to spur the OEMs to produce hardware that match and exceed that of the Nexus devices. It also hopes that OEMs will be motivated to provide updates in a timely manner and not to bog down their devices with additional software that will hamper the user experience.  
+While consumers drool over the devices, Google has strategic reasons for introducing the whole host of Nexus devices. The first reason is to cater to enthusiasts who like to have the unadulterated Android experience while having any updates pushed to them first. Think of these devices like the devices Apple releases - first class citizens in terms of software treatment.
+ The Nexus programme has always been envisioned to be the hardware benchmarks for the other OEMs to follow. By having stellar hardware with a good software experience, Google hopes to spur the OEMs to produce hardware that match and exceed that of the Nexus devices. It also hopes that OEMs will be motivated to provide updates in a timely manner and not to bog down their devices with additional software that will hamper the user experience.
  Most importantly, the new Nexus devices hope to spur the development of tablet applications for the Android platform. As Tim Cook very nicely pointed out in his iPad Mini keynote, the tablet application ecosystem on Android is atrocious. After releasing the Nexus 7 earlier this year, there has been an increase in the number of developers adapting their applications to the 7 inch form factor. Google hopes that this will happen again as high quality 10 inch tablets enter the market and set a trend. As the 7 inch applications work well on the 10 inch screens, Google is looking to the Nexus 7 and the Nexus 10 as “bootstraps” for more tablet applications.
 
 ###  Future Nexus and Key Lime Pie

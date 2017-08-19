@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201003121649-srg03-eBookrea.jpg"
 image_caption: >
-  
+
 image_width: "4368"
 image_height: "2912"
 image_attribution: ""

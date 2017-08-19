@@ -37,7 +37,7 @@ imported: true
 
 FELIX has discovered that the Chinese university that will partner with Imperial at a new tech hub on the White City campus has been cited by a US security firm as being a recruitment hotspot for the unit of the Chinese army alleged to be involved in the country’s cyberwarfare program.
 
-Zhejiang University signed a deal with Imperial late last year, following plans for an Imperial\-Chinese “entrepreneurship hub” at Imperial West in Acton, which will bring together academics from the Business School and Zhejiang’s School of Management.
+Zhejiang University signed a deal with Imperial late last year, following plans for an Imperial-Chinese “entrepreneurship hub” at Imperial West in Acton, which will bring together academics from the Business School and Zhejiang’s School of Management.
 
 At the time, President Gast described the deal as a push to make Imperial College “China’s best partner in the west”.
 
@@ -45,8 +45,8 @@ Analysts at the cybersecurity firm, Mandiant, note that: “Unit 61398 aggressiv
 
 Unit 61398 is a highly secretive division of the Chinese People’s Liberation Army. It is thought to be tasked with economic espionage against the United States, the UK, and according to the Mandiant report “any organisation where English is the primary language”. So it’s a step up from GCHQ recruiters at a careers fair.
 
-Also, in 2013, Chinese news agency Xinhua announced the arrest of the university’s then Vice\-President for “economic crimes” \(which is understood to be shorthand for corruption\). In March of the same year, Reuters reported a senior professor jailed for embezzling more than 10 million yuan \(£1.08 million\) of research contracts.
+Also, in 2013, Chinese news agency Xinhua announced the arrest of the university’s then Vice-President for “economic crimes” (which is understood to be shorthand for corruption). In March of the same year, Reuters reported a senior professor jailed for embezzling more than 10 million yuan (£1.08 million) of research contracts.
 
-The college is currently run by Party Chief Jin Deshui. Vice\-governor of Zhejiang Province from 2004\-2011, Mr. Deshui is known to be a personal associate of President Xi Jinping. A 2010 report by the _Zhejiang Daily_ claims that 15 people had died there due to police torture in that year alone.
+The college is currently run by Party Chief Jin Deshui. Vice-governor of Zhejiang Province from 2004-2011, Mr. Deshui is known to be a personal associate of President Xi Jinping. A 2010 report by the _Zhejiang Daily_ claims that 15 people had died there due to police torture in that year alone.
 
 The new centre is expected to open some time next year.

@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial and UCL celebrate five years of nanotechnology research 
+  Imperial and UCL celebrate five years of nanotechnology research
 subtitle: >
   Anniversary leads to retrospective look to a nanotechnological relationship
 date: "2012-01-12 22:00:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122158-felix-dsc_6871.jpg"
 image_caption: >
-  
+
 image_width: "2000"
 image_height: "3008"
 image_attribution: "Beth Elzer"

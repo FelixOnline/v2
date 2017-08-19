@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310182242-jal08-robin-thicke.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "STAR TRAK, LLC"
@@ -35,12 +35,12 @@ comments:
 imported: true
 ---
 
-_You know you want it.  
+_You know you want it.
  You’re a good girl._
 
 These are lines taken from Project Unbreakable, where survivors of sexual assault are photographed holding a poster with a quote from their attacker. These two lines come up again and again. They are also oft-repeated lyrics in Robin Thicke’s song, Blurred Lines.
 
-I could tell you about the seven student unions across the country (from Edinburgh to Kingston), who have decided that listening to the “language of rapists” is not appropriate for their student unions. I could say that we should do the same. I won’t because there’s little merit in banning one song, when commercial music is full of highly objectionable lyrics – violence against women, homophobia, racism.  
+I could tell you about the seven student unions across the country (from Edinburgh to Kingston), who have decided that listening to the “language of rapists” is not appropriate for their student unions. I could say that we should do the same. I won’t because there’s little merit in banning one song, when commercial music is full of highly objectionable lyrics – violence against women, homophobia, racism.
  Banning one song (however bad) is not the solution if those who want to play it do not understand why others do not want to hear it.
 
 We need to ask our union bars, and those using the Union to think about what they are playing. Do you want to be the person responsible for playing a song that makes a number of people in your bar uncomfortable? Do you want to play a song with lyrics veering into sexual assault or homophobia?

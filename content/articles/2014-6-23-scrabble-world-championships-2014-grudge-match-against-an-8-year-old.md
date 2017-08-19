@@ -2,7 +2,7 @@
 title: >
   Scrabble World Championships 2014: Grudge Match Against an 8 year-old
 subtitle: >
-  Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins. 
+  Away from the top of the leader board, one of the most notable players here at tournament is New Zealand’s Lewis Hawkins.
 date: "2014-06-23 13:05:14 +0100"
 id: "4705"
 old_path: /features/4705/scrabble-world-championships-2014-grudge-match-against-an-8-year-old

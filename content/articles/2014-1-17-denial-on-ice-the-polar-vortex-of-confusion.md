@@ -2,7 +2,7 @@
 title: >
   Denial on ice: the polar vortex of confusion
 subtitle: >
-  The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons. 
+  The polar vortex that swept across North America this holiday was one that left both the ground and politicians rather frosty, albeit for different reasons.
 date: "2014-01-17 03:29:25 +0000"
 id: "4232"
 old_path: /science/4232/denial-on-ice-the-polar-vortex-of-confusion

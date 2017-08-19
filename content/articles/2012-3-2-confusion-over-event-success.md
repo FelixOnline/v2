@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -47,7 +47,7 @@ When seeking clarity from the Students’ Union of University College London (on
 
 Update [10:22 – 18/07/2011] – Fusion@London have issued the following statement regarding the event:
 
-_Fusion @ London 2012 event has come to a close – and it was a highly celebrated event. The designers who attended were pleased and impressed by the fresh and unique show and the interesting use of their collections. Audiences were blown away by the incredible music acts and Made In Chelsea fans cheered for Hugo and Spencer. No one expected to see a show of such high standards. The cast and committee all feel immensely proud of the beautiful show that we spent almost a year putting together.  
+_Fusion @ London 2012 event has come to a close – and it was a highly celebrated event. The designers who attended were pleased and impressed by the fresh and unique show and the interesting use of their collections. Audiences were blown away by the incredible music acts and Made In Chelsea fans cheered for Hugo and Spencer. No one expected to see a show of such high standards. The cast and committee all feel immensely proud of the beautiful show that we spent almost a year putting together.
  Yet tickets did not sell out and we did not achieve our fundraising aim for Cancer Research UK. It is true that we do not have the financial facts yet because there are a lot of loose ends to tie up. It will be a few weeks before we can say exactly where Fusion stands financially. However from rough calculations it is now clear that we are expecting a financial deficit._
 
 _Yet it is difficult to view this outcome as a failure. We did not set out simply to raise money for Cancer Research. We created an organisation dedicated to our friends, family, and loved ones who have passed away from the disease. We wanted to create an event that would increase awareness and serve as a beautiful memorial to those who have succumbed to the disease. Angela Udemba brought the event to London for this very reason. During her time as Creative Director of York Fusion in 2008, her time with dear friend and fellow student Jojo (who later passed away from cancer) strengthened her desire to activate further fund-raising and awareness for Cancer Research UK. Working on a PhD in Cancer Research has only strengthened her ambition and dedication. Members of the Fusion @ London committee have battled cancer themselves. Everyone involved in this venture, cast and committee alike can testify to the immense hard work, dedication and passion that went into organising the event and it is difficult to see their efforts marred by the focus on a financial deficit._

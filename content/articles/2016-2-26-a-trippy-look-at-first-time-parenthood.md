@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602261158-felix-night.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1584"
 image_attribution: " Bill Knight"
@@ -54,7 +54,7 @@ _than we could ever hope to know or understand”_
 
 That’s the point.
 
-Director Ben Kidd has been brave enough to work subtly here and let the script do the talking. His focus is on the minimalism of the staging – including the eerie neon glow of the ‘precious child’ \(or a plastic doll with broken legs\). Chaos spills across the stage in the wink of a dog and a lion with a thorn in it’s paw. Like all good children’s stories, the grown\-up jokes are in the sidelines, but the play leaps for them.
+Director Ben Kidd has been brave enough to work subtly here and let the script do the talking. His focus is on the minimalism of the staging – including the eerie neon glow of the ‘precious child’ (or a plastic doll with broken legs). Chaos spills across the stage in the wink of a dog and a lion with a thorn in it’s paw. Like all good children’s stories, the grown-up jokes are in the sidelines, but the play leaps for them.
 
 It suffers only in that the pitch is hard to maintain. Once the tide’s in and the big bad world has burst through the window how do you stop it pouring out? At points the play verges on manic – and that’s undoubtedly the point – but the audience is, maybe, drowned just a hint too quickly to register the full force of the flood.
 

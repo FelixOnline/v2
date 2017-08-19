@@ -1,6 +1,6 @@
 ---
 title: >
-  Time to deal, innit bruv 
+  Time to deal, innit bruv
 subtitle: >
   Top Boy is top stuff, blud
 date: "2011-11-17 21:49:00 +0000"

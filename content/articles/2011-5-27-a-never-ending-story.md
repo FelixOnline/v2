@@ -2,7 +2,7 @@
 title: >
   A never ending story
 subtitle: >
-  Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series 
+  Felix takes a look at Neon Genesis Evangelion, the internet-forum-posting geek’s favourite anime series
 date: "2011-05-27 13:51:58 +0100"
 id: "1273"
 old_path: /tv/1273/a-never-ending-story
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105271451-felix-angel-fight.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Thais a great review Thank you 
+ - Thais a great review Thank you
 imported: true
 ---
 
@@ -46,7 +46,7 @@ The greatest strength of the series, however, must be its characters. While Misa
 The most divisive element of Evangelion is probably its plot. I have to admit that it is quite over the top, including a heavy use Christian mythology, government conspiracies and a secret plan, called the Human Instrumentality Project, to join together all consciousness. It is probably down to personal opinion if you like this sort of thing but I really urge you to try. If you can suspend your disbelief Evangelion can actually make you take it seriously so you realise how deep and satisfying the story is.
 
 Any discussion of Evangelion would be remiss if it did not mention the infamous ending, which I feel strongly about. The last two of the original 26 episode run were so badly received that I originally skipped right over them and went straight to the remade ending in the 1997 film ‘[The End of Evangelion](http://en.wikipedia.org/wiki/The_End_of_Evangelion)’. I decided to finally watch the original and was shocked by how good it was. I can see why it was so poorly received, being fairly understated, using mainly stock footage and taking place entirely in the minds of our protagonists: a massive departure from the rest of the series. It even lead to the coining of the term ‘Gainax Ending’ after the company which created Evangelion to describe shows which finished with a similar tonal shift. While it is clear that Gainax was having trouble funding these episodes I am inclined to believe statements by the show’s creator Anno Hideaki that this was the ending that he really wanted. The experimental style allowed the viewer to literally see what was going on inside Shinji’s head and made the resolution of the problem of his growing self-doubt, arguably the central theme of the show by that time, all the more believable.
-TODO: image from 
+TODO: image from
 ‘End of Evangelion’, on the other hand, was certainly more in keeping with the rest of episodes, and indeed succeeded in being even more over the top. It is saying something when one of the least outlandish scenes was of a German teenager ploughing her way through the Japanese army in a giant mecha while laughing manically and shouting, “Mama, I’ve finally found you”. While it was arguably created to make the ending clearer there I do not think that it really does tell the viewer much more. While we do see Human instrumentality being initiated, in what is certainly one of the most impressive scenes in all of Evangelion, we still do not understand any more about it than when Gendo simply said “Today is the day” in the original penultimate episode. Indeed ‘End’ has its own, much shorter, sequence taking place inside the minds of the protagonists which is even weirder than in the original. The main new element that I think ‘End of Evangelion’ brings to the table are the frankly short but touching conclusions to the character arcs of some of the more minor characters, including my favourites: Lieutenant Ibuki and Professor Fuyutsuki.
 
 Do not take my assertion that ‘End’ is no better than the original to mean that I think it is any worse. Several fans have expressed the opinion that the two endings are really just different versions of the same thing: the original just being a part of the ‘dream’ sequence in ‘End’. I think that there is a lot to support this conclusion but even if you do not subscribe to this viewpoint it is still worth seeing the two together as probably the best endings Evangelion could have had. Sure there will always be people who are annoyed at the unanswered questions: what exactly was the mysterious organisation SEELE which was controlling NERV, where did the Angels come from, what exactly was Instrumentality? Would, however, the show have been better if these questions had been answered? I am reminded of the ending of ‘Ashes to Ashes’ which pretty much fully explained how the ‘Life on Mars’/’Ashes to Ashes’ universe worked. The ending was rightly praised and if its creators wanted to give a definitive answer to the questions the shows posed this was probably the best one they could give. Since the finale, however, I have always had a nagging feeling that something was lost, that the shows were better when the mystery was still alive.

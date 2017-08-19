@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111181016-felix-exhibition_road_bl300609_1.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "699"
 image_attribution: "e-architect.co.uk"

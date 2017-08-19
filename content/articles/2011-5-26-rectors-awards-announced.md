@@ -45,27 +45,27 @@ The Rector’s Awards for Excellence in Research Supervision were awarded to Pro
 
 __Awards for Excellence in Teaching__
 
-Professor Alan Armstrong  
- Mr Greg Artus  
- Professor Donald Craig  
- Dr Robert Davies  
- Dr Gary Hampson  
- Dr Stuart Haslam  
- Dr Patricia Hunt  
- Mr Zen Makuch  
- Dr Dan Moore  
- Dr Kevin Murphy  
- Dr Richard Murphy  
- Dr Alessandra Russo  
- Dr Jane Saffell  
- Dr Sandra Shefelbine  
- Dr Colin Turnbull  
- Professor Andrew Walden  
+Professor Alan Armstrong
+ Mr Greg Artus
+ Professor Donald Craig
+ Dr Robert Davies
+ Dr Gary Hampson
+ Dr Stuart Haslam
+ Dr Patricia Hunt
+ Mr Zen Makuch
+ Dr Dan Moore
+ Dr Kevin Murphy
+ Dr Richard Murphy
+ Dr Alessandra Russo
+ Dr Jane Saffell
+ Dr Sandra Shefelbine
+ Dr Colin Turnbull
+ Professor Andrew Walden
  Professor Helen Ward
 
 __Rector’s Medals for Outstanding Contribution to Teaching Excellence__
 
-Mr Zen Makuch  
+Mr Zen Makuch
  Dr Sandra Shefelbine
 
 __Rector's Medal for Outstanding Innovation in Teaching__
@@ -74,5 +74,5 @@ Dr Jane Saffell
 
 __Rector’s Medals for Excellence in Research Supervision__
 
-Professor Anthony Bull  
+Professor Anthony Bull
  Professor Andrew Bush

@@ -2,7 +2,7 @@
 title: >
   Quick curry-basics cheatsheet
 subtitle: >
-  The cheats behind a basic but beautiful curry 
+  The cheats behind a basic but beautiful curry
 date: "2014-11-10 22:23:30 +0000"
 id: "4845"
 old_path: /food/4845/quick-curry-basics-cheatsheet
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

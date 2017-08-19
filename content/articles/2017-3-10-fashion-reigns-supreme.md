@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201703101310-felix-3888893164_f2eb4b0fa9_o.jpg"
 image_caption: >
-  
+
 image_width: "3008"
 image_height: "2000"
 image_attribution: "Sunghwan Yoon"
@@ -36,7 +36,7 @@ imported: true
 
 If you walk through Beit Quad, you’re more likely than not to find at least one person wearing some sort of flashy outfit. Imperial is not known for any sort of fashion programs but students still love to flex their personal styles, whether it’s the preppy jocks from the Rugby team or flannel clad hipsters from the art clubs. London’s fashion week has come and gone but that has not stopped streetwear fanatics from throughout the world from continuously shopping throughout the SOHO area.
 
-Supreme, a skateboard and street wear company based out of New York has been making waves in the high fashion industry with a collaborative collection with Louis Vuitton from Paris’ fashion week last month. Supreme’s store in London had a massive queue of over 150 guests, cloaked in popular brands like Palace, Tommy Hilfiger, Thrasher, and of course Supreme. All of who hoped to get their hands on their latest drop of clothing. Every Thursday morning, Supreme releases new clothes in stores throughout the world and on\-line. Though the drops are frequent, supplies are limited so once the stock sells out, there is no more supply, causing a high demand for all things Supreme and prices to skyrocket on the resale market.
+Supreme, a skateboard and street wear company based out of New York has been making waves in the high fashion industry with a collaborative collection with Louis Vuitton from Paris’ fashion week last month. Supreme’s store in London had a massive queue of over 150 guests, cloaked in popular brands like Palace, Tommy Hilfiger, Thrasher, and of course Supreme. All of who hoped to get their hands on their latest drop of clothing. Every Thursday morning, Supreme releases new clothes in stores throughout the world and on-line. Though the drops are frequent, supplies are limited so once the stock sells out, there is no more supply, causing a high demand for all things Supreme and prices to skyrocket on the resale market.
 
 The queue formed several blocks away from the store and wrapped around the block in an alley plagued by violent gusts of wind. No items from the Louis Vuitton collaboration were on sale, but that didn’t stop shoppers from buying most of the inventory stock in the store and on sale. By 14:00 almost every top and hat that Supreme had debuted that day had sold out online according to their website.
 

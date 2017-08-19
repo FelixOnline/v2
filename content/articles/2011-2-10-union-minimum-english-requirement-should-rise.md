@@ -1,8 +1,8 @@
 ---
 title: >
-  Union: Minimum English requirement should rise 
+  Union: Minimum English requirement should rise
 subtitle: >
-  The Union’s response to the visa consultation in detail 
+  The Union’s response to the visa consultation in detail
 date: "2011-02-10 20:14:40 +0000"
 id: "768"
 old_path: /news/768/union-minimum-english-requirement-should-rise-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251900-mb506-Imperial.jpg"
 image_caption: >
-  
+
 image_width: "983"
 image_height: "552"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 After traveling on the M25 for approximately 4 hours the Imperial College Shooting team arrived at the prestigious BUCS Clay Shooting Championship in Hodnet, Shropshire.
 
-Imperial College took 8 shooters to the competition who were split into two equal teams, the undergraduates and overgraduates.  
+Imperial College took 8 shooters to the competition who were split into two equal teams, the undergraduates and overgraduates.
  As much as the BUCS win was the ultimate goal, the Imperial Quint-Aplin Trophy, that underlines the rivalry between the students and the ones with money, was also what the Imperial shooters were aiming for.
 
 The 4-hour competition consisted of each individual shooting at 100 clay targets that are launched into the sky at up to 100mph in all kinds of directions - some will fly from behind over your head, whilst others are practically launched straight at you.

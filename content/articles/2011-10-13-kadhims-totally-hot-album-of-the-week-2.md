@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110140040-felix-fatherson-holy-ghost-album-cover.jpg"
 image_caption: >
-  
+
 image_width: "1006"
 image_height: "1006"
 image_attribution: ""
@@ -34,8 +34,8 @@ comments:
 imported: true
 ---
 
-__Girls__  
-_Father, Son, Holy Ghost_  
+__Girls__
+_Father, Son, Holy Ghost_
 2011
 
 Girls’ frontman Christopher Owen is an opiate-addicted former cult-member: have I got your attention? Good. Father, Son, Holy Ghost is the richest indie-rock album that anyone has made in a long time. It’s as rich as a warm chocolate brownie with artery-clogging chocolate sauce on top and a dollop of triple cream on top of that for good coronary measure.

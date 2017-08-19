@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250146-tna08-map-of-europe.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Dear Pietro and Felix EditorsI would like to comment on a tragic mistake in the picture of this article which is also included in the printed version In the picture one would think that all the countries that are supposed to be in the Europe region are coloured however the small country of Cyprus is not coloured while an active member of the European Union holding the presidency last year Also another tragic mistake of the picture is that the country of Turkey which is not a member of the European Union is displayed in colour You might say that I am overreacting however if you are trying to be politically aware you have to do it correctly Turkey cannot enter the EU at the moment because it illegally occupies a 36 of land in Cyprus after the illegal Turkish invasion in the island in 1974 There were many deaths and also thousands of refugees including my father and also relatives of many other students at Imperial hence mistakes like this cannot be acceptedDear RenosI speak for myself in 
+ - Dear Pietro and Felix EditorsI would like to comment on a tragic mistake in the picture of this article which is also included in the printed version In the picture one would think that all the countries that are supposed to be in the Europe region are coloured however the small country of Cyprus is not coloured while an active member of the European Union holding the presidency last year Also another tragic mistake of the picture is that the country of Turkey which is not a member of the European Union is displayed in colour You might say that I am overreacting however if you are trying to be politically aware you have to do it correctly Turkey cannot enter the EU at the moment because it illegally occupies a 36 of land in Cyprus after the illegal Turkish invasion in the island in 1974 There were many deaths and also thousands of refugees including my father and also relatives of many other students at Imperial hence mistakes like this cannot be acceptedDear RenosI speak for myself in
 imported: true
 ---
 

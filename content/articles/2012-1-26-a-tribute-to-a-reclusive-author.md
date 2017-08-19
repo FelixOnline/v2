@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Great article about a great man never knew that he had lived through so muchA cracking article I particularly like the ending which far from emphasising the authors reclusiveness questions the society that would lead someone as gifted as Salinger to renounce fame in the literary world  never knew salinger fought in normandy gives a new perspective on the man and his work 
+ - Great article about a great man never knew that he had lived through so muchA cracking article I particularly like the ending which far from emphasising the authors reclusiveness questions the society that would lead someone as gifted as Salinger to renounce fame in the literary world  never knew salinger fought in normandy gives a new perspective on the man and his work
 imported: true
 ---
 

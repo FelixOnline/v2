@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,5 +40,5 @@ In a lecture on February 2, organised by the [Friends of Imperial College](http:
 
 Professor Aitman spoke both enthusiastically and knowledgeably over the course of his hour-long talk. He explained otherwise complicated technologies very succinctly and presented information in a clear, concise way that did not leave people with limited biochemical knowledge in the dark.
 
-Though this member of the audience is well acquainted with the biochemical principles underlying DNA sequencing and the [Human Genome Project](http://www.ornl.gov/sci/techresources/Human_Genome/home.shtml) it was nevertheless a very engaging talk that prompted one to think about both the near and far-future. Professor Aitman neatly brought together scientific research and its practical applications in personalised drug therapy and preventative medicine. Whilst ethical issues must be faced it is clear that 21st century medicine has a bright future ahead of it.  
+Though this member of the audience is well acquainted with the biochemical principles underlying DNA sequencing and the [Human Genome Project](http://www.ornl.gov/sci/techresources/Human_Genome/home.shtml) it was nevertheless a very engaging talk that prompted one to think about both the near and far-future. Professor Aitman neatly brought together scientific research and its practical applications in personalised drug therapy and preventative medicine. Whilst ethical issues must be faced it is clear that 21st century medicine has a bright future ahead of it.
  The Friends of Imperial College is dedicated to spreading enthusiasm and knowledge of science, technology and medicine. It is independent of, but linked to, one of the premier scientific establishments on the globe and organises lectures and events to spread knowledge and stimulate attention to up-and-coming scientific developments. It can be contacted via [www.friendsofimperial.org.uk](http://www.friendsofimperial.org.uk).

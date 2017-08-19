@@ -54,7 +54,7 @@ __College respond__
 
 The Union received a[ one-and-a-half page statement from the College’s management board](https://www.imperialcollegeunion.org/your-union/campaigns/accommodation/colleges-response), the board that authorised the purchase of the land in North Acton. Their response covered the majority of the points from.
 
-The first part of their report covered their current view. They were keen to stress the increase in bed spaces at the newly refurbished Wilson House, due to open ready for the next cohort of students, as well as an upcoming increase in bed spaces at Beit Hall, following the loss of East Basement.  
+The first part of their report covered their current view. They were keen to stress the increase in bed spaces at the newly refurbished Wilson House, due to open ready for the next cohort of students, as well as an upcoming increase in bed spaces at Beit Hall, following the loss of East Basement.
  One significant point was noting that Garden Hall will close next year, due to “needing refurbishment”. It is unclear as to whether College intend to refurbish the property over the next year, however it has disappeared from the Accommodation website. It’s sister hall, Weeks, remains, alongside the temporary Paragon and Xenia.
 
 Additionally, it was noted that Evelyn Gardens would require some work in the near future. Fisher Hall has been mooted for closure in the past due to the state of the premises, though the impending expiry of the lease caused College to file a joint planning application with the Wellcome Trust to convert it into a nursing home.
@@ -64,7 +64,7 @@ College has stressed that they will continue to look for cheap, close accommodat
 Regarding Evelyn Gardens and Garden Hall, College stated that structural inspection is needed of the halls, which is intended to take place following the end of the academic year. A consultation has been promised on the findings by the end of 2013. Additionally, it is likely that some potential proposals cannot be circulated with the student body due to commercial sensitivity, however Beaumont noted that this likely means that Evelyn Gardens lease will be looked into.
 
 Finally, it was noted that College do not make a profit from accommodation charges, pointing out the cost of building maintenance and property values.
-TODO: image from 
+TODO: image from
 __The way forward with North Acton__
 
 Being the item of complaint with the student body, a specific mention was made of the North Acton development. College have promised that wardening provision will be made at the new hall, in addition to the receptionist service. It was not mentioned, however, how many wardens there would be in the new hall.

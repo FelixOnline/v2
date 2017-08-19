@@ -1,6 +1,6 @@
 ---
 title: >
-  FIG grows by finding eleven more businesses to invest in 
+  FIG grows by finding eleven more businesses to invest in
 subtitle: >
   The finale to Sina Ataherian’s two-part interview with James King, CEO of FIG
 date: "2011-03-03 20:36:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032031-nm1010-figfigfi.jpg"
 image_caption: >
-  
+
 image_width: "5120"
 image_height: "3200"
 image_attribution: ""

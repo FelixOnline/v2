@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072152-jal08-gh6e3940-2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Last weekend saw the battle of the dance teams in the UK’s largest university dance competition at Loughborough. For the first time ever, Funkology represented Imperial in the most contested category, Advanced Hip-hop, up against stiff competition from previous winners.  
+Last weekend saw the battle of the dance teams in the UK’s largest university dance competition at Loughborough. For the first time ever, Funkology represented Imperial in the most contested category, Advanced Hip-hop, up against stiff competition from previous winners.
  Their set revolved around the theme of money, with songs ranging from Macklemore’s Thrift Shop to Madonna’s Material Girl, choreographed by Carlo Frem, Adrianna Liu, Derek Mok and Chris Wood. To add to their dance moves, the routine included fur coats and inappropriate touching, all ending in an explosion of fake money used to “bribe” the judges.
 
 The previously unheard of dance society soon emerged as the dark horses as they went to win the most coveted First Place in Advanced Hip-hop and also Best Male, awarded to the deserving SuviChak Thongborisoot.

@@ -1,6 +1,6 @@
 ---
 title: >
-  Oxbridge aim for £9,000 fees 
+  Oxbridge aim for £9,000 fees
 subtitle: >
   £3,000 reduction for poor students
 date: "2011-02-10 19:58:42 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102101950-ks607-cambridg.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "599"
 image_attribution: ""

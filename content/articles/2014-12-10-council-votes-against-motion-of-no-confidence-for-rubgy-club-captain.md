@@ -1,6 +1,6 @@
 ---
 title: >
-  Council votes against motion of No confidence for Rubgy Club Captain 
+  Council votes against motion of No confidence for Rubgy Club Captain
 subtitle: >
   Council votes to let Hobson live to play another day
 date: "2014-12-10 15:15:07 +0000"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105122015-felix-comment-illustration-12th-may-2011-benjamin-kennedy.jpg"
 image_caption: >
-  
+
 image_width: "2538"
 image_height: "1634"
 image_attribution: "Ben Kennedy"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - There are an awful lot of overseas students at Imperial who already pay exorbitant prices to be able to study hereAre they buying their way in  taking places that could be occupied by poor but talented British students or even poor but talented foreign studentsIm not necessarily either in favour of or against this proposed policy but it seems odd to have a kneejerk negative reaction to it when we all already tolerate the presence of an equally discriminatory systemNo more s All posts of this quliaty from now onaUgA5O  ibfqsksviuhg propecia results  buy tramadol online ahudi 
+ - There are an awful lot of overseas students at Imperial who already pay exorbitant prices to be able to study hereAre they buying their way in  taking places that could be occupied by poor but talented British students or even poor but talented foreign studentsIm not necessarily either in favour of or against this proposed policy but it seems odd to have a kneejerk negative reaction to it when we all already tolerate the presence of an equally discriminatory systemNo more s All posts of this quliaty from now onaUgA5O  ibfqsksviuhg propecia results  buy tramadol online ahudi
 imported: true
 ---
 
@@ -51,5 +51,5 @@ It takes a lot to wake me up from my dazed state of margarita-sipping and sunbat
 
 It looks like Scotland will have a referendum in a few years to decide whether or not to leave the Union. My advice, if any Imperial College students have a vote in that referendum, is to implore everyone you know to get out while you still can. I don’t understand patriotism at the best of times, but lately the news has been giving me every reason to actively avoid it.
 
-If you’ve got a safehouse near the English border and can help me to flee the country, get in touch at  
+If you’ve got a safehouse near the English border and can help me to flee the country, get in touch at
  anangrygeek@gmail.com.

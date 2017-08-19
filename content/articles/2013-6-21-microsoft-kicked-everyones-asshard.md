@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Are you stupid 
+ - Are you stupid
 imported: true
 ---
 

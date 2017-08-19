@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Starting this October, College will be welcoming Prof. Nigel Brandon as its new Engineering Dean. Though he is currently the Director of Imperial’s Sustainable Gas Institute \(ha\), Brandon’s love affair with Imperial dates back to the 70s, when he started his undergraduate degree and later did his PhD. Since then,  he’s held positions at BP and Rolls Royce, as well as at the UK Research Council’s energy programme. Brandon will be replacing Prof. Jeff Magee who’s held the role of Dean since 2011. He’s been serving as Vice\-Dean \(Research\) for the past year.
+Starting this October, College will be welcoming Prof. Nigel Brandon as its new Engineering Dean. Though he is currently the Director of Imperial’s Sustainable Gas Institute (ha), Brandon’s love affair with Imperial dates back to the 70s, when he started his undergraduate degree and later did his PhD. Since then,  he’s held positions at BP and Rolls Royce, as well as at the UK Research Council’s energy programme. Brandon will be replacing Prof. Jeff Magee who’s held the role of Dean since 2011. He’s been serving as Vice-Dean (Research) for the past year.
 
 In a press release, the Provost James Stirling welcomed Brandon calling him “the ideal person to lead the Faculty through this exciting next stage”. Brandon seems to be equally stoked, finding the opportunity “a tremendous privilege” and “looking forward to us all working together to realise the opportunities ahead in both teaching and research.”
 

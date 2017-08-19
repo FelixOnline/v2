@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182214-felix-signing_us_constitutionrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 I completely accept that few will care. And, I completely accept, that, at the minute, the changes will affect very few people. Changing the Union’s Constitution is important though – and, as well as explaining why I want to do it, I’ll try and explain what needs changing, a little briefer than the four thousand word ‘guide to the twenty-thousand-word constitution’ I’m proposing.
 
-Most of the changes proposed focus on how the Union operates structurally at the top: so few people will even realise there’s been a change, unless you get disciplined, sit on the Union Council or are a sabbatical officer. So what’s the point of changing it then if it won’t affect anything practical?  
+Most of the changes proposed focus on how the Union operates structurally at the top: so few people will even realise there’s been a change, unless you get disciplined, sit on the Union Council or are a sabbatical officer. So what’s the point of changing it then if it won’t affect anything practical?
  The Union has to register as a Charity, following the Charities Act 2006 which removes our exempt status. Not registering, and losing our charity status would mean we have to pay corporation tax. Inevitably to cover the cost of running the Union if we had to pay out more (on taxes), we’d have to find more income, and the only place realistically to find more income would be by rising bar prices. Remember that the commercial income and the College subvention are the only two things that make the Union money. Everything else costs: running the representation system costs; running a Welfare Advice service costs; subsidising Clubs & Societies costs; cleaning and maintaining the buildings cost. We have to make money somewhere. So let’s register and keep the amount of money we need to raise to keep operating at a minimum.
 
 Registering as a Charity will mean that our constitution is locked down considerably more tightly than it has been in previous years: we’ll now need the Charity Commission to approve any changes we make to our Constitution too, not just the College. So now – just before we register – is the perfect time to reform the governance of the Union. Over the last few years, we’ve all witnessed a failing of governance within the Union: substantial financial losses in both 2010 and 2011; the Summer Ball 2011 (I’ll say no more); delays to releasing elections results due to bureaucracy – causing people to lose faith in the system. It needs reform. Not only does it need reform – it needs it now, so I can then concentrate on things that will have a more direct effect on students throughout the year, for instance writing more responses to government proposals to the Higher Education sector that have been submitted already!

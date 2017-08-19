@@ -2,7 +2,7 @@
 title: >
   Felix Film talks to Aragorn
 subtitle: >
-  Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method 
+  Lucy Wiles interviews Viggo Mortensen, the star of A Dangerous Method
 date: "2012-02-09 23:53:18 +0000"
 id: "2178"
 old_path: /film/2178/felix-film-talks-to-aragorn

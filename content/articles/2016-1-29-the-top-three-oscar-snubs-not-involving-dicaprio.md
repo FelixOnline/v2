@@ -34,16 +34,16 @@ comments:
 imported: true
 ---
 
-Well it looks like the drought is finally over. After putting out several arguably ‘Oscar\-worthy’ performances Leonardo DiCaprio may finally be awarded his long awaited and joked\-about Oscar. We have Alejandro G. Iñárritu and _The Revenant_ to thank for this. However, whilst DiCaprio is the most famous repeat snubée the Academy has a history of some seriously massive blunders \(\*cough\* _Chicago_\). Let’s look at some other examples:
+Well it looks like the drought is finally over. After putting out several arguably ‘Oscar-worthy’ performances Leonardo DiCaprio may finally be awarded his long awaited and joked-about Oscar. We have Alejandro G. Iñárritu and _The Revenant_ to thank for this. However, whilst DiCaprio is the most famous repeat snubée the Academy has a history of some seriously massive blunders (*cough* _Chicago_). Let’s look at some other examples:
 
 Andy Serkis
 
-It’s an interesting debate when you think about it. Can/should an actor portraying a 100% computer\-generated character be recognised by the Academy? It’s an interesting debate when you think about it. Should the Oscar not go to the animators? Ultimately, with the advancing precision of technology I think that acting as a CG character should be considered just as legitimate as ‘real\-life’ performances. Many people seemingly agree both with this since, in 2011, thousands petitioned a nomination for Serkis’ role in _Rise of the Planet of the Apes_. Keep up with the times guys.
+It’s an interesting debate when you think about it. Can/should an actor portraying a 100% computer-generated character be recognised by the Academy? It’s an interesting debate when you think about it. Should the Oscar not go to the animators? Ultimately, with the advancing precision of technology I think that acting as a CG character should be considered just as legitimate as ‘real-life’ performances. Many people seemingly agree both with this since, in 2011, thousands petitioned a nomination for Serkis’ role in _Rise of the Planet of the Apes_. Keep up with the times guys.
 
 TildaSwinton
 
-OK, before you say it, yes we all know she already has an Oscar. The issue here is that in a world where Bradley Cooper has been nominated three times \(Holy sweet lord Jesus, how can anyone like _American Hustle_ or _American Sniper_?\) the fact that Tilda Swinton has only ever been nominated once is getting more and more ridiculous. In my opinion, the snub for her portrayal of Eva in _We Need to Talk About Kevin_ is the stand\-out example of pure injustice.
+OK, before you say it, yes we all know she already has an Oscar. The issue here is that in a world where Bradley Cooper has been nominated three times (Holy sweet lord Jesus, how can anyone like _American Hustle_ or _American Sniper_?) the fact that Tilda Swinton has only ever been nominated once is getting more and more ridiculous. In my opinion, the snub for her portrayal of Eva in _We Need to Talk About Kevin_ is the stand-out example of pure injustice.
 
 JamieFoxx
 
-I don’t normally do this but let’s keep this bullet point\-level simple: _Django Unchained_ is a phenomenal film; Jamie Foxx is perfect in it. _Les Misérables_ is a terrible film; Hugh Jackman’s performance in it was awful. Somebody go back to 2013 and swap these nominations. Thank you.
+I don’t normally do this but let’s keep this bullet point-level simple: _Django Unchained_ is a phenomenal film; Jamie Foxx is perfect in it. _Les Misérables_ is a terrible film; Hugh Jackman’s performance in it was awful. Somebody go back to 2013 and swap these nominations. Thank you.

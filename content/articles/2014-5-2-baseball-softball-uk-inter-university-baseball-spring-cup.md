@@ -2,7 +2,7 @@
 title: >
   Baseball Softball UK Inter-University Baseball Spring Cup
 subtitle: >
-  The Imperial Falcons participated in the BSUK Inter-university Baseball Spring Cup over the weekend of the 22nd and 23rd of March with a team composed largely of newcomers and achieved a respectable third place finish after close losses to the top two teams. 
+  The Imperial Falcons participated in the BSUK Inter-university Baseball Spring Cup over the weekend of the 22nd and 23rd of March with a team composed largely of newcomers and achieved a respectable third place finish after close losses to the top two teams.
 date: "2014-05-02 02:05:42 +0100"
 id: "4563"
 old_path: /sport/4563/baseball-softball-uk-inter-university-baseball-spring-cup
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

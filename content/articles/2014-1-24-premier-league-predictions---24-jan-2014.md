@@ -2,7 +2,7 @@
 title: >
   Premier League Predictions - 24 Jan 2014
 subtitle: >
-  James White gives his midweek predictions 
+  James White gives his midweek predictions
 date: "2014-01-24 10:04:21 +0000"
 id: "4291"
 old_path: /sport/4291/premier-league-predictions---24-jan-2014
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

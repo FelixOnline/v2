@@ -1,6 +1,6 @@
 ---
 title: >
-  The triumphant return of Guitar Hero 
+  The triumphant return of Guitar Hero
 subtitle: >
   FreeStyleGames’ latest rhythm game is addictive, immersive and refreshingly reactive
 date: "2015-11-06 14:23:43 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511061423-ygr12-tiny.jpg"
 image_caption: >
-  Only Imperial’s supercomputer, Helen, could render graphics this good. 
+  Only Imperial’s supercomputer, Helen, could render graphics this good.
 image_width: "0"
 image_height: "0"
 image_attribution: "Activision"

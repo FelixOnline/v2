@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202047-dr910-soumayaa.jpg"
 image_caption: >
-  
+
 image_width: "1899"
 image_height: "1714"
 image_attribution: ""

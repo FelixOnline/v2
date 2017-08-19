@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201005211312-srg03-Facebook.jpg"
 image_caption: >
-  
+
 image_width: "950"
 image_height: "654"
 image_attribution: ""
@@ -44,7 +44,7 @@ Facebook's attitude towards finding this proverbial line has made the problem ma
 
 These changes to the service would be fine if Facebook clearly notified their users each time a change was made, or making the changes opt-in. Problem is time and time again they haven't, simply moving all users to the new, more open, privacy settings by default. It's a stalkers paradise but a job seekers nightmare. Even if you maintain a strict handle on your own settings, your privacy is also in the hands of people whom you are in photos with, and whose walls your write on. Safely maintaining that extended presence on the internet is practically impossible.
 
-The concerns about Facebook's attitude towards privacy are heightened by the apparent nature of founder Mark Zuckerberg's development of the website. Before Zuckerberg even coded Facebook, he worked on a small project called Facemash, which allowed users of the website to rank students from Harvard by attractiveness. The only problem was Zuckerberg needed users on his website, and to get those users he hacked into Harvard's student database, downloading the required information to kick the website off. He then joined a team of students working on a social networking project called “ConnectU”, and then bailed to start Facebook using their ideas. Facebook paid $65m to the other members of the team after a lawsuit; an amount sizeable enough to suggest that there was some truth in the allegations that Zuckerberg stole ConnectU's ideas. And finally, a chat transcript from early in Facebook's days catches Zuckerberg calling users “dumb f\*\*s” for uploading all their personal information onto his website. A healthy attitude for a man now in charge of 400 million user accounts.
+The concerns about Facebook's attitude towards privacy are heightened by the apparent nature of founder Mark Zuckerberg's development of the website. Before Zuckerberg even coded Facebook, he worked on a small project called Facemash, which allowed users of the website to rank students from Harvard by attractiveness. The only problem was Zuckerberg needed users on his website, and to get those users he hacked into Harvard's student database, downloading the required information to kick the website off. He then joined a team of students working on a social networking project called “ConnectU”, and then bailed to start Facebook using their ideas. Facebook paid $65m to the other members of the team after a lawsuit; an amount sizeable enough to suggest that there was some truth in the allegations that Zuckerberg stole ConnectU's ideas. And finally, a chat transcript from early in Facebook's days catches Zuckerberg calling users “dumb f**s” for uploading all their personal information onto his website. A healthy attitude for a man now in charge of 400 million user accounts.
 
 Yet the one thing that has kept people on Facebook has been inertia. Once you have built up a friends list containing a network of hundreds of friends and family, no one is going to want to switch networks and rebuild that. Even more valuable are the pictures, videos and other content you might have saved on the website, a fact Zuckerberg is keenly aware of.
 

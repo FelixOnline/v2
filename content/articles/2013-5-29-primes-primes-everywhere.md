@@ -1,6 +1,6 @@
 ---
 title: >
-  Primes, primes everywhere! 
+  Primes, primes everywhere!
 subtitle: >
   Mathematicians get closer to solving one of the greatest problems in number theory.
 date: "2013-05-29 17:29:01 +0100"

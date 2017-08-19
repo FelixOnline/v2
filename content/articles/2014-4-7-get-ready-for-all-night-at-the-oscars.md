@@ -2,7 +2,7 @@
 title: >
   Get Ready For All Night At The Oscars
 subtitle: >
-  As we near the end of another exhausting term at our favourite university, the return of the hallowed Imperial cinema All-Nighter also rapidly approaches. In a year of unusually high caliber for Oscar nominated films, we’ve selected the crème de la crème of the Oscar crop just for you. 
+  As we near the end of another exhausting term at our favourite university, the return of the hallowed Imperial cinema All-Nighter also rapidly approaches. In a year of unusually high caliber for Oscar nominated films, we’ve selected the crème de la crème of the Oscar crop just for you.
 date: "2014-04-07 12:47:32 +0100"
 id: "4521"
 old_path: /film/4521/get-ready-for-all-night-at-the-oscars
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

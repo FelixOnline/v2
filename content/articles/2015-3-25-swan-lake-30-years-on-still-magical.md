@@ -2,7 +2,7 @@
 title: >
   Swan Lake 30 years on: still magical?
 subtitle: >
-  Fred Fyles finds ROH’s ballet in need of updating despite strong dancing 
+  Fred Fyles finds ROH’s ballet in need of updating despite strong dancing
 date: "2015-03-25 13:27:49 +0000"
 id: "5451"
 old_path: /arts/5451/swan-lake-30-years-on-still-magical
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251327-ff712-ap--20150876-natalia-osipova-as-odette,-matthew-golding-as-prince-siegfr...a.jpg"
 image_caption: >
-  Natalia Osipova as Odette and Matthew Golding as Prince Siegfried. 
+  Natalia Osipova as Odette and Matthew Golding as Prince Siegfried.
 image_width: "0"
 image_height: "0"
 image_attribution: "Alice Pennefather"

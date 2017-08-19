@@ -2,7 +2,7 @@
 title: >
   Best in Class: Crime
 subtitle: >
-  James Simpson on television’s best cops, robbers, detectives and con-men 
+  James Simpson on television’s best cops, robbers, detectives and con-men
 date: "2011-03-03 20:01:39 +0000"
 id: "1001"
 old_path: /tv/1001/best-in-class-crime
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103031958-nm1010-spookssp.jpg"
 image_caption: >
-  
+
 image_width: "2000"
 image_height: "1224"
 image_attribution: ""

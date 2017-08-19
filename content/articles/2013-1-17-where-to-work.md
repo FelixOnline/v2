@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 This week there is a [feature on page 10 (it’s one of my picks) about internships](http://felixonline.co.uk/news/3127/internship-decisons-city--or-charity/). The basic idea is to interview a few people who have done city internships and some that have done third sector work. The plan is to see what similarities and differences there are. Obviously, this isn’t some survey from the survey fetishists over at Ipsos MORI, so it’s not the largest most scientific set of data. What’s interesting is the general trend: we like internships (and you can extrapolate jobs) where we gain some kind of valuable experience, and where we feel like we are actually a valued and important member of the team. Of course, if your long term goal is to just work for the company, then you may be more interested in networking during an internship, and there are many other situations where you may want different experiences. For example, horny people may be seeking multiple sexual partners while also wanting to be valued for their hard work – but I wouldn’t put down “sex drive of Russell Brand” on your CV. The point is that we obviously want to feel wanted in some way. Nobody wants to just be the person updating a calendar or reformatting a word document.
 
-When reading the feature, you can make up your mind as to what you think and which of the jobs sounds best based on what they liked and hated the most.  
+When reading the feature, you can make up your mind as to what you think and which of the jobs sounds best based on what they liked and hated the most.
  The reason I write this is because elections are on their way. That’s when I’m deposed and someone else takes a crack at it.
 
 What do I do after this year? Journalism? Science? Science journalism? Do I apply for a job in the city? I’ve been thinking about it. Don’t lie and say you’ve never entertained the thought, we all have had that “hmm, maybe” thought. For some people, they really do find finance and economics fascinating. Or they just really like the environment of a company. Perhaps they like the fact that there is sense of camaraderie. That’s absolutely fine if you do. Personally, except for the fact that you get to meet a bunch of new people, I don’t think I really have much interest in that sector.

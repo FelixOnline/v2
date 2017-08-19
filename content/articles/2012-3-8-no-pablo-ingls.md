@@ -44,6 +44,6 @@ Without a doubt, what I most appreciated from the exhibition was the opportunity
 
 As promised by the second part of the exhibition’s name, you are not going to be visiting a purely chronological display of those of Picasso’s pictures that were particularly admired or hated by the British; you will also explore how his art inspired and influenced seven great British modern artists. Although interesting I sometimes found the comparisons between Picasso’s work and that of Grant, Lewis, Nicholson, Moore, Bacon, Sutherland and Hockney a bit forced and far fetched. Still, the rooms that contain British art, which are interspersed with those displaying that of the Spaniard, are enjoyable and provide a brief introduction to British modernism, for the sake of anyone who finds it a foreign concept.
 
-In 1960, The Times said about the __Tate__ Picasso exhibition that the “Curiosity aroused by the magic name of Picasso appeared to be the chief attraction”. Such was the case for me, and the art definitely did not let me down.  
-  
+In 1960, The Times said about the __Tate__ Picasso exhibition that the “Curiosity aroused by the magic name of Picasso appeared to be the chief attraction”. Such was the case for me, and the art definitely did not let me down.
+
 _Picasso and Modern British Art_: at __Tate Britain__ until 15 July. Tickets from £14.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102019-dr910-MArlingd.jpg"
 image_caption: >
-  
+
 image_width: "1700"
 image_height: "2338"
 image_attribution: "NME"

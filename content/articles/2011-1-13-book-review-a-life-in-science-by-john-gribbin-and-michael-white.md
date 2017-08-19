@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132016-ks607-alifeins.jpg"
 image_caption: >
-  
+
 image_width: "304"
 image_height: "475"
 image_attribution: ""

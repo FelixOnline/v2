@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706091658-ea3211-Screen Shot 2017-06-09 at 16.58.41.png"
 image_caption: >
-  
+
 image_width: "2201"
 image_height: "1130"
 image_attribution: ""
@@ -36,9 +36,9 @@ imported: true
 
 I've lived in various places all over London over the last eight years, but I always come back to Shepherd’s Bush. It's not the geographical convenience or the relative cheapness that keeps me there, it’s the fact that Shepherd’s Bush feels like home.
 
-I feel at home on the Green, with its gently undulating mounds. It’s where I had my first kiss with a boyfriend, and where I've spent balmy summer evenings lying on the grass, drinking wine from the bottle and smoking until my lungs burned, musing with friends over ill\-advised text messages to crushes.
+I feel at home on the Green, with its gently undulating mounds. It’s where I had my first kiss with a boyfriend, and where I've spent balmy summer evenings lying on the grass, drinking wine from the bottle and smoking until my lungs burned, musing with friends over ill-advised text messages to crushes.
 
-I love Shepherd’s Bush Market, that resists gentrification by having real community spirit. Hipster cafés are springing up but they're embedded in the community, with local area at the heart of everything they do. You can just as likely get Mr. Falafel \(reputed to be the best in London\) as goat curry \(both excellent choices\) or you can visit the Polish sweet shop, the Australian store or the Lebanese bakery that all sit nestled next to a Caribbean takeaway and a Nepalese restaurant, that never fail to make me hungry as I pass.
+I love Shepherd’s Bush Market, that resists gentrification by having real community spirit. Hipster cafés are springing up but they're embedded in the community, with local area at the heart of everything they do. You can just as likely get Mr. Falafel (reputed to be the best in London) as goat curry (both excellent choices) or you can visit the Polish sweet shop, the Australian store or the Lebanese bakery that all sit nestled next to a Caribbean takeaway and a Nepalese restaurant, that never fail to make me hungry as I pass.
 
 In the evenings, the streets fill with people talking, walking, and sitting in the cafés and restaurants. Where other parts of London become dark and deserted at night, the pavements of Uxbridge Road line with tables and people, light pouring out from every window. It’s lively and vibrant around the clock, a mix of people from different countries, histories and classes.
 

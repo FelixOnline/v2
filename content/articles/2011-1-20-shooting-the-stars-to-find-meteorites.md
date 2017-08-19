@@ -1,6 +1,6 @@
 ---
 title: >
-  Shooting the stars to find meteorites 
+  Shooting the stars to find meteorites
 subtitle: >
   New meteorite in Western Australia’s Nullarbor Desert
 date: "2011-01-20 19:20:31 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201918-ks607-timelaps.jpg"
 image_caption: >
-  
+
 image_width: "1500"
 image_height: "1000"
 image_attribution: ""

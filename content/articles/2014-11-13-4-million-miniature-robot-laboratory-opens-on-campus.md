@@ -2,7 +2,7 @@
 title: >
   £4 million miniature robot laboratory opens on campus
 subtitle: >
-  Imperial opens yet another robotic lab, making it only a matter of time before we are overrun in a scene similar to that of I, Robot. 
+  Imperial opens yet another robotic lab, making it only a matter of time before we are overrun in a scene similar to that of I, Robot.
 date: "2014-11-13 14:25:43 +0000"
 id: "4857"
 old_path: /news/4857/4-million-miniature-robot-laboratory-opens-on-campus
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411131425-ps3110-kid-shot-himself-in-the-head-surgery-num-2-blood-clot.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

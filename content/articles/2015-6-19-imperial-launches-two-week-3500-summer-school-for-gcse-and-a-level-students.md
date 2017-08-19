@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial launches two week, £3,500 summer school for GCSE and A-Level students 
+  Imperial launches two week, £3,500 summer school for GCSE and A-Level students
 subtitle: >
   The course will also help students with UCAS and Medical school applications
 date: "2015-06-19 13:17:22 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201506191416-ps3110-screen-shot-2015-06-19-at-14.16.09.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

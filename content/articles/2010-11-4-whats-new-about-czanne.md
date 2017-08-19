@@ -2,7 +2,7 @@
 title: >
   What's new about Cézanne?
 subtitle: >
-  It’s more than 100 years since Cézanne, one of the great French post-impressionist painters died, so how much more is there to say? Find out at the Courtauld Gallery 
+  It’s more than 100 years since Cézanne, one of the great French post-impressionist painters died, so how much more is there to say? Find out at the Courtauld Gallery
 date: "2010-11-04 18:05:48 +0000"
 id: "290"
 old_path: /arts/290/whats-new-about-czanne

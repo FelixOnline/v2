@@ -2,7 +2,7 @@
 title: >
   Blood: A Tale of Two Halves
 subtitle: >
-  Clara Nevola Clark finds Soho Theatre’s play divisive 
+  Clara Nevola Clark finds Soho Theatre’s play divisive
 date: "2015-05-13 14:12:19 +0100"
 id: "5513"
 old_path: /arts/5513/blood-a-tale-of-two-halves
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

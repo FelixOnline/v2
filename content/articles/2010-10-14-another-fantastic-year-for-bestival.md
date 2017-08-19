@@ -1,6 +1,6 @@
 ---
 title: >
-  Another fantastic year for Bestival 
+  Another fantastic year for Bestival
 subtitle: >
   Seriously freakin' awesome fun on the Isle of Wight!
 date: "2010-10-14 19:25:22 +0100"

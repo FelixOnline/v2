@@ -54,7 +54,7 @@ While the percentage of supporters were equally distributed among the three coun
 
 It is noteworthy that all participants said we should rely more on future information about benefits and risks coming from scientists at research centers and academics, rather than from federal governments.
 
-“I think this is the first in line of many studies that will show that SRM intersects with people’s political and environmental attitudes in surprising ways” says Ashley Mercer, lead author of the study.  
+“I think this is the first in line of many studies that will show that SRM intersects with people’s political and environmental attitudes in surprising ways” says Ashley Mercer, lead author of the study.
  The perception of risk will likely play a central role in the debate about the use of SRM to reduce global warming, but this survey shows that the public are aware of what scientists are doing and support them more than the scientists might expect.
 
 _DOI:10.1088/1748-9326/6/4/044006_

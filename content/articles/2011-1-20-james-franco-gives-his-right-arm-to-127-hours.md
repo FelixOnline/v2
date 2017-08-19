@@ -1,6 +1,6 @@
 ---
 title: >
-  James Franco gives his right arm to 127 Hours 
+  James Franco gives his right arm to 127 Hours
 subtitle: >
   A noteworthy cinematic achievement but will probably miss out on an Oscar
 date: "2011-01-20 19:48:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201947-ks607-jamesfra.jpg"
 image_caption: >
-  
+
 image_width: "1500"
 image_height: "1000"
 image_attribution: ""

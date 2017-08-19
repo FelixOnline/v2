@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232023-felix-skylon-orbit-reaction-engines.jpg"
 image_caption: >
-  
+
 image_width: "2480"
 image_height: "1859"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - er oxygen a FUEL Thought IC was a science collegeWe should be proud that companies with such vision are here in the UK 
+ - er oxygen a FUEL Thought IC was a science collegeWe should be proud that companies with such vision are here in the UK
 imported: true
 ---
 

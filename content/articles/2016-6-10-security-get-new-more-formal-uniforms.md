@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,9 +34,9 @@ comments:
 imported: true
 ---
 
-On Monday, college support staff, including the security team, were given brand new uniforms, which for the security staff meant cumbersome new ties, epaulettes, long\-sleeved shirts with the Imperial logo and suit jackets with name badges.
+On Monday, college support staff, including the security team, were given brand new uniforms, which for the security staff meant cumbersome new ties, epaulettes, long-sleeved shirts with the Imperial logo and suit jackets with name badges.
 
-Whereas before, the security staff were free to wear collared white shirts of any sleeve length, depending on the weather, they now must wear long\-sleeved branded shirts with their suits at all times. This week, temperatures hit highs of 26°C, making the new outfits particularly impractical.
+Whereas before, the security staff were free to wear collared white shirts of any sleeve length, depending on the weather, they now must wear long-sleeved branded shirts with their suits at all times. This week, temperatures hit highs of 26°C, making the new outfits particularly impractical.
 
 Imperial’s security department website says its top priority is to “the protection of College students, staff and visitors from harm through physical assault, fire or smoke inhalation”, which are activities which arguably need security officers who can move across campus quickly.
 

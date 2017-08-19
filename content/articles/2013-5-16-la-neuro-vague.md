@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305171544-tna08-susan-aldworth-2-the-portrait-anatomised-lecture-18-april-2013.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ Her portrait isn’t anatomised, but rather her anatomy is portrait-ised. Wide e
 
 Elisabeth’s face forms her womb, representing the struggle she faced when considering how to become pregnant whilst dealing with her epilepsy and deciding whether or not tocome off the medication, which could harm her unborn child.
 
-If her head is a metaphor for her preoccupations, are our brains a metaphor for our minds? In neuroscience, they are one and the same, but on a human level this isn’t the simplest thing to accept.  
+If her head is a metaphor for her preoccupations, are our brains a metaphor for our minds? In neuroscience, they are one and the same, but on a human level this isn’t the simplest thing to accept.
  Adjacent to Elisabeth sits Max. The first thing that strikes the viewer is a photo of his face, eyes closed it seems to speak of relief, pain, contemplation, all or neither of those things. We are prompted to decide, white on black and particularly striking.
 
 Aldworth wanted us to feel as though we are diving into space – the matter that makes up the subjects and ourselves.
@@ -57,7 +57,7 @@ The swirls then link the canvas to the exterior world; I’d really like to beli
 
 “I always like my work to look like it has just landed on the page and is about to move off, so electricity [used by brain cells to communicate] provided me with a wonderful subject matter because it is transitory. It moves with the moment,” explains Aldworth.
 
-The third portrait is of Fiona. Just like the other two, her huge eyes bear down, but unlike the others, her heart sits in between them. Ancient idioms about listening to hearts vs. heads come to mind.  
+The third portrait is of Fiona. Just like the other two, her huge eyes bear down, but unlike the others, her heart sits in between them. Ancient idioms about listening to hearts vs. heads come to mind.
  Where her hands should be, Fiona’s ears form a creepy eye-to-ear piercing gaze, locked with the viewer’s. It is as though we are trying to see what she hears by looking at her portrait, and in this way it seems as though her epilepsy affects how she perceives herself alongside how we perceive her.
 
 All portraits also feature each subject’s electroencephalogram (EEG) readings. These are basically readings of brainwaves, and are the way in which epilepsy is detected and diagnosed. When a seizure occurs the electrical activity of a huge number of brain cells synchronise when they should not and activity becomes large enough to be detected by the EEG. Though brainwaves carry information, thoughts cannot be decoded from them. In this way, the beautiful patterns, displayed in the heart of the picture, hold so much personal information yet tell us nothing about who the subjects really are.

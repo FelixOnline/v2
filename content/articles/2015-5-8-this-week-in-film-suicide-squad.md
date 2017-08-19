@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-In the face of Marvel’s continued success with their Cinematic Universe, DC have begun throwing out early glimpses of their upcoming slate, kicking off with a trailer for _Batman vs Superman: Dawn of Justice_\*, and now the first image of the Suicide Squad all together.
+In the face of Marvel’s continued success with their Cinematic Universe, DC have begun throwing out early glimpses of their upcoming slate, kicking off with a trailer for _Batman vs Superman: Dawn of Justice_*, and now the first image of the Suicide Squad all together.
 
 David Ayer posted the group shot to his Twitter account, giving fans their first glimpse of Margot Robbie’s Harley Quinn, alongside Will Smith as Deadshot, Jai Courtenay as Captain Boomerang, and a heavily made-up Cara Delevigne as Enchantress.
 
@@ -45,4 +45,4 @@ The group shot is an interesting one, though. It’s mostly composed of Ayer’s
 
 Harley Quinn looks like the only one to have actually sprung from a comic book, so seeing her play off the other Squad members, as well as the Joker (and Ben Affleck’s Batman, who’s making an appearence) could be the real highligh of the film. Robbie is one to watch, after all.
 
-\*Yes, that is the real title. And yes, I stole this joke.
+*Yes, that is the real title. And yes, I stole this joke.

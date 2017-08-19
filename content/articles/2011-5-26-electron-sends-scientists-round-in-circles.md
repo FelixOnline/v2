@@ -1,6 +1,6 @@
 ---
 title: >
-  Electron sends scientists round in circles 
+  Electron sends scientists round in circles
 subtitle: >
   Electron found to be extremely spherical, with implications for matter vs. anti-matter puzzle
 date: "2011-05-26 19:16:12 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105262016-felix-gas_plasma_ball_multicoloured_blue_red_glowing_black_background_1024_x_768.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

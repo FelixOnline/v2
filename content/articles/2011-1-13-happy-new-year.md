@@ -1,6 +1,6 @@
 ---
 title: >
-  Happy New Year? 
+  Happy New Year?
 subtitle: >
   Look backing at last year's films and looking forward to an exciting 2011
 date: "2011-01-13 19:42:55 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131941-ks607-milakuni.jpg"
 image_caption: >
-  
+
 image_width: "490"
 image_height: "403"
 image_attribution: ""

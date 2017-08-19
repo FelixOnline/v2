@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201311132249-me1711-tech_crtl.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ There is no doubt that technological advancements over the past few decades have
 
 According to recent studies by NGOs and social enterprises, over 2 billion people in the developing world lack access to basic information and communication technologies (NoPC). More than 72 million children around the world remain unschooled (Humanium) and over 1 billion people rely on unsafe sources of water (UN). If we can use technology to better our already comfortable lives, we certainly can do more using technology to make a difference to the lives of the less fortunate.
 
-The rise of modern technology has made production costs lower, administering healthcare treatments easier and dissemination of information quicker. This makes technology one of the key components in accelerating social changes, by enabling people to do more and give more. Many individuals and organisations have seen the potential in transforming the social sector through technology, and have been actively coming up with technological solutions that promise to alleviate pressing social problems.  
+The rise of modern technology has made production costs lower, administering healthcare treatments easier and dissemination of information quicker. This makes technology one of the key components in accelerating social changes, by enabling people to do more and give more. Many individuals and organisations have seen the potential in transforming the social sector through technology, and have been actively coming up with technological solutions that promise to alleviate pressing social problems.
  Take for example, PEEK, a London-based group, who are making high quality eye care portable, cost effective and intuitive in developing countries possible through the use of smart-phone cameras. Not only are smartphones portable and cost-effective, its simplicity in usage empowers more health workers to diagnose eye diseases and manage such treatments anywhere in the world. With 285 million visually impaired people worldwide, PEEK presents a much-needed alternative to high cost diagnostic tests that are available mostly in high-income countries.
 
 The pervasiveness of social networks in today’s world also presents great opportunities to raise awareness about social issues. In this aspect, Thunderclap helps causes amplify their messages by pushing a timed social media post from all their supporters. Individuals and organisations can now reach out to larger audiences with greater ease and efficiency, by leveraging the power of social connections on the web.

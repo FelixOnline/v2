@@ -36,7 +36,7 @@ imported: true
 ---
 
 ## ## __The Finborough Theatre__
-## 
+##
 If every small theatre were like the Finborough I’d probably never have any complaints. Punching well above its weight, the Finborough has long been regarded as one of the absolute best fringe venues in London for a number of years. A small theatre which uniquely hosts a number of well-known actors and writers, the Finborough’s creative vision is unique in that they pursue a policy of never performing a play which has been shown in London in the last 20 years. Whether that is new writing or unloved masterpieces, the Finborough is known throughout the theatre community as a sure-fire bet for a good show. Completely unsubsidised, few other theatres need your support as much as the Finborough.
 
 __Next:___The Grand Tour_
@@ -55,7 +55,7 @@ __Next: ___The Seperation_
 
 Set in the run-up to Ireland’s historical divorce referendum of 1995, this play explores the mechanics and intimacies of a breakdown of a family in crisis; within a domestic setting, dark truths are brought to light and expunged in this dramatic tale.
 ## ## ____Wilton’s Music Hall____
-Although once a mainstay of London life, the music hall has dissapeared from our streets; luckily for Wilton’s, the historical value of such venues has been recognised, and the hall is now Grade II\* listed, protected from demolition. Others have not been so lucky
+Although once a mainstay of London life, the music hall has dissapeared from our streets; luckily for Wilton’s, the historical value of such venues has been recognised, and the hall is now Grade II* listed, protected from demolition. Others have not been so lucky
 
 Currently under restoration, although not closed, the hall plays host to a number of productions, including opera, music, cabaret, and dance. Its location is also unique: just off Cable Street, the hall is at the junction between the city and the East End, an area that has been dynamically changing for years, and is now rapidly gentrifying.
 

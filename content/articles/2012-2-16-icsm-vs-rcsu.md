@@ -2,7 +2,7 @@
 title: >
   ICSM VS RCSU
 subtitle: >
-  The RCSU is challenging ICSMSU at the Tuesday Quiz Night on February 28 in FiveSixEight. Ahead of this, the Comment pages of Felix are taken over to see which is better. 
+  The RCSU is challenging ICSMSU at the Tuesday Quiz Night on February 28 in FiveSixEight. Ahead of this, the Comment pages of Felix are taken over to see which is better.
 date: "2012-02-16 22:15:58 +0000"
 id: "2210"
 old_path: /comment/2210/icsm-vs-rcsu
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202162242-sjw209-img_9303.jpg"
 image_caption: >
-  
+
 image_width: "5184"
 image_height: "3456"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 ___Disclaimer: __If you read this as anything other than a bit of banterous free advertising for our joint event, then you read too hard._
 
-####  RCSU IS BETTER:   
+####  RCSU IS BETTER:
  Paul Beaumont, RCSU Vice President (Operations)
 
 I run the inherent risk of making myself unpopular in writing this: and so I shall endeavour to explain why – as uncontroversially as possible, but without question – the RCSU is better than the ICSMSU.
@@ -56,7 +56,7 @@ But then, the RCSU serves a greater purpose than just this social lark the medic
 
 And so – for fear of wittering on too much, I conclude as thus: ICSMSU, as a union, is good – but given its resources should be so many times more brilliant than the RCSU. But it just isn’t. To return to the analogy of me screaming “PLAYING FIELD” at some poor medic – caught up in this fierce inter-faculty rivalry – I would like to make a suggestion to the medics. Ditch your sabbatical President and refuse (most of) College’s money. At least that way, our playing field would then be levelled. If then you are still better than us, I may consider accepting defeat...
 
-####  ICSM IS BETTER:  
+####  ICSM IS BETTER:
  Suzie Rayner, ICSMSU President
 
 Thankfully, as someone who will now never run for an ICU position, I don’t have to people please. But I’d like to think I’m fair. So why am I here? I think that because Imperial has made it so.

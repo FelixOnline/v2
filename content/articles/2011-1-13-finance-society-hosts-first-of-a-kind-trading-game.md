@@ -1,8 +1,8 @@
 ---
 title: >
-  Finance Society hosts first-of-a-kind trading game 
+  Finance Society hosts first-of-a-kind trading game
 subtitle: >
-  Young traders from across the country gather at Imperial 
+  Young traders from across the country gather at Imperial
 date: "2011-01-13 19:28:17 +0000"
 id: "565"
 old_path: /biz/565/finance-society-hosts-first-of-a-kind-trading-game-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131926-ks607-tradingg.jpg"
 image_caption: >
-  
+
 image_width: "3872"
 image_height: "2592"
 image_attribution: ""

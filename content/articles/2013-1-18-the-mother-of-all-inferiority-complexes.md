@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - For the record not all Imperial students are Oxbridge rejects I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice Its easy for students from less privileged backgrounds to be put off Cambridge and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings Imperial offers courses of roughly equivalent quality to Oxford and Cambridge but for those from less privileged backgrounds is a far less intimidating place to attend and thats something Imperial CAN be proud of 
+ - For the record not all Imperial students are Oxbridge rejects I had the grades do an equivalent course at Oxbridge and instead made Imperial my first choice Its easy for students from less privileged backgrounds to be put off Cambridge and particularly Oxford on the grounds that they would never feel welcome or comfortable in those kinds of settings Imperial offers courses of roughly equivalent quality to Oxford and Cambridge but for those from less privileged backgrounds is a far less intimidating place to attend and thats something Imperial CAN be proud of
 imported: true
 ---
 

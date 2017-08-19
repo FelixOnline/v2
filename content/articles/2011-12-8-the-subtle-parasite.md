@@ -38,7 +38,7 @@ It’s the start of a cold winter’s day in London. A young man gets into his c
 
 At the back of the hospital, a rat scurries across concrete, foraging for food. He senses a smell that should raise alarm – a cat. But instead of running away, the scent intrigues him. Throwing caution to the wind, he scurries into the open, only to be pounced on by a tabby.
 
-Overlooking this scene from the window of a nearby university, anthropology students are discussing cultural differences around the world, debating how these differences might have occurred.  
+Overlooking this scene from the window of a nearby university, anthropology students are discussing cultural differences around the world, debating how these differences might have occurred.
  Are these events completely unrelated? They would appear to be – but may be linked by one, rather unknown little creature; a parasite named Toxoplasma gondii.
 
 In rats, the parasite is responsible for a phenomenon known as ‘fatal feline attraction’. The rat becomes less cautious, more active, and even seems attracted to feline odour. In this way, T. gondii may have led to our rat’s untimely demise.

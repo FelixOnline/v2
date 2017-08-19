@@ -1,6 +1,6 @@
 ---
 title: >
-  All Blacks visit Ethos 
+  All Blacks visit Ethos
 subtitle: >
   New Zealand Rugby team use Sports Imperial facilities
 date: "2010-11-04 18:42:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041840-ks607-allblack.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

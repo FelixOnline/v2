@@ -2,7 +2,7 @@
 title: >
   Union to do more for freedom of speech
 subtitle: >
-  Freeze peach 
+  Freeze peach
 date: "2017-05-19 15:00:10 +0100"
 id: "6973"
 old_path: /news/6973/union-to-do-more-for-freedom-of-speech
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 The Union is moving towards taking a stronger stance on Freedom of Speech. Over the past few months a conversation has begun around the role of Imperial College Union in supporting students’ freedom of speech. The question of “Are we doing enough to promote dialogue and debate?” lies at the centre of this move.
 
-Union officials are recognising that Imperial can be a place of contradictions. College and the Union  don’t exactly have a history of engaging in many practices associated with the ‘politically correct’ left. These include trigger warnings, no\-platforming and boycotting. These policies are often attacked by alt\-right personas as restrictive of free speech. Yet at the same time the safe space policy and the external speakers policy \(which requires the Union to vet external speakers\) could be seen as restrictive of students’ freedom of expression.
+Union officials are recognising that Imperial can be a place of contradictions. College and the Union  don’t exactly have a history of engaging in many practices associated with the ‘politically correct’ left. These include trigger warnings, no-platforming and boycotting. These policies are often attacked by alt-right personas as restrictive of free speech. Yet at the same time the safe space policy and the external speakers policy (which requires the Union to vet external speakers) could be seen as restrictive of students’ freedom of expression.
 
 Similarly Imperial prides itself in the involvement of its students and staff and the Union has the highest numbers of clubs and societies of all UK Universities. Yet campaigns rarely take off and when they do, they don’t necessarily get as much support as they could or should.
 

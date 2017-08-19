@@ -2,7 +2,7 @@
 title: >
   3 action films that aren't Die Hard
 subtitle: >
-  It might be a great film, but here are some alternatives to Bruce Willis 
+  It might be a great film, but here are some alternatives to Bruce Willis
 date: "2015-11-29 16:48:07 +0000"
 id: "5785"
 old_path: /film/5785/3-action-films-that-arent-die-hard

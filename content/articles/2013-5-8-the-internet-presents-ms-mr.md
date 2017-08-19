@@ -1,6 +1,6 @@
 ---
 title: >
-  The internet presents: MS MR 
+  The internet presents: MS MR
 subtitle: >
   Lily Le drops everything to find out who a band are while listening to the radio... NO IT'S NOT THAT DAFT PUNK SONG THAT IS ALWAYS ON
 date: "2013-05-08 20:15:20 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305082115-tna08-ms-mr.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

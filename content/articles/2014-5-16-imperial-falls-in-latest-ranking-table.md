@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - Imperial beats LSE which is third on all criteria except research assessment and only marginally It could have been interesting to note in the articleImperial real ranking is threrefore 3rd as usual 
+ - Imperial beats LSE which is third on all criteria except research assessment and only marginally It could have been interesting to note in the articleImperial real ranking is threrefore 3rd as usual
 imported: true
 ---
 

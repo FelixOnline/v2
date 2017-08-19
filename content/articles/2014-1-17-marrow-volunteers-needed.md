@@ -2,7 +2,7 @@
 title: >
   Marrow Volunteers needed
 subtitle: >
-  Every 20 minutes, someone in the UK is told they have a blood cancer. 
+  Every 20 minutes, someone in the UK is told they have a blood cancer.
 date: "2014-01-17 04:34:47 +0000"
 id: "4259"
 old_path: /features/4259/marrow-volunteers-needed
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

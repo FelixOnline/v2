@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102101959-ks607-heather.jpg"
 image_caption: >
-  
+
 image_width: "1648"
 image_height: "2464"
 image_attribution: "Miles Robertson"

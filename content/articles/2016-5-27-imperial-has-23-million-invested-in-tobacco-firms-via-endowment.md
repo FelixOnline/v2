@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605271035-felix-first draft.jpg"
 image_caption: >
-  
+
 image_width: "2158"
 image_height: "1270"
 image_attribution: ""

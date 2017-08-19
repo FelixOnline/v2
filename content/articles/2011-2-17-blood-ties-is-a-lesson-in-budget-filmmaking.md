@@ -1,6 +1,6 @@
 ---
 title: >
-  Blood Ties is a lesson in budget filmmaking 
+  Blood Ties is a lesson in budget filmmaking
 subtitle: >
   It captures beauftiful interactions between characters
 date: "2011-02-17 19:34:21 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172028-ks607-bloodtie.jpg"
 image_caption: >
-  
+
 image_width: "552"
 image_height: "420"
 image_attribution: ""

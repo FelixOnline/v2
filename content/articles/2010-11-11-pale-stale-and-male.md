@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112131-ks607-imrankha.jpg"
 image_caption: >
-  
+
 image_width: "200"
 image_height: "252"
 image_attribution: ""

@@ -48,5 +48,5 @@ Considering its great distance, scientists had expected Eris to be much larger t
 
 This supposed atmosphere was a main target of the study; stellar occultations provide ideal conditions under which to measure planetary atmospheres, as the stellar light travels through the cloud of gases surrounding the transiting body. The atmosphere of Eris was shown to be barely-there – it is thought that Eris’s “bright surface [is] possibly caused by a collapsed atmosphere, owing to its cold environment”, as barely-there amounts of nitrogen, argon and methane and a low surface pressure suggest an extremely tenuous Pluto-like atmosphere.
 
-Planetary exploration studies such as this one are essential to discover more about the most unreachable areas of our solar system, and to learn more about planetary formation, evolution and composition. The full research is published in Nature.  
+Planetary exploration studies such as this one are essential to discover more about the most unreachable areas of our solar system, and to learn more about planetary formation, evolution and composition. The full research is published in Nature.
 _DOI: 10.1038/nature10550_

@@ -1,8 +1,8 @@
 ---
 title: >
-  £940 million cut to higher education funding 
+  £940 million cut to higher education funding
 subtitle: >
-  Universities hit by huge reductions in 2011/12, plus additional cuts this year 
+  Universities hit by huge reductions in 2011/12, plus additional cuts this year
 date: "2011-02-10 20:11:47 +0000"
 id: "766"
 old_path: /news/766/940-million-cut-to-higher-education-funding-

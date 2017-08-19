@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-20160501_112818.jpg"
 image_caption: >
-  
+
 image_width: "2988"
 image_height: "5312"
 image_attribution: ""
@@ -40,6 +40,6 @@ The winners were Sarah Ann Louise Addenbrooke and Anne Barbara Cyron, who gained
 
 The final year physics student did come in at a noble third place though, getting 395 votes; a hundred more than the other Labour candidate.
 
-The vote took place alongside the mayoral and London Assembly elections last Thursday, after the two Conservative council members decided to step down, triggering a by\-election.
+The vote took place alongside the mayoral and London Assembly elections last Thursday, after the two Conservative council members decided to step down, triggering a by-election.
 
 The Kensington and Chelsea turnout was a sad 46.4%.

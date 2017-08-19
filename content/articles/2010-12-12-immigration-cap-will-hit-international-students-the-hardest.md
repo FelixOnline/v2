@@ -1,6 +1,6 @@
 ---
 title: >
-  Immigration cap will hit international students the hardest 
+  Immigration cap will hit international students the hardest
 subtitle: >
   Restrictions on immigration will endanger universities
 date: "2010-12-12 14:27:10 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121425-ks607-theresea.jpg"
 image_caption: >
-  
+
 image_width: "1067"
 image_height: "1600"
 image_attribution: ""

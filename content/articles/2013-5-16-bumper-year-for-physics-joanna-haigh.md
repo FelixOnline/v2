@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305161911-tna08-image.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,14 +44,14 @@ Professor Joanna Haigh: After my undergraduate degree I wanted to retrain as a m
 
 __SW: Was your doctorate plain sailing or were there moments of exasperation over malfunctioning experiments?__
 
-JH: Of course there were moments of exasperation. I had a computer model which kept crashing and it took me weeks to work out why.  
-  
+JH: Of course there were moments of exasperation. I had a computer model which kept crashing and it took me weeks to work out why.
+
 __SW: Was it hard researching whilst raising three small children?__
 
 JH: It took some organising, but the department was very supportive. My research profile suffered a bit of a dip though.
 
-__SW: What do you do as Head of Department?__  
-  
+__SW: What do you do as Head of Department?__
+
  JH: It is quite demanding. I deal with our research excellence framework, promotions, faculty management issues, health and safety, fellowships… It is fun though and I am very proud and honoured to have been chosen to do it.
 
 __SW: Tell me about your CBE. Do you know who nominated you?__

@@ -2,7 +2,7 @@
 title: >
   Do you want brains with that?
 subtitle: >
-  Anand Jagatia takes a look at prions, the bad behaving proteins 
+  Anand Jagatia takes a look at prions, the bad behaving proteins
 date: "2014-01-31 17:38:56 +0000"
 id: "4318"
 old_path: /science/4318/do-you-want-brains-with-that
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201401311738-jal08-tumblr_m31x9rztgr1rt8lhlo1_1280.jpg"
 image_caption: >
-  These prions may look pretty, but they can be deadly too 
+  These prions may look pretty, but they can be deadly too
 image_width: "0"
 image_height: "0"
 image_attribution: "TUMBLR"

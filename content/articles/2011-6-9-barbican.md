@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106091921-felix-barbican.jpg"
 image_caption: >
-  
+
 image_width: "3456"
 image_height: "5184"
 image_attribution: "Marie Chkaiban"
@@ -34,32 +34,32 @@ comments:
 imported: true
 ---
 
-His sister is always busy  
- got to keep to time  
- time is the law  
- tick tock.  
- His sister has no plants  
- inorganic sleek  
- smooth, straight, safe  
- she used to carry the stream things  
- like he did  
- zip zap  
- they are flies, filthy flies  
- zap zip  
+His sister is always busy
+ got to keep to time
+ time is the law
+ tick tock.
+ His sister has no plants
+ inorganic sleek
+ smooth, straight, safe
+ she used to carry the stream things
+ like he did
+ zip zap
+ they are flies, filthy flies
+ zap zip
  every night, waiting on every street corner.
 
-Architects made them twins  
- one fell  
- out of glamour  
- out of order  
- out of use  
- fingers no longer roll  
- over his torso  
- seek his waist  
- rain disfigures him  
- peels off the skin  
- disintegrate, degenerate, deteriorate  
- yet he is found by me  
+Architects made them twins
+ one fell
+ out of glamour
+ out of order
+ out of use
+ fingers no longer roll
+ over his torso
+ seek his waist
+ rain disfigures him
+ peels off the skin
+ disintegrate, degenerate, deteriorate
+ yet he is found by me
  he is more than his sister.
 
 I love him.

@@ -2,7 +2,7 @@
 title: >
   Micmacs Review
 subtitle: >
-  Film editor Ed Knock finds himself thrown into another fantastic world of Jean Pierre Jeunet 
+  Film editor Ed Knock finds himself thrown into another fantastic world of Jean Pierre Jeunet
 date: "2010-02-25 15:53:53 +0000"
 id: "101"
 old_path: /film/101/micmacs-review
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251548-egk08-Micmacs.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "699"
 image_attribution: ""

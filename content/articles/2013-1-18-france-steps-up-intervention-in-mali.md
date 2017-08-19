@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180028-tna08-mali-flag.gif"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Nice article thank you for posting nice to learn this issue is also being discussed on college campuses I just take issue with one line namely President Hollande seems willing to risk the possibility of a terrorist attack What did you readhearsee that gave you this impression It is quite a heavy remark made almost in passing Thanks 
+ - Nice article thank you for posting nice to learn this issue is also being discussed on college campuses I just take issue with one line namely President Hollande seems willing to risk the possibility of a terrorist attack What did you readhearsee that gave you this impression It is quite a heavy remark made almost in passing Thanks
 imported: true
 ---
 

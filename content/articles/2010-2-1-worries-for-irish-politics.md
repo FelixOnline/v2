@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002011659-rsp07-roryfent.jpg"
 image_caption: >
-  
+
 image_width: "604"
 image_height: "453"
 image_attribution: ""

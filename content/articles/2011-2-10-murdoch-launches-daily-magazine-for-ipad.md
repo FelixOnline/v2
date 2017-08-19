@@ -1,6 +1,6 @@
 ---
 title: >
-  Murdoch launches Daily magazine for iPad 
+  Murdoch launches Daily magazine for iPad
 subtitle: >
   Its got nothing on the Daily Felix...
 date: "2011-02-10 20:31:24 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102028-dr910-ferozsal.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

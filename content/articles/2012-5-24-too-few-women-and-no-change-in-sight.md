@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205250026-mc4509-lego.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -48,14 +48,14 @@ It is a depressing fact that this battle that could have easily been won many ye
 It’s because of this that it’s hard to believe that the fight for equality has to be won in the workplace, or even at university. Most of the women I have worked with and taught in my four years of Computing at Imperial have been highly ambitious and passionate about the subject. They will probably go on to great things at workplaces that will bend to their terms rather than vice versa, as is often the case with graduates from Imperial.
 
 The mission to motivate them into graduate technology is arguably not as vital, as they are obviously already motivated enough. Hiring the 35% already in the doors is easy, but fixing the reasons why there are only 35% is where the real problem lies.
-TODO: image from 
+TODO: image from
 __Forcing an attitude change__
 
 The first port of call needs to look at our children, and the influences they receive. Toys and games play a huge role here. [The blogger Kate Bachus](http://www.katebachus.com) takes the brilliant example of Lego sets. Those targeted at boys are a magnitude more complex than those targeted at girls of the same age. Skills you learn on Lego sets are pretty much the exact same ones you apply when problem-solving in programming, and it’s hard to imagine girls having an interest in the latter when they are never challenged by the former.
 
 Setting toys aside, games are another area where women are almost unconsciously sidelined: games targeted at girls tend to be of the ‘Good Housekeeping’ variety (simplistic family and food management routines), while their male-oriented counterparts involve journeying across nations/planets/fantastical lands to slay terrorists/aliens/dragons, often at a budget that would be enough for twenty versions of Cake Mania (I’ve played three versions, so I would know). Given that so many people I know first discovered programming when they were young ‘to make a game’, I suspect that a fair chunk of the 65/35 gap lies there.
 
-Now that we have girls interested in programming, how do we get them to put that down on their UCAS forms? This problem is more complex, but I suspect a lot of it boils down to representations of programmers in the media. I can think of only two major productions where the techie is a woman: _The Girl with the Dragon Tattoo_ and the American drama _Criminal Minds_. The majority (_CSI_, _The Social Network_, _Swordfish_, or virtually any major production with the need for an IT professional) all portray the person behind the computer as an awkward male with a one-dimensional personality.  
+Now that we have girls interested in programming, how do we get them to put that down on their UCAS forms? This problem is more complex, but I suspect a lot of it boils down to representations of programmers in the media. I can think of only two major productions where the techie is a woman: _The Girl with the Dragon Tattoo_ and the American drama _Criminal Minds_. The majority (_CSI_, _The Social Network_, _Swordfish_, or virtually any major production with the need for an IT professional) all portray the person behind the computer as an awkward male with a one-dimensional personality.
  Even before you begin to delve into the expectations placed on women, you have to ask, who wants to be that man? I certainly don’t. That we have any women applying to work behind a moitor should amaze us.
 
 __Clawing back some equality__

@@ -40,6 +40,6 @@ Last Friday, I went back with my girlfriend. And, wow, what a night! The food is
 
 Top food, top music, top company. And the wine? We drank a roaring full-bodied Sangiovese di Romagna.
 
-_15 Eccleston Street  
- London  
+_15 Eccleston Street
+ London
  SW1W 9LX_

@@ -2,7 +2,7 @@
 title: >
   Self-righting wheelchair technology developed by students
 subtitle: >
-  Wheelchair enables disabled athletes to re-right themselves back on their wheels after a crash 
+  Wheelchair enables disabled athletes to re-right themselves back on their wheels after a crash
 date: "2014-11-14 20:00:37 +0000"
 id: "4863"
 old_path: /news/4863/self-righting-wheelchair-technology-developed-by-students
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411141959-ps3110-newseventsimages.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

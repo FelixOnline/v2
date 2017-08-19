@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282007-nm1010-scarykid.jpg"
 image_caption: >
-  
+
 image_width: "4272"
 image_height: "2848"
 image_attribution: ""

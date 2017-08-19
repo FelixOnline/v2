@@ -2,7 +2,7 @@
 title: >
   Council talk Balls and bars
 subtitle: >
-  Independent Summer Ball investigation to be launched 
+  Independent Summer Ball investigation to be launched
 date: "2011-11-03 19:36:40 +0000"
 id: "1653"
 old_path: /news/1653/council-talk-balls-and-bars
@@ -65,7 +65,7 @@ __Honorary Life Membership__
 
 One of the most hotly debate issues was that of Honorary Life Memberships (HLMs). These lifetime memberships of the Union are traditionally awarded to Sabbatical Officers at the end of their terms in office. Last summer, however, Union Council narrowly voted against awarding HLM to the then Deputy President (Finance & Services), Ravi Pall.
 
-This decision was later quashed, on the grounds that the Sabbatical Officers had been – unconstitutionally – barred from taking part in the vote (although this is a longstanding convention).  
+This decision was later quashed, on the grounds that the Sabbatical Officers had been – unconstitutionally – barred from taking part in the vote (although this is a longstanding convention).
  This Monday the vote was taken again; none of the now former Sabbatical Officers were present during the discussion. The vote itself was carried out by secret ballot, meaning that a two-thirds majority was required in each case.
 
 The decision was the same as that of last year, with Council deciding against awarding HLM to the former DPFS (with 12 votes for versus 14 against). Much of the debate centred on the handling of the Summer Ball, as well as more general issues concerning Pall’s handling of his role. All other Sabbatical Officers from last year received HLM.

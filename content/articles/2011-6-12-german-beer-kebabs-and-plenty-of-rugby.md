@@ -2,7 +2,7 @@
 title: >
   German beer, kebabs and plenty of rugby
 subtitle: >
-  City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports 
+  City and Guilds Rugby prepare for international Sevens tournament in Berlin. Max Joachim reports
 date: "2011-06-12 16:27:01 +0100"
 id: "1370"
 old_path: /sport/1370/german-beer-kebabs-and-plenty-of-rugby

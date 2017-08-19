@@ -2,7 +2,7 @@
 title: >
   Chemistry & Materials Departments display year on year NSS participation increase
 subtitle: >
-  The Chemistry and Materials Departments have shown a marked improvement from the number of final year students who have completed the National Student Survey. 
+  The Chemistry and Materials Departments have shown a marked improvement from the number of final year students who have completed the National Student Survey.
 date: "2014-02-21 03:02:21 +0000"
 id: "4413"
 old_path: /news/4413/chemistry--materials-departments-display-year-on-year-nss-participation-increase
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

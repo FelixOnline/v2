@@ -36,13 +36,13 @@ imported: true
 
 ###  The Descendants
 
-___Director __Alexander Payne  
-__Screenwriters __Alexander Payne, Nat Faxon, Jim Rash  
+___Director __Alexander Payne
+__Screenwriters __Alexander Payne, Nat Faxon, Jim Rash
 __Cast __George Clooney, Shailene Woodley, Amara Miller_
 
 Clooney is an actor who seems to push the boundaries as he ages. Although known for playing slick and suave characters, here he is in _The Descendants,_ a warm and modest family drama in which the confirmed bachelor of Hollywood plays a dedicated father of two, living in Hawaii. The twist is that his wife ends up in a coma after a water-skiing accident. He even admits that he’s been the back-up parent in their marriage. But it appears the responsibility is suddenly on him now. Not that he minds, of course; he just doesn’t have a clue on how to go about this.
 
-His elder daughter Alex(andra) (Shailene Woodley), the rebellious teen who drinks and experiments with drugs, is far from pleased that her loser of a dad is now her full-time guardian. The younger daughter, Scottie (Amara Miller) is a cheerful little firecracker, but not so little that she does not understand what is happening with her mother. Being young and full of imaginations, she does do and say some outrageous things, something Matt (Clooney) doesn’t quite know how to handle.  
+His elder daughter Alex(andra) (Shailene Woodley), the rebellious teen who drinks and experiments with drugs, is far from pleased that her loser of a dad is now her full-time guardian. The younger daughter, Scottie (Amara Miller) is a cheerful little firecracker, but not so little that she does not understand what is happening with her mother. Being young and full of imaginations, she does do and say some outrageous things, something Matt (Clooney) doesn’t quite know how to handle.
  The plot thickens however, as Matt discovers his wife’s infidelity. This comes as a complete shock to him, even more so when the news is broken to him by Alex. He’s devastated for sure, but how can you be angry towards a comatose woman? The simple answer is, he can’t, and like any man on earth, he tries to track down “the other man,” but perhaps not for the same reason most men would.
 
 Even in the midst of quite a serious turn of events, Payne makes sure to inject some off-beat humour to keep a healthy tone and pace. It never turns into a serious tragedy, nor does it veer towards hysterical comedy. There is certainly no room for any slap-stick comedy. The film speaks from the heart, and the laughs are an added bonus. Payne has had successes in the past with films such as Sideways and About Schmidt, about ordinary men going through unusual events, and “The Descendants” does not stray far from what he is used to, but has original themes of its own. It has a stronger focus on family for sure, as well as that difficult concept of life and death, with forgiveness and redemption attached.

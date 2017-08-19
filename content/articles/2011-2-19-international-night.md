@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102191551-ks607-internat.jpg"
 image_caption: >
-  
+
 image_width: "3150"
 image_height: "2304"
 image_attribution: ""

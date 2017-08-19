@@ -1,6 +1,6 @@
 ---
 title: >
-  PhD coffee row in Mechanical Engineering 
+  PhD coffee row in Mechanical Engineering
 subtitle: >
   Experiment between staff and PhD students breaks down
 date: "2011-10-27 20:22:53 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

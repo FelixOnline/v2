@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310121301-jal08-rush_film_still_a_l.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,6 +45,6 @@ But a lot can be forgiven when the technically sound, highly watchable and enter
 
 A major life event the film wisely chooses to spend some time on is Lauda’s catastrophic crash at the 1976 World Championship in Germany. With significant burns and multiple serious injuries, Lauda is left fighting for his life. And in a gut-wrenching series of scenes that quite graphically shows this struggle, it’s impossible not to sympathise for the helpless man, more so when his devastated wife Marlene (Lara) looks on from a distance. But without ever milking the dense, heavy emotions, the film carefully explores what must have been Lauda’s most painful, difficult weeks, whilst also reminding the audience of the races that are still happening without the German driver.
 
-Hemsworth and Brühl don’t share as many scenes together as you’d expect – and frankly there isn’t a lot of dramatic showdown between the two other than on the racetrack itself. The behind-the-scenes rivalry between the two isn’t well captured initially, mostly due to the fact that the film also has their personal lives to juggle once the drivers’ fame and money kick in, but their love-hate bromance-type relationship does build up eventually, which leads to some very genuine heartfelt scenes in which we realise perhaps they did need one another for that extra drive and push.  
- The two women standing by on each of the driver’s side is the aforementioned Marlene and English model/ socialist Suzy Hunt (Wilde, sporting a mighty fine English accent), who catches Hunt’s eyes. Together they further shape the personal lives of the drivers, injecting some fiery drama and at times, some well-placed humour stemming from events occurring away from the tracks.  
+Hemsworth and Brühl don’t share as many scenes together as you’d expect – and frankly there isn’t a lot of dramatic showdown between the two other than on the racetrack itself. The behind-the-scenes rivalry between the two isn’t well captured initially, mostly due to the fact that the film also has their personal lives to juggle once the drivers’ fame and money kick in, but their love-hate bromance-type relationship does build up eventually, which leads to some very genuine heartfelt scenes in which we realise perhaps they did need one another for that extra drive and push.
+ The two women standing by on each of the driver’s side is the aforementioned Marlene and English model/ socialist Suzy Hunt (Wilde, sporting a mighty fine English accent), who catches Hunt’s eyes. Together they further shape the personal lives of the drivers, injecting some fiery drama and at times, some well-placed humour stemming from events occurring away from the tracks.
  In the end with both their likable qualities, it doesn’t matter a huge deal when it comes to who eventually takes the trophy home. Lauda is ahead on points prior to his accident, and during his stay at the hospital for recovery, Hunt gains in on the ranks. The deciding race at Fuji in Japan, under frighteningly harsh weather conditions, is a final race worthy of putting a close to such an electric, exhilarating “based on a true story” biopic.

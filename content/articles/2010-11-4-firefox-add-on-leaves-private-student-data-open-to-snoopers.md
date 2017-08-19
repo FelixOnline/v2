@@ -1,6 +1,6 @@
 ---
 title: >
-  Firefox add-on leaves private student data open to snoopers 
+  Firefox add-on leaves private student data open to snoopers
 subtitle: >
   Unsecured Department of Computing network at hijacking app FireSheep’s mercy
 date: "2010-11-04 19:00:49 +0000"

@@ -1,8 +1,8 @@
 ---
 title: >
-  Returning heroes triumphant at the Ally Pally 
+  Returning heroes triumphant at the Ally Pally
 subtitle: >
-  Bombay Bicycle Club command the stage 
+  Bombay Bicycle Club command the stage
 date: "2012-05-10 20:06:06 +0100"
 id: "2441"
 old_path: /music/2441/returning-heroes-triumphant-at-the-ally-pally-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

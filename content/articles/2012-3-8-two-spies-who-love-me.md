@@ -36,8 +36,8 @@ imported: true
 
 [__This Means War__](http://www.imdb.com/title/tt1596350/)
 
-__Director__ McG  
-__Screenwriters__ Timothy Dowling, Simon Kinberg, Marcus Gautesen  
+__Director__ McG
+__Screenwriters__ Timothy Dowling, Simon Kinberg, Marcus Gautesen
 __Cast __Reese Witherspoon, Thomas Hardy, Chris Pine
 
 With a love triangle that is as impossibly good looking as this one, it’s difficult to know which pair to root for. But to put things simply, it’s a showdown between a young James Bond (Hardy) and a young Ethan Hunt (Pine) who are also best friends. “I know that you would take a bullet for me, I would for you as well.” Awwwww. Their bromance is shown in none other than a loud, kinetic action scene on the rooftop of a tall Hong Kong tower, something director McG (_Terminator: Salvation_) should be familiar with. But it’s nothing special, with a modest scale that seems to be a waste on the two talented young actors. And just from watching the first ten to fifteen minutes or so of uninspired, highly ordinary footage, we immediately begin to worry whether the rest of the film will be as mediocre.

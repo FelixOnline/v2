@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251317-srg03-Facebook.jpg"
 image_caption: >
-  
+
 image_width: "305"
 image_height: "640"
 image_attribution: ""

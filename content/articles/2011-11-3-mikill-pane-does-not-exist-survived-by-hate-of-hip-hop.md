@@ -41,8 +41,8 @@ Mikill Pane: I’m just a figment of Justin Smith Uzomba’s vivid imagination a
 
 __KS: What’s your story? How did you come to be (or not to be)?__
 
-MP: Justin unwittingly created me as a nemesis for a former alter ego that we won’t speak about for legal reasons.  
-  
+MP: Justin unwittingly created me as a nemesis for a former alter ego that we won’t speak about for legal reasons.
+
 __KS: Why is pronouncing your name “Mickill” so horrendously wrong?__
 
 MP: Paedophilia is horrendously wrong. Pronouncing my name in such a manner is simply wrong. Just don’t do it and we won’t have any problems.

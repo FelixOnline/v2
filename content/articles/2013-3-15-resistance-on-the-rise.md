@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150102-tna08-expat-health-insurance-antibiotic-pills1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - No new antibiotics have been introduced into the public domain since 1987Do you have a source for thisIf drugs entered the public domain sooner what bearing would this have on drug resistance or pharmaceutical companies willingness to develop new antibioticsDrugs would certainly be available to more people for instance in poor and developing countries so one might predict this would lead to an faster onset of resistance On the other hand these drugs may be more carefully administered due to the absence of aggressive marketing from the patentholding pharmaceutical company However this seems to leave less incentive for the pharmaceutical company to develop the drugs in the first place if the window in which the can recoup RD costs and turn a profit is reduced After all it seems these days pharmaceuticals live and die by their drug patents 
+ - No new antibiotics have been introduced into the public domain since 1987Do you have a source for thisIf drugs entered the public domain sooner what bearing would this have on drug resistance or pharmaceutical companies willingness to develop new antibioticsDrugs would certainly be available to more people for instance in poor and developing countries so one might predict this would lead to an faster onset of resistance On the other hand these drugs may be more carefully administered due to the absence of aggressive marketing from the patentholding pharmaceutical company However this seems to leave less incentive for the pharmaceutical company to develop the drugs in the first place if the window in which the can recoup RD costs and turn a profit is reduced After all it seems these days pharmaceuticals live and die by their drug patents
 imported: true
 ---
 

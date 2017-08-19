@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The results for this year’s Reps and [Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) elections were announced on [Wednesday 24 October.](https://www.imperialcollegeunion.org/news/your-reps-council-elections-results)  
+The results for this year’s Reps and [Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) elections were announced on [Wednesday 24 October.](https://www.imperialcollegeunion.org/news/your-reps-council-elections-results)
  The turnout for the elections was the highest that the Union has received for Academic Rep and Council Member positions, with 6849 votes cast by 3030 students. This is a 20% turnout as claimed by the Union.
 
 The Union said in the article on their website announcing it that they were “really proud of... election turnouts”. It then went on to say that “Imperial College Union is improved, by all the great student Officers that get elected, every time you vote.”

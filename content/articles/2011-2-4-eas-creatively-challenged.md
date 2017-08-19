@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102041657-sjw209-Createti.jpg"
 image_caption: >
-  
+
 image_width: "1080"
 image_height: "604"
 image_attribution: ""

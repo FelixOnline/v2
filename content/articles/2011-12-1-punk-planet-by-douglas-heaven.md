@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012115-pk1811-4db6fc1fc81c5_sumo_2.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "379"
 image_attribution: ""

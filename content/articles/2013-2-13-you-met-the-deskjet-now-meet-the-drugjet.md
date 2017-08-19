@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302132018-tna08-smartcolor-inkjet-printer-ft-1560-.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ An inkjet printer works by delivering small droplets of ink onto the page, contr
 
 In this development, the same thermal process has been used to deliver the drug carbamazepine, a medication often prescribed topeople suffering from epilepsy.
 
-The original synthetic method for this drug involves delivery of a tiny amount of the drug. When deposited, the drug evaporates and crystallises almost immediately, producing the desired compound.  
+The original synthetic method for this drug involves delivery of a tiny amount of the drug. When deposited, the drug evaporates and crystallises almost immediately, producing the desired compound.
  In this new technique, the same method is used, but an inkjet printer is used to precisely control drug delivery. This makes use of the fine control that inkjet cartridges have when deploying ink, with many inkjet printers capable of printing to 1,200 dpi.
 
 The main advantage of using printers is their ease of conversion to printing drugs, which also has the desirable quality of being cheap to do. A good quantity of crystallisation has also been reported, with even better yields being achieved when multiple passes have been used.

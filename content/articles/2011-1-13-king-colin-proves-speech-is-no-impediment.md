@@ -1,6 +1,6 @@
 ---
 title: >
-  King Colin proves speech is no impediment 
+  King Colin proves speech is no impediment
 subtitle: >
   As an actor, Firth is given the entire film to show off and takes advantage of every single moment
 date: "2011-01-13 19:39:53 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131933-ks607-kingsspe.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1067"
 image_attribution: ""

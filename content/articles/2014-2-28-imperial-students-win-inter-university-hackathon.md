@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201402280721-jal08-news_livmap.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - Correct link is httplivmaphackappspotcom btw 
+ - Correct link is httplivmaphackappspotcom btw
 imported: true
 ---
 

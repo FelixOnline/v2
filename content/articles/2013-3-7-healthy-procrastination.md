@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072137-sjw209-snacks.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ You’re less likely to be as active as you normally are during revision (I’d 
 
 Breakfast is the most important meal of the day so stick to something that will keep you going, and even better if it’s really quick to microwave. Porridge always gets me through to lunch without any distracting mid-morning grumbles. I love fruits like bananas and berries in my porridge. To sweeten add honey or muscovado sugar. For breakfast, buy some freshly squeezed orange juice, or make it yourself – the vitamin C is good for your immune system and helps ward off those unfriendly, unwanted revision colds. Alternatively, try [one of Josie’s or Alex’s smoothies](http://felixonline.co.uk/?article=3431). Why not treat yourself, and go out for breakfast? It’s a great way to start the day.
 
-Okay, so snacking can have an adverse effect on your revision, and I’m not advocating procrastination, but everyone needs a little revision break to keep themselves focused. My top five healthy (\*coughs\* procrastination) snacks are: soft dried apricots, pumpkin seeds, pralines, blueberries and red grapes. I’m told that sugar snap peas are also great to nibble on. If you want a bigger snack, carrots and hummus or olives can do the trick. They’re a favourite of mine, but they can be pretty messy. For something sweet or savoury, get some popcorn. We’re going through a popcorn era at the moment: you can get anything from sweet chilli to sticky toffee pudding flavour – I like [the Tyrrells ones](https://www.tyrrellscrisps.co.uk/popcorn) best. For a longer revision break, why not make your own?
+Okay, so snacking can have an adverse effect on your revision, and I’m not advocating procrastination, but everyone needs a little revision break to keep themselves focused. My top five healthy (*coughs* procrastination) snacks are: soft dried apricots, pumpkin seeds, pralines, blueberries and red grapes. I’m told that sugar snap peas are also great to nibble on. If you want a bigger snack, carrots and hummus or olives can do the trick. They’re a favourite of mine, but they can be pretty messy. For something sweet or savoury, get some popcorn. We’re going through a popcorn era at the moment: you can get anything from sweet chilli to sticky toffee pudding flavour – I like [the Tyrrells ones](https://www.tyrrellscrisps.co.uk/popcorn) best. For a longer revision break, why not make your own?
 
 If you feel like splashing out, you could get some [Graze boxes](http://www.graze.com/uk/) delivered to your house. They’re the perfect snack size to take out if you’re popping out to the Library or having a revision break. They’re not the most economical of buys, but they regularly do deals so that your first box is free and your second is half price.
 

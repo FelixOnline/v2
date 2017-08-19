@@ -1,6 +1,6 @@
 ---
 title: >
-  Students Switch Off to Success 
+  Students Switch Off to Success
 subtitle: >
   Students in halls saving energy
 date: "2011-01-27 18:31:56 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271828-ks607-students.jpg"
 image_caption: >
-  
+
 image_width: "540"
 image_height: "720"
 image_attribution: ""

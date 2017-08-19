@@ -44,15 +44,15 @@ The result is an inclusive and slightly subversive exhibition. The very first th
 
 What really hit home from the exhibition is that the instinct to add an augment is so very old. Previously aesthetic enhancement has been a dominant theme. Jewellery, make-up and clothing are very familiar examples of this desire to artificially change one’s image.
 
-The second thrust historically has been medicinal and restorative. However thought has been limited to simply replacing lost functionality. These efforts have often been abysmal, clumsy failures.  
- There are more speculative and reflective exhibits too. There are examples of comic book heroes with superhuman abilities and interviews with futurists fretting about the social impact of cybernetics.  
+The second thrust historically has been medicinal and restorative. However thought has been limited to simply replacing lost functionality. These efforts have often been abysmal, clumsy failures.
+ There are more speculative and reflective exhibits too. There are examples of comic book heroes with superhuman abilities and interviews with futurists fretting about the social impact of cybernetics.
  The show has undoubtedly benefited from the interest in Paralympic sport over the summer. One the interesting themes that emerges is the changing attitudes to disability prompted by technical advance.
 
 One of the exhibits, a rare screening of Matthew Barney’s film Cremaster reveals athlete and model Aimee Mullins (pictured top) in all her unconventional beauty.
 
 In case you are unaware of Mullins, suffice to say she is gorgeous from the knees up. Her extraordinary athletic prowess and a widely viewed TED talk, discussing her disability, have made her an influential proponent of this change in attitude.
 
-She now has designers fighting for the chance to create prosthetic legs for her and film makers like Barney queuing up. His piece shows her wearing a range of unconventional prosthetics aimed at challenging ideas of body image. These include animal inspired works and jellyfish tentacles.  
+She now has designers fighting for the chance to create prosthetic legs for her and film makers like Barney queuing up. His piece shows her wearing a range of unconventional prosthetics aimed at challenging ideas of body image. These include animal inspired works and jellyfish tentacles.
  Things are certainly changing, with technology offering real potential to move beyond aesthetic enhancements towards ones that give us new or improved abilities, there are some that believe a new tranche of functional implants and modifications are on the way. Does it, however, follow that merely because we have the technology, we should use it?
 
 At the end of the show the we are led into the realm of the the hardcore transhumanist. We are introduced to the concept of enhancements directly integrated with the body, not to replace missing function but to add new abilities.

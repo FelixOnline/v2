@@ -36,8 +36,8 @@ imported: true
 
 ###  Martha Marcy May Marlene
 
-__Director __Sean Durkin  
-__Screenwriter__ Sean Durkin  
+__Director __Sean Durkin
+__Screenwriter__ Sean Durkin
 __Cast__ Elizabeth Olsen, John Hawkes, Sarah Paulson, Hugh Dancy
 
 With a title that is as confusing as this one, it would be a safe bet to assume that Martha Marcy May Marlene is a film that attempts to mess with your head. We see a young girl (Elizabeth Olsen) fleeing from a housing compound in the harmless-looking countryside. A boy running after her calls her Marcy May. Not much confusion there. Things get more complicated when Marcy May’s older sister Lucy (Sarah Paulson) calls her Martha. Another flashback sees the female protagonist being called Marlene. The audience is further confused and intrigued for sure. Thus starts the haunting story of Martha (this appears to be her real name), a young, innocent girl who makes the mistake of running away from her home and joining a violent cult.

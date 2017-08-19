@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501311915-ff712-rob-compton-as-bay-boy-and-georgina-hagen-as-shelley.-photo-credit-garry-lake-(2)-a.jpg"
 image_caption: >
-  Rob Compton as Bat Boy and Georgina Hagen as Shelley 
+  Rob Compton as Bat Boy and Georgina Hagen as Shelley
 image_width: "0"
 image_height: "0"
 image_attribution: "Garry Lake"

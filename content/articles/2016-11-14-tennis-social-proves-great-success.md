@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611141420-felix-thumbnail_TennisComp1.jpg"
 image_caption: >
-  
+
 image_width: "333"
 image_height: "250"
 image_attribution: ""

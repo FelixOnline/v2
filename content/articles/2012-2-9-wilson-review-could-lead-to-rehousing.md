@@ -2,7 +2,7 @@
 title: >
   Wilson review could lead to rehousing
 subtitle: >
-  Temporary halls in Elephant & Castle and Waterloo considered 
+  Temporary halls in Elephant & Castle and Waterloo considered
 date: "2012-02-09 22:31:49 +0000"
 id: "2152"
 old_path: /news/2152/wilson-review-could-lead-to-rehousing
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202092228-felix-252_5284.jpg"
 image_caption: >
-  
+
 image_width: "2160"
 image_height: "1440"
 image_attribution: ""

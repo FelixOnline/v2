@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310122012-jal08-film_filth.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,5 +44,5 @@ McAvoy is startlingly good in his mentally unhinged role that becomes more and m
 
 The supporting roles are largely unmemorable (Jamie Bell, Imogen Poots both have relatively thankless roles even with their big names), aside from Broadbent putting on a performance twice as creepy as the one he showed us in Moulin Rouge, and Eddie Marsan, the kind-hearted, rich best friend of Bruce who is constantly manipulated and pushed around by his detective friend. Being a sensible, insecure softie suits Marsan, as he is responsible for bringing out both the best and worst in Bruce who, quite frankly doesn’t deserve a friend like him.
 
-Although starting with a cynical, black comedy view of Scotland, the film winds up in places you never thought would go. Word is, the novel of the same name the film is based on is more daring with even less clear boundaries. It feels as though that given the film’s title, the overall content could have been more edgy or darker, and not perhaps relying solely on the talent of the film’s leading man.  
+Although starting with a cynical, black comedy view of Scotland, the film winds up in places you never thought would go. Word is, the novel of the same name the film is based on is more daring with even less clear boundaries. It feels as though that given the film’s title, the overall content could have been more edgy or darker, and not perhaps relying solely on the talent of the film’s leading man.
  The structure is no doubt a mess, but anchored by a superb performance from an actor whose extreme volatility screams mental breakdown, Filth is a wacky, unmissable ride, one that is guaranteed to shock and offend and quite possibly make you think twice before visiting Scotland.

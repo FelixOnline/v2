@@ -1,8 +1,8 @@
 ---
 title: >
-  Imperial bid for Antarctic record 
+  Imperial bid for Antarctic record
 subtitle: >
-  Pioneering new vehicle set to beat the record for fastest journey to South Pole 
+  Pioneering new vehicle set to beat the record for fastest journey to South Pole
 date: "2010-10-28 19:14:15 +0100"
 id: "255"
 old_path: /science/255/imperial-bid-for-antarctic-record-

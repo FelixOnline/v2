@@ -1,8 +1,8 @@
 ---
 title: >
-  The Musician - Jyi Sim 
+  The Musician - Jyi Sim
 subtitle: >
-  The Musician - Jyi Sim 
+  The Musician - Jyi Sim
 date: "2012-06-14 20:39:13 +0100"
 id: "2568"
 old_path: /phoenix/2568/the-musician---jyi-sim-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206142137-pk1811-dsc02584.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -71,7 +71,7 @@ J - [laughs] It helps me when I get bored of studying aero and flying kinds of t
 M - Your production logo is an aeroplane.
 
 J - Oh you noticed that? And it’s the initial of a J!
-TODO: image from 
+TODO: image from
 M- You’re selling your music – how’s that going?
 
 J - It’s not really, in Asia people like to download stuff illegally, but the reviews and feedback I get from strangers, it’s kinda good!

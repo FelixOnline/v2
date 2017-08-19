@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Im all for new shows and events but the article does no favours to Fusion by coming across as one massive arse lick It feels like its a friend doing another friend a favour independent journalism it is not And thats before mentioning the awful selfindulging comments on Page 29 of this weeks FelixAwfulI agree with the above comment Its certainly over the top publicity and praise for what is still just a student run eventsomething leaner meaner and more metropolitan What does that even mean thats the one major difference whereas York was just York Londons a lot bigger err no shit sherlock Its a great opportunity to expand your horizons What does that even meanNever before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar err what about East meets Westand a desire to give something back to the charity that sponsors her own doctoral studies Call me a cynic 
+ - Im all for new shows and events but the article does no favours to Fusion by coming across as one massive arse lick It feels like its a friend doing another friend a favour independent journalism it is not And thats before mentioning the awful selfindulging comments on Page 29 of this weeks FelixAwfulI agree with the above comment Its certainly over the top publicity and praise for what is still just a student run eventsomething leaner meaner and more metropolitan What does that even mean thats the one major difference whereas York was just York Londons a lot bigger err no shit sherlock Its a great opportunity to expand your horizons What does that even meanNever before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar err what about East meets Westand a desire to give something back to the charity that sponsors her own doctoral studies Call me a cynic
 imported: true
 ---
 
@@ -56,5 +56,5 @@ We spoke to Azel, a student who’d recently joined UCL from Leicester, who told
 
 All this however does come with risks. Historically intercollegiate events have tended to miss the bar; one needn’t think too far back to recall [the phenomenal success of the ICL-KCL-Goldsmith’s joint Summer Ball last year and the black hole it created in Union finances](http://felixonline.co.uk/news/1450/summer-ball-suffers-100000-loss/). But the human investment that has gone into Fusion suggests this could be amongst the first to buck the trend. Never before have students been invited to collectively create the event rather than pay their entry fee and prop up the bar.
 
-_Fusion launches later this month with their Halloween Masquerade Ball at the Café de Paris, Piccadilly, on the October 31. £9 tickets (£12 for non-students).  
+_Fusion launches later this month with their Halloween Masquerade Ball at the Café de Paris, Piccadilly, on the October 31. £9 tickets (£12 for non-students).
  Go to [__fusionatlondon.com__](http://fusionatlondon.com/) for more details._

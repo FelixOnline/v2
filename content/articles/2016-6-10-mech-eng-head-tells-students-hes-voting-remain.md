@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-On Sunday, the head of the department of mechanical engineering sent an email to all of his students and staff, addressing concerns about a post\-Brexit fee status for EU students, and telling them that he was “strongly in favour of remaining in the EU” and so would be “voting accordingly”.
+On Sunday, the head of the department of mechanical engineering sent an email to all of his students and staff, addressing concerns about a post-Brexit fee status for EU students, and telling them that he was “strongly in favour of remaining in the EU” and so would be “voting accordingly”.
 
 In the email, Professor Crawley said that several EU students had expressed concern that if Britain were to vote to leave the EU in this month’s referendum, they would be forced to start paying international fees of £26,000 a year, as opposed to the £9000 they currently pay.
 
@@ -52,6 +52,6 @@ He told FELIX that remain offered “ease of collaboration around Europe, includ
 
 This comes after Alice Gast, the Imperial President, sent an email out to all students and staff saying how college could not tell its students how to vote, but that Imperial had been involved with the remain campaign.
 
-Staff in the RSM took a different view, forwarding an email out to all students and staff from Imperial’s Britain Stronger in Europe campaign group, but adding they were happy to send an email out from the equivalent pro\-Brexit group.
+Staff in the RSM took a different view, forwarding an email out to all students and staff from Imperial’s Britain Stronger in Europe campaign group, but adding they were happy to send an email out from the equivalent pro-Brexit group.
 
 _In our print edition we mistakenly printed "Professor Crawley made no secret of how we will be voting in the referendum" when we meant to say "Professor Crawley made no secret of how **he** will be voting in the referendum."_

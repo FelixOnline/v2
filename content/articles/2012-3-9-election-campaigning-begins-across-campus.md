@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203151729-jk708-selection_017.jpeg"
 image_caption: >
-  
+
 image_width: "740"
 image_height: "509"
 image_attribution: ""

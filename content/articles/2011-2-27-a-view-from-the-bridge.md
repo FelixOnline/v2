@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271814-sjw209-avftbpos.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "849"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110202334-felix-ben-bernanke-mervyn-king-2011-2-18-10-1-17.jpg"
 image_caption: >
-  Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Govenor of the Bank of England, 
+  Ben Bernanke, Chairman of the Federal Reserve, and Sir Mervyn King, Govenor of the Bank of England,
 image_width: "800"
 image_height: "498"
 image_attribution: ""

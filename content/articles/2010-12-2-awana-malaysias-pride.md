@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022056-nm1010-awanaawa.jpg"
 image_caption: >
-  
+
 image_width: "3072"
 image_height: "2048"
 image_attribution: ""

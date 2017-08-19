@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180018-tna08-twa-climber.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Gene and Annie  Very very cool Erin This is not the first water project that I have heard or seen about in fact I have given to some othres before I love this one too It is so easy to take all that we have here for granted especially our water I will not let my kids do that and I hope I can always remember to be thankful for the small things Thank youcats and their bedsi remeebmr my Dad once spent ages I dont remeebmr quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you  halfaloaf   sildenafil   sildenafil   prostacyclin   cheap viagra 
+ - Gene and Annie  Very very cool Erin This is not the first water project that I have heard or seen about in fact I have given to some othres before I love this one too It is so easy to take all that we have here for granted especially our water I will not let my kids do that and I hope I can always remember to be thankful for the small things Thank youcats and their bedsi remeebmr my Dad once spent ages I dont remeebmr quite why making a bed for our cat then got REALLY UPSET when she failed to sleep in it she always had at least three on the go at any one time and rotated themcouldnt get the video to run bloody connection will have to come back for that laterhope everythings fine with you  halfaloaf   sildenafil   sildenafil   prostacyclin   cheap viagra
 imported: true
 ---
 
@@ -43,7 +43,7 @@ The team used ultrasound to compare the length of leg muscle fibres in the Twa o
 
 The pygmy climb trees mainly to collect honey, a vital component of their diet and an indicator of social prestige. But climbing and foraging at such heights, in excess of fifty metres, is extremely dangerous. Among the Aka, a nomadic pygmy tribe, falls from trees account for seven per cent of male deaths.
 
-Safe, quick climbing could have acted as the selection pressure driving unusually flexible ankles.  
+Safe, quick climbing could have acted as the selection pressure driving unusually flexible ankles.
  These findings have important implications for human evolution. About five million years ago, ancestral humans started walking about on two feet, but exactly what drove this milestone in human development has long been debated. From studying the fossil record, some anthropologists believe that early hominids were incapable of climbing trees because of their foot structure. This has led to the over-simplified classification of dividing human ancestors into two groups: those that swung through the forests and those that stalked the open plains. However, with the discovery of an ankle adapted for life in the trees in modern humans, the situation becomes a touch more perplexing.
 
 [DOI:10.1073/pnas.1208717110](http://www.pnas.org/content/early/2012/12/26/1208717110)

@@ -1,6 +1,6 @@
 ---
 title: >
-  Backing the future of Parkinson's research 
+  Backing the future of Parkinson's research
 subtitle: >
   Hollywood star Michael J Fox launches global Parkinson's initiative
 date: "2011-01-20 19:27:25 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201924-ks607-backtoth.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1080"
 image_attribution: ""

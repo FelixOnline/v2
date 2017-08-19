@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111110049-felix-jeremy-paxman-on-universi-005.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
 
 comments:
- - Just seen IC triumph on University challenge  great But where was Mike the Micrometer 
+ - Just seen IC triumph on University challenge  great But where was Mike the Micrometer
 imported: true
 ---
 

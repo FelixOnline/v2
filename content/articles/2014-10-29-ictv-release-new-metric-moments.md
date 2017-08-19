@@ -1,8 +1,8 @@
 ---
 title: >
-  ICTV release new Metric Moments 
+  ICTV release new Metric Moments
 subtitle: >
-  Chris Kaye makes an appearance, suitably inebriated 
+  Chris Kaye makes an appearance, suitably inebriated
 date: "2014-10-29 23:08:00 +0000"
 id: "4754"
 old_path: /news/4754/ictv-release-new-metric-moments-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201410292316-ps3110-metric-moments-ad.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

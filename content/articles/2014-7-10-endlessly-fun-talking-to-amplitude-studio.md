@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201407231455-me1711-endless-legend--the-roving-clans.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -42,7 +42,7 @@ This is where Endless Legend and Dungeon of the Endless (both on Steam Early Acc
 
 Now Endless Legend is set several years after the events of Dungeon of the Endless, dealing with the ancestors of those original prisoners, who have now evolved to several different factions all vying for the control of the planet. This game is also a 4X strategy game, but this time set in a medieval fantasy world. Given that we have had so much backlash with the missteps of Planetary Annihilation and DayZ in terms of Early Access, I was not sure what to really expect from this game. What I did get, was a beautifully, almost fully completed game that looked really great to play. The original concepts, the artwork and general gameplay that Amplitude studios came up with to make this game unique really intrigued me and I cannot wait to fully test them out!
 
-However, we did not only discuss the games themselves but Amplitude Studio's role as guinea pigs to Valve's early access as well as their general overview how early-access/early development funding should work. Rather than using Kickstarter, or similar crowdfunding sites, which they feel inhibits the game's developers ability to fully complete their vision, they went with steam's Early Access. This way, they could get community feedback but still retain control of their vision. However, rather than failing miserably like other companies, these guys have done it right, supplying almost a fully finished game for a slight discount while simultaneously listening to the community and giving them the ability to play early.  
+However, we did not only discuss the games themselves but Amplitude Studio's role as guinea pigs to Valve's early access as well as their general overview how early-access/early development funding should work. Rather than using Kickstarter, or similar crowdfunding sites, which they feel inhibits the game's developers ability to fully complete their vision, they went with steam's Early Access. This way, they could get community feedback but still retain control of their vision. However, rather than failing miserably like other companies, these guys have done it right, supplying almost a fully finished game for a slight discount while simultaneously listening to the community and giving them the ability to play early.
  That is another big aspect that Amplitude Studios tries to nurture, namely the interaction with their community. They interact with their fans, take their ideas into consideration as well as answering to feedback from those who have played the game. Really commendable approach, that I hope others in the industry follow.
 
 When talking about the gaming industry in general, CEO Romain de Waubert de Genlis remarked he thought that the creativity in the gaming industry was in the hands of the indie studios. Here in this scene lay the new original ideas, because these companies were that much closer to their fans, and were the companies that were unique rather than playing it safe.

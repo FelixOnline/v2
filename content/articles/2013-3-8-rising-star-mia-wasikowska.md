@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303080003-tna08-650x653.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 Park Chan-Wook’s long-awaited English-language film debut is a wondrous mixture of oddity, tasteful madness and gothic beauty. There isn’t a single sane, well-grounded or normal character here, and it’s that volatile family dynamic that lights the fuse and keeps the tension simmering throughout.
 
-India’s (Wasikowska) life is turned upside down when news of her father’s sudden tragic accidental death hits home. Her mother Evelyn (Kidman) is an emotional wreck, only comforted by the mysterious appearance of Charles (Goode), the charming, clean-cut younger brother of her deceased husband. Faced with an illusive uncle she never thought she had, India keeps her distance, (as she often does with everyone – at school, at home), and keeps a close eye on this man who seems too good to be true.  
+India’s (Wasikowska) life is turned upside down when news of her father’s sudden tragic accidental death hits home. Her mother Evelyn (Kidman) is an emotional wreck, only comforted by the mysterious appearance of Charles (Goode), the charming, clean-cut younger brother of her deceased husband. Faced with an illusive uncle she never thought she had, India keeps her distance, (as she often does with everyone – at school, at home), and keeps a close eye on this man who seems too good to be true.
  And of course, the creepy smiles, the odd looks, the hazy past, the good manners all suggest something is off and it isn’t long before anyone who appears to know more than they let on starts disappearing; most notably housekeeper Mrs. Garnish (Phyllis Somerville) who is startled by his return, and Aunt Gin (Weaver in a brief but sporadically funny turn), who becomes too inquisitive and potentially helpful to India.
 
 What develops is an uncomfortable, unsettling incestuous love triangle between the three main characters that constantly keeps everyone on edge. His immediate effect on the grieving widow is an obvious one: as evidenced by Kidman’s spot-on transition from the withdrawn and depressed, (no-one can do this better than the pale, slender, blood-shot-eyed Kidman) to the more lively and enthusiastic. As Evelyn begins to catch onto Charlie’s motives and starts to see India as a potential competitor, the cold, icy, steely-eyed side kicks in, again, something Kidman truly dominates.

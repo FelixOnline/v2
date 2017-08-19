@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701271631-felix-Glow-icecream.jpg"
 image_caption: >
-  
+
 image_width: "300"
 image_height: "382"
 image_attribution: ""
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-Fact: You can get glow\-in\-the\-dark ice cream.
+Fact: You can get glow-in-the-dark ice cream.
 
-You might have heard somewhere that Tonic water glows under UV light, but the story of the glow\-in\-the\-dark ice cream takes all that one step further. Its jellyfish flavoured!
+You might have heard somewhere that Tonic water glows under UV light, but the story of the glow-in-the-dark ice cream takes all that one step further. Its jellyfish flavoured!
 
-Using the physics of fluorescence, animals can produce light by a phenomenon called bioluminescence – they produce proteins which absorb light and then emit it in a particular colour, making them glow in the dark to attract mates or warn off predators. Jellyfish are some of the most famous bioluminescent creatures, since the ‘green fluorescent protein’ \(GFP\) made by them revolutionized biological experiments by allowing scientists to mark specific proteins in cells and thus watch them under a fluorescent microscope.
+Using the physics of fluorescence, animals can produce light by a phenomenon called bioluminescence – they produce proteins which absorb light and then emit it in a particular colour, making them glow in the dark to attract mates or warn off predators. Jellyfish are some of the most famous bioluminescent creatures, since the ‘green fluorescent protein’ (GFP) made by them revolutionized biological experiments by allowing scientists to mark specific proteins in cells and thus watch them under a fluorescent microscope.
 
 The company ‘Lick Me, I’m Delicious’ has now put that same protein in an ice cream, so when the protein is warmed up and exposed to the ions in your saliva it begins to emit light – or to put it simply, it glows when you lick it. Awesome? Yes. Expensive? Yes: £140 per scoop to be precise.
 

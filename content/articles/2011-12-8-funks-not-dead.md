@@ -2,7 +2,7 @@
 title: >
   Funk’s not dead
 subtitle: >
-  Douglas Heaven ends his trip around a Punk Planet 
+  Douglas Heaven ends his trip around a Punk Planet
 date: "2011-12-08 21:13:31 +0000"
 id: "1932"
 old_path: /music/1932/funks-not-dead

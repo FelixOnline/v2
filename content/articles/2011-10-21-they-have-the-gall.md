@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,8 +40,8 @@ Their debut album Marvin’s Marvelous Mechanical Museum, named after a museum i
 
 In terms of genre, the songs on Marvin’s are really a mixed bag. The band themselves described the sound as “wonky rock”, due to the often comical, upbeat lyrical style and music. They manage to write light-hearted songs that are both enjoyable musically and lyrically, while maintaining enough credibility for you to take the heavier songs seriously. It’s difficult for me to pick out favourites, as I love them all, so I’ll try to choose a range of styles.
 
-‘Just Apathy’, a prize-winning song (literally), is brilliantly arranged: starting off as a quiet piano ballad and building up, before returning to the piano at the very end. ‘Two Wuv’, the catchy song about their love for the Olsen twins, includes some lovely harmonies at the end. Staying with the theme of more recognizable ‘indy’ style, ‘Greener’ is a song about a failing relationship and envy. Okay, I know, but it’s not as emo as that sounds; and even if it is, the lyrics are good enough to not be lame or cringey.  
- On the more off-the-wall side there is ‘Welcome to Tally Hall’, a song introducing the band. It’s not just an oddity that’s only good once, it’s a legitimately great song in it’s own right. The part where they introduce each member, his instrument and tie colour is a classic verse. Then there’s the line “I might rap like an English chap” rapped, in an attempted upper-class English accent.  
+‘Just Apathy’, a prize-winning song (literally), is brilliantly arranged: starting off as a quiet piano ballad and building up, before returning to the piano at the very end. ‘Two Wuv’, the catchy song about their love for the Olsen twins, includes some lovely harmonies at the end. Staying with the theme of more recognizable ‘indy’ style, ‘Greener’ is a song about a failing relationship and envy. Okay, I know, but it’s not as emo as that sounds; and even if it is, the lyrics are good enough to not be lame or cringey.
+ On the more off-the-wall side there is ‘Welcome to Tally Hall’, a song introducing the band. It’s not just an oddity that’s only good once, it’s a legitimately great song in it’s own right. The part where they introduce each member, his instrument and tie colour is a classic verse. Then there’s the line “I might rap like an English chap” rapped, in an attempted upper-class English accent.
  The band’s second studio album is Good and Evil and was released earlier this year on Quack! Media. First off, it’s definitely a more mature album. There’s much less wackiness in the songs, which I guess has its merits. It definitely feels like they set out to make an album with an underlying theme, rather than just a collection of songs.
 
 It’s a great album, but there is something missing that was present on Marvin’s: the sense of fun; the mix of serious songs and light-hearted songs; the enjoyment and personalities just don’t quite ooze out in the sound. Perhaps, because I had looked up videos of them performing the songs live before the release, the album felt dated by the time I heard it. Good and Evil is still littered with top-notch songs, right from the start in fact. ‘Never Meant To Know’ is a dreamy song that’s also my mantra around revision time. ‘Cannibal’, ‘Misery Fell’ and ‘You’ all deserve a mention. The later being the almost solo piano offering from Andrew, a great geeky love song – something we can all relate to. Pushed to choose a favourite track from the album, I’d say ‘Turn the Lights Off’.

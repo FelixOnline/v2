@@ -2,7 +2,7 @@
 title: >
   15 arrested in anti-austerity protest in London
 subtitle: >
-  The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority. 
+  The arrests took place outside the gates to Downing Street, less than 48 hours after David Cameron was returned to power with a Conservative majority.
 date: "2015-05-12 15:59:28 +0100"
 id: "5512"
 old_path: /news/5512/15-arrested-in-anti-austerity-protest-in-london

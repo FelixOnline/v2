@@ -2,7 +2,7 @@
 title: >
   “I’m a massive nerd, I like sci-fi and riding horses.”
 subtitle: >
-  Alex Savell, Deputy President (Finance and Services) talks bars, burritos and what he really thought of his predecessor 
+  Alex Savell, Deputy President (Finance and Services) talks bars, burritos and what he really thought of his predecessor
 date: "2014-11-10 23:47:23 +0000"
 id: "4855"
 old_path: /features/4855/im-a-massive-nerd-i-like-sci-fi-and-riding-horses
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102346-ps3110-screen-shot-2014-11-10-at-23.45.08.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

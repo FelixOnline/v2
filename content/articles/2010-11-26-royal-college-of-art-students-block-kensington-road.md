@@ -1,6 +1,6 @@
 ---
 title: >
-  Royal College of Art students block Kensington Road 
+  Royal College of Art students block Kensington Road
 subtitle: >
   Art students protest against cuts to teaching budgets
 date: "2010-11-26 11:41:22 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011261137-ks607-rcaprote.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

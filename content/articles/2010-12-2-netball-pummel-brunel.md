@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Hi Thank you for the write upwell I am a professional dacner and dyslexicI keep facing challenges of remembering sequences understanding the movement and not knowing if it began from the right or the left As u said I need to practice so many times At times it gets so frustrating because I am a professional and at times when I do not get the sequence I feel like an amateur So I googled to know the different ways dyslexia can affect a dacnerWas also wondering if dyslexics understand rhythm differently from others Because I always feel that at the beginning of learning any sequence in dance i usually move on a different pace compared to others thinking I am going right Now I wonder if this is because of dyslexia or its just in my mindI will be really glad to receive an answer to this  Than you once againRegardsSharanyaje de9couvre votre blog gre2ce e0 un itine9raire web hyper complique9 mais qleule de9couverte j adore votre dessin et votre humour  Oui bon 
+ - Hi Thank you for the write upwell I am a professional dacner and dyslexicI keep facing challenges of remembering sequences understanding the movement and not knowing if it began from the right or the left As u said I need to practice so many times At times it gets so frustrating because I am a professional and at times when I do not get the sequence I feel like an amateur So I googled to know the different ways dyslexia can affect a dacnerWas also wondering if dyslexics understand rhythm differently from others Because I always feel that at the beginning of learning any sequence in dance i usually move on a different pace compared to others thinking I am going right Now I wonder if this is because of dyslexia or its just in my mindI will be really glad to receive an answer to this  Than you once againRegardsSharanyaje de9couvre votre blog gre2ce e0 un itine9raire web hyper complique9 mais qleule de9couverte j adore votre dessin et votre humour  Oui bon
 imported: true
 ---
 

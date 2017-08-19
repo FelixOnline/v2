@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111032034-pk1811-buffy.jpg"
 image_caption: >
-  “A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way” 
+  “A vampire in love with a Slayer!  It’s rather poetic...in a maudlin way”
 image_width: "268"
 image_height: "362"
 image_attribution: ""

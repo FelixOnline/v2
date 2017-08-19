@@ -1,6 +1,6 @@
 ---
 title: >
-  My body is a temple... to laziness 
+  My body is a temple... to laziness
 subtitle: >
   I suppose I’m just a traditionalist. Where the tradition is dying young and leaving a bloated corpse
 date: "2010-10-21 18:55:25 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302282339-tna08-aadlab---fallenstar2012_03.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,5 +46,5 @@ When viewers are not being invited to take part in the works, they are often bei
 
 Chris Levine’s work Angel is one of the most apparently unassuming. Utilising the ‘persistent visual echo of blipvert technique’ the viewer is treated to glimpses of a figure emerging, seemingly magically, from your peripheral vision of a simple strip light. The phenomenon is so alien that it really does momentarily shake belief in the tangible in a profoundly disturbing manner.
 
-The show runs all this weekend and will also feature scheduled performance pieces. If the show by INERE is anything to go by, these will comprise of baffling medleys of abstract digital sound and audio.  
+The show runs all this weekend and will also feature scheduled performance pieces. If the show by INERE is anything to go by, these will comprise of baffling medleys of abstract digital sound and audio.
  I feel it should be mentioned that, at thepress viewing, the techno-wizardry of many of the pieces was too often interrupted by overloaded power supplies, spasticated robotics and the faint smell of burning filaments. Hopefully by the time the show opens to the general public these glitches will have been ironed out and you too can make the trip to the depths of cybernetic madness unafraid.

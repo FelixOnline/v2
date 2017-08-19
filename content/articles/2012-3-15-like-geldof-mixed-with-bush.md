@@ -2,7 +2,7 @@
 title: >
   “Like Geldof mixed with Bush”
 subtitle: >
-  Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent 
+  Rory Fenton argues Kony 2012 is not just stupid – it sets a dangerous precedent
 date: "2012-03-15 19:44:43 +0000"
 id: "2347"
 old_path: /politics/2347/like-geldof-mixed-with-bush
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203160128-felix-532652699.jpg"
 image_caption: >
-  Africa finally gets what its always needed: a bunch of trigger-happy white American students 
+  Africa finally gets what its always needed: a bunch of trigger-happy white American students
 image_width: "600"
 image_height: "399"
 image_attribution: ""
@@ -55,7 +55,7 @@ America currently has 100 military “advisors” working to help the Ugandan ar
 
 __An Attitude Problem__
 
-Thirty minutes of YouTube was never going to suffice to tell the complete story. But the problem with Invisible Children isn’t that they failed to tell a detailed story, it’s the very story they chose to tell. It is a centuries old story of a helpless, childlike Africa at a loss without “our” help. It is a story that must stop.  
+Thirty minutes of YouTube was never going to suffice to tell the complete story. But the problem with Invisible Children isn’t that they failed to tell a detailed story, it’s the very story they chose to tell. It is a centuries old story of a helpless, childlike Africa at a loss without “our” help. It is a story that must stop.
  Watch Kony 2012 and the first thing that jumps out to the politically correct among us has to be this – why so few Africans? It is supposed to be about Africa, after all, and yet so much of the video is taken up by not just the white American director but his four-year-old white American son. Most of the interviews are with white American policy makers and activists, with just two Ugandan politicians (briefly) and a former child soldier making up the African contingency. But this is a West-focussed video because it has a West-focussed message; the LRA’s continued existence is because we in the West don’t care enough but “make Kony famous” and he can finally be brought to justice. This is wildly deluded.
 
 Let’s be clear – Africa is not governed by quantum mechanics. It doesn’t need us to look at it to exist. There are amazing local people working within their own communities to confront the LRA. But more importantly, Africa’s problems are at least as complex as those in the West. After all, we still have desperate poverty in London, we have problems with our health system and kids who fail to learn basic literacy at school. We should never give up trying to tackle them but we acknowledge the lack of a simple, one-size-fits-all solution and we rely on experts to guide us. There is no reason to assume Africa’s problems to be any less difficult. Not intractable, just difficult.

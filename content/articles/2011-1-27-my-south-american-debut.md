@@ -1,8 +1,8 @@
 ---
 title: >
-  My South American debut 
+  My South American debut
 subtitle: >
-  Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion 
+  Priya Garg begins her meandering journey in Rio de Janeiro, learning the importance of soccer and discovering how to embrace Latin passion
 date: "2011-01-27 20:20:57 +0000"
 id: "689"
 old_path: /travel/689/my-south-american-debut-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272019-ks607-rioriori.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

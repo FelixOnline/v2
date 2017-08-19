@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201604291107-felix-Screen Shot 2016-04-28 at 13.25.55.jpg"
 image_caption: >
-  Let’s start our own NUS with blackjack and hookers! 
+  Let’s start our own NUS with blackjack and hookers!
 image_width: "997"
 image_height: "642"
 image_attribution: "NUS"
@@ -41,11 +41,11 @@ The 26 year old is the first ever black woman to head up the National Union of S
 
 The tabloid news has been quick to demonise Bouattia. Two years ago, she delayed a NUS motion condemning ISIS to change the wording. In a piece for The Guardian, she says the paper’s motion appeared to “condemn all Muslims, not just the terror group”. After changes, the motion passed with her support.
 
-There have been accusations from the mainstream media, students, including Jewish Societies from around the country, accusing her of anti\-semitism. A two year old video of her making a reference to the “Zionist\-led media”, and an article in which she calls Birmingham university “something of a Zionist outpost” have not helped her campaign. Bouattia has since maintained that her problems with political Zionism should not be confused with anti\-semitism.
+There have been accusations from the mainstream media, students, including Jewish Societies from around the country, accusing her of anti-semitism. A two year old video of her making a reference to the “Zionist-led media”, and an article in which she calls Birmingham university “something of a Zionist outpost” have not helped her campaign. Bouattia has since maintained that her problems with political Zionism should not be confused with anti-semitism.
 
 Members of Imperial College Union’s own Jewish Society signed a letter addressed to Bouattia before her win, asking her to clarify why she saw a large Jewish population “as a problem”.
 
-In attempt to prove the critics wrong, as soon as she was elected she held a meeting with the Union of Jewish students, and has said she will continue to work to show she is not anti\-semitic.
+In attempt to prove the critics wrong, as soon as she was elected she held a meeting with the Union of Jewish students, and has said she will continue to work to show she is not anti-semitic.
 > > **ICU has left the NUS a whopping six times**
 Many have pointed to the media uproar concerning her election as an example of Islamophobia.
 

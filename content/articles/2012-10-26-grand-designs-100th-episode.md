@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260340-tna08-kevin-mccloud3.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,5 +38,5 @@ One hundred episodes in and Kevin appears to be going soft. The once heavily-cri
 
 The six storey home-to-be incorporates a seventy foot lift shaft and promises to give the sort of panoramas of the London skyline one could only manage to equal should s/he live in the penthouse of the Shard. The insanely beautiful and dreamy vistas have the potential to make you dizzy with a sense of awe (not to mention vertigo). The finished article does not fail to leave a normally shock-proof Kevin nothing short of gasping.
 
-A good reference to alpacas, a dodgy lift journey and a sumptuous six man bath plus his-and-his showers add slightly more light hearted touches to an otherwise whirlwind episode.  
+A good reference to alpacas, a dodgy lift journey and a sumptuous six man bath plus his-and-his showers add slightly more light hearted touches to an otherwise whirlwind episode.
  Ambitious designs, limited money and finances quickly spiralling out of control, this landmark episode does not fail to disappoint and is indeed a very grand design.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260408-tna08-scenes1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,6 +44,6 @@ As the only female character not covered from neck to toe, her nonchalant libera
 
 The dealing of gender roles in the play is not overly original. The artist is described as promiscuous for having had children with several men including a younger, married lover. One of her daughters is accused of being a prostitute for dressing in colour while the other, dressed solely in black, asks her mother to please the state in a bid to increase the reputation of female artists. Of course, Galactia refuses, and she is only spared from life-long imprisonment when a female critic patronisingly dresses up the meaning behind her work as one to be interpreted in an ironic fashion.
 
-Despite this, it is good that the play is not one to lecture about morality and the values of feminism. Empathy is not exactly the strongest feeling produced for the character and fate of Galactia, as there is sense to what those advising her say (even if they might say it in a somewhat sexist way), thereby creating an engaging level of tension throughout.  
- Although by no means perfect, Scenes from an Execution has been excellently staged and its themes have the ability to grip the audience and instigate reflection over the events occurring on stage.  
+Despite this, it is good that the play is not one to lecture about morality and the values of feminism. Empathy is not exactly the strongest feeling produced for the character and fate of Galactia, as there is sense to what those advising her say (even if they might say it in a somewhat sexist way), thereby creating an engaging level of tension throughout.
+ Although by no means perfect, Scenes from an Execution has been excellently staged and its themes have the ability to grip the audience and instigate reflection over the events occurring on stage.
  At the National Theatre until December 9th.

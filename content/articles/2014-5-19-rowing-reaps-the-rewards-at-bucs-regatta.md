@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405191424-jal08-sport_rowing1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "ICU Rowing"
@@ -76,7 +76,7 @@ The biggest morale boost of the day came from an event IC is starting to have a 
 
 The Richards/Kimberley lightweight dream team combined once again in the lightweight pair. However in contrast to previous year they had some stiff competition, finishing 2nd to an Edinburgh pair who had beaten also beaten them in the double the day before. However, the lads weren’t going to let themselves get beat at sweep. It was nip and tuck all the way to the 1500 where the boys put in a big lad push to get half a length up. This proved to be a coup de grace as the Edinburgh bowman blew and got pulled across 2 lanes, with Kimberley blowing 50 metres later.
 
-After a quick walk, rehydrate and a couple of collapses from exhaustion, the pair then went straight in to the lightweight 4x with Paul Jones and Myles Holborough to attempt to defend their title for the 4th year running. On seeing everyone getting tired, Holborough knew it was time for an inspirational speech. It began something along the lines of “Come on lads we’re gonna f\*cking win this one, F\*ck UL” and was followed by some more expletives that I’m told can’t be put in, despite being highly amusing. Anyway, the speech clearly worked as the boys led Edinburgh out of the start and finished with clear water, with 3rd place 15 seconds behind.
+After a quick walk, rehydrate and a couple of collapses from exhaustion, the pair then went straight in to the lightweight 4x with Paul Jones and Myles Holborough to attempt to defend their title for the 4th year running. On seeing everyone getting tired, Holborough knew it was time for an inspirational speech. It began something along the lines of “Come on lads we’re gonna f*cking win this one, F*ck UL” and was followed by some more expletives that I’m told can’t be put in, despite being highly amusing. Anyway, the speech clearly worked as the boys led Edinburgh out of the start and finished with clear water, with 3rd place 15 seconds behind.
 
 Stepping up to replace Rory Sullivan as token club geezer, Ben Thomas teamed up with Tom Jones for the men’s (intermediate) pair. Despite Tom Jones just getting worse and worse down the course, the boys put in a DJ Sully style big finish, taking down Newcastle and winning the silver medal behind Queens Belfast. Other strong performances came with a bronze medal from Michelle Vezie and Isa von Loggia in the women’s champ double, 4th place in the women’s champ coxed 4 (Michelle Vezie, Isa von Loggia, Lily Beadle & Jade Hubbard) and 5th for the Hubbard/ Mason duo in the light pair. A special mention has to go to the novice women, who just missed out on the final, and finished 2nd in the B final.
 

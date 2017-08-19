@@ -2,7 +2,7 @@
 title: >
   The future of gaming...?
 subtitle: >
-  Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around... 
+  Three of Gaming section’s biggest writers to talk about what they think the future holds in store when Felix 2000 rolls around...
 date: "2011-11-03 21:01:17 +0000"
 id: "1678"
 old_path: /games/1678/the-future-of-gaming
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111032027-sjw209-137-back-to-the-future.jpg"
 image_caption: >
-  Fuel up on plutonium, ‘cos we’re heading into the future! 
+  Fuel up on plutonium, ‘cos we’re heading into the future!
 image_width: "1024"
 image_height: "1024"
 image_attribution: ""
@@ -48,16 +48,16 @@ We’ll still see echoes of what’s going on today – single player games will
 
 __Omar Hafeez-Bore__
 
-Felix Games has changed a lot since its inception. We know this because for our round-up of the year 2027 we took a look at old issues of the Felix to play a bit of spot the difference.  
+Felix Games has changed a lot since its inception. We know this because for our round-up of the year 2027 we took a look at old issues of the Felix to play a bit of spot the difference.
  But we soon lost count. The first thing we noticed is how deep into the paper (we know! quaint, right?) we had to dig before getting to the games section itself. The second is the talk of using different ‘consoles’ for different games, akin it seems to having a different television for different channels.
 
-But the most notable difference is that Felix Games is pretty much limited to, well, games. As in playthings, toys, virtual escapes, button-powered stories or – in a word – entertainment.  
+But the most notable difference is that Felix Games is pretty much limited to, well, games. As in playthings, toys, virtual escapes, button-powered stories or – in a word – entertainment.
  How far we’ve come: nowadays gaming devices are an integral part of our modern life, acting as the foundation for learning of every kind. The primary-coloured make-believe of the Guitar Heroes and Rockbands of old are unthinkable in a world in which nearly every child learns to play using digital instruments and its associated training programme (not to mention the most inexplicably popular and insufferably annoying mascot of all the government’s Skillset Schemes: Harmony the Hamster).
 
 Similarly the tongue-in-cheek appraisal of an early Cooking Mama game looks a little naïve now that the Japanese megabrand is now the international standard for cooking training, and whose all-speaking-measuring-and-advising digital utensils can now teach everything from Indian Curry to Jamaican Chilli Sauce. And we’d rather chat to Cooking Mama over Harmony the un-road-killable hamster any day.
 
 In a world where jobs are given based on skill-set points from completed Skillset Schemes, where even dating matches are made using a comparison of compatibility of Personal Interest points, where any car can be turned to Sim-mode and replicate the bucking and judders of real racing from the comfort of one’s garage, it is hard to imagine a time when scores and levels, friend-challenges and international Cooking Mama tournaments were not part of the background hum of life.
-TODO: image from 
+TODO: image from
 In fact, it was reading through the old issues that first made us realise that a little something may have been lost along the way. We are not saying that we here at Felix don’t like the ability to go outside with our iVisors and learn about the difference between nimbus and cumulus clouds before competing with our friends at differentiating them, or wear the visors in select National Parks where we can experience our own Nintendo-designed Zelda adventures to find hulking beasts born from apple’s magnificent glasses. Nor are we even arguing against the more left-field devices such as the DelayGasm digital condom which trains unfortunate men to, well, you know (see our anonymously written import review last week).
 
 But reading the old accounts, of curling up with a pad and playing through games using only our suspension of disbelief, it is hard not to feel some nostalgia for this old time of simple escapism. Of using rudimentary graphics and gameplay as a prompt for unlimited, indescribable mental adventures. And of sometimes not wanting to have our points tallied up and our friend’s Skillset Rank compared. Just playing for the sake of play, to share stories and not leader boards. Like toys, virtual escapes, button-powered stories or – in a word – entertainment.

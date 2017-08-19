@@ -2,7 +2,7 @@
 title: >
   Academic Teaching and Support Staff recognised at Union Student Academic Choice Awards
 subtitle: >
-  Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs). 
+  Yesterday, 8 College staff members received prizes at the Union’s annual Student Academic Choice Awards (SACAs).
 date: "2014-05-16 01:31:59 +0100"
 id: "4592"
 old_path: /news/4592/academic-teaching-and-support-staff-recognised-at-union-student-academic-choice-awards

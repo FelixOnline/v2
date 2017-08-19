@@ -2,7 +2,7 @@
 title: >
   Union Concert Hall refurbished with £220,000 grant
 subtitle: >
-  Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust. 
+  Plans have been announced for a major refurbishment of the Imperial College Union Concert Hall, to be funded by a grant from the Harlington Trust.
 date: "2014-01-24 09:37:03 +0000"
 id: "4269"
 old_path: /news/4269/union-concert-hall-refurbished-with-220000-grant
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

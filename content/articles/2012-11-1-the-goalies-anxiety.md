@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Peter Handke has been a very prolific artist during his lifetime, leaving behind several novels, plays and film scripts. He started his career working closely with the German literary avant-garde, which promoted works of post-war authors, unknown at the time, of the calibre of Günter Grass and Heinrich Böll.  
+Peter Handke has been a very prolific artist during his lifetime, leaving behind several novels, plays and film scripts. He started his career working closely with the German literary avant-garde, which promoted works of post-war authors, unknown at the time, of the calibre of Günter Grass and Heinrich Böll.
  His 1970 novel, The Goalie’s Anxiety at the Penalty Kick, is one of his most notable works. It tells the story of the Austrian construction worker and former football goalkeeper Joseph Bloch, beginning abruptly with the protagonist being fired from his current job: at least, this is what Bloch understands when he notices that only one of his colleagues looks at him upon his arrival at the construction site. This reaction, devoid of any rational justification, immediately immerses the reader in the particular atmosphere of the novel.
 
 A spoiler alert should probably make an appearance at this point, as I am about to reveal the story’s turning point: but the truth is, the unfolding of events is the last concern one should have when reading this book. Rather, what matters is the way that all happenings are approached and interpreted by the main character – the novel really takes place in Bloch’s consciousness, perception and feelings (or absence thereof). After a romantic night with a cinema clerk in Vienna, he spends the morning in her company and, suddenly, strangles her. He then leaves the city and reaches a small town on the southern border. Here he spends several days, while seemingly random signs, barely acknowledged by Bloch, tell us that the investigations on the girl’s death are slowly leading to him.

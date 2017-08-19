@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,11 +31,11 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Hey danteWell what is legal for a country to do is dependant upon their own constitution Perhaps spying is seen legitimate for the sake of national security within its own country but where do you draw the line I believe spying on the phone calls of world leaders is perhaps a step too far and am glad that these leaks took place Atleast America has to think twice before it goes on wiretapping its close allies and do a better costbenefit analysis than it did in this case I also am quite optimistic about the future as the information age allows us to put our politicians under greater scrutiny The only thing i feel we have to realise is that most of the websites we use are based in the US and all data passing through the US can be looked at by their government National security is one thing but perhaps a greater scrutiny of the internet might be more important without a loss in freedom of expression somehow i guess KartikIts sad because even with plenty proof and being shown to have acted 
+ - Hey danteWell what is legal for a country to do is dependant upon their own constitution Perhaps spying is seen legitimate for the sake of national security within its own country but where do you draw the line I believe spying on the phone calls of world leaders is perhaps a step too far and am glad that these leaks took place Atleast America has to think twice before it goes on wiretapping its close allies and do a better costbenefit analysis than it did in this case I also am quite optimistic about the future as the information age allows us to put our politicians under greater scrutiny The only thing i feel we have to realise is that most of the websites we use are based in the US and all data passing through the US can be looked at by their government National security is one thing but perhaps a greater scrutiny of the internet might be more important without a loss in freedom of expression somehow i guess KartikIts sad because even with plenty proof and being shown to have acted
 imported: true
 ---
 
-NSA whistleblower, Edward Snowden, has recently leaked documents stating that the US has been monitoring phone calls of Angela Merkel and other European leaders. According to a German newspaper, Der Spiegel, the US has been monitoring Angela Merkel’s phone since 2002. Such operations are said to be carried out by the US in 80 destinations around the world including Brazil, Mexico and France. This has resulted in growing anti American sentiment in these countries.  
+NSA whistleblower, Edward Snowden, has recently leaked documents stating that the US has been monitoring phone calls of Angela Merkel and other European leaders. According to a German newspaper, Der Spiegel, the US has been monitoring Angela Merkel’s phone since 2002. Such operations are said to be carried out by the US in 80 destinations around the world including Brazil, Mexico and France. This has resulted in growing anti American sentiment in these countries.
  Angela Merkel has shown passionate discontent to the claims that America wiretaps her phones. German people have a history of having mass surveillance been done on them by dictatorial Communist and Nazi regimes. This has caused them to be more sensitive to such situations. German authorities have asked Washington to provide an explanation. The US authorities have stated that they ‘have not and will not be monitoring’ her mobile phone. This does not necessarily mean that her phone was not monitored in the past. US and Germany are seen to be close allies but this beach of trust has only degraded the ties between the two nations. Tapping her phone is a clear infringement on her personal rights and sovereignty, which makes her response justifiable. “It will take a lot of time”, Angela said, “to build back trust.”
 
 These revelations, however, should not come as a surprise to her as spying by various intelligence services is very well known. In fact, Germany has its own intelligence service directly under the chancellor, called the Federal Intelligence Service (BND), which has a comprehensive scheme of foreign intelligence gathering. Although some of the anger shown by the Chancellor may be genuine, it may have also been influenced by the German public outcry against the actions of the NSA.

@@ -1,8 +1,8 @@
 ---
 title: >
-  U-turn ahead 
+  U-turn ahead
 subtitle: >
-  Is the UK’s economy going in the wrong direction? 
+  Is the UK’s economy going in the wrong direction?
 date: "2011-02-10 20:53:33 +0000"
 id: "787"
 old_path: /politics/787/u-turn-ahead-

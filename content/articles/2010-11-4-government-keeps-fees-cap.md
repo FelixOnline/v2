@@ -1,6 +1,6 @@
 ---
 title: >
-  Government keeps fees cap 
+  Government keeps fees cap
 subtitle: >
   No unlimited tuition fees after all
 date: "2010-11-04 19:07:23 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

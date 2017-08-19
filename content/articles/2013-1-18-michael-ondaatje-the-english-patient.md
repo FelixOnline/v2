@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301180045-tna08-cafleurebonenglishpatientfirstedition.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-“The story is a poem disguised in prose”, says the introduction to the 2007 edition of this novel.  
+“The story is a poem disguised in prose”, says the introduction to the 2007 edition of this novel.
  It is exactly that.
 
 The story has no order or structure; arguably a mereprogression in the lives of our four characters. The book is a true exhibition of the author’s admirable ability to narrate: a gripping story where nothing happens.
@@ -65,10 +65,10 @@ Michael Ondaatje takes you through their experiences as paintbrush strokes acros
 
 You are taken to the desert of Libya across the golden sands and into the sweaty rooms of Cairo and then back to the valley in Tuscany, mined, shelled and abandoned. You are immersed in the war, crossing muddy fields at night under the light of bombing fire. You experience the horror of hospitals, nurses expected to act like priests accompanying – constantly – the souls imprisoned in their broken bodies to their death.
 
-There are paragraphs that make you stop.  
+There are paragraphs that make you stop.
  Again?
 
-It was just absolutely beautiful and exact. How did he manage to say that so well?  
+It was just absolutely beautiful and exact. How did he manage to say that so well?
  …sentences you could rip off the book and put on the wall.
 
 _Amanda tweets as @amandsllu_

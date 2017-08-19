@@ -41,7 +41,7 @@ But you see, I agree with tuition fees. Not a pure, unregulated system like Amer
 
 Most of the tax paying public agree with me. It’s why the only ones to get upset at the latest rise, are us, people younger than us, and all our parents squirming as they remember being paid to go to university and then spending their time there mostly in the union bar.
 
-The Demo2012 march and the NUS have completely missed the point. Our generation is the most hard done by generation of recent years. Our parents have given us a situation worse than the one they inherited but continue to follow policies that act like they’re the hard done by ones.  
+The Demo2012 march and the NUS have completely missed the point. Our generation is the most hard done by generation of recent years. Our parents have given us a situation worse than the one they inherited but continue to follow policies that act like they’re the hard done by ones.
  Youth unemployment is at 21.9%, and has been rising since 2004. House prices have risen above inflation for over thirty years pushing back the age at which people can afford to buy a house.
 
 We are adding to our national debt each year and have done for 26 of the past 32 years. This is money our parents’ have chosen not to spend themselves, but to borrow so that their children can pay it instead. This meant that last year we spent £42.5 billion on ‘Debt Management’. That’s more than the government spent on all education. That’s primary, secondary and universities combined. With £10 billion to spare. You could more than double the education budget if we didn’t have to pay back our debts. We are the first generation topay for our own education plus interest.

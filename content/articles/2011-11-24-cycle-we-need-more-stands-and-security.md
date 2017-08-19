@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242254-pk1811-img_7517.jpg"
 image_caption: >
-  
+
 image_width: "5184"
 image_height: "3456"
 image_attribution: "Matthew Colvin"

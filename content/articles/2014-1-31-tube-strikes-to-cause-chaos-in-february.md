@@ -2,7 +2,7 @@
 title: >
   Tube strikes to cause chaos in February
 subtitle: >
-  Transport for London have announced that next week there will be disruption to underground travel. 
+  Transport for London have announced that next week there will be disruption to underground travel.
 date: "2014-01-31 17:13:48 +0000"
 id: "4313"
 old_path: /news/4313/tube-strikes-to-cause-chaos-in-february
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

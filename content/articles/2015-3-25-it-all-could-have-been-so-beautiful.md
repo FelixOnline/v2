@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251257-ff712-a-scene-from-behind-the-beautiful-forevers---image-by-richard-hubert-smitha.jpg"
 image_caption: >
-  A scene from the National Theatre’s Behind The Beautiful Forevers 
+  A scene from the National Theatre’s Behind The Beautiful Forevers
 image_width: "0"
 image_height: "0"
 image_attribution: "Richard Hubert Smith"

@@ -2,7 +2,7 @@
 title: >
   Car crash driver admits causing death of Imperial researcher
 subtitle: >
-  An Australian man has admitted causing the death of two men, one of whom was the Imperial College researcher Dr Sean Barrett, by dangerous driving. 
+  An Australian man has admitted causing the death of two men, one of whom was the Imperial College researcher Dr Sean Barrett, by dangerous driving.
 date: "2014-01-31 17:12:20 +0000"
 id: "4310"
 old_path: /news/4310/car-crash-driver-admits-causing-death-of-imperial-researcher
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

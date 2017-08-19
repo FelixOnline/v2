@@ -43,12 +43,12 @@ Pancakes are great because they are really quick to make and great fun. Here’s
 
 Ingredients (makes 6)
 
-70g of plain flour  
- 1 egg  
- 100ml of milk mixed with 40ml water  
- Butter or vegetable/ sunflower oil for frying  
- 2 tbsp of yoghurt  
- 1 tbsp of honey  
+70g of plain flour
+ 1 egg
+ 100ml of milk mixed with 40ml water
+ Butter or vegetable/ sunflower oil for frying
+ 2 tbsp of yoghurt
+ 1 tbsp of honey
  A handful of strawberries, raspberries and blueberries
 
 Preparation
@@ -61,12 +61,12 @@ This recipe can be made in a matter of minutes and it always tastes great – al
 
 Ingredients (serves 2)
 
-A few cups of boiled water  
- 2 cups of frozen peas  
- 1 onion  
- A blob of butter  
- ½ an organic vegetable stock cube  
- 6 mint leaves  
+A few cups of boiled water
+ 2 cups of frozen peas
+ 1 onion
+ A blob of butter
+ ½ an organic vegetable stock cube
+ 6 mint leaves
  Pepper to taste
 
 Preparation

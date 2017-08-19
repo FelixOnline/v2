@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012313-tna08-obama-jay-z.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -51,7 +51,7 @@ The hip-hop celebrity endorsements were obviously worth their while. Political s
 and Research on Civic Learning and Engagement (CIRCLE) showed the voter turnout for African-Americans aged 18 – 29 in the 2008 election was the highest in American history at 58.2%; up by 8.7% from the previous election. The turnout for this particular voter demographic was higher than any other eligible racial or ethnic group in that election, which was a first in the history of American voting.
 
 However, as Obama’s term progressed the tide turned and voices of dissent appeared amongst the hip-hop crowd. Jay-Z and Obama have had an enduring relationship that has even been described as a “bromance” with Jay-Z declaring he has Obama on speed dial. Nevertheless, Jay-Z admits that some of the criticism directed towards Obama is “fair” acknowledging that “numbers don’t lie” when asked about unemployment during a Watch The Throne promotional interview with GQ. His fellow Inauguration VIP, Sean “Diddy” Combs told The Source earlier this year that “I love the President like most of us. I just want the President to do better”.
-TODO: image from 
+TODO: image from
 Perhaps the most critical attacks on Obama came from Chicago based rapper Lupe Fiasco. In an interview with CBS in 2008, Lupe Fiasco called Obama “the biggest terrorist” in the United States of America, who went on to further state that the terrorism in foreign states is directly related to Obama’s foreign policy. Furthermore, Lupe Fiasco’s single “Words I Never Said” expands upon his criticism by
 > bama’s term progressed the tide turned and voices of dissent appeared amongst the hip-hop crowd
 referencing Obama’s silence upon Israel’s 22 day bombardment of Gaza through the lyrics “Gaza strip was getting bombed, Obama didn’t say shit. That’s why I ain’t vote for him, next one either”. The disapproval of Obama in hip-hop isn’t just limited to American artists. London based political activist and rapper Lowkey labelled Obama as “handsomeface of an ugly empire” and released two tracks entitled “Obamanation” (part 1 & 2), which launch scathing condemnation of Obama. In “Obamanation (part 2)” M-1 (of political hip-hop group dead prez) declared Obama “a master of disguise, expert at telling lies”.

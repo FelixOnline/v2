@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611041423-felix-Screen Shot 2016-11-04 at 14.23.11.png"
 image_caption: >
-  
+
 image_width: "1404"
 image_height: "754"
 image_attribution: ""
@@ -40,6 +40,6 @@ Starting with immigration: it is a difficult process. Whether voluntary or not, 
 
 So yes, we migrate “out of our own volition”. So what?  Does making this decision disqualify us from ever discussing it again? Should we just shut up and keep our chin up in fear of being called ungrateful? I think not. No one knows the choices we’ve had to make. You make it sound like we came to your home uninvited, ate your food and spat it out with disdain. But in reality we came to an overpriced, overhyped restaurant. I came to study in the UK but let’s not fool ourselves, everything I got from this country, education included, I either earned or paid for.
 > > It’s not bad, or bad at all for many migrants, yet it remains difficult
-Now regardless of our contrasting feelings on immigration, one thing is undeniable, the climate in the UK has definitely changed post\-Brexit. During the two weeks before and after the referendum, reported hate crimes increased by 41% according to figures released by the Home Office. The government keeps attacking foreign doctors, students and even taxi drivers: particularly when it comes down to Europeans in the UK – immigrants with a particularly privileged status in this county. Although no one has straight\-up said that there will be deportations, the absence of guarantees is stressful. I, for one, do not appreciate my livelihood being dangled like a carrot in front of the EU.
+Now regardless of our contrasting feelings on immigration, one thing is undeniable, the climate in the UK has definitely changed post-Brexit. During the two weeks before and after the referendum, reported hate crimes increased by 41% according to figures released by the Home Office. The government keeps attacking foreign doctors, students and even taxi drivers: particularly when it comes down to Europeans in the UK – immigrants with a particularly privileged status in this county. Although no one has straight-up said that there will be deportations, the absence of guarantees is stressful. I, for one, do not appreciate my livelihood being dangled like a carrot in front of the EU.
 
-The point I was trying to make was that emigration is not easy. It takes a toll on you. It’s usually the better option and can in fact be pleasant and lead to a fulfilling life \(it often does, which is why we’ve been doing it since prehistory\). But that doesn’t ever make it an easy process, and Brexit really hasn’t helped
+The point I was trying to make was that emigration is not easy. It takes a toll on you. It’s usually the better option and can in fact be pleasant and lead to a fulfilling life (it often does, which is why we’ve been doing it since prehistory). But that doesn’t ever make it an easy process, and Brexit really hasn’t helped

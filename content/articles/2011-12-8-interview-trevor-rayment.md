@@ -41,7 +41,7 @@ Diamond Light Source is the UK’s largest science experiment, and is a third ge
 
 After a brief introduction, I sheepishly admit to Professor Rayment that I don’t know much about his past other than a brief summary of his education history. “Good, that sounds about right” he replies, “in these days of the internet, I prefer people to ask me in person.”
 
-In a place of such responsibility, overlooking the entire operation of the physical sciences sector of the UK’s biggest research facility, Professor Rayment admits that it wasn’t a path he just fell in to.  
+In a place of such responsibility, overlooking the entire operation of the physical sciences sector of the UK’s biggest research facility, Professor Rayment admits that it wasn’t a path he just fell in to.
  “From the age of 12, I’ve dreamt of being a scientist; it’s what I wanted to do. One of my earliest memories is going into a public library and picking out a book on nature of some sort.”
 
 Having completed his degree in Chemistry at Durham University, Professor Rayment decided to move south to Oxford University to study for a DPhil in Theoretical Chemistry. Despite the tragic death of his supervisor part way through, he persevered and completed his DPhil, whilst in fact discovering that he was a much better practical Chemist than a theoretical one. As a result, he moved to Cambridge University where he did a Post Doc in practical chemistry that lead onto a Research Fellowship there.
@@ -69,14 +69,14 @@ Picking up on the dream of spending time working on his own experiments, I ask w
 Professor Rayment admits that his knowledge and experience has come with “an unimaginable number of mistakes”, and it is the lessons he has learnt from these that allow him to recognise the mistakes of others and solve them, saving crucial time on experiments that on average last only 48 hours.
 
 Despite its undeniable presence, both on the physical landscape and on the horizons of ground-breaking science research, Diamond Light Source is not a name that many are familiar with. Professor Rayment feels that this may partly be due to many journalists avoiding scientific writing as a result of their lack of scientific background, as well as scientists themselves not being able to explain their own experiments.
-TODO: image from 
+TODO: image from
 He goes on to explain that with only 400 members of staff and a comparatively modest budget, Diamond believes that is, in fact, “punching above its own weight” in terms of getting the word out and engaging with the scientific and non-scientific communities.
 
 “There is a great deal of science carried out in the UK and we underpin a fair proportion of it. In many cases, the work done at Diamond was absolutely vital, but it’s underpinning and so doesn’t make headlines.”
 
 I question Professor Rayment further on the topic of Diamond’s funding, and if the government’s recent budget cuts have affected the facility.
 
-“Diamond is 86% funded by the [UK Research Council](http://www.rcuk.ac.uk/Pages/Home.aspx) and 14% by the [Wellcome Trust](http://www.wellcome.ac.uk/). When there have been cuts in funding, Diamond has felt it, but we do the best we can to make sure the users don’t feel it. This is a user synchrotron, and the users are kept first by making sure the people who work here are scientifically great. All of our principle scientists are researchers in their own right.”  
+“Diamond is 86% funded by the [UK Research Council](http://www.rcuk.ac.uk/Pages/Home.aspx) and 14% by the [Wellcome Trust](http://www.wellcome.ac.uk/). When there have been cuts in funding, Diamond has felt it, but we do the best we can to make sure the users don’t feel it. This is a user synchrotron, and the users are kept first by making sure the people who work here are scientifically great. All of our principle scientists are researchers in their own right.”
  Moving on, I question further into Diamond’s employment schemes and how current science graduates can get involved.
 
 “For people wanting a career here, if you are one of the principle or beamline scientists, we want people to have an independent academic research profile.

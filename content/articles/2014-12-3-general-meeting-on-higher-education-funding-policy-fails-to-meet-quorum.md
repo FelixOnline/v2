@@ -1,6 +1,6 @@
 ---
 title: >
-  General Meeting on Higher Education Funding Policy fails to meet quorum 
+  General Meeting on Higher Education Funding Policy fails to meet quorum
 subtitle: >
   49 students out of the required 200 attended the meeting on Monday
 date: "2014-12-03 00:53:53 +0000"

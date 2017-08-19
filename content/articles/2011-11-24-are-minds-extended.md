@@ -1,6 +1,6 @@
 ---
 title: >
-  Are minds extended? 
+  Are minds extended?
 subtitle: >
   Could minds interact with each other? Paul Garwood investigates...
 date: "2011-11-24 21:18:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - The advisory was isseud by the Ohio Department of Health as a result of decades of manufacturing activity and improper waste disposal of hazardous substancesin the Ottawa River Gardner is the real person fictionalized in the sappy and insufferable movie The Pursuit OfHappyness   It isnt its an example of how those who dont have are kept outof positions they are capable and deserving of I think 2Ne1 dont need to get team upwith nobody their are Okay just like thatWe know their leaders and they were set to fightBut the real surprise awaited us in OrionNot from Dr John but I get those moments too FX I was just wordnnieg when you were going to post again   thought I was goping to have to write and ask Now I can keep my letter to the topic  Blessings   Keep On Truckn  crimes   usual medication   financial catastrophe   cheap propecia   prednisone 
+ - The advisory was isseud by the Ohio Department of Health as a result of decades of manufacturing activity and improper waste disposal of hazardous substancesin the Ottawa River Gardner is the real person fictionalized in the sappy and insufferable movie The Pursuit OfHappyness   It isnt its an example of how those who dont have are kept outof positions they are capable and deserving of I think 2Ne1 dont need to get team upwith nobody their are Okay just like thatWe know their leaders and they were set to fightBut the real surprise awaited us in OrionNot from Dr John but I get those moments too FX I was just wordnnieg when you were going to post again   thought I was goping to have to write and ask Now I can keep my letter to the topic  Blessings   Keep On Truckn  crimes   usual medication   financial catastrophe   cheap propecia   prednisone
 imported: true
 ---
 
@@ -39,7 +39,7 @@ Have you ever wondered how your dog knows when your partner is on their way home
 
 Most of the three hundred people (standing room only!) gathered in South Kensington on October 18 to hear a lecture organised by the Friends of Imperial College had experienced one or both of these phenomena. Is it real? Or is it just that we don’t notice, or forget, the many times these things don’t happen?
 
-In his lecture on October 18, scientist and author [Dr Rupert Sheldrake](http://www.sheldrake.org/homepage.html) tabled evidence to suggest that these, and other strange coincidences, happen much more often than chance alone would suggest.  
+In his lecture on October 18, scientist and author [Dr Rupert Sheldrake](http://www.sheldrake.org/homepage.html) tabled evidence to suggest that these, and other strange coincidences, happen much more often than chance alone would suggest.
  Current scientific knowledge does not offer an explanation. Dr Sheldrake offers the hypothesis that the mind creates a ‘field’ which can be sensed by other minds and can stretch over long distances. However, his lecture focused more on the evidence he had assembled rather than on possible explanations.
 
 Dr Sheldrake is an able speaker and clearly knows his subject extremely well. He kept the audience engaged throughout his hour-long lecture and presented his evidence in a compelling way. He handled, sometimes doubtful, questions clearly and professionally.

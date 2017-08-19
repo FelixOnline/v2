@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103031943-nm1010-traveltr.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: ""
@@ -43,7 +43,7 @@ _Costs_: Relatively expensive, considering the current exchange rate. Rule of th
 
 _Cuisine_: Same as culture. Especially judging by its geographic disparity, what the land and sea yield tend to be unique from region to region. Brave up and sample unheard-of delicacies. Savour stereotyped dishes – you’ll be surprised how gorgeous they taste when done the correct way.
 
-__Viva La Espana__  
+__Viva La Espana__
  It’s official: Spain is cool. Forget about Costa del Sol and Ibiza, lazing on beaches and gallons of sangria – a football world cup win later it seems like the world’s fascination for España has been revived. Flocks of culture-pilgrims now visit Spain in order to immerse themselves in its rich history, art, architecture and gastronomy; and although Spain’s regional diversity often threatens its national integrity, it may be interpreted as cultural variety for her visitors’ enjoyment.
 > It’s official: Spain is cool
 _Accommodation_: Choices are aplenty. Hostelling is an ideal budget option – often housed in magnificent historical buildings adjourned with Moorish and Hispanic influences – though increasingly rare the further away one goes from cities. A ‘hostal’ is in between a hotel and hostel - inexpensive guest houses often making a comfy lodging.
@@ -52,7 +52,7 @@ _Food_: The French should be embarrassed when their prized Michelin Stars were s
 
 _Activities_: Hit the beaches by all means, but resist not the viscous allure of the Spanish culture. Architecture and historical sites aside, bull-fights and football games spell out the Spaniards’ love for a spectacle. Participate in crazy fiestas such as La Tomatina.
 
-__Polski Gabolski__  
+__Polski Gabolski__
  The shadow of WWII and Soviet rule has barely lifted, yet Poland’s reputation as a budget traveller’s destination has flourished. Cheap, tourism-friendly, must-do’s aplenty – the Central European country ticks every box. Its history meant traces of turbulence was carved onto every structure, which meant no shortages of attractions for those hoping to engross in the authentic European culture.
 
 _Accommodation_: Hostelling is fast becoming the trend and so abundances of hostels will be found in the likes of Warsaw and Krakow. Many large-scaled hostels accommodate young families and so curfews may be imposed. Further away from the major cities, rely on guest houses for your kipping needs.

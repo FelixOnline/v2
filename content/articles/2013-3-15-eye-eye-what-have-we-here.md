@@ -2,7 +2,7 @@
 title: >
   Eye eye, what have we here?
 subtitle: >
-  Eyes in the back of your head? More likely than you think explains Alexandra Easter 
+  Eyes in the back of your head? More likely than you think explains Alexandra Easter
 date: "2013-03-15 01:08:39 +0000"
 id: "3470"
 old_path: /science/3470/eye-eye-what-have-we-here
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150109-tna08-embryotadpole.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

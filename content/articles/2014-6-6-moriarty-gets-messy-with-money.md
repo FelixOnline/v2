@@ -2,7 +2,7 @@
 title: >
   Moriarty gets messy with money
 subtitle: >
-  Birdland is thought-provoking but mainly just confusing, says Chris Witham 
+  Birdland is thought-provoking but mainly just confusing, says Chris Witham
 date: "2014-06-06 02:48:26 +0100"
 id: "4664"
 old_path: /arts/4664/moriarty-gets-messy-with-money
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406060348-jal08-arts-birdland_2877186b.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412040411-ps3110-biglab.gif"
 image_caption: >
-  Grimm was facing 
+  Grimm was facing
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - and we have republished the email in full at the end of this articlewhereApologies we are having technical issues but the emails should be there nowI am sure there are two sides to the story but with all the little things stacking up followed by bigger news like the above falling into place it doesnt paint the College in a very positive light  It is becoming more widely accepted that Imperial College will go to quite impressive lengths to maintain its place at or near the top of the scientific food chain  For this it needs two things firstly money this has been evident with sky high fees rent in halls postgrad and overseas charges increased as well as sellinglooking to sell valuable assets I believe this is to the detriment of the College as they look to the student body who are not particularly well represented and whose voice is often ignored and find many of us opening our eyes to the reality and not being satisfied with the service we are given  The second and 
+ - and we have republished the email in full at the end of this articlewhereApologies we are having technical issues but the emails should be there nowI am sure there are two sides to the story but with all the little things stacking up followed by bigger news like the above falling into place it doesnt paint the College in a very positive light  It is becoming more widely accepted that Imperial College will go to quite impressive lengths to maintain its place at or near the top of the scientific food chain  For this it needs two things firstly money this has been evident with sky high fees rent in halls postgrad and overseas charges increased as well as sellinglooking to sell valuable assets I believe this is to the detriment of the College as they look to the student body who are not particularly well represented and whose voice is often ignored and find many of us opening our eyes to the reality and not being satisfied with the service we are given  The second and
 imported: true
 ---
 
@@ -87,7 +87,7 @@ Said Colquhoun about his blog post, “This bullying has been going on for years
 
 Imperial College's public statement [can be found here](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/newssummary/news_4-12-2014-18-0-17).
 
-\*\*\*\*\*
+*****
 
 __Stefan Grimm’s email, taken from dcscience.net:__
 
@@ -135,13 +135,13 @@ _I am by far not the only one who is targeted by those formidable guys. These co
 
 _Why does a Professor have to be treated like that?_
 
-_One of my colleagues here at the College whom I told my story looked at me, there was a silence, and then said: “Yes, they treat us like sh\*t”._
+_One of my colleagues here at the College whom I told my story looked at me, there was a silence, and then said: “Yes, they treat us like sh*t”._
 
 _Best regards,_
 
 _Stefan Grimm_
 
-\*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\*
+***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *****
 
 __Wilkin’s email to Stefan Grimm, taken from The Times Higher Education artlcle that can be found____ __[__here__](http://www.timeshighereducation.co.uk/news/imperial-college-professor-stefan-grimm-was-given-grant-income-target/2017369.article)__: __
 
@@ -165,4 +165,4 @@ _Best wishes_
 
 _Martin_
 
-\*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\*
+***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *****

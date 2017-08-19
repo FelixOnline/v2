@@ -1,8 +1,8 @@
 ---
 title: >
-  Wish I was there... 
+  Wish I was there...
 subtitle: >
-  Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial 
+  Going to a Spanish university for a year makes you realise just how fortunate we are to be at Imperial
 date: "2011-01-27 19:42:18 +0000"
 id: "674"
 old_path: /comment/674/wish-i-was-there-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "397"
 image_attribution: ""

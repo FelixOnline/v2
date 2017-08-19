@@ -1,6 +1,6 @@
 ---
 title: >
-  Festive science facts 
+  Festive science facts
 subtitle: >
   All the Christmas science you'll need to bore your relatives to death
 date: "2010-12-12 13:55:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121351-ks607-familych.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "420"
 image_attribution: ""

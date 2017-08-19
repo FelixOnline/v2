@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011252004-nm1010-handwash.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "1024"
 image_attribution: ""

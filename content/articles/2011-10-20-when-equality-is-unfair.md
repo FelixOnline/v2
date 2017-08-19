@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110210010-sjw209-mahfooz-cutout2.jpg"
 image_caption: >
-  
+
 image_width: "300"
 image_height: "375"
 image_attribution: ""

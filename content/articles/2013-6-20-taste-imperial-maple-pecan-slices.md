@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210023-tna08-foodslice.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -64,7 +64,7 @@ Melt the butter, syrup and sugar in a saucepan over a low heat. Add the crushed 
 
 Pour the mixture into the tin and press down with a fork. Bake in the oven for 15 minutes until lightly golden, be careful not to overbake.
 
-While the base cools, melt the chocolate slowly in a pan over a low heat. Pour the melted chocolate over the cooled biscuit base and leave in the fridge until the chocolate has set.  
+While the base cools, melt the chocolate slowly in a pan over a low heat. Pour the melted chocolate over the cooled biscuit base and leave in the fridge until the chocolate has set.
  Cut into 12 slices and enjoy!
 
 __Cost breakdown and tips__

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010101642-ks607-KateMoss.jpg"
 image_caption: >
-  
+
 image_width: "230"
 image_height: "237"
 image_attribution: ""

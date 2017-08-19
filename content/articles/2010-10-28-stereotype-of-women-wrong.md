@@ -1,6 +1,6 @@
 ---
 title: >
-  Stereotype of women wrong 
+  Stereotype of women wrong
 subtitle: >
   Ahlul Bayt event dispels stereotypes about women in Islam
 date: "2010-10-28 19:11:10 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Youre the one with the brains here Im wactnihg for your postsSOHWoT  ormjakzpwlsj buy ultram cgcvei lexapro OOO 
+ - Youre the one with the brains here Im wactnihg for your postsSOHWoT  ormjakzpwlsj buy ultram cgcvei lexapro OOO
 imported: true
 ---
 

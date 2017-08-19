@@ -2,7 +2,7 @@
 title: >
   Reports from a sick night in Metric... no, seriously
 subtitle: >
-  Kadhim Shubber reports from KABLAAM 
+  Kadhim Shubber reports from KABLAAM
 date: "2011-11-17 21:21:57 +0000"
 id: "1774"
 old_path: /music/1774/reports-from-a-sick-night-in-metric-no-seriously
@@ -53,7 +53,7 @@ I ask the lovely chaps on the door what our ticket sales are like. We’re edgin
 
 __Operation Midnight Climax__ up next. I clamber on stage again and, in addition to my boxing announcer-style, “OPERATION MIDNIGHT CLIMAAAAAAAX”, I also crack a few jokes; I think I heard a bit of laughter, but it may just be the beer. They turn up the rock a few notches and blow a few minds with their cover of __t.A.T.u.__ ‘All the Things She Said’. It’s getting towards ten and the headliner __Mikill Pane__ should be arriving soon. Metric is rapidly filling up and though the guys at the door have lost count, they reckon there are another 30/40 people now.
 
-When Mikill Pane arrives at the union I go into full-blown happy butler mode. “Hi there, how you doing? Yep come this way, certainly, ok, cool. Yep a couple of drinks, ok, one second … \*sprint to the bar \*sprint back with drinks … here you go.” He’s at least 6ft 4 and towers over me, and he’s got an entourage – I wish I had an entourage – including a Pete Doherty lookalike with little brown hat with a huge wide brim.
+When Mikill Pane arrives at the union I go into full-blown happy butler mode. “Hi there, how you doing? Yep come this way, certainly, ok, cool. Yep a couple of drinks, ok, one second … *sprint to the bar *sprint back with drinks … here you go.” He’s at least 6ft 4 and towers over me, and he’s got an entourage – I wish I had an entourage – including a Pete Doherty lookalike with little brown hat with a huge wide brim.
 
 Operation Midnight Climax finish their set. The equipment is cleared away and for about 40 minutes the plug for the mixer screws with the sound and I’m running back and forth apologizing for the delay; several more beers follow.
 

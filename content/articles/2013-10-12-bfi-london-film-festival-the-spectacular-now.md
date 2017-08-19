@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310122010-jal08-film_spectacular.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,10 +36,10 @@ imported: true
 
 __The Spectacular Now__
 
-Director: James Ponsoldt  
- Writers: Scott Neustadter, Michael H. Weber, Tim Tharp (novel)  
- Starring: Miles Teller, Shailene Woodley, Jennifer Jason Leigh, Kyle Chandler  
- Runtime: 95 minutes  
+Director: James Ponsoldt
+ Writers: Scott Neustadter, Michael H. Weber, Tim Tharp (novel)
+ Starring: Miles Teller, Shailene Woodley, Jennifer Jason Leigh, Kyle Chandler
+ Runtime: 95 minutes
  Certification: R (USA)
 
 Here is a delightfully charming high-school drama in which the characters talk, think, and look like teenagers. Every now and then we are lucky enough to be treated to some excellent films that involve coming-of-age stories (Clueless, 10 Things I Hate About You, Mean Girls, Easy A), so it was about time we had another one of these, and The Spectacular Now certainly fits the bill.

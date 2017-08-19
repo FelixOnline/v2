@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132022-ks607-boatboat.jpg"
 image_caption: >
-  
+
 image_width: "540"
 image_height: "720"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Sales and wants yes you never know when it might come in handy minutes of mneeitg could go on and then we could review pat minutes as not everyone saves them on their computer once Chris has sent them out Discussion forum I dont know should be out on the bike instead of taslking on the computer butthen it might come in handy over Christmas My favorite love story is my pnatres  They have been married 43years this past April  They met in high school and my Dad was from the wrong side of the tracks literally  He had fallen in love with the daughter of the man who owned the only car lot in the town they lived in  She didnt care but he knew he couldnt provide for her  He joined the Army was sent to Vietnam for a year and they got married as soon as he came home  They have built several family businesses and adopted my little brother and I  I honestly have never seen them fight maybe because they had been married 17 years before they adopted me they hade 
+ - Sales and wants yes you never know when it might come in handy minutes of mneeitg could go on and then we could review pat minutes as not everyone saves them on their computer once Chris has sent them out Discussion forum I dont know should be out on the bike instead of taslking on the computer butthen it might come in handy over Christmas My favorite love story is my pnatres  They have been married 43years this past April  They met in high school and my Dad was from the wrong side of the tracks literally  He had fallen in love with the daughter of the man who owned the only car lot in the town they lived in  She didnt care but he knew he couldnt provide for her  He joined the Army was sent to Vietnam for a year and they got married as soon as he came home  They have built several family businesses and adopted my little brother and I  I honestly have never seen them fight maybe because they had been married 17 years before they adopted me they hade
 imported: true
 ---
 

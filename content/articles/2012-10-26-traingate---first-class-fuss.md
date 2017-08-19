@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Oh come on people Its TICKETGATE It wouldnt have even been a thing if not for that punPeople dislike George Osborne because they elected him due to his promise to eradicate the deficit in one parliament That isnt going to happen Thus all we are left with is the good news we are coming out of a double dip recession the future of more cuts and welfare being slashed whilst Starbucks pays an amazingly considerate 0 tax on UK profits So I think its more than understandable that people just dont like the wanker As for your Stephen Fry comparison that is just daft 
+ - Oh come on people Its TICKETGATE It wouldnt have even been a thing if not for that punPeople dislike George Osborne because they elected him due to his promise to eradicate the deficit in one parliament That isnt going to happen Thus all we are left with is the good news we are coming out of a double dip recession the future of more cuts and welfare being slashed whilst Starbucks pays an amazingly considerate 0 tax on UK profits So I think its more than understandable that people just dont like the wanker As for your Stephen Fry comparison that is just daft
 imported: true
 ---
 

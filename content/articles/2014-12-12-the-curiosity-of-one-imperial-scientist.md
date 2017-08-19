@@ -1,6 +1,6 @@
 ---
 title: >
-  The Curiosity of one Imperial scientist 
+  The Curiosity of one Imperial scientist
 subtitle: >
   Felix talks to Imperial Professor Sanjeev Gupta on his role in the Mars mission
 date: "2014-12-12 12:59:30 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412121258-ps3110-msl20110519_pia14156-full.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

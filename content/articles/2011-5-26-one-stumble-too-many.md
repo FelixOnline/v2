@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105261958-felix-felixillustration.jpg"
 image_caption: >
-  
+
 image_width: "4967"
 image_height: "3508"
 image_attribution: "Elizabeth Griffiths"

@@ -2,7 +2,7 @@
 title: >
   Are you up to the Challenge?
 subtitle: >
-  Pietro Aronica on taking on Paxman for Imperial pride 
+  Pietro Aronica on taking on Paxman for Imperial pride
 date: "2014-11-06 19:04:43 +0000"
 id: "4773"
 old_path: /features/4773/are-you-up-to-the-challenge
@@ -53,4 +53,4 @@ The only thing that is missing is a little bit of local team pride, and we hope 
 
 The tryouts for this year’s candidates are going to be soon. If you think you can wrestle with the date of birth of Churchill and the longest river of Australia, give it a go. You may be next Imperialite to have the honour of being berated by Paxman on TV.
 
-_\* In case you were wondering, the answers are, in order: Nairobi, Ganymede, Linus Pauling, the Earl of Bute, 99, William Faulkner, the Chandrasekhar limit, Charles Barry, 1874 and the Murray river. _
+_* In case you were wondering, the answers are, in order: Nairobi, Ganymede, Linus Pauling, the Earl of Bute, 99, William Faulkner, the Chandrasekhar limit, Charles Barry, 1874 and the Murray river. _

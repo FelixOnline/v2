@@ -2,7 +2,7 @@
 title: >
   How good is The Good Wife?
 subtitle: >
-  Primetime television shows (i.e. the ones that are not on cable channels and therefore lack sex, nudity, violence and swearing) are often unfairly overlooked when it comes to providing an answer for that question “what’s your favourite tv show”? 
+  Primetime television shows (i.e. the ones that are not on cable channels and therefore lack sex, nudity, violence and swearing) are often unfairly overlooked when it comes to providing an answer for that question “what’s your favourite tv show”?
 date: "2014-05-02 01:55:32 +0100"
 id: "4557"
 old_path: /tv/4557/how-good-is-the-good-wife
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405020256-jal08-the-good-wife-cast-cbs-636.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

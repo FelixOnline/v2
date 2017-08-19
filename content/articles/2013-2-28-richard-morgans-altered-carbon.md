@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302281811-txl11-altered-carbon.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,5 +40,5 @@ Altered Carbon is set in the not too distant future where mankind have discovere
 
 The book is essentially a hardboiled detective story in a science fiction setting. Indeed, most of the characters are instantly recognisable genre clichés – the cigarette smoking cynical detective, the femme fatale, the corrupt power figures. Few of these are likeable – Kovacs himself coming off as particularly brutal. Morgan himself has said that the ultraviolence directed by Kovacs against his enemies was meant to act as escapist release, both for himself and the readership, but it just makes Kovacs seem little better than his opponents. The science fictional elements add very little either. The cyberpunk themes explored are nothing new and, for someone well versed in the genre, simply seem very tired.
 
-Despite all of this, however, the book somehow comes together to work remarkably well. A combination of very good writing and a well thought out plot mean that you can almost forget all of the previously mentioned problems. The action is fast paced and it is certainly very easy to become engrossed.  
+Despite all of this, however, the book somehow comes together to work remarkably well. A combination of very good writing and a well thought out plot mean that you can almost forget all of the previously mentioned problems. The action is fast paced and it is certainly very easy to become engrossed.
  I expect that how much you enjoy Altered Carbon will depend strongly on what you’re looking for – if you like well-written, clever detective stories you’ll probably love it, if you’re looking for something fresh and innovative you’ll probably be disappointed.

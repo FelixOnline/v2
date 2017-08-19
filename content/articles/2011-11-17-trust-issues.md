@@ -2,7 +2,7 @@
 title: >
   Trust issues
 subtitle: >
-  Imperial NHS Trust must resolve recent media allegations 
+  Imperial NHS Trust must resolve recent media allegations
 date: "2011-11-17 21:42:47 +0000"
 id: "1785"
 old_path: /comment/1785/trust-issues
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

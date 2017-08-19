@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271916-nm1010-tunisia.jpg"
 image_caption: >
-  
+
 image_width: "3500"
 image_height: "2333"
 image_attribution: ""

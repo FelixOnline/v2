@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105081739-gda07-img_3244lores.jpg"
 image_caption: >
-  
+
 image_width: "3000"
 image_height: "2000"
 image_attribution: ""
@@ -83,12 +83,12 @@ You may also be interested to hear that this page has received over 1200 hits in
 
 __16:10__ As the cast get into their peculiar and exciting costumes in preparation for tonight's performance, here's a refreshed cast list for prospective audience members to look at.
 
-__Galileo Robert Felstead  
- Scaramouche Katie Clemence  
- Killer Queen Shamini Bundell  
- Pop Sebastian Junemann  
- Khashoggi Al Norman  
- Meat Rebecca Jones  
+__Galileo Robert Felstead
+ Scaramouche Katie Clemence
+ Killer Queen Shamini Bundell
+ Pop Sebastian Junemann
+ Khashoggi Al Norman
+ Meat Rebecca Jones
  Brit Phil Raymond__
 
 __Ensemble: Charlotte Ivison, Sanee Patel, Owain Jones, Christine Simpson, Oluwatosin Ajayi, Sophie Campen, Lucy Harrold, Michael Willmott, Barry Whiteside, Felix Millne, Holly Russell-Allison, John Wheatley, Philip Jackson, Tony Bannister, Yun William Yu.__
@@ -152,7 +152,7 @@ __02:17__ We have now officially reached the quarter-way point, and the stats ar
  - Much of the second act has been rehearsed. Which is to say, the lines have been read aloud in front of __David Swain__, who tonight has had the opportunity to direct in the manner of an assembly line employee. He's still going strong, however, with the printed schedule of scenes and characters being adhered to rigorously. We'll see how he's doing after his long-awaited early morning power nap.
  - The band, in all its 5 piece glory, has been proven to exist. More details about the instruments and performers will come at a point in the morning when people regain enough energy to resume speaking.
  - I ___still ___haven't had a chance to read the script. Or, for that matter, properly listen to the songs. Although __Rebecca Jones__' rendition of 'No one But You (Only the Good die Young)' beats a YouTube recording any day of the week.
- - WIth fifteen and a half hours to go, Happiness reigns.  
+ - WIth fifteen and a half hours to go, Happiness reigns.
  ![DSCN0261.JPG](../inc/timthumb.php?src=/img/upload/201105080229-gda07-dscn0261.jpg&w=460px&zc=1&a=t) Action shot at 01:29. -
 __00:57__ Every time the recording shouts out "Commander Khashoggi", it's all I can do to stop thinking of [Adnan Khashoggi.](http://en.wikipedia.org/wiki/Adnan_Khashoggi) Who isn't a particularly interesting person, you understand, but has a ___great ___name for a meringue-based dessert.
 
@@ -198,12 +198,12 @@ __21:05__ This isn't so much a content-driven post as a format-driven one. With 
 
 __21:04__ Calloo Callay! Ring the flags and raise the drums: here is as much of the cast list as I have sneakily been able to lay my hands on thus far.
 
-Galileo Robert Felstead  
- Scaramouche Katie Clemence  
- Killer Queen Shamini Bundell  
- Pop Sebastian Junemann  
- Khashoggi Al Norman  
- Meat Rebecca Jones  
+Galileo Robert Felstead
+ Scaramouche Katie Clemence
+ Killer Queen Shamini Bundell
+ Pop Sebastian Junemann
+ Khashoggi Al Norman
+ Meat Rebecca Jones
  Brit Phil Raymond
 
 Ensemble: Charlotte Ivison, Sanee Patel, Owain Jones, Christine Simpson, Oluwatosin Ajayi, Sophie Campen, David Beaton, Lucy Harrold, Michael Willmott, Barry Whiteside, Felix Millne, Holly Russell-Allison, John Wheatley, Philip Jackson, Tony Bannister.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102037-dr910-truegrit.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1065"
 image_attribution: ""

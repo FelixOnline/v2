@@ -34,8 +34,8 @@ comments:
 imported: true
 ---
 
-__Director__ Steven Spielberg  
-__Screenwriters__ Lee Hall, Richard Curtis, Michael Morpurgo (play)  
+__Director__ Steven Spielberg
+__Screenwriters__ Lee Hall, Richard Curtis, Michael Morpurgo (play)
 __Cast__ Jeremy Irvine, Emily Watson, Tom Hiddleston, David Thewlis, Peter Mullan
 
 This is a true masterpiece. It’s certainly one of the most emotional films of recent times, with the last fifty minutes or so being a veritable rollercoaster of ups and downs. This is Spielberg at his absolute finest – so tearjerkingly perfect that I am quite sure there were no dry eyes in the cinema when I left. It was a difficult act to follow – Michael Morpurgo’s fiercely popular original novel was extremely highly rated, not to mention the theatrical production which is consistently awarded five stars and has been called “the play of the decade”. However, Spielberg’s portrayal of a wonderful story has set an extremely high standard for the rest of the films in 2012, as well as earning itself Golden Globe nominations for ‘Best Picture: Drama’ and ‘Best Original Score’.

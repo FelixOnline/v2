@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242340-felix-dscf2180.jpg"
 image_caption: >
-  
+
 image_width: "2816"
 image_height: "2112"
 image_attribution: ""
@@ -36,15 +36,15 @@ imported: true
 
 __Fencing__
 
-Men’s 1st 135  
- ULU 1st 74  
- Men’s 1st 114  
- Cambridge 1st 107   
- Men’s 1st 101  
- Bristol 1st 100   
- Men’s 1st 98  
- Oxford 1st 98\*  
- (\*Oxford win the match on weapons)
+Men’s 1st 135
+ ULU 1st 74
+ Men’s 1st 114
+ Cambridge 1st 107
+ Men’s 1st 101
+ Bristol 1st 100
+ Men’s 1st 98
+ Oxford 1st 98*
+ (*Oxford win the match on weapons)
 
 Last weekend saw the Imperial College Fencing Club Men’s 1st team travel to Oxford for their first Southern Premiership weekend tournament. An early start (too early for some) meant leaving the Union at a time when most people are still in bed. After picking up a couple of wayward sabreurs the minibus made its way up the M40 towards the inhospitable climes of the Oxford cricket school, where the matches were to be played.
 

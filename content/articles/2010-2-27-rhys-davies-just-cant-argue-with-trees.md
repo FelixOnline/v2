@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271701-rsp07-trees.jpg"
 image_caption: >
-  
+
 image_width: "1066"
 image_height: "800"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - david jones torebki torebki online tanie torebki torebki    torebki damskie sklep internetowy torebki 2011 torebki wizytowe   tanie torebki torebki kazar torebka kuferek torebki skrzane torebki damskie woskie david jones torebki       torebki damskie sklep internetowy kazar  torebki damskie 
+ - david jones torebki torebki online tanie torebki torebki    torebki damskie sklep internetowy torebki 2011 torebki wizytowe   tanie torebki torebki kazar torebka kuferek torebki skrzane torebki damskie woskie david jones torebki       torebki damskie sklep internetowy kazar  torebki damskie
 imported: true
 ---
 
@@ -61,5 +61,5 @@ What is a little argument with a little man when you can remember the last time 
 
 But us humans can't afford to take our time like that. Our time is short. Carpe Diem, and all that. If we sat and pondered for a decade over every little decision, society would grind to a halt.
 
-So, in conclusion, it appears that while trees have a valid, even admirable, life philosophy, it is not one that man should seek to emulate.  
+So, in conclusion, it appears that while trees have a valid, even admirable, life philosophy, it is not one that man should seek to emulate.
  Now, if you'll excuse me, I have to leave...

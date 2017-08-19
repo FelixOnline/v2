@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302010026-tna08-rugger.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ On a balmy Wednesday afternoon, ICURFC travelled to the all weather pitch at Mai
 
 Top of the league Reading were always going to be a tough physical match, and playing it on the plastic grass pitch was only going to add to the drama and pace of this crucial game.
 
-After a brief and intense warm up, IC kicked off. Captain Jack made the initial hit on the catching Reading player and drove him into the rubber crumb. Imperial held their ground for a couple of phases, however Reading looked good on the counter, and after an initial break were making good yards.  
+After a brief and intense warm up, IC kicked off. Captain Jack made the initial hit on the catching Reading player and drove him into the rubber crumb. Imperial held their ground for a couple of phases, however Reading looked good on the counter, and after an initial break were making good yards.
  An isolated Imperial munster runner had the ball tackled off him on the halfway line and Reading were away. Three quick passes and some pace on the wing put Imperial 5-0 down after five minutes. The conversion was close to the touchline and the kick was poor so the shellshocked Imperial kicked off again, only five points down.
 
 This time the defence held firm for around fifteen minutes, with great work by Tom Chavas, knee chopping everything that dared run at him. New prop Pierre L’Bour was an inspiration in the front row, hauling his weighty frame around the park and doing all the donkey work asked of him. While relatively inexperienced in the dark art of the front row, he was still confident explaining to the ex-premiership referee what was happening, much to everyone else’s amusement.

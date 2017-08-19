@@ -59,8 +59,8 @@ Russia has also shown a fierce opposition to American intervention. The Russian 
 US should not take part in air strikes in Syria. Assad already has enough time to prepare for such an air strike. The only way the air strike would be effective would be if there are ground troops to support the air strike. Furthermore, there are worries within the Syrian public that the air strikes would result in further civilian casualties. Russian authorities, I believe, have provided an alternative which the international community should respect.
 
 ###  The second important story – Egypt after the Arab Spring:
-TODO: image from 
-A very rosy picture was painted about the path towards which Egypt was headed after the Arab Spring. However, people are becoming more and more pessimistic about the future of the country.  
+TODO: image from
+A very rosy picture was painted about the path towards which Egypt was headed after the Arab Spring. However, people are becoming more and more pessimistic about the future of the country.
  Months after Hosni Mubarak was ousted from Egypt, democratic elections were held. The Freedom and Justice party, the political wing of the Muslim Brotherhood, came to power with Mohammad Morsi as their leader. A new constitution was drafted which the West has not been in support of, as it gave The Freedom and Justice party immense power.
 
 Mohammad Morsi was also losing support at home for the same reason as well as his inability to deal with the economic issues. This resulted in a massive protest around Egypt and resultantly military intervention.
@@ -71,7 +71,7 @@ The Egyptian military took over the parliament on July 3rd. The head of the arme
 
 ####  My Take:
 
-I am quite worried about how this situation will play out. It is necessary that the Muslim Brotherhood is made part of the democratic process to prevent them from being dragged further underground. This could turn them more fundamental in nature and give them a concrete reason to act in such a way. However, the idea of having them in power is also dangerous to secularism in the region.  
+I am quite worried about how this situation will play out. It is necessary that the Muslim Brotherhood is made part of the democratic process to prevent them from being dragged further underground. This could turn them more fundamental in nature and give them a concrete reason to act in such a way. However, the idea of having them in power is also dangerous to secularism in the region.
  I’m not against the military intervention, although I am against the manner in which it is currently being conducted, but it is very important that the Muslim Brotherhood remains part of the democratic process to maintain stability in Egypt.
 
 ###  The third story – Scotland independence debate:

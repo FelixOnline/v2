@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102171909-nm1010-bicyclye.jpg"
 image_caption: >
-  
+
 image_width: "409"
 image_height: "300"
 image_attribution: ""

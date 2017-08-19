@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102242000-dr910-boatclub.jpg"
 image_caption: >
-  
+
 image_width: "2098"
 image_height: "1068"
 image_attribution: ""

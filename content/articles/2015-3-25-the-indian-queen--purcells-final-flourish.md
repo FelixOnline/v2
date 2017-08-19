@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251312-ff712-eno-the-indian-queen-maritxell-carrero-and-julia-bullock-1-(c)richard-hubert-smitha.jpg"
 image_caption: >
-  Maritxell Carrero and Julia Bullock in The Indian Queen. 
+  Maritxell Carrero and Julia Bullock in The Indian Queen.
 image_width: "0"
 image_height: "0"
 image_attribution: "ENO / Richard Hubert Smith"

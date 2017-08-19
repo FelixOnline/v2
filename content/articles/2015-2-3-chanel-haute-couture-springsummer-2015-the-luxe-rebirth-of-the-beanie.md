@@ -1,8 +1,8 @@
 ---
 title: >
-  Chanel haute couture spring/summer 2015: the luxe rebirth of the beanie 
+  Chanel haute couture spring/summer 2015: the luxe rebirth of the beanie
 subtitle: >
-  Cecile Borkhataria looks at the floral themed show held in Paris 
+  Cecile Borkhataria looks at the floral themed show held in Paris
 date: "2015-02-03 13:24:12 +0000"
 id: "5179"
 old_path: /fashion/5179/chanel-haute-couture-springsummer-2015-the-luxe-rebirth-of-the-beanie-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502031324-ps3110-screen-shot-2015-02-03-at-13.24.07.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

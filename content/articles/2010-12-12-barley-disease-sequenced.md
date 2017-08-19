@@ -2,7 +2,7 @@
 title: >
   Barley disease sequenced
 subtitle: >
-  Research suggests genome parasites help adaption 
+  Research suggests genome parasites help adaption
 date: "2010-12-12 13:50:32 +0000"
 id: "550"
 old_path: /science/550/barley-disease-sequenced
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121348-ks607-barleyfi.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   Genetic link for 'heavy heart' condition identified
 subtitle: >
-  Douglas Heaven investigates the latest hereditary discoveries surrounding the heart 
+  Douglas Heaven investigates the latest hereditary discoveries surrounding the heart
 date: "2011-10-19 11:09:54 +0100"
 id: "1552"
 old_path: /science/1552/genetic-link-for-heavy-heart-condition-identified
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

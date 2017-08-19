@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -70,7 +70,7 @@ _Where:_
 
 _Union concert hall, 2nd floor of the Union_
 
-_Tickets:  
+_Tickets:
  Tuesday 11th December._
 
 _Tickets:_

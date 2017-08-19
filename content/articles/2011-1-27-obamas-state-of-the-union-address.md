@@ -1,6 +1,6 @@
 ---
 title: >
-   Obama’s State of the Union address 
+   Obama’s State of the Union address
 subtitle: >
   State of the union address the Obama way!
 date: "2011-01-27 19:23:58 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271921-nm1010-ObamaOba.jpg"
 image_caption: >
-  
+
 image_width: "634"
 image_height: "497"
 image_attribution: ""

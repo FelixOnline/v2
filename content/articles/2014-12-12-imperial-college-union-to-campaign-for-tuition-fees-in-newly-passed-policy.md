@@ -2,7 +2,7 @@
 title: >
   Imperial College Union to campaign for tuition fees in newly passed policy
 subtitle: >
-  Opposing paper, to campaign for Free Education, was rejected 
+  Opposing paper, to campaign for Free Education, was rejected
 date: "2014-12-12 12:44:59 +0000"
 id: "5046"
 old_path: /news/5046/imperial-college-union-to-campaign-for-tuition-fees-in-newly-passed-policy
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412121244-ps3110-screen-shot-2014-12-11-at-22.39.16.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

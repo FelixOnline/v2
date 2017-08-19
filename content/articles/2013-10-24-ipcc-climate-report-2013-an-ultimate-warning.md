@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250047-felix-fb-cover-photo-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "London Climate Forum"
@@ -31,26 +31,26 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Switch to a plant based diet  
+ - Switch to a plant based diet
 imported: true
 ---
 
-The Intergovernmental Panel for Climate Change (IPCC) released merely one part of its six-yearly report last month, and alarm bells have begun ringing across the world: apparently, it is 95% certain humans have been the largest contributing factor to global warming since the 1950’s.  
+The Intergovernmental Panel for Climate Change (IPCC) released merely one part of its six-yearly report last month, and alarm bells have begun ringing across the world: apparently, it is 95% certain humans have been the largest contributing factor to global warming since the 1950’s.
  A general overview of the key facts and figures is a must for digesting what this report actually says:
 
-\* Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. The atmosphere and ocean have warmed, the amounts of snow and ice have diminished, sea level has risen, and the concentrations of greenhouse gases have increased.
+* Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. The atmosphere and ocean have warmed, the amounts of snow and ice have diminished, sea level has risen, and the concentrations of greenhouse gases have increased.
 
-\* Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850. In the Northern Hemisphere, 1983–2012 was likely the warmest 30-year period of the last 1400 years.
+* Each of the last three decades has been successively warmer at the Earth’s surface than any preceding decade since 1850. In the Northern Hemisphere, 1983–2012 was likely the warmest 30-year period of the last 1400 years.
 
-\* Ocean warming dominates the increase in energy stored in the climate system, accounting for more than 90% of the energy accumulated between 1971 and 2010.
+* Ocean warming dominates the increase in energy stored in the climate system, accounting for more than 90% of the energy accumulated between 1971 and 2010.
 
-\* Over the last two decades, the Greenland and Antarctic ice sheets have been losing mass, glaciers have continued to shrink almost worldwide, and Arctic sea ice and Northern Hemisphere spring snow cover have continued to decrease in extent.
+* Over the last two decades, the Greenland and Antarctic ice sheets have been losing mass, glaciers have continued to shrink almost worldwide, and Arctic sea ice and Northern Hemisphere spring snow cover have continued to decrease in extent.
 
-\* The rate of sea level rise since the mid-19th century has been larger than the mean rate during the previous two millennia (high confidence). Over the period 1901–2010, global mean sea level rose by 0.19m [0.17m to 0.21m].
+* The rate of sea level rise since the mid-19th century has been larger than the mean rate during the previous two millennia (high confidence). Over the period 1901–2010, global mean sea level rose by 0.19m [0.17m to 0.21m].
 
-\* The atmospheric concentrations of carbon dioxide (CO2), methane, and nitrous oxide have increased to levels unprecedented in at least the last 800,000 years. CO2 concentrations have increased by 40% since pre-industrial times, primarily from fossil fuel emissions and secondarily from net land use change emissions. The ocean has absorbed about 30% of the emitted anthropogenic carbon dioxide, causing ocean acidification.
+* The atmospheric concentrations of carbon dioxide (CO2), methane, and nitrous oxide have increased to levels unprecedented in at least the last 800,000 years. CO2 concentrations have increased by 40% since pre-industrial times, primarily from fossil fuel emissions and secondarily from net land use change emissions. The ocean has absorbed about 30% of the emitted anthropogenic carbon dioxide, causing ocean acidification.
 
-\* Global surface temperature change for the end of the 21st century is likely to exceed 1.5°C relative to 1850 to 1900. Warming will continue beyond 2100. Warming will continue to exhibit interannual-to-decadal variability and will not be regionally uniform.
+* Global surface temperature change for the end of the 21st century is likely to exceed 1.5°C relative to 1850 to 1900. Warming will continue beyond 2100. Warming will continue to exhibit interannual-to-decadal variability and will not be regionally uniform.
 > “There’s no happy ending where we prevent climate change any more. Now the question is, is it going to be a miserable century or an impossible one, and what comes after that.”
 > Bill McKibben, The New York Times, Dec. 5, 2010
 Such dire forecasts backed by mathematical certainty come as a respite for climate change believers who in recent years had been challenged to explain why global warming rates had been gradually declining in the last decade. Now, their response is to say that “due to natural variability, trends based on short term records are very sensitive to the beginning and end dates and do not, in general, reflect long term trends.” This, backed up by the above facts, could well be indicative of a very real warning regarding our impacts on the Earth’s climate.

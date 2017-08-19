@@ -2,7 +2,7 @@
 title: >
   Alien in Scotland
 subtitle: >
-  Grating noise over a blackout. A pinprick of light. The noise intensifies, the light grows. More. More. The light spills out, begin to refract. Colours seep through. 
+  Grating noise over a blackout. A pinprick of light. The noise intensifies, the light grows. More. More. The light spills out, begin to refract. Colours seep through.
 date: "2014-03-26 13:47:22 +0000"
 id: "4504"
 old_path: /film/4504/alien-in-scotland
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403261347-jal08-under-the-skin-scarlett-johansson-1024x601.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,7 +50,7 @@ Rating: 4/5
 
 Grating noise over a blackout. A pinprick of light. The noise intensifies, the light grows. More. More. The light spills out, begin to refract. Colours seep through. The noise becomes deeply, deeply unsettling. And suddenly: title cards. And Scotland.
 
-_Under the Skin_’s opening few minutes are almost the film in miniature. The visuals move from a mixture of darkness and blinding light via the gloomy, ominous Scottish countryside to weird spaces that aren’t spaces\* where Scarlett Johansson’s alien intimately interacts with members of the human race. There’s disconcertingly nonsexual nudity, and an inescapable feeling of something being ‘off’. There’s a mysterious Biker figure who is almost terrifying in how ruthless yet unexplained he appears, aiding the alien without ever directly engaging with her (beyond a lengthy stare).
+_Under the Skin_’s opening few minutes are almost the film in miniature. The visuals move from a mixture of darkness and blinding light via the gloomy, ominous Scottish countryside to weird spaces that aren’t spaces* where Scarlett Johansson’s alien intimately interacts with members of the human race. There’s disconcertingly nonsexual nudity, and an inescapable feeling of something being ‘off’. There’s a mysterious Biker figure who is almost terrifying in how ruthless yet unexplained he appears, aiding the alien without ever directly engaging with her (beyond a lengthy stare).
 
 And the score. Oh, the score. Johansson may be the star on the poster, but it’s the sound that truly steals the show here. Levi’s score never gives you a moment to recover, continually subjecting you to discomfort, always adding to what’s on screen.
 

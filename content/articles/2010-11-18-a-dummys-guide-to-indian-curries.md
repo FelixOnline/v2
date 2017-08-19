@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182108-nm1010-masaaaaa.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "683"
 image_attribution: ""

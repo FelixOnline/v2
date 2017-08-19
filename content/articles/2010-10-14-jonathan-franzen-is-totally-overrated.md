@@ -1,6 +1,6 @@
 ---
 title: >
-  Jonathan Franzen is totally overrated! 
+  Jonathan Franzen is totally overrated!
 subtitle: >
   Does Jonathan Franzen actually deserves all the hype he gets?
 date: "2010-10-14 19:26:03 +0100"

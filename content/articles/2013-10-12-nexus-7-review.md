@@ -2,7 +2,7 @@
 title: >
   Nexus 7 Review!
 subtitle: >
-  Apparently, the best 7-inch tablet you can get 
+  Apparently, the best 7-inch tablet you can get
 date: "2013-10-12 19:30:59 +0100"
 id: "3856"
 old_path: /tech/3856/nexus-7-review
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310122030-jal08-tech_nexus-review.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

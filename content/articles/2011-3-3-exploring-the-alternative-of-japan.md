@@ -2,7 +2,7 @@
 title: >
   Exploring the alternative of Japan
 subtitle: >
-  An expat’s secret food indulgences unveiled courtesy of Aki Matsushima 
+  An expat’s secret food indulgences unveiled courtesy of Aki Matsushima
 date: "2011-03-03 06:30:23 +0000"
 id: "991"
 old_path: /food/991/exploring-the-alternative-of-japan
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103030629-ks607-japenese.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "855"
 image_attribution: ""

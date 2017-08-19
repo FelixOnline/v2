@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706091653-ea3211-Screen Shot 2017-06-09 at 16.53.05.png"
 image_caption: >
-  
+
 image_width: "1960"
 image_height: "1109"
 image_attribution: ""
@@ -48,7 +48,7 @@ Having ascertained that this problem is not going away, what can be done to less
 
 Firstly, efforts need to be made to restrict Wahhabi and Salafist Jihadi movements and the funding that they receive. The repressed report should be published and acted upon to disrupt the powerful individuals that wish to spread violence around the world.
 
-Secondly, more community policing and engagement is required. This is vital as it would help provide a counter narrative to that provided by extremist preachers, and help protect vulnerable individuals. A significant amount of radicalisation occurs within the community, and a wedge must be driven between those who preach extremism and intolerance and the rest of society. Deportations and snap\-imprisonment of those willing to commit terrorist acts may not be the best course of action as this could serve to radicalise more people, as well as reducing the time taken to commit attacks. The controversial Prevent programme must be fully funded, and better integrated into communities.
+Secondly, more community policing and engagement is required. This is vital as it would help provide a counter narrative to that provided by extremist preachers, and help protect vulnerable individuals. A significant amount of radicalisation occurs within the community, and a wedge must be driven between those who preach extremism and intolerance and the rest of society. Deportations and snap-imprisonment of those willing to commit terrorist acts may not be the best course of action as this could serve to radicalise more people, as well as reducing the time taken to commit attacks. The controversial Prevent programme must be fully funded, and better integrated into communities.
 
 Funding for the security services should be increased, but their powers for surveillance should not. I am of the opinion that they possess the appropriate tools, but not the means. An emphasis on the role of the internet in radicalising individuals should be avoided. While it is a critical battleground, social media companies do not host that much extremist content, as most has moved to places such as Telegram. A recent report by the BBC into IS militants found that a significant proportion were radicalised by local preachers.
 

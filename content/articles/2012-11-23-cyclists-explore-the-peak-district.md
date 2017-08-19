@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211230011-tna08-cycling-ting.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -52,7 +52,7 @@ As we approached, the climb didn’t look as bad as expected. A third of the way
 
 After regrouping and a little rest we carried on climbing, just a gentle climb back up to the top of Mam Tor (the first climb of the day) the descent back down the side we climbed at the start of the day was sublime. Smooth, dry tarmac meandering it’s way down the side of the hill with speeds in excess of 45 mph were reached. Hugely rewarding after such a brutal climb. A few minutes later we were back at the hostel. Time for the pub.
 
-As per usual with Cycling Club trips, the pub is always a 40 minute walk from wherever we stay. It is, however, always worth the walk and much food and beer was had by all.  
+As per usual with Cycling Club trips, the pub is always a 40 minute walk from wherever we stay. It is, however, always worth the walk and much food and beer was had by all.
  The following morning again saw blue skies with a distinct chill in the air. After loading up the minibuses we headed into Buxton to startthe route for the day. A few miles in we pulled off a busy A-road onto some nice quiet country roads. Minutes later we were gifted a dead straight, steep descent down to a reservoir – scarily fast for roads so damp; above 50 mph this time. Beyond the reservoir we climbed for a few kilometers and soon reached the peak. It seemed like the luck was on our side for the day – 10km in and no problems at all. Maybe we’d be set for a perfect day’s cycling?
 
 Nope. Not quite. The first corner of the descent saw 6 riders take a bad tumble with some flying comically onto the verge. A combination of damp roads, adverse camber and foolhardy attitudes could be blamed for this incident. Luckily no one was seriously injured, although Pete endured some nasty road rash. The most serious injury, however, went to Max’s bike – a mashed rear wheel saw the end of his weekend. As we were so far from anywhere we were forced to jump ship; a few went back to fetch the minibuses whilst the rest of us waited in the cold, unable to push on.

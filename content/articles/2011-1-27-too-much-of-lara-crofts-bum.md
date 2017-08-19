@@ -2,7 +2,7 @@
 title: >
   Too much of Lara Croft’s bum!
 subtitle: >
-  Omar Hafeez-Bore wasn’t trying to get a better view... honest! 
+  Omar Hafeez-Bore wasn’t trying to get a better view... honest!
 date: "2011-01-27 20:27:27 +0000"
 id: "694"
 old_path: /games/694/too-much-of-lara-crofts-bum
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272025-ks607-laralarl.jpg"
 image_caption: >
-  
+
 image_width: "1338"
 image_height: "1327"
 image_attribution: ""

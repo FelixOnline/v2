@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012209-tna08-councilrgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 On Tuesday 30 October, [Imperial College Union Council](https://www.imperialcollegeunion.org/your-union/how-were-run/committees/council) voted for the [new Constitution](https://www.imperialcollegeunion.org/your-union/how-were-run/constitution-reform) proposed by [Paul Beaumont, Union President](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/paul-beaumont).
 
-The vote occurred at the very first full meeting of Council for this year. The result was that 32 voted in favour of the new Constitution, with nobody against the motion or abstaining from voting.  
+The vote occurred at the very first full meeting of Council for this year. The result was that 32 voted in favour of the new Constitution, with nobody against the motion or abstaining from voting.
  This vote was the very first vote that all of the new members of Council, who were only recently elected, had to make. It had previously been questioned, by the Court, as to whether it was too soon for such an important vote to occur, and if they realistically had had enough time to actually look over the proposals in full. It was argued that the time frame was too short, and that there was no way that people would have sufficient time to study the new and old Constitutions in full (especially considering the ever present, ominous Imperial work load). The retort by Beaumont was that the papers were all widely available online and were circulated to all candidates, as well as the emails encouraging everyone to read them. Beaumont said that everyone had had ample time. The concern that the additions made over the weekend were not properly seen were also raised.
 
 Council Chair, Michael Foster, stated that the Council’s discussion would be run by the following procedure: a member of the floor posing a question and then receiving an answer from Beaumont. The reasoning given was that it was assumed that everyone had read everything beforehand and therefore seen both sides of the arguments. However, Felix has found out that there are members of Council who did not read everything beforehand. This decision was questioned by the Court, with the objection swiftly brushed aside.

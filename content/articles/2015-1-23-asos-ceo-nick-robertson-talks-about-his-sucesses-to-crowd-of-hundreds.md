@@ -1,6 +1,6 @@
 ---
 title: >
-  ASOS CEO Nick Robertson talks about his sucesses to crowd of hundreds 
+  ASOS CEO Nick Robertson talks about his sucesses to crowd of hundreds
 subtitle: >
   Cecile Borkhataria goes to the event hosted by IC Entrepreneurs
 date: "2015-01-23 01:18:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501230117-cac111-asos2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

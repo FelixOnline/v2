@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305291616-tna08-shaa_wasmund.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ SW: I’ve not really come across any extra competition from male entrepreneurs 
 __AD: A lot of well educated young graduates are finding it increasingly difficult to find jobs, what advice would you give them to stand out in the businessworld?__
 
 SW: Have they thought about starting their ownbusiness? These days you can set up a website and start a business from your front room, all you need is an internet connection. There’s a brilliant support network out their for young entrepreneurs now too, the web provides so much advice and offers more ways to get in touch with people than ever before. So you could argue it’s easier to access customers and find yourself a mentor. There seems to be so much doom and gloom about the recession, but I think young people should take a step back and try to look at this as a wonderful opportunity.
-TODO: image from 
+TODO: image from
 __AD: Some graduates are deciding to set up their own businesses. Are there any top tips you could give for expanding small businesses?__
 
 SW: Collaborate, work hard and market your hind legs off. To grow your business you need to make sure people know about it. It’s easier and cheaper than ever to do this. Look at the tools at your disposable, one example being social media – it gives you a direct line to thousands of customers for free.

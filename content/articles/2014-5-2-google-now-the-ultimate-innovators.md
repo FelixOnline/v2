@@ -2,7 +2,7 @@
 title: >
   Google: Now the ultimate innovators?
 subtitle: >
-  Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch. 
+  Google announced a few weeks ago via a Google+ post that it has plans to create its very own smartwatch.
 date: "2014-05-02 01:48:20 +0100"
 id: "4556"
 old_path: /tech/4556/google-now-the-ultimate-innovators
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

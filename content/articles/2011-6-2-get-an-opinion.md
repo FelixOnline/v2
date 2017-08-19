@@ -47,12 +47,12 @@ As you know, politicians are so admired that others want to use their secrets to
 
 I think the best way to describe this is with an example. I’m sure you’ll recognise an exchange like this:
 
-_Interviewer: What’s your favourite band?  
+_Interviewer: What’s your favourite band?
  Interviewee: Well, that’s an interesting question. I really love music. I think it’s hard to say exactly which band is my favourite, as I have so many. I mean, what’s really important is to remember …(5 minutes later)… So as I said I have a lot of bands that I like, and it’s impossible to pick a favourite._
 
 Instead of what should have happened, which is this:
 
-_Interviewer: What is your favourite band?  
+_Interviewer: What is your favourite band?
  Interviewee: The Beatles._
 
 An actual answer to the question, and a rather fantastic answer if you ask me.

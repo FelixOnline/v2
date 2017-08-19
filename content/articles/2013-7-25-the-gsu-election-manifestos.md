@@ -47,7 +47,7 @@ P.S. It's really easy, there's not much to read...
 __Position: President__
 
 _Candidate #1: Andreas Thomik_
-TODO: image from 
+TODO: image from
 _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!
@@ -55,7 +55,7 @@ If you think this lot are rubbish, vote for me!
 __Position: Deputy President (Representation)__
 
 _Candidate #1: Boshuo Guo_
-TODO: image from 
+TODO: image from
 _Candidate #2: RON - Re-Open Nominations_
 
 If you think this lot are rubbish, vote for me!

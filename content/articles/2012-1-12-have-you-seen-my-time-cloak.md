@@ -36,10 +36,10 @@ imported: true
 
 Yes, you read right: time cloak. But what is this mysterious device? Well, it works to conceal an event in time. This is not just science fiction; experiments and investigations have been carried out to show that such a cloak might actually be a possibility.
 
-Now before you get too many wild ideas, let me preface this article by saying that there is no garment that allows you to escape from even the worst lectures.  
+Now before you get too many wild ideas, let me preface this article by saying that there is no garment that allows you to escape from even the worst lectures.
  Imagine a spatial cloak which renders what is inside invisible. Most ideas concerning this use the refraction of light and bend light around a spatial region using lenses with negative refractive indices, to make it appear undetectable.
 
-Instead of diffracting and refracting light, the time lenses affect its dispersion. For an event to be detected in time or space, you need to change, manipulate or somehow alter a parcel of light. When we view an object on the table, what we are seeing is all the light reflected off its surface. Just as a spatial cloak warps light around space, the time lens will similarly affect light and not allow it to reflect of the region.  
+Instead of diffracting and refracting light, the time lenses affect its dispersion. For an event to be detected in time or space, you need to change, manipulate or somehow alter a parcel of light. When we view an object on the table, what we are seeing is all the light reflected off its surface. Just as a spatial cloak warps light around space, the time lens will similarly affect light and not allow it to reflect of the region.
  To achieve this, Moti Fridman and his research team at Cornell University accelerated the front of the incident light and delayed its rear part.
 
 A split time lens creates a “frequency chirp” which is interpreted as separating the red and blue parts of the spectral wave and delaying them. A single-mode fibre further delays higher wavelengths while speeding up shorter wavelengths with respect to the initial beam. There comes a point where the region is fully isolated. The process is then reversed so that the regular wave is detected and it is unnoticeable that the wave has been changed at all.

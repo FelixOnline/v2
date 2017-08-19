@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502221738-ps3110-npg_920_1365_douardandmarie.jpg"
 image_caption: >
-  Edouard and Marie-Louise Pailleron by John Singer Sargent, 1881. 
+  Edouard and Marie-Louise Pailleron by John Singer Sargent, 1881.
 image_width: "0"
 image_height: "0"
 image_attribution: "Des Moines Art Center"

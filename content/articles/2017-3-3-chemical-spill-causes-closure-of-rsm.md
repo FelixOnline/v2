@@ -31,11 +31,11 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Hydrochloric Acid a clear poisonous liquid which is highly corrosive meaning it immediately causes severe damage such as burning on contactI think most people at Imperial have done GCSE chemistry thanks Did you write this in a rush  There are a fair few typoserrors misuse of the word sight I think you meant site and the use of an outdated term firemen should really be replaced with firefighters  Its a pity as this article was shared quite a bit on social media and would have been excellent publicity for Felix if it was slightly better writtenThanks for the feedback Fixed Sadly when a story needs to be written up on a Friday evening things slip by quality control Thought that may have been the case  I only noticed it because the standard of writing this years been pretty solid I wouldnt have mentioned otherwise  In the short term I along with most others would much rather get news quickly millennialproblems than exquisitely written anyway its just a matter 
+ - Hydrochloric Acid a clear poisonous liquid which is highly corrosive meaning it immediately causes severe damage such as burning on contactI think most people at Imperial have done GCSE chemistry thanks Did you write this in a rush  There are a fair few typoserrors misuse of the word sight I think you meant site and the use of an outdated term firemen should really be replaced with firefighters  Its a pity as this article was shared quite a bit on social media and would have been excellent publicity for Felix if it was slightly better writtenThanks for the feedback Fixed Sadly when a story needs to be written up on a Friday evening things slip by quality control Thought that may have been the case  I only noticed it because the standard of writing this years been pretty solid I wouldnt have mentioned otherwise  In the short term I along with most others would much rather get news quickly millennialproblems than exquisitely written anyway its just a matter
 imported: true
 ---
 
-Earlier today the Royal School of Mines \(RSM\) building had to be closed off while a crew of firefighters investigated a potential chemical spill.
+Earlier today the Royal School of Mines (RSM) building had to be closed off while a crew of firefighters investigated a potential chemical spill.
 
 Emergency services were called to the site after a member of staff detected an unidentified smell in one of the labs following the movement of a bottle. This resulted in the closing off of Prince Consort Road and the dispatch of two fire engines and four ambulances.
 

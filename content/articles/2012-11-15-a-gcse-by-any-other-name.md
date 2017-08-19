@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211152208-tna08-gove.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The government aims to get rid of the factors that encourage teaching to the test by making the test the sole form of assessment RightLadies and gentlemen Michael Gove 
+ - The government aims to get rid of the factors that encourage teaching to the test by making the test the sole form of assessment RightLadies and gentlemen Michael Gove
 imported: true
 ---
 

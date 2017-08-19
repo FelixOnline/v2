@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112081957-pk1811-aerial_view[1].jpg"
 image_caption: >
-  
+
 image_width: "2481"
 image_height: "1754"
 image_attribution: "Imperial College London"

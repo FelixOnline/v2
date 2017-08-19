@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig \(although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl\).
+Every day I wake up I thank the gods I’m not English. I thank them because I was not born in a country where a family of layabouts is put on the throne and worshipped for no goddamned reason. I thank them because I have much more international football to remember fondly. I thank the gods because my Prime Minister isn’t someone who put a private part of their anatomy inside a dead pig (although I curse them because a former Prime Minister of mine put a private part of their anatomy inside an underage girl).
 
 I thank the gods because I wasn’t born somewhere where the phrase, “it’s a lovely sunny day today,” is said far less often than, “this pasta is awfully overcooked,” but most importantly of all, I thank the gods for not making me from that nation that inflicted ales upon the world. Maybe my wallet and my liver thank them less, because if I’d thought that all beer tastes like ale, I would’ve enjoyed a lot less drinking, or pubs, or life in general.
 
@@ -43,7 +43,7 @@ Ales are awful. They’re less pleasant than strained sock juice and far more ex
 
 And they ruin nights out! Specifically, mine. Every once in a while, a friend will offer to get a round and bring me a pint of ale, even though pouring that swill on my trousers and pretending I’ve pissed myself is a source of more enjoyment for me and everyone around me.
 
-I’m not even safe if I order other beers, as there’s been this perfidious trend of “craft lagers”, which are just ales trying to escape the curse of their name. And on those occasions that I’m tricked into drinking an ale, my taste buds will be tainted for the rest of the evening, distorting every flavour afterwards and ruining beers that had no crime other than being drunk after spider\-infested mildew.
+I’m not even safe if I order other beers, as there’s been this perfidious trend of “craft lagers”, which are just ales trying to escape the curse of their name. And on those occasions that I’m tricked into drinking an ale, my taste buds will be tainted for the rest of the evening, distorting every flavour afterwards and ruining beers that had no crime other than being drunk after spider-infested mildew.
 
 In most bars, there will be several – too many – ales on tap, despite the fact that the selection is like choosing between different puddles of rainwater on a muddy road leading to a horse crematorium. To someone who hasn’t acquired the taste for slightly acrid windshield condensation, the only options available are the usual suspects of Heineken, Stella and Fosters, but even their bland, uninspiring flavour is a godsend if I get to avoid having an ale.
 

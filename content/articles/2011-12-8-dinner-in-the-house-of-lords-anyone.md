@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-This Wednesday the [Royal College of Science Union (RCSU](http://rcsu.org.uk)) announced via email to the Faculty of Natural Sciences that it will be holding the Science Challenge 2012 Final in the House of Lords.  
+This Wednesday the [Royal College of Science Union (RCSU](http://rcsu.org.uk)) announced via email to the Faculty of Natural Sciences that it will be holding the Science Challenge 2012 Final in the House of Lords.
 [The Science Challenge](http://rcsu.org.uk/sciencechallenge) is the RCSU’s annual essay competition and this year, entrants will be given four questions to choose from, all set by distinguished judges. A good essay will then land you at a Dinner Reception in the House of Lords, and in with a chance of winning the ‘top prize’. The details of this prize, however, will remain secret until the Launch event.
 
 This year the guest judges – who will all be speaking at the Launch event – include names from all aspects of the media. Professor Lord Robert Winston, Imperial Professor and TV personality will head up the judging panel, complimented by the BBC’s Science Editor and Imperial Alumnus Pallab Ghosh. Mark Henderson – Science Editor of The Times and newly appointed Director of Communications for the Wellcome Trust – and Peter Lacy, the Managing Director of Sustainability at Accenture complete the judges.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251332-ff712-waplington_2.jpg"
 image_caption: >
-  Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process 
+  Photographs from the Tate Britain’s new exhibition, Nick Waplington/Alexander McQueen: Working Process
 image_width: "0"
 image_height: "0"
 image_attribution: "Nick Waplington"

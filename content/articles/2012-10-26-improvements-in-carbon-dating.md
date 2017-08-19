@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-A new study of sediment cores from Lake Suigetsu, Japan, has the potential to improve the accuracy of the radiocarbon dating techniques used widely by archaeologists and climate scientists.  
+A new study of sediment cores from Lake Suigetsu, Japan, has the potential to improve the accuracy of the radiocarbon dating techniques used widely by archaeologists and climate scientists.
  Radiocarbon (14C) has a known half-life of ~5,700 years and is absorbed equally by organic processes. Scientists can then find the age of such objects by seeing how the ratio of radiogenic to non-radiogenic carbon (12C) has changed. However this can only be found accurately if the original, atmospheric ratio of carbon is known.
 
 This can be measured directly from tree-rings up to ~12,500 years ago. Beyond this point are other climate proxies such as ice cores, marine sediments and speleothems (cave deposits) but these require assumptions about the reaction of ocean or groundwater carbon to atmospheric changes or local climate conditions.

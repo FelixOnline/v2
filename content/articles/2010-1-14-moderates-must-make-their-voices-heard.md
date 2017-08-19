@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001141741-gda07-Gileadsa.jpg"
 image_caption: >
-  
+
 image_width: "181"
 image_height: "164"
 image_attribution: ""
@@ -59,5 +59,5 @@ By refusing to distance themselves from the fundamentalists, ordinary Muslims ar
 
 No individuals have more to lose under the rule of a fascist caliphate than those who will be seen to have ‘thrown in their lot’ with the infidels or kafirs. On Tuesday’s edition of NewsNight, Anjem Choudary (the leader of the Islamist organisation Islam4UK) pointedly refused to answer the more moderate Maajid Nawaaz’s questions about what his fate would be under a Sharia tribunal, sinisterly hinting that Nawaaz ‘knew the answer already’.
 
-When moderates refuse to push back against extremism, the tides of fear and aggression drive ordinary people further and further to the political right. It is fear of this sort that led to the Swiss ban against minarets last year, and the recent decision by the Home Secretary to declare Islam4UK an illegal organisation.  
+When moderates refuse to push back against extremism, the tides of fear and aggression drive ordinary people further and further to the political right. It is fear of this sort that led to the Swiss ban against minarets last year, and the recent decision by the Home Secretary to declare Islam4UK an illegal organisation.
  If we are to make it to the end of the 21st Century, long as it is is likely to be, those who have most to lose must take a stand against those who are most likely to take it away. Moderates of all backgrounds need to lead the way if extremism is to be fought.

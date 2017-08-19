@@ -2,7 +2,7 @@
 title: >
   Open Letter: Regarding the Residential Experience Review
 subtitle: >
-  It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation. 
+  It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation.
 date: "2014-01-31 17:54:16 +0000"
 id: "4325"
 old_path: /comment/4325/open-letter-regarding-the-residential-experience-review
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-\*Dr Nick Voulvoulis is the Warden of Southwell & Bernard Sunley Hall, and Reader in Environmental Technology at the Centre for Environmental Policy. He has been the Warden of Southwell Hall since 2003 and Southwell & Bernard Sunley since 2011 when the halls merged. He was Subwarden and then Assistant Warden in Garden Hall from 1997 and till 2003 when he moved to Southwell. He was the Chairman of the Wardens’ Committee between 2003 and 2011, and is currently responsible for ‘Legacy and Alumni’ for the Committee.
+*Dr Nick Voulvoulis is the Warden of Southwell & Bernard Sunley Hall, and Reader in Environmental Technology at the Centre for Environmental Policy. He has been the Warden of Southwell Hall since 2003 and Southwell & Bernard Sunley since 2011 when the halls merged. He was Subwarden and then Assistant Warden in Garden Hall from 1997 and till 2003 when he moved to Southwell. He was the Chairman of the Wardens’ Committee between 2003 and 2011, and is currently responsible for ‘Legacy and Alumni’ for the Committee.
 
 It has recently been announced that the College has set up a consultation process to review the “residential experience” at Imperial, with the purpose of shaping the residential experience for students in College accommodation.
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032026-nm1010-helphelp.jpg"
 image_caption: >
-  
+
 image_width: "1019"
 image_height: "683"
 image_attribution: ""

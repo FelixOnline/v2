@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202022249-sjw209-article-1327412205173-116ed983000005dc-797282_636x300.jpg"
 image_caption: >
-  
+
 image_width: "636"
 image_height: "300"
 image_attribution: "BBC"

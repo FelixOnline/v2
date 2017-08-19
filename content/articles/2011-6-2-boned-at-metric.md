@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022053-felix-var-(1).jpg"
 image_caption: >
-  
+
 image_width: "3189"
 image_height: "4016"
 image_attribution: "Luke Tomlin"
@@ -41,31 +41,31 @@ Following the success of the first [Felix Music Night - 19.02](http://felixonlin
 
 The line-up for the night is an exciting one, only rivaled by the line-up we had for the original Felix Music Night.
 
-_Special guest:_  
-[__BECOMING REAL__](http://www.myspace.com/becomingrealmusic)  
- (Ghost-Step)  
+_Special guest:_
+[__BECOMING REAL__](http://www.myspace.com/becomingrealmusic)
+ (Ghost-Step)
  Alongside James Blake and Mount Kimbie, Becoming Real is defining the landscape of post-dubstep British electronic music, and we are extremely proud to have him perform at the Felix Music Night. If you are looking for the future sound of London’s nightlife, look no further than this brilliant artist. Do not miss it! His unique live performance is unlike any other ‘dance’ artist you wil see this side of Venus.
 
-__[PHRIJ](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fphrij&h=f263c)__  
+__[PHRIJ](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fphrij&h=f263c)__
  (Jazz & Bass)
 
-__[OPERATION MIDNIGHT CLIMAX](https://www.facebook.com/pages/Operation-Midnight-Climax/149214095152054)__  
+__[OPERATION MIDNIGHT CLIMAX](https://www.facebook.com/pages/Operation-Midnight-Climax/149214095152054)__
  (Progressive Ska)
 
-__[NICEBERG](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fdj_niceberg&h=f263c)__  
+__[NICEBERG](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fdj_niceberg&h=f263c)__
  (Chipstep & Breaks)
 
-__[INESCAPABLE FATE](http://felixonline.co.uk/music/1313/inescapable-fate-are-bringing-the-noise-to-boned/)__  
+__[INESCAPABLE FATE](http://felixonline.co.uk/music/1313/inescapable-fate-are-bringing-the-noise-to-boned/)__
  (Death Metal)
 
-__[SMB](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fsmb&h=f263c)__  
+__[SMB](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fsmb&h=f263c)__
  (Deep House)
 
-_Back due to popular demand:_  
-[__SIMON HUNTER, A.K.A. MONSK__](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fuser3090840%2F1902-recorded-live&h=f263c)  
+_Back due to popular demand:_
+[__SIMON HUNTER, A.K.A. MONSK__](http://www.facebook.com/l.php?u=http%3A%2F%2Fsoundcloud.com%2Fuser3090840%2F1902-recorded-live&h=f263c)
  (Badman DJ set)
 
-... And you could play too!  
+... And you could play too!
  Are you in a band? Or are you an amateur beat poet? We are still looking for one last act, so give us a shout if you want to take part in BONED!
 
 We have purposely incorporated many eclectic musical styles in a single night, so as to appeal to as many tastes as possible, but we assure you it all fits together just right. Each set will be kept short and sweet, and the set-up times in between acts will be minimal, giving you a real bang for your buck.

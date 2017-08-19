@@ -1,6 +1,6 @@
 ---
 title: >
-  The Science Museum, Thinktank style 
+  The Science Museum, Thinktank style
 subtitle: >
   Lily Le goes up north
 date: "2013-03-15 01:05:47 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150105-tna08-image-4103-orig.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "thinktank.ac"
@@ -42,7 +42,7 @@ As a volunteer, I get to explore the museum for free, chat to behind-the-scenes 
 
 Most exhibits do seem aimed at children. For the very young are Kids’ City and The Street full of colourful playthings. For older children, and perhaps visitors less aware of the medical world, a highlight is interactive Medicine Matters, which demonstrates surgery and invites the questioning of clinical policy.
 
-My personal favourite is the natural history section, and adults may particularly enjoy the Power Up Gallery, which show off the majestic machines which used to underlie the Industrial Revolution.  
+My personal favourite is the natural history section, and adults may particularly enjoy the Power Up Gallery, which show off the majestic machines which used to underlie the Industrial Revolution.
  The Planetarium is what every visitor does not dare miss. Numbers in queues far exceed seats available. There is usually at least one show aimed at adults, but most are targeted at children. We volunteers put them on and get to watch them for free –usually the same on repeat. Being a biologist and clueless about physics thankfully makes this interesting.
 > Digital planetariums block out distractions and engage minds fully
 Due to The Little Star That Could (for under elevens), I now know what stars look like when they are first born, when very hot and “angry”, and even when they concede to death. Thanks Thinktank!

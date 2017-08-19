@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611251321-felix-IMG_0507.JPG"
 image_caption: >
-  
+
 image_width: "3264"
 image_height: "2448"
 image_attribution: "Matt Johnston"
@@ -38,10 +38,10 @@ Students who have walked through the security gates at Central Library the past 
 
 That strange sculpture, however, is three students’ tribute to one of the most significant global engineering feats in the past 20 years.
 
-Dolly the Sheep, represented at the library by a papier\-mâché statue covered in newspaper clippings from the time the story broke, is the first mammal to ever be cloned from an adult somatic cell through the process of nuclear transfer.
+Dolly the Sheep, represented at the library by a papier-mâché statue covered in newspaper clippings from the time the story broke, is the first mammal to ever be cloned from an adult somatic cell through the process of nuclear transfer.
 
 The feat was accomplished by scientists at the Roslin Institute, part of the University of Edinburgh, in July 1996. Students Ellyw Evans, Zoe Ohman and Joanna Wolstenholme created the sculpture in Central Library, as part of their science communication coursework.
-Two third\-year computing students, Louis De Beau and Jonny White, said they knew about Dolly the Sheep and took some time to examine the sculpture at the library.
+Two third-year computing students, Louis De Beau and Jonny White, said they knew about Dolly the Sheep and took some time to examine the sculpture at the library.
 “We just kind of stared at it for a minute,” said De Beau, “But then we moved on. I have loads of work to get to.”
 
 White added that, at first glance, the sculpture didn’t look like a sheep.

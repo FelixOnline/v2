@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ Ms Patel was a guest speaker during Imperial’s LGBT+ week, and FELIX took the 
 **Anjeli Patel**: As a community we need to be a lot more visible. There are some situations where we just have to be able to talk about this publicly. Unless we do that, we aren’t going to progress society any further.
 One of the root causes of Indian culture still having such a stigma towards LGBT+ people is due to the way that a lot of families bring up their children. You’re told you’re meant to go to university, get a great job, end up getting married – that’s the template life, and everyone should fit into that template life. It’s almost a situation where you fit the model, or you don’t fit in at all.
 > > **I’ve always felt, intrinsically, inside, that I’m female, even prior to any surgery**
-**FELIX**: Does coming from a British\-Asian family make that harder?
+**FELIX**: Does coming from a British-Asian family make that harder?
 
 **AJ**: Definitely. Much of the Indian community struggled when they first came over to the UK. They worked hard. They worked really hard to emerge and be successful – and they want to continue that success. I think there’s an imbalance between wanting your children to be successful, but at the same time, not really allowing them to develop and be their own person. That’s even in a marriage situation – whereby if an Indian person marries outside of their community, outside of a specific caste, or even a specific religion, a situation arises where they almost need to seek the permission of those around them. Rather than appreciating it as two people being in love, it can initially be seen as a challenge by certain members of Indian society.
 
@@ -56,7 +56,7 @@ One of the root causes of Indian culture still having such a stigma towards LGBT
 
 **AJ**: I do. I think, overall, our culture is great and I am proud to be Indian. We have great literature, we have great cinema, great food. We have a lot to be proud of, and I very strongly identify as Hindu.
 
-**FELIX**: Sure, the Rigveda says “Vikruti Evam Prakriti” – ”Perversity/diversity is what nature is all about; what seems un\-natural is also natural”. Why was that attitude lost?
+**FELIX**: Sure, the Rigveda says “Vikruti Evam Prakriti” – ”Perversity/diversity is what nature is all about; what seems un-natural is also natural”. Why was that attitude lost?
 
 **AJ**: Personally, I’m just not sure if Indian society was ever widely accepting of LGBT+ people. Many very modern texts are also supportive, but they just aren’t lived up to. A lot of the stereotypical ideas about what it means to be an Indian person aren’t linked with our faith, they’re not linked with our history – they’re behaviours that have been developed since we arrived here in the UK. It’s our religion that preaches tolerance, acceptance and love. It’s our culture that has distorted itself, through greed, continually seeking material gain and being overly concerned about what others think of us.
 
@@ -66,17 +66,17 @@ One of the root causes of Indian culture still having such a stigma towards LGBT
 > > **People still think it doesn’t happen in Asian society**
 **FELIX**:But, say I know guys who wear makeup or are into fashion – does that make them, necessarily, feminine?
 
-**AJ**: It’s so, so much more than that, though I completely understand that men can be into fashion or wear make\-up. I was never comfortable... I could never walk into a room dressed as a male before I transitioned and feel comfortable. I would always just want to be in the side of the room, not being noticed, hope no\-one would even speak to me. If I reverse the question and ask, other than the fact that you were assigned male at birth, how do you know you’re male? ; It’s a feeling so mentally present but so difficult to capture into words.
+**AJ**: It’s so, so much more than that, though I completely understand that men can be into fashion or wear make-up. I was never comfortable... I could never walk into a room dressed as a male before I transitioned and feel comfortable. I would always just want to be in the side of the room, not being noticed, hope no-one would even speak to me. If I reverse the question and ask, other than the fact that you were assigned male at birth, how do you know you’re male? ; It’s a feeling so mentally present but so difficult to capture into words.
 
 **FELIX**: A number of LGBT+ international students have told FELIX they fear that if they come out, their family will cut them off financially, and they will lose their education. What’s your view on this?
 
-**AJ**: We have to break this cycle whereby a large proportion of LGBT+ people end up not being able to have a great education for financial reasons. Ideally, Imperial should have some kind of system where they have grants for people who are in this situation \(Though, you would need to be careful that those aren’t abused\).
+**AJ**: We have to break this cycle whereby a large proportion of LGBT+ people end up not being able to have a great education for financial reasons. Ideally, Imperial should have some kind of system where they have grants for people who are in this situation (Though, you would need to be careful that those aren’t abused).
 
 **FELIX**: But should trans people stay as part of LGBT community? Stonewall has only just agreed that it will campaign for trans rights. If someone says “I’m a straight woman now, I don’t need this”, is that right?
 
 **AJ**: I completely accept that opinon. I understand that Stonewall only recently decided to work with trans people, to help trans people, but for me it’s a sign of progression. The timing is unfortunate – and yes, it is late in the day. But we are very slim on options, to be honest, and I feel that isolating overselves in an already isolated environment isn’t sensible. Stonewall is doing great work right now, and going at it alone with so few public, visible role models – we’d be doing ourselves a huge disservice to do that. Also, for me personally, the gay community has always been incredibly supportive.
 
-**FELIX**:Imperial College Healthcare Trust is a world leader in gender reassignment surgery. However, it seems that the ICSM doesn’t provide much \(if any\) training to its students in the field. What would you say about this?
+**FELIX**:Imperial College Healthcare Trust is a world leader in gender reassignment surgery. However, it seems that the ICSM doesn’t provide much (if any) training to its students in the field. What would you say about this?
 
 **AJ**: Treating a transgender person is more than learning about how to complete gender reassignment surgery. You are quite often giving that person their life back. It’s vital that ICSM members are taught the importance and the duty of care they have when dealing with transgender patients. The emotional aspect of support is just as important as the surgical.
 

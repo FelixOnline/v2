@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,9 +34,9 @@ comments:
 imported: true
 ---
 
-What: Isabella Blow: Fashion Galore!  
- Where: Somerset House, WC2  
- When: 20th Nov 2013 - 2nd Mar 2014  
+What: Isabella Blow: Fashion Galore!
+ Where: Somerset House, WC2
+ When: 20th Nov 2013 - 2nd Mar 2014
  Price: £12.50, £10 concessions, £6.25 on Mondays
 
 _“Fashion is a vampiric thing, it’s the hoover on your brain. That’s why I wear the hats, to keep everyone away from me. They say, “Oh, can I kiss you?” I say, “No, thank you very much. That’s why I’ve worn the hat. Goodbye.” I don’t want to be kissed by all and sundry. I want to be kissed by the people I love.” – Isabella Blow_

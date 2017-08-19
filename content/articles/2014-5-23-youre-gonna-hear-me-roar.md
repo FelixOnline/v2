@@ -2,7 +2,7 @@
 title: >
   You’re gonna hear me roar
 subtitle: >
-  Godzilla has it all on paper. Provided you take ‘it all’ to mean ‘an extremely promising concoction of interesting choices that might just work’. 
+  Godzilla has it all on paper. Provided you take ‘it all’ to mean ‘an extremely promising concoction of interesting choices that might just work’.
 date: "2014-05-23 14:14:42 +0100"
 id: "4624"
 old_path: /film/4624/youre-gonna-hear-me-roar
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

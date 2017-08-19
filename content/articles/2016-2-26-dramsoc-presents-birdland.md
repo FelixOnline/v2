@@ -2,7 +2,7 @@
 title: >
   DramSoc presents Birdland
 subtitle: >
-  The Life of Paul. 
+  The Life of Paul.
 date: "2016-02-26 12:08:10 +0000"
 id: "5986"
 old_path: /cands/5986/dramsoc-presents-birdland
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602261207-felix-mattoscar.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1370"
 image_attribution: "DramSoc"
@@ -35,11 +35,11 @@ comments:
 imported: true
 ---
 
-Entering into the second term of the last year of my Joint Maths and Computing Degree, I thought to myself, “How can I distract myself from my work in a ridiculous way I haven’t tried yet?”. Having already become captain of the most obscure sport on the planet \(underwater hockey – don’t ask\), and literally played God in a DramSoc play last year, I decided it was time to actually become God. Sadly, gaining omniscience is fairly difficult, so I settled on directing. Sadly, nobody liked the play I wanted to do, so I settled on assistant directing someone else’s.
+Entering into the second term of the last year of my Joint Maths and Computing Degree, I thought to myself, “How can I distract myself from my work in a ridiculous way I haven’t tried yet?”. Having already become captain of the most obscure sport on the planet (underwater hockey – don’t ask), and literally played God in a DramSoc play last year, I decided it was time to actually become God. Sadly, gaining omniscience is fairly difficult, so I settled on directing. Sadly, nobody liked the play I wanted to do, so I settled on assistant directing someone else’s.
 
 The play in question is Birdland, by Simon Stephens. It follows Paul, a rockstar at the height of his fame, his subsequent downfall, his descent into madness, and how it alienates and destroys his relationships with everyone around him. The dialogue is sharp and witty, and it provides interesting commentary on the celebrities of modern society. Armed with a script, budget, and a producer prodding us to get on with it, we began our search for our cast. Auditions were one of my favourite parts of directing, as I got to see the wide range of acting talent we have right here at Imperial.
 
-Having being told Leonardo DiCaprio sadly wasn’t available, we settled on our cast over Christmas, and rehearsals began. For the last six weeks, Jack Williams \(the director\) and I have been blocking out scenes, bringing out emotional performances, telling actors to “act higher and/or drunker”, and making Paul a bigger dick than we thought possible. I’ve loved every moment of it.
+Having being told Leonardo DiCaprio sadly wasn’t available, we settled on our cast over Christmas, and rehearsals began. For the last six weeks, Jack Williams (the director) and I have been blocking out scenes, bringing out emotional performances, telling actors to “act higher and/or drunker”, and making Paul a bigger dick than we thought possible. I’ve loved every moment of it.
 
 From the initial idea to the polished performance, every actor brings their own spark to a scene, and it’s the collaboration that makes the play great. “Try it and see” has become one of my favourite lines, because even the weirdest sounding ideas can really make a scene. Sitting back and watching a play really begin to come together is one of the most rewarding things I’ve ever done.
 

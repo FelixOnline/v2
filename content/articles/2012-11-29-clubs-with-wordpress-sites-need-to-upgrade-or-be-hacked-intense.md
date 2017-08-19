@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 Imperial clubs with old Wordpress sites are vulnerable toattack from hackers.
 
-A number of the Clubs and Societies at Imperial College Union have been running outdated versions of Wordpress, which leaves them open to attack. The problem is easily fixed by simply keeping installations up to date when asked to update (those annoying “UPDATE NOW OR ELSE” boxes).  
+A number of the Clubs and Societies at Imperial College Union have been running outdated versions of Wordpress, which leaves them open to attack. The problem is easily fixed by simply keeping installations up to date when asked to update (those annoying “UPDATE NOW OR ELSE” boxes).
  The actual number of clubs that have been attacked seems to be small. The Union Sys Admin, Philip Kent, said that they are “making sure everyone updates so it doesn’t happen again.” He added that all old Wordpress sites were not necessarily attacked. He added that Wordpress is not the “only expoitable pieve of software” saying that “other software has security holes too, but we are targeting Wordpress on the basis that it is widely used on club websites, and it has a poorer track record for being secure [than other software]”.
 
 At the moment, it would appear that the content of the websites were altered but no sensitive information was compromised.

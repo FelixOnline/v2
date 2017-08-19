@@ -2,7 +2,7 @@
 title: >
   Hypervelocity stars discovered trying to escape the galaxy
 subtitle: >
-  20 candidates for a new type of hypervelocity star have been announced by an international team of astronomers. 
+  20 candidates for a new type of hypervelocity star have been announced by an international team of astronomers.
 date: "2014-01-17 03:32:11 +0000"
 id: "4234"
 old_path: /science/4234/hypervelocity-stars-discovered-trying-to-escape-the-galaxy
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

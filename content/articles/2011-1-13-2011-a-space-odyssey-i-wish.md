@@ -1,6 +1,6 @@
 ---
 title: >
-  2011: A Space Odyssey... I wish 
+  2011: A Space Odyssey... I wish
 subtitle: >
   But there’s still one thing I want to know: where’s my jet–pack?
 date: "2011-01-13 21:21:07 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182211-ks607-rhysdavi.jpg"
 image_caption: >
-  
+
 image_width: "1728"
 image_height: "2218"
 image_attribution: ""

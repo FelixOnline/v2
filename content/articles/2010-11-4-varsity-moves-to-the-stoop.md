@@ -1,6 +1,6 @@
 ---
 title: >
-  Varsity moves to The Stoop 
+  Varsity moves to The Stoop
 subtitle: >
   Sport Imperial confirm that the JPR Williams Cup match will move to The Stoop, home of rugby premiership side Harlequins
 date: "2010-11-04 18:54:23 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

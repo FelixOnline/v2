@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -56,7 +56,7 @@ Still, the 2nds had qualified for the quarters as well and everyone was in great
 
 The II’s had their quarter final first. They were up against the Southampton 1sts, whom were obviously in their home ground. We borrowed players from Derby 3rds but could not overcome their experience and strength. We took solace in the fact that the Soton 1sts went on to be runners up of the whole tournament. The II’s had fought a good fight.
 
-The I’s had their quarter final against Minotaur Dodgeball. Their captain “the world hates me, so I’m gonna moan about every decision, even after I’ve won the game” was their only decent player and we were looking for a result. With some blistering throws from Rupert “These \*\*\*\*\*\* balls are so \*\*\*\*\*\* \*\*\*\*”.
+The I’s had their quarter final against Minotaur Dodgeball. Their captain “the world hates me, so I’m gonna moan about every decision, even after I’ve won the game” was their only decent player and we were looking for a result. With some blistering throws from Rupert “These ****** balls are so ****** ****”.
 
 Some brilliant catches from Adam “Throw together, Dodge alone” Cutmore saw us go 2-0 up. Unfortunately, a change in mentality from the Minotaurs led to them edging the next two games.
 

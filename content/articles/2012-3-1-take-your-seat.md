@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203012212-cac111-img_2171.jpg"
 image_caption: >
-  
+
 image_width: "3456"
 image_height: "5184"
 image_attribution: "Nicholas Pomeroy"

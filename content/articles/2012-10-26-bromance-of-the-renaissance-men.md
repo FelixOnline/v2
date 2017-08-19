@@ -38,7 +38,7 @@ The year is 1848. Railways are being deposited left, right and centre; the Indus
 
 In a highly ambitious project, Tate Britain has succeeded in bringing together a vast quantity of Pre-Raphaelite works together to an exhibition that isat once comprehensive and conducive to understanding the development of the Brotherhood, but also varied and diverse.
 
-As a person who has recently become disillusioned with art exhibitions due to the definitely-not-student prices extracted merel y to see a handful of paintings (\*cough\* Titian at the National Gallery), I was impressed by the scale of this exhibition which spanned 7 rooms and not only gave me plenty to ponder about, but was also a feast to the eyes (I do not tend to use that term lightly).
+As a person who has recently become disillusioned with art exhibitions due to the definitely-not-student prices extracted merel y to see a handful of paintings (*cough* Titian at the National Gallery), I was impressed by the scale of this exhibition which spanned 7 rooms and not only gave me plenty to ponder about, but was also a feast to the eyes (I do not tend to use that term lightly).
 
 The exhibition is arranged chronologically,and the first room is dedicated to the earliest paintings of the Brotherhood. Not, in all honesty, being a very big fan of early Renaissance art myself, I felt my heart sinking as I read the blurb just before entering the gallery. But I was to be pleasantly surprised. Yes, the Pre-Raphaelites have gone out of their way to incorporate characteristics of earlier art: the non-idealised faces, the sharp outlines and the medieval subjects; but the result is not overbearing. The pictures are still unquestionably modern and rather than simple imitations of Italian art. The exhibition is a fusion of contemporary aesthetic realism with the exuberance of medieval art. It is unfamiliar and slightly unnerving, but exciting too.
 
@@ -46,5 +46,5 @@ However it is the later rooms that are the most absorbing and there is a distinc
 
 Nature remains a muse in the Pre-Raphaelites’ work throughout the period of their activity, with a novel interest in precise composition and croppingof the visual field, both arguably brought about by the recent development of photography. Equally interesting is how Pre-Raphaelitism gives way to the Aesthetic movement, how the focus shifts from ‘truth’ to ‘beauty’.
 
-Not an institution to leave a single stone unturned, the Tate went as far as filling one of the rooms with non-painting works, with material including tapestries and stained-glass windows, showing just how versatile the Brotherhood were with their media.  
+Not an institution to leave a single stone unturned, the Tate went as far as filling one of the rooms with non-painting works, with material including tapestries and stained-glass windows, showing just how versatile the Brotherhood were with their media.
  I would highly recommend this exhibition for an introduction to an extraordinary art movement drawn from the mind of a truly unique group of radical individuals.

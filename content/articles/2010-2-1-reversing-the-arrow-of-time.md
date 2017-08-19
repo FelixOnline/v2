@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002011648-rsp07-arrowtim.jpg"
 image_caption: >
-  
+
 image_width: "3386"
 image_height: "918"
 image_attribution: ""
@@ -44,8 +44,8 @@ So what this clown Lorenzo Maccone reckons is that counter-intuitive decreases i
 
 His argument is based on the premise that according to quantum mechanics, if anyone does observe an entropy-decreasing event, their memories of the event “will be erased by necessity”. Your memories will form and then be subsequently erased. Witnessing a system or process means you enter into a “quantum entanglement” with it (there’s scope for yet another dorky chat-up line here). In other words, you and the system are entangled and cannot truly be described independently. The entanglement, according to our amico Lorenzo, is between your memory and the system. The crucial step is the removal of this entanglement, and “the disentangling operation will erase this entanglement, namely the observer’s memory”.
 
-This all sounds a bit like something Morpheus would say to Neo, before re-adjusting his ridiculous specs and scratching his ass. Nevertheless the thought experiment Maccone uses to elucidate his idea is fairly easy to understand (Medics...don’t worry about it):  
- ‘An experimenter, Alice, measures the spin state of an atom sent by her friend Bob, who is otherwise isolated from Alice’s laboratory. The atom is in a combined state (superposition) of spin-up and spin-down until Alice measures it as either up or down.  
+This all sounds a bit like something Morpheus would say to Neo, before re-adjusting his ridiculous specs and scratching his ass. Nevertheless the thought experiment Maccone uses to elucidate his idea is fairly easy to understand (Medics...don’t worry about it):
+ ‘An experimenter, Alice, measures the spin state of an atom sent by her friend Bob, who is otherwise isolated from Alice’s laboratory. The atom is in a combined state (superposition) of spin-up and spin-down until Alice measures it as either up or down.
  From Alice’s perspective, her lab gains a single bit of information from outside, and it’s then copied and recorded in her memory and on her computer’s hard drive. That information flow from atom to lab increases entropy, according to Alice. Because Bob doesn’t see the result, from his perspective the spin state of the atom never resolves itself into up or down. Instead it becomes quantum mechanically correlated, or “entangled,” with the quantum state of the lab. He sees no information flow and no change in entropy.
 
 Bob has total control of the quantum state of her lab. To reduce the entropy of the lab from Alice’s point-of-view, Bob reverses the flow of that one bit of information by removing any record of the atom’s spin from Alice’s hard drive and her brain. He does so by performing a complicated transformation that disentangles the lab’s quantum state from that of the atom.

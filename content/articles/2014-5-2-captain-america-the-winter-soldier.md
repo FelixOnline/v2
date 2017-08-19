@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405020207-jal08-captain-america-winter-soldier-scarlett-johansson-2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,7 +50,7 @@ Rating: 5/5
 
 Phase 2 continues apace. The third _Iron Man_ started things off in a typically Shane Black fashion of quips and action, the second _Thor_ trod a darker path while beginning to introduce the elements that will come together in an inevitably glorious fashion for _Guardians of the Galaxy_ and _Age of Ultron_, and now it’s the turn of the second _Captain America_ film to grace the screen. The first outing for everyone’s favourite star-spangled superhero was an exercise in making an adequate action film elevated by incredible performances and pitch-perfect characterisation, all of which made the appointment of the Russo brothers as directors an interesting choice. Famous for their TV work on comedies such as _Arrested Development_ (which, if you haven’t already, you should definitely binge-watch on Netflix), but new to the field of action does not instantly scream ‘classic film in the making’ for a superhero flick.
 
-But, as with almost everything in the realm of superhero films (with a few notable \*cough\* _Green Lantern _\*cough\* exceptions), any naysayers have been silenced in spectacular fashion. Because the Russo brothers – for want of a neater, more polite term – absolutely nailed it. All of it. Although having said that, the title could perhaps be considered somewhat of a misnomer – the original storyline of the _Winter Soldier_ (part of Ed Brubaker’s fantastic run in the comics) is mostly passed over here for the sake of convenience, and the eponymous soldier of a seasonal variety barely makes an appearance (although when he does, it’s fantastic).
+But, as with almost everything in the realm of superhero films (with a few notable *cough* _Green Lantern _*cough* exceptions), any naysayers have been silenced in spectacular fashion. Because the Russo brothers – for want of a neater, more polite term – absolutely nailed it. All of it. Although having said that, the title could perhaps be considered somewhat of a misnomer – the original storyline of the _Winter Soldier_ (part of Ed Brubaker’s fantastic run in the comics) is mostly passed over here for the sake of convenience, and the eponymous soldier of a seasonal variety barely makes an appearance (although when he does, it’s fantastic).
 
 It’s not really a criticism as such, more a vague sense that Marvel really, really wanted to use that title despite the film being so much more. It’s equal parts 70s-style conspiracy thriller (helped greatly by a neat turn from Robert Redford as S.H.I.E.L.D. Secretary Alexander Pierce), buddy comedy starring Chris Evans’ Captain America and Scarlett Johansson’s Black Widow (the call for a solo film for Black Widow, strong as it was, just got completely impossible to ignore), and a balls-to-the-wall action film. Genre-hopping as it pleases, Markus and McFeely’s screenplay combined with the Russo’s fantastic direction (and wonderfully snappy editing that keeps up the pace) creates what might be the best single-character (in the loosest sense) Marvel film to date.
 

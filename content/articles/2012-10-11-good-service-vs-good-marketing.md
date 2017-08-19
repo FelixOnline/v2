@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -38,7 +38,7 @@ What should you do if you stumble upon a great idea for a product with high dema
 
 Amongst the many people that have made the same mistake in the past is budding entrepreneur Andrew Strube. As he describes on his website, Andrew moved into a house inundated with stink bugs in 2009. He tried to find a solution for it but he couldn’t find any product in the market that worked effectively against the bugs, so after running out of options he designed and invented the world’s first indoor stink bug light trap. He had come up with a good product that worked perfectly and fulfilled a need that was unsatisfied until then. He patented his product and started taking orders online, what could go wrong?
 
-During the first two months Andrew took in almost $100,000 in sales. However, sales have been flat ever since. Even though the start looked promising, his company did not have a good growing business model. As soon as the product was out in the market, corporate competitors developed their own, and they have now taken the entire market share with what is an inferior product, but better delivered. As a lone entrepreneur, Andrew had limited ability to compete, but with a solid business model he could have found investors or corporations willing to invest or partner with him.  
+During the first two months Andrew took in almost $100,000 in sales. However, sales have been flat ever since. Even though the start looked promising, his company did not have a good growing business model. As soon as the product was out in the market, corporate competitors developed their own, and they have now taken the entire market share with what is an inferior product, but better delivered. As a lone entrepreneur, Andrew had limited ability to compete, but with a solid business model he could have found investors or corporations willing to invest or partner with him.
  This happens to be a constant for any business, and is one of the reasons why branding is so important for a company: if your product is not good, you need to know how to sell it; but even if you have the best product in the market, you still need to know how to sell it! We’ll illustrate this with a couple of very clear examples.
 
 McDonald’s, Burger King and big corporate fast food chains sell a product of very little quality. In fact, probably most of the freshers that have just arrived to Imperial clueless about how to fry an egg will be able to produce a better hamburger in a few months’ time than the one you get with your Big Mac. However, I can assure you that they won’t make as much money if they decide to start selling them. Fast food corporations prioritise their food making and delivering system over the quality of their product, and that is a business model that has proven to be successful for them. It allows them to scale up their business fairly easily and build a strong brand so that the company can grow far beyond the size of small and medium enterprises.

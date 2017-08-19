@@ -2,7 +2,7 @@
 title: >
   Old friends, new ventures
 subtitle: >
-  Food is always the best way to catch-up 
+  Food is always the best way to catch-up
 date: "2015-01-23 18:37:09 +0000"
 id: "5144"
 old_path: /food/5144/old-friends-new-ventures
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501231836-jyg11-unnamed-4.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

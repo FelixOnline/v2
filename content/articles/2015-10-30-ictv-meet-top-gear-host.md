@@ -2,7 +2,7 @@
 title: >
   ICTV meet Top Gear host
 subtitle: >
-  He shoved his glasses on one Imperial student, shouting: "This is the real Chris Evans interview!" 
+  He shoved his glasses on one Imperial student, shouting: "This is the real Chris Evans interview!"
 date: "2015-10-30 14:48:51 +0000"
 id: "5691"
 old_path: /news/5691/ictv-meet-top-gear-host

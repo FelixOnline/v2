@@ -2,7 +2,7 @@
 title: >
   O. Ambarchi: an introduction
 subtitle: >
-  Riaz Agahi goes deep on three of this year’s offerings 
+  Riaz Agahi goes deep on three of this year’s offerings
 date: "2012-05-25 18:59:33 +0100"
 id: "2504"
 old_path: /music/2504/o-ambarchi-an-introduction
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205251959-mc4509-oren+ambarchi+686503546_d4578670e7.jpg"
 image_caption: >
-  Big O. doing what he does best 
+  Big O. doing what he does best
 image_width: "0"
 image_height: "0"
 image_attribution: ""

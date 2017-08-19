@@ -1,6 +1,6 @@
 ---
 title: >
-  Interview with Deputy President (Welfare) Charlotte Ivison 
+  Interview with Deputy President (Welfare) Charlotte Ivison
 subtitle: >
   "Make sure that you actually care about student welfare or you’ll end up being bored"
 date: "2011-02-03 19:42:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031939-ks607-charlott.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Miles Robertson"

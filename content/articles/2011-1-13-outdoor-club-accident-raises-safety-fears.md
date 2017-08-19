@@ -1,6 +1,6 @@
 ---
 title: >
-  Outdoor Club accident raises safety fears 
+  Outdoor Club accident raises safety fears
 subtitle: >
   Union says students are “skilled, experienced and equipped appropriately” but eyewitness disputes Union account
 date: "2011-01-13 21:50:17 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132147-ks607-helvelyn.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "386"
 image_attribution: ""

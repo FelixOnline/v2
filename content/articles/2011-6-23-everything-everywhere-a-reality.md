@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106232134-felix-google-wallet-setting-up-a-credit-card1.jpg"
 image_caption: >
-  
+
 image_width: "1919"
 image_height: "1070"
 image_attribution: ""
@@ -40,7 +40,7 @@ __NFC and mobile wallets__
 
 The most noticeable push this summer will lie in [NFC](http://en.wikipedia.org/wiki/Near_field_communication) and the possibilities it opens up for mobile wallets. To the uninitiated, NFC chips are a close relative to the RFID chips that you have in your student and Oyster cards. The new NFC technology that is being championed by telecom operators and device manufacturers alike will allow your phone to read and write data to sensors and other phones by touch alone.
 
-The applications for the technology are very promising. Tapping two phones together could transfer a song between friends, or connect them on Facebook. The real money will lie in mobile wallets, however. The concept of using your phone as a wallet (tap-to-pay on special till sensors) has been floated for at least a decade and has made some inroads in the Far East, but hasn’t kicked off in earnest yet. This is all set to change in the next few weeks, as card companies, phone manufacturers and line operators are all jockeying frantically for a slice of what might be a huge revenue pie.  
+The applications for the technology are very promising. Tapping two phones together could transfer a song between friends, or connect them on Facebook. The real money will lie in mobile wallets, however. The concept of using your phone as a wallet (tap-to-pay on special till sensors) has been floated for at least a decade and has made some inroads in the Far East, but hasn’t kicked off in earnest yet. This is all set to change in the next few weeks, as card companies, phone manufacturers and line operators are all jockeying frantically for a slice of what might be a huge revenue pie.
  Orange’s Samsung QuickTap handset has already been introduced in the UK, and the three major mobile operators in the UK (Everything Everywhere, Telefonica and Vodafone) have just announced a move to form a mobile payment joint venture that will bring widespread coverage ‘before the end of the year’. With [Google Wallet](http://www.google.com/wallet/) also promising similar functionality in the near future, the death of cashpoints may be within sight.
 
 __Location, location, location__

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-After months of escalating tensions between Iran and the United States, a nuclear deal has finally been signed. After intense negotiations between the P5+1 nations- the Permanent members of the UN Security Council and Germany- and Iran was signed in Geneva. The agreement is one, which manages to ease the pressure on Iran for a six-month interim period. It’s perhaps a small step towards improving understanding between western states and a rather unpredictable nation.  
+After months of escalating tensions between Iran and the United States, a nuclear deal has finally been signed. After intense negotiations between the P5+1 nations- the Permanent members of the UN Security Council and Germany- and Iran was signed in Geneva. The agreement is one, which manages to ease the pressure on Iran for a six-month interim period. It’s perhaps a small step towards improving understanding between western states and a rather unpredictable nation.
  Iran tried to hold talks with the US government in 2003 to come up with a nuclear deal. The Bush administration believed, however, that since Iran was weak and battered by sanctions it would not be able to enrich Uranium and therefore decided not to hold any talks. As a result, the number of centrifuges in Iran has gone up from 174 to 19,000. Although there are tough sanctions in place, the cost of enriching nuclear fuel for an oil rich company like Iran is relatively small.
 
 This realization led to the Geneva Convention and the subsequent agreement. As a result of this deal, Iran will not be allowed to enrich uranium above 5% and any further enriched Uranium would have to be oxidized. Furthermore, there will be greater access provided to inspectors in the nuclear sites, which includes daily access to Natanz and Fordo- two of Iran’s key nuclear sites. This deal, however, manage to shut any of the fuselages down. If Iran abides by the rules, there will be no new nuclear related sanctions for the next six months. This, however, does not guarantee any new nuclear sanctions after the aforesaid time period. Furthermore, the sanctions on its trade of gold and precious metals, car-making sector and petrochemical exports will be suspended. This deal has culminated in about 7 billion dollars of sanction release, which is a fraction of the sanctions currently in place against the country.

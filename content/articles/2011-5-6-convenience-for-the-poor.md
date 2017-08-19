@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061602-felix-greggs_int-editted.jpg"
 image_caption: >
-  
+
 image_width: "620"
 image_height: "413"
 image_attribution: ""
@@ -41,9 +41,9 @@ Think for a moment, how often you buy lunch. We have all done it – either a re
 
 If you are thinking that you might do this more often that you can remember, you might like to consider the following:
 
-– Sandwiches now cost about £2-3 per pack on average. I want to eat two of these, and I am not alone;  
- – A drink. Another £1;  
- – A chocolate bar or cupcake, something sweet, £1-2, because, it is not a meal without something for dessert now is it?;  
+– Sandwiches now cost about £2-3 per pack on average. I want to eat two of these, and I am not alone;
+ – A drink. Another £1;
+ – A chocolate bar or cupcake, something sweet, £1-2, because, it is not a meal without something for dessert now is it?;
  – The coffee you had on the way in, £2. Did you think you had got away with that one? Nice try: it costs money too.
 
 That makes a monetary total in the region of no less than £7. That is even if we take one off the list for the sake of a conservative estimate, and because not everyone has two sandwiches and morning coffee from Moonquids-Caligula-Kingdom-coffee-cottage in the same day. £7 is not that much though. If it is once a week, that makes £210 per year. On an Undergrad term-table that is. If you are a postgraduate who eats out like this 3-4 times a week, this is an annual bill of £1,400. The average bursary of an Imperial College postgraduate is now approaching £12.7k/annum.

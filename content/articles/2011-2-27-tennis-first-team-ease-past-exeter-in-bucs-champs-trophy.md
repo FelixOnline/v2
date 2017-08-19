@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271949-ks607-tenniste.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1536"
 image_attribution: ""

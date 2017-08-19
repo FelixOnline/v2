@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105122002-felix-tin-cans.jpg"
 image_caption: >
-  
+
 image_width: "350"
 image_height: "350"
 image_attribution: ""
@@ -44,5 +44,5 @@ Don’t get me wrong, tracks like ‘Bad Craziness’ and ‘Three Coats’ will
 
 All in all, an extremely solid debut, and a pleasure on the ears of anyone with a taste for bluesy folk.
 
-Get the free EP on the band’s [bandcamp](http://thetincan44s.bandcamp.com)  
+Get the free EP on the band’s [bandcamp](http://thetincan44s.bandcamp.com)
  The Tin Can 44s perform at an “acoustic circus” every Sunday in Whitechapel. [Follow them on Facebook](https://www.facebook.com/pages/Tin-Can-44s/266767672443) for more details.

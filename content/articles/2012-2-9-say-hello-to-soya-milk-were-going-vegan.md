@@ -2,7 +2,7 @@
 title: >
   Say hello to soya milk, we’re Going Vegan
 subtitle: >
-  Clare Cheng and Hannah Cox on why animals are safe for a month thanks to the MS Trust 
+  Clare Cheng and Hannah Cox on why animals are safe for a month thanks to the MS Trust
 date: "2012-02-09 22:51:31 +0000"
 id: "2165"
 old_path: /news/2165/say-hello-to-soya-milk-were-going-vegan

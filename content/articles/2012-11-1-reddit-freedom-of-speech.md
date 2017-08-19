@@ -1,6 +1,6 @@
 ---
 title: >
-  Reddit: Freedom of speech? 
+  Reddit: Freedom of speech?
 subtitle: >
   Yong Wen Chua summarises the controversy currently plaguing Reddit
 date: "2012-11-01 22:36:50 +0000"

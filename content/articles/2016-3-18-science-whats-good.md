@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 Mechanical heartbreak fix
 
-Mechanically patching up a ‘broken’ heart may soon be possible thanks to  Tal Dvir and Ron Feiner. They have integrated electronics with living tissues to produce the “cyborg heart patch”. The patch acts like an organ, but is powered by a machine, regulating heart contraction and expansion. With 25% of patients on the US waiting list dying before getting a heart transplant, this medicinal technological revolution has the potential to save millions of lives, as the patch can replace any damaged heart tissue. In addition, the patch enables real\-time monitoring of the patient's heart rate, and can intervene to modify heart pace and activate regenerative drugs if required from afar. Practical implications of the technology, however, may take some time.
+Mechanically patching up a ‘broken’ heart may soon be possible thanks to  Tal Dvir and Ron Feiner. They have integrated electronics with living tissues to produce the “cyborg heart patch”. The patch acts like an organ, but is powered by a machine, regulating heart contraction and expansion. With 25% of patients on the US waiting list dying before getting a heart transplant, this medicinal technological revolution has the potential to save millions of lives, as the patch can replace any damaged heart tissue. In addition, the patch enables real-time monitoring of the patient's heart rate, and can intervene to modify heart pace and activate regenerative drugs if required from afar. Practical implications of the technology, however, may take some time.
 
 _Feiner et al 2016 @ Nature materials_
 
@@ -49,13 +49,13 @@ _Gandhi et al 2016 @ Oxford Journals_
 
 Photosynthetic past revealed
 
-Imagine a world absent of oxygen. Suffocating, no? Until about 3.5\-3.8 billion years ago, our fossil records indicates that photosynthesis was a process which simply did not exist. A reaction, which now seems simple; a process taking sugar and water, using the sun's energy to produce oxygen. Scientists pinpointed this revolution, responsible for a great leap in terms of species quantity and diversity, to the basking bacteria of Morning Glory Pool, Yellowstone National Park. These bacteria use a primitive form of photosynthesis, one which does not produce oxygen, and were till recently thought by scientists to be the first life forms which did so. However, study author Dr Tanai Cardona, from the Department of Life Sciences at Imperial College London, claims that “the picture that is starting to emerge is that during the first half of Earth’s history, the majority of life forms were probably capable of photosynthesis”. Photosynthesis is likely to have occurred in bacterial species, before those around today.
+Imagine a world absent of oxygen. Suffocating, no? Until about 3.5-3.8 billion years ago, our fossil records indicates that photosynthesis was a process which simply did not exist. A reaction, which now seems simple; a process taking sugar and water, using the sun's energy to produce oxygen. Scientists pinpointed this revolution, responsible for a great leap in terms of species quantity and diversity, to the basking bacteria of Morning Glory Pool, Yellowstone National Park. These bacteria use a primitive form of photosynthesis, one which does not produce oxygen, and were till recently thought by scientists to be the first life forms which did so. However, study author Dr Tanai Cardona, from the Department of Life Sciences at Imperial College London, claims that “the picture that is starting to emerge is that during the first half of Earth’s history, the majority of life forms were probably capable of photosynthesis”. Photosynthesis is likely to have occurred in bacterial species, before those around today.
 
 _Cardona 2016 @ Plos One_
 
 Breast milk or bottle?
 
-As the number of mums seeking alternatives to natural breastfeeding increases, the demand for artificial infant milk sources similarly rises. Scientists are put under more and more pressure to develop a formula which can measure up to the natural stuff. It is widely known that breast\-fed infants show reduced eczema and allergy risk compared to those fed by bottle. However, many studies have claimed hydrolysed milk formulas help reduce the mitigating impacts of bottle feeding, closing the health benefit gap between milk from the breast compared to milk from the bottle. To further investigate these claims, a recent study conducted by the Department of Medicine at Imperial College London, analysed 19,000 participants, and found no evidence supporting them. Publication bias is thought to have previously found this supposed link between the hydrolysed formula and a reduced infant risk to eczema and allergies. Once again the scientific community has come under scrutiny.
+As the number of mums seeking alternatives to natural breastfeeding increases, the demand for artificial infant milk sources similarly rises. Scientists are put under more and more pressure to develop a formula which can measure up to the natural stuff. It is widely known that breast-fed infants show reduced eczema and allergy risk compared to those fed by bottle. However, many studies have claimed hydrolysed milk formulas help reduce the mitigating impacts of bottle feeding, closing the health benefit gap between milk from the breast compared to milk from the bottle. To further investigate these claims, a recent study conducted by the Department of Medicine at Imperial College London, analysed 19,000 participants, and found no evidence supporting them. Publication bias is thought to have previously found this supposed link between the hydrolysed formula and a reduced infant risk to eczema and allergies. Once again the scientific community has come under scrutiny.
 
 _Boyle et al 2016 @ the BMJ_
 

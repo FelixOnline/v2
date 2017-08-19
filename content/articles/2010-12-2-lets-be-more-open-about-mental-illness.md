@@ -1,8 +1,8 @@
 ---
 title: >
-  Let’s be more open about mental illness 
+  Let’s be more open about mental illness
 subtitle: >
-  Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness 
+  Katherine Bettany and Lizzie Crouch on the stigmas often attached to mental illness
 date: "2010-12-02 21:36:15 +0000"
 id: "492"
 old_path: /news/492/lets-be-more-open-about-mental-illness-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022133-ks607-mentalhe.jpg"
 image_caption: >
-  
+
 image_width: "4368"
 image_height: "2912"
 image_attribution: "Slobodan Radosavljevic"

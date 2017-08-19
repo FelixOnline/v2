@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092036-ma1307-Tallestm.jpg"
 image_caption: >
-  
+
 image_width: "634"
 image_height: "950"
 image_attribution: ""

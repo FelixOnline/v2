@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605061040-felix-13148474_1188780351133367_1516358951_o.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1536"
 image_attribution: ""
@@ -51,6 +51,6 @@ To add insult to injury, the flat is unfurnished.
 
 Imperial Student Hub is believe to be helping the students try and get out of the contract. The Hub’s manager told FELIX that landlords and letting agents often tell students that other groups are looking at the property to pile up the pressure to sign. They also said it was “extremely important” to read and understand the contract and that students can bring their contract into the Student Hub if they want it checked over. To avoid the situation these students have got themselves into, it’s also worth asking for a break clause, so you can stop the lease early if need be.
 
-“It’s a catch\-22 nightmare,” one of the students told FELIX.
+“It’s a catch-22 nightmare,” one of the students told FELIX.
 
 When asked what advice they would give students to avoid getting into similar trouble, one said, “I would tell them to talk to their parents before making big decisions.”

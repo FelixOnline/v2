@@ -2,7 +2,7 @@
 title: >
   Joanna Hogg’s masterpiece
 subtitle: >
-  The biography of British director Joanna Hogg is a strange one indeed: mentored by legendary avant-gardiste Derek Jarman during the 1970s, she won a scholarship to the National Film and Television School, where she took a chance on unknown actor Tilda Swinton for her graduate piece. And then? 
+  The biography of British director Joanna Hogg is a strange one indeed: mentored by legendary avant-gardiste Derek Jarman during the 1970s, she won a scholarship to the National Film and Television School, where she took a chance on unknown actor Tilda Swinton for her graduate piece. And then?
 date: "2014-05-19 13:53:33 +0100"
 id: "4611"
 old_path: /film/4611/joanna-hoggs-masterpiece
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405191454-jal08-exhibition1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

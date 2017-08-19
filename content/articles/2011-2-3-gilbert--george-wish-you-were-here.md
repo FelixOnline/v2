@@ -1,6 +1,6 @@
 ---
 title: >
-  Gilbert & George wish you were here 
+  Gilbert & George wish you were here
 subtitle: >
   The postcard display at the White Cube gallery until 19th Feb .
 date: "2011-02-03 19:39:30 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031935-nm1010-gilbertg.jpg"
 image_caption: >
-  
+
 image_width: "3489"
 image_height: "2504"
 image_attribution: ""

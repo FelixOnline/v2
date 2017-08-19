@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -38,7 +38,7 @@ According to the World Health Organisation, one in four of us will have a mental
 
 Miliband highlights that we are ignoring a problem that affects all of us from every walk of life, and proposes to challenge the lack of focus the government has on the issue of mental health. He cites personal experience of counselling after the death of his father, Ralph Miliband, and talks about the brave decision of[ Labour MP Kevan Jones to talk openly about his depression](http://www.bbc.co.uk/news/uk-politics-18444516).
 
-The government have cut £150m from services for people suffering with mental health problems, and outreach programmes. Imagine, he asked, if this was from funding for strokes, or heart disease.  
+The government have cut £150m from services for people suffering with mental health problems, and outreach programmes. Imagine, he asked, if this was from funding for strokes, or heart disease.
  He emphasises that mental health problems will not go away if we ignore them, so we have to tackle the prejudice and the taboo. Mental health provisions need to be properly funded, and health and social care providers need to be better educated to deal with the demands that increased rates of mental health conditions are putting on the NHS and especially the prison service, where 70% of inmates have a mental health condition. Miliband recognises that not all conditions can be cured, but we can and should offer more support for those suffering.
 
 Perhaps the most coverage of this speech was in the reaction it received from Jeremy Clarkson, who was attacked by Ed for his insensitive comments – “Jeremy Clarkson, who may have at least acknowledged the tragedy of people who end their own lives, goes on to call them ‘Johnny Suicides’ whose bodies should be left on train tracks rather than delay journeys.” Clarkson responded by asking if Ed Miliband was “right in the head.”

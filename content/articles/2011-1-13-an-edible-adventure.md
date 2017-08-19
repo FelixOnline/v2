@@ -1,6 +1,6 @@
 ---
 title: >
-  An edible adventure... 
+  An edible adventure...
 subtitle: >
   Samuel Furse rediscovers the pleasures of food
 date: "2011-01-13 19:49:35 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131947-ks607-chipsinm.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "693"
 image_attribution: "flickr/justinpoliachik"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,7 +35,7 @@ imported: true
 ---
 
 ## 1. An Imperial affordable for everycapable applicant
-Retain Garden Hall as a Hall of Residence in the College Space Master plan.  
+Retain Garden Hall as a Hall of Residence in the College Space Master plan.
  As the most oversubscribed Hall the College needs to realise that there is strong demand for this type of accommodation. A range of rooms to suit all budgets and tastes are necessary for a diverse student community – there will always be some students who prefer (or can only afford) triple rooms, and so it is essential that these are retained. Renovations – if absolutely necessary - do not need to be of the highest specification available; students are quite content with basic specifications if it’s all they can afford, and it means they are close to College.
 ## 2. Protect Evelyn Gardens
 Continue to seek out alternative, superior solutions to Evelyn Garden’s ending lease than the North Acton project.

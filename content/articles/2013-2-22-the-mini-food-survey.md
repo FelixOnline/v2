@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220259-tna08-food-survey.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Imperial College London"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-In light of the Sex Survey, I thought: why not conduct my own Food Survey? It’s not exactly the most highly scientific of surveys (\*dodges open fire\*), but answered by Felix food writers and fellow food lovers, maybe the survey will give a new life into the food on campus – or not, in some cases. Most of the people I asked ate at Imperial outlets on a regular, weekly basis. About a third of the people I asked only ate in uni very rarely, when they’ve forgotten their packed lunches or are staying in late – can anything really beat a homemade lunch? I think so.
+In light of the Sex Survey, I thought: why not conduct my own Food Survey? It’s not exactly the most highly scientific of surveys (*dodges open fire*), but answered by Felix food writers and fellow food lovers, maybe the survey will give a new life into the food on campus – or not, in some cases. Most of the people I asked ate at Imperial outlets on a regular, weekly basis. About a third of the people I asked only ate in uni very rarely, when they’ve forgotten their packed lunches or are staying in late – can anything really beat a homemade lunch? I think so.
 
 Try the most popular place to eat, FUEL, oh yes, that ‘pie place’ with the infinite mash and gravy (apparently the beetroot smoothies are good too). Everyone I asked who had been to FUEL (apart from one, crazy person) said it was great. The favourite pies were the chicken based pies, either with ham or chorizo (the Matador pie). But hold out you hungry meat eaters – apparently the goat’s cheese one is also fantastic. In general, most people I asked felt the pies are good value for money, considering that they are handmade and you can fill your pie box full to the brim with mash and gravy, given that there isn’t a helpful but annoying person serving it out. People felt that the salad and chicken or salmon boxes are also good, healthier than the pies, but more expensive. I can empathise with the complaints regarding when Pieminister run out of the best pies. It can also get pretty crowded in there.
 

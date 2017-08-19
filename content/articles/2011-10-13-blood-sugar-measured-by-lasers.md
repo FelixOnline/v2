@@ -2,7 +2,7 @@
 title: >
   Blood sugar measured by lasers
 subtitle: >
-  Search for a non-invasive technique progresses 
+  Search for a non-invasive technique progresses
 date: "2011-10-13 21:43:05 +0100"
 id: "1509"
 old_path: /science/1509/blood-sugar-measured-by-lasers
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

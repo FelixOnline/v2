@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302281804-txl11-worldwarz.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ Last year was the year of the Vampire, and it seems set that 2013 will be the ye
 
 Max Brooks, son of the famous director Mel Brooks, has popularised this genre in literature, with his books the Zombie Survival Guide (2003), World War Z (2006) and The Zombie Survival Guide: Recorded Attacks (2009). In fact, one of his books, World War Z, is being released as a film in June 2013 with Brad Pitt as the main character. This should tell you how “mainstream” they have become. While I had read his books soon after their release, my recent re-reading of them as well as this now rising popularity of Z’s, made me think about writing a review for his second book, namely World War Z.
 
-Inspired by a similar book based on World War II, as well as George A. Romero, the man nicknamed the “Godfather of Zombies”, it is styled as a set of personal recollections and interviews which deal with a global outbreak of Zombies. Each person’s story describes their own fight to survive, and together they describe the whole arc of the apocalypse. These anecdotes range from the human level, where a single person fights to make it through, all the way to the top dealing with the governments’ attempts at stemming the flood.  
+Inspired by a similar book based on World War II, as well as George A. Romero, the man nicknamed the “Godfather of Zombies”, it is styled as a set of personal recollections and interviews which deal with a global outbreak of Zombies. Each person’s story describes their own fight to survive, and together they describe the whole arc of the apocalypse. These anecdotes range from the human level, where a single person fights to make it through, all the way to the top dealing with the governments’ attempts at stemming the flood.
  The underlying emotional themes (e.g. fear, patriotism, greed etc.) that underlie each recollection also lead to a well-rounded book. Not really bloody or gory at all, this book deals more with economics, politics, and human feelings. The book looks at how society deals with possible extinction, which makes the book all the more powerful and much less “cheap” to read.
 
 At the same time Max Brooks uses World War Z to describe the survivalist attitude that is permeating culture at this time, as well as criticising the weakness exhibited by our political system. Basically, he says that democracy is great, but in time of crisis political willpower may be lacking, as is shown by the example of the world governments (excluding Israel) in the early days of the war.

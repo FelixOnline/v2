@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,12 +35,12 @@ imported: true
 ---
 
 ## Luls
-TODO: image from 
+TODO: image from
 This young London-based trio were a breath of fresh air. I sat down with Adam and Shaun to talk to about shit.
 
 How did you meet?
 
-S: I met Adam who was playing for a friend of mine… \*cheeky smile towards Adam\*
+S: I met Adam who was playing for a friend of mine… *cheeky smile towards Adam*
 
 You guys love each other.
 
@@ -62,7 +62,7 @@ What kind of sound of are you going for?
 
 A: I guess in the early stages we were quite inspired by bands like Yeahs Yeahs, and TV on the Radio. We were trying to take the energy and the kind of vibes they had and make something of our own.
 
-S: We feel we’re quite strong on the vocal side so we try to play to our strength.  
+S: We feel we’re quite strong on the vocal side so we try to play to our strength.
  How have you found the other bands you’ve been touring with?
 
 So it’s been us Spector and Swim Deep, we were going to one show with Splashh but unfortunately we got stuck in mammoth traffic, this was in Manchester.
@@ -81,9 +81,9 @@ Yes we are, we’ll be performing first but we wish we were performing later. We
 
 You guys are going to be awesome.
 
-S: Aww, thanks man. A: YES YES! \*High fives\*
+S: Aww, thanks man. A: YES YES! *High fives*
 ## Swim Deep
-TODO: image from 
+TODO: image from
 A short and sweet interview with dream-pop band, Swim Deep during which Austin desperately shuffled around the room for a bag ofLemsip.
 
 Where does the name Swim Deep come from?
@@ -103,15 +103,15 @@ Nice. How has the Spector tour been so far?
 Spector have been great and we really enjoyed playing with them. We’ve had loads of great experiences.
 
 Splashh
-TODO: image from 
-London’s newest darlings were a chilled out band with a relentless rhythm propelling them along  
+TODO: image from
+London’s newest darlings were a chilled out band with a relentless rhythm propelling them along
  How did you guys meet?
 
 Shasha (guitar): We’ve all have knowneach other weirdly through different mutual acquaintances. I’ve been friends with Jake (drums) since I was a teenager and I met Toto (vocals) and Beal (bass). J: I came over to just to join the band, crazy move. I am came all the way from New Zealand. It was a long trip. S: He went straight to band practice... J: Yeah, we had our first gig two days later.
 
 What kind of equipment do you use?
 
-S: It’s always different; we take what we can get at the moment. We’ll basically  
+S: It’s always different; we take what we can get at the moment. We’ll basically
  write this song and Toto will record it and turn into what it sounds like now. He’s a bit of a wizard on the production side of things. Heedits our music videos as well. Our creative hub!
 
 What are your plans for the future?

@@ -2,7 +2,7 @@
 title: >
   Imperial comes bottom in Times Higher Ed. Student Experience Survey for ‘fair workload’
 subtitle: >
-  Yesterday saw College coming in 43rd place in the Times Higher Education (THE) Student Experience Survey 2014. Ranked on 21 different attributes, from the strength of the students’ union to the fairness of the workload, the data was gathered by YouthSight over the course of last academic year. 
+  Yesterday saw College coming in 43rd place in the Times Higher Education (THE) Student Experience Survey 2014. Ranked on 21 different attributes, from the strength of the students’ union to the fairness of the workload, the data was gathered by YouthSight over the course of last academic year.
 date: "2014-05-16 01:37:21 +0100"
 id: "4594"
 old_path: /news/4594/imperial-comes-bottom-in-times-higher-ed-student-experience-survey-for-fair-workload
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

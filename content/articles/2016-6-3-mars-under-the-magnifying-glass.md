@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606031116-felix-Website_Beagle2-UCL-SRR.jpg"
 image_caption: >
-  Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed. 
+  Super resolution imaging technology gives us views of Mars that may not be breathtaking, but are most certainly very detailed.
 image_width: "1000"
 image_height: "750"
 image_attribution: "Yu Tao and Jan-Peter Muller, UCL"
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-I get angry waiting for Google Maps to load on my iPhone and I tell this to Jan\-Peter Muller, Professor of Image Understanding and Remote Sensing at the Department of Space and Climate Physics at UCL. He looks as if he’s experienced a similar thing. “If you think 3G or GPRS is bad, try processing an image of Mars”.
+I get angry waiting for Google Maps to load on my iPhone and I tell this to Jan-Peter Muller, Professor of Image Understanding and Remote Sensing at the Department of Space and Climate Physics at UCL. He looks as if he’s experienced a similar thing. “If you think 3G or GPRS is bad, try processing an image of Mars”.
 
 It takes a 24 core, 96 GB ram machine three whole days to process a single image of Mars taken on a HiRISE camera, a camera so powerful it had to be downgraded by the US Military before being donated to science. Muller asserts that these are the highest resolution images ever seen by civilians from space. Using _The Martian_ to invoke discussion on Mars is becoming rather clichéd a year on from its cinema release, however, if ever we had a chance to see Mark Watney waving to us from his hydroponic Martian garden, this would be it.
 
-The revolutionary new technique published in _Planetary Space Science_ by Muller and his co\-author Yu Tao in April is called super\-resolution restoration \(SRR\). By stacking and matching up to eight telescopic images of the same area taken from different angles, resolution can be increased five times. So now each pixel represents 5cm compared to 25cm, meaning that in this particular case, we can tell why Beagle\-2 failed from an orbit of 300km.
+The revolutionary new technique published in _Planetary Space Science_ by Muller and his co-author Yu Tao in April is called super-resolution restoration (SRR). By stacking and matching up to eight telescopic images of the same area taken from different angles, resolution can be increased five times. So now each pixel represents 5cm compared to 25cm, meaning that in this particular case, we can tell why Beagle-2 failed from an orbit of 300km.
 
 There is no doubt that being able to image in this way will aid our understanding and planning in space exploration. Muller himself is in favour of human exploration and colonisation of other planets.
 
@@ -50,6 +50,6 @@ So far, so Armageddon. But despite its “enormous implications” for solar sys
 
 That does not mean he has eased off developments in space.
 
-“Next is the moon!” he says, to alleviate the concerns of the “flat earth people out there who still think we never went \(there\)! And we need to find Philae!”
+“Next is the moon!” he says, to alleviate the concerns of the “flat earth people out there who still think we never went (there)! And we need to find Philae!”
 
 Maybe he can do that whilst he’s waiting for those images of Mars to process.

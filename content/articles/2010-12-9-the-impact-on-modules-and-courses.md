@@ -1,6 +1,6 @@
 ---
 title: >
-  The impact on modules and courses 
+  The impact on modules and courses
 subtitle: >
   cuts to staff will not affect teaching
 date: "2010-12-09 21:27:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092115-dr910-IanOwens.jpg"
 image_caption: >
-  
+
 image_width: "253"
 image_height: "331"
 image_attribution: ""

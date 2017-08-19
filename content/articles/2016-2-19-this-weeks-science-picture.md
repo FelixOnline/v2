@@ -38,6 +38,6 @@ Two black holes merged billions of light years away, causing a ripple in the fab
 
 The 4km long interferometers at LIGO simultaneously detected a disturbance in their lasers signifying the passing of a massive gravitational wave through the Earth. The measurements suggest the black hole collision released a wave og gravitational energy equal to three times the mass of the sun.
 
-Prof Danzmann \(a leading European scientist at LIGO\) praised the finding  as one of the most important discoveries since the Higgs boson and on par with the discovery of the double helix.
+Prof Danzmann (a leading European scientist at LIGO) praised the finding  as one of the most important discoveries since the Higgs boson and on par with the discovery of the double helix.
 
 Detecting the waves opens up the Universe to completely new investigations leading to a new era of astronomy.

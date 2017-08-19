@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-[Bloomberg BusinessWeek](http://www.businessweek.com/innovation/the-key-to-success-your-corporate-mission-07142011.html) recently published an article by Larry Popelka titled “The Key to Success? Your Corporate Mission.” It investigates the particular case of the Chevrolet Volt and it is perfectly summed up by one line: “Most consumers no longer shop for products. They shop for a company.”  
+[Bloomberg BusinessWeek](http://www.businessweek.com/innovation/the-key-to-success-your-corporate-mission-07142011.html) recently published an article by Larry Popelka titled “The Key to Success? Your Corporate Mission.” It investigates the particular case of the Chevrolet Volt and it is perfectly summed up by one line: “Most consumers no longer shop for products. They shop for a company.”
  What makes people crave that Ralph Lauren Polo rather than the Tommy Hilfiger shirt, the new iPad/iPhone over any Android device, that bottle of Moët & Chandon rather than Veuve Clicquot or the Toyota Prius over a Chevrolet Volt? There are definitely enough arguments to rationalise the desire, but whether one admits it or not, an established brand makes it that much easier for a company to sell their product.
 
 That is not to say that establishing a brand in itself is an easy task. There is a reason why most major companies have a Marketing department. It reaches well beyond the (often) cheesy ads on television and on billboards. The job these people have at hand is to create a brand identity, an image the targeted customer can identify with, an illusion that their customers are somehow part of a distinguished community that purchases those products.

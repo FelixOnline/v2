@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-The statistics. Around one in three private school pupils achieves a grade of A\* or A at A-level compared to 10.6% for state schools, despite roughly only making up 10% of all those in education. 54.8% of those in state schools leave GCSE level without passes of A\* to C in the basic subjects english and mathematics. When postcode is a good predictor of attainment, [it is clear that education in the UK is still far from fair](http://www.education.gov.uk/rsgateway/DB/SFR/s000963/sfr30-2010.pdf), [despite progress in recent years](http://www.bbc.co.uk/news/education-11597488).
+The statistics. Around one in three private school pupils achieves a grade of A* or A at A-level compared to 10.6% for state schools, despite roughly only making up 10% of all those in education. 54.8% of those in state schools leave GCSE level without passes of A* to C in the basic subjects english and mathematics. When postcode is a good predictor of attainment, [it is clear that education in the UK is still far from fair](http://www.education.gov.uk/rsgateway/DB/SFR/s000963/sfr30-2010.pdf), [despite progress in recent years](http://www.bbc.co.uk/news/education-11597488).
 
 Yet, with [25% potential cuts to the education budget](http://www.bbc.co.uk/news/10378384) this autumn and [the doubtful continued existence of the teacher pension scheme](http://www.bbc.co.uk/news/education-13761147) in its current form, incentives to go into teaching for bright young graduates have never been lower in the current generation. Added to that, general cuts to public sector spending have had a detrimental impact on services and charities across the United Kingdom.
 

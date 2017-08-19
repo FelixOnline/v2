@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112058-ks607-caveman.jpg"
 image_caption: >
-  
+
 image_width: "574"
 image_height: "324"
 image_attribution: ""

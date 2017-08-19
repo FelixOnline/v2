@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605271509-felix-2222.jpg"
 image_caption: >
-  
+
 image_width: "2670"
 image_height: "3837"
 image_attribution: "FELIX"
@@ -39,7 +39,7 @@ An expected outbreak of support for Felix’s campaign for air conditioning in t
 
 Imperial provides great facilities to study in and world class labs, but falls short in the central library.
 
-From personal experience, I avoid studying at that place at all costs \(the horrid smell, serious lack of oxygen, and ridiculous smell of damp\).
+From personal experience, I avoid studying at that place at all costs (the horrid smell, serious lack of oxygen, and ridiculous smell of damp).
 
 The campaign, strangely enough, started in  the Felix office, where they actually listen to what students have to say. What is even more surprising is the complete silence and astonishment of the “Beit Sabbatical Establishment”.
 

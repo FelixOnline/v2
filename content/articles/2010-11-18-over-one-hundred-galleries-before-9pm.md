@@ -1,8 +1,8 @@
 ---
 title: >
-  Over one hundred galleries before 9pm 
+  Over one hundred galleries before 9pm
 subtitle: >
-  Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb 
+  Shoreditch is the hotbed of all London’s most cutting-edge, original talent and a monthly evening of late night openings promises to let you into its heart. By Sam Whitcomb
 date: "2010-11-18 19:51:40 +0000"
 id: "379"
 old_path: /arts/379/over-one-hundred-galleries-before-9pm-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011181947-nm1010-smokeysm.jpg"
 image_caption: >
-  
+
 image_width: "615"
 image_height: "408"
 image_attribution: ""

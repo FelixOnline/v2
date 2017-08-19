@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150310-tna08-stock__coffee_beans_by_unamanic.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - This is the best written thing Ive read in Felix in about a yearIf you want foam art at Imperial go to the Chemistry Cafe  The tall barista there won the college barista competition and makes very pretty coffeeThe SAF Cafe does great coffee  their machine lattes are just like those you get in MilanThanks for the words of support Pippa  Will definitely check out the Chemistry Cafe and totally agree with your recommendations Phil  Might add Flat White Kaffeine Lantana Nordic Bakery the list could go onI am a wine snob and I totally agree that coffee has just as much going for it I make my own espresso at home as there is nothing drinkable in the vicinity of Imperial I agree Fernandez  Wells is where I go if I have run out of beans and have an urge for espresso I dont take a great liking to their beans over roasted and you are correct that they draw the espresso slightly to short giving it a sour edge oh and it is the most expensive espresso everTry Notes and 
+ - This is the best written thing Ive read in Felix in about a yearIf you want foam art at Imperial go to the Chemistry Cafe  The tall barista there won the college barista competition and makes very pretty coffeeThe SAF Cafe does great coffee  their machine lattes are just like those you get in MilanThanks for the words of support Pippa  Will definitely check out the Chemistry Cafe and totally agree with your recommendations Phil  Might add Flat White Kaffeine Lantana Nordic Bakery the list could go onI am a wine snob and I totally agree that coffee has just as much going for it I make my own espresso at home as there is nothing drinkable in the vicinity of Imperial I agree Fernandez  Wells is where I go if I have run out of beans and have an urge for espresso I dont take a great liking to their beans over roasted and you are correct that they draw the espresso slightly to short giving it a sour edge oh and it is the most expensive espresso everTry Notes and
 imported: true
 ---
 
@@ -47,7 +47,7 @@ If anxiety and/or stress have not done me by this stage, it may be coffee worthy
 
 Within half an hour, body and brain are untethering from each other like whippet and leash. My ribcage is being clamped by an implacable force, while my mind skitters over thoughts, ideas, plans like an overexcited Olympic hurdler. For the next couple of hours only a nuclear attack or a car parking fine would be capable of making me focus. And I don’t own a car.
 ## Background to the bean
-TODO: image from 
+TODO: image from
 ortunately my predicament is shared by many the world over. Coffee is now the second most-traded commodity in the world (after crude oil) and 70 million cups are drunk in the UK every day. 57% of us now regularly drink in coffee shops, and trade, particularly amongst independents, is booming despite the recession. Books, blogs, articles and advice abound about where to find the best brew, and coffee is fast catching up with wine in terms of the snobbery of its aficionados.
 
 In fact, coffee and wine share much in common, and it seems no coincidence that the root of the English word ‘coffee’ comes from an Arabic term, qahhwat al-bun, meaning ‘wine of the bean’. Like oenophiles, caffeine heads would claim that their beverage is an entire sensory experience: the warmth of the cup between the hands; the artistry in the collapsing hearts on the cap of the foam, the smell of the grind and its silky smoothness on the tongue, coupled with the rich kick of the coffee itself. Not to mention the conversations. I am convinced I have the best conversations when nursing a cup of coffee.

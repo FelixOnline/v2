@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305011508-tna08-cover_bioshockinfinite.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,12 +44,12 @@ Kids are playing in the street, couples lay down in the grass with their picnic 
 
 As soon as you emerge in Columbia, you’re presented with one of the main themes of the game. This time, there is no industrialist who builds a city to drive his capitalist views, instead you have a prophet who created a haven in the clouds, to save his devotees from the sodom below.
 
-Soon, you’re faced with vigors (the new term for plasmids), the comedy duo and of course, racism. Tasteful, historically accurate racism, but still, I’m surprised how they got this through the censors.  
+Soon, you’re faced with vigors (the new term for plasmids), the comedy duo and of course, racism. Tasteful, historically accurate racism, but still, I’m surprised how they got this through the censors.
  You soon find your ward, Elizabeth, and then it’s the.... uh.... simple... task of getting back to the surface. Thankfully, Elizabeth has the ability to open ‘tears’ (rhymes with bears, not beers) into other dimensions, allowing you to bring in automated turrets, weapons, allies, etc to the fight. Luckily, you’re not the only thorn in the prophet’s backside, as a rebellion, led by a group known as the Vox Populi, is wreaking havoc across Columbia.
 
 Combat is the same as Bioshock 2 – left click fires your weapon, and right click uses your plas.. vigor (dammit, every time). There’s a wide selection of weapons and plasmids to suit your playstyle, along with upgrades to both, so that’s all fine and dandy. Travel in Columbia is a bit of an issue, when it’s made up of floating platforms. You can’t really have a lot of associated risk, each time you want to move around, so you use the skyline instead. Imagine railway tracks that float in the air, and you luckily picked up a set of train wheels right at the start. Oh, that reminds me – melee is back and is as brutal as ever – this time, you get to smash faces in with your skyhook, and if you’re feeling particularly stressed out, you can execute your opponents in beautiful visceral detail.
 
-Many people feared that you would be having to rescue Elizabeth again and again, a la clichéd escort mode, but she can take care of herself, and spends her free time rummaging through rubbish to give you extra ammo and money. In fact, she puts way more effort into this relationship that you do.  
+Many people feared that you would be having to rescue Elizabeth again and again, a la clichéd escort mode, but she can take care of herself, and spends her free time rummaging through rubbish to give you extra ammo and money. In fact, she puts way more effort into this relationship that you do.
  Further affirming Webster’s First Law of Gaming, adding hats makes everything better. You’ve got four inventory slots that can have different types of clothing, that all grant different traits and abilities. Think of them as the new tonics.
 
 There’s not much more to say about the game, without me mentioning specific areas, moments, fabulous hats, or parts of the storyline. Trust me when I say that you’ll want to enjoy your time working through Columbia on your own, rather than having me spoil everything for you. I see something new each time, and the detail put into the world is incredible.

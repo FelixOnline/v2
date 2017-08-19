@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242119-felix-shirttie.jpg"
 image_caption: >
-  
+
 image_width: "349"
 image_height: "305"
 image_attribution: ""

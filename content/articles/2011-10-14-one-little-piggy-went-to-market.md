@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110141114-felix-markets.png"
 image_caption: >
-  
+
 image_width: "4252"
 image_height: "788"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 I have a confession to make. Over the last year or so, I’ve been really quite evil. I really never meant to be, but there it is. Evil as a doorknob. Like many of my ilk, I can pin point the exact day the evil started, it was in November 2009 and I was in the Felix office, chatting to the Business Editor. The chat went something like this:
 
-__Moi__: _The government should really pay for education/ health/ hash brownies for the poor._  
+__Moi__: _The government should really pay for education/ health/ hash brownies for the poor._
 __Satan__: _Well, if it’s such a good thing, why don’t richer people just pay for it for them anyway? Can’t people just be charitable, or are you saying the government is more moral than everyone else?_
 
 And there the bastard had me. Wouldn’t it be a whole lot better if people just came together themselves and sorted out each other’s difficulties? What was it that made government intervention so much better than private action? This got around a WHOLE load of issues too. Want your child to learn evolution? Set up a school that does it. Want poor kids to learn about evolution? Set up a school for them too. Is it really that different from the government doing it? In fact, it should be better – being controlled from near, not Whitehall, means better efficiency and accountability. On top of that, surely the freedom to teach as you wish has a moral value to it? It’s not like current state schools are anything to write home about. Assuming you can write, that is.

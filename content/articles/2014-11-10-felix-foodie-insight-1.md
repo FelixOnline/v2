@@ -2,7 +2,7 @@
 title: >
   Felix Foodie InSight: #1
 subtitle: >
-  Michelle Tan talks curry & being a Third Culture Kid 
+  Michelle Tan talks curry & being a Third Culture Kid
 date: "2014-11-10 22:21:04 +0000"
 id: "4843"
 old_path: /food/4843/felix-foodie-insight-1
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102218-ps3110-mich.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

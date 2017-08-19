@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - We waz robbed that goal should not have been allowed it was offside if the referee had not allowed that goal we could have won 
+ - We waz robbed that goal should not have been allowed it was offside if the referee had not allowed that goal we could have won
 imported: true
 ---
 
@@ -43,5 +43,5 @@ IC were a constant threat in front of goal and UWL failed to show any resilience
 
 As UWL returned after the halftime break it was clear that their fighting spirit had been entirely consumed by the icy conditions. IC made UWL’s miserable afternoon a whole lot worse by scoring 20 goals in the second half, with little difficulty. UWL tried some interesting tactics, like removing Club Captain Hazell’s shoe in a desperate attempt to prevent her assisting a goal, but to no avail. Trainerless, and with nothing but a surprised squeal, she calmly set Batchelor up for a clean finish. Tsang’s superb shots throughout the game earned her player of the match, in the coldest game anyone can ever remember playing, IC 3s maintained their unbeaten record this term and moved up into 2nd place in the ULU league. With a game in hand, a fully fit squad and another team added to the long list of victims, life is looking pretty sweet for IC Netball 3s right now.
 
-Women’s 3s 46  
+Women’s 3s 46
  University of West London 14

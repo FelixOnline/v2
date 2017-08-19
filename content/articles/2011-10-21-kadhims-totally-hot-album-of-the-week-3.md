@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110211223-ak6309-slowclubparadisepackshotw.jpg"
 image_caption: >
-  
+
 image_width: "1642"
 image_height: "1499"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 When it comes to Twitter, musicians usually have one of two personalities:
 
-1) No personality – SINGLE OUT NOW!!! \*yawn\*  
+1) No personality – SINGLE OUT NOW!!! *yawn*
  2) Uber-kick-ass insight into their awesome psyche – “[DEAR LORD RYAN GOSLING GETT ON MY FACE](http://twitter.com/#!/SLOWCLUBREBECCA/status/121304664699449344)”.
 
 [Slow Club](http://www.slowclubband.com/)’s Rebecca Taylor falls into the latter category (indeed, the second example is one of her tweets). Her [Twitter account](https://twitter.com/#!/SLOWCLUBREBECCA) is a massive middle finger to the twee image that their first album constructed. Without turning this review into a convoluted love letter to her, is there a girl you’d want to hang out with more than one who [tweets](http://twitter.com/#!/SLOWCLUBREBECCA/status/123733058645000192): “Why isn’t my bbm working I’m trying to send a picture of my dick (shaped bruise) to my friend Stacey this is an OUTRAGE”

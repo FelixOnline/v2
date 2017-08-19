@@ -1,6 +1,6 @@
 ---
 title: >
-  Sir Keith pied as RAG revive tradition 
+  Sir Keith pied as RAG revive tradition
 subtitle: >
   Rector Sir Keith O'Nions gets pied for charity
 date: "2011-02-24 19:52:16 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241948-ks607-rectorpi.jpg"
 image_caption: >
-  
+
 image_width: "4928"
 image_height: "3264"
 image_attribution: ""

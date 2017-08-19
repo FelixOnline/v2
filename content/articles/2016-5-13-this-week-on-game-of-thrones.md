@@ -46,9 +46,9 @@ Tyrion’s remains awkward as hell trying to fit in at Meereen with Dany’s adv
 
 Back to King’s Landing and Qyburn is giving orphaned kids sweeties so that they’ll talk to him. It’s actually one of the least creepy things about him in all honestly. Cersei and Jamie then storm down to his basement lair with their giant zombie friend to chat about Cersei’s oncoming trial by combat and how her being paraded naked down the streets has in no way mellowed her out. Incesty Team Rocket then marches up to the Small Council chambers before being told that no one wants to sit on their lunch table so they’re left alone again.
 
-Li’l’ King Tommen then heads down to the prison to ask the High Sparrow \(AKA Birdie Sanders\) for his wifey and his mummy back. Sanders then sits the boy down to talk about why the gods think his wife’s a hoe and his mum’s a dickhead. Tommen seems fairly convinced by his arguments.
+Li’l’ King Tommen then heads down to the prison to ask the High Sparrow (AKA Birdie Sanders) for his wifey and his mummy back. Sanders then sits the boy down to talk about why the gods think his wife’s a hoe and his mum’s a dickhead. Tommen seems fairly convinced by his arguments.
 
-Back to Braavos and we find Arya playing a game of Lie and Get Slapped \(essentially the Braavosi version of Jeremy Kyle\). She gives away her personal information like she’s being audited by the Church of Scientology until sexy Yoda decides to give her vision back.
+Back to Braavos and we find Arya playing a game of Lie and Get Slapped (essentially the Braavosi version of Jeremy Kyle). She gives away her personal information like she’s being audited by the Church of Scientology until sexy Yoda decides to give her vision back.
 
 We then return to the North where Ramsay is struggling to fill Daddy’s boots. He’s attempting to keep a member of House Umber under control that’s repeatedly calling him a prick to his face. It looked like this guy’s head was about to roll before revealing he had Rickon Stark and Osha with him, two characters last seen in the season 3 finale. They are really stretching the viewer’s memories at this point, I mean come on! When we last saw them, Donald Trump was still funny! Nonetheless, this reveal does mean big things coming up for the North, we’re just not sure quite what yet.
 

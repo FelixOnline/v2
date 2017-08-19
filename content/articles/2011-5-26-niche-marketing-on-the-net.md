@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105262020-felix-dog.jpg"
 image_caption: >
-  
+
 image_width: "1100"
 image_height: "1100"
 image_attribution: ""

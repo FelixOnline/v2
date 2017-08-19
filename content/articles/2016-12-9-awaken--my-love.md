@@ -1,6 +1,6 @@
 ---
 title: >
-  Awaken , My Love! 
+  Awaken , My Love!
 subtitle: >
   Gambino takes you on a musical journey
 date: "2016-12-09 15:43:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612091543-felix-Awaken,_My_Love!.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "1200"
 image_attribution: "Glassnote Records"

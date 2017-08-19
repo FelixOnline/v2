@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611111258-ajp15-bataclan.jpg"
 image_caption: >
-  
+
 image_width: "3375"
 image_height: "2248"
 image_attribution: "ParisSharing"
@@ -36,7 +36,7 @@ imported: true
 
 I was inside Bataclan when the attack happened. At around 9:45pm there was the sound of something like firecrackers coming from the back of the hall. The band stopped, all of the lights came on suddenly, I looked over my shoulder and, to my horror, I could see three figures with machine guns blocking the exits. Immediately the three terrorists began shooting indiscriminately with their kalashnikovs, and people fell to the floor in a domino effect. After several seconds of sustained shooting, there was an eerie silence and I took the opportunity to scramble towards a door in the distance next to the stage. In those few seconds of silence following the shooting, as the terrorists reloaded their machine guns, many people remained laying on the floor and elsewhere there was panicked shuffling. When the shooting began again, I dropped flat to the floor and waited for them to finish their round before attempting to make an escape. This happened several times.
 
-Reaching the door, it turned out to be locked \(with a keycode adjacent to it\). There was a security guard standing next to it. I was shouting at him to open the door as we piled towards it and the gunman continued shooting from behind, and I remember he looked at me totally blankly and then looked back towards the shooters. He seemed frozen by fear. Falling back on the floor, when the shooting subsided again, I looked up and the door was now open. It led into an internal stairwell.
+Reaching the door, it turned out to be locked (with a keycode adjacent to it). There was a security guard standing next to it. I was shouting at him to open the door as we piled towards it and the gunman continued shooting from behind, and I remember he looked at me totally blankly and then looked back towards the shooters. He seemed frozen by fear. Falling back on the floor, when the shooting subsided again, I looked up and the door was now open. It led into an internal stairwell.
 
 I was knocked to the floor in the doorway by people pushing me from behind. I was getting trampled on by people trying to escape, literally stamping on me in blind panic, and I really thought I was going to get trampled to death. I desperately pulled my legs from under the weight of bodies by sliding myself along the floor, managed to slip out of one of my trainers where my foot was trapped, and somehow managed to get up.
 
@@ -52,4 +52,4 @@ We were up there for around three hours, with no idea what was happening below. 
 
 At around 1am there was loud banging on the window of the apartment. There was a collective groan from within, and we all sunk even lower onto the floor and under chairs, as we dreaded the possibility that we had finally been discovered by the terrorists. My heartbeat increased back to levels similar to when I was being shot at three hours earlier. The door burst open and it turned out, to our relief, to be the special forces rescue team. We were made to stand up with our hands behind our heads, lift our tops to show we didn’t have suicide belts on, and then filter out slowly in single file to street level.
 Any donation, however small, would be hugely appreciated not only by me but by my charity as well. To donate towards my fundraising challenge or for more information, visit www.mydonate.bt. com/fundraisers/olliekemsley
-\*This piece was amended on the 16th of November 2016
+*This piece was amended on the 16th of November 2016

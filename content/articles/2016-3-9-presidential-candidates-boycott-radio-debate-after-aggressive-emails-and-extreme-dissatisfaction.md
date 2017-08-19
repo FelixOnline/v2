@@ -55,7 +55,7 @@ Yulia Bulgakova, who initially said she couldn’t come due to illness, later to
 
 During their show, the presenters reiterated how they didn’t think their emails had been aggressive, asked the candidates to give evidence of this and said some just hadn't wanted to debate each other. The three then wittered on for an hour about the other candidate’s manifestos.
 
-Melody Ball later told FELIX that she and other candidates \(including Cat, Yulia, Eddy, John and Levi\) were "not satisfied about the way we have been spoken to when expressing perfectly reasonable concerns about potential bias" and that "the IC Radio team seemed to have wanted to set the candidates against each other and create animosity" between candidates who "had been very supportive".
+Melody Ball later told FELIX that she and other candidates (including Cat, Yulia, Eddy, John and Levi) were "not satisfied about the way we have been spoken to when expressing perfectly reasonable concerns about potential bias" and that "the IC Radio team seemed to have wanted to set the candidates against each other and create animosity" between candidates who "had been very supportive".
 
 Ivan Brown told us he "doesn't know how reasonable the claims were, but they may have had some basis".
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105122004-felix-timewaster.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "2048"
 image_attribution: "Simon Worthington"

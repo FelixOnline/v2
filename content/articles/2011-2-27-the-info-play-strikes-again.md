@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271931-ks607-greenlan.jpg"
 image_caption: >
-  
+
 image_width: "920"
 image_height: "255"
 image_attribution: ""

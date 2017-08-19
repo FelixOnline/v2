@@ -37,8 +37,8 @@ imported: true
 
 __Tinker Tailor Soldier Spy__
 
-__Director__ Tomas Alfredson  
-__Screenwriter__ Bridget O’Connor, Peter Straughan  
+__Director__ Tomas Alfredson
+__Screenwriter__ Bridget O’Connor, Peter Straughan
 __Cast__ Gary Oldman, John Hurt, Colin Firth
 
 After a summer of upbeat comedy in the cinemas (with films like [_The Inbetweeners Movie_](http://www.youtube.com/watch?v=V3HzTKbsqsY) and [_The Hangover Part II_](http://www.youtube.com/watch?v=RYL_T7f59o8)), this [wonderfully stark adapt](http://www.youtube.com/watch?v=-TvdqRvCwGg)[ation of John le Carré’s best-selling novel](http://www.youtube.com/watch?v=-TvdqRvCwGg) gives a glimpse into the murky spy game of the 1970s, portrayed by an outstanding cast.

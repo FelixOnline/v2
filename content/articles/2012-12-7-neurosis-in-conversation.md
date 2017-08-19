@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212070340-tna08-neurosis1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,8 +39,8 @@ One of the most influential bands out there, progressive sludge outfit __Neurosi
 
 __RA: The most striking question I think is about the changes to your live set. What in particular led you to think it was time for a change?__
 
-SK: I dunno, it’s one of those things. It was really a mutual thing and we just reached a point where we didn’t really feel inspired to have visuals anymore and Josh really feel like doing them anymore, he didn’t want to be a projectionist I think he wants to focus on his band  
- It was pretty obvious when we talked that it was meant to be because we were feeling this way and we talked to him, he felt the same way.  
+SK: I dunno, it’s one of those things. It was really a mutual thing and we just reached a point where we didn’t really feel inspired to have visuals anymore and Josh really feel like doing them anymore, he didn’t want to be a projectionist I think he wants to focus on his band
+ It was pretty obvious when we talked that it was meant to be because we were feeling this way and we talked to him, he felt the same way.
  We wanted to do something different, we wanted to take it back to where we were 20 years ago and just kind of revisit the whole idea. I’m not sure whether we’re gonna go back to doing visuals or not, we’ll see. We’re just kind of starting at zero and seeing what it brings us and it actually was good to get out and do it.
 
 __RA: Personally I felt that a more stripped down visual package allowed more focus on the sound.__
@@ -73,7 +73,7 @@ SK: Not really, I mean, we always look to let the music write itself. It takes i
 
 __RA: With Neurosis, you write lyrics that are primal yet quite inward looking and deep, what inspires the content and what sort of process do you through writing them?__
 
-SK: Yeah I mean it’s pretty much open to your interpretation. We’re definitely not sitting down with a message or a vision for what the lyrics should contain or what we should be imparting to people. We kind of just trust the spirit of the whole thing, we just believe that the words that should be there will be there. It’s not that we don’t spend hours working on them, we do. It takes a while to get things to that point but it’s hard to say ‘it’s about this or that.’  
+SK: Yeah I mean it’s pretty much open to your interpretation. We’re definitely not sitting down with a message or a vision for what the lyrics should contain or what we should be imparting to people. We kind of just trust the spirit of the whole thing, we just believe that the words that should be there will be there. It’s not that we don’t spend hours working on them, we do. It takes a while to get things to that point but it’s hard to say ‘it’s about this or that.’
  Typically, it starts off with a tone or melody of sorts where I’ll hear the words or what they should sound like and then I’ll just deciphering and then I just go through that process a number of times until I feel it’s at the point where they should be. That’s basically it; it takes as long as it takes. I write words all the time but not in that way. Sometimes I’ll just sit down and words will just come out of the pen and sometimes they work. But typically it’s because I’ve heard this sound in my head of what the lyrics should sound like and the cadence and the rhythm and the melody.
 
 __RA: Something that’s struck me in the metal community is the situation with hydra head shutting down. Because Neurosis can be similar to Isis and you run your own label, I was wondering what your reaction was.__

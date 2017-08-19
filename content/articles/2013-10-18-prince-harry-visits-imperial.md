@@ -1,6 +1,6 @@
 ---
 title: >
-  Prince Harry Visits Imperial 
+  Prince Harry Visits Imperial
 subtitle: >
   Royal visits the Royal British Legion Centre for Blast Injury Studies on the South Kensington Campus
 date: "2013-10-18 20:34:51 +0100"

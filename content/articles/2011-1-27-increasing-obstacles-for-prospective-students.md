@@ -1,6 +1,6 @@
 ---
 title: >
-  Increasing obstacles for prospective students 
+  Increasing obstacles for prospective students
 subtitle: >
   More and more students are competing for university places
 date: "2011-01-27 18:15:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271812-ks607-ucassats.jpg"
 image_caption: >
-  
+
 image_width: "3444"
 image_height: "2288"
 image_attribution: ""
@@ -38,7 +38,7 @@ Recent figures [published by UCAS](http://www.ucas.ac.uk/about_us/media_enquirie
 
 UCAS statistics indicate that even though there is a 0.7% increase for undergraduates, there is a significant percentage drop for postgraduate applicants resulting in an overall decrease of applicants getting their places for universities.
 
-Everyone knows how difficult getting a place at university has become in recent years. Not only are there spending cuts, A\* grade-offers and higher tuition fees, but the number of applicants applying this year compared to last year has risen by 2.5%. So with more applicants and less places, the university admissions process will be setting their standards pretty high.
+Everyone knows how difficult getting a place at university has become in recent years. Not only are there spending cuts, A* grade-offers and higher tuition fees, but the number of applicants applying this year compared to last year has risen by 2.5%. So with more applicants and less places, the university admissions process will be setting their standards pretty high.
 
 The Sutton Trust has conducted an investigation on the differences in background between students who are getting places at universities. They compared and reviewed the number of students coming from Independent schools and students from schools that provided them with ‘Free School Meals’ over the last three years.
 
@@ -50,6 +50,6 @@ To combat this unfair gap between the princes and paupers of university applican
 
 Additionally, the tuition fee rise means that students from poorer backgrounds are reconsidering whether they can afford to attend university, regardless of getting a place or not and possibly despite the changes The Sutton Trust are proposing.
 
-And to top it all off, university admissions will have an even stricter entry process than before as many universities have increased their offers to include the new A\*s (with some courses at Cambridge going as far as 3 A\*s).
+And to top it all off, university admissions will have an even stricter entry process than before as many universities have increased their offers to include the new A*s (with some courses at Cambridge going as far as 3 A*s).
 
 To conclude, even though UCAS statistics don’t show a significant difference between the number of accepted applicants between 2009 and 2010, it is likely that ever larger numbers of prospective students will fail to gain a place at university as failed applicants from previous years compete with new students for the same university spots.

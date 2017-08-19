@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111041133-felix-sam-horti-new.jpg"
 image_caption: >
-  
+
 image_width: "3252"
 image_height: "3064"
 image_attribution: ""

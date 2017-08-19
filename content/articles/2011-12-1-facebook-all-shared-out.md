@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112011933-pk1811-facebook_logo.jpg"
 image_caption: >
-  
+
 image_width: "2100"
 image_height: "790"
 image_attribution: ""

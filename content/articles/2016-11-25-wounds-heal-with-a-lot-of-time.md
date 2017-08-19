@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611251335-felix-hand-525988_1280.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "853"
 image_attribution: ""
@@ -40,5 +40,5 @@ Researchers at the Rockefeller University have started to unlock this aspect of 
 
 Healing wounds is one of the body’s most complicated process, with a host of different molecular pathways. Signalling between cells occurs from the first few seconds of injury to months after healing has occurred.
 
-A crucial part of healing is the formation of a scab, a feature that is in no means there to be picked. Its function is to protect the open wound until a more robust skin layer is formed. These new skin cells are known as ‘keratinocytes’, and fill in the wound under the scab until all is healed. In the older mice, the keratinocytes were much slower to migrate in place. The result? Wounds in aged mice often took many more days to close compared to the young‘uns. 
+A crucial part of healing is the formation of a scab, a feature that is in no means there to be picked. Its function is to protect the open wound until a more robust skin layer is formed. These new skin cells are known as ‘keratinocytes’, and fill in the wound under the scab until all is healed. In the older mice, the keratinocytes were much slower to migrate in place. The result? Wounds in aged mice often took many more days to close compared to the young‘uns.
 The work being done could potentially be used to enhance healing in the elderly if we find out the specific signals required. As Elaine Fuchs, head of the Robin Chemers Neustein Laboratory of Mammalian Cell Biology, says, “our work suggests it may be possible to develop drugs to help aging skin cells communicate better with their immune cell neighbours, boosting signals that normally decline with age”.

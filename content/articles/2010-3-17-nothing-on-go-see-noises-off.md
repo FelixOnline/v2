@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201003171601-lh106-NoisesOf.jpg"
 image_caption: >
-  
+
 image_width: "604"
 image_height: "403"
 image_attribution: ""

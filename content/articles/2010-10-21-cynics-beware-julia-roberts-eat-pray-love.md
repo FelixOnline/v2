@@ -1,6 +1,6 @@
 ---
 title: >
-  Cynics beware Julia Roberts’ Eat Pray Love 
+  Cynics beware Julia Roberts’ Eat Pray Love
 subtitle: >
   Eat Pray Love boils down to nothing but a shallow travelogue
 date: "2010-10-21 19:21:42 +0100"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310122014-jal08-film_thanks_for_sharing.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,13 +36,13 @@ imported: true
 
 Thanks for Sharing
 
-Director: Stuart Blumberg  
- Writers: Stuart Blumberg, Matt Winston  
- Starring: Mark Ruffalo, Gwyneth Paltrow, Josh Gad, Alecia Moore, Tim Robbins, Joely Richardson  
- Runtime: 112 minutes  
+Director: Stuart Blumberg
+ Writers: Stuart Blumberg, Matt Winston
+ Starring: Mark Ruffalo, Gwyneth Paltrow, Josh Gad, Alecia Moore, Tim Robbins, Joely Richardson
+ Runtime: 112 minutes
  Certification: 15
 
-Everything that Shame was, Thanks for Sharing is not. Whereas we saw Michael Fassbender spiral wildly out of control in Steve McQueen’s harrowing sex-addiction drama, Ruffalo and Paltrow star as the couple to root for in this light and often fluffy romantic comedy dealing with the same subject matter.  
+Everything that Shame was, Thanks for Sharing is not. Whereas we saw Michael Fassbender spiral wildly out of control in Steve McQueen’s harrowing sex-addiction drama, Ruffalo and Paltrow star as the couple to root for in this light and often fluffy romantic comedy dealing with the same subject matter.
  Adam (the effortlessly good Ruffalo) has been “sober” for five years now: and in sex addiction terms, this means no pornography, no prostitutes, and no one-night-stands. His sponsor Mike (Robbins) encourages him to start dating again, given how much change he’s shown over the years in their 12-step recovery programme, which is when he meets Phoebe (Paltrow), a fitness freak, at a bug-eating party (no joke).
 
 Their relationship develops, and eventually the dreaded time comes for Adam to come clean about his secret to the unsuspecting Phoebe who describes herself as a sexual person and wants to give him a cringe-worthy lap-dance showing off her impeccable figure. Will they survive this and will Adam be able to keep his sobriety going and not resort back to his old habits when there are so many distracting triggers around him in everyday life?

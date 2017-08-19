@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702071512-felix-8381100558_c20e29bf98_o.jpg"
 image_caption: >
-  
+
 image_width: "3894"
 image_height: "2597"
 image_attribution: "poppet with a camera"
@@ -40,9 +40,9 @@ In his apology which was reportedly sent to King’s Intersectional Feminist Soc
 
 “Research on individual differences variables, such as personality, inevitably entails addressing sensitive topics and scientists should be at liberty to address challenging scientific questions.  I now realise that such discussions of data need to be conducted with extra care and context.”
 
-In the original tweets, Perkins shared a statistic of “danish data suggesting that welfare benefits taste sweeter to some cultures than others” and he defended Trump’s Muslim Ban saying it “makes sense in human capital terms: people from the banned nations tend to be over\-represented in crime and unemployement \[sic\] stats”.
+In the original tweets, Perkins shared a statistic of “danish data suggesting that welfare benefits taste sweeter to some cultures than others” and he defended Trump’s Muslim Ban saying it “makes sense in human capital terms: people from the banned nations tend to be over-represented in crime and unemployement [sic] stats”.
 
-His social media use came under fire not only because of it’s anti\-immigration and particularly anti\-Somali rhetoric but also due to his pseudoscientific arguments. Felix found the  research ‘cited’ to be either unrelated to the argument presented or unreliable, having undergone a dubious at best ‘peer\-review’ process.
+His social media use came under fire not only because of it’s anti-immigration and particularly anti-Somali rhetoric but also due to his pseudoscientific arguments. Felix found the  research ‘cited’ to be either unrelated to the argument presented or unreliable, having undergone a dubious at best ‘peer-review’ process.
 
 The tweets eventually resulted in a condemning statement from King’s Intersectional Feminist Society and a subsequent petition from King’s Somali Society demanding a “formal apology”.
 
@@ -51,7 +51,7 @@ The tweets eventually resulted in a condemning statement from King’s Intersect
 The apology was tweeted from Perkins’ personal twitter account following criticism from felix in which it was pointed out that “it is unclear where Perkins' apology can be found; certainly not on twitter.”
 
 Numerous twitter users have since come out in support of Perkins with responses such as
-TODO: image from 
+TODO: image from
 and
-TODO: image from 
+TODO: image from
 The original tweets have not been deleted.

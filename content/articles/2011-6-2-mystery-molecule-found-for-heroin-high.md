@@ -2,7 +2,7 @@
 title: >
   Mystery molecule found for heroin high
 subtitle: >
-  New research could help prevent addiction 
+  New research could help prevent addiction
 date: "2011-06-02 18:36:57 +0100"
 id: "1299"
 old_path: /science/1299/mystery-molecule-found-for-heroin-high
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106021936-felix-pete-doherty-cmyk.jpg"
 image_caption: >
-  Can’t stand me now? Just wait till I get out of prison 
+  Can’t stand me now? Just wait till I get out of prison
 image_width: "1200"
 image_height: "820"
 image_attribution: ""

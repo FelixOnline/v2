@@ -1,8 +1,8 @@
 ---
 title: >
-  A dream of liquid light 
+  A dream of liquid light
 subtitle: >
-  A dream of liquid light 
+  A dream of liquid light
 date: "2012-06-14 21:00:28 +0100"
 id: "2574"
 old_path: /phoenix/2574/a-dream-of-liquid-light-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 By Cristina Ferraz Rigo
 
-_“To them, I said, the truth would be literally nothing but the shadows of the images.”_  
+_“To them, I said, the truth would be literally nothing but the shadows of the images.”_
  Socrates dialogue with Glauco, Plato, The Republic
 
 The allegory of the cavern is one of the most inspiring readings to get acquainted with design semiotics. In this beautiful metaphor, Socrates discusses with his disciple Glauco the fundamentals of the perception of reality and introduces to him the concepts of archetypes. In the dialogue, Socrates describes human’s knowledge of the world as the perception of shadows that a group of humans would see projected onto a wall. Those humans, locked inside a cavern, have the shadows as their only information about the inside world, and as shadows pass by, they began to ascribe forms to them. Those forms represent the knowledge of the material world, and are abstract representations of meanings.
@@ -65,6 +65,6 @@ The poetic and practical potential of having illumination without the need for a
 
 Of course, there are currently technological impediments to the use of chemoluminescence as a professional light source. Like any other chemical reaction, it ends when the reactants are used up. In its current state, the chemical compounds are not totally safe for common use. Moreover the emanating light is often dull and unnatural. The question here though is whether all the technical limitations are there because chemoluminescence has only been developed to suit non-common uses. If the potential value of this technology strikes the R&D departments of companies, development efforts will be aimed at advancing this light source, and researching into creating compounds that answer those three limitations from a users point of view. Attention needs to be drawn not to improving existent archetypes, but to radically changing them.
 
-_You see things as they are and ask, “Why?”  
- I dream things as they never were and ask, “Why not?”_  
+_You see things as they are and ask, “Why?”
+ I dream things as they never were and ask, “Why not?”_
  George Bernard Shaw

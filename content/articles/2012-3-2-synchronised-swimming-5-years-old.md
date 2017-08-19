@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-TODO: image from 
+TODO: image from
 [Credit: IC Synchronised Swimming](http://)
 
 Everything started five years ago with a Felix article to recruit members. The founding member Danai Balfoussia now admits “Come to think of it, I could have made it sound a bit more exciting!” Exciting or not the Imperial College first synchro team (and currently the only one in the UK) started training in Ethos with only five members. The club trained there for two years and were later later exiled to St. Marys for the rest of their life. Sigh…

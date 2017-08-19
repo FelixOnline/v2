@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Great for Imperial not that they need the moneyIts a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities  they tend to already be in favourable financial situations and already have the infrastructure in place to produce top class research outputs or knowledge exchange as HEFCE so affectionately describes itShould HEFCE not do more for the neglected universities They are plagued with cuts restructuring and redundancies so may lack the facilities but otherwise have the ability to stimulate economic growth through research 
+ - Great for Imperial not that they need the moneyIts a shame that organisations like HEFCE are disproportionately supportive of the leading Russell Group universities  they tend to already be in favourable financial situations and already have the infrastructure in place to produce top class research outputs or knowledge exchange as HEFCE so affectionately describes itShould HEFCE not do more for the neglected universities They are plagued with cuts restructuring and redundancies so may lack the facilities but otherwise have the ability to stimulate economic growth through research
 imported: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: >
-  Positive signs for graduates 
+  Positive signs for graduates
 subtitle: >
-  Report suggests that the graduate market is overcoming the impact of the recession” 
+  Report suggests that the graduate market is overcoming the impact of the recession”
 date: "2011-01-27 18:26:38 +0000"
 id: "653"
 old_path: /news/653/positive-signs-for-graduates-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

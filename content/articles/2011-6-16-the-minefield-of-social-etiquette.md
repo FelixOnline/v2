@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-How many times have you ever wanted to tell someone who is apologising to you, to \*\*\*\* off? Not because they slept with your best friend, but just because of the grovelling, sickening nature of it. I amaze myself about how fervently I want to sometimes. But equally, how often has an apology barely scratched the surface of the wrong it is attempting to right?
+How many times have you ever wanted to tell someone who is apologising to you, to **** off? Not because they slept with your best friend, but just because of the grovelling, sickening nature of it. I amaze myself about how fervently I want to sometimes. But equally, how often has an apology barely scratched the surface of the wrong it is attempting to right?
 
 These two examples are relatively easy, but what about the middle ones, when someone probably should apologise and does? There are various approaches one could take. Some people thank them. I am not so sure about this, but it would show an acknowledgement of the apologiser’s effort. However if you think they should apologise, why thank them? I suppose the opposite reaction would just be to say nothing and walk away, but this is hardly positive re-enforcement. What if they need to do it again? The chances are that they simply will not bother. Telling them “It’s fine/It doesn’t matter” is one I have done in the past, but I feel a pang because often, it does matter. Though I am pleased they have said so, I do not necessarily want to wear that pain on my arm. I want to move on. I suppose there is the big hug and “I’m-so-pleased-you-called” combination, but anything more clearly from a cheap American drama, I cannot imagine.
 

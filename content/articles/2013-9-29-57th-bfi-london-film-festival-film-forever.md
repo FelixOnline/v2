@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201309291639-jal08-lff-2013-small-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,13 +31,13 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - I have all the Mario Parties except the DS one now when I look back at them Ive rehcaed the opinion that with everyone that comes its worse and worse thats not to say that the first 3 where bad on the contrary if I may rate them from someone who played them and spent a lot of time in them I tried the DS version on an emulator too Id rate them so 1st Mario Party 2nd Mario Party 2 3rd Mario Party 5 4th Mario Party 3 5 MP6 6MP7 7 MP4 8 MP DS 9 MP 8 10 MP Advance i luv da Mario paty series this game looks fun ive only plaeyd Mario party ds but ive seen most of the Mario party game therye mostly all funexcept for 6 7 8 and Mario party ds because the only reason that those versions arent that fun is because you cant be dk 
+ - I have all the Mario Parties except the DS one now when I look back at them Ive rehcaed the opinion that with everyone that comes its worse and worse thats not to say that the first 3 where bad on the contrary if I may rate them from someone who played them and spent a lot of time in them I tried the DS version on an emulator too Id rate them so 1st Mario Party 2nd Mario Party 2 3rd Mario Party 5 4th Mario Party 3 5 MP6 6MP7 7 MP4 8 MP DS 9 MP 8 10 MP Advance i luv da Mario paty series this game looks fun ive only plaeyd Mario party ds but ive seen most of the Mario party game therye mostly all funexcept for 6 7 8 and Mario party ds because the only reason that those versions arent that fun is because you cant be dk
 imported: true
 ---
 
-Dear freshers, welcome to London. And to those returning, welcome back. And what a way to kick off the misery that is October with British Film Institute’s (BFI) stunning 57th London Film Festival. With films that are sure to be contenders when it comes to the big awards, the London Film Festival has that rare appeal of having a huge public presence. It’s easy to score some tickets (although the big gala screenings might be fully sold out by now), so keep an eye out for those screenings that will be shown all across central London cinemas.  
- This year, London will be graced with the presence of the legendary Tom Hanks who is both opening and closing the festival with his new films. Other key talents expected to attend include Emma Thompson, Judi Dench, Sandra Bullock, Joel & Ethan Coen, Carey Mulligan, Ralph Fiennes, Joseph Gordon-Levitt, amongst many, many more. So roll out the red carpets and watch this space as Felix Film attends various press screenings to bring you the most up-to-date reviews of films from the Festival.  
- The Festival is also known for helpfully classifying each participating film into different themes: this year consisting of Love, Debate, Dare, Laugh, Thrill, Cult, Journey, Sonic and Family. So plenty for everyone to choose from!  
+Dear freshers, welcome to London. And to those returning, welcome back. And what a way to kick off the misery that is October with British Film Institute’s (BFI) stunning 57th London Film Festival. With films that are sure to be contenders when it comes to the big awards, the London Film Festival has that rare appeal of having a huge public presence. It’s easy to score some tickets (although the big gala screenings might be fully sold out by now), so keep an eye out for those screenings that will be shown all across central London cinemas.
+ This year, London will be graced with the presence of the legendary Tom Hanks who is both opening and closing the festival with his new films. Other key talents expected to attend include Emma Thompson, Judi Dench, Sandra Bullock, Joel & Ethan Coen, Carey Mulligan, Ralph Fiennes, Joseph Gordon-Levitt, amongst many, many more. So roll out the red carpets and watch this space as Felix Film attends various press screenings to bring you the most up-to-date reviews of films from the Festival.
+ The Festival is also known for helpfully classifying each participating film into different themes: this year consisting of Love, Debate, Dare, Laugh, Thrill, Cult, Journey, Sonic and Family. So plenty for everyone to choose from!
  For more information regarding tickets and venues, visit the festival website _bfi.org.uk/lff_ or call 020 7928 3232. Good luck, have fun, and make sure you send us your thoughts on whatever film you manage to watch - _film.felix@imperial.ac.uk_
 
 ###  Opening Night Gala: Captain Phillips

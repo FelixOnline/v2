@@ -1,6 +1,6 @@
 ---
 title: >
-  Slime moulds its own little landscape 
+  Slime moulds its own little landscape
 subtitle: >
   A new study shows that some amoeba exhibit a primitive form of agriculture
 date: "2011-01-27 18:57:52 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271855-ks607-slimestu.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "596"
 image_attribution: ""

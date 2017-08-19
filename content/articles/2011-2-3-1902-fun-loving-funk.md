@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031912-nm1010-19002222.jpg"
 image_caption: >
-  
+
 image_width: "1372"
 image_height: "1372"
 image_attribution: "Luke Tomlin"

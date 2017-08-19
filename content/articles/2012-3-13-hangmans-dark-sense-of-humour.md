@@ -2,7 +2,7 @@
 title: >
   Hangman’s dark sense of humour
 subtitle: >
-  Steven Abnett courts controversy 
+  Steven Abnett courts controversy
 date: "2012-03-13 14:24:25 +0000"
 id: "2341"
 old_path: /comment/2341/hangmans-dark-sense-of-humour
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,6 +46,6 @@ Given the purpose of satire and black humour, I would therefore argue that no to
 
 Indeed, the only part of the article that even comes close to promoting the use of rohypnol is its description as “the perfect mixer … for some girl who is probably just using you for free drinks”, and this is such a warped and absurd description that I struggle to see how anyone with half a brain could believe that it is meant to encourage such behaviour, particularly given the content of the rest of the article. Quite rightly, the article portrays the attacker as a “waste of oxygen” and the victim as just that – a victim, while highlighting and laughing at the absurdity of any justification that a rapist might try to use.
 
-If anything, the Hangman article has succeeded in its satirical purpose by making people think about the issue and reminding us that yes, unfortunately there are people in existence who think that rape is trivial or acceptable, and that these people are among the worst in society. However, I don’t think that the writer(s) of the article is/are among them. Overall, the two articles are both against sexism and objectification, one expressing this via argument and one via satirical black humour, so the different reception they received is largely unjustified.  
-   
+If anything, the Hangman article has succeeded in its satirical purpose by making people think about the issue and reminding us that yes, unfortunately there are people in existence who think that rape is trivial or acceptable, and that these people are among the worst in society. However, I don’t think that the writer(s) of the article is/are among them. Overall, the two articles are both against sexism and objectification, one expressing this via argument and one via satirical black humour, so the different reception they received is largely unjustified.
+
 _Disclaimer: Just to make it clear that there are no vested interests at work here, I have no involvement with the Hangman section, and this is the first piece I’ve ever written for Felix. Therefore, please send all your Hangman hate-mail to the usual address._

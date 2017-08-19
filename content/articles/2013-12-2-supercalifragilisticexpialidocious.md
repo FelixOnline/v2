@@ -2,7 +2,7 @@
 title: >
   Supercalifragilisticexpialidocious
 subtitle: >
-  If the single word that makes up this article’s title is the one thing you took away from watching Mary Poppins then you may be surprised to know that the jolly word would have most likely induced a deep frown of disapproval from the author of the book itself, P. L. Travers (Emma Thompson). 
+  If the single word that makes up this article’s title is the one thing you took away from watching Mary Poppins then you may be surprised to know that the jolly word would have most likely induced a deep frown of disapproval from the author of the book itself, P. L. Travers (Emma Thompson).
 date: "2013-12-02 22:18:56 +0000"
 id: "4171"
 old_path: /film/4171/supercalifragilisticexpialidocious
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,10 +36,10 @@ imported: true
 
 Saving Mr Banks
 
-Director: John Lee Hancock  
- Writers: Kelly Marcel, Sue Smith  
- Starring: Tom Hanks, Emma Thompson, Ruth Wilson, Colin Farrell, Paul Giamatti, Bradley Whitford, Jason Schwartzman, Rachel Griffiths  
- Runtime: 125 minutes  
+Director: John Lee Hancock
+ Writers: Kelly Marcel, Sue Smith
+ Starring: Tom Hanks, Emma Thompson, Ruth Wilson, Colin Farrell, Paul Giamatti, Bradley Whitford, Jason Schwartzman, Rachel Griffiths
+ Runtime: 125 minutes
  Certification: PG
 
 If the single word that makes up this article’s title is the one thing you took away from watching Mary Poppins then you may be surprised to know that the jolly word would have most likely induced a deep frown of disapproval from the author of the book itself, P. L. Travers (Emma Thompson). Mrs Travers to be exact. And nothing else. She is very clear as to how she would like to be addressed, much like how Walt Disney himself (Tom Hanks) would have to have others call him Walt instead of Mr Disney, and so it would seem that they have both met their deserving match in this film. And it turns out that this match is packed with wonderful little details.

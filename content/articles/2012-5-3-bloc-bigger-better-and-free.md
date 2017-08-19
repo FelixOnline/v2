@@ -1,6 +1,6 @@
 ---
 title: >
-  Bloc: Bigger, Better and Free? 
+  Bloc: Bigger, Better and Free?
 subtitle: >
   Felix Music looks forward to the Bloc. weekender and offers up a pair of tickets
 date: "2012-05-03 18:05:39 +0100"
@@ -60,7 +60,7 @@ It’s now over a year since Nicolas Jaar released _Space is Only Noise_ – the
 __Stubnitz__
 
 This world-renowned arts institution (pictured bottom left) has been touring Europe since it was converted from a freeze & transport vessel in 1993, but this is its first ever London appearance. Presenting the whole spectrum from theatre to art to music, its presence at Bloc. is truly something to look forward to. If for nothing else, take a peek online at the inside of the ship – I’m not sure I can think of any cooler environment for some of the world’s most cutting edge electronic artists. Previous performers have included the phenomenal __Chris Forsyth__, who we reviewed in autumn term, and Bristol legends __Bronnt Industries Kapital__. This relatively small (despite its massive outside size) stage could really bring something new and special to the Bloc. environment. It’s not every day you get to hit a boat party (well, outside of Croatia). _- R_
-TODO: image from 
+TODO: image from
 __Arpanet__
 
 In what is possibly this millennium’s most impressive booking, Bloc. have managed to secure the performance of one of Detroit’s most reclusive and secretive acts. __Arpanet__ is believed to be lead by, or possibly solely, Gerald Donald, also of the pioneering __Drexciya and Dopplereffekt__.
@@ -71,6 +71,6 @@ __Snoop Dogg__
 
 Undoubtedly you’ve heard of __Snoop Doggy Dogg__, so it’s kind of hard to pin this one as much of a well-kept secret of the festival. Despite this, he’s well worth a mention; his 1992 album _Doggystyle_ introduced the up-and-coming G-Funk to the mainstream audience, and since then his distinctive voice, as well as his style of lyricism and flow, have been well recognised as a cornerstone of west-coast hip-hop. With all the hard partying that will surround it, this may come as a relieving opportunity to sit back and chillax for an hour or two. _- R_
 
-For a chance of winning the two tickets, answer the following simple question: ___“Which Imperial alumnus is playing Bloc?”___ Answers should be submitted to [music.felix@gmail.com](mailto:music.felix@gmail.com) – the deadline is Wednesday 16th at 4pm, and the winner will be announced in our section in the following edition of Felix. The winner will be picked at random from all those who have the correct answer.  
- Have no fear if you miss out on our competition; Bloc. are also offering an unbeatable student deal this year. For every 5 tickets you buy, the 6th is free. A valid NUS card must be produced on entry. More details can be found here: <http://www.blocweekend.com/union>, with the code __UNIBLOC497__.  
+For a chance of winning the two tickets, answer the following simple question: ___“Which Imperial alumnus is playing Bloc?”___ Answers should be submitted to [music.felix@gmail.com](mailto:music.felix@gmail.com) – the deadline is Wednesday 16th at 4pm, and the winner will be announced in our section in the following edition of Felix. The winner will be picked at random from all those who have the correct answer.
+ Have no fear if you miss out on our competition; Bloc. are also offering an unbeatable student deal this year. For every 5 tickets you buy, the 6th is free. A valid NUS card must be produced on entry. More details can be found here: <http://www.blocweekend.com/union>, with the code __UNIBLOC497__.
  We shall be in attendance and hopefully providing live updates of what we are seeing so we really hope to see you there!

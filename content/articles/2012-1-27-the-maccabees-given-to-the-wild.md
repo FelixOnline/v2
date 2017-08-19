@@ -1,6 +1,6 @@
 ---
 title: >
-  The Maccabees: Given to the Wild 
+  The Maccabees: Given to the Wild
 subtitle: >
   There's a lot to like about the band's third album
 date: "2012-01-27 12:18:08 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201271217-felix-the-maccabees-gvien-to-the-wild.jpg"
 image_caption: >
-  
+
 image_width: "423"
 image_height: "422"
 image_attribution: ""

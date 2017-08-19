@@ -82,7 +82,7 @@ I feel I’ve achieved a lot, but everything could be fine is surely my best wor
 
 __What does the future hold for you? Are there any new releases we can look forward to?__
 
-Yes, I’m working on a 7” which will be released on Lefse Records and still working on some other new songs for my new album. There are some other exciting projects planned in the near future, but I’m unable to talk about them yet, and there are also some remixes remaining to be achieved!  
+Yes, I’m working on a 7” which will be released on Lefse Records and still working on some other new songs for my new album. There are some other exciting projects planned in the near future, but I’m unable to talk about them yet, and there are also some remixes remaining to be achieved!
  My other wish is having some merch as well like t-shirts, posters, bags etc… but that will be the next step. I want to find someone to collaborate with for this, so if there are some interested people, get in touch with me!
 
 __Ok, now for the serious stuff.__

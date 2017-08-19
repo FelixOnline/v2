@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104241212-felix-royal-couple.jpg"
 image_caption: >
-  
+
 image_width: "470"
 image_height: "375"
 image_attribution: ""

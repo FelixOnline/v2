@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106091934-felix-zoltan-vargas.jpg"
 image_caption: >
-  
+
 image_width: "2835"
 image_height: "2846"
 image_attribution: "Zoltan Vargas"
@@ -75,7 +75,7 @@ They argued in the friendly bantering tones of a couple who’ve lived together 
 “I’ll be off. Don’t forget to work up an appetite. Them as eats most pudding gets most meat.”
 
 While he said this, the old man shrugged on his jacket, and crammed the bait into the inside rabbit pocket. Then he picked up the fishing rod with one hand, a car key from a cracked cow-creamer with the other, and walked out of the door.
-TODO: image from 
+TODO: image from
 The day was even warmer than it had seemed from inside the house, and the old man immediately knew that he was going to be too hot with the jacket on. The thought suddenly came into his head of undressing in the yard while cleaning the catch. One of the benefits of having a house out in the country: no nosey neighbours for miles around to look over into your yard. He’d take his clothes off and pose for her like he sometimes did before they went to bed. Wouldn’t she be surprised! And the catch too of course. He chuckled at the thought. His jacket was a medium green tweed, with matching waistcoat, brown flannel trousers, blue bow tie, and grey flat cap completing the rest of his ensemble. When he was young he’d worked down at one of the steel mills like most of the men his age, and none of them would have countenanced walking around outside without a hat and jacket. Now, though many years had passed, he saw no reason to change, certainly not because everybody else had. The old man worked as a security guard at the shopping mall in the city now, and it horrified him to see the things grown men walked around wearing: crumpled cotton T-shirts that looked like the sort of things they’d sleep in. No respect, that’s what it was. Children grew up not being taught any respect, and when they got to be adults they’d no respect then either. He’d been working as a guard for fifteen years now. He was a few years past retirement age, but he was a good worker who knew every inch of the shopping mall inside out, he could spot a shoplifter just from the way they walked through the stores, and he was a valuable source of experience to the younger security guards. The management knew this, and were happy to keep him on as long as he wanted to stay. For his part he enjoyed walking around all day. It kept him fit and healthy, even though him and his wife ate a lot these days. The fat settled on her, but he stayed lean and wiry. He’d gained a lot of muscle from shifting metal around the steel mill for over twenty years in his youth, and even now he was stronger than many men half his age. The bow tie and waistcoat he wore on weekends, to make a change from the navy suit and tie he wore at the mall all week. He didn’t have much of chin, so his neck seemed to stretch up to his mouth. Combined with a loose dewlap and pronounced Adam’s apple, this left him bearing a slight resemblance to a turkey.
 
 He walked round to the side of the house, where his white Honda was parked up, and a minute later he was driving carefully along the macadam track, before pulling onto the tarmac of the main road and speeding away across the dales.

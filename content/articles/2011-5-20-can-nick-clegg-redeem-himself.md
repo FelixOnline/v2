@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -59,11 +59,11 @@ So, I am here to argue about why Nick Clegg is a turbo douchebag. Typical studen
 
 Delving a little deeper we find more examples of general butt-wipery. One prime example is the shamefully poor attempts to justify abandoning policies that he previously said that he believed in. For example, he said that he changed his mind about the cuts. Not after the election, but actually before the election. When asked if he had changed his mind during the coalition talks he said “I changed my mind earlier than that.” This instead of telling the truth, which would have been less impressive, and would have consisted of “I had absolutely zero say, but now have to pretend I agree with the cuts.” I mean to be fair to him, it is not as though he had any TV debates or other opportunities to inform the public, or indeed his own party, on a crucial U-turn on policy.
 
-Please do not think I fail to understand that the pro-Clegg argument is in a nut shell: He is doing what he has to do to try and do the best for this country, this is the best way he can actually have some power and influence etc (cue: power ballad with picture of him shirtless, hair blowing in the wind). The trouble is he is intelligent enough to know that this is not true, as he is not really doing anything at the moment. He got a referendum on AV, which was never really what the Liberal Democrats wanted, they have been talking about PR for years. Apart from that, it is hard to see any of the major Lib Dem policies being acted upon. He is essentially starring in a play as Tony Blair opposite Cameron’s George Bush (1\* - terrible acting, impeccable stage management and makeup though).
+Please do not think I fail to understand that the pro-Clegg argument is in a nut shell: He is doing what he has to do to try and do the best for this country, this is the best way he can actually have some power and influence etc (cue: power ballad with picture of him shirtless, hair blowing in the wind). The trouble is he is intelligent enough to know that this is not true, as he is not really doing anything at the moment. He got a referendum on AV, which was never really what the Liberal Democrats wanted, they have been talking about PR for years. Apart from that, it is hard to see any of the major Lib Dem policies being acted upon. He is essentially starring in a play as Tony Blair opposite Cameron’s George Bush (1* - terrible acting, impeccable stage management and makeup though).
 
 Yeah, the Liberal Democrats are “in power”, but that means nothing if all you get is a few people with some meaningless titles. Being “in power” for the sake of it is pointless, unless you use it to do some good. For example: If I were Dmitry Medvedev, which I will be the first to admit that I am not, I would be the President of Russia. However, Putin would be the one making all the choices. What would I have except for a title in front of my name?
 
-He had other options to get real influence. He could have told Cameron to form a minority government and that, while he would not have destabilised the government by constantly voting everything down, they would have to moderate their policies to get him on side. This would give him an incredible amount of power and say in policy discussions. It would not have given him a cool title though, or the ability to go and do things like addressing the UN, and networking with people who now know who the \*\*\*\* you are. He had a choice between power and a title. He chose the latter over the former, and is continuing to choose it.
+He had other options to get real influence. He could have told Cameron to form a minority government and that, while he would not have destabilised the government by constantly voting everything down, they would have to moderate their policies to get him on side. This would give him an incredible amount of power and say in policy discussions. It would not have given him a cool title though, or the ability to go and do things like addressing the UN, and networking with people who now know who the **** you are. He had a choice between power and a title. He chose the latter over the former, and is continuing to choose it.
 
 He currently has the option to just say no, and that way he will be actually voting something down in parliament. However, this could destabilise the very position that he needs to use to get his policies through.
 

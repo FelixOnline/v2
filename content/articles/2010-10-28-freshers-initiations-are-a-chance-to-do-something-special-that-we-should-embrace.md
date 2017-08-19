@@ -1,6 +1,6 @@
 ---
 title: >
-  Freshers’ initiations are a chance to do something special that we should embrace 
+  Freshers’ initiations are a chance to do something special that we should embrace
 subtitle: >
   Initiations aren't all bad
 date: "2010-10-28 19:51:35 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

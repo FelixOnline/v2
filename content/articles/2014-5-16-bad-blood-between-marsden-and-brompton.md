@@ -1,6 +1,6 @@
 ---
 title: >
-  Bad blood Between Marsden and Brompton 
+  Bad blood Between Marsden and Brompton
 subtitle: >
   Tensions develop between famous Chelsea hospitals
 date: "2014-05-16 01:40:55 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405160240-jal08-screen-shot-2014-05-16-at-02.40.03.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Felix / Joe Letts"

@@ -2,7 +2,7 @@
 title: >
   The rent guarantor trap
 subtitle: >
-  College ignores the fact that many students struggle to afford rented accommodation 
+  College ignores the fact that many students struggle to afford rented accommodation
 date: "2016-03-04 11:33:02 +0000"
 id: "6001"
 old_path: /comment/6001/the-rent-guarantor-trap
@@ -45,4 +45,4 @@ Without a UK guarantor, and already paying huge fees, many international student
 
 But that is not the case – other universities such as SOAS and UCL have successfully implemented schemes where the university acts as a rent guarantor for any student in need. The system works by the university acting as a UK guarantor for the student, taking the uncertainty and risk away from the landlord. Therefore students can pay rent one month at a time, the way it should be. This is clearly a system that works and relives so much stress for so many students. Why then has it not been implemented here at Imperial?
 
-This is not a new issue, this is an ongoing problem. Many students have expressed concern over the inaction of College and their negligence. In an increasingly erratic world, where college life is getting more stressful and tougher, it is the College’s responsibility to ensure life for students is as easy and stress\-free as possible without the already stressful year of exams and coursework. Finding accommodation should be simple and financially possible, not a wild gamble and a stab in the dark.
+This is not a new issue, this is an ongoing problem. Many students have expressed concern over the inaction of College and their negligence. In an increasingly erratic world, where college life is getting more stressful and tougher, it is the College’s responsibility to ensure life for students is as easy and stress-free as possible without the already stressful year of exams and coursework. Finding accommodation should be simple and financially possible, not a wild gamble and a stab in the dark.

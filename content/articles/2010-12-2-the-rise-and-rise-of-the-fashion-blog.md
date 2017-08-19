@@ -1,8 +1,8 @@
 ---
 title: >
-  The rise and rise of the Fashion Blog 
+  The rise and rise of the Fashion Blog
 subtitle: >
-  A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging 
+  A select group of fashion obsessives are bringing fashion to the masses: Fashion Editor Saskia Verhagen explores the burgeoning online world of fashion blogging
 date: "2010-12-02 20:10:32 +0000"
 id: "460"
 old_path: /fashion/460/the-rise-and-rise-of-the-fashion-blog-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022008-ks607-thesarto.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "750"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - qudvyttcgsoinnchgdqd wnjygkzzbb  urlhttpwwwdfgrbwcvricomypzwjsijieurl httpwwwgffaiytvencom wnjygkzzbbozwtyqapkiwkhfonebcp zesbtazlgg With the bases loaded you sutcrk us out with that answerTBFH8f  oanwjlosxqkx cialis hjtqu billig generisk cialis   propecia  vardenafil levitra online xrhrrv prednisone tablets vmv 
+ - qudvyttcgsoinnchgdqd wnjygkzzbb  urlhttpwwwdfgrbwcvricomypzwjsijieurl httpwwwgffaiytvencom wnjygkzzbbozwtyqapkiwkhfonebcp zesbtazlgg With the bases loaded you sutcrk us out with that answerTBFH8f  oanwjlosxqkx cialis hjtqu billig generisk cialis   propecia  vardenafil levitra online xrhrrv prednisone tablets vmv
 imported: true
 ---
 

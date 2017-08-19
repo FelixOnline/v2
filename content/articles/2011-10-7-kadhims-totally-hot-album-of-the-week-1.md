@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110071423-ks607-tumblr_lniuaig37f1qbd529o1_r1_500.jpeg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "500"
 image_attribution: ""
@@ -34,8 +34,8 @@ comments:
 imported: true
 ---
 
-__Clams Casino__  
-_Instrumental Mixtape_  
+__Clams Casino__
+_Instrumental Mixtape_
  2011
 
 Instrumental hip-hop is officially ‘it’. You can’t go more than a few hours in the day without some producer deciding that hip-hop would be infinitely better without an [ex-parole officer pretending to be gangster](http://bossip.com/91874/rick-ross-finally-admits-to-being-one-timeat-one-time/) over his beloved beats. Remove the distracting, tired clichés about having a big dick and you’re left with atmosphere, nuance, and the kind of music that will leave you rolling your shoulders hypnotically for hours on end.

@@ -2,7 +2,7 @@
 title: >
   By the Rivers of Babylon 5
 subtitle: >
-  Political corruption, giant cosmic evils and libraries 
+  Political corruption, giant cosmic evils and libraries
 date: "2011-02-17 20:39:21 +0000"
 id: "847"
 old_path: /science/847/by-the-rivers-of-babylon-5
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

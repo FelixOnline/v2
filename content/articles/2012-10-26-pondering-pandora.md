@@ -1,6 +1,6 @@
 ---
 title: >
-  Pondering Pandora 
+  Pondering Pandora
 subtitle: >
   Michael Barclay wants to talk about his love for wub wub
 date: "2012-10-26 02:42:25 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260342-tna08-bl2_tundra_express.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

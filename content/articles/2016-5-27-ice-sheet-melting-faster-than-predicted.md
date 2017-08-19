@@ -44,4 +44,4 @@ The retreat would become unstoppable, causing a sea level rise of around 2.9m fr
 
 The scale of the EAIS and Totten makes this discovery particularly concerning. Totten itself is around 220,000 square miles in area, bigger than the US State of California. In some parts the ice is 2.5 miles thick, so the potential loss of ice is massive. However, Totten is dwarfed by the size of the ice sheet it supports: the EAIS makes up two thirds of the entire Antarctic ice sheet.
 
-Co\-author of the study, Professor Martin Siegert, emphasises the need for concern. “The East Antarctic Ice Sheet is by far the largest mass of ice on Earth, so any small changes have a big influence globally".
+Co-author of the study, Professor Martin Siegert, emphasises the need for concern. “The East Antarctic Ice Sheet is by far the largest mass of ice on Earth, so any small changes have a big influence globally".

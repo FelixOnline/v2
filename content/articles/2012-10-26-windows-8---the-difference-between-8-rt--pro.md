@@ -1,6 +1,6 @@
 ---
 title: >
-  Windows 8 - the difference between 8, RT & Pro 
+  Windows 8 - the difference between 8, RT & Pro
 subtitle: >
   Max Eggl gives you the low-down on Windows 8, RT & Pro in a title that only works on one day...
 date: "2012-10-26 02:24:14 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260324-tna08-microsoftsurfacetabletrgb].jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,5 +44,5 @@ What will they be able to do? Let’s start off with RT. It is the “cheapest�
 
 So why would Microsoft release such a limiting OS? It’s all about hardware and the corresponding price. RT is based on ARM (Chips built by the British company ARM Holdings), and these processors are not as powerful as their Intel cousins. ARM processors cannot run x86, upon which most programs are built. However ARM chips are cheaper, and thus Microsoft was able to introduce a cheaper OS. The other two varieties run on Intel chips, and thus there is no change from the norm.
 
-Now, which one is for you? Personally, I would say that RT is for those in the market for a new device, who don’t really care that much about productivity or usability, and who want to have the bonus of having Office pre-installed. Since you will not be able to buy RT on its own, keep in mind that you have to keep the price of your tablet/phone in mind, which might not be that cheap. The normal Windows 8 / Pro is for all those who are happy with their current computer and want to simply upgrade to the latest instalment (about £50 - £80).  
+Now, which one is for you? Personally, I would say that RT is for those in the market for a new device, who don’t really care that much about productivity or usability, and who want to have the bonus of having Office pre-installed. Since you will not be able to buy RT on its own, keep in mind that you have to keep the price of your tablet/phone in mind, which might not be that cheap. The normal Windows 8 / Pro is for all those who are happy with their current computer and want to simply upgrade to the latest instalment (about £50 - £80).
  Most of you who will upgrade will probably want to keep most of their old programs, so this seems to be the logical choice!

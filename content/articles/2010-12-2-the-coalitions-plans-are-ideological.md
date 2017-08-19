@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022108-nm1010-felixpho.jpg"
 image_caption: >
-  
+
 image_width: "478"
 image_height: "720"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Posts like this brihtgen up my day Thanks for taking the timeYRFQGM  tujnbibqrujm valtrex  topamax and excessive weight loss   cialis 8  DD  propecia PP cheap synthroid noxgi topamax azor 
+ - Posts like this brihtgen up my day Thanks for taking the timeYRFQGM  tujnbibqrujm valtrex  topamax and excessive weight loss   cialis 8  DD  propecia PP cheap synthroid noxgi topamax azor
 imported: true
 ---
 

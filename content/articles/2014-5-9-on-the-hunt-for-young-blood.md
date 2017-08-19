@@ -2,7 +2,7 @@
 title: >
   On the hunt for young blood
 subtitle: >
-  Matilda Hays discusses the anti-aging properties of transfusions for mice 
+  Matilda Hays discusses the anti-aging properties of transfusions for mice
 date: "2014-05-09 02:09:17 +0100"
 id: "4574"
 old_path: /science/4574/on-the-hunt-for-young-blood

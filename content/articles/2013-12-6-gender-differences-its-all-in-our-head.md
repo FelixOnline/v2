@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ In behavioural experiments also run by Pennsylvania University, females outperfo
 
 Such results could be seen as indicative that the connectivity patterns Verma has identified relate to these differences in behaviour, although little was mentioned in the paper about neurological plasticity as a result of external environmental influences. Could it be that a gender-biased lifestyle is shaping such connectivity instead?
 
-When looking at age, the contrast between male and female connectivity increased as the subjects got older. Subjects of both genders below the age of 13 were found to have very similar connectivity profiles, whilst differences were most prominent in those that were 17 or older. This may indicate that puberty could play a part in shaping the dimorphism of adult human brains, almost as much as it influences physical gender-orientated development too, although more research is needed.  
+When looking at age, the contrast between male and female connectivity increased as the subjects got older. Subjects of both genders below the age of 13 were found to have very similar connectivity profiles, whilst differences were most prominent in those that were 17 or older. This may indicate that puberty could play a part in shaping the dimorphism of adult human brains, almost as much as it influences physical gender-orientated development too, although more research is needed.
  Tracking the connectivity patterns was done using diffusion tensor imaging, an MRI technique that maps the movement of water particles moving throughout the brain. Being able to see where water moves can allow tracing of the underlying fibres of the brain that are directing the water movement.
 
 Such fibres are composed of large bundles of hundreds of axons of neurons, and show which regions of the brain connect to and influence others.

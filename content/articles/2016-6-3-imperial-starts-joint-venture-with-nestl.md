@@ -2,7 +2,7 @@
 title: >
   Imperial starts joint venture with Nestlé
 subtitle: >
-  The company more famous for boycotts has £6.5 million deal with college 
+  The company more famous for boycotts has £6.5 million deal with college
 date: "2016-06-03 08:32:23 +0100"
 id: "6223"
 old_path: /news/6223/imperial-starts-joint-venture-with-nestl
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606031030-felix-wpid-article-1268907555465-08c3d1bb000005dc-370448_466x310.jpg"
 image_caption: >
-  
+
 image_width: "466"
 image_height: "310"
 image_attribution: "Metro"
@@ -36,11 +36,11 @@ imported: true
 
 Imperial has signed a deal with the food and drink giant Nestlé to launch research into nutrition together.
 
-The research will focus specifically on the gut’s bacterial make\-up, the microbiome, and digestive metabolites’ influence on both physical and mental health.
+The research will focus specifically on the gut’s bacterial make-up, the microbiome, and digestive metabolites’ influence on both physical and mental health.
 
-Nestlé will invest £6.5 million in the clinical and pre\-clinical studies over a five year period.
+Nestlé will invest £6.5 million in the clinical and pre-clinical studies over a five year period.
 
-Imperial has been collaborating on research with the Swiss firm for the last decade, but this semi\-formal Memorandum of Understanding commits the food and beverage multinational to provide funding for joint studies.
+Imperial has been collaborating on research with the Swiss firm for the last decade, but this semi-formal Memorandum of Understanding commits the food and beverage multinational to provide funding for joint studies.
 
 Nestlé’s Chief Technology Officer called Imperial “a great fit for Nestlé”, whilst Imperial President Alice Gast said the college will work with the world’s largest food company to “address pressing societal challenges like diabetes and obesity”.
 

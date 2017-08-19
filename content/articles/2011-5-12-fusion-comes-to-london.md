@@ -2,7 +2,7 @@
 title: >
   Fusion comes to London
 subtitle: >
-  Students from all over London come together to bring Fusion, York University’s hugely successful music, fashion, and dance show, to the capital 
+  Students from all over London come together to bring Fusion, York University’s hugely successful music, fashion, and dance show, to the capital
 date: "2011-05-12 18:23:06 +0100"
 id: "1194"
 old_path: /arts/1194/fusion-comes-to-london
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105121922-felix-fusion-6.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "370"
 image_attribution: "Matt Grum"

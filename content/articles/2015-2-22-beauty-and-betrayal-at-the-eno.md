@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502221731-ps3110-11315.jpeg"
 image_caption: >
-  Elizabeth Zharoff as Vittoria, in ENO’s production of Verdi’s La Traviata 
+  Elizabeth Zharoff as Vittoria, in ENO’s production of Verdi’s La Traviata
 image_width: "0"
 image_height: "0"
 image_attribution: "Donald Cooper"

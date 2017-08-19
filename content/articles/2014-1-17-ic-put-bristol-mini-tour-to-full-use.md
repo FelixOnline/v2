@@ -2,7 +2,7 @@
 title: >
   IC put Bristol mini-tour to full use
 subtitle: >
-  Man of the mini-tour Matt Cann gives his account 
+  Man of the mini-tour Matt Cann gives his account
 date: "2014-01-17 04:39:07 +0000"
 id: "4261"
 old_path: /sport/4261/ic-put-bristol-mini-tour-to-full-use
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201401170438-jal08-football.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

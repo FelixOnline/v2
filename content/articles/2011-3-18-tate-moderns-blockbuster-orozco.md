@@ -1,6 +1,6 @@
 ---
 title: >
-  Tate Modern’s blockbuster Orozco 
+  Tate Modern’s blockbuster Orozco
 subtitle: >
   Rocío Molina Atienza asks whether this high-class freak show is more than the art of drawing crowds
 date: "2011-03-18 08:39:40 +0000"

@@ -1,6 +1,6 @@
 ---
 title: >
-  Kill ‘em All at Fabric with the legendary Erol Alkan 
+  Kill ‘em All at Fabric with the legendary Erol Alkan
 subtitle: >
   With the biggest names playing every week, it’s no wonder people choose to return to Fabric again and again
 date: "2011-01-27 20:40:58 +0000"

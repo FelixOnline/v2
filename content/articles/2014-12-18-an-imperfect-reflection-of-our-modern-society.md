@@ -2,7 +2,7 @@
 title: >
   An Imperfect Reflection Of Our Modern Society
 subtitle: >
-  Fred Fyles takes a glance at the new MIRRORCITY exhibition 
+  Fred Fyles takes a glance at the new MIRRORCITY exhibition
 date: "2014-12-18 15:41:59 +0000"
 id: "5058"
 old_path: /arts/5058/an-imperfect-reflection-of-our-modern-society
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501212237-ps3110-rsz_mirrorcity_-_john_steazker_double_shadow_v_cropped.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

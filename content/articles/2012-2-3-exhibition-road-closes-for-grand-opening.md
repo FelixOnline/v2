@@ -1,6 +1,6 @@
 ---
 title: >
-  Exhibition Road closes for grand opening 
+  Exhibition Road closes for grand opening
 subtitle: >
   Boris Johnson takes to the streets to inaugurate new layout
 date: "2012-02-03 00:28:44 +0000"

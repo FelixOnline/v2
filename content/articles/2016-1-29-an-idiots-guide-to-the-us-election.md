@@ -45,15 +45,15 @@ Republican frontrunners include Ted Cruz,  Marco Rubio, Ben Carson, Jeb Bush and
 
 But what is a caucus I hear you scream, and is it the same thing as a primary? Well scream no more.
 
-Caucuses and primaries are indeed different things but they largely serve the same purpose, to decide the makeup of delegates who vote for each party’s presidential election candidate at the National Convention in July. Each state, as well as a selection of other territories \(notably American Samoa, District of Colombia, Guam and Puerto Rico\) each get either a primary or a caucus from which the makeup of delegates is decided.
+Caucuses and primaries are indeed different things but they largely serve the same purpose, to decide the makeup of delegates who vote for each party’s presidential election candidate at the National Convention in July. Each state, as well as a selection of other territories (notably American Samoa, District of Colombia, Guam and Puerto Rico) each get either a primary or a caucus from which the makeup of delegates is decided.
 
 **Who gets delegates?**
 
 How many delegates a certain region gets is dependant on a crazy  and confusing system of rules and regulations, which change depending on the party. Several rules that the Republican party uses include choosing delegates based on the number of representatives that the state has in the House and Senate, and whether the state voted for the Republican candidate at the last election.
 
-The Democrats, however, take into consideration the previous election voting in comparison to the wider nation, as well as the electoral college votes that each state has \(a crude way of incorporating population\). Bonus delegates are also assigned for a multitude of reasons, ranging from when you hold the primary/caucus to if your neighbouring states also hold theirs on the same date in a process known as “clustering”.
+The Democrats, however, take into consideration the previous election voting in comparison to the wider nation, as well as the electoral college votes that each state has (a crude way of incorporating population). Bonus delegates are also assigned for a multitude of reasons, ranging from when you hold the primary/caucus to if your neighbouring states also hold theirs on the same date in a process known as “clustering”.
 
-\(Fun fact: Hawaii and Alaska are classed as neighbours of  Washington and Oregon for this.\)
+(Fun fact: Hawaii and Alaska are classed as neighbours of  Washington and Oregon for this.)
 
 Essentially all the relevant, and seemingly irrelevant, data is fed into the system, the alignment of the planets is checked and if the groundhog sees his shadow then you’ve somehow got yourself some delegates.
 
@@ -71,9 +71,9 @@ But what about the remainder of delegates? That’s where the primaries and cauc
 
 Primaries are similar to any other election and a secret ballot is held in which delegates are selected based on these results. The complications arise when a primary is either open or closed as this affects who can vote. Usually in a closed primary only voters who are registered with that party can vote, but some states do allow independent voters to cast their vote too.
 
-In contrast, an open primary means that a registered voter may vote in either party’s primary but only in one \(i.e. a Republican voter may vote for the Democratic nomination but not the Republican nomination too\). Open primaries have been criticised for allowing a certain extent of vote rigging to occur, as one side may vote to get a weaker opposition candidate in order to stand a better chance in the final, presidential election.
+In contrast, an open primary means that a registered voter may vote in either party’s primary but only in one (i.e. a Republican voter may vote for the Democratic nomination but not the Republican nomination too). Open primaries have been criticised for allowing a certain extent of vote rigging to occur, as one side may vote to get a weaker opposition candidate in order to stand a better chance in the final, presidential election.
 
-Primaries of one form or another take place in all regions bar ten \(Alaska, Colorado, Hawaii, Kansas, Maine, Minnesota, Nevada, North Dakota, Wyoming and Iowa\) and the remainder have the mystical caucuses.
+Primaries of one form or another take place in all regions bar ten (Alaska, Colorado, Hawaii, Kansas, Maine, Minnesota, Nevada, North Dakota, Wyoming and Iowa) and the remainder have the mystical caucuses.
 
 **Caucuses**
 
@@ -85,11 +85,11 @@ The way in which these are conducted again vary by both state and party but the 
 
 It’s a case of different votes for different folks and all that really. Each have pros and cons as although the caucuses usually allow decisions to be made on wider issues aside from the election, they take longer, meaning only the more politically engaged voters in the state turn up.
 
-In the end all the votes from the  state get tallied up, and the delegates are given out either in a proportional or in a winner\-takes\-all  fashion, depending on the party, state and what time of year it is \(genuinely\).
+In the end all the votes from the  state get tallied up, and the delegates are given out either in a proportional or in a winner-takes-all  fashion, depending on the party, state and what time of year it is (genuinely).
 
 **Well what’s so special about Iowa then?**
 
-The Iowa Caucus is the top dog when it comes to caucuses and this largely boils down to the fact that it is first. It gained it’s frontrunner position in 1972 due to hotel rooms \(don’t ask\) and tradition/state law means it has now become the first event of the nomination calendar.
+The Iowa Caucus is the top dog when it comes to caucuses and this largely boils down to the fact that it is first. It gained it’s frontrunner position in 1972 due to hotel rooms (don’t ask) and tradition/state law means it has now become the first event of the nomination calendar.
 
 This means that it has great influence on the trajectory of the whole campaign as it is gives a first indication to see who voters are favouring. This can change campaign strategies wildly in some cases, and can even cause participants who fair terribly to drop out all together.
 
@@ -99,4 +99,4 @@ The whole Iowa circus tends to propagate its own existence too, as where the med
 
 **Come on then, will Trump actually be our overlord?**
 
-Maybe, possibly, who knows. All that is certain is that he stands a decent chance of becoming the nomination for the Republican party at least. This is largely in part to the plethora of different rules that could fall in Donald’s favour \(such as the cross party voting by Democrats to bolster their chances\). A big indication will come this Monday as to his, and indeed the candidates from both party’s chances, but there’s over 280 days and a lot of voting before it’s all over.
+Maybe, possibly, who knows. All that is certain is that he stands a decent chance of becoming the nomination for the Republican party at least. This is largely in part to the plethora of different rules that could fall in Donald’s favour (such as the cross party voting by Democrats to bolster their chances). A big indication will come this Monday as to his, and indeed the candidates from both party’s chances, but there’s over 280 days and a lot of voting before it’s all over.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110281046-felix-terry-pratchett-snufflarge.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1541"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Peter per your comment above I did listen to Hersh Sawhneys mention of Chandler and how he was disappointed that Chandler did not change his attitudes towards race and ethnicity in his later fiction Well without really wanting to play the role of a Chandler apologist I dont think this is quite true Many of the slangy epithets are greatly reduced even gone by the later books One of the problems of Chandlers status as a literary crime fiction writer is that he is held to a higher moral standard than other writers in the genre I think this paragraph from a discussion about raciness questions as to whether it was a strategy to get published in book form encouraged by editors for artistic reasons part of an artistic movement that advocated frankness and naturalism in an entry at gadetectionpbworkscom sums up the problemOne problem with the Great Artist treatment Chandler often gets today is that these questions do not get asked Chandler is considered 
+ - Peter per your comment above I did listen to Hersh Sawhneys mention of Chandler and how he was disappointed that Chandler did not change his attitudes towards race and ethnicity in his later fiction Well without really wanting to play the role of a Chandler apologist I dont think this is quite true Many of the slangy epithets are greatly reduced even gone by the later books One of the problems of Chandlers status as a literary crime fiction writer is that he is held to a higher moral standard than other writers in the genre I think this paragraph from a discussion about raciness questions as to whether it was a strategy to get published in book form encouraged by editors for artistic reasons part of an artistic movement that advocated frankness and naturalism in an entry at gadetectionpbworkscom sums up the problemOne problem with the Great Artist treatment Chandler often gets today is that these questions do not get asked Chandler is considered
 imported: true
 ---
 

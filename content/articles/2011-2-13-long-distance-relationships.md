@@ -2,7 +2,7 @@
 title: >
   Long distance relationships
 subtitle: >
-  So, is it worth it? Should you keep in touch with that girl you’re going to meet this summer? 
+  So, is it worth it? Should you keep in touch with that girl you’re going to meet this summer?
 date: "2011-02-13 13:10:21 +0000"
 id: "804"
 old_path: /comment/804/long-distance-relationships
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271938-ks607-indylecl.jpg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "397"
 image_attribution: ""

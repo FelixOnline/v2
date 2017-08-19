@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302131438-tna08-nanoflower.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,5 +45,5 @@ Not to mention potentially the most contentious issue of the book; aliens. The �
 I must admit, I’m still a little on the fence, but Hamilton’s writing remains engaging and enthralling and he certainly goes a long way to winning my opinion back round to the inclusion of this new theme. I still don’t necessarily understand the decision, perhaps I will get the chance to find out tomorrow in his talk, but I have a sneaking suspicion, or at least an inkling, that it might be to do with the following. Hamilton has openly said that part of what he enjoys about writing is creating worlds and the backdrops upon which the plots play out. As such I think it may have been a decision to – almost aside from Greg, Julia and Event Horizon – show mankind’s slow ascendancy into a much larger universe. That’s a very optimistic view from where the world is in Mindstar Rising; in less than a couple of decades humanity moves from a narrowly averted apocalypse to begin their forays into the starts.
 
 Despite several things that, with hindsight, look a little less than realistic, the Greg Mandel series is still compelling and an excellent read and, as it hits its twentieth birthday, it’s still doing extremely well. The covers you may have seen opposite these articles are the 2011 incarnation of the series, where Greg got a bit of a facelift and, in an homage to the trilogies of 70s sci-fi, put together, they form one extended image of Hamilton’s world progressing from ruins through to a skyscraper clad metropolis reaching to the sky. A fitting visual for a world that grew up as I once did while reading it.
-TODO: image from 
+TODO: image from
 _Peter F. Hamilton will be at Imperial College on Saturday. February 16 as one of the Guests of Honour at Picocon 30. For more information, and to register your attendance, visit icsf.org.uk/picocon_

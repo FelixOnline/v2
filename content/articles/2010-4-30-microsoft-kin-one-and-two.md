@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201004301240-srg03-Microsof.jpg"
 image_caption: >
-  
+
 image_width: "650"
 image_height: "366"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222318-tna08-take+the+flour+back+protest.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -42,10 +42,10 @@ Considering the Greens have recently been forced into a policy turf war with the
 
 Ms Lucas’ step up to the Commons represents a monumental step for an environmental party in the UK, and was as every bit as “historic” as she claimed at the time. She has been a very active member, voting in an above-par three quarters of available votes during her time in the commons. Additionally she has made an impressive 70 speeches during already this year and proposed 71 motions.
 
-However, for all this, it is fair to say the Greens have not stamped their authority on British politics. They have made strides, recently even, but they have failed to make much of an impact  
+However, for all this, it is fair to say the Greens have not stamped their authority on British politics. They have made strides, recently even, but they have failed to make much of an impact
  A good case study for the UK Greens on how to be environmental and still successful is Die Grünen of Germany who have been a force since the early 80s in West Germany.
 
-Firstly, Die Grünen’s rise to prominence was driven by an iconic and popular figurehead. Joschka Fischer resonated with the people through a forthright and honest approach to politics cutting through the PR speak prevalent in modern politics (politely describing the Vice President an a\*\*hole to his face and outright calling the Americans liars when presented with “evidence” of WMDs in Iraq). Taking his inauguration in trainers is still aninfamous and amusing moment that most Germans will recall. Caroline Lucas may have risen to the status of household name in the last three years, but she has not had the reformed rebel charisma of Fischer. Without such an icon a la Fischer/Blair/Thatcher (hell, even a Johnson or a Farage would do) then the Greens are unlikely to be listened to in today’s politics.
+Firstly, Die Grünen’s rise to prominence was driven by an iconic and popular figurehead. Joschka Fischer resonated with the people through a forthright and honest approach to politics cutting through the PR speak prevalent in modern politics (politely describing the Vice President an a**hole to his face and outright calling the Americans liars when presented with “evidence” of WMDs in Iraq). Taking his inauguration in trainers is still aninfamous and amusing moment that most Germans will recall. Caroline Lucas may have risen to the status of household name in the last three years, but she has not had the reformed rebel charisma of Fischer. Without such an icon a la Fischer/Blair/Thatcher (hell, even a Johnson or a Farage would do) then the Greens are unlikely to be listened to in today’s politics.
 
 Secondly and arguably more importantly, Die Grünen’s base is split broadly into two camps, the ideological environmentalist (the fundis) and the model politicians who are willing to play the game of the Bundestag to pass legislation (the realos). They attribute their success to this inherent schism within the party. The fundis as a party unto themselves would never have the political nous to have an impact on legislation, whilst a party consisting of purely realos would inevitably meander away from their principles. Together they form a party with both a concept driven supporter-base and the means to enact change.
 

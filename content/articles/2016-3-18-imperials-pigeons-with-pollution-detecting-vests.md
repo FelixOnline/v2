@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Pigeons fitted with ultralight air\-monitoring vests have been flying across London this week in an attempt to highlight the capital’s pollution problem.
+Pigeons fitted with ultralight air-monitoring vests have been flying across London this week in an attempt to highlight the capital’s pollution problem.
 
 The ten pigeons, which were flying around London until Wednesday, were monitoring levels of nitrogen dioxide and ozone. People can tweet their location at the company, and get an update on the air pollution levels in their area, as found by the group’s pigeons. Researchers back at Imperial will be analysing the data.
 

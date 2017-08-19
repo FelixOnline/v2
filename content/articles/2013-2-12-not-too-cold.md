@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302121829-tna08-warm-bodies.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-You may think you know all about the zombie genre. They’re dead, they walk about aimlessly, bumping into things, and as soon as they smell living flesh, they will not stop until they get their share of raw human meat/organs in their mouths. But have you ever seen a zombie fall head over heels in love?  
+You may think you know all about the zombie genre. They’re dead, they walk about aimlessly, bumping into things, and as soon as they smell living flesh, they will not stop until they get their share of raw human meat/organs in their mouths. But have you ever seen a zombie fall head over heels in love?
  That’s right, here we have R (Hoult) a zombie who falls in love with Julie (Palmer), one of the very few humans on Earth after it is overtaken by the walking dead. Ha, R+J... Get it? These two star-crossed lovers have a lot of obstacles to overcome if they want to make their romance work. There is even the obligatory balcony scene.
 
 It’s certainly an interesting spin on a genre that isn’t known for creativity. With some excellent voiceover work from Hoult, who also mastersthe American accent, it does raise intriguing questions. Here is a film that provides a humane look at zombies without immediately painting them as cold-blooded killers. They all have their own individual thoughts, they show potential to change, all in ways that seem to make some sense, relying on the audience’s tolerance level towards the “love conquers all” type of message.

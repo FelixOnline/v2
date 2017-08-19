@@ -1,8 +1,8 @@
 ---
 title: >
-  Students occupy uni buildings 
+  Students occupy uni buildings
 subtitle: >
-  Manchester and Sussex students stage sit-ins to protest cuts to higher education 
+  Manchester and Sussex students stage sit-ins to protest cuts to higher education
 date: "2010-11-18 21:52:56 +0000"
 id: "413"
 old_path: /news/413/students-occupy-uni-buildings-

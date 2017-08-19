@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411062135-snb11-tis-pity-004-copy.jpg"
 image_caption: >
-  Fiona Button as Annabella and Max Bennett as Giovanni in Michael Longhurst's production. 
+  Fiona Button as Annabella and Max Bennett as Giovanni in Michael Longhurst's production.
 image_width: "0"
 image_height: "0"
 image_attribution: "Simon Kane"

@@ -1,6 +1,6 @@
 ---
 title: >
-  Superfast genome sequencing on a chip 
+  Superfast genome sequencing on a chip
 subtitle: >
   Affordable genome sequencing comes one step closer
 date: "2011-01-27 18:50:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271848-ks607-dnadnadn.jpg"
 image_caption: >
-  
+
 image_width: "657"
 image_height: "1395"
 image_attribution: ""

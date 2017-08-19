@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251854-mb506-ICJudo.jpg"
 image_caption: >
-  
+
 image_width: "574"
 image_height: "428"
 image_attribution: ""
@@ -31,13 +31,13 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- -                                                      Warning imagepng functionimagepng Unable to open  cache30579b62508e87311d0ab6991ae817ecpng for wrtinig Permission denied in homepublic_htmlwpcontentthemesLondonLivethumbphp on line 343          Fatal error Allowed memory size of 33554432 bytes exhausted tried to allocate 363032 bytes in homepublic_htmlwpadminnavmenusphp on line 16       
+ -                                                      Warning imagepng functionimagepng Unable to open  cache30579b62508e87311d0ab6991ae817ecpng for wrtinig Permission denied in homepublic_htmlwpcontentthemesLondonLivethumbphp on line 343          Fatal error Allowed memory size of 33554432 bytes exhausted tried to allocate 363032 bytes in homepublic_htmlwpadminnavmenusphp on line 16
 imported: true
 ---
 
 Last weekend, three London teams entered the 18th edition of Sheffield USIST, the biggest international student judo tournament held in the UK.
 
-This team event involves 4 guys and 2 girls fighting in weight order. This year, 4 students from Imperial made it into the London A team:  
+This team event involves 4 guys and 2 girls fighting in weight order. This year, 4 students from Imperial made it into the London A team:
  Bronwyn Dawson (-57kg), Edouard Desclaux (-73kg), Rahul Bose (-81kg) and Ben Browne (-90kg). Sarah Taylor from UCL (+57kg) and Constantine Lerounis from King’s College (+90kg) completed the line-up.
 
 The two other London teams, London B and C were also mostly drawn from Imperial freshers who had just started judo last term. Given their lack of experience and the fact that they were up against players who had competed for most of their lives, our rookies did extremely well.
@@ -48,7 +48,7 @@ London C also faced tough opposition in their first pool fight against Newcastle
 
 Captained by Joe Skerman-Gray, Pasha Normahani nicely caught out his opponent with a hip throw. Lucien Copus managed to take his opponent down into ne-waza (groundwork) and won his fight with a hold down.
 
-Finishing the game with three wins each, London C were unlucky not to make it to the next round, only losing the fight on points.  
+Finishing the game with three wins each, London C were unlucky not to make it to the next round, only losing the fight on points.
  London A fared better in the pool stage. The team won their pool, defeating Manchester B and Warwick B to progress to the round of the last 16 where they faced Southampton whom they beat.
 
 In the quarter-final London A were faced by the toughest challenge of the tournament: Munster A. The German team has won the trophy so many times that in fact, Sheffield JC had to get a new one for this tournament.
@@ -63,5 +63,5 @@ In a show of extreme commitment, he was able to escape from this position and to
 
 While Ben, had managed to escape before the 25 seconds were over, his opponent could not which led us to victory. After the referee had given the signal and the fight was over, the sports hall was in turmoil. London A had made it and brought the trophy home for the first time since 2006.
 
-On Saturday night, a suitable level of partying followed…  
+On Saturday night, a suitable level of partying followed…
  We would like to thank our great coach Joe Doherty at ULU who has again lead us to victory. We are extremely proud of our beginners at Imperial and expecting great victories in BUCS in the future. We would also like to thank our current coaches at the Imperial College dojo, Wilhelm Kleiminger, Edouard Desclaux and Marc Beirne for their great support.

@@ -2,7 +2,7 @@
 title: >
   BlackBerry’s Outage and its Aftermath
 subtitle: >
-  The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets 
+  The Imperial Entrepreneurs report on the service failure that failed BlackBerry users, and its impact on both companies and the markets
 date: "2011-10-27 22:40:23 +0100"
 id: "1617"
 old_path: /biz/1617/blackberrys-outage-and-its-aftermath

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012102-ams111-marilyn.jpg"
 image_caption: >
-  
+
 image_width: "2500"
 image_height: "3336"
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 __My Week with Marilyn__
 
-__Director__ Simon Curtis  
-__Screenwriters__ Adrian Hodges, Colin Clark (novel)  
+__Director__ Simon Curtis
+__Screenwriters__ Adrian Hodges, Colin Clark (novel)
 __Cast__ Michelle Williams, Eddie Redmayne, Kenneth Branagh, Judi Dench, Dominic Cooper, Emma Watson
 
 Marilyn Monroe is without a doubt one of the most celebrated, well-known figures of the 20th Century. [_My Week with Marilyn_](http://www.youtube.com/watch?v=zJygETCXpR8), as its title may suggest, only explores a brief section of the icon’s life, but since she has accomplished so much, even the smallest slice in her showbiz-surrounded life is full of fun, romance and charm which is exactly what the film offers.

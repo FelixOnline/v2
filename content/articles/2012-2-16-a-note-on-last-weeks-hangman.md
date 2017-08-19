@@ -1,6 +1,6 @@
 ---
 title: >
-  A note on last week’s Hangman 
+  A note on last week’s Hangman
 subtitle: >
   Moving onwards from our last issue
 date: "2012-02-16 22:06:03 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

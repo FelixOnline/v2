@@ -1,6 +1,6 @@
 ---
 title: >
-  “Major changes” to security staff after Metric launch violence 
+  “Major changes” to security staff after Metric launch violence
 subtitle: >
   Trouble at Metric launch forces security re-think at Union
 date: "2010-11-26 07:22:56 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

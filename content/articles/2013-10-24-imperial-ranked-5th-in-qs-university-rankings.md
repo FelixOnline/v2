@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,5 +42,5 @@ Therefore, from the top five rankings in the world, three of the universities ar
 
 It was also found that students that graduate from Oxford and Cambridge are considered the most employable in the world.
 
-Ben Sowter, QS head of research, states that “the brand-name value of Oxbridge has so far survived any negative publicity following the tuition fee hikes and student protests”.  
+Ben Sowter, QS head of research, states that “the brand-name value of Oxbridge has so far survived any negative publicity following the tuition fee hikes and student protests”.
  With the recent Careers Fairs we’ve been having and the ever present marquees hopefully this will give some of you a boost in your step as your approach graduate recruiters, they defintiely want you! - Ed.

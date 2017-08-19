@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072156-sjw209-fromthedesk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -58,7 +58,7 @@ And so, I cordially invite you all, to visit my stall at the forthcoming Industr
 
 I look forward to your questions over the forthcoming weeks.
 
-With warmest regards,  
+With warmest regards,
 __Andrew Ryan__
 
 _Thanks Mr Ryan! If you have any questions for Mr Ryan, please do not hesitate to email [felix.games@imperial.ac.uk](mailto:felix.games@imperial.ac.uk?subject=Ask%20Andrew) with the title “Ask Andrew”, and we’ll pass them along to his people._

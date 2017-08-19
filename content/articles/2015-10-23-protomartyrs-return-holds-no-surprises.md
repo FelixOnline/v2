@@ -1,6 +1,6 @@
 ---
 title: >
-  Protomartyr’s return holds no surprises 
+  Protomartyr’s return holds no surprises
 subtitle: >
   We review The Agent Intellect
 date: "2015-10-23 11:49:29 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201510231248-ygr12-witheredoak.jpg"
 image_caption: >
-  A withered oak tree – the only thing that truly understands you. 
+  A withered oak tree – the only thing that truly understands you.
 image_width: "0"
 image_height: "0"
 image_attribution: "Old Oak School of Dao"

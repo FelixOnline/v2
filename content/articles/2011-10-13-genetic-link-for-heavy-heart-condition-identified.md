@@ -2,7 +2,7 @@
 title: >
   Genetic link for ‘heavy heart’ condition identified
 subtitle: >
-  Douglas Heaven reports on hereditary faulty genes 
+  Douglas Heaven reports on hereditary faulty genes
 date: "2011-10-13 21:48:57 +0100"
 id: "1510"
 old_path: /arts/1510/genetic-link-for-heavy-heart-condition-identified
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

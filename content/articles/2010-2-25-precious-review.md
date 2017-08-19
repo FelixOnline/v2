@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251542-egk08-Precious.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "684"
 image_attribution: ""

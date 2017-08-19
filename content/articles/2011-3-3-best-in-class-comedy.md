@@ -1,8 +1,8 @@
 ---
 title: >
-  Best in Class: Comedy 
+  Best in Class: Comedy
 subtitle: >
-  Lucia Podhorksa tells us about Friends, geeks and talk-show psychiatrists 
+  Lucia Podhorksa tells us about Friends, geeks and talk-show psychiatrists
 date: "2011-03-03 06:13:29 +0000"
 id: "985"
 old_path: /tv/985/best-in-class-comedy-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103030610-ks607-bigbangt.jpg"
 image_caption: >
-  
+
 image_width: "2500"
 image_height: "1667"
 image_attribution: ""

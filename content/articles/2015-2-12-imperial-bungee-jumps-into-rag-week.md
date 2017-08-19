@@ -61,8 +61,8 @@ In fact, staff involvement with RAG seems to have reached an all time high this 
 
 The Firewalk, where participants walked across burning hot coals barefoot, is a new edition to RAG week, but proved popular. The coals, as the supervisor explained, was heated to around 600 degrees Fahrenheit (around 315 Celsius) – this being “twice” the temperature that skin melts at.
 
-All participants were awarded a certificate for their efforts, and got to cross the coals twice following a brief information session. The Dean of the Faculty of Natural Sciences, Tom Welton, said, “I was amazed, it was more painful standing on the cold stone than walking across the hot coals.”  
-  
+All participants were awarded a certificate for their efforts, and got to cross the coals twice following a brief information session. The Dean of the Faculty of Natural Sciences, Tom Welton, said, “I was amazed, it was more painful standing on the cold stone than walking across the hot coals.”
+
  He continued, “I’d do it again – I’m glad I did it first and not last – standing in the queue and watching people do it would have.” When asked if he had any comments on RAG this year, he concluded, “RAG is fab, it’s great that it raises a lot of money, but the really important thing about it is people take the opportunity to think about other people”.
 
 Tunnel tours under the campus and trips up the Queen’s Tower also were organised and ran by RAG. Students could explore the disused tunnels that snake underneath campus and stretch to South Kensington and beyond, or, if they prefer heights but didn’t fancy the bungee jump, could head to the top of Queen’s Tower instead.

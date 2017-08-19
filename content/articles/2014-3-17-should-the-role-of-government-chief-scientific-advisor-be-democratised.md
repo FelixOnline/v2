@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403181922-jal08-votegcsa.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,5 +38,5 @@ What would happen if the next UK Government Chief Scientific Adviser (GCSA) was 
 
 Within the next two weeks we will hold a fake election for the role of GCSA to explore the relationship between science and politics. The candidates, a scientist, a politician and a social scientist, all have a unique set of skills that they insist makes them the best person for job. While holding an election for a specialised and skilled role may seem odd to some people, it’s not new to British parliamentary democracy. In fact, there are numerous skilled roles we vote on, the biggest being the police and crime commissioners.
 
-For many, science and politics are non-overlapping entities. But who’s at fault here? Should we push for scientists to get more political or should our MPs be more scientifically-literate? When it comes to science policy making, whose expertise matters? And how can citizens get involved? By discussing these questions, the project hopes to identify and tackle the barriers people come across when discussing issues of science in government.   
+For many, science and politics are non-overlapping entities. But who’s at fault here? Should we push for scientists to get more political or should our MPs be more scientifically-literate? When it comes to science policy making, whose expertise matters? And how can citizens get involved? By discussing these questions, the project hopes to identify and tackle the barriers people come across when discussing issues of science in government.
 You might be bored of elections now as the student union ones have come to end, but we’d love to hear your views on the matter... So, what are you waiting for? Get involved! You can keep up with the campaign of all three candidates on our website (www.votegcsa.com), the Twitter account (@voteGCSA) and through the hashtag (#voteGCSA), then vote for your preferred candidate from 17-21 March.

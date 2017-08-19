@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111102220-felix-rugby.jpg"
 image_caption: >
-  
+
 image_width: "2172"
 image_height: "2076"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022023-ac1507-Looky.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "600"
 image_attribution: ""

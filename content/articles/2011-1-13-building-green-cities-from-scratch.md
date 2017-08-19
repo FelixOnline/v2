@@ -1,8 +1,8 @@
 ---
 title: >
-  Building green cities from scratch 
+  Building green cities from scratch
 subtitle: >
-  We should move to new cities that are designed to be green 
+  We should move to new cities that are designed to be green
 date: "2011-01-13 20:10:48 +0000"
 id: "576"
 old_path: /science/576/building-green-cities-from-scratch-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132009-ks607-masdar.jpg"
 image_caption: >
-  
+
 image_width: "1100"
 image_height: "733"
 image_attribution: ""

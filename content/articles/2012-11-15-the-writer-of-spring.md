@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -56,7 +56,7 @@ __RD: Have you had any helpin writing this? Who has inspired and influenced you?
 
 RN: Yes I’ve had help from two main sources. For a while I was going to be co-directing with another final year medic, Matt Rinaldi. However due to other commitments (such as an exhibition currently on in the Blythe Gallery) he had to drop out.
 
-Previous to that we had had numerous scripting and ideas sessions, editing and re-editing the various drafts. It was a difficult process as there was always a difference between us. We had different visions and, as the original author, I sometimes struggled to incorporate both whilst staying true to the meaning and purpose of the play. Matt’s ideas have been invaluable however, and I am particularly pleased with the way he transformed the final scene into such a climactic event.  
+Previous to that we had had numerous scripting and ideas sessions, editing and re-editing the various drafts. It was a difficult process as there was always a difference between us. We had different visions and, as the original author, I sometimes struggled to incorporate both whilst staying true to the meaning and purpose of the play. Matt’s ideas have been invaluable however, and I am particularly pleased with the way he transformed the final scene into such a climactic event.
  The other help was from my brother who gave me many ideas and suggestions that were often along the same line as my own. I also had advice and ideas from others. In future I think I would always work as a writer on my own and then have other people read the piece of work and make suggestions and give ideas, leaving it totally up to me to make the decisions. I think having a pair of writers working equally together is very difficult.
 
 __RD: Finally, What do you think is the importance of doing something creative like this? Writing plays. Directing plays.__

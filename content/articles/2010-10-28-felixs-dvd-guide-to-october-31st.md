@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282037-ma1307-OMGDEATH.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "375"
 image_attribution: ""

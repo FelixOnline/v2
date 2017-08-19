@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031853-nm1010-moooooli.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "427"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Situated just off Shaftsbury Avenue in the heart of the West End, a district known for its wide variety of theatres and eateries, Mooli’s is a small, minimalistic and trendy restaurant which stands out from the crowd by serving food that’s a little bit different. Fed up with the cuisine wrongly assumed to be ‘Indian’ in London, \*cough\* Brick Lane, Mooli’s is the brainchild of two former bankers who saw a gap in the market for cheap authentic Indian food on-the-go. For this reason you won’t find a tikka masala or anything of that sort at Mooli’s!
+Situated just off Shaftsbury Avenue in the heart of the West End, a district known for its wide variety of theatres and eateries, Mooli’s is a small, minimalistic and trendy restaurant which stands out from the crowd by serving food that’s a little bit different. Fed up with the cuisine wrongly assumed to be ‘Indian’ in London, *cough* Brick Lane, Mooli’s is the brainchild of two former bankers who saw a gap in the market for cheap authentic Indian food on-the-go. For this reason you won’t find a tikka masala or anything of that sort at Mooli’s!
 
 Instead Mooli’s speciality are the wraps they offer in five flavours, which the owners claim were inspired by travelling the length and breadth of India, from Delhi to Goa in search of the best street food on offer. This is shown in the menu which contains flavours from all over India, replicated at their Frith street address by a chef, or mooli-master as he’s known, whose CV includes stints in various 5-star hotels and even a Michelin-starred restaurant. Each roll is technically a Rumali roti a kind of Indian bread, which translated into English literally means handkerchief bread due to its extreme thinness. Each roll is made from specially mixed flour, made on a wedge press machine exported all the way from Texas which was originally intended for the mass production of tortillas. As someone who used ‘make-your-own’ fajita kits, with their tough, chewy and rough textured wraps, I could immediately taste that this bread was something new and different.
 

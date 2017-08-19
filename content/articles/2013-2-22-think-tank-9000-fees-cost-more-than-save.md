@@ -2,7 +2,7 @@
 title: >
   Think tank: £9000 fees cost more than save
 subtitle: >
-  “Jury has to be out” about cost-effectiveness of funding says CEO 
+  “Jury has to be out” about cost-effectiveness of funding says CEO
 date: "2013-02-22 00:01:34 +0000"
 id: "3352"
 old_path: /news/3352/think-tank-9000-fees-cost-more-than-save
@@ -42,7 +42,7 @@ The Chief Executive of million+, Pam Tatlow, commented: “The shift from the di
 
 It has also been found that the increase in tuition fees will add 0.24% to the consumer prices index of inflation. Last week, Sir Mervyn King, the Bank of England Governor, criticised the Government for having “an own goal” with their policies pertaining to tuition fees. As ministers has previously claimed that fees of over £6,000 will only be charged in “exceptional circumstances”.
 
-The Office for Fair Access has stated that a third of the universities in are charging the maximum for fees at £9,000. Approximately 75% of them charge the maximum for at least one degree.  
+The Office for Fair Access has stated that a third of the universities in are charging the maximum for fees at £9,000. Approximately 75% of them charge the maximum for at least one degree.
  This leads to graduates entering university in the 2012-13 academic year incurring £1.46 bn more is costs in comparison to those who began university in 2010-11. Million+ also said that these figures take into account “up-front costs of higher tuition fees, all forms of student support, as well as the longer-term subsidies and write-offs on loans in the 30 years following graduation.”
 
 The matter of raising tuition fees to £9000 caused a large controversy due to the Lib Dems making a pledge to not raise tuition fees in the run up to the last General Election. It sparked widespread student unrest.

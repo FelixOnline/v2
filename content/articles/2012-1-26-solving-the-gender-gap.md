@@ -58,8 +58,8 @@ In addition, the Department of Physics has also gained Juno Championship Status 
 
 Among the range of female staff that Felix spoke to, none think that discrimination overtly exists within the College today. Whilst the percentage of female professors at Imperial is lower than the national average of 20%, recently reported by the Higher Education Statistics Agency (HESA), Imperial is not faring too badly at all since science, technology, engineering and mathematics (STEM) subjects have long been dominated by males. It certainly seems that with the substantial efforts taking place within the College to support women, along with the rising ambitions of women, Imperial, and other universities, will continue to see a rise in the number of females in senior positions.
 
-To find out more on this subject, visit:  
-<http://www3.imperial.ac.uk/hr/equality/academicwomen>  
-<http://www3.imperial.ac.uk/hr/equality/gender>  
-<http://www.athenaswan.org.uk/html/athena-swan/>  
+To find out more on this subject, visit:
+<http://www3.imperial.ac.uk/hr/equality/academicwomen>
+<http://www3.imperial.ac.uk/hr/equality/gender>
+<http://www.athenaswan.org.uk/html/athena-swan/>
 <http://www.theukrc.org/news/2011/06/asset-survey-report-women-in-set-in-universities-still-invisible-and-disadvantaged>

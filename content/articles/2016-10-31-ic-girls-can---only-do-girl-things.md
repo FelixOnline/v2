@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201610311541-felix-27944964044_567186ba40_o.jpg"
 image_caption: >
-  
+
 image_width: "3000"
 image_height: "2000"
 image_attribution: "Strelka Institute for Media, Architecture and Design Follow"
@@ -37,9 +37,9 @@ imported: true
 
 Continuing on from the successful This Girl Can campaign, Sport England have joined forces with BUCS to promote female sport participation at universities nationwide between 31 October and 6 November. This means the Sports Imperial is launching Imperial Girls Can again this year in an attempt “to encourage and celebrate womens sport”.
 
-The initiative sees twelve events at various locations on and off campus \(but predominantly at Ethos\), places on which can be reserved for free by quoting IC Girls Can.
+The initiative sees twelve events at various locations on and off campus (but predominantly at Ethos), places on which can be reserved for free by quoting IC Girls Can.
 
-Interestingly, half of the events are dance or aerobics classes, two are lectures including a lecture on healthy eating, and one is the ACC Sports night.  Here is the description for Kanggo Jump Class: “Get bouncing in this unique aerobics class. With special, springy low\-impact shoes you’ll be jumping away the calories. Important: bring long socks”. Admittedly, trying to promote women’s sports by making it all about the calories  is questionable at best.
+Interestingly, half of the events are dance or aerobics classes, two are lectures including a lecture on healthy eating, and one is the ACC Sports night.  Here is the description for Kanggo Jump Class: “Get bouncing in this unique aerobics class. With special, springy low-impact shoes you’ll be jumping away the calories. Important: bring long socks”. Admittedly, trying to promote women’s sports by making it all about the calories  is questionable at best.
 
 In fact, only two events offer the opportunity to participate in a team sport.
 

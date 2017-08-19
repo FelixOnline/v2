@@ -1,6 +1,6 @@
 ---
 title: >
-  What We Watched... 
+  What We Watched...
 subtitle: >
   James Simpson gets wicki low with da Tee to the Vee
 date: "2011-02-10 20:12:39 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

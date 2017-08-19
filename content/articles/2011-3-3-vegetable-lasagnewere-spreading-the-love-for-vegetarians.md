@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103031926-nm1010-lagnelas.jpg"
 image_caption: >
-  
+
 image_width: "426"
 image_height: "640"
 image_attribution: "flickr/canolagrowers"

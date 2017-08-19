@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112059-nm1010-bladerun.jpg"
 image_caption: >
-  
+
 image_width: "550"
 image_height: "320"
 image_attribution: ""

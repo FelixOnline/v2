@@ -1,6 +1,6 @@
 ---
 title: >
-  Nick Brown argues Lib Dems have lost support 
+  Nick Brown argues Lib Dems have lost support
 subtitle: >
   Have the Lib Dems betrayed their manifesto?
 date: "2010-10-28 19:09:20 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282007-ks607-lembit.jpg"
 image_caption: >
-  
+
 image_width: "1192"
 image_height: "1461"
 image_attribution: ""

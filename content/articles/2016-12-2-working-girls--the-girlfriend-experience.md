@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612021507-felix-15-girlfriend-experience-4.w750.h560.2x.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "896"
 image_attribution: "Starz"
@@ -46,7 +46,7 @@ The choreography is well done and works in conjunction with the sound to really 
 
 This is a show where the main character is an escort, so as you might imagine, there are a number of explicit scenes. To be frank, they are the least interesting parts of the show, sometimes deterring from the bigger story. If you’re looking for soft erotica, you’re going to be disappointed. Personally, the only reason they were interesting was to see how they contribute to the bigger picture.
 
-The characters are a stimulating bunch, in that you don’t really care for or relate to any of them, even Christine. Most of them are cold and aloof while some of them are downright ruthless at times. This is in line with the kind of people and environment that’s being depicted, especially with the emphasis on the not\-so\-great parts of people. Emotions, or having some sort of emotional attachment, is depicted to us as a negative trait, where you need to be distant to move forward in such an atmosphere. That’s not to say so the acting is boring, all the actors are incredibly on point, giving out certain subtleties that show you that there’s more than meets the eye with them.
+The characters are a stimulating bunch, in that you don’t really care for or relate to any of them, even Christine. Most of them are cold and aloof while some of them are downright ruthless at times. This is in line with the kind of people and environment that’s being depicted, especially with the emphasis on the not-so-great parts of people. Emotions, or having some sort of emotional attachment, is depicted to us as a negative trait, where you need to be distant to move forward in such an atmosphere. That’s not to say so the acting is boring, all the actors are incredibly on point, giving out certain subtleties that show you that there’s more than meets the eye with them.
 
-Riley Keough is the literal and figurative star of the show, giving an amazing performance as Christine. She’s able to play a number of different personas, from Christine’s usual stoic expressionless self to her happy and playful escort persona. Sometimes you genuinely believe Christine cares only to realise it was all a charade. You see her keep what little emotions she has in check, while constantly striving to gain control and to be taken seriously. As things start to fall apart, you also see her become more paranoid and start lashing out at everyone. 
+Riley Keough is the literal and figurative star of the show, giving an amazing performance as Christine. She’s able to play a number of different personas, from Christine’s usual stoic expressionless self to her happy and playful escort persona. Sometimes you genuinely believe Christine cares only to realise it was all a charade. You see her keep what little emotions she has in check, while constantly striving to gain control and to be taken seriously. As things start to fall apart, you also see her become more paranoid and start lashing out at everyone.
 This show does hard but intriguingly interesting work, giving us a frank look at a very real thing. It refuses to judge Christine and so challenges you to judge its central theme. It might show a very cynical outlook, that relationships are just inherently transactions, but it does it well.

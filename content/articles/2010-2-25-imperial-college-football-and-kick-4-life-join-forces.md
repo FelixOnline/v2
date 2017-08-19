@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251838-mb506-Kick4Lif.jpg"
 image_caption: >
-  
+
 image_width: "3072"
 image_height: "2304"
 image_attribution: ""

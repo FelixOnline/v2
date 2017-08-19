@@ -2,7 +2,7 @@
 title: >
   Casting a new light on the Western diet
 subtitle: >
-  Director Shelley Lee Davis, Or Shlomi Narrator Yvonne O'Grady noah baker 
+  Director Shelley Lee Davis, Or Shlomi Narrator Yvonne O'Grady noah baker
 date: "2010-11-11 20:46:19 +0000"
 id: "344"
 old_path: /film/344/casting-a-new-light-on-the-western-diet
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112043-nm1010-planneat.jpg"
 image_caption: >
-  
+
 image_width: "620"
 image_height: "320"
 image_attribution: ""

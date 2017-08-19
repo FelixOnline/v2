@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial needs to learn that ‘affordable’ is not a dirty word 
+  Imperial needs to learn that ‘affordable’ is not a dirty word
 subtitle: >
   The new postgraduate halls in Clapham Junction are certainly not affordable
 date: "2011-01-13 21:03:47 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

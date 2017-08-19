@@ -1,6 +1,6 @@
 ---
 title: >
-  Interview Dressing: Womenswear 
+  Interview Dressing: Womenswear
 subtitle: >
   Dress code etiquette is key for formal events. Saskia Verhagen shows us how to make the best first impression
 date: "2011-12-01 20:12:24 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012006-ams111-grace-kelly-trousers.jpg"
 image_caption: >
-  
+
 image_width: "357"
 image_height: "400"
 image_attribution: ""
@@ -54,7 +54,7 @@ Skirts should hit just below the knee and sweaters, shirts and jackets should be
 
 __Grooming__
 
-It is not quite clear why some girls find it so difficult to look properly put-together at interview, the simplest things make the biggest of differences. Make-up should be kept as natural as possible: after a proper cleanse, go for a tinted moisturiser and a touch of concealer with the lightest flush of blusher on the cheeks. Take note: no bronzer, no fake tan and no full-thickness foundation. Beyond anything else, it looks like you’ve tried too hard and with all that effort, all you’ve managed is to look entirely ridiculous. A neutral eye shadow with a touch of eyeliner and a lick of mascara is all you should need.  
+It is not quite clear why some girls find it so difficult to look properly put-together at interview, the simplest things make the biggest of differences. Make-up should be kept as natural as possible: after a proper cleanse, go for a tinted moisturiser and a touch of concealer with the lightest flush of blusher on the cheeks. Take note: no bronzer, no fake tan and no full-thickness foundation. Beyond anything else, it looks like you’ve tried too hard and with all that effort, all you’ve managed is to look entirely ridiculous. A neutral eye shadow with a touch of eyeliner and a lick of mascara is all you should need.
  As for hair, wearing it up or down is a matter of how you feel most confident. It should look neat and you should not feel the need to fiddle with it. Perfume, if you usually wear it, should be fresh and never overpowering.
 
 __Accessories__

@@ -2,7 +2,7 @@
 title: >
   Festival Fashion
 subtitle: >
-  Marianne Teoh gives us the Fashion low-down from Benicàssim 
+  Marianne Teoh gives us the Fashion low-down from Benicàssim
 date: "2012-10-05 12:03:29 +0100"
 id: "2610"
 old_path: /fashion/2610/festival-fashion
@@ -64,32 +64,32 @@ Girls: A boho braided hairstyle will add so much to your look, whilst keeping ha
 
 Homemade Sea Salt Hairspray – a recipe for textured beach curls, for men and women
 
-1. Fill an 8oz spray bottle with warm water (distilled would be best – grab some from labs)  
- 2. Add 1 Tbsp of fine sea salt  
- 3. Add a dab of hair gel to add styling control (I used Paul Mitchell Firm Hold gel)  
- 4. Add 1 tsp of a deep conditioner to prevent your hair drying out (I recommend Aussie 3-minute miracle deep conditioner. Coconut oil works well too – anything with coconut will give your hair a lovely beachy scent)  
+1. Fill an 8oz spray bottle with warm water (distilled would be best – grab some from labs)
+ 2. Add 1 Tbsp of fine sea salt
+ 3. Add a dab of hair gel to add styling control (I used Paul Mitchell Firm Hold gel)
+ 4. Add 1 tsp of a deep conditioner to prevent your hair drying out (I recommend Aussie 3-minute miracle deep conditioner. Coconut oil works well too – anything with coconut will give your hair a lovely beachy scent)
  5. Shake bottle well and spray generously on dry or damp hair, scrunching and twisting as you go. Let your hair air dry and enjoy your tousled locks!
 
 __Accessories__
 
-A trilby or a panama hat is a must-have for a beach holiday festival like Benicàssim that can be jazzed up a notch by tying a scarf of flowers around it.  
- Head bands, flower garlands, head scarves, and even feathered headdresses were all the rage this summer. See Asos and Dolly Bow Bow for a brilliant range of headgear!  
+A trilby or a panama hat is a must-have for a beach holiday festival like Benicàssim that can be jazzed up a notch by tying a scarf of flowers around it.
+ Head bands, flower garlands, head scarves, and even feathered headdresses were all the rage this summer. See Asos and Dolly Bow Bow for a brilliant range of headgear!
  Headgear matched with bandeau tops are the way to go, whilst using floral print scarves as belts is an easy way to save packing space.
 
 __Toiletries__
 
-Bring miniatures: your shampoo, conditioner, shaving cream, and moisturiser will only be used a few times and you don’t want to lug big bottles around.  
+Bring miniatures: your shampoo, conditioner, shaving cream, and moisturiser will only be used a few times and you don’t want to lug big bottles around.
  Take PLENTY of sunscreen – the summer sun on the Spanish coast is powerful, and a bad burn could ruin your weekend. The biggest fashion faux pas at Benicàssim had to be the stereotypically lobster-skinned Brits mooching around camp, regretting their decision to leave the factor-25 at home.
 
 __Clothing__
 
-Bring things that are easy to wear: getting changed in your tent can be tricky.  
- Guys: Don’t try anything fancy, bring some trusty shorts and a few of your favourite vests and t-shirts. Roll up the sleeves and soak up the Spanish sun!  
+Bring things that are easy to wear: getting changed in your tent can be tricky.
+ Guys: Don’t try anything fancy, bring some trusty shorts and a few of your favourite vests and t-shirts. Roll up the sleeves and soak up the Spanish sun!
  Girls: Embrace the sunshine with a wispy and pretty summer dress, but don’t forget the essential denim cut-off shorts and loose vests. These are comfortable, stylish, and go with absolutely everything.
 
 __Shoes__
 
-For the gloriously hot Benicàssim festival, you really need a pair of comfy beach sandals to see you through the day (girls: don’t bother bringing heels). And if you like your moshpits, invest in some light and stylish trainers like Toms, Keds or Converses to protect your toes.  
+For the gloriously hot Benicàssim festival, you really need a pair of comfy beach sandals to see you through the day (girls: don’t bother bringing heels). And if you like your moshpits, invest in some light and stylish trainers like Toms, Keds or Converses to protect your toes.
  Check out Dolly Bow Bow (www.dollybowbow.co.uk), an online boutique that sells affordable vintage-chic clothes and accessories. If you don’t have the time to string flowers together, you can get beautiful floral headdresses from their online store.
 
 _Photos by Marianne Teoh_

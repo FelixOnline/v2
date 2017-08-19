@@ -2,7 +2,7 @@
 title: >
   Freshers’ Flu: the science behind the sniffles and snot
 subtitle: >
-  Coming to a leacture theatre near you 
+  Coming to a leacture theatre near you
 date: "2014-11-10 22:55:06 +0000"
 id: "4851"
 old_path: /science/4851/freshers-flu-the-science-behind-the-sniffles-and-snot
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102255-ps3110-commonstudentillnesses-wp.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

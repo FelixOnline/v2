@@ -2,7 +2,7 @@
 title: >
   Imperial College Rugby launch petition to support Club Captain facing a vote of no confidence
 subtitle: >
-  Vote of no confidence to take place at Imperial College Union Council next Tuesday 
+  Vote of no confidence to take place at Imperial College Union Council next Tuesday
 date: "2014-12-02 15:22:44 +0000"
 id: "4980"
 old_path: /news/4980/imperial-college-rugby-launch-petition-to-support-club-captain-facing-a-vote-of-no-confidence
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412021522-ps3110-20141202_150133.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202171654-pk1811-alyx_vance_head.jpg"
 image_caption: >
-  
+
 image_width: "499"
 image_height: "714"
 image_attribution: ""
@@ -37,9 +37,9 @@ imported: true
 
 __Alyx Vance (HL2 Series)__
 
-From: _City 17_  
- The Good:_ Feisty yet incredibly practical action girl with energy and brains to spare._  
- The Bad_: Packs heat. On no account leave the relationship on a sour note._  
+From: _City 17_
+ The Good:_ Feisty yet incredibly practical action girl with energy and brains to spare._
+ The Bad_: Packs heat. On no account leave the relationship on a sour note._
  Mr Right: _Prefers the strong, silent nerdy type. Having a PhD in theoretical physics is a plus._
 
 If you’re looking for the best of both worlds, brains and beauty, then Miss Alyx Vance is your best bet. Growing up on a Combine-occupied Earth has moulded her into a technical whizz quite capable of holding herself in a fire fight, all the while keeping her looks intact. She lives for the moment, because you never know when the next Hunter strike is a-coming.
@@ -47,10 +47,10 @@ If you’re looking for the best of both worlds, brains and beauty, then Miss Al
 Those wanting a simple life may wish to steer clear however. Expect to be running to keep up with her, both physically and mentally, never settling down for too long. Alyx certainly isn’t one to take the easy route through life, and whilst she’ll come back for you no matter what, it can make for an exhausting relationship.
 
 __Samus Aran (Metroid Series)__
-TODO: image from 
-From: _Zebes_  
- The Good: _Has a great body and gorgeous looks._  
- The Bad: _That is, if you can get her out of her suit._  
+TODO: image from
+From: _Zebes_
+ The Good: _Has a great body and gorgeous looks._
+ The Bad: _That is, if you can get her out of her suit._
  Mr Right: _Tony Stark._
 
 If the term ‘strong independent woman’ were to be applied to anyone it’d apply to Miss Aran. As an ex-soldier and bounty hunter Samus is well-versed in combat, sporting her impressive Power Suit with more weaponry than your average mid-sized battlecruiser. After a hard few weeks or months scouring the galaxy of evil expect a tigress on your hands with a dire need to get out of her Power Suit and relieve some tension, if you know what I mean fellas.
@@ -61,9 +61,9 @@ __Bayonetta (Bayonetta)__
 
 ![bayonetta_.jpg](/inc/timthumb.php?src=/img/upload/201202162126-ams111-bayonetta_.jpg&w=460px&zc=1&a=t)
 
-From: _Vigrid_  
- The Good: _Indulges in a whole host of fetishes, some of which you’re bound to enjoy._  
- The Bad: _Indulges in a whole host of fetishes, some of which you’re bound to be utterly sickened by._  
+From: _Vigrid_
+ The Good: _Indulges in a whole host of fetishes, some of which you’re bound to enjoy._
+ The Bad: _Indulges in a whole host of fetishes, some of which you’re bound to be utterly sickened by._
  Mr Right: _A man to whom ethics, morals and decency have no meaning, or medieval dungeon keepers (often one and th__e same)._
 
 A fetishist’s wet dream. Bayonetta is a witch, but don’t go thinking about the ugly sort with warts and all. No, Bayonetta is a gun-toting, demon slaying seductress with legs all the way up to Heaven. The vanilla amongst you will do well to steer clear – Bayonetta is not the girl for those of you looking to raise a nice family and own a cottage with a white-picket fence. Instead you’ll be getting an action-packed sex-crazed thrill ride.
@@ -74,9 +74,9 @@ __Princess Peach (Mario Series)__
 
 ![BrawlPeach.jpg](/inc/timthumb.php?src=/img/upload/201202162128-ams111-brawlpeach.jpg&w=460px&zc=1&a=t)
 
-From: _The Mushroom Kingdom_  
- The Good: _Well-mannered, generous and rich. Also a Princess._  
- The Bad: _Has a bad habit of being kidnapped by large sentient reptiles._  
+From: _The Mushroom Kingdom_
+ The Good: _Well-mannered, generous and rich. Also a Princess._
+ The Bad: _Has a bad habit of being kidnapped by large sentient reptiles._
  Mr Right: _Portly southern-European gentlemen with large moustaches and a talent for plumbing and go karting._
 
 A blonde beauty with a heart of gold, the sweet Princess Peach will certainly never let you down. Don’t assume that she’s all looks and no brains though – she’s proven herself adapt at go karting, football and even hand-to-hand combat. Her vast riches, in excess of $1bn, will certainly make life a whole lot easier.

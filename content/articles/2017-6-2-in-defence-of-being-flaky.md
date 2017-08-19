@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706021525-felix-Screen Shot 2017-06-02 at 15.25.19.png"
 image_caption: >
-  
+
 image_width: "2028"
 image_height: "1195"
 image_attribution: "Original pic by owlin alin"
@@ -42,11 +42,11 @@ People get hella angry about flaking. Honestly, I would say that the majority of
 
 Perhaps it’s just the introvert in me, but I’m not usually hideously offended or put out when someone cancels on me. That’s not to say that I wouldn’t otherwise have made plans with someone else if I had that evening/afternoon/brunch slot free – I have a perfectly active social life with more friends than I have time to see as much as I want to see them, thank you very much – but if it means that I end up having a rare evening to myself, I don’t really mind that either. Whether or not my friend has given me a good reason or is obviously just too lazy to travel into Central London, it doesn’t really matter.
 
-Because the thing is, I cancel plans at the last minute. Again hear me out, I’m not a monster – if something big is happening and my support is truly needed as a friend, if the person I’m meeting is already en route, if we have tickets to something or we’re meeting to do something specific and long\-planned, then I will be there. However, sometimes I’m just not in the mood for people. Sometimes, no matter how much I love you and no matter how much I enjoy being around you, I will not enjoy a social engagement, and I will not be good company.
+Because the thing is, I cancel plans at the last minute. Again hear me out, I’m not a monster – if something big is happening and my support is truly needed as a friend, if the person I’m meeting is already en route, if we have tickets to something or we’re meeting to do something specific and long-planned, then I will be there. However, sometimes I’m just not in the mood for people. Sometimes, no matter how much I love you and no matter how much I enjoy being around you, I will not enjoy a social engagement, and I will not be good company.
 
 And this is okay, It’s good to recognise this. It’s better for us both and for our friendship that we don’t endure this interaction that will be making me increasingly tense and probably grumpy – not exactly ideal properties in a friend.
 
-But this is just not socially acceptable to say. Unless you have exclusively excellent, self\-care respecting friends, you’re going to come up against some hostility if you bail on drinks because you just want to be alone. If you’re not being called out to your face, you can almost guarantee that behind the scenes there’s some passive aggressive bitching about your unreliability.
+But this is just not socially acceptable to say. Unless you have exclusively excellent, self-care respecting friends, you’re going to come up against some hostility if you bail on drinks because you just want to be alone. If you’re not being called out to your face, you can almost guarantee that behind the scenes there’s some passive aggressive bitching about your unreliability.
 
 If you ask anyone in strong opposition to flaking, they will exclusively say that cancelling because you’re just not in the mood isn’t an excuse, because if you go anyway you’ll end up having a good time. I mean, great, if that’s always the case for you, but I know myself well enough to be able to say what is gonna cheer me up and what is not. If I don’t want to see you right then, I’m not gonna, and it’s really not a reflection of our friendship, but a reflection of how I am feeling right then.
 
@@ -54,4 +54,4 @@ Maybe it’s because you’re overbooked that week because you don’t like to s
 
 Yes, you have mildly inconvenienced someone. There is now someone out there either scrambling to find someone else who has been flaked on to hang out with, or resigning themselves to a slightly boring night in. But you know what, that’s not going to kill them. I have no problems admitting that I’m going to put myself first day to day, and if that means cancelling plans, so be it.
 
-Like, don’t be a dick. If you’re consistently cancelling plans, don’t make so many plans. If you’re always cancelling plans with the same person, be mature enough to re\-evaluate that friendship. Don’t be a flake because you can’t tell the difference between an obligation friendship and a friendship that you’re actually gaining something from. Be a flake because you don’t want to force anything or to have a shitty time. But accept your flakiness and cancel early, be the best possible flake you can be, and you don’t have to feel guilty at all.
+Like, don’t be a dick. If you’re consistently cancelling plans, don’t make so many plans. If you’re always cancelling plans with the same person, be mature enough to re-evaluate that friendship. Don’t be a flake because you can’t tell the difference between an obligation friendship and a friendship that you’re actually gaining something from. Be a flake because you don’t want to force anything or to have a shitty time. But accept your flakiness and cancel early, be the best possible flake you can be, and you don’t have to feel guilty at all.

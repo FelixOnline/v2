@@ -1,8 +1,8 @@
 ---
 title: >
-  The Cancer Envy Campaign 
+  The Cancer Envy Campaign
 subtitle: >
-  Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis. 
+  Pancreatic cancer has the lowest survival rate out of the common cancers; only three percent make it past five years, with the majority only making it to 4-6 months after diagnosis.
 date: "2014-03-28 11:47:17 +0000"
 id: "4517"
 old_path: /features/4517/the-cancer-envy-campaign-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   Gazing into the soul of the 99%
 subtitle: >
-  A report on the ongoing London protests, by Luke Seldon 
+  A report on the ongoing London protests, by Luke Seldon
 date: "2011-10-20 21:52:10 +0100"
 id: "1566"
 old_path: /politics/1566/gazing-into-the-soul-of-the-99
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110202251-felix-dsc07394.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1071"
 image_attribution: ""

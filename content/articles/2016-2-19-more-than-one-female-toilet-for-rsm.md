@@ -49,7 +49,7 @@ Haynes’ survey proposed making the four grouped toilets unisex, as well as the
 
 The survey results were shown to Estates, who agreed the situation was unacceptable. Instead of making the toilets all unisex, there was strong support for making the men’s toilets women’s and making the single female accessible toilet unisex.
 
-One RSM member told FELIX: “As a woman in male dominated departments with usually around half the number of women’s toilets as men’s \(meaning walking ten minutes to toilets if any are out of order\), having our Head of Department take charge and do something about it is amaze”.
+One RSM member told FELIX: “As a woman in male dominated departments with usually around half the number of women’s toilets as men’s (meaning walking ten minutes to toilets if any are out of order), having our Head of Department take charge and do something about it is amaze”.
 
 The department of materials holds an Athena Swan Silver award, which is an accolade given to Higher Education or research bodies that can prove they are actively advancing female staff and students in an attempt to achieve gender equality in the workplace.
 

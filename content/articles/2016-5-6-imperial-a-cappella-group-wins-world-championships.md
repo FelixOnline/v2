@@ -43,7 +43,7 @@ The Techtonics were up first on the night, but disaster nearly struck when three
 
 On their victory, chair Will, said that “trying to get the trophy back on the flight home was nightmare”.
 
-After qualifying for the international competition after winning the semi\-finals that were hosted here at Imperial, the Techtonics attempted to crowdfund their flights.
+After qualifying for the international competition after winning the semi-finals that were hosted here at Imperial, the Techtonics attempted to crowdfund their flights.
 
 They were somewhat successful, raising £565 of the £6000 they needed for flights. They also used profits from sales of their album to raise the money.
 

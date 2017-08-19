@@ -1,6 +1,6 @@
 ---
 title: >
-  Student mayoral manifesto launched 
+  Student mayoral manifesto launched
 subtitle: >
   Mayoral debate planned for Imperial
 date: "2012-03-02 01:06:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203020106-felix-74bee5e9-720a-4126-a137-b92c534bbdd9.jpg"
 image_caption: >
-  
+
 image_width: "190"
 image_height: "312"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-A student manifesto has been released in light of the London mayoral and assembly elections in May. The document, produced by [Student Vision for London](http://visionforlondon.org.uk/) in collaboration with many London universities’ student unions, outlines nine key issues for students with demands for the mayoral candidates to solve them.  
+A student manifesto has been released in light of the London mayoral and assembly elections in May. The document, produced by [Student Vision for London](http://visionforlondon.org.uk/) in collaboration with many London universities’ student unions, outlines nine key issues for students with demands for the mayoral candidates to solve them.
  London’s student population stands at 433,000 - roughly one tenth of the city’s voting population. Vision for London believe that students are currently under-represented by the Greater London Authority and their issues are poorly accounted for.
 
 Working with Imperial College Union, as well as student unions from the University of the Arts, London School of Economics, King’s College and Queen Mary, Vision for London have identified nine problems, and solutions for them, which affect a majority of students.

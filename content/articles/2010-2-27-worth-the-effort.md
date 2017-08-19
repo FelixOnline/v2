@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271742-rsp07-imperial.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "750"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-It has long been instilled in many a student’s mind that they should be coming out of University with at least upper second class honours if they’re to make the leap to employment afterwards. They say without a 2:1 in your respective degree, you’re destined to life in a dead-end job, and failing that, unemployment. Whilst others continue to fly high, you remain on the dole.  
+It has long been instilled in many a student’s mind that they should be coming out of University with at least upper second class honours if they’re to make the leap to employment afterwards. They say without a 2:1 in your respective degree, you’re destined to life in a dead-end job, and failing that, unemployment. Whilst others continue to fly high, you remain on the dole.
  Whether you believe the urban myth that surrounds not receiving a 2:1 or not, there is undoubtedly a stigma that drags along with not getting one.
 
 But does ‘2:2’ stick out like a sore thumb on your CV? More importantly, does it immediately make you a less favourable candidate for a job? Seemingly not.
@@ -46,16 +46,16 @@ Sonja Stockton, head of graduate recruitment for PwC, told the Financial Times t
 
 She continued: “We wanted to create an opportunity and a window for exceptionally talented students who have demonstrated exceptional achievements beyond the academic.”
 
-The move has been welcomed by many at the best universities, where many students find there is a fine balance between academically-achieving and fulfilling a recreational and interesting extra-curricular life. It is a balance that countless numbers of students at Imperial cannot find. Whilst the ones that work on their degrees more than they fill their CVs with anything else tend to be favoured, PwC can now look forward to those students who are arguably better equipped to apply themselves to a wider variety of situations and challenges.  
+The move has been welcomed by many at the best universities, where many students find there is a fine balance between academically-achieving and fulfilling a recreational and interesting extra-curricular life. It is a balance that countless numbers of students at Imperial cannot find. Whilst the ones that work on their degrees more than they fill their CVs with anything else tend to be favoured, PwC can now look forward to those students who are arguably better equipped to apply themselves to a wider variety of situations and challenges.
  Ms. Stockton highlighted their new recruitment scheme also addressed the inequality of standards and quality of a 2:1 degree across the UK’s varying universities. She illustrated the point by interestingly singling out Imperial College students, claiming that they stood a worse chance of achieving that gold standard 2:1 than if they attended a less reputable institution.
 
 Many other large graduate recruiters are following suit and are becoming increasingly lenient on the 2:1 ‘floor’ that the majority of companies have imposed on their recruitment drives. Unilever, ones of Europe’s leading pharmaceutical companies, has stated that graduates without a 2:1 “were not ruled out” completely. If they had “really great work experience, drive, energy and commercial awareness” things could still look up for them.
 
-It has been reported that in the last few years that employers accepting graduates on a 2:2 degree has risen, despite the economic downturn skewing the market in favour of recruiters rather than job-hunters. A third of employers surveyed by the Association of Graduate Recruiters (AGR) in 2008 were said to be looking at applicants with a 2:2, compared to a quarter the year before.  
- However, felix investigates if graduating from Imperial does make a difference. Should Imperial graduates be given more slack from employers? Do employers even notice the fact you’re from the 5th best university in the world? Does it even matter what degree classification you enter the big, wide world with?  
-  
-The 2:1 Floor  
-  
+It has been reported that in the last few years that employers accepting graduates on a 2:2 degree has risen, despite the economic downturn skewing the market in favour of recruiters rather than job-hunters. A third of employers surveyed by the Association of Graduate Recruiters (AGR) in 2008 were said to be looking at applicants with a 2:2, compared to a quarter the year before.
+ However, felix investigates if graduating from Imperial does make a difference. Should Imperial graduates be given more slack from employers? Do employers even notice the fact you’re from the 5th best university in the world? Does it even matter what degree classification you enter the big, wide world with?
+
+The 2:1 Floor
+
  With over 60% of graduates hitting the gold standard of a 2:1 classification or better, graduate recruiters are now having a tough time sifting through the thousands of homogenous applications, even with a ‘2:1 floor’ as part of preliminary requirements.
 
 It has long been accepted that if you are not above the 2:1 floor, you’re simply not in the room. Some might even say dead and buried in the ground. Puns and word play aside, companies like PwC and Ernst & Young are have stated that this 2:1 floor is “flexible”, and that applicants will now have to demonstrate other features of their ability that go beyond an academic record.
@@ -82,10 +82,10 @@ Talking to a Pricewaterhouse – Coopers Graduate Recruitment Advisor, she was c
 
 Quite clearly, the fact that PwC and other companies have begun to open up their programmes to applicants with a 2:2, he feels there is still some way to go in reaching out to many graduate recruiters who still use heavily depend on degree classification only.
 
-“It shouldn’t be necessary for a competent, inspired applicant with a 2.2 from Imperial to prove that they have done ‘extraordinary and enterprising things’. It would be more appropriate to adjust for the standards required for each degree class at Imperial. It is, sadly, true that employers place far more emphasis on the degree class achieved than on the awarding institution,” he says.  
-  
-Getting a 2:2 isn't the end of the world by any means.  
-  
+“It shouldn’t be necessary for a competent, inspired applicant with a 2.2 from Imperial to prove that they have done ‘extraordinary and enterprising things’. It would be more appropriate to adjust for the standards required for each degree class at Imperial. It is, sadly, true that employers place far more emphasis on the degree class achieved than on the awarding institution,” he says.
+
+Getting a 2:2 isn't the end of the world by any means.
+
  In November 2008, then Union President Jenny Morgan and student representative Alex Grisman were invited to the College’s Strategic Education Committee meeting where they proposed a paper discussing the value of an Imperial degree. It said that the “respectable classification of a Lower Second” from Imperial ought to stand a “better chance of securing employment than it already does.” The suggested advancement on this point was to talk to the College’s careers service and urge them to press the point to major graduate recruiters; the companies most guilty of using a 2:1 cut-off point.
 
 felix spoke to Elspeth Farrar, Director of the Careers Advisory Service, and she has seemingly listened to the suggestions put to her since then, and has been lobbying companies like PwC to give a lot more attention to the reputation of the institution applicants are applying from.

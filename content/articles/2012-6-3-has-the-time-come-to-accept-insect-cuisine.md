@@ -2,7 +2,7 @@
 title: >
   Has the time come to accept insect cuisine?
 subtitle: >
-  Meat and fish? It may well be all about insects 
+  Meat and fish? It may well be all about insects
 date: "2012-06-03 16:10:41 +0100"
 id: "2521"
 old_path: /food/2521/has-the-time-come-to-accept-insect-cuisine
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206031711-felix-edible-insects-6-006-500x333.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

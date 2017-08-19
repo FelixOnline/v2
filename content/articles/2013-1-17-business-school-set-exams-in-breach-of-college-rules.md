@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301172340-tna08-business-school.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The comment from Laura McConnell is clearly a copout if the exams managers in the BS did their job properly and followed up available space from other departments  they would easily find an appropriate room on Campus I also understand from my fellow students that at times the BS has conducted its exams off campus during the day which is allowed under College rules  This really shows the lack of professionalism the BS show for their own students and of those for other departments  Sad really considering the amount in fees us students pay  Its about time the School put more emphasis on the needs of its students  The sad thing is that I have just gotten used to Imperial treating us like this that I didnt even bother protesting about it Weve been taught to suck it up  take it lying down  this is Imperial  then were surprised our NSS results suck 
+ - The comment from Laura McConnell is clearly a copout if the exams managers in the BS did their job properly and followed up available space from other departments  they would easily find an appropriate room on Campus I also understand from my fellow students that at times the BS has conducted its exams off campus during the day which is allowed under College rules  This really shows the lack of professionalism the BS show for their own students and of those for other departments  Sad really considering the amount in fees us students pay  Its about time the School put more emphasis on the needs of its students  The sad thing is that I have just gotten used to Imperial treating us like this that I didnt even bother protesting about it Weve been taught to suck it up  take it lying down  this is Imperial  then were surprised our NSS results suck
 imported: true
 ---
 

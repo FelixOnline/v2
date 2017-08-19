@@ -1,6 +1,6 @@
 ---
 title: >
-  The Turner Prize disappoints again 
+  The Turner Prize disappoints again
 subtitle: >
   It’s hard to avoid the feeling that it’s all a bit... underwhelming
 date: "2010-10-10 15:24:17 +0100"

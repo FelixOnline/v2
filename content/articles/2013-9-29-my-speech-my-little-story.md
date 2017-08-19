@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201309291726-tna08-steve-jobs-cutout.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,5 +44,5 @@ I had my share of embarrassment. I stood in front of 20 people, legs slightly tr
 
 As I went down the journey towards being a speaker, I learn a few lessons and cleared a few misconceptions. First of all, speaking can be improved by experience. If you ever have the chance of audience a speech by Ex-president Michelle, you will find her to be the most graceful lady on stage (off-Stage too). You can’t really believe (I still can’t) that a human can be so composed on stage, even though the evidence is blatantly just in front of you. However, behind this grace, behind the composure, behind all this unbelievable confidence, is nothing more than two years of public speaking experience. Trust me, if you are willing to go that extra mile, eventually you will be a better speaker than you ever dreamed yourself to be.
 
-It is through making one speech after another that I learnt a lot about how to inspire people, how to be humourous and how to carry on a conversation. But it is not only about the skills that I acquired, it is the feeling of accomplishment, the satisfaction that was imprinted on my heart when people just cheered me on after a successful speech. It is cliché but the truth is that every time members come to me and thank me for inspiring them, I am proud of my speech because it is changing people’s life one at a time.  
+It is through making one speech after another that I learnt a lot about how to inspire people, how to be humourous and how to carry on a conversation. But it is not only about the skills that I acquired, it is the feeling of accomplishment, the satisfaction that was imprinted on my heart when people just cheered me on after a successful speech. It is cliché but the truth is that every time members come to me and thank me for inspiring them, I am proud of my speech because it is changing people’s life one at a time.
  Now, it is time for me to end off with a little scenario for you to consider. When we look at the professional speakers standing in the limelight with people cheering so loudly, there is idea that crosses our mind “wouldn’t it be great if one day I can speak like him?”(Admit it!) Well, maybe it is time for you to give this thought a little nudge. Who knows, maybe twenty years down the road, you will be thankful that little decision you make here.

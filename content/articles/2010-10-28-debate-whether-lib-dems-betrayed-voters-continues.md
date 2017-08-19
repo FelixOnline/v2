@@ -1,6 +1,6 @@
 ---
 title: >
-  Debate whether Lib Dems betrayed voters continues 
+  Debate whether Lib Dems betrayed voters continues
 subtitle: >
   The Lib Dems put their country before party politics
 date: "2010-10-28 19:06:37 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282004-ks607-values.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1064"
 image_attribution: ""

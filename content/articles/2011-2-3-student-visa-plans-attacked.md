@@ -1,6 +1,6 @@
 ---
 title: >
-  Student visa plans attacked 
+  Student visa plans attacked
 subtitle: >
   Government’s visa proposals like “using a slegehammer to crack a nut”
 date: "2011-02-03 19:29:49 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031927-ks607-damiangr.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""

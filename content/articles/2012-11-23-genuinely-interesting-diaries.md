@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211230037-tna08-0318462_2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 Well, there are some films that when you are a bit too pretentious, you always act as you have seen them (I am one of thefew people on this planet to admit that I have yet to watch The Godfather trilogy. And I am too pretentious for my own good). In the past decade, Walter Salles’ The Motorcycle Diaries (Spanish: Diarios de Motocicleta), came to be added in this list.
 
-From pseudo-Marxist friends to my dad, everyone was looking at me wide-eyed when I said that I haven’t seen this film (in my dad’s case, he even knew the director’s name – I thought his range was only Coppola and Scorsese. Wrong). It has always been one of those things in the back of my mind. I always think of watching but never actually do. Thankfully, around London there are some very pretty charity shops, and one of them happened to sell the DVD for a reasonably low price.  
+From pseudo-Marxist friends to my dad, everyone was looking at me wide-eyed when I said that I haven’t seen this film (in my dad’s case, he even knew the director’s name – I thought his range was only Coppola and Scorsese. Wrong). It has always been one of those things in the back of my mind. I always think of watching but never actually do. Thankfully, around London there are some very pretty charity shops, and one of them happened to sell the DVD for a reasonably low price.
  Behind every big move, there is a significant reason. In this case, the movie examined the reasons that ignited the desire of [Ernesto “Che”Guevara](http://en.wikipedia.org/wiki/Che_Guevara) (then without the nickname) to free the lands South America. But this is far from a political movie. This is an ode to friendship, love, being young and full of life and ideas.
 
 Watching the film was an overall kind of experience. First of all, it is visually arresting. The beautiful landscapes of South America make you stare at the screen mesmerised. They are not portrayed ideally beautiful, with blasts of colour here and there. On the contrary, they are bared to their true beauty, sometimes raw, sometimes softer. From the dry roads to the snow-filled mountain tops, you fall in love with this continent and realise one of the reasons why the future Che would go in the revolution. On the other hand, the cast of the movie, from the protagonists to the extras, are all realistic faces, people you would see in your everyday life, people you’d expect to live back in the day. People you can relate to and make your visual trip easier and enjoyable.

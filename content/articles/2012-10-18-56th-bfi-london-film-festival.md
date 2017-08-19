@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,10 +46,10 @@ The similarities to Britain don’t stop there and, although probably not an int
 
 Everyone in the room couldn’t help but laugh when Rahim tells Fokus to get off the phone so the group can dial up their chunky Windows 95 computer to the internet and the dial tone rings through the speakers.
 
-This snippet of Polish culture is refreshing in comparison to Hollywood style films taking over many cinema genres today. Big time hip-hop artists who live with their parents in a concrete estate and struggle to make ends meet, contrast greatly with the filthy rich stars of our generation.  
+This snippet of Polish culture is refreshing in comparison to Hollywood style films taking over many cinema genres today. Big time hip-hop artists who live with their parents in a concrete estate and struggle to make ends meet, contrast greatly with the filthy rich stars of our generation.
  What is also very interesting is that there is no bias towards any character. Although Magik is depicted as the most talented and passionate member of the group, his inevitable downfall from his own misbehaviour makes you hold back on sympathy for his situation.
 
-There are no unrealistic extremes: no fairytale happy endings or tragic finales full of morality and how you should change your life. The troubled relationship between Magik and his girlfriend invokes empathy as it lacks the idiotic first-world type love problems usually seen in modern day movies. None of the characters are devastatingly beautiful or wear fancy clothes with unmaintainable fancy hair.  
+There are no unrealistic extremes: no fairytale happy endings or tragic finales full of morality and how you should change your life. The troubled relationship between Magik and his girlfriend invokes empathy as it lacks the idiotic first-world type love problems usually seen in modern day movies. None of the characters are devastatingly beautiful or wear fancy clothes with unmaintainable fancy hair.
  Surprisingly, the film makes it terribly easy for a wannabe scientist spending daily life in Kensington to relate to a wannabe hip hop artist living in industrial Poland trying to get through life’s struggles and make it into the big time. Definitely worth a watch for hip hop or non-hip hop fans alike.
 
 __Rust and Bone__
@@ -80,5 +80,5 @@ The film explores an important part of Australian history. From the 1800s well i
 
 The sisters are as one dimensional as the signs Lovelace hangs around their necks to remind him – and them – of their roles. Julie (Mauboy), ‘lead singer’, Kay (Sebbens), ‘dance leader’, Cynthia (Tapsell) ‘the sexy one’, and Gail (Mailman), originally ‘???’ but quickly becomes mother hen. The four lack serious character development for this to bea truly exceptional film, but the vocals are fantastic, and O’Dowd, fresh from his success in Bridesmaids, is reliably funny, providing some laugh out loud moments, and is a convincing soul man.
 
-The soundtrack is the true star of the film. Covers of Smokey Robinson, Marvin Gaye and Four Tops, and originals by Sam and Dave, make this film a celebration of authentic Motown soul. Mauboy’s voice is made for soul; rich, deep with incredible range; but at times the girls lack the emotional connection with the classic songs to really shine. The most moving songs are the ones sung in Yorta Yorta, an indigenous language: it is here you can hear the plight of the Aborigine people loudest.  
+The soundtrack is the true star of the film. Covers of Smokey Robinson, Marvin Gaye and Four Tops, and originals by Sam and Dave, make this film a celebration of authentic Motown soul. Mauboy’s voice is made for soul; rich, deep with incredible range; but at times the girls lack the emotional connection with the classic songs to really shine. The most moving songs are the ones sung in Yorta Yorta, an indigenous language: it is here you can hear the plight of the Aborigine people loudest.
  Making comparisons to the similar Dreamgirls will only lead to disappointment. Go with an open mind and the willingness to forgive the occasional weak moment - if you love soul music this is a feel-good film not to be missed.

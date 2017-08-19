@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022045-felix-cherryorchard5-2.jpg"
 image_caption: >
-  
+
 image_width: "3504"
 image_height: "2454"
 image_attribution: "Catherine Ashmore"

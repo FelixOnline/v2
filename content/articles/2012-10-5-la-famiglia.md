@@ -41,6 +41,6 @@ When it first opened, La Famiglia was a delightful place frequented by Italian e
 
 Don’t get me wrong. The food is still first class, proper hearty Italian cuisine at its best. No messing about, just putting the best ingredients on a good-sized dish and plonking it on your table. But as I sat there, with a delicious vitello tonnato sitting in front of me, my mouth just could not fully appreciate the brilliance of the meal. My ears were under siege (for an overly heavy parallel, imagine the Persian invasion of Greece at the battle of Marathon), the constant stream of profanities coming from an odious, fat Australian to my left (no, not you Mr Murdoch, you’re skinny) just too much to handle. And to my right, two late comers joined an already overly crammed table and gleefully wedged their chairs closer and closer to mine. My friend and I didn’t have the strength or resilience the Greeks showed in 490 BC – we simply finished our main course, got the bill, and vowed to never return to this offence on what should have been a really cracking dinner.
 
-_7 Langton Street,  
- The World’s End,  
+_7 Langton Street,
+ The World’s End,
  Chelsea, London SW10 0JL_

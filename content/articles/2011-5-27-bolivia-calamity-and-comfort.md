@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105271627-felix-bolivian-dancers.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "540"
 image_attribution: "Priya Garg"

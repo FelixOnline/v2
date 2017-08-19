@@ -1,6 +1,6 @@
 ---
 title: >
-  Want to save the planet and eat meat? Eat Man 
+  Want to save the planet and eat meat? Eat Man
 subtitle: >
   We should return to the food web structure from whence we came
 date: "2010-12-02 20:27:57 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022024-ks607-cowcow.jpg"
 image_caption: >
-  
+
 image_width: "2304"
 image_height: "1728"
 image_attribution: ""

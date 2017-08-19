@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251848-mb506-Handball.jpg"
 image_caption: >
-  
+
 image_width: "2136"
 image_height: "1424"
 image_attribution: ""

@@ -34,13 +34,13 @@ comments:
 imported: true
 ---
 
-Imagine: a flock of paper birds set free across the gallery,  
- surging from out of one corner to disappear into another.  
- Imagine: the tensions in the lines of string fastened to the ceiling,  
- fixing, imprisoning their subjects.  
- Imagine: a weightless bird, spinning helplessly on the end  
+Imagine: a flock of paper birds set free across the gallery,
+ surging from out of one corner to disappear into another.
+ Imagine: the tensions in the lines of string fastened to the ceiling,
+ fixing, imprisoning their subjects.
+ Imagine: a weightless bird, spinning helplessly on the end
  of a line, at once restrained and supported.
 
-If only: the weights were greater, the tensions increased,  
- then, only then, might these lines  
+If only: the weights were greater, the tensions increased,
+ then, only then, might these lines
  break

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111172123-pk1811-kadhim-review.jpg"
 image_caption: >
-  
+
 image_width: "1128"
 image_height: "1037"
 image_attribution: ""

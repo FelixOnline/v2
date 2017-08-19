@@ -1,6 +1,6 @@
 ---
 title: >
-  The misadventures of a Nobel physicist 
+  The misadventures of a Nobel physicist
 subtitle: >
   Ian McEwan’s foray into comic satire
 date: "2011-06-16 20:43:56 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106162142-felix-solar.jpg"
 image_caption: >
-  
+
 image_width: "2331"
 image_height: "3600"
 image_attribution: ""

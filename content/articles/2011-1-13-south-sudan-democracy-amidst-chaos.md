@@ -1,8 +1,8 @@
 ---
 title: >
-  South Sudan: democracy amidst chaos 
+  South Sudan: democracy amidst chaos
 subtitle: >
-  The people of South Sudan look set to determine their own future 
+  The people of South Sudan look set to determine their own future
 date: "2011-01-13 19:57:28 +0000"
 id: "572"
 old_path: /politics/572/south-sudan-democracy-amidst-chaos-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131956-ks607-sudansud.jpg"
 image_caption: >
-  
+
 image_width: "4000"
 image_height: "3000"
 image_attribution: ""

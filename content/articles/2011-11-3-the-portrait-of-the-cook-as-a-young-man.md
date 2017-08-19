@@ -1,6 +1,6 @@
 ---
 title: >
-  The Portrait of the Cook as a Young Man 
+  The Portrait of the Cook as a Young Man
 subtitle: >
   A glorious transformation from culinary newbie to master chef
 date: "2011-11-03 21:29:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,5 +44,5 @@ The third stage is a natural progression of the second. It will start with the c
 
 This comes to an abrupt, explosive end. The palate may cry for Waitrose’s finest virgin olive oil and saffron, but the wallet and the body cry for rest. Exhaustive in time and money, this stage collapses under the strain of its own excess. Replaced by a stage epitomised by food requiring a minimal amount of effort, time and money. This is age of the take-away and vegging out in front of season box-sets of Grey’s Anatomy and The Wire. This stage teaches the student valuable lessons about making food last longer (often several days) and the sagacity of vouchers and coupons, and gives them greater appreciation for distant cultures. Mainly Italy and China.
 
-The death knell of this stage is sounded when the student spends a little too long looking in the mirror, and does not like what they find there. A rejuvenation occurs, passion rekindles, interest in the kitchen blossoms again. Wise from the lessons of the previous stages, the student is enlightened. Everything in moderation. There is a time for beans on toast and a time for Moroccan lamb tagine followed by raspberry compote. There is a time for a hearty bowl of spaghetti and time for a Dominos thick crust special. Usually on Tuesdays. Now, the student has become the master of the kitchen, Lord over his domain. Finally prepared, perhaps, for the eventual life beyond college walls. Like a fine wine: mature.  
+The death knell of this stage is sounded when the student spends a little too long looking in the mirror, and does not like what they find there. A rejuvenation occurs, passion rekindles, interest in the kitchen blossoms again. Wise from the lessons of the previous stages, the student is enlightened. Everything in moderation. There is a time for beans on toast and a time for Moroccan lamb tagine followed by raspberry compote. There is a time for a hearty bowl of spaghetti and time for a Dominos thick crust special. Usually on Tuesdays. Now, the student has become the master of the kitchen, Lord over his domain. Finally prepared, perhaps, for the eventual life beyond college walls. Like a fine wine: mature.
  This history is by no means complete. I have neglected the lunchtime experiments with various college cafes, the 3am craving for Mars bars and the hypnotic attraction of the fridge light, or the expansion of the role of cereal to all three meals of the day, with or without milk. Though you will find it in no prospectus, this culinary education, a gastronomical evolution, the portrait of a cook as a young man, is one of the finest lessons you will ever learn at university.

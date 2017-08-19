@@ -2,7 +2,7 @@
 title: >
   IC Hockey Men’s 2s show the Medics who’s Boss
 subtitle: >
-  Ben Bell reports 
+  Ben Bell reports
 date: "2012-10-18 21:10:50 +0100"
 id: "2692"
 old_path: /sport/2692/ic-hockey-mens-2s-show-the-medics-whos-boss
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

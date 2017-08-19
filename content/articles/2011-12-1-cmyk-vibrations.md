@@ -1,6 +1,6 @@
 ---
 title: >
-  CMYK Vibrations 
+  CMYK Vibrations
 subtitle: >
   James Blake just makes me want to RGB
 date: "2011-12-01 21:09:34 +0000"

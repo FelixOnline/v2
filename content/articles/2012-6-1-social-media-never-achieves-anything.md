@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206011351-mc4509-559518_police_protecting_the_demonstration.jpg"
 image_caption: >
-  We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments 
+  We’ve pre-emptively deployed police to Felix Online’s cyberoffices to control the surge of comments
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - LikeWaitWriting to your MP is even lower impact than social media MPs will only listen to you if they know you have a sizable base of people who agree with youAs much as I hate social media myself you fail to understand its power It played a significant role in mobilising Egypts Revolution recently and this is only one example of many The Arab Spring has a lot to owe to this form of communication I dunno that ICToilets appears to have built up a lot of momentum 
+ - LikeWaitWriting to your MP is even lower impact than social media MPs will only listen to you if they know you have a sizable base of people who agree with youAs much as I hate social media myself you fail to understand its power It played a significant role in mobilising Egypts Revolution recently and this is only one example of many The Arab Spring has a lot to owe to this form of communication I dunno that ICToilets appears to have built up a lot of momentum
 imported: true
 ---
 

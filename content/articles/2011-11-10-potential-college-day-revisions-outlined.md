@@ -2,7 +2,7 @@
 title: >
   Potential College Day revisions outlined
 subtitle: >
-  Working Party recommends extended teaching hours for humanities 
+  Working Party recommends extended teaching hours for humanities
 date: "2011-11-10 19:46:58 +0000"
 id: "1705"
 old_path: /news/1705/potential-college-day-revisions-outlined
@@ -50,7 +50,7 @@ The latest recommendations made by the College Day Working Party suggest that te
 
 Furthermore, Departments would have to set aside 5pm to 7pm on Tuesdays and Thursdays and noon to 2pm on either Monday or Friday for certain year groups for further Humanities teaching. The Working Party argues against setting aside this time for all students since ‘the majority of Departments offer Humanities in particular years’.
 
-Recommendations for the scheduling of exams have also been laid out. While under these recommendations departments would be able to timetable three examinations each day, individual students should only have to sit at most two; except in exceptional circumstances and with the relevant Examination Board having been informed. Additionally, students should not be required “to sit an early morning examination after having taken a late afternoon examination the previous day”.  
+Recommendations for the scheduling of exams have also been laid out. While under these recommendations departments would be able to timetable three examinations each day, individual students should only have to sit at most two; except in exceptional circumstances and with the relevant Examination Board having been informed. Additionally, students should not be required “to sit an early morning examination after having taken a late afternoon examination the previous day”.
  Both teaching and exams could be carried out from 8am to 7pm and on weekends and Bank Holidays in “exceptional circumstances”, such as “travel disruption caused by volcanic ash”.
 
 The Department of Humanities have outlined its own concerns, citing in a response to the recommendations that ‘If the recommendations of the College Day committee go ahead, many students will be prevented from taking a Humanities or Languages option of their choice,’ proceeding to claim that, ‘student choice and satisfaction will be seriously reduced for all’.

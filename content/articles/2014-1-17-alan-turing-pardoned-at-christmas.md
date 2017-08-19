@@ -2,7 +2,7 @@
 title: >
   Alan Turing Pardoned at Christmas
 subtitle: >
-  December 24th: World War Two Codebreaker Alan Turing finally receives Posthomous royal pardon 61 years after being convicted for “homosexuality”. 
+  December 24th: World War Two Codebreaker Alan Turing finally receives Posthomous royal pardon 61 years after being convicted for “homosexuality”.
 date: "2014-01-17 03:02:06 +0000"
 id: "4220"
 old_path: /news/4220/alan-turing-pardoned-at-christmas
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

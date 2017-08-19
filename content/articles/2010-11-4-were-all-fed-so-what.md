@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104202134-felix-john-terry.jpeg"
 image_caption: >
-  
+
 image_width: "468"
 image_height: "672"
 image_attribution: ""

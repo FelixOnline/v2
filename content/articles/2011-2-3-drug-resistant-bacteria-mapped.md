@@ -1,6 +1,6 @@
 ---
 title: >
-  Drug-resistant bacteria mapped 
+  Drug-resistant bacteria mapped
 subtitle: >
   Genome sequencing of pneumonia-causing bacteria may lead to new antibiotics
 date: "2011-02-03 19:57:17 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031954-ks607-somekind.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1241"
 image_attribution: ""

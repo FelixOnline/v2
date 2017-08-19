@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,7 +40,7 @@ Now I can see why physical shops are failing. We’ve been spoiled for too long,
 
 The PC release of ACIII rolled around on Friday just gone. Despite the fact that the branch I pre-ordered from (Oxford Street) had closed, the pre-order had been moved to Hamleys. Lovely. I really do enjoy pushing my way through a sea of whales and their spawn only a month before Christmas. Strike one.
 
-I turn up in the rain on the Saturday to find that the game has not even been delivered to the store yet and that they don’t know when it’ll be in stock. They only hold copies for 48hrs, so if I’m late to pick it up, they’ll sell it to the horde – “Come back on Monday” they say. I get back and realise that it’d be a good idea to leave my number with them. After 30 minutes of Googling and 10 minutes of conversations with automated phone-bots, I got nowhere and was charged for the pleasure. Strike two.  
+I turn up in the rain on the Saturday to find that the game has not even been delivered to the store yet and that they don’t know when it’ll be in stock. They only hold copies for 48hrs, so if I’m late to pick it up, they’ll sell it to the horde – “Come back on Monday” they say. I get back and realise that it’d be a good idea to leave my number with them. After 30 minutes of Googling and 10 minutes of conversations with automated phone-bots, I got nowhere and was charged for the pleasure. Strike two.
  I pop in on Monday, as I’ve no lectures till late – they take down my number and suggest I go and talk to one of their reps through their webchat service (which isn’t available during the weekend, FYI). During my chat with “Charlie”, we covered that I’d done nothing wrong, but there’s a very good chance that my pre-order had been sent to their Camden store instead. In other words, the game that I had started paying for, had been moved to another store without my knowledge and then, when I didn’t arrive on the other side of London to pick up the game, they sold it off. Charlie didn’t know when any store would be getting new stock and as my preorder was conducted in-store, I couldn’t get it transferred to an online purchase, forcing me to buy it online instead. Aaaaaaaaaaaannnd strike three!
 
 I’m gonna have a nice long complain to customer services. I think I’ll stick to the Steam sales for now. All the paranoia in the world about not having physical media can’t stop me from emptying my wallet into Gaben’s accounts.

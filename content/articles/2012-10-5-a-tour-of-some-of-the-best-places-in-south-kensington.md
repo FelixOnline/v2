@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,13 +31,13 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - No Chopstix Easily the best place in SK 
+ - No Chopstix Easily the best place in SK
 imported: true
 ---
 
 __Intro__
 
-It can be incredibly easy to end up spending all of your life just sitting in the library and only sampling JCR, SCR (if you’re lucky enough to be let in), Library Café, and, of course, all of the departmental cafés. Thing is, we happen to live around a whole load of amazing cafés. So sit back, relax, in the Library Café (obviously), chow down on your jacket potato with beans and cheese, and just pour over this. By which we mean pour over it in a reading way, don’t pour your beans over it. You may just find your new favourite restaurant, and discover that it’s right on your doorstep. As, let’s face it, you’ll end up living in the library at some point in your degree (\*both shudder as we remember the first term of third year chemistry\*).
+It can be incredibly easy to end up spending all of your life just sitting in the library and only sampling JCR, SCR (if you’re lucky enough to be let in), Library Café, and, of course, all of the departmental cafés. Thing is, we happen to live around a whole load of amazing cafés. So sit back, relax, in the Library Café (obviously), chow down on your jacket potato with beans and cheese, and just pour over this. By which we mean pour over it in a reading way, don’t pour your beans over it. You may just find your new favourite restaurant, and discover that it’s right on your doorstep. As, let’s face it, you’ll end up living in the library at some point in your degree (*both shudder as we remember the first term of third year chemistry*).
 
 __Rocca di papa ___73 Old Brompton Road_
 
@@ -57,13 +57,13 @@ With £5 pizzas from 5pm-7pm everyday this is a great place to get some cheap af
 
 __Le Pain Quotidien ___17 Exhibition Road_
 
-This is on that row of shops that includes a few cafes. It’s another one of those places that you just walk past everyday and think “I’ll definitely go to that at some point, probably”, then, inevitably, you don’t bother to actually go in the end.  
- Here’s the part that will make you think “nah, can’t be arsed”: it’s a little bit pricey. However, it is really worth it. They do these open faced sandwich things, called “tartines” apparently (yes, we are a bit uncultured and so had to look that up). The roasted vegetable one is particularly nice. The grilled goat’s cheese and roasted vegetable toasted tartine (we feel very sophisticated saying this as if we knew it all along) is really great. Maybe that’s because I (Tim) have an almost perverse love of goat’s cheese, or it could be the great salad dressing that they give you. We know that we’ve been banging on about salad dressing way too much in this article, but, honestly, salad is just leaves and shit without the dressing: in other words, it’s the dressing that makes it.  
+This is on that row of shops that includes a few cafes. It’s another one of those places that you just walk past everyday and think “I’ll definitely go to that at some point, probably”, then, inevitably, you don’t bother to actually go in the end.
+ Here’s the part that will make you think “nah, can’t be arsed”: it’s a little bit pricey. However, it is really worth it. They do these open faced sandwich things, called “tartines” apparently (yes, we are a bit uncultured and so had to look that up). The roasted vegetable one is particularly nice. The grilled goat’s cheese and roasted vegetable toasted tartine (we feel very sophisticated saying this as if we knew it all along) is really great. Maybe that’s because I (Tim) have an almost perverse love of goat’s cheese, or it could be the great salad dressing that they give you. We know that we’ve been banging on about salad dressing way too much in this article, but, honestly, salad is just leaves and shit without the dressing: in other words, it’s the dressing that makes it.
  The atmosphere, well, put it this way: it’s very much somewhere you can sit in and forget all about quantum mechanics in. We recently found out, with a pang of horror, that this is actually a chain, but oh well, it’s still worth it.
 
 __Med Kitchen__ _17 Exhibition Road_
 
-This place is niiiiiiice. And as expected, some plates come at a price. However, we’ve found a way to enjoy the 5\* environment without having to max out your overdraft. Go here for a pot of tea and chips. Chips are £2.95 and you get a big wooden bowl full. They’re proper thin fries, and are really great with meals. This sounds odd, but the reason that we even tried this place was that we always see loads of people with amazing looking platefulls of chips. It took some courage (and a long day of work, and therefore lowered regard for our bank balances) to go in and try it. Amazingly, tea is £1.95 for a pot – cheaper than Starbucks. If you’ve got a spare afternoon and want a change of scenery, we highly recommend that you hang out here for a bit. The three egg omelettes are worth a try. That, chips, and tea is a pretty boss dinner.
+This place is niiiiiiice. And as expected, some plates come at a price. However, we’ve found a way to enjoy the 5* environment without having to max out your overdraft. Go here for a pot of tea and chips. Chips are £2.95 and you get a big wooden bowl full. They’re proper thin fries, and are really great with meals. This sounds odd, but the reason that we even tried this place was that we always see loads of people with amazing looking platefulls of chips. It took some courage (and a long day of work, and therefore lowered regard for our bank balances) to go in and try it. Amazingly, tea is £1.95 for a pot – cheaper than Starbucks. If you’ve got a spare afternoon and want a change of scenery, we highly recommend that you hang out here for a bit. The three egg omelettes are worth a try. That, chips, and tea is a pretty boss dinner.
 
 __Best of the rest__
 

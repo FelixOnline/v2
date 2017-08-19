@@ -39,11 +39,11 @@ Yesterday the union told RAG its magazine of adverts and satire was “beyond th
 
 Not banning it as such, the union strongly advised RAG to surrender all leftover copies as well as issue an apology to all those affected, understood by FELIX to be the Union President.
 
-FELIX has seen the 16 page handout, which is mainly adverts for RAG week events, including the bungee jump, tunnel tours and the Valentine’s Ball. There are three or four pages of ‘satire’ of the union\-hack variety, which \(obviously\) we are unable to print here. The offending piece was a mock diary entry, reminiscent of FELIX Hangman’s ‘Diary of a Fresher’ written from the perspective of the Union President.
+FELIX has seen the 16 page handout, which is mainly adverts for RAG week events, including the bungee jump, tunnel tours and the Valentine’s Ball. There are three or four pages of ‘satire’ of the union-hack variety, which (obviously) we are unable to print here. The offending piece was a mock diary entry, reminiscent of FELIX Hangman’s ‘Diary of a Fresher’ written from the perspective of the Union President.
 
 Its writer told FELIX they were “appalled” at the union’s decision to “censor” the piece.
 
-“I hope that the Union's attempts to withdraw all copies of the uncensored version will not be successful, and that the students who do get to see the Mag as\-is will realise how absurd the response of the Union has been”.
+“I hope that the Union's attempts to withdraw all copies of the uncensored version will not be successful, and that the students who do get to see the Mag as-is will realise how absurd the response of the Union has been”.
 
 500 copies of the 2000 magazines RAG printed have already been given out around campus. This cost RAG around £400.
 
@@ -51,7 +51,7 @@ Alice Gast, the president of Imperial, who wrote a short introduction for the ma
 
 "I find the mean spirited approach to targeting of individuals within the magazine disgusting and am sorry that I agreed to provide a note for inclusion in it".
 
-"I’m pleased to see the Union’s strong response and its willingness to work with the RAG committee to make sure this year’s RAG Week is a success.” 
+"I’m pleased to see the Union’s strong response and its willingness to work with the RAG committee to make sure this year’s RAG Week is a success.”
 The union has told the Raising and Giving society that they can distribute a revised version of the magazine only if the offending page is replaced with an advert for the union’s own upcoming elections. The union has also offered to reprint it, which would allow the new magazine to be distributed by Monday. RAG are likely to take them up on this offer, having already lost several days of promotion for next week’s events.
 
 RAG told FELIX: “Every year RAG issues it’s RAG Mag, which is designed to be a funny but controversial magazine which promotes our great RAG Events”.

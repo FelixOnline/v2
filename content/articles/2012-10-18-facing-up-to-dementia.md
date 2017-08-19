@@ -2,7 +2,7 @@
 title: >
   Facing up to dementia
 subtitle: >
-  The Foundation for Science opens up the discussion 
+  The Foundation for Science opens up the discussion
 date: "2012-10-18 21:17:47 +0100"
 id: "2698"
 old_path: /science/2698/facing-up-to-dementia
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210191352-tna08-brain1.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - We are ageist We fear our own end of life We fear dementiaSad but true stuff 
+ - We are ageist We fear our own end of life We fear dementiaSad but true stuff
 imported: true
 ---
 
@@ -43,7 +43,7 @@ She also argued that in order to rid the stigma, all sectors of society must und
 
 The following speaker, Professor Julienne Meyer, director of the My Home Life programme at City University, develops action research and uses it to improve care home qualities. She works with the Government to carry out its initiative of creating dementia friendly communities involving those who live, die, visit and work in homes.
 
-“They are coming into care homes at a point of crisis so I really welcome opening up to volunteers to educate the public to start thinking about their own frailty and end of life.  
+“They are coming into care homes at a point of crisis so I really welcome opening up to volunteers to educate the public to start thinking about their own frailty and end of life.
  “Society has turned its back on care homes. We are ageist. We fear our own end of life. We fear dementia.”
 
 These social perspectives were complemented with a speech from Professor James Goodwin, Head of Research at Age UK.

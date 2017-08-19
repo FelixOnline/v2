@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511131433-ygr12-ned-and-jaime.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Do you have any video of that Id like to find out more detailsparajumpers new anchorage man httpcrownmodelscomusaparajumpersnewanchorageman16995htmlSmall Towns Like Lincolntonis where it becomes seruois an a unwanted take over that should be illlegalBy increased numbers and meeting in private East Lincoln is making un wanted changes in our country town and our county If they are coming down here for what we have why make it the same mess they left by sheer numbers they are winning county commiioner seatsnow running for school board seats and planning boards they want the natives out and to take over as they have the Lake the beaches mountains and every thing else WE DO NOT WANT YOU HERE GET THE HELL OUT YOU HAVE RUINED OUT COAST  NOW OUR MOUNTAINS  GO HOME Our wells are drying Lake Norman is a joke you watered flowers then whined watch the wells we are on the same water plane Lincoln County will be silent until they can take no more then watch us 
+ - Do you have any video of that Id like to find out more detailsparajumpers new anchorage man httpcrownmodelscomusaparajumpersnewanchorageman16995htmlSmall Towns Like Lincolntonis where it becomes seruois an a unwanted take over that should be illlegalBy increased numbers and meeting in private East Lincoln is making un wanted changes in our country town and our county If they are coming down here for what we have why make it the same mess they left by sheer numbers they are winning county commiioner seatsnow running for school board seats and planning boards they want the natives out and to take over as they have the Lake the beaches mountains and every thing else WE DO NOT WANT YOU HERE GET THE HELL OUT YOU HAVE RUINED OUT COAST  NOW OUR MOUNTAINS  GO HOME Our wells are drying Lake Norman is a joke you watered flowers then whined watch the wells we are on the same water plane Lincoln County will be silent until they can take no more then watch us
 imported: true
 ---
 

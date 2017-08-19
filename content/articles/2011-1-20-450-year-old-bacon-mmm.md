@@ -1,6 +1,6 @@
 ---
 title: >
-  450 year old Bacon. Mmm 
+  450 year old Bacon. Mmm
 subtitle: >
   It's Sir Francis Bacon's birthday!
 date: "2011-01-20 19:37:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201935-ks607-baconbac.jpg"
 image_caption: >
-  
+
 image_width: "814"
 image_height: "1337"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022049-ac1507-Weezer.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "310"
 image_attribution: ""

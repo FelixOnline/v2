@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201192218-felix-human.jpg"
 image_caption: >
-  The Department of Humanities has spent the last three years in a state of 
+  The Department of Humanities has spent the last three years in a state of
 image_width: "4288"
 image_height: "2848"
 image_attribution: "Jonathan Peek"

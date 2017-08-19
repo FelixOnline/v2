@@ -2,7 +2,7 @@
 title: >
   Just what funding is available for clinical students?
 subtitle: >
-  What grants and loans are medical students entitled to? 
+  What grants and loans are medical students entitled to?
 date: "2015-01-29 23:55:41 +0000"
 id: "5157"
 old_path: /news/5157/just-what-funding-is-available-for-clinical-students

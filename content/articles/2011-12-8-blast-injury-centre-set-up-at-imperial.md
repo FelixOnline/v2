@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082001-pk1811-yl5f3643.jpg"
 image_caption: >
-  Professor Anthony Bull, Director of the newly opened Centre 
+  Professor Anthony Bull, Director of the newly opened Centre
 image_width: "3328"
 image_height: "4992"
 image_attribution: "Imperial College London"

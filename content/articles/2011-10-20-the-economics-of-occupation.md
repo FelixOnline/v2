@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110202239-felix-340469_388631624959_512764959_1479651_1393739666_o.jpg"
 image_caption: >
-  Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian? 
+  Julian Assange addressing eager protestors at St Paul’s Cathedral. Where’s Julian?
 image_width: "2048"
 image_height: "1366"
 image_attribution: "Kadhim Shubber"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…  
+As we picked our way through the tents outside St Paul’s Cathedral this Monday one thing was clear: anarchists are not an easy bunch to organise. Not a surprise, perhaps, but add to this a passionate belief in not telling others what to do, and suddenly you find yourself voting about whether to vote…
  We visited the makeshift campsite for a couple of hours, waiting for the General Assembly at 7pm. The meeting didn’t get under way for another half hour while some organisers politely asked the crowds to take a seat by the cathedral’s imposing steps. The whole effort was like herding cats but where the cats are dead. Throughout the meeting, organisers repeated and repeated how everything was “just a suggestion”. But while this disorganisation was all rather cute and harmless, it slightly undermines the message that people in this country ought to hear – our economy needs change.
 
 These protests are for a reason – the world’s economy is still in a mess. Banks and global financial institutions are powerless to solve this crisis. Governments are even more impotent. How much of this can really be a surprise? We have more or less the same economic system today as that which brought the economy to its knees just three years ago; we built an engine that we didn’t know how to fix and no-one has come up with anything different.
@@ -66,10 +66,10 @@ __What’s to be done?__
 
 Unlike some of London’s protesters, Stiglitz is no communist and recognises the importance of markets - the key is regulation. As the world sits on the brink of what may well be a double dip recession, here are his suggestions for policy changes to make a difference:
 
-1. Separate commercial banks from investment banks - banks shouldn’t be taking huge risks with ordinary households’ money.  
- 2. Require banks to keep some of the mortgages they sell on their books to ensure they have a vested interest on providing loans to those how can afford them.  
- 3. Give share holders greater say over executive pay and stop payments in stock options - they encourage short-term thinking.  
- 4. Require bailout funds to go to small and medium sized business. Much of it is their money, after all.  
+1. Separate commercial banks from investment banks - banks shouldn’t be taking huge risks with ordinary households’ money.
+ 2. Require banks to keep some of the mortgages they sell on their books to ensure they have a vested interest on providing loans to those how can afford them.
+ 3. Give share holders greater say over executive pay and stop payments in stock options - they encourage short-term thinking.
+ 4. Require bailout funds to go to small and medium sized business. Much of it is their money, after all.
  This is Stiglitz’s manifesto for change. As protesters endure the biting winds outside St Paul’s, they could do worse than adopt it too. Free markets have failed but markets can still work within sensible rules. But this isn’t the whole story. The protestors are also campaigning against the erosion of our democracy, in which government rules in the corporate interest rather than the public interest (the trickle-down myth used to pretend that the two are one and the same), and they are also protesting the enormous inequality in our society.
 
 2008 should have been our wakeup call. Instead policy-makers decided that it was just part of the normal capitalistic boom and bust. It’s clear that there has been a much deeper shift. We need to re-evaluate how we run our society, and to whose advantage the current system is geared. Failure to change in 2008 brought around the current difficulties. The world cannot afford to make the same mistake twice.

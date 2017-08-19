@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial needs to start raising serious money 
+  Imperial needs to start raising serious money
 subtitle: >
   Changes to university funding require Imperial to act fast
 date: "2010-11-11 21:50:35 +0000"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Matt I think youve hit the nail on the headIf the College wants money from us when we graduate theyre going to have to do something about their student satisfaction 
+ - Matt I think youve hit the nail on the headIf the College wants money from us when we graduate theyre going to have to do something about their student satisfaction
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201410171610-kmw13-tbl_rcsu_autumn_ball-116.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Benjamin Lester"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Call me a traditionalist and Ill admit now that I dont know why Monday was picked but I think it might have been quite nice to have the RCSU ball on one of the traditional pissup nights  Friday or Saturday   I might have gone then as might othersShort of Sunday evening Monday night and forgive me for there follows some cold hard opinion is probably the worst night of the week to have a late night let alone getting smashed if thats your shot of teaLet me give myself and my immediate friends as examples  were final year undergrads whove just returned from a year out to find the coursework piled on in the first week  Now obviously we really want to get to know people and make new friends  weve few left as our original year group has graduated and this ball would have been a great occasion to do so  I speak for myself and some others I know  wed have liked to go but were put off by its being at the beginning of the week  I suppose Iwe could have been adventurous gone to 
+ - Call me a traditionalist and Ill admit now that I dont know why Monday was picked but I think it might have been quite nice to have the RCSU ball on one of the traditional pissup nights  Friday or Saturday   I might have gone then as might othersShort of Sunday evening Monday night and forgive me for there follows some cold hard opinion is probably the worst night of the week to have a late night let alone getting smashed if thats your shot of teaLet me give myself and my immediate friends as examples  were final year undergrads whove just returned from a year out to find the coursework piled on in the first week  Now obviously we really want to get to know people and make new friends  weve few left as our original year group has graduated and this ball would have been a great occasion to do so  I speak for myself and some others I know  wed have liked to go but were put off by its being at the beginning of the week  I suppose Iwe could have been adventurous gone to
 imported: true
 ---
 

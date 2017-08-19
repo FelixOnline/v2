@@ -1,6 +1,6 @@
 ---
 title: >
-  Pain in the career 
+  Pain in the career
 subtitle: >
   This recession malarky has got everyone worried about their career prospects. Apart from Matt. And Danny Dyer
 date: "2011-02-28 20:30:14 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102282028-ks607-menwalki.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "427"
 image_attribution: ""

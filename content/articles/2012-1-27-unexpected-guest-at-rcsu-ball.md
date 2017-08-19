@@ -2,7 +2,7 @@
 title: >
   Unexpected guest at RCSU Ball
 subtitle: >
-  Cricketer commotion as students raise money for RAG 
+  Cricketer commotion as students raise money for RAG
 date: "2012-01-27 00:27:57 +0000"
 id: "2081"
 old_path: /news/2081/unexpected-guest-at-rcsu-ball
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

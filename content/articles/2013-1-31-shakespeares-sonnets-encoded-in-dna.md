@@ -1,6 +1,6 @@
 ---
 title: >
-  Shakespeare’s sonnets encoded in DNA 
+  Shakespeare’s sonnets encoded in DNA
 subtitle: >
   Could DNA storage be the future?
 date: "2013-01-31 23:35:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301312335-tna08-block8.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -42,7 +42,7 @@ The findings, reported in Nature, suggest that DNA is the perfect archive. Enorm
 
 The team led by Nick Goldman translated computer files into DNA code, synthesised the DNA, sequenced it, and reconstructed the files with 100 percent accuracy.
 
-All the data was stored on 153,335 strings of DNA, each made up of 117 nucleotides.  
+All the data was stored on 153,335 strings of DNA, each made up of 117 nucleotides.
  Nick Goldman suggests that DNA storage could be used in large-scale, long-term projects, for example, at CERN, the European nuclear research centre in Geneva. Eighty petabytes – that is 1 million gigabytes – of data about the Large Hadron Collider currently stored on disk could be kept in a small amount of DNA.
 
 Technological advances are rapidly reducing DNA synthesis costs, suggesting this form of storage might be with us sooner than we think.

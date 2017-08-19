@@ -36,8 +36,8 @@ imported: true
 
 __The Grey__
 
-__Director __Joe Carnahan  
-__Screenwriters__ Joe Carnahan, Ian MacKenzie Jeffers  
+__Director __Joe Carnahan
+__Screenwriters__ Joe Carnahan, Ian MacKenzie Jeffers
 __Cast__ Liam Neeson, Frank Grillo, Dermot Mulroney, Dallas Roberts, Joe Anderson
 
 If you like dogs, don’t watch this ﬁlm.

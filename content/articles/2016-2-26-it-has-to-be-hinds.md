@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Ana Perrote, Carlotta Cosials, Ade Martin and Amber Grimbergen. Together they are **Hinds**, a Spanish band on the cutting edge of the garage rock scene in Madrid with a debut album poised to break them out further still. Formed in the summer of 2011 by Ana and Carlotta \(the vocalists and guitarists of the quartet\), the two went under the moniker of ‘Deers’ until a legal dispute made them change their name, but not before they added bassist Ade and drummer Amber.
+Ana Perrote, Carlotta Cosials, Ade Martin and Amber Grimbergen. Together they are **Hinds**, a Spanish band on the cutting edge of the garage rock scene in Madrid with a debut album poised to break them out further still. Formed in the summer of 2011 by Ana and Carlotta (the vocalists and guitarists of the quartet), the two went under the moniker of ‘Deers’ until a legal dispute made them change their name, but not before they added bassist Ade and drummer Amber.
 
 2014 was when the band started to gain traction outside of their Spanish sphere after the release of their two singles, ‘Demo’ and ‘Barn’, prompted European and US tours and slots at Glastonbury and Benicàssim.
 
@@ -42,11 +42,11 @@ The culmination of this rise is their debut album, _Leave Me Alone_ which was re
 
 The music itself isn’t overly complex but the raw emotion shines through, notably in the call and response which Perrote and Cosials often engage in, leading into a flurry of lyrics and guitar riffs. The lyrics themselves are also a standout point with them being written in a second language, a kind of warped and twisted English. This gives rise to odd and quirky lyrics, adding to the whole craze of the songs.
 
-The opening track, ‘Garden’, is initially an upbeat and punchy song, transforming into an impassioned, almost love drunk plea to a distant lover of “give me the keys and I’ll show you how to fight for more” and sets the tone for the remainder of the album, described by the band as “the 12 faces of love \[they’ve\] experienced”.
+The opening track, ‘Garden’, is initially an upbeat and punchy song, transforming into an impassioned, almost love drunk plea to a distant lover of “give me the keys and I’ll show you how to fight for more” and sets the tone for the remainder of the album, described by the band as “the 12 faces of love [they’ve] experienced”.
 
 _Leave Me Alone_ then works its way through ‘Fat Calmed Kiddos’, a bizarre title encompassing another passionate breakup ballad, and onto ‘Warts’ and ‘Easy’. Both follow similar themes, of jealousy and breakups, as well as starting off slowly before building to a crescendo of jangly guitars and vocal outbursts by Ana and Carlotta, by which time you can’t help feel pumped up and passionate towards their cause.
 
-What follows is the craziest song on the album, ‘Castigadas en el Granero’ \(roughly translated to ‘Grounded in the Barn’\). A blend of mad lyrics are present \(“all I see is a big cow / and now I’m eating all your corn\)” but are hardly recognisable in the frenzy which ensues. It feels like you should be dancing around like nobody’s watching by the end of it, and this is neatly followed by ‘Solar Gap’, a twinkly guitar instrumental echoing the hazy end to a party.
+What follows is the craziest song on the album, ‘Castigadas en el Granero’ (roughly translated to ‘Grounded in the Barn’). A blend of mad lyrics are present (“all I see is a big cow / and now I’m eating all your corn)” but are hardly recognisable in the frenzy which ensues. It feels like you should be dancing around like nobody’s watching by the end of it, and this is neatly followed by ‘Solar Gap’, a twinkly guitar instrumental echoing the hazy end to a party.
 
 This soothing mood leads back into the second half of the album, with themes staying around the trials and tribulations of young love. “I am flirting with this guy, just to pretend I’m fine” gives off a vibe of passive aggressive backstabbing at a former flame, akin to staring across a room and toying with them.
 
@@ -54,7 +54,7 @@ This soothing mood leads back into the second half of the album, with themes sta
 
 The final two tracks on the album, “I’ll Be Your Man” and “Walking Home”, are reconciliatory tunes, with the former fitting in the same calming vibe as ‘And I Will Send Your Flowers Back’, leading nicely into the closing track which returns to the upbeat roots that opened the album up.
 
-The crazed lyrics also are present again, “You’re the rice of my bowl” being a particular favourite outburst \(and also a rejected Valentine’s Day card slogan\). The album ends on a cliffhanger, fading “You’re the love of my life” quietly to silence, mirroring the closing moments of a sunset and a fleeting summer romance.
+The crazed lyrics also are present again, “You’re the rice of my bowl” being a particular favourite outburst (and also a rejected Valentine’s Day card slogan). The album ends on a cliffhanger, fading “You’re the love of my life” quietly to silence, mirroring the closing moments of a sunset and a fleeting summer romance.
 
 But where these songs are a decent listen on a tube ride, they take on a whole new life when played live. The band performed at KOKO in Camden last Thursday, to their largest headline crowd to date and their ninth sell out show in London. The band were initially taken aback by the reception from the audience, and it took them a couple of songs to overcome emotions and settle fully into their groove. When they did however, they played with a youthful exuberance that the recorded version just couldn’t capture.
 

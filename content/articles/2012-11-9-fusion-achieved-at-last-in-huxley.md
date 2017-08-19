@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091311-tna08-all-matter-is-the-same-rgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ Over the sound of the howling wind we begun to talk about here experiences and h
 
 __Meredith: When did you start this residency?__
 
-Geraldine: Well, it’s hazy. I started thinking about connecting physics with art about three years ago.  
+Geraldine: Well, it’s hazy. I started thinking about connecting physics with art about three years ago.
  I originally did a degree in Physics then I worked for Accenture for a few years. You don’t need to mention that [laughs]. Then I went to art school for four years. After you’ve learned to be an artist and you’ve learned to paint, you ask yourself – “what shall I make work about? What do I want to say?”
 
 That was why I came here. I had a hunch that there would be something here to talk about, and I had the background to do it.
@@ -52,7 +52,7 @@ I was incredibly lucky, I went to a talk one night and met the speaker – he pu
 __M: How would you describe yourself and your work?__
 
 G: I really try to avoid any labels. Sometimes my work is educational or documentary and sometimes it is expressive or poetic. Sometimes it is about the science, sometimes it is about the people. I don’t really worry about it. I call myself an artist, but that is because I am interested in expressing different ideas. But the artist in residence thing is a bit too formal for me.
-TODO: image from 
+TODO: image from
 __M: So what did you feel that you could gain from this relationship you have with the physics department... whatever it is?__
 
 G: Well, I didn’t have a clear idea when I started. I felt that there were things there that were really worth exploring and expressing as an artist. Other than that I had really no idea what I expected.
@@ -71,7 +71,7 @@ __M: Has the experiencelived up to your expectations?__
 
 G: The thing about being here is that your mind is constantly being stretched because you are always experiencing and thinking of the world in different ways – developing different abstract models all the time. It’s just incredibly exciting. It’s more exciting than a lot of art. The ideas come so thick and fast here and it colours in your mental image of the world. So for me – this is the most stimulating place to hang out. M - Wow! Newsflash! You can definitely have too many physicists in one room. Definitely... more than two [laughs].
 
-My own experience of life is richer because anything I look at has layers of meaning. I can look at the poem I read yesterday that makes me look at the world in a different way, or I can look at what is happening to the light bouncing off the tree down there. It just makes every moment richer.  
+My own experience of life is richer because anything I look at has layers of meaning. I can look at the poem I read yesterday that makes me look at the world in a different way, or I can look at what is happening to the light bouncing off the tree down there. It just makes every moment richer.
  One of the things I am really interested in is how physics identifies patterns. My project is called finding patterns. So that was a notion, and idea I had at the start. I see it really strongly now, the name is really the right name.
 
 __M: Do you feel that there is a big void between the art world as you experienced it and academia and the sciences?__
@@ -85,7 +85,7 @@ Some people sense that: that artists have an agenda to put out there and they wi
 Maybe it’s down to education. Maybe it’s just that people don’t have a way in. A friend always says that science is a channel, or a way of looking at the world, as is poetry or painting. The most wonderful thing is to include various aspects of those in your life as ways of talking about your experience of being there and understanding it.
 
 In a way they are complementary, not competing. Part of what I am trying to do is open doors and help people to understand how science can help complement how they understand the world alongside other things.
-TODO: image from 
+TODO: image from
 __M: Where do you think these differences arise?__
 
 G: Maybe our education system silos people too much, separating them out into art and science and having very different ways of thinking. I’m not sure it has to be like that. I meet young people all the time who feel this way and are trying to bridge the gap and talk about the world in all its beautiful complexity by whatever means they can.
@@ -126,7 +126,7 @@ I’m walking around all the time and asking questions and playing things back t
 
 __M - Do you think every department shouldhave a... someone in your role?__
 
-G: You know, I really don’t know. It all depends on the people – it’s not something that can necessarily be organised by shipping artists into organisations. There can certainly be great benefits.  
+G: You know, I really don’t know. It all depends on the people – it’s not something that can necessarily be organised by shipping artists into organisations. There can certainly be great benefits.
  This is a very personal project for me, it’s very philosophical and personally driven, so I behave in a certain way. The reason I am not looking at working in other departments, is also that I am overwhelmed here. It is a really big department, I’ve changed track so many times in my life, I just can’t go and do it again. This is really enough. This is a big pie to eat.
 
 Find out more about Geraldine’s work at [www.findingpatterns.info](http://www.findingpatterns.info)

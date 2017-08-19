@@ -1,6 +1,6 @@
 ---
 title: >
-  Mini ‘Little Ice Age’ periods explained 
+  Mini ‘Little Ice Age’ periods explained
 subtitle: >
   Luke Sheldon reports on the link between solar cycles and severe winters
 date: "2011-10-20 21:16:29 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

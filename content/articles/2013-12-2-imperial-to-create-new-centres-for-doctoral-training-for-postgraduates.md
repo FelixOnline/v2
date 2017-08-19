@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -45,7 +45,7 @@ The announcement was made by David Willetts, who is the Minister for Universitie
 
 The Provost of Imperial, Professor James Stirling commented: “These awards underline Imperial’s status as a powerhouse for postgraduate education and research.
 
-“Imperial will use its highest ever number of CDTs to train the next generation of leaders in science and engineering while undertaking research that makes a real, long-lasting contribution. This will strengthen higher education, industry and society alike.  
+“Imperial will use its highest ever number of CDTs to train the next generation of leaders in science and engineering while undertaking research that makes a real, long-lasting contribution. This will strengthen higher education, industry and society alike.
  “In recent years, Imperial’s CDTs have pioneered a series of innovations in doctoral training, including the development of bespoke professional skills training, public engagement, entrepreneurship and cohort-building. This approach has cultivated the right environment for students to combine world-class training in research with the acquisition of a broad range of work-ready skills. Our new CDTs will enable us to take this successful approach to the next level.”
 
 The Chair of the EPSRC, Paul Golby said that: “Centres for Doctoral Training have already proved to be a great success and the model is popular with students, business and industry. These new centres will give the country the highly trained scientists and engineers it needs and they will be equipped with skills to move on in their careers.”

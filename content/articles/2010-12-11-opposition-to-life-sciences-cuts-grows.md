@@ -2,7 +2,7 @@
 title: >
   Opposition to Life Sciences cuts grows
 subtitle: >
-  The John Innes Centre declares opposition to the Life Sciences cuts 
+  The John Innes Centre declares opposition to the Life Sciences cuts
 date: "2010-12-11 15:16:32 +0000"
 id: "547"
 old_path: /news/547/opposition-to-life-sciences-cuts-grows
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092147-dr910-sophiada.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://www.kadhimshubber.com"
 author_website_title: "Tumblr"
 
 comments:
- - Well done Felix  your coverage has been consistently brilliant and fair I am also very impressed by the activities of the Imperial College Union an emerging force clearly to be reckoned withIve made a Freedom of Information request for some of the missing informationhttpwwwwhatdotheyknowcomrequestimperial_college_department_of_lI think one of the many underlying problems here might be a mismatch occurring over time between the departments research and teaching so ICUs call for the proposals to be put onhold pending a teaching review appears sensible to me Ive written an article on my viewshttpwwwrtaylorcoukimperiallifesciencesrestructuringhtml I dont know if it happens already but the department may save itself if there is an arrangement between the faculty and the schoolsuch that if research done at the school results in a commercially successful producta druga therapy etcthe school gets a cut of the profit That would be up to the professors to 
+ - Well done Felix  your coverage has been consistently brilliant and fair I am also very impressed by the activities of the Imperial College Union an emerging force clearly to be reckoned withIve made a Freedom of Information request for some of the missing informationhttpwwwwhatdotheyknowcomrequestimperial_college_department_of_lI think one of the many underlying problems here might be a mismatch occurring over time between the departments research and teaching so ICUs call for the proposals to be put onhold pending a teaching review appears sensible to me Ive written an article on my viewshttpwwwrtaylorcoukimperiallifesciencesrestructuringhtml I dont know if it happens already but the department may save itself if there is an arrangement between the faculty and the schoolsuch that if research done at the school results in a commercially successful producta druga therapy etcthe school gets a cut of the profit That would be up to the professors to
 imported: true
 ---
 

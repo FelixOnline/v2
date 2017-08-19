@@ -2,7 +2,7 @@
 title: >
   Postgraduate Loan System announced
 subtitle: >
-  Students can now get funding for taught and research masters courses 
+  Students can now get funding for taught and research masters courses
 date: "2014-12-09 13:45:25 +0000"
 id: "5016"
 old_path: /news/5016/postgraduate-loan-system-announced
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412091345-ps3110-george-osborne.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

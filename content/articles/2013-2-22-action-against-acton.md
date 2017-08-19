@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220138-tna08-stack-of-coins.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-What’s the point of widening participation and encouraging the brightest minds to apply to Imperial – if they’re then not going to be able to afford to come. Or worse, can \*just\* afford to come but get placed in a[ hall in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/)?
+What’s the point of widening participation and encouraging the brightest minds to apply to Imperial – if they’re then not going to be able to afford to come. Or worse, can *just* afford to come but get placed in a[ hall in North Acton](http://felixonline.co.uk/news/3347/anger-over-new-halls/)?
 
 For the last six months, I and the [Deputy President (Welfare), Becky](https://www.imperialcollegeunion.org/your-union/your-representatives/sabbatical-officers/becky-lane) have been arguing against the North Acton development that will probably replace Evelyn Gardens – and now, the probable closure of Garden Hall too. College has listened, and even, I’d go as far to say, accepts that North Acton isn’t a good plan – it’s an insurance plan in case something better doesn’t come along. What worries me is that they’ll now stop looking for alternatives.
 

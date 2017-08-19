@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105221341-felix-institute-steps-photo-021181-by-sydney-newbery.jpg"
 image_caption: >
-  
+
 image_width: "2540"
 image_height: "3324"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Some more photoshttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxhttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxSame old story aint it when a load of nondescript municipal overremunerated muckers of various aesthetic taste or not at all get stuck in to deciding upon whether an edifice of yore that some thick is an eyesore and others regard as a feast to the eye should be raised to the ground or raised in praise   
+ - Some more photoshttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxhttpwwwarchitecturecomLibraryDrawingsAndPhotographsAlbertopolisTheStoryOfImperialCollegeImperialCollegeaspxSame old story aint it when a load of nondescript municipal overremunerated muckers of various aesthetic taste or not at all get stuck in to deciding upon whether an edifice of yore that some thick is an eyesore and others regard as a feast to the eye should be raised to the ground or raised in praise
 imported: true
 ---
 
@@ -48,8 +48,8 @@ The demolition began in 1957 with the destruction of the rear galleries in the e
 One man, Brigadier Arthur Fortescue of the Coldstream Guards, was so appalled by the act of vandalism that he dashed in and out of the demolition site rescuing “bits of decorative stonework”, as reported in the Evening Standard.
 
 Work on the tower’s structural foundations began on the 14th of March 1966. The tower was cleaned and a new lower balcony was added. The project was finally completed in 1969, along with the ‘College Block’ development which included the Central Library building and the Great Hall.
-TODO: image from 
-TODO: image from 
-TODO: image from 
-TODO: image from 
-TODO: image from 
+TODO: image from
+TODO: image from
+TODO: image from
+TODO: image from
+TODO: image from

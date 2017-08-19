@@ -1,8 +1,8 @@
 ---
 title: >
-  When the skies became green 
+  When the skies became green
 subtitle: >
-  International effort to make air travel greener begins at Imperial 
+  International effort to make air travel greener begins at Imperial
 date: "2011-01-27 19:05:44 +0000"
 id: "662"
 old_path: /science/662/when-the-skies-became-green-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271904-ks607-aeroplan.jpg"
 image_caption: >
-  
+
 image_width: "1242"
 image_height: "751"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - 
+ -
 imported: true
 ---
 

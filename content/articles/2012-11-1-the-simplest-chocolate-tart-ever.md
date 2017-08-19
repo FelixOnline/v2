@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -58,7 +58,7 @@ __Procedure:__
 
 Yes... This is indeed the simplest tart; very healthy and it has a rich, dark chocolate taste.
 
-You start by lightly greasing a 9-inch pie pan.  
+You start by lightly greasing a 9-inch pie pan.
  Then, use ablender to blend the almonds and the dates. Press the mixture in the pie pan and place it in the fridge. To make the filling simply blend all the filling ingredients until completely smooth and then pour it on the base.
 
 Leave it in the freezer to set for about 2 hours. Finally, dust with icing sugar or cocoa powder. Enjoy!

@@ -1,6 +1,6 @@
 ---
 title: >
-  Ilomilo: Cute but still smart 
+  Ilomilo: Cute but still smart
 subtitle: >
   Simon Worthington reviews new puzzle game ilomilo, on Xbox Live Arcade or Windows Phone
 date: "2011-01-13 19:54:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131953-ks607-imolio.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "720"
 image_attribution: ""

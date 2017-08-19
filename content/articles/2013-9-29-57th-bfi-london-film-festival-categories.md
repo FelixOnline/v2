@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201309291653-jal08-lff-2013-small-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - I wish    it would be more productive than what I did do The blood bank tech misesd and infiltrated the vein which meant I had a rinseback failure so now Im out for eight weeks instead of two rinseback failures are treated like wholeblood draws under their protocolInstead Im sitting at Epoch coffee house and trying to make sense of the last six or seven months of bills that I didnt keep track of at the time I paid them Which for me is worse than a case of the itchI went to tons of links before this what was I thginink  avoiding diary   viagra for sale   cell wall   counterparts   favor getting 
+ - I wish    it would be more productive than what I did do The blood bank tech misesd and infiltrated the vein which meant I had a rinseback failure so now Im out for eight weeks instead of two rinseback failures are treated like wholeblood draws under their protocolInstead Im sitting at Epoch coffee house and trying to make sense of the last six or seven months of bills that I didnt keep track of at the time I paid them Which for me is worse than a case of the itchI went to tons of links before this what was I thginink  avoiding diary   viagra for sale   cell wall   counterparts   favor getting
 imported: true
 ---
 
@@ -67,21 +67,21 @@ Bruce Dern won the Best Actor prize at this year’s Cannes Film Festival, in Al
 
 ####  Parkland
 
-Would you like to see Zac Efron as your surgeon if you’ve just been shot? Yeah...me neither...but in Parkland, President John F. Kennedy’s shocking assassination leaves the entire country in turmoil. The hospital staff (including Efron - the surgeon on-call it seems, and Marcia Gay Harden as a nurse), the authorities (led by Billy Bob Thornton) are working as quickly as they can to track down the shooter/shooters, and Paul Giamatti plays Abraham Zapruder, the man who inadvertently filmed the assassination.  
+Would you like to see Zac Efron as your surgeon if you’ve just been shot? Yeah...me neither...but in Parkland, President John F. Kennedy’s shocking assassination leaves the entire country in turmoil. The hospital staff (including Efron - the surgeon on-call it seems, and Marcia Gay Harden as a nurse), the authorities (led by Billy Bob Thornton) are working as quickly as they can to track down the shooter/shooters, and Paul Giamatti plays Abraham Zapruder, the man who inadvertently filmed the assassination.
  It no doubt has an incredible ensemble; further adding to the long list of names above is Jacki Weaver, James Badge Dale, Jackie Earle Haley, Tom Welling, Colin Hanks and Ron Livingston. However early reception from the festival circuit has been mixed - with far too many characters taking up room, not allowing each individual “vantage point” to breathe and have a sustainable plot-line of its own. So the chances of this winning anything is miniscule.
 
 ####  The Double
 
-A comedy in which a man is driven to insanity as his doppelganger starts taking over his own life, Simon (Jesse Eisenberg) always seems to be living in the shadow of James, his “double”. Whilst tongue-tied, embarrassed and awkward around his crush Hannah (Mia Wasikowska), James successfully climbs the corporate ladder, which catches Hannah’s eyes, much to Simon’s dismay.  
+A comedy in which a man is driven to insanity as his doppelganger starts taking over his own life, Simon (Jesse Eisenberg) always seems to be living in the shadow of James, his “double”. Whilst tongue-tied, embarrassed and awkward around his crush Hannah (Mia Wasikowska), James successfully climbs the corporate ladder, which catches Hannah’s eyes, much to Simon’s dismay.
  It’s quirky, edgy, with a typically strong performance from Eisenberg who absolutely excels in the odd but likable roles.
 
 ####  Under the Skin
 
-Scarlett Johansson is an alien creature who has been sent to Earth by a large corporation - her task? To prey on unsuspecting hitchhikers.  
- As the huntress she goes on the prowl, luring these poor souls into the dark so she can have her wicked ways with them.  
+Scarlett Johansson is an alien creature who has been sent to Earth by a large corporation - her task? To prey on unsuspecting hitchhikers.
+ As the huntress she goes on the prowl, luring these poor souls into the dark so she can have her wicked ways with them.
  Some have dismissed the film calling it laughably bad, but others have praised the lead performance as well as the chilling, creepy atmosphere that creates a unique surreal feel to the overall narrative. Quite the audience-divider, this one.
 
 ####  Tracks
 
-In 1977, Robyn Davidson travelled from Alice Springs to the Indian Ocean, crossing approximately 1,700 miles of Australian deserts - this she did with her dog and four camels.  
+In 1977, Robyn Davidson travelled from Alice Springs to the Indian Ocean, crossing approximately 1,700 miles of Australian deserts - this she did with her dog and four camels.
  Tracks tells this amazing true story of this one woman’s courage to achieve the impossible and her never-ending ambition. Wasikowska gives one of the strongest performances of her career, showing both the independent, spirited energy of the lone traveller, as well as the often emotionally vulnerable and fragile nature.

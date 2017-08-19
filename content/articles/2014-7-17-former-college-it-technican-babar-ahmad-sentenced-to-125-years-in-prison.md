@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""
@@ -51,6 +51,6 @@ During sentencing, Judge Janet Hall said “It is the court’s conclusion, and 
 
 “What these two men did was, they gave material support ... they wanted material support to flow to the Taliban at a time when the Taliban was protecting Osama bin Laden, at a time when Osama bin Laden was planning and carrying out the 9/11 attacks.”
 
-Ahmad’s supporters have welcomed the sentence. On the “Free Babar Ahmad” facebook page, a statement was released saying, “All praise be to God, today we are finally coming to the end of a very long journey which started over ten years ago. It has been a very difficult and tiresome struggle but at last, we can see light at the end of the tunnel.   
-  
+Ahmad’s supporters have welcomed the sentence. On the “Free Babar Ahmad” facebook page, a statement was released saying, “All praise be to God, today we are finally coming to the end of a very long journey which started over ten years ago. It has been a very difficult and tiresome struggle but at last, we can see light at the end of the tunnel.
+
  We are elated that this matter is now coming to a close and look forward to welcoming Babar home once more after over a decade. “

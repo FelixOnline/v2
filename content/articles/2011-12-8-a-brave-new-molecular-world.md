@@ -52,7 +52,7 @@ Phillips shared the case of azoxystrobin, a seemingly paradoxical fungicidal fun
 
 Shifting from the kitchen table to the operating table, Prof. Phillips’ most impressive examples of frontier chemistry came in medical applications. Photodynamic therapy (PDT) enables the treatment of malignant tumours through photosensitive agents that attach exclusively to the tumour tissue and bombard it with singlet oxygen. Talking through the case of a patient with a tongue tumour, Prof. Phillips pointed out that two decades ago, treatment would have certainly resulted in removal of the tongue, rendering the patient speechless for life.
 
-With PDT, a technique developed from research in bio fluorescence, a patient can expect to see the tumour in remission within a week of treatment and be fully healed in a matter of months.  
+With PDT, a technique developed from research in bio fluorescence, a patient can expect to see the tumour in remission within a week of treatment and be fully healed in a matter of months.
  If things couldn’t get any better, the procedure is minimally invasive and tumours hold no possibility of developing a resistance.
 
 Naturally accustomed to political persuasion through his role at the RSC, Phillips took every opportunity to impress upon his audience the merits of blue-sky research – how whilst today it may seem aimless, it will no doubt form the springboard for the great leaps of tomorrow. Given the current economic climate, he proposed that support for the sciences in the UK would sow the seeds of future prosperity, highlighting that even today apparently trivial discoveries made two decades ago are finding life-enriching and economically beneficial applications. Are you reading, Mr. Cameron?

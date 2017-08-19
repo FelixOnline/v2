@@ -2,7 +2,7 @@
 title: >
   A Letter from America
 subtitle: >
-  A report from right inside San Francisco 
+  A report from right inside San Francisco
 date: "2012-11-09 12:26:24 +0000"
 id: "2846"
 old_path: /politics/2846/a-letter-from-america
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091220-tna08-img_6345edit.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

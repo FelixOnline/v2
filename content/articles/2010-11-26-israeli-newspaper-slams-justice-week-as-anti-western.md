@@ -1,6 +1,6 @@
 ---
 title: >
-  Israeli newspaper slams Justice Week as ‘anti-Western’ 
+  Israeli newspaper slams Justice Week as ‘anti-Western’
 subtitle: >
   Concerns voiced about choice of speakers at Islamic Society events
 date: "2010-11-26 07:16:31 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011260714-ks607-asimqure.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

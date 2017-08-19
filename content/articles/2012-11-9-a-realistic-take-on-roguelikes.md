@@ -1,6 +1,6 @@
 ---
 title: >
-  A realistic take on roguelikes 
+  A realistic take on roguelikes
 subtitle: >
   Robin Thomas reminisces back to when times were hard
 date: "2012-11-09 16:42:00 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091641-tna08-zangband1rgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

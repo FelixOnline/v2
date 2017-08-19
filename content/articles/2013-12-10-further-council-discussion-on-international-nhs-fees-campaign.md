@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -117,7 +117,7 @@ Votes on indiviual resolves:
 
 __Majority for__
 
-2. To condemn and campaign against violent policing perpetrated against  
+2. To condemn and campaign against violent policing perpetrated against
  peaceful student protests.
 
 __Majority for__
@@ -168,7 +168,7 @@ Majority for
 
 __Majority for__
 
-14. To condemn the use of unnecessary bail conditions which prevent students  
+14. To condemn the use of unnecessary bail conditions which prevent students
  from studying.
 
 __Majority for__

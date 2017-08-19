@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112011934-pk1811-seq_lytro_group_front.jpg"
 image_caption: >
-  
+
 image_width: "960"
 image_height: "640"
 image_attribution: ""

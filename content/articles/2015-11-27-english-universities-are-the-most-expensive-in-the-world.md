@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511271147-ygr12-online.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Cale Tilford"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - So weve excluded private universities massive in the US and the stark differences the tuition fee loan system which also casts doubt on the 14 vs the 20 student funded  So what were really saying here is that the study is well worthlessCollege Studentsand everyone else too should get a Hand Held Bidet Sprayer and then they wont need to buy Toilet Paper anymore With modern plumbing washing with water is the way to go and the best way to do that is with the Bidet Sprayer 10X cleaner healthier and saves money See bathroomsprayerscom 
+ - So weve excluded private universities massive in the US and the stark differences the tuition fee loan system which also casts doubt on the 14 vs the 20 student funded  So what were really saying here is that the study is well worthlessCollege Studentsand everyone else too should get a Hand Held Bidet Sprayer and then they wont need to buy Toilet Paper anymore With modern plumbing washing with water is the way to go and the best way to do that is with the Bidet Sprayer 10X cleaner healthier and saves money See bathroomsprayerscom
 imported: true
 ---
 

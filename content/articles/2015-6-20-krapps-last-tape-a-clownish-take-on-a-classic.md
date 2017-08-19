@@ -2,7 +2,7 @@
 title: >
   Krapp's Last Tape: A Clownish Take on a Classic
 subtitle: >
-  Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language 
+  Fred Fyles finds that Robert Wilson disappoints in this production, which ignores the beauty of Beckett's language
 date: "2015-06-20 11:58:48 +0100"
 id: "5645"
 old_path: /arts/5645/krapps-last-tape-a-clownish-take-on-a-classic

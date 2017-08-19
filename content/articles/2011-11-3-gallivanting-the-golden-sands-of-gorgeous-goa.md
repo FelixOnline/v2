@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111040200-felix-goa.jpg"
 image_caption: >
-  
+
 image_width: "211"
 image_height: "184"
 image_attribution: ""
@@ -70,7 +70,7 @@ __About The LaLiT Resort__
 
 Located along the western coast of India, The LaLiT Golf & Spa Resort is a luxurious five star resort built on 85 acres of land. It offers a breathtaking view lapped by the Arabian Sea, with a unique confluence of the Talpone River to its left, it’s tributary to the right, cradled by the majestic Sahyadari range and a kilometre long exclusive beachfront. Located at Rajbaga, Canacona, The LaLiT Goa is one of the most exquisite, beautiful and secluded Goa beach resorts. It is also the largest property in Goa in terms of area, as well as number of suites offered.
 
-The Portuguese style architecture with an elegant blend of Goan culture is the base of the resort’s twin storey sprawling structure - all nestled amidst formally landscaped gardens, a golf course and a multitude of hotel facilities ranging from modern meeting rooms to trendy bar and dining avenues, from beach activities to a holistic spa; and from water activities to sports facilities. The resort also has its own luxury Yacht & a Helipad to facilitate the experience of life on all – air, water and earth.  
+The Portuguese style architecture with an elegant blend of Goan culture is the base of the resort’s twin storey sprawling structure - all nestled amidst formally landscaped gardens, a golf course and a multitude of hotel facilities ranging from modern meeting rooms to trendy bar and dining avenues, from beach activities to a holistic spa; and from water activities to sports facilities. The resort also has its own luxury Yacht & a Helipad to facilitate the experience of life on all – air, water and earth.
  Visit [www.thelalit.com](http://www.thelalit.com) for more details.
 
 __Venturing further afield__

@@ -1,6 +1,6 @@
 ---
 title: >
-  Dawkins = Asshole (p < 0.05) 
+  Dawkins = Asshole (p < 0.05)
 subtitle: >
   “Hey kids! I’m Professor Dawkins! I really, really do not like religion!”
 date: "2010-10-21 19:00:40 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212045-ks607-richardd.jpg"
 image_caption: >
-  
+
 image_width: "380"
 image_height: "400"
 image_attribution: ""

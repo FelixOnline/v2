@@ -2,7 +2,7 @@
 title: >
   Bringing the creed to your door!
 subtitle: >
-  Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game. 
+  Having never played the first 4/5 of the assassins creed series. I must say that I was first inspired to play this game from YouTube, after seeing footage of the multiplayer game.
 date: "2014-03-11 18:18:00 +0000"
 id: "4482"
 old_path: /games/4482/bringing-the-creed-to-your-door
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403111816-me1711-games_ac4.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

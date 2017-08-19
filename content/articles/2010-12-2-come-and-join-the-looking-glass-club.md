@@ -1,6 +1,6 @@
 ---
 title: >
-  Come and join The Looking Glass Club 
+  Come and join The Looking Glass Club
 subtitle: >
   We meet Imperial alumnus Gruff Davies, who launched his sci-fi novel last week in Southside Halls
 date: "2010-12-02 20:01:43 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012021955-ac1507-Gruff.jpg"
 image_caption: >
-  
+
 image_width: "416"
 image_height: "623"
 image_attribution: ""

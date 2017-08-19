@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211230015-tna08-3-nicholas-burns-(captain-horace-vale)-and-christina-cole-(charlotte)-1..jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

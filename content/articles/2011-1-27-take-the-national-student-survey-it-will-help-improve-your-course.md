@@ -1,6 +1,6 @@
 ---
 title: >
-  Take the National Student Survey, it will help improve your course 
+  Take the National Student Survey, it will help improve your course
 subtitle: >
   If you're a final year student, it's time to express your opinions about your course!
 date: "2011-01-27 19:55:48 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

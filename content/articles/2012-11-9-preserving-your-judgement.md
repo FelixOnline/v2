@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091234-tna08-the-jam-cupboard[1].jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,11 +50,11 @@ I’ve managed all this before commenting on the mains. The slow-cooked beef che
 
 Overall, it’s not a place I’d tell people to walk across hot lava (or Central London) to go to, but it works extremely well as a convenient and friendly spot for a quick, intimate meal. The food is a little pricier than what you might usually pay, but it won’t break the bank for a special occasion. As well as the very worthwhile Wine of The Month, the Hotel retains a down-to-earth attitude, offering a free membership scheme and various offers on sites like TopTable without the condescension shown only by those in a position too shaky to pull it off. As such we managed to keep a meal for two with a decent bottle of wine to about £25 a head (all in), which isn’t a particularly high price for treating someone special.
 
-_The Jam Cupboard  
- Rydges Hotel  
+_The Jam Cupboard
+ Rydges Hotel
  61 Gloucester Road, Kensington, London, SW7 4PE_
 
-_Opening hours:  
- Breakfast – 7am-10am Monday to Friday, 7.30am-10.30am Saturday and Sunday  
- Lunch – 12.00pm to 5.30pm, Monday to Friday only  
+_Opening hours:
+ Breakfast – 7am-10am Monday to Friday, 7.30am-10.30am Saturday and Sunday
+ Lunch – 12.00pm to 5.30pm, Monday to Friday only
  Dinner – Seven days a week from 5.30pm, last orders at 10.30pm_

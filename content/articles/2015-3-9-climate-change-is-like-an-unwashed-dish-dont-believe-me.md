@@ -1,6 +1,6 @@
 ---
 title: >
-  Climate Change is like an unwashed dish. Don’t believe me? 
+  Climate Change is like an unwashed dish. Don’t believe me?
 subtitle: >
   Lauren Ratcliffe gets you up-to-date and busts some common myths surrounding this global conundrum
 date: "2015-03-09 19:13:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503091913-ps3110-animals_beasts_polar_bear_on_ice_floe_025761_.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

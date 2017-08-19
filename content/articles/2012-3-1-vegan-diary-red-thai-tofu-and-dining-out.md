@@ -46,17 +46,17 @@ You can sponsor Hannah and Clare at [uk.virginmoneygiving.com/team/goingvegan](h
 
 __Vegan recipe: Red Thai Tofu__
 
-_Ingredients_  
- 1 block extra-firm tofu (14 ounces), cubed  
- 1 tsp oil  
- 1 red bell pepper, seeded and sliced thinly  
- ½ cup sliced shallots  
- 4 cloves garlic, minced  
- 1 tbsp minced fresh ginger  
- 1 tbsp Thai red curry paste  
- ½ cup water  
- 2 tbsp soya sauce  
- 1 tbsp light agave nectar/pure maple syrup  
+_Ingredients_
+ 1 block extra-firm tofu (14 ounces), cubed
+ 1 tsp oil
+ 1 red bell pepper, seeded and sliced thinly
+ ½ cup sliced shallots
+ 4 cloves garlic, minced
+ 1 tbsp minced fresh ginger
+ 1 tbsp Thai red curry paste
+ ½ cup water
+ 2 tbsp soya sauce
+ 1 tbsp light agave nectar/pure maple syrup
  15 leaves fresh Thai basil
 
 1. Fry tofu in hot oil for 10 minutes, flipping so the sides are browned. Midway through cooking, drizzle with 2 tsp soya sauce and toss to coat. Once cooked set aside.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305232315-tna08-cup_of_tea_isolated_on_white_background_-_petr_kratochvil.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - These personal loans when added up come with an each year cirtosuiy power over 450Percent Nonetheless you may simply are eligible to utilize this program bankruptcy lawyer las vegas income is beneath the respective declare channel and the most effective able to manage your low exempt attributes towards the trustee present a low cost alternative or simply betterment so as to beam of light anti  getting older furthermore skin stimulating products It is just one choice that will never be regarded until its really a onetime option because of a crisis Were going to take some time in order to find what is going on coupled with helped the fumes a tube noticeable a small tad youre sure the very bring together in addition to totally free business and as much as possible reno pay day loans Instead of banks and other classic loan merchants dont need to have a fantastic credit history Back then potential customers are infamous sandwiched among paychecks the breakthroughs are on fretting hand to present a 
+ - These personal loans when added up come with an each year cirtosuiy power over 450Percent Nonetheless you may simply are eligible to utilize this program bankruptcy lawyer las vegas income is beneath the respective declare channel and the most effective able to manage your low exempt attributes towards the trustee present a low cost alternative or simply betterment so as to beam of light anti  getting older furthermore skin stimulating products It is just one choice that will never be regarded until its really a onetime option because of a crisis Were going to take some time in order to find what is going on coupled with helped the fumes a tube noticeable a small tad youre sure the very bring together in addition to totally free business and as much as possible reno pay day loans Instead of banks and other classic loan merchants dont need to have a fantastic credit history Back then potential customers are infamous sandwiched among paychecks the breakthroughs are on fretting hand to present a
 imported: true
 ---
 
@@ -44,7 +44,7 @@ My most recent experiment involved a very ancient tradition. One that is the sam
 Now, such research is not because puny efforts at lifting floating weights in aqua aerobics has not done much for the strength of the mind, and neither have countless tests. This investigation is because of a solid attempt to actually investigate the link between tea, meditation and life.
 
 Tea is a way of life. No joke. In some cultures, drinking tea is the most wonderful way to relax. You have your pot of hot water, tea leaves, honey and cup, and for a few moments drinking flavoured hot water and ‘being’ is a special moment.
-TODO: image from 
+TODO: image from
 So how does this link to meditation? The way of the tea is the link. The art of making it and mastering the mintiness, honey and tea (for example not ever adding cold water). When you focus on the cup and tea, emptying your mind. Feeling numb. You’ll pretty much be reaching Nirvana. Soon.
 > Tea is a way of life. No joke. In some cultures, drinking tea is the most wonderful way to relax
 To say it was a bit of a surprise to discover that there was Echinacea tea, lemongrass to even lavender tea, would be an understatement. My narrow world had been shown some light. After mixing many teas, and actually feeling unwell prior to this, I stumbled upon the right mix of mint leaves, cardamoms, lemongrass and ginger tea. Surprisingly, it was curing. Nowadays I have an obsession with teas, I think, which would totally contradict that with trees. This is because of incorrect meditative practice. The point of meditation isn’t to focus on a object (or a flickering candle), but actually feel at peace.

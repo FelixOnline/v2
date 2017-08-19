@@ -2,7 +2,7 @@
 title: >
   Beckett in the City: A Potent Reminder of Inequality
 subtitle: >
-  Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work 
+  Jingjie Cheng finds that Company SJ's city-based version of Rough for Theatre I and Act Without Words II reminds us of the relevance of Beckett's work
 date: "2015-06-15 11:37:07 +0100"
 id: "5623"
 old_path: /arts/5623/beckett-in-the-city-a-potent-reminder-of-inequality

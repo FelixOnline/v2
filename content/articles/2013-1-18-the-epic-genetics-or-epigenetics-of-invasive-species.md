@@ -1,6 +1,6 @@
 ---
 title: >
-  The epic genetics (or epigenetics) of invasive species 
+  The epic genetics (or epigenetics) of invasive species
 subtitle: >
   Some species just don't understand personal space
 date: "2013-01-18 00:18:16 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702101606-felix-12562991864_7d726f4601_o.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1283"
 image_attribution: "Micolo J"

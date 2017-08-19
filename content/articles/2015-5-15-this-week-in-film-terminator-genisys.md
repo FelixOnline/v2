@@ -37,7 +37,7 @@ imported: true
 
 The marketing campaign for the latest reboot/revival of the _Terminator_ series continues rolling, with a new batch of character posters hitting the web this week.
 
-Posters for _Terminator Genisys_\* have arrived, featuring looks at Arnold Schwarzenegger returning to one of the roles that made him famous, as well as Emilia Clarke’s take on Sarah Connor (originally played by Linda Hamilton).
+Posters for _Terminator Genisys_* have arrived, featuring looks at Arnold Schwarzenegger returning to one of the roles that made him famous, as well as Emilia Clarke’s take on Sarah Connor (originally played by Linda Hamilton).
 
 There are also posters for John Connor (now played by Jason Clarke) and Kyle Reese (Jai Courtenay), leaders of the human resistance in 2029 as well, with one proving potentially more spoiler-ific than the other.
 

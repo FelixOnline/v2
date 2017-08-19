@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250218-tna08-i-night-poster.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,28 +44,28 @@ I Night is a tradition betweenall participating societies and spurs a friendly a
 
 We now hear from IC Belly Dancing, Cypriot society, Hellenic society, Japanese society and IC Funkology about what they have in store for us on the night as well as words from the Co-Chairs of this great event.
 ## IC Belly Dancing
-TODO: image from 
+TODO: image from
 The IC Belly Dancing society would like to present to you a medley of choreographs ranging from classical belly dance to a more modern twist. Dance is our way of expressing the old oriental culture and this year’s choreographies are an expansion upon last year’s repertoire at I Night: we aim to impress the audience with the shear variety that belly dancing has to offer and can’t wait to see you there!! – _Lydia Lilis_
 ## Hellenic Society
-TODO: image from 
-The Hellenic Society brings to you an amazing spectacle right from the heart of Greek culture. From battle representations and victory celebrations to medieval sword fighting, the Greek folklore dances can be characterized as living history that has come as heritage to us through the ages.  
+TODO: image from
+The Hellenic Society brings to you an amazing spectacle right from the heart of Greek culture. From battle representations and victory celebrations to medieval sword fighting, the Greek folklore dances can be characterized as living history that has come as heritage to us through the ages.
  The Greek dances contain our history. Taught from one person to another, it cannot be captured in books or mastered through studying. With each person dancing each dance, the unbreakable chain of teachers and students expands in time to link all those who have danced and have carried it with them over the centuries. These dances bear tales of strength and bravery but also of love and pain. We will embody these dances and bring the tales back to life for I Night – _Michael Dinalexis_
 ## Funkology Society
-TODO: image from 
-FuNkoLoGy began in 2003 as a simple outlet for a group of students at Imperial College to train and develop their passion for urban dance and push the boundaries of hip-hop dance performance across the UK university community. At I Night we are putting on our best performance to date!  
+TODO: image from
+FuNkoLoGy began in 2003 as a simple outlet for a group of students at Imperial College to train and develop their passion for urban dance and push the boundaries of hip-hop dance performance across the UK university community. At I Night we are putting on our best performance to date!
  The night is a fusion of talents, diversity and passion, and this is what I love about it. The excitement of the competition for ‘best performance’ of the evening just adds to the special occasion and means that the atmosphere on the night is truly electric! – _Eva Yuan_
 ## Japanese Society
-TODO: image from 
+TODO: image from
 As is tradition, this year the Japanese society is going to perform a play at I Night. The play is modern take on Japanese culture and the interaction with our world.
 
-With the play we want to promote our culture, but mostly, we want to make people laugh.  
+With the play we want to promote our culture, but mostly, we want to make people laugh.
  The actors in the play are all well known characters that represent Japan and perform through mime whilst all sounds are by narration and sound effect.
 
 This year the play will be about a Japanese samurai winning a competition to date the Hime (princess of his country). The shows involve characters like Otaku (young people who are highly skilled in, or obsessed with, computer technology to the detriment of their social skills), Kendo master and Chadou (tea club).
 
 I am so happy that we have the chance to perform at I Night and take part in the celebration of diversity at Imperial. – _Da Chen_
 ## Cypriot Society
-TODO: image from 
+TODO: image from
 Live music with the sound of the inspiring violin and acoustic guitar, accompanied with the marvelous voices of singers, traditional costumes, traditional food and drinks and some tremendous folklore dance are what make Inight so enjoyable for me. Our performance this year is set in a coffee shop in Cyprus at the start of the 20th century and aims to reflect the customs and culture of Cyprus at that time. The programme includes songs and traditional dances. Fast paced, improvisational, and stunt dances are all included. The additional surprise this year is the dance of Kouza, which is performed by women holding pottery vases with a surprise love story also included in the dance, part of the tradition!! Cypriot delicacies will be served during the performance including the famous halloumi, shiromeri and the exceptional drink of zivania!! – _Renos Karamanis_
 
 I am so impressed by the traditional and spectacular character of inight and its ability to probe to the roots of 10 different cultures in one night. Not only does it enable around 200 Imperial students to unravel their talent on stage in front of a large audience, but it mutually teaches to students the cultural variety of the world: A world, which belongs to us, the future generations. This year’s I-Night titled ‘One world’ captivates my interest not only to give my best self on stage but to also have an amazing time by being educated simultaneously. I can’t wait!!” – _Michelle Kokkinou_

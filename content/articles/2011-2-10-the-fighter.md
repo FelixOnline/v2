@@ -1,8 +1,8 @@
 ---
 title: >
-  The Fighter 
+  The Fighter
 subtitle: >
-  Passionate and cool: not just another film about boxing... 
+  Passionate and cool: not just another film about boxing...
 date: "2011-02-10 20:48:17 +0000"
 id: "784"
 old_path: /film/784/the-fighter-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102045-dr910-thefight.jpg"
 image_caption: >
-  
+
 image_width: "602"
 image_height: "375"
 image_attribution: ""

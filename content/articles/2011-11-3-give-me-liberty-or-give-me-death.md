@@ -1,6 +1,6 @@
 ---
 title: >
-  Give me Liberty, or give me Death! 
+  Give me Liberty, or give me Death!
 subtitle: >
   The French teach us lessons in democracy, according to Bernhardt Kreuzweg-Burgheim
 date: "2011-11-03 21:05:42 +0000"

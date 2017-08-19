@@ -2,7 +2,7 @@
 title: >
   AMS Album of the Week 8
 subtitle: >
-  Big Boi: Vicious Lies and Dangerous Rumours 
+  Big Boi: Vicious Lies and Dangerous Rumours
 date: "2013-01-10 22:53:00 +0000"
 id: "3097"
 old_path: /music/3097/ams-album-of-the-week-8
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301102252-csw09-bigboi.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

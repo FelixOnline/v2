@@ -2,7 +2,7 @@
 title: >
   Silicon Valley comes to Imperial
 subtitle: >
-  The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature 
+  The Imperial Entrepeneurs report on a recent boost to the College’s entrepreneurial stature
 date: "2011-11-24 20:24:08 +0000"
 id: "1804"
 old_path: /biz/1804/silicon-valley-comes-to-imperial
@@ -39,7 +39,7 @@ Imperial College has joined the elite list of universities participating in ‘[
 The first of the keynote speakers was the highly experienced Angad Paul, co-founder and major shareholder of several companies, and currently CEO of the $1.5 billion [Caparo Group](http://www.caparo.com/en-gb/index.aspx). Soft-spoken and with calm confidence, he talked about the challenges of running his large business and shared the lessons that he had learned along the way.
 > There is no point in becoming an entrepreneur without relentless determination to solve a particular problem
 Following him was the dynamic Rob Deeming of [Gilt Groupe](http://www.gilt.com/), an online shop offering luxury brands at discounted prices, which is based in the US but expanding into the UK. He spoke of his previous work, both entrepreneurial and otherwise, and taught the audience that joining a young startup is just as rewarding as starting your own, drawing on his own experiences helping Gilt Groupe grow from 30 employees to 900. He also entertained with fascinating statistics of rapid growth and critical points of website based businesses, outlining the importance of computing in solving these problems and offering these opportunities.
-TODO: image from 
+TODO: image from
 The session one panel discussion was moderated by George Berkowski, chairman of MIT Enterprise Forum UK, regularly involved in new ventures and startups. The panel consisted of the aforementioned keynote speakers, joined by Paul Joyce – founder of [Geckoboard.com](http://Geckoboard.com). Among many interesting discussions, they spoke of how they became entrepreneurs later in life and explained that going for it at a young age is not always the best scenario. Building experience first, even in investment banks as in Paul’s case, is important but so is keeping the entrepreneurial vision keen until the right time.
 
 Following a short tea break, the next session began with Alastair Mitchell, founder and CEO of [Huddle](http://www.huddle.com/), a cloud-based enterprise collaboration tool. He spoke of the importance of beautiful design on top of functionality, even for something as basic as file sharing interfaces. Along with this, he talked about having strong negotiating skills and not doing any favours when sorting out a deal – even if it is with friends. He also had the name ‘Huddle’ trademarked and believed in the power of having a short catch names. It turned out to be a smart move as many companies, including Google, have tried to use the name.

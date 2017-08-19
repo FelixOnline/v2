@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012101650-sjw209-goodoldg.jpg"
 image_caption: >
-  
+
 image_width: "974"
 image_height: "517"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Thats way the bestest asnwer so farFlAjs9  jnexvvngvkan propecia dfhj levitra viagra vs 99269 buying cymbalta  
+ - Thats way the bestest asnwer so farFlAjs9  jnexvvngvkan propecia dfhj levitra viagra vs 99269 buying cymbalta
 imported: true
 ---
 

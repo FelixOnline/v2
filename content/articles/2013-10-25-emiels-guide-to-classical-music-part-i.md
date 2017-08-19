@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 The definition of Art is an issue that philosophers have struggled with for millennia. In the 19th Century two greats gave fundamentally opposing views. Arthur Schopenhauer, who thought the world around us a mere representation of reality, believed Art could reveal its true nature. He argued that music alone could completely express the world ‘in itself’ as it was not representative of anything. Friedrich Nietzsche accorded Art an even greater status. To him, life is devoid of meaning or order, save for that which Man creates. Art is therefore not a means to better understand the world, but a metaphysical way of giving meaning to it.
 
-"The world is a work of art that gives birth to itself."  
+"The world is a work of art that gives birth to itself."
  – Nietzsche, The Will to Power
 
 It is often difficult to apply these theories. In the last century provocateurs such as Marcel Duchamp and John Cage have forced us to ask ourselves what is Art? Is an unmade bed a work of art if it is placed in a gallery? Is there an aesthetic line to be drawn between the latest Hollywood blockbuster and an “art-house” film? Finally, does such a line exist between the works of Beethoven and Justin Bieber?

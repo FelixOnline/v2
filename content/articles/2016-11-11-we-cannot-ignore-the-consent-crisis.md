@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611111507-felix-Screen Shot 2016-11-11 at 14.13.41.png"
 image_caption: >
-  
+
 image_width: "1254"
 image_height: "786"
 image_attribution: ""
@@ -35,9 +35,9 @@ comments:
 imported: true
 ---
 
-Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot and in fact in the national news a lot too. So why is it that consent is such a matter of importance in the public minds at the moment? Well,  to put bluntly, if sex doesn’t involve it then it’s not sex – it’s rape. And rape and related sex crimes \(or at least reported ones\) have massively increased over the last year.
+Consent is a pretty hot topic at the moment. It’s been in this newspaper a lot and in fact in the national news a lot too. So why is it that consent is such a matter of importance in the public minds at the moment? Well,  to put bluntly, if sex doesn’t involve it then it’s not sex – it’s rape. And rape and related sex crimes (or at least reported ones) have massively increased over the last year.
 
-According to the Met Police crime figures, rape crimes have increased 10.8% in the last year to 5939 and Other Sexual Crime has increased by 10.7% in the last year to 11209 crimes just over the last 12 months. That’s nearly 50 reported sex\-related crimes a day in London alone. If we consider the statistic, as reported by Rape Crisis, that only 15% of those who experience sexual violence choose to report to the police, we’re looking at a figure of 114320 incidents. That’s 13 an hour.
+According to the Met Police crime figures, rape crimes have increased 10.8% in the last year to 5939 and Other Sexual Crime has increased by 10.7% in the last year to 11209 crimes just over the last 12 months. That’s nearly 50 reported sex-related crimes a day in London alone. If we consider the statistic, as reported by Rape Crisis, that only 15% of those who experience sexual violence choose to report to the police, we’re looking at a figure of 114320 incidents. That’s 13 an hour.
 
 We can’t just close our eyes and say it’s not happening to me so it must be fine. This is an issue that hits about as close to home as it can get. The number of rapes in Kensington and Chelsea increased 26.3% this year and the number of other sexual crimes increased 21.5% this year in Hammersmith and Fulham. So, in a time where sexual violence is increasing this much in a single year, can we really afford to take a stance against any action that may work towards decreasing these figures?
 > > Can we afford to take a stance against any action that may work towards decreasing these figures?

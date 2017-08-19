@@ -2,7 +2,7 @@
 title: >
   The force behind Freshers’ Fair
 subtitle: >
-  Abi de Bruin speaks to Bernadett Tildy about Teddington, clubbing and the president’s survival skills 
+  Abi de Bruin speaks to Bernadett Tildy about Teddington, clubbing and the president’s survival skills
 date: "2014-11-10 23:51:55 +0000"
 id: "4856"
 old_path: /features/4856/the-force-behind-freshers-fair
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102351-ps3110-dpcs_by_tlim-for-site.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

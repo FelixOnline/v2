@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032039-ks607-immigrat.jpg"
 image_caption: >
-  
+
 image_width: "1548"
 image_height: "2048"
 image_attribution: ""

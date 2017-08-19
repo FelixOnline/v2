@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603111147-felix-DSC_0625.JPG"
 image_caption: >
-  
+
 image_width: "6000"
 image_height: "4000"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Why do not we try this urlhttpsbladeandsoulvipwordpresscom20160121addressingacouplethingsinbladesoulBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpswwwmadnessianetblog10028somethingtostrivetowardsofbladesoulBlade And Soul Premium Membershipurlnice goingurlhttpindulgycomr4pgr4pgurlWhere were weurlhttpswwwchangeorgu541706003roistoreurlCINEMA  blub hhhhh wieso das hatte ich ncoh nirgendwo gehrt Das heit die ganzen Kommentare von mir sind jetz alle weg Das fnd ich jetzt beesceidhn weil du das nicht im Video gesagt hast 
+ - Why do not we try this urlhttpsbladeandsoulvipwordpresscom20160121addressingacouplethingsinbladesoulBuy Blade And Soul GoldurlIf I have the guts to quit my job urlhttpswwwmadnessianetblog10028somethingtostrivetowardsofbladesoulBlade And Soul Premium Membershipurlnice goingurlhttpindulgycomr4pgr4pgurlWhere were weurlhttpswwwchangeorgu541706003roistoreurlCINEMA  blub hhhhh wieso das hatte ich ncoh nirgendwo gehrt Das heit die ganzen Kommentare von mir sind jetz alle weg Das fnd ich jetzt beesceidhn weil du das nicht im Video gesagt hast
 imported: true
 ---
 
@@ -43,6 +43,6 @@ The Notting Hill Dinner Club involves opening Notting Hill Community Church up f
 
 As part of SVW, 34 Imperial students headed over, with both ‘Take Note’ A Cappella Group and Imperial College Gospel Choir making an appearance to sing for the attendees., creating a friedly relaxed atmosphere. The Imperial students helped out and chatted with the guests. Everyone was able to talk about a huge variety of topics because of the range of students and people there.
 
-“Imperial College students made a huge difference attending the Dinner Club; their welcoming and engaging attitude with the guests was fantastic and really helped break down social barriers. We hope to continue working closely with the Dinner Club in the future.” said Lucinda Sandon\-Allum, Imperial College Union President.
+“Imperial College students made a huge difference attending the Dinner Club; their welcoming and engaging attitude with the guests was fantastic and really helped break down social barriers. We hope to continue working closely with the Dinner Club in the future.” said Lucinda Sandon-Allum, Imperial College Union President.
 
 Overall it was a really lovely opportunity to get more involved in the local community. Student Volunteering Week seems to have gone as well as ever this year, excellent news for a campaign in its fifteenth year.

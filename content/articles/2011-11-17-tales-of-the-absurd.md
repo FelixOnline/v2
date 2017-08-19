@@ -2,7 +2,7 @@
 title: >
   Tales of the absurd
 subtitle: >
-  Saunders' absurdist play Next Time I'll Sing To You gets an airing at Richmond's Orange Tree Theatre; Alex Roocroft is in attendance 
+  Saunders' absurdist play Next Time I'll Sing To You gets an airing at Richmond's Orange Tree Theatre; Alex Roocroft is in attendance
 date: "2011-11-17 21:41:46 +0000"
 id: "1784"
 old_path: /arts/1784/tales-of-the-absurd

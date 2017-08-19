@@ -37,7 +37,7 @@ imported: true
 
 __Football__
 
-Men’s 3rd – 2  
+Men’s 3rd – 2
  Sussex 2nd – 1
 
 A fine afternoon in Fulham yielded a impressive 4-0 away victory for the Imperial football 7th team against a strong Heythrop side whose Kensington location made it as close to a derby game as any possible outside Varsity week.

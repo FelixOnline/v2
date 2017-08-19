@@ -2,7 +2,7 @@
 title: >
   Balls to ask about Amendment to Immigration Bill
 subtitle: >
-  The Union’s campaign to stop international students being charged for NHS services under the Government’s Immigration Bill received a strong boost late last month when Ed Balls, the Shadow Chancellor, agreed to look into an amendment to the bill that would exempt students from the charge. 
+  The Union’s campaign to stop international students being charged for NHS services under the Government’s Immigration Bill received a strong boost late last month when Ed Balls, the Shadow Chancellor, agreed to look into an amendment to the bill that would exempt students from the charge.
 date: "2014-01-17 03:22:24 +0000"
 id: "4230"
 old_path: /features/4230/balls-to-ask-about-amendment-to-immigration-bill
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302131230-tna08-watson_jeopardy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -47,4 +47,4 @@ A “Strong AI” is roughly an AI that has an intelligence that matches or exce
 In the “Chinese Room” experiment, Searle hypothesised that if a computer can, given sufficient and comprehensive instructions, produce outputs to input Chinese characters in such a convincing manner that it passes the Turing Test, it will be able to convince a human Chinese speaker that the program is itself a live Chinese speaker. However, the question is whether the computer can literally “understand” Chinese, or is it merely simulating the ability to understand Chinese. This is a case of “Strong vs Weak AI”.
 
 Sentient AI still remains in the realm of Science Fiction, and we are unlikely to see situations like those in the Matrix films come true in the near future. Watson might be able to enable us to cure cancer in a more effective way, but it is not going to be able to think for itself any time soon.
-TODO: image from 
+TODO: image from

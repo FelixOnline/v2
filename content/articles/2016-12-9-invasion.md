@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612091545-felix-legends-of-tomorrow-invasion-crossover-dc-tv-justice-league-asse-213819-1280x0.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "721"
 image_attribution: "The CW"
@@ -42,5 +42,5 @@ As in any superhero team up, the real fun is seeing the different characters int
 
 A problem with crossovers is that they usually put the heroes’ individual stories aside to focus on the larger picture. While the invasion was the major feature here, the episodes were still written to allow some individuality in each of them. Arrow’s episode in particular barely featured the crossover, instead telling the usual story of the hero being placed in a perfect life scenario. The episode worked better for it, with some tear jerking scenes and a great look at seeing how far the characters of Arrow had come.
 
-The overarching invasion storyline starts off a little slow but kicks into gear in the final act. The aliens are actually given motivations and aren’t just portrayed as stereotypical bad guys, as is usually the case. The action sequences were on point and impressive during the climactic scenes, with dozens of heroes and aliens fighting while Flash and Supergirl raced across the Earth. Just seeing a massive line\-up of DC icons standing together was thrilling, in and of itself.
+The overarching invasion storyline starts off a little slow but kicks into gear in the final act. The aliens are actually given motivations and aren’t just portrayed as stereotypical bad guys, as is usually the case. The action sequences were on point and impressive during the climactic scenes, with dozens of heroes and aliens fighting while Flash and Supergirl raced across the Earth. Just seeing a massive line-up of DC icons standing together was thrilling, in and of itself.
 Though there might have been a few hiccups along the way, the crossover ultimately made great use of the premise and exceeded all expectations. The only thing you’ll be wondering once you’ve watched it is when the next one will be.

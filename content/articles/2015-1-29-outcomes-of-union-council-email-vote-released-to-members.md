@@ -1,6 +1,6 @@
 ---
 title: >
-  Outcomes of Union Council email vote released to members 
+  Outcomes of Union Council email vote released to members
 subtitle: >
   June Yin Gan covers the resolutions of the controversial council papers, despite three votes cast after deadline
 date: "2015-01-29 23:57:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501292357-ps3110-edited_council.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

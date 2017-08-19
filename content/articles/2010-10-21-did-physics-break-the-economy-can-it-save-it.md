@@ -1,6 +1,6 @@
 ---
 title: >
-  Did Physics break the economy? Can it save it? 
+  Did Physics break the economy? Can it save it?
 subtitle: >
   The role of mathematical methods in the explosive cocktail that led to the greatest economic meltdown in generations and questions their future
 date: "2010-10-21 18:48:23 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010211946-ks607-blackboa.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "685"
 image_attribution: ""

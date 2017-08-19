@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502071912-ps3110-warrior-2013-viviane-sassen-courtesy-the-artist-and-stevenson-gallery-copya.jpg"
 image_caption: >
-  Viviane Sassen, Warrior, 2013. 
+  Viviane Sassen, Warrior, 2013.
 image_width: "0"
 image_height: "0"
 image_attribution: "Viviane Sassen and Stevenson Gallery"

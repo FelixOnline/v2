@@ -2,7 +2,7 @@
 title: >
   You Don’t Have To Call It Music #5
 subtitle: >
-  avant-garde America 
+  avant-garde America
 date: "2012-11-09 14:20:02 +0000"
 id: "2870"
 old_path: /music/2870/you-dont-have-to-call-it-music-5
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

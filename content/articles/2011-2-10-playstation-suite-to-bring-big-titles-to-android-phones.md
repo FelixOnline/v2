@@ -1,6 +1,6 @@
 ---
 title: >
-  PlayStation Suite to bring big titles to Android phones 
+  PlayStation Suite to bring big titles to Android phones
 subtitle: >
   Not just a new device, but a whole new way of gaming
 date: "2011-02-10 20:41:02 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102110159-sjw209-pssuite.jpg"
 image_caption: >
-  
+
 image_width: "610"
 image_height: "350"
 image_attribution: ""

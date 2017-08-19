@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,7 +42,7 @@ The original production won plaudits for it’s stage design and, though lacking
 
 The production is technically complex and engaging, and comes across as a multimedia mashup, with atmospheric lighting that effectively leads you through what to follow on stage, impressive sound design that surrounds you and doesn’t stop throughout the show and video sequences, a particular stand out being an ultrasound of Freya’s unborn child, complementing the action on stage.
 
-The action on stage is slightly mental, with so much going on it’s a credit to director James Perry that you can still follow the story. Very often, different scenes overlap and at one point I counted four taking place at the same time. You could very easily watch something else besides the currently lit scene and the cast do an amazing job of staying in character even when the spotlight is not on them.  
+The action on stage is slightly mental, with so much going on it’s a credit to director James Perry that you can still follow the story. Very often, different scenes overlap and at one point I counted four taking place at the same time. You could very easily watch something else besides the currently lit scene and the cast do an amazing job of staying in character even when the spotlight is not on them.
  The large supporting cast do well playing a variety of roles, helped by costumes that make it clear when an actor has moved on and is now ‘someone else’. A particularly striking Stepford Wives sequence should be watched out for.
 
 Of the principal characters, Giulia Zerbini is a revealing fit as a Whiny Teenage boy, who has a crucial role to play in the plot; Roxanne Middleton performs a brilliant and brave burlesque routine as the hedonistic Jasmine, and most people at Imperial will see something prescient in the idealistic young PhD student played by Chris Witham, who has his scientific principles tested and ends up as a jaded, embittered, cynical and emotionally distant retired Professor played by Kristen Farebrother.

@@ -1,6 +1,6 @@
 ---
 title: >
-  If you read nothing else this week... 
+  If you read nothing else this week...
 subtitle: >
   Afonso Campos extoles the virtues of one of America’s finest pieces of modern literature, Midnight in the Garden of Good and Evil
 date: "2011-02-03 19:42:14 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

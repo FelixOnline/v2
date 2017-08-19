@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -45,7 +45,7 @@ Looking back at those childhood Christmases, I see that the reward I believed wa
 
 As I’ve grown older, the gifts matter less but the appreciation for the affection they represent has increased, especially in light of Christmas’ history. Over 2000 years ago, God sent his only begotten son to permanently remove our names from a much more eternal ‘Naughty List’. Swaddled in rags and delivered into this world from a virgin mother, this Son came to take on the sins of people like you and me, and to reconcile us with God. Though he was but a babe then, his life was going to be one of sinlessness and selfless love towards all; his purpose, to make God’s glory known through the gift of eternal life to all who believe in Him.
 
-Just as I didn’t earn the presents my parents gave me, so we don’t deserve this much more valuable gift of life, but it is still given to us from a heavenly father who loves his children much more than we can fathom. Although as a child I only believed myself to be on Santa’s Naughty List, as humans, we are on a ‘Naughty List’, for all have sinned and fallen short of God’s glory. Yet, God, in his infinite love, offers us the opportunity of redemption through the birth, death and resurrection of his only begotten Son.  
+Just as I didn’t earn the presents my parents gave me, so we don’t deserve this much more valuable gift of life, but it is still given to us from a heavenly father who loves his children much more than we can fathom. Although as a child I only believed myself to be on Santa’s Naughty List, as humans, we are on a ‘Naughty List’, for all have sinned and fallen short of God’s glory. Yet, God, in his infinite love, offers us the opportunity of redemption through the birth, death and resurrection of his only begotten Son.
  At Christmas time, the significance of Jesus’ birth often becomes a blip in the holiday season. Between the second viewing of Love Actually and the fight for the piece of Christmas cake with the most marzipan on top, the true meaning of Christmas is lost.
 
 To remember God’s love and to celebrate the birth of Christ, the Imperial Christian groups on campus are welcoming all students, believers or not, to the Christmas Carol Service. The service will be taking place on Friday December 6th, 6PM at Holy Trinity with All Saints Church on Prince Consort Road (next to Beit Halls). After the service, there will be mince pies, refreshments, and a chance to mingle. Everyone is invited, from the nicest to the naughtiest.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103012103-ks607-theritet.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "683"
 image_attribution: ""

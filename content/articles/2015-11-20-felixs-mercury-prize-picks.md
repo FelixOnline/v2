@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511201452-cet13-prize.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -47,7 +47,7 @@ But I wonder, while Jamie’s sipping Ka with Young Thug, do The xx really suppo
 
 This album, catchy though it is, was inconsistent, but when the best stuff is this good, it doesn’t matter. As Jamie’s first length solo record, it was a masterpiece in execution of a wide-spread appeal, boys in ironic Adidas, white people at carnival vibe. Which isn’t bad; white people can go to carnival. Maybe the fact that any song on the album could quite comfortably be the backing track on your GoPro filmed gap yah video montage is a good thing.
 
-His sampling of old rave vids, the notable downer on some tracks and lack of lyrics on others, makes for an album you just turn up Spotify’s twelve second fade option on, and play all night. ‘Obvs’ and its joyful rooftop steel drums as folks arrive, ‘Good Times’ as the party heats up, the ethereal ‘The Rest Is Noise’ as the hangers on refuse to leave, and his xx bandmate Romy’s ‘Loud Places’ as a kind of hipster ‘Mr Brightside’ that you all sing along to before collapsing or going home. It really is an album of the people. __GRACE RAHMAN  
+His sampling of old rave vids, the notable downer on some tracks and lack of lyrics on others, makes for an album you just turn up Spotify’s twelve second fade option on, and play all night. ‘Obvs’ and its joyful rooftop steel drums as folks arrive, ‘Good Times’ as the party heats up, the ethereal ‘The Rest Is Noise’ as the hangers on refuse to leave, and his xx bandmate Romy’s ‘Loud Places’ as a kind of hipster ‘Mr Brightside’ that you all sing along to before collapsing or going home. It really is an album of the people. __GRACE RAHMAN
 __
 
 #### _Are You Satisfied?___Slaves__
@@ -78,7 +78,7 @@ Florence + The Machine put out their third album this summer, and it rocketed to
 
 If you haven’t heard of them, imagine a bunch of competent instrumentation, and some of the nicest singing you’ve ever heard. That’s what you should expect from this album. Lots of critics have complained about the instrumentation, but that’s never been one of their strengths. It’s all decent, atmospheric, reverb-y whatever. It sounds alright.
 
-The \*point\* is Flo. And Flo crushes it in a routine, almost mundane way. Back in the United States, we have a saying, “there are three certainties in life: death, taxes, and traffic jams on I-93.” If there was a fourth, I guess it would be Florence turning in a pitch-perfect performance. The lyrics are poignant. Her vocal control is excellent. Her vibrato is stunning. She’s basically Adele with an indie vibe.
+The *point* is Flo. And Flo crushes it in a routine, almost mundane way. Back in the United States, we have a saying, “there are three certainties in life: death, taxes, and traffic jams on I-93.” If there was a fourth, I guess it would be Florence turning in a pitch-perfect performance. The lyrics are poignant. Her vocal control is excellent. Her vibrato is stunning. She’s basically Adele with an indie vibe.
 
 I’ve looked hard for one, but there isn’t a flaw with her performance. Like I mentioned earlier, the only criticism that actually lands is about the instrumentation. C’mon. It’s the Mercury Awards. Not to knock Ghostpoet, but his critically-acclaimed early work was probably composed by a Casio calculator or something.
 

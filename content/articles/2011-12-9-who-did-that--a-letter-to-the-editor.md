@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,10 +36,10 @@ imported: true
 
 Dear Sir,
 
-Since the beginning of this term Mech Eng students and staff, who are in early enough have boarded the lifts in the morning only to be assailed through the nostril by what appears to be last night’s curry chemically processed through the duodenum to a noxious mixture subsequently evacuated to atmosphere. Being gentile and reserved most engineers hesitate to confront their immediate colleague for want of embarrassing them in public. The simultaneous presence of fruit flies in the lifts was something unusual but was no more remarkable than a student from CEP taking the lift up one floor.  
-  
- However the recent colder weather has led to the closing of windows in the lift halls and the reserved gentlefolk of the MED have noticed that the smells are getting more distinct and all pervasive, that there is a pattern to these smells and it emanates only indirectly from the inhabitants. For some six weeks the College FM (Facilities Management) team and concerned citizens of the MED have been trying to source the of the smells which arrive with each lift carriage door opening to together with relevant aphids. At this point first year fluids will be useful insofar as the mains sewers are above Level 0 and all toilets empty into the space below Level 0 where a large tank is situated. The perspicacious amongst you will notice that we will need to pump the stewing sewage up and out of the tank into the main sewers using the famous sewage injector pumps.  
-  
+Since the beginning of this term Mech Eng students and staff, who are in early enough have boarded the lifts in the morning only to be assailed through the nostril by what appears to be last night’s curry chemically processed through the duodenum to a noxious mixture subsequently evacuated to atmosphere. Being gentile and reserved most engineers hesitate to confront their immediate colleague for want of embarrassing them in public. The simultaneous presence of fruit flies in the lifts was something unusual but was no more remarkable than a student from CEP taking the lift up one floor.
+
+ However the recent colder weather has led to the closing of windows in the lift halls and the reserved gentlefolk of the MED have noticed that the smells are getting more distinct and all pervasive, that there is a pattern to these smells and it emanates only indirectly from the inhabitants. For some six weeks the College FM (Facilities Management) team and concerned citizens of the MED have been trying to source the of the smells which arrive with each lift carriage door opening to together with relevant aphids. At this point first year fluids will be useful insofar as the mains sewers are above Level 0 and all toilets empty into the space below Level 0 where a large tank is situated. The perspicacious amongst you will notice that we will need to pump the stewing sewage up and out of the tank into the main sewers using the famous sewage injector pumps.
+
  Self evidently the collection tank is a prime source for these odours especially as it has been modified by the ongoing project to refurbish the lower levels of the Mech Eng Department. The project and project management have resourcefully denied all responsibility for the smells for some six weeks but using the College’s specially designed clothes peg Purple Team from FM have found at least one source where vapours from the tanks are escaping and making their way into the lift shaft to be pumped throughout the building. The contractors and project management in the form of ISg and Arup are finally admitting that they may have some culpability in the smells so don’t think any less of the person next to you in the lift – this is something you or someone else may have done days ago.
 
 Regards,

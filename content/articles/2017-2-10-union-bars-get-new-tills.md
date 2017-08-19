@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702101337-felix-IMG_6983.JPG"
 image_caption: >
-  
+
 image_width: "2917"
 image_height: "2113"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills. 
+So you might have heard – or you might have gathered from seeing the long lines of students stretching from Beit all the way down Exhibition Road – that the Union has updated its tills.
 The brand new tills and the “fancy new yoyo scanners” which were installed on Monday, are promised to increase speed of service. Though so far they have only increased frustration amongst students eagerly awaiting to be served, but being met with empty tills instead.
 
 As per tradition, Imperial students have been incessantly moaning about the “dismal service” at every opportunity. On Facebook, one Computing undergraduate accused Rachel Blythe, DPFS, of “confusing her staff with these, they’ve been struggling all week”. Another one lamented the abundance of tills, insightfully pointing out that “unluckily one person can’t operate two tills.”
@@ -50,7 +50,7 @@ Our research shockingly proved inconclusive.
 We also tried squeezing the truth out of the staff on duty. When asked how she felt about the new tills one staff member laughed awkwardly and stared intently into the pint of coke she was serving us. Another staff member said she hadn’t had the chance to use the tills yet but that they seemed fine. Coincidentally the Head of Student Voice swooped behind her to pick up his lunch, but ran off before we could get the chance to ask any questions. He’s getting faster. Regardless of whether they’re any good, they were probably expensive. Our investigative team estimates a cost around the £30,000 mark, but the DPFS has yet to confirm the exact cost of the project.
 But enough about the tills. There have been even more radical changes that we haven’t even touched upon yet.
 
-The £5 minimum spend has been dropped from Apple Pay, contactless and Yoyo payments, \(though we were under the impression that there never was a limit on Yoyo payments anyway\). 
-Theresa Davey, who has spent nearly a decade at Imperial says “I’ve never had a problem with the limit on card payments because I know to give them a stern look and bat my eyelashes”. If you’re not Davey, though, you’ll be happy to know that the chip and pin payment limit has been reduced to three pounds \(though if only it had been reduced a further 40p you would have been able to get a snakebi– you know what, no. Just get contactless you lazy fu–\).
+The £5 minimum spend has been dropped from Apple Pay, contactless and Yoyo payments, (though we were under the impression that there never was a limit on Yoyo payments anyway).
+Theresa Davey, who has spent nearly a decade at Imperial says “I’ve never had a problem with the limit on card payments because I know to give them a stern look and bat my eyelashes”. If you’re not Davey, though, you’ll be happy to know that the chip and pin payment limit has been reduced to three pounds (though if only it had been reduced a further 40p you would have been able to get a snakebi– you know what, no. Just get contactless you lazy fu–).
 
 Hey, you can even order a shot of lime cordial, pay 20p for it on contactless and proceed to do said shot of cordial. If that isn’t progress, we don’t know what is.

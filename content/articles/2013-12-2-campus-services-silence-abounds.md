@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,6 +40,6 @@ One major cause for concern is the fact that despite the duration that the chang
 
 Felix believes that at a minimum the Campus Services department should provide much more information about the feedback process they consulted before making the changes, as well as the decisions and reasoning that led to the final choice.
 
-Hopefully, at the upcoming cleaning services review (that Campus Services promised in their most recent missive) we will see a situation where the people who are affected most by the changes get to have some input into the cleaning solution, whether they would like things to return to the way they are, or whether they have suggestions that would drastically improve both their happiness and wellbeing.  
- Looking forward to the future, Felix hopes that all College departments will learn from this mistake and will consult or at least inform stakeholders of important changes to the services it provides, rather than just implementing changes, which are announced at a later date.  
+Hopefully, at the upcoming cleaning services review (that Campus Services promised in their most recent missive) we will see a situation where the people who are affected most by the changes get to have some input into the cleaning solution, whether they would like things to return to the way they are, or whether they have suggestions that would drastically improve both their happiness and wellbeing.
+ Looking forward to the future, Felix hopes that all College departments will learn from this mistake and will consult or at least inform stakeholders of important changes to the services it provides, rather than just implementing changes, which are announced at a later date.
  Felix

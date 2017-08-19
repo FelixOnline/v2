@@ -2,7 +2,7 @@
 title: >
   The worst movies of 2014 so far - Vampire Academy
 subtitle: >
-  As if the vampire world was not crowded enough as it is, we get another young-adult literary adaptation that makes the Twilight franchise look appealing. 
+  As if the vampire world was not crowded enough as it is, we get another young-adult literary adaptation that makes the Twilight franchise look appealing.
 date: "2014-06-02 12:58:29 +0100"
 id: "4645"
 old_path: /film/4645/the-worst-movies-of-2014-so-far---vampire-academy
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406021358-felix-vampire-academy-set-report.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

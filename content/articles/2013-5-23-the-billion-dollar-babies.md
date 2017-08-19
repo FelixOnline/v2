@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305232243-tna08-one_billion_dollars2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Congratulations are in order for Iron Man 3 and its associated Marvel Universe, as within 3 weeks of its international release date, the third Tony Stark picture has already generated more than one billion dollars at the worldwide box office. Robert Downey Jr.’s latest effort joins a surprisingly long list of films that have already done so, although to his credit, a lot of the films on the list reached the milestone near the end of their box office runs. Given Iron Man 3 still has a long way to go before it is pulled from the theatres, we can expect the film to keep moving up in its total gross. And although Downey Jr.’s return for a possible fourth adaptation remains in doubt, Marvel Studios president Kevin Feige expects the Iron Man franchise to remain “as evergreen as James Bond.”  
+Congratulations are in order for Iron Man 3 and its associated Marvel Universe, as within 3 weeks of its international release date, the third Tony Stark picture has already generated more than one billion dollars at the worldwide box office. Robert Downey Jr.’s latest effort joins a surprisingly long list of films that have already done so, although to his credit, a lot of the films on the list reached the milestone near the end of their box office runs. Given Iron Man 3 still has a long way to go before it is pulled from the theatres, we can expect the film to keep moving up in its total gross. And although Downey Jr.’s return for a possible fourth adaptation remains in doubt, Marvel Studios president Kevin Feige expects the Iron Man franchise to remain “as evergreen as James Bond.”
  But to celebrate the biggest money-making films so far, Felix Film takes a look at just what made each and every one of them so special that audiences worldwide flocked to the theatres to watch them on the big screen.
 
 __16. The Dark Knight__

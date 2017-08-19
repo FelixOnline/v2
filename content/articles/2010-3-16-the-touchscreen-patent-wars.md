@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201003161507-srg03-AppleVs..jpg"
 image_caption: >
-  
+
 image_width: "959"
 image_height: "473"
 image_attribution: ""

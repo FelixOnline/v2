@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,6 +48,6 @@ Carlos had a tight match with Adam Sykes (Manchester Metropolitan 1) in which he
 
 The tournament entered Sunday and Imperial continued their pursuit of championship success with a last 16 knockout match against the University of East Anglia 1 (UEA 1). A poor start left the team trailing 4-0 and from that point something special was required and Speller delivered it. The frame he played resembled more a game of chess than a pool frame where he used his genius to win it and keep Imperial alive at 4-1. Some dogged play from Pankhania and Chalmers closed the score to 5-3, however UEA secured a 6-3 victory.
 
-Although Imperial had aspirations to win this year’s tournament, it must be said that they improved considerably from last year. The addition of “The Grinder” brought solidity to the team and “Rob-ot” provided the stroke of genius that was missing last year. One thing is for sure, the ‘Mints’ reputation is growing and the team look forward to further improvement in the future.  
- Many thanks should go to Nottingham University Snooker and Pool Club for organising the event.  
+Although Imperial had aspirations to win this year’s tournament, it must be said that they improved considerably from last year. The addition of “The Grinder” brought solidity to the team and “Rob-ot” provided the stroke of genius that was missing last year. One thing is for sure, the ‘Mints’ reputation is growing and the team look forward to further improvement in the future.
+ Many thanks should go to Nottingham University Snooker and Pool Club for organising the event.
  For further details of events, as they happen visit ICU Snooker online.

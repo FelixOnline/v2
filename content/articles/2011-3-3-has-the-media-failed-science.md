@@ -2,7 +2,7 @@
 title: >
   Has the Media failed Science?
 subtitle: >
-  Chris Richardson on this year's BioSoc debate, which included panellists from The Times and the BBC 
+  Chris Richardson on this year's BioSoc debate, which included panellists from The Times and the BBC
 date: "2011-03-03 20:30:34 +0000"
 id: "1010"
 old_path: /science/1010/has-the-media-failed-science
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032027-ks607-madscien.jpg"
 image_caption: >
-  
+
 image_width: "338"
 image_height: "450"
 image_attribution: ""

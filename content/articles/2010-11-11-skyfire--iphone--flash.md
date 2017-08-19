@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112028-ks607-skyfires.jpg"
 image_caption: >
-  
+
 image_width: "1046"
 image_height: "2016"
 image_attribution: ""

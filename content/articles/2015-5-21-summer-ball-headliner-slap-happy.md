@@ -45,7 +45,7 @@ This seems like a great match. Imperial is a University; Green is apparently a P
 
 Let me start again. On Friday 3rd October, 2014, a man slapped a teenager. At the Durham Freshers ball. Whilst performing on stage. With a security guard present to suppress any response. That man has since been contracted for an estimated £10,000 to headline the Imperial Summer Ball. See the problem here?
 
-For some background, you should watch the videos – a quick Google of “Professor Green slaps” will get you two taken from different angles. “That’s what you get if you call me a c\*\*t” shouts the triumphant happy slapper, before segueing smoothly into the presumably rhetorical “Are we going to have a f\*\*\*ing good time tonight or what?” Not so PG after all.
+For some background, you should watch the videos – a quick Google of “Professor Green slaps” will get you two taken from different angles. “That’s what you get if you call me a c**t” shouts the triumphant happy slapper, before segueing smoothly into the presumably rhetorical “Are we going to have a f***ing good time tonight or what?” Not so PG after all.
 
 What is most unnerving about this incident is Professor Green’s apparent lack of contrition, telling the Mirror: “I don’t reflect on things like that”. He stated, “If someone abuses you and throws their hand up at your face, then someone says that you hit a fan I’m just like like what fan? It happened. I mean, what’s happened to rock and roll? I don’t understand why it became such a big thing.”
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  New HBO channel on Sky 
+  New HBO channel on Sky
 subtitle: >
   The most respected network in the US launches this week in the UK as Sky Atlantic. To celebrate, over the next couple of issues we will take a look at some of HBO’s greats
 date: "2011-01-27 20:13:52 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272011-ks607-truelboo.jpg"
 image_caption: >
-  
+
 image_width: "1198"
 image_height: "667"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201703031625-felix-Screen Shot 2017-02-24 at 14.00.16.png"
 image_caption: >
-  
+
 image_width: "2064"
 image_height: "1090"
 image_attribution: ""
@@ -47,7 +47,7 @@ After the Christmas break of my second year and as a new year’s resolution, I 
 
 At the beginning, I managed to follow a crazy diet while excessively exercising but on the third week I remember being completely starved. I felt quite disappointed at myself and thought I was just lacking willpower. That weekend I decided to have the famous 'cheat meal' which turned into a 'cheat weekend' and then into binge eating.
 
-This cycle of starvation Monday to Friday followed by binging on the weekends, continued happening all the way through my third year – not to forget the hours in the gym with a calorie\-burning mentality.
+This cycle of starvation Monday to Friday followed by binging on the weekends, continued happening all the way through my third year – not to forget the hours in the gym with a calorie-burning mentality.
 
 My hair was falling out, I stopped having my period and that – together with Imperial’s workload – made third year a complete nightmare. Another factor that contributed to the development of my eating disorder was the external pressure I felt to look a certain way due to all the exercise I was doing.
 
@@ -57,13 +57,13 @@ We used to talk about my degree, my friendships, my plans for the future and my 
 
 After saying that out loud for the first time, I felt like something finally clicked in me, I was ready to stop making food and exercise controlling mechanisms in my life. I started searching online for articles about binge eating disorder, spent hours on Youtube watching videos but I was still quite confused. Some said binging was just a way to cope with emotions, others that it was part of our survival instinct.
 
-By that time I was six weeks binge\-free, till that Sunday: another binging episode. That upcoming week I was meeting the counsellor again and that Thursday was honestly one of the most meaningful days of my life. I realised in the session that I forgot what being satisfied and most importantly having a balanced life meant. I remember him mentioning the expression 'intuitive eating' and I felt completely scared about it. For me at the time there was only black and white, moderation did not exist. Suddenly, I realised that my problem was that I was not eating enough.
+By that time I was six weeks binge-free, till that Sunday: another binging episode. That upcoming week I was meeting the counsellor again and that Thursday was honestly one of the most meaningful days of my life. I realised in the session that I forgot what being satisfied and most importantly having a balanced life meant. I remember him mentioning the expression 'intuitive eating' and I felt completely scared about it. For me at the time there was only black and white, moderation did not exist. Suddenly, I realised that my problem was that I was not eating enough.
 
 The following morning when I woke up, for the first time in ages, I listened to my body. I ate till satisfaction and I ate what I wanted to have without thinking about the 'consequences'. I remember having for breakfast some scrambled eggs on toast and an apple dipped in Nutella.
 
-Something as simple as having Nutella without binging the rest of the day or feeling guilty and embarrassed about it was a huge step for me, and ever since the 15th of August I have been binge\-free. I found that being open about my unhealthy relationship with food was the most important thing I did and even writing this has been liberating and helpful to remind myself how far I have come.
+Something as simple as having Nutella without binging the rest of the day or feeling guilty and embarrassed about it was a huge step for me, and ever since the 15th of August I have been binge-free. I found that being open about my unhealthy relationship with food was the most important thing I did and even writing this has been liberating and helpful to remind myself how far I have come.
 
 I can finally say that eating is not a stressful activity anymore, that I have found my passion for lifting again and that I truly love myself and my body – including every stretch mark and every bit of fat and cellulite.
 
-\*If you're struggling with an eating disorder, seek support from beat
+*If you're struggling with an eating disorder, seek support from beat
 Helpline 0808 801 0677  Youthline 0808 801 0711

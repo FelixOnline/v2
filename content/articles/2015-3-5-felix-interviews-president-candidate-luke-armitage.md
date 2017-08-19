@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503052125-snb11-la911-5518.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Imperial College Union"
@@ -69,7 +69,7 @@ False: I am mortally offended by the suggestion.
 
 __Why are you running for President, but not doing so seriously?__
 
-Fact: I am literally the best. I also find it highly offensive that because my completely serious manifesto may not have the same values as a ‘regular’ presidential candidate that you are led to believe I am not a serious competitor. Let’s be reasonable here, find me a student who doesn’t want to buy a pint for 70 pence and I’ll find you a cabbage farmer who’s managed to successfully identify the correct irrigation techniques for his soil. \*snigger\*.
+Fact: I am literally the best. I also find it highly offensive that because my completely serious manifesto may not have the same values as a ‘regular’ presidential candidate that you are led to believe I am not a serious competitor. Let’s be reasonable here, find me a student who doesn’t want to buy a pint for 70 pence and I’ll find you a cabbage farmer who’s managed to successfully identify the correct irrigation techniques for his soil. *snigger*.
 
 __Do you think the structure of the Union Election process is laughable, and is that why you are running on what appears to be a joke manifesto?__
 

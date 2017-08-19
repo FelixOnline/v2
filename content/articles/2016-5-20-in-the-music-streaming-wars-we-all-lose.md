@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605201114-felix-streaming.jpg"
 image_caption: >
-  So much choice (thanks capitalism). 
+  So much choice (thanks capitalism).
 image_width: "640"
 image_height: "313"
 image_attribution: ""
@@ -36,11 +36,11 @@ imported: true
 
 Another week and yet another timed exclusive on a streaming service. This time it’s **Chance the Rapper’s** _Coloring Book_, exclusive to Apple Music for two weeks.
 
-I’m growing fucking tired of this shit. It’s not like streaming services are actually distinguishable in functionality in any meaningful way. The overlap in content between the main services \(Google Play Music, Apple Music, Spotify and TIDAL\) is so massive that the only incentive these companies can come up for consumers to switch to their services is to provide exclusive albums and in most cases this exclusivity is only for a limited time.
+I’m growing fucking tired of this shit. It’s not like streaming services are actually distinguishable in functionality in any meaningful way. The overlap in content between the main services (Google Play Music, Apple Music, Spotify and TIDAL) is so massive that the only incentive these companies can come up for consumers to switch to their services is to provide exclusive albums and in most cases this exclusivity is only for a limited time.
 
-Compare this to video streaming services, where each provider offers drastically different content, or video game consoles, where systems vary in power and there are frequent console\-exclusive titles, and it’s obvious that we’re being played.
+Compare this to video streaming services, where each provider offers drastically different content, or video game consoles, where systems vary in power and there are frequent console-exclusive titles, and it’s obvious that we’re being played.
 
-It’s hard to blame the musicians who have stakes in TIDAL – they’re trying to make money in a precarious music industry. But in many cases when they make things exclusive, rather than getting new customers to join their service they’re forcing consumers back to illegally download albums again \(which streaming services were created to prevent\). No one is going to subscribe to every music service just to listen to every album that’s released; they’re going to complement their music streaming with pirating.
+It’s hard to blame the musicians who have stakes in TIDAL – they’re trying to make money in a precarious music industry. But in many cases when they make things exclusive, rather than getting new customers to join their service they’re forcing consumers back to illegally download albums again (which streaming services were created to prevent). No one is going to subscribe to every music service just to listen to every album that’s released; they’re going to complement their music streaming with pirating.
 
 If you by into all that capitalism bullshit then I guess competition can sometimes be great.
 

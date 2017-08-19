@@ -1,6 +1,6 @@
 ---
 title: >
-  Shoes: Pleasure and Pain 
+  Shoes: Pleasure and Pain
 subtitle: >
   Cecile Borkhataria takes a look at the shoe exhibition at the V&A
 date: "2015-06-18 21:01:50 +0100"

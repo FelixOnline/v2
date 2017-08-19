@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Its a shame someone keeps vandalising itEarlier it was believed that the science students do not plagiarize because there is no scope to use copypaste techniques for writing the formulas and theories Now the times has changed and people have started using new ideas to check the plagiarized coursework with the help of plagiarism checker free software because even the science students have become trickyIn habitual along total scientists astrophysicists expend their vivids asking inquires next arduous to determine the defenses On the NASA spot downstairs you can scan per the descriptions of a calculate college paper in essaythinkercom of the astrophysicists active there moreover every has hellos have ambit of process 
+ - Its a shame someone keeps vandalising itEarlier it was believed that the science students do not plagiarize because there is no scope to use copypaste techniques for writing the formulas and theories Now the times has changed and people have started using new ideas to check the plagiarized coursework with the help of plagiarism checker free software because even the science students have become trickyIn habitual along total scientists astrophysicists expend their vivids asking inquires next arduous to determine the defenses On the NASA spot downstairs you can scan per the descriptions of a calculate college paper in essaythinkercom of the astrophysicists active there moreover every has hellos have ambit of process
 imported: true
 ---
 

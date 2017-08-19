@@ -36,7 +36,7 @@ imported: true
 
 Researchers have found a component of gut mucus that is toxic to parasitic worms. The discovery could help one billion people worldwide.
 
-The research, [published in the Journal of Experimental Medicine](http://jem.rupress.org/content/208/5/893/suppl/DC1), found that just one component of the mucus, a mucin known as Muc5ac, is needed for the efficient expulsion of worms from the body.  
+The research, [published in the Journal of Experimental Medicine](http://jem.rupress.org/content/208/5/893/suppl/DC1), found that just one component of the mucus, a mucin known as Muc5ac, is needed for the efficient expulsion of worms from the body.
  Parasitic worms living in the gut are a major cause of disease. The gut is protected by a thick layer of mucus that is a mixture of salts, water and large proteins called mucins. Muc5ac mucin is rarely found in the gut, but when it is it physically changes the properties of the mucus barrier.
 
 Scientists from the University of Manchester studied whipworm infections in the guts of mice. They discovered that mice that could not produce the mucin Muc5ac were unable to expel the worms from their guts and suffered long term parasitic infections. Professor Richard Grencis, one of the lead authors on the study, explained that Muc5ac is so important because “it is ‘toxic’ for the worms and damages their health.”

@@ -1,6 +1,6 @@
 ---
 title: >
-  Back to the Past 
+  Back to the Past
 subtitle: >
   X-rays help scientists delve deeper into fossil record
 date: "2011-06-02 18:33:10 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

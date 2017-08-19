@@ -46,16 +46,16 @@ When I was shopping around for boots, I went everywhere. I even went to the high
 
 In conclusion, go to River Island, buy a pair of boots and wear them with pride. Having re-read this, I feel I should do something manly. So, I’m off to drink pints and chant about my credentials as a Zulu warrior.10
 
-__References__:  
- 1. Dr M.R. Arbabzadah MA, my brother, and noted Classicist (noted here).  
- 2. B. L. Arbabzadah MA, my other brother.  
- 3. For claims of invention of swagger, see Jay-Z and Kanye West in ‘[Otis](http://www.youtube.com/watch?v=BoEKWtgJQAU)’, _Watch the Throne_, 2011, Track 4.  
- 4. Much like this referencing in a Comment article joke. See K. Shubber, Felix, Issue 1,426, Friday 27 February 2009, p.7  
- 5. General feeling gathered from previous conversations with K. Shubber.  
- 6. The link to this reference is missing. Try searching Google Scholar.  
- 7. See pictures of me next to other people.  
- 8. Preferably roughly 6ft, due to conversations with girls over the past few years.  
- 9. See bank balance of T. N. Arbabzadah.  
- 10. Note: This is a reference to chanting performed when someone is downing their drink.11  
- 11. This note is added for the benefit of a fashion editor. Let’s call her A. Yang, no, wait, that’s too obvious, let’s call her Alice Y.  
+__References__:
+ 1. Dr M.R. Arbabzadah MA, my brother, and noted Classicist (noted here).
+ 2. B. L. Arbabzadah MA, my other brother.
+ 3. For claims of invention of swagger, see Jay-Z and Kanye West in ‘[Otis](http://www.youtube.com/watch?v=BoEKWtgJQAU)’, _Watch the Throne_, 2011, Track 4.
+ 4. Much like this referencing in a Comment article joke. See K. Shubber, Felix, Issue 1,426, Friday 27 February 2009, p.7
+ 5. General feeling gathered from previous conversations with K. Shubber.
+ 6. The link to this reference is missing. Try searching Google Scholar.
+ 7. See pictures of me next to other people.
+ 8. Preferably roughly 6ft, due to conversations with girls over the past few years.
+ 9. See bank balance of T. N. Arbabzadah.
+ 10. Note: This is a reference to chanting performed when someone is downing their drink.11
+ 11. This note is added for the benefit of a fashion editor. Let’s call her A. Yang, no, wait, that’s too obvious, let’s call her Alice Y.
  12. N.B. Other punny titles that could have been used: Call me Bootsie Collins, What am I talking a-boot (I’m not Canadian, so that may not really have worked as well), Putting the boots in, Knocking boots.

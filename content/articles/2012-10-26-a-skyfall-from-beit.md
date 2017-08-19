@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260237-tna08-students-on-roof.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -49,7 +49,7 @@ However some students went even further in their efforts to get a peek at the re
 
 According to students that were on the roof, who wish to remain anonymous, there was a fire door that led out onto the rooftop that was not guarded by security on the night. The door was on the Beit fourth floor by the east. It said that the door was alarmed, but it was, in fact, not. This door was able to be opened, and students went on to the roof from there. Then, from the outside, there is a door into the Union, which could not be opened from inside but can be opened from the outside.
 
-Concerns were raised about the student’s actions as the rooftop of Beit is considered dangerous due to it being a sheer drop, and it is unsafe for students to be there and so close to the edge.  
+Concerns were raised about the student’s actions as the rooftop of Beit is considered dangerous due to it being a sheer drop, and it is unsafe for students to be there and so close to the edge.
  The students added, “I was surprised how easy it was to get on the roof. It probably should be more secure but not too secure. When we went to security, no-one was there Security was very low”. The student added that “Great view! We should come up here more often. Can’t wait for the next RAH Premier”.
 
 Beit Security were unable to comment on the student’s presence on the rooftop. Felix could not get a quote in time about the incident, but is hoping to follow up later and, at the very least, have something online.

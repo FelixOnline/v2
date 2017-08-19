@@ -1,6 +1,6 @@
 ---
 title: >
-  Floods, fireballs and chaos? 
+  Floods, fireballs and chaos?
 subtitle: >
   We could be in the middle of Earth’s sixth mass extinction (and barely even notice it)
 date: "2011-03-10 19:20:05 +0000"

@@ -2,7 +2,7 @@
 title: >
   Squash’s day out with the Pros
 subtitle: >
-  Stephanie Walton on glass squash courts. 
+  Stephanie Walton on glass squash courts.
 date: "2013-01-10 23:19:49 +0000"
 id: "3111"
 old_path: /sport/3111/squashs-day-out-with-the-pros

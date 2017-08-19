@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105221412-felix-img_9716.jpg"
 image_caption: >
-  
+
 image_width: "1983"
 image_height: "1809"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - there is no mechanism for students to make formal complaints about members of staffIs that really true Seems a bit ridiculous if it is There is a complaints procedure outlined on the Registrys pagehttpwww3imperialacuksecretariatgovernancecharterandstatutese3HannahAs it says these are for academic or administrative services My complaint would have been about general conduct and accountability It is worrying that there is no method for this but the point is that College Council is meant to be the ultimate accountability tool If a lower internal mechanism could overide its authority then it would lose that authority by definition Whether Council is indeed accountable we will find out at the next one when I will bring this upIt could fall under either of those if you want to stretch it particularly if you want to emphasis the effect it has on academia It explicitly states the matters which it cannot deal with which this does not fall under The issue can then be 
+ - there is no mechanism for students to make formal complaints about members of staffIs that really true Seems a bit ridiculous if it is There is a complaints procedure outlined on the Registrys pagehttpwww3imperialacuksecretariatgovernancecharterandstatutese3HannahAs it says these are for academic or administrative services My complaint would have been about general conduct and accountability It is worrying that there is no method for this but the point is that College Council is meant to be the ultimate accountability tool If a lower internal mechanism could overide its authority then it would lose that authority by definition Whether Council is indeed accountable we will find out at the next one when I will bring this upIt could fall under either of those if you want to stretch it particularly if you want to emphasis the effect it has on academia It explicitly states the matters which it cannot deal with which this does not fall under The issue can then be
 imported: true
 ---
 

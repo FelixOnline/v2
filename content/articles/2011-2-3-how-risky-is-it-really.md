@@ -1,6 +1,6 @@
 ---
 title: >
-  How Risky Is It Really? 
+  How Risky Is It Really?
 subtitle: >
   A review of David Ropeik's book on fear perception
 date: "2011-02-03 20:03:22 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

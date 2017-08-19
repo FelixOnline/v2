@@ -1,6 +1,6 @@
 ---
 title: >
-  Cucumber, Banana, Tofu: Channel 4’s new sex salad. 
+  Cucumber, Banana, Tofu: Channel 4’s new sex salad.
 subtitle: >
   Giulia Gabrielli reviews Thursday’s LGBT drama bonanza
 date: "2015-02-09 19:36:27 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502091936-ps3110-cucumber-f2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110281236-felix-fa5f01a8-466f-11e0-aebf-00144feab49a.jpg"
 image_caption: >
-  
+
 image_width: "470"
 image_height: "300"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-There’s more to French rock than [__Serge Gainsbourg__](http://www.youtube.com/watch?v=NkyJ07TK2dQ&feature=related). For a time there was [__Sloy__](http://www.youtube.com/watch?v=EVz3CDC6gW8) (1991–2000) who looked like they were going places after playing shows with [__Shellac__](http://www.youtube.com/watch?v=mxbTRh1o_RU) and being invited on tour by [__P J Harvey__](http://www.youtube.com/watch?v=Va0w5pxFkAM). John Peel took a shine to them too, back in the day. But despite sexing up their sleazy punk sound with a bugle solo on their third album _Electrelite_ (1998) it still ended up being their last.  
+There’s more to French rock than [__Serge Gainsbourg__](http://www.youtube.com/watch?v=NkyJ07TK2dQ&feature=related). For a time there was [__Sloy__](http://www.youtube.com/watch?v=EVz3CDC6gW8) (1991–2000) who looked like they were going places after playing shows with [__Shellac__](http://www.youtube.com/watch?v=mxbTRh1o_RU) and being invited on tour by [__P J Harvey__](http://www.youtube.com/watch?v=Va0w5pxFkAM). John Peel took a shine to them too, back in the day. But despite sexing up their sleazy punk sound with a bugle solo on their third album _Electrelite_ (1998) it still ended up being their last.
  Carrying the Tricolore today are [__Chevreuil__](http://www.youtube.com/watch?v=ZWRuN0U5ze8). Chevreuil are so French they don’t even bother translating their band profile. But no matter, the gist is clear:
 
 “_Tony C. (guitare) et Julien F. (batterie) commencent le groupe CHEVREUIL en 1998 ... 3 albums (“SPORT” – 2000, “GHETTO BLASTER” – 2001, “CHATEAUVALLON” – 2003) ... mentor STEVE ALBINI ... batterie mécanique/métronome ... le groupe inaugure la guitare magnétique, instrument hybride qui a un pied dans l’univers du rock et l’autre dans l’atmosphère de la musique électronique_”.

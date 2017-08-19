@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -47,4 +47,4 @@ Having mentioned Imperial’s own “digital money startup”, Yoyo, he also use
 
 Anandalingam unsurprisingly hailed Citi as one of the few banks that had moved with the times and embraced the new financial technology, or ‘fintech’.
 
-Bitcoin was started with the aim of decentralising a currency, so it wasn’t in control of banks or governments, but rather by traceable network of users online. Recently, the system has struggled to deal with technical issues. Bitcoin developer Mike Hearn recently said that “the community \[of Bitcoin\] had failed”, that it was “completely controlled by a handful of people” and that the network was on the “brink of technical collapse”.
+Bitcoin was started with the aim of decentralising a currency, so it wasn’t in control of banks or governments, but rather by traceable network of users online. Recently, the system has struggled to deal with technical issues. Bitcoin developer Mike Hearn recently said that “the community [of Bitcoin] had failed”, that it was “completely controlled by a handful of people” and that the network was on the “brink of technical collapse”.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301312355-tna08-siliconvalley-copy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Ive been in the industry for 25 years When I was hirnig I used to ask HR for ALL the resumes What I found was that the people I wanted to hire were the ones in their discard stack   the ones with the plain but techie resumes The ones HR wanted to hire were the fancy resumes My practice was to set all the parchment and designer folders aside and go thru the real resumes I want to hire techs not sales peopleOver the last ten years Ive worked as a programmer contractor on and off During this time I also looked for staff work when not on a contract What I found was that corporate HR is not hirnig They are doing busy work to make it look like they are Because I have contacts in most of the companies I apply to I know when jobs have been filled and closed or when theyve just been removed Most of the jobs Ive applied and interviewed for never hired They go thru all the motions and then remove the job posting Or they hired from within and filled some management requirement to interview outside 
+ - Ive been in the industry for 25 years When I was hirnig I used to ask HR for ALL the resumes What I found was that the people I wanted to hire were the ones in their discard stack   the ones with the plain but techie resumes The ones HR wanted to hire were the fancy resumes My practice was to set all the parchment and designer folders aside and go thru the real resumes I want to hire techs not sales peopleOver the last ten years Ive worked as a programmer contractor on and off During this time I also looked for staff work when not on a contract What I found was that corporate HR is not hirnig They are doing busy work to make it look like they are Because I have contacts in most of the companies I apply to I know when jobs have been filled and closed or when theyve just been removed Most of the jobs Ive applied and interviewed for never hired They go thru all the motions and then remove the job posting Or they hired from within and filled some management requirement to interview outside
 imported: true
 ---
 
@@ -43,7 +43,7 @@ William Shockley, one of the ‘founding fathers’ of Silicon Valley is the rea
 
 Today, Silicon Valley is no longer considered just the centre of silicon chip manufacturers, its name is synonymous with world-class innovation and technological progress – a far cry from its early beginnings.
 
-And now, as Imperial students, a select few of us will have the chance to experience it first-hand.  
+And now, as Imperial students, a select few of us will have the chance to experience it first-hand.
  A month from now will mark the start of the International Insight Series to Silicon Valley, San Francisco, where a series of high-key appointments will be conducted within the world’s fastest growing hub of cutting edge, high-techcompanies. King’s College Business Club and Imperial Entrepreneurs have jointly organised this trip to provide Imperial students the opportunity to visit some of the most prestigious companies existing in Silicon Valley today.
 
 With presentations, discussions and networking just beside some of the most successful start-up ventures in the world, this trip is promised to be that ticket you have been hoping for to get through the door for a promising career in entrepreneurship while of course – soaking in the sun on the other side of the Atlantic.

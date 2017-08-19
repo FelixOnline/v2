@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
 
 comments:
- - Im really srseurpid you dig them I cant help but like them either I saw them when they played Buffalo last year and they put on a great show I danced like I was 18I feel like your words work well with your image and I also feel your quote has a good connection  If I had to chsooe one word that was not as strong as the others it would be graphic  yes the body is graphic and the lighting defines the skinmuscles well but it is the background that is lost  Because of this  I struggle with the narrative and understanding of what your image is trying to say  I think because your background is so simple and the ropes are in various directions and blown out  it makes the story a little to open ended and unclear  Maybe along with additional images this information would be better understood  I think this is a very captivating image and it makes you take a second look  Overall good job  cars with high auto insurance   insurance auto   normally men   gained worldwide   
+ - Im really srseurpid you dig them I cant help but like them either I saw them when they played Buffalo last year and they put on a great show I danced like I was 18I feel like your words work well with your image and I also feel your quote has a good connection  If I had to chsooe one word that was not as strong as the others it would be graphic  yes the body is graphic and the lighting defines the skinmuscles well but it is the background that is lost  Because of this  I struggle with the narrative and understanding of what your image is trying to say  I think because your background is so simple and the ropes are in various directions and blown out  it makes the story a little to open ended and unclear  Maybe along with additional images this information would be better understood  I think this is a very captivating image and it makes you take a second look  Overall good job  cars with high auto insurance   insurance auto   normally men   gained worldwide
 imported: true
 ---
 

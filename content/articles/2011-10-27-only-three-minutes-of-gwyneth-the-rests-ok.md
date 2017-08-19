@@ -36,8 +36,8 @@ imported: true
 
 __Contagion__
 
-__Director__ Steven Soderbergh  
-__Screenwriter__ Scott Z. Burns  
+__Director__ Steven Soderbergh
+__Screenwriter__ Scott Z. Burns
 __Cast__ Matt Damon, Gwyneth Paltrow, Marion Cotillard, Kate Winslet, Jude Law, Laurence Fishburne
 
 It’s rare for a disaster scenario to make for a decent film let alone a great one, so it is with a sense of relief that I report that [_Contagion_](http://www.youtube.com/watch?v=4sYSyuuLk5g) rises above the majority of its siblings to provide an unusually subtle 106 minutes of entertainment.

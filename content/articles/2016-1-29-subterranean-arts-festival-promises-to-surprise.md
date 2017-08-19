@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201601290943-felix-Vault_2015_9.jpg"
 image_caption: >
-  
+
 image_width: "4240"
 image_height: "2832"
 image_attribution: "We Are Full Fat PR"
@@ -37,7 +37,7 @@ imported: true
 
 Have you ever wondered what goes on underneath London’s famous “graffiti tunnel” that is Leake Street, near Waterloo station?
 
-Halfway down the tunnel is the entrance to The Vaults, a subterranean labyrinth of creative space and entertainment. For the third year running, the venue will be home to the Vault Festival, a six\-week event jam\-packed with exciting shows and workshops – London’s cousin to the Edinburgh Fringe. Built on the philosophy of “reinventing the non\-funded creative sector”, the line up is refreshing and promises to surprise with the unexpected and experimental.
+Halfway down the tunnel is the entrance to The Vaults, a subterranean labyrinth of creative space and entertainment. For the third year running, the venue will be home to the Vault Festival, a six-week event jam-packed with exciting shows and workshops – London’s cousin to the Edinburgh Fringe. Built on the philosophy of “reinventing the non-funded creative sector”, the line up is refreshing and promises to surprise with the unexpected and experimental.
 
 On Wednesdays to Sundays every week between the 27th of January to the 6th March, the Vault Festival will host more than a hundred theatre, cabaret and comedy performances. Here is a selection of Felix Arts’ top picks.
 
@@ -45,7 +45,7 @@ On Wednesdays to Sundays every week between the 27th of January to the 6th March
 
 _Throughout the festival_
 
-Vault Surge is an in\-house programme of workshops, discussions and shows \(mostly free\) running throughout the festival. Designed to encourage conversation in the arts, these include artist surgeries, new acts performed in the restaurant within, as well as _Femme Fierce_ – UK’s largest all female street art and graffiti festival. Not to mention the _Vault Fundays,_ which include activities like “speed\-gaming” – speed dating for gamers!
+Vault Surge is an in-house programme of workshops, discussions and shows (mostly free) running throughout the festival. Designed to encourage conversation in the arts, these include artist surgeries, new acts performed in the restaurant within, as well as _Femme Fierce_ – UK’s largest all female street art and graffiti festival. Not to mention the _Vault Fundays,_ which include activities like “speed-gaming” – speed dating for gamers!
 
 **The Devil Speaks True**
 
@@ -69,10 +69,10 @@ _Clown Smasher workshop_
 
 _27th Feb, £10_
 
-The festival feature two clowning workshops, with a “hysterical” one, 'The Art of Hysteria'_,_ celebrating the new play _Hysterical,_ and another one by the Fringe First nominated Helen Duff. 'Clown Smasher'will be a mix of solo improvisation and collaborative games. Why not take a break from work and learn a new skill \(and maybe cheer your friends up\)?
+The festival feature two clowning workshops, with a “hysterical” one, 'The Art of Hysteria'_,_ celebrating the new play _Hysterical,_ and another one by the Fringe First nominated Helen Duff. 'Clown Smasher'will be a mix of solo improvisation and collaborative games. Why not take a break from work and learn a new skill (and maybe cheer your friends up)?
 
 **The Forest**
 
 _24th Feb – 6th Mar, £16_
 
-This hour\-long experience is an immersive, multi\-sensory test that claims to “revolutionise the way you process data” and “give an insight into the functionality of your brain”. Is your brain a computer chip that can be debugged? Yeah, I’m curious to find out what that means, too.
+This hour-long experience is an immersive, multi-sensory test that claims to “revolutionise the way you process data” and “give an insight into the functionality of your brain”. Is your brain a computer chip that can be debugged? Yeah, I’m curious to find out what that means, too.

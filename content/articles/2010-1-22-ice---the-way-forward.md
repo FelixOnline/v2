@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001221409-rsp07-science.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "427"
 image_attribution: ""
@@ -34,17 +34,17 @@ comments:
 imported: true
 ---
 
-When Ethiopia commenced construction of a dam on the Upper Omo river in 2006, groups downstream in Ethiopia and Kenya made their opposition clear. The dam, they said, would affect communities and wildlife by interfering with the annual supply of nutrient-rich floodwaters that nourish grazing areas and wetlands.  
+When Ethiopia commenced construction of a dam on the Upper Omo river in 2006, groups downstream in Ethiopia and Kenya made their opposition clear. The dam, they said, would affect communities and wildlife by interfering with the annual supply of nutrient-rich floodwaters that nourish grazing areas and wetlands.
  The Ethiopian government argued a pressing need for hydro-electricity, dismissing environmental effects as “minimal”. There is little recourse for opposing groups. Although in August 2009 a lobby group managed to persuade the African Development Bank (AfDB) to review their financing of the project on environmental grounds, construction is ongoing.
 
-The controversy surrounding the Gibe dam is redolent of an era in which environmental challenges are increasingly complex and trans-boundary. The drivers of problems such as water use, deforestation and pollution are diffuse and complex, no longer confined to local actions that can easily be addressed.   
+The controversy surrounding the Gibe dam is redolent of an era in which environmental challenges are increasingly complex and trans-boundary. The drivers of problems such as water use, deforestation and pollution are diffuse and complex, no longer confined to local actions that can easily be addressed.
  What responses have we crafted to meet this challenge? Global environmental protection consists of little more than a handful of narrow bilateral and multilateral treaties, underpinned by enforcement mechanisms that relate only to states – whilst interested parties as well as transgressors include NGOs and private actors.
 
 There is an apparent mismatch between the interdependence of global environmental problems and the absence of global governance to address such problems.
 
 Witness the difficulties in securing agreement in Copenhagen, where countries struggled to agree a coherent and legally binding response to the potential threat of climate change. Consider also hapless attempts to rescue the blue-fin tuna from commercial extinction even as the last viable stocks are depleted. International companies are currently free to conduct their most polluting activities in countries where environmental controls are least stringent, with a good chance of impunity.
 
-Enter the International Court for the Environment (ICE), offered as a leap towards multi-lateral, trans-boundary stewardship of the environment.  
+Enter the International Court for the Environment (ICE), offered as a leap towards multi-lateral, trans-boundary stewardship of the environment.
  Proponents envisage an international court constituted for the adjudication and enforcement of existing and future environmental treaties, underpinned by a robust lawmaking institution and permissive of access by a range of parties including states, non-governmental and private actors.
 
 These are ambitious aims – but then the court is meant to address an urgent challenge. Current environmental protections have failed to stem the tide of pollution, deforestation, species loss and other environmental degradation.

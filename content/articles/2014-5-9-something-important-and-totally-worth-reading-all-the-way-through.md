@@ -2,7 +2,7 @@
 title: >
   Something important and totally worth reading all the way through
 subtitle: >
-  Sometimes, there are really busy weeks, and sometimes there are quiet weeks. 
+  Sometimes, there are really busy weeks, and sometimes there are quiet weeks.
 date: "2014-05-09 02:11:59 +0100"
 id: "4576"
 old_path: /comment/4576/something-important-and-totally-worth-reading-all-the-way-through
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

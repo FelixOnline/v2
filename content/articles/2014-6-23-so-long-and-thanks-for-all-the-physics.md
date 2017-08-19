@@ -2,7 +2,7 @@
 title: >
   So long and thanks for all the Physics
 subtitle: >
-  Rory Fenton reminisces about his six years at IC 
+  Rory Fenton reminisces about his six years at IC
 date: "2014-06-23 13:09:58 +0100"
 id: "4706"
 old_path: /comment/4706/so-long-and-thanks-for-all-the-physics
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406121900-me1711-centrallib.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

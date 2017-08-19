@@ -1,6 +1,6 @@
 ---
 title: >
-  £140 million investment boost to Imperial spin-out companies 
+  £140 million investment boost to Imperial spin-out companies
 subtitle: >
   Stock market floatation raises millions for research
 date: "2010-12-09 21:38:50 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092135-dr910-facultyb.jpg"
 image_caption: >
-  
+
 image_width: "2120"
 image_height: "1488"
 image_attribution: ""

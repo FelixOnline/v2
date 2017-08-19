@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305161542-js2310-dentistry.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -59,7 +59,7 @@ RA: I read online that Ambarchi was an influence, who else influenced your sound
 
 Cian: If I had to narrow it down, and I really hate to do so, I’d say Alog and Phonophani are big influences, they seem to apply an attitude that I really agree with… whatever’s available to them can be used in a song if it sounds good, and that’s an attitude that I wholeheartedly support. In fact, as a label, Rune Grammofon has been hugely influential … stuff like Deathprod, Spunk, Archetti/Wiget, Supersilent, have never been too far from my CD player over the past few years .
 
-Patrick: We both worked in record stores for over 20 years combined, when you do that its hard not to be exposed to something good in literally every genre (although blues proves elusive for us both), there are pop songs I like right down to noise…  
+Patrick: We both worked in record stores for over 20 years combined, when you do that its hard not to be exposed to something good in literally every genre (although blues proves elusive for us both), there are pop songs I like right down to noise…
  In terms of ‘our’ ‘genre’ of music, I suppose Stars of the Lid was the first group I heard that was like a penny dropping. I’ve always loved drone since I was a kid (the sound of a fan humming in a room, the din of a busy street, an orchestra tuning up) but I never knew there was music that utilised it until I heard Stars of the Lid. It was actually then through the guidance of Vinny Dermody (The Jimmy Cake), who I worked with at the time that got me into the likes of Morton Feldman and some other, more obscure contemporary classical composers like La Monte Young. Sonic Youth were definitely influential too in the way they used noise as an instrument and not just an extension of a sound…
 
 RA: Is there much of an experimental scene in Ireland as a whole?

@@ -1,6 +1,6 @@
 ---
 title: >
-  ‘Drinking societies’ face tankard ban 
+  ‘Drinking societies’ face tankard ban
 subtitle: >
   The 'secret' Tie Clubs are the target of a new Council paper
 date: "2017-03-17 13:06:17 +0000"
@@ -35,19 +35,19 @@ comments:
 imported: true
 ---
 
-A paper is to be presented at next week’s Council meeting asking the Union to stop handing out tankards to the so\-called ‘Tie Clubs’. These are invite\-only ‘secret’ clubs, members of which can be easily identified on a night out as they adorn characteristic ties.
+A paper is to be presented at next week’s Council meeting asking the Union to stop handing out tankards to the so-called ‘Tie Clubs’. These are invite-only ‘secret’ clubs, members of which can be easily identified on a night out as they adorn characteristic ties.
 
 The paper presented by Andrew Olson, ordinary Council member, argues that Tie Clubs do not meet the standards of the Union’s Equality of Opportunities Policy, namely, fostering ”an environment free of unfair discrimination and harassment”. Therefore, according to the policy, they should be suspended and not granted “the use of Union resources and facilities”.
 
 The paper aims at the removal of the tankards of The 22s Club, The Chaps Club and The Links Club, at least until they “provide sufficient evidence that they comply with the Equal Opportunities Policy to the satisfaction of Union Council”.
 
-This may mean the clubs would have to provide detailed information on their current student members’ demographic, including race, gender and social background. It is also likely that complying with an Equality of Opportunities Policy would translate into abandoning the “invite\-only” member’s policy that many of these Clubs adopt.
+This may mean the clubs would have to provide detailed information on their current student members’ demographic, including race, gender and social background. It is also likely that complying with an Equality of Opportunities Policy would translate into abandoning the “invite-only” member’s policy that many of these Clubs adopt.
 
 This is not the first time the issue of Tie Clubs has been raised at Council according to Olson. However, he said that previous attempts to discuss the Union’s affiliation to these Clubs have been almost immediately terminated as a result of Tie Club pressures.
 
-Olson told felix that he had been tasked by Council to find out whether the Links Club accepted women in their ranks \(The 22s notoriously don’t\), as there was no mention in their online resources. “After sending a one\-line email to a member of the CGCA \(CGCU alumni association\) I received snarky remarks from different alumni in the subsequent alumni meetings. After this, it was extremely difficult for me to contact them and to try to organise events with them.”
+Olson told felix that he had been tasked by Council to find out whether the Links Club accepted women in their ranks (The 22s notoriously don’t), as there was no mention in their online resources. “After sending a one-line email to a member of the CGCA (CGCU alumni association) I received snarky remarks from different alumni in the subsequent alumni meetings. After this, it was extremely difficult for me to contact them and to try to organise events with them.”
 
-Trying to look into Tie Club culture can also prove tricky when a large percentage of sabbatical officers are also members of these clubs. For example, Nas Andriopoulos, current Union President, is a member of the 22s, as is next year’s Deputy President \(Finance and Services\), Matt Blackett. This year’s Deputy President \(Clubs and Societies\), James Cox is reportedly a 22 and was initiated right before he was elected, during the election results party last year.
+Trying to look into Tie Club culture can also prove tricky when a large percentage of sabbatical officers are also members of these clubs. For example, Nas Andriopoulos, current Union President, is a member of the 22s, as is next year’s Deputy President (Finance and Services), Matt Blackett. This year’s Deputy President (Clubs and Societies), James Cox is reportedly a 22 and was initiated right before he was elected, during the election results party last year.
 
 In response to felix’s enquiry the Union said: “The tie clubs are not affiliated to Imperial College Union and we do not fund, support, govern or administrate them in any way; their policies are their responsibility.”
 
@@ -55,6 +55,6 @@ We also approached the Chaps Chair George Warner.
 
 According to Warner, the club has always  “had a policy of promoting student and alumni involvement within Imperial College, especially the RSM.
 
-“As of last year we introduced our first female member, after a vote including student and alumni members. This is not ‘tokenism’, but a genuine effort to change, as such the club has been inviting female members of the RSM to Chaps events for the last three years in a bid change general opinion of the club towards being all\-inclusive. For the avoidance of doubt, we do not discriminate on any characteristic.”
+“As of last year we introduced our first female member, after a vote including student and alumni members. This is not ‘tokenism’, but a genuine effort to change, as such the club has been inviting female members of the RSM to Chaps events for the last three years in a bid change general opinion of the club towards being all-inclusive. For the avoidance of doubt, we do not discriminate on any characteristic.”
 
 Whether the Tie Clubs will successfully refute Olson’s Claims remains to be seen.

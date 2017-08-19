@@ -2,7 +2,7 @@
 title: >
   How TV has affected my degree
 subtitle: >
-  Do people actually revise without the TV in the background? 
+  Do people actually revise without the TV in the background?
 date: "2011-02-24 19:25:27 +0000"
 id: "861"
 old_path: /tv/861/how-tv-has-affected-my-degree
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241921-nm1010-bigbangb.jpg"
 image_caption: >
-  
+
 image_width: "1583"
 image_height: "1024"
 image_attribution: ""

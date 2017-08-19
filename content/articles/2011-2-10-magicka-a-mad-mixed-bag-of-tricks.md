@@ -1,6 +1,6 @@
 ---
 title: >
-  Magicka: A mad, mixed bag of tricks 
+  Magicka: A mad, mixed bag of tricks
 subtitle: >
   Laurence Pope is too much of a n00b to play Magicka
 date: "2011-02-10 20:36:59 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102035-ks607-magickam.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1080"
 image_attribution: ""

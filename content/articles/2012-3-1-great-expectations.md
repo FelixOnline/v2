@@ -2,7 +2,7 @@
 title: >
   Great Expectations?
 subtitle: >
-  Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution 
+  Joseph Kaupp on Dickens and his (perhaps misunderstood) views on the Industrial Revolution
 date: "2012-03-01 22:45:01 +0000"
 id: "2290"
 old_path: /arts/2290/great-expectations
@@ -38,7 +38,7 @@ The Dickens exhibition at the Museum of London contrives a fair representation o
 
 In one particular exhibit, we are informed – by virtue of some anonymous scholar – that Dickens was optimistic about the type of society that industrialization could usher in. It is explained that he held great hope for the potential benefits that technological advancement offered society. This is in stark contrast to many other scholastic writings about Dickens’ attitude towards industrialization. Many academics cite Oliver Twist and Hard Times (among others) as unmistakable condemnations of the shifting society. But these – perhaps prematurely – fuse Dickens’ views with those who outright opposed industrialization and the hellfire and brimstone perceptions of the type of world that innovations in productive capacity would bring. (Such apocalyptic attitudes are perhaps most vividly allegorized in J.R.R. Tolkien’s descriptions of Mordor).
 
-Although his work frequently spotlights the cruel indifference of modern life, we too are made known of Dickens’ resilient hope for the future. He was even once referred to as a “vulgar optimist.” Despite this apparent contradiction, we can be certain of one thing: sordid or sublime, Dickens managed to illustrate his surroundings with a unique vitality. The stale pubs, debauched gin houses and wretched pawn shops were all painted with a peculiar stroke of charm that was at once full of squalor and liveliness – something which seems to have been a prevailing characteristic of 19th century London.  
+Although his work frequently spotlights the cruel indifference of modern life, we too are made known of Dickens’ resilient hope for the future. He was even once referred to as a “vulgar optimist.” Despite this apparent contradiction, we can be certain of one thing: sordid or sublime, Dickens managed to illustrate his surroundings with a unique vitality. The stale pubs, debauched gin houses and wretched pawn shops were all painted with a peculiar stroke of charm that was at once full of squalor and liveliness – something which seems to have been a prevailing characteristic of 19th century London.
  So, how can his optimism be reconciled with the apparent wrongs about which Dickens wrote? Consider Adam Smith in The Wealth of Nations:
 
 _“The violence and injustice of the rulers of mankind is an ancient evil, for which, I am afraid, the nature of human affairs can scarce admit of a remedy. But the mean rapacity, the monopolizing spirit of merchants and manufacturers who neither are, nor ought to be, the rulers of mankind, though it, perhaps, cannot be corrected, may very easily be prevented from disturbing the tranquility of anybody but themselves.”_

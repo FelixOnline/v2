@@ -1,6 +1,6 @@
 ---
 title: >
-  Kowtow to the master... Wafflemeister is in the house! 
+  Kowtow to the master... Wafflemeister is in the house!
 subtitle: >
   With a motto like ‘I waffle therefore I am’, what’s not to love?
 date: "2011-01-13 19:47:00 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101131944-ks607-waffleme.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: "Katie Tan"

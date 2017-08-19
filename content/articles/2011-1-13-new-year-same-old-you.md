@@ -1,6 +1,6 @@
 ---
 title: >
-  New Year, same old you... 
+  New Year, same old you...
 subtitle: >
   I’m not here to give advice about weight-loss. I’m here to tell you to man up!
 date: "2011-01-13 21:14:59 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132113-ks607-alexnowb.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

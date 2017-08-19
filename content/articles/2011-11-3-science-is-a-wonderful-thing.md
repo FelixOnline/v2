@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111031944-pk1811-3245599.jpg"
 image_caption: >
-  
+
 image_width: "4606"
 image_height: "3677"
 image_attribution: "Albert Einstein reminds us to take him into account in neutrino measurements"

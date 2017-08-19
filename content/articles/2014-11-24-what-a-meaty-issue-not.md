@@ -1,8 +1,8 @@
 ---
 title: >
-  What a meaty issue! (not) 
+  What a meaty issue! (not)
 subtitle: >
-  This week's Foodie editorial 
+  This week's Foodie editorial
 date: "2014-11-24 20:38:39 +0000"
 id: "4956"
 old_path: /food/4956/what-a-meaty-issue-not-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411242038-ps3110-confectionery-close-for-website.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

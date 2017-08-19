@@ -2,7 +2,7 @@
 title: >
   Critically acclaimed films that are actually terrible
 subtitle: >
-  At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious 
+  At some point, the idea that these films are ‘compelling’ took hold. In truth, they’re deafeningly boring and achingly pretentious
 date: "2010-10-01 22:56:22 +0100"
 id: "167"
 old_path: /film/167/critically-acclaimed-films-that-are-actually-terrible
@@ -36,7 +36,7 @@ imported: true
 
 We all know the importance of conversation while making friends in your first week, especially the pit-falls of trying to not to sound lame. However, in spite of your best efforts to be cool, some pretentious knobber will always have something smart to say in response to your movie opinions, usually by knocking whatever you say. Let’s call him [Mr Knock](http://www.felixonline.co.uk/?user=egk08), for example. Well, fear not Freshers, I have produced a cut-out-and-keep guide to four really powerful movie opinions that will leave you the winner in any conversation with Mr Knock.
 
-__Requiem for a Dream is just plain awful  
+__Requiem for a Dream is just plain awful
 __
 
 First off most people will venture in a popular “dark” indie film that they have seen in a little attempt to be cool, most common of these are Donnie Darko and Requiem for a Dream. Donnie Darko I love, (Tears for Fears and Echo and the Bunnymen soundtrack? Om nom nom) but Requiem for a Dream is a poorly written and incredibly poorly acted teenage navel-gaze-fest. The only reason that anyone thinks it’s any good is a master stroke of directing, by which Aaronofsky bludgeons the audience with a such a distressing penultimate scene that combined with the daze we find ourselves in after constantly getting trapped in Jared Leto’s so-hollow-it’s-captivating stare we forget that the film itself was total dross. Upon forgetting what the preceding 90 minutes of cinema were actually like, the audience forms its opinion on what it just saw, which ostensibly boils down to the following questions: “Do I like watching 2 women go at it ass to ass with a double ended dildo?” or “Do I desperately want to ravage the lead singer of 30 seconds to mars?” as the entire world will answer yes to at least one of those questions, the film gets given a substantially higher rating than it deserves. If we all lived like Phoebe in Friends, and turn off films before the distressing parts, the film wouldn’t have nearly as a high a rep as it does now.
@@ -45,7 +45,7 @@ __Bonus points__: say that you preferred π, citing that Aaronofsky used all the
 
 __Pulp Fiction is by far and away Tarantino's worst film__
 
-As we all know, the entire point of Pulp Fiction was as an elabourate vehicle to allow Tarantino to use the word “N\*\*\*\*r” to Samuel L. Jackson’s face. Whilst a ballsy move (after all, this article is just an elaborate vehicle to get the word “n\*\*\*\*r” in to Felix... (nice try - Ed.)) it doesn’t really constitute a good film. And that whole dicing around with the chronology of the timeline just resulted in confusion and a million copycat films/episodes of ER/dramsoc productions, each one worse than the preceding. But in all seriousness, maybe it’s because at every DVD night in first year we wound up watching this bloody film that I’m sick of it. And anyway, Jackie Brown with its severely limited level of violence and incredible soundtrack makes for much better viewing.
+As we all know, the entire point of Pulp Fiction was as an elabourate vehicle to allow Tarantino to use the word “N****r” to Samuel L. Jackson’s face. Whilst a ballsy move (after all, this article is just an elaborate vehicle to get the word “n****r” in to Felix... (nice try - Ed.)) it doesn’t really constitute a good film. And that whole dicing around with the chronology of the timeline just resulted in confusion and a million copycat films/episodes of ER/dramsoc productions, each one worse than the preceding. But in all seriousness, maybe it’s because at every DVD night in first year we wound up watching this bloody film that I’m sick of it. And anyway, Jackie Brown with its severely limited level of violence and incredible soundtrack makes for much better viewing.
 
 __Bonus points__: use the above argument ad-verbatim with a bouncer at Brixton Academy.
 

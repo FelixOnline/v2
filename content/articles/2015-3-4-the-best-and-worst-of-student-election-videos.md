@@ -1,6 +1,6 @@
 ---
 title: >
-  The best and worst of student election videos 
+  The best and worst of student election videos
 subtitle: >
   We've scoured the web so you don't have to
 date: "2015-03-04 18:30:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503041829-ps3110-screen-shot-2015-03-04-at-18.29.33.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

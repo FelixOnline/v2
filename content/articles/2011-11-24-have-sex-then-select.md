@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Last Friday night, I was sat in my favourite bar in London with my friends, when a well-dressed young man in a suit came up to me and offered to buy me a cocktail. Pretty exciting, for a single girl, right?  
+Last Friday night, I was sat in my favourite bar in London with my friends, when a well-dressed young man in a suit came up to me and offered to buy me a cocktail. Pretty exciting, for a single girl, right?
  What this guy was subconsciously signalling to me was that he had money (at least enough for his appearance and a cocktail), and therefore probably also had good health and relatively good genes.
 
 We’re all probably quite familiar with the theories behind courtship and mating rituals in the animal kingdom – why the peacock has such a beautiful tail, or why male cranes dance in front of females. This is the male’s way of saying to the lucky ladies “Look at me! I’m healthy and disease-free, I’ve got great genes, so let’s make babies!”

@@ -1,6 +1,6 @@
 ---
 title: >
-  Music Tech bring the noise to 19.02 
+  Music Tech bring the noise to 19.02
 subtitle: >
   Íñigo Martínez de Rituerto on why he loves Music Tech Society
 date: "2011-02-17 19:58:37 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

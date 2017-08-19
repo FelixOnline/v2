@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606101012-felix-pups.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "1200"
 image_attribution: ""
@@ -36,9 +36,9 @@ imported: true
 
 The City and Guilds union offered a novel way of recovering from exam stress relief last week – playing with dogs.
 
-The dogs, who were brought in by the dog re\-homing charity All Dogs Matter, sat in a room in CGCU, and students filed in all afternoon to play with them. They also had a few walks around campus.
+The dogs, who were brought in by the dog re-homing charity All Dogs Matter, sat in a room in CGCU, and students filed in all afternoon to play with them. They also had a few walks around campus.
 
-This is the second time the CGCU have offered puppy therapy to its members, and it’s proved incredibly popular, with 300 sign\-ups in 24 hours for this session, and all the places being booked up last time they ran the event as well. There was some queuing on the day, with some students from other departments getting turned away . Millie Tsang, the CGCU welfare officer said that having to turn people away was sad.
+This is the second time the CGCU have offered puppy therapy to its members, and it’s proved incredibly popular, with 300 sign-ups in 24 hours for this session, and all the places being booked up last time they ran the event as well. There was some queuing on the day, with some students from other departments getting turned away . Millie Tsang, the CGCU welfare officer said that having to turn people away was sad.
 
 “Originally I was met with heavy doubts from within the CGCU and IC Union, who said it would not be approved and would also raise loads of trouble. Thankfully, I talked to College anyway,” she told FELIX. Despite recently introducing a no dogs on campus rule, permission was granted, with some limitations about who could access the dogs and the room.
 

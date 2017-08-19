@@ -1,6 +1,6 @@
 ---
 title: >
-  Wilfred - bizarre humour has a new leash of life 
+  Wilfred - bizarre humour has a new leash of life
 subtitle: >
   Human-like dogs and more in one of the BBC's latest comedies
 date: "2011-11-03 20:24:33 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

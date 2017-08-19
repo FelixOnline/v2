@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106092050-felix-moniqueho.jpg"
 image_caption: >
-  
+
 image_width: "3544"
 image_height: "2356"
 image_attribution: "Monique Ho"
@@ -34,13 +34,13 @@ comments:
 imported: true
 ---
 
-To recall colour beyond the fracture of days,  
- Or relish a dawn from Eden’s sweet gaze.  
- Though they lie, deceitful from their roots,  
- The perverted perceptions of those fatal fruits.  
- Those true fallacies,  
- Queens and harlequins of the soul,  
- Conspiring faithfully in our candid futilities,  
+To recall colour beyond the fracture of days,
+ Or relish a dawn from Eden’s sweet gaze.
+ Though they lie, deceitful from their roots,
+ The perverted perceptions of those fatal fruits.
+ Those true fallacies,
+ Queens and harlequins of the soul,
+ Conspiring faithfully in our candid futilities,
  Are but sublime details, symbols of the whole.
 
 By Victor du Mesnil du Buisson

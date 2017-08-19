@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Good article man Im lovin Google music tooOne error I spotted its Samsung who manufacture the Nexus 10 not LG 
+ - Good article man Im lovin Google music tooOne error I spotted its Samsung who manufacture the Nexus 10 not LG
 imported: true
 ---
 
@@ -51,12 +51,12 @@ Admittedly, I’m two weeks late trying out Google Music, due to the fact I’m 
 
 The first being the new downloadable “Google Play Music Manager”. This may just be a small upload client that helps organise your music. But it allows all users to upload and store on the Google Cloud up to 20,000 songs imported from their own music library in 320kpbs quality. Then it’s accessible anywhere in the world, at any time, on any laptop or anything running Android (at the moment). The beauty of the service, and basically of everything the Mountain View giant does, is that this service is 100% free. So, as of right now I have 6,324 songs that are currently being uploaded to the Google cloud.
 > it allows users to upload and store up to 20,000 songs on the Google cloud for free
-The second main feature is its “Scan & Match” technology that matches your tracks with those already on Google Music to ensure all track information is correct (in future users won’t have to actually upload tracks). In addition to matching the track information, this feature will [upgrade your music to 320kpbs quality ](http://www.pocket-lint.com/news/48422/best-music-service-streaming-downloads)(if applicable), and again, all for free! This versus the similar services of Amazon and Apple, who charge over £20 for the service, but only upgrade to 256kpbs, Google’s a clear winner.  
- Google has even catered for those annoying moments for when you might lost connection for short periods of time (for example on the tube), by caching your recent and queued songs just in case you lose signal. In addition, for offline play, all Google Music songs in your library are available for download to your PC, phone and/or tablet, again all for free.  
+The second main feature is its “Scan & Match” technology that matches your tracks with those already on Google Music to ensure all track information is correct (in future users won’t have to actually upload tracks). In addition to matching the track information, this feature will [upgrade your music to 320kpbs quality ](http://www.pocket-lint.com/news/48422/best-music-service-streaming-downloads)(if applicable), and again, all for free! This versus the similar services of Amazon and Apple, who charge over £20 for the service, but only upgrade to 256kpbs, Google’s a clear winner.
+ Google has even catered for those annoying moments for when you might lost connection for short periods of time (for example on the tube), by caching your recent and queued songs just in case you lose signal. In addition, for offline play, all Google Music songs in your library are available for download to your PC, phone and/or tablet, again all for free.
  With regards to cost, Google Music is undercutting Apple iTunes by 20p per individual song (79p vs Apple’s 99p per song) and [£2-3 per album](http://www.pocket-lint.com/news/48422/best-music-service-streaming-downloads).
 > Google Music is undercutting Apple iTunes by 20p per individual song (79p vs Apple’s 99p per song) and £2-3 per album.
-There is also some neat Google+ integration with a free “[share a track](http://www.3g.co.uk/PR/Nov2012/google-music-finally-goes-live-in-the-uk.html)” option which helps out the very impressive but depressingly quiet social network by allowing a free play of songs to friends.  
- Finally, Google is offering a good easy to use browser based interface, but of course, this is really all subjective and in some people’s opinions could be a con.  
+There is also some neat Google+ integration with a free “[share a track](http://www.3g.co.uk/PR/Nov2012/google-music-finally-goes-live-in-the-uk.html)” option which helps out the very impressive but depressingly quiet social network by allowing a free play of songs to friends.
+ Finally, Google is offering a good easy to use browser based interface, but of course, this is really all subjective and in some people’s opinions could be a con.
  All in all, the Pro’s send us a strong message that Google Music has been well worth the year long wait!
 
 ###  The Cons

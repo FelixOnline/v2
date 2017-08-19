@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104181033-felix-technology-based-life1.jpg"
 image_caption: >
-  In the year 3025, moisturiser is a 'must' 
+  In the year 3025, moisturiser is a 'must'
 image_width: "2716"
 image_height: "1810"
 image_attribution: ""
@@ -45,7 +45,7 @@ So where can you get at a computer? Well the [Library](http://www3.imperial.ac.u
 
 Of course, Imperial has a campus wide wireless network. Imperial-WPA is the preferred connection and can be logged onto with pretty much any modern device, including smartphones, with your Imperial login details. Some halls are kitted out for WiFi, but many still rely on Ethernet in rooms, which is also a great deal faster.
 
-Whilst using a non-college computer you can still get access to your H drive by using the Home directory finder (on the Imperial ICT website) and following the instructions. Your email account can also be accessed using Exchange, IMAP or POP depending on what your needs are. Snow Leopard users will be pleased to hear that Imperial runs Exchange 2007 meaning all your Mac apps work brilliantly with your college account. Windows users will need Outlook for full interoperability with calendar, contacts and email. If you’re out and about, your email can also be got at through the Outlook Web Access (<http://icex.imperial.ac.uk>) in any browser, though to get the non ‘light’ version you’ll need Internet Explorer \*sigh\*.
+Whilst using a non-college computer you can still get access to your H drive by using the Home directory finder (on the Imperial ICT website) and following the instructions. Your email account can also be accessed using Exchange, IMAP or POP depending on what your needs are. Snow Leopard users will be pleased to hear that Imperial runs Exchange 2007 meaning all your Mac apps work brilliantly with your college account. Windows users will need Outlook for full interoperability with calendar, contacts and email. If you’re out and about, your email can also be got at through the Outlook Web Access (<http://icex.imperial.ac.uk>) in any browser, though to get the non ‘light’ version you’ll need Internet Explorer *sigh*.
 
 __In Halls__
 

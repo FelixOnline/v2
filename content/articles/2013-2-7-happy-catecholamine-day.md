@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302072327-tna08-valentines-day-wallpaper.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The underlying neurology of animals their traits and the ability to assay them are such that direct comparisons between say mice and humans should be treated with caution rendering animal tests here slightly flawed In the original peerreviewed article  by Helen Fisher found herehttpwwwhelenfishercomdownloadsarticles10lustattractionpdfThey discuss the issue between comparing different species of mammals and note that brain regions and responses vary from one species to the next Also being able to decide if a mouse is in love without direct communication will also prove difficult that is why they discuss this for humansWould be good to confirm this before stating so confidently Neuroscience is a complex field in which a lot is still not understood due to both poor investigative techniques and the moral complications involved if attempting to replicate studies in vivo Anything in neuroscience is open to skepticism so fair play to you I guessShould test this on animals 
+ - The underlying neurology of animals their traits and the ability to assay them are such that direct comparisons between say mice and humans should be treated with caution rendering animal tests here slightly flawed In the original peerreviewed article  by Helen Fisher found herehttpwwwhelenfishercomdownloadsarticles10lustattractionpdfThey discuss the issue between comparing different species of mammals and note that brain regions and responses vary from one species to the next Also being able to decide if a mouse is in love without direct communication will also prove difficult that is why they discuss this for humansWould be good to confirm this before stating so confidently Neuroscience is a complex field in which a lot is still not understood due to both poor investigative techniques and the moral complications involved if attempting to replicate studies in vivo Anything in neuroscience is open to skepticism so fair play to you I guessShould test this on animals
 imported: true
 ---
 
@@ -40,7 +40,7 @@ Love is a many-splendored thing, according to experts. As someone who considers 
 And when I mean love, what exactly do I mean? The love I am referring to is the sort that caused Ryan Gosling to grow a beard and build that house. The sort that made Joseph Gordon-Levitt stroll into the park and sing and dance with what didn’t seem like a coincidental arrangement of people for a Saturday morning. The sort of love that when Dumbledore asked, “After all this time?” made Snape reply, “Always.” I don’t mean the love between a mother and her daughter, a man and his dog, or a biologist and their agar plates. These are still legitimate forces of adoration and come under the large umbrella of the term love too, but in this case, it is romantic love that seems to need the constant dissection to understand it or justify behaviour done in the name of love.
 
 This love is explained not so delicately by Helen Fisher, an anthropologist, but a scientist nonetheless. She sorts the progression of love into three discrete but not necessarily independent stages; lust, attraction, and attachment. These three are not listed in chronological order in terms of a romantic relationship’s development as they are very much interchangeable. Each of these three stages comes with different boosts of hormones throughout the brain, to accommodate the different life strategies that are optimal for different stages in mammalian reproduction. Love is literally all in your head, although it can cause the usual racing of the heart, sweating of the palms or high quantities of alcohol ingestion too (or possibly chlamydia).
-TODO: image from 
+TODO: image from
 For example, lust accommodates the sex drive and the wish to mate and reproduce recklessly and repeatedly, regardless of where said mate lies on the Imperial scale. It is associated with oestrogens and androgens – hormones that work for the reproductive side of things in the body, and are regulated within the hypothalamus. It is purelya chemical surge to want to get hot and heavy very suddenly, and can subside as quickly as it came (one orgasm joke in the bag). This neurological wiring is completely independent of attraction, which can explain just how easy it can be at times to kick that rugby guy out of your bed after a drunken night out.
 
 Attraction, however, is associated with catecholamines (organic compounds) like dopamine, which can act as neuromodulators – that is, they induce prolonged, neurologically derived emotive incentives to want someone, and that person only. It was pointed out by the big man himself, Darwin, that attraction facilitates mating preference as opposed to just mating alone (a masturbation joke? You decide). Heightened levels of these hormones are linked to the “reward centres” of the brain, making you think that the obsession you are nurturing is a great thing, as monogamous mating seems apt for bringing up the offspring of Homo sapiens, among others.

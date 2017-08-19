@@ -1,8 +1,8 @@
 ---
 title: >
-  So what happens at an occupation? 
+  So what happens at an occupation?
 subtitle: >
-  As lecture theatres around the country play host to student activists, Ian Wei reports from the UCL occupation 
+  As lecture theatres around the country play host to student activists, Ian Wei reports from the UCL occupation
 date: "2010-12-02 21:43:54 +0000"
 id: "495"
 old_path: /news/495/so-what-happens-at-an-occupation-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022141-ks607-ucloccup.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

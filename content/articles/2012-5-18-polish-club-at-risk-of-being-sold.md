@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Another opportunity for Imperial Catering to continue their mission for world dominationWhen I came to Prince Eugeniusz Lubomirski  was a Chairman of the Club One could never imagine such  idea of a sale of a home for Polish people then even if they needed Help  and struggled as well These people  fought  for years to keep Polish Heart Club alive and our Chairman  finds it impossible to make this place profitable despite 2 biggest museums within 500 metres and proposes to sell   What a misery 
+ - Another opportunity for Imperial Catering to continue their mission for world dominationWhen I came to Prince Eugeniusz Lubomirski  was a Chairman of the Club One could never imagine such  idea of a sale of a home for Polish people then even if they needed Help  and struggled as well These people  fought  for years to keep Polish Heart Club alive and our Chairman  finds it impossible to make this place profitable despite 2 biggest museums within 500 metres and proposes to sell   What a misery
 imported: true
 ---
 
@@ -45,5 +45,5 @@ She added that, “It is the only pleasant venue for meals and drinks close to I
 
 The petition states that, “The proposed sale of the building will be an immense loss and damaging to the Polish Community. We feel that the directors of Ognisko Limited have not explored the full range of business options to make Ognisko Polskie financially viable once more.”
 
-A decision will be taken at the AGM of the Polish club on 27 May which will seal the fate of the club.  
+A decision will be taken at the AGM of the Polish club on 27 May which will seal the fate of the club.
  The petition can be found online at: <https://www.change.org/petitions/ognisko-polskie-polish-hearth-club>.

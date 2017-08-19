@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104210857-felix-baby-in-womb.jpeg"
 image_caption: >
-  
+
 image_width: "836"
 image_height: "524"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200351-felix-221748_10150263703571393_674991392_9138117_46194_n.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "524"
 image_attribution: "Alexander Johnstone Images"
@@ -38,6 +38,6 @@ Procrastination has only served man kind: The pizza burger, Kite Surfing, Skittl
 
 The name ‘The PistolShrimps’ originated from a Hydrostatics and Shocks lecture where the lecturer claimed that these little shrimps with massive claws accelerated water out of their claws to stun and kill their prey. Supposedly in the process creating cavitation and sonoluminescence… On to Middlesex...Having won the Middlesex student 7s four years on the trot it was deemed essential to enter the Mens Open and win that as well. A few white lies enabled the team to be entered under the title of ‘Imperial College Old Boys’. The first two group games proved an excellent start of the season, tough physical games against the Esher Academy and Hammersmith & Fulham 1s saw the Shrimps smash both opposition convincingly. The team was playing some excellent sevens and it was a shame the last group game and the quarters were against lesser opposition that encouraged bad habits. The semi against the eventual winners Ruislip was a hard fought and very physical affair. Unfortunately the shrimps lost their two most experienced players to injury early doors. Ruislip scored twice before we responded. At 10-7 the game was ours to win, but poor handling ruined a two man overlap which Ruislip capitalised on to run in another try and put the game out of our reach.
 
-Ollie Cox (Who incidentally was asked on the day if he wanted to be an Abercrombie model…[\#hangingoutthebackoftara](https://twitter.com/#!/search?q=%23hangingoutthebackoftara)) was awarded Shrimp of the tournament for his superb ability to make space and half breaks throughout the day. Whilst we did not win the tournament the baby blue coral background and massive pink shrimp across both the shirt and shorts made us a crowd favourite
+Ollie Cox (Who incidentally was asked on the day if he wanted to be an Abercrombie model…[#hangingoutthebackoftara](https://twitter.com/#!/search?q=%23hangingoutthebackoftara)) was awarded Shrimp of the tournament for his superb ability to make space and half breaks throughout the day. Whilst we did not win the tournament the baby blue coral background and massive pink shrimp across both the shirt and shorts made us a crowd favourite
 
-Many of the teams that participate in the National Sevens Series started this way; groups of friends ambitious to play good sevens and have fun. The Shrimps are trying to build a recognisable brand that can be enjoyed by both players and supporters. Join us at RugbyRocks at Richmond RFC on the 4th of June or alternatively The Church Sevens on the 18th of June. [\#Shrimpinlikeitshot](https://twitter.com/#!/search/%23Shrimpinlikeitshot).
+Many of the teams that participate in the National Sevens Series started this way; groups of friends ambitious to play good sevens and have fun. The Shrimps are trying to build a recognisable brand that can be enjoyed by both players and supporters. Join us at RugbyRocks at Richmond RFC on the 4th of June or alternatively The Church Sevens on the 18th of June. [#Shrimpinlikeitshot](https://twitter.com/#!/search/%23Shrimpinlikeitshot).

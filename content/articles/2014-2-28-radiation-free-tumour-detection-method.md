@@ -2,7 +2,7 @@
 title: >
   Radiation-free tumour detection method
 subtitle: >
-  Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body. 
+  Diagnosis and treatment of cancer often involves some of the most damaging procedures that doctors would ever intentionally inflict upon a human body.
 date: "2014-02-28 07:20:24 +0000"
 id: "4447"
 old_path: /science/4447/radiation-free-tumour-detection-method
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

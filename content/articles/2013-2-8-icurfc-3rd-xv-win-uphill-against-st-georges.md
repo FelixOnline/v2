@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302080016-tna08-ruggy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 After a chequered first term for Imperial College 3rd XV and a great performance resulting in a disappointing draw against King’s Medics three weeks ago the social side of ICURFC wanted to show what they are capable of and bring home the first win this term. A promising squad featuring five new 3rd team players made their way to Wimbledon RFC this Wednesday to face the challenge against St. George’s 2nd XV were a pitch that could have been used as a skiing piste over the last weeks rather than for a game of rugby welcomed them.
 
-Knowing the importance of the game new coach James Hayward led the team through a professional warm-up integrating the new players and preparing them for a physical game. The team seemed to be in good shape and was switched on from the start raising hopes for the game.  
+Knowing the importance of the game new coach James Hayward led the team through a professional warm-up integrating the new players and preparing them for a physical game. The team seemed to be in good shape and was switched on from the start raising hopes for the game.
  Alex Leonard kicked off and Imperial chased downhill making the first big tackles that would be needed throughout the game. From the start the 3rd XV were dominating the game hardly playing in their own half, pushing for the opposing try line. However, St. George’s defence was tight and the conditions made it almost impossible to get the ball wide. At least Jean Casademont, inside-centre and Frenchman, claims that this was the reason rather than the fading trust in his nation’s skills.
 
 25 min in the good work by the forwards pushing hard against the opposition led to what IC thought was their first try. Unfortunately the referee, being a bit too slow to follow Will Griffiths quick touch down, didn’t award it and left the team disappointed. This unrighteousness only made IC work harder and five minutes later flyhalf Alex Leonard twisted himself through St. George’s defence like a ballet dancer completing a full pirouette before putting the ball on the ground. He did not show the same elegance but his skills on the conversion, managing to put IC 0-7 ahead after slipping on the kick. With the confidence gained the ball even made it out to the wing, something rarely seen at 3rd XV performances, where Will Cathery showed good runs and chips in his rugby union debut for Imperial College. Alas, the first half ended with prop, Alexander Karvelas, coming off injured and Edoardo Cavallazi, interim captain and learned flanker stepping up to fill the gap.

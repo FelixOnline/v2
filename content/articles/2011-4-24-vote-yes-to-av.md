@@ -2,7 +2,7 @@
 title: >
   Vote yes to AV
 subtitle: >
-  Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies 
+  Give our country a voting system that allows us to express our true preferences and ends tactical voting, bickering and flip-flopping policies
 date: "2011-04-24 11:26:11 +0100"
 id: "1136"
 old_path: /comment/1136/vote-yes-to-av
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104241235-felix-av-vote-007.jpeg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505011533-ps3110-imperial-college-london-copy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -61,7 +61,7 @@ With Nick Clegg promising back in 2010 to scrap tuition fees, this may be how hi
 
 Interestingly, a YouGov poll at the time found that 49% of all voters would have actually voted for a Liberal Democrat, if they thought the party actually had a shot at winning and taking some of those safe seats from Labour or Conservative candidates.
 
-\*\*\*\*\*\*
+******
 
 __Elections in the UK: A guide for dummies __
 

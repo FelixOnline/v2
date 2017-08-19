@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105270043-felix-herald.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1570"
 image_attribution: ""

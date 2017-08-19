@@ -2,7 +2,7 @@
 title: >
   Are sweet potato fries really worth it?
 subtitle: >
-  In a rare twist, they might actually taste better when they’re cold 
+  In a rare twist, they might actually taste better when they’re cold
 date: "2017-02-24 13:39:36 +0000"
 id: "6808"
 old_path: /news/6808/are-sweet-potato-fries-really-worth-it
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702241338-felix-fivesixeightlogo.jpg"
 image_caption: >
-  
+
 image_width: "760"
 image_height: "288"
 image_attribution: "ICU"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week \(yes, sweet potato fries are vegan, we asked\).
+The Union has launched a new menu and is now a proud server of sweet potato fries. The new dish is another addition to the Union’s growing vegetarian and vegan options in support of Go Green Week (yes, sweet potato fries are vegan, we asked).
 
 A side of dem sweet potato fries will set you back £2.50, 70p more than student favourite curly fries and 20p more than curly fries WITH cheese. But is it worth it?
 
@@ -49,7 +49,7 @@ But let’s talk fries.
 “They were hot and crispy which is pleasant. Sweet potato was well cooked throughout. Good consistent layer of batter on all fries. They definitely need salt though. They’re very bland.” Just like the sweet potato fries, this review should also be taken with a pinch of salt, as Davey is not a food critic and we’ve been informed that the sweet potato fries aren’t actually fried in batter.
 “They’re almost nicer when they’ve cooled down a bit and the batter has solidified into a separable layer.” To each their own.
 
-What does the staff think of the new fries though? We talked to Sophie Johnston. “They’re pretty good, but pretty expensive” says Johnston. “I feel like we’re trying to be too fancy. We’re not h\-bar, we’re not a gastro\-pub.” Fact.
+What does the staff think of the new fries though? We talked to Sophie Johnston. “They’re pretty good, but pretty expensive” says Johnston. “I feel like we’re trying to be too fancy. We’re not h-bar, we’re not a gastro-pub.” Fact.
 
 But what about logistical costs? Were there difficulties programming the sweet potato fries into the new tills? Have there been significant training costs to prepare staff for the onslaught of sweet potato fry orders? How are kitchen staff coping with trying to balance three types of fries?
 

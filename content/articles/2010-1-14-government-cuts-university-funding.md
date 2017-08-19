@@ -2,7 +2,7 @@
 title: >
   Government cuts university funding
 subtitle: >
-  Universities will suffer as Lord Mandelson looks to reduce funding by 
+  Universities will suffer as Lord Mandelson looks to reduce funding by
 date: "2010-01-14 17:47:40 +0000"
 id: "35"
 old_path: /news/35/government-cuts-university-funding
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001141741-felix-LordMand.jpg"
 image_caption: >
-  
+
 image_width: "594"
 image_height: "396"
 image_attribution: ""

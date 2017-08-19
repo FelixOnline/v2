@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271939-nm1010-lesthana.jpg"
 image_caption: >
-  
+
 image_width: "2213"
 image_height: "3307"
 image_attribution: ""

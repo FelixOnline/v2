@@ -1,8 +1,8 @@
 ---
 title: >
-  Arabs in Israel 
+  Arabs in Israel
 subtitle: >
-  Felix interviews MK Haneen Zoabi 
+  Felix interviews MK Haneen Zoabi
 date: "2010-10-14 19:28:37 +0100"
 id: "207"
 old_path: /politics/207/arabs-in-israel-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010142027-nm1010-kinshasa.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "675"
 image_attribution: ""

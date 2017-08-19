@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-What’s in a name? Probably some erotica, as the name is “The Vibrator Play”. Unquestionably the play lives up to its name, with a certain amount of overt sexual content. But In the Next Room or The Vibrator Play is also much, much more than a bawdy comedy or theatrical pornography. American playwright Sarah Ruhl has created a piece that deals with the most intimate of human relationships: husband and wife, doctor and patient, woman and confidante, mother and child, man and woman.  
+What’s in a name? Probably some erotica, as the name is “The Vibrator Play”. Unquestionably the play lives up to its name, with a certain amount of overt sexual content. But In the Next Room or The Vibrator Play is also much, much more than a bawdy comedy or theatrical pornography. American playwright Sarah Ruhl has created a piece that deals with the most intimate of human relationships: husband and wife, doctor and patient, woman and confidante, mother and child, man and woman.
  The starting point of the drama is the 19th century practice of treating women with hysteria with a ‘pelvic massage’, a tiring and time-consuming medical massage (known to you and me as masturbation), which resulted in a ‘hysterical paroxysm’ (that’s an orgasm), thus relieving the patient’s symptoms. In case you’re wondering, this treatment is no longer available on the NHS.
 
 Towards the end of the 19th century, when this play is based, electrically powered instruments were developed to help achieve this paroxysm in less time – and yes, I’m talking about the invention of the vibrator.

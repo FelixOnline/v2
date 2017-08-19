@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201109301341-felix-the-inbetweeners-lr.jpg"
 image_caption: >
-  
+
 image_width: "1475"
 image_height: "981"
 image_attribution: ""

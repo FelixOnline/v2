@@ -1,6 +1,6 @@
 ---
 title: >
-  Science Editor pops Shakespearean cherry 
+  Science Editor pops Shakespearean cherry
 subtitle: >
   The Royal Shakespeare Company’s Henry V at the Barbican sursprises and delights
 date: "2015-11-20 09:41:24 +0000"
@@ -47,11 +47,11 @@ But performances of the more serious dramatic roles, particularly that of Henry 
 
 But I personally liked it, finding it an accurate depiction of monarchy.
 
-So, if you’d like to see a play \*SPOILER ALERT\* about a young royal sociopath who gets so angry after receiving a box of tennis balls from the French prince that he decides to declare war on said prince’s kingdom, which he somehow miraculously wins and proceeds to awkwardly court and marry the French princess (who I think is also his cousin?), then this is the play for you.
+So, if you’d like to see a play *SPOILER ALERT* about a young royal sociopath who gets so angry after receiving a box of tennis balls from the French prince that he decides to declare war on said prince’s kingdom, which he somehow miraculously wins and proceeds to awkwardly court and marry the French princess (who I think is also his cousin?), then this is the play for you.
 
-Verdict: 7/10 hobnobs\*
+Verdict: 7/10 hobnobs*
 
-\*Yes, hob and nob first came together in Shakespeare’s Twelfth Night – Thanks, Internet.
+*Yes, hob and nob first came together in Shakespeare’s Twelfth Night – Thanks, Internet.
 
 Until 24th January at the Barbican
 

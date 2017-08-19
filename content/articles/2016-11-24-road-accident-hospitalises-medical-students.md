@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611241700-felix-image1.JPG"
 image_caption: >
-  
+
 image_width: "4032"
 image_height: "3024"
 image_attribution: "Nikita Kumar"
@@ -36,15 +36,15 @@ imported: true
 
 Three Imperial students were among the four pedestrians injured last night during a car collision on North End Road. The accident occurred shortly before 18:45 when it is believed, according to Metropolitan Police reports, that a black Audi A3 crashed into the pedestrians.
 
-The three medical students, all in their twenties, and the 56\-year\-old man involved in the collision were taken to hospital. One of the medical students is in critical condition, while the remaining injured are in non\-life threatening condition.
+The three medical students, all in their twenties, and the 56-year-old man involved in the collision were taken to hospital. One of the medical students is in critical condition, while the remaining injured are in non-life threatening condition.
 
-A 19\-year\-old woman was arrested by officers on suspicion of  causing injury by dangerous driving. She is currently in custody. It hasn’t been made clear if the woman arrested was the driver of the vehicle involved  in the collision.
+A 19-year-old woman was arrested by officers on suspicion of  causing injury by dangerous driving. She is currently in custody. It hasn’t been made clear if the woman arrested was the driver of the vehicle involved  in the collision.
 
 A female passenger who was in the vehicle involved received treatment at the scene for minor injuries.
 
 Earlier today, an email was sent out to the faculty of medicine by Martin Lupton, Head of Undergraduate Medicine, for reassurance.
 
-“Dear Students, yesterday evening at 19:10 \[sic\] there was an accident on the North End Road. A car hit a number of pedestrians, three of whom were students at our medical school”
+“Dear Students, yesterday evening at 19:10 [sic] there was an accident on the North End Road. A car hit a number of pedestrians, three of whom were students at our medical school”
 
 “In that dark moment,  however, there were acts of light. A number of other medical students gave support and comfort at the scene and I want to thank them all sincerely.”
 

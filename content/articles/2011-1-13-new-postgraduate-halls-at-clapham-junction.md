@@ -1,8 +1,8 @@
 ---
 title: >
-  New postgraduate halls at Clapham Junction 
+  New postgraduate halls at Clapham Junction
 subtitle: >
-  £235 per week for a room at Griffon Studios 
+  £235 per week for a room at Griffon Studios
 date: "2011-01-13 21:47:22 +0000"
 id: "596"
 old_path: /news/596/new-postgraduate-halls-at-clapham-junction-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132146-ks607-griffons.jpg"
 image_caption: >
-  
+
 image_width: "4272"
 image_height: "2848"
 image_attribution: "Tom Welch"

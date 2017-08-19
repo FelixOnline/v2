@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611251323-felix-Screen Shot 2016-11-24 at 18.01.03.png"
 image_caption: >
-  
+
 image_width: "1247"
 image_height: "936"
 image_attribution: "Harisson Jones"

@@ -1,6 +1,6 @@
 ---
 title: >
-  Mysterious Chopin list of brain disorders 
+  Mysterious Chopin list of brain disorders
 subtitle: >
   New hypothesis suggests composer Frederic Chopin suffered from temporal lobe epilepsy
 date: "2011-02-10 20:19:48 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102015-ks607-chopinch.jpg"
 image_caption: >
-  
+
 image_width: "1300"
 image_height: "990"
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   All four officers acquitted in Babar Ahmad assault trial
 subtitle: >
-  Officers' lawyer says they are hoping to put "unfounded allegations behind them" 
+  Officers' lawyer says they are hoping to put "unfounded allegations behind them"
 date: "2011-06-02 17:46:49 +0100"
 id: "1290"
 old_path: /news/1290/all-four-officers-acquitted-in-babar-ahmad-assault-trial
@@ -71,7 +71,7 @@ In the public gallery a woman leant forward on her seat, watching the proceeding
 At the time of writing, the jury were expected to have begun deliberations on Friday.
 
 ___The story of Babar Ahmad___
-TODO: image from 
+TODO: image from
 Babar Ahmad was formerly a student and staff member at Imperial, working as an ICT support analyst in the Mechanical Engineering department. On December 2nd 2003, counter-terrorism police arrested him in a predawn raid at his home in Tooting, South London. During the arrest, he sustained 73 forensically recorded injuries including bleeding in his ear and urine. He alleges that he was beaten, choked, and subjected to religious verbal abuse. Although the IPCC initially refuted his claims, Met police commissioner, Sir Paul Stephenson, admitted in 2009 that he was submitted to “grave abuse tantamount to torture” during the arrest and he received compensation totalling £60,000.
 
 At the time, Babar Ahmad’s arrest was the latest in the War on Terror and part of ‘Operation Quarrier’, in which three other men were arrested in Southwest London and detained under the Terrorism Act. On the day of his arrest in 2003, Felix reported (pictured above) that a room in college was secured and searched by police with computers dismantled and removed for investigation. He was released six days later without charge. However, he was re-arrested on August 6th 2004 after the US issued an extradition warrant, accusing him of using websites and e-mail to raise funds to support terrorists in Afghanistan and Chechnya. Legal wrangling over his extradition is still ongoing and has passed from UK courts, to the House of Lords, and now to the European court of human rights. [Imperial College Union passed policy in 2004 fully supporting Babar Ahmad](http://www.imperialcollegeunion.org/data/files/paper1-179-1497-987.pdf) in his fight against extradition. In March 2007, [former Union President, John Collins, wrote to then Home Secretary](http://www.imperialcollegeunion.org/news/last-chance-for-babar-ahmad,163,ICUNS.html), John Reid, urging him to halt extradition proceedings.

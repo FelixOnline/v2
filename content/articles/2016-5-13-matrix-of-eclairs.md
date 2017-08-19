@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131133-felix-thumb_IMG_2809_1024.jpg"
 image_caption: >
-  I wonder if he leaves chocolate squares wherever he goes. 
+  I wonder if he leaves chocolate squares wherever he goes.
 image_width: "1024"
 image_height: "1024"
 image_attribution: "Christy Lam"
@@ -42,7 +42,7 @@ One of those particular matrices that always succeeds to stop me in my tracks ev
 
 Let’s start with the basics. What are eclairs? Wikipedia defines them as “an oblong pastry made with choux dough filled with a cream and topped with icing.” Or according to my dear friend Carolyn – posh French hot dogs.
 
-And Maitre Choux? To most of you it may be just a patisserie on the ooh\-la\-la French side of South Kensington. In fact, it is the world’s first and only choux specialist patisserie where the three\-vMichelin star chef Joakim Prat transforms the traditional French delights into works of art.
+And Maitre Choux? To most of you it may be just a patisserie on the ooh-la-la French side of South Kensington. In fact, it is the world’s first and only choux specialist patisserie where the three-vMichelin star chef Joakim Prat transforms the traditional French delights into works of art.
 
 You really have to go see for yourself. The small shop with a simple, white exterior with colourful dots everywhere. You really cannot miss it between the typical, boring, old red brick houses. If you are lucky, you also get a strong whiff of that warm, cosy, aromatic scent of baking choux drifting from the ovens in the basement.
 

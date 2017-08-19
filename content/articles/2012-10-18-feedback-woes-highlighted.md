@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210182250-felix-jason-in-article.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ An analysis of the 2012 results makes for some interesting reading. At Imperial,
 
 Analysing responses to the survey’s more specific questions indicates the areas where the College is lacking. As in the past, student feedback was a major stumbling block. Only 55% of students said they were happy with the feedback they had received – the second lowest score in the country. This puts it miles behind its rivals: by comparison, the figures for UCL and Kings are 60 and 61 per cent.
 
-Medics seem to epitomise this discontent at the lack of feedback. While 85% were satisfied with the overall quality of the course, only 32% thought feedback had helped them clarify things they did not understand, and a mere 28% agreed that they had “received detailed comments on my work.”  
+Medics seem to epitomise this discontent at the lack of feedback. While 85% were satisfied with the overall quality of the course, only 32% thought feedback had helped them clarify things they did not understand, and a mere 28% agreed that they had “received detailed comments on my work.”
  One particularly disgruntled medic, asked by Felix to explain why they were so dissatisfied with her course, replied: “Because our personal tutors don’t know who we are, our lecturers don’t care who we are and we basically just teach ourselves.”
 
 Insufficient feedback has been a recognised issue for a number of years, and the College has taken

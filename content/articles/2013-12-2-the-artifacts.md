@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,19 +48,19 @@ __Do you have an artistic background yourself?__
 
 Well, I always did art qualifications outside of school. I did an Art GCSE and a Graphic Design A Level at a further education college – although I got a U in Graphic Design…!
 
-Why do you think it’s important to have something like Artifact at Imperial?  
- I think mostly because there’s a demand for it. I basically see myself as a facilitator. I know that the RCA students are gagging to have interaction with scientists, and I know that for a lot of the PhD students, and undergraduates, they really want to be able to talk about their science, and they want to see it represented in interesting ways.  
+Why do you think it’s important to have something like Artifact at Imperial?
+ I think mostly because there’s a demand for it. I basically see myself as a facilitator. I know that the RCA students are gagging to have interaction with scientists, and I know that for a lot of the PhD students, and undergraduates, they really want to be able to talk about their science, and they want to see it represented in interesting ways.
  I actually don’t like a lot of ‘Art Science’, a lot of it’s terrible. But I want to give people the opportunity. You find that some quite fantastic things emerge sometimes when you just give people the opportunity.
 
-__Do you think it’s been a success so far?__  
+__Do you think it’s been a success so far?__
  The first year we ran it, I think it went quite well, given that it was a standing start; we had an exhibition of about seven pieces, and some of those pieces were beautiful. The last couple of years it’s been a bit up and down I think, so I’m using this year to take up the scheme again and really push it forward, and hopefully leave a big legacy before I finally leave Imperial!
 
-Have you thought about including the Royal College of Music (RCM) as well?  
+Have you thought about including the Royal College of Music (RCM) as well?
  We have! It doesn’t fit very well into the format, but it would be nice to have a really solid year and then to start expanding the scheme. We had the Courtauld Institute involved last year, who are a small art history place at Somerset House. But it would be really nice to extend this to the RCM, yes. I’m not sure how we would fit any emerging collaborations into a gallery though – I guess we’d have to have a think!
 
 __How can Imperial students get involved in this year’s Artifact?__
 
-The launch event is Wednesday the 4th December, and it’s going to be a pub quiz based on art and science questions. We’re going to force you together into teams with artists and scientists and hopefully it will be quite fun. You’ll have a chance to talk to artists and start to maybe suggest ideas.  
+The launch event is Wednesday the 4th December, and it’s going to be a pub quiz based on art and science questions. We’re going to force you together into teams with artists and scientists and hopefully it will be quite fun. You’ll have a chance to talk to artists and start to maybe suggest ideas.
  We’ll then have a series of events throughout the start of next term, and you can come along to any of them, and try and find someone who’s perfect for you to collaborate with!
 
 __Do you have to have a background in art to get involved?__

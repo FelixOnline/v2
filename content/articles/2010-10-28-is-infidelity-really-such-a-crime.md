@@ -1,6 +1,6 @@
 ---
 title: >
-  Is infidelity really such a crime? 
+  Is infidelity really such a crime?
 subtitle: >
   Can you imagine getting chucked out of university because of your personal life?
 date: "2010-10-28 19:48:21 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701271634-felix-fruit-fly7.jpg"
 image_caption: >
-  
+
 image_width: "650"
 image_height: "421"
 image_attribution: "stoppestinfo"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-A new study has discovered that fruit flies \(Drosophila melanogaster\), unlike many of us make rational decisions while choosing partners.
+A new study has discovered that fruit flies (Drosophila melanogaster), unlike many of us make rational decisions while choosing partners.
 
 Experiments were conducted by scientists from the University of British Columbia and University of Washington, where, individual male flies were given the choice of choosing between two females as their mates. Male fruit flies were paired with 10 different females flies of different genetic strains. With as many as 2700 trials using different combination of male and female fruit flies, it was found that males were able to pick out females that are most likely to produce the maximum amount of offspring.
 

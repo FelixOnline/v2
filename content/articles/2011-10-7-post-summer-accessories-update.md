@@ -40,7 +40,7 @@ Eyes were drawn up and beyond the faces of this season’s models to the hats th
 
 Be daring, pick out your look and wear with a generous dose of attitude.
 
-__THE PICK:__  
+__THE PICK:__
  The deep autumnal shades seen in Gucci’s wide brimmed trilbies with traditional orange feathers nail subtle sophistication to perfection. For a smaller feather to suit smaller wallets, try H&M’s version in deep plum. Pair with a jewel coloured faux fur coat and dark scarlet lips for a nod towards the seventies, or perch above a simple cut dress and boots for an effortless city vibe that will take you from day to night.
 
 __Boots__
@@ -49,7 +49,7 @@ As always, when the cold settles in, the boots come out. This season is no diffe
 
 Whatever your style, make sure you invest in some good boots. They’re a staple this season and will keep your feet toasty for months to come.
 
-__THE PICK:__  
+__THE PICK:__
  Textured, tough and with a hint of grunge, Chanel’s boots are perfect for stomping through piles of crunchy leaves. A slight heel adds femininity (not to mention height), yet is still wearable on the slipperiest of frozen days. More affordable variations can be found all over the high street from Zara to H&M. Wear with skinny jeans and a leather coat for the rough and ready biker look, or do like Alexa Chung and team with a cute dress.
 
 __Shoulder Skimming Earrings__
@@ -60,7 +60,7 @@ The models at Oscar de la Renta hung strings of irregularly shaped gems from the
 
 Add a hint of red carpet to your look this season, be bold and let your ears take the weight.
 
-__THE PICK:__  
+__THE PICK:__
  Dolce and Gabbana take home the golden star for their playful crystal encrusted series, an instant buy for any glamorous, fun loving fashionista. Not quite so precious, but still very shiny, Topshop do a brilliant imitation. Throw on your favourite LBD and let these sparkly stars hang above your shoulders, drawing attention to your neck, which is best left clear.
 
 __Dazzling Feet__
@@ -69,5 +69,5 @@ Longer hours thrown in the dark may be a cause for concern for some, but not on 
 
 Whether it reminds you of the glamorous seventies or your dream wedding, live like a fairy tale and let your feet shine.
 
-__THE PICK:__  
+__THE PICK:__
  Miu Miu dazzled this season, teaming long sophisticated lengths and sharp collars with disco shoes. Kurt Geiger’s platforms are similarly bright and can dress up the simplest of outfits. Wear with a tailored suit for a stunningly powerful take on this season’s androgynous look.

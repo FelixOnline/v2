@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002051725-rsp07-morphyda.jpg"
 image_caption: >
-  
+
 image_width: "896"
 image_height: "537"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - LETS BRING IT BACK RAGI took part in what was probably one of the last if not the last running of the battle if not the boat race We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg manufactured outfits of pink binliners and gaffer tape and set to My strongest memory is of being pursued by three Guilds berserkers each armed with a sheeps trachea and lungs as a very effective if gruesome flail Afterwards we all headed to Harrrods for cream teas  still covered in gruesomeness The expectation was that we would be denied service and it came as an expensive surprise when we were served I believe that local residents complained about the amount of decaying organic matter left behind afterwards Perhaps bring back the boat racing but not the offalbattle 
+ - LETS BRING IT BACK RAGI took part in what was probably one of the last if not the last running of the battle if not the boat race We took vans down to Billingsgate and Smithfields to collect dustbins full of offals and rotten veg manufactured outfits of pink binliners and gaffer tape and set to My strongest memory is of being pursued by three Guilds berserkers each armed with a sheeps trachea and lungs as a very effective if gruesome flail Afterwards we all headed to Harrrods for cream teas  still covered in gruesomeness The expectation was that we would be denied service and it came as an expensive surprise when we were served I believe that local residents complained about the amount of decaying organic matter left behind afterwards Perhaps bring back the boat racing but not the offalbattle
 imported: true
 ---
 
@@ -39,7 +39,7 @@ As some of you may know, Imperial was founded when three different college’s j
 
 This sporting rivalry was personified not on the fields of Harlington, but the muddy waters of the Thames; Morphy Day was, first and foremost, a boat race (yes probably both definitions). The day itself comprised of two races, the Lowry Cup was effectively the seconds crew, whilst the Morphy Cup was for the best rowers in the College.
 
-Looking through the felix archive, I eventually came to a description of the very first race, written by David Hopkins in 1975.  
+Looking through the felix archive, I eventually came to a description of the very first race, written by David Hopkins in 1975.
  “On the 21st March 1920, an RSM rowing eight beat C&G over a one mile course; this was the first time the colleges had raced since the revival of their individual rowing clubs after the 1st World War. Mr Arthur Morphy, father of the Guilds’ stroke, Donald W Morphy, presented a cup which he had donated for the occasion.”
 
 D.W. Morphy was an Electrical Engineering student at the College and became a keen Old Centralian after he left the College, even when his company, Morphy Richards (you might of heard of them), became big.
@@ -50,7 +50,7 @@ There have been many recollections of the day in the felix and College archives,
 
 In one clean swoop, we see the day bring together the sporting rivalry as well as the mascotry. To begin with, the day was all about the race itself, the sporting rivalry, but as the years went on, the riverside antics increased and the Cup changed into a Day where they fought for the Morphy Oar. That’s not to say that the race itself was not interesting, take the account of the race in the very first issue of felix back in 1949, where they had to restart the race several times because the boats kept crashing into each other. The result of that race was a Guilds win, even though none of the boats actually reached the finish line after 80 minutes!
 
-The race itself grew in importance over the years, with coaches being brought in to help the different boat clubs for the big day and more races introduced, including a women’s race and a Rugby Race. The event was even used to unveil a new boat in 1971, when the then Rector, Lord Penny, and his wife came down to watch the races. By the late 1950s, it was considered a great honour to be part of the Morphy Crew and, more importantly, the number of spectators on the banks of the Thames increased, both student and local resident!  
+The race itself grew in importance over the years, with coaches being brought in to help the different boat clubs for the big day and more races introduced, including a women’s race and a Rugby Race. The event was even used to unveil a new boat in 1971, when the then Rector, Lord Penny, and his wife came down to watch the races. By the late 1950s, it was considered a great honour to be part of the Morphy Crew and, more importantly, the number of spectators on the banks of the Thames increased, both student and local resident!
  As the 1960s came about, the focus of the event, however, began to shift more towards the towpath instead of the river. As the years went on, more and more of an effort was made by the Unions to organise something special and the event became a bigger RAG event year after year. Here we have the recollections from the Guilds President in 1963-64, and current Professor at the College, Prof. Bob Schroter.
 
 “Morphy Day traditionally consisted of the constituent colleges, particularly the RCS and the Guilds, having a bit of a flour and tomato fight on the towpath. I always remember that there was a young policeman on one of those Noddy early motorcycle bike things, and that he thought he was going to stop this rampaging on the towpath, so he very foolishly rode his motorcycle into the middle of the foray and got totally, but totally, plastered in tomatoes and flour.”

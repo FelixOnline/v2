@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103172006-ks607-img_2989.jpg"
 image_caption: >
-  Financial support will be provided for households earning up to £60,000 
+  Financial support will be provided for households earning up to £60,000
 image_width: "5125"
 image_height: "3422"
 image_attribution: "Kadhim Shubber"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Boom totally google plussed that Damn Im so 2011 
+ - Boom totally google plussed that Damn Im so 2011
 imported: true
 ---
 

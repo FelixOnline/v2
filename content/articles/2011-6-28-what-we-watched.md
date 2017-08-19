@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106281236-felix-flashheart.jpg"
 image_caption: >
-  
+
 image_width: "640"
 image_height: "360"
 image_attribution: ""

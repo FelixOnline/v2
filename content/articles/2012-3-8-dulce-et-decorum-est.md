@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203082138-ams111-rebels.jpg"
 image_caption: >
-  Homs’ latest celebrities: Though low in numbers, armed rebels are high in popularity 
+  Homs’ latest celebrities: Though low in numbers, armed rebels are high in popularity
 image_width: "960"
 image_height: "541"
 image_attribution: ""

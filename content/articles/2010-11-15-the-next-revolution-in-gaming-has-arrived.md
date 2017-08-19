@@ -2,7 +2,7 @@
 title: >
   The next revolution in gaming has arrived
 subtitle: >
-  Laurence Pope looks into the brand new Xbox Kinect 
+  Laurence Pope looks into the brand new Xbox Kinect
 date: "2010-11-15 18:16:50 +0000"
 id: "377"
 old_path: /games/377/the-next-revolution-in-gaming-has-arrived
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011151813-ks607-xboxsxbo.jpg"
 image_caption: >
-  
+
 image_width: "2835"
 image_height: "1772"
 image_attribution: ""

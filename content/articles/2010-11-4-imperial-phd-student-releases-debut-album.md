@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial PhD student releases debut album 
+  Imperial PhD student releases debut album
 subtitle: >
   Unsigned Imperial student Todd Kuffner unveils first body of work
 date: "2010-11-04 18:28:02 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041824-ks607-toddkuff.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "798"
 image_attribution: ""

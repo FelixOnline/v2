@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010212024-nm1010-stooooor.jpg"
 image_caption: >
-  
+
 image_width: "2213"
 image_height: "1661"
 image_attribution: ""

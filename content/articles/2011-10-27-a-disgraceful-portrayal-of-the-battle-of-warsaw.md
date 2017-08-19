@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 __Battle of Warsaw 1920__
 
-__Director__ Jerzy Hoffman  
-__Screenwriters__ Jerzy Hoffman, Jaroslaw Sokol  
+__Director__ Jerzy Hoffman
+__Screenwriters__ Jerzy Hoffman, Jaroslaw Sokol
 __Cast__ Viktor Balabanov, Adam Ferency
 
 Jerzy Hoffman might not be the most famous of Polish film directors but he has certainly shown himself to be competent in the past, most notably in his adaptations of Henryk Sienkiewicz’s epic Trilogy (_With Fire and Sword_, _The Deluge_ and _Colonel Wołodyjowski_). Therefore, despite its relatively poor critical reception, I was quite hopeful for his latest work _[Battle of Warsaw 1920 3D](http://www.youtube.com/watch?v=T8lEY4CnZUM)_, which has received a surprisingly wide UK release. Unfortunately, I was to be disappointed.

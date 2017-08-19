@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082125-pk1811-grim-fandango1.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "2012"
 image_attribution: ""
@@ -47,7 +47,7 @@ The dialogue is very amusing and charming, and every single character has a uniq
 So what do you actually do in this game? Well, I would define _Grim Fandango_ as a puzzle game, although simply labelling this game as just another puzzler would be very wrong. You normally arrive at a location with a set of tasks you are supposed to complete to help Manny advance on his epic adventure. As you explore an area, you discover different items, characters, and locations that fill in the gaps in your knowledge, and give you clues as to how you can progress. The game play normally consists of finding different items strewn across the fantastic environments and working out how they can be used to achieve to goal in hand. This normally involves combining different items at certain locations.
 > The puzzles, in tune with the rest of the game, can be very weird and wonderful and require some imagination to solve
 This process requires thought, patience, and trial and error in equal portions. There may be times where you have 10 items in your inventory and not a clue about how any of them can help you do what you want. There is no hint system, so you may feel a little lost at some points. But as you persevere, the answer will normally reveal itself. The puzzles in one area all link together, so solving one will lead onto another, and eventually onto the advancement of the storyline (marked by a cut scene). The puzzles, in tune with the rest of the game, can be very weird and wonderful and require some imagination to solve, with only one or two that seem counter-intuitive, which is impressive for a puzzle game of this size. In general they feel both clever and natural, and are difficult enough for you to get a sense of achievement when you solve one.
-TODO: image from 
+TODO: image from
 The game was designed by Tim Schaffer (of _Psychonauts_ and the _Monkey Island_ series), which means you expect something a bit special, and you are not disappointed. _Grim Fandango_ deserves the numerous awards it has for its artistic design. The game plays out with characters moving around static backgrounds, which change as you move Manny to the edge of the scene. The levels are very detailed and highly varied, and although you will return to some of the locations that you visit early in the game, you are never bored of the environment you are in.
 
 The visuals are mind blowing for the time, not necessarily in terms of graphical performance, but in terms of the boldness of everything on screen. It holds up even to this day, with the character models being the real highlight. You would think that the skeletal figures you meet may appear recycled, repetitive figures, but they all have an individual styling and you can tell that great care was put into each and every one of them. Remember, this is from 1998, so don’t expect full HD graphics. However, when I tried a patched version recently it ran like a charm and there were no frame rate issues to speak of.

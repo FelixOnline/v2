@@ -1,6 +1,6 @@
 ---
 title: >
-  Barracuda, the World Cup, and suspicious GoPros 
+  Barracuda, the World Cup, and suspicious GoPros
 subtitle: >
   Imperial College Underwater Club takes a dive.
 date: "2014-11-06 21:11:42 +0000"

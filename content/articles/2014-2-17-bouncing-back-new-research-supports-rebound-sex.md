@@ -1,6 +1,6 @@
 ---
 title: >
-  Bouncing back: new research supports rebound sex 
+  Bouncing back: new research supports rebound sex
 subtitle: >
   It’s official: the popular belief that people who have been dumped are more likely to have “rebound” sex is true, at least among students.
 date: "2014-02-17 17:15:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

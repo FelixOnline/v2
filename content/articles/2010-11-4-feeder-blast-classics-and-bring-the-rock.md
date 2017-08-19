@@ -1,6 +1,6 @@
 ---
 title: >
-  Feeder blast classics and bring the rock 
+  Feeder blast classics and bring the rock
 subtitle: >
   They came, they played, and everyone had a really good time. Can you really ask for more?
 date: "2010-11-04 18:32:26 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

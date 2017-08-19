@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250211-felix-careers_graduation.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Imperial College London"
@@ -36,7 +36,7 @@ imported: true
 
 Every year, approximately 30% of Imperial College undergraduates go on to further study, so we know it’s a popular option. But what do you need to know and how do you make the best choice of course and institution?
 
-Let’s look at the basics. The first question you need to ask yourself is what is your long term goal, and how will further study help you achieve this. In all cases further study will take time and in many cases it will also take money so you need to be clear up front on what you expect to gain. It could be that the career area you hope to go into has a requirement of some kind of further qualification such a PGCE for teaching or it might be that you hope to become more specialised which may open up certain areas of work. Either way it is important to weigh up to pros and cons and check that your expectations are realistic. Most courses publish information on outcomes for their graduates so look carefully to see if people are going on to the types of work you hope to follow.  
+Let’s look at the basics. The first question you need to ask yourself is what is your long term goal, and how will further study help you achieve this. In all cases further study will take time and in many cases it will also take money so you need to be clear up front on what you expect to gain. It could be that the career area you hope to go into has a requirement of some kind of further qualification such a PGCE for teaching or it might be that you hope to become more specialised which may open up certain areas of work. Either way it is important to weigh up to pros and cons and check that your expectations are realistic. Most courses publish information on outcomes for their graduates so look carefully to see if people are going on to the types of work you hope to follow.
  What type of course is best - Masters or PhD or perhaps a better question initially is taught course or research course?
 
 MSc and MA courses are normally one calendar year in length and take the form of a taught period from October to May, so very like you undergraduate experience, as well as a short research project across the summer months usually submitted in September. These yearlong courses can provide an opportunity to deepen and focus your subject knowledge in an area of interest from your current degree or to change direction by studying a new subject of interest, possibly vocational or career-related. Entry onto a Masters is sometimes possible with a 2:2 class of degree depending on where you apply but a 2:1 is commonly required so you will need to research the entry requirements for each course.

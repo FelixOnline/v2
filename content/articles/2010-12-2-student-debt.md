@@ -2,7 +2,7 @@
 title: >
   Student Debt
 subtitle: >
-  Graduate Andrew Somerville talks to Kadhim Shubber about the burden of student debt 
+  Graduate Andrew Somerville talks to Kadhim Shubber about the burden of student debt
 date: "2010-12-02 22:05:28 +0000"
 id: "503"
 old_path: /news/503/student-debt
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022159-dr910-andrewan.jpg"
 image_caption: >
-  
+
 image_width: "2592"
 image_height: "3888"
 image_attribution: ""

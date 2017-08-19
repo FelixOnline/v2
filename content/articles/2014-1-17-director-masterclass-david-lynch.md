@@ -2,7 +2,7 @@
 title: >
   Director masterclass: David Lynch
 subtitle: >
-  Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as Eraserhead (1977), Blue Velvet (1986) and Mulholland Drive (2001). 
+  Lynch is the master of creating unsettling dreamlike visions and the surreal. He has written and directed cult classics such as Eraserhead (1977), Blue Velvet (1986) and Mulholland Drive (2001).
 date: "2014-01-17 04:04:20 +0000"
 id: "4249"
 old_path: /film/4249/director-masterclass-david-lynch
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

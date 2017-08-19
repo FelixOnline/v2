@@ -48,7 +48,7 @@ But one cannot ignore the idea of right and wrong. It is the reason why ex-soldi
 
 However, not all soldiers are psychopaths. The Marines soon realised that instead of turning cadets into killers, they should turn them into ‘protectors’. Protectors would only kill when absolutely necessary; rather then remove their moral compass, they would ‘recalibrate’ it.
 
-Both neurobiologists and psychologists have worked extensively into finding a chemical or gene that gives us our moral traits. Bob Hare is a psychologist who has looked particularly far into this field.  
+Both neurobiologists and psychologists have worked extensively into finding a chemical or gene that gives us our moral traits. Bob Hare is a psychologist who has looked particularly far into this field.
  On the outside, serial killers look normal and just like everyone else; no sign of self-inflicted wounds or grotesque disfigurements. Psychologically however, they seem to have a profound lack of empathy and an egocentric mind-set. They are not necessarily unemotional, but while emotions usually guide us to act, the psychopath feels no compulsion; they could very easily slaughter innocent victims, despite understanding the emotional impact.
 
 In order to test this, Bob Hare brain scanned known serial killers using MRI while words were displayed on a screen. Monitoring the brain’s impulses, Hare noticed that emotional words trigger certain synapses for most people. In the psychopaths’ brains, there was indifference in responses to both emotional and regular words. Hare soon developed a ‘psychopathic checklist’ that tested things like personality, how you would react to certain situations and impulsivity.

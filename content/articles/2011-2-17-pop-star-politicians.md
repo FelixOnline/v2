@@ -1,8 +1,8 @@
 ---
 title: >
-  Pop star politicians 
+  Pop star politicians
 subtitle: >
-  We don’t want politicians who watch X Factor, so stop faking it guys, and get back to running the country 
+  We don’t want politicians who watch X Factor, so stop faking it guys, and get back to running the country
 date: "2011-02-17 19:54:14 +0000"
 id: "827"
 old_path: /comment/827/pop-star-politicians-

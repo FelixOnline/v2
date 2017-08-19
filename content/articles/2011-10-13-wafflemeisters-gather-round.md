@@ -1,8 +1,8 @@
 ---
 title: >
-  Wafflemeisters: gather ‘round! 
+  Wafflemeisters: gather ‘round!
 subtitle: >
-  Wafflemeister announces a new waffle-eating competition 
+  Wafflemeister announces a new waffle-eating competition
 date: "2011-10-13 23:59:28 +0100"
 id: "1530"
 old_path: /food/1530/wafflemeisters-gather-round-
@@ -41,7 +41,7 @@ Whoever eats the most waffles wins. Register before Wednesday October 19 by send
 
 Let the Waffle battle begin!
 
-_Dates:  
- South Ken Station 17.00-19.00 on 19th Oct  
- Portobello Road 13.00 -15.00 on 23rd Oct_  
+_Dates:
+ South Ken Station 17.00-19.00 on 19th Oct
+ Portobello Road 13.00 -15.00 on 23rd Oct_
 <http://www.wafflemeister.com/>

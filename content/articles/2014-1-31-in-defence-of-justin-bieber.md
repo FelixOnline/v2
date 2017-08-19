@@ -2,7 +2,7 @@
 title: >
   In defence of Justin Bieber
 subtitle: >
-  I love Justin Bieber. There, I said it, I outed myself as a Belieber. 
+  I love Justin Bieber. There, I said it, I outed myself as a Belieber.
 date: "2014-01-31 17:50:29 +0000"
 id: "4321"
 old_path: /comment/4321/in-defence-of-justin-bieber
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032034-ks607-frankher.jpg"
 image_caption: >
-  
+
 image_width: "380"
 image_height: "500"
 image_attribution: ""

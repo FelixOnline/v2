@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122236-cac111-whistleblower.jpg"
 image_caption: >
-  
+
 image_width: "300"
 image_height: "300"
 image_attribution: ""
@@ -37,15 +37,15 @@ imported: true
 
 ###  The Whistleblower
 
-__Director __Larysa Kondracki  
-__Screenwriter__ Larysa Kondracki  
+__Director __Larysa Kondracki
+__Screenwriter__ Larysa Kondracki
 __Cast __Rachel Weisz, David Strathairn, Monica Bellucci, Vanessa Redgrave
 
 Why this important, superior thriller only made the direct-to-DVD release is anyone’s guess but The Whistleblower, one woman’s quest for justice in which she has to go after a powerful group of individuals, may sound familiar and predictable, but anchored by a strong lead performance, assured direction and a solid script, is an unmissable treat.
 
 Based on a true story (aren’t they always?), we first meet Kathryn Bolkovac (Weisz), a Nebraska cop, as she takes on a job for Democra Corp, an American private military company, to travel to post-war Bosnia, where she is to assist the peace-keeping operations overseen by the United Nations.
 
-Although this new opportunity is well-paid and filled with excitement at first, she soon uncovers a major sex-trafficking ring in which even underage girls are forced into prostitution. At first, Bolkovac only suspects the local police and the military of being responsible. But as she digs deeper, she discovers a long list of clientele that includes names of high-level diplomats, as well as those employed in the U.N.  
+Although this new opportunity is well-paid and filled with excitement at first, she soon uncovers a major sex-trafficking ring in which even underage girls are forced into prostitution. At first, Bolkovac only suspects the local police and the military of being responsible. But as she digs deeper, she discovers a long list of clientele that includes names of high-level diplomats, as well as those employed in the U.N.
  Bolkovac is far from perfect, and is way in over her head trying to tackle the world’s biggest, most respected organisation. But the one thing she knows better than anyone is right and wrong. Rape is wrong. Human trafficking is wrong.
 
 Weisz, in one of her most unforgettable performances, is masterful in balancing the many complex emotions of her character as she is put through all sorts of obstacles. Compassion and anger are what drive our heroine; the former for the abused girls, and the latter towards the high-power officials arrogant and corrupt enough to believe that they can get away with anything.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212011228-lap08-coffe_farmer.jpg"
 image_caption: >
-  Agriculture: 
+  Agriculture:
 image_width: "0"
 image_height: "0"
 image_attribution: ""

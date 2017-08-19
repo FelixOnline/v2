@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201951-ks607-dannyboy.jpg"
 image_caption: >
-  
+
 image_width: "485"
 image_height: "485"
 image_attribution: ""

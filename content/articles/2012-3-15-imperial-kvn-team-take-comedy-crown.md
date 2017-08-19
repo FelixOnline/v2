@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial KVN team take comedy crown 
+  Imperial KVN team take comedy crown
 subtitle: >
   Russian standup and sketches impress to become United Kingdom’s top group
 date: "2012-03-15 21:14:06 +0000"

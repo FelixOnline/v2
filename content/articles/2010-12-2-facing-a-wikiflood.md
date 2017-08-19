@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022104-dr910-wikifloo.jpg"
 image_caption: >
-  
+
 image_width: "1224"
 image_height: "980"
 image_attribution: ""

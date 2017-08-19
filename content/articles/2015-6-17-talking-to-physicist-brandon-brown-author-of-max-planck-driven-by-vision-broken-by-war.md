@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201506172351-jr2514-10464820173_d1564dbee0.jpg"
 image_caption: >
-  Brandon Brown, giving his talk 
+  Brandon Brown, giving his talk
 image_width: "0"
 image_height: "0"
 image_attribution: "USF Faculty"

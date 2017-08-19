@@ -40,13 +40,13 @@ The [Cheese & Wine Festival](http://ticketing.southbankcentre.co.uk/find/tickets
 
 However, if you think that watching someone cook is boring, you may join me in an Australian wine tasting session with Brian Oakwell - or a cheese and beer pairing of La Cave à Fromage & Meantime Brewery, who said just brilliantly: “What two foods are made for each other more than beer and cheese… Cheese is beer backwards, or beer is cheese backwards.”
 
-Finally and most importantly, all of us are either students or (very) hard-working employees and are aware that fine cheese and wine can be a bit…expensive. Admission to the Cheese & Wine festival is FREE\*. It’s as if it was organized especially for us! So remember: do not have lunch at Queen’s Tower or the Library Café. Brace yourself for a cheesy evening and quench your thirst with plenty of wine! Doctor’s instructions: Repeat on Saturday and Sunday.
+Finally and most importantly, all of us are either students or (very) hard-working employees and are aware that fine cheese and wine can be a bit…expensive. Admission to the Cheese & Wine festival is FREE*. It’s as if it was organized especially for us! So remember: do not have lunch at Queen’s Tower or the Library Café. Brace yourself for a cheesy evening and quench your thirst with plenty of wine! Doctor’s instructions: Repeat on Saturday and Sunday.
 
-\* _A ticket is required for tutored tasting with Tim Atkin and seating is limited._
+* _A ticket is required for tutored tasting with Tim Atkin and seating is limited._
 
 _Go to [www.cheesewinefestival.com](http://www.cheesewinefestival.com) to get the full list of events, participants and book tickets._
 
-__Friday 14 October – Sunday 16 October  
+__Friday 14 October – Sunday 16 October
  11am – 8pm daily (6pm Sunday)__
 
 __Southbank Centre Square__

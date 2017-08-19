@@ -40,21 +40,21 @@ UCAS’ data shows that in 2015, 2014 and 2012, there was a statistically signif
 
 Black students in the 2015 June application cycle were 6.5 percentage points less likely to receive an offer of a place compared to all applicants applying to the same course with the same grades.
 
-UCAS says the general trend across the 130 British universities surveyed was that there was a “broadly fair” process of offer\-making. However, Bristol, Oxford, Cambridge, and Imperial were some of the few who had large gaps between the offer rate applicants’ grades and subjects would predict, and the actual offer rate for students from disadvantaged backgrounds.
+UCAS says the general trend across the 130 British universities surveyed was that there was a “broadly fair” process of offer-making. However, Bristol, Oxford, Cambridge, and Imperial were some of the few who had large gaps between the offer rate applicants’ grades and subjects would predict, and the actual offer rate for students from disadvantaged backgrounds.
 
 Last year at Imperial, those coming from the most disadvantaged backgrounds were 4.2% less likely to get an offer than you’d expect from their grades and subjects. Our stats are slightly worse than Cambridge’s, where students from the most disadvantaged groups are only 3.7% less likely to get a place.
 
 On the other side, at Imperial, applicants from the most advantaged group were 2.3 points more likely to be awarded an offer, and when you look at the random variability considering the number of applicants and the average offer, this is unlikely to have happened by chance. Again, Imperial is even more likely than Cambridge to give offers to the most privileged applicants.
 
 UCAS used something called the POLAR3 classification to define students’ socioeconomic background. This grouping puts students into five equal sized groups from the most to the least advantaged, by how many are involved in higher education, with quintile one being the most disadvantaged and quintile five, the least disadvantaged.
-TODO: image from 
+TODO: image from
 Things like references, work experience and quality of personal statements are not taken into account in this data. However, grades and courses are arguably the most reliable when predicting whether a student will get an offer.
 
-Only data concerning 18\-year\-old home applicants was collected and it was released as part of an effort by UCAS to me more transparent, and to help universities look out who they’re letting in and to improve their practises.
+Only data concerning 18-year-old home applicants was collected and it was released as part of an effort by UCAS to me more transparent, and to help universities look out who they’re letting in and to improve their practises.
 
 A spokesperson from Imperial told us: “Imperial is proud of its highly diverse community and strives to ensure that its doors are open to the best and brightest students, whatever their background.”
 
-“We have a broad portfolio of activities targeted at academically talented pupils. This includes working with schools, colleges and community organisations to raise aspirations, change perceptions, support teaching staff and stimulate interest in STEM subjects from primary school through to A\-Levels.”
+“We have a broad portfolio of activities targeted at academically talented pupils. This includes working with schools, colleges and community organisations to raise aspirations, change perceptions, support teaching staff and stimulate interest in STEM subjects from primary school through to A-Levels.”
 
 “Imperial welcomes the publication of this data. We are working to further understand what factors are at play, and how we can act to improve our admissions process.”
 
@@ -64,4 +64,4 @@ Jennie Watson, the union's DPW told FELIX: "It is inexcusable that fewer black a
 
 If it’s the parts of their applications that aren’t from predicted grades that are letting disadvantaged students down, college may need to change its enrolment process to account for schools not giving their students the best advice on applying, in order to really level the playing field. Otherwise, college will continue to inadvertently not offer places to the best students, discounting the benefits of their background.
 
-Last year, David Cameron announced that UCAS applications were going name\-blind from 2017 in an attempt to remove some unconscious bias on the part of universities. UCAS says ethnic minority applicants are up since 2006, but that it is keen to increase “participation from disadvantaged groups”.
+Last year, David Cameron announced that UCAS applications were going name-blind from 2017 in an attempt to remove some unconscious bias on the part of universities. UCAS says ethnic minority applicants are up since 2006, but that it is keen to increase “participation from disadvantaged groups”.

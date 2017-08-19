@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605201047-felix-newseventsimages.jpeg"
 image_caption: >
-  
+
 image_width: "700"
 image_height: "484"
 image_attribution: "Imperial College London"

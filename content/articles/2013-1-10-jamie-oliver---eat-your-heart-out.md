@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,22 +34,22 @@ comments:
 imported: true
 ---
 
-My dad gave me Jamie Oliver’s 15 Minute Meals this year. Like the Hairy Dieters (AKA the Hairy Bikers), Jamie believes anyone can cook and eat great, healthy food. However, Jamie claims you can do it in 15 minutes. Given that you’re not superhuman it may take you a little longer – it took me about half an hour. In Jamie’s defence, after cooking this meal a couple of times I think could get it down to 20 minutes.  
+My dad gave me Jamie Oliver’s 15 Minute Meals this year. Like the Hairy Dieters (AKA the Hairy Bikers), Jamie believes anyone can cook and eat great, healthy food. However, Jamie claims you can do it in 15 minutes. Given that you’re not superhuman it may take you a little longer – it took me about half an hour. In Jamie’s defence, after cooking this meal a couple of times I think could get it down to 20 minutes.
  This is Jamie’s healthy Cajun chicken with sweet potato mash and salsa salad, apparently 651 calories per person, with some bits taken out/added by me.
 
-Ingredients (serves 4)  
- 1 bag of frozen sweet corn (corn on the cob is too much effort)  
- 1 small bunch of fresh coriander  
- 1 red chilli  
- 4 spring onions  
- 3 ripe tomatoes  
- 2 limes  
- Olive oil  
- 800g sweet potatoes  
- 2 tbsp sweet chilli sauce  
- 4 x 120g skinless chicken breasts  
- 1 tbsp Cajun seasoning  
- Pinch of salt  
+Ingredients (serves 4)
+ 1 bag of frozen sweet corn (corn on the cob is too much effort)
+ 1 small bunch of fresh coriander
+ 1 red chilli
+ 4 spring onions
+ 3 ripe tomatoes
+ 2 limes
+ Olive oil
+ 800g sweet potatoes
+ 2 tbsp sweet chilli sauce
+ 4 x 120g skinless chicken breasts
+ 1 tbsp Cajun seasoning
+ Pinch of salt
  4 tbsp natural yoghurt
 
 Note that I omitted the 1tbsp of polenta, 20g feta cheese and 2 rashers of smoked streaky bacon that Jamie includes in his recipe. I couldn’t justify buying them when I was using such a small amount. I also didn’t use 175g okra, mainly because I didn’t know what it was (it basically looks like a cross between a courgette and a cucumber), but also because Sainsbury’s didn’t sell it. I added the yoghurt – trust me you’ll need it.

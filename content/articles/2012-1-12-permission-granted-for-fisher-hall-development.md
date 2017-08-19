@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122223-felix-dusk003.jpg"
 image_caption: >
-  The proposals would see new care housing at Evelyn Gardens 
+  The proposals would see new care housing at Evelyn Gardens
 image_width: "4368"
 image_height: "2912"
 image_attribution: "Simon Kreitem"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-The topic of [Fisher Hall](http://www.union.ic.ac.uk/halls/fisher/)’s closure in Evelyn Gardens has been revived after a planning permission request from the college aiming to shift the building’s use from Halls of Residence to Care Housing was granted.  
+The topic of [Fisher Hall](http://www.union.ic.ac.uk/halls/fisher/)’s closure in Evelyn Gardens has been revived after a planning permission request from the college aiming to shift the building’s use from Halls of Residence to Care Housing was granted.
  The request, put forth by both Imperial College and [The Wellcome Trust](http://www.wellcome.ac.uk/), was [approved on December 9 2011](http://www.rbkc.gov.uk/planning/searches/details.aspx?address=evelyn%20gardens&streetname=&postcode=&ward=&consarea=&caseyear=&casenumber=&proposal=&decisionyear=&decisionmonth=&appealref=&batch=20&id=PP/10/01950&cn=Cluttons%20LLP,&type=decision&tab=tabs-planning-2) along with proposed development to the affected buildings at 24 and 26 Evelyn Gardens such as removal of the front steps, the insertion of windows and the erection of chimneys.
 
 The review began in January 2011 and it was speculated that the high cost of refurbishment would lead to the closure of the hall. The planning application was submitted in July 2011 indicating the intent to switch to use the hall for elderly care, citing the creation of halls at Prince’s Gardens as causing the “need for student accommodation [to be] reduced”.

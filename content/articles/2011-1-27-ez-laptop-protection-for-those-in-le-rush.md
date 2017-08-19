@@ -1,6 +1,6 @@
 ---
 title: >
-  Ez laptop protection for those in LE Rush 
+  Ez laptop protection for those in LE Rush
 subtitle: >
   The LE Rush could be the protective laptop bag for you
 date: "2011-01-27 19:15:45 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271914-ks607-itsatech.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "1200"
 image_attribution: ""

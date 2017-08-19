@@ -2,7 +2,7 @@
 title: >
   Free Books and Other Events from Sci-Fi Soc
 subtitle: >
-  Sci-Fi soc tell us about their exciting events 
+  Sci-Fi soc tell us about their exciting events
 date: "2014-01-17 04:34:07 +0000"
 id: "4258"
 old_path: /features/4258/free-books-and-other-events-from-sci-fi-soc
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

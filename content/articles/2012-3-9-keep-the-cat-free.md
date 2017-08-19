@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Stephen Smith Rapidly becoming my favourite Felix writer The editors note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory But never mind free speech and all thatThe original article is available at the blog linked to aboveCleverly it is fully referenced with links to College websites to back up each claim I make Decide for yourself whether or not it contains factual inaccuraciesSo whats going on Felix Why publish an article if you dont believe it to be true 
+ - Stephen Smith Rapidly becoming my favourite Felix writer The editors note at the beginning of this article contains several misleading and factually inaccurate statements which could be considered defamatory But never mind free speech and all thatThe original article is available at the blog linked to aboveCleverly it is fully referenced with links to College websites to back up each claim I make Decide for yourself whether or not it contains factual inaccuraciesSo whats going on Felix Why publish an article if you dont believe it to be true
 imported: true
 ---
 

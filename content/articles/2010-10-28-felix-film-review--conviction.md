@@ -2,7 +2,7 @@
 title: >
   Felix Film Review : Conviction
 subtitle: >
-  New Hilary Swank movie reviewed by John Park 
+  New Hilary Swank movie reviewed by John Park
 date: "2010-10-28 19:53:29 +0100"
 id: "281"
 old_path: /film/281/felix-film-review--conviction
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282044-ma1307-convicti.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "683"
 image_attribution: ""

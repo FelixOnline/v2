@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292259-tna08-spector-review1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -41,9 +41,9 @@ They were followed by Splashh who summoned the spirits of 90s grunge whilst keep
 
 This was then followed by Birmingham’s own Swim Deep. The songs were well recognized by the crowd, as exemplified by the premature mutterings of approval as the band started playing their acclaimed single – “King City”. Swim Deep seem to have a decent arsenal of catchy tunes that work their way through. “Honey”, in my opinion, is a recent and yummy addition to this stockpile.
 
-After a long wait, Spector made their appearance; all but the lead singer... Where was Macpherson?  
- He was being an obnoxious scoundrel, of course; and we all loved him for it.  
- As the rest of the band launched into the first song, “Twenty Nothing”, the crowd squirmed in anticipation until Macpherson finally strutted on to the stage in his blinding white suit with all the combined arrogance and charm he could muster - “I lost track of time, remind me how it started…”  
+After a long wait, Spector made their appearance; all but the lead singer... Where was Macpherson?
+ He was being an obnoxious scoundrel, of course; and we all loved him for it.
+ As the rest of the band launched into the first song, “Twenty Nothing”, the crowd squirmed in anticipation until Macpherson finally strutted on to the stage in his blinding white suit with all the combined arrogance and charm he could muster - “I lost track of time, remind me how it started…”
  The band moved on to awesome renditions of “Lay Low,” and “Friday Night”. “What You Wanted” was another shimmering standout with the crowd singing along with the handsomely voiced vocalist.
 
 You have to hand it to Macpherson for being such a fantastic entertainer; he engaged the crowd with his usual tricks as he continuously frolicked about the stage, and the one time he did stop to catch a breather, he handed the microphone to an audience member…

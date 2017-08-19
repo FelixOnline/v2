@@ -2,7 +2,7 @@
 title: >
   Geneva 2- Peace Talks for the Syrian Crisis
 subtitle: >
-  President Assad’s adversaries meet in the wake of ending the Syrian Crisis 
+  President Assad’s adversaries meet in the wake of ending the Syrian Crisis
 date: "2013-12-02 21:56:48 +0000"
 id: "4159"
 old_path: /politics/4159/geneva-2--peace-talks-for-the-syrian-crisis
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,7 +48,7 @@ Also, the coalition members demand a certain fulfillment of promises made by int
 
 America who supports the ousting of President Assad and Russia, the regime’s staunch supporters have jointly agreed on the need to end the war and reach a peaceful agreement. However, Saudi Arabia, which has aligned itself with American forces in Syria, has a differing call. The Saudis see an axis of Shia mischief, stretching from Tehran through Baghdad and Damascus to Hizbullah in Lebanon, as their biggest threat, and Syria as its linchpin. On the other hand, Iran has invested billions to prop up Mr Assad’s regime and to retain a vital link to Hizbullah.
 
-Mr Assad has felt stronger since America failed to carry out a threat to punish the regime with missiles for its mass-murderous sarin-gas attack on August 21st. Saudi Arabia, infuriated by America’s loss of nerve over punishing the Syrian regime with missile strikes after its sarin attack, has embarked on a project to create a new national army in the south of Syria rather than working through the Supreme Military Command, the coalition’s armed wing based in Turkey. For months it has reportedly been training 5,000 rebels in Jordan, with help from French and more recently Pakistani forces.  
+Mr Assad has felt stronger since America failed to carry out a threat to punish the regime with missiles for its mass-murderous sarin-gas attack on August 21st. Saudi Arabia, infuriated by America’s loss of nerve over punishing the Syrian regime with missile strikes after its sarin attack, has embarked on a project to create a new national army in the south of Syria rather than working through the Supreme Military Command, the coalition’s armed wing based in Turkey. For months it has reportedly been training 5,000 rebels in Jordan, with help from French and more recently Pakistani forces.
  Severe malnutrition is reported, especially among children in areas besieged by government forces. The UN says two in five Syrians now need emergency aid. Neighboring countries warn they can no longer cope with the scale of the refugee influx, the most dramatic since the Second World War. Displaced Syrians now make up nearly a quarter of Lebanon’s population. To add to the pall of grief, Al Qaeda is waging polio biological warfare in Syria. The Poliovirus is very contagious and thrives in an infected person’s throat and intestines. It could be that Al Qaeda is seeking vengeance as America in the past had abused polio vaccination program to find out Osama bin Laden.
 
 The stalemate in Syria needs immediate redressing. The unrest that has gripped the Middle East has Syria as its epicenter. If not addressed, outbreak of epidemics and economic instability might only aggravate the difficulties faced by innocent Syrians. And redressing can only be effectively achieved by show of sympathy and a compromising spirit from both the factions of a warring nation.

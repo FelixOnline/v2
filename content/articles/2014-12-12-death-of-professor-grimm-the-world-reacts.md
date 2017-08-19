@@ -2,7 +2,7 @@
 title: >
   Death of Professor Grimm: the world reacts
 subtitle: >
-  How the online community and the University and College Union have responded 
+  How the online community and the University and College Union have responded
 date: "2014-12-12 12:53:37 +0000"
 id: "5048"
 old_path: /news/5048/death-of-professor-grimm-the-world-reacts
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412121253-ps3110-20141212_125030.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

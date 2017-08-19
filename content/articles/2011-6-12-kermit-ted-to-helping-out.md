@@ -1,6 +1,6 @@
 ---
 title: >
-  Kermit-ted to helping out 
+  Kermit-ted to helping out
 subtitle: >
   Frog proteins could help treat cancer, diabetes, stroke and transplant patients
 date: "2011-06-12 15:46:36 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106121645-felix-frog.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "998"
 image_attribution: ""

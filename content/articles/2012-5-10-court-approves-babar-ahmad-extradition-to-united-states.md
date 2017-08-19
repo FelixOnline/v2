@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205101953-pk1811-ahmed-large.jpg"
 image_caption: >
-  Ahmad was interviewed by the BBC in April 
+  Ahmad was interviewed by the BBC in April
 image_width: "0"
 image_height: "0"
 image_attribution: "BBC"
@@ -48,7 +48,7 @@ In the campaign to free Babar Ahmad, an official government online petition was 
 > This is a new realm, this is a new era that demands international co-operation
 > James Loy - Former US Deputy Secretary of Homeland Security
 Scotland Yard released a statement, which said: “The Metropolitan Police Service carried out their investigation strictly in accordance with UK law. This process involved close liaison with the Crown Prosecution Service. We completely reject any suggestion of impropriety.” They also stated, “All extradition requests made to the United Kingdom are subject to the Extradition Act and any other relevant legislation. The CPS acts as the representative of the requesting judicial authority in extradition proceedings.”
-TODO: image from 
+TODO: image from
 Additionally, James Loy, the former US Deputy Secretary of Homeland Security said, “This is a new realm, this is a new era that demands international co-operation associated with crimes that have international implications. The Ahmad case is that case.”
 
 Amna Ahmad and the rest of Babar Ahmad’s family will continue with their [Free Babar Ahmad Campaign](http://www.freebabarahmad.com/). Amna Ahmad said, “We’re not afraid of a trial. We’re not afraid of him being charged with anything. We’re actually asking for that. So that he can have an opportunity to see the allegations, to see the evidence, to be questioned in an open court of law with a jury of his peers.”

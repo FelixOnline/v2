@@ -2,7 +2,7 @@
 title: >
   Greens and GM: a scientist’s dilemma
 subtitle: >
-  Despite recent faults, the Green Party is the lesser of four evils 
+  Despite recent faults, the Green Party is the lesser of four evils
 date: "2012-06-01 12:43:40 +0100"
 id: "2512"
 old_path: /comment/2512/greens-and-gm-a-scientists-dilemma

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002011641-rsp07-nosmokin.jpg"
 image_caption: >
-  
+
 image_width: "1380"
 image_height: "1377"
 image_attribution: ""
@@ -43,7 +43,7 @@ John Silver, Deputy President (Education) expressed his dislike of people smokin
 
 A lot of people feel a student of Imperial College ought to be able to ask another to alter their behaviour, if they see it as offensive. As pointed out by non-smoker, Jess Poore: “If it's got to the point where we can no longer rely on common courtesy and the ability to ask someone to move away from you if you find them smoking unpleasant, and instead need to enforce school-like rules, we should be concerned about the general conduct of our student population rather than a bit of smoke.”
 
-Talking to students around campus, it appears there is little support for a full ban on smoking in the Quad, even among non smokers. Amanda Cheung told felix: “I think a full ban is a bit extreme but it would be nice if people who don't smoke could sit outside without having to breathe in cigarette smoke, especially with the summer coming. How about implementing designated smoking in the Quad?”  
+Talking to students around campus, it appears there is little support for a full ban on smoking in the Quad, even among non smokers. Amanda Cheung told felix: “I think a full ban is a bit extreme but it would be nice if people who don't smoke could sit outside without having to breathe in cigarette smoke, especially with the summer coming. How about implementing designated smoking in the Quad?”
  Smoker Matt Kaufeler joined a number of students in questioning the sanity of the motion telling felix: “If this is anything more than an attempt to stimulate a debate on smoking, then it is idiocy. A short term ban would probably be accompanied by a short term boycott, which may lead to a long term loss of custom”
 
 The meeting resolved not to pass the paper, but to ask Council to vote on whether to hold a referendum on whether students want a smoke free campus at the next Council meeting on the 15th February. Any student may attend Council and voice their opinion, though only Council members can vote on whether to pass a paper.

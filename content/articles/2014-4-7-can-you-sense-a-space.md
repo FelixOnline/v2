@@ -2,7 +2,7 @@
 title: >
   Can you sense a space?
 subtitle: >
-  Have you ever been lost in a building? I don’t mean in the physical sense. 
+  Have you ever been lost in a building? I don’t mean in the physical sense.
 date: "2014-04-07 12:53:40 +0100"
 id: "4524"
 old_path: /arts/4524/can-you-sense-a-space
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201404071354-jal08-arts-spaces.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Pezo von Ellrichshausen"

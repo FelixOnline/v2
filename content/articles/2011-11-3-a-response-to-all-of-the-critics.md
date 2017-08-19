@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111032136-sjw209-george-barnett-cutout.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "354"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!  
+I must say; I was rather taken aback by the hullabaloo caused by [my (somewhat overemphasised) opinions](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/) when I reviewed the Jeremy Kyle show a few weeks ago, and for that, I extend my apologies to anyone who was offended by it. I have never professed to be any good at this writing malarkey – evidently my tongue-in-cheek style and exaggeration were not recognised by some people. Oh well!
  For those of you unaware, in short, my article said that the point of the Jeremy Kyle show is to make you laugh at the participants (this is patently obvious from every single camera shot of the audience). It also highlighted the fact that it elevates the viewer’s ego. I may have also vaguely mentioned my opinion that not many participants are actually good, decent, hardworking people (it really was very subtle, I’d be surprised if you noticed it).
 
 As expected there was some [negative feedback online](http://felixonline.co.uk/tv/1521/jeremy-kyle-guests-should-cease-breeding/#commentHeader)... slightly more than anticipated but nevertheless, these things happen! I think my favourite comment was as follows: “[I] hope to never see such awful dehumanisation and hideous treatment of fellow humans in Felix again”. Other commentators generally flocked towards this opinion and thus a prevailing hypothesis was formed; that I, George Barnett, am entirely to blame for the way in which guests on the Jeremy Kyle show are portrayed, treated and “dehumanised”.

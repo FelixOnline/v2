@@ -1,6 +1,6 @@
 ---
 title: >
-  You’ve chosen to be here, so quit whining 
+  You’ve chosen to be here, so quit whining
 subtitle: >
   We should be more content that we're at Imperial
 date: "2011-01-27 19:52:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251302-ff712-harukaabeandnomogakujiandmegkubota-alexander-newton.jpg"
 image_caption: >
-  Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls 
+  Haruka Abe (Mari), Nomo Gakuji (Mr Okada), and Meg Kubota (Mrs Okada) in Finborough Theatre’s Harajuku Girls
 image_width: "0"
 image_height: "0"
 image_attribution: "Alexander Newton"

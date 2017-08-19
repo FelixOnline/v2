@@ -1,6 +1,6 @@
 ---
 title: >
-  Two miners rumble in the Congo 
+  Two miners rumble in the Congo
 subtitle: >
   Kazakhstan’s largest miner battles Canadian rival over property rights in a war-torn and impoverished region
 date: "2010-10-14 19:33:38 +0100"

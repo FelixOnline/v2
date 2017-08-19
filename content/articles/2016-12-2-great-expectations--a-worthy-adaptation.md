@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612021502-felix-15220217_10154159183271365_7284543474375567080_n.jpg"
 image_caption: >
-  
+
 image_width: "960"
 image_height: "648"
 image_attribution: "Guildhall School | Clive Barda 2016"
@@ -38,7 +38,7 @@ The advice of Mr Jaggers is "Take nothing on its looks; take everything on evide
 
 Great Expectations is Dicken’s penultimate novel and perhaps his most assured; by 1860 Dickens had acquired considerable life experience – he had separated from his wife Catherine Dickens, and was concealing a surreptitious affair with the much younger Ellen Ternan – this is channelled into the capricious affairs of young Pip along his journey toward adulthood. Many of the novel’s themes reflect the Victorian Britain in which it is set: social injustice, poverty, a gothic depiction of the waning aristocracy. Others are timeless characteristics of the bildungsroman: unrequited love, disenfranchised youth, pride, ignorance, and catharsis.
 
-Burgess tactfully navigates these themes to give a balanced performance. For those who know the novel well, there is admirable continuity. The dialogue is lifted directly from the text and the sparse  set design leaves the imagination to conjure up the story’s many vivid settings, firmly ingrained in our subconscious from the descriptions in the book. A general atmosphere of foreboding is maintained by Andy Taylor’s droning orchestral score  and the troop of actors who, when not performing, stand automaton\-like on stage, mirroring Pip’s reactions to the unfolding drama.
+Burgess tactfully navigates these themes to give a balanced performance. For those who know the novel well, there is admirable continuity. The dialogue is lifted directly from the text and the sparse  set design leaves the imagination to conjure up the story’s many vivid settings, firmly ingrained in our subconscious from the descriptions in the book. A general atmosphere of foreboding is maintained by Andy Taylor’s droning orchestral score  and the troop of actors who, when not performing, stand automaton-like on stage, mirroring Pip’s reactions to the unfolding drama.
 
 This quirk is used effectively to narrate the play; the same actors deliver Pip’s inner monologue as we move from scene to scene. This gives an impetus to the plot and paces the performance excellently, the entire performance is no more than two hours yet covers most of the intricacies in the novel. One disappointing omission are the scenes at Wemmick’s castle, and the development of Wemmick’s eccentricity is largely neglected throughout the play, but given the constraints of time this is justified.
 

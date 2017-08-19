@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210191349-mc4509-final-ipad.jpg"
 image_caption: >
-  We apologise to any Apple fanboys who just ejaculated all over their keyboard 
+  We apologise to any Apple fanboys who just ejaculated all over their keyboard
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Seasons come and go, but Christmas never changes and considering that it’s onl
 ## __iPad Mini__
 On the 18th of October 2010, Steve Jobs famously said: “seven inch tablets should come with sandpaper, so users can file their fingers down.” Now, almost two years to the day, the Apple rumour mill is going crazy about what will be released within the next weeks. Yes ladies and gentlemen, it seems Apple is releasing a 7 inch tablet. However, will this be the end of Apple and their marketing genius?
 > Steve Jobs: “seven inch tablets should come with sandpaper, so users can file their fingers down.”
-The new iPad, referred to as the iPad Mini or iPad Air is not yet released, and officially Apple denies its existence. So all I can relay here are rumours painstakingly gathered from the internet.  
+The new iPad, referred to as the iPad Mini or iPad Air is not yet released, and officially Apple denies its existence. So all I can relay here are rumours painstakingly gathered from the internet.
  First to the basics, Mini is rumoured to be a 7.85 inch (diagonally) tablet with a screen resolution similar to that of the iPad and iPad 2. Also it seems that the iPad Mini will stick with the 16:9 ratio introduced with the iPhone 5, which makes sense as most movies are fitted to this ratio. Furthermore the Mini will sport dual cameras (front and back) as well as the same chip as the iPad 2. Thus it will not be as fast as its newest big brother, but the CPU will clock in at a respectable 1GHz. Unfortunately it seems that the Mini will use the 8-pin dock connector introduced with the iPhone 5, so if you have tons of “old-school” accessories then perhaps you should find something different.
 
 Logic dictates that the software of the iPad Mini will be iOS 6, however it seems logic does not dictate Apple Maps. Yep sorry folks, you don’t seem to get a choice for the software if you want to purchase this pocket-sized Apple tablet. However, iOS 6 does have several positives, which perhaps will make this buy sensible for you; first and foremost the App Store. I cannot emphasize how big the iOS App store is: it drives the whole ecosystem. With more than 500,000 apps you will never be left wanting in
@@ -48,7 +48,7 @@ your search for the perfect app. The question is, with Apple’s constant fragme
 
 Now to the price. If you’re thinking, I want it, how much do I have to spend? I’ll tell you that the price bandied around on the internet is quite intriguing! For different memory sizes (8GB, 16GB and 32GB) the web states a price in the range of £180 to £250! That’s right guys you could own an iPad for less than 200 quid! Now, if you are already mentally running to the Apple store in Regent Street, I have one last caveat: the release date! Sadly, we do not know the exact release date, as it seems production problems are haunting Apple’s production of the Mini, but with a new Apple conference titled “we have a little more to show you” on 23rd October, we’re pretty sure it’s then.
 ## Kindle Fire HD
-TODO: image from 
+TODO: image from
 The original Kindle convinced everyone that ebooks were a winner, the Kindle Fire convinced everyone low-budget tablets could work. The question is now, does the Kindle Fire HD have enough to convince you to buy it? Well that is up to you, but here I’ll give you the juicy details to help you make your choice!
 
 The Kindle Fire HD is also a 7 inch tablet, fitting in your pocket snugly. Its average of 8 hours of battery life isn’t spectacular but it could be worse, and the screen, with its 216 ppi (pixels per inch), is much sharper than that of the iPad 2 and other comparable tablets. The CPU is on-par with that of the
@@ -61,7 +61,7 @@ expected. It’s in the app department where Amazon fails to be strong. Since th
 
 All in all, the Amazon Kindle does cater to all other needs and at its cost of £159 for the 16GB and £199 for the 32GB (with sponsored screen savers!) it’s quite a good deal, and if you have an Amazon prime membership you get to download ebooks for free. That’s a steal!
 ## Microsoft Surface RT
-TODO: image from 
+TODO: image from
 When Microsoft first showed off its tablet in 2000 it was an absolute... fail. However, now, after Apple defined the tablet market, the Redmond-based company is trying another time to crack this growing market and this time it seems it may be a success! The “Surface” comes in two different flavours; their main difference being the OS they run. Sadly here we only discuss the Windows RT version, although there will be a Windows 8 pro article later on, so don’t worry!
 
 Before we talk about the software, let’s talk hardware. The Surface has many differences to the other low end tablets that make it quite attractive for anyone looking at a purchasing a tablet. Not only does it have a beautiful 10.6 inch screen (something none of the other tablets discussed here have), it also has the option to add a micro SD card, and, perhaps the most amazing, a USB port!
@@ -74,7 +74,7 @@ which for most students is a bonus! Two cons that I do have to mention, is, firs
 
 The Surface seems to be a great tablet, and it surely will make some kind of impact into the tablet market. Hopefully we will be seeing cheaper iterations of the Surface in the future, but, honestly, for what you are getting it is a bit cheeky wanting it to be less than 400 pounds.
 ## __Google Nexus 7__
-TODO: image from 
+TODO: image from
 The Nexus 7 was hoped to be the Android answer to the iPad in the low-budget tablet market and from the reviews it really does seem that way. The tablet, made by Asus and Google, is the most successful Android to date
 > The tablet, made by Acer and Google, is the most successful Android to date
 (barring the Kindle Fire if you count that as Android), so perhaps this is the one for you!
@@ -89,38 +89,38 @@ This tablet is the only one out at this very moment, and so you could go and buy
 ## Summary
 We have looked at 4 different tablets, from 4 different companies with 4 (almost) different Operating systems. So now you are scratching your head and wondering, which one is for me? Well let’s compare them and see which kind of person they fit. Before we make any comparisons, we can safely ignore the hardware (unless its something radically different) because all of these are relatively the same, and thus software is the real variant.
 
-###   
+###
  iPad Mini
 
-With Apple you always know what you get, you know that everything will be high quality and will work. Nothing will feel cheap, and if you own other Apple products it is only a plus. If you are a person who is happy to be confined within the eco-system of Apple and aren’t really that techie, this may be the tablet for you.  
- Price: £180 to £250  
- Release Date: 23th October (rumoured)  
- Memory: 8GB to 32GB  
+With Apple you always know what you get, you know that everything will be high quality and will work. Nothing will feel cheap, and if you own other Apple products it is only a plus. If you are a person who is happy to be confined within the eco-system of Apple and aren’t really that techie, this may be the tablet for you.
+ Price: £180 to £250
+ Release Date: 23th October (rumoured)
+ Memory: 8GB to 32GB
  OS: iOS
 
-###   
+###
  Kindle Fire HD
 
-The Fire HD is the one who doesn’t seem to have a real target audience, but when you really look at it has a lot to offer. The people who will want to look into the Fire HD, are not really that focused on apps, but more into the ebook/music scene. The speakers as well as the unlimited cloud storage seem promising. I, however, really like this free-ebok-if-you-are-an-amazon-premium-member thing, maybe you do too!  
- Price: £159 - £199  
- Release Date: 25th October  
- Memory: 16GB and 32GB  
+The Fire HD is the one who doesn’t seem to have a real target audience, but when you really look at it has a lot to offer. The people who will want to look into the Fire HD, are not really that focused on apps, but more into the ebook/music scene. The speakers as well as the unlimited cloud storage seem promising. I, however, really like this free-ebok-if-you-are-an-amazon-premium-member thing, maybe you do too!
+ Price: £159 - £199
+ Release Date: 25th October
+ Memory: 16GB and 32GB
  OS: Modified Android 4.0 (Ice Cream Sandwich)
 
-###   
+###
  Microsoft Surface RT
 
-The Surface, if it comes out as described, will be a game-changer in the tablet business. The fact that you have a USB port, a touch keyboard cover, as well a kickstand for it to stand on its own, makes this tablet pretty much a laptop (or “hybrid”). This may be the best option for a student, considering you get most of Microsoft office as well as a 10.6 inchw screen, but sadly the price may put some people off.  
- Price: £400  
- Release Date: 26th October  
- Memory: 32GB and 64GB with options to add more  
+The Surface, if it comes out as described, will be a game-changer in the tablet business. The fact that you have a USB port, a touch keyboard cover, as well a kickstand for it to stand on its own, makes this tablet pretty much a laptop (or “hybrid”). This may be the best option for a student, considering you get most of Microsoft office as well as a 10.6 inchw screen, but sadly the price may put some people off.
+ Price: £400
+ Release Date: 26th October
+ Memory: 32GB and 64GB with options to add more
  OS: Windows RT
 
-###   
+###
  Google Nexus 7
 
-Google’s foray into the tablet market has been a successful one, and this tablet is for those who are not happy to be limited. Android is the Windows of the tablet world, and such modifiability will appeal to many tech-oriented students. The inclusion of NFC will also appeal to those who have a Android device with Android beam.  
- Price: £159 - £199  
- Release Date: Out Now  
- Memory: 8GB and 16GB  
+Google’s foray into the tablet market has been a successful one, and this tablet is for those who are not happy to be limited. Android is the Windows of the tablet world, and such modifiability will appeal to many tech-oriented students. The inclusion of NFC will also appeal to those who have a Android device with Android beam.
+ Price: £159 - £199
+ Release Date: Out Now
+ Memory: 8GB and 16GB
  OS: Android 4.1 (Jelly Bean)

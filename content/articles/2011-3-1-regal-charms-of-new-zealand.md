@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103012110-ks607-newzealn.jpg"
 image_caption: >
-  
+
 image_width: "3264"
 image_height: "2448"
 image_attribution: ""
@@ -35,12 +35,12 @@ comments:
 imported: true
 ---
 
-_The lowdown_: Two million tourists tread the two islands of New Zealand every year – for a very good reason. Its natural beauty is second to none; its reputation as an adrenaline junkie’s wettest of dreams well deserved.  
-  
-_Culture_: Easy-going, liberal – the Kiwis presenting a big culture gap is as likely as you being eaten by a sheep. The Maoris, indigenous people of New Zealand, have a colourful history and are immensely proud of their heritage – behold and respect it.  
-  
-_Costs_: Prices are considerably lower than in England, yet still substantially higher than the likes of South America and Southeast Asia. Much of your budget will be spent on activities so try reducing your everyday expenditures.   
-  
+_The lowdown_: Two million tourists tread the two islands of New Zealand every year – for a very good reason. Its natural beauty is second to none; its reputation as an adrenaline junkie’s wettest of dreams well deserved.
+
+_Culture_: Easy-going, liberal – the Kiwis presenting a big culture gap is as likely as you being eaten by a sheep. The Maoris, indigenous people of New Zealand, have a colourful history and are immensely proud of their heritage – behold and respect it.
+
+_Costs_: Prices are considerably lower than in England, yet still substantially higher than the likes of South America and Southeast Asia. Much of your budget will be spent on activities so try reducing your everyday expenditures.
+
 _Cuisine_: With a sizeable ex-pat population from Asia and Europe the gastronomic diversity is astonishing. Locally-sourced ingredients – kiwis, crayfish, mussels, lamb – should keep you salivating; brush it all off with top-notch wine from Central Otago, Hawkes Bay and the Marlborough region.
 
 __Augmenting Auckland__
@@ -63,7 +63,7 @@ _Food_: The big fast-food chains have colonised and dominated the food scene –
 
 _Activities_: Allow your imagination to go wild – and a sturdy finance too. This is where adrenaline-seekers let loose their comfort-zone boundaries; a more economic choice compared with Queenstown too. Indeed, Taupo Tandem Skydiving lays claim to the cheapest skydive in the country – a rather pleasant, panoramic plunge into the lake below. The mix-bag of the usual suspects – bungy jumping, jetboating – is readily available. Tramping – New Zealand slang for hiking – enthusiast or not, the nearby Tongariro National Park pledges to give you all one of the best day’s walk of your lives. Bring you skis to Ruapehu, one of the three active stratovolcanoes constituting the National Park.
 
-__Glacial Franz Josef__  
+__Glacial Franz Josef__
  Whilst the township of Franz Josef consists mainly of a handful of blocks and the major road running through it, it’s unfairly overshadowed and dwarfed by the nearby glacier that shares its name. While the village provides conveniences to visitors it’s the natural spectacle they are after – the 12km-long glacier is the main attraction of New Zealand’s West Coast, flocked by thousands of tourists each day eager to admire the icy giant.
 
 _Accommodation_: Franz Josef Township, 5km from the glacier, supplies the bed spaces. Despite an abundance of accommodation-providers they are fairly packed – swiftly booked out too. The local YHA, for instance, is often frequented by clienteles ending up there after driving past too many ‘no vacancy’ signs.
@@ -76,10 +76,10 @@ _Annoyances_: Do not attempt to hike the glacier without a guide. Several lives 
 
 __Quaffy Queenstown__
 
-Regarded as the southern hemisphere’s adrenaline capital, Queenstown enjoys a healthy year-round blitz of tourists. Whilst many have arrived with the intention of leaping off something, Queenstown’s gorgeous scenery has in turn enticed the less adventurous. As a result there’s no shortage of eateries, shops, pubs and nightclubs accommodating the tourism market.  
-   
-_Accommodation_: Hostels are aplenty, scattered all over the town centre. Whilst the big chains like YHA and Base have branches here, try a small-scale hostel for a more homely stay. More upmarket options are located further away from the vibe, which may be handy if you prefer quieter nights.  
-   
-_Food_: No supermarket but one exists for miles from the centre, its produce unjustly extortionate. Most restaurants offer budget-friendly lunch menus or, if your finance won’t stretch, try the local food court. Recommended is getting your hands on a Fergburger – if not to experience its legendary status, savour their size-of-your-face burgers. Expect long queues – especially during rat-arsed hours.  
-   
+Regarded as the southern hemisphere’s adrenaline capital, Queenstown enjoys a healthy year-round blitz of tourists. Whilst many have arrived with the intention of leaping off something, Queenstown’s gorgeous scenery has in turn enticed the less adventurous. As a result there’s no shortage of eateries, shops, pubs and nightclubs accommodating the tourism market.
+
+_Accommodation_: Hostels are aplenty, scattered all over the town centre. Whilst the big chains like YHA and Base have branches here, try a small-scale hostel for a more homely stay. More upmarket options are located further away from the vibe, which may be handy if you prefer quieter nights.
+
+_Food_: No supermarket but one exists for miles from the centre, its produce unjustly extortionate. Most restaurants offer budget-friendly lunch menus or, if your finance won’t stretch, try the local food court. Recommended is getting your hands on a Fergburger – if not to experience its legendary status, savour their size-of-your-face burgers. Expect long queues – especially during rat-arsed hours.
+
 _Activities_: Queenstown is a daredevil’s definition of paradise: from paragliding to heli-snow sports, from jetboating to skydiving – it’d have your bladder clenched day and night. Queenstown is also the birthplace of commercial bungee jumping – paying tribute to Kawarau Bridge – where the first-ever leaps were performed – aside, the real rite-of-passage lies with the Nevis, which boasts a 134m freefall. For the less gutsy, there are always milder water sports, hiking, and frisbee golf. Queenstown becomes a popular ski destination in the winter.

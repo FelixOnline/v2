@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,8 +48,8 @@ Most days pass in a blur of confusion and fear. As you find your table in the di
 
 The nights bring little relief. More often than not you are afflicted by cruel and unusual punishments. These can take the form of a risky, risqué affair in the showers around a bar of soap or an ABBA tribute act in the lounge bar. To this day, I don’t know which is more horrific.
 
-Some people patiently see out their sentence by reading a few books and dreaming a few dreams. Others try to obliterate themselves in brightly coloured alcohol and fast, meaningless sex\*. Others become so institutionalised that once they leave, normal life is so frightening for them that they quickly return to the warm embrace of cosy familiarity. Recidivism is as much a problem in Gran Canaria as it is in Belmarsh.
+Some people patiently see out their sentence by reading a few books and dreaming a few dreams. Others try to obliterate themselves in brightly coloured alcohol and fast, meaningless sex*. Others become so institutionalised that once they leave, normal life is so frightening for them that they quickly return to the warm embrace of cosy familiarity. Recidivism is as much a problem in Gran Canaria as it is in Belmarsh.
 
 Very few dare abscond from their imprisonment. I was only able to escape and bring you this article by tunneling through the wall behind a poster of Rita Hayworth.
 
-_\* Sex, in this usage, can include evening-long games of Gin Rummy_
+_* Sex, in this usage, can include evening-long games of Gin Rummy_

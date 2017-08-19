@@ -37,11 +37,11 @@ imported: true
 
 This week it was announced that the contract for the large tower to be constructed at the Imperial West campus will be given to Laing O’Rourke.
 
-The £76 million project will be to build a 34\-storey block that will include 192 apartments, with 59 of those reserved for “Imperial key workers”. According to college, these flats for staff will be priced below market rate.
+The £76 million project will be to build a 34-storey block that will include 192 apartments, with 59 of those reserved for “Imperial key workers”. According to college, these flats for staff will be priced below market rate.
 
 This is the third project at the White City Campus that has been awarded to the firm. The contracts for the two buildings that make up the £200 million ‘Translation and Innovation hub’ which is due to be finished this summer, were also given to the company.
 
-Laing O’Rourke is the largest privately\-owned construction and engineering company in the UK.
+Laing O’Rourke is the largest privately-owned construction and engineering company in the UK.
 
 In 2010, it signed a deal with Imperial to launch the Centre for Systems Engineering and Innovation, as part of the Civil and Environmental Engineering department, but it also has ties with Mechanical Engineering and the Business School. The centre hosts several PhDs.
 

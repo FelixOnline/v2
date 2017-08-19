@@ -43,7 +43,7 @@ And don’t worry, it’s totally anonymous. You do have to use your college use
 
 We’re trying to get some decent data on you lot so have a go and pass it on. It’s a fun five minutes of procrastination, totally mobile friendly, and subtly designed so you can get away with doing it the library cafe queue.
 
-We’ll collate all your info at the end and will be releasing a bumper sex\-ed\(ition\) of FELIX next term.
+We’ll collate all your info at the end and will be releasing a bumper sex-ed(ition) of FELIX next term.
 
 In the meantime, to get you in the mood, we’re releasing a tonne of sex and relationship themed content over the next few weeks. You can find it in this issue on page eight.
 

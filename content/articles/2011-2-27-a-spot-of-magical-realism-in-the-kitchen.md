@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271945-ks607-fruitsel.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "533"
 image_attribution: "Lucie Jichova"
@@ -50,7 +50,7 @@ For a lighter breakfast or snack, try arepas con huevos, a deep-fried cornflour 
 
 Ingredients (enough for 4 arepas):
 
-1 cup Harina PAN (maize flour)\*
+1 cup Harina PAN (maize flour)*
 
 1/4 teaspoon salt
 
@@ -58,8 +58,8 @@ Ingredients (enough for 4 arepas):
 
 4 eggs
 
-Vegetable oil  
-  
+Vegetable oil
+
 – Mix the flour, salt and water to make a firm(ish) dough. Cover with clingfilm and set aside for 10-15 minutes.
 
 – Flatten the dough with a heavy pan or a rolling pin so that it’s about 1 cm thick. (I wonder how many students own rolling pins?) Cut out palm-sized circles and use a small bowl or a large glass to help you to flatten them.
@@ -74,4 +74,4 @@ Vegetable oil
 
 – Pat the arepas with a paper towel to remove excess oil. You wouldn’t want a premature heart attack, would you? Serve warm.
 
-\* Harina PAN can be sourced from [R Garcia & Sons](http://www.garciacafe.co.uk/) on Portobello Rd, [La Bodequita](http://www.labodeguita.co.uk/) in Elephant & Castle, or [Brixton Market](http://brixtonmarket.net/).
+* Harina PAN can be sourced from [R Garcia & Sons](http://www.garciacafe.co.uk/) on Portobello Rd, [La Bodequita](http://www.labodeguita.co.uk/) in Elephant & Castle, or [Brixton Market](http://brixtonmarket.net/).

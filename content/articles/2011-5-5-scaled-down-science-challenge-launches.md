@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,5 +44,5 @@ RCSU President Scott Heath explained that they faced difficulties in securing fu
 
 The uncertainty over funding meant that they were unable to confirm that the competition would go ahead until April, by which point it was too late to book prominent judges. It was decided that running a down-scaled competition would be better than not running the competition at all.
 
-For more information about how to enter, go to:  
+For more information about how to enter, go to:
 [www.rcsu.org.uk/sciencechallenge](http://www.rcsu.org.uk/sciencechallenge)

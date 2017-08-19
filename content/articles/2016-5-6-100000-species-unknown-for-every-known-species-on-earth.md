@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605061052-felix-16599963391_865673fed8_o.jpg"
 image_caption: >
-  With over 200 genera they still only represent a fraction of Earth’s diversity. 
+  With over 200 genera they still only represent a fraction of Earth’s diversity.
 image_width: "5000"
 image_height: "5000"
 image_attribution: "Picturepest"
@@ -44,12 +44,12 @@ That’s not to say such approaches were unjustifiable. Naturally numbers of som
 
 “Until recently, we’ve lacked the tools to truly estimate the number of microbial species in the natural environment,” Lennon points out. “The advent of new genetic sequencing technology provides an unprecedentedly large pool of new information.
 
-The IU scientists used a combination of microbial, plant and animal community datasets from a variety of sources and ecological theory to create this new, rigorous estimate. In total a mega\-sample of 5.6 million species from 35,000 locations across the globe was compiled, from 35,238 distinct efforts sampling everything from bacteria, archea and fungi, to trees, birds and mammals..
+The IU scientists used a combination of microbial, plant and animal community datasets from a variety of sources and ecological theory to create this new, rigorous estimate. In total a mega-sample of 5.6 million species from 35,000 locations across the globe was compiled, from 35,238 distinct efforts sampling everything from bacteria, archea and fungi, to trees, birds and mammals..
 
 They suspected that aspects of biodiversity would scale with the abundance of individual organisms, and indeed found a powerful trend of biodiversity changes across scale of abundance.
 
-This estimate is coming at an interesting point of our understanding of microbial services. For example recent studies have shown that the human virome \(the community of viruses that are part of our bodies microflora\) may have beneficial effects on our health. In 2014 it was shown that a strain of Murine norovirus in mice, is more than just a non\-intrusive genetic hitch hiker, but actually helps restore damage done to the intestine and immune system. More importantly the virus is genetically transmitted from parents to offspring, meaning the benefits associated with carrying the virus become genetic.
+This estimate is coming at an interesting point of our understanding of microbial services. For example recent studies have shown that the human virome (the community of viruses that are part of our bodies microflora) may have beneficial effects on our health. In 2014 it was shown that a strain of Murine norovirus in mice, is more than just a non-intrusive genetic hitch hiker, but actually helps restore damage done to the intestine and immune system. More importantly the virus is genetically transmitted from parents to offspring, meaning the benefits associated with carrying the virus become genetic.
 
-Another important service microbes offer is acting as potential sources of new meds. This becomes particularly important if we think about the progressing antibiotic crisis. More and more infections are developing antibiotic resistance and becoming super\-bugs.  Last September, a strain of Super\-gonorrhea started spreading around Leeds. Last year, scientists developed a new antibiotic, the first in 30 years, by successfully culturing a gram negative soil bacterium. More importantly they developed a technique which allows the culture of ‘unculturable’ microbes in lab conditions.
+Another important service microbes offer is acting as potential sources of new meds. This becomes particularly important if we think about the progressing antibiotic crisis. More and more infections are developing antibiotic resistance and becoming super-bugs.  Last September, a strain of Super-gonorrhea started spreading around Leeds. Last year, scientists developed a new antibiotic, the first in 30 years, by successfully culturing a gram negative soil bacterium. More importantly they developed a technique which allows the culture of ‘unculturable’ microbes in lab conditions.
 
 So far less than 10 million species of microbes have been classified. “Of those catalogued species, only about 10,000 have ever been grown in a lab, and fewer than 100,000 have classified sequences,” Lennon said. “Our results show that this leaves 100,000 times more microorganisms awaiting discovery – and 100 million to be fully explored. Microbial biodiversity, it appears, is greater than ever imagined.”

@@ -1,6 +1,6 @@
 ---
 title: >
-  Egypt in complete internet blackout 
+  Egypt in complete internet blackout
 subtitle: >
   Life without Internet: Egypt Diaries
 date: "2011-02-03 20:24:12 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

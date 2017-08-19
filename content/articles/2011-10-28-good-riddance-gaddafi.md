@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110280128-sjw209-laurence-pope.jpg"
 image_caption: >
-  
+
 image_width: "350"
 image_height: "257"
 image_attribution: ""

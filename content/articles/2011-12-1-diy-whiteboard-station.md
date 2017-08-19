@@ -48,11 +48,11 @@ The size of your station will depend on a few things: the number of people livin
 
 While this guide will be for a three-board set-up, you can easily tailor it for more or less boards as you see fit. (Do be warned, though, that while the boards might look big in the shop, once they’re up on the wall you’ll quickly find yourself running out of writing space.) Here’s what you’ll need:
 
-• Whiteboard: 30” x 90” (x3)  
- • Pack of sticky fixers  
- • Board markers (x3)  
- • Cloths for wiping (x3)  
- • String  
+• Whiteboard: 30” x 90” (x3)
+ • Pack of sticky fixers
+ • Board markers (x3)
+ • Cloths for wiping (x3)
+ • String
  • Nails (x3)
 
 Most of these can be picked up at an ordinary stationery shop. The bulk of the cost will, of course, come from the boards. They’re usually around £15 a pop, but if you’re lucky enough to catch a sale at Ryman’s you can get them for half that.

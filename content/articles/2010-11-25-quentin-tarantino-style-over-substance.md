@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011251953-nm1010-tarantin.jpg"
 image_caption: >
-  
+
 image_width: "1680"
 image_height: "1050"
 image_attribution: ""

@@ -2,7 +2,7 @@
 title: >
   “Shh... Philae is fast asleep.”
 subtitle: >
-  Philippa Skett recaps the Rosetta mission and the future of Philae 
+  Philippa Skett recaps the Rosetta mission and the future of Philae
 date: "2014-11-20 20:42:41 +0000"
 id: "4909"
 old_path: /science/4909/shh-philae-is-fast-asleep

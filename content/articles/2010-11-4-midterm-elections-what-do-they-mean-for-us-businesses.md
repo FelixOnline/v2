@@ -1,8 +1,8 @@
 ---
 title: >
-  Midterm elections: what do they mean for US businesses? 
+  Midterm elections: what do they mean for US businesses?
 subtitle: >
-  As the Republicans retake the House of Representatives, analysts debate whether they will they ease the burden on businesses or let them down like it’s 1994 
+  As the Republicans retake the House of Representatives, analysts debate whether they will they ease the burden on businesses or let them down like it’s 1994
 date: "2010-11-04 18:15:44 +0000"
 id: "293"
 old_path: /biz/293/midterm-elections-what-do-they-mean-for-us-businesses-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041811-ma1307-bbbssnzz.jpg"
 image_caption: >
-  
+
 image_width: "1614"
 image_height: "1191"
 image_attribution: ""

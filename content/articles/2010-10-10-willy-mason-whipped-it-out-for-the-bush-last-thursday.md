@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010101628-ks607-WillyMas.jpg"
 image_caption: >
-  
+
 image_width: "445"
 image_height: "445"
 image_attribution: ""

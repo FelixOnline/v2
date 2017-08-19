@@ -1,6 +1,6 @@
 ---
 title: >
-  Medics' Circle Line will be alcohol free 
+  Medics' Circle Line will be alcohol free
 subtitle: >
   Circle Line changes will see drinking swapped for good deeds
 date: "2016-02-05 11:45:34 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602051144-felix-2000px-Circle_Line.svg.png"
 image_caption: >
-  The circle line, but not as we know it. 
+  The circle line, but not as we know it.
 image_width: "2000"
 image_height: "1036"
 image_attribution: "TfL"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-The ICSM Student Union has been forced to reign in its plans for RAG week, due to growing pressure from the college over recent alcohol\-fuelled bad behaviour.
+The ICSM Student Union has been forced to reign in its plans for RAG week, due to growing pressure from the college over recent alcohol-fuelled bad behaviour.
 
 The annual Circle Line Pub Crawl usually involves a charity bucket election for ICSM RAG at stations around the Circle Line, as well as stops as multiple pubs along the way. The night usually ends at the Clapham Grand.
 
@@ -47,9 +47,9 @@ The President of the Medical School’s Union told students on Monday that scrub
 
 This comes after students on the medic boat club’s trip to Leuven were refused passage on a P&amp;O ferry after students were deemed “drunk and disorderly”. The ICSMSU has since banned alcohol consumption on coaches.
 
-This and other alcohol\-related incidents over the years now threaten ICSM students union’s independence. In an email to the medical student body this week, the ICSMSU president said: “The history of events has now led to the heads of College questioning why the faculty of medicine should have its own Students’ Union”.
+This and other alcohol-related incidents over the years now threaten ICSM students union’s independence. In an email to the medical student body this week, the ICSMSU president said: “The history of events has now led to the heads of College questioning why the faculty of medicine should have its own Students’ Union”.
 > > **Scrubs may not be worn in the club afterwards**
-“The dialogue \[with college\] is such that there can be no more negatives surrounding alcohol without risking the SU and our separate clubs and societies”.
+“The dialogue [with college] is such that there can be no more negatives surrounding alcohol without risking the SU and our separate clubs and societies”.
 
 In the eyes of the law, Imperial only has one student union, and ICSMSU is a constituent union of ICU. However, at the moment, ICSMSU does have some autonomy, with its own separate clubs, societies and sports teams and a sabbatical president paid for by the faculty.
 

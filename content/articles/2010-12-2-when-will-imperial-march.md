@@ -1,8 +1,8 @@
 ---
 title: >
-  When will Imperial march? 
+  When will Imperial march?
 subtitle: >
-  While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why 
+  While students around the country have been taking direct action, Imperial has remained quiet. Maciej Matuszewski finds out why
 date: "2010-12-02 21:50:19 +0000"
 id: "499"
 old_path: /news/499/when-will-imperial-march-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022144-ks607-cartoonp.jpg"
 image_caption: >
-  
+
 image_width: "5906"
 image_height: "2466"
 image_attribution: "Mitesh Patel"
@@ -31,7 +31,7 @@ author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
 
 comments:
- - What is sad is that Alex Kendall fails to make the link between what Imperial is doing to the Life Sciences Department and the Higher Education Funding debate He claims that students from a lowerincome background will be supported by bursaries and that the Union will have input into how this is done As demonstrated by the Life Sciences cuts as well as cuts to the Outreach department which the Volunteer Center has borne the brunt of Imperial is motivated by money and consistently breaks promises that it has made to students Under proposals by the government Imperial will need to cover the 2nd year fees for students who were eligible for free meals This will undeniably deter them from taking students from this economic group yet Imperial will hide behind its outreach activities to get away with it I think its great that Alex has so strongly opposed the Life Sciences cuts because of the longreaching impact it will have on the future but he needs to cast his net further 
+ - What is sad is that Alex Kendall fails to make the link between what Imperial is doing to the Life Sciences Department and the Higher Education Funding debate He claims that students from a lowerincome background will be supported by bursaries and that the Union will have input into how this is done As demonstrated by the Life Sciences cuts as well as cuts to the Outreach department which the Volunteer Center has borne the brunt of Imperial is motivated by money and consistently breaks promises that it has made to students Under proposals by the government Imperial will need to cover the 2nd year fees for students who were eligible for free meals This will undeniably deter them from taking students from this economic group yet Imperial will hide behind its outreach activities to get away with it I think its great that Alex has so strongly opposed the Life Sciences cuts because of the longreaching impact it will have on the future but he needs to cast his net further
 imported: true
 ---
 

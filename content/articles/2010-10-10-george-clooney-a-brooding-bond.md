@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010101634-ks607-GeorgeCl.jpg"
 image_caption: >
-  
+
 image_width: "512"
 image_height: "256"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Dude youre the goto writer for populist articles Kate Moss vs Mario Testino then George Clooney Youre on FIIIRRRREEE Print this on letters to editor babeNo its just because the person who wrote the article hasnt signed onto the website and so it has my name because I uploaded it How do I sign on to the website and claim my article Mr Editor 
+ - Dude youre the goto writer for populist articles Kate Moss vs Mario Testino then George Clooney Youre on FIIIRRRREEE Print this on letters to editor babeNo its just because the person who wrote the article hasnt signed onto the website and so it has my name because I uploaded it How do I sign on to the website and claim my article Mr Editor
 imported: true
 ---
 

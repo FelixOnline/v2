@@ -58,5 +58,5 @@ Amanda adds that she was blown away by how passionate LIMUN delegates are, and b
 
 Besides an excellent opportunity to build relationships across borders of background, culture and nationality, and inevitably – let’s be realistic – a lot of work, there is a very important life skill to learn: when you play with the rules, you come up with better ways to manipulate or go around them.
 
-If you are interested in being part of something great, applications for LIMUN 2013 are still open.  
+If you are interested in being part of something great, applications for LIMUN 2013 are still open.
  A last word from the ICMUN president: “One thing is sure, the MUN future is bright at Imperial.”

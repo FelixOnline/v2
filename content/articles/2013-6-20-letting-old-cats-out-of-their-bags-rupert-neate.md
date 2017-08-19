@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306202351-tna08-rupert2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -48,7 +48,7 @@ RN: I then appealed.
 
 __TA: And won, presumably?__
 
-RN: Yeah. After we were told off I only wrote on the pavements and not in College. They were quite serious, because they didn’t really want me to win. Then they didn’t really like me when I was in office.  
+RN: Yeah. After we were told off I only wrote on the pavements and not in College. They were quite serious, because they didn’t really want me to win. Then they didn’t really like me when I was in office.
  It’s good not to be liked. You know how they give Honourary Life Membership? They voted not to give me one. (laughs). Which was after I won the awards [Guardian Student Media Award].
 
 __TA: Did you think as Editor it’s better to be liked or not liked?__
@@ -66,7 +66,7 @@ A thing about security on College. Because on the back of that dress code thing 
 __TA: What were the high points of your year?__
 
 RN: The highs were when we have the amazing stories and campaigning stories. We did a story about the Astoria banning some club or society. It was basically banning them because they were all black and they’ve got a ban on black music. So we got them to u-turn on that as well. That was fun. We re-introduced Page 3 [now the centrefold]. Someone had done it like 3 years before us. I liked doing that. Appeared in it twice. Have you done it?
-TODO: image from 
+TODO: image from
 __TA: I’ve done it twice, yeah. So what were the lows?__
 
 RN: The lows were when we had no one to write for us. And I didn’t ever sleep on Wednesday. Every week because no-one had written anything, no one would file on deadline. So you end up staying up all night, writing the front page. That’s always the bit you leave till last when you’re knackered, so that is stupid. Then all layout. That was low.
@@ -89,7 +89,7 @@ RN: Yeah we did have some that weren’t that great. I was looking through last 
 
 __TA: Shit… That’s a really good idea.__
 
-RN: Yeah, some weeks you’ve got loads of good stories and that could splash the paper so you save that one.  
+RN: Yeah, some weeks you’ve got loads of good stories and that could splash the paper so you save that one.
  You’ve got to make your news I think. That would be my advice. All of our big stories we made ourselves. Find some shit out. I always wanted to find the monkeys. There were always rumours that College were using them for clinical research. We never did that. You should definitely do that!
 
 __TA: Did you have many complaints about the paper?__
@@ -101,7 +101,7 @@ You talked to Pallab Ghosh. What did he say, did he like doing it? Did he still 
 __TA: He told me he tried to annoy people. And a figure in College he didn’t like he did a running cartoon. He seemed that he would always try to find something scandalous.__
 
 RN: That’s good. I like that attitude. We did that with the sport guy. After we did lots of negative stories about Ethos I went in there to refill the bin. There were no papers in it and the bin wasn’t there. Basically, he had taken the bin for Felix and put it in the cupboard as he didn’t want it. So we did a whole story about press censorship and freedom and all this. And we got all of these people the bureau on censorship to give us quotes about this. About how he shouldn’t have taken away the issue because he didn’t like it. So that was brilliant. We did a whole story about them trying to censor Felix, which they hated. And then did a cartoon of him as a dragon eating Felix. Apparently he got some money from College for damages or something. I don’t know if it’s true, but that’s what I heard. He never complained at the time.
-TODO: image from 
+TODO: image from
 __TA: Of all the aspects of Felix, which did you enjoy the most?__
 
 RN: Writing the stories.

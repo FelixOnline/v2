@@ -2,7 +2,7 @@
 title: >
   Nigel Farage remains UKIP leader after the party rejects his resignation
 subtitle: >
-  Honestly, you couldn't make this stuff up. 
+  Honestly, you couldn't make this stuff up.
 date: "2015-05-11 17:50:32 +0100"
 id: "5510"
 old_path: /news/5510/nigel-farage-remains-ukip-leader-after-the-party-rejects-his-resignation

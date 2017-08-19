@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105060950-felix-9780241143001.jpeg"
 image_caption: >
-  
+
 image_width: "1444"
 image_height: "2244"
 image_attribution: ""
@@ -40,7 +40,7 @@ Luke Williams’ debut novel, The Echo Chamber, is a beautifully woven reflectio
 
 In rich detail, heavily reliant on acoustics, Evie describes her Lagos childhood in the dying days of the British Empire. The characters surrounding her express their conflicting views about Nigeria with bitterness and racism on all sides. However, Evie grows up blissfully unaware of the racial tension. She and her father are optimistic that independence will usher in a ‘new era for Nigeria’. In reality the transition is rife with violence and the family flee to Scotland.
 
-Adulthood follows for Evie as a sequence of ups and downs. Her father descends into madness, and she meets her equally addled grandfather. She mimes and works behind the stage in Oxford, and attempts to document the sounds of the United States. But most importantly her adult life revolves around a failed relationship with the beautiful actress Damaris. Evie’s obsession with sound and Damaris’s selfish character doom the relationship and appear to put a seal on Evie’s romantic life.  
+Adulthood follows for Evie as a sequence of ups and downs. Her father descends into madness, and she meets her equally addled grandfather. She mimes and works behind the stage in Oxford, and attempts to document the sounds of the United States. But most importantly her adult life revolves around a failed relationship with the beautiful actress Damaris. Evie’s obsession with sound and Damaris’s selfish character doom the relationship and appear to put a seal on Evie’s romantic life.
  Ironically, in her later years Evie starts to go deaf. The struggle to document her history culminates in her plan to burn the completed memoir as well as the artefacts of her past that fill the attic: diaries, postcards, maps of Lagos, ‘a thousand useless possessions’. As if hearing her memories ‘hissing and snapping, cracking like crinoline’ on the funeral pyre will alleviate her regret.
 
 Luke Williams’ new voice has the potential to be treasured by many. His evocative first novel of family, memory, empire, love found and love lost, is in many ways a triumph, but at times felt long-winded. However, Williams’ narrator possesses a vibrant inner monologue to inspire many an immersive imagination. The Echo Chamber may have sometimes lacked focus on the character of Evie, but remains an engaging tale of interwoven histories.

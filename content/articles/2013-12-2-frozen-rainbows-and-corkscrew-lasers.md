@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,7 +46,7 @@ In collaboration with Ullrich Steiner’s group at the University of Cambridge, 
 
 “You have this three-dimensional structure with a chiral property, which gives us an avenue to generate metamaterials with optical activity, which means they interact with polarised light, something that normal materials struggle with.
 
-“Having manufactured them, the experimentalists investigated them and found the very disappointing result that although these have a highly chiral structure, they don’t have much optical activity.  
+“Having manufactured them, the experimentalists investigated them and found the very disappointing result that although these have a highly chiral structure, they don’t have much optical activity.
  “This is where we theoreticians came on board and were asked to develop some models. We realised that when wires are helical they have different properties than from when they’re straight. This is one of our major research thrusts at the moment. The aim is to build something that doesn’t exist yet: a laser that emits circularly-polarised light. Can you imagine that?”
 
 Light can be plane polarised, causing all the waves to lie flat in the same direction, or it can be circularly polarised, in which the light corkscrews in a left- or right-handed direction. Circular polarisation is used to create the 3D effect at cinemas, but on the nanoscale could be used to probe the structures of molecules and materials.
@@ -55,7 +55,7 @@ Light can be plane polarised, causing all the waves to lie flat in the same dire
 
 __What is plasmonics?__
 
-Plasmonics is the the study of free metal electrons which trap light at the interface of a metal and another substance, creating ‘surface plasmons’. This confines light to an electronic scale, and is the basis on which metamaterials science is built.  
- Imperial’s Professor Stefan Maier is a researcher in plasmonics and nanophotonics, who was pivotal in developing the field as a modern science. “The topic is a little older than metamaterials,” he says, “by about one hundred years or so! But it was really revolutionised by the development of nanofabrication, so new research in plasmonics began at the end of the 90s and the turn of the century.  
- “I did my PhD at CalTech at that time, which showed that you can make tiny waveguides far below the diffraction limit based on surface plasmons.” This discovery was key to enabling the research of many other plasmonics and metamaterials scientists.  
+Plasmonics is the the study of free metal electrons which trap light at the interface of a metal and another substance, creating ‘surface plasmons’. This confines light to an electronic scale, and is the basis on which metamaterials science is built.
+ Imperial’s Professor Stefan Maier is a researcher in plasmonics and nanophotonics, who was pivotal in developing the field as a modern science. “The topic is a little older than metamaterials,” he says, “by about one hundred years or so! But it was really revolutionised by the development of nanofabrication, so new research in plasmonics began at the end of the 90s and the turn of the century.
+ “I did my PhD at CalTech at that time, which showed that you can make tiny waveguides far below the diffraction limit based on surface plasmons.” This discovery was key to enabling the research of many other plasmonics and metamaterials scientists.
  “I think the most exciting applications are nanoscale biosensors and highly efficient light sources. If you focus light down to the nanometre scale, you can interface it with molecules.”

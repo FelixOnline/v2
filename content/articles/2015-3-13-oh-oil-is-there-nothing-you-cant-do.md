@@ -2,7 +2,7 @@
 title: >
   Oh oil, is there nothing you can’t do?
 subtitle: >
-  Joshua Renken comments on the relationship between the West and Saudi Arabia 
+  Joshua Renken comments on the relationship between the West and Saudi Arabia
 date: "2015-03-13 01:30:42 +0000"
 id: "5395"
 old_path: /politics/5395/oh-oil-is-there-nothing-you-cant-do

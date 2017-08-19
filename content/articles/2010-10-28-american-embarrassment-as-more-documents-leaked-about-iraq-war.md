@@ -1,8 +1,8 @@
 ---
 title: >
-  American embarrassment as more documents leaked about Iraq war 
+  American embarrassment as more documents leaked about Iraq war
 subtitle: >
-  From sexual assault to frozen funds, WikiLeaks is under attack from all sides, but will the whistleblower’s friend survive? Feroz Salam continues his investigation 
+  From sexual assault to frozen funds, WikiLeaks is under attack from all sides, but will the whistleblower’s friend survive? Feroz Salam continues his investigation
 date: "2010-10-28 19:37:41 +0100"
 id: "268"
 old_path: /tech/268/american-embarrassment-as-more-documents-leaked-about-iraq-war-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282035-ks607-wikileak.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "922"
 image_attribution: ""

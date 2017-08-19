@@ -44,6 +44,6 @@ The exhibition is more than a collection of pretty pictures though: some photos 
 
 With outstanding contributions in many different categories and by many different participants (a particular mention goes to the 11-14 Years Old contestants, whose work easily equalled in brilliance those of their more senior rivals) it is a small wonder that a winner could be picked at all. Still, Daniel Beltra of Spain proudly takes home the title this year for his thought-provoking ‘Still Life in Oil’: a portrait of a group of pelicans drenched in crude oil. Despite my initial reservations about the win due to its political nature, I was oddly touched by the beautifully tragic composition and almost palpable fear of the birds. In the winner’s words and as a perfect summary of the competition as a whole: “I wanted to create a set of images that wouldn’t look out of place in an art gallery [...] it’s a route to understanding that doesn’t depend on shock. I think it gets the message to a wider audience, because if the image is aesthetically appealing, people are more likely to stop.”
 
-Seriously, don’t take my word for it: just go see.  
-   
+Seriously, don’t take my word for it: just go see.
+
 _[Wildlife Photographer of the Year](http://www.nhm.ac.uk/visit-us/whats-on/temporary-exhibitions/wpy/)_at the __Natural History Museum __until March 11

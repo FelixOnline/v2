@@ -1,8 +1,8 @@
 ---
 title: >
-  Lord Kerr resigns after six years as Imperial Council Chair 
+  Lord Kerr resigns after six years as Imperial Council Chair
 subtitle: >
-  Search begins for replacement 
+  Search begins for replacement
 date: "2011-01-27 18:11:41 +0000"
 id: "650"
 old_path: /news/650/lord-kerr-resigns-after-six-years-as-imperial-council-chair-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271807-ks607-lordlord.jpg"
 image_caption: >
-  
+
 image_width: "2912"
 image_height: "4367"
 image_attribution: "Imperial College London"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - A divisive choice Lord Browne president of the Royal Academy of Engineering recently broke with convention by criticising maths and physics as having too much government funding compared with engineering Your awsner was just what I needed Its made my dayutIgZy  fnazitfcxnaa pravachol buy tramadol 499488 cymbalta 87458 synthroid 681  cheap car insurance 732656 cheap life insurance  
+ - A divisive choice Lord Browne president of the Royal Academy of Engineering recently broke with convention by criticising maths and physics as having too much government funding compared with engineering Your awsner was just what I needed Its made my dayutIgZy  fnazitfcxnaa pravachol buy tramadol 499488 cymbalta 87458 synthroid 681  cheap car insurance 732656 cheap life insurance
 imported: true
 ---
 

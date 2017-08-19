@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105060920-felix-asus_eeepadtransformer_4.jpeg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "693"
 image_attribution: ""
@@ -46,5 +46,5 @@ On the software side, the Transformer was widely touted as the first tablet to l
 
 That said, one of the more puzzling moments during the hands-on came when I tried to move between home screens on the device and it stopped responding completely for a few seconds, both in my hands and those of the demonstrator. Delayed responsiveness is an issue that has been reported by others reviewing the device. While it didn’t kill my experience with the device, I suspect it’s something that could build into a nuisance if it happens too often.
 
-If the Transformer’s solid construction and neat keyboard arrangement aren’t enough to drag you away from the iPad, you might just be convinced by the price. Starting at £379 for the tablet itself and £429 with the keyboard dock, it’s a highly competitive offer from ASUS for a product that’s pulling a Jekyll and Hyde act surprisingly well. It’s worth keeping in mind, though, that 3G isn’t offered on the device yet.  
+If the Transformer’s solid construction and neat keyboard arrangement aren’t enough to drag you away from the iPad, you might just be convinced by the price. Starting at £379 for the tablet itself and £429 with the keyboard dock, it’s a highly competitive offer from ASUS for a product that’s pulling a Jekyll and Hyde act surprisingly well. It’s worth keeping in mind, though, that 3G isn’t offered on the device yet.
  ASUS has turned out a solid, competetively priced product that carves out its own niche in what’s quickly becoming a crowded market. The software on the device did seem a bit sluggish at times, but considering the regularity of updates it’s possible that the issues have been fixed at the time of writing. If you’re a student on a tight budget who needs the flexibility of a full keyboard but also wants to pick up a tablet on the cheap, this is the perfect device for you.

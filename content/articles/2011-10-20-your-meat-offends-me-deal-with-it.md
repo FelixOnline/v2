@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110140132-felix-gurl-with-opinions.png"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1048"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f\*\*k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)
+I was eating my lunch in the JCR (two-bean goulash YUM! :D) and this random guy just comes and sits down next to me and starts devouring a greasy stinky burger. I asked him if he minded moving because I find the stench of cooked meat to be nauseating. As you may have guessed, I’m a vegan. When I see people eating meat, cheese, cake or any other food that has come from animals, I just feel sick. I’m not one of those in-your-face vegans, but I have my right to ask someone to move if they’re going to offend my beliefs. The guy rudely told me to f**k off, so I just moved to another table. I wasn’t going to stoop to his level so I just walked away. Always ignore a bully ;)
 
 Anyway, I’m not here to preach, I just want to explain my views. If you eat stuff that comes from animals, you are wrong. I’m sorry, but you are. You can defend your actions as much as you like by saying that animals don’t have emotions or can’t feel pain, but they have rights and you are abusing them. Don’t worry, I’m not saying that you can’t eat meat because everyone has freedom, but you have to know deep-down that what you are doing is immoral.
 

@@ -2,7 +2,7 @@
 title: >
   Rejection isn't the end of the world
 subtitle: >
-  Imperial isn't the be all and end all 
+  Imperial isn't the be all and end all
 date: "2012-01-19 23:16:24 +0000"
 id: "2037"
 old_path: /comment/2037/rejection-isnt-the-end-of-the-world
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201192317-felix-interview.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "658"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 I’ve been helping out at interview days this year. Normally this is a task I avoid in the same way I avoid slapping my own balls with a wooden paddle – that is, by not agreeing to do it when I’m asked by my superiors (it happens more than you’d think). However, this year I am short on money and, like all people short on money, I am not averse to a little ball-slapping in return for cash.
 
-Interview days at Imperial have all the atmosphere of a funeral, with worse quality food. The interviewers are miserable because they could be off somewhere writing down equations. The interviewees are miserable because they want to go to Cambridge instead. And I’m miserable because it’s a fucking Wednesday and I’m standing around in a gaudily-lit box of a room wondering what kind of catering department can do Hoi Sin duck wraps and falafel but somehow fail to do, say, cheese sandwiches.  
+Interview days at Imperial have all the atmosphere of a funeral, with worse quality food. The interviewers are miserable because they could be off somewhere writing down equations. The interviewees are miserable because they want to go to Cambridge instead. And I’m miserable because it’s a fucking Wednesday and I’m standing around in a gaudily-lit box of a room wondering what kind of catering department can do Hoi Sin duck wraps and falafel but somehow fail to do, say, cheese sandwiches.
  I mean I love duck, it’s just – cheese sandwiches, guys. How hard would that be?
 
 It’s on days like this that I see evidence of everything that is wrong with how we treat sixth-formers, both as a university and a nation. It’s not just that we under-fund their education and then complain when they’re not up to scratch. It’s the sheer amount of pressure we pour on them – you’d think they had a life expectancy of about thirty years. They’re so focused on what this decision will mean for the rest of their life that they seem to forget just how much life they have left to live. I know people who have done three degrees and changed career four times. Yet people are captivated by the idea that if you don’t get into Imperial you might as well top yourself, because there’s no way in hell you’re going to leave Birmingham otherwise.

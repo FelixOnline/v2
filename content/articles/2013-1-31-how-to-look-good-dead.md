@@ -2,7 +2,7 @@
 title: >
   How to look good dead
 subtitle: >
-  Rory Fenton on posthumous presentation 
+  Rory Fenton on posthumous presentation
 date: "2013-01-31 23:42:52 +0000"
 id: "3214"
 old_path: /comment/3214/how-to-look-good-dead
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301312342-tna08-picture---zombie-ii.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

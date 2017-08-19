@@ -78,5 +78,5 @@ __CC-G__: It isn’t too hard to learn the different moves and techniques involv
 
 __DR__: You need flexibility, core strength and you have to learn to hold your breath for long periods of time – these aren’t things that come overnight. Having said that I still think synchro is a very accessible sport, and can be a lot of fun!
 
-_Fancy giving it a go?  
+_Fancy giving it a go?
  Email __syncswimming@ic.ac.uk__ for info!_

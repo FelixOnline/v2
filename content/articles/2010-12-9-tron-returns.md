@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012091937-ma1307-Lightcyc.jpg"
 image_caption: >
-  
+
 image_width: "582"
 image_height: "316"
 image_attribution: ""

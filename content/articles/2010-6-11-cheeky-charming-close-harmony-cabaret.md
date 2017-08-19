@@ -2,7 +2,7 @@
 title: >
   Cheeky Charming Close Harmony Cabaret
 subtitle: >
-  I joined Jen Woodward, Alex De Lyckefold Young and Kate Marlais, otherwise known as The Three Little Maids for a chat at the Royal Academy of Music, a place they all have ties to, to chat about their upcoming concert, comedy cabaret and whether scientists are good in bed. 
+  I joined Jen Woodward, Alex De Lyckefold Young and Kate Marlais, otherwise known as The Three Little Maids for a chat at the Royal Academy of Music, a place they all have ties to, to chat about their upcoming concert, comedy cabaret and whether scientists are good in bed.
 date: "2010-06-11 11:04:14 +0100"
 id: "143"
 old_path: /arts/143/cheeky-charming-close-harmony-cabaret
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201006111157-lh106-ThreeLit.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "400"
 image_attribution: ""

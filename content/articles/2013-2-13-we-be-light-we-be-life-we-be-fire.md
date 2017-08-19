@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302131439-tna08-angels.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -43,5 +43,5 @@ The modern urban fantasy genre has experienced a resurgence over the past decade
 So far, so generic – but what lifts Griffin’s book above its genre is the execution. A Madness of Angels is surreal. It’s vivid. It’s alive. It’s disturbing and enthralling and spectacular, the kind of book that grabs hold of the reader’s imagination and won’t let go, long after its been put down. It’s not only about Swift and his return from death: it’s about London and magic and life, and Swift, with his/their unique, not-quite-human viewpoint is the perfect narrator for a London full of Gaiman-esque urban legend – graffiti artists whose work comes to life after dark;the Old Bag Lady who reads the omens in tattered shopping bags; the Last Train that travels the Circle Line eternally, chasing its own tail. Griffin revels in the madcap fantasy trappings of her setting; but with a deft twist of perspective she also uses them to turns the mundane and ordinary into something glorious.
 
 The book has flaws, of course. The changes of perspective between Swift and the angels can be confusing, as can the terse, often unattributed dialogue, and some characters don’t receive enough fleshing out, like apprentice sorcerer Dana Mikeda – what’s she up to anyway, and why do we even care? But the book rises above all this, becoming a delight to read through the evident fascination and wonder Griffin finds in her story. Above everything else, A Madness of Angels is full of pure joy.
-TODO: image from 
+TODO: image from
 _Kate Griffin is a pen name used by the twice Carnegie-nominated fantasy author Catherine Webb for her adult fiction. She will be at Imperial College for Picocon 30 on the weekend of February 16-17. As one of the Guests of Honour he will give an individual talk and participate in the main panel with Steph Swainston, Richard Morgan, Peter F. Hamilton and Jaine Fenn. For more information, and to register your attendance, visit icsf.org.uk/picocon _

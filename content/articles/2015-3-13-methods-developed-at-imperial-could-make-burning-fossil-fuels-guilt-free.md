@@ -1,6 +1,6 @@
 ---
 title: >
-  Methods developed at Imperial could make burning fossil fuels guilt-free 
+  Methods developed at Imperial could make burning fossil fuels guilt-free
 subtitle: >
   Lauren Ratcliffe on converting waste carbon dioxide into useful materials
 date: "2015-03-13 00:39:34 +0000"

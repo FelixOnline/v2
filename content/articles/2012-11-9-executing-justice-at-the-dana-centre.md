@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-It turned out that 52% of the audience at a recent event at the Dana Centre would prefer to be executed by lethal injection than hanging, electrocution or being shot. This was before they were given information about what exactly occurs when a lethal injection is carried out.  
+It turned out that 52% of the audience at a recent event at the Dana Centre would prefer to be executed by lethal injection than hanging, electrocution or being shot. This was before they were given information about what exactly occurs when a lethal injection is carried out.
  A member of the audience was selected to lie on a death bed with a plastic arm to demonstrate venous cannulation. Tim Crocker-Buque, Junior Doctor and Public health researcher chaired the evening and then showed how the lethal cocktail is administered.
 
 Felicity Plaat, consultant anaesthetist with the Imperial College Healthcare NHS Trust described the drugs used in the procedure. She then explained the huge problems when injections are being administered by prison wardens, who are not medically trained, causing undue suffering to dying prisoners.

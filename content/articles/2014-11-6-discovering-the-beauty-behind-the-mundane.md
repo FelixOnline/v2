@@ -1,6 +1,6 @@
 ---
 title: >
-  Discovering the Beauty behind the Mundane 
+  Discovering the Beauty behind the Mundane
 subtitle: >
   Patricia Poths explains popular science books
 date: "2014-11-06 19:44:20 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411062016-snb11-stuff-matters.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

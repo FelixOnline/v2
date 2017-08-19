@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041830-jk708-Hitchhik.jpg"
 image_caption: >
-  
+
 image_width: "3648"
 image_height: "2736"
 image_attribution: ""

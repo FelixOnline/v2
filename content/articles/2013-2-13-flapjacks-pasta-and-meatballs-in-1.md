@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302131423-tna08-meatballs.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -96,7 +96,7 @@ Some coriander
 
 3) Mix it up with your hand. Perfect if you have had a stressful day....
 
-4) Make it into balls. Don’t worry if you have too many onions, you can use it for the sauce!  
+4) Make it into balls. Don’t worry if you have too many onions, you can use it for the sauce!
  5) Fry the leftover onions ina pan. Brown those meatballs!
 
 6) Add chopped tomatoes, lowheat to simmer!

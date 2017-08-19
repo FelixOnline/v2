@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041837-ba108-YetiMic.jpg"
 image_caption: >
-  
+
 image_width: "632"
 image_height: "1600"
 image_attribution: ""

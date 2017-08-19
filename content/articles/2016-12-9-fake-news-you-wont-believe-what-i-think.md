@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201612091537-felix-Screen Shot 2016-12-09 at 15.36.26.png"
 image_caption: >
-  
+
 image_width: "1284"
 image_height: "805"
 image_attribution: ""
@@ -52,4 +52,4 @@ As cynical as I am, I do believe there are enough intelligent people out there t
 
 Perhaps more importantly, I do not think ‘fake news’ swayed our election, as some people say. Trump got a considerable amount of free airtime, and as I said before, some voters just hated Clinton so much they decided Trump – as irrational as it seems – was the lesser of two evils.
 ‘Fake news’ does deceive, though, and news sites like Breitbart and Infowars are extremely dangerous when it comes to the freedom of the press of my country. Our first amendment is a great privilege in my society, and serious journalists don’t take that responsibility lightly.
-And yes, while the sites I listed are both right\-wing, I will admit the media does lean left. That being said, we don’t have the nerve to suggest that the shooting of 20 schoolchildren was staged. That part of this issue is something I will maybe never comprehend.
+And yes, while the sites I listed are both right-wing, I will admit the media does lean left. That being said, we don’t have the nerve to suggest that the shooting of 20 schoolchildren was staged. That part of this issue is something I will maybe never comprehend.

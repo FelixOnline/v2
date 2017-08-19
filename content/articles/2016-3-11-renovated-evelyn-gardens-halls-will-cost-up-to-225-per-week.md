@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201603111117-felix-12842433_10154175443480695_365991130_o.jpg"
 image_caption: >
-  
+
 image_width: "2048"
 image_height: "1152"
 image_attribution: "FELIX"
@@ -47,13 +47,13 @@ The new halls will boast a 24 hour reception and “concierge service”. The ac
 > > **The new halls will boast a 24 hour reception and “concierge service”**
 In terms of access, there will be two “accessible” rooms, but the buildings still have no lifts.
 
-In a dramatic U\-turn on housing policy, at the end of last summer Imperial announced that Fisher hall would be reopened for the year as the college had let in too many undergraduates to fulfil its promise of providing accommodation to every first year.
+In a dramatic U-turn on housing policy, at the end of last summer Imperial announced that Fisher hall would be reopened for the year as the college had let in too many undergraduates to fulfil its promise of providing accommodation to every first year.
 
 Imperial offered up rooms in Fisher to freshers, and indeed any student that applied, for £132 per week. The halls are not in good shape.
 
 Hall seniors were initially poached by the accommodation department from their preferred halls without their consent to join the wardening team in Fisher, before being returned after protest.
 
-This will be the first time halls solely for the returning non\-fresher undergraduates will be available.
+This will be the first time halls solely for the returning non-fresher undergraduates will be available.
 
 The Imperial accommodation website says the new halls will offer a “sense of familiarity but with more independence than the first year experience”.
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201601221246-felix-Match4Lara3.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "960"
 image_attribution: "match4lara campaign"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Today, the Anthony Nolan branch at Imperial is running a bone marrow drive in an attempt to find a match for a Thai\-Italian student,  the 24 year old Lara Casalotti, who has been diagnosed with leukaemia.
+Today, the Anthony Nolan branch at Imperial is running a bone marrow drive in an attempt to find a match for a Thai-Italian student,  the 24 year old Lara Casalotti, who has been diagnosed with leukaemia.
 
 The test involves nothing more than writing down your details and spitting into a cup – this will be analysed to see whether volunteers have the right tissue type to save Lara’s life.
 
@@ -43,7 +43,7 @@ At the moment, only 3% of people on the bone marrow register are mixed race, whi
 
 Last week, the Cambridge drive recruited 656 people onto the Anthony Nolan register, which could also help hundreds of others waiting for stem cells to cure blood disorders, including leukaemia.
 
-Last week, it was reported that a Thai\-Italian man took an eight hour coach ride across Thailand to take the test to see whether he could be a match.
+Last week, it was reported that a Thai-Italian man took an eight hour coach ride across Thailand to take the test to see whether he could be a match.
 
 Despite its reputation, donating stem cells is a lot like giving blood. Most people say it’s painless. Only 10% of donations actually involve giving bone marrow, and these procedures happen under a general anaesthetic.
 
@@ -51,6 +51,6 @@ Despite its reputation, donating stem cells is a lot like giving blood. Most peo
 
 The charity says it needs more men, who make up only 15% of the register but produce more stem cells, and are more likely to donate them if matched.
 
-As highlighted in Lara’s case, they are also in desperate need of more donors from Black, Asian and minority ethnic backgrounds. People of non\-Caucasian origin are much less likely to find a stranger with matching tissue, and only 20% do.
+As highlighted in Lara’s case, they are also in desperate need of more donors from Black, Asian and minority ethnic backgrounds. People of non-Caucasian origin are much less likely to find a stranger with matching tissue, and only 20% do.
 
 _The drive is running on Friday the 22nd in SAF from 11:30 until 18:00_

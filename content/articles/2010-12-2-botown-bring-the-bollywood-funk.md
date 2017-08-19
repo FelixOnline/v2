@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012022102-ac1507-Botown.jpg"
 image_caption: >
-  
+
 image_width: "983"
 image_height: "655"
 image_attribution: ""

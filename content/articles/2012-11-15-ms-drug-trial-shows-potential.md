@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ MS occurs when the immune system attacks and damages myelin – an insulating su
 
 The disease affects almost 100,000 people in the UK.
 
-The findings showed that in patients who deteriorated after first-choice treatment, alemtuzumab reduced relapse rate by more than 40% compared with interferon beta 1a (known commercially as Ribif).  
+The findings showed that in patients who deteriorated after first-choice treatment, alemtuzumab reduced relapse rate by more than 40% compared with interferon beta 1a (known commercially as Ribif).
  In untreated patients, alemtuzumab reduced relapse rate by more than 55% compared with Ribif. Many patients even showed improvements in disability. MRI scans revealed less myelin damage in alemtuzumab-treated patients.
 
 Alemtuzumab wipes out T and B lymphocytes so they can be replenished anew, essentially resetting the immune system. It binds to CD-52, a protein on the surface of lymphocytes. These lymphocytes are destroyed and repopulated, leading to long-lasting changes in immunity.
@@ -53,5 +53,5 @@ Despite the obvious benefits of alemtuzumab, undesirable side-effects of the mon
 
 The research was funded by Genzyme (Sanofi) and Bayer Schering Pharma. Alemtuzumab has since been withdrawn from the European and US market. Genzyme intend to remarket the drug specifically for MS treatment under the trade name Lemtrada. There is concern that this potentially life-saving drug will be too expensive for many MS sufferers and health services.
 
-DOI: 10.1016/S0140-6736(12)61769-3  
+DOI: 10.1016/S0140-6736(12)61769-3
  10.1016/S0140-6736(12)61768-1

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200645-felix-martin_machapa.1.jpg"
 image_caption: >
-  
+
 image_width: "1181"
 image_height: "1542"
 image_attribution: "Martin Machapa – Zanele Muholi, courtesy of Michael Stevenson"

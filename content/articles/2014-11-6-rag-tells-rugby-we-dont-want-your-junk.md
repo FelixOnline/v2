@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411062209-snb11-dsc_0008.jpg"
 image_caption: >
-  Taken from the Rugby Centrefold in Issue 1583 
+  Taken from the Rugby Centrefold in Issue 1583
 image_width: "0"
 image_height: "0"
 image_attribution: "Felix"

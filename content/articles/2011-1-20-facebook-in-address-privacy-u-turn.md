@@ -1,6 +1,6 @@
 ---
 title: >
-  Facebook in address privacy u-turn 
+  Facebook in address privacy u-turn
 subtitle: >
   Facebook's Privacy?
 date: "2011-01-20 19:26:37 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

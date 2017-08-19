@@ -1,6 +1,6 @@
 ---
 title: >
-  Jewish and Muslim student ‘ambassadors’ to promote interfaith relations 
+  Jewish and Muslim student ‘ambassadors’ to promote interfaith relations
 subtitle: >
   Programme aims to "set a new tone of respectful debate on campus"
 date: "2011-01-27 18:36:51 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

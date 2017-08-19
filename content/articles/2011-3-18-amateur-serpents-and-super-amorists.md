@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103180830-ks607-mozartmo.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "1200"
 image_attribution: ""

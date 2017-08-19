@@ -1,6 +1,6 @@
 ---
 title: >
-  Does Imperial have a drinking problem? 
+  Does Imperial have a drinking problem?
 subtitle: >
   Felix gauges student opinion after Daily Mail medic article
 date: "2011-01-20 21:11:48 +0000"

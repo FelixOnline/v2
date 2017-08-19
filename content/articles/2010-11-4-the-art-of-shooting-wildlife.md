@@ -1,6 +1,6 @@
 ---
 title: >
-  The art of shooting wildlife 
+  The art of shooting wildlife
 subtitle: >
   Another year at the Veolia photography competition, and the entries are wilder and more captivating than ever
 date: "2010-11-04 18:11:17 +0000"

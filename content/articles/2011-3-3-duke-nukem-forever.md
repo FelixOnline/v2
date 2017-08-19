@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032119-ks607-dukeduke.jpg"
 image_caption: >
-  
+
 image_width: "3360"
 image_height: "1024"
 image_attribution: ""

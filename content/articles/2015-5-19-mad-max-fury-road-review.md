@@ -1,6 +1,6 @@
 ---
 title: >
-  Mad Max: Fury Road Review 
+  Mad Max: Fury Road Review
 subtitle: >
   "Has the world fell? Each of us in our own way was broken. It was hard to know who was more crazy; me, or everyone else.” - Max Rockatansky
 date: "2015-05-19 21:22:27 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505192221-jr2514-madmax.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

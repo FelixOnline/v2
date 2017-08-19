@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,10 +42,10 @@ Sound produces a strain which could induce a current in piezoelectric materials;
 
 To investigate the effect, they manufactured small solar cells containing zinc oxide nanorods, which are a piezoelectric material, and measured their response to different levels and frequencies of sound. They found that sound as low as 75dB, such as conversation or roadside noise, increased the efficiency of the cells, and that the best response was to sound at around 10kHz.
 
-As music is usually played in Professor Durrant’s lab, the team also looked at the response of the cells to different kinds of music.  
+As music is usually played in Professor Durrant’s lab, the team also looked at the response of the cells to different kinds of music.
  “It’s not very scientific,” he admits, “as it’s hard to quantify the sound as the amplitudes and frequencies change.
 
-Still, we found that the response to Adele was better than to Beethoven or traditional Persian music.  
+Still, we found that the response to Adele was better than to Beethoven or traditional Persian music.
  At first we didn’t know why that was, but then found that electronically-synthesised music has more high-frequency sounds than classical.”
 
 Though common silicon cells do not contain piezoelectric materials, they can easily be manufactured into newly-developed printed and polymer solar cells.

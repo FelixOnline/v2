@@ -1,6 +1,6 @@
 ---
 title: >
-  Why I’m voting Conservative 
+  Why I’m voting Conservative
 subtitle: >
   Philip Kurukgy tells us how the Tories won him over
 date: "2017-06-02 14:14:03 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706021613-felix-33331160870_f0a3690f0e_o.jpg"
 image_caption: >
-  
+
 image_width: "3258"
 image_height: "2444"
 image_attribution: "Jay Allen"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Why do you presume May will be better at negotiating than Corbyn Shes already taken a needlessly aggressive stance and put the hackers of the rest of the EU up Not guaranteeing the rights of EU nationals from the outset was stupid an attempt to use peoples rights as a bargaining chip May and Trump have to realise that international agreements are not games or chess where one side loses and the gains these international agreements are formed of compromise Dont lap up Theresa Mays rhetoric her strong and  stable mantra is an attempt to undermine the opposition nothing more 
+ - Why do you presume May will be better at negotiating than Corbyn Shes already taken a needlessly aggressive stance and put the hackers of the rest of the EU up Not guaranteeing the rights of EU nationals from the outset was stupid an attempt to use peoples rights as a bargaining chip May and Trump have to realise that international agreements are not games or chess where one side loses and the gains these international agreements are formed of compromise Dont lap up Theresa Mays rhetoric her strong and  stable mantra is an attempt to undermine the opposition nothing more
 imported: true
 ---
 
@@ -45,7 +45,7 @@ We would give up our political influence in Europe for nothing. We’d be tied d
 
 This sort of political speech might displease a large part of the readership of this newspaper. After all, Corbyn is offering a manifesto that promises a lot to students including scrapping tuition fees. But Britain cannot afford his social economic programme.
 
-This election offers a real choice and two radically different visions of Britain. The Corbyn choice is to renege the economic achievements of the post\-Thatcher era, and build a country based on the most socialist manifesto ever proposed while simultaneously negotiating Brexit – something he will never be able to do. Brexit will be a big enough transition and will require a united team with front bench political experience. I simply fail to see this successfully happening with a Labour party with tumultuous divisions on both Brexit and the Corbyn leadership.
+This election offers a real choice and two radically different visions of Britain. The Corbyn choice is to renege the economic achievements of the post-Thatcher era, and build a country based on the most socialist manifesto ever proposed while simultaneously negotiating Brexit – something he will never be able to do. Brexit will be a big enough transition and will require a united team with front bench political experience. I simply fail to see this successfully happening with a Labour party with tumultuous divisions on both Brexit and the Corbyn leadership.
 
 Theresa May can deliver the best outcome of what is a difficult situation. She needs the strong mandate, a 400+ MP landslide that would offer her flexibility to displease Eurosceptic MPs. This will be key when parliament votes on the negotiation outcome. Delaying the next general election from 2020 originally to 2022 guarantees that the settlement Theresa May gets will become law.
 

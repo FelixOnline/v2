@@ -1,8 +1,8 @@
 ---
 title: >
-  What We Watched... 
+  What We Watched...
 subtitle: >
-  Wrecking up the week’s TV 
+  Wrecking up the week’s TV
 date: "2011-05-05 23:00:00 +0100"
 id: "750"
 old_path: /tv/750/what-we-watched-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

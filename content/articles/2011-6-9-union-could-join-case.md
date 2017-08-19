@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106092153-felix-0101_005.jpg"
 image_caption: >
-  
+
 image_width: "2000"
 image_height: "3008"
 image_attribution: "Imperial College London/Jan Chlebik"

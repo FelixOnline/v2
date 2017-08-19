@@ -53,7 +53,7 @@ Felix contacted Imperial College Conservative Society in order to gauge its opin
 
 Yet Imperial students have stood together en masse in protest for a joint cause – not in Central London, but at last December’s Life Science Protests. Following the announcement of staff redundancies and departmental restructure in the Department of Life Sciences late last year, over 1000 students signed a petition against the proposed changes. Alongside this, students took to protesting outside a Senate meeting.
 
-Felix spoke to one of the organisers behind the protests, Dan Wan, then a third year biologist, to determine what set this protest apart from others in terms of attracting support from Imperial.  
+Felix spoke to one of the organisers behind the protests, Dan Wan, then a third year biologist, to determine what set this protest apart from others in terms of attracting support from Imperial.
  “I think when something as emotional as this hits this close to home, people start to take a stand.
 
 Personally, I just felt that I owed to it to the lecturers who had taught and were teaching me at the time. These lecturers had invested so much time in teaching, coaching and interacting with students, bringing us up from freshers to graduates. We all got to know them not just as teachers, but as people. The manner in which these people we respected and admired were being sacked was completely atrocious. I guess someone had to stand up and show the College how badly they were handing the entire situation.”

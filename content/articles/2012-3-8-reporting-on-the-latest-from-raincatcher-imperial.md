@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203082115-ams111-water.jpg"
 image_caption: >
-  
+
 image_width: "938"
 image_height: "663"
 image_attribution: ""

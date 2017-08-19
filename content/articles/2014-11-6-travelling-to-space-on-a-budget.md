@@ -1,8 +1,8 @@
 ---
 title: >
-  Travelling to space on a budget? 
+  Travelling to space on a budget?
 subtitle: >
-  James Bezer looks at the future of commercial space flight 
+  James Bezer looks at the future of commercial space flight
 date: "2014-11-06 19:45:56 +0000"
 id: "4783"
 old_path: /science/4783/travelling-to-space-on-a-budget-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411061945-snb11-white_knight_two_and_spaceshiptwo_from_directly_below-copy.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - SBB    Thank you for sharing the info Even tho it was one of the topten 2009 news in China I meissd it completely According to Wikipedia it appears some of the local officials andor supporters were trying to cover it up    I should go to the Chinese section of the local public library and see if I can borrow some of his books        I am not sure of that More often than not what we call facts are actually ppls opinions And opinions are hardly universal truths 
+ - SBB    Thank you for sharing the info Even tho it was one of the topten 2009 news in China I meissd it completely According to Wikipedia it appears some of the local officials andor supporters were trying to cover it up    I should go to the Chinese section of the local public library and see if I can borrow some of his books        I am not sure of that More often than not what we call facts are actually ppls opinions And opinions are hardly universal truths
 imported: true
 ---
 

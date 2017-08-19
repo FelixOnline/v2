@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082117-felix-balderdash-final.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1000"
 image_attribution: ""
@@ -41,7 +41,7 @@ What has struck me since playing Balderdash is how much nonsense I see and hear 
 
 The other type of rubbish that has been somewhat prominent as of recent is the “I have no idea what I’m talking about” type (I may regret saying that). Why do people open their mouths when all that prevails are nonsensical, ill-thought out, feeble and often contradictory attempts at coherent beliefs? You may or may not have seen or heard about a video on YouTube called ‘[My Tram Experience](http://www.youtube.com/watch?v=BJoCSlYOqqo&feature=related)’ (approximately 48 hours after uploading it had close to 3.5 million views). The passengers of aforementioned tram all bear witness to a white, 34 year old, probably drunk or drugged up woman with her child sitting on one knee. The mother is ejecting racist remarks like a torrent of vomit. Admittedly it’s not the worst video I’ve seen in terms of racism; in fact, it’s somewhat tame compared to EDL member ‘Cobz Smith’ attacking Asians on the tube for no apparent reason other than their place of origin. Nevertheless, it doesn’t exactly make for pleasant viewing.
 > I’m sorry, but that really is just a load of bollocks.
-This woman clearly had no idea what she was on about. After accosting another woman because of her skin colour she fumbled around for words like Ed Miliband in a union dispute, telling her to “go back to where you come from, so back to Sib... fucking Nig... N\*\*\*\*\*agua”. I assume she meant Nicaragua. Following this she spewed out the following: “You ain’t fucking British! Fuck off! You ain’t British, you’re black! You’re black! You ain’t British, you’re black!” So it turns out that being black and being British are mutually exclusive events. Apparently.
+This woman clearly had no idea what she was on about. After accosting another woman because of her skin colour she fumbled around for words like Ed Miliband in a union dispute, telling her to “go back to where you come from, so back to Sib... fucking Nig... N*****agua”. I assume she meant Nicaragua. Following this she spewed out the following: “You ain’t fucking British! Fuck off! You ain’t British, you’re black! You’re black! You ain’t British, you’re black!” So it turns out that being black and being British are mutually exclusive events. Apparently.
 
 This whole [Jeremy Clarkson issue](http://www.youtube.com/watch?v=WN72DAlhovY) is a load of rubbish as well. It saddens me how the journalism industry completely misconstrues a situation to make ‘news’. If you watch the whole interview you can tell that in typical Jeremy Clarkson fashion he wasn’t being the slightest bit serious and it’s safe to say that if Jeremy were to be presented with a gun, a private sector striker and their family, no one would get shot. Some people may not see the funny side of what Jeremy said (which isn’t surprising as it was taken out of context) and consider it to be bullshit – that’s fine – but then again does it really matter that you think he’s talking a load of rubbish? Karen Jennings, assistant general secretary of UNISON likened how Clarkson had spoken to “almost like Gaddafi would have spoken about demonstrators” going on to call it “an incitement to hatred”. I’m sorry, but that really is just a load of bollocks.
 

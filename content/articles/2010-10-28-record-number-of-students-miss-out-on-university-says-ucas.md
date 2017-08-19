@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,6 +42,6 @@ The increase in demand for places was partly due to the recession, with many wor
 
 This "flux" of application numbers also happened in 2005 because of the proposed introduction of top up fees in 2006, but the major difference between then and now is that there now exists a government-imposed cap on the number of UK and EU students a university can take, which was introduced by the previous government in 2008-2009. Universities which "break" the cap have to pay a hefty fine of £3700 for every student taken over the limit.
 
-These recent figures from UCAS will make universities even more cautious with their offers in the coming year, not eager to splash out money on fines when resources are already stretched, perhaps one of many reasons why entrance requirements have increased dramatically for next year. A noticeable example at Imperial is mathematics, which has seen a standard offer of AAA with A's in all maths modules grow to an offer of A\*A\*A, within the space of one year.
+These recent figures from UCAS will make universities even more cautious with their offers in the coming year, not eager to splash out money on fines when resources are already stretched, perhaps one of many reasons why entrance requirements have increased dramatically for next year. A noticeable example at Imperial is mathematics, which has seen a standard offer of AAA with A's in all maths modules grow to an offer of A*A*A, within the space of one year.
 
 The statistics reflect a growing level of competition for university places, and with the coalition government's plans to increase the tuition cap or to remove it entirely, and potentially around 190,000 applicants from this year reapplying, next year's cohort could be in for a particularly rough ride.

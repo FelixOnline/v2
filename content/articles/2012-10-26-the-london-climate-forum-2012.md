@@ -1,6 +1,6 @@
 ---
 title: >
-  The London Climate Forum 2012 
+  The London Climate Forum 2012
 subtitle: >
   Caroline Wood says: the hottest student debate is coming to London
 date: "2012-10-26 02:07:54 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260307-tna08-londonclimateforumposter_final5rgb.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

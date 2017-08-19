@@ -2,7 +2,7 @@
 title: >
   The Orwellian Spanish Security Bill
 subtitle: >
-  I learned this week that the Spanish government have recently been taking lessons from George Orwell. 
+  I learned this week that the Spanish government have recently been taking lessons from George Orwell.
 date: "2013-12-02 21:36:02 +0000"
 id: "4151"
 old_path: /comment/4151/the-orwellian-spanish-security-bill
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

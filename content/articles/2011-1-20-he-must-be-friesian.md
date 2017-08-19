@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202047-nm1010-skiiiiii.jpg"
 image_caption: >
-  
+
 image_width: "2382"
 image_height: "3573"
 image_attribution: ""

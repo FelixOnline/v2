@@ -1,6 +1,6 @@
 ---
 title: >
-  The leadership races to watch over the Summer 
+  The leadership races to watch over the Summer
 subtitle: >
   Joshua Renken discusses the potential leaders of the major parties
 date: "2015-06-18 19:44:31 +0100"

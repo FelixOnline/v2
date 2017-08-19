@@ -2,7 +2,7 @@
 title: >
   Something brilliant from the terrible Midlands
 subtitle: >
-  George Jeffrey on the fruits of UK hardcore 
+  George Jeffrey on the fruits of UK hardcore
 date: "2011-11-03 20:56:56 +0000"
 id: "1677"
 old_path: /music/1677/something-brilliant-from-the-terrible-midlands

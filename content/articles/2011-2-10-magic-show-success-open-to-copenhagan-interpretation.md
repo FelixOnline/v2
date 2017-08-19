@@ -1,6 +1,6 @@
 ---
 title: >
-  Magic show success open to Copenhagan interpretation 
+  Magic show success open to Copenhagan interpretation
 subtitle: >
   A review of 'Real Tricks: The Quantum Mechanics Show'
 date: "2011-02-10 20:23:47 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102022-ks607-rabbitin.jpg"
 image_caption: >
-  
+
 image_width: "1124"
 image_height: "1200"
 image_attribution: ""

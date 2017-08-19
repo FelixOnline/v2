@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250107-tna08-halls-drawing.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Lizzy Griffiths"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Nice article but as someone who lives in Paragon just wanted to get the facts straight South Ealing is in fact in Zone 3 not Zone 2 which makes a fair bit of difference in terms of travel costs 
+ - Nice article but as someone who lives in Paragon just wanted to get the facts straight South Ealing is in fact in Zone 3 not Zone 2 which makes a fair bit of difference in terms of travel costs
 imported: true
 ---
 

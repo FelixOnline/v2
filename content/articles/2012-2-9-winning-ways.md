@@ -1,6 +1,6 @@
 ---
 title: >
-  Winning ways 
+  Winning ways
 subtitle: >
   Hockey Women’s 1s post another win to remain undefeated and go top of BUCS league
 date: "2012-02-09 23:02:01 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202092310-pk1811-ichc.jpg"
 image_caption: >
-  
+
 image_width: "3264"
 image_height: "2448"
 image_attribution: ""
@@ -42,5 +42,5 @@ The second half started with us fired up, ready to expand our lead; we had to ke
 
 The final whistle couldn’t come soon enough after that, and we piled back into the warm of the mini-bus back to Imperial for a well-deserved drink.
 
-Women’s 1s 5  
+Women’s 1s 5
  Royal Holloway 1s 0

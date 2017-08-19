@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022108-felix-cmykglee.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1200"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -62,76 +62,76 @@ I had successfully managed to cross my target of £1,000. I was glad to have tak
 
 The author would like to thank the following for their support:
 
-Anjana Dua  
- Uthishtan Ranjan  
- Syed Mohammad Maimoon  
- Vinod Motiani  
- Mohammad Danish  
- Lalithaa Rhaasa  
- Gayathri Rajasooriar  
- Khushboo Khatri  
- Sanjiv Sharma  
- Hui Koay  
- Joel Mon  
- Raavaniya Pararajasingam  
- Sam Lishak  
- Adeel Malik  
- Arif Rahman  
- Jennifer Caren Lenz  
- Anish Chavda  
- Irham Usman  
- Abdul Patel  
- Aaron Pereira  
- Var Hansen  
- Thirukumaran Maheswaran  
- Zara Hason  
- Sam Cooper  
- Midhat Talibi  
- Heinrich Lohner  
- Ahmad Zuberi  
- Masuda Shaikh  
- Patricia Shaikh  
- Suliaman Malik  
- Ibad Rizvi  
- Omar Ahmed  
- Tsegab Getachew  
- Jasdeep Sahota  
- Rodrigo Pracana  
- Aamir Shamsi  
- Mubeen Ahmed  
- Fatima Ahmad  
- Amardeep Legha  
- Dipam Patel  
- Isha Puri  
- Omer Aziz  
- Iqra Bilal  
- Mohammad Hassan Khan  
- Anas Imtiaz  
- Abhijit Chandgadkar  
- Aislinn Hayes  
- Sayinthen Vivekanantham  
- Kishwer Aziz  
- Ibrahim Shaikh  
- Raj Gandhi  
- Sing Kwan Ng  
- Harshil Palan  
- Escapeda Saamy  
- Nader Kaheil  
- Jodie Mitchell-Aziz  
- Ali Hammad  
- Sohail Azhar  
- Marko Krznaric  
- Aslam Aziz  
- Khalid Shaikh  
- Hassan Al Halwachi  
- Adya Jha  
- Karan Murugavel  
- Indy Kanthasamy  
- Suhail Khalid  
- Hussain Cheema  
- Hashem Cheema  
- Saad Mughal  
- Subbiah Thannirmalai  
- Maria Qurashi  
- Umair Aasem  
+Anjana Dua
+ Uthishtan Ranjan
+ Syed Mohammad Maimoon
+ Vinod Motiani
+ Mohammad Danish
+ Lalithaa Rhaasa
+ Gayathri Rajasooriar
+ Khushboo Khatri
+ Sanjiv Sharma
+ Hui Koay
+ Joel Mon
+ Raavaniya Pararajasingam
+ Sam Lishak
+ Adeel Malik
+ Arif Rahman
+ Jennifer Caren Lenz
+ Anish Chavda
+ Irham Usman
+ Abdul Patel
+ Aaron Pereira
+ Var Hansen
+ Thirukumaran Maheswaran
+ Zara Hason
+ Sam Cooper
+ Midhat Talibi
+ Heinrich Lohner
+ Ahmad Zuberi
+ Masuda Shaikh
+ Patricia Shaikh
+ Suliaman Malik
+ Ibad Rizvi
+ Omar Ahmed
+ Tsegab Getachew
+ Jasdeep Sahota
+ Rodrigo Pracana
+ Aamir Shamsi
+ Mubeen Ahmed
+ Fatima Ahmad
+ Amardeep Legha
+ Dipam Patel
+ Isha Puri
+ Omer Aziz
+ Iqra Bilal
+ Mohammad Hassan Khan
+ Anas Imtiaz
+ Abhijit Chandgadkar
+ Aislinn Hayes
+ Sayinthen Vivekanantham
+ Kishwer Aziz
+ Ibrahim Shaikh
+ Raj Gandhi
+ Sing Kwan Ng
+ Harshil Palan
+ Escapeda Saamy
+ Nader Kaheil
+ Jodie Mitchell-Aziz
+ Ali Hammad
+ Sohail Azhar
+ Marko Krznaric
+ Aslam Aziz
+ Khalid Shaikh
+ Hassan Al Halwachi
+ Adya Jha
+ Karan Murugavel
+ Indy Kanthasamy
+ Suhail Khalid
+ Hussain Cheema
+ Hashem Cheema
+ Saad Mughal
+ Subbiah Thannirmalai
+ Maria Qurashi
+ Umair Aasem
  Usman Siddiqui

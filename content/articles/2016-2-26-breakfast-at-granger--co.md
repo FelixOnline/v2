@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602261203-felix-banana.JPG"
 image_caption: >
-  Thick, white and deliciously sticky - just what the doctor ordered. 
+  Thick, white and deliciously sticky - just what the doctor ordered.
 image_width: "1600"
 image_height: "1200"
 image_attribution: "luxlife-blog.com"
@@ -39,7 +39,7 @@ Your committed relationship to Wasabi for breakfast, lunch, dinner AND midnight 
 
 That’s it. We are leaving South Kensington.
 
-Situated on Westbourne Grove, Notting Hill, Granger &amp; Co. will be your perfect spot to get your Aussie breakfast fix. Walk inside to find a well\-lit, airy, spacious room with clean, marble tables and a casual, minimalist vibe.
+Situated on Westbourne Grove, Notting Hill, Granger &amp; Co. will be your perfect spot to get your Aussie breakfast fix. Walk inside to find a well-lit, airy, spacious room with clean, marble tables and a casual, minimalist vibe.
 
 But we have no time to devour the interior. Let’s get down to food.
 

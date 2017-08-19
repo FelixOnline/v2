@@ -1,6 +1,6 @@
 ---
 title: >
-  Kennedy Institute to close 
+  Kennedy Institute to close
 subtitle: >
   Leading rheumatology research centre moves to Oxford University
 date: "2011-01-20 21:30:00 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202114-ks607-kennedyi.jpg"
 image_caption: >
-  
+
 image_width: "214"
 image_height: "144"
 image_attribution: ""

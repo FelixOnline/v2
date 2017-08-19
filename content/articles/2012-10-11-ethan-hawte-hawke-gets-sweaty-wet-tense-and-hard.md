@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I just wanted to know if you could daoolwnd the Geocities torrent via Windows Ive heard of some files being replaced If this is true can anyone who has the torrent post a follow up comment to me before I start daoolwnding ithow can you compare this to jaws  they arent even the same types of mveois  i hate when  critics  make asinine statements like that  for one jaws isnt a monster movie its about a large fish not a mutated fish not a fish that was bread with an alien not a fish that was created by science a fish  secondly its unfair to the host because comparing it to a movie that has no relation to it or any movie for that matter takes away from its originality  insurance auto   even allow   men begin   viagra online 
+ - I just wanted to know if you could daoolwnd the Geocities torrent via Windows Ive heard of some files being replaced If this is true can anyone who has the torrent post a follow up comment to me before I start daoolwnding ithow can you compare this to jaws  they arent even the same types of mveois  i hate when  critics  make asinine statements like that  for one jaws isnt a monster movie its about a large fish not a mutated fish not a fish that was bread with an alien not a fish that was created by science a fish  secondly its unfair to the host because comparing it to a movie that has no relation to it or any movie for that matter takes away from its originality  insurance auto   even allow   men begin   viagra online
 imported: true
 ---
 
@@ -39,7 +39,7 @@ It’s a shame characters in horror films leave things until too late to put the
 
 Following the pattern most struggling writers do in films, he looks to Scotch for his inspiration. Knocking back a bottle every evening without the much feared consequences of a hangover, he sets up his own investigation “wall” where photographs, maps, print-outs and articles are put up and tied together with bits of string. It makes very little sense to us, but Ellison seems to be pretty content and know what he’s doing. But it’s not until a miraculous discovery of home videos that really kicks off his novel-writing process.
 
-So what exactly have been recorded in these family home videos? Initially they appear harmless, of various happy looking families. But in a series of bizarre twists, the videos go on to record some horrific murders. Well crafted and meticulously planned and executed, the families helplessly fall victim to some grizzly, nasty massacres. But what do these seemingly different victims have in common?  
+So what exactly have been recorded in these family home videos? Initially they appear harmless, of various happy looking families. But in a series of bizarre twists, the videos go on to record some horrific murders. Well crafted and meticulously planned and executed, the families helplessly fall victim to some grizzly, nasty massacres. But what do these seemingly different victims have in common?
  As he embarks on his investigative journalism, often aided by a wannabe helpful but slightly dim police officer (the excellent James Ransone who provides priceless offbeat comedy), he discovers links that aren’t too fascinating or complex, and it frustrates us to see how long he spends to connect the dots. For a man who has supposedly written popular crime novels in the past, he’s not too sharp when it comes to actually doing his job.
 
 In the meantime he hears odd noises, loud thuds, opened doors which were surely locked, electronic equipment that was surely switched off, and this carries on for several nights, as Ellison is incapable of taking a hint.

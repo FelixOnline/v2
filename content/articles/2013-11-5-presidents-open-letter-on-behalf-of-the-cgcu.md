@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201311181840-cac111-lejon-chua---president.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ When they first announced the new CGCU President earlier in March this year, I c
 
 Some say that the fire within the CGCU had died out over the past decade, but I assure them that there will always be a few of us whom its members can count on to keep the flame going. It is with no greater joy that my 2013/2014 committee and I have been granted this opportunity to enrich the university experience of our fellow engineering students this year, to dedicate ourselves to the revival of the CGCU brand name and spirit amongst all of you.
 
-Dick Costolo, the CEO of Twitter, said:  
+Dick Costolo, the CEO of Twitter, said:
  “Believe that if you make courageous choices and bet on yourself and put yourself out there, that you will have an impact as a result of what you do. And you don’t need to know now what that would be or how will it happen because no one ever does.”
 
 We’ve made bold choices to revise our publicity themes and methods, overhaul our office, revamp our website and restore our highly-coveted events and traditions, not knowing what the outcome will be. All these came with tireless hours over the summer holidays and sacrifices alongside our already hectic academic schedule (it’s Imperial after all).
@@ -53,5 +53,5 @@ Yet this is just but the beginning of a new chapter. Take heart, for the best is
 
 There are many more wonderful events on its way, including the Dinner with Industry, Alumni Careers Evening and the Club Night to celebrate the end of a momentous term! The ball is now in your court to get involved in all of them and more than that, spread the C&G identity to your fellow peers. We’re counting on you to take our union to greater heights!
 
-Sincerely Yours,  
+Sincerely Yours,
  Lejon

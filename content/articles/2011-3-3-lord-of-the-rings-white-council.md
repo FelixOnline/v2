@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032117-ks607-Lordofth.jpg"
 image_caption: >
-  
+
 image_width: "512"
 image_height: "428"
 image_attribution: ""

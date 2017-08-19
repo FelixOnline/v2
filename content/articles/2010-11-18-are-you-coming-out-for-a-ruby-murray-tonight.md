@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182100-nm1010-shebashe.jpg"
 image_caption: >
-  
+
 image_width: "482"
 image_height: "322"
 image_attribution: ""

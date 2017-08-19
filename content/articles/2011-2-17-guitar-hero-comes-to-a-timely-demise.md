@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172010-nm1010-gravestn.jpg"
 image_caption: >
-  
+
 image_width: "765"
 image_height: "767"
 image_attribution: ""

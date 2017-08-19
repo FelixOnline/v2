@@ -1,6 +1,6 @@
 ---
 title: >
-  Remembering the Holocaust 
+  Remembering the Holocaust
 subtitle: >
   Experience of Holocaust survivor
 date: "2011-01-20 20:03:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

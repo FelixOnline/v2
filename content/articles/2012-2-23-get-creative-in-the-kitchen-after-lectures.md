@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202232040-pk1811-100_2007.jpg"
 image_caption: >
-  Apologies to Clare and Hannah... 
+  Apologies to Clare and Hannah...
 image_width: "3264"
 image_height: "2448"
 image_attribution: ""

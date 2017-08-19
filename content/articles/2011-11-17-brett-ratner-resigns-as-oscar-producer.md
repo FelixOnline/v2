@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111172207-felix-brettratner__111109014817.jpg"
 image_caption: >
-  
+
 image_width: "278"
 image_height: "400"
 image_attribution: "deadline.com"
@@ -42,7 +42,7 @@ In a letter of resignation, 42-year-old Ratner said that he had “gotten a well
 
 Ratner’s first blunder was made during a promotional interview for his Tower Heist two weeks ago. A member of the studio audience asked whether he had found it hard handling rehearsals for a group of such actors as Eddie Murphy, Ben Stiller, Casey Affleck and Gabourey Sidibe, to which Ratner’s response was: “Rehearsal? What’s that? Rehearsal's for fags.” This comment caused outrage, despite the Academy of Motion Pictures, Arts and Sciences (who run the Oscars) making an official apology condemning Ratner.
 
-The filmmaker then made the decision to give a telephone interview on the Stern radio show, which was supposed to be to apologise for previously implying a sexual relationship between himself and Iron Man 2 actress Olivia Munn. Instead of the expected apology, however, Ratner chose instead to regale the listeners with tales of his past sexual conquests, his oral sex skills, the size of his balls, his masturbation techniques, his disdain for condoms…and much more. Needless to say, this did not go down too well on national radio, despite the fact that Ratner was being encouraged to spill the beans by the show’s host.  
+The filmmaker then made the decision to give a telephone interview on the Stern radio show, which was supposed to be to apologise for previously implying a sexual relationship between himself and Iron Man 2 actress Olivia Munn. Instead of the expected apology, however, Ratner chose instead to regale the listeners with tales of his past sexual conquests, his oral sex skills, the size of his balls, his masturbation techniques, his disdain for condoms…and much more. Needless to say, this did not go down too well on national radio, despite the fact that Ratner was being encouraged to spill the beans by the show’s host.
  Following the resignation last week, the president of the Academy, Tom Sherak, was quoted as saying that Ratner had “done the right thing for the Academy, and for himself.” He added: “Brett is a good person, but his comments were unacceptable.”
 
 Ratner has now been replaced by Brian Grazer, the Oscar-winning producer of [A Beautiful Mind](http://www.youtube.com/watch?v=aS_d0Ayjw4o). “Brian Grazer is a renowned filmmaker who over the past 25 years has produced a diverse and extraordinary body of work,” said Sherak. “He will certainly bring his tremendous talent, creativity and relationships to the Oscars.”

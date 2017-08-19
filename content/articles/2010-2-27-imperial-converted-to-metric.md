@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002271738-rsp07-barvote.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "374"
 image_attribution: ""

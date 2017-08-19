@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201007231119-ks607-Icarus.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "1080"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201004301229-srg03-DellThun.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "402"
 image_attribution: ""

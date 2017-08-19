@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201312110041-jal08-triathlon-bucs-duath.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "ICU Triathlon"
@@ -42,6 +42,6 @@ Outstanding performances were seen from Charlie Houston with a finish time of 48
 
 After a quick race and with pain faces a thing of the past, Weatherspoons provided the necessary post-race burger and beer to round off the day and see everyone home replenished after the final race of 2013.
 
-Next term sees the start of the Triathlon session for 2014, and some big events, including BUCS sprint and Olympic triathlons, as well as an Easter tour to Paris and a Summer tour of England. Bring on 2014!  
+Next term sees the start of the Triathlon session for 2014, and some big events, including BUCS sprint and Olympic triathlons, as well as an Easter tour to Paris and a Summer tour of England. Bring on 2014!
  Thanks again to our sponsors, Jaguar Land Rover
-TODO: image from 
+TODO: image from

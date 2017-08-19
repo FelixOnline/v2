@@ -2,7 +2,7 @@
 title: >
   Academic uprising: 5% more professors
 subtitle: >
-  Increase in the number of female professors for the second year in a row 
+  Increase in the number of female professors for the second year in a row
 date: "2013-01-25 01:27:42 +0000"
 id: "3178"
 old_path: /news/3178/academic-uprising-5-more-professors
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250127-tna08-lecturer.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

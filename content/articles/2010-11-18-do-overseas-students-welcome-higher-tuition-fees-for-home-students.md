@@ -1,6 +1,6 @@
 ---
 title: >
-  Do overseas students welcome higher tuition fees for home students? 
+  Do overseas students welcome higher tuition fees for home students?
 subtitle: >
   Felix explores the effect that raising the tuition fee cap will have on international students
 date: "2010-11-18 21:41:11 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  IC Rowers take on World U23s in Trakai 
+  IC Rowers take on World U23s in Trakai
 subtitle: >
   Ben Smith on the road to Trakai...
 date: "2012-10-11 21:28:02 +0100"

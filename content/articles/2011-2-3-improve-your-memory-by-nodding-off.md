@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102032003-ks607-sleeping.jpg"
 image_caption: >
-  
+
 image_width: "882"
 image_height: "288"
 image_attribution: ""

@@ -1,6 +1,6 @@
 ---
 title: >
-  Why is the UK economy sinking, too? 
+  Why is the UK economy sinking, too?
 subtitle: >
   If the Good Ship Eurozone goes down, we are going down with her, explains Albert Nickelby
 date: "2011-12-08 20:47:14 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -46,7 +46,7 @@ At the same time, Osborne pointed out that even though the UK government would b
 It is most ironic that such a eurosceptic as George Osborne would implicitly acknowledge that the UK economy is so dependent on that of the Eurozone that the latter can actually lead the former to recession. Indeed, the UK is the Eurozone’s second commercial partner (just behind China), and as for financial transactions, it is also its second partner (right after the USA). One wonders, this being the case, how long it would take for the UK to go bankrupt if it were to abandon the European Union altogether... But, despite this easy pun, Labour came up with a perfectly valid excuse to attack the government: it could be, after all, that the severe austerity measures Osborne has taken so far were done too soon; that Osborne’s inexperience had lead him to lift too soon the economic stimuli Gordon Brown had implemented and dramatically decrease government expenditure, thus depressing the economy. This is the stance some renowned international commentators such as Paul Krugman or Joseph Stiglitz have taken: it is not the time for tackling deficits, but for making the economy grow; rather than budget cuts, governments should develop fully expansive monetary and fiscal policies aiming at economic recovery.
 
 It might be that both Labour and Osborne are right in their analysis, and that a combination of the austerity measures penalising consumption, and the Eurozone crisis penalising exports, is most likely a reason. But it might also be that this is not all the truth at all, nor a true cause. Chris Giles, from the Financial Times, pointed out several weeks ago that UK exports remain at the same level as they were in 2008 – before the Eurocrisis – and that, whereas in countries such as Spain exports had contributed by 6.3% towards economic growth, those of the UK had done so by only 2.5%. He concluded that the UK’s economic health was weak; the cause of it was, according to him, structural: over the last decades, as the UK industry sector underwent several crises, it appears that most of its activity did not recover. Think, for instance, of the Manchester industrial belt and how, in general, northern UK economy, traditionally reliant on industry, has not fared quite as well as that of the more service-focused southern England. According to Mr Giles, the UK economy has been remarkably bad in creating substitutes for foreign imports, even after the British pound depreciated by 20% during the crisis.
-TODO: image from 
+TODO: image from
 Furthermore, the crisis seems systemic. As it happened in so many other countries, at some point during the gilded 90s and 2000s, economic figures stopped reflecting reality. After a trip to London during the early 2000s, a Canadian analyst from the Toronto Star pointed out he could not understand how UK citizens could afford to live in London: their salaries were, it is true, higher than those of Canada, but the cost of living was also in proportion, extremely high. Indeed, at some point after reaganomics kicked in, salaries and pensions stopped reflecting reality: they were just not enough to pay for basic goods, not to mention luxury ones. Fortunately, credit was cheap, so consumption was kept up with debt. As Alan Greenspan and company lowered interest rates further, they fuelled the late economic bubble, which finally burst. After it burst, all that remain were heaps of debt to be repaid.
 
 In this sense, the UK is amongst the highest debtors in the world, owing about 450% of its GDP, and with a government debt of around 85% GDP. But, despite having a deficit higher than that of Portugal, Italy, Greece or Spain, and being far more indebted, “the markets” are not attacking the UK. Why so? Osborne claims this is due to the credibility his austerity measures have given the UK. Most analysts, however, believe it is due to a complicated combination of facts. On one hand, most of the potential attackers dwell in the City of London, and some believe that “one does not pooh where he eats”. Besides, the maturity of British debt is of 13 years on average, meaning smaller refinancing needs, and the quantitative easing program seems to be buying so much UK debt anyway that markets are not seeing much of it. Furthermore, the economic growth being so low and the austerity measures so tough, it is believed that the Bank of England will not dare to raise the interest rates in the years to come. Hence, any eventual UK bankruptcy is deemed unlikely.

@@ -2,7 +2,7 @@
 title: >
   What does it means to be a human being?
 subtitle: >
-  Never Let Me Go reviewed 
+  Never Let Me Go reviewed
 date: "2011-02-11 06:22:51 +0000"
 id: "799"
 old_path: /film/799/what-does-it-means-to-be-a-human-being
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102110621-ks607-nevernev.jpg"
 image_caption: >
-  
+
 image_width: "660"
 image_height: "438"
 image_attribution: ""

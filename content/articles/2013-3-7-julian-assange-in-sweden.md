@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072356-tna08-wikileaks-founder-julian-assange-arrives-at-data.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ The accusers’ interviews are often quite damning and humiliating for Assange, 
 
 The most bizarre smears are directed at the first accuser (the second accuser is painted as an easily-manipulated stooge, due to her dyslexia), a high profile member of the party hosting Assange, and fall into four categories:
 
-1. Jealousy. After experiencing Assange’s lovemaking, his accuser becomes obsessed with him. When Assange moves on to another woman, she becomes furious and decides to exact revenge.  
+1. Jealousy. After experiencing Assange’s lovemaking, his accuser becomes obsessed with him. When Assange moves on to another woman, she becomes furious and decides to exact revenge.
  2. She’s a radical feminist who hates men on principle, and inventing rape accusations is standard practice for feminists. The allegations may all have been arranged via a conspiracy of lesbian feminists, as she helped to set up a gay club. Much is made of the fact that the officer who the crime was reported to was a friend of hers and visited the club.
 
 3. To save her career. She had been on the wrong sideof a schism in her party over Afghanistan, and a newspaper for progressive Muslims she was launching flopped. Faced with the falling of her star within the party, she decided to boost her profile by the logical step of destroying a much-admired figure within her circle.

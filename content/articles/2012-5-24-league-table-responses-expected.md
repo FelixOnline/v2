@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -45,5 +45,5 @@ Is the result representative of the teaching at Imperial, or rather the comparat
 
 It is not hard to understand why this latest news has been met with such a negative reception. Prospective students invariably make use of such tables and with a large number of students having to pay in the region of £30,000 (if not supported by financial aid) towards their degrees from next year, making the right choice of university is critically important. The lesser ‘value’ that the league table assigns to an Imperial degree has been an affront to some who applied here on the basis of a world class education.
 
-Gaining a first from Imperial is no easy feat, but the difficulty of attaining a high grade appears to have brought with it the risk of plain and simple statistics painting Imperial in a less than favorable light.  
+Gaining a first from Imperial is no easy feat, but the difficulty of attaining a high grade appears to have brought with it the risk of plain and simple statistics painting Imperial in a less than favorable light.
  This whole situation simply goes to show that there is a long way for league tables to come before full weight is placed behind them. The reasoning behind the ‘Value Added’ score may have raised many tensions, and it does deserve to be questioned.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702101555-felix-Aaron_Paul_by_Gage_Skidmore_2.jpg"
 image_caption: >
-  
+
 image_width: "2616"
 image_height: "3054"
 image_attribution: "Gage Skidmore"
@@ -39,6 +39,6 @@ Today, when we live in much more tolerant and inclusive times than those in the 
 
 While it is of course common for a character in a show to not display any signs of sexuality, just think of most children’s shows, what is incredibly rare is a character openly identifying as asexual or aromantic. One could argue that a character like Sheldon Cooper from The Big Bang Theory could be read as identifying as asexual, however, this portrayal is far from helpful or sensitive to the community. It’s more written as a result of his lack of social skills or empathy rather than an intrinsic part of his identity.
 
-The only character in mainstream media that I’m aware of to identify as asexual is Todd Chavez from Bojack Horseman, a Netflix original. In the finale of Season 3, after a whole season’s worth of Todd and his high\-school girlfriend, Emily skimming around the ‘Will they, won’t they?’ trope, their relationship culminates in a conversation in a diner, in which Emily asks about his sexuality and he replies “I’m not gay, I mean, I don’t think I am, but I don’t think I’m straight, either. I don’t know what I am, I think I might be nothing.”, not only would this be a big step forward for the asexual community but Emily’s response is great too. She simply says “That’s okay.” She doesn’t assume it’s something she can fix, it’s not something that requires follow\-up questions. It’s just who he is, and a program showing how to respond when someone tells you who they are is nearly as important as making these visible in the first place.
+The only character in mainstream media that I’m aware of to identify as asexual is Todd Chavez from Bojack Horseman, a Netflix original. In the finale of Season 3, after a whole season’s worth of Todd and his high-school girlfriend, Emily skimming around the ‘Will they, won’t they?’ trope, their relationship culminates in a conversation in a diner, in which Emily asks about his sexuality and he replies “I’m not gay, I mean, I don’t think I am, but I don’t think I’m straight, either. I don’t know what I am, I think I might be nothing.”, not only would this be a big step forward for the asexual community but Emily’s response is great too. She simply says “That’s okay.” She doesn’t assume it’s something she can fix, it’s not something that requires follow-up questions. It’s just who he is, and a program showing how to respond when someone tells you who they are is nearly as important as making these visible in the first place.
 
-How Todd’s identity goes on to shape his character, and his interactions with others remains yet to be seen, but I trust that Raphael Bob\-Waksberg and the other writers of Bojack Horseman will treat it with dignity.
+How Todd’s identity goes on to shape his character, and his interactions with others remains yet to be seen, but I trust that Raphael Bob-Waksberg and the other writers of Bojack Horseman will treat it with dignity.

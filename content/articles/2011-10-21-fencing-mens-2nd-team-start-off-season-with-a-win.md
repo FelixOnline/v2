@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The fencing season opened this year at Ethos, with the men’s second team fencing against Surrey University’s first team. After a delayed start, the foilists got things going. Matthew Carney drew first blood with a neat parry-riposte, and continued on to win the bout against the opposition’s left-handed foilist.  
+The fencing season opened this year at Ethos, with the men’s second team fencing against Surrey University’s first team. After a delayed start, the foilists got things going. Matthew Carney drew first blood with a neat parry-riposte, and continued on to win the bout against the opposition’s left-handed foilist.
  Jamie Fairclough, team captain for Imperial, followed suit, reminding the opposition that epeeists can indeed counterattack. Joey, a new acquisition from Sussex, rounded out the team using accuracy and an impressively long lunge to score points.
 
 The Imperial fencers didn’t relinquish their lead for the remainder of the foil, finishing with an impressive lead of 45-15.

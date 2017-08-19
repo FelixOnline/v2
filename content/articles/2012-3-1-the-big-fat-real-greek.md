@@ -46,5 +46,5 @@ As soon as the king of all dishes, the Greek Souvlaki, arrived, we were super-ex
 
 You might be wondering why we haven’t mentioned the Greek Salad yet. Well, we both think that this is a dish everyone should have on their table. You can never fully enjoy a Greek meal without having that unmistakable combination of tomato, cucumber, feta cheese, olives, olive oil and oregano in your plate. After all, it’s healthy!
 
-For more information, visit:  
+For more information, visit:
 [www.therealgreek.com](http://www.therealgreek.com)

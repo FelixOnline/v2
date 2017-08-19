@@ -2,7 +2,7 @@
 title: >
   New flying robots lab to open on campus
 subtitle: >
-  Construction on the £1.25m lab will start in 2016. 
+  Construction on the £1.25m lab will start in 2016.
 date: "2014-11-06 14:27:21 +0000"
 id: "4757"
 old_path: /news/4757/new-flying-robots-lab-to-open-on-campus
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411061426-ps3110-flyingcar.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

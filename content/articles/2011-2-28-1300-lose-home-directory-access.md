@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102282118-ks607-disconne.jpg"
 image_caption: >
-  
+
 image_width: "563"
 image_height: "387"
 image_attribution: ""

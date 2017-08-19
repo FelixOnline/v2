@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -76,7 +76,7 @@ Meanwhile, at the __English National Opera__, we have the last recitals of Frenc
 
 The National’s new season has kicked off, under the guiding hand of new director Rufus Norris. With the Entry Pass scheme for 16-25 year olds providing £5 tickets to every show, and the new Friday Rush system providing £20 seats to sold-out shows each week, there’s no excuse not to catch the work of Britain’s leading producing theatre.
 
-#### The Motherf\*\*cker with the Hat
+#### The Motherf**cker with the Hat
 
 Already playing, this Tony nominated play by Stephen Adly Guirgis looks at the nature of love and addiction in New York City. It’s the story of Jackie, a former convict who finds himself finally moving forward in the world, staying clean and maybe even finding a job.
 

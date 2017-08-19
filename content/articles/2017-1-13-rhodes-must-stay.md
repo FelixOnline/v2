@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701131409-felix-Screen Shot 2017-01-13 at 14.03.53.png"
 image_caption: >
-  
+
 image_width: "2067"
 image_height: "1221"
 image_attribution: ""
@@ -38,7 +38,7 @@ In recent months, the ‘Rhodes Must Fall’ campaign has gained significant tra
 
 The campaign has had already had an impact at universities, with Queen Mary’s University, London having recently removed a foundation stone laid down by King Leopold II, a Belgian king associated with colonialism and the forced labour and death of many people in what is now the modern day Democratic Republic of the Congo. Many of those who have joined the campaign have not only riled against the statue of Cecil Rhodes as an individual who supported apartheid but against colonialism, imperialism and their historical influences on British education.
 
-The views of Cecil Rhodes are of course abhorrent and would find no home in a modern civilized country but the issue of whether it is right to remove his statue is a very different prospect altogether. The removal of his statue would be an attempt to re\-write history and ameliorate those parts that make us uncomfortable.
+The views of Cecil Rhodes are of course abhorrent and would find no home in a modern civilized country but the issue of whether it is right to remove his statue is a very different prospect altogether. The removal of his statue would be an attempt to re-write history and ameliorate those parts that make us uncomfortable.
 
 But this is not what we should learn from history and the mistakes we have made; we should be able to look on the past honestly and learn its lessons whether these reflect negatively on us or not.
 

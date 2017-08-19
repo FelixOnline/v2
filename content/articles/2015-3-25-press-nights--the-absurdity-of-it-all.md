@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503251244-ff712-untitled.jpg"
 image_caption: >
-  Statler and Waldorf from The Muppet Show. 
+  Statler and Waldorf from The Muppet Show.
 image_width: "0"
 image_height: "0"
 image_attribution: "Creative Commons"
@@ -56,6 +56,6 @@ Alongside them, you had the classic Statler and Waldorf type art critics, hardly
 > You can understand why I felt utterly out of place.
 We may be quite a humble production, little old Felix tucked away in the basement of Beit Quad, however I am going to argue that we do actually hold quite an important role in the world of art reviews. For not only do we have access to a very important cohort, the capital’s future art consumers, but we also provide a rare perspectival counterpoint to the homogenous and formulaic pieces much of the country’s press is coming out with. Yes, I may not be able to contextualise this piece of meta-theatre in the history of Eastern European interpretive dance, but the utility of a fresh set of eyes on a production cannot be underplayed. We have not been tainted and influenced to as great an extent by a status quo, and can provide a much more instinctual review based on our viewer experience.
 
-That is why it is disappointing that we are either shunned away to the worst seats in the house, barely able to even see the stage, or sometimes even flat-out refused press tickets as a matter of course by certain institutions (\*cough\* __Royal Opera House__ \*cough\*). Not only does it harbour poor relations with students, but it also decreases the art house’s exposure amongst their most important demographic, the future. So whilst only the snooty reporters who are becoming part of the furniture, at one with the brocade, are being invited to press shows, we will still only get one aspect of the artistic picture; a picture that is purely aimed at rich elderly white men, who funnily enough make up the large proportion of the critics. And until things change, I shall still be the minority, shoved off into the corner, just me and my complimentary white wine.
+That is why it is disappointing that we are either shunned away to the worst seats in the house, barely able to even see the stage, or sometimes even flat-out refused press tickets as a matter of course by certain institutions (*cough* __Royal Opera House__ *cough*). Not only does it harbour poor relations with students, but it also decreases the art house’s exposure amongst their most important demographic, the future. So whilst only the snooty reporters who are becoming part of the furniture, at one with the brocade, are being invited to press shows, we will still only get one aspect of the artistic picture; a picture that is purely aimed at rich elderly white men, who funnily enough make up the large proportion of the critics. And until things change, I shall still be the minority, shoved off into the corner, just me and my complimentary white wine.
 
 _We are always looking for new reviewers. If you have a love for free press tickets and cheap chianti, drop us a line on arts.felix@imperial.ac.uk._

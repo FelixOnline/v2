@@ -2,7 +2,7 @@
 title: >
   Is David Hockney all he's cracked up to be?
 subtitle: >
-  He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny? 
+  He's beloved by the public, he's very prolific, but do his paintings stand up to scrutiny?
 date: "2016-06-10 08:34:21 +0100"
 id: "6264"
 old_path: /arts/6264/is-david-hockney-all-hes-cracked-up-to-be
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606101033-felix-2398.jpg"
 image_caption: >
-  Barry Humphrie by David Hockney. 
+  Barry Humphrie by David Hockney.
 image_width: "1920"
 image_height: "2561"
 image_attribution: "Richard Schmidt/Royal Academy "
@@ -40,9 +40,9 @@ His popularity has come as somewhat of a double edged sword. His mass appeal has
 
 At his best, Hockney’s work fizzes with energy, and seems to have something important to say. In one of earliest paintings, _We Two Boys Clinging Together,_ named for the Walt Whitman poem, reveal his homosexuality, showing two figures intertwined, other paintings code his attraction towards Cliff Richards. Hockney moved to Los Angeles in 1966 and adopted a style of painting that would define the rest of his career.
 
-In the 1967 painting, _A Bigger Splash_, Hockney conjures up a vision of Los Angeles that is haunting. Bright, flat colours fill neat. clinically geometric shapes.  Oppressive Californian heat, rises from the red brick paving around the pool and permeates the painting. The hard lines are disturbed only by a scribble of white in the centre of the canvas. The viewer is left to imagine the identity of the unseen diver who has left the splash in their wake. _American Collectors_ is another painting that is perfectly evocative of that particular Los Angeles glamour. Two figures, Fred and Marcia Weisman, she in a pink robe, he in a funereal black suit stand stiffly amongst their modern art acquisitions.  Their poses are stiff, as if they were cardboard cut\-outs. An undercurrent of sinisterness runs through the composition  the brightness is disquieting,  An atmosphere of money, boredom, and disillusionment is palpable.
+In the 1967 painting, _A Bigger Splash_, Hockney conjures up a vision of Los Angeles that is haunting. Bright, flat colours fill neat. clinically geometric shapes.  Oppressive Californian heat, rises from the red brick paving around the pool and permeates the painting. The hard lines are disturbed only by a scribble of white in the centre of the canvas. The viewer is left to imagine the identity of the unseen diver who has left the splash in their wake. _American Collectors_ is another painting that is perfectly evocative of that particular Los Angeles glamour. Two figures, Fred and Marcia Weisman, she in a pink robe, he in a funereal black suit stand stiffly amongst their modern art acquisitions.  Their poses are stiff, as if they were cardboard cut-outs. An undercurrent of sinisterness runs through the composition  the brightness is disquieting,  An atmosphere of money, boredom, and disillusionment is palpable.
 
-If Hockney’s semi\-naïve style suits the Los Angeles paintings perfectly, it is not so effective in his other works. In the series A Bigger View, exhibited in 2012 at the **Royal Academy,** he trades the West Coast sunshine for the more temperate climes of his native Yorkshire. Bright ceruleans are exchanged for bright viridians and huge canvases tacked together depict vistas of rolling hills outlined in navy blue,  intersected by unspooling lilac ribbons of country paths. The bright, bold, and flat colours, so effective in portraying Los Angeles become  saccharine sweet in their depiction of Yorkshire.
+If Hockney’s semi-naïve style suits the Los Angeles paintings perfectly, it is not so effective in his other works. In the series A Bigger View, exhibited in 2012 at the **Royal Academy,** he trades the West Coast sunshine for the more temperate climes of his native Yorkshire. Bright ceruleans are exchanged for bright viridians and huge canvases tacked together depict vistas of rolling hills outlined in navy blue,  intersected by unspooling lilac ribbons of country paths. The bright, bold, and flat colours, so effective in portraying Los Angeles become  saccharine sweet in their depiction of Yorkshire.
 
 These landscapes are pure escapism, showing a nostalgic, idyllic view of the English countryside, unravaged by any signs of modernity. The choice of colours and the brushstrokes make it clear that Hockney's style is not a response to the landscape but an inflexible filter like tool he applies to whatever he sees before him. The compositions are pretty, but comfortable, entirely safe. They would not look out of place on a chocolate box or an illustrated edition of _The Hobbit_ as pictures of Tolkein’s The Shire.
 
@@ -50,15 +50,15 @@ The most interesting of the bunch is _May Blossom on the Roman Road_, in which h
 
 In _A Bigger View_, Hockney seems unable to move on from the past, both from his own prior work and that of artists he admires. Anything more than a cursory glance of _Early Blossom, Woldgate_  reveals his inspirations, the bright colours, the brushwork seem lifted wholesale from **Van Gogh**, but hold none of the frenetic emotional depth of Van Gogh's own work.
 
-Van Gogh is a frequent source of inspiration in Hockney’s work, the pen and ink linework in _Mother, Bradford_ \(1978\) is heavily influenced by Van Gogh’s early work. Van Gogh is far from the only influence; the Paper Pool series is reminiscent of **Matisse’s** Cut\-Outs. The graphic splash in _A Large Diver_ \(Paper Pool 27\) harkens back to the burst of light that appear in Matisse’s _Icarus_ \(1946\).
+Van Gogh is a frequent source of inspiration in Hockney’s work, the pen and ink linework in _Mother, Bradford_ (1978) is heavily influenced by Van Gogh’s early work. Van Gogh is far from the only influence; the Paper Pool series is reminiscent of **Matisse’s** Cut-Outs. The graphic splash in _A Large Diver_ (Paper Pool 27) harkens back to the burst of light that appear in Matisse’s _Icarus_ (1946).
 
-Hockney has spoken at length about his love affair with **Pablo Picasso's** work. It has shaped a great deal of his output, in particular the 'joiners' series which encompassed his output in the 1980s. In these works, such as _Pearblossom Highway_  Hockney manipulates polaroids and photographs into cubist collages.  In doing so however, he is never able to step out of Picasso's shadow to say something new. The images feel gimmicky and pastiche\-like. A quick search of the Hockney tag on Instagram reveals a host of users sharing their holiday pictures, pictures of desks in the 'joiner' style. In many instances only the content of the photographs, the hipster mug or finished geography homework give away that Hockney could not have created them: never a sign of a robust artistic movement.
+Hockney has spoken at length about his love affair with **Pablo Picasso's** work. It has shaped a great deal of his output, in particular the 'joiners' series which encompassed his output in the 1980s. In these works, such as _Pearblossom Highway_  Hockney manipulates polaroids and photographs into cubist collages.  In doing so however, he is never able to step out of Picasso's shadow to say something new. The images feel gimmicky and pastiche-like. A quick search of the Hockney tag on Instagram reveals a host of users sharing their holiday pictures, pictures of desks in the 'joiner' style. In many instances only the content of the photographs, the hipster mug or finished geography homework give away that Hockney could not have created them: never a sign of a robust artistic movement.
 
 Hockney has had an extraordinarily prolific career, moving from medium to medium throughout his 50 year career. His latest project involved iPad drawings, most notbaly of the Yosemite National Park.
 
 If there was any proof needed that Hockney's work is overrated beyond parody in recent years, the response to these iPad drawings are it.
 
-We've all heard the old addage that a two\-year\-old could draw that; often it is employed unjustly, a two\-year\-old would not produce a**Jackson Pollock** painting, and fine, neither would they produce a Hockney  if let loose on the drawing app, but a twelve\-year\-old might.
+We've all heard the old addage that a two-year-old could draw that; often it is employed unjustly, a two-year-old would not produce a**Jackson Pollock** painting, and fine, neither would they produce a Hockney  if let loose on the drawing app, but a twelve-year-old might.
 
 It's not the use of the iPad that's objectionable, digital paintings are very often accomplished and gloriously beautiful, but Hockney's are anything but.  These are conventional landscapes executed poorly, and what's worse exhibited with a seriousness that defies belief. These paintings are testament to the decline of an once interesting artist.
 

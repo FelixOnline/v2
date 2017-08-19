@@ -1,6 +1,6 @@
 ---
 title: >
-  Ebola may increase cases of malaria 
+  Ebola may increase cases of malaria
 subtitle: >
   Philippa Skett reports on the latest finding from the MRC
 date: "2015-04-30 23:03:11 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505010003-ps3110-ebola-liberia-child.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -35,11 +35,11 @@ comments:
 imported: true
 ---
 
-Next week, local elections are happening up and down the country, most notably the London Mayoral elections, but slightly closer to home is the Kensington and Chelsea Councillor by\-election in which Imperial College physics student Ben Fernando is standing.
+Next week, local elections are happening up and down the country, most notably the London Mayoral elections, but slightly closer to home is the Kensington and Chelsea Councillor by-election in which Imperial College physics student Ben Fernando is standing.
 
-University Challenge star, Fernando, is running as a Labour Party candidate for the upcoming Abingdon ward by\-election after the previous two councillors stepped down earlier this year. Both of the previous councillors were Conservative with one being the new Kensington MP and former deputy London Mayor, Lady Borwick.
+University Challenge star, Fernando, is running as a Labour Party candidate for the upcoming Abingdon ward by-election after the previous two councillors stepped down earlier this year. Both of the previous councillors were Conservative with one being the new Kensington MP and former deputy London Mayor, Lady Borwick.
 
-The ward, which encompasses most of the area between Cromwell Road and Kensington High Street \(essentially west of the Cromwell Road Sainsbury’s\), has historically been a strong Conservative majority and Ben, last year’s RAG Chair and former Imperial Labour Society President, faces an uphill struggle if he wants to reverse this.
+The ward, which encompasses most of the area between Cromwell Road and Kensington High Street (essentially west of the Cromwell Road Sainsbury’s), has historically been a strong Conservative majority and Ben, last year’s RAG Chair and former Imperial Labour Society President, faces an uphill struggle if he wants to reverse this.
 > > **He hopes to tackle social issues in the borough should he be elected**
 Speaking to FELIX, Fernando explained that he hopes to tackle social issues in the borough should he be elected, namely social housing, pushing the introduction of the new Crossrail station on the King’s Road and the redevelopment of local schools. Fernando also felt he could be the fresh face needed to bring about this change, as well as being a voice for the young people of the area.
 

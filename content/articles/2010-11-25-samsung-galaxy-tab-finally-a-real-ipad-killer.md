@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011252010-nm1010-samsungg.jpg"
 image_caption: >
-  
+
 image_width: "1501"
 image_height: "2268"
 image_attribution: ""

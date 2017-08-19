@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,7 +44,7 @@ __How did IF get started?__
 
 IF: Laurie and Sean first played together at a barbecue in 2006, covering ‘For Whom The Bell Tolls’. After that, Kiran joined them and Inescapable Fate was born. After seeing the band live at a Jazz and Rock event, during which performance several fans were nearly ejected from dB’s just for enjoying the show a bit too much, Will was invited to join the band, and the lineup was complete.
 
-__How would you describe your music?__  
+__How would you describe your music?__
  IF: It’s a good mix of thrash and death metal – we try to keep it catchy enough that everyone can enjoy it, whilst making sure that no-one can understand what Sean is saying.
 
 __What are some of your influences?__
@@ -59,14 +59,14 @@ __Why do you believe there’s still a place for metal in modern music?__
 
 IF: Metal is an extremely adaptable genre that combines aggression, melody and sheer volume with a cornucopia of different (and sometimes unexpected) influences to produce rich and varied music with few boundaries. And everyone loves a good mosh.
 
-__What is the best live performance you’ve ever seen?__  
+__What is the best live performance you’ve ever seen?__
  Laurie: Bolt Thrower at ULU in 2010. Classic West Midlands death metal. Bonus points for doing the “death’’ voice even between songs.
 
 Sean: Iron Maiden at Twickenham Stadium in 2008.
 
 Will: It’s not all about how fast you can play, but I do tend to enjoy the more technical gigs. I recently saw Symphony X play at Scala and it was phenomenal. Their talent is difficult to replicate on a good day, but they were playing above tempo and really working the crowd. It was fantastic.
 
-__Why do you think people should come see you play?__  
+__Why do you think people should come see you play?__
  IF: Because we’re passionate about our music and aim to put on a loud, energetic, and entertaining live show that can be enjoyed by metalheads and anyone with an open mind towards music.
 
 Now all you have to do is come along and support Inescapable Fate as they rock the living crap out of BONED. Most importantly though, come and headbang your heart out.

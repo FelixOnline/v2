@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 Function through structure” is something of a mantra for researchers of metamaterials, a truly twenty-first century field which aims to create materials with bizarre and fascinating optical and magnetic properties, invented here at Imperial by Professor Sir John Pendry.
 
-“It was serendipity, really,” he told me. His office is warm and inviting, a far cry from the laser and steel-filled lab one might expect of the inventor of the invisibility cloak. “I was doing consultancy work with the Marconi Company in the 90s. They were interested in producing stealth cladding for warships which consisted of carbon fibres. These worked very well, but they didn’t know why.”  
+“It was serendipity, really,” he told me. His office is warm and inviting, a far cry from the laser and steel-filled lab one might expect of the inventor of the invisibility cloak. “I was doing consultancy work with the Marconi Company in the 90s. They were interested in producing stealth cladding for warships which consisted of carbon fibres. These worked very well, but they didn’t know why.”
  “The carbon fibres strongly absorbed in the middle of the typical radar frequency band, but in a very narrow range; however, they found that if they spread them very thinly on paper, it becomes a broad band absorber over nearly the entire radar frequency range, but why?"
 
 “Obviously, they were interacting with each other. My first impression was that they were touching, but my second take was that if you have a wire, there’s a magnetic field associated with it that’s inversely proportional to the radius. If the wires are very thin, you have a very powerful magnetic field. There’s a magnetic loop connecting the wires, so it’s magnetic induction. You wouldn’t think that, would you, just from putting a conductor down? That gave me the idea of function through structure.”

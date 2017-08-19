@@ -1,6 +1,6 @@
 ---
 title: >
-  Cameron’s reshuffled cabinet: the big hitters in government 
+  Cameron’s reshuffled cabinet: the big hitters in government
 subtitle: >
   The first all Conservative Cabinet for almost 20 years meets for the first time today, with a lot of fresh faces.
 date: "2015-05-12 09:06:23 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505121006-jr2514-cabinet_01-593eeac0d8b01457f1e24d784107305a277187402740917ff1f23d94adab6905.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

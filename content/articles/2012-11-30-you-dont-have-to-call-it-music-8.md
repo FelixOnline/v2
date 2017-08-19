@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
 
 comments:
- - We ran out of ink on the page A travesty indeedPS Quit trolling JojoHow can you not mention seminal works by the likes of Cecil Taylor and the huge contribution not to mention the influence on Coltrane made by Albert Ayler Absolutely shocking A travesty And Roscoe Mitchell doesnt even play trumpet Who the hell writes this stuffAgainst Joyce issue has been widely dissescud especially in Sept 05 when she played the role of Snow White  Not only her outlook though after burn fat her inch inch gong her socalled blue bloodstar 2nd generation are those factors leading to public unlikenessEven shes talented coz the public youngsters are jealous of her born support  chances from many starsher Moms friends she wont be popular among these youngstersToo bad shes not lucky as   
+ - We ran out of ink on the page A travesty indeedPS Quit trolling JojoHow can you not mention seminal works by the likes of Cecil Taylor and the huge contribution not to mention the influence on Coltrane made by Albert Ayler Absolutely shocking A travesty And Roscoe Mitchell doesnt even play trumpet Who the hell writes this stuffAgainst Joyce issue has been widely dissescud especially in Sept 05 when she played the role of Snow White  Not only her outlook though after burn fat her inch inch gong her socalled blue bloodstar 2nd generation are those factors leading to public unlikenessEven shes talented coz the public youngsters are jealous of her born support  chances from many starsher Moms friends she wont be popular among these youngstersToo bad shes not lucky as
 imported: true
 ---
 

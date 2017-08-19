@@ -1,6 +1,6 @@
 ---
 title: >
-  Further student protests planned 
+  Further student protests planned
 subtitle: >
   New wave of student protests cause counter-terrorism police to contact Imperial
 date: "2011-01-20 20:56:10 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202050-ks607-studentp.jpg"
 image_caption: >
-  
+
 image_width: "2535"
 image_height: "3603"
 image_attribution: "Miles Robertson"

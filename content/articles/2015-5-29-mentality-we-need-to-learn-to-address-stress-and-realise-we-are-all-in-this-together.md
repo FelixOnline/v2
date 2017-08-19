@@ -1,6 +1,6 @@
 ---
 title: >
-  Mentality: We need to learn to address stress and realise we are all in this together 
+  Mentality: We need to learn to address stress and realise we are all in this together
 subtitle: >
   Beth shares her thoughts on the survey results
 date: "2015-05-29 00:58:24 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505290158-ps3110-mentality-report.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

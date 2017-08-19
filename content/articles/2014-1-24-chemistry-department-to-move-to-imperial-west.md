@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://thenewsthatsnot.wordpress.com"
 author_website_title: "The News That's Not"
 
 comments:
- - Given the Chemistry department currently has two lecture theatres each seating 100 for a yearly intake of 150 students this can only be a good thingIts a partial move though Pippa  the potential scenario of people constantly jumping between sites will take so much out of your day and may waste valuable bscmscmsci research timeEven if all undergrad teaching is localised on one site and note the sucky experience if teaching is localised at imperial west but that can probably be resolved it will be a very painful experience for anyone who will have to jump between sites many times a day in their fourth year who has to balance lectures and researchOf course the plans show no dedicated chemistry building so it could be something else entirely migrate over all of theoretical and computation into plush offices but itll be interesting to see how this will work in practice ifwhen an official announcement is forthcoming as without elaboration some rather major flaws can be seenYes 
+ - Given the Chemistry department currently has two lecture theatres each seating 100 for a yearly intake of 150 students this can only be a good thingIts a partial move though Pippa  the potential scenario of people constantly jumping between sites will take so much out of your day and may waste valuable bscmscmsci research timeEven if all undergrad teaching is localised on one site and note the sucky experience if teaching is localised at imperial west but that can probably be resolved it will be a very painful experience for anyone who will have to jump between sites many times a day in their fourth year who has to balance lectures and researchOf course the plans show no dedicated chemistry building so it could be something else entirely migrate over all of theoretical and computation into plush offices but itll be interesting to see how this will work in practice ifwhen an official announcement is forthcoming as without elaboration some rather major flaws can be seenYes
 imported: true
 ---
 

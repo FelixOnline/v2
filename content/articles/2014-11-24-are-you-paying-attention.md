@@ -2,7 +2,7 @@
 title: >
   “Are you paying attention?”
 subtitle: >
-  Ellen Mathieson decrypts Cumberbatch’s The Imitation Game 
+  Ellen Mathieson decrypts Cumberbatch’s The Imitation Game
 date: "2014-11-24 12:39:05 +0000"
 id: "4941"
 old_path: /film/4941/are-you-paying-attention
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411241239-ps3110-tig-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "hoto: Morten Tyldum/Lionsgate"

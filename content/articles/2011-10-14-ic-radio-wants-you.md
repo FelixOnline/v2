@@ -2,7 +2,7 @@
 title: >
   IC Radio wants you!
 subtitle: >
-  Aislinn Hayes tunes in as new Station Manager 
+  Aislinn Hayes tunes in as new Station Manager
 date: "2011-10-14 00:03:01 +0100"
 id: "1531"
 old_path: /music/1531/ic-radio-wants-you
@@ -52,9 +52,9 @@ As a London-based station, we have the advantage/disadvantage of getting lots of
 
 Honestly, I can’t imagine the week without my one-hour slot (entitled “[Mad Craic](http://www.icradio.com/shows/637/)”) in our modest Beit West Wing Basement studio. I wouldn’t be at Imperial if I wasn’t at least vaguely technical and all the buttons and slides down there make me positively gleeful. Music, technology, and the sound of my own vo– I mean, banter with my co-host, notorious biologist Craig Woods. What else does a girl need? It’s an absolutely brilliant society to get involved in - whether it’s music, production, presenting, technical, DJing, or even marketing that you’re into, we’ve got an enthusiastic committee member who can help you out!
 
-Check us out on [__www.icradio.com__](http://www.icradio.com), where you can listen live or listen back to previous shows, and hear some of our best sessions and recordings!  
- To get involved in our music team, contact __music@icradio.com__  
- To get involved in our live sessions and recordings, contact __production@icradio.com__  
- To hire equipment or get some DJing gigs, contact __discos@icradio.com__  
- To get your own show, contact __programming@icradio.com__  
+Check us out on [__www.icradio.com__](http://www.icradio.com), where you can listen live or listen back to previous shows, and hear some of our best sessions and recordings!
+ To get involved in our music team, contact __music@icradio.com__
+ To get involved in our live sessions and recordings, contact __production@icradio.com__
+ To hire equipment or get some DJing gigs, contact __discos@icradio.com__
+ To get your own show, contact __programming@icradio.com__
  To complain about the length of this article, contact __manager@icradio.com__. Cheers!

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306132335-tna08-2013032817063530565.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - This is sounding a bit left wing labour for my liking 
+ - This is sounding a bit left wing labour for my liking
 imported: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: >
-  Printing money to pay debt 
+  Printing money to pay debt
 subtitle: >
   The U.K. need not worry about its deficit
 date: "2010-12-12 14:30:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121427-ks607-printing.jpg"
 image_caption: >
-  
+
 image_width: "1408"
 image_height: "1200"
 image_attribution: ""

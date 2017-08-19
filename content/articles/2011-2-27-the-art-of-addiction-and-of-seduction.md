@@ -1,6 +1,6 @@
 ---
 title: >
-  The Art of addiction, and of seduction 
+  The Art of addiction, and of seduction
 subtitle: >
   Why have so many of Art’s greats been addicted?
 date: "2011-02-27 19:15:26 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271912-ks607-dondrape.jpg"
 image_caption: >
-  
+
 image_width: "1600"
 image_height: "1253"
 image_attribution: ""

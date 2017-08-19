@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202022319-sjw209-mb_primaryschool_014.jpg"
 image_caption: >
-  Joining a Malawian primary school for the day 
+  Joining a Malawian primary school for the day
 image_width: "4288"
 image_height: "2848"
 image_attribution: ""

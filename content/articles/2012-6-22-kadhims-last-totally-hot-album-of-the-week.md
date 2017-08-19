@@ -2,7 +2,7 @@
 title: >
   Kadhim’s Last Totally Hot Album of the Week
 subtitle: >
-  Kitty Pryde – haha im sorry – 2012 
+  Kitty Pryde – haha im sorry – 2012
 date: "2012-06-22 17:01:07 +0100"
 id: "2582"
 old_path: /music/2582/kadhims-last-totally-hot-album-of-the-week
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206221800-felix-kitty-pryde.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

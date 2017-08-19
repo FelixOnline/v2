@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010142030-ks607-sciencei.jpg"
 image_caption: >
-  
+
 image_width: "2848"
 image_height: "4272"
 image_attribution: "Tom Welch"

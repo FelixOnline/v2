@@ -1,6 +1,6 @@
 ---
 title: >
-  Sports training could be hit 
+  Sports training could be hit
 subtitle: >
   The College’s proposals to extend the working day would have several implications in terms of the available time for extra-curricular sporting activity
 date: "2011-01-20 21:01:06 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202058-ks607-sportssp.jpg"
 image_caption: >
-  
+
 image_width: "2259"
 image_height: "1900"
 image_attribution: "David Murray"

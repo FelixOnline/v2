@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061425-felix-portada-3.jpg"
 image_caption: >
-  
+
 image_width: "509"
 image_height: "783"
 image_attribution: ""

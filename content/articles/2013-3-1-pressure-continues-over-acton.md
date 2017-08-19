@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303010117-tna08-acton-drawing.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Lizzy Griffiths"
@@ -41,7 +41,7 @@ Last week, the [Union sent five requests to College](http://felixonline.co.uk/ne
 > As mentioned in the subtitle. Simon Harding-Roots and Professor Debra Humphris will be answering questions put to them through Felix. Email: felix@imperial.ac.uk to get yours answered.
 The Union timed the journey to Acton as over 50 minutes during rush hour (door-to-door) to dispel the claim that it is about 30 minutes, which has been mentioned by College. However it has been pointed out that they do top up their Oyster cards en-route. The video is available on STOIC’s YouTube channel. The journey back to College took about 46 minutes.
 
-The Union’s [\#againstacton page](https://www.imperialcollegeunion.org/againstacton) on their website has now garnered over 4,500 unique visits, and a [“Pledge Your Support” site was launched on Tuesday, with currently over 400 signatures](https://union.ic.ac.uk/presidents/againstacton/). Beaumont said that he was “overwhelmed by the support students have shown for the Union’s campaign”, and that he would like to thank those who sent in long pieces detailing their personal experiences.]
+The Union’s [#againstacton page](https://www.imperialcollegeunion.org/againstacton) on their website has now garnered over 4,500 unique visits, and a [“Pledge Your Support” site was launched on Tuesday, with currently over 400 signatures](https://union.ic.ac.uk/presidents/againstacton/). Beaumont said that he was “overwhelmed by the support students have shown for the Union’s campaign”, and that he would like to thank those who sent in long pieces detailing their personal experiences.]
 
 In a quantitative analysis of the participation of students in Clubs, Societies & Projects over the last few years, the Union found that those that live further away in their first year are less likely to get involved. The data also showed that students who did not participate in their first year were less likely to participate later on. The Union also looked at qualitative data from the Student Experience Survey, which it says corroborates the views with regards to a poor student experience.
 

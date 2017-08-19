@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110211306-ak6309-betty-blythe-tea-shopw.jpg"
 image_caption: >
-  
+
 image_width: "4198"
 image_height: "2764"
 image_attribution: ""
@@ -43,7 +43,7 @@ Betty Blythe is also a wonderful spot for an elegant hen-do or a birthday party 
 
 Betty Blythe is the absolute vintage and glamorous get-together place for you girls to meet, chit-chat, have your party and gossip (now I’m being rude!). For you guys I have one thing to say: the food there is too good to get stopped by the girlie tone of the café. Take your girlfriend, sister or mother – although that’s just sad – and have a try; you won’t regret it!
 
-73 Blythe Rd. Brook Green, London W14 0HP  
- Tel: 0207 602 1177  
- Email: darling@bettyblythe.co.uk  
+73 Blythe Rd. Brook Green, London W14 0HP
+ Tel: 0207 602 1177
+ Email: darling@bettyblythe.co.uk
  Open 8am till 6pm ish

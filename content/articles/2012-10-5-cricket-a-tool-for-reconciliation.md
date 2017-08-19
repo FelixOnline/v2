@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210051359-felix-sri-lankan-army.jpeg"
 image_caption: >
-  Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah, 
+  Caption in here please! What if this just stays in by accident. What if it’s not an accident/ Yeah,
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - How true people who says otherwise are ignorant of the way despotic governments use sporting success to mask serious abuses Tomorrow if Sri Lanka wins the Government and the president will hijack the whole victory march and pretend all is well in the country 
+ - How true people who says otherwise are ignorant of the way despotic governments use sporting success to mask serious abuses Tomorrow if Sri Lanka wins the Government and the president will hijack the whole victory march and pretend all is well in the country
 imported: true
 ---
 
@@ -39,7 +39,7 @@ The summer of 2012 has been a stunning exhibition of top quality sports, as worl
 
 Questions are once again being raised as to why the International Cricket Council has permitted Sri Lanka not only to participate but also to host one of the sport’s most prestigious tournaments, especially with the on-going allegations of human rights abuses and war crimes against the Tamils of Sri Lanka. This essential role bestowed upon Sri Lanka legitimises and condones a country that is in dire circumstances.
 
-The Government and many distinguished individuals argue that this can help towards the reconciliation between the displaced Tamils of Sri Lanka and the majority Sinhalese population. When explored further, however, the idea that sport can heal the growing rift between the two races simply seems nonsensical. Sport is far too trivial to gloss over the deaths of tens of thousands of civilians and to overcome the racial discrimination that Tamils have been and still are subjected to.  
+The Government and many distinguished individuals argue that this can help towards the reconciliation between the displaced Tamils of Sri Lanka and the majority Sinhalese population. When explored further, however, the idea that sport can heal the growing rift between the two races simply seems nonsensical. Sport is far too trivial to gloss over the deaths of tens of thousands of civilians and to overcome the racial discrimination that Tamils have been and still are subjected to.
  The argument is that sport, and its associated celebrations, could be used as a tool to heal the rifts between different parts of society and induce a sense of camaraderie and team spirit. However with the continued failure of the Sri Lankan Government’s Lessons Learnt and Reconciliation Commission (LLRC) to provide accountability for the 40,000 lives lost in the final days of the civil war (as mentioned in the UN Panel of Experts report), is it justified for this country to host such a sporting event? By failing to revoke out-of-date emergency laws and preventing media organisations from entering the northern and eastern parts of the country, the Government has embarked upon greater militarisation and colonisation of these areas. Consequently humanitarian organisations have reported ongoing human rights abuses which can only undo and devastate the supposed healing effects that the T20 World Cup can provide.
 
 Undoubtedly, senior government politicians see this as a way to mask the crimes committed by the Government, rather than something heading in the direction of reconciliation, derived from accountability. On Sri Lanka’s ‘new brand’ Nivard Cabraal, the central bank Governor, stated: “I am confident that this trend will continue in the future and those so-called international calls for [war crimes] investigation will fade away.”

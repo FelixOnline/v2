@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302142122-tna08-tsu.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - me BSc elec eng 1966 MScTrans 2002The proposal to move or close the Translation Studies Unit seems inconsistent and illogical1 Imperials Strategy documenthttpsworkspaceimperialacukplanningPublicStrategy01_Strategy_201014pdf2 Words beginning translat occur more than 20 times in that document3 Page 14 in the PDF reader document pages 24 25 states Our definition of translation encompasses all forms of knowledge transfer So translating technical documents between languages is not included in this4 The list of strategic aims also page 14  25 includes To find innovative ways to extend the reach and impact of all our work5 The next page 15 or 26 begins The College encourages external users experts and practitioners in the field to bring their insights and experience into its research education and translation activities The current proposal therefore means that the Colleges translation activities do not include translation itselfThe headline is 
+ - me BSc elec eng 1966 MScTrans 2002The proposal to move or close the Translation Studies Unit seems inconsistent and illogical1 Imperials Strategy documenthttpsworkspaceimperialacukplanningPublicStrategy01_Strategy_201014pdf2 Words beginning translat occur more than 20 times in that document3 Page 14 in the PDF reader document pages 24 25 states Our definition of translation encompasses all forms of knowledge transfer So translating technical documents between languages is not included in this4 The list of strategic aims also page 14  25 includes To find innovative ways to extend the reach and impact of all our work5 The next page 15 or 26 begins The College encourages external users experts and practitioners in the field to bring their insights and experience into its research education and translation activities The current proposal therefore means that the Colleges translation activities do not include translation itselfThe headline is
 imported: true
 ---
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Mr A GeekAs much as I enjoy editing and reading your articles Im going to have to offer a slight objection this week The reason that I was and often am outspoken about religion is because I believe religion to be extremely divisive I believe much of religions teachings to be wholly immoral and responsible for many atrocities that happen in the world every day or much less in our society I believe that only by discrediting religion at every attempt possible will we eventually rid it and the evils that it breeds from our society I think by not speaking out against it we automatically grant it credibility and in a society in which religion is seen as credible I think extremism is much more likely I would be a lot happier if all religions got together and agreed to take all the nonsense and immorality out of their holy books Until that day however I think its important to speak out against itGreat article as always by the wayDude chill For which of ICs religious societies 
+ - Mr A GeekAs much as I enjoy editing and reading your articles Im going to have to offer a slight objection this week The reason that I was and often am outspoken about religion is because I believe religion to be extremely divisive I believe much of religions teachings to be wholly immoral and responsible for many atrocities that happen in the world every day or much less in our society I believe that only by discrediting religion at every attempt possible will we eventually rid it and the evils that it breeds from our society I think by not speaking out against it we automatically grant it credibility and in a society in which religion is seen as credible I think extremism is much more likely I would be a lot happier if all religions got together and agreed to take all the nonsense and immorality out of their holy books Until that day however I think its important to speak out against itGreat article as always by the wayDude chill For which of ICs religious societies
 imported: true
 ---
 

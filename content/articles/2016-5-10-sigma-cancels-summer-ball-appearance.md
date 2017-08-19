@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605101515-ygr12-sigma copy.jpg"
 image_caption: >
-  
+
 image_width: "1633"
 image_height: "615"
 image_attribution: ""

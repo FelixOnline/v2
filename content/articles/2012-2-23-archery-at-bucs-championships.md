@@ -40,7 +40,7 @@ Despite the early start of 8:15am, all 14 members travelling to the competition 
 
 Normally, whenever the Archery Club travels we get quizzical looks from passers by because of our large unwieldy bags with long arrow tubes sticking out of them. This year however, after the walk from the station to the International Centre in the pouring rain, the team was greeted by the the MCM Expo happening at the same time in the other hall at the centre.
 
-The first session of the day was running late, so this gave a good distraction for those with cameras, and the entire team was (perhaps too) excited to see at least 7 people in Stormtrooper outfits.  
+The first session of the day was running late, so this gave a good distraction for those with cameras, and the entire team was (perhaps too) excited to see at least 7 people in Stormtrooper outfits.
  At least we all seemed fairly normal.
 
 The standard indoor round for student archery competitions (termed a Portsmouth) involves shooting 60 arrows towards a 60cm diameter target face at a distance of 20 yards (18m), giving a maximum possible score of 600. At BUCS indoors, each archer is given 2 minutes to shoot the 3 arrows of an end. These are then scored and totalled, the whole process being repeated 20 times.
@@ -49,7 +49,7 @@ Hannah Beasley-Suffolk, a first year biochemist, took the gold medal in the ladi
 
 The winning score of 573 with 60 hits and 35 golds was a full 7 points clear of the nearest challengers. Her round was exciting too; there was a nerve racking moment when Hannah didn’t realise it was her turn to shoot, resulting in having to shoot 3 arrows in just 40 seconds.Thankfully records officer Adam Holliday realised this, saved the day and Hannah was still able to put in a 10-9-9 end!
 
-There was yet more drama at this year’s indoor championships for the Imperial team than ever before.  
+There was yet more drama at this year’s indoor championships for the Imperial team than ever before.
  An unfortunate moment of tiredness for equipments officer Richard Yim meant that he was unable to shoot his third arrow within the time limit, which resulted in a zero scored for that arrow.
 
 Captain Jonathan Hutt also managed a moment of panic when he reached the target and thought he had only shot two arrows in one end. The crisis was averted when he realised that it was just a soft part of the target and his arrow had passed nearly all the way through!Despite the drama that occurred throughout the shoot, both team scores were also good.

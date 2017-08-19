@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106031520-felix-use.jpg"
 image_caption: >
-  
+
 image_width: "4320"
 image_height: "3240"
 image_attribution: "Ben Scally"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Get a gripThere are two distinctly different standards between civil and criminal courts the former is based on the balance of probabilities and the latter beyond all reasonable doubt Odd that a lawyer should not note the distinction Such a bad loserNice one Scallster 
+ - Get a gripThere are two distinctly different standards between civil and criminal courts the former is based on the balance of probabilities and the latter beyond all reasonable doubt Odd that a lawyer should not note the distinction Such a bad loserNice one Scallster
 imported: true
 ---
 

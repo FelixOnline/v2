@@ -1,6 +1,6 @@
 ---
 title: >
-  Dungeons: Being a Dungeon Lord ain’t all fun and games 
+  Dungeons: Being a Dungeon Lord ain’t all fun and games
 subtitle: >
   Sean Harbison unleashes his wrath in Dungeons
 date: "2011-02-10 20:38:17 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102102037-ks607-someothe.jpg"
 image_caption: >
-  
+
 image_width: "960"
 image_height: "540"
 image_attribution: ""

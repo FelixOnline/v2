@@ -1,6 +1,6 @@
 ---
 title: >
-  Dodgeball: Wolverines edge up league table 
+  Dodgeball: Wolverines edge up league table
 subtitle: >
   The drastic impact of the Wolverines on the league tables
 date: "2011-01-20 19:43:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201940-nm1010-dodgebal.jpg"
 image_caption: >
-  
+
 image_width: "2893"
 image_height: "1917"
 image_attribution: ""

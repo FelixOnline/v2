@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022009-felix-radko-mladic_1.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "1145"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Dear Democratic SpokespersonI agree with you It is a great thing that everyone is assumed innocent until proven guilty However my piece wasnt centred on whether Mladic was guilty or not but rather around the consequences and reactions to his extradition Just because Milosevic or Hitler werent convicted doesnt mean they werent guilty And it certainly doesnt mean they did not commit the crimes they made Same goes for Mladic This all is a grey area of democracy and justice  the legitimisation or recognition of a crime having been committed But then one could argue the opposite as well  it has been proven many times that a convicted person was in fact not guilty This has however happened only in cases where the evidence was not as comprehensive as the Hague claims it isRe what you said about the fairness of a trial You would certainly then agree that since these alleged war criminals are being trialled in the Hague by the most international and highranked of judges with the best 
+ - Dear Democratic SpokespersonI agree with you It is a great thing that everyone is assumed innocent until proven guilty However my piece wasnt centred on whether Mladic was guilty or not but rather around the consequences and reactions to his extradition Just because Milosevic or Hitler werent convicted doesnt mean they werent guilty And it certainly doesnt mean they did not commit the crimes they made Same goes for Mladic This all is a grey area of democracy and justice  the legitimisation or recognition of a crime having been committed But then one could argue the opposite as well  it has been proven many times that a convicted person was in fact not guilty This has however happened only in cases where the evidence was not as comprehensive as the Hague claims it isRe what you said about the fairness of a trial You would certainly then agree that since these alleged war criminals are being trialled in the Hague by the most international and highranked of judges with the best
 imported: true
 ---
 

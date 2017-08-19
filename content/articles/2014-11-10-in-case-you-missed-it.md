@@ -1,6 +1,6 @@
 ---
 title: >
-  In case you missed it... 
+  In case you missed it...
 subtitle: >
   Kunal Wagle takes a look at what’s been going on in the world of sport this week
 date: "2014-11-10 21:55:51 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102155-ps3110-senzo-meyiwa.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

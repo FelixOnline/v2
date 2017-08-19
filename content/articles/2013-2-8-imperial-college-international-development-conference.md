@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302080043-tna08-idc-poster.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ With Imperial College having some of the brightest young minds in science and en
 
 But why is development so important? In 2008, 1.29 billion people were living below the poverty line (on less than $1.25 per day). You might say it’s not possible for us to make a difference and lift these people out of poverty, but estimates have suggested that the extreme poverty rate between 1990 and 2008 was halved! So it’s not just negative statistics that are hanging about, but instead the positive ones like these are inspirational.
 
-Imagine what a difference the use of science, technology and engineering in developing countries could make; healthcare accessibility could be rapidly improved through the use of mobile technologies, access to education and learning could also be made equally accessible. Engineering applications can bring clean water to rural communities, something which we take for granted on a day to day basis.  
+Imagine what a difference the use of science, technology and engineering in developing countries could make; healthcare accessibility could be rapidly improved through the use of mobile technologies, access to education and learning could also be made equally accessible. Engineering applications can bring clean water to rural communities, something which we take for granted on a day to day basis.
  We only have two years left to reach the UN’s 2015 Millennium Development Goals and progress towards reaching these targets varies country by country. This is where we as young scientists and engineers play an increasingly important role. Over the next decade, we will be the leading figures in the world and we will be the ones who have the chance to make a change and reach the next set of targets, what better place to start than at the IC IDC?
 
 The IDC will bring together speakers from a range of backgrounds together to discuss international development in an inspiring environment. Speakers include Dr [Kirsty Newman](http://www.futurehealthsystems.org/blog/2012/3/16/an-interview-with-dr-kirsty-newman-understanding-evidence-in.html), from the UK’s Department for International Development and Imperial’s own Professor [Alan Fenwick ](http://www1.imperial.ac.uk/medicine/people/a.fenwick/)OBE talking on infectious diseases.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211012211-tna08-rgbbucs.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Following on from a very brief report in Felix earlier this year, there are still problems with Bucs.  
+Following on from a very brief report in Felix earlier this year, there are still problems with Bucs.
  There are currently two options being given to all of the teams, with a lower possibility, at the present time, of keeping the current status quo.
 
 The two options are to do with how the membership of sports teams is. The first option is that all teams will be split with only medics allowed in the medics teams, and only non-medics allowed in the non-medics teams. This means that students have a restriction on which of the options they are allowed to choose.

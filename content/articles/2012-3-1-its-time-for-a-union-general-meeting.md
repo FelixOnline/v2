@@ -35,9 +35,9 @@ comments:
 imported: true
 ---
 
-It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC\* start rolling off the tongue. (\*Student Recruitment and Admissions Strategy and Operations Committee)
+It took me approximately 4 months to really understand how the University and Union work. Both of these organisations are layered with bureaucracy, which doesn’t help. Additionally, you need to get to term time before various committees meet and the workloads hit a stage where acronyms like SRASOC* start rolling off the tongue. (*Student Recruitment and Admissions Strategy and Operations Committee)
 
-As you would expect, being President I have to spend a good portion of my time thinking strategically, analysing the threats and risks to the Union and working out how to mitigate them. This is also true for my Executive Committee, who recently, and very unjustly, were criticised in a comment piece for their decision this term to ‘redistribute’ 10% of club funding. And redistribute is the right word.  
+As you would expect, being President I have to spend a good portion of my time thinking strategically, analysing the threats and risks to the Union and working out how to mitigate them. This is also true for my Executive Committee, who recently, and very unjustly, were criticised in a comment piece for their decision this term to ‘redistribute’ 10% of club funding. And redistribute is the right word.
  Clubs currently receive a cash grant to assist with their operations. This money is distributed at a rather hellish meeting known as CSB budgeting, which I attended on Monday for the third time in as many years.
 
 At that meeting last year we made available a staggering £337,000 of the funding the College gives the Union to operate. For 2012/13 we are providing £303k. Our plan is to use the difference (£33k) to help clubs and societies in ways that are more effective than the £2 per each club membership that has been reallocated.
@@ -58,7 +58,7 @@ Now I guess some of you may be wondering about the title of this piece, especial
 
 I believe we should hold this GM to talk about the questions I have raised in this piece but also to discuss some other concerns I have.
 
-In a comment piece last week, it was suggested that the Executive Committee structure needs to change. Though I disagree with this, I do believe that one Union committee does need to be altered: our Trustee Board. The TB can overturn decisions made by the Union Council, authorise expenditure over £1m and set out the Union’s strategy. It would be reasonable to imagine that such a Committee would have the people that you elect to lead your Union, the Sabbatical Officers, as members. However this is not the case. As President I am the only Sabbatical who has a vote.  
+In a comment piece last week, it was suggested that the Executive Committee structure needs to change. Though I disagree with this, I do believe that one Union committee does need to be altered: our Trustee Board. The TB can overturn decisions made by the Union Council, authorise expenditure over £1m and set out the Union’s strategy. It would be reasonable to imagine that such a Committee would have the people that you elect to lead your Union, the Sabbatical Officers, as members. However this is not the case. As President I am the only Sabbatical who has a vote.
  The remaining votes are taken by four students, the chair of council, a former President (the Court chair) and four external members.
 
 If all Trustees are in attendance there is a majority to current students and their representatives. However some Student Trustees have variable attendance and, more worryingly, variable understanding of what students need from their Union. An example of this is one person being elected to this role last year to ‘get more weights in Ethos’ – something the Trustee Board is never in a position to do!

@@ -2,7 +2,7 @@
 title: >
   PhD funding blunder in Aeronautics Department
 subtitle: >
-  Department failed to tell students their bursary was being reduced 
+  Department failed to tell students their bursary was being reduced
 date: "2011-01-27 18:24:32 +0000"
 id: "652"
 old_path: /news/652/phd-funding-blunder-in-aeronautics-department
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101280841-ks607-roderich.jpg"
 image_caption: >
-  
+
 image_width: "5344"
 image_height: "4008"
 image_attribution: "Imperial College London"

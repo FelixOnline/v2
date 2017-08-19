@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302281731-txl11-jk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,5 +44,5 @@ The wireless charging mats are not cheap. I bought a Maxwell Air Voltage Wireles
 
 I do not speak authoritatively on this matter, but from my experience with wireless charging on my Nexus 4, I would say that the wireless charging has good performance. In fact, I might say that it performed better than I expected. Charging is almost as quick as using an AC adapter. It is really convenient to just place the phone on the mat and watch it start charging automatically, without my needing to plug in anything. The downside to this is that the phone tends to get a little warm when charging. I notice that if I use the phone while it’s charging, the temperature can get up to 42 degrees, at which point the phone would decide to stop charging (for safety I presume). This leads to the phone and the charging mat getting into what I call the “spasm” mode where the charging indicator would toggle on and off every few seconds. I suppose with more iteration, the hardware would be more efficient, and the heat produced through the charging should reduce. But is this even necessary?
 
-Advocates would say that wireless charging is very convenient, and helps in bringing about a wire-free environment. This is absolutely true, as I have noted in the previous paragraph. However, pardon my cynicism, this also sounds patently like a first world problem. There is also a wire that goes from the AC wall socket to the charging mat, something that you can’t really be rid of. You are just trading one cable for another. There are arguments saying that the mechanical act of plugging in and taking out the charging cable can lead to mechanical failure on the phone, although I have yet to see it really happen to me.  
+Advocates would say that wireless charging is very convenient, and helps in bringing about a wire-free environment. This is absolutely true, as I have noted in the previous paragraph. However, pardon my cynicism, this also sounds patently like a first world problem. There is also a wire that goes from the AC wall socket to the charging mat, something that you can’t really be rid of. You are just trading one cable for another. There are arguments saying that the mechanical act of plugging in and taking out the charging cable can lead to mechanical failure on the phone, although I have yet to see it really happen to me.
  Sceptics would call wireless charging a fad. I would call it something cool. While I can see the added convenience of wireless charging, the whole solution doesn’t really bring much more to the table. What we need are batteries that last longer, and components that use less power. Wireless charging does not even address any of these problems. When you add in the cost of buying one of those charging mats, there is simply no added benefit. So until these charging mats become more affordable, there is simply no point in using wireless charging.

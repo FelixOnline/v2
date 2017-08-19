@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001141558-rsp07-obamacha.jpg"
 image_caption: >
-  
+
 image_width: "729"
 image_height: "377"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://jkimbo.co.uk"
 author_website_title: "jkimbo.co.uk"
 
 comments:
- - i was surprised to heard that  china is commented as  blocking the legal aspects of the negotiationsquot after reading this story from guardian Blame Denmark not China quot httpwwwguardiancoukcommentisfreecifgreen2009dec28copenhagendenmarkchinaas quote quot Together they imply that developing countries would have to cut their emissions overall by about 20 in absolute terms and at least 60 in per capita terms By 2050 developed countries with high per capita emissions By 2050 developed countries with high per capita emissions such as USA would be allowed to have 2 to 5 times higher per capita emissions level than developing country the developing country will have to severely curb not only their emission and their economy growth especially since there is up to now no credible plans let alone commitments for financial and technology transfers to help them shift to a lowemissions development path Not to mentioned china was the first 
+ - i was surprised to heard that  china is commented as  blocking the legal aspects of the negotiationsquot after reading this story from guardian Blame Denmark not China quot httpwwwguardiancoukcommentisfreecifgreen2009dec28copenhagendenmarkchinaas quote quot Together they imply that developing countries would have to cut their emissions overall by about 20 in absolute terms and at least 60 in per capita terms By 2050 developed countries with high per capita emissions By 2050 developed countries with high per capita emissions such as USA would be allowed to have 2 to 5 times higher per capita emissions level than developing country the developing country will have to severely curb not only their emission and their economy growth especially since there is up to now no credible plans let alone commitments for financial and technology transfers to help them shift to a lowemissions development path Not to mentioned china was the first
 imported: true
 ---
 

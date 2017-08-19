@@ -44,8 +44,8 @@ Alice Birch’s writing is achingly beautiful, each character’s story stands a
 
 The three main actors are equally brilliant. Hattie Morahan as Carol conveys a silent, but poetic resignation. Katie O’Flynn brings a real raw emotion to Anna in her desperate monologues and the physicality of her acting. Adelle Leonce’s Bonnie is restrained and calm, her subtle performance perfectly capturing the character’s suppressed anguish.
 
-The story isn’t without flaws\- the focus on suicide, whilst true to the name of the play, doesn’t do justice to the complexity of mental illness faced by each of the three women and, on occasion, the recurring themes and pieces of dialogue feel repetitive. But these are minute flaws in what is otherwise an overwhelmingly moving piece of work. The intensity of _Anatomy of a Suicide_ is something few plays manage to capture; it is an experience in itself.
+The story isn’t without flaws- the focus on suicide, whilst true to the name of the play, doesn’t do justice to the complexity of mental illness faced by each of the three women and, on occasion, the recurring themes and pieces of dialogue feel repetitive. But these are minute flaws in what is otherwise an overwhelmingly moving piece of work. The intensity of _Anatomy of a Suicide_ is something few plays manage to capture; it is an experience in itself.
 
-4 stars. 
-_Anatomy of a Suicide_ is on at the Royal Court until 8th July. 
+4 stars.
+_Anatomy of a Suicide_ is on at the Royal Court until 8th July.
 Tickets from £12

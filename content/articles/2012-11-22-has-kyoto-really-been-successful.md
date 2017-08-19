@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211222317-tna08-dsc_0236capacity-building.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - KIDS Zone is where the action is going on Today with 26 cerdlihn on a hay wagon singing  God is God  Roasting hot dogs and  marshmallows on the fire Learning that thier is only ONE God and we are to love him with all of our heart soul mind and strength Oh we must not forget the egg toss scrabbled eggs anyone Thank you to Ray  Rick Anna Jan for all your help and for all the candy thank you from the kidsSister Marsha January 11th 2006 917 am  I also think one major solution is telconhogy Lets put it this way if a company can produce a car that consumes less fuel consumers will want to buy it up for gas savings I dunno about you Blacksun but Im seeing alot of hybrid Toyotas and Hondas on the roads today in Los Angeles And lets talk about nonautomotive air pollution Lots of the pollution out there is related to manufacturing and processing and power plant style machinery Those types of things require different solutions than the automotive industry 
+ - KIDS Zone is where the action is going on Today with 26 cerdlihn on a hay wagon singing  God is God  Roasting hot dogs and  marshmallows on the fire Learning that thier is only ONE God and we are to love him with all of our heart soul mind and strength Oh we must not forget the egg toss scrabbled eggs anyone Thank you to Ray  Rick Anna Jan for all your help and for all the candy thank you from the kidsSister Marsha January 11th 2006 917 am  I also think one major solution is telconhogy Lets put it this way if a company can produce a car that consumes less fuel consumers will want to buy it up for gas savings I dunno about you Blacksun but Im seeing alot of hybrid Toyotas and Hondas on the roads today in Los Angeles And lets talk about nonautomotive air pollution Lots of the pollution out there is related to manufacturing and processing and power plant style machinery Those types of things require different solutions than the automotive industry
 imported: true
 ---
 
@@ -39,7 +39,7 @@ It has been nearly 15 years since the governments gathered in a stuffy assembly 
 
 According to the official Kyoto Protocol website: “The Kyoto Protocol is an international agreement linked to the United Nations Framework Convention on Climate Change. The major feature of the Kyoto Protocol is that it sets binding targets for 37 industrialized countries and the European community for reducing greenhouse gas (GHG) emissions.”
 
-The main idea behind setting up the Protocol was that the UN Convention was not committing enough. Putting in legal obligations, requirements and fixed numerical targets aimed to encourage each of the 37 countries that signed up to visibly reducing their impact on the environment.  
+The main idea behind setting up the Protocol was that the UN Convention was not committing enough. Putting in legal obligations, requirements and fixed numerical targets aimed to encourage each of the 37 countries that signed up to visibly reducing their impact on the environment.
  As well as meeting predetermined “allowed emission targets” to reduce emissions (which placed heavier burden on the “more developed” countries which historically polluted more), countries were also able to:
 
 • Buy ‘emission credits’ from countries that were below their allowed pollution, or sell credits to countries that were over theirs.

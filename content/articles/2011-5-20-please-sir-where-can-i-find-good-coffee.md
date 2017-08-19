@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200525-felix-kapow-coffee.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "681"
 image_attribution: "flickr/andai"
@@ -49,11 +49,11 @@ Yet, again and again, I am left astounded by the inability of staff, particularl
 
 I was inspired to write this by two particularly abhorrent cups of coffee served to me by the Library Cafe. Normally, my drink of choice is a Macchiato and for those who do not have much experience of espresso coffee there are normally about six different basic ways to serve, which are common to most coffee bars:
 
-__Espresso__: Concentrated shot of coffee;  
-__Macchiato__: Espresso with a small amount of milk added;  
-__Latte__: Espresso with steamed milk served with a little or no foam;  
-__Americano__ Espresso topped up with hot water;  
-__Mocha__: Espresso with chocolate syrup, steamed milk and foam or whipped cream;  
+__Espresso__: Concentrated shot of coffee;
+__Macchiato__: Espresso with a small amount of milk added;
+__Latte__: Espresso with steamed milk served with a little or no foam;
+__Americano__ Espresso topped up with hot water;
+__Mocha__: Espresso with chocolate syrup, steamed milk and foam or whipped cream;
 __Cappuccino__: Espresso with steamed milk and foam.
 
 The significance of the small amount of milk in my macchiato is that it reduces the bitterness, which has been present in every cup of coffee I have ever purchased on campus. This is the bitterness produced through the cooking of the ground beans at too high a temperature.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203160132-felix-normal_sinus_rhythm.jpg"
 image_caption: >
-  
+
 image_width: "1380"
 image_height: "508"
 image_attribution: ""
@@ -38,7 +38,7 @@ Why is there rhythm in music? To some, this question may seem utterly superfluou
 
 The reassurance of repetition acts as a psychic pillow, letting us know that our predictions of the world are congruous. In fact, some theories on the nature of intelligence base themselves on the reinforcement of predictions made while understanding previous experiences. But what happens when these predictions are challenged? If you met a person with ears for eyes, you’d certainly be taken aback; that’s just not how the world is. Then again, if our ideas were never challenged we would learn nothing new and life would be a mundane thing.
 
-There’s nothing like a steady beat. It cradles you beyond boredom, tucking you neatly in your comfort zone, knowing that the next three minutes are going to be exactly the same. No change. No worries.  
+There’s nothing like a steady beat. It cradles you beyond boredom, tucking you neatly in your comfort zone, knowing that the next three minutes are going to be exactly the same. No change. No worries.
  Then there’s jazz. As feared by Vince Noir as revered by Howard Moon. Every second, a breath suspended. A veritable vertigo of anticipation, darting between surprises and unfamiliar instances, each moment a shadow of the next.
 
 In dance, rhythm entrances the body, allowing the mind to wander elsewhere. A cathartic release as one’s earthly ties are made sublime. For the same reasons do we prefer to dance at night in darkened rooms beneath unnatural lights. It is the farthest we can get from the quotidian, an exit from the dragging day to day. Breaking the cycle of daily obligation with another of a more tenuous nature can make the former more bearable. Hence the sacrament of Friday nights.

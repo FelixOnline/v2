@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302142107-tna08-itemscollections-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -48,7 +48,7 @@ One of the organisers commented “anyone can contribute, as students we tend to
 
 The Facebook page also mentions “When a similar collection was held in the Midlands, people cleaned, ironed, perfumed and wrapped the clothes before giving. Some people attached messages to the bags in the hope that those receiving would not feel hurt or inferior.”
 
-One of the students response to the campaign was “It’s easy to feel powerless in the face of things that shock and upset us, yet instead of surrendering themselves to apathy a young group of Imperial students have built a campaign from nothing, it’s very impressive and has certainly inspired me.”  
+One of the students response to the campaign was “It’s easy to feel powerless in the face of things that shock and upset us, yet instead of surrendering themselves to apathy a young group of Imperial students have built a campaign from nothing, it’s very impressive and has certainly inspired me.”
  There is also a Facebook page that gives daily updates: https://www.facebook.com/ActionSyria. Whether or not you are a tweeter, be sure to check out #ActionSyria. So get informed and get involved.
 
 The suggested itemsare

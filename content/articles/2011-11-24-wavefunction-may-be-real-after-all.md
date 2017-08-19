@@ -31,7 +31,7 @@ author_website_url: "http://alexkara15.wordpress.com"
 author_website_title: "alexkara15.wordpress.com"
 
 comments:
- - This has resurfaced againhttpwwwnaturecomnewsaboostforquantumreality110602StarOfSagittarius1 on September 3 2012                                                                    Some very old questions are still aunrod These questions concern human behavior thoughts and will Can quantum mechanics shed some light on such questions as Am I just a machine How does my will act What is Gods will Is there a GodIm also in this class and I like it as well Its had a good focus on intuitive unntdseandirg My primary motivation was to have a bit of unntdseandirg on the topic given its relation to cryptography but now Im just plain interested int it  car insurance   infections stress   prescribed counterparts   memic auto insurance 
+ - This has resurfaced againhttpwwwnaturecomnewsaboostforquantumreality110602StarOfSagittarius1 on September 3 2012                                                                    Some very old questions are still aunrod These questions concern human behavior thoughts and will Can quantum mechanics shed some light on such questions as Am I just a machine How does my will act What is Gods will Is there a GodIm also in this class and I like it as well Its had a good focus on intuitive unntdseandirg My primary motivation was to have a bit of unntdseandirg on the topic given its relation to cryptography but now Im just plain interested int it  car insurance   infections stress   prescribed counterparts   memic auto insurance
 imported: true
 ---
 
@@ -47,5 +47,5 @@ The paper, submitted by a trio of Imperial physicists led by [Matthew Pusey](htt
 
 Antony Valentini, a theoretical physicist at Clemson University, believes the result may be the most important general theorem regarding quantum mechanics since Bell’s theorem which proved that if quantum mechanics describes real entities, it must include the idea of entanglement between unconnected particles.
 
-The researchers liken their theorem to the notion that a coin being flipped in a biased way has the physical property of being biased rather than it being a statistical property of the coin flipping events.  
+The researchers liken their theorem to the notion that a coin being flipped in a biased way has the physical property of being biased rather than it being a statistical property of the coin flipping events.
  The wavefunction has been interpreted as a statistical tool for 85 years, and the theorem appears to reopen the question of what the wavefunction represents.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012171133-ks607-audreyhe.jpg"
 image_caption: >
-  
+
 image_width: "1214"
 image_height: "1600"
 image_attribution: ""

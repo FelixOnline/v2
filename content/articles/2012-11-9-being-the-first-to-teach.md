@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211090036-tna08-brett-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -43,7 +43,7 @@ Having run out of London Bridge, with a James Bond theme on my iPhone (name drop
 
 Luckily, sort of, my phone was ringing, so I had to look at my screen and realise what I had done. Unluckily, it was TeachFirst calling to see where I was and note that I was late for the interview. A quick bit of apologising, and some less than dignified walk/jogging later – you know what I mean; it’s that thing you do where you jog a few metres, walk a few, jog a few, walk a few, and so on – I was on track.
 
-Finally, I arrived at TeachFirst’s shiny, swish office in London. Well, there was an incident involving me and not being able to find the entrance, but that was uneventful/embarrassing so I won’t go into it.  
+Finally, I arrived at TeachFirst’s shiny, swish office in London. Well, there was an incident involving me and not being able to find the entrance, but that was uneventful/embarrassing so I won’t go into it.
  Very graciously, Brett has decided to give me his time. I feel terrible for being late and hoped it wasn’t too much of a bother. I walking into the office and sat down in a modern conference room (I even got free water).
 
 Brett casually walks in and greets me, with a coffee in a Thermos flask in his hand. He seems laid back and that puts me at ease.
@@ -63,4 +63,4 @@ The interview wraps up and I realise that I’ve also slightly overrun the allot
 _Brett Wigdortz’s book ‘Success Against The Odds’ packed with start-up tips and business advice is available to buy now._
 
 _If you would like to find out more about Teach First, sign up to the Teach First Employer Presentation on Wednesday 14th November at 6pm in Read Theatre, Sherfield Building via JobsLive._
-TODO: image from 
+TODO: image from

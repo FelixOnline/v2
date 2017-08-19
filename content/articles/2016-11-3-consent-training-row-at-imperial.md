@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611032305-felix-IMPERIAL_ICL_ExhibRdEntrance-120--tojpeg_1417791202195_x1.jpg"
 image_caption: >
-  
+
 image_width: "1440"
 image_height: "664"
 image_attribution: "Imperial College London"
@@ -45,11 +45,11 @@ In his comment piece, James says that the concept of consent is sufficiently exp
 
 Additionally, the RCSU General Committee voted unanimously to condemn the expenditure. The specific wording of the motion passed was as follows. “The Royal College of Science Union condemns the spending by College on the Consent Matters software which we believe to be a wasteful and ineffective method of informing students on the important issue of consent.”
 
-In reply to James’ piece, Cramphorn \(whose manifesto points included delivering consent workshops\), commented that “cases such as Stanford, Columbia and others across UK universities have highlighted that the sector is not equipped to support students who are victims of sexual violence. Unfortunately the UK's Sex &amp; Relationship Education \(SRE\) does not encompass consent, and this means that there are many young people who may not understand what behaviour is acceptable and what behaviour isn't and what makes a healthy approach to relationships.”
+In reply to James’ piece, Cramphorn (whose manifesto points included delivering consent workshops), commented that “cases such as Stanford, Columbia and others across UK universities have highlighted that the sector is not equipped to support students who are victims of sexual violence. Unfortunately the UK's Sex &amp; Relationship Education (SRE) does not encompass consent, and this means that there are many young people who may not understand what behaviour is acceptable and what behaviour isn't and what makes a healthy approach to relationships.”
 
 Cramphorn indeed has a point. A recent government requested report published earlier this October by Universities UK shows that sexual harassment on campus is a major issue, which the education sector is not sufficiently tackling.
 
-Spokesperson for The 1752 Group Dr Anna Bull said that “despite the increasing pressure on universities to curb a rise in on\-campus assaults and improve their safeguarding policies, young women are nevertheless often terrified about the consequences if they make a complaint, particularly about a staff member. So often when they do, the university’s chief concern is to downplay any wrongdoing and protect its own reputation by keeping the whole thing quiet.
+Spokesperson for The 1752 Group Dr Anna Bull said that “despite the increasing pressure on universities to curb a rise in on-campus assaults and improve their safeguarding policies, young women are nevertheless often terrified about the consequences if they make a complaint, particularly about a staff member. So often when they do, the university’s chief concern is to downplay any wrongdoing and protect its own reputation by keeping the whole thing quiet.
 
 More needs to be done to protect women at British universities. They need to be encouraged to report assault and harassment. In the US, universities are obligated to investigate any such claims under federal law, regardless of any criminal investigation.”
 

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305161914-tna08-reesewitherspoonmud.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Hitting the screens almost exactly one year after its showing at the 2012 Cannes
 But despite the title, the focus of the film isn’t entirely on Mud’s plans: director Jeff Nichols tells the story in the point of view of two young, naive boys (Sheridan, Lofland) who like an adventure: and they’re certainly in for the most unforgettable event of their lives.
 
 Ellis (Sheridan) and Neckbone (Lofland) are best of friends who regularly go on river excursions riding around in their boat and bike. One day they stumble upon and befriend a mysterious man who has a lot to hide and needs protection.
-TODO: image from 
+TODO: image from
 Dealing with things that are far beyond their maturity level, the boys are initially hesitant about helping this shadowy figure, but knowing that it’s true love that gives Mud his drive, it’s Ellis who gets more stuck in, with his innocent views on how love, relationships and marriage work, whilst a sweet love life of his own seems to develop. Things at home are also rocky, further shattering his already fragile ideas on love. His parents are throwing around the much-dreaded D word, and this potential separation also hits him hard.
 
 Set in parts of America you probably never knew existed, its rich, warm visuals embrace the long line of complex characters who are far more than they appear to be. Just what is Mud running from? Why are State Troopers hunting him down? Is Juniper really the beautiful sweetheart Mud thinks she is? Is what they share true love? Confusing for the audience, so imagine how baffling this must be for the kids in the middle of this.

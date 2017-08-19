@@ -1,6 +1,6 @@
 ---
 title: >
-  Stirred but not shaken 
+  Stirred but not shaken
 subtitle: >
   Professor Christopher Andrew, MI5’s official historian, speaks on science in the security service at the Vincent Briscoe Annual Security Lecture
 date: "2010-10-28 19:25:18 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

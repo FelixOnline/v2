@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002251831-mb506-LadiesHo.jpg"
 image_caption: >
-  
+
 image_width: "3072"
 image_height: "2304"
 image_attribution: ""

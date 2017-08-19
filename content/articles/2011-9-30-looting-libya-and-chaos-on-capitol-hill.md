@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201109301232-felix-building-on-fire-during-t-007.jpg"
 image_caption: >
-  A Tottenham carpet store burns during the riots 
+  A Tottenham carpet store burns during the riots
 image_width: "460"
 image_height: "276"
 image_attribution: "guardian.co.uk"
@@ -62,7 +62,7 @@ __US__
 
 President Obama’s summer hasn’t been as great as he hoped. This summer he has had to deal with trying to increase the US Debt Ceiling.
 
-The debt ceiling is a limit of debt owed to the public by the government. This doesn’t mean that the government can’t run deficits, rather this piece of legislation controls the amount of money the US can borrow from bondholders and public trust funds like Social Security. Unless this limit is increased the government cannot legally borrow any more from these sources. This means the government would start to run out of money to fund its departments and pay back its expiring debts (e.g. bond interests).  
+The debt ceiling is a limit of debt owed to the public by the government. This doesn’t mean that the government can’t run deficits, rather this piece of legislation controls the amount of money the US can borrow from bondholders and public trust funds like Social Security. Unless this limit is increased the government cannot legally borrow any more from these sources. This means the government would start to run out of money to fund its departments and pay back its expiring debts (e.g. bond interests).
  Usually raising the debt ceiling doesn’t cause a major issue in Congress however the Republicans used it as a chance to hold the government at gunpoint while it demanded budget cuts and the abolishment of certain federal programs.
 
 After a very tense few months where temporary stopgap measures were agreed on by both parties, a compromise was made between the demands of the Republicans and the desires of the Democrats which allowed the bill to be signed on the 1st of August, just before the government ran out of money. However, [Mr Obama has suffered some negative press as a result](http://www.telegraph.co.uk/news/worldnews/us-politics/8675899/US-debt-crisis-US-House-passes-debt-ceiling-bill.html) of how close the government was to defaulting on some of its payments.

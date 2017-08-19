@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611071737-felix-Screen Shot 2016-11-02 at 13.48.29.png"
 image_caption: >
-  
+
 image_width: "1251"
 image_height: "641"
 image_attribution: "Instagram @formationmusic"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-_felix_ catches up with Formation while they’re on tour with Jagwar Ma. Another notch on their belt after playing Glastonbury, Field Day and having their song Pleasure chosen for the FIFA 17 soundtrack. In the room are front\-man Will Ritson, his twin brother Matt \(synths\), Jonny Tams \(bass\) and Kai Akinde\-Hummel \(drums\).
+_felix_ catches up with Formation while they’re on tour with Jagwar Ma. Another notch on their belt after playing Glastonbury, Field Day and having their song Pleasure chosen for the FIFA 17 soundtrack. In the room are front-man Will Ritson, his twin brother Matt (synths), Jonny Tams (bass) and Kai Akinde-Hummel (drums).
 
 They heard the FIFA news from their manager while at Glastonbury, but this isn’t the only benefit of their recent successes.
 
@@ -62,11 +62,11 @@ Perhaps their identity stems from the closeness of the band. Will and Matt are t
 
 But what do Kai and Jonny think of the arrangement?
 
-“Let’s talk when they’re not around,” laughs Kai.  “It’s good, we’re always working towards something. Will’s a drummer too, so I always get a second opinion.”  
+“Let’s talk when they’re not around,” laughs Kai.  “It’s good, we’re always working towards something. Will’s a drummer too, so I always get a second opinion.”
    Sash usually plays synths, but the band are one man down for this tour. This isn’t the only challenge facing a band new on the scene.
 
-“We had to carry our own gear \[at Glastonbury\] and the place is massive. It takes like 45 minutes to get across,” sighs Will.
-> > If people said Formation were a country\-funk band, we’d be like ‘not really’
+“We had to carry our own gear [at Glastonbury] and the place is massive. It takes like 45 minutes to get across,” sighs Will.
+> > If people said Formation were a country-funk band, we’d be like ‘not really’
 “It takes 45 minutes without gear!” Kai chimes in. “The whole place was flooded, it was like a river.”
 
 They didn’t let this dampen their spirits.
@@ -77,7 +77,7 @@ Claiming influences from A Tribe Called Quest to Pink Floyd, they’re wary abou
 
 “People like to put things into a certain box. I think it makes people uncomfortable if they can’t make comparisons,” suggests Kai.
 
-“If people said Formation were a country\-funk band, we’d be like ‘not really’,” laughs Matt.
+“If people said Formation were a country-funk band, we’d be like ‘not really’,” laughs Matt.
 
 “Send us a link to that band!” Jonny jokes.
 

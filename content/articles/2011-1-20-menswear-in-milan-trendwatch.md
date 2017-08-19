@@ -1,8 +1,8 @@
 ---
 title: >
-  Menswear in Milan: Trendwatch 
+  Menswear in Milan: Trendwatch
 subtitle: >
-  Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair 
+  Every type of gentleman is catered for on the menswear runways this season, from the fashionably daring to the handsomely debonair
 date: "2011-01-20 19:46:05 +0000"
 id: "613"
 old_path: /fashion/613/menswear-in-milan-trendwatch-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202033-ks607-blueboat.jpg"
 image_caption: >
-  
+
 image_width: "443"
 image_height: "665"
 image_attribution: ""

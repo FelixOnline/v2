@@ -1,6 +1,6 @@
 ---
 title: >
-  Wolverine’s National Championships hopes dashed 
+  Wolverine’s National Championships hopes dashed
 subtitle: >
   Imperial’s Wolverines unable to qualify for National Championships after suffering heartbreak in Southampton
 date: "2011-05-30 13:11:02 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105301410-felix-imperialthrow.jpg"
 image_caption: >
-  
+
 image_width: "3008"
 image_height: "2000"
 image_attribution: ""

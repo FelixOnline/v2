@@ -36,8 +36,8 @@ imported: true
 
 [__Titanic 3D__](http://www.imdb.com/title/tt1869152/)
 
-__Director__ James Cameron  
-__Screenwriter __James Cameron  
+__Director__ James Cameron
+__Screenwriter __James Cameron
 __Cast Leonardo __DiCaprio, Kate Winslet
 
 It’s been fifteen long years since James Cameron’s _Titanic_ first graced our screens and, love it or hate it, you’ve got to admit – it’s become a totally iconic film. Even now, in the midst of a dramatic effects era, it’s still an epic film to watch. But when Cameron – forefather of 3D films with his front runner _Avatar_ – announced he was rereleasing _Titanic_ in 3D, there was a lot of consternation from fans who believed the masterpiece should not be tampered with. As anyone who has seen the film knows, while the characters and storylines are moving, _Titanic_ relies greatly on the spectacle itself for its brilliance – so is that spectacle improved by 3D as much as Cameron promised?

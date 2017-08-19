@@ -1,6 +1,6 @@
 ---
 title: >
-  Videogames + Music = AWESOME 
+  Videogames + Music = AWESOME
 subtitle: >
   Charlotte Levin takes us to the strange party that is Nintendisco: a celebration of games, music and geekery
 date: "2011-03-18 08:48:49 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103180845-ks607-nitendis.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: ""

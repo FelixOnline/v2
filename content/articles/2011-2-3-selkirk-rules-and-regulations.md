@@ -1,6 +1,6 @@
 ---
 title: >
-  SELKIRK RULES! ...and regulations 
+  SELKIRK RULES! ...and regulations
 subtitle: >
   Selkirk students annoyed at new rules
 date: "2011-02-03 19:45:52 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031943-ks607-selkirks.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Miles Robertson"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - The article does not suggest that Selkirk are the only hall that have these rules it precisely says it seems that only Selkirk has had their regulations reinforced where one student was shocked that it was only their hallsIn fact earlier in the article it says Subwarden James FarleyNicholls said that they were a reemphasis of the preexisting requirements for living in halls These requirements were set for all halls at the beginning of term and are simply being reenforced more rigorously he arguesYour comment to us was as followsThese rules apply in Tizard as well and always have done  The student are made aware of them on their first day  I believe rules like these are standard across halls and make it a safe environment for everyoneThere is nothing in the article that is made up The article is already clear about the situation however I do concede that your comments would have added further claritySome unis have campuswide noise curfews and generally 
+ - The article does not suggest that Selkirk are the only hall that have these rules it precisely says it seems that only Selkirk has had their regulations reinforced where one student was shocked that it was only their hallsIn fact earlier in the article it says Subwarden James FarleyNicholls said that they were a reemphasis of the preexisting requirements for living in halls These requirements were set for all halls at the beginning of term and are simply being reenforced more rigorously he arguesYour comment to us was as followsThese rules apply in Tizard as well and always have done  The student are made aware of them on their first day  I believe rules like these are standard across halls and make it a safe environment for everyoneThere is nothing in the article that is made up The article is already clear about the situation however I do concede that your comments would have added further claritySome unis have campuswide noise curfews and generally
 imported: true
 ---
 

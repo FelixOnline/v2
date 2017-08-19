@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002051048-ks607-ToddBigR.jpg"
 image_caption: >
-  
+
 image_width: "491"
 image_height: "500"
 image_attribution: ""

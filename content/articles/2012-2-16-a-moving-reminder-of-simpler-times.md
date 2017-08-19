@@ -2,7 +2,7 @@
 title: >
   A moving reminder of simpler times
 subtitle: >
-  A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece 
+  A look back at Le Petit Nicolas – Goscinny and Sempé’s nostalgic masterpiece
 date: "2012-02-16 21:07:56 +0000"
 id: "2184"
 old_path: /books/2184/a-moving-reminder-of-simpler-times
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

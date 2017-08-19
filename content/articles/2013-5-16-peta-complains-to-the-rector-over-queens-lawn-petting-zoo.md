@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305162145-tna08-petting-zoo-shot.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 PETA have written to the President & Rector of Imperial College London urging him to stop the Union’s plans for a petting zoo on Queen’s Lawn on Thursday 23 May. The letter calls the petting zoo “ill-conceived” and asks for Imperial to “make a formal to avoiding future events that promote the mistreatment of animals”.
 
-In the letter, addressed to Sir Keith O’Nions (President & Rector), safety to students and treatment of animals are cited as reasons to stop the petting zoo, which is part of the Union’s Stress Less campaign.  
+In the letter, addressed to Sir Keith O’Nions (President & Rector), safety to students and treatment of animals are cited as reasons to stop the petting zoo, which is part of the Union’s Stress Less campaign.
  The letter states “Experts indicate that petting zoos are hotbeds of serious pathogens, including E coli and salmonella bacteria. The area surrounding an animal’s cage can be teeming with bacteria. According to the Health and Safety Executive, infections can spread through direct or even indirect animal contact, and in some cases the illness can be fatal.” The letter goes on to say that anxious students during exam season would have “weakened immune systems” and therefore be at a greater risk of infection, which PETA say means that students “can develop bloody diarrhoea, anaemia, chronic kidney failure or neurological impairments such as seizures and strokes”.
 
 The letter also sighted cruelty to animals as a reason to stop the petting zoo, saying that they “contribute to a cruel cycle of breeding, abandonment and killing”. It said “ Exhibitors take young animals on the road and, if they survive the stress of transport and handling, typically dispose of them when they become more difficult to handle, replacing them with new animals.” PETA also raised concerns over the way that the animals would be kept in general, saying that they are kept in unnatural social and family groups and that the habitats they are kept in “inhibit or prevent natural behaviour”.

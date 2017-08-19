@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I think the problem is that rape statistics are highly variable due to their under reported nature Admittedly I dont know where Keir got his figures from but estimates of the prevalence of rape can go as high as 1 in 4 women in the UK cwasuorg or 1 in 3 worldwide UN The NUS recently did a survey which found 1 in 7 female students were victims of sexual assault or violence whilst at university meaning if you know seven women at Imperial from those statistics you can say one of them is likely to have experienced sexual assault or violence whilst at college Also I think you ignored the part of the article which said Of children aged 13 to 18 33 of girls and 16 of boys have suffered from some form of sexual abuse considering most students here are over the age of 18 it means many of them are coming to university with past experiences which I dont think youve factored in as you seem to just assume most women are raped in early to mid adulthoodcontStill I dont really think 
+ - I think the problem is that rape statistics are highly variable due to their under reported nature Admittedly I dont know where Keir got his figures from but estimates of the prevalence of rape can go as high as 1 in 4 women in the UK cwasuorg or 1 in 3 worldwide UN The NUS recently did a survey which found 1 in 7 female students were victims of sexual assault or violence whilst at university meaning if you know seven women at Imperial from those statistics you can say one of them is likely to have experienced sexual assault or violence whilst at college Also I think you ignored the part of the article which said Of children aged 13 to 18 33 of girls and 16 of boys have suffered from some form of sexual abuse considering most students here are over the age of 18 it means many of them are coming to university with past experiences which I dont think youve factored in as you seem to just assume most women are raped in early to mid adulthoodcontStill I dont really think
 imported: true
 ---
 

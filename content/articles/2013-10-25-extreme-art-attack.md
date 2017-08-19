@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250117-felix-artartunderattack.jpg"
 image_caption: >
-  Chair (1969) by Allen Jones was attacked with paint stripper in 1986 by feminist campaigners. It is 
+  Chair (1969) by Allen Jones was attacked with paint stripper in 1986 by feminist campaigners. It is
 image_width: "0"
 image_height: "0"
 image_attribution: "TATE © ALLEN JONES"
@@ -34,12 +34,12 @@ comments:
 imported: true
 ---
 
-What: Art Under Attack: Histories of British Iconoclasm  
- Where: Tate Britain, SW1  
- When: Until 5th January 2014  
+What: Art Under Attack: Histories of British Iconoclasm
+ Where: Tate Britain, SW1
+ When: Until 5th January 2014
  Price: £13.10, £11.30 concessions, members free
 
-In an art world full of controversy, it can be difficult to find a work that truly hits you on a gut level. Hirst’s flies and rotting meat? Old hat. The Chapman Brothers’ horrors of war? Been there, done that.  
+In an art world full of controversy, it can be difficult to find a work that truly hits you on a gut level. Hirst’s flies and rotting meat? Old hat. The Chapman Brothers’ horrors of war? Been there, done that.
  But at the Tate Britain’s latest exhibition, Art Under Attack: Histories of British Iconoclasm, there is a work that still manages to pack a punch: a life-sized statue of Jesus from the 16th Century, discovered in Mercers’ Hall in 1954.
 
 The work is sublime, with an incredible attention to detail, but what makes it special is what the statue is missing — protestant reformers have hacked off the feet, legs, and right arm, leaving the face untouched, wearing an expression of pain and anguish, almost as if in reaction to what has been done. This forms the centrepiece of a beguiling and tragic exhibition which explores the role of destruction in artwork.

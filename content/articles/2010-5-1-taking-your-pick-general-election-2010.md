@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201005012007-felix-shotsfor.jpg"
 image_caption: >
-  
+
 image_width: "1042"
 image_height: "1563"
 image_attribution: ""

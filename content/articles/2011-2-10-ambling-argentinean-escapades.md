@@ -1,6 +1,6 @@
 ---
 title: >
-  Ambling Argentinean escapades 
+  Ambling Argentinean escapades
 subtitle: >
   The latest antics from Priya Garg, who tosses away her inhibitions and embraces the manic culture of Argentina’s booming capital
 date: "2011-02-10 20:02:06 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102101956-dr910-musician.jpg"
 image_caption: >
-  
+
 image_width: "1920"
 image_height: "2560"
 image_attribution: ""

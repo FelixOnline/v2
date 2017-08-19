@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,10 +34,10 @@ comments:
 imported: true
 ---
 
-In the first Council of the academic year, changes to the constitution, which were put forward by Paul Beaumont, Union President, were agreed to in principle. A period of consultation is now expected to begin. Beaumont said that he was going to be talking to people about it and explaining the changes.  
+In the first Council of the academic year, changes to the constitution, which were put forward by Paul Beaumont, Union President, were agreed to in principle. A period of consultation is now expected to begin. Beaumont said that he was going to be talking to people about it and explaining the changes.
  It is expected that the final document, with any changes made to the current one available, will be made public twelve days before Council meets to vote on it.
 
-Last year, the Union President at the time, Scott Heath, proposed changes to the Consitution, which is effectively the set of guidelines that decides how the Union is structured and governed.  
+Last year, the Union President at the time, Scott Heath, proposed changes to the Consitution, which is effectively the set of guidelines that decides how the Union is structured and governed.
  The changes proposed this time around are different do not include the Deputy President (Finance & Services) no longer being a position.
 
 The Representation & Welfare Board (RWB) would be split into two in the changes. These would be the Education & Representation Board, where officers who are dealing with representation would sit, and the Communities & Welfare Board, where welfare officers would sit.

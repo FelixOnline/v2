@@ -2,7 +2,7 @@
 title: >
   "We should be working towards the American system of higher education"
 subtitle: >
-  Charles Betts interviews Mark Field MP for the Cities of London and Westminster on science, higher education and representing Imperial 
+  Charles Betts interviews Mark Field MP for the Cities of London and Westminster on science, higher education and representing Imperial
 date: "2010-11-04 19:08:28 +0000"
 id: "327"
 old_path: /news/327/we-should-be-working-towards-the-american-system-of-higher-education
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041906-ks607-markfiel.jpg"
 image_caption: >
-  
+
 image_width: "4368"
 image_height: "2912"
 image_attribution: "Slobodan Radosavljevic"

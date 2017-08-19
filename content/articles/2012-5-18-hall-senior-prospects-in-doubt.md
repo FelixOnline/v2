@@ -2,7 +2,7 @@
 title: >
   Hall senior prospects in doubt
 subtitle: >
-  Frustration for future of Wilsonites 
+  Frustration for future of Wilsonites
 date: "2012-05-18 05:56:33 +0100"
 id: "2454"
 old_path: /news/2454/hall-senior-prospects-in-doubt

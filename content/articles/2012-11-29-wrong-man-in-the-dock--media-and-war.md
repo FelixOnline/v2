@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212081536-tna08-blair_protest_leveson_inquiry_david-lawley-wakelin.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -58,7 +58,7 @@ After three hours of deliberation, the judge decided Mr Wakelin’s behaviour ha
 
 As well as providing some amusing asides, this case provided another opportunity to examine the accusations against Tony Blair. Over the last decade, Blair has been dogged by allegations of misleading the country into an illegal war alongside George Bush. This is further compounded by the unstable situation in Iraq today which is now home to the largest US embassy in the world and many more armed private contractors than there ever were soldiers.
 > The hierarchal structure of large media companies render journalists powerless to challenge the established position
-The case is another in a growing trend of high profile individual protests such as Jonathan May-Bowles’ pie attack on Rupert Murdoch at a Commons committee hearing and even more controversially, Trenton Oldfield’s interruption of the annual Oxford-Cambridge boat race.  
+The case is another in a growing trend of high profile individual protests such as Jonathan May-Bowles’ pie attack on Rupert Murdoch at a Commons committee hearing and even more controversially, Trenton Oldfield’s interruption of the annual Oxford-Cambridge boat race.
  The timing was particularly relevant for Stop the War Coalition who hosted a conference the following day entitled ‘Media and War – Challenging the consensus’ (at Goldsmiths – obviously). Throughout the day, journalists and activists ran discussions on the failings (and successes) of reporting on the ongoing wars in Afghanistan and Iraq – with Lord Ashdown quoted that morning as saying “The only rational policy now is to leave quickly, in good order and in the company of our allies. This is the only cause for which further lives should be risked’. Given the escalation in violence recently, the standard of reporting of the Palestine Israel conflict was also discussed. One journalist for the financial times highlighted their own headline that day as an example of reporting bias (“Gaza rocket fired at Jerusalem”).
 
 The first discussion of the day was entitled ‘Serving the military or the public? Covering the war on terror’. One of the panellists, Michelle Stanistreet, General Secretary of the National Union of Journalists, put forward suggestions for independent regulation of the media in order to prevent monopolies and ensure a high quality of press. In 2007, she led the NUJ chapel when the Daily Star tried to print ‘The Daily Fatwa’ – their crass impression of what the esteemed paper would look like if the UK were an Islamic state. The hierarchal structure of large media companies render journalists powerless to challenge the established position of large papers, for example until 2002 it has been reported that the Guardian had a policy that ‘protests are not news’; this was publicly revoked following the 2 million strong protest to the Iraq war.

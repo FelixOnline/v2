@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial’s Dr Dexter comes under fire for ‘degrading’ exhibition 
+  Imperial’s Dr Dexter comes under fire for ‘degrading’ exhibition
 subtitle: >
   A London art gallery’s controversial exhibit has been branded “disrespectful and unacceptable”.
 date: "2011-01-20 19:34:28 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201929-ks607-braiiiii.jpg"
 image_caption: >
-  
+
 image_width: "830"
 image_height: "834"
 image_attribution: ""

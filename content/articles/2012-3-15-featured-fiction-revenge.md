@@ -36,7 +36,7 @@ imported: true
 
 A lonely tree stood solitary on a darkening hill. Its branches were bare and no birds would roost in its empty canopy. The bark towards its trunk was peeling off and patchy in many places giving a diseased appearance. Gnarled roots grew twisted in the parched earth, meaning that the whole tree leaned crookedly on its base.
 
-Sparse vegetation had appeared on the hill, sun-dyed brown, and now coated in sweaty dew.  
+Sparse vegetation had appeared on the hill, sun-dyed brown, and now coated in sweaty dew.
  Two men stood beneath the tree. One was shaking, as if froma extreme cold, while the other was calm and assured.
 
 “I told ya I’d find ya.” The second man breathed. “And I told ya, what I’d do to ya.”

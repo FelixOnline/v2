@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302142229-tna08-felix-adam-poster.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - This is excellent and I applaud you for highlighting it here Any opportunity to share ideas is always welcome Keep up the great work Felix and Imperial 
+ - This is excellent and I applaud you for highlighting it here Any opportunity to share ideas is always welcome Keep up the great work Felix and Imperial
 imported: true
 ---
 

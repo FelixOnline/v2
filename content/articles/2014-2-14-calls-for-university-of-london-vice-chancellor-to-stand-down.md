@@ -2,7 +2,7 @@
 title: >
   Calls for University of London vice chancellor to stand down
 subtitle: >
-  There have been a series of unpleasant events related to student protests at the University of London which has resulted in calls for Adrian Smith to resign his position as vice chancellor. 
+  There have been a series of unpleasant events related to student protests at the University of London which has resulted in calls for Adrian Smith to resign his position as vice chancellor.
 date: "2014-02-14 05:07:15 +0000"
 id: "4382"
 old_path: /news/4382/calls-for-university-of-london-vice-chancellor-to-stand-down
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271904-ks607-paulpaul.jpg"
 image_caption: >
-  
+
 image_width: "617"
 image_height: "424"
 image_attribution: ""

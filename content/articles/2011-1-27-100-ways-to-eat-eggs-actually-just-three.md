@@ -1,6 +1,6 @@
 ---
 title: >
-  100 ways to eat eggs! Actually just three… 
+  100 ways to eat eggs! Actually just three…
 subtitle: >
   The ultimate fast food: Eggs!
 date: "2011-01-27 20:33:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104230048-felix-3514192452_2981b6e008_b.jpeg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "683"
 image_attribution: "flickr/pietroizzo"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -45,7 +45,7 @@ Some have argued that as a historical artefact, removing his likeness is an atte
 
 We should be remembering the millions of victims of the British empire – those who our ancestors killed and enslaved around the word – not the man who subjugated them. And we can do that by erecting a statue of those he exploited as a replacement.
 
-It’s interesting that so many have come out to attack the Rhodes Must Fall campaign. The university’s chancellor, Lord Patten, suggested that students with such views “should think about being educated elsewhere”, and Harry Mount, writing for _The Daily Telegraph_ \(always the voice of reason\), described the students taking part in the movement as “a generation raised to believe that their feelings are all that matter”. The real problem is their generation; they seem happy for institutional racism to remain.
+It’s interesting that so many have come out to attack the Rhodes Must Fall campaign. The university’s chancellor, Lord Patten, suggested that students with such views “should think about being educated elsewhere”, and Harry Mount, writing for _The Daily Telegraph_ (always the voice of reason), described the students taking part in the movement as “a generation raised to believe that their feelings are all that matter”. The real problem is their generation; they seem happy for institutional racism to remain.
 
 Unfortunately, the reaction to Rhodes Must Fall is part of a greater problem – Britons are not educated about our colonial past. A recent survey by YouGov revealed that a staggering 59% thought the British Empire was something to be proud of. Only 19% said they were ashamed. On the empire’s legacy, 49% said countries were better off colonised compared with 15% believing that they were worse off.
 

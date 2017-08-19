@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The General Assembly of the [International Council for Science](http://www.icsu.org/) (ICSU) have recently recognised guidelines regarding the responsibilities and universal values which should be considered by scientists.  
+The General Assembly of the [International Council for Science](http://www.icsu.org/) (ICSU) have recently recognised guidelines regarding the responsibilities and universal values which should be considered by scientists.
  The new wording of the [Principle of Universality of Science](http://www.icsu.org/what-we-do/@@category_search?path=/icsu/what-we-do&Subject:list=Universality%20of%20Science), a prerequisite to membership of the ICSU family and the underlying foundation of their statutes, outlines the need for scientists to pay attention to their duties as well as preserving scientific freedom.
 
 The ICSU was founded in 1931 and has a global membership of national scientific bodies and international unions, focusing on areas including planning and coordinating research, science for policy and strengthening the Universality of Science.
@@ -45,7 +45,7 @@ On the explicit inclusion of responsibilities as well as freedoms to the Princip
 
 The new wording of the Principle was approved at the end of September at the ICSU’s General Assembly in Rome. The Principle now states that “the free and responsible practice of science... requires responsibility at all levels to carry out and communicate scientific work with integrity, respect, fairness, trustworthiness, and transparency, recognising its benefits and possible harms.”
 
-The Principle continues to maintain “freedom of movement, association, expression and communication for scientists, as well as equitable access to data, information, and other resources for research.”  
+The Principle continues to maintain “freedom of movement, association, expression and communication for scientists, as well as equitable access to data, information, and other resources for research.”
  The CFRS was also involved in the organisation of the second World Conference on Research Integrity in Singapore last year, from which the Singapore Statement on Research Integrity was presented to the Assembly in Rome.
 
 The statement emphasized good scientific conduct and the need for honesty, accountability, professional courtesy and fairness in working with others.

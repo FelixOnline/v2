@@ -2,7 +2,7 @@
 title: >
   Let's go hyper
 subtitle: >
-  Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention 
+  Xuan Chen visits HYPER JAPAN and meets some of the stars behind the convention
 date: "2014-11-28 00:54:56 +0000"
 id: "4969"
 old_path: /features/4969/lets-go-hyper
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411280054-ps3110-for-website.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

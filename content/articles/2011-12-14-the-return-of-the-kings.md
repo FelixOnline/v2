@@ -1,6 +1,6 @@
 ---
 title: >
-  The Return of the Kings 
+  The Return of the Kings
 subtitle: >
   The Donmar reaches the end of a golden era with Shakespeare’s Richard II, and Michael Grandage as artistic director
 date: "2011-12-14 11:16:38 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

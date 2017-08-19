@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010021304-ck806-gambon.jpg"
 image_caption: >
-  
+
 image_width: "2468"
 image_height: "3000"
 image_attribution: ""

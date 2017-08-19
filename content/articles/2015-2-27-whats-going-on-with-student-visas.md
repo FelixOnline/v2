@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,7 +37,7 @@ imported: true
 
 An influential group of MPs has criticised the Government’s student visa policy this week. In a report published by the All-Party Parliamentary Group on Migration, the MPs argued for re-opening of the “post-study work route” following graduation.
 
-Up until 2012, international students could remain in the UK for up to two years while searching for another educational course (for example, a Masters) or employment. Following the change, students  
+Up until 2012, international students could remain in the UK for up to two years while searching for another educational course (for example, a Masters) or employment. Following the change, students
  have only four months, meaning an Imperial undergraduate whose course ends in late June may remain in the UK until late October.
 
 The group of MPs argued for this period to be extended to twelve months, in order to “[maximise] the attractiveness of UK higher education in the face of an increasingly competitive international marketplace”.

@@ -2,7 +2,7 @@
 title: >
   Have a very Merry Christmas and a fact-filled New Year!
 subtitle: >
-  Philippa Skett, signing off for Christmas with some festive facts 
+  Philippa Skett, signing off for Christmas with some festive facts
 date: "2012-12-07 01:44:59 +0000"
 id: "3041"
 old_path: /science/3041/have-a-very-merry-christmas-and-a-fact-filled-new-year
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201212070143-tna08-532429-bigthumbnail.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

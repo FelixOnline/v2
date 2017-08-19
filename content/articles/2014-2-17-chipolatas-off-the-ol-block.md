@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,7 +48,7 @@ __Lap Cheong (Chinese Sausage)__
 
 Unlike their human Imperial counterparts, lap cheong (“waxed sausages”) probably get a lot more sun due to the drying/manufacturing process. You don’t consume them in the same way you do with most of the sausages here - they’re more of seasoning or a flavour-packed accent morsel as opposed to a main protein. Like chorizo, a little goes a long way.
 
-__Two veggies that go with this sausage__: Dice up that sausage into little cubes, stir fry with peas + diced carrots, and add to your (egg) fried rice. We guarantee that little added extra will score you A\*s and firsts all around in the culinary realm.
+__Two veggies that go with this sausage__: Dice up that sausage into little cubes, stir fry with peas + diced carrots, and add to your (egg) fried rice. We guarantee that little added extra will score you A*s and firsts all around in the culinary realm.
 
 __Cumberland__
 

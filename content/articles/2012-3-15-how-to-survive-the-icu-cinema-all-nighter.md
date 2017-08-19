@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152056-ams111-success-kid-meme-generator-copy.jpg"
 image_caption: >
-  
+
 image_width: "510"
 image_height: "510"
 image_attribution: ""

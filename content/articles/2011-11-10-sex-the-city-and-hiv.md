@@ -31,13 +31,13 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Your answer shows real inngllieetceThis is what we need  an insight to make evrnoyee think  insurance agencies for autos   cialis order   fights diseases   order accutane   might expereince 
+ - Your answer shows real inngllieetceThis is what we need  an insight to make evrnoyee think  insurance agencies for autos   cialis order   fights diseases   order accutane   might expereince
 imported: true
 ---
 
 Ever sat with a hanky in hand, wiping away tears as Edward climbs the fire escape with a rose in his teeth to profess his love to Vivienne, in the final scene of Pretty Woman? Or ever had a laugh at Belle and her hilarious antics in Secret Diary of a Call Girl?
 
-Unfortunately, in reality, life for female sex workers is far from glamorous, romantic or funny.  
+Unfortunately, in reality, life for female sex workers is far from glamorous, romantic or funny.
  I originate from Bangalore, a thriving city in the state of Karnataka in southern India, popularly known as the ‘Garden City of India’, due to its pretty old colonial parks, or the ‘Silicon Valley of India’, due to its booming IT industry. Growing up there, in my privileged home in central Bangalore, sex workers certainly never crossed my mind. So eleven years later, when asked to do my Master’s project on HIV and sexually transmitted infections in female sex workers and their clients in various regions in southern India, including Bangalore, I had to look at my hometown from a slightly different angle.
 
 The Avahan project is funded by well-known philanthropists Bill and Melinda Gates, and aims to prevent the spread of HIV around India. It turns out that HIV is highest in six states in India – Andhra Pradesh, Maharashtra (home of course to Bombay and Bollywood), Tamil Nadu, Karnataka, Nagaland and Manipur. Of these, the last two can attribute the spread of the virus mainly to injecting drug use, whilst the other four states to sexual transmission.

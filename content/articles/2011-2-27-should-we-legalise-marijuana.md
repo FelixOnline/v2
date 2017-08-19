@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271218-ks607-marijuan.jpg"
 image_caption: >
-  
+
 image_width: "661"
 image_height: "453"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Why Lingxi Huang is a terrible scientistsmoking weed damages the lungs  so thatd be related to the action of smoking and not the cannabiscontains over 400 chemicals  a cup of coffee contains over 1000 chemicals Number of chemicals is directly proportional to problems caused Pleasestepping stone drug  total rubbish and no evidence for it Could it just be that those who try cannabis are also more likely to dabble with other things too Lots of heroin users would never take cannabis and viceversadifficult to quantify the long term effects  not really Extensive studies have been done See httpnewsbbcimgcoukmediaimages49735000gif_49735645_drugs_comparisons_464grgifimpact the users learning capabilities  over what time period Sourcethe laws of economics dictate  no putting price down will not increase consumption I guess Electrical Engineering students shouldnt bother trying to understand the laws of economicsThe terrible scientist speaks  
+ - Why Lingxi Huang is a terrible scientistsmoking weed damages the lungs  so thatd be related to the action of smoking and not the cannabiscontains over 400 chemicals  a cup of coffee contains over 1000 chemicals Number of chemicals is directly proportional to problems caused Pleasestepping stone drug  total rubbish and no evidence for it Could it just be that those who try cannabis are also more likely to dabble with other things too Lots of heroin users would never take cannabis and viceversadifficult to quantify the long term effects  not really Extensive studies have been done See httpnewsbbcimgcoukmediaimages49735000gif_49735645_drugs_comparisons_464grgifimpact the users learning capabilities  over what time period Sourcethe laws of economics dictate  no putting price down will not increase consumption I guess Electrical Engineering students shouldnt bother trying to understand the laws of economicsThe terrible scientist speaks
 imported: true
 ---
 

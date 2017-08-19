@@ -1,6 +1,6 @@
 ---
 title: >
-  The Mac App Store 
+  The Mac App Store
 subtitle: >
   What's next for Apple?
 date: "2010-10-28 19:35:02 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282033-ks607-macappst.jpg"
 image_caption: >
-  
+
 image_width: "974"
 image_height: "563"
 image_attribution: ""

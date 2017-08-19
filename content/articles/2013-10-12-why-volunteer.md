@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,7 +48,7 @@ Some people think that charity should be done as a completely selfless pursuit. 
 
 6) It will make you more employable! I hate to use the ‘CV’ word but you don’t want to be one of those people that end up sitting behind a desk at their first job and can’t communicate with their office mate to save their life. Volunteering will expose you to all kinds of situations that are unfamiliar and will force you to develop your own skills. I don’t think I would be nearly as confident writing for Felix if I hadn’t done any charity stuff!
 
-Feel free to email me if you have any questions!  
+Feel free to email me if you have any questions!
  Ben
 
 rag.treasurer@imperial.ac.uk

@@ -2,7 +2,7 @@
 title: >
   Interview: Jon Haynes in Conversation
 subtitle: >
-  The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians. 
+  The co-artistic director of renowned theatre company Ridiculusmus speaks to Max Falkenberg about schizophrenia, the creative process, the brutality of arts funding and throwing tomatoes at comedians.
 date: "2015-02-22 17:35:06 +0000"
 id: "5302"
 old_path: /arts/5302/interview-jon-haynes-in-conversation

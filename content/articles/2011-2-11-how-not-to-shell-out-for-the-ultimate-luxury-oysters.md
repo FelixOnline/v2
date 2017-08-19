@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102110653-ks607-oysterso.jpg"
 image_caption: >
-  
+
 image_width: "950"
 image_height: "1097"
 image_attribution: ""

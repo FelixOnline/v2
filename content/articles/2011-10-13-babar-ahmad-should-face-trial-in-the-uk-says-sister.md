@@ -49,5 +49,5 @@ Amna Ahmad argues that “extradition is for fugitives who commit a crime in one
 
 Babar Ahmad’s supporters have launched a petition, urging the Government to allow him to stand trial in the UK. So far, the petition has received 23,000 signatures. If this number reaches 100,000, the Government is required to debate it in Parliament. Amna says “it will send a strong signal to the British Government … that there is sufficient public support behind our quest.” However, given the Government’s reluctance so far to compromise on the issue, the outcome of such a debate remains doubtful.
 
-Nevertheless, Amna is closely involved with the Free Babar Ahmad Campaign and is actively engaged in promoting the online petition. She believes it is “shocking that our Government can hold a man without trial for over 7 years” and that “uncertainty of fate is a very difficult thing for any human being to deal with”.  
+Nevertheless, Amna is closely involved with the Free Babar Ahmad Campaign and is actively engaged in promoting the online petition. She believes it is “shocking that our Government can hold a man without trial for over 7 years” and that “uncertainty of fate is a very difficult thing for any human being to deal with”.
  Links to the petition and more information on Babar Ahmad’s case can be found at <http://www.freebabarahmad.com/>

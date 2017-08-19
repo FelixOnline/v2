@@ -35,13 +35,13 @@ comments:
 imported: true
 ---
 
-You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3\-year\-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time \(ageism, obviously\), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.
+You would be forgiven for expecting a guy like me, raised by a mother whose list of accolades includes filing suits against a nursery nurse for telling 3-year-old me to remove my nail varnish because “that’s what girls wear” and a post office for not allowing more than two  school children in at a time (ageism, obviously), to have been well and truly smothered in leftie PC rhetoric to the point of opting to punch myself in the face rather than mistakenly refer to a transgender person using a cisgender personal pronoun.
 
 However, I think it’s time those of us at Imperial and elsewhere who define ourselves as part of the hard left join me in taking a look at the extent to which this rapidly changing political movement truly represents us.
 > > There are dozens of situations where free speech was smothered by political correctness
-The values those on the hard\-left like to claim as their own can be well described as Robin Hood\-esque. They consider capitalism a game of chance: those born into riches generally prosper while those born into poverty generally stay there. They want to level out the playing field so fewer people have to suffer. They’re sound principles, but do the more specific political beliefs and actions of members of this movement really embody them?
+The values those on the hard-left like to claim as their own can be well described as Robin Hood-esque. They consider capitalism a game of chance: those born into riches generally prosper while those born into poverty generally stay there. They want to level out the playing field so fewer people have to suffer. They’re sound principles, but do the more specific political beliefs and actions of members of this movement really embody them?
 
-It is quite clear that a significant proportion of the hard\-left has, in the past five years, become so obsessed with political correctness that they are actively stifling free speech.
+It is quite clear that a significant proportion of the hard-left has, in the past five years, become so obsessed with political correctness that they are actively stifling free speech.
 
 Just look at our universities, where you would expect that free speech would be protected at all cost. What kind of institution would want students to only hear things they agree with? Where does that get anyone?
 
@@ -53,7 +53,7 @@ Elsewhere, Goldsmiths University SU voted against a measure to hold commemoratio
 
 This is obviously preposterous – imagine seeing a flyer captioned “WOMEN AND BLACKS NOT WELCOME.” The culprit would likely be kicked off their course. Meanwhile Bahar’s defence, that minority women could not be racist, was apparently sufficient.
 
-Satirical T\-shirts depicting Jesus and Mohammed drinking beer would have got an LSE Atheist society kicked out of their freshers’ fair had they not covered them up, as it was deemed offensive by LSE’s student union, which would make blasphemy an offence.
+Satirical T-shirts depicting Jesus and Mohammed drinking beer would have got an LSE Atheist society kicked out of their freshers’ fair had they not covered them up, as it was deemed offensive by LSE’s student union, which would make blasphemy an offence.
 
 I’m offended by loud breathers and people with BO but I wouldn’t dream of petitioning for a ban on such things. While there’s religion there are people opposed to religion, just like with anything.
 
@@ -65,6 +65,6 @@ A new term referring to these social justice warriors has been thrown around on 
 
 The Regressive Left are those who, after Charlie Hebdo and the Bataclan attacks, rushed to Twitter not to condemn the attacks but to beg and plead others not to associate this Islamic terrorism, terrorism in the name of Islam, with Islam. The Regressive Left doesn’t dare criticise Islam because that would make them ‘Islamophobic’.
 
-Criticising Islam will not hurt Muslims any more than criticising a scientific paper damages the paper – it does the opposite. These people are willing to be liberal about everything but Islam. It is no surprise that those on the far right are mocking the hard\-left’s ridiculous behaviour: Milo Yiannopoulos ironically set up a college scholarship fund only available to white men. It’s worth mentioning that when he looked into the statistics and found that poor white boys are in fact the most under\-represented group in universities in the UK and US, he decided to make this fund a real thing. Of course, the hard\-left exploded.
+Criticising Islam will not hurt Muslims any more than criticising a scientific paper damages the paper – it does the opposite. These people are willing to be liberal about everything but Islam. It is no surprise that those on the far right are mocking the hard-left’s ridiculous behaviour: Milo Yiannopoulos ironically set up a college scholarship fund only available to white men. It’s worth mentioning that when he looked into the statistics and found that poor white boys are in fact the most under-represented group in universities in the UK and US, he decided to make this fund a real thing. Of course, the hard-left exploded.
 
 The bottom line is we need to chill. Open debate is what we’re here for. We can’t purge our lives of anything that’ll make us question our beliefs, as considering the opinions of others is how we grow.

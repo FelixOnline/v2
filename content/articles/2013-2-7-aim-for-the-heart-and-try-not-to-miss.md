@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302072337-tna08-sniper_elite_v2_kill.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,7 +44,7 @@ With hidden Nazi gold and well... wine bottles, there’s a bit of replayability
 
 I would say the main gimmick of the game is the slew of slow-motion videos you get when you head-shot an enemy, (even slower motion when you hit the fuel cap of a tank, or a wine bottle), but that kinda implies that it gets boring after a while, and I don’t think it does. Thankfully, both players only share slow-motion kills when it’s something big, so your partner can continue covering the walls of Berlin with knee-originating blood-spatter, whilst you enjoy getting those sweet, sweet headshots.
 
-You don’t have to aim for body parts either, to get the most bang-per-bullet. Aiming at the grenades on your target’s belts always leads to a satisfying explosion, and can save ammo if it’s scarce.  
+You don’t have to aim for body parts either, to get the most bang-per-bullet. Aiming at the grenades on your target’s belts always leads to a satisfying explosion, and can save ammo if it’s scarce.
  The graphics are great (and don’t seem taxing on average computer hardware) as is the audio and music, so I’ve no quibbles there. One thing I will question, however, is the choice of the overused over-the-shoulder camera view. I think we would prefer to play this as an FPS, as the controls can feel a little ‘clunky’ as they current are.
 
 The game is currently out on Steam (£29.99), PS3 and 360, so if you fancy a night in, taking people out, then I’d highly recommend this game.

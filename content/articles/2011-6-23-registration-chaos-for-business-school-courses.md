@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
 image_caption: >
-  
+
 image_width: "2848"
 image_height: "4271"
 image_attribution: "Imperial College London"

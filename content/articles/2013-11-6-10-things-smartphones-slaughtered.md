@@ -2,7 +2,7 @@
 title: >
   10 Things Smartphones Slaughtered
 subtitle: >
-  After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones). 
+  After last weeks Osama Awara’s “10 things the Internet has slaughtered”, I decided to write something in a similar vein, except of course exchanging one vital invention (internet) of our lives for something equally important (smartphones).
 date: "2013-11-06 17:20:55 +0000"
 id: "4017"
 old_path: /tech/4017/10-things-smartphones-slaughtered
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201311061720-me1711-tech_preciousjpg.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

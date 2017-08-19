@@ -34,8 +34,8 @@ comments:
 imported: true
 ---
 
-Events of the past few weeks have shone a new light on how our media has been operated as a monopoly, with one arguably great but unquestionably evil man at its apex. With the disintegration of his empire, the question now facing all of us is how can the media change its ways of operating and still meet the need of its audience?  
-  
+Events of the past few weeks have shone a new light on how our media has been operated as a monopoly, with one arguably great but unquestionably evil man at its apex. With the disintegration of his empire, the question now facing all of us is how can the media change its ways of operating and still meet the need of its audience?
+
  Amazingly, it was always known how this one tyrant held a vice like grip over all the media we consumed. However we chose to ignore not only this fact, but also the awareness we had of his corrupt relationship with those supposedly elected officials who operated in our interests, unfailingly attending parties and social functions to which heads of other media networks hadn’t even been invited.
 
 __Insidious Control __

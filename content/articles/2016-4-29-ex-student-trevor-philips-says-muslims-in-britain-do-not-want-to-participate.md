@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Ex\-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.
+Ex-ICU President and broadcaster, Trevor Philips, appeared in a Channel 4 documentary called “What do Muslims really think?” The controversial show, which aired in the Easter break, reflected on a poll which had quizzed Muslims on their thoughts on issues like homosexuality, sharia law and human rights.
 
 The data collection methods have been criticised by a number of sides. Muslims were interviewed in areas where a minimum of 20% of the population practice Islam, which are also home to some of the poorest and religiously conservative Muslim families. This arguably isn’t a representative view of Muslims living throughout the UK. The control group given the same questions were also only interviewed on the phone, rather than face to face.One of the most misleading answers was that about reporting terrorism. Although 34% of Muslims said they would report someone to the police who they knew was involved with people who supported terrorism in Syria, this figure was only 30% in the control group. Despite this, Philips called the stat “alarming”.
 
@@ -47,6 +47,6 @@ In 2007, he was awarded Imperial’s “highest honour” by being admitted to t
 
 In an interview with the college for its alumni webpage, he said that after graduating he was told by a graduate employer: “Get real. Radical leftie. Black. And let’s be honest, not really much of a chemist.  We can see trouble coming, and you’ve got it written all over you. Try something else”.
 
-Philips has long spoke out against multiculturalism, so much so that the London mayor at the time, Ken Livingstone, accused him of being so right\-wing that he “would soon join the BNP”.
+Philips has long spoke out against multiculturalism, so much so that the London mayor at the time, Ken Livingstone, accused him of being so right-wing that he “would soon join the BNP”.
 
 He has also previously spoken at Imperial as part of its Diversity Lecture series, which aims to promote “knowledge, awareness and understanding” of diversity.

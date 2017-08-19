@@ -2,7 +2,7 @@
 title: >
    ‘Rock & Roll’ – It’s time to toughen up!
 subtitle: >
-  The change in ‘Rock & Roll’ 
+  The change in ‘Rock & Roll’
 date: "2011-01-20 20:38:21 +0000"
 id: "630"
 old_path: /music/630/-rock--roll--its-time-to-toughen-up
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202033-nm1010-rockersf.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "362"
 image_attribution: ""

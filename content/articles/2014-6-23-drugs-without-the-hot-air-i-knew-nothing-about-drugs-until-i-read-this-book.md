@@ -2,7 +2,7 @@
 title: >
   Drugs Without the Hot Air: I Knew Nothing About Drugs Until I Read This Book
 subtitle: >
-  Guess which substance killed Amy Winehouse? Have a stab in the dark. 
+  Guess which substance killed Amy Winehouse? Have a stab in the dark.
 date: "2014-06-23 14:54:59 +0100"
 id: "4715"
 old_path: /science/4715/drugs-without-the-hot-air-i-knew-nothing-about-drugs-until-i-read-this-book
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406231554-jal08-screen-shot-2014-06-23-at-15.54.42.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

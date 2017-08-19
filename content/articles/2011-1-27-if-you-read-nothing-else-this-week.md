@@ -1,8 +1,8 @@
 ---
 title: >
-  If you read nothing else this week... 
+  If you read nothing else this week...
 subtitle: >
-  Zainab Ali puts the case for this collection of poems and short stories by a darkly original author 
+  Zainab Ali puts the case for this collection of poems and short stories by a darkly original author
 date: "2011-01-27 19:52:55 +0000"
 id: "680"
 old_path: /arts/680/if-you-read-nothing-else-this-week-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272032-ks607-zainabbo.jpg"
 image_caption: >
-  
+
 image_width: "306"
 image_height: "500"
 image_attribution: ""

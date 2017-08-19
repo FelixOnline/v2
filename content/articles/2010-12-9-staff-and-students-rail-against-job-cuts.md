@@ -1,6 +1,6 @@
 ---
 title: >
-  Staff and students rail against job cuts 
+  Staff and students rail against job cuts
 subtitle: >
   Critics say teaching will be hit hardest as Life Sciences promise teaching review in January
 date: "2010-12-09 21:12:19 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092058-dr910-lifescie.jpg"
 image_caption: >
-  
+
 image_width: "4183"
 image_height: "2848"
 image_attribution: ""

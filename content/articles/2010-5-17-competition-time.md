@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201005171813-felix-yeasayer.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "794"
 image_attribution: ""

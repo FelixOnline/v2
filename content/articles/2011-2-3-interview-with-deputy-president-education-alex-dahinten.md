@@ -1,6 +1,6 @@
 ---
 title: >
-  Interview with Deputy President (Education) Alex Dahinten 
+  Interview with Deputy President (Education) Alex Dahinten
 subtitle: >
   "You do need to be a dynamic person. Since it’s so new, you need to want to shape the position"
 date: "2011-02-03 19:26:50 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031920-ks607-dahinten.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Miles Robertson"

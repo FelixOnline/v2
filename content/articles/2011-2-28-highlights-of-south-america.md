@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102282053-ks607-southama.jpg"
 image_caption: >
-  
+
 image_width: "716"
 image_height: "534"
 image_attribution: ""

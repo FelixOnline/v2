@@ -1,6 +1,6 @@
 ---
 title: >
-  Blackboard Learn set for Imperial 
+  Blackboard Learn set for Imperial
 subtitle: >
   Current Blackboard to be replaced with entirely new system
 date: "2012-06-08 08:32:08 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201206080932-mc4509-gateway_learn.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Blackboard sucks hairy ass I hate it and its so so terribleI agree with above poster They say its all new and it looks all new until you click a link to one of your courses and then youre back to good old stabbing yourself in the eyes and crying yourself to sleepWhy didnt they just roll out Earth Science and Engineerings VLE ESESIS It is amazing No wonder why their student satisfaction is so high 
+ - Blackboard sucks hairy ass I hate it and its so so terribleI agree with above poster They say its all new and it looks all new until you click a link to one of your courses and then youre back to good old stabbing yourself in the eyes and crying yourself to sleepWhy didnt they just roll out Earth Science and Engineerings VLE ESESIS It is amazing No wonder why their student satisfaction is so high
 imported: true
 ---
 

@@ -52,7 +52,7 @@ Mick comes across as a modest guy who just likes an adventure. I’d recommend h
 
 With the opening up of the Himalayan Mountains, there are many valleys unexplored and summits unclimbed. Only a modest amount of the Himalayas has been summited, there is plenty of area to be explored and adventures waiting to be had...
 
-Exploration Society organise many talks throughout the year from the world’s top explorers. The society is there for people to hear about other’s experiences, or who have the desire to explore themselves.  
+Exploration Society organise many talks throughout the year from the world’s top explorers. The society is there for people to hear about other’s experiences, or who have the desire to explore themselves.
  There’s an adventure to be had everywhere!
 
 The next talk will be on the adventures of an Imperial College Kayaking expedition to Sri Lanka. It will be on March 6 at 6:30pm in the RSM LT 1.31. Hope to see you all there!

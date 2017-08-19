@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-The first ever TEDx conference to be held at Imperial is coming this March. Organised by a team of Imperial students, [TEDxImperialCollege](http://www.tedximperialcollege.com) will feature live lectures and online videos in the TED format.  
+The first ever TEDx conference to be held at Imperial is coming this March. Organised by a team of Imperial students, [TEDxImperialCollege](http://www.tedximperialcollege.com) will feature live lectures and online videos in the TED format.
  The event on March 24 is titled The Great Exhibition and will “explore the connection between science, design and innovation, and their impact on the human experience”. TEDxImperialCollege license holder Gilead Amit said “TEDx is all about giving local voices the chance to be heard – and where could you find more exciting local voices than in London’s cultural heartland?”
 
 [TEDx](http://www.ted.com/tedx) is an offshoot of [TED](http://www.ted.com) (Technology, Entertainment, Design), the conference famous for spreading innovative and inspirational ideas. TEDx events are independently-hosted, local conferences featuring videos and live lectures in the TED format, licensed and promoted by the organisation in spirit of their mission and tagline – “Ideas Worth Spreading.”

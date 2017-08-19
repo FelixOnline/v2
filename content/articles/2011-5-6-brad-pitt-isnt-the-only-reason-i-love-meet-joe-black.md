@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061610-felix-spuntino-pbj.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "600"
 image_attribution: "Dana Li"
@@ -45,8 +45,8 @@ It feels like a terribly apt moment to go get myself a peanut butter Ben’s Coo
 
 If you’re feeling the love, check these out:
 
-[Spuntino](http://www.spuntino.co.uk/) 61 Rupert St, London W1D 7PW.  
+[Spuntino](http://www.spuntino.co.uk/) 61 Rupert St, London W1D 7PW.
 [Ed’s Diner](http://www.edseasydiner.com/) Unit 34b London Trocadero, 19 Rupert St, London W1D 7PA.
 
-[Peanut Butter Man](http://movieclips.com/MV2b8-meet-joe-black-movie-peanut-butter-man/)  
+[Peanut Butter Man](http://movieclips.com/MV2b8-meet-joe-black-movie-peanut-butter-man/)
 [Meet Joe Black](http://movieclips.com/tRKYL-meet-joe-black-movie-videos/)[at MOVIECLIPS.com](http://movieclips.com/)

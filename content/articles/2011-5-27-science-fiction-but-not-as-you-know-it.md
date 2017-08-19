@@ -1,6 +1,6 @@
 ---
 title: >
-  Science fiction, but not as you know it 
+  Science fiction, but not as you know it
 subtitle: >
   The British Library’s intrepid new exhibition
 date: "2011-05-27 14:14:32 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105271514-felix-tri-pod-visual-v9-copy.jpg"
 image_caption: >
-  
+
 image_width: "842"
 image_height: "1191"
 image_attribution: ""

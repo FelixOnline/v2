@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210191356-tna08-photo.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 On Wednesday the netball first team played Essex 1’s at home in Ethos to kick off their BUCS season. With only 3 returning members no one was quite sure how the team would perform under match pressure and there were a lot of nerves before the first whistle.
 
-The match got off to a shaky start for both teams with quite a lot of mistakes made on each side, but slowly as the teams found their feet goals started to be scored. The first quarter was very close and ended 9-8 in IC’s favour but the whole team knew they should be winning, and winning by more.  
+The match got off to a shaky start for both teams with quite a lot of mistakes made on each side, but slowly as the teams found their feet goals started to be scored. The first quarter was very close and ended 9-8 in IC’s favour but the whole team knew they should be winning, and winning by more.
  In the second quarter the passing improved and with some great defence IC found more of a rhythm through the court. Sophie Andrew was on form intercepting passes in the circle and Sam Killick was starting to control the play well from the centre. At half time the score was still close but IC was on the up.
 
 In the third quarter something really clicked with the IC team and they started to pull away. The Essex defence were marking the shooters very tightly in the circle but some lovely passes in from Kirsty Roy and amazing shooting by Tamar Loach gave IC the edge.

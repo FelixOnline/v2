@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Since colleges withdrawal of their traditional 20000 contribution it looks like ticket prices are going to be a lot higher Paying 50 for what is essentially a cut price event doesnt seem promising to me Matt 
+ - Since colleges withdrawal of their traditional 20000 contribution it looks like ticket prices are going to be a lot higher Paying 50 for what is essentially a cut price event doesnt seem promising to me Matt
 imported: true
 ---
 

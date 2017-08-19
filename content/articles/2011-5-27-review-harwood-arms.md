@@ -1,6 +1,6 @@
 ---
 title: >
-  Review: Harwood Arms 
+  Review: Harwood Arms
 subtitle: >
   Michelin-starred dining in Fulham
 date: "2011-05-27 13:53:43 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105271453-felix-scothc-egg.jpg"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "384"
 image_attribution: ""

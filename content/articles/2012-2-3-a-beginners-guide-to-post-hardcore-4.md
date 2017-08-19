@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202031124-sjw209-everytimeidie.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "335"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -42,5 +42,5 @@ Throughout the early stages of chess, e.g. the middle ages, chess was played by 
 
 This attitude that men and women need to be judged differently in this sport is the crux of the problem. Yes, I agree that in some sports it makes sense to have different competitions, ranking etc. but why in chess?
 
-Another aspect that I believe hinders women into getting chess as much as men is the the general perception of chess players. Since chess is the ultimate logical sport, men are seen as the best gender as they are, oh, so much more logical, just like in the STEM subjects. I mean honestly, if I asked you on the fly right now, to name five women who were a great chess players, you would stumble a bit (hopefully you could name five chess players though!). This ‘public opinion’ has also lead to less encouragement by parents, sponsors and clubs to try and get women to actually try playing chess.   
+Another aspect that I believe hinders women into getting chess as much as men is the the general perception of chess players. Since chess is the ultimate logical sport, men are seen as the best gender as they are, oh, so much more logical, just like in the STEM subjects. I mean honestly, if I asked you on the fly right now, to name five women who were a great chess players, you would stumble a bit (hopefully you could name five chess players though!). This ‘public opinion’ has also lead to less encouragement by parents, sponsors and clubs to try and get women to actually try playing chess.
 As an avid chess player, I think it is quite sad that such a significant part of the population does not get as much support to try playing chess. The wealth of talent that probably goes wasted is a crime. I believe that there isn’t a more equal game, where two human beings, independent of gender, age or origin can play a fair game, so why not let all have a go at it?

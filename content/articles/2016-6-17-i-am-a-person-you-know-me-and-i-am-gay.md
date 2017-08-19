@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201606171053-felix-Orlando flags.jpg"
 image_caption: >
-  The Orlando shooting is a harrowing reminder of the bigotry LGBTQ+ people face. 
+  The Orlando shooting is a harrowing reminder of the bigotry LGBTQ+ people face.
 image_width: "1024"
 image_height: "759"
 image_attribution: "eonline.com"
@@ -46,17 +46,17 @@ When I woke up on Sunday and read the news, although I wasn’t there, although 
 
 It’s hard to explain what homophobia feels like, especially in the extreme form that it took on Sunday. But imagine finding out one day that someone hates you, wants you dead for no reason other than that you dare exist. And now imagine this one person is actually hundreds of people. Thousands. Millions. From all over the world. People you don’t know. People that don’t even know you exist. Yet they hate you.
 
-Many of these people will never even meet a queer person. Or so they think, because so many gay men and women live a lie, repressing their true identity in fear of being ostracised or worse. In some extreme cases, repression can lead to denial, delusion and self\-rejection. So the haters go on hating, unaware that some of the people they love and admire are gay; parents, siblings, friends, idols.
+Many of these people will never even meet a queer person. Or so they think, because so many gay men and women live a lie, repressing their true identity in fear of being ostracised or worse. In some extreme cases, repression can lead to denial, delusion and self-rejection. So the haters go on hating, unaware that some of the people they love and admire are gay; parents, siblings, friends, idols.
 
 I told my youngest brother that I’m gay on Monday. He lives in Greece so I couldn’t do it face to face. My parents think he might still be too young, but I was afraid to wait any longer. Afraid that in the absence of a visible gay person in his life, blind hate might take root in his heart.
 
-Greece, despite its modern facade, is steeped in tradition. Unfortunately this can often manifest as sexism and homophobia. Although my immediate family and friends know \(and have been extremely supportive\), the rest of my family back home is, I presume, blissfully unaware of my actual sexual preferences. Something unlikely to have been helped by my own years of repression and confusion.
+Greece, despite its modern facade, is steeped in tradition. Unfortunately this can often manifest as sexism and homophobia. Although my immediate family and friends know (and have been extremely supportive), the rest of my family back home is, I presume, blissfully unaware of my actual sexual preferences. Something unlikely to have been helped by my own years of repression and confusion.
 
-If I’m honest, I’ve been reluctant to come out to them. It’s been easy. We live in different countries and our reunions are few and far between. I don’t want to have to do this. I don’t want to be the source of polarisation in my family \(does anyone?\). I’m afraid some of them might be deeply homophobic. But maybe if they knew, they wouldn’t be.
+If I’m honest, I’ve been reluctant to come out to them. It’s been easy. We live in different countries and our reunions are few and far between. I don’t want to have to do this. I don’t want to be the source of polarisation in my family (does anyone?). I’m afraid some of them might be deeply homophobic. But maybe if they knew, they wouldn’t be.
 
-So today, even though I feel like I’m still exploring love within myself and with others, even though I hate being pigeon\-holed by a society that sometimes reveals itself as deeply intolerant, today I am a proud gay man. And my favorite color is turquoise.
+So today, even though I feel like I’m still exploring love within myself and with others, even though I hate being pigeon-holed by a society that sometimes reveals itself as deeply intolerant, today I am a proud gay man. And my favorite color is turquoise.
 
-I love the sea, the life it harbours, the feelings it evokes. I need colour in my life, when I wake up, when I work, when I cook. My humor is at best black and at worst lacking. My style is questionable. I like crumpets smothered in butter. I used to only drink lager, but I’ve developed a love for chocolate stouts. My dad is Greek, my mum is Greek\-Australian. I like dogs, but only if they’re big. Otherwise I prefer cats.
+I love the sea, the life it harbours, the feelings it evokes. I need colour in my life, when I wake up, when I work, when I cook. My humor is at best black and at worst lacking. My style is questionable. I like crumpets smothered in butter. I used to only drink lager, but I’ve developed a love for chocolate stouts. My dad is Greek, my mum is Greek-Australian. I like dogs, but only if they’re big. Otherwise I prefer cats.
 
 So starting today you know me as a human first and as a member of the LGBTQ+ community second.
 

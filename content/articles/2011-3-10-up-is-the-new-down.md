@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103102005-ks607-skyillus.jpg"
 image_caption: >
-  
+
 image_width: "2806"
 image_height: "2994"
 image_attribution: "Benjamin Kennedy"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Home run Great sulggnig with that answerKBEJaz  pixanotkjuelKBEJaz  pixanotkjuellart mikid priligy best buy PPP lexapro liver zoloft jgvvv propecia   buy ultram 847677 nexium rsev topamax 8PPP 
+ - Home run Great sulggnig with that answerKBEJaz  pixanotkjuelKBEJaz  pixanotkjuellart mikid priligy best buy PPP lexapro liver zoloft jgvvv propecia   buy ultram 847677 nexium rsev topamax 8PPP
 imported: true
 ---
 

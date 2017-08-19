@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - I am big fan of Brian Cox as a science promoter but not so much of his technical knowledge Does anyone remember he said 2 electrons cant occupy the same energy level on BBC This btw is wrong for you biologists and etc out there I am of course not part of this Brian Cox Effect and I doubt there exist any student here at Imperial who is Basically he is good for science funding and entertainment of the general public My favorite video of him is by far httpwwwyoutubecomwatchvtDkVSAN4NU      
+ - I am big fan of Brian Cox as a science promoter but not so much of his technical knowledge Does anyone remember he said 2 electrons cant occupy the same energy level on BBC This btw is wrong for you biologists and etc out there I am of course not part of this Brian Cox Effect and I doubt there exist any student here at Imperial who is Basically he is good for science funding and entertainment of the general public My favorite video of him is by far httpwwwyoutubecomwatchvtDkVSAN4NU
 imported: true
 ---
 
@@ -43,7 +43,7 @@ Speaking to The Telegraph last week, he said, “About 10 years ago… people us
 
 Manchester University’s own physics course has increased in popularity with last year’s figures breaking through the 1000 figure in 2012, compared to 850 in 2009. We have learned from a Manchester physics student that this led to an internal survey being sent to all 1st year physics undergraduates. The students were asked whether Brian Cox had affected their decision in applying to the university. The responses may have been significant in the decision to assign the Quantum Physics course for this year’s students to Brian Cox.
 
-Manchester is also capitalising on its position by being the first University to include two A\*s in the entry requirements for Physics degrees.
+Manchester is also capitalising on its position by being the first University to include two A*s in the entry requirements for Physics degrees.
 
 There are of course other reasons mooted for the increase in physics applications, and plausible to suggest that Brian Cox’s popularity may be the effect, rather than the cause, of a renewed interest in physics. Prof Sir Peter Knight, president of the Institute of Physics, has even discussed contributing factors such as geek-chic and The Big Bang Theory.
 

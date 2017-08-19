@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110071317-felix-eurogamer_logo_colour.jpg"
 image_caption: >
-  
+
 image_width: "3738"
 image_height: "1150"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster I need to know which roller coaster to go on first so that I wont be too frightened to go on some others Please can you tell me the amount of G Force that each roller coaster there has Thanks in advanceapakah opersional kan wndwois 7 di ipad sudah bisa operasionalkan layaknya sebuah PC yadan jika iyaapakah bisa mendukung applikasiprogram komputerdan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan 
+ - I am going to Drayton Manor in August and I have never been on a proper thnlrliig roller coaster I need to know which roller coaster to go on first so that I wont be too frightened to go on some others Please can you tell me the amount of G Force that each roller coaster there has Thanks in advanceapakah opersional kan wndwois 7 di ipad sudah bisa operasionalkan layaknya sebuah PC yadan jika iyaapakah bisa mendukung applikasiprogram komputerdan apakah bisa print document sprti sebuah laptop yang bisa print document via wafi ke printer yang sudah di sharingkan
 imported: true
 ---
 
@@ -44,7 +44,7 @@ As usual you had your slew of somewhat similar army shooters: Call of Duty: Mode
 __The Kinect and its kids__
 
 OK, I admit, you were very unlikely to miss the stalls featuring a [Kinect](http://www.youtube.com/watch?v=KMQmnp6GTJ8) – you just had to look for those people jumping about as if their skin was crawling with flesh-eating fire ants. [Just Dance 3](http://www.youtube.com/watch?v=QRnMHfaIsHg) (Ubisoft), [Dance Central 2](http://www.youtube.com/watch?v=wQv-OEjh1So) (Harmonix Music Systems) and the infuriatingly addictive [Fruit Ninja](http://www.youtube.com/watch?v=UzsmDfKzk7M) (Halfbrick Studios) were just a few of the games offering people the chance to embarrass themselves in public. At £70+ though the Kinect is still a rather expensive party piece (that was the cheapest price I could find it for online, pre-owned). In my humble opinion it’s not worth the money unless you’ve got a group of friends who you can invite round regularly to mess about with. Bitter misanthropes such as myself would do well to invest their dosh elsewhere.
-TODO: image from 
+TODO: image from
 __Tekken Hybrid__
 
 My strategy of randomly mashing buttons, though commented upon as ‘unimaginative’ and ‘boring’, still earned me glorious victory after glorious victory. And a sore thumb. [Good game though](http://www.youtube.com/watch?v=8Meh871R1IU).

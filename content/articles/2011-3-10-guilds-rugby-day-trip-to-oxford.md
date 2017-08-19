@@ -1,6 +1,6 @@
 ---
 title: >
-  Guilds rugby day trip to Oxford 
+  Guilds rugby day trip to Oxford
 subtitle: >
   C&G Rugby: C&G 44 – 29 Balliol College
 date: "2011-03-10 21:02:27 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

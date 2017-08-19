@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Dear all,  
+Dear all,
  The start of the new term is here and it gives me great pleasure to see everyone back on campus. And of course I must not forget to welcome the freshers who will be joining this brilliant institution and especially the scientists who are lucky enough to be part of the best constituent union on campus. Whether you are old or new, everyone loves a good welcome letter.
 
 For those that do not know, the RCSU is one of the four constituent unions at Imperial and was founded by famous Sci-fi writer H.G. Wells in 1881. We exist for two reason; social activities and representation. Representation wise, we have officers that look after student welfare to help you even out any bumps you hit during university. There are also year reps and departmental reps who keep the lecturers on their toes to ensure you get the world class education you deserve. The Year rep nominations are currently open and I would urge the keener ones amongst to get everyone’s voice heard and stand for election.
@@ -49,5 +49,5 @@ The best way to keep in touch is to read my e-mails and newsletters as they will
 
 Here’s to an amazing year,
 
-__Plabon Saha__  
+__Plabon Saha__
  RCSU President

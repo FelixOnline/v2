@@ -1,6 +1,6 @@
 ---
 title: >
-  In Praise Of... Imperial’s Clubs & Societies 
+  In Praise Of... Imperial’s Clubs & Societies
 subtitle: >
   Our Clubs & Societies make Imperial truly worth the while
 date: "2011-01-27 19:49:04 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

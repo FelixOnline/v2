@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303010052-tna08-pope-benedict-stock.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ There is nothing more liberating than simply being yourself. There is probably a
 Raised Catholic in Northern Ireland, religion was never sold to me as a matter of conscience, it was a matter of identity. To lose my faith would be to lose a part of myself. So when I started to doubt my faith as a teenager and later again as a student, I tried to sweep my doubts under the carpet, embarrassed that someone might see what seemed to me a failure to believe. All I had ever known was Catholicism and I had learnt to view atheism through Catholic eyes. To be atheist, I believed, was to lose hope, to lose morality and to lose purpose. So at first the realisation that I did not believe the religion of my parents was far from liberating: it felt like an illness.
 
 So I sought a cure for my atheism. I became heavily involved in Catholic groups, attending mass twice a week and going abroad on pilgrimage. I focussed on the parts of my religion I did believe in, such as charity, and told myself that belief in the rest would surely come. I remember being on a retreat, aged 19, with the intention of finally deciding that I believed in God. Looking back, it does seem incredible that I would head to the countryside with a religious group with the intention of believing in a God I wasn’t sure existed. I spent the weekend reading non-stop through Catholic apologetics but yet again I could only agree with the call to be a moral person and even then felt things weren’t as black and white as they were presented to me. Eventually I realised that to believe would require not a book but a leap of faith. To simply, blindly, accept what the Church said to be true. I had to believe.
-TODO: image from 
+TODO: image from
 But I couldn’t. I couldn’t because I didn’t. Catholicism went against my beliefs, it went against who I was and in truth I wasn’t a Catholic. This realisation was not the liberation it is for some; it was a grim acceptance. But through chance, I heard of humanism. Actually, I heard about it through a priest who was criticising it: “They arrogantly wish to live good lives without God.” That sounded perfect.
 
 Very often at College we hear from religious societies promoting converts to their religion, but how often do we hear from those we have left it? This Tuesday the newly formed Imperial Atheists, Secularists and Humanists Society is proud to host Alom Shaha, born in Bangladesh and raised in London in a Muslim family, to talk about his experience as an “apostate” as the author of [The Young Atheist’s Handbook](http://www.amazon.co.uk/Young-Atheists-Handbook-Lessons-without/dp/1849543119). The purpose of the talk is not to gloat at Islam, Muslims or at any religion or religious people but to provide a voice for those who, like a younger Alom and a younger me, are uncomfortable in their religion but don’t feel able to express this.

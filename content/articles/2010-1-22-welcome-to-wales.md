@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201001221350-rsp07-comment.jpg"
 image_caption: >
-  
+
 image_width: "1040"
 image_height: "1038"
 image_attribution: ""
@@ -36,8 +36,8 @@ imported: true
 
 I am a stranger in a strange land.
 
-As much I adore this sprawling metropolis, the inkblot on the cosmic sketchbook that is London, I know in my heart that it’s not home. You see, I’m not from round these parts. I’m not even English – not that should shock one the most multicultural student bodies in the country.  
- If you have been at all confused by my somewhat uncommon nomenclature, I can assure you it is peculiar to my home country. I come from that beloved corner of Britain where the grass is greener and the rain is wetter. Wales. That old land of my fathers, where there are more sheep than vowels and where people communicate across the valleys with scores of male voice choirs, is where I call home.  
+As much I adore this sprawling metropolis, the inkblot on the cosmic sketchbook that is London, I know in my heart that it’s not home. You see, I’m not from round these parts. I’m not even English – not that should shock one the most multicultural student bodies in the country.
+ If you have been at all confused by my somewhat uncommon nomenclature, I can assure you it is peculiar to my home country. I come from that beloved corner of Britain where the grass is greener and the rain is wetter. Wales. That old land of my fathers, where there are more sheep than vowels and where people communicate across the valleys with scores of male voice choirs, is where I call home.
  Here’s a joke for you:
 
 What do you call a sheep tied to a lamppost in the middle of Cardiff? A leisure centre. Haha.
@@ -54,5 +54,5 @@ Onto the two big Rs: rugby and religion. In Wales, these are one and the same. T
 
 A word on the geography. There’s South Wales, where all the shiny, interesting and downright useful stuff, like Doctor Who and my house, for example, may be found. Then there’s West Wales. There are caravans here, and puffins, and holiday-homes for people in Surrey to visit on the weekend. Then there’s Mid Wales, which is full of mountains. I’m not sure what else is there...it’s quite a “here be dragons” place. And those are real dragons. Lastly, there’s North Wales. It’s like another country, completely alien in every way. They speak Welsh there...properly, I mean, not just as an easy way to chat up women. The only thing I can tell you for certain is that they hate South Wales with the passion of a thousand suns. I don’t why...it’s probably because we’re better.
 
-The Welsh are a completely downtrodden yet eternally optimistic people. We’re the underdog of the British...and everyone loves an underdog.  
+The Welsh are a completely downtrodden yet eternally optimistic people. We’re the underdog of the British...and everyone loves an underdog.
  Hywl Fawr!

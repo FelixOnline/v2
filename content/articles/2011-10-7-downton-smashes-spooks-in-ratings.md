@@ -1,6 +1,6 @@
 ---
 title: >
-  Downton smashes Spooks in ratings 
+  Downton smashes Spooks in ratings
 subtitle: >
   Costume drama trounces MI5 in Sunday night ratings war
 date: "2011-10-07 12:49:25 +0100"

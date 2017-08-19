@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103180652-ks607-urbaneco.jpg"
 image_caption: >
-  
+
 image_width: "3872"
 image_height: "2592"
 image_attribution: "Andrew Purcell"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271936-ks607-darianai.jpg"
 image_caption: >
-  
+
 image_width: "277"
 image_height: "300"
 image_attribution: ""
@@ -46,4 +46,4 @@ Apparently, humans are more inclined to die for a close friend than a relative. 
 
 What to do then? How about you jump off a cliff mate, and find out?
 
-1 \*Cough\*, Life Sciences, \*cough\*.
+1 *Cough*, Life Sciences, *cough*.

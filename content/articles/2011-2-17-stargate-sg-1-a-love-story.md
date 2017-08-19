@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172028-nm1010-stargate.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "1174"
 image_attribution: ""

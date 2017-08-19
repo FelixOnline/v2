@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131048-felix-NHS.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "852"
 image_attribution: ""
@@ -40,10 +40,10 @@ Currently, medical students can get up to £6000 per year of Imperial bursary, b
 
 The financial pressure on fifth and sixth year medics came to light last year in an ICSMSU survey.
 
-It found that 87% of these students had financial concerns, half had a part\-time job to support themselves, and one in three said their parents were unable or unwilling to offer financial help.
+It found that 87% of these students had financial concerns, half had a part-time job to support themselves, and one in three said their parents were unable or unwilling to offer financial help.
 
 In the final two years of the degree, medical students’ maintenance loans are also reduced, and the future of these payments is unclear.
 
-ICU’s Deputy President \(Welfare\), Jennie Watson, who is also a medic, told FELIX: “These changes will help a huge number of medical students in the future but there is still plenty to be done.”
+ICU’s Deputy President (Welfare), Jennie Watson, who is also a medic, told FELIX: “These changes will help a huge number of medical students in the future but there is still plenty to be done.”
 
 “The Faculty of Medicine and ICSMSU are working on ways to support current students not eligible for the Bursary Spread scheme as they head towards years 5 and 6”.

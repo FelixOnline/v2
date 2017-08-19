@@ -1,6 +1,6 @@
 ---
 title: >
-  Death of an icon – Iain Banks 
+  Death of an icon – Iain Banks
 subtitle: >
   Noted author dies of cancer
 date: "2013-06-13 22:33:33 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306132333-tna08-banks2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

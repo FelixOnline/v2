@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012091947-ma1307-ASSassin.jpg"
 image_caption: >
-  
+
 image_width: "576"
 image_height: "315"
 image_attribution: ""

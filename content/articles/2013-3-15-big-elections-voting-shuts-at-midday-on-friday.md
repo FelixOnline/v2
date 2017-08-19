@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303150030-tna08-rtv-logo-styled-square.gif"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

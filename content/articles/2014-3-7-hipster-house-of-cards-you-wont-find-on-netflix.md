@@ -2,7 +2,7 @@
 title: >
   Hipster House of Cards you won’t find on Netflix
 subtitle: >
-  Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name. 
+  Few people could have escaped the popularity of the Netflix political drama series House of Cards. However, the US show is actually a remake of a 1990s British TV miniseries of the same name.
 date: "2014-03-07 05:56:23 +0000"
 id: "4470"
 old_path: /tv/4470/hipster-house-of-cards-you-wont-find-on-netflix
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,5 +40,5 @@ Set in a fictionalised version of the aftermath of the resignation of Margaret T
 
 The focus of House of Cards is, of course, Urquhart himself. He is fiercely intelligent and absolutely ruthless. Much of the fun of the show comes from seeing how he manages to skilfully and subtly manipulate all of his opponents into doing exactly what he wants. His genius comes from doing almost everything indirectly, from the shadows, never admitting to anything. His approach to politics is perfectly summarised by his oft used line: “You might think so, I couldn’t possibly comment”. He appears to be so charismatic and earnest, thanks in large part due to a stunning performance by Shakespearean actor Ian Richardson, that even his greatest enemies believe him to be their best friend.
 
-Urquhart is also a great character on a more personal level. At the start he appears to be an ordinary, if ambitious, upper class man. However, as the show progresses we find out that he has a darker core – he is utterly self-centred and doesn’t care about anyone who gets into his way. However, he never becomes an outright villain. He is always a well-rounded and nuanced character. Through the writing, acting and the unusual technique of Urquhart often performing asides to camera, we get a picture of him as real life, three-dimensional human being.  
+Urquhart is also a great character on a more personal level. At the start he appears to be an ordinary, if ambitious, upper class man. However, as the show progresses we find out that he has a darker core – he is utterly self-centred and doesn’t care about anyone who gets into his way. However, he never becomes an outright villain. He is always a well-rounded and nuanced character. Through the writing, acting and the unusual technique of Urquhart often performing asides to camera, we get a picture of him as real life, three-dimensional human being.
 This is an intelligent drama that works on many levels. It has a tense plot and is effective as both a political thriller and an in-depth character study – certainly something worth devoting four hours of your life to.

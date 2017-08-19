@@ -2,7 +2,7 @@
 title: >
   Major flooding shuts Biochemistry
 subtitle: >
-  Pipe connection failure sends water gushing down through Biochemistry building 
+  Pipe connection failure sends water gushing down through Biochemistry building
 date: "2011-02-03 19:37:37 +0000"
 id: "719"
 old_path: /news/719/major-flooding-shuts-biochemistry
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031934-ks607-floodflo.jpg"
 image_caption: >
-  
+
 image_width: "2592"
 image_height: "3888"
 image_attribution: "Kadhim Shubber"
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Thank you for sharing Ann  I too am short shgtied and have worn specs since I was about 7no contact lenses for me although I did try them once but my eyes were too dryThank you for sharing today  I love the fact that you love setting things on fireI love sticking things to unusual placeslike the soles of my shoes lol  I think I mean that I am un untidy crafter who drops thingsLove and hugsAnnie xxx600 million is  here and there   I guess what I have a hard time imgniaing is how we would cope with the same kind of massive power outage here in the US  Nearly everything I do is dependent on electricity  cooking fridge everything related to work and most especially heatingI suspect I could cope with no airconditioning should the outage hit in summer as I could always sleep out on the porch  But were it below freezing in winter I have no way whatever to heat the place without electricity even though the boiler runs on natural gas  There is a 
+ - Thank you for sharing Ann  I too am short shgtied and have worn specs since I was about 7no contact lenses for me although I did try them once but my eyes were too dryThank you for sharing today  I love the fact that you love setting things on fireI love sticking things to unusual placeslike the soles of my shoes lol  I think I mean that I am un untidy crafter who drops thingsLove and hugsAnnie xxx600 million is  here and there   I guess what I have a hard time imgniaing is how we would cope with the same kind of massive power outage here in the US  Nearly everything I do is dependent on electricity  cooking fridge everything related to work and most especially heatingI suspect I could cope with no airconditioning should the outage hit in summer as I could always sleep out on the porch  But were it below freezing in winter I have no way whatever to heat the place without electricity even though the boiler runs on natural gas  There is a
 imported: true
 ---
 

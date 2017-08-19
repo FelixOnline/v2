@@ -1,6 +1,6 @@
 ---
 title: >
-  Candidates for the Big Elections are announced 
+  Candidates for the Big Elections are announced
 subtitle: >
   Three students are running for President this year, although several big roles remain uncontested
 date: "2015-03-02 17:24:25 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201503021723-ps3110-screen-shot-2015-03-02-at-17.23.50.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

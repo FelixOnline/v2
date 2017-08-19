@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,12 +34,12 @@ comments:
 imported: true
 ---
 
-Sherlock’s third series debuted on New Year’s Day to tremendous hype. After two years of being off-air, fans were hoping that it would match their high expectations. Now that the dust has settled on the last of the three episodes, what was the final verdict?  
+Sherlock’s third series debuted on New Year’s Day to tremendous hype. After two years of being off-air, fans were hoping that it would match their high expectations. Now that the dust has settled on the last of the three episodes, what was the final verdict?
 As with anything, it depends who you ask. Sherlock seems to inspire mass hysteria in its fans: IMDB gives it a rating of 9.3/10 from its users and critical opinion, making it apparently better than The Shawshank Redemption (9.2), The Godfather (9.2), and Casablanca (8.6). Unless I’m living in an alternate universe and watching a vastly different show to everyone else, I don’t think it’s so controversial to posit that Sherlock might – just might – be a tad overhyped.
 
 The three episodes of the latest series met with generally favourable reviews from critics, but divided opinions among fans. The Guardian described the final episode as ‘perfect’, but some viewers felt that the show’s writers were trying too hard to please the hardcore fans of tumblr and the like - the second episode was more reminiscent of some kind of bizarre fanfiction than a detective show - while more casual viewers were left baffled at what the point to the ninety minute episode had been.
 
-Then there was a third opinion offered up: Sherlock might have lost its touch because, in its long two year hiatus, a better successor had come along. There have been no shortage of adaptations of Sherlock Holmes since Arthur Conan Doyle published his novels: in the past five years alone, we’ve had the films starring Robert Downey Jr. and Jude Law, BBC’s Sherlock, and now Elementary. Sherlock was novel in that it transported the crime-solving detective to the present day. Elementary takes things one step further, with an alcoholic Sherlock Holmes, played by Jonny Lee Miller, up and moving to New York, where Lucy Liu is Joan Watson, his sober - and female - companion. When Holmes decides that the best way to spend his recovery is to assist NYPD with solving crimes, Watson reluctantly accompanies him to provide support for the recovering addict.   
+Then there was a third opinion offered up: Sherlock might have lost its touch because, in its long two year hiatus, a better successor had come along. There have been no shortage of adaptations of Sherlock Holmes since Arthur Conan Doyle published his novels: in the past five years alone, we’ve had the films starring Robert Downey Jr. and Jude Law, BBC’s Sherlock, and now Elementary. Sherlock was novel in that it transported the crime-solving detective to the present day. Elementary takes things one step further, with an alcoholic Sherlock Holmes, played by Jonny Lee Miller, up and moving to New York, where Lucy Liu is Joan Watson, his sober - and female - companion. When Holmes decides that the best way to spend his recovery is to assist NYPD with solving crimes, Watson reluctantly accompanies him to provide support for the recovering addict.
 The initial casting of Watson as a woman was met with controversy, not least of which came from angry Sherlock fans. Steven Moffat himself, writer and producer of the BBC show, said he was ‘annoyed’ and worried about it ‘debasing’ the brand - presumably choosing to ignore the many, many adaptations that had gone before his, including a 1986 Disney film in which Holmes was portrayed by a mouse. This provoked retaliation from those who felt that Sherlock had lost its touch, or indeed had always been overrated, with the result that before the first episode of Elementary had even aired, it already had both a loyal fanbase and dedicated haters.
 
 So who was right? At the risk of pissing off the legions of Sherlock fans, I’m inclined to say that Elementary has the edge over its predecessor. It’s by no means a perfect show, but is, in my opinion, far better than the try-hard, self-indulgent mess that thinks it’s cleverer than it is, which is what Sherlock has become in recent years.

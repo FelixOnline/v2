@@ -2,7 +2,7 @@
 title: >
   Chinese Ambassador visits Imperial
 subtitle: >
-  Visit includes meeting with researchers connected to China 
+  Visit includes meeting with researchers connected to China
 date: "2012-01-27 00:03:06 +0000"
 id: "2077"
 old_path: /news/2077/chinese-ambassador-visits-imperial

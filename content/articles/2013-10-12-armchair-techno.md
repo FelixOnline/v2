@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -41,7 +41,7 @@ The night kicked off with support act, __Evian Christ__, weaving the audience th
 
 After the interval, Jaar took to the stage and the performance was kicked off by a young girl sporadically saying “mama”. After the slightly bizarre opening, she was whisked off and Jaar began.
 
-The first half of his performance was a mixture of songs from Space is Only Noise and other pieces that are presumably unreleased. Jaar manoeuvred between his laptop, keyboard, microphone and, extremely briefly, a grand piano. Half-way through, the young girl returned to the stage with three others to lend their vocal talents. This was one of the highlights of the show, and it was a shame that more musicians weren’t present to add an extra dimension to the performance.  
+The first half of his performance was a mixture of songs from Space is Only Noise and other pieces that are presumably unreleased. Jaar manoeuvred between his laptop, keyboard, microphone and, extremely briefly, a grand piano. Half-way through, the young girl returned to the stage with three others to lend their vocal talents. This was one of the highlights of the show, and it was a shame that more musicians weren’t present to add an extra dimension to the performance.
  The second part of Jaar’s performance involved the guitarist and other half of the __Darkside__ project, __Dave Harrington__. Together the two create music very much in line with Jaar’s other productions, however Harrington’s effects-laden guitar work definitely adds something new. The duo played a few tracks from their recently released record, Psychic.
 
 Throughout the show a team of visual artists worked behind the screen, projecting analogue visual delights. Different effects, such as projections of mixing coloured oils with water, were layered upon one another creating an authentically analogue and unique visual experience. This was good, as watching a man play with his laptop and fiddle with a keyboard isn’t particularly entrancing.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,7 +40,7 @@ Dr. Pettit, a member of the International Space Station (ISS) crew, occupies his
 
 To make the cup Pettit folded over plastic sheet and sealed it with yellow “space-tape” to form a teardrop shaped vessel with an acute angle along one side. This shape creates a meniscus that, due to surface tension, keeps most of the liquid at the bottom. At the same time it allows a small stream to run up the side by a force called capillary action. Inspired by the fuel delivery method of rocket engines, Dr. Pettit knew that due to the acute angle of the cup’s cross-section, liquid would be drawn up the side and rest next to the lip.
 
-The Zero-G Cup not only allows hot drinks to be sipped from an open top – greatly satisfying for coffee lovers such as Pettit. But, as a video from the ISS shows, also allows the crew to make celebratory toasts!  
+The Zero-G Cup not only allows hot drinks to be sipped from an open top – greatly satisfying for coffee lovers such as Pettit. But, as a video from the ISS shows, also allows the crew to make celebratory toasts!
  In order to improve the crude initial design, Dr. Pettit teamed up with designer Travis Baldwin to come up with a more robust space cup, from which an espresso can be sipped in stylish comfort. The base is small to keep the coffee in place by surface tension, deep grooves allow the coffee to climb the sides and the small indentation at the top keeps liquid in place at the lip. Due to its popularity with the crew NASA has now adopted Pettit’s cup as standard kit for the ISS and any other manned space flights it launches in the future.
 
 Dr. Pettit is currently on the ISS as a member of the Expedition 30 crew and is continuing his scientific demonstrations. NASA and the American Physical Society (APS) have teamed up to share his unique videos from the ISS with students, educators and science fans around the world. Using everyday objects from Earth, Dr. Pettit demonstrates physics in a series of videos called “Science off the Sphere”, which includes a demonstration of the Zero-G Cup and can be found on the Physics Central website. And this time Dr. Pettit has even added a physics challenge for the viewers!

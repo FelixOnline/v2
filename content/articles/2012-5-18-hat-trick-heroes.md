@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205181740-felix-snooker.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -42,7 +42,7 @@ After a strong showing at the Midlands Cup in February, hopes of success for the
 
 Such hopes were raised further by a string of solid performances in the Individual Trophy by the second team. Most notably, Stanley Cheng was in top form during his run to the quarter-finals while old-timer Grace Yip did well to reach the last 16.
 
-That was in contrast to members of the first team, the majority of who were knocked out in the first round of the Individual Championship thanks to some tough draws and a somewhat contentious decision for Nitesh Mehta to have a frame docked for arriving “late” to his match. Only Lawrence Wild progressed to the second round before losing a very close deciding frame on the final black.  
+That was in contrast to members of the first team, the majority of who were knocked out in the first round of the Individual Championship thanks to some tough draws and a somewhat contentious decision for Nitesh Mehta to have a frame docked for arriving “late” to his match. Only Lawrence Wild progressed to the second round before losing a very close deciding frame on the final black.
  Fortunes improved for Imperial 1s in the team event, where the format consisted of two teams of five pairing off to play 2-frame rubbers in what was effectively a best of 10 frames match.
 
 We lost 6-4 to Warwick 1s but responded with a 5-5 draw against a very strong Southampton 1s followed by a 9-1 trouncing of Cardiff 2s.

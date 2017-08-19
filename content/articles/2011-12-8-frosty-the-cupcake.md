@@ -1,6 +1,6 @@
 ---
 title: >
-  Frosty the Cupcake 
+  Frosty the Cupcake
 subtitle: >
   Warm up the kitchen with some classic Christmas baking
 date: "2011-12-08 21:50:23 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082150-pk1811-img_7297.jpg"
 image_caption: >
-  
+
 image_width: "3000"
 image_height: "4000"
 image_attribution: ""
@@ -40,17 +40,17 @@ __Base__
 
 __Ingredients__
 
-1 1/2 cups cake flour  
- 3/4 teaspoon baking powder  
- 3/4 teaspoon baking soda  
- 1/2 teaspoon salt  
- Pinch of nutmeg  
- 85 grams unsalted butter at room temperature  
- 1/2 cup granulated white sugar  
- 1/4 cup light brown sugar — packed  
- 1 egg lightly beaten  
- 1 teaspoon vanilla extract  
- 3/4 cups full-fat yoghurt  
+1 1/2 cups cake flour
+ 3/4 teaspoon baking powder
+ 3/4 teaspoon baking soda
+ 1/2 teaspoon salt
+ Pinch of nutmeg
+ 85 grams unsalted butter at room temperature
+ 1/2 cup granulated white sugar
+ 1/4 cup light brown sugar — packed
+ 1 egg lightly beaten
+ 1 teaspoon vanilla extract
+ 3/4 cups full-fat yoghurt
  3 large nectarines, peeled, cored and chopped into 1-inch cubes
 
 __Method__
@@ -75,10 +75,10 @@ __Frosting__
 
 __Ingredients__
 
-45 grams of unsalted butter — room temperature  
- 2.5 cups icing sugar  
- 125 grams cream cheese – fridge cold.  
- 1/2 teaspoon lemon juice  
+45 grams of unsalted butter — room temperature
+ 2.5 cups icing sugar
+ 125 grams cream cheese – fridge cold.
+ 1/2 teaspoon lemon juice
  1 teaspoon vanilla extract
 
 __Method__

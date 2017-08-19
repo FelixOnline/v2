@@ -31,11 +31,11 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - 8 
+ - 8
 imported: true
 ---
 
-Just how many species actually are there in the world? This mystery is up there with the other big questions that dominate science, and has been pursued by all manner of scientists over the years. The flummoxing phylogeny of organisms throughout history is one of the many factors as to why we just can’t seem to pinpoint a magic number, alongside the natural ebbing and flowing of numbers of species all the time; after all, it is the ultimate goal of genes to propagate their organismal stronghold into something bigger, better, faster or stronger, so species come and go as fast as evolution allows.   
+Just how many species actually are there in the world? This mystery is up there with the other big questions that dominate science, and has been pursued by all manner of scientists over the years. The flummoxing phylogeny of organisms throughout history is one of the many factors as to why we just can’t seem to pinpoint a magic number, alongside the natural ebbing and flowing of numbers of species all the time; after all, it is the ultimate goal of genes to propagate their organismal stronghold into something bigger, better, faster or stronger, so species come and go as fast as evolution allows.
  Throw in the issues caused by deforestation, global warming and other human activity, alongside the ecosystems we are yet to explore, and it is easy to understand just how difficult it is to track species exiting and entering the biodiversity stage.
 
 That’s not to say science isn’t attempting to get up to speed with the number of species out there. This week saw the WWF announce that they have discovered at least 441 new species of plants and animals in a remote part of the Amazon rainforest newly explored between 2010 and 2013. These included 258 species of plants, 84 fish, 22 reptiles and a monkey that purrs like a cat.
@@ -52,7 +52,7 @@ Currently catalogued, there are around 300,000 plant species, 1,233,500 terrestr
 
 So what is the plan? Scouring the Amazon rainforest is fun, but if we still have a staggering four fifths of species yet to find, amassing only around 400 of these over the space of 3 years is hardly time efficient. Not only that, but the neglected players in this worldwide game of biodiversity hide and seek are those that really never attracted attention in the first place, like the miniscule mushrooms or the placid platyhelminthes. People prefer to chase large cats over savannahs or catch beautiful butterflies in forests than pick through mud for an unassuming hidden fern or fungus.
 
-But taxonomic effort and efficiency is increasing, and with DNA technology allowing us to unravel the secrets behind cryptic species - those that appear or behave as one species but may actually be several - we might be able to pick up the undiscovered biodiversity backlog quicker than ever.  
+But taxonomic effort and efficiency is increasing, and with DNA technology allowing us to unravel the secrets behind cryptic species - those that appear or behave as one species but may actually be several - we might be able to pick up the undiscovered biodiversity backlog quicker than ever.
  We also need to simply cover more ground - with some species potentially only inhabiting tiny areas due to geological or geographical constraints, simply locating these out-of-reach areas is the first step to tracking down more elusive animals.
 
 The aim now is to get the poster animals of biodiversity out of the spotlight and start getting excited over the more secretive species; we need more mycologists to track down the mushrooms missing in our lives. We can’t just leave it to the ecologists either; it has to be a team effort too. We need the geographers to pinpoint areas of interest, the geologists to predict just what might be there and why, and even the mathematicians to model species and scenarios which we can’t study first hand, such as the progression of species numbers throughout immensely long periods of time. Throw in geneticists, marine biologists and the taxonomists too to point us in the right direction, and suddenly it becomes so much more of a team effort. Biologists need all the help they can get in the quest to catch ‘em all.

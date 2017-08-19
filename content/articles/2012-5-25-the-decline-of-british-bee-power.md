@@ -51,5 +51,5 @@ Several European countries have stopped using certain pesticides for fear of fal
 
 Campaigns to encourage the growth of wildflower meadows – a bee’s favourite habitat – will go some way to encouraging numbers to rise. But these studies, and others, show that it is unlikely to be that simple. Identifying the cause of colony collapse is essential to protect food security, as well as the wild flowers that bees pollinate and the animals that depend on them.
 
-_[DOI: 10.1126/science.1215039](http://www.sciencemag.org/content/336/6079/348.abstract)  
+_[DOI: 10.1126/science.1215039](http://www.sciencemag.org/content/336/6079/348.abstract)
 [DOI: 10.1126/science.1215025](http://www.sciencemag.org/content/336/6079/351.abstract)_

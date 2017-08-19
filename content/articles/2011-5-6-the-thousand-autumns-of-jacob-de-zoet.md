@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105061413-felix-thousand-autumns-cover.jpg"
 image_caption: >
-  
+
 image_width: "1778"
 image_height: "2735"
 image_attribution: ""
@@ -31,11 +31,11 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - I completely agree with you about the 150 pages where the story sort of drfitsAnd youre right about the name changing  It took me about 100 pages for the penny to drop on that oneBut the book is worth persevering withI quite like de Zoet as a character because hes a good study of a person trying to do the right thing while everyone around him is as corrupt as hell  Doing business in parts of Asia can still be a bit like that   even todayIts also reading up about the Nagasaki incident   a true life historical event of some importance which is reflected in the book  And its also worth finding out about Hendrik Doeff   who is highly relevant to the book  Ill say no more though 
+ - I completely agree with you about the 150 pages where the story sort of drfitsAnd youre right about the name changing  It took me about 100 pages for the penny to drop on that oneBut the book is worth persevering withI quite like de Zoet as a character because hes a good study of a person trying to do the right thing while everyone around him is as corrupt as hell  Doing business in parts of Asia can still be a bit like that   even todayIts also reading up about the Nagasaki incident   a true life historical event of some importance which is reflected in the book  And its also worth finding out about Hendrik Doeff   who is highly relevant to the book  Ill say no more though
 imported: true
 ---
 
-One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.  
+One of the joys of reading David Mitchell is the way his intricate prose immerses you into the rich, luxuriant and complex worlds he crafted; his intriguing plots and and ability to get beneath the skin of a diverse cast of characters combinres to create some of the most engrossing read in modern literature.
  His latest book, The Thousand Autumns of Jacob de Zoet brings us back to Japan during the turn of the 19th century, where a isolationist Shogun decree kept it as one of the last bastions of the Orient untouched by expansionist western powers of that time. The forbidding policy, in which even the act of teaching the Japanese language to foreigners is punishable by death, preserves the unique cultural heritage and independence of Japan, but at the same time pickles the island nation and dooms it to a gradual decline as it remains stagnant while the world beyond its seas progresses.
 
 On the bay of Nagasaki, lies Dejima, the sole trading outpost of the powerful Dutch East India Company and Japan’s only window to the outside world. Jacob de Zoet is a young twenty-something clerk attached to the Company under a five-year contract at the end of which he hopes to return to Holland wealthy enough to take the hands of his sweetheart in marriage.

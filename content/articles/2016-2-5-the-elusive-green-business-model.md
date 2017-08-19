@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602051208-felix-Adobe_HQ.jpg"
 image_caption: >
-  The Adobe headquarters in San Jose, California. 
+  The Adobe headquarters in San Jose, California.
 image_width: "3072"
 image_height: "2154"
 image_attribution: "Wikimedia"
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Business sustainability as a concept came about in the early 70s, with controversial publications such as The Limits to Growth, addressing environmental and social consequences of economic growth.  Since the ‘green business’ model began to establish its domain, little attention was paid to the discipline until the last 7\-8 years. We can now see an exponential growth in the number of businesses and organisations looking to minimise their local and global harm to the environment, community, and society – aiming to make profits without compromising future generations.
+Business sustainability as a concept came about in the early 70s, with controversial publications such as The Limits to Growth, addressing environmental and social consequences of economic growth.  Since the ‘green business’ model began to establish its domain, little attention was paid to the discipline until the last 7-8 years. We can now see an exponential growth in the number of businesses and organisations looking to minimise their local and global harm to the environment, community, and society – aiming to make profits without compromising future generations.
 
 So why has the response to the sustainable business concept been so slowly incorporated into many business models?
 

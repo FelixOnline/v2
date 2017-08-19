@@ -1,6 +1,6 @@
 ---
 title: >
-  5/4 Respect: A Tribute to Math Rock 
+  5/4 Respect: A Tribute to Math Rock
 subtitle: >
   Pt. II – Shellac
 date: "2012-05-10 20:13:50 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205102113-felix-shellac.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-_There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re  
+_There are some aspects of our lives that we just don’t talk about. This makes it easy to think that we’re
  alone in our experiences, when in fact, we’re probably not. Last term the Union asked the student body to submit anonymous accounts of their experiences of mental health. Once again, the sincerest of thanks to everyone who took part:_
 
 –
@@ -49,7 +49,7 @@ Whilst I have described my diagnosis in a positive light, by no means was this t
 
 I did reluctantly inform the college of my predicament and they responded with a great deal of respect and support. You will not be judged for being depressed, there is a dedicated and caring team who will support you in any event. Don’t be afraid to let personal tutors etc know what is going on, depression is a disabling affliction that negatively impacts on your sense of worth, your relationships and your studies and the College is acutely aware of this and will do all it can to ensure you return to good health whilst staying on track with your course.
 
-Since being diagnosed with depression, I have experienced two further periods of intense sadness, similar to when I was first sought help. During these periods, a feeling of helplessness and weakness yet again dominated my thoughts and left me feeling distraught. Again, in these moments of desperation, speaking to loved ones proved to be the most effective in alleviating such feelings.   
+Since being diagnosed with depression, I have experienced two further periods of intense sadness, similar to when I was first sought help. During these periods, a feeling of helplessness and weakness yet again dominated my thoughts and left me feeling distraught. Again, in these moments of desperation, speaking to loved ones proved to be the most effective in alleviating such feelings.
  It has been nearly seven months since I last felt depressed as described above, I increasingly feel extremely about positive about my life, my relationships and the future. I am now more open about being depressed with close friends and am more aware of my triggers to feeling flat and feel confident I have can mitigate such things to remain contented and enthused.
 
 Being depressed is a dark and lonely place to be but things do get better, it will take time and it may not be a smooth passage back to feeling like you once did but once you to start to be open with yourself and then with friends and family, you are moving in the right direction. Importantly, enduring such a consuming and debilitating illness will empower you with a great sense of empathy for the many others experiencing what you have been through, enabling you to provide a kind word and a tissue shoulder for someone who will greatly appreciate the support you will provide.

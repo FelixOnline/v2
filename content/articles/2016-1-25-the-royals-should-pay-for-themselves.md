@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201601251428-felix-Prince Harry.jpg"
 image_caption: >
-  
+
 image_width: "1200"
 image_height: "630"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - l0WsvD  mkimlljmijsg urlhttpwviiidswnlshcomwviiidswnlshurl linkhttpjkwnblcbdappcomjkwnblcbdapplink httpcurwykmkgxlbcomVery interesting article on Royals However you could do worse than investigate the massive waste of departments such as MOD DWP Defra HMRC 35bn wasted on scrapping projects such as Nimrod Royals will always be an easy target Government has wasted trillions over last 3040 years And the you have the EU which has been responsible for our emptied fisheries mass immigration and food mountains For every 10 we pay in we get 5 back from EU We are now 15 trillion in debt Not decorating the palace makes no differenceVery interesting articleWondering how Princesses Beatrice  Eugene manages their 16th holiday in 13 monthsI think their all out skiing in Verbier at their 15 million pound chalet that Prince Andrew their Dad boughtPrince Andrew our Grand Old Duke of YorkDid he visit his Dukedom to see how his Royals subjects coped with recent floods 
+ - l0WsvD  mkimlljmijsg urlhttpwviiidswnlshcomwviiidswnlshurl linkhttpjkwnblcbdappcomjkwnblcbdapplink httpcurwykmkgxlbcomVery interesting article on Royals However you could do worse than investigate the massive waste of departments such as MOD DWP Defra HMRC 35bn wasted on scrapping projects such as Nimrod Royals will always be an easy target Government has wasted trillions over last 3040 years And the you have the EU which has been responsible for our emptied fisheries mass immigration and food mountains For every 10 we pay in we get 5 back from EU We are now 15 trillion in debt Not decorating the palace makes no differenceVery interesting articleWondering how Princesses Beatrice  Eugene manages their 16th holiday in 13 monthsI think their all out skiing in Verbier at their 15 million pound chalet that Prince Andrew their Dad boughtPrince Andrew our Grand Old Duke of YorkDid he visit his Dukedom to see how his Royals subjects coped with recent floods
 imported: true
 ---
 
@@ -39,7 +39,7 @@ For a long time, the UK has been wading through an era of cuts, cuts and more cu
 
 But guess who’s still balling? That’s right, the old baked bean and co. are seemingly unaffected by UK’s financial state.
 > > **The royals will never have to make the same sacrifices as the rest of the population**
-For at least two years, there will be no cuts to the royal budget. In fact the taxpayer funded income for the royals will actually rise to as much as £44 million \(due to repairs needed for the palaces\), before the royals will have to face reductions to funding. This is on top of the Queen’s private income from the inherited estates, land owned, and the crown estate.
+For at least two years, there will be no cuts to the royal budget. In fact the taxpayer funded income for the royals will actually rise to as much as £44 million (due to repairs needed for the palaces), before the royals will have to face reductions to funding. This is on top of the Queen’s private income from the inherited estates, land owned, and the crown estate.
 
 Although this money doesn’t hugely impact the taxpayer, with the cost per person coming to just 56p each – quite good value, considering we reap the vast benefits of the royal loving tourists – there is an issue. By not scrutinising the royal budget, and even allowing it to rise, they are sending out the message that the royals will never have to make the same sacrifices as the rest of the population. While we’re all feeling the effects, old Lizzy and Phil carry on livin’ it large.
 

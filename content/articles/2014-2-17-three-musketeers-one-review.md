@@ -1,6 +1,6 @@
 ---
 title: >
-  Three musketeers, one review 
+  Three musketeers, one review
 subtitle: >
   Emily Fulham takes a swash-buckling journey into Renaissance France
 date: "2014-02-17 18:35:22 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - So far just thoroughly enjoyable escapist adventure entertainment for Sunday night  Liking 
+ - So far just thoroughly enjoyable escapist adventure entertainment for Sunday night  Liking
 imported: true
 ---
 

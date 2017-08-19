@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605211250-felix-cut.jpg"
 image_caption: >
-  
+
 image_width: "375"
 image_height: "400"
 image_attribution: ""
@@ -48,11 +48,11 @@ Eight students from Roehampton are understood to be withholding rent, according 
 
 Goldsmiths’ Cut the Rent campaign told students in a Facebook FAQ that withholding rent now would not even risk eviction as “you’ll have moved out of halls by the time they could evict you”. The Goldsmiths campaign also warns that their university’s threats of fines for late payments would be just that: threats, as there is nothing in their housing contracts about such charges.
 
-The possibility of eviction is real, but universities are unable to threaten students much further than that, as it is illegal to academically penalise for non\-tuition fee debts.
+The possibility of eviction is real, but universities are unable to threaten students much further than that, as it is illegal to academically penalise for non-tuition fee debts.
 
 From a PR and student welfare angle, evicting students during exam season is not a great option for the universities.
 
-Last year, a successful UCL rent strike resulted in students winning back a term’s rent \(£1368 each\).
+Last year, a successful UCL rent strike resulted in students winning back a term’s rent (£1368 each).
 
 UCL have also been accused of nelgecting student welfare by cutting all bursaries for low income students. This has only added fuel to the fire of the Cut the Rent campaign.
 

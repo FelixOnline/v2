@@ -1,8 +1,8 @@
 ---
 title: >
-  PhD funding woes hit Business School 
+  PhD funding woes hit Business School
 subtitle: >
-  As more issues with PhD funding arise, Union asks students to check their accounts 
+  As more issues with PhD funding arise, Union asks students to check their accounts
 date: "2011-02-10 19:50:16 +0000"
 id: "758"
 old_path: /news/758/phd-funding-woes-hit-business-school-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102101946-ks607-business.jpg"
 image_caption: >
-  
+
 image_width: "2848"
 image_height: "4271"
 image_attribution: "Imperial College London"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032007-nm1010-sequelse.jpg"
 image_caption: >
-  
+
 image_width: "760"
 image_height: "506"
 image_attribution: ""

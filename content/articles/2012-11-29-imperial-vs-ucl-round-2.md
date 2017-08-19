@@ -1,6 +1,6 @@
 ---
 title: >
-  Imperial vs. UCL Round 2 
+  Imperial vs. UCL Round 2
 subtitle: >
   Ross Webster on UCL's cowardice
 date: "2012-11-29 22:54:46 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

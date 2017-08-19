@@ -2,7 +2,7 @@
 title: >
   Come one, come all: the female orgasm
 subtitle: >
-  Philippa Skett explains the biology behind the Big O 
+  Philippa Skett explains the biology behind the Big O
 date: "2014-02-17 17:17:17 +0000"
 id: "4389"
 old_path: /science/4389/come-one-come-all-the-female-orgasm
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

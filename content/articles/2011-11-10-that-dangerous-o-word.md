@@ -2,7 +2,7 @@
 title: >
   That dangerous ‘O’ word
 subtitle: >
-  Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders 
+  Michael Cook questions Baroness Greenfield’s claims that videogames cause ADHD, schizophrenia and other mental disorders
 date: "2011-11-10 22:26:58 +0000"
 id: "1747"
 old_path: /games/1747/that-dangerous-o-word

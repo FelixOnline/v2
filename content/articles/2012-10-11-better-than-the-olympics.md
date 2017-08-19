@@ -53,7 +53,7 @@ Felix managed to get an exclusive interview with Alan just after he’d received
 
 We later spoke to Sonali who told us “I’m still in shock! It started off fairly relaxed but as I climbed the steps it got more and more intense.”
 
-She added, “I was disappointed to miss out on the overall title... but Alan was a worthy winner.”   
+She added, “I was disappointed to miss out on the overall title... but Alan was a worthy winner.”
  Both Sonali and Alan have secured their place in the National Rock Paper Scissors Championship this Saturday. Sonali has been swatting up on tips and also practicing with friends in the hope that this time she might claim the top prize. Encouragingly, she is yet to be beaten by anyone except her boyfriend. (Awkward?)
 
 The event really was a great success and Sport Imperial should be thanked for arranging the tournament. Neil Mosley, Head of Sport Imperial, told us: “Sport Imperial has always been devoted to enhance students and staff experience at Imperial. We hope this event gives people, especially new students, a different way to meet new people. This is our first Imperial Rock Paper Scissors Championship and, given everyone’s involvement and response today, we think it could become a new tradition at Imperial!” Felix couldn’t agree more, and we can’t wait for the return of the Imperial College London Rock Paper Scissors Championship next year.

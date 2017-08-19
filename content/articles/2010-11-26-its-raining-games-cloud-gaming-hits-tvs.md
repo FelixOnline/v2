@@ -1,8 +1,8 @@
 ---
 title: >
-  It’s raining games! Cloud gaming hits TVs 
+  It’s raining games! Cloud gaming hits TVs
 subtitle: >
-  OnLive extends service to your front room with the launch of the new MicroConsole 
+  OnLive extends service to your front room with the launch of the new MicroConsole
 date: "2010-11-26 14:58:37 +0000"
 id: "455"
 old_path: /games/455/its-raining-games-cloud-gaming-hits-tvs-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011261452-ks607-wireless.jpg"
 image_caption: >
-  
+
 image_width: "3300"
 image_height: "2550"
 image_attribution: ""

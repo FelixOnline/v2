@@ -1,6 +1,6 @@
 ---
 title: >
-  Unseen Imperial 
+  Unseen Imperial
 subtitle: >
   Anonymous accounts of student experiences
 date: "2012-03-15 21:27:56 +0000"
@@ -67,15 +67,15 @@ I’m a female Imperial Student and wrote this poem for you about my mental heal
 
 __Underneath__
 
-No one knows what lies under the surface,  
- Is it better that way?  
- Feel I have to be fun around my friends  
- Or they won’t be friends anymore.  
- So I stay inside, safe in my own world,  
- But it’s in my own world where my thoughts suffocate me.  
- When the shadow passes I don’t want to talk about it anyway.  
- Just pretend it never happened,  
- Try to move on  
+No one knows what lies under the surface,
+ Is it better that way?
+ Feel I have to be fun around my friends
+ Or they won’t be friends anymore.
+ So I stay inside, safe in my own world,
+ But it’s in my own world where my thoughts suffocate me.
+ When the shadow passes I don’t want to talk about it anyway.
+ Just pretend it never happened,
+ Try to move on
  To sunnier days.
 
 ~

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201402192126-me1711-games_dayz.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-If you want to read about the start of Anna's tale, here is the link: [Episode 2.1 Anna's Grace](../games/4371/dayz-episode-21-annas-grace/)[  
+If you want to read about the start of Anna's tale, here is the link: [Episode 2.1 Anna's Grace](../games/4371/dayz-episode-21-annas-grace/)[
 ](../games/4336/episode-2-annas-hunger/)
 
 After having met that strange man I decided to stay low for next few hours. However before I could even say “stay low” I heard yet another voice shouting something.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Because the drinks are cheaper You can get 250 vodka red bull in picadilly on a night out Why would i buy the unions special offer 450 versionDrink prices are outrageous Everyone wants to enjoy it but our wallets wont let usI fear metric will be under used It seems to have been aimed at the serious club kids with the industrial interior decent soundsysten and initial live music programme However the majority of students at imperial are typical lads who just want to get sfaced and laid The club kids will carry on going to Egg and Corsica Studios where theres better music and drugs Metric will have to keep drink prices low to attract crowds Shame reallyWe wasted how much money on this place Imperial College Unions bar is always going to be a sausage fest The rest of London is less so If youre bored  go there Why would anyone from Imperial want to go hang out at UCLTry the medics union Its cheaper more relaxed and frankly better 
+ - Because the drinks are cheaper You can get 250 vodka red bull in picadilly on a night out Why would i buy the unions special offer 450 versionDrink prices are outrageous Everyone wants to enjoy it but our wallets wont let usI fear metric will be under used It seems to have been aimed at the serious club kids with the industrial interior decent soundsysten and initial live music programme However the majority of students at imperial are typical lads who just want to get sfaced and laid The club kids will carry on going to Egg and Corsica Studios where theres better music and drugs Metric will have to keep drink prices low to attract crowds Shame reallyWe wasted how much money on this place Imperial College Unions bar is always going to be a sausage fest The rest of London is less so If youre bored  go there Why would anyone from Imperial want to go hang out at UCLTry the medics union Its cheaper more relaxed and frankly better
 imported: true
 ---
 

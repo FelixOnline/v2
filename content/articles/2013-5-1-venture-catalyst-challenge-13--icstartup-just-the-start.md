@@ -1,8 +1,8 @@
 ---
 title: >
-  Venture Catalyst Challenge ‘13 & ICStartup: just the start 
+  Venture Catalyst Challenge ‘13 & ICStartup: just the start
 subtitle: >
-  Caroline Wood and Pedro Silva Pereira on Imperial’s start-up scene 
+  Caroline Wood and Pedro Silva Pereira on Imperial’s start-up scene
 date: "2013-05-01 21:02:48 +0100"
 id: "3524"
 old_path: /news/3524/venture-catalyst-challenge-13--icstartup-just-the-start-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -41,7 +41,7 @@ America has historically been ahead of the game when it comes to embedding enter
 
 Over the past year Google Campus has roared to life and Old Street roundout is now more commonly refered to as ‘Silicon Roundabout.’ And despite East London getting the biggest slice of the entrprenurship cake at the moment, Imperial seems to be jumping on the enterprise bandwaggon by putting commercial innovation at the heart of the new Imperial West campus. Could it be that Tech City sprawls from East to West in time for Imperial’s new campus to open in 2016?
 
-Last year a group of forward thinking students at Imperial noticed this growing trend and decided to do something about it. Throughout the summer break, a group of people passionate about entrepreneurship were hatching plans to transform the enterprise scene at Imperial.  
+Last year a group of forward thinking students at Imperial noticed this growing trend and decided to do something about it. Throughout the summer break, a group of people passionate about entrepreneurship were hatching plans to transform the enterprise scene at Imperial.
  ICStartup – a collaboration between Imperial Entrepreneurs, Imperial Innovations and Imperial Hub – was formed, bringing together expertise, experience and passion from all corners of campus. Combining the student enthusiasm of the Imperial Entreprenurs society, the experience, network and resources of Imperial Innovations, and social enterprise expertese of Imperial Hub the foundations were laid in place for student start-up activities at Imperial to flourish.
 
 During this past academic year ICStarup has created a shared working space in the Union for students to work on start-up projects, put on talks, run workshops, and even a hackathon.

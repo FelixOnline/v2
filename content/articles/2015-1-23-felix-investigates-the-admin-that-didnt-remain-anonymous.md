@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501230126-cac111-screen-shot-2015-01-23-at-01.25.56.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ The same student was also identified as the photographer, and and probably the a
 
 For the TSS page, members of Imperial could anonymously send in messages via a Google form, which were then collated and published. It didn’t take long for the TSS page to come under fire for its content, which ranged from racist and sexist posts to defamatory ones.
 
-These included posts labelling an individual as a “n\*\*\*\*\*r” and “[smelling] awfully bad”, accusing a hall warden of sniffing the underwear of students, and asking a student with a “fugly Indian-Chinese” partner “what’s it like putting a piece of s\*\*\* into your vagina every night”.
+These included posts labelling an individual as a “n*****r” and “[smelling] awfully bad”, accusing a hall warden of sniffing the underwear of students, and asking a student with a “fugly Indian-Chinese” partner “what’s it like putting a piece of s*** into your vagina every night”.
 
 Complaints made by students about objectionable content, as well as requests to remove said content, were repeatedly defended under a “freedom of speech” banner. This is in spite of the fact that legally, the admin of a page is responsible for all published content under defamation laws. At this point, the page had amassed just under 3000 likes.
 

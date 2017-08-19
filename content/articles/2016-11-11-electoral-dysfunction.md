@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611111510-felix-Screen Shot 2016-11-11 at 14.11.22.png"
 image_caption: >
-  
+
 image_width: "1766"
 image_height: "892"
 image_attribution: ""
@@ -36,13 +36,13 @@ imported: true
 
 Right before I boarded my flight from London Stansted Airport to travel to Rome for a short trip, I refreshed a Google search on my iPhone. My screen read the following: Hilary Clinton with 215 electoral votes, and Donald Trump with 244. Hours later, as I was chatting with two Londoners who were taking the same train I was to central Rome, one of them said, “Donald Trump won the election.” And here we are: the day millions of Americans have been fearing since the Donald declared his run for the White House on the 15th June last year. Many of my friends are shocked by the news. And I am too. But let me be clear: Trump is not the main reason I am sickened by my country. It’s the people who voted him in.
 
-The main sentiment Trump appeared to display during the past year and a half was that he was not a politician, but that he was anti\-establishment, and considerably self\-financed his own campaign. And enough people were captured by that idea for him to reach the magic number of 270.
+The main sentiment Trump appeared to display during the past year and a half was that he was not a politician, but that he was anti-establishment, and considerably self-financed his own campaign. And enough people were captured by that idea for him to reach the magic number of 270.
 I could spend the rest of this piece criticising Trump for all the repulsive actions he’s committed and words he’s spoken since his announcement more than 500 days ago. I could also blame his supporters for failing to consider the dangers of those actions and rhetoric.
 
 But that ultimately doesn’t matter. Our system decided he will be the next leader of one of the most powerful countries in the world. Perhaps it’s fitting that Clinton actually won the popular vote in our country, but lost where it counts — in the Electoral College. This election has been anything but predictable, and Trump’s victory fits that narrative almost perfectly.
 
 Clinton’s loss must be one of the most mentally devastating moments in her life. Many polls showed she was the favourite to win, and some even suggested she would do so comfortably. But did the recent news about her email scandal cost her? The FBI letter that was released was short, and answered few to none of my questions about the new developments.
-TODO: image from 
+TODO: image from
 Multiple reports indicate that the Clinton Foundation has been suspicious with how it hands out money to charities. Clinton also has given speeches for Goldman Sachs and other corporations for hundreds of thousands of dollars. Even if we didn’t see the transcripts, how much is she influenced by big business? It’s a fair question to debate.
 
 I write about Clinton’s faults understanding that if someone put a gun to my head, I would pick her. But these are the reasons that Trump supporters couldn’t cross party lines and vote for her — including one of my best friends from back home in the Philadelphia area.
@@ -62,7 +62,7 @@ But then again, I realise politics should be about policy, not mud slinging.
 
 I’ll return to the United States in December, and I won’t be certain what the atmosphere will be like. But I will come back with the same mentality of treating people with respect, like my mother raised me.
 
-At the end of the day, I do believe this country will continue to be united, even as divided as it currently appears. Because despite political differences with many friends and colleagues, I — and countless others — have been able to step back and re\-evaluate what ideas and policies we should implement for those around us.
+At the end of the day, I do believe this country will continue to be united, even as divided as it currently appears. Because despite political differences with many friends and colleagues, I — and countless others — have been able to step back and re-evaluate what ideas and policies we should implement for those around us.
 
 I just wish that so many politicians and voters wouldn’t treat the future of our country like it’s a fucking game.
-TODO: image from 
+TODO: image from

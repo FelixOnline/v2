@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152130-ams111-sally-archer.jpg"
 image_caption: >
-  
+
 image_width: "1487"
 image_height: "1346"
 image_attribution: ""

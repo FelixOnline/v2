@@ -1,8 +1,8 @@
 ---
 title: >
-  £9,000 fees “preferable” says Union President 
+  £9,000 fees “preferable” says Union President
 subtitle: >
-  Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall 
+  Higher rate tuition fees would protect bursaries for poorer students argues Alex Kendall
 date: "2011-02-03 19:33:34 +0000"
 id: "717"
 old_path: /news/717/9000-fees-preferable-says-union-president-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102031930-ks607-higherfe.jpg"
 image_caption: >
-  
+
 image_width: "3888"
 image_height: "2592"
 image_attribution: "Miles Robertson"

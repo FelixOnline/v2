@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,13 +31,13 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Oh they are afraid of what  The reality 
+ - Oh they are afraid of what  The reality
 imported: true
 ---
 
 Imperial College has announced that it is one of a number of universities pulling out of the new EU-led university ranking system, “[U-Multirank](http://www.universityworldnews.com/article.php?story=20130214134418891)”. The ranking system would not result in a league table, however many international universities and institutions have expressed opposition to the scheme.
 
-The College has made an exit along with UCL, Oxbridge and Edinburgh via the League of European Research Universities (LERU). The League, which contains 21 European research universities, has decried U-Multirank as being ill-conceived and badly designed.  
+The College has made an exit along with UCL, Oxbridge and Edinburgh via the League of European Research Universities (LERU). The League, which contains 21 European research universities, has decried U-Multirank as being ill-conceived and badly designed.
  In opposition to the plans, Imperial and other LERU members will refuse to release certain information and data to the scheme. The data given by the universities is crucial as it is what the ranking system relies upon.
 
 The plans were announced last month and U-Multirank was expected to publish its results by 2014. The scheme’s plans and timings may be scuppered by the breadth of organised opposition from the disagreeing universities.

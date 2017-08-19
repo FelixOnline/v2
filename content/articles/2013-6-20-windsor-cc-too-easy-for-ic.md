@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306202340-tna08-cricket.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,7 +39,7 @@ Against the picturesque backdrop of Windsor Castle and loyally donning the club�
 There were high expectations for ex-Windsor veteran Vishal Nair, having scored a century on this ground just last year, but was sent back to the dressing room for just 10. Lomas Persad, deprived of the strike and eager to get off the mark, was sent back in the very next over nicking an away-swinger through to the keeper. Two overs later, current Windsor 2nd XI player Mohit Kulkarni provided an action-replay of Lomas’ dismissal to continue the poor start for Imperial.
 
 With his side in trouble at 18 for 3, Jayanth joined Iain Stobbs for a momentum-shifting partnership of 54. Iain smacked ten fours in his authoritative 47 off 45 balls before being removed by one that darted back into his middle stump. The scoring rate stunted, Jayanth played a captain’s knock to rebuild and anchor the innings, well supported by Joe O’Gorman who contributed with 31. Both played smart cricket, rotating strike constantly while at the same time putting away the bad balls when they came. However, disaster struck when he was on 81 and given out to a very dubious LBW decision – just as he was looking to accelerate towards his century. With wickets tumbling at the other end, Vignesh Venkateswaran, the last of the ex-Windsor players, struck some lusty blows including a couple of flicks for six in his quick-fire 32 off 20 before holding out at long-on on the penultimate ball – Imperial 209 all out.
-TODO: image from 
+TODO: image from
 Action resumed immediately in the second innings with club president Sid Kohli opening the bowling with his off-breaks. Leggie Arvind Rajagopalan shared the not-so-new ball, a move that seemed to surprise the opposing team. It turned out to be a good call in the fourth over when Arvind got a flighted delivery to dip drastically, clean bowling the wild-swinging batsman. However, runs continued to flow from both ends even after Vignesh was introduced into the attack, his first two overs going for 16 runs. Nitin Nihalani had a mixed start to his spell giving away 11 runs in his first three deliveries before finally producing the breakthrough on the fourth.
 
 Making up for his poor start, Vignesh produced a wicket-maiden in the very next over to put the pressure back on Windsor. An entertaining period of play ensued with Vignesh giving nothing away at one end but Nitin giving away a boundary an over but also producing a chance for a wicket every over, most of which were dropped. Nevertheless, Windsor collapsed, losing three wickets including two to Vignesh in consecutive balls in the final over of his spell.

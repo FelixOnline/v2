@@ -1,6 +1,6 @@
 ---
 title: >
-  Tourism held hostage? 
+  Tourism held hostage?
 subtitle: >
   To travel, or not to travel – amidst travel alerts and predictions of terrorist activities, is submitting to the warnings and fears a safe choice?
 date: "2010-10-14 19:56:47 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010142054-ks607-hijack.jpg"
 image_caption: >
-  
+
 image_width: "976"
 image_height: "549"
 image_attribution: ""

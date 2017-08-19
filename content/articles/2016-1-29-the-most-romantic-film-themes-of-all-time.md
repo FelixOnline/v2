@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -35,18 +35,18 @@ comments:
 imported: true
 ---
 
-**Henry Mancini’s “Moon River”, from _BreakfastatTiffany’s_ \(1961\)**
+**Henry Mancini’s “Moon River”, from _BreakfastatTiffany’s_ (1961)**
 
 There are three versions of this song in the film adaptation of Truman Capote’s acclaimed novel: a choral version, an instrumental version, and one performed during the film by the amazing Audrey Hepburn on her guitar during the film. All three are dreamy and full of hope, perfectly illustrating Holly Golightly’s spirit.
 
-**Michel Legrand’s “Les Parapluies de Cherbourg”, from _LesParapluiesdeCherbourg_\(1964\)**
+**Michel Legrand’s “Les Parapluies de Cherbourg”, from _LesParapluiesdeCherbourg_(1964)**
 
 The touching music of Michel Legrand is more than a mere companion for Jacques Demy’s film, considering the fact that in the whole film there is not even one word of spoken dialogue; all dialogues are sung on top of Legrand’s compositions, which were also responsible for establishing his talent in Hollywood.
 
-**Nino Rota’s “Love Theme”, from _RomeoandJuliet_ \(1968\)**
+**Nino Rota’s “Love Theme”, from _RomeoandJuliet_ (1968)**
 
 In quite possibly the best film adaptation of the most famous love story of all time, Nino Rota achieves a masterpiece, full of drama, along with the a perfect medieval tone  that perfectly suits the setting of the story.
 
-**Ennio Morricone’s “Tema d’Amore”, from _CinemaParadiso_ \(1988\)**
+**Ennio Morricone’s “Tema d’Amore”, from _CinemaParadiso_ (1988)**
 
-The Maestro’s music was essential in making Giuseppe Tornatore’s _Cinema Paradiso_ the classic film masterpiece it is today. This track perfectly captures Toto’s young, all\-consuming love for Elena, with the necessary shades of melancholy and nostalgia that perfectly complement their story.
+The Maestro’s music was essential in making Giuseppe Tornatore’s _Cinema Paradiso_ the classic film masterpiece it is today. This track perfectly captures Toto’s young, all-consuming love for Elena, with the necessary shades of melancholy and nostalgia that perfectly complement their story.

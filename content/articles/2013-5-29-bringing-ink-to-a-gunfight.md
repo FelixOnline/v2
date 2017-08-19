@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305291709-tna08-mark-of-the-ninja-review-thumb-large.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,12 +44,12 @@ The first level takes place at the tail end of an attack on your clan, led by a 
 The controls are solid, though a little clunky if using keyboard and mouse. Personally, I prefer to use an Xbox 360 controller, occasionally using the mouse for precision, however a little bit of practice and most people should be fine with a keyboard and mouse.
 
 The art and music, on the other hand, are absolutely astonishing. Together with a few major features in the gameplay (being able to ‘see’ sound, pausing time for short periods, the sheer number of different ways to execute a stealth kill), these cause a very powerful atmosphere in the game. If, like me, you’re one of these people who becomes very invested in a game, you might even start feeling like a real ninja.
-TODO: image from 
+TODO: image from
 Unfortunately, there are very few games out there to compare this to – 2D stealth games have only really started becoming popular with the release of Mark of the Ninja. However, in comparison to 3D stealth games two things should be noted.
 
 Firstly that the game is more ‘casual’, in that it’s much easier to get into. If you simply want to complete the levels and finish the story, you can fail all the time and be detected quite often but still complete it – only your points will suffer. But if you want to, there’s a wealth of secondary objectives to complete that turn it from a game that anyone can complete to onethat few can master.
 
 Secondly, it is also far less tedious; in my experience, many stealth games have a large element of waiting. Whilst this is indeed present here, guard patrols are short, in order to minimise the wait. Rushing through a level will still get you detected and decrease your points, however you often need not wait long, and there is nearly always something you can do in the meantime to maximise your chances of a successful stealth kill.
 
-Overall, Mark of the Ninja is a testament to what a group of programmers can do when they have a singular vision and the time and money to do the best they can at fulfilling that vision.  
+Overall, Mark of the Ninja is a testament to what a group of programmers can do when they have a singular vision and the time and money to do the best they can at fulfilling that vision.
  Mark of the Ninja is available on Steam or Xbox live for £12, and a single DLC will be released over the summer, expanding a little on the backstory and introducing new items.

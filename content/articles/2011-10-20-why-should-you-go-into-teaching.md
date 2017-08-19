@@ -59,7 +59,7 @@ Salary is undeniably a leading reason why graduates tend to stay away from teach
 “The great thing about Teach First is that over half of those who do it enjoy it so much that they continue teaching full-time, and if you are, indeed, concerned about pay, the LDP is an amazing opportunity for what is essentially paid work experience. The skills you pick up and lessons you learn whilst being on the Teach First scheme really do make you vastly more employable. Put simply, graduates who can engage, manage and inspire a class of young people can handle pretty well any situation in any industry.”
 
 Teach First will be holding a Milkround Presentation on Monday 24 October in the Reed Lecture Theatre in the Sherfield Building.
-TODO: image from 
+TODO: image from
 __Other Schemes__
 
 Teach First is by no means the only pathway for Imperial graduates into teaching. [YELP](http://www.yelpstudents.org/) is an organisation aimed at reducing inequality in primary and secondary education, with the stated aim to remove the (currently strong) correlation between affluence and academic achievement. Formed in 2007, the organisation already has links to Oxford, LSE, King’s and Queen Mary.

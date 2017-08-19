@@ -1,6 +1,6 @@
 ---
 title: >
-  Student protests pass peacefully 
+  Student protests pass peacefully
 subtitle: >
   Violence of previous protests avoided
 date: "2011-02-03 19:52:39 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -36,8 +36,8 @@ imported: true
 
 [Albert Nobbs](http://www.imdb.com/title/tt1602098/)
 
-__Director __Rodrigo García  
-__Screenwriters __Glenn Close, John Banville, George Moore (short story)  
+__Director __Rodrigo García
+__Screenwriters __Glenn Close, John Banville, George Moore (short story)
 __Cast __Glenn Close, Janet McTeer, Mia Wasikowska, Aaron Johnson
 
 [Watch the trailer here](http://www.youtube.com/watch?v=P-BF1YE9BEM)

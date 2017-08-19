@@ -2,7 +2,7 @@
 title: >
   Fire engine Jezebel clocks up 50,000 miles
 subtitle: >
-  Faculty mascot reaches significant milestone 
+  Faculty mascot reaches significant milestone
 date: "2011-10-13 21:01:24 +0100"
 id: "1505"
 old_path: /news/1505/fire-engine-jezebel-clocks-up-50000-miles
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110132159-felix-dsc_4859.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: "Jonathan Peek"

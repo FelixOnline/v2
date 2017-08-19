@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302010013-tna08-simon-russell-beale-(captain-terri-dennis)-and-the-sadusea-company.-by-johan-persson.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -38,7 +38,7 @@ Privates on Parade, a musical farce rife with semi-gratuitous nudity and camp so
 
 It does not. Instead, it triumphs in a medley of farcical comedy and dramatic sentimentality with a British feel.
 
-Some of the credit for this success has to go to the unmissable star of the show, Simon Russell Beale.  
+Some of the credit for this success has to go to the unmissable star of the show, Simon Russell Beale.
  Beale gives a fabulous performance as the fabulous Acting Captain Terri Dennis, posted in Malaya for the entertainment of the peace-time conscripts. Beale as the transvestite Terri Dennis is the ultimate in campiness. He displays a sense of comic timing that results in subtle moments of absolute hilarity. For one of his numbers, Beale impersonates Marlene Dietrich. Without a doubt, the general impression of this nicely rotund man with rather disproportionately large shoulders in a tight blue dress and suspenders, singing in an exaggerated German accent, is very funny. However, it is the attention to detail – the little stumble as Terri/ Marlene struggles to get her legs around the chair or the grimaces she gives to her co-stars when they blunder – that truly enliven this production. Beale also manages to convey a true sense of tragedy.
 
 Although Beale, partially as a result of the loudness of Terri Dennis’ persona, tends to upstage anyone standing next to him, the rest of the cast are excellent in their own right. Each character has a real personality, perfectly drawn out by the actors, to such an extent that the individual characters are not farcical in themselves.

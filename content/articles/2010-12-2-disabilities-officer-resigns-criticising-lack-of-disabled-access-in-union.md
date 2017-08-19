@@ -1,6 +1,6 @@
 ---
 title: >
-  Disabilities Officer resigns criticising ‘lack of disabled access’ in Union 
+  Disabilities Officer resigns criticising ‘lack of disabled access’ in Union
 subtitle: >
   Union says issues are being resolved
 date: "2010-12-02 21:59:49 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

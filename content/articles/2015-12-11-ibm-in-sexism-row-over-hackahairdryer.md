@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -49,7 +49,7 @@ The mocking continued throughout the day, until IBM eventually decided to pull t
 
 IBM said afterwards that the campaign had “missed the mark for some”. They’d been running the initiative since October, but began publicising it again on Monday.
 
-On a webpage for the scheme on IBM’s website, the company described the “hair\-raising misconceptions” about women in science that were putting women off. This has since been removed.
+On a webpage for the scheme on IBM’s website, the company described the “hair-raising misconceptions” about women in science that were putting women off. This has since been removed.
 
 This misfire makes a change for IBM, who are known for being a relatively diverse company. They have a female CEO, Ginni Rometty, and have always claimed to have paved the way for women in technology, saying on their website: “Where many companies proudly date their affirmative action programs to the 1970s, IBM has been creating meaningful roles for female employees since the 1930s.”
 

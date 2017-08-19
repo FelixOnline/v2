@@ -1,6 +1,6 @@
 ---
 title: >
-  Should there be limits on the extent of free speech? 
+  Should there be limits on the extent of free speech?
 subtitle: >
   A range of opinions on the ever important issue of freedom of speech
 date: "2010-11-18 20:24:40 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182018-ks607-politics.jpg"
 image_caption: >
-  
+
 image_width: "7087"
 image_height: "3209"
 image_attribution: ""

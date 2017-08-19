@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701131412-felix-Zooplankton1_300.jpg"
 image_caption: >
-  
+
 image_width: "1235"
 image_height: "825"
 image_attribution: "Shane Anderson"
@@ -38,7 +38,7 @@ Fact: There is a jellyfish that can live forever.
 
 Turritopsis dohrnii, a small blob floating in the sea off Japan, has been classified as the world’s only immortal organism, since it can develop to adulthood, reproduce and then go backwards in time to an earlier stage in its life cycle and start the whole process again.
 
-The trick up its sleeve is a process called transdifferentiation. When a human cell becomes highly specialised \(or ‘differentiated’\), it acquires useful properties but cannot go  back, nor become any other type of cell. For example, a skin cell can’t change its mind and decide to become a stem cell or a heart cell.
+The trick up its sleeve is a process called transdifferentiation. When a human cell becomes highly specialised (or ‘differentiated’), it acquires useful properties but cannot go  back, nor become any other type of cell. For example, a skin cell can’t change its mind and decide to become a stem cell or a heart cell.
 
 However, the immortal jellyfish has cells that are not bound by this restriction, so cells in the body of an old, injured or stressed adult can revert back to stem cells. These stem cells can then develop to produce entirely new adults, effectively allowing the jellyfish to cheat death.
 

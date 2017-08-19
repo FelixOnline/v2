@@ -2,7 +2,7 @@
 title: >
   Women’s rugby team to headline at the Stoop
 subtitle: >
-  Their 40-minute match will follow the men's game. 
+  Their 40-minute match will follow the men's game.
 date: "2015-01-23 00:49:01 +0000"
 id: "5114"
 old_path: /news/5114/womens-rugby-team-to-headline-at-the-stoop
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501230046-cac111-b05dostimaa-af9.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "ICU Women's Rugby"

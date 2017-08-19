@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203012117-cac111-macbookair_hero_1_print.jpg"
 image_caption: >
-  
+
 image_width: "2400"
 image_height: "1714"
 image_attribution: ""
@@ -38,7 +38,7 @@ I’m quite ambivalent when it comes to the relative merits of operating systems
 
 In choosing a modern laptop/operating system, what you are really debating is largely personal preference: aside from gamers who have more options on Windows, buying a laptop usually boils the decision making process down to a question of money and aesthetic ideals. So what does a Macbook Air do to define itself as unique? Quite a lot, as we shall soon see. In this review, I have forgone the usual listing of specifications and benchmarking tests: the laptop has been out for 6 months now and there’s enough of that available online if you need it. What I have tried to focus on is the experience of using a Mac as a student. If you have been sitting on the fence about buying a Macbook for a while, my goal is to push you off it in either direction.
 
-Remarkably thin and elegant, the Air is one of the most striking laptops I have ever used. The hardware has clearly been designed to benefit the user experience: one pleasing difference from the average laptop is its roomy touchpad. For such a thin piece of kit, it also sits well in the hand - I often found myself carrying it around with one hand as easily as I would a sheaf of papers. The only real problem I had with it from a design perspective is how easily I misplaced it on my desk, which is more a testament to its diminutive size rather than any misstep on Apple’s part.  
+Remarkably thin and elegant, the Air is one of the most striking laptops I have ever used. The hardware has clearly been designed to benefit the user experience: one pleasing difference from the average laptop is its roomy touchpad. For such a thin piece of kit, it also sits well in the hand - I often found myself carrying it around with one hand as easily as I would a sheaf of papers. The only real problem I had with it from a design perspective is how easily I misplaced it on my desk, which is more a testament to its diminutive size rather than any misstep on Apple’s part.
  In terms of performance, I was quite happy with the system as it was - when it came to browsing, doing some writing and watching flash videos (what I mostly use my computer for, aside from programming), the Air performed solidly. If you require Matlab or other major programming IDEs such as Eclipse, the higher-end Air coming in with 4GB of memory and an i7 processor would be a better bet, but keep in mind the limited space (256GB being the upper storage limit on the device) would probably require investment in an external hard drive.
 
 Considering the solid state drive and the i5/i7 processors inside these machines, the smooth performance isn’t much of a surprise. In terms of Flash in particular, I was impressed by how easily the device handled the plugin, something that I have had troubles with on Linux for a while now. Battery life was comparable to my not-so-ultra notebook, which is impressive, and probably enough to get you through a normal day at uni without having to rely on finding a power socket. I was very impressed by the speaker quality, which was loud and clear - something I was not expecting considering I still don’t know exactly where the sound was coming from.

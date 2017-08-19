@@ -2,7 +2,7 @@
 title: >
   OMG WTF FTL FTW
 subtitle: >
-  Mainstream gaming 
+  Mainstream gaming
 date: "2012-10-18 21:38:35 +0100"
 id: "2717"
 old_path: /games/2717/omg-wtf-ftl-ftw
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,5 +44,5 @@ Once in battle, you have to manage both the ship’s power consumption and the a
 
 See, the games random component is both its best feature and its worst. To win FTL, you must not rush and should instead focus primarily on preparing for the more difficult battles ahead. Sometimes you get lucky. A few easy battles, a free weapon from a nice stranger and maybe a couple of new crew members enable you to really improve your ships performance. Other times you just jump into empty space, time and time again, gaining nothing and losing fuel. Occasionally, the game can just be incredibly unfair and pit you in an absolutely horrible battle, testing you in every way. However, at the end of the day, each time you hit that ‘New Game’ button you know it’s going to be a different adventure. As you get better and more experienced in the game, you’re rewarded with new starting ships, making each new game even fresher.
 
-As far as true criticisms go, events that don’t involve combat can be a tad dull. Occasionally you’re asked if you want to send some crew members down to a planet, or help a trapped ship stuck in an asteroid field. These events are just displayed in boxes of text with a random outcome. You might gain something useful or suffer damage to your ship or even lose a vital crew member. Also, I’m not a huge fan of the game’s crew-to-crew combat when boarding enemy ships, or being boarded yourself. These instances basically involve your crew and the enemy crew, being in the same room together, slowly picking away at each other’s health. The only real strategy seems to be to know when to quickly move your crew to a different room and it’s far less exciting that the true ship to ship combat.  
+As far as true criticisms go, events that don’t involve combat can be a tad dull. Occasionally you’re asked if you want to send some crew members down to a planet, or help a trapped ship stuck in an asteroid field. These events are just displayed in boxes of text with a random outcome. You might gain something useful or suffer damage to your ship or even lose a vital crew member. Also, I’m not a huge fan of the game’s crew-to-crew combat when boarding enemy ships, or being boarded yourself. These instances basically involve your crew and the enemy crew, being in the same room together, slowly picking away at each other’s health. The only real strategy seems to be to know when to quickly move your crew to a different room and it’s far less exciting that the true ship to ship combat.
  Each attempt at FTL is like its own self-contained episode of Star Trek – just where more often than not, everyone dies at the end. Also, on that note, I’d recommend against naming your starting crew members. I named a female crew member after my girlfriend and she got eaten by a giant spider after about five minutes of playing. It was sad.

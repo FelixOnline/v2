@@ -47,4 +47,4 @@ The tests will be taken by students applying for 2017 entry, so applicants sendi
 
 Cambridge University’s new Director of Admissions across colleges said that this move was in response to teacher and student feedback, as well as to “maintain the effectiveness and fairness of our admissions system”.
 
-Peter Lampl of the Sutton Trust, a charity addressing educational disadvantage, has said any simplification of the process of applying to Cambridge is a good thing, but warned that: “tests could present a disadvantage for low\-and middle\-income students as there is a thriving market in private tuition for the extra admissions tests.”
+Peter Lampl of the Sutton Trust, a charity addressing educational disadvantage, has said any simplification of the process of applying to Cambridge is a good thing, but warned that: “tests could present a disadvantage for low-and middle-income students as there is a thriving market in private tuition for the extra admissions tests.”

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306132332-tna08-space-merchants2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ That is why I was very pleased to hear of the recently released two volume colle
 
 The novel is set in the near future where the world is controlled by giant corporations, and in particular advertising firms. Companies openly buy out and bribe politicians; workers are trapped in menial jobs, in which they are treated like slaves, by unfair contracts and the planet has been ravaged for its natural resources. The “highest ideals” in society are considered to be sales and profit – with anybody who disagrees with this philosophy being treated as either hopelessly deluded or a dangerous subversive.
 
-This is a world similar to those we often see in modern works of cyberpunk but Pohl and Kornbluth took the unusual step of making the protagonist someone near the top of the corporate hierarchy rather than near the bottom. Mitch Courtenay is a senior executive at the Fowler Schocken advertising agency, assigned to oversee the planned colonization of Venus. He is no subversive and fully endorses the ideals of his society yet he remains a relatable and, at times, even a sympathetic character. He is our guide to this frightening yet familiar world and his growth as a person forms the core of this work.  
+This is a world similar to those we often see in modern works of cyberpunk but Pohl and Kornbluth took the unusual step of making the protagonist someone near the top of the corporate hierarchy rather than near the bottom. Mitch Courtenay is a senior executive at the Fowler Schocken advertising agency, assigned to oversee the planned colonization of Venus. He is no subversive and fully endorses the ideals of his society yet he remains a relatable and, at times, even a sympathetic character. He is our guide to this frightening yet familiar world and his growth as a person forms the core of this work.
  Through his eyes, we get to understand how the system described in the book works and how strongly entrenched it is. We see how the elite – even those who consider themselves good and moral people – remain committed to their highly flawedmodel of society. This is not merely as a result of self interest but also because – through societal pressure, wilful blindness and their own propaganda – they honestly believe that current system is best for everyone.
 
 While the prose is somewhat dry –as is common with genre novels from that time – this is more than compensated for by the interesting characters and important issues that form the heart of the work. Despite being written more than 50 years ago the book retains a remarkable relevance. At under 200 pages this is a short yet powerful novel – there’s no excuse for not checking it out.

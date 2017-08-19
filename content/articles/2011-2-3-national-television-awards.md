@@ -2,7 +2,7 @@
 title: >
   National Television Awards
 subtitle: >
-  Seriously, what television were they watching? 
+  Seriously, what television were they watching?
 date: "2011-02-03 20:29:15 +0000"
 id: "747"
 old_path: /tv/747/national-television-awards

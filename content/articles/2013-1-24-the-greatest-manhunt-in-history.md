@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201301250233-tna08-zero-dark-thirty_03.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -37,8 +37,8 @@ imported: true
 
 Zero Dark Thirty
 
-Director: Kathryn Bigelow  
- Screenwriter: Mark Boal  
+Director: Kathryn Bigelow
+ Screenwriter: Mark Boal
  Starring: Jessica Chastain, Jason Clarke, Jennifer Ehle, Kyle Chandler, Mark Strong, Joel Edgerton
 
 A lot of nonsense, completely baseless controversy and accusations surround Kathryn Bigelow’s outstanding, heart-thumping epic of a procedural, Zero Dark Thirty. Bigelow has managed to condense ten years of complex, never-ending information and events regarding the hunt for Osama bin Laden into a mere 150-minute running time, whilst keeping the pace healthy, suspense high, and realism intact. Instead the film has generated, and continues to storm up its ever-growing number of detractors and haters, most of whom haven’t even seen the film, criticising Bigelow’s portrayal of the use of torture sanctioned by the government to gather intelligence. Anti-Obama politicians who supposedly have nothing better to do than to attack an innocent film, accuses the narrative of showing political bias towards the Obama administration. Further proof this pathetic ilk never even bothered to watch the film, since Obama is barely mentioned. Oh, and did you know that Bigelow is now a strong advocate for torturing and abusing military captives? That Bigelow had to go so far as to pen an op-ed piece to defend herself and her excellent film is beyond absurd. In fact one of the film’s most distressing parts is its opening, in which a completely blank, black screen is shown, with a background audio feed of various victims of the 9/11 attack in 2001. This makes bin Laden the number one target.

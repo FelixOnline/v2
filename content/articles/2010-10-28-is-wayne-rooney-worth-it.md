@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282041-ks607-TOMCUT.jpg"
 image_caption: >
-  
+
 image_width: "4272"
 image_height: "2848"
 image_attribution: ""
@@ -39,7 +39,7 @@ Isn’t it about time that everyone gave Wayne Rooney a break? Let’s get thing
 
 As for his form, just go easy on Shrek. The age old saying that form is temporary and class is permanent will certainly stand up in this case. Yes, Wayne had a bad World Cup, yes, his form for Manchester United since his injury against Bayern Munich in March has been questionable. But he is the most talented English footballer of his generation and he is carrying a United side as weak as any since they first won the Premier League under Ferguson. Carrying not only the nation’s hopes, but one having the additional weight of one of the world’s biggest clubs on your shoulders is enough to wear anyone down.
 
-It is important to remember that not only is Rooney no Ronaldo (in terms of pure footballing ability – Rooney more than makes up for this in his dedication and work rate) but in this weak united team there is no Rooney or T\*\*\* from Argentina to support him.
+It is important to remember that not only is Rooney no Ronaldo (in terms of pure footballing ability – Rooney more than makes up for this in his dedication and work rate) but in this weak united team there is no Rooney or T*** from Argentina to support him.
 
 Last week, after announcing he wanted to leave Old Trafford for pastures new Rooney made a miraculous reversal and signed himself a new £250,000 a week contract. Should this make him Public Enemy Number One? No. All he has done is negotiate a fair deal for a player of his quality. In comparison to £250,000 a week for Yaya Toure of Man City, it seems a bargain. At the £90,000 a week he was on before, Rooney was arguably the best value for money player in any major European league.
 

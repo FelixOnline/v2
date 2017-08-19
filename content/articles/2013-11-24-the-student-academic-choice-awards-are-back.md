@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,10 +34,10 @@ comments:
 imported: true
 ---
 
-After the huge success of last year’s awards the Student Academic Choice Awards (SACAs) are back, and this year they are bigger than ever! In case you haven’t heard of them, the SACAs are awards for academics and support staff, nominated and chosen entirely by students. The awards are designed to celebrate and reward good teaching and emphasise teaching as a skill of equal worth and value as research. We also want to build a community in which students, academics and staff all feel ownership of the development and delivery of their course. These awards are a chance for students to say thank you to those members of staff that have had a positive impact on their time at Imperial.  
- There are eight awards in total that will cover all faculties, departments and campuses. There will also be specific prizes available for those who supervise doctoral students, teach masters students, and work in professional roles within College. The awards aren’t designed to be a popularity contest but a recognition of innovation, skill, engagement and energy that students have received from academics.  
- We want the best members of staff to win these awards, so we need your nominations! Nominations open on Monday 25 November, and all you have to do is go online to union.ic.ac.uk/SACAs and fill in the simple online nomination form.   
- The shortlists will be drawn up and winners selected by student panels – making these truly your awards. The shortlisted candidates will be announced online and in Felix before the winners will be announced at the swanky black-tie awards ceremony in May. If your nominee is shortlisted you have the chance to get a ticket to the main event, and trust me, you don’t want to miss out on one of the most glamorous nights of the year.  
+After the huge success of last year’s awards the Student Academic Choice Awards (SACAs) are back, and this year they are bigger than ever! In case you haven’t heard of them, the SACAs are awards for academics and support staff, nominated and chosen entirely by students. The awards are designed to celebrate and reward good teaching and emphasise teaching as a skill of equal worth and value as research. We also want to build a community in which students, academics and staff all feel ownership of the development and delivery of their course. These awards are a chance for students to say thank you to those members of staff that have had a positive impact on their time at Imperial.
+ There are eight awards in total that will cover all faculties, departments and campuses. There will also be specific prizes available for those who supervise doctoral students, teach masters students, and work in professional roles within College. The awards aren’t designed to be a popularity contest but a recognition of innovation, skill, engagement and energy that students have received from academics.
+ We want the best members of staff to win these awards, so we need your nominations! Nominations open on Monday 25 November, and all you have to do is go online to union.ic.ac.uk/SACAs and fill in the simple online nomination form.
+ The shortlists will be drawn up and winners selected by student panels – making these truly your awards. The shortlisted candidates will be announced online and in Felix before the winners will be announced at the swanky black-tie awards ceremony in May. If your nominee is shortlisted you have the chance to get a ticket to the main event, and trust me, you don’t want to miss out on one of the most glamorous nights of the year.
  Last year over 550 nominations were made for over 250 members of staff, which were sifted down to 42 shortlisted candidates by panels of students. This year our target is 1000 nominations, so get nominating from Monday 25 at union.ic.ac.uk/SACAs !!
 
 ###  Award Categories

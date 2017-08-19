@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602191124-felix-df184d73_gif1.xxxlarge.gif"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "281"
 image_attribution: ""
@@ -48,11 +48,11 @@ Engel et al. 2016  @ Current Biology
 
 **Super Earth probably toxic**
 
-Ah, the exotic and awe inspiring super\-Earth, a class of exoplanet larger than Earth but not quite the size of a gas giant. For quite some time now, scientists have been fantasising about one in particular, 55 Cancri E, and what conditions on such a celestial body might be like. A group of astronomers though recently burst everyone’s dream bubble, pointing out it’s probably a cyanide packed, face\-melting hellhole.
+Ah, the exotic and awe inspiring super-Earth, a class of exoplanet larger than Earth but not quite the size of a gas giant. For quite some time now, scientists have been fantasising about one in particular, 55 Cancri E, and what conditions on such a celestial body might be like. A group of astronomers though recently burst everyone’s dream bubble, pointing out it’s probably a cyanide packed, face-melting hellhole.
 
 The team of astronomers used Hubble pictures to measure the spectra of light coming off the planet as it passed in front of its parent star.
 
-Sadly the high levels of hydrogen, helium and hydrogen cyanide detected, lighter elements and their products \(which our planet’s  atmosphere lost long ago\), don’t seem to be  putting an end to the search for a cooler, larger home any time soon.
+Sadly the high levels of hydrogen, helium and hydrogen cyanide detected, lighter elements and their products (which our planet’s  atmosphere lost long ago), don’t seem to be  putting an end to the search for a cooler, larger home any time soon.
 
 Tsiaras et al. 2016 @ The Astrophysical Journal
 
@@ -68,7 +68,7 @@ However a research team has managed to greatly refine the use of nanoparticles, 
 
 Clinical trials could begin in the next two years, which if successful would greatly aid the fight against cancer
 
-Lukianova\-Hieb et al. 2016  @ Nature Nanotechnology
+Lukianova-Hieb et al. 2016  @ Nature Nanotechnology
 
 **Printing ‘living’ ears**
 
@@ -76,7 +76,7 @@ Over the past decade we have seen many great breakthroughs in 3D printing, impro
 
 One of the materials that has shown promise in its application across the health sector of course is human cells.
 
-A team has come up with a new technique – integrated tissue\-organ printing which hopes to make the dream of printing of organs a reality.
+A team has come up with a new technique – integrated tissue-organ printing which hopes to make the dream of printing of organs a reality.
 
 The new technique allows lacing of artificial body parts with living cells and was successfully used to 3D print a human ear.
 
@@ -88,7 +88,7 @@ Kang et al. 2016 @ Nature Biotechnology
 
 DNA is more than just a sequence of As, Ts, C, and Gs. It  is a fingerprint of our individuality, capturing our primitive past and even the behaviour of our ancestors; and it seems our ancestors hooked up with our evolutionary ‘cousins’ a lot earlier than we previously thought. Specifically 110,000 years earlier.
 
-It is not a novelty that we find Neanderthal DNA in human DNA,  however, an international group of researchers recently found the presence of a reverse situation. That is, human DNA incorporated into the genetic code of a Neanderthal. A 50,000\-year\-old Neanderthal toe bone contained a human signature embedded within its collagen case.
+It is not a novelty that we find Neanderthal DNA in human DNA,  however, an international group of researchers recently found the presence of a reverse situation. That is, human DNA incorporated into the genetic code of a Neanderthal. A 50,000-year-old Neanderthal toe bone contained a human signature embedded within its collagen case.
 
 The findings have posed the need to rethink human migration in the light of the now apparent genetic evidence, pointing strongly to an earlier migration out of Africa.
 

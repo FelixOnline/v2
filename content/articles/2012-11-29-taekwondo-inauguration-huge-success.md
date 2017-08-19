@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292316-tna08-lalala.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,5 +45,5 @@ Within two of the categories, our members dominated the opposition, with the gol
 
 However, it was the dedication of all the volunteers and officials on the day which truly encapsulated the spirit of TaeKwonDo. Without a doubt, they all went out of their wayto ensure that the competition as a success. Without them, the day would not have run as smoothly as it did. We have to thank the British Student TaeKwonDo Federation (BSTF), the staff at Ethos and Sport Imperial for all their support and a huge thank you to all the first aiders, photographers, referees, competitors and instructors without whom, Imperial College Open 2012 would have never happened.
 
-Finally, we could not have achieved any of this without the hard work of our instructor, Master Reza Saberi, who gave us the encouragement and confidence to take on this task in style.  
+Finally, we could not have achieved any of this without the hard work of our instructor, Master Reza Saberi, who gave us the encouragement and confidence to take on this task in style.
  With the Imperial College Open 2012 done and dusted, ICUTKD can look forward to the next Imperial College Open 2013!

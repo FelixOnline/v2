@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201192103-pk1811-raincatcher-logo2.jpg"
 image_caption: >
-  
+
 image_width: "1131"
 image_height: "1732"
 image_attribution: ""
@@ -60,5 +60,5 @@ So what can you do to help? Just look out for the many fundraising opportunities
 
 All the money we collect will go directly to helping the Tanzanian people and personal costs – such as flights and accommodation – are paid for by the team members themselves. Get involved with one of our four departments – Research, education, fundraising or public relations – by sending us an email now at [raincatcher@imperial.ac.uk](mailto:raincatcher@imperial.ac.uk).
 
-To find out more, or to donate money to us through Virgin Money Giving, follow this link:  
+To find out more, or to donate money to us through Virgin Money Giving, follow this link:
 [www.raincatcherimperial.org](http://www.raincatcherimperial.org)

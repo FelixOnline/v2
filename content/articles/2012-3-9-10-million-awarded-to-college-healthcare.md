@@ -41,5 +41,5 @@ Healthcare trusts from around the country submitted bids for the award which wer
 
 Martin Wilkins, director of clinical investigative sciences at Imperial College Healthcare NHS Trust and head of experimental medicine, said, “This is a very prestigious award and is a testament to the excellent clinical research already happening in Imperial College Healthcare Trust.
 
-“This funding, and the strong partnership between Imperial College London and our Trust, will ensure that we are well placed to translate the latest research discoveries into clinical practice to benefit our patients.”  
+“This funding, and the strong partnership between Imperial College London and our Trust, will ensure that we are well placed to translate the latest research discoveries into clinical practice to benefit our patients.”
  Set up in 2001, the McMichael Clinical Research Facility has recently reopened on the ground floor of the Imperial Centre for Translation and Experimental Medicine at Hammersmith Hospital. It specialises in the design and implementation of early phase clinical trials including first-time-in-human trials.

@@ -2,7 +2,7 @@
 title: >
   Footballers beat Mary’s and Bart’s
 subtitle: >
-  Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington 
+  Imperial Men’s football 2nd team hosted St Mary’s men’s football 5th team at Fortress Harlington
 date: "2012-11-01 23:18:30 +0000"
 id: "2824"
 old_path: /sport/2824/footballers-beat-marys-and-barts
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -50,7 +50,7 @@ Tax dodging comes in two flavours. Illegal tax evasion is where companies simply
 
 Offshore tax havens are complicated and expensive to set up, often requiring entire teams of accountants, so they are usually used only by multinational corporations and the extremely wealthy. A prominent example of this was the retail giant Philip Green getting around his £285 million tax bill by paying all the profits to his wife who was registered as living in the Monaco tax haven.
 
-HM Revenue & Customs own estimates say that £60 billion is lost every year through a combination of illegal tax evasion and legal tax avoidance. The TaxJustice pressure group estimates £120 billion.  
+HM Revenue & Customs own estimates say that £60 billion is lost every year through a combination of illegal tax evasion and legal tax avoidance. The TaxJustice pressure group estimates £120 billion.
  The new breed of too-rich-to-pay-tax freeloaders is hollowing out our tax base. They take the benefits of a working society, (police and fire protection, national security, public roads, utilities, the internet, publicly funded research and development, educated workers, etc.) but don’t want to pay for them. The burden thus falls ever harder on the middle-class and the poor.
 
 It should be pretty clear by now that the money lost to corporate tax dodging by the rich is even greater than the money spent on the working and un-working poor. Yet you’d never guess that reading most of the mainstream newspapers (see my other article [“The media’s inevitable right-wing slant”](../politics/1543/the-medias-inevitable-right-wing-slant/) in Felix 14.10.11 for why this happens).

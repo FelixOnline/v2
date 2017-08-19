@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152109-pk1811-tastes-like-human.png"
 image_caption: >
-  
+
 image_width: "1050"
 image_height: "1292"
 image_attribution: ""

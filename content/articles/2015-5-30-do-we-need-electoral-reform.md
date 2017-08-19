@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505301042-jr2514-av-vs-fptp.jpg"
 image_caption: >
-  Is the alternative voting system better for our democracy? 
+  Is the alternative voting system better for our democracy?
 image_width: "0"
 image_height: "0"
 image_attribution: "ChatPolitics"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Were actually still working mens club The members bar is on the lower ground floorWe exist specifically to preserve that history Stick your head around their door next time you pop in  the members are always up for some good banter 
+ - Were actually still working mens club The members bar is on the lower ground floorWe exist specifically to preserve that history Stick your head around their door next time you pop in  the members are always up for some good banter
 imported: true
 ---
 

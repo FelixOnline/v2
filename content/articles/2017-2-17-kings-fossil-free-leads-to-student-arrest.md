@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702171424-felix-8266827474_c72cfd193b_o.jpg"
 image_caption: >
-  
+
 image_width: "612"
 image_height: "612"
 image_attribution: "Loren Kerns"
@@ -41,7 +41,7 @@ Last week over forty students decorated the front of King’s College London wit
 
 The poster paint dots relate back to action from the last week of Autumn term when students sprayed 1000 chalk dots around the internal walls of King’s College to represent the need to ‘connect the dots’ on climate change. The point the campaign was trying to make, was the need for looking beyond polar bears and realising that the 2ºC temperatures limit that’s on track to be exceeded in a matter of years, will lead to an exponential increase in forest fires, floods, droughts, storms and sea levels.
 
-At the start of this term, Roger Hallam, a PhD candidate in the Department of Culture Media and Creative Industries, spray painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s. Then later in this term ten students and alumni spray painted the Main Entrance Hall of the College leading to the first arrests in decades of King’s College students during a political protest. Roger Hallam \(student\) and David Rhys Alan \(alumni\) were detained for 14 hours before being released without charges at 3am. Roger has since been suspended and David banned from College property.
+At the start of this term, Roger Hallam, a PhD candidate in the Department of Culture Media and Creative Industries, spray painted “Divest from Oil and Gas Now – Out of Time” on the front of King’s. Then later in this term ten students and alumni spray painted the Main Entrance Hall of the College leading to the first arrests in decades of King’s College students during a political protest. Roger Hallam (student) and David Rhys Alan (alumni) were detained for 14 hours before being released without charges at 3am. Roger has since been suspended and David banned from College property.
 
 A King’s student, Luke Harwood, has said the following: “The fact that institutions such as KCL are content to happily risk the fate of humanity for a profitable investment is beyond contemptible. When they seem so obviously unwilling to divest the only option is to escalate our message.”
 

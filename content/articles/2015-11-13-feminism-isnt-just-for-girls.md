@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201511131424-ygr12-ad186854872emma-watson-meet.jpg"
 image_caption: >
-  Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson. 
+  Emma Watson persuaded Malala to be a feminist, but Angry Grad persuaded Watson.
 image_width: "0"
 image_height: "0"
 image_attribution: "Fox Searchlight"

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310200233-jal08-copyright-2013-demetri-martin.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Demetri Martin"
@@ -36,7 +36,7 @@ imported: true
 
 Demetri Martin’s first book of drawings is an utterly beguiling read from start to finish. Perhaps it isn’t accurate to say ‘read’ as there are few words in it ­– each page is taken up by a new simple black-and-white line drawing of charming hilarity, ranging from a graph of melted cheese temperature against time (with a discontinuity at perfect temperature) to a man walking a fish.
 
-It is a book that is easily dipped into and out of, with the sheer number and diversity of the sketches meaning that it can be read from cover to cover over and over again, each time finding something new. Most of its comedy is light-hearted and observational, so appeals to a wide audience, though some of it leans towards the slightly more macabre, like the double page spread of skulls ending in your own.  
+It is a book that is easily dipped into and out of, with the sheer number and diversity of the sketches meaning that it can be read from cover to cover over and over again, each time finding something new. Most of its comedy is light-hearted and observational, so appeals to a wide audience, though some of it leans towards the slightly more macabre, like the double page spread of skulls ending in your own.
  Anyone who is familiar with Demetri Martin as a comedian from his many television broadcasts and stand-up shows, will recognise his charming trademark mix of cheerful, somewhat silly one liners and slightly more satirical and thoughtful sketches. For anyone who isn’t, he can be described succinctly by his list on influences on Wikipedia, which includes Eddie Izzard and Socrates.
 
 With its Venn Diagrams, entertaining questions such as: ‘why do the lions have to be tamed?’ and off-the-wall equations like ‘spray tan= (vanity + stupidity)aerosol’, this book comes across as the doodles of someone trying to make sense of life, albeit someone who doesn’t take it too seriously.

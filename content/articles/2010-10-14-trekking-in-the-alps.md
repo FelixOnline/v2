@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010142037-nm1010-trekking.jpg"
 image_caption: >
-  
+
 image_width: "540"
 image_height: "720"
 image_attribution: ""

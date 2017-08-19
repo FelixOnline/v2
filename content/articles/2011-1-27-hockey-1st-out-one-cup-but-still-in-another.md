@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101311434-jn104-hockey14.jpg"
 image_caption: >
-  
+
 image_width: "354"
 image_height: "244"
 image_attribution: ""

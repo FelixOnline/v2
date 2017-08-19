@@ -2,7 +2,7 @@
 title: >
   Election Anonymity - What’s the Point?
 subtitle: >
-  This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete. 
+  This year the Union Election process has significantly changed; there is no longer a list of candidates standing for each position and instead the complete list will be announced once nominations are complete.
 date: "2014-02-17 17:25:19 +0000"
 id: "4394"
 old_path: /comment/4394/election-anonymity---whats-the-point
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011252056-nm1010-GillScot.jpg"
 image_caption: >
-  
+
 image_width: "540"
 image_height: "300"
 image_attribution: ""

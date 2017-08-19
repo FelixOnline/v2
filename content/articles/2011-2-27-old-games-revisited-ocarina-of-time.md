@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102271303-ks607-legendof.jpg"
 image_caption: >
-  
+
 image_width: "480"
 image_height: "495"
 image_attribution: ""

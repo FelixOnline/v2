@@ -40,7 +40,7 @@ The crisis, which left 27,000 people dead or missing and caused billions of doll
 
 Unlike other radioactive contaminants to come from Fukushima, plutonium is different. It is not volatile so it is harder for it to escape from a nuclear reactor during a meltdown. But it is thought, in the case of Fukushima, the force of the hydrogen explosions propelled out some plutonium in the form of particulate matter.
 
-Plutonium can be extremely harmful. When it decays, it releases heavy particles such as electrons and helium nuclei – not particularly dangerous outside the body, but if ingested can cause genetic damage.  
+Plutonium can be extremely harmful. When it decays, it releases heavy particles such as electrons and helium nuclei – not particularly dangerous outside the body, but if ingested can cause genetic damage.
  The team analysed soil samples for different plutonium isotopes produced during the course of the power plants’ nuclear reactions. And for the first time, detected traces of plutonium-241, which has a half-life of about 14 years.
 
 The additional plutonium exposure from inhaling this loose plutonium is five times higher than the government’s current estimate for exposure from the accident. But the health risk is less scary than you might assume, as the average person on Earth receives much greater exposure over a 50 year period from natural sources of radiation.

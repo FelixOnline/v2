@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103030622-ks607-fullmoon.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: ""

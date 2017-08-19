@@ -1,6 +1,6 @@
 ---
 title: >
-  Cold Hard Cash 
+  Cold Hard Cash
 subtitle: >
   The Frieze Fair is the glitzy international cattle market of contemporary art, but what if you’re not spending?
 date: "2010-10-21 18:45:57 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010211944-ks607-brightli.jpg"
 image_caption: >
-  
+
 image_width: "1821"
 image_height: "2351"
 image_attribution: ""

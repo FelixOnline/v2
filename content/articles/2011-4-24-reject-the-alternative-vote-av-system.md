@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201104241232-felix-5574880690_ce82521bff_b.jpeg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "675"
 image_attribution: "Andrew Parsons/Parsons Media"
@@ -53,7 +53,7 @@ The Alternative Vote, however, is only used in 3 countries in the entire world:
 
 ___2)__ It entrenches coalition governments_
 
-Coalition governments are more likely under AV and several studies have shown that the Liberal Democrats will be the sole beneficiaries from the system change (which is why they want it). This means their number of seats would go up decreasing the chance of any party having an outright majority.  
+Coalition governments are more likely under AV and several studies have shown that the Liberal Democrats will be the sole beneficiaries from the system change (which is why they want it). This means their number of seats would go up decreasing the chance of any party having an outright majority.
  As tuition fees have shown, coalition governments are even less likely to keep their promises as they use the coalition as an excuse. This makes politicians less accountable to you
 
 ___3) __It gives the third party disproportionate power_

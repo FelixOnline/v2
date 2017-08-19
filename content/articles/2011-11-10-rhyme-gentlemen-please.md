@@ -1,6 +1,6 @@
 ---
 title: >
-  Rhyme, gentlemen please 
+  Rhyme, gentlemen please
 subtitle: >
   Felix interviews the founder of South Kensington's first poetry night
 date: "2011-11-10 21:34:33 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-[__Fluent on Paper__](http://en-gb.facebook.com/event.php?eid=297519073593048), apparently the first poetry night to take place in South Kensington, has been set up by last year’s Felix editor Kadhim Shubber, and will likely feature amateur poets from the university.  
+[__Fluent on Paper__](http://en-gb.facebook.com/event.php?eid=297519073593048), apparently the first poetry night to take place in South Kensington, has been set up by last year’s Felix editor Kadhim Shubber, and will likely feature amateur poets from the university.
  It must take some courage to get up in front of an audience of your peers and read words that come from the very depths of your soul (or at least from somewhere rather deep and meaningful, one must hope). It is also something of an effort to listen to these outpourings of feeling, however good they are. So, we decided to speak to Kadhim in order to find out why this poetry evening would be worth going to, for both poets and audience members.
 
 __You write some poetry right? Is that why you decided to set up this poetry evening?__
@@ -45,8 +45,8 @@ __Why did you start writing poetry? And what made you want to show it to other p
 
 I started to write poetry three years ago because there was a girl in my class who really enjoyed poetry and I wanted to impress her. Suffice it to say, my poetry was a bit shit, and she wasn’t very impressed with it. The reason I started sharing it is because I wanted to know if it was any good and I wanted to share how I felt with other people, and hopefully connect with them.
 
-__Have you ever read your poems at a poetry night? Can you give any advice to those poets taking part in Fluent on Paper?__  
-  
+__Have you ever read your poems at a poetry night? Can you give any advice to those poets taking part in Fluent on Paper?__
+
  I haven’t ever read my poetry in front of an audience, so it will be as nervewracking for me as for anyone else, but it’s going to be a friendly crowd so I’m sure it’ll be fine. I just want to ask people not to be shy; because you shouldn’t be afraid of sharing your emotions. Its something that should be celebrated.
 
 __Is it mainly Imperial students taking part? Will you have participants from other universities?__

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101271751-ks607-archivea.jpg"
 image_caption: >
-  
+
 image_width: "2420"
 image_height: "3516"
 image_attribution: ""
@@ -42,6 +42,6 @@ The next encounter between bureaucrats and students occurred at the the Union Ge
 
 There were many practical ways of maximising the time already available at Imperial, as pointed out by an editorial shortly after the UGM took place, pointing out that if departments cut down on current wasted hours, there would be no need for timetable changes. The fact that in many courses, material covered by different options and lectures tended to overlap, caused an unthinkable number of hours unavailable for productive activity. Another suggestion was to make use of the expertise of the Humanities Department, which had more experience in time-management, rather than punishing them by reducing the hours available for students to pursue the options they offered. Déjà vu doesn’t seem to cover it anymore.
 
-The arguments were put to the test again in early December of 1990, when the Students’ Union held a referendum on the proposals. It won’t come as much of a surprise to learn that the result came out as 457 to 59 against the increased time and it seemed that this major indication from the student body would finally lay the issue to rest. This was the general consensus amongst students with many a strong worded letter being written to Felix, enjoying the apparent victory over the Working Party, who had “been ominously silent for quite a while now. It’s tempting to think that maybe the resounding ‘f\*\*k off’ given to them in the referendum held before chrimbo hols has halted them in their tracks”.
+The arguments were put to the test again in early December of 1990, when the Students’ Union held a referendum on the proposals. It won’t come as much of a surprise to learn that the result came out as 457 to 59 against the increased time and it seemed that this major indication from the student body would finally lay the issue to rest. This was the general consensus amongst students with many a strong worded letter being written to Felix, enjoying the apparent victory over the Working Party, who had “been ominously silent for quite a while now. It’s tempting to think that maybe the resounding ‘f**k off’ given to them in the referendum held before chrimbo hols has halted them in their tracks”.
 
 It brings about quite a sense of sadness to see lines such as “It shows that if we can rise above the rabid apathy…we can change things. It might also show College that they can’t do what the hell they like without considering what we think about it” as we can see from looking at our timetables in 2011, that College has indeed done whatever it pleases. This makes the proposals for extended hours currently being examined seem scarily possible as we have reason to question, yet again, how much attention senior management at Imperial pay to the voices of students and staff alike.

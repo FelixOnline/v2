@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201407071231-jal08-teddington-.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Sport Imperial"
@@ -48,7 +48,7 @@ Speaking to Felix, one Imperial (Medicals) 1st XV player said, “…it was the 
 
 Another said, “…My current opinion on the matter is that Sport Imperial have overlooked the interests of the students they are meant to be representing ... Teddington is steeped in history and has been part of our club for decades from when we were St Mary's Medical School. Many traditions were born there and it would be a shame to lose its history and worth to our medical school for a purely profitable means. #saveteddington“
 
-Over the last seven days, students have taken to social media (namely via [\#saveteddington](https://twitter.com/search?f=realtime&q=saveteddington) on Twitter), to voice their opinions on the decision, calling for clarification from Sport Imperial.
+Over the last seven days, students have taken to social media (namely via [#saveteddington](https://twitter.com/search?f=realtime&q=saveteddington) on Twitter), to voice their opinions on the decision, calling for clarification from Sport Imperial.
 
 Many students are concerned about the perceived lack of student consultation before the purchase of the Heston site took place. However it seems that due to the commercial sensitivity the only student representative to know about the purchase beforehand was the Union President.
 

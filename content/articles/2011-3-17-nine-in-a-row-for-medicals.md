@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103172149-ks607-varsityv.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: "Christopher Walmsley"

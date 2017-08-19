@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-Questions on ethics arise in all fields of science, from vaccinations to military weapons. But given the mutability of morality and ethical stances across cultures, individuals, and time, it’s difficult to pinpoint where the lines of what is moral should be drawn. What of the devastating effects of the Manhattan Project, the morals of which physicist Richard Fenyman had always been fairly tight\-lipped about? Was it wrong to pursue the development of our capability to split atomic nuclei even though the scientists knew it would be used for application on humans? Or what of the endless case of the anti\-vaxxer, in which the scientific community has decided that individual consent is irrelevant in light of the greater social good? These are complex issues with no easy answer, but are dearly worth considering in our own endeavours.
+Questions on ethics arise in all fields of science, from vaccinations to military weapons. But given the mutability of morality and ethical stances across cultures, individuals, and time, it’s difficult to pinpoint where the lines of what is moral should be drawn. What of the devastating effects of the Manhattan Project, the morals of which physicist Richard Fenyman had always been fairly tight-lipped about? Was it wrong to pursue the development of our capability to split atomic nuclei even though the scientists knew it would be used for application on humans? Or what of the endless case of the anti-vaxxer, in which the scientific community has decided that individual consent is irrelevant in light of the greater social good? These are complex issues with no easy answer, but are dearly worth considering in our own endeavours.
 
 Scientists often take a class in ethics at some point in their education, and there are many ethical forms one can fill out and clear in the pursuit of their research. But ultimately, it’s an odd mix of what the individual scientist and institutions are willing to research and practice, paired with what the larger scientific community agrees is acceptable, and is in periodic response to some social pressures.
 

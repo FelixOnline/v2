@@ -1,8 +1,8 @@
 ---
 title: >
-  College considers 8am start 
+  College considers 8am start
 subtitle: >
-  Committee to look at timetable changes 
+  Committee to look at timetable changes
 date: "2011-01-13 21:42:00 +0000"
 id: "594"
 old_path: /news/594/college-considers-8am-start-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132139-ks607-timetabl.jpg"
 image_caption: >
-  
+
 image_width: "4272"
 image_height: "2848"
 image_attribution: ""

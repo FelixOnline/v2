@@ -42,5 +42,5 @@ There is a range of hi-tech equipment available for you, such as pepper spray, h
 
 As you progress through your missions, more of the city is unlocked, so you have more ground to traverse to catch your troublemakers, bank robbers and ice cream trucks. There seems to be nothing in the way of unlockables (apart from achievements), so there’s little to get you experience farming, nor much in the way of replayability. The audio’s simple but entertaining (mainly the sirens on the police car), and the graphics keep it basic too – low, medium and high, so it’ll work on nearly any computer built in this millenium.
 
-I quite like the game, and might actually keep it installed for a bit, to play it on a rainy day. For those of you who want the cutting edge in games, good news! The sequel – _Police Force 2_, is out in 8 days.  
+I quite like the game, and might actually keep it installed for a bit, to play it on a rainy day. For those of you who want the cutting edge in games, good news! The sequel – _Police Force 2_, is out in 8 days.
  And no, you can’t shoot the civilians. I tried. Lots.

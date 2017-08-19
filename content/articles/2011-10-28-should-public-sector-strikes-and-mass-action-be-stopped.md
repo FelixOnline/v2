@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110140127-sjw209-james-osama.jpg"
 image_caption: >
-  
+
 image_width: "200"
 image_height: "199"
 image_attribution: ""
@@ -53,7 +53,7 @@ You might say that the right to strike is an important way of keeping the govern
 When they strike they hurt the public sector as a whole. They hurt the taxpayer. They hurt the people in society who most need their help. It is unfair and unethical for the public sector to hold the country to ransom; if you want to work for the state then you must accept that the voters are in charge and to try and go against their wishes is just unacceptable.
 
 __No - Ed Middleton__
-TODO: image from 
+TODO: image from
 It is important to make the distinction between whether public sector workers are making the right decision to strike at a certain time and whether they should be able to strike. Clearly no right-minded individual would advocate unnecessary or unreasonable striking, but I will aim to show you why it is important that striking is an option for those in the public sector.
 
 Public sector workers are in the unique position of having the same body paying their wages as ensuring they are paid fairly. The government, employing public sector workers, has an incentive to keep costs down: if costs were driven too high, anger from the general public (comprising predominantly private sector workers) would be expressed at the ballot box and lead to the election of parties with more thrifty attitudes towards pay. Unfortunately, due to the nature of public sector work, the options left for workers to express their discontentment are very limited.

@@ -2,7 +2,7 @@
 title: >
   Facebook: Revolution
 subtitle: >
-  From bedroom to billions – the social revolution in the second installment of our Facebook saga 
+  From bedroom to billions – the social revolution in the second installment of our Facebook saga
 date: "2010-10-14 19:44:34 +0100"
 id: "212"
 old_path: /tech/212/facebook-revolution
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010142043-ks607-facebook.jpg"
 image_caption: >
-  
+
 image_width: "2268"
 image_height: "3080"
 image_attribution: ""

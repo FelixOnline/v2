@@ -2,7 +2,7 @@
 title: >
   ICHC party in Porto
 subtitle: >
-  Jonny Clowes dishes the dirt on Hockey’s latest foreign travels 
+  Jonny Clowes dishes the dirt on Hockey’s latest foreign travels
 date: "2012-10-11 21:32:17 +0100"
 id: "2681"
 old_path: /sport/2681/ichc-party-in-porto
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210112231-csw09-hockeytour.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -40,7 +40,7 @@ Leaving early in the morning the day after the last day of term was always going
 
 The accommodation in Porto was unlike any other previous tourers had experienced: clean, friendly and actually like the pictures online.
 
-The first full day of tour saw our first two matches against scratch teams from Sport Club do Porto and The Porto Lawn Tennis and Cricket Club. This was when we found out the true meaning of Portuguese time as our opposition arrived a full 2 hours after the scheduled push back. This had two effects on the party. Firstly, it gave them the chance to sleep off the first hangover of tour. Secondly, it exposed some of the fairer skinned hockey players to their first round of lobsterfying, Bergamasco most notably leading the charge after he fell asleep in the sun. Rather worryingly, when the opposition did arrive they proudly announced that they had several ex international players. This did not fill us with confidence as we were barely able to walk let alone run in our current state. The two games were hotly contested as the heat on the pitch rose to match that of the surroundings, with many of the Portuguese frustrated with the strictness of the umpiring and the IC players frustrated at the local’s use of their size advantage to try to bully IC off the ball. Eventually the games ended in a 1-1 draw (BT) and a 3-1 loss (2s Captain) with the heat eventually proving too much for IC to handle.  
+The first full day of tour saw our first two matches against scratch teams from Sport Club do Porto and The Porto Lawn Tennis and Cricket Club. This was when we found out the true meaning of Portuguese time as our opposition arrived a full 2 hours after the scheduled push back. This had two effects on the party. Firstly, it gave them the chance to sleep off the first hangover of tour. Secondly, it exposed some of the fairer skinned hockey players to their first round of lobsterfying, Bergamasco most notably leading the charge after he fell asleep in the sun. Rather worryingly, when the opposition did arrive they proudly announced that they had several ex international players. This did not fill us with confidence as we were barely able to walk let alone run in our current state. The two games were hotly contested as the heat on the pitch rose to match that of the surroundings, with many of the Portuguese frustrated with the strictness of the umpiring and the IC players frustrated at the local’s use of their size advantage to try to bully IC off the ball. Eventually the games ended in a 1-1 draw (BT) and a 3-1 loss (2s Captain) with the heat eventually proving too much for IC to handle.
  The next day presented the opportunity for a spot of culture as we walked the city on a free tour. If you ask any lecturer they will tell you that keeping 30 students entertained for a hour is hard work but our lovely guides kept us enthralled for over 3 hours as we took in all the culture we could, from J. K. Rowling to the rather odd sexual exploits of some of Porto’s most famous residents. The tour ended up by the river where we ate the local speciality Francesinha which is sure to clog even the fittest arteries with cholesterol.
 
 After lunch a quick pop across the river found us in the heart of Porto’s famous Port district. Despite what many members may have hoped, it is the fortified wine that takes its name from the City rather than the other way around. Taylors was generally agreed to be our favourite producer and so we paid a visit to their Lodge and Wine Cellar where all sorts of intelligent questions were asked and many different ports sampled. Unfortunately no one could quite afford the Scion which came in at £2500 a bottle and we never found out the answer to the question “How many grapes does it take to make a bottle of port?”
@@ -49,7 +49,7 @@ That evening we found ourselves enjoying cocktails served in buckets, for only �
 
 A rather sleepy 4-hour coach journey saw us arrive in the capital, Lisbon, which also heralded the return of more familiar tour accommodation with the rather less habitable Tagus Homes. Without warning and in muddled English the tour group was split into two groups with six brave souls being led off to a different building 500 yards down the road. These six had to put up with the creepy Maria who reminded one and all of a female Sweeney Todd and so the door to the dorm remained locked at all times. The other tour party had the main hostel booked out but with only 4 toilets between 25 the morning rush proved difficult at times.
 
-More culture was to follow as the group soon discovered that it generally seemed to be a pretty effective hangover cure. However some of the group was a bit shocked to find that Sintra is pretty much just one big hill. A gruelling walk up to the top most castle was dodged by some as they chose to get the bus, which despite being overprices left many wishing they had forked out.  
+More culture was to follow as the group soon discovered that it generally seemed to be a pretty effective hangover cure. However some of the group was a bit shocked to find that Sintra is pretty much just one big hill. A gruelling walk up to the top most castle was dodged by some as they chose to get the bus, which despite being overprices left many wishing they had forked out.
  The remaining members of the tour decided to visit the botanical gardens and its neighbouring zoo. This resulted in the small child in each resurfacing as they ran from enclosure to enclosure to see, and sometimes attempt to imitate, every animal.
 
 Before our third match we visited the world famous aquarium in Lisbon, the Oceanário de Lisboa. The darkened corridors proved the perfect surroundings for pre game naps and the fish confusing to those who were yet to reach the hungover stage.

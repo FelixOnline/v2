@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -36,7 +36,7 @@ imported: true
 
 A well-known property of modern silicon-based electronics is their resilience to change: a printed circuit board (PCB) doesn’t dissolve, and only melts at high temperatures. However, following research recently published in Science, this may no longer be the case, with the production of a complimentary metal-oxide semiconductor (CMOS) that can physically disappear at the end of use.
 
-A set of materials, based on either magnesium or silicon, dissolve after a certain period of time through a chemical reaction where water can pull the metal centres of the CMOS structures, so forming a chemical bond, which then results in the CMOS being dissolved. This goes via a simple chemical reaction:  
+A set of materials, based on either magnesium or silicon, dissolve after a certain period of time through a chemical reaction where water can pull the metal centres of the CMOS structures, so forming a chemical bond, which then results in the CMOS being dissolved. This goes via a simple chemical reaction:
  Si + 4H2O -> Si(OH)4 + 2H2.
 
 The difference between this and a traditional PCB is the way it is encased: the dissolvable electronics are enclosed within a silk structure, and it is the structure of this silk that affects how well the circuit dissolves: circuits have been formed which last from 10 minutes to nearly 12 days. This is all thanks to changing how crystalline the silk is. It is worth noting, however, that the team reported success with other biodegradable polymers.

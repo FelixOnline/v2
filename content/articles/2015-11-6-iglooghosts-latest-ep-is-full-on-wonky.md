@@ -2,7 +2,7 @@
 title: >
   Iglooghost’s latest EP is full on wonky
 subtitle: >
-  Like the worm in a witch hat on its cover, Chinese Nü Yr will wiggle its way into your heart 
+  Like the worm in a witch hat on its cover, Chinese Nü Yr will wiggle its way into your heart
 date: "2015-11-06 14:19:41 +0000"
 id: "5711"
 old_path: /music/5711/iglooghosts-latest-ep-is-full-on-wonky

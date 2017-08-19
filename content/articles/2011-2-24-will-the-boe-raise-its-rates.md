@@ -2,7 +2,7 @@
 title: >
   Will the BoE raise its rates?
 subtitle: >
-  Fears about central bank inflationism have now come to the UK. Will it cause the Bank of England to change course? 
+  Fears about central bank inflationism have now come to the UK. Will it cause the Bank of England to change course?
 date: "2011-02-24 19:48:13 +0000"
 id: "870"
 old_path: /biz/870/will-the-boe-raise-its-rates
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241946-nm1010-boeboebo.jpg"
 image_caption: >
-  
+
 image_width: "900"
 image_height: "1200"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Good point I hadnt thgouht about it quite that way  propecia generic prescription 4277 acomplia for less 680 propecia  
+ - Good point I hadnt thgouht about it quite that way  propecia generic prescription 4277 acomplia for less 680 propecia
 imported: true
 ---
 

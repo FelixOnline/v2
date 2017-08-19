@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201311241659-jal08-news_icu_bins.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -39,16 +39,16 @@ Last week Felix reported on College Campus Services’ decisions to change the c
 
 However, many students in halls have been upset by the way in which the changes were handled, in particular the mistakes make with the accommodation licence. Even though the decisions may have been signed during Summer, because Campus Services neglected to update the contract, many students feel as though they have signed up for a more frequent cleaning service than they currently receive.
 
-After our article on Friday, residents received a better explanation of the situation from Campus Services via email this Tuesday. The email is replicated (as is) below:  
-_“Dear Hall Residents,  
+After our article on Friday, residents received a better explanation of the situation from Campus Services via email this Tuesday. The email is replicated (as is) below:
+_“Dear Hall Residents,
  This summer the College-wide cleaning contract was re-tendered for the first time in over seven years. As a result, we now receive a more specific and flexible service for the same cost. In response to feedback from students, Campus Services used this opportunity to make changes to the cleaning services provided in halls of residence as well as across other College facilities that we operate for students and staff. These changes were not made to cut costs and we will always aim to provide a high standard of cleaning to our residents._
 
-_The changes:  
- Bedrooms are cleaned once a month and more thoroughly. Kitchens are now cleaned three days per week, including once on a Saturday. The bins still continue to be emptied daily and recycling bins are emptied according to local council collection rotas (usually 3-4 times per week).  
- Following these changes we have been consulting with Imperial College Union on how else to improve hall cleaning provisions. As a result we are in the process of making cleaning equipment readily available in every hall and we encourage students to make use of them as and when required. Information posters in every kitchen will inform students of their location and will include details on local arrangements for cleaning and bin collection.  
+_The changes:
+ Bedrooms are cleaned once a month and more thoroughly. Kitchens are now cleaned three days per week, including once on a Saturday. The bins still continue to be emptied daily and recycling bins are emptied according to local council collection rotas (usually 3-4 times per week).
+ Following these changes we have been consulting with Imperial College Union on how else to improve hall cleaning provisions. As a result we are in the process of making cleaning equipment readily available in every hall and we encourage students to make use of them as and when required. Information posters in every kitchen will inform students of their location and will include details on local arrangements for cleaning and bin collection.
  All of the changes are being monitored and we will shortly be conducting a review in co-operation with Imperial College Union and halls committees to ensure the current service is adequate. Our priority is providing an effective cleaning service and we will continue to modify the service where this is not the case._
 
-_There has been some concern over the College Accommodation Licence (2013-2014) which includes details of the previous cleaning arrangements in halls. Because of tight timescales, the clause referring to these arrangements was not amended, however this was a genuine error. We apologise for not contacting you earlier about these changes.  
+_There has been some concern over the College Accommodation Licence (2013-2014) which includes details of the previous cleaning arrangements in halls. Because of tight timescales, the clause referring to these arrangements was not amended, however this was a genuine error. We apologise for not contacting you earlier about these changes.
  The Accommodation Licence is rarely changed ? and before there are any changes in the future Campus Services will work closely with the Vice-Provost (Education), the Director of Student Support and Imperial College Union to establish the best approach for consultation and to ensure any changes are effectively communicated to students....”_
 
 While the Campus Services department has admitted to making an error while handling the cleaning contract, for many students this last message leaves so many questions unanswered. There has still been no mention of the legality of continuing the current cleaning service, given that the Accommodation License that binds halls residents and College states that rooms will be cleaned weekly instead of monthly.

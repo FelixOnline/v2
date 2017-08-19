@@ -1,6 +1,6 @@
 ---
 title: >
-  Having Trouble Sleeping? 
+  Having Trouble Sleeping?
 subtitle: >
   Utsav Radia reports on Imperial’s research into getting a good nights sleep
 date: "2014-11-28 01:01:09 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411280101-ps3110-mouse-sleeping.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

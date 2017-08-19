@@ -2,7 +2,7 @@
 title: >
   Ratatat funkify Brixton
 subtitle: >
-  Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams 
+  Mast and Stroud have their hands full on stage in a constant frenzy of gnarly jams
 date: "2015-11-06 14:18:05 +0000"
 id: "5710"
 old_path: /music/5710/ratatat-funkify-brixton

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706091818-ea3211-Screen Shot 2017-06-09 at 18.18.29.png"
 image_caption: >
-  
+
 image_width: "2179"
 image_height: "1112"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-You were weak. Despite our foolproof guides on how to have a one night stand \(in Metric\), ‘How to have a one night stand \(in Metric\)’, and how not to fall in love with someone \(from Metric\), ‘How not to fall in love with someone \(from Metric\)’, you went ahead and fell in love with someone \(from Metric\) and now you’ve been stuck in a relationship with them \(someone you met in Metric\) for months. Somehow, this relationship still sort of revolves around Metric. Congratulations, you’re trash. But, just like a gastrobug, it’s run its course, and more importantly, summer is nearly here and you want to bang some hotties in a hostel in Indonesia as you travel around trying to find yourself. Or, it’s your final year, and you’re ready to Gold Rush. You can’t do that with a relationship, or a gastrobug. So you want out. But how?
+You were weak. Despite our foolproof guides on how to have a one night stand (in Metric), ‘How to have a one night stand (in Metric)’, and how not to fall in love with someone (from Metric), ‘How not to fall in love with someone (from Metric)’, you went ahead and fell in love with someone (from Metric) and now you’ve been stuck in a relationship with them (someone you met in Metric) for months. Somehow, this relationship still sort of revolves around Metric. Congratulations, you’re trash. But, just like a gastrobug, it’s run its course, and more importantly, summer is nearly here and you want to bang some hotties in a hostel in Indonesia as you travel around trying to find yourself. Or, it’s your final year, and you’re ready to Gold Rush. You can’t do that with a relationship, or a gastrobug. So you want out. But how?
 **You have two options**
 Obviously the grown up thing to do is sit them down and have a conversation with them, but you’re not ready for that. You’re a pathetic excuse for a human being, and you forgot to pack your spine when you were moving into halls. You’ve chosen to go down the route of making them break up with you. Nice job.
 ## A | Be a dick
@@ -44,17 +44,17 @@ They were warned by their friends about you, now it’s time to prove them right
 **2 | Cool things down**
 Forget your anniversary, their birthday, maybe even their name for a second there. Keep reminiscing about things you didn’t do with them. “Remember when we went to M&amp;M World? Oh wait no that wasn’t with you”. Ask them how many siblings they have at least twice a week. And always make their tea wrong.
 **3 | Spread the love**
-Keep saying you want to open up the relationship. Tell them, “I just don’t think that there’s a finite amount of love that I can give”. Unless you’re poly, in which case you’re probably already so used to communicating that this whole thing really ought not to be a problem. Keep pushing for a threesome with their hot best friend. They’ll either oblige or refuse, which you can use later. It’s a win\-win situation. Once they agree to the threesome, have the threesome, and then dump them immediately after because you think they’re cheating on you with the other person.
+Keep saying you want to open up the relationship. Tell them, “I just don’t think that there’s a finite amount of love that I can give”. Unless you’re poly, in which case you’re probably already so used to communicating that this whole thing really ought not to be a problem. Keep pushing for a threesome with their hot best friend. They’ll either oblige or refuse, which you can use later. It’s a win-win situation. Once they agree to the threesome, have the threesome, and then dump them immediately after because you think they’re cheating on you with the other person.
 **4 | The unwelcome guest**
 Make them really unwelcome in your space. If they’re allergic to cats, get a cat. If they’re not allergic to cats, get a mean cat that likes to bite. It sounds like a lot of effort but maybe your pet will end up being a social media star and you can be a full time YouTuber. Then you’ll definitely be broken up with.
 **5 | The fake cheat**
-Manufacture a scenario where they find you cheating on them \(possibly using the friend finder app\). If they’re not the snoopy type you’ll have to get creative. Pay someone to throw their drink in your face at a restaurant in front of your partner, saying something like “You said she was fat and ugly!”. Hopefully you’ll shortly get another drink thrown in your face
+Manufacture a scenario where they find you cheating on them (possibly using the friend finder app). If they’re not the snoopy type you’ll have to get creative. Pay someone to throw their drink in your face at a restaurant in front of your partner, saying something like “You said she was fat and ugly!”. Hopefully you’ll shortly get another drink thrown in your face
 **6 | Use all the clichés**
 They will have never heard them before because they are Imperial students and it’s unlikely that they will have had an extensive love life. But flip them round for clarity. You don’t still want to be friends, it really is them, not you. You did mean to hurt them, and you will love again soon you’re sure.
 **7 | Just ghost them**
 If they persist, change your number. If they show up at your flat or your department, move house, transfer universities, burn off your fingerprints and start a new life in suburban Spain. You’re Alex Macgee now. Embrace it.
 ## B | Smother them with love
-**1 | Be extremely clingy** 
+**1 | Be extremely clingy**
 Change their contact name on your phone to “The One”. Show them. Look proud. You’re trying to freak them out with emotional proximity. You’ll know you’ve succeeded if you can see the terror in their eyes. If not, escalate.
 **2 | Create false intimacy by sharing false secrets**
 Like maybe tell them about that time you killed  your ex’s dog, because they were spending too much time together. That could be them. You could be like Alex in Fatal Attraction. Only your bond is important...

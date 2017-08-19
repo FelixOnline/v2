@@ -53,7 +53,7 @@ Union Chapel is a fully operational church in Islington. It is a gig going exper
 The Old Blue Last is the place to be seen. Located in Shoreditch, this pub / live venue hosts the best in up and coming bands along with some more esoteric favourites! They’ve played host to Arctic Monkeys, Foals and Hot Chip before they hit the big time. You’ll be able to find the freshest new acts in everything from hardcore punk to indie pop. There’s something new and exciting on almost every single night. Best of all, the majority of gigs are free!
 
 ###  Record Stores
-TODO: image from 
+TODO: image from
 ####  Phonica
 
 Phonica is conveniently located in Soho’s Poland Street. Just about the perfect place to go when it comes to recent releases in electronic music, providing great and often rare records. The selection manages to strike possibly the best balance of quality and quantity in London and probably best of all, is that the shop has turntables with headphones set up to allow previewing of the records, perfect for those vinyl only editions.
@@ -71,7 +71,7 @@ Rough Trade East is an independent record store just off Brick Lane. At 5,000 sq
 Music & Video Exchange is exactly that. You can sell unwanted CDs and records to them, but, perhaps more excitingly, you can pick up second hand goods at ludicrously cheap prices to restock your collection! There’s a large quantity of shit, but if you’ve got the patience then you can uncover some absolute gems at good prices. With branches in Notting Hill, Soho and Greenwich, you’re always close to the world’s greatest bargain bin!
 
 ###  Clubs
-TODO: image from 
+TODO: image from
 ####  Plastic People
 
 Situated below a Vietnamese restaurant, just off Old Street, Plastic People is a tiny club that is dark and claustrophobic. Speakers hidden in the walls fill the space with impeccable sound. The club has just undergone refurbishment so should be brand spanking, not that you’ll notice though; it’s too dark. Expect nights encompassing disco, house and twisted techno. Oh, and dress to sweat.
@@ -89,7 +89,7 @@ Located just off the big Old Street roundabout, XOYO in Shoreditch is definitely
 With the entrance through a small door under the railway arches just minutes’ walk from Elephant and Castle Underground station, Corsica Studios is a small club with a huge personality. Inside there’s the main bar, 2 nice size rooms with a great sound and a decent sized outdoor area all interconnected with a maze of white brick walls. The crowd is always friendly, drinks are reasonably priced and entrance rarely goes above £10, meaning if you want a big night with great music without breaking the bank this is the place to go.
 
 ###  Club Nights
-TODO: image from 
+TODO: image from
 ####  Deviation
 
 Last year Deviation, the club night headed by Radio 1 DJ Benji B, moved from its small weekday night slot to XOYO. The night runs on the first Friday of every month and in the past has showcased some of the best DJs and producers from London and around the world, including Jackmaster, Jamie XX, Mala and Actress. While the night usually focuses heavily on the bass-centred house and techno, upstairs there’s also usually some grime being laid down to get stupid to.

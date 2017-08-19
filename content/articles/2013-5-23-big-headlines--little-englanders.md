@@ -2,7 +2,7 @@
 title: >
   Big Headlines & Little Englanders
 subtitle: >
-  Padraic Calpin gives you an update on recent happenings in British politics. 
+  Padraic Calpin gives you an update on recent happenings in British politics.
 date: "2013-05-23 22:11:14 +0100"
 id: "3610"
 old_path: /politics/3610/big-headlines--little-englanders
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305232309-tna08-nigel-farage-leader-of-uk-001.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

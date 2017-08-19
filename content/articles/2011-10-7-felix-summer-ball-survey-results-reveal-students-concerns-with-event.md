@@ -1,6 +1,6 @@
 ---
 title: >
-  Felix Summer Ball survey results reveal students' concerns with event 
+  Felix Summer Ball survey results reveal students' concerns with event
 subtitle: >
   Common complaints centre around format change, though funfair is praised
 date: "2011-10-07 00:30:27 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201110071531-felix-felix-summer.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: "Christopher Walmsley"

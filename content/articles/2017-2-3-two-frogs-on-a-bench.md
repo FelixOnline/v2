@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -37,8 +37,8 @@ imported: true
 
 Fact: You can win $1,000,000 if you have ‘supernatural abilities’.
 
-The “Million Dollar Paranormal Challenge” is offered to anyone who can demonstrate a supernatural ability under agreed\-upon scientific testing criteria. In 40 years, despite over 1000 applicants, no one ever won.
+The “Million Dollar Paranormal Challenge” is offered to anyone who can demonstrate a supernatural ability under agreed-upon scientific testing criteria. In 40 years, despite over 1000 applicants, no one ever won.
 
 The prize was offered by James Randi, a famous magician, escape artist and debunker of pseudoscience and the paranormal. It started off as a throwaway comment in an interview, and snowballed into a 1k, then 10k, then 100k and now 1 million dollar prize. Plenty of mediums, dowsers and mind readers have stepped up to the plate, although according to Mr Randi very few of them ever consider that their failure to complete the testing might be due to the fact that they lack supernatural powers, instead blaming sunspots and geomagnetic variables…
 
-Think you have a gift? Unfortunately you’ve missed the chance to make your million; following his retirement, the James Randi Educational Foundation has elected to withdraw the challenge, instead putting the money aside for grants to non\-profit groups that promote critical thinking. I guess that means he won the bet.
+Think you have a gift? Unfortunately you’ve missed the chance to make your million; following his retirement, the James Randi Educational Foundation has elected to withdraw the challenge, instead putting the money aside for grants to non-profit groups that promote critical thinking. I guess that means he won the bet.

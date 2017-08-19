@@ -1,6 +1,6 @@
 ---
 title: >
-  Young Scientists’ Symposium 2010 
+  Young Scientists’ Symposium 2010
 subtitle: >
   ICSMSU Muslim Medics host another successful evening of academic prowess
 date: "2011-01-20 20:56:03 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202051-nm1010-youngsci.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "481"
 image_attribution: ""

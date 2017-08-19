@@ -1,6 +1,6 @@
 ---
 title: >
-  Union could be banned from lobbying 
+  Union could be banned from lobbying
 subtitle: >
   Union Council will vote on whether to change its constitution
 date: "2015-11-19 22:25:33 +0000"

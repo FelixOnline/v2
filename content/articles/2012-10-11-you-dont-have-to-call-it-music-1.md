@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,11 +31,11 @@ author_website_url: "http://thebigracket.blogspot.com/"
 author_website_title: "The Big Racket! @ IC Radio"
 
 comments:
- - What is this This is useless 
+ - What is this This is useless
 imported: true
 ---
 
-_or: what the atom bomb and the death of God_  
+_or: what the atom bomb and the death of God_
 _have to do with birds and brutalism._
 
 I was brought up to disown classical music. When I wanted rock & roll, I got baroque. Admire convention as sacrosanct and do not touch. Unfortunately, it took years for me to gain any sort of interest in classical music, and when I did, it was decidedly towards the anarchic end of the spectrum. Despite the polite waltzes and majestic sonatas of centuries past, the shape of modern composition takes an altogether more tumultuous form.

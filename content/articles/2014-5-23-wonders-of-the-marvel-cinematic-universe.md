@@ -2,7 +2,7 @@
 title: >
   Wonders of the Marvel Cinematic Universe
 subtitle: >
-  Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s Batman & Robin. 
+  Think back to spring 2008. The comic book industry’s ventures into film were showing strong signs of recovery after the apparent death knell that was 1997’s Batman & Robin.
 date: "2014-05-23 13:58:28 +0100"
 id: "4622"
 old_path: /film/4622/wonders-of-the-marvel-cinematic-universe
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201405231459-jal08-marvel-logo.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201501230131-ps3110-charlie-hebdo-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - One thing to note is that many of the cartoons make much more sense in the context of the topical French politics they were satirising As news has a notoriously short halflife and most British people dont know anything about French domestic politics in any case this might go some way to explaining why we dont get most of the jokesBut more generally I dont think discussing whether or not the cartoons are funny is important in the slightest People have been gunned down on the streets of central Paris over doodling It seems strange to me that you are explicitly decrying these attacks whilst at the same time primarily using your article to assert the fact that you didnt find these murdered people funny and its a shame they provoked hatred That use of column incheswhen Felix really ought to be plastered with articles devoted to criticising the attackersimplies a warped sense of priority I think we ought to be showing a little more solidarity with murdered journalists whether or 
+ - One thing to note is that many of the cartoons make much more sense in the context of the topical French politics they were satirising As news has a notoriously short halflife and most British people dont know anything about French domestic politics in any case this might go some way to explaining why we dont get most of the jokesBut more generally I dont think discussing whether or not the cartoons are funny is important in the slightest People have been gunned down on the streets of central Paris over doodling It seems strange to me that you are explicitly decrying these attacks whilst at the same time primarily using your article to assert the fact that you didnt find these murdered people funny and its a shame they provoked hatred That use of column incheswhen Felix really ought to be plastered with articles devoted to criticising the attackersimplies a warped sense of priority I think we ought to be showing a little more solidarity with murdered journalists whether or
 imported: true
 ---
 

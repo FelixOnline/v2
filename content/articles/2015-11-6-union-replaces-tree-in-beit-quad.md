@@ -2,7 +2,7 @@
 title: >
   Union replaces tree in Beit Quad
 subtitle: >
-  It’s been tripping you up for years, and now it’s gone forever 
+  It’s been tripping you up for years, and now it’s gone forever
 date: "2015-11-06 13:35:04 +0000"
 id: "5697"
 old_path: /news/5697/union-replaces-tree-in-beit-quad

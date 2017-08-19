@@ -2,7 +2,7 @@
 title: >
   MTSoc Produce the Producers
 subtitle: >
-  As MTSoc put their finishing touches to the Spring performance, the Producers, they invited this intrepid reporter along to see how things were shaping up in the dress rehearsal. 
+  As MTSoc put their finishing touches to the Spring performance, the Producers, they invited this intrepid reporter along to see how things were shaping up in the dress rehearsal.
 date: "2014-03-19 02:46:02 +0000"
 id: "4489"
 old_path: /arts/4489/mtsoc-produce-the-producers
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201403190247-jal08-mtsoc_mathieson.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

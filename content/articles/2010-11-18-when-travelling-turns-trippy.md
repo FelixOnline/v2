@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182048-ks607-chrisric.jpg"
 image_caption: >
-  
+
 image_width: "2592"
 image_height: "1744"
 image_attribution: ""
@@ -40,7 +40,7 @@ So there I was on the beauty that is Koh Phi Phi in Thailand: I was sat with an 
 
 Hannah is famous for (amongst other things) her inability to withstand long nights out, so part of the recipe for disaster was her deciding to leave me on my lonesome for the evening while she tucked in early (or ran off with a Thai man: who knows?). No big deal, right? I’d been travelling solo for months so was more than acquainted with the tiresome process of befriending total strangers and so on. And this party island was full of people looking for good times, so off I set to the nearest beach bar.
 
-Thankfully I had an accomplice by my side who I’d bumped into en-route, so we sat on some bean bags and ordered some shisha with a couple of beers while the DJ cracked out some good old Radiohead: after being flabbergasted with nothing but Akon and the Black Eyed Peas the previous evening this was quite refreshing. Almost as refreshing as the beer in hand, which was my first of the night. Now, I’m no heavyweight, but I don’t think I’ve ever felt so off my face from half a bottle of beer in all my life.  
+Thankfully I had an accomplice by my side who I’d bumped into en-route, so we sat on some bean bags and ordered some shisha with a couple of beers while the DJ cracked out some good old Radiohead: after being flabbergasted with nothing but Akon and the Black Eyed Peas the previous evening this was quite refreshing. Almost as refreshing as the beer in hand, which was my first of the night. Now, I’m no heavyweight, but I don’t think I’ve ever felt so off my face from half a bottle of beer in all my life.
 > By the time I made it to the bathroom I knew that something was rotten in Denmark and proceeded to stuff my bank card into my pants
 
 Sensing that something was up, I haphazardly staggered to the stinky men’s room to examine myself in the mirror. That seemingly simple task was skewed by my seized up legs and the excessive light show commemorating the half moon (any excuse to celebrate, right?). By the time I made it to the bathroom I knew that something was rotten in Denmark and proceeded to stuff my bank card into my pants (classy), leaving but a few tuppence in my dusty wallet to detract potential thieves.

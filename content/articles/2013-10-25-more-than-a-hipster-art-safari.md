@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201310250125-felix-arts-frieze-web.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "LINDA NYLAND © FRIEZE"
@@ -36,10 +36,10 @@ imported: true
 
 The Frieze Art Fair, now in its 11th year, is one of the world’s leading contemporary art fairs, and has helped shape London into a nucleus of creativity and vision.
 
-This year, 152 galleries were invited to assemble in one space in Regent’s park, and display the best of what they could offer. And they did not disappoint; from Tokyo to New York, together they brought an international feel to the fair and gave it dynamism truly unique to Frieze. This diversity makes for a thrilling and eye-opening experience where you do not know what to expect from one gallery to another.  
+This year, 152 galleries were invited to assemble in one space in Regent’s park, and display the best of what they could offer. And they did not disappoint; from Tokyo to New York, together they brought an international feel to the fair and gave it dynamism truly unique to Frieze. This diversity makes for a thrilling and eye-opening experience where you do not know what to expect from one gallery to another.
  But the true beauty of Frieze is that it showcases artists currently at the forefront of innovation, the ones that are defining what the future of art shall be. Frieze Frame, a specialist section of the fair, offers less established galleries a chance to exhibit a single artist in depth and, for me, this is where you really saw the innovation. Here, up-and-coming artists have an opportunity to display their works and you are really able to see how art is evolving, especially when you compare it to the older contemporary art elsewhere at the fair.
 
-As you walk into the fair’s main pavilion, it is as if you are walking into another world, a world that leaves behind the hectic reality outside and suspends you in a white bubble of imagination. Unobtrusive lighting and architecture create a cloud of clean minimalism, perfectly designed to display art of any kind, and expansive space allows viewing without any intrusion on your intimate experience of the art.  
+As you walk into the fair’s main pavilion, it is as if you are walking into another world, a world that leaves behind the hectic reality outside and suspends you in a white bubble of imagination. Unobtrusive lighting and architecture create a cloud of clean minimalism, perfectly designed to display art of any kind, and expansive space allows viewing without any intrusion on your intimate experience of the art.
  The people of Frieze are almost as intriguing as the art itself. To see a man in platforms, a fur coat and Viking helmet adds to the bizarre spectacle. You feel it is an opportunity for all the arty types of London to flaunt their stuff – or maybe they are seeing just how far you can push definitions of art and fashion. But it does create vitality and a playful – if not a tad surreal – atmosphere that really enhances my yearly pilgrimage to Frieze.
 
 The idea of people as art is not just limited to how visitors dress. A number of interactive works included the viewer as an integral part, none more so than James Lee Byars’ Four in a Dress. It is exactly how it sounds: four people facing each other in a circle, all wearing one dress. What I loved about this piece is how inclusive it was. The four people were allowed to talk to one another and the audience, giving everyone a slightly different experience.

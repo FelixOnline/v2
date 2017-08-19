@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201309291730-tna08-footytour.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Maciej Witkowski"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Hi Darren Notarize that after an acquaintance with fndreily Ukrainians you will regret as little time selected for Ukraine Trust Ukraine not worse than Bulgaria or Romania And bureaucracy in relation to foreigners is not such frightful as seem  Can advise such route on Ukraine I can recommend this route to Ukraine A border with MoldovaPridnistrovy   Odesa  a transfer to Sevastopol   Yalta  Kerch  Arabatska pointer  Genichesk  Zaporizhzhya   Poltava  Kyiv   Zhytomyr  Rivne   Lutsk  Lviv  Mukacheve  Uzhgorod   Border with PolandThere is a geographical center of Europe exactly in Ukraine You that does not want him to see In Ukraine produce most in the world airplanes abMriabbabDreambb reliable space aircrafts here conducted abEuro2012bb Here a singer Ruslana which  with the song of  Wild of dances  won on a competition  Eurovision 2004 lives and works And also the best footballer of Europe Andrey Shevchenko worldwide boxer Vitalij Klichko  And the known 
+ - Hi Darren Notarize that after an acquaintance with fndreily Ukrainians you will regret as little time selected for Ukraine Trust Ukraine not worse than Bulgaria or Romania And bureaucracy in relation to foreigners is not such frightful as seem  Can advise such route on Ukraine I can recommend this route to Ukraine A border with MoldovaPridnistrovy   Odesa  a transfer to Sevastopol   Yalta  Kerch  Arabatska pointer  Genichesk  Zaporizhzhya   Poltava  Kyiv   Zhytomyr  Rivne   Lutsk  Lviv  Mukacheve  Uzhgorod   Border with PolandThere is a geographical center of Europe exactly in Ukraine You that does not want him to see In Ukraine produce most in the world airplanes abMriabbabDreambb reliable space aircrafts here conducted abEuro2012bb Here a singer Ruslana which  with the song of  Wild of dances  won on a competition  Eurovision 2004 lives and works And also the best footballer of Europe Andrey Shevchenko worldwide boxer Vitalij Klichko  And the known
 imported: true
 ---
 

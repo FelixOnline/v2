@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012092024-ma1307-Holyfuck.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "1000"
 image_attribution: ""

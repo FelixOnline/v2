@@ -1,8 +1,8 @@
 ---
 title: >
-  Electrical Engineering postgrads demand pay for teaching 
+  Electrical Engineering postgrads demand pay for teaching
 subtitle: >
-  Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary 
+  Department of Electrical and Electronic Engineering deny foul play and points to confusion over departmental bursary
 date: "2010-10-14 19:16:23 +0100"
 id: "200"
 old_path: /news/200/electrical-engineering-postgrads-demand-pay-for-teaching-

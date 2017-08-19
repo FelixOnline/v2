@@ -1,8 +1,8 @@
 ---
 title: >
-  Medical school embarrassed by controversial Daily Mail article 
+  Medical school embarrassed by controversial Daily Mail article
 subtitle: >
-  Excessive drinking clampdown enforced at Reynolds bar 
+  Excessive drinking clampdown enforced at Reynolds bar
 date: "2011-01-13 21:38:32 +0000"
 id: "593"
 old_path: /news/593/medical-school-embarrassed-by-controversial-daily-mail-article-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132135-ks607-dailymai.jpg"
 image_caption: >
-  
+
 image_width: "2236"
 image_height: "1588"
 image_attribution: ""

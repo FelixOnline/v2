@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201602261130-felix-df184d73_gif1.xxxlarge.gif"
 image_caption: >
-  
+
 image_width: "500"
 image_height: "281"
 image_attribution: ""
@@ -55,7 +55,7 @@ Controversy over pay cheques for men and women is not a novel concept. However, 
 
 More interestingly, this gender gap was larger for new items than used items, with a 19% compared to 3% pay gap respectively. One possible explanation for this is that people subconsciously trust the judgement of women to describe good quality over men.
 
-_Lukianova\-Hieb et al. 2016  @ Nature Nanotechnology_
+_Lukianova-Hieb et al. 2016  @ Nature Nanotechnology_
 
 Do you like me?
 
@@ -65,8 +65,8 @@ _Kang et al. 2016 @ Nature Biotechnology_
 
 Sustainable fuel revolution
 
-A team of chemists and engineers at the University of Texas have found a simple and inexpensive means of directly converting carbon dioxide and water into liquid hydrocarbon fuels; a revolution in terms of sustainable fuel technology. Oxygen by\-product is reverted back into the system along with its positive environmental impact.
+A team of chemists and engineers at the University of Texas have found a simple and inexpensive means of directly converting carbon dioxide and water into liquid hydrocarbon fuels; a revolution in terms of sustainable fuel technology. Oxygen by-product is reverted back into the system along with its positive environmental impact.
 
-The reaction involves concentrating light, heat and high pressures driving a one\-step conversion of carbon dioxide and water producing the hydrocarbon fuels which are currently used in cars today. This gives the technology an important advantage over battery and gaseous\-hydrogen powered vehicle technologies, providing a sustainable alternative fuel which requires little modification to the fuel distribution system. Hopefully the process can be implemented for everyday  use in transport.
+The reaction involves concentrating light, heat and high pressures driving a one-step conversion of carbon dioxide and water producing the hydrocarbon fuels which are currently used in cars today. This gives the technology an important advantage over battery and gaseous-hydrogen powered vehicle technologies, providing a sustainable alternative fuel which requires little modification to the fuel distribution system. Hopefully the process can be implemented for everyday  use in transport.
 
 _Kuhlwilm et al. 2016  @ Nature_

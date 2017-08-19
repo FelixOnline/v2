@@ -2,7 +2,7 @@
 title: >
   Wine Culture
 subtitle: >
-  Five things to know about red and white wines 
+  Five things to know about red and white wines
 date: "2011-12-08 21:43:37 +0000"
 id: "1943"
 old_path: /food/1943/wine-culture
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082143-pk1811-frugal_xmas_wine-1.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "399"
 image_attribution: ""

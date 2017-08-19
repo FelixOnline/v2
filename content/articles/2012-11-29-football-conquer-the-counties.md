@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292318-tna08-football.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,10 +50,10 @@ The first half of extra time was largely non-eventful, with both teams seemingly
 
 Penalties loomed large and no team mustered enough strength to get a winner, although if any team looked likely it was Imperial. Hill made his presence known on a number of occasions seemingly winning everything in the air and inflicting collateral damage on the ground (and resident spiders). For unknown reasons, Hill was unable to complete the match.
 
-Having seen the incompetence of Canterbury’s penalties already, Imperial were confident of the shootout win. Wedemeyer, Robinson, Garner, Beasley and Ahmed Cherif (Jnr) put their names forward, with some more confident than others. Beasley won the toss and Imperial took first.  
+Having seen the incompetence of Canterbury’s penalties already, Imperial were confident of the shootout win. Wedemeyer, Robinson, Garner, Beasley and Ahmed Cherif (Jnr) put their names forward, with some more confident than others. Beasley won the toss and Imperial took first.
  Wedemeyer strode to the spot with German confidence but his effort, aimed at the top right corner was both too top and too right. Shortly afterwards the first Canterbury taker despatched his effort bottom left and Imperial were 1-0 down. Robinson, Imperial’s regular spot kicker, also went top right and left the keeper without a chance. Canterbury’s number 14 decided that, despite clearly being rubbish at penalties, he would make amends for his previous scuffed penalty. He failed in spectacular style as he repeated his previous attempt, scuffing down the middle allowing Garner to save with his right foot. His attempts at blaming the penalty spot for his miss fell on deaf ears. Garner picked himself up from goal and retrieved the ball, to the clear shock of every spectator. Despite this, with confidence oozing from every orifice, and after almost 10 million hours of penalty practice, he sent the keeper the wrong way to give Imperial a 2-1 lead. Canterbury promptly missed another penalty by skewing a drilled penalty past the left hand post. Beasley had the chance to give Imperial a two goal cushion but his penalty to the keepers left was saved. Canterbury then drew level at 2-2 with one penalty to go. Cherif Jnr took his penalty with his pokerface showing nothing. He sent the keeper the wrong way and found the right hand corner of the net leaving Imperial one penalty away from glory (the next round). The Canterbury player looked scared by the looming figure of Garner and the pressure told. His tame effort was saved by the left hand of Garner, sending the Imperial players into rapture and Murphy into the nearby forest to look for more interesting Kent wildlife.
 
 Garner was voted man of the match but everyone grafted well and showed good character to recover from going behind for the first time this season. Imperial 1s remain unbeaten after 7 games and hope to have wrapped up the BUCS league title when they travel to Canterbury for the last game of the season.
 
 Conclusions: Henry has shown (experimentally) that he both saves and scores penalties, both in vivo and ex vivo. Despite a strong body of literature suggestingotherwise (Euro ’96), Marius Wedermeyer does not.
-TODO: image from 
+TODO: image from

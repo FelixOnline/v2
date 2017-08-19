@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Theres one in Mech Eng foyer too They do look like those really dodgey ones that charge you through the nose Where did ICU get this from Yknow just so were sure its not cloning cards 
+ - Theres one in Mech Eng foyer too They do look like those really dodgey ones that charge you through the nose Where did ICU get this from Yknow just so were sure its not cloning cards
 imported: true
 ---
 

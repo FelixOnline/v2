@@ -2,7 +2,7 @@
 title: >
   We are 7 billion
 subtitle: >
-  But how many could we be? You know, if we really ‘went’ for it... 
+  But how many could we be? You know, if we really ‘went’ for it...
 date: "2010-12-12 13:48:09 +0000"
 id: "549"
 old_path: /science/549/we-are-7-billion
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012121346-ks607-whereswa.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: ""

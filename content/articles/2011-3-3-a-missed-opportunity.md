@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103030614-ks607-talldark.jpg"
 image_caption: >
-  
+
 image_width: "594"
 image_height: "434"
 image_attribution: ""

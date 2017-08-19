@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -40,7 +40,7 @@ It is harder, though not impossible, to find a similar list of Britons who have 
 
 Step forward, [Student UpStarts](http://www.studentupstarts.com).
 
-Student UpStarts is a relatively new accelerator that sets itself apart by being focused entirely on students. Founded by Christian Jakenfelds and Matthew Stafford – both former Imperial students (Christian studied Biochemistry and Matthew graduated from the business school with an MBA) - they realized that students should be presented with the opportunity whilst still pursuing their studies.  
+Student UpStarts is a relatively new accelerator that sets itself apart by being focused entirely on students. Founded by Christian Jakenfelds and Matthew Stafford – both former Imperial students (Christian studied Biochemistry and Matthew graduated from the business school with an MBA) - they realized that students should be presented with the opportunity whilst still pursuing their studies.
  So, last year they started by offering an accelerator designed for students still in full-time education looking to start a company in the tech, media or telecoms industries. At Imperial College, these sectors account for most of us! For around 8% equity in their startups, these student-founders received up to £15k investment and are entered into a 13-weeks hands-on program. Industry-specific mentors provide guidance on clearing the hurdles that often put off first time entrepreneurs: incorporation, share structures, taxes and accounting.
 
 And it has caught on even more than they had imagined – “the response we have gotten from the students accepted into the program has been fantastic. In the coming weeks one company is heading off to Stanford to showcase its work, and two are currently working on final applications to Y Combinator,” says Christian. This is all the more impressive when you realise that there are only three companies in this current cycle, with a target of 10 to 15 for this summer.

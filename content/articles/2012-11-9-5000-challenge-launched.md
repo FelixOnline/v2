@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211090015-tna08-marketing-challenge.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The Institute of Global Health Innovation (IGHI) has announced that it is holding its student challenges competition, with an increased prize of £5000 to develop the winning project further.  
+The Institute of Global Health Innovation (IGHI) has announced that it is holding its student challenges competition, with an increased prize of £5000 to develop the winning project further.
  This is the second year that the competition will be running, and the award is aimed at supporting research at Imperial that has a focus on tackling health problems and challenges throughout the world. The IGHI want the competition to be “an opportunity to showcase work”. The project is open to those studying BSc, MSc, MEng, MPH, MRes or MBA. The students’ final-year projects will be the basis for their entry.
 
 The evaluation criteria of submitted work will include the technical or business innovation, but also analysis of global health impact and economic application and feasibility. The Institute wants encouragement of novel concepts that can cover any feature of global health in devolved and developing countries.

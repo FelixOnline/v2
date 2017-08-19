@@ -1,8 +1,8 @@
 ---
 title: >
-  The New World of Mr Tompkins 
+  The New World of Mr Tompkins
 subtitle: >
-  by George Gamow and Russell Stannard 
+  by George Gamow and Russell Stannard
 date: "2011-01-20 19:38:52 +0000"
 id: "611"
 old_path: /science/611/the-new-world-of-mr-tompkins-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101201938-ks607-bookbook.jpg"
 image_caption: >
-  
+
 image_width: "408"
 image_height: "637"
 image_attribution: ""

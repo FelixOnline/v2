@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032111-nm1010-harrieth.jpg"
 image_caption: >
-  
+
 image_width: "2000"
 image_height: "3008"
 image_attribution: ""

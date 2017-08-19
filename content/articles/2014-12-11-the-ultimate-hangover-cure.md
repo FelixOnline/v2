@@ -2,7 +2,7 @@
 title: >
   The ultimate hangover cure
 subtitle: >
-  Emma Lisle on a drug that could end those mornings after 
+  Emma Lisle on a drug that could end those mornings after
 date: "2014-12-11 20:12:45 +0000"
 id: "5026"
 old_path: /science/5026/the-ultimate-hangover-cure

@@ -35,11 +35,11 @@ comments:
 imported: true
 ---
 
-A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex\-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.
+A couple of months ago, I wrote an open letter in Felix. It was directed at my very recent ex-boyfriend, and in it I attempted to verbalise the pain I felt and some of the things I realised in the wake of our breakup. It wasn’t something that I wrote originally with the intention of publishing it in FELIX, but for me, the act of editing it for publication and seeing it printed was incredibly cathartic.
 
 After FELIX hit the campus on the Friday morning, I started to receive messages. Messages of concern, messages of admiration, but overwhelmingly, messages telling me that I shouldn’t have published it, or at the very least, telling me that I shouldn’t have put my name to it. It wasn’t, I was repeatedly told, appropriate to air my feelings so publicly. Personal matters, it was emphasised, should be kept private.
 
-This sentiment is not one shared by Beyoncé. In Lemonade, Beyoncé shows us the very raw emotion of marriage post\-infidelity. Many people are calling it a publicity stunt, or saying that it isn’t real. While that may be true, why is it so hard to believe that a woman would stand up and say that her heart has been broken?
+This sentiment is not one shared by Beyoncé. In Lemonade, Beyoncé shows us the very raw emotion of marriage post-infidelity. Many people are calling it a publicity stunt, or saying that it isn’t real. While that may be true, why is it so hard to believe that a woman would stand up and say that her heart has been broken?
 
 As women, we are socialised to mask any pain that we experience. Women are taught that if they show feelings, you look crazy. We are expected to stay silent and apologise for every emotion that escapes us, because surely we must be the ones who are at fault. We are told that to be successful we must only show the aspirational aspects of our lives. Even positive sentiments, such as the ones expressed in my letter, can be lost in the discomfort caused by being upfront.
 

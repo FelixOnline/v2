@@ -1,6 +1,6 @@
 ---
 title: >
-  ICSM Netball’s storming start to the season 
+  ICSM Netball’s storming start to the season
 subtitle: >
   This was an amazing start to the season, lets hope they can keep it going!
 date: "2012-11-01 23:13:37 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

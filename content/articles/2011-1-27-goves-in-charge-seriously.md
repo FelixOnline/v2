@@ -1,6 +1,6 @@
 ---
 title: >
-  Gove’s in charge? Seriously? 
+  Gove’s in charge? Seriously?
 subtitle: >
   His lack of professionalism is remarkable
 date: "2011-01-27 19:44:44 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

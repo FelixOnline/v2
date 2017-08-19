@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112012121-felix-babar-ahmad-petition-prisoner.jpg"
 image_caption: >
-  
+
 image_width: "460"
 image_height: "276"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Babar Ahmad needs a fair trail 
+ - Babar Ahmad needs a fair trail
 imported: true
 ---
 

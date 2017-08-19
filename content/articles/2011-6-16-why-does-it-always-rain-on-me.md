@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106162106-felix-man-umbrella-rain.jpeg"
 image_caption: >
-  
+
 image_width: "338"
 image_height: "450"
 image_attribution: ""

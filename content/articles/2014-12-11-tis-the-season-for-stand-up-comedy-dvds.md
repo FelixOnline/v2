@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201412112116-cj914-russell-howard-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "visitlondon.com"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Dont know if you will find the humor in this but I was searching for information on a research paper about TD Ameritrade and somehow from clicking through several links I stumbled into your blog here While not at all relevent to what I was searching for your post was interesting enough for me to not click back right away Just wanted to comment before leaving to let you know that the internet is a weird place and you are getting visitors from places Ill bet you never thought possibleurlhttpwwwlouboutinoutletsuslouboutin outleturlSuper story indeed My friend has been awaiting for this content biggest failure of all timeurlhttpwwwnikeairmaxczcznikeairmaxdmskc46_48nike air max eshopurlThis information is priceless Where can I find out moreurlhttpwwwnikeairmaxczcznike air max 90urlHowdy This is my 1st comment here so I just wanted to give a quick shout out and say I really enjoy reading through your posts Can you suggest any other blogswebsitesforums 
+ - Dont know if you will find the humor in this but I was searching for information on a research paper about TD Ameritrade and somehow from clicking through several links I stumbled into your blog here While not at all relevent to what I was searching for your post was interesting enough for me to not click back right away Just wanted to comment before leaving to let you know that the internet is a weird place and you are getting visitors from places Ill bet you never thought possibleurlhttpwwwlouboutinoutletsuslouboutin outleturlSuper story indeed My friend has been awaiting for this content biggest failure of all timeurlhttpwwwnikeairmaxczcznikeairmaxdmskc46_48nike air max eshopurlThis information is priceless Where can I find out moreurlhttpwwwnikeairmaxczcznike air max 90urlHowdy This is my 1st comment here so I just wanted to give a quick shout out and say I really enjoy reading through your posts Can you suggest any other blogswebsitesforums
 imported: true
 ---
 

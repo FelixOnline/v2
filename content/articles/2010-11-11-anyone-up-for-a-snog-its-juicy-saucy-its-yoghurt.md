@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011112119-nm1010-snogfroz.jpg"
 image_caption: >
-  
+
 image_width: "797"
 image_height: "1200"
 image_attribution: ""

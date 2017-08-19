@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011041821-jk708-Fable3.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "720"
 image_attribution: ""

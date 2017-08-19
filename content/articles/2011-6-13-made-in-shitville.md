@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106131433-felix-172.jpeg"
 image_caption: >
-  
+
 image_width: "2245"
 image_height: "1532"
 image_attribution: ""
@@ -48,11 +48,11 @@ _Monday | 9PM - 10PM | Channel 4_
 
 __Embarrassing Fat Bodies__ - Some people are so fat that they need to make a documentary. A husband and wife that have a combined weight of 52 stone (who goes on top?) receive medical advice (such as “try eating less”) and a 21 year old mother exhibits her colossal funbags.
 
-_Tuesday | 9PM - 10PM | BBC1_  
+_Tuesday | 9PM - 10PM | BBC1_
 __Luther__ - Psychological detective drama nominated for a Golden Globe award for its last series. Brilliant: don’t miss it.
 
-_Wednesday | 9PM - 10PM | BBC2_  
+_Wednesday | 9PM - 10PM | BBC2_
 __Wonderland__ - The Kids Who Play With Fire - Documentary about three feral children with a penchant for setting fire to things. Counsellors try to guide them away from a lifetime of picking up the soap.
 
-_Thursday | 9PM - 10PM | BBC1_  
+_Thursday | 9PM - 10PM | BBC1_
 __Breaking into Britain__ - Evan Davis presents a documentary about illegal immigrants. Why couldn't it have been Bernard Manning?

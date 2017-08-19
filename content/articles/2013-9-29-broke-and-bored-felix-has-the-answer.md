@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Comments author geenng081907 054400 PMTo           PCR   pTo A                  
+ - Comments author geenng081907 054400 PMTo           PCR   pTo A
 imported: true
 ---
 
@@ -52,7 +52,7 @@ _Price: €20 on the website (for PC/Mac version)_
 _Platform: PC, Mac, Xbox 360, iOS and Android_
 
 ###  CounterStrike Source/Global Offensive
-TODO: image from 
+TODO: image from
 It is hard to believe that this game started out as a mod of half life. It was so successful as a mod, that it made it into its own game. This is pretty much the big daddy of all modern FPSs and really should not be missed out if you are a fan of that genre. With Valve’s Source engine, these two versions are really top notch games that can perform at comfortable levels for most PCs.
 
 There is no story or anything of the sort. The only thing you do is sign on to various servers (community or official) that have different types of game modes. It varies from the casual gun game, to the very competitive official hostage/defuse missions. Then you play rounds based on those modes.
@@ -68,7 +68,7 @@ _Price: £13.99/£11.99 on steam_
 _Platform: PC and Mac_
 
 ###  Mount and Blade: Warband
-TODO: image from 
+TODO: image from
 Of all the games I have talked about, this one here is my favourite and possibly the one that most people won’t know, which is quite a shame. Made by the turkish studio TaleWorlds, this indie game perfectly captures that adventure feeling. Basically you are an adventurer dumped in the medieval lands of Calradia, and you can do what you like. Want to go and marry one of the local beauties? Go ahead. Want to become a slaver? Do that! Want to become a king and rule the entire continent? You can! This flexibility means that you can pour hours upon hours within this game. Furthermore the modding community is extremely vibrant in this game, allowing for just general updates to the gameplay, to complete Star Wars rewrites, and the best thing about all these mods are for free. Therefore for the price of one game, you can get all the wonders the internet has done to this game.
 
 The gameplay itself is great, managing to make the hack and slash/bow and arrow mechanics of the medieval times intuitive and easy to use, so moving down countless enemies is extremely satisfying. The graphics, while not the best, are nonetheless very detailed and beautiful. The creators of this game have created a very well fleshed out game which is immersive and fun to play. Every option is pretty much left up to you and makes each game that you play different.
@@ -80,14 +80,14 @@ _Price: £13.99/£11.99 on steam_
 _Platform: PC and Mac_
 
 ###  Game: Portal 2
-TODO: image from 
+TODO: image from
 About two years ago, this game was the thing. Everyone who called themselves a gamer had this game. It was the sequel to the highly acclaimed Portal, which was so original it was a breath of fresh air in the game industry, and did not fail to live up to its predecessors hype, becoming immensely successful. Even though now this game is slightly older, it has lost none of its magic touch.
 
 The premise of this game is that you are a test subject of the mysterious Aperture Science company. It seems some mishap has happened and the facilities are abandoned, so you must find your way out of the testing facilities using your own, very amazing, portal gun
 
 The story itself is a direct follow on from the previous iteration, and just like before it is extremely well crafted and combines well with the colourful characters. The dialogue itself is so well written, that at some points I couldn’t help laughing out loud. Due to a combination of all these things the game is completely immersive, and it is really easy to forget you are playing a game. For example you have the tutorial, which in normal games is the part that most players skip, as it just is quite boring in tedious. However in Portal 2, I didn’t even feel like I was playing a tutorial, it was just that good. Trust me, you will laugh.
 
-Furthermore, there is a great co-op mode, which is really fun to play, and just adds to the whole experience. If you have your eyes on someone in your dorm, this could be your tool to break the ice!  
+Furthermore, there is a great co-op mode, which is really fun to play, and just adds to the whole experience. If you have your eyes on someone in your dorm, this could be your tool to break the ice!
  The graphics while not at todays standards are still very good, the scenery of the puzzles and attention to detail in each level is outstanding. Furthermore since this game is a bit older, you should be able to run it beautifully on your machine at the highest settings.
 
 All in all this game is a real must have. If you haven’t gotten it already, then get it because for the price you will rarely get something that good. And if you are feeling the pressure, listening to weird robots and shooting portals with your own portal gun will always relieve the stress.

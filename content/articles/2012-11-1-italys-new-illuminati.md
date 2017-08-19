@@ -2,7 +2,7 @@
 title: >
   Italy’s new Illuminati
 subtitle: >
-  (Yes, it’s that guy from University Challenge!) 
+  (Yes, it’s that guy from University Challenge!)
 date: "2012-11-01 22:49:33 +0000"
 id: "2794"
 old_path: /comment/2794/italys-new-illuminati
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211021636-tna08-121024earthquakeverdict_6815001.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -44,7 +44,7 @@ Now, we must be fair. Italy is no stranger to corruption, and there are chilling
 
 Many are now commenting that it would’ve been better for the scientists to err on the side of caution and warn the population anyway; but Italy is a highly seismic zone: does this mean that we should be constantly crying wolf? It has been extensively determined that, with current methods, it is impossible to predict with sufficient accuracy the occurrence of an earthquake; to treat every possible hint as an
 > Now, we must be fair. Italy is no stranger to corruption, and there are chilling tales and records of phone calls documenting how the boss of the Protezione Civile (Civil Protection) told the committee to downplay the risk of earthquake to prevent panic in the population
-emergency might create alarmism and cheapen the value of warnings. High-risk zones should be equipped to deal with such events, but to demand unerring precision is irresponsible.  
+emergency might create alarmism and cheapen the value of warnings. High-risk zones should be equipped to deal with such events, but to demand unerring precision is irresponsible.
  The problem is, fundamentally, one of scientific education, and the need to give someone the blame for the catastrophe. This combination led the public to perceive that experts could’ve predicted the earthquake but didn’t, and hence must be punished and tried. People of Abruzzo cheered at the court’s decision, claiming that justice had been done, when in fact it was a mockery and a farce: a mockery, because it grossly misinterprets how the scientific process works, and a farce, because it was little more than a search for scapegoats.
 > ... seismologists from America, Japan and Switzerland have reacted to the news of the trial by claiming that the data was contradictory and that, in the same position, they would’ve also given similar advice
 If the committee actually bowed to political pressures and reassured that there was little risk of a calamity without doing a more extensive analysis, it is troubling and it should be addressed more fully; but they never discounted the possibility of an earthquake. People choose to ignore this because it is easier to see the question as one of people who didn’t do their job, because their job isn’t actually understood, and because it is more reassuring, in a perverse way, to think that it was due to human error rather than a random and unpredictable whim of nature.

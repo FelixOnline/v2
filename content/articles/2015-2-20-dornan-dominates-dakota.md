@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502201700-ps3110-fifty-shades-of-grey-cmyk.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -52,6 +52,6 @@ Now, the much-anticipated scenes of BDSM do occur, but director Sam Taylor-Johns
 
 Throughout the film Grey’s troubled past is hinted at, no doubt a teaser for things to come in the two sequels that have already been the go-ahead signal by the studios. But instead of expanding the cold, steely-eyed, and supposedly heartless billionaire’s central role in the story, the film gets stuck in a frustratingly repetitive loop in which the girl starts whining for more commitment, and the guy starts resisting and just wants kinky sex. You get the feeling the film is thirty minutes too long, and numerous ultimately pointless scenes really ought to have been left on the cutting room floor.
 
-Dakota Johnson is without doubt the best aspect of the film. The casting department has found a real talent with Johnson, whose astonishing performance of innocent naïveté gives the film a convincing female protagonist, as a slightly awkward, inexperienced young woman. Johnson also knows how to get in touch with Ana’s more playful, cheeky side, as she toys with Christian’s needs and emotions. Playing opposite her, Dornan arguably has the more limited, one-dimensional role, but he plays damaged and disturbed well, setting things up nicely for how his role may (or may not to be fair) develop in future films. He is, as he says in the film, “fifty shades of f\*\*\*ed up”.
+Dakota Johnson is without doubt the best aspect of the film. The casting department has found a real talent with Johnson, whose astonishing performance of innocent naïveté gives the film a convincing female protagonist, as a slightly awkward, inexperienced young woman. Johnson also knows how to get in touch with Ana’s more playful, cheeky side, as she toys with Christian’s needs and emotions. Playing opposite her, Dornan arguably has the more limited, one-dimensional role, but he plays damaged and disturbed well, setting things up nicely for how his role may (or may not to be fair) develop in future films. He is, as he says in the film, “fifty shades of f***ed up”.
 
 Expect an abrupt ending, as the franchise will take at least the next two years to properly finish. The supporting characters we barely get to see here, should feature more, and a bigger delve into Christian’s past will work to the advantage of the sequels.

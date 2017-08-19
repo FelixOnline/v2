@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101202044-nm1010-oxfammmm.jpg"
 image_caption: >
-  
+
 image_width: "576"
 image_height: "864"
 image_attribution: ""

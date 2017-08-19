@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103032054-ks607-depressi.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "399"
 image_attribution: ""

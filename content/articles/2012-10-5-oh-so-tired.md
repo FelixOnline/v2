@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -50,7 +50,7 @@ Perhaps you think this is unimportant (you’d be right) but there is a link to 
 
 __Trusting them?__
 
-You’ll notice two stories regarding the Imperial College Healthcare Trust in this issue.  
+You’ll notice two stories regarding the Imperial College Healthcare Trust in this issue.
  It’s fair to say that a lot of people aren’t fans of the proposals. There are three proposals on the table, and soon we will find out the exact outcome. My personal thoughts are that it would seem that it is difficult to get a straight answer out of anyone. It’s hard to find out exactly what is going on, and how the plans will affect the students at Imperial.
 
 In a perfect world, none of the hospitals will be reduced. We don’t live in that world, but it would just be appreciated by everyone if some honesty, rather than a waffling non-answer, were to be given to questions. I guess we’ll all have to wait and see what happens.

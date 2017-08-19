@@ -2,7 +2,7 @@
 title: >
   Free speech, censorship, and backbone for the easily offended
 subtitle: >
-  Why bother writing an article about free speech today in Britain? 
+  Why bother writing an article about free speech today in Britain?
 date: "2014-11-06 18:58:24 +0000"
 id: "4771"
 old_path: /arts/4771/free-speech-censorship-and-backbone-for-the-easily-offended

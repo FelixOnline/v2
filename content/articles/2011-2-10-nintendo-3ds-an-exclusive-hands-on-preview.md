@@ -1,6 +1,6 @@
 ---
 title: >
-  Nintendo 3DS: an exclusive hands-on preview 
+  Nintendo 3DS: an exclusive hands-on preview
 subtitle: >
   "The 3D worked straight from the off"
 date: "2011-02-10 20:44:23 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102110155-sjw209-3DShands.jpg"
 image_caption: >
-  
+
 image_width: "800"
 image_height: "532"
 image_attribution: ""

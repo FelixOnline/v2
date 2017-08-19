@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201112082041-felix-eton-fives-universities-2.jpg"
 image_caption: >
-  
+
 image_width: "3056"
 image_height: "2292"
 image_attribution: "Abhishek Bhattacharya"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-What is fives? Read on to the very end, and you could get involved and start your beautiful career.  
+What is fives? Read on to the very end, and you could get involved and start your beautiful career.
 [Imperial College Fives](http://www3.imperial.ac.uk/sports/studentsport/studentsportsclubs/ballsports/fives) society kicked off a promising start to the season after representing at the Universities Eton Fives Championships at Eton College on 12th November and in the BUCS Rugby Fives Championships at Marlborough College.
 
 In fives, a ball is propelled against the walls of a special court using gloved or bare hands as though they were a racquet. Basically, you could say it was squash’s naughty ambidextrous stepsibling.

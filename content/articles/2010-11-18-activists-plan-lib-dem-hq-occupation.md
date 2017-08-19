@@ -1,8 +1,8 @@
 ---
 title: >
-  Activists plan Lib Dem HQ occupation 
+  Activists plan Lib Dem HQ occupation
 subtitle: >
-  ‘Day of Action’ planned for 24th November 
+  ‘Day of Action’ planned for 24th November
 date: "2010-11-18 21:50:55 +0000"
 id: "412"
 old_path: /news/412/activists-plan-lib-dem-hq-occupation-
@@ -41,7 +41,7 @@ Perhaps unsurprisingly, following the media storm produced by a minority of anar
 The N.U.S. have not collaborated with plans for next week’s events. N.U.S. President Aaron Porter said: “we won’t condemn non-violent direct action where students support it, but I also won’t organise activities that will have no impact, that rob us of influence and public support, or that claim criminal damage is somehow ‘legitimate violence’.” The N.U.S. has instead [launched a new scheme](http://www.nus.org.uk/en/News/News/NUS-launches-Right-to-Recall-campaign/), calling on students to vote against their MPs should they renege on their pre-election pledge to oppose any raise in fees. Aaron Porter has admitted that the new scheme is particularly targeted against Liberal Democrats. Speaking to Sky News, Mr Porter outlined that “[the politicians] need to be held to account and we believe this is the best way to do it.”
 
 > We won’t condemn non-violent direct action where students support it, but I also won’t organise activities that will have no impact, that rob us of influence and public support, or that claim criminal damage is somehow ‘legitimate violence’
-> 
+>
 >  Aaron Porter, NUS President
 
 The [Education Activist Network](http://educationactivistnetwork.wordpress.com/) (EAN) helping organise the protests and run by a member of the N.U.S. national executive committee Mark Bergfeld, has been in discussions over plans to not only target key locations in London on what they are calling ‘Day X’ but also to attempt a raid on Clegg’s home in his constituency of Sheffield Hallam. They are also encouraging schoolchildren to become involved alongside students and walk out of lessons on the day.

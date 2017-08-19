@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201610071852-felix-69729963_a737132ad6_o.jpg"
 image_caption: >
-  200pw cause South Ken is fancy af  
+  200pw cause South Ken is fancy af
 image_width: "1600"
 image_height: "1200"
 image_attribution: "TS Pakhrin"
@@ -42,5 +42,5 @@ Imperial is quite late to the show, as other London universities, have been offe
 > > College has reassured us that Brexit will not affect European student eligibility for the scheme
 With plans for article 50 to be activated later this academic year, it might be a little too late for many European students. Although College has reassured us that Brexit will not affect European student eligibility for the scheme, how many European students will be around in the coming years to enjoy the right to paying one’s rent when it’s due remains a valid question.
 
-At the end of the day, this is definitely a great move for the student body, especially in comparison to other such schemes across London. In the case of SOAS for example, which is also launching a pilot scheme, the program is only available to the first 60 successful applicants. Goldsmith’s on the other hand has a rent cap of 600 pcm, significantly lower than the 200pw cap ours has \(but hey, prices are lower in New Cross than they are in South Ken\). Finally, King’s offer’s a scheme in partnership with a private guarantor company, YourGuarantor, and charges 3.5% of the value of the tenancy.
+At the end of the day, this is definitely a great move for the student body, especially in comparison to other such schemes across London. In the case of SOAS for example, which is also launching a pilot scheme, the program is only available to the first 60 successful applicants. Goldsmith’s on the other hand has a rent cap of 600 pcm, significantly lower than the 200pw cap ours has (but hey, prices are lower in New Cross than they are in South Ken). Finally, King’s offer’s a scheme in partnership with a private guarantor company, YourGuarantor, and charges 3.5% of the value of the tenancy.
 One concern is the possibility of using the scheme to deter students in halls from going on rent strikes, in protest of the extortionate costs of College accommodation. UCL makes it explicitly clear on its website that “students currently on rent strike and who have applied to join the scheme received a reply setting out that they need to resolve any outstanding debt to UCL before being considered for the scheme”. Similarly, any students with outstanding debt to College will not be eligible for the scheme. Then again, it’s safe to say that the likelihood of a rent strike taking place at Imperial is low.

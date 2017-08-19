@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272030-nm1010-sushisus.jpg"
 image_caption: >
-  
+
 image_width: "1000"
 image_height: "400"
 image_attribution: "flickr/ukaaa"
@@ -41,15 +41,15 @@ The best part of making your own sushi is that you can add any fish, seafood, me
 
 __Get yourself equipped with__:
 
-A rolling mat (Makisu) \*
+A rolling mat (Makisu) *
 
-Nori seaweed sheets \*
+Nori seaweed sheets *
 
-3 cups sushi rice \*
+3 cups sushi rice *
 
 3 ¼ cups water
 
-1/3 cup rice vinegar \*
+1/3 cup rice vinegar *
 
 3 tbsp sugar
 
@@ -61,13 +61,13 @@ A semi-ripe avocado
 
 A cucumber
 
-Wasabi \*
+Wasabi *
 
 Soy Sauce
 
 A sharp knife
 
-\* These products are available in Sainsbury’s or Tesco, but you can also find them at Japanese grocery shops such as [Japan Centre](http://www.japancentre.com/) (14-16 Regent Street, SW1Y 4PH. Nearest tube station: Piccadilly Circus). Some of these items are optional i.e. nori seaweed and a rolling mat is not needed when making nigiri (sushi rice topped with a slice of fish)
+* These products are available in Sainsbury’s or Tesco, but you can also find them at Japanese grocery shops such as [Japan Centre](http://www.japancentre.com/) (14-16 Regent Street, SW1Y 4PH. Nearest tube station: Piccadilly Circus). Some of these items are optional i.e. nori seaweed and a rolling mat is not needed when making nigiri (sushi rice topped with a slice of fish)
 
 – First, you need to prepare the sushi rice. Rice is generally prepared with a 1:1 ratio with one part rice to one part water. As soon as the rice begins to boil, lower the heat and let it simmer for 20 minutes. Remove the rice from the heat. Prepare the rice vinegar mixture by mixing the rice vinegar, sugar and salt together on low heat. This is added whilst the rice is cooling. Gently add the mixture to the rice while stirring with a wooden spoon to evenly distribute the mix. Fan the rice mixture to cool and remove the moisture of the rice, giving it a shiny look. Now that the rice is ready, the main ingredients can be prepared.
 

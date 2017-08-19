@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302131643-tna08-la-foto.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ Trying to understand the vision of a fellow artist can be a surreal journey, mor
 
 Day-dreaming continued while deadlines loomed and in my head a warning light began to pulse as the day-to-day running of the society started chewing up my time and spitting out bones. I needed to put something together now. Ideas, once decided started to transform again and after a brief meeting with Photosoc a new feasible idea sprung out.
 
-Time is ticking but the aim was clear now. I was to get sixteen painters from LeoSoc to paint a piece each. I had to start making calls to gather the first group of painters, then call CassArt to ensure there were enough canvases in stock. I received an image from the photographers that we were to paint.  
+Time is ticking but the aim was clear now. I was to get sixteen painters from LeoSoc to paint a piece each. I had to start making calls to gather the first group of painters, then call CassArt to ensure there were enough canvases in stock. I received an image from the photographers that we were to paint.
  This is the part where the fun really started, bohemian scenes of intense painting sessions and banging tunes in succession, by the start of the week we already had ten paintings.
 
 Hanging day arrives; we still do not have all the paintings but plenty to get started. Showing the paintings to PhotoSoc it dawns on me that there has been a massive communications breakdown, our paintings were not what they are expecting.
@@ -58,4 +58,4 @@ As I write, some paintings are still in the making and the prints are coming tom
 If you as curious about the end of this story as me, the show opens next week There will be wine and you can meet all those that put the show together by pulling it out of a spin dive at the last minute.
 
 _Opening party on Febuary 19th 8pm, Blythe Gallery, Sherfield Level 5._
-TODO: image from 
+TODO: image from

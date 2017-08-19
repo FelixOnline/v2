@@ -39,23 +39,23 @@ Modified recipe from the book _Vegan Pie in the Sky by Isa Chandra Moskowitz_.
 
 __Ingredients__
 
-_For the base_  
- 1 and ¾ cups graham crackers or digestives  
- 3 tablespoons sugar  
- 4 tablespoons melted non-hydrogenated margarine  
+_For the base_
+ 1 and ¾ cups graham crackers or digestives
+ 3 tablespoons sugar
+ 4 tablespoons melted non-hydrogenated margarine
  1 tablespoon milk
 
-_For the cream_  
- 6 ounces silken tofu  
- Salt  
- 1 teaspoon vanilla extract  
- ½ teaspoon lemon juice  
- 1 cup soy milk  
- ½ teaspoon agar powder  
- ½ cup sugar  
- 1 tablespoon cornstarch  
- 1 teaspoon lemon extract  
+_For the cream_
+ 6 ounces silken tofu
+ Salt
+ 1 teaspoon vanilla extract
+ ½ teaspoon lemon juice
+ 1 cup soy milk
+ ½ teaspoon agar powder
+ ½ cup sugar
+ 1 tablespoon cornstarch
+ 1 teaspoon lemon extract
  Juice of half a lemon or lime
 
-__Procedure__  
+__Procedure__
  Preheat the oven at 180°C. Oil a 9-inch pie dish. Crush the biscuits and add the sugar and melted margarine and milk. Press the biscuit mixture in a 9-inch pie plate and bake for 8 minutes. Let it cool and remove it from the pie plate. To make the cream filling, combine the tofu, salt, vanilla extract, lemon extract and lemon juice in a blender. In a small saucepan, combine ½ of the milk and the agar powder, cook for 5 minutes stirring occasionally. Add the sugar, milk and cornstarch in a cup and whisk. Add this to the simmering soy milk mixture and stir for about 5 minutes. Add the cooked cream in the blender with the tofu and the other ingredients and blend until very smooth. Pour it immediately into the baked pie shell. Refrigerate for at least three hours.

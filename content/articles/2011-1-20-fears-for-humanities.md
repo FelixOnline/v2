@@ -1,8 +1,8 @@
 ---
 title: >
-  Fears for Humanities 
+  Fears for Humanities
 subtitle: >
-  Sophia David argues that Humanities could be negatively affected by the proposed changes 
+  Sophia David argues that Humanities could be negatively affected by the proposed changes
 date: "2011-01-20 20:58:26 +0000"
 id: "639"
 old_path: /news/639/fears-for-humanities-

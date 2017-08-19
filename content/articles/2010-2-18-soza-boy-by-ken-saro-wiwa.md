@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201002181651-lh106-Nigerian.jpg"
 image_caption: >
-  
+
 image_width: "355"
 image_height: "500"
 image_attribution: ""

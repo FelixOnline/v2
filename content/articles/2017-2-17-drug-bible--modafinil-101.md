@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201702171606-felix-Screen Shot 2017-02-17 at 16.05.50.png"
 image_caption: >
-  
+
 image_width: "1977"
 image_height: "1097"
 image_attribution: ""
@@ -36,14 +36,14 @@ imported: true
 ---
 
 ## What it does
-Modafinil is used to increase the alertness of the user. Whilst it is normally used to treat narcolepsy and other sleep disorders, it is also commonly used as a study drug. Once taken, expect to feel more awake and typically less prone to frustration, allowing you to become more productive in the work you do. However, with all this new\-found alertness it is not uncommon to begin to direct your focus toward less productive endeavours. Expect to be distracted more easily than normal.
+Modafinil is used to increase the alertness of the user. Whilst it is normally used to treat narcolepsy and other sleep disorders, it is also commonly used as a study drug. Once taken, expect to feel more awake and typically less prone to frustration, allowing you to become more productive in the work you do. However, with all this new-found alertness it is not uncommon to begin to direct your focus toward less productive endeavours. Expect to be distracted more easily than normal.
 ## How you use it
 The vast majority of study drugs come in the form of a convenient pill. Unlike the various brightly coloured pills that ecstasy may come in, modafinil looks like boring plain old paracetamol. Modafinil itself claims to keep you at peak alertness for around 10 hours, with additional stimulation lasting for a few hours after that. However, due to the longer lasting nature of these pills when compared to traditional drugs expect more variation in duration between people. For instance, having known people who have taken the drug, I have received reports that the effects can last anywhere between four and twelve hours depending on the individual. After taking, keep yourself hydrated, it’s important to maintain a healthy amount of water in your system should your body reject the drug and attempt to flush it out. As stupid as it sounds, it is also important to remember to eat. Expect to feel a diminishing appetite for at least the first few hours after ingestion.
 ## Legality
 As of the time of writing, in the UK, to possess modafinil is legal. However, it is only legal to buy if you have a prescription. Providing you have a prescription, it is obtainable from your local chemist or pharmacy. It is also available from many international websites that stick two fingers up to drug restriction laws in the UK, therefore this stuff is actually obtainable. It should be noted that any attempt to import large amounts of substances such as modafinil will only be considered by the authorities if it is for ‘personal use’. Typically personal use constitutes no more than a ninety day supply.
 
 It is important to be aware about the dangers of ordering drugs from an international company based in some shady corner of the world. Do not expect everything you order to be 100% every time.
-TODO: image from 
+TODO: image from
 ## Glossary
 **Modding |** The act of being on modafinil
 **Daffodils |** Pills of Modafinil
@@ -56,9 +56,9 @@ In 2014, a study by The Tab asked 2000 students from 41 different universities a
 ## Things to do when you’re high
 ## Do
  - Take early in the day to get the full effect
- - Make sure you’re in an environment ready to study \(no distractions\)
+ - Make sure you’re in an environment ready to study (no distractions)
  - Stay well hydrated and fed
 ## Don't
  - Take expecting the effects of ecstasy
- - Tell your mates how hard you are because you’re taking drugs \(you’re taking modafinil you prick\)
- - Take after 6pm, then it’s pretty much guaranteed you won’t get any sleep that night. 
+ - Tell your mates how hard you are because you’re taking drugs (you’re taking modafinil you prick)
+ - Take after 6pm, then it’s pretty much guaranteed you won’t get any sleep that night.

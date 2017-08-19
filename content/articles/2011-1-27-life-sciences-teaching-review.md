@@ -1,8 +1,8 @@
 ---
 title: >
-  Life Sciences teaching review 
+  Life Sciences teaching review
 subtitle: >
-  Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses 
+  Details about the teaching review finally emerge but the review panel is criticised for not allowing enough time for staff and student questionnaire responses
 date: "2011-01-27 18:06:47 +0000"
 id: "649"
 old_path: /news/649/life-sciences-teaching-review-

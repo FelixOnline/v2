@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201271225-felix-glassjawlive2.jpg"
 image_caption: >
-  
+
 image_width: "400"
 image_height: "317"
 image_attribution: ""
@@ -44,5 +44,5 @@ Anyway what I’m trying to say is that the music is very good and has given the
 
 __Writer’s Recommendation__
 
-1. For the fans of heavier stuff check out the song ‘[You Think You’re (John Fucking Lennon)](http://www.youtube.com/watch?v=p9TSlrchmpQ)’.  
+1. For the fans of heavier stuff check out the song ‘[You Think You’re (John Fucking Lennon)](http://www.youtube.com/watch?v=p9TSlrchmpQ)’.
  2. For something a bit more reasonable, check out the song ‘[All Good Junkies Go To Heaven](http://www.youtube.com/watch?v=vTPbG5VgDRY)’ (check out the amazing rehearsal version on YouTube).

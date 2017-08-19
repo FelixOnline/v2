@@ -1,6 +1,6 @@
 ---
 title: >
-  College to tackle feedback 
+  College to tackle feedback
 subtitle: >
   Away Day yields recommendations for departments
 date: "2011-11-10 19:50:09 +0000"

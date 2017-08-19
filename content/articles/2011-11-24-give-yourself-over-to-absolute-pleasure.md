@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201111242248-felix-rocky-horror-feature.jpg"
 image_caption: >
-  
+
 image_width: "422"
 image_height: "550"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201706021425-felix-2856055608_a39cc50456_o.jpg"
 image_caption: >
-  
+
 image_width: "2496"
 image_height: "1664"
 image_attribution: "wonderferret"
@@ -34,9 +34,9 @@ comments:
 imported: true
 ---
 
-Imperial will be hosting general election hustings on the 1st of June, inviting five speakers representing the Conservatives, Labour, UKIP, Lib Dems and Greens. Speakers were selected by picking the constituencies in which the most Imperial students live \(Hammersmith, Kensington and the Cities of London and Westminster\).
+Imperial will be hosting general election hustings on the 1st of June, inviting five speakers representing the Conservatives, Labour, UKIP, Lib Dems and Greens. Speakers were selected by picking the constituencies in which the most Imperial students live (Hammersmith, Kensington and the Cities of London and Westminster).
 
-“I approached the PPCs from the parties one by one initially, and was successful in getting interest early on from local Lib Dem, Green and Labour,” says third\-year chemist, Michael Edwards who’s been organising the hustings. “UKIP and the Conservatives proved more tricky to pin down. I initially had my sights on sitting MPs, such as Andy Slaughter in Hammersmith, but what with the short term announcement of this election, most people still had engagements, so it was a struggle.”
+“I approached the PPCs from the parties one by one initially, and was successful in getting interest early on from local Lib Dem, Green and Labour,” says third-year chemist, Michael Edwards who’s been organising the hustings. “UKIP and the Conservatives proved more tricky to pin down. I initially had my sights on sitting MPs, such as Andy Slaughter in Hammersmith, but what with the short term announcement of this election, most people still had engagements, so it was a struggle.”
 
 Edwards and his team have been polling students to find out what main issues embers of Imperial have on their minds. Burning questions unsurprisingly involve issues on the NHS, Higher Education, and Brexit. However we should expect a discussion on a range of topics including the economy and job prospects, climate policy, the ‘Snoopers’ charter, research funding, immigration and the housing crisis.
  The plan is for the event to take the format of Question Time, wherein audience members suggest questions before going in, and one of the chairs presents those questions to the panel.

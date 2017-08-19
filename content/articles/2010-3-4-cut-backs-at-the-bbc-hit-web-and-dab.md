@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201003041310-srg03-BBCTestC.jpg"
 image_caption: >
-  
+
 image_width: "1554"
 image_height: "1167"
 image_attribution: ""

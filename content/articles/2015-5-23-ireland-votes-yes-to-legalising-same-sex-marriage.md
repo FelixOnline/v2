@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505231814-jr2514-davidson-ireland-gay-marriage-690.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - andapplications They always spellcheck prrefooad and allow oneother person to prrefooad their applications and essay for errorsSuccessful students do not ignore scholarships that may be local orthose for small amounts Scholarship amounts even as small as50 can add upSuccessful students do not rely on only one source such as theInternet for their scholarship search They use many resourcesMany scholarships on the Internet or in the free scholarshipsearches that you find on the World Wide Web are nationally knownand are harder to win due to greater competition Local and regionalscholarships are not found as easily through an Internet searchalthough they may be easier to win because the applicant pool issmaller You have to use a combination of resources to find asmany scholarships to apply for as possibleSuccessful students market themselves well In their applicationsthey highlight positive aspects about their lives especiallycommunity involvementSuccessful students do not apply to one or two 
+ - andapplications They always spellcheck prrefooad and allow oneother person to prrefooad their applications and essay for errorsSuccessful students do not ignore scholarships that may be local orthose for small amounts Scholarship amounts even as small as50 can add upSuccessful students do not rely on only one source such as theInternet for their scholarship search They use many resourcesMany scholarships on the Internet or in the free scholarshipsearches that you find on the World Wide Web are nationally knownand are harder to win due to greater competition Local and regionalscholarships are not found as easily through an Internet searchalthough they may be easier to win because the applicant pool issmaller You have to use a combination of resources to find asmany scholarships to apply for as possibleSuccessful students market themselves well In their applicationsthey highlight positive aspects about their lives especiallycommunity involvementSuccessful students do not apply to one or two
 imported: true
 ---
 

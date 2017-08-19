@@ -2,7 +2,7 @@
 title: >
   Writing a business plan
 subtitle: >
-  Continuing our series on student enterprise, Paolo Strampelli talks business plans 
+  Continuing our series on student enterprise, Paolo Strampelli talks business plans
 date: "2011-06-02 19:12:23 +0100"
 id: "1304"
 old_path: /biz/1304/writing-a-business-plan
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106022011-felix-business%20plan.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "betadaily.com"

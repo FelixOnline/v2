@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211292307-tna08-nativity-scene.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -67,7 +67,7 @@ No. This is a God whose gift is himself, his all, his own life. And it’s not j
 
 I asked you at the start what your favourite part of Christmas was, and there are so many things to choose from, but for me the lowly birth of a baby eclipses them all.
 
-If you would like to keep searching for an even Merrier Christmas, consider starting here, with Jesus.  
+If you would like to keep searching for an even Merrier Christmas, consider starting here, with Jesus.
  The Christian Union carol service is happening on the 8th of December. We’d love you all to come along and get into the Christmas Spirit with us. Sing some Christmas Carols, enjoy some mince pies, and if you would like to find out a little more about Jesus, about whom so many songs of joy have been written.
 
 I wish you all a Merry Christmas!

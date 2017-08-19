@@ -2,7 +2,7 @@
 title: >
   Go With the Flow: new EU policy supports renewable energy
 subtitle: >
-  Joshua Emden discusses the impact of flow-based market coupling 
+  Joshua Emden discusses the impact of flow-based market coupling
 date: "2015-03-06 17:04:49 +0000"
 id: "5363"
 old_path: /science/5363/go-with-the-flow-new-eu-policy-supports-renewable-energy

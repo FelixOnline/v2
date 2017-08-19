@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201610141150-so515-LSE_main_entrance.jpg"
 image_caption: >
-  
+
 image_width: "1024"
 image_height: "768"
 image_attribution: "Umezo Kamata"
@@ -34,13 +34,13 @@ comments:
 imported: true
 ---
 
-Last week, foreign academics from the London School of Economics \(LSE\) accused the British Government of excluding them from advisory talks on Brexit.
+Last week, foreign academics from the London School of Economics (LSE) accused the British Government of excluding them from advisory talks on Brexit.
 
 Allegedly, during a meeting between Professor Kevin Featherstone, head of LSE’s European Institute, and Nathaniel Copsey, head of research for the Foreign Office, Featherstone was told that “Academics working on that project going forward would have to be UK passport holders only”. This was subsequently communicated to LSE staff involved in the advisory talks, according to the _Financial Times._
 
 LSE academics were quick to chastise the move.
 
-Dr. Sara Hagemann, an Assistant professor at LSE, who in the past has held posts as at the Brussels\-based European Policy Centre \(EPC\), at the Centre for European Policy Studies \(CEPS\), and in the Danish Ministry of Foreign Affairs, took to Twitter accusing the UK government of dropping herself and many of her colleagues from advisory talks.
+Dr. Sara Hagemann, an Assistant professor at LSE, who in the past has held posts as at the Brussels-based European Policy Centre (EPC), at the Centre for European Policy Studies (CEPS), and in the Danish Ministry of Foreign Affairs, took to Twitter accusing the UK government of dropping herself and many of her colleagues from advisory talks.
 
 The Home Office has since come out claiming that this is all one big misunderstanding. A source told the Telegraph that “the vetting of foreign nationals is a standard policy for sensitive projects”, accusing LSE of misinterpretation.
 

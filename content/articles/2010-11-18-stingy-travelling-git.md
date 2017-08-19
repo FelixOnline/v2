@@ -1,8 +1,8 @@
 ---
 title: >
-  Stingy travelling git 
+  Stingy travelling git
 subtitle: >
-  What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals 
+  What really is budget travelling? Dylan Lowe discovers more to it than counting pennies and baked-bean meals
 date: "2010-11-18 20:47:32 +0000"
 id: "393"
 old_path: /travel/393/stingy-travelling-git-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011182045-ks607-dubai.jpg"
 image_caption: >
-  
+
 image_width: "1694"
 image_height: "1299"
 image_attribution: ""

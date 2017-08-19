@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105200353-felix-image001.jpg"
 image_caption: >
-  
+
 image_width: "602"
 image_height: "372"
 image_attribution: ""

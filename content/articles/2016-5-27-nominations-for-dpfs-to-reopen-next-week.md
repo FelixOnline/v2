@@ -34,9 +34,9 @@ comments:
 imported: true
 ---
 
-After rumours of the position’s demise, the union has re\-opened nominations for the role of Deputy President \(Finance and Services\).
+After rumours of the position’s demise, the union has re-opened nominations for the role of Deputy President (Finance and Services).
 
-Despite a huge number of students running for the roles of President and Deputy President \(Welfare\) this year, no one stood to replace Chris Kaye as DPFS.
+Despite a huge number of students running for the roles of President and Deputy President (Welfare) this year, no one stood to replace Chris Kaye as DPFS.
 
 At one point, there was talk of replacing the DPFS role with a sports sabb or some kind of student development sabbatical role. However, these changes would have had to have been approved by union council, the governing body of the union made up solely of students and sabbs. With union council struggling with quoracy issues all year, this would have been impossible to pass in such a short space of time.
 
@@ -46,7 +46,7 @@ The DPFS role includes approving clubs’ claims, and generally looking after th
 
 If you’re interested in running, the position pays a sweet £19,000 a year, plus a free place in halls or a significant contribution if you choose to rent a property.
 
-Nominations reopen next Tuesday the 31st of May and close on the 9th of June. Candidates are then free to campaign, and voting last from June the 13th to the 17th. Results will be announced online \(no glitter cannons this time\) on Monday the 20th.
+Nominations reopen next Tuesday the 31st of May and close on the 9th of June. Candidates are then free to campaign, and voting last from June the 13th to the 17th. Results will be announced online (no glitter cannons this time) on Monday the 20th.
 
 Other unfilled positions that  nominations have been reopened for include BME, Disabilities and Gender Equality Officers, as well as two ICSMSU positions and the whole Graduate Students’ Union committee.
 

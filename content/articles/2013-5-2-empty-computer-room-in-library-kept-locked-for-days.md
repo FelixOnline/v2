@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305021427-tna08-pic2-2.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - The good news is that the room is available whenever their isnt teaching happening There was a period when the room was inaccessible whilst the PCs were being remotely rebuilt by ICT but happy to report if the room is empty all students should be able to swipe in 
+ - The good news is that the room is available whenever their isnt teaching happening There was a period when the room was inaccessible whilst the PCs were being remotely rebuilt by ICT but happy to report if the room is empty all students should be able to swipe in
 imported: true
 ---
 

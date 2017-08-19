@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201701131355-felix-15967129_10158043184975298_388485648_o.jpg"
 image_caption: >
-  
+
 image_width: "852"
 image_height: "1136"
 image_attribution: "felix"
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-The Brother’s Prayer Room was successfully refurbished over the winter break. Earlier last year, felix revealed many maintenance issues that had plagued the IC Islamic Society managed prayer room for six years. 
+The Brother’s Prayer Room was successfully refurbished over the winter break. Earlier last year, felix revealed many maintenance issues that had plagued the IC Islamic Society managed prayer room for six years.
 The issues included a dirty carpet emitting a strong smell, damp on the walls, peeling wallpaper and lack of appropriate plumbing to perform religious rituals.
 
 The refurbishment was initiated following action from Deputy Presidents James Cox and Rachel Blythe after they were approached by the Society which had been struggling to get issues with the prayer room resolved for over seven years.

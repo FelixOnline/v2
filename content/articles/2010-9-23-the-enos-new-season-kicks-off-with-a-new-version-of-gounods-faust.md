@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201009231125-ck806-faust.jpg"
 image_caption: >
-  
+
 image_width: "2086"
 image_height: "1721"
 image_attribution: ""

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -44,5 +44,5 @@ It’s clear that the actors involved have been enjoying themselves during rehea
 
 Even with its low budget and small production team _Can’t Pay? Won’t Pay!_ doesn’t fail to impress. If you’re suffering from Monday blues, this is the perfect remedy. But please, for the sake of __DramSoc__’s finances, don’t start holding up the front of house and begin stuffing tickets down your shirt.
 
-_Can’t Pay? Won’t Pay!_ shows from 11 – 13 March at __Metric__.  
+_Can’t Pay? Won’t Pay!_ shows from 11 – 13 March at __Metric__.
  Tickets on the door: £3 for students, £5 non-students.

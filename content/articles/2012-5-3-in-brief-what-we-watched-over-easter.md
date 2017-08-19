@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201205031926-ams111-21-jump-street-007.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,10 +50,10 @@ __Bel Ami__
 
 R-Patz decides to stick his schlong where it doesn’t belong, sleeping his way through the richest, most powerful married women in 1880s Paris, France. The three ladies who fall for his looks (Uma Thurman, Kristin Scott Thomas, Christina Ricci) fare better than Pattinson’s rather one-dimensional performance, but the film’s sensual ambiance almost makes up for the leading man’s lack of magnetic charisma.
 
-__Contraband__  
+__Contraband__
  Although retired from his life of illegal smuggling, family man Chris (Mark Wahlberg) is forced back into pulling one last job for his screw-up brother-in-law who ends up owing money to dangerous men. There are moments of genuine tension, but it’s more of a rehash of the same thing. Wahlberg doesn’t disappoint in an easy role, and he’s supported by the suitably insane Giovanni Ribisi as the villain.
 
-__Gone__  
+__Gone__
  The only thing worse than the wide-eyed and otherwise blank Amanda Seyfried going on a mad rampage to find her past kidnapper who has now abducted her sister, is that this thinly drawn psychological thriller makes very little sense. Add to that there is actually no moment of genuine tension due to so many absurd plot developments and silly characters. Most definitely one to avoid and ignore.
 
 __In Darkness__
@@ -72,7 +72,7 @@ __Salmon Fishing in the Yemen__
 
 Two of the most likable actors from Britain (Emily Blunt, Ewan McGregor) form a sweet and charming duo in this sugary sweet rom-com. What they get up to is dead predictable from its uninspired title, but Lasse Hallestrom’s latest is a highly enjoyable blend of drama and comedy, the latter thanks to the priceless Kristin Scott Thomas.
 
-__The Hunger Games__  
+__The Hunger Games__
  A thought-provoking, futuristic thriller that is superbly acted especially from the young members of its cast (Jennifer Lawrence, Josh Hutcherson), as two of 24 teenagers forced to fight to their deaths until there is one victor, whilst the whole world watches them for amusement. The powerful social commentary makes for an interesting watch, but just don’t expect a bloody American _Battle Royale_.
 
 __The Raven__

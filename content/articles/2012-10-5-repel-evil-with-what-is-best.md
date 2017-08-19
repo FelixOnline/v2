@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210051848-felix-amsa-advert-final.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - Excellent article which summarizes the recent events about the vile antiIslam movie I hope the lecture will delve into the allegations that are presented in the movie I plan to come to AMSA lecture and hopefully will learn a lot Many thanks for doing something like this We should work toward reconciliation and understanding rather than division and hatredVery enjoyable read Regardless of our loves and dislikes this is the way that people of intellect tolerance and culture should argue their point of view Through reasoned argument And well done to Felix for encouraging thoughtful debate  An amateur group of Islamic film makers have posted a video on YouTube which mocks Christianity and Jesus ChristIt is believed to be so offensive that St Peters church in Shrewsbury have postponed their tea and cake morning until next Wednesday and Dorothy Green from Margate has written in to Points of viewWhen will the madness end 
+ - Excellent article which summarizes the recent events about the vile antiIslam movie I hope the lecture will delve into the allegations that are presented in the movie I plan to come to AMSA lecture and hopefully will learn a lot Many thanks for doing something like this We should work toward reconciliation and understanding rather than division and hatredVery enjoyable read Regardless of our loves and dislikes this is the way that people of intellect tolerance and culture should argue their point of view Through reasoned argument And well done to Felix for encouraging thoughtful debate  An amateur group of Islamic film makers have posted a video on YouTube which mocks Christianity and Jesus ChristIt is believed to be so offensive that St Peters church in Shrewsbury have postponed their tea and cake morning until next Wednesday and Dorothy Green from Margate has written in to Points of viewWhen will the madness end
 imported: true
 ---
 

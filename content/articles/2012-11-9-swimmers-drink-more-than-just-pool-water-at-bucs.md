@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201211091431-tna08-bucs%202012-1.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,7 +50,7 @@ Scott, whilst modelling the tight blue speedos, put out a great performance in b
 
 Michael Ingram swam the dreaded 100 fly on Sunday morning whilst the majority of the team stayed in bed/had a cooked breakfast and Catherine similarly battled out in the 200m free setting a new IC record of 2.17.
 
-The relays were all swam at times veryclose to IC records with all 4 boys (Fraser, Scott, Niki and Michael) swimming 25’s in the 4\*50m free relay and the girls (Catherine, Hayley, Zelie and Caterina) qualifying for the final on Sunday evening. Morris Po set a new 50m backstroke record in the first leg of the boys medley relay in a time of 29.64. The girls ended the competition by finishing in 5th place in the freestyle relay after qualifying in 10th place.
+The relays were all swam at times veryclose to IC records with all 4 boys (Fraser, Scott, Niki and Michael) swimming 25’s in the 4*50m free relay and the girls (Catherine, Hayley, Zelie and Caterina) qualifying for the final on Sunday evening. Morris Po set a new 50m backstroke record in the first leg of the boys medley relay in a time of 29.64. The girls ended the competition by finishing in 5th place in the freestyle relay after qualifying in 10th place.
 
 There was not one disappointing swim all weekend, with everyone performing better than expected after only 5 weeks into training.
 

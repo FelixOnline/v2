@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-__Alt-J (∆)  
+__Alt-J (∆)
  An Awesome Wave__
 
 __Latest odds: 5/1__
@@ -45,7 +45,7 @@ __Mark England__
 
 ---
 
-__Field Music  
+__Field Music
  Plumb__
 
 __Latest odds: 10/1__
@@ -58,7 +58,7 @@ __Mark England__
 
 ---
 
-__Michael Kiwanuka  
+__Michael Kiwanuka
  Home Again__
 
 __Latest odds: 8/1__

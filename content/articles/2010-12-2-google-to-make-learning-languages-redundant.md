@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201012021954-nm1010-language.jpg"
 image_caption: >
-  
+
 image_width: "480"
 image_height: "640"
 image_attribution: ""

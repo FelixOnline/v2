@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201303072348-tna08-beit-final.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -47,12 +47,12 @@ The complaints procedure has also been changedfrom last year. This year, only co
 In the Initial Candidates Meeting the Returning Officer reminded everyone of the importance of good campaigning. He said: “This is an election not a selection”.
 
 As with every year, this year the election has already had something in the way of controversy. There is one candidate, Forhad Matin, who is standing for every single position available to him, although he has only submitted a manifesto for Union President, RCSU President and Chemsoc President, and he has not submitted a photo for any role.
-TODO: image from 
+TODO: image from
 One candidate for Union President, Christopher Kaye, had a complaint lodged against him because of the poster he used. The complaint was regarding the language used. The poster said his main manifesto points of selling cigarettes at the Union and putting a photo of the Queen behind the bar in smaller writing with “Fags at the Union”, “Queen at the Union”, and “Not a prat” in larger writing (see below). The message from the Returning Officers, which was a formal warning, stated: “Your poster… contains offensive language (“fags”, “prat” and, in this context, “queen”). The candidates’ pack and publicity policy clearly state that “all campaign material must not contain offensive language, contain implied offensive language, or be libelous in nature”.” It then said: “Please remove any physical and online publicity with this language immediately.” Chris Kaye rejected the complaint saying: “The language used is not offensive in context.” He said that “fag” was referencing cigarettes and that “Queen” referenced the Queen, saying “I am Chair of History Society and, in my opinion, the involvement of the Monarchy in the College’s history is very important. If I cannot refer to the ‘Queen’ then my ability to express myself is severely restricted”. He said that the word prat is “informal and not offensive according to [the] Cambridge Dictionary” He says he modified his posters, and that the Returning Officers never replied to him about his points in a way that he deemed satisfactory. He has since withdrawn from the election, giving his primary reason as the amount of work he has to do. He added: “I’m just dispondant with the whole thing, and don’t want things to turn as nasty as things did with Abdul last year.” When asked about the posters he said: “It might’ve been better had I been given the benefit of the doubt and allowed to keep my poster as it was, and let democracy run its course.” There were allegations that Kaye’s posters were being torn down, with a report from one of Felix’s Comment Editors that he saw someone rip down a poster, and that two posters disappeared within minutes of him walking past the same spot. Kaye later satirized the whole campaigning process with a Facebook group “Chris Kaye for finishing his computational labs”.
 
 For President, there are now three candidates left with manifestos and pictures, and one with a manifesto only. The other candidates did not submit a picture or manifesto.
 
-There was also a glitch in the system of the online manifestos. One candidate for Deputy President (Clubs & Societies) had a manifesto that was over 400 words long. This problem was fixed the next day.  
+There was also a glitch in the system of the online manifestos. One candidate for Deputy President (Clubs & Societies) had a manifesto that was over 400 words long. This problem was fixed the next day.
  As well as that, there have been the usual people posting in pre-existing groups. Plus several candidates wanted to edit manifestos as well as one candidate wanting to have their manifesto put up, as they missed the deadline. It was ruled that everyone had the same restrictions and that nobody can edit or put up manifestos now.
 
 The position of Deputy President (Education) has only two candidates facing off against RON, with one not submitting a photoor manifesto. The same goes for Deputy President (Finance & Services), with one candidate withdrawing.

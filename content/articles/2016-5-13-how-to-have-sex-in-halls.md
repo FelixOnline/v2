@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201605131059-felix-jurassicpark_fordsurveillance01.jpg"
 image_caption: >
-  
+
 image_width: "1681"
 image_height: "911"
 image_attribution: ""
@@ -42,15 +42,15 @@ Most roommates are pretty reasonable about giving you the room for a few hours, 
 
 **2. The inconsiderate**
 
-You could just go for it when your roommate is out. Most people, upon returning to their room and finding their roommate having sex, will back out and find something else to do for a little while, even if they are passive\-aggressively messaging the kitchen whatsapp group complaining about it. Unless you like being walked in on, pre\-agreeing a warning signal is key, even if it’s just a courtesy text or a sock on the doorknob. If you do like being walked in on, see tip number three.
+You could just go for it when your roommate is out. Most people, upon returning to their room and finding their roommate having sex, will back out and find something else to do for a little while, even if they are passive-aggressively messaging the kitchen whatsapp group complaining about it. Unless you like being walked in on, pre-agreeing a warning signal is key, even if it’s just a courtesy text or a sock on the doorknob. If you do like being walked in on, see tip number three.
 
 **3. The spontaneous**
 
-There are plenty of semi\-private spaces, both in halls and elsewhere on campus, that you can sneak off too and enjoy each other’s company. These vary from essentially private \(lockable rooms\) to risky \(empty common rooms in the middle of the night\), and in my experience, the acceptable level of risk is proportional to the level of horniness. A word of warning though, particularly in halls, more of the public spaces have CCTV than you’d expect, and security may well be watching you \(Beit laundry room, I’m looking at you\).
+There are plenty of semi-private spaces, both in halls and elsewhere on campus, that you can sneak off too and enjoy each other’s company. These vary from essentially private (lockable rooms) to risky (empty common rooms in the middle of the night), and in my experience, the acceptable level of risk is proportional to the level of horniness. A word of warning though, particularly in halls, more of the public spaces have CCTV than you’d expect, and security may well be watching you (Beit laundry room, I’m looking at you).
 
 **4. The borrower**
 
-If you have particularly liberal friends, you may find someone willing to lend you their single room if they, say, go away for the weekend. You may have to withstand some good\-natured ribbing, offer up bribes, Febreeze their room, and hopefully launder their sheets, but in exchange for that, you can enjoy getting nasty in private.
+If you have particularly liberal friends, you may find someone willing to lend you their single room if they, say, go away for the weekend. You may have to withstand some good-natured ribbing, offer up bribes, Febreeze their room, and hopefully launder their sheets, but in exchange for that, you can enjoy getting nasty in private.
 
 **5. The exhibitionist**
 

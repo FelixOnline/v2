@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201611181451-felix-man-461195_1280.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "856"
 image_attribution: ""
@@ -44,4 +44,4 @@ In humans, potential good gene indicators are facial masculinity and symmetry. T
 
 Beauty may even be in the health of the beholder. Women who have suffered from childhood illness have a stronger preference for more masculine male faces. This preference is even stronger in individuals with poorer current health.
 
-The ‘complementary genes hypothesis’ suggests that individuals will be most attracted to mates with maximally different immune systems. The major histocompatibility complex \(MHC\) is part of the immune system – MHC molecules bind to infectious pathogens, initiating an immune response. Partners with dissimilar MHCs will produce offspring with a diverse array of MHC molecules, providing defence against many different pathogens. Females are able to recognize the degree of dissimilarity of a potential partner’s MHC using odour. Women scent\-rated men’s t\-shirts as being more attractive if the wearer had a dissimilar MHC. Opposites really do attract.
+The ‘complementary genes hypothesis’ suggests that individuals will be most attracted to mates with maximally different immune systems. The major histocompatibility complex (MHC) is part of the immune system – MHC molecules bind to infectious pathogens, initiating an immune response. Partners with dissimilar MHCs will produce offspring with a diverse array of MHC molecules, providing defence against many different pathogens. Females are able to recognize the degree of dissimilarity of a potential partner’s MHC using odour. Women scent-rated men’s t-shirts as being more attractive if the wearer had a dissimilar MHC. Opposites really do attract.

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201203152219-pk1811-bowl.jpg"
 image_caption: >
-  
+
 image_width: "415"
 image_height: "285"
 image_attribution: "A team victorious"

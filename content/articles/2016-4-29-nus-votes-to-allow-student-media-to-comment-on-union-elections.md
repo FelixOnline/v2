@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201604291105-felix-makeicu.jpg"
 image_caption: >
-  
+
 image_width: "2472"
 image_height: "1786"
 image_attribution: "FELIX"
@@ -41,8 +41,8 @@ Most unions insist student newspapers only publish election material okayed by t
 
 Student journalists from Bath, who presented the paper to change NUS policy, are prevented by their union from commenting on current officer performances during the election period.
 
-Imperial College Union’s policy on FELIX states that elections must be “given extensive coverage” and in the run\-up to voting we print the sabbatical candidates’ manifestos.
+Imperial College Union’s policy on FELIX states that elections must be “given extensive coverage” and in the run-up to voting we print the sabbatical candidates’ manifestos.
 
-Despite not being in the the union by\-laws, the official FELIX policy or the election rules, any mention of one candidate during the election period must be accompanied by the names of every other candidate in the running for that position. If FELIX doesn’t do this or breaks this rule in any way, the candidate themselves \(rather than FELIX\) will be punished. This could mean a temporary campaign ban, a reduction in campaign budget or a withdrawal of the candidate from the elections.
+Despite not being in the the union by-laws, the official FELIX policy or the election rules, any mention of one candidate during the election period must be accompanied by the names of every other candidate in the running for that position. If FELIX doesn’t do this or breaks this rule in any way, the candidate themselves (rather than FELIX) will be punished. This could mean a temporary campaign ban, a reduction in campaign budget or a withdrawal of the candidate from the elections.
 
 Any kind of perceived endorsements within FELIX are banned, however, other sabbatical officers are free to endorse candidates on their own social media pages, as was seen during this year’s elections.

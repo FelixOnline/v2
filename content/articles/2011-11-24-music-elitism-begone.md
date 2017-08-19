@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: "http://on.fb.me/NUT015"
 author_website_title: ""
 
 comments:
- - HiI am one of the Music Editors and I thought I should address some of your commentsFirstly I acknowledge that the music we cover is almost exclusively underground and this is clearly a problem There are reasons for this bias1 Gig reviews are usually written for gigs that we can get press tickets to Because we are a small newspaper we arent able to get tickets to see more popular musicians and so only the more obscure artists get reviewed in Felix 2 For whatever reason the nongig articles we get sent by students are mainly about obscure albumsbands very rarely do we receive articles about mainstream music Therefore we necessarily print obscure articles As the Music section prints obscure articles we ostracise those with more mainstream tastes which means only those people who like underground music send us articles In other words we are stuck in a vicious cycle which entrenches obscurity in the sectionEvidently there is some annoyance amongst the student body about 
+ - HiI am one of the Music Editors and I thought I should address some of your commentsFirstly I acknowledge that the music we cover is almost exclusively underground and this is clearly a problem There are reasons for this bias1 Gig reviews are usually written for gigs that we can get press tickets to Because we are a small newspaper we arent able to get tickets to see more popular musicians and so only the more obscure artists get reviewed in Felix 2 For whatever reason the nongig articles we get sent by students are mainly about obscure albumsbands very rarely do we receive articles about mainstream music Therefore we necessarily print obscure articles As the Music section prints obscure articles we ostracise those with more mainstream tastes which means only those people who like underground music send us articles In other words we are stuck in a vicious cycle which entrenches obscurity in the sectionEvidently there is some annoyance amongst the student body about
 imported: true
 ---
 
@@ -42,7 +42,7 @@ At the risk of sounding old fashioned and out of the loop, I will admit that I h
 I didn’t buy that song because it was Christmas. It was, in fact, January. I bought it because I can honestly say that I am a Wham! fan and that song is a classic all year round. I am often told by a close friend to not mention the presence of Wham! in my music collection to new acquaintances in order to avoid the inevitable backing away, “Sorry… I have somewhere else to be…” scenario. But to tell the truth I often use it as a test. In my book, if you can’t accept my love of Wham! then you are not worth having as an acquaintance.
 
 I am no 80s freak. I don’t own a pair of leg warmers or have pictures of George Michael adorning my walls. But I do love a good melody and something that can make me dance: ‘[Club Tropicana](http://www.youtube.com/watch?v=WYX0sjP6Za8&ob=av3e)’ just does that for me.
-TODO: image from 
+TODO: image from
 I am not ashamed to say that since becoming a student over two years ago, I have been to see __LCD Soundsystem__, the __Jonas Brothers__, __Rufus Wainwright__ and __Brad Paisley__, amongst others. A mix for sure but something I feel like I should be able to write about without fear of reprisal.
 
 Be sure that this ‘lack of musical taste’ is not down to being uninterested in music. I will listen to anything and I can generally find something I like about it. In all honesty, I don’t listen ironically to any of the questionable things on my iPod; I really do just enjoy listening to them.

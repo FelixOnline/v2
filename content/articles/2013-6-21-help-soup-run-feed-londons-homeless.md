@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306210159-tna08-pepper-soup.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -45,7 +45,7 @@ If you handed a surplus, slightly squashed sandwich as dinner to most people, th
 
 It’s not all that rosy though. Understandably, the people who use the runs become upset when we run out of food, which is an all too common occurrence. For many of them, a small sliver of cake from PAUL’s South Kensington bakery would probably be the nicest thing they’d get to eat all week.
 
-Sadly PAUL, for some undisclosed and confusing reason, stopped supplying the run with food, leaving it struggling. PAUL’s surplus food went a long way to making sure that everyone got at least some carbohydrates to make it through the freezing winter nights on the streets of Holborn. Without this essential supplier, Soup Run must simply hope that they see how important their contribution is and once again begin donating their unsold food whilst attempting other desperate means of procurement.  
+Sadly PAUL, for some undisclosed and confusing reason, stopped supplying the run with food, leaving it struggling. PAUL’s surplus food went a long way to making sure that everyone got at least some carbohydrates to make it through the freezing winter nights on the streets of Holborn. Without this essential supplier, Soup Run must simply hope that they see how important their contribution is and once again begin donating their unsold food whilst attempting other desperate means of procurement.
  This, coupled with the recent (defeated) proposal by some management group representatives at the last meeting of the Clubs and Societies Board to cut the Soup Run funding to zero was deeply worrying. The committee remain concerned about how they will be able to fund the project, and procure the necessary amount of food. The hope is that in the final week of term, students will be able to donate their unused food to the project and perhaps be encouraged to volunteer over the summer if they are around, or over the course of the next year; giving the club the support that it needs.
 
 It does seem a shame that the future of a club that contributes so much to the local community should have to worry about its most basic funding and supplies, given that it helps those in society who are amongst the most vulnerable and open to exploitation. My only hope is that by raising awareness of the work that the Soup Run does, we will be able to secure a comfortable future for the society and the people we help.

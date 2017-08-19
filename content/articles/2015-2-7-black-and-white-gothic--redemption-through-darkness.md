@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201502071932-ps3110-nnn-a.jpg"
 image_caption: >
-  Charles Stewart, Uncle Silas: Frontispiece, 1947. 
+  Charles Stewart, Uncle Silas: Frontispiece, 1947.
 image_width: "0"
 image_height: "0"
 image_attribution: "Royal Academy of Arts"

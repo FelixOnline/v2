@@ -1,6 +1,6 @@
 ---
 title: >
-  E3 Nintendo: Focus on the old 
+  E3 Nintendo: Focus on the old
 subtitle: >
   Last up we have Nintendo and like last year they’re opting for a “Digital event” instead a press conference like the other big two.
 date: "2014-06-11 21:43:39 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406112243-me1711-games_e3nintendo.jpeg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

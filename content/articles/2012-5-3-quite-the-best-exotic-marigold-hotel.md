@@ -36,8 +36,8 @@ imported: true
 
 [The Best Exotic Marigold Hotel](http://www.imdb.com/title/tt1412386/)
 
-__Director__ John Madden  
-__Screenwriters __Ol Parker, Deborah Moggach (novel)  
+__Director__ John Madden
+__Screenwriters __Ol Parker, Deborah Moggach (novel)
 __Cast__ Bill Nighy, Judi Dench, Maggie Smith, Dev Patel, Tom Wilkinson, Penelope Wilton, Celia Imrie, Ronal Pickup
 
 John Madden’s uplifting dramatic comedy offers a perfect blend of laughter, tears and depth. The film, based on a novel by Deborah Moggach, follows a group of British retirees including Judi Dench, Bill Nighy, Maggie Smith and many more British talents, in search of a place to outsource their retirement. Each of them look no further than a glistening advertisement for a retiree resort entitled ‘The Best Exotic Marigold Hotel’, in Jaipur, India, for the ‘elderly and beautiful.’ However, upon arrival, the retirees soon realise that the hotel is not quite how it was portrayed on the advert, but rather an old dusty building with major renovation work needed.

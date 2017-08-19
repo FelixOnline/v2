@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101272001-nm1010-jurassic.jpg"
 image_caption: >
-  
+
 image_width: "453"
 image_height: "338"
 image_attribution: ""

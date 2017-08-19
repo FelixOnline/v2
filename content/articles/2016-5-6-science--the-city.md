@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -41,4 +41,4 @@ We’ve used the skies to navigate lands and seas, to determine the earth is rou
 
 For the past few centuries, the development of science and technology has accelerated our understanding of the vast unknown universe, its complex laws and infinite horizons. With the abundance of technology in our lives we may take it for granted, but landing a man on the moon was no easy feat in the 1960’s. So why haven’t we gone back? We answered the call of the sea and promise of distant lands, so why have we run back to safety from when we dipped our toes in the cold shores of the cosmic ocean? We’ve made and sent objects into space that have now passed the edge of our solar system – 12 billion miles away, but human exploration has been limited. Certainly there are massive challenges to overcome in advancing our technological capacity.
 
-The greatest challenge of all however, is money. In a world where money is wasted for violent objectives and polluting the delicate ecosystems of our planet; exercising our vast intellectual capacity, with the potential to answer the deep human drive for exploration is largely ignored. In the US alone, the 2011 military budget was almost $200 billion USD higher than the entire NASA budget over 53 years from 1958\-2011. It’s disappointing that we are not pressuring our governments to increase funding for this kind of awe\-inspiring research, to help us understand more and more clearly our place amongst the beautiful and mysterious bodies of the cosmos.
+The greatest challenge of all however, is money. In a world where money is wasted for violent objectives and polluting the delicate ecosystems of our planet; exercising our vast intellectual capacity, with the potential to answer the deep human drive for exploration is largely ignored. In the US alone, the 2011 military budget was almost $200 billion USD higher than the entire NASA budget over 53 years from 1958-2011. It’s disappointing that we are not pressuring our governments to increase funding for this kind of awe-inspiring research, to help us understand more and more clearly our place amongst the beautiful and mysterious bodies of the cosmos.

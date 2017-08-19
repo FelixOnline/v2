@@ -1,6 +1,6 @@
 ---
 title: >
-  Billie Piper and Dr. James 
+  Billie Piper and Dr. James
 subtitle: >
   Science and art collide in a no-holds barred battle for the ages
 date: "2013-01-24 23:07:25 +0000"
@@ -54,7 +54,7 @@ After building up such a strongly positive opinion of her, digesting her controv
 
 To her, depression is not a disease. Mildly depressed people have a more realistic view of the world, and are only affected because they are freed of the delusions which keep healthy individuals happy. Drugs cannot treat depression because the underlying “chemical imbalance” causing it has not been elucidated. The general public is not sufficiently educated on what little understanding has been gleaned from research. Drug companies exploit the relative ignorance of sufferers by offering drugs which inevitably cannot treat their depression. The idea of administering drugs for depression is as ridiculous to Dr James as the notion of the four humours.
 
-It was controversial because these were the opinions of a “professional”, which led to the audience pondering over how relevant they are to the thoughts of actual professionals on the same topic.  
+It was controversial because these were the opinions of a “professional”, which led to the audience pondering over how relevant they are to the thoughts of actual professionals on the same topic.
  It is interesting to note that such an opinion, and many other aspects of the play are a freeze frame on the current attitudes, social and medical, towards depression. More than most contemporary plays, The Effect highlights a topic of great significance to our society today. By exploring depression, Prebble explores its reflection of society. Whereas in a lot of contemporary writing the present is conveyed via the past, or modern societal values are explored in very obvious ways, Prebble’s The Effect is definitely something unique.
 
 It was disappointing that the love aspect of the storyline did not seem to be as carefully considered. It was only a matter of days before the lead characters “fell in love”, which seemed a little too Hollywood. Although I had no qualms with the idea that such characters felt strong infatuation, their process of falling in love was incredibly unbelievable and annoyingly unoriginal.

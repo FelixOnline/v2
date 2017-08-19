@@ -2,7 +2,7 @@
 title: >
   From London to Les Arcs
 subtitle: >
-  Caffeine addiction, bizarre haircuts and onesies. Snowsports report on their biggest ski trip in recent memory 
+  Caffeine addiction, bizarre haircuts and onesies. Snowsports report on their biggest ski trip in recent memory
 date: "2012-01-12 23:02:34 +0000"
 id: "1997"
 old_path: /sport/1997/from-london-to-les-arcs
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201122301-felix-rory-dub-sequence.jpg"
 image_caption: >
-  
+
 image_width: "4272"
 image_height: "2848"
 image_attribution: "Simon Federer"
@@ -46,7 +46,7 @@ Snow is something that is not only to be enjoyed during the day, the evenings of
 > The consumption of an entire cup of cheese could earn you two euros
 The mountain meal – for Retro Ski Day – brought out 80s onesies in force. Much cheese was eaten and much wine drunk in a restaurant on the slopes. Despite the long wait at the beginning all were well fed enough to start some table dancing and conga fun! For those looking to earn some extra pocket money, the consumption of an entire cup of cheese could earn you two euros. Sadly, the challenge might have left you feeling a bit funny. With night fallen and dinner and dancing over, it was time to find those skis or that pesky snowboard in the dark and descend down the green run home. By this stage those beginners were skiing like pros and everyone made it down safely!
 
-With the week coming to a close, it was sad to say goodbye – to new found love, to new friends and old, and most of all to the unique beauty that is a university ski trip. We boarded the coaches exhausted, but in equally high spirits knowing that the mountains had blessed us with an incredible trip.  
+With the week coming to a close, it was sad to say goodbye – to new found love, to new friends and old, and most of all to the unique beauty that is a university ski trip. We boarded the coaches exhausted, but in equally high spirits knowing that the mountains had blessed us with an incredible trip.
  A big thank you is needed to Vlad, our trip organiser who worked tirelessly on putting this trip together. If you see him, give him a high five! Also a thank you to travel company Wasteland Ski for helping us through it. London did Les Arcs and we did it well.
 
 If you are feeling like you missed out there’s the Easter trip next (2000+ UK university students in one resort – with competitions all week if you want another sensational holiday). Next year’s winter trip should be just as big and so don’t leave it to the last minute to book! Any questions – email us at [ski@ic.ac.uk](mailto:ski@ic.ac.uk?subject=Ski%20Question). As always, Snow Love!

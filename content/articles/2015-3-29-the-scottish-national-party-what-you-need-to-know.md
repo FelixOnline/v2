@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -53,7 +53,7 @@ In 2010 the Lib Dems had enough seats to create a shared majority government wit
 
 
 
-Labour and the SNP combined could possibly win enough seats for a slim majority in the House  
+Labour and the SNP combined could possibly win enough seats for a slim majority in the House
  of Commons, but politicians on both sides have always said there is virtually no prospect of a coalition, mainly because it would not further the interests of either party.
 
 Sturgeon explained that although she couldn’t imagine a coalition between the two centre-left parties, she could envision a Labour minority government that deals with the SNP on a vote-by-vote basis to get things passed through the House of Commons. This ‘confidence and supply’ alternative would allow Labour to pass vital actions such as the budget without having to concede ministerial posts to the Scottish nationalists.
@@ -66,7 +66,7 @@ A Labour-SNP-Lib Dem three party coalition would be almost guaranteed to get the
 
 The SNP was founded in 1934 during the merger of the National Party of Scotland and the Scottish Party. They have gained support in Scotland over the last few decades and finally came to power on a wave of anti-establishment, anti-austerity politics.
 
-One of the most talked about, and potentially problematic, demands of the Scottish Nationals is for  
+One of the most talked about, and potentially problematic, demands of the Scottish Nationals is for
  the unilateral disarmament of the UK’s nuclear weapons programme, Trident. More generally though, as a socially democratic centre-left party the SNP want more progressive personal taxation, free higher education, an increase in the minimum wage, heavily reduced cuts to public services, voting from the age of 16 and, most notably, Scottish independence. At the very least in this parliament the SNP might accept further devolution of powers to Holyrood, as is currently going on.
 
 SNP Leader and First Minister of Scotland Nicola Sturgeon took the helm as Alex Salmond’s successor after his swift resignation following defeat in the Scottish independence referendum, when Scots voted to stay in the UK 55:45. Sturgeon has said in interviews that she will not rule out the possibility of holding another referendum for the break up of the UK, the prospects for which look less attractive for Scotland than they did last September due to the recent drop in oil prices. Scotland’s success as an independent country is closely tied to how much revenue could be created from their oil reserves – the amount of which is not precisely known, and this fall in prices would spell disaster for government expenditure plans.
@@ -75,5 +75,5 @@ SNP Leader and First Minister of Scotland Nicola Sturgeon took the helm as Alex 
 
 The take home message here is that if Labour is the biggest loser after the election, a minority government backed by the SNP is looking far more plausible than an actual coalition. Scottish nationalists are going to be a powerful and controversial force in Westminster and will complicate the already difficult situation further. We have had minority governments before, but the next administration is set to be one of the least stable in our history.
 
-Your vote on 7th of May really matters; please do not waste the opportunity to voice your opinion  
+Your vote on 7th of May really matters; please do not waste the opportunity to voice your opinion
  at the ballot box. Uncertain yet interesting times are ahead in British politics. Good news for journalists, bad news for the rest of us.

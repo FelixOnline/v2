@@ -2,7 +2,7 @@
 title: >
   Imperial Alumni in Politics: Layla Moran
 subtitle: >
-  Plabon Saha interviews the Liberal Democrat parliamentary candidate for Oxford West and Abingdon 
+  Plabon Saha interviews the Liberal Democrat parliamentary candidate for Oxford West and Abingdon
 date: "2015-04-01 17:01:05 +0100"
 id: "5460"
 old_path: /politics/5460/imperial-alumni-in-politics-layla-moran
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201504011801-ps3110-screen-shot-2015-04-01-at-18.00.28.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

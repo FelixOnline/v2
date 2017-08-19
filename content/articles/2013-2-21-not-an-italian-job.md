@@ -2,7 +2,7 @@
 title: >
   Not an Italian job
 subtitle: >
-  A look into an exhibition on the Renaissance and its origins 
+  A look into an exhibition on the Renaissance and its origins
 date: "2013-02-21 20:52:49 +0000"
 id: "3343"
 old_path: /arts/3343/not-an-italian-job
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302220228-tna08-405786_256248_ori_0_0.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

@@ -36,7 +36,7 @@ imported: true
 
 By now, I’m sure you’ve heard a lot about Raincatcher’s aims. But how much of the technology behind our systems do you know about?
 
-In order to support our aim of providing clean, sustainable supplies of water to people who currently cannot access it, Raincatcher sends a team to Tanzania every year to build rainwater harvesting systems.  
+In order to support our aim of providing clean, sustainable supplies of water to people who currently cannot access it, Raincatcher sends a team to Tanzania every year to build rainwater harvesting systems.
  As with many equatorial countries, Tanzania’s climate fluctuates between extremes year round; during the wet season, there is plenty of rain providing sufficient supplies of water, but during the dry season, water resources become scarce. Our rainwater harvesting systems are built so that water can be collected in the wet season, usually from buildings with large roofs like schools and churches. The water is then sent by gutters to a vast tank for storage until it is needed. Typically, the tanks can hold a few hundred thousand litres of water. This year, our aim is to build two 100,000L tanks for two schools in the village of Igunga.
 
 However, there are some important points to consider when building a water tank on this scale. The initial concern is the size. The standard concrete tanks that Raincatcher uses can only hold a maximum of 150,000L of water above ground; any more water and the pressure inside will rupture the structure. In the past, Raincatcher teams have built tanks which can hold 250,000 litres of water underground, which had the advantage of being able to balance the pressure.

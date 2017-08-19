@@ -43,5 +43,5 @@ The exhibit is well-structured, the onlooker is guided firstly through the most 
 
 The highlights of this exhibition are the fact that it caters for a wide range of tastes, since as we move on more modern artwork is on display. A particularly disturbing piece, The Cry Of The Gland by Jitish Kallat, greatly contrast with the pre-Raphaelite gouache is it sided by; hence, there is no time for boredom or repetitiveness on this show. Another reason for the success of the exhibit is the insight it provides into how watercolours are actually used. There is a room in which the technical advancements of the technique are displayed chronologically as well as explanations of a few techniques with paintings to exemplify them. This room helps bridge the final product we admire to the obscure workings of the artist. Experiencing the challenge of creating an art piece yourself, in spite of all the dishonoured role of the amateur, can be a fulfilling task which definitely helps to better understand art.
 
-‘[Watercolour](http://www.tate.org.uk/britain/exhibitions/watercolour/default.shtm)’ at Tate Britain until 21 August.  
+‘[Watercolour](http://www.tate.org.uk/britain/exhibitions/watercolour/default.shtm)’ at Tate Britain until 21 August.
  £10.90 with student card

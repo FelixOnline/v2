@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201011252028-nm1010-HummusBR.jpg"
 image_caption: >
-  
+
 image_width: "240"
 image_height: "320"
 image_attribution: ""

@@ -38,11 +38,11 @@ This will be my final article for FELIX, as, after nearly nine years, my time ha
 
 FELIX has given me much, though I never figured out at which point of the cycle you have to put the softener in, and it has afforded me space for some rambling articles that wouldn’t be out of place on an unread hipster blog, but which thanks to FELIX allow me to add “amateur journalist/writer” to my CV and keep a straight face.
 
-It has given me so much that perhaps I can try to give something back; maybe I can pass my wisdom to the next generation on one of the skills I have found most useful during my time here: DJ\-hood.
+It has given me so much that perhaps I can try to give something back; maybe I can pass my wisdom to the next generation on one of the skills I have found most useful during my time here: DJ-hood.
 
 Let’s say you’re at a party, or in the laboratory, or in some other location where Spotify or an iPod has been hooked up and music is being played. Sure, you could let that playlist go on until it gets to those bands with more glockenspiels than followers, but isn’t it better to stand next to a computer all night, trying to come up with a new song every three minutes?
 
-Your first instinct might be to put on music that you like, and if you’re like many people at Imperial you might want to put some metal on. Here’s my first tip: never put any kind of metal on. No Maiden, no Metallica, no Priest. It’s long and riff\-heavy and screamy and generally not good for casual gatherings of people – unless it’s specifically metal fans, in which case metal will already be on. Good job, go back to drinking.
+Your first instinct might be to put on music that you like, and if you’re like many people at Imperial you might want to put some metal on. Here’s my first tip: never put any kind of metal on. No Maiden, no Metallica, no Priest. It’s long and riff-heavy and screamy and generally not good for casual gatherings of people – unless it’s specifically metal fans, in which case metal will already be on. Good job, go back to drinking.
 
 The same usually goes for techno, dance and electronic music. In most contexts, it won’t be any good unless people are drunk and dancing, in which case anything with a strong, fast, repetitive bassline will do. The Prodigy tends to be appropriate in these circumstances, as a lot of people will recognise their songs even if they are not especially familiar with them.
 

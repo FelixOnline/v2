@@ -2,7 +2,7 @@
 title: >
   Everyone loves a bit of D... PW
 subtitle: >
-  Chris Kaye, Deputy President (Welfare), Eastside enthusiast and proud owner of a giant portrait of the Queen talks to Felix about his plans for next year, his day to day activity and whether or not he really thinks his role should be abolished... 
+  Chris Kaye, Deputy President (Welfare), Eastside enthusiast and proud owner of a giant portrait of the Queen talks to Felix about his plans for next year, his day to day activity and whether or not he really thinks his role should be abolished...
 date: "2014-11-10 22:42:39 +0000"
 id: "4846"
 old_path: /features/4846/everyone-loves-a-bit-of-d-pw
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201411102242-ps3110-img-20141022-wa0000.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

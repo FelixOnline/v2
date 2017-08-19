@@ -1,6 +1,6 @@
 ---
 title: >
-  Seek knowledge and be the judge 
+  Seek knowledge and be the judge
 subtitle: >
   IC Islamic Society presents a week of events inviting you to discover Islam
 date: "2012-02-23 21:45:35 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202232142-ams111-4x6postcard_back.jpg"
 image_caption: >
-  
+
 image_width: "1804"
 image_height: "1204"
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - LOL thanks for putting this in the news section matt  
+ - LOL thanks for putting this in the news section matt
 imported: true
 ---
 

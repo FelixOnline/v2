@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Still cant believe the cheek you dont ask for walkoversHope you smash themWe did smash them 
+ - Still cant believe the cheek you dont ask for walkoversHope you smash themWe did smash them
 imported: true
 ---
 

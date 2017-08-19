@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201302072300-tna08-cupcakes.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -34,7 +34,7 @@ comments:
 imported: true
 ---
 
-These divine cupcakes are perfect for the occasion, whether you are celebrating or not!  
+These divine cupcakes are perfect for the occasion, whether you are celebrating or not!
  And guess what? You can make them yourself. They are extremely easy and taste just as good as they look. You will definitely impress...
 ## Ingredients:
 (Makes 12)
@@ -89,7 +89,7 @@ Pour themixture in the cupcake cases so that they are 2/3 full. Bake for 18 to 2
 
 Leave the cupcakes to cool for 1 hour. Once they are cool spread marmalade on top, creating a circle leaving 1cm from the edges. Place the cupcakes in the fridge.
 
-To make the mousse, place the tofu, milk and maple syrup in a blender. Blend until it is completely smooth. You might need to use a spatula to stir and make sure that it is completely smooth.  
+To make the mousse, place the tofu, milk and maple syrup in a blender. Blend until it is completely smooth. You might need to use a spatula to stir and make sure that it is completely smooth.
  Make a double boiler by putting water in a large pot and then placing a small pot on top so that the water covers 1/2 the height of the small pot. Bring to boil, turn the heat off and put the chocolate cut in small pieces in the small pot. Stir until it has completely melted. Leave the melted chocolate to cool for 5 minutes and then add it to the blender. Again, blend until everything is completely combined. Put the mousse in the fridge for 1 hour.
 
 Using a piping bag decorate the cupcakes with the mousse and place a slice of fresh strawberry and some blueberries on top. Enjoy!

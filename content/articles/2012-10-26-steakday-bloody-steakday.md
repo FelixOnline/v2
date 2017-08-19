@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201210260348-tna08-grilled-steak.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -50,12 +50,12 @@ This is where cooking technique starts to fall into two distinct camps. Some say
 
 Now, the part where things commonly go tits-up: done-ness. Judging by the fact that steak thickness/pans/types will vary, we feel it’s quite hit and miss to give you times – a 2cm-thick sirloin needs a different cooking timecompared to a 3cm-thick rib eye. There’s no need to cut into it and risk ruining your steak though – we suggest either the touch test (takes a while to get the hang of, even for chefs), or go all Imperial-geek-style and use a food probe to check internal temperature.
 
-The guidelines are as follows:  
-_Bleu (45-49°C): Soft and squishy – you’ll probably get some blood on your hands after touching it. A vampire would be proud.  
- Rare (49-52°C): Soft to the touch.  
- Medium rare (52-64°C): Yields gently when touched. We’re impartial to having our steaks done this way.  
- Medium (57-60°C): Starts to firm up but still yields slightly.  
- Medium well (60-65°C): Feels firm.  
+The guidelines are as follows:
+_Bleu (45-49°C): Soft and squishy – you’ll probably get some blood on your hands after touching it. A vampire would be proud.
+ Rare (49-52°C): Soft to the touch.
+ Medium rare (52-64°C): Yields gently when touched. We’re impartial to having our steaks done this way.
+ Medium (57-60°C): Starts to firm up but still yields slightly.
+ Medium well (60-65°C): Feels firm.
  Well done (>65°C): Hard to touch – dare we say “like a rock”? Also known as a bloody waste of good meat._
 
 When you’re done, take the steak out of the pan and set it aside to rest – residual heat means it’ll carry on cooking for a little bit, and it’s important that you let it rest for around 5 minutes so that the meat has a chance to reabsorb its juices. If you cut it fresh out of the pan you’ll leak said juices and end up eating thick leather.

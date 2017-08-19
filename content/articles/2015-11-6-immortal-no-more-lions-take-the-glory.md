@@ -2,7 +2,7 @@
 title: >
   Immortal no more: Lions take the glory
 subtitle: >
-  Immortals lacked fresh faces on the field and were unable to make big differences in the second quarter 
+  Immortals lacked fresh faces on the field and were unable to make big differences in the second quarter
 date: "2015-11-06 14:24:47 +0000"
 id: "5714"
 old_path: /sport/5714/immortal-no-more-lions-take-the-glory
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""

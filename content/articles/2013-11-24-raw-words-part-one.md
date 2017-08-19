@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -34,11 +34,11 @@ comments:
 imported: true
 ---
 
-“As you go through life Shane, remember one thing. There’s a price to pay for everything.”  
+“As you go through life Shane, remember one thing. There’s a price to pay for everything.”
  The words of Aodhán Madine, my father, once spoken flippantly, now touch a raw nerve. Time has passed and they’re like daggers, sharpened by the whetstone of the crash.
 
-We were happy back then. Through the untarnished eyes of infancy my family’s fortunes seemed promising. Glimpses of things to come were bathed in the deep tones of Dad’s voice, like stars in the ether.  
- \*\*\*  
+We were happy back then. Through the untarnished eyes of infancy my family’s fortunes seemed promising. Glimpses of things to come were bathed in the deep tones of Dad’s voice, like stars in the ether.
+ ***
  January ‘94 was my fifth birthday. I remember it vividly. Dad had taken my elder brother Joe and I out for a drive. Perched beside him in his clapped out Ford Transit we gazed out at the barren building site. I’ll never forget his smile as he pulled up by the curb. It was one of unadulterated relief, stretching from ear to ear.
 
 “Your Dad’s building twenty houses here. It’ll keep dinner on the table for the next while”, said Dad.
@@ -47,8 +47,8 @@ He put the van in gear and pulled away while Joe and I fell back into childish n
 
 Back then the Madine household was lively. We moved after Dad’s building firm took off. ‘A. M. Construction’ was gathering strength. He was never out of that van. Joe and I would ask over the breakfast table, “Where are you building houses today, Da?” He’d reply, “Lucan, boys” or, “Sandymount, lads”. He had signs up all over Dublin with embossed letters that read: “A. M. Construction – Getting the Job Done”. Mammy used to tell us that he was off to build a cage for the Celtic Tiger.
 
-I find it haunting that some of those signs still hang in tatters, nineteen years later.  
- \*\*\*  
+I find it haunting that some of those signs still hang in tatters, nineteen years later.
+ ***
  We arrived home. Heaving me up onto his shoulders, he ran up the driveway and through the open front door, with Joe giving chase. The house was peppered with boxes crammed with our things, like parcelled promises of life to come. We moved through to the kitchen. A horde was gathered around the table.
 
 “There’s Sarah”, said Dad, kissing my mother on the cheek. Granda Michael was there with outstretched arms to receive Joe and I. Dan Harrington, Dad’s business partner, looked on with a smile, as did Mickey Bishop, his best friend. His billowing black moustache gleamed in the half-light. Joe and I were mesmerised by my birthday cake with its five flickering candles standing proud and tall.
@@ -63,8 +63,8 @@ For a fleeting instant I caught Granda’s eye. They were moist with tears as he
 
 Mammy turned and saw me. She carried me upstairs and had me ready for bed in an instant.
 
-I loved my room. My bed was in the corner beneath a skylight embedded in the ceiling. The stars glistened in the deep blue azure of night. Sleep enveloped me. My eyes began to flicker as I stared into this hypnotic tapestry. One of my closing thoughts was of how the stars, like majestic sentinels, watched over all the children of Ireland… and I thought of how the phosphorescence of Granda’s tears looked just like those stars. They appeared as one and the same thing, curators of hope and of dreams.  
- \*\*\*  
+I loved my room. My bed was in the corner beneath a skylight embedded in the ceiling. The stars glistened in the deep blue azure of night. Sleep enveloped me. My eyes began to flicker as I stared into this hypnotic tapestry. One of my closing thoughts was of how the stars, like majestic sentinels, watched over all the children of Ireland… and I thought of how the phosphorescence of Granda’s tears looked just like those stars. They appeared as one and the same thing, curators of hope and of dreams.
+ ***
  The years wore on. Each cycle of the calendar saw the promise of the last dwarfed by that of the next. Ireland’s destiny became enmeshed with the prosperity of the times, woven into a single fabric that we hoped had no end.
 
 Houses, roads and bridges flashed into existence as the country was enveloped in an economic mirage. Dad’s work went with this rushing tide. During those years the house was in an eternal state of flux. Workmen came and went, trailing a veil of dust in their wake as rhythmically as day and night.
@@ -87,8 +87,8 @@ His animated voice later drifted up the stairs. Mammy reproached him for losing 
 
 He fell quiet. Mammy broke the silence, “Aodhán, he’s only a child...” Dad cut in. “I hope he learns one thing. In this day and age ask no questions. You go forward or you fail.”
 
-As I rolled over in bed I willed sleep to come. You go forward or you fail. His words seemed defamatory back then. Jesus, if he knew what was coming…  
- \*\*\*  
+As I rolled over in bed I willed sleep to come. You go forward or you fail. His words seemed defamatory back then. Jesus, if he knew what was coming…
+ ***
  Joe and I were always close. We loved cars. Joe would idle away the weekends staring vacantly at Dad’s BMW. With his legs tucked under him he’d crawl beneath its aggressive bulk, combing every inch of its garrulous opulence. Dad used to humour him and say, “She’s worth every one of the thirty thousand invested in her, Joe.”
 
 Whenever he mentioned money I’d lose interest, as though by linking the car to reality its magic was dispersed. At this juncture I’d jump on my bike and cycle around town, often passing through one of Dad’s building sites as the lifeless shells of innumerable houses merged and blurred. With my heart booming I’d return and collapse on the front lawn, taking pride in my exertion. I never touched the brakes. One afternoon Dad forced a helmet on me. “There’s a price to pay for everything”, he said knowingly, staring me down.

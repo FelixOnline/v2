@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201010282052-ks607-Spannerm.jpg"
 image_caption: >
-  
+
 image_width: "4000"
 image_height: "3000"
 image_attribution: ""

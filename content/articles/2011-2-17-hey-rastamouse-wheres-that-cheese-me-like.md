@@ -2,7 +2,7 @@
 title: >
   Hey, Rastamouse, where's that cheese me like?
 subtitle: >
-  Welcome to the TV-obsessed world of James Simpson 
+  Welcome to the TV-obsessed world of James Simpson
 date: "2011-02-17 20:31:32 +0000"
 id: "845"
 old_path: /tv/845/hey-rastamouse-wheres-that-cheese-me-like
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102172029-nm1010-rastamou.jpg"
 image_caption: >
-  
+
 image_width: "1280"
 image_height: "720"
 image_attribution: ""

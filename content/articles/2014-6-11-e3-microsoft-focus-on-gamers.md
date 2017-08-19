@@ -2,7 +2,7 @@
 title: >
   E3 Microsoft: Focus on Gamers
 subtitle: >
-  It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft. 
+  It’s June, terms almost over and that can only mean one thing! Yes it’s E3 and it’s time for some of the worst, most awkward press conferences you’ll see all year. As always we begin with Microsoft.
 date: "2014-06-11 21:40:19 +0100"
 id: "4671"
 old_path: /games/4671/e3-microsoft-focus-on-gamers
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201406112239-me1711-games_e3ms.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

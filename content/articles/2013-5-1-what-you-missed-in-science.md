@@ -1,6 +1,6 @@
 ---
 title: >
-  What you missed in Science 
+  What you missed in Science
 subtitle: >
   Felix Science recaps what went on in the world outside revision and the library. Just to annoy you, we've not gone for the non-alphabetical order of the names.
 date: "2013-05-01 19:11:16 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305012002-tna08-mars-rover-penis.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""

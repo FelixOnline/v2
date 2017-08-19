@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Scientists may not be perfect but they should definitely know the difference between what is animal cruelty and what is not If the concept of being humane to lab animals is beyond them then they shouldnt be in the profession theyre in Its inexcusable End of 
+ - Scientists may not be perfect but they should definitely know the difference between what is animal cruelty and what is not If the concept of being humane to lab animals is beyond them then they shouldnt be in the profession theyre in Its inexcusable End of
 imported: true
 ---
 

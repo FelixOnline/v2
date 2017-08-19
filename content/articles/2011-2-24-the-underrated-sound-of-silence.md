@@ -1,6 +1,6 @@
 ---
 title: >
-  The underrated sound of silence 
+  The underrated sound of silence
 subtitle: >
   In this edition of Priya Garg’s tales, we find her off the track in Argentina’s answer to the Lake District, uncovering hidden beauties and inner tranquillity
 date: "2011-02-24 19:20:30 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201102241916-nm1010-mountain.jpg"
 image_caption: >
-  
+
 image_width: "720"
 image_height: "540"
 image_attribution: ""

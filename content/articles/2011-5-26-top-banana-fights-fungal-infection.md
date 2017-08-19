@@ -1,6 +1,6 @@
 ---
 title: >
-  Top banana fights fungal infection 
+  Top banana fights fungal infection
 subtitle: >
   A new strain of banana shows immunity against black sigatoga disease
 date: "2011-05-26 19:13:15 +0100"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201105262011-felix-banana-split-har-dee-har.jpg"
 image_caption: >
-  
+
 image_width: "600"
 image_height: "551"
 image_attribution: ""

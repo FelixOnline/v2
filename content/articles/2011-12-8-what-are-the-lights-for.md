@@ -46,9 +46,9 @@ Imagine Macbeth going up into his Attic to find his Author. Where would Macbeth 
 
 I think that changes things, that sheds some real light, not just on Christmas, but on where all our lives are heading. But you know what I love more than a good present? The person who gives it. God has come to earth so that we can really know him; the bible even says that when we accept his gift we are adopted into his family and become his children. I think it’s time to really get to know the God that gives us the ultimate gift, to catch up with He who has broken into history. That is what I shall be thinking about as I look up to those lights strung across London; as I give and receive gifts and as I catch up with my family back home. The last verse of the carol Once in Royal David’s City sums it up perfectly:
 
-_And our eyes at last shall see Him,  
- Through His own redeeming love;  
- For that Child so dear and gentle,  
- Is our Lord in heaven above:  
- And He leads His children on,  
+_And our eyes at last shall see Him,
+ Through His own redeeming love;
+ For that Child so dear and gentle,
+ Is our Lord in heaven above:
+ And He leads His children on,
  To the place where He is gone._

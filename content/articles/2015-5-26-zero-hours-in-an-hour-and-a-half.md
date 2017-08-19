@@ -56,5 +56,5 @@ All this is sold by the acting. The cast were involved in devising the piece, an
 > "It's impossible to look away, even when you desperately want to."
 This is gut-wrenching stuff, and even though it’s so seemingly mundance on the face of it – wages, hours, illness – it matters so much to the characters, just as it matters so much to so many people in this country, in this moment, that it can’t help but grip you. It’s impossible to look away, even when you desperately want to, even when you need to. These people can’t escape their situation. Why should you be able to?
 
-_Beyond Caring was at the Temporary Theatre (National Theatre) until 23rd May.  
+_Beyond Caring was at the Temporary Theatre (National Theatre) until 23rd May.
 _

@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305091239-tna08-newdean.jpeg"
 image_caption: >
-  Professor G. ‘Anand’ Anandalingam 
+  Professor G. ‘Anand’ Anandalingam
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -46,7 +46,7 @@ In an interview with Imperial College, Professor G. Anandalingam said ‘Academi
 
 He also added, ‘I think that we should work on problems that have an impact in the world rather than simply publish marginal papers for a small group of peers, however reputed. We all have the responsibility to make a difference in the world and to do things that will help those who cannot help themselves whether in medicine, science, engineering or business. I believe that one should not compromise on ethics and social responsibility’.
 
-He took his undergraduate degree at Cambridge University and completed his PhD at Harvard. Professor Anandalingam has published more than 75 research papers and served as editor of a number of academic journals. He is also the co-author of the book ‘Beware of the Winner’s Curse’, a book which critically evaluates the technology and dot.com boom of the 1990s.  
+He took his undergraduate degree at Cambridge University and completed his PhD at Harvard. Professor Anandalingam has published more than 75 research papers and served as editor of a number of academic journals. He is also the co-author of the book ‘Beware of the Winner’s Curse’, a book which critically evaluates the technology and dot.com boom of the 1990s.
  In his spare time, he likes to play tennis and describes himself as a ‘jazz nut’. He also says he loves cooking and throwing dinner parties and that he is a big supporter of Tottenham Hotspur and follows cricket. He is also a fan of American football and baseball.
 
 Sir Keith O’Nions, President and Rector of Imperial said: “Anand’s passion to see Business students taught really well and for them to do great things in the world, his commitment to research excellence, and his vision for engaging strongly outside the School and the College made him the outstanding choice to lead Imperial College Business School.

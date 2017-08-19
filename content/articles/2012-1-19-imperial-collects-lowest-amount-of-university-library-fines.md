@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201201192259-felix-dsc_6608.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: ""
@@ -39,8 +39,8 @@ Imperial College London are bottom of a league table. Luckily, this is a list of
 
 On hearing the news, [Jason Parmar, Deputy President (Education)](http://www.union.ic.ac.uk/blogs/category/sabbs/dpe/) stated that Imperial “prides itself on its world class library facilities and learning resources”.
 
-The highest London based university was [King's College London](http://www.kcl.ac.uk/index.aspx) in fourth place, who, no doubt, found it confusing to be so high up on a table. In at number one was Leeds, managing to collect £1,869,340 in fines over the course of six academic years. As this is Leeds, the term academic is used lightly. The previous statement could be seen to be unfair; the amount raised could suggest that Leeds’ students love their subjects so much that they can’t bear to give their books back, or that they’re just lazy and forget.  
-  
+The highest London based university was [King's College London](http://www.kcl.ac.uk/index.aspx) in fourth place, who, no doubt, found it confusing to be so high up on a table. In at number one was Leeds, managing to collect £1,869,340 in fines over the course of six academic years. As this is Leeds, the term academic is used lightly. The previous statement could be seen to be unfair; the amount raised could suggest that Leeds’ students love their subjects so much that they can’t bear to give their books back, or that they’re just lazy and forget.
+
  After looking at the table Parmar went on to say: “It’s one of the contributing factors to why we are so much better than UCL and are higher than them in the rankings – lol, PAR”. He refused to comment on the social acceptability of using the word “lol” in conversation.
 
 [Deborah Shorley, Director of Library Services](http://www3.imperial.ac.uk/people/d.shorley), called Imperial’s position at the bottom of the table as a “great victory” and that “it is a very good reflection on the Imperial student”. She stressed that Imperial only imposes fines to make sure the books circulate and that it was not a way of generating money.

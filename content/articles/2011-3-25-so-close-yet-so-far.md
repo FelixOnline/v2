@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201103251503-jn104-Lacrosse.jpg"
 image_caption: >
-  
+
 image_width: "850"
 image_height: "567"
 image_attribution: ""

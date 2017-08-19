@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201306202347-tna08-oilrush_60.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -53,5 +53,5 @@ However, the fact remains that the most effective strategy is simply to leave be
 
 There are two factions presented at the beginning of the campaign (effectively rebels and empire), but by the looks of things, these factions are entirely identical in terms of units and abilities – they exist in the game world purely to allow plot hooks. This is somewhat disappointing, as most real time strategy games give at least three factions all of which play differently, look different and have a variety of sub-strategies, such as Starcraft or the Command and Conquer series. This may have been done simply because Oil Rush is quite different strategically from most other games in this genre, however.
 
-The music and graphics are both high quality and very appropriate for the game. In particular, the plane and ship models are really very detailed. The main campaign is very effective at taking you through the main unit types and strategies, though it does feel a bit like a very long tutorial. Things never really pick up. In addition to this there is simply a fixed set of missions as opposed to, like in Dawn of War: Soulstorm (I was trying to forget about that expansion. Curse you! – Games Ed.), a series of missions where the outcome of the last effects the next. Or Rome: Total War where there is a large scale campaign map as a turn based strategy game followed by individual real time battles. The addition of this kind of campaign would add a great deal to the replayability of this game.  
+The music and graphics are both high quality and very appropriate for the game. In particular, the plane and ship models are really very detailed. The main campaign is very effective at taking you through the main unit types and strategies, though it does feel a bit like a very long tutorial. Things never really pick up. In addition to this there is simply a fixed set of missions as opposed to, like in Dawn of War: Soulstorm (I was trying to forget about that expansion. Curse you! – Games Ed.), a series of missions where the outcome of the last effects the next. Or Rome: Total War where there is a large scale campaign map as a turn based strategy game followed by individual real time battles. The addition of this kind of campaign would add a great deal to the replayability of this game.
  Overall, I quite enjoyed this game but I don’t think it would have been the cost if I’d have bought it at full price. Oil Rush is available from Steam or Desura now for £12.99, but I’d advise you to wait for the next Steam sale if you want to get it.

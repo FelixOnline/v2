@@ -2,7 +2,7 @@
 title: >
   Sport Imperial and College apologise to Women’s Rugby team
 subtitle: >
-  Investigation reveals “clear failings” during Varsity, Philippa Skett reports 
+  Investigation reveals “clear failings” during Varsity, Philippa Skett reports
 date: "2015-05-08 00:29:59 +0100"
 id: "5503"
 old_path: /news/5503/sport-imperial-and-college-apologise-to-womens-rugby-team
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201505080129-ps3110-screen-shot-2015-05-08-at-01.29.26.png"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: "Ben Lester/ throughbenslens.co.uk"

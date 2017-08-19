@@ -37,10 +37,10 @@ imported: true
 
 One of the four main unions representing London Underground drivers, RMT, voted in favour of a renegotiated contract on Monday, paving the way toward the Night Tube service that was due to be implemented in September last year.
 
-84% of the union’s 10,000 members voted in favour of a contract which would give drivers a yearly pay rise linked to inflation, the option \(but not the obligation\) to work on the night service, and a £500 bonus should the scheme go ahead.
+84% of the union’s 10,000 members voted in favour of a contract which would give drivers a yearly pay rise linked to inflation, the option (but not the obligation) to work on the night service, and a £500 bonus should the scheme go ahead.
 
 ASLEF, the largest drivers’ union, are currently also voting on the contract proposals and are expected to follow suit when their ballot results are announced this coming Monday. TfL are also confident that the service will be implemented, having already hired around 200 new trainees who are expected to be fully trained by the time the scheme is rolled out, likely to be this summer.
 
 This is not the end of the story however, with RMT representatives announcing on Thursday plans for yet more strike action over the Night Tube. The union claims that the deal has not been extended to all maintenance workers and cited issues surrounding staffing arrangements and pensions. The proposed Night Tube would mean the entirety of the Jubilee, Northern, Piccadilly and Victoria lines and almost all of the Central line would be operational throughout the nights on Fridays and Saturdays.
 
-Good news for the residents of Woodward Hall in North Acton, as it could cut their post\-Union commute to around 45 minutes, from the almost 90 minutes on two buses from South Kensington they currently endure. 45 more minutes in Metric, everyone’s a winner.
+Good news for the residents of Woodward Hall in North Acton, as it could cut their post-Union commute to around 45 minutes, from the almost 90 minutes on two buses from South Kensington they currently endure. 45 more minutes in Metric, everyone’s a winner.

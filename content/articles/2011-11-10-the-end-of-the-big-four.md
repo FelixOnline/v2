@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- -     Written English    banding  accent      Effective oral communication Who is your fatoirve singer Tell the class how one can develop a reading habit Describe your best friend to us          C 
+ -     Written English    banding  accent      Effective oral communication Who is your fatoirve singer Tell the class how one can develop a reading habit Describe your best friend to us          C
 imported: true
 ---
 
@@ -55,5 +55,5 @@ The OFT concern about the Big Four having established an oligopoly is therefore 
 
 As for the EU concerns, they do seem justified, especially if past events are taken into account. Indeed, if the same company who audits your accounts could provide you with consultancy services, then a conflict of interest could appear as the latter grew in size. In the times of the Big Five, Andersen Consulting faced such a conflict of interests with Enron, and when the latter went bankrupt, the former sank into scandal as it arose it had helped with the creative accounting of the former.
 
-Both actions are just preliminary investigations, and no culprits have been found yet. But, as said, if someone was to benefit from them being found, it would be the rest of the world, and no matter how successful the Big Four are, we cannot risk them colluding against us or facing and failing to solve the same conflict of interests that lead to the Enron scandal.  
+Both actions are just preliminary investigations, and no culprits have been found yet. But, as said, if someone was to benefit from them being found, it would be the rest of the world, and no matter how successful the Big Four are, we cannot risk them colluding against us or facing and failing to solve the same conflict of interests that lead to the Enron scandal.
 _Beñat Gurrutxaga-Lerma_

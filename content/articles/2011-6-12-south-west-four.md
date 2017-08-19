@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201106121649-felix-sw4.jpg"
 image_caption: >
-  
+
 image_width: "3504"
 image_height: "2336"
 image_attribution: ""
@@ -44,7 +44,7 @@ The techno and house vibe carries on from the Saturday going darker into the gro
 
 If you love clubbing get ready for the most slamming weekend party in London. [Tickets are on sale now](http://www.southwestfour.com/Tickets.aspx): day tickets are £45 and weekend tickets are £85 but go up by £10 nearer the date so buy in advance if you don’t want to be disappointed.
 
-_Dates: 27 - 28 August 2011  
- Location: Clapham Common, SW4  
- Price: £85  
+_Dates: 27 - 28 August 2011
+ Location: Clapham Common, SW4
+ Price: £85
  Website: [www.southwestfour.com](http://www.southwestfour.com)_

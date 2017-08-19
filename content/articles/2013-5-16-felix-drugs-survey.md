@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305162118-tna08-drugs-survey-website.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -31,32 +31,32 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - Hey AnonCheers for pointing out the graphs mate Sorry for that Fixing it nowThis article was giving me grief uploading so thats why that crept in At one point I had to actually start uploading it from scratch which was a painRight everyone Im having an issue with one of the graphs it just doesnt want to be a large image which is weird and annoying Trying to fix itThe graphs in this article are pretty poor Occasionally should be green in the legend and the Druggy Departments graph is the wrong oneactually many drugs are less harmful than alcohol DMT LSD MDMA Psilocybin and cannabis are all in this list and they are all less harmful than alcohol 
+ - Hey AnonCheers for pointing out the graphs mate Sorry for that Fixing it nowThis article was giving me grief uploading so thats why that crept in At one point I had to actually start uploading it from scratch which was a painRight everyone Im having an issue with one of the graphs it just doesnt want to be a large image which is weird and annoying Trying to fix itThe graphs in this article are pretty poor Occasionally should be green in the legend and the Druggy Departments graph is the wrong oneactually many drugs are less harmful than alcohol DMT LSD MDMA Psilocybin and cannabis are all in this list and they are all less harmful than alcohol
 imported: true
 ---
 
 The full version is available [online](https://union.ic.ac.uk/media/felix/img/Drug_Results.jpg).
 
 Out of the 762 responses that we received, 54% said that they had tried illegal drugs. Splitting this into male and female showed that 57% of men said that they had taken drugs, whereas 49% of women said that they had.
-TODO: image from 
+TODO: image from
 ## What drugs are people taking?
-TODO: image from 
+TODO: image from
 Perhaps fairly unsurprisingly the drug that most people had tried was cannabis, by a pretty significant amount. The least tried was heroin (Imperial isn’t THAT depressing it seems). In terms of regular and occasional use, cannabis was once again head and shoulders above the rest. MDMA/Ecstasy was second, with laughing gas in third. The rest were all in single figures for occasional use. Interestingly, laughing gas was the drug with the highest percent of “tried once” use. This could be because it is widely available on holiday in Malia, Kavos, and all other destinations likely to feature on Sun, Sex and Suspicious Parents. The only drug that threw up an even remotely statistically significant number for habitual (daily) use was cannabis.
 
 There was a bit of a discrepancy between the drugs that men and women favoured, but it was fairly minor. A higher proportion of men said thatthey regularly smoke weed.
 
 For an academically demanding university, there didn’t seem to be widespread use of study drugs such as ritalin and aderall.
 ## Before or during university?
-TODO: image from 
+TODO: image from
 It may be that Imperial is not as bad an influence on incoming students as people may think. With 76% of students who have tried drugs having done so before university, it may be that a certain element of the drug culture is derived from students’ past experiences outside of College.
 > “Drugs are bad mmmkay”
 That said, are these people having an influence on students who may not have tried anything before? It was found that 95% of students who now sell drugs did indulge in the highs before UCAS was sent off, showing that longevity is the key to dealing success.
 > “Not all illegal drugs, but the less harmful ones such as cannabis should be legalised.”
 Some naïve Freshers may be remaining naïve throughout their years, but some students are, as expected, experimenting as the years go on. Based on year of intake, more and more people have taken drugs the longer they have been at university. A difference of only around 14% however between this year’s spread of students does hint that there still isn’t much of a drug influence within the student body.
 ## Druggy Departments
-TODO: image from 
+TODO: image from
 ## Drug taking community?
-TODO: image from 
+TODO: image from
 So is there a drug community at Imperial? This seems to be dependant on who you ask. When asking those who have ever taken drugs, 44% consider there to be some sort of drug scene, whereas those who have not fallen susceptible to chemical highs at any point either generally don’t know if there is a scene (41%) or don’t think there is (26%). When it comes to drugs therefore, it seems to be the case it is who you know, not necessarily what you know.
 ## Harming your degree?
 So, the question on the lips on the academically inclined Imperial students may be: does drug taking effect your degree? For those who take drugs, all in all, 86% people stated that their drug use has not influenced their degree at all. This does differ between Departments however: 17% of those in Bioengineering seem to think that drugs have somewhat disrupted their studies, whereas in other departments this percentage seems to be significantly less.

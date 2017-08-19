@@ -1,6 +1,6 @@
 ---
 title: >
-  The Euro is on life support: will Germany turn it off? 
+  The Euro is on life support: will Germany turn it off?
 subtitle: >
   2010 was a turning point for the euro
 date: "2011-01-13 20:04:13 +0000"
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201101132003-ks607-euroeuro.jpg"
 image_caption: >
-  
+
 image_width: "1891"
 image_height: "1418"
 image_attribution: ""

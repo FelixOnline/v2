@@ -36,7 +36,7 @@ imported: true
 
 On the [21st June](http://bit.ly/12ZEVdV) I stated that students in third level education in the UK 'feel undervalued, merely ushered through the system'. From National Student Survey results released on August 13th it would appear that recent graduates from Imperial College have broken free from this stigma.
 
-1,634 students (approximately 80% of graduates) took part with 87% of participants qualitatively agreeing that overall student experience at Imperial College was satisfactory. Credit must be given to Imperial College Union, whose efforts galvanized a 10% rise in participation from the previous academic year. The response of Union President David Goldsmith proved optimistic,  
+1,634 students (approximately 80% of graduates) took part with 87% of participants qualitatively agreeing that overall student experience at Imperial College was satisfactory. Credit must be given to Imperial College Union, whose efforts galvanized a 10% rise in participation from the previous academic year. The response of Union President David Goldsmith proved optimistic,
  'The Union is working closely with College leaders to build on this year’s progress...My Union colleagues and I are looking forward to working with Imperial to meet our shared ambition of making Imperial a world-beating learning environment.’ Similar praise was also voiced by Professor Debra Humphris, Vice Provost of Education at Imperial College.
 
 On a departmental basis 9 of 14 faculties yielded an increase in satisfaction with Chemical Engineering and Earth Science and Engineering the outstanding candidates; both ranked first in their respective sectors for student satisfaction (ESE produced 100% satisfaction).

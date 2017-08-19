@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/"
 image_caption: >
-  
+
 image_width: ""
 image_height: ""
 image_attribution: ""
@@ -48,5 +48,5 @@ You will have lots of opportunity to gain these key transferable skills while at
 
 So, where might you start to look for evidence of your transferable skills? The table is just a starting point but by thinking these areas through you will start to identify more as you really think about what you have to offer.
 
-If you are unsure how to interpret your skills in the best possible way don’t forget you can get help from the Careers Service by booking to see one of our Careers Consultants.  
+If you are unsure how to interpret your skills in the best possible way don’t forget you can get help from the Careers Service by booking to see one of our Careers Consultants.
  www.imperial.ac.uk/careers

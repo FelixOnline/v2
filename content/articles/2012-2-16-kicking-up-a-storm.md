@@ -1,8 +1,8 @@
 ---
 title: >
-  Kicking up a storm 
+  Kicking up a storm
 subtitle: >
-  IC Taekwondo in medal haul at the WTF London International open 
+  IC Taekwondo in medal haul at the WTF London International open
 date: "2012-02-16 23:26:48 +0000"
 id: "2220"
 old_path: /sport/2220/kicking-up-a-storm-
@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201202162326-sjw209-dsc_0020.jpg"
 image_caption: >
-  
+
 image_width: "4288"
 image_height: "2848"
 image_attribution: "IC Taekwondo"
@@ -31,7 +31,7 @@ author_website_url: ""
 author_website_title: ""
 
 comments:
- - When someone is proud of being a semiilliterate moron and cant stand it bsacuee someone else is not Even worse is when they are too cowardly to use their own nameare you going to be back on FuckedHard18 your past three scenes were quite enoyajble do you have a formspring or tumblr too are you in a relationship or single just asking thanks  machine than   most common   autom insurance rates   buy viagra on line 
+ - When someone is proud of being a semiilliterate moron and cant stand it bsacuee someone else is not Even worse is when they are too cowardly to use their own nameare you going to be back on FuckedHard18 your past three scenes were quite enoyajble do you have a formspring or tumblr too are you in a relationship or single just asking thanks  machine than   most common   autom insurance rates   buy viagra on line
 imported: true
 ---
 

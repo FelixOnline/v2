@@ -15,7 +15,7 @@ featured: true
 
 image_path: "http://felixonline.co.uk/img/upload/201305091309-tna08-jezebel.jpg"
 image_caption: >
-  
+
 image_width: "0"
 image_height: "0"
 image_attribution: ""
@@ -35,7 +35,7 @@ comments:
 imported: true
 ---
 
-Much celebration was had by members of [RCS Motor Club](https://union.ic.ac.uk/rcc/rcsmotor/) as Jezebel, the vintage fire engine they maintain, was awarded ‘Second in Class’ at the 52nd HCVS London to Brighton Run, held last Sunday.  
+Much celebration was had by members of [RCS Motor Club](https://union.ic.ac.uk/rcc/rcsmotor/) as Jezebel, the vintage fire engine they maintain, was awarded ‘Second in Class’ at the 52nd HCVS London to Brighton Run, held last Sunday.
  The HCVS London to Brighton Run is an annual competition where commercial vehicles aged 20 years or older travel from Crystal Palace to the Brighton seafront, where they are judged for the quality of their restoration. This is not to be confused with the world famous Veterean Car Club run that takes place every November, organised by the Royal Automobile Club.
 
 This is not the first time [Jezebel](http://www.youtube.com/watch?v=yfYVdn1vDAw) has won an award at this competition, having come best in class in 2009. However this award has additional significance being the first time in nearly four years that the aged mascot has made it to the coastal city and back under its own power. Last year it didn’t enter due to being off the road following a major mechanical failure the previous November.
