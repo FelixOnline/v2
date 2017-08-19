@@ -1,3 +1,5 @@
+{{ $imageProxy := .Site.Params.imageProxy }}
+
 {{ partial "header.html" . }}
 
 <p>
@@ -10,7 +12,7 @@
   {{ $headlinePosts := (where .Pages ".Params.headline" true) }}
 
   {{ $firstHeadline := index $headlinePosts 0 }}
-  <div class="main-image" style="background-image: url({{ $firstHeadline.Params.image_path }})"></div>
+  <div class="main-image" style="background-image: url({{ $imageProxy }}{{ replace $firstHeadline.Params.image_path "http://" "" }}&w=400)"></div>
 
   <div class="headline-summaries">
     {{ range first 3 $headlinePosts }}
@@ -45,7 +47,7 @@
         {{ range first 4 (where $pages.Pages ".Params.featured" true) }}
           <a href="{{ .RelPermalink }}">
             <div class="post-block">
-              <div class="image" style="background-image: url({{ .Params.image_path }})"></div>
+              <div class="image" style="background-image: url({{ $imageProxy }}{{ replace .Params.image_path "http://" "" }}&w=200)"></div>
               <div class="info">
                 <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
 
@@ -73,7 +75,7 @@
       <h2>{{ $name }}</h2>
 
       {{ $post := index $pages 0 }}
-      <div class="image" style="background-image: url({{ $post.Params.image_path }})"></div>
+      <div class="image" style="background-image: url({{ $imageProxy }}{{ replace $post.Params.image_path "http://" "" }}&w=200)"></div>
       <div class="info">
         <a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a>
 
