@@ -1,7 +1,7 @@
 ---
 id: "felix"
-title: 
-image_path: "http://felixonline.co.uk/"
+title: Felix Editor
+image_path: ""
 twitter: ""
 facebook: ""
 website_url: ""

@@ -148,6 +148,7 @@ client.query(ALL_ARTICLES_QUERY).each_with_index do |r, i|
   # TODO: some articles are missing in the exported folder, investigate
   File.write("content/articles/#{filename}.md", contents)
 
+  next if r["author_id"] == "felix"
   if r["author_id"]
     md = %w(---)
     md << "id: \"#{r["author_id"]}\""
